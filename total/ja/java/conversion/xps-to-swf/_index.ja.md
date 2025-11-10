@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**SWF（Shockwave Flash）**に変換すると、過去のWebアプリケーションやeラーニングプラットフォーム向けのインタラクティブまたはアニメーションプレゼンテーションが可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* Flashアニメーションを必要とする過去のeラーニングモジュール。
+
+* ドキュメントベースのインタラクティブなチュートリアル。
+
+* 過去のWebプラットフォーム向けのアニメーションマーケティングコンテンツ。
+
+* 教育コース向けのマルチメディアリッチなプレゼンテーション。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* アーカイブベースのeラーニングシステム向けのバッチXPSからSWFへの変換。
+
+* インタラクティブなフラッシュコンテンツの自動生成。
+
+* 定期的なトレーニングモジュールのスケジュール更新。
+
+* 過去のWebポータルとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

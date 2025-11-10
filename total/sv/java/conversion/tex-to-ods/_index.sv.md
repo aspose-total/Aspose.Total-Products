@@ -47,7 +47,51 @@ När du konverterar TEX-fil till ODS, kan du också lägga till vattenstämpel t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera TEX till **ODS (OpenDocument Spreadsheet)** gör det möjligt för användare att dra nytta av LaTeX-innehåll i redigerbara kalkylblad för analys och samarbetsprojekt.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* Akademisk forskning med komplexa numeriska tabeller.
+
+* Öppen källkod för finansiella eller projektspårningsark.
+
+* Ingenjörsberäkningar som kräver kompatibilitet med flera plattformar.
+
+* Dela LaTeX-tabeller i ODS för samarbetsutbildningsprojekt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batch TEX-till-ODS-konverteringar för universitetslaboratorier.
+
+* Integration i öppna dataflöden.
+
+* Automatisk rapportering av LaTeX-genererade numeriska data.
+
+* Utlöst ODS-generering för fleranvändarmiljöer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

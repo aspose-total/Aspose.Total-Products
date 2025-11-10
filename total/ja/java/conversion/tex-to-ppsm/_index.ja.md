@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**PPSM（PowerPoint Macro-Enabled Show）**に変換すると、LaTeXコンテンツに自動計算用のマクロ、インタラクティブな図表、ダイナミックなプレゼンテーションを含めることができます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* マクロ駆動型のアカデミック講義と動的な表。
+
+* 自動更新されるチャートを使用した研究プレゼンテーション。
+
+* インタラクティブな要素を含む企業向けトレーニングデッキ。
+
+* LaTeX数式を使用した複数著者の会議スライド。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* インタラクティブなプレゼンテーション用のバッチTEXからPPSMへの変換。
+
+* マクロを有効にしたスライドデッキへのLaTeXコンテンツの自動統合。
+
+* ダイナミックなワークショップ資料の定期的な更新。
+
+* 研究または企業プレゼンテーションパイプラインのトリガー作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

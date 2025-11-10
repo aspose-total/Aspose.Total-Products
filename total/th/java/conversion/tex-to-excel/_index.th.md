@@ -47,7 +47,51 @@ otherformats: DIF ODS XLTX XLTM XLSB TSV XLT TXT FODS MD EXCEL XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **EXCEL (XLS/XLSX)** ช่วยให้เอกสาร LaTeX ที่มีตารางและสูตรได้รับการผสมผสานอย่างเต็มที่ใน Microsoft Excel สำหรับการวิเคราะห์ การแสดงผล และรายงานอย่างมืออาชีพ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* รายงานการเงินที่มีสูตรที่สร้างจาก LaTeX.
+
+* การคำนวณวิศวกรรมสำหรับการวิเคราะห์สเปรดชีทที่ซับซ้อน.
+
+* แผ่นคะแนนการตรวจคะแนนทางวิชาการและชุดข้อมูลวิจัย.
+
+* แดชบอร์ดแบบอินเทอร์แอคที่รวมตาราง LaTeX และแผนภูมิ Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง LaTeX เป็น Excel แบบกลุ่มสำหรับการรายงานของสถาบัน.
+
+* การผสมผสานกับเครื่องมือธุรกิจอัจฉริยะที่ใช้ Excel อัตโนมัติ.
+
+* การอัพเดทที่เรียกใช้สำหรับสเปรดชีทความก้าวหน้าของโครงการ.
+
+* การแปลงเป็นเรียลไทม์สำหรับการทำงานร่วมกับ Excel บนคลาวด์.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

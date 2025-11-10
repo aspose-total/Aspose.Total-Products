@@ -143,7 +143,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp TEX sang **PCL (Ngôn ngữ Lệnh Máy In)** cho phép tài liệu LaTeX, bao gồm các phương trình, bảng và sơ đồ, được gửi trực tiếp đến máy in để có đầu ra chất lượng cao trong môi trường chuyên nghiệp hoặc học thuật.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* In các bài báo nghiên cứu LaTeX và báo cáo kỹ thuật.
+
+* Đầu ra chất lượng cao của ghi chú bài giảng và tài liệu giáo dục.
+
+* Tạo ra tài liệu phát hành chuyên nghiệp từ các bảng và sơ đồ được tạo bằng LaTeX.
+
+* In tài liệu hàng loạt từ các dự án khoa học hoặc kỹ thuật.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ TEX sang PCL cho hàng đợi in.
+
+* Tích hợp vào quy trình làm việc in tài liệu tự động.
+
+* Tạo ra PCL từ các kho LaTeX để in hàng loạt.
+
+* Đầu ra theo lịch trình cho phân phối tài liệu học thuật hoặc doanh nghiệp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,55 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp TEX thành **ODP (OpenDocument Presentation)** cho phép nội dung LaTeX, công thức và bảng biến thành các slide trình bày mã nguồn mở tương thích với LibreOffice và OpenOffice. Lý tưởng cho giảng viên và kỹ sư chia sẻ nghiên cứu dựa trên LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Bài giảng học thuật với các phương trình được tạo bằng LaTeX.
+
+* Trình bày dự án mã nguồn mở với dữ liệu có cấu trúc.
+
+* Slide hội nghị cho các chủ đề toán học, vật lý hoặc kỹ thuật.
+
+* Tài liệu giảng dạy với các sơ đồ tương tác dựa trên LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ TEX sang ODP cho tài liệu học tập hoặc đào tạo.
+
+* Tạo slide theo lịch từ các kho lưu trữ nghiên cứu LaTeX.
+
+* Tích hợp vào các luồng công việc trình bày mã nguồn mở.
+
+* Cập nhật kích hoạt cho các bộ slide học thuật của nhiều tác giả.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

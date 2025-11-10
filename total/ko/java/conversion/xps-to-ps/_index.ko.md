@@ -129,7 +129,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **PS (PostScript)**로 변환하면 전문 출판 및 프리프레스 환경에서 널리 사용되는 다목적, 장치 독립적인 인쇄 형식을 제공합니다. PS는 고품질 출력을 위해 벡터 그래픽, 텍스트 포맷팅 및 페이지 레이아웃을 보존합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* PostScript 호환성이 필요한 프리프레스 및 출판 워크플로우.
+
+* 정확한 레이아웃을 갖춘 전문 브로셔 및 잡지 인쇄.
+
+* 벡터 형식으로 보존된 기술 도면 및 다이어그램.
+
+* 고정밀도가 중요한 기업 및 법적 문서 인쇄.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 인쇄 워크플로우를 위한 XPS 파일을 PostScript로 자동 일괄 변환.
+
+* 전문 인쇄소 또는 프리프레스 시스템과 통합.
+
+* 반복되는 문서 인쇄 작업을 위한 PS 생성 일정화.
+
+* 대량 출력을 위한 엔터프라이즈 인쇄 파이프라인 간소화.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

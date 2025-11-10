@@ -121,7 +121,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XPS ke **POT (PowerPoint Template)** memungkinkan pembuatan template Microsoft PowerPoint yang dapat digunakan kembali dari dokumen XPS statis, ideal untuk presentasi perusahaan dan akademis yang terstandar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Template PowerPoint bermerk perusahaan untuk proposal klien.
+
+* Template materi kursus akademis untuk penyampaian kuliah yang berulang.
+
+* Deck presentasi pemasaran dengan tata letak yang telah ditentukan sebelumnya.
+
+* Template konferensi dan seminar untuk penggunaan berulang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch file XPS ke template POT untuk tim.
+
+* Integrasi dengan alur kerja generasi presentasi otomatis.
+
+* Pembaruan terjadwal untuk konten berbasis template yang berulang.
+
+* Pembuatan slide deck yang efisien untuk tugas pelaporan yang berulang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

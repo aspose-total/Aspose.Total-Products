@@ -102,7 +102,51 @@ otherformats: TSV CSV XLTX MHTML SXC FODS ODS XLAM XLSM EXCEL MARKDOWN XLT XLSB 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POTM ל־DIF (תבנית התעבורה של נתונים) מקלה על העברת נתוני המצגת הטבלאית לתוכניות גליון נתונים ישנות או ליישומים צולבי פלטפורמה. DIF מבטיח תאימות חלקה לנתונים מסודרים בצורת טקסט ומספרים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* המרת שקפים כלכליים תאגידיים ל־DIF עבור תוכנת החשבונאות הישנה.
+
+* ייצוא סטים מדעיים ממצגות לתאימות עם כלים סטטיסטיים ישנים.
+
+* שינוי פורמט שולחנות ניהול פרוייקטים לשימוש בגליונות נתונים צולבי פלטפורמה.
+
+* שמירה על שולחנות המצגת המסודרים לדיווח רב־יישומי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* אוטומציה של תהליכי עבודה הממירים תבניות POTM ל־DIF עבור מערכות מורשות בארגון.
+
+* חילוץ רצפי שולחנות מבוססי שקפים לצורך ארכיבה או דיווח.
+
+* שילוב בצינורות עיבוד נתונים אוטומטיים.
+
+* יצירת DIF המופעלת ממאגרי המצגות המרכזיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **PPSM (Makro Etkinleştirilmiş PowerPoint Gösterisi)**'e dönüştürmek, otomasyon, dinamik panolar veya sunum tabanlı iş akışları için mükemmel olan makrolarla etkileşimli slayt gösterilerini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Gömülü hesaplamalarla etkileşimli müşteri sunum dosyaları.
+
+* Otomatik gezinme veya sınav makrolarıyla eğitim modülleri.
+
+* Sunum modunda otomatik olarak güncellenen finansal panolar.
+
+* Kurumsal toplantılar için otomatik rapor slaytları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Kurumsal otomasyon için toplu XPS'ten PPSM'ye dönüştürme.
+
+* Dinamik slayt içeriği için canlı veri beslemeleriyle entegrasyon.
+
+* Tekrar eden sunumlar için makro etkin slayt gösterilerinin zamanlanmış oluşturulması.
+
+* Sunum tabanlı raporlama için akıcı iç iş akışı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

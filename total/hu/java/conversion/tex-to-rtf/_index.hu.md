@@ -144,7 +144,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **RTF (Rich Text Format)** formátummá alakítása egyetemes kompatibilitást biztosít, lehetővé téve, hogy a LaTeX dokumentumok szinte bármely szövegszerkesztőben megnyithatók legyenek, miközben megőrzik az alapvető formázást és matematikai egyenleteket.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Tudományos cikkek megosztása különböző platformok között formázás elvesztése nélkül.
+
+* Műszaki kézikönyvek bonyolult egyenletekkel elérhetők Wordben vagy LibreOffice-ban.
+
+* Keresztplatformos üzleti dokumentáció LaTeX stílusban.
+
+* E-mailben elküldhető LaTeX dokumentumok egyetemesen olvasható formátumban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Tömeges konverzió archívumokhoz és keresztplatformos kompatibilitáshoz.
+
+* Integráció dokumentumfeldolgozási csövekbe műszaki csapatok számára.
+
+* RTF jelentések automatikus generálása LaTeX adathalmazokból.
+
+* Kiváltott konverziók automatizált kiadási rendszerekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

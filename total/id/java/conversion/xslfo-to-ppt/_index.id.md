@@ -135,7 +135,55 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **PPT (format PowerPoint Legacy)** memastikan kompatibilitas dengan versi Microsoft Office yang lebih lama sambil mempertahankan konten tabular dan tata letak slide. PPT cocok untuk organisasi yang masih menggunakan alat lama.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Menyiapkan slide yang dihasilkan dari XSLFO untuk sistem perusahaan lama.
+
+* Berbagi konten pendidikan atau pelatihan dalam format PPT.
+
+* Mengarsipkan slide mandiri untuk tujuan audit.
+
+* Mengonversi laporan XSLFO menjadi file PowerPoint Legacy yang mudah didistribusikan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi otomatis batch dari XSLFO ke slide PPT.
+
+* Ekspor terjadwal untuk laporan manajemen atau pelatihan yang berulang.
+
+* Integrasi dengan alur kerja berbasis Office lama.
+
+* Penciptaan PPT yang dipicu dari templat XSLFO untuk tujuan arsip.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

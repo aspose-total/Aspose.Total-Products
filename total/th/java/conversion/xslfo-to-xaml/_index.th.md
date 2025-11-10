@@ -135,7 +135,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ XSLFO (Extensible Stylesheet Language Formatting Objects) เป็น **XAML (Extensible Application Markup Language)** ช่วยให้นักพัฒนาและนักออกแบบสามารถแปลงรายงานโครงสร้างเป็นส่วนประกอบ UI ที่รวบรวม และมีความสามารถในการโต้ตอบและปรับขนาดสำหรับแอปพลิเคชันบนเดสก์ท็อปและเว็บไซต์ การใช้ XAML ช่วยให้สามารถรักษาสไตล์ โครงร่าง และโครงสร้างลำดับจาก XSLFO พร้อมทั้งสามารถผสานการใช้งานได้อย่างไม่มีข้อบกพร่องกับ WPF, UWP และเฟรมเวิร์กที่ใช้ XAML อื่น ๆ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* การแปลงแดชบอร์ดที่สร้างจาก XSLFO เป็นแอปพลิเคชัน WPF พร้อมด้วยตารางและแผนภูมิที่สามารถโต้ตอบ
+
+* ฝังรายงานทางการเงินหรือการดำเนินงานโครงสร้างลงในอินเตอร์เฟซบนเดสก์ท็อป
+
+* ออกแบบส่วนประกอบ UI สำหรับแอปพลิเคชันองค์กรที่มีพื้นฐานจากเนื้อหา XSLFO
+
+* การแปลงรายงานการวิเคราะห์โครงสร้างเป็นภาพ XAML ที่สามารถโต้ตอบสำหรับแอปพลิเคชันการนำเสนอ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* การแปลงชุดข้อมูล XSLFO ที่เกิดซ้ำซ้อนเป็นส่วนประกอบ UI ของ XAML โดยอัตโนมัติ
+
+* การรวมเข้ากับท่อ ETL สำหรับการสร้างแดชบอร์ด XAML แบบเรียลไทม์
+
+* การอัพเดทตาราง XAML ตามกำหนดเวลาจากแหล่งข้อมูล XSLFO แบบไดนามิก
+
+* การสร้างเลยรูปแบบ XAML ตามที่เรียกใช้สำหรับรายงาน การแสดงผล หรือเฟรมเวิร์กแอปพลิเคชัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

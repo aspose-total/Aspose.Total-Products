@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 JPEG2000 이미지를 회전할 수�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+텍스트를 **JPEG2000**으로 변환하면 아카이브, 전문 출판 및 웹 애플리케이션에 적합한 고품질 압축된 LaTeX 시각 자료를 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 연구 논문용 고해상도 LaTeX 플롯 아카이빙.
+
+* 최소한의 품질 손실로 온라인 게시를 위한 과학적 다이어그램.
+
+* 플랫폼 간 압축된 학술적 그림 공유.
+
+* 교육 자료용 고품질 LaTeX 시각 자료.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 연구 저장소용 자동 일괄 변환.
+
+* 학술 출판 파이프라인 통합.
+
+* 웹 또는 인쇄 배포용 JPEG2000 생성 트리거.
+
+* 압축 형식으로 LaTeX 그림 지속적 아카이빙.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

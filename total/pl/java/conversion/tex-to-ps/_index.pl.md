@@ -143,7 +143,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **PS (PostScript)** generuje wszechstronny plik opisu strony, który zachowuje formatowanie LaTeX, grafikę i złożoną zawartość matematyczną do profesjonalnego publikowania i tworzenia dokumentów gotowych do druku.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Zastosowania kluczowe" %}}
+
+
+
+* Przygotowywanie prac i raportów LaTeX do profesjonalnego drukowania.
+
+* Generowanie wersji PostScript dla diagramów i tabel technicznych.
+
+* Składanie artykułów do czasopism naukowych z precyzyjnym formatowaniem.
+
+* Archiwizacja dokumentów LaTeX w uniwersalnym formacie układu strony.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna konwersja zbiorcza TEX na PS dla potoków publikacyjnych.
+
+* Integracja z profesjonalnymi procesami drukowania.
+
+* Generowanie PostScript wywoływane dla dystrybucji dokumentów na dużą skalę.
+
+* Zaplanowane eksporty TEX na PS dla projektów akademickich z wieloma autorami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

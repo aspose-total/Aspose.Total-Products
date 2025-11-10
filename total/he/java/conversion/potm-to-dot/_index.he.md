@@ -99,7 +99,45 @@ otherformats: WORD TEXT DOC WORDML DOTX OTT DOCX DOTM FLATOPC DOCM ODT RTF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POTM ל- DOT מאפשרת להמיר מבני תבניות של PowerPoint לקבצי תבניות Word הניתנים לשימוש חוזר. תבניות אלו של DOT יכולות לתקן את העיצוב של מסמכים בקרב צוותים ומחלקות, ולוודא עיצוב חזותי עם התבנית המקורית של המצגת.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת ערכות המצגת של המותג לסגנונות תבניות Word.
+* יצירת תבניות תיעוד אחידות למחלקות תאגידיות.
+* השימוש מחדש בפריסות עיצוב של PowerPoint להצעות עסקיות במילים.
+* יצירת כריתי מכתב חברה ופורמטי דוחות מתבניות השקפים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* מערכות ניהול תבניות הממירות שקופיות POTM לסגנונות DOT.
+* התפשטות ערכות נושא אוטומטית למסמכי Word בין מחלקות.
+* מערכות עסקיות שמסנכרנות בין זהות המותג של PowerPoint ו-Word.
+* הפקת תבניות DOT אוטומטיות להכשרה ותיעוד משאבי אנוש.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

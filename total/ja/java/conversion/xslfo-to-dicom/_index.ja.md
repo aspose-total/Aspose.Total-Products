@@ -57,7 +57,55 @@ APIを使用すると、必要に応じて出力DICOM画像を回転させるこ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**DICOM（医学画像および通信用デジタル画像）**に変換することで、構造化レポートコンテンツを医用画像ワークフローに統合できます。DICOMは放射線学、臨床研究、病院情報システムで標準です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* XSLFOで生成された視覚化データと構造化患者レポートを埋め込む。
+
+* 臨床データレビューのための診断ダッシュボードを準備する。
+
+* 医療分析テーブルをDICOM互換の画像に変換する。
+
+* XSLFOで生成された検査結果をPACSシステムに統合する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 病院向けにXSLFOレポートをDICOM形式に定期的に変換する。
+
+* 自動化された電子健康記録（EHR）パイプラインへの統合。
+
+* XSLFO臨床レポートからDICOMビジュアルをトリガー生成する。
+
+* 医療分野での研究データ可視化のためのバッチ処理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ Menggunakan API, Anda juga dapat memutar gambar DXF keluaran sesuai kebutuhan An
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XPS ke **DXF (Drawing Exchange Format)** memungkinkan penggunaan tata letak XPS dalam aplikasi CAD, mempertahankan elemen vektor untuk proyek desain, arsitektur, dan rekayasa.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Rencana arsitektur dan blueprints diekstrak dari dokumen XPS.
+
+* Diagram dan skema rekayasa untuk perangkat lunak CAD.
+
+* Dokumentasi teknis yang membutuhkan konversi vektor yang tepat.
+
+* Alur kerja desain industri untuk penyusunan bersama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch otomatis XPS ke DXF untuk tim CAD.
+
+* Integrasi dengan jalur desain untuk pembaruan tata letak cepat.
+
+* Generasi DXF terjadwal untuk laporan rekayasa berulang.
+
+* Ekstraksi elemen vektor yang disederhanakan untuk manufaktur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

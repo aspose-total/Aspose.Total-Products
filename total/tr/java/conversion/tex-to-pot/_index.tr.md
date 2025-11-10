@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+LaTeX içeriğini yeniden kullanılabilir bir PowerPoint şablonu haline getirmek için TEX'i **POT (PowerPoint Şablonu)** şekline dönüştürmek, akademik, iş ve kurumsal sunumlar için LaTeX tarzı içeriğin kullanılabilir bir PowerPoint şablonuna dönüşmesini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Karmaşık denklemler içeren profesyonel ders slaytları.
+
+* LaTeX tabloları içeren kurumsal proje teklifi şablonları.
+
+* Üniversite dersleri için standartlaştırılmış şablonlar.
+
+* Mühendislik veya bilimsel konferans sunumları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Şablon kütüphaneleri için otomatik toplu TEX'ten POT'a dönüşümler.
+
+* Kurumsal slayt otomasyon sistemlerine entegrasyon.
+
+* LaTeX kaynaklarından zamanlanmış şablon güncellemeleri.
+
+* Çok kullanıcılı işbirliği için tetiklenen üretim.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

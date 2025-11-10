@@ -135,7 +135,55 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **PPS (PowerPoint Show)** menciptakan presentasi hanya slide untuk pemutaran langsung, ideal untuk kuliah otomatis, sesi pelatihan, dan berbagi konten LaTeX dengan cepat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Dek kuliah akademis siap pakai.
+
+* Presentasi lokakarya interaktif.
+
+* Ringkasan proyek rekayasa untuk presentasi klien.
+
+* Slide berbasis LaTeX siap konferensi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch TEX-ke-PPS yang terjadwal.
+
+* Generasi otomatis dek pelatihan dari konten LaTeX.
+
+* Integrasi dengan sistem penyebaran presentasi.
+
+* Pembuatan PPS yang dipicu untuk seminar atau platform e-learning.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 DXF 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **DXF (도면 교환 형식)**로 변환하면 CAD 애플리케이션에서 XPS 레이아웃을 사용할 수 있으며, 디자인, 건축 및 공학 프로젝트에 대한 벡터 요소를 보존합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* XPS 문서에서 추출된 건축 계획 및 청사진.
+
+* CAD 소프트웨어용 공학 다이어그램 및 도면.
+
+* 정확한 벡터 변환을 필요로 하는 기술 문서.
+
+* 협업 작업을 위한 산업 디자인 워크플로우.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* CAD 팀을 위한 XPS를 DXF로 자동 일괄 변환.
+
+* 신속한 레이아웃 업데이트를 위한 디자인 파이프라인 통합.
+
+* 반복되는 공학 보고서를 위한 예약된 DXF 생성.
+
+* 제조를 위한 벡터 요소의 간소화된 추출.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

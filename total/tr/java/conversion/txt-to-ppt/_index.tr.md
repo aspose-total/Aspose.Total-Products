@@ -54,7 +54,55 @@ API ayrıca parola korumalı TXT belgelerini PPT'ye dönüştürmenize olanak ta
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT dosyalarını **PowerPoint (.PPT)** dosyalarına dönüştürmek, ham metinden görsel sunumların hızlı bir şekilde oluşturulmasını sağlar. Bu dönüşüm, her slaytı manuel olarak tasarlamadan hızlı bir şekilde slayt paketleri oluşturmak isteyen profesyoneller için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Proje özetlerinden doğrudan oluşturulan kurumsal toplantı slaytları.
+
+* Konuşmacı notlarından oluşturulan konferans sunumları.
+
+* Politika belgelerinden oluşturulan eğitim ve uyarlama slaytları.
+
+* Metin tablolarından oluşturulan etkinlik planlama slaytları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Günlük raporlardan PPT slaytlarının otomatik oluşturulması.
+
+* Hızlı sunum üretimi için iş akış araçlarına entegrasyon.
+
+* Etkinlik veya seminer sunumlarının zamanlanmış toplu oluşturulması.
+
+* TXT içerik analizine dayalı AI destekli slayt biçimlendirmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

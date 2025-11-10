@@ -144,7 +144,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX konvertálása **WordML formátumba (Microsoft Word XML formátum)** lehetővé teszi a LaTeX tartalom teljes kompatibilitását az XML-alapú Word dokumentumokkal, automatizált munkafolyamatokat, tartalom validálást és integrációt vállalati rendszerekkel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+
+
+* XML-alapú tudományos jelentések generálása LaTeX forrásokból.
+
+* Vállalati dokumentációs munkafolyamatok strukturált WordML használatával.
+
+* Több szerző együttműködése automatizált tartalom-összeillesztéssel.
+
+* XML-vezérelt akadémiai vagy műszaki anyagok kiadása.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* WordML dokumentumok automatizált generálása LaTeX tárhelyekből.
+
+* Integráció vállalati tartalomkezelő rendszerekbe.
+
+* Kiváltott XML exportok nagy léptékű kutatási publikációkhoz.
+
+* Tömeges feldolgozás a szabályozási jelentésekhez és akadémiai beadásokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

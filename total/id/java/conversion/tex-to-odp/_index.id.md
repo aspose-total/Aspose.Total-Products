@@ -135,7 +135,55 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file TEX ke **ODP (OpenDocument Presentation)** memungkinkan konten LaTeX, rumus, dan tabel diubah menjadi slide presentasi sumber terbuka yang kompatibel dengan LibreOffice dan OpenOffice. Ideal untuk akademisi dan insinyur yang berbagi penelitian berbasis LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Kuliah akademis dengan persamaan yang dihasilkan oleh LaTeX.
+
+* Presentasi proyek sumber terbuka dengan data terstruktur.
+
+* Slide konferensi untuk topik matematika, fisika, atau teknik.
+
+* Materi pengajaran dengan diagram interaktif berbasis LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch TEX ke ODP untuk materi kursus atau pelatihan.
+
+* Generasi slide terjadwal dari repositori penelitian LaTeX.
+
+* Integrasi ke dalam jalur presentasi sumber terbuka.
+
+* Pembaruan yang dipicu untuk slide akademis multi-penulis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

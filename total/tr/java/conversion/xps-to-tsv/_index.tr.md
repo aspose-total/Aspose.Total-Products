@@ -47,7 +47,51 @@ XPS dosyasını TSV'ye dönüştürürken, çıktı TSV dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **TSV (Sekmeyle Ayrılmış Değerler)**'e dönüştürmek, özellikle programlama, analiz ve veritabanı içe/dışa aktarma senaryolarında veri paylaşımı için basit, hafif bir format sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Hesaplamalı analiz için bilimsel veri kümeleri.
+
+* R, Python veya istatistik yazılımlarına kolayca aktarılabilir.
+
+* Excel bağımlılığı olmadan ekipler arasında hızlı veri alışverişi.
+
+* Düz dosya verileri gerektiren web tabanlı raporlama araçları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Araştırma laboratuvarları için otomatik XPS'ten TSV'ye boru hatları.
+
+* Toplu işleme için analiz betikleriyle entegrasyon.
+
+* Tekrarlanan XPS raporları için zamanlanmış dönüşüm.
+
+* Veritabanına veya ETL iş akışlarına basitleştirilmiş veri alımı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

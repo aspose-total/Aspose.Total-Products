@@ -61,7 +61,47 @@ Setelah mengonversi MOBI ke FODS, [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengekspor MOBI ke FODS (Flat OpenDocument Spreadsheet) memberikan output spreadsheet berbasis XML yang ideal untuk pertukaran data ringan. Ini sempurna untuk lingkungan open-source dan sistem yang memerlukan data eBook terstruktur teks biasa.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+- Mengelola perpustakaan eBook dalam aplikasi spreadsheet open-source.
+
+- Mengedit atribut konten MOBI dalam LibreOffice Calc.
+
+- Membuat laporan ringan untuk analitika perpustakaan digital.
+
+- Berbagi metadata di antara tim menggunakan format terbuka.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+- Konversi batch MOBI ke FODS untuk portal data terbuka.
+
+- Integrasi ke dalam pipa data ETL open-source.
+
+- Parsing XML untuk verifikasi dan pembersihan metadata.
+
+- Publikasi data berbasis FODS untuk lembaga akademik.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ XPSファイルをXLAMに変換するときに、出力XLAMファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**XLAM（Excel Add-In）**に変換すると、静的なXPSドキュメントからカスタムExcel自動化ツール、マクロ、および拡張機能を作成でき、高度な企業ユーザーに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 財務または運用における繰り返し計算やワークフローの自動化。
+
+* 既存データからのマクロ有効な生産性アドインの作成。
+
+* XPSから変換されたテンプレートを使用してExcel機能を拡張。
+
+* Excelアドインを使用したエンタープライズレベルのワークフローの強化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 企業向け自動化ツールの大量XPSからXLAMへの変換。
+
+* 内部ソフトウェアとの統合によるExcelアドインのトリガー。
+
+* チーム向けのマクロ有効なソリューションの定期的な作成。
+
+* 繰り返しのレポートタスクのための効率化された自動化パイプライン。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

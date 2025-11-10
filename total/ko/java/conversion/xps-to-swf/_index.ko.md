@@ -121,7 +121,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **SWF (Shockwave Flash)**로 변환하면 레거시 웹 애플리케이션 및 e-learning 플랫폼을 위한 대화형 또는 애니메이션 프레젠테이션을 만들 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Flash 애니메이션을 필요로 하는 레거시 e-learning 모듈.
+
+* 문서 기반 튜토리얼에 상호 작용하는 내용.
+
+* 과거의 웹 플랫폼을 위한 애니메이션 마케팅 콘텐츠.
+
+* 교육 코스를 위한 멀티미디어 풍부한 프레젠테이션.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 아카이브 기반 e-learning 시스템을 위한 일괄 XPS-to-SWF 변환.
+
+* 대화형 플래시 콘텐츠의 자동 생성.
+
+* 반복되는 교육 모듈을 위한 예약 업데이트.
+
+* 레거시 웹 포털과의 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

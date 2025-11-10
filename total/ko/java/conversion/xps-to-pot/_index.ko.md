@@ -121,7 +121,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **POT (PowerPoint 템플릿)**으로 변환하면 정적 XPS 문서에서 재사용 가능한 Microsoft PowerPoint 템플릿을 만들 수 있어 표준화된 기업 및 학술 프레젠테이션에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 고객 제안을 위한 회사 브랜드 PowerPoint 템플릿.
+
+* 강의 반복 전달을 위한 학술 강의 자료 템플릿.
+
+* 미리 정의된 레이아웃을 갖춘 마케팅 프레젠테이션 덱.
+
+* 반복적 사용을 위한 회의 및 세미나 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 팀을 위한 XPS 파일을 POT 템플릿으로 일괄 변환.
+
+* 자동화된 프레젠테이션 생성 워크플로우와의 통합.
+
+* 반복되는 템플릿 기반 콘텐츠를 위한 예약된 업데이트.
+
+* 반복적인 보고 작업을 위한 간소화된 슬라이드 덱 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -143,7 +143,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX-bestanden naar **FLATOPC (Flat Open Packaging Conventions)** maakt het mogelijk om LaTeX-inhoud, inclusief formules en tabellen, op te slaan in een enkel op XML gebaseerd bestand dat volledig compatibel is met de Office Open XML-standaarden.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Archiveren van LaTeX-documenten in een gestandaardiseerd XML-formaat.
+
+* Behouden van gestructureerde inhoud en opmaak voor bedrijfstoepassingen.
+
+* Delen van complexe academische of technische rapporten als enkelvoudige bestanden.
+
+* Handhaven van door LaTeX gegenereerde tabellen en vergelijkingen voor gebruik op meerdere platforms.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchconversie van TEX naar FLATOPC voor onderzoeksopslagplaatsen.
+
+* Integratie in geautomatiseerde documentbeheersystemen.
+
+* Geactiveerde FLATOPC-generatie voor samenwerkingsworkflows.
+
+* Geplande archivering van LaTeX-inhoud in op XML gebaseerde formaten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

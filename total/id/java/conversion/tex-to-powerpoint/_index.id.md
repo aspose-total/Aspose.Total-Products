@@ -135,7 +135,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **POWERPOINT (PPT/PPTX)** menghasilkan presentasi yang sepenuhnya dapat diedit dengan persamaan LaTeX, tabel, dan diagram, ideal untuk slide profesional dan akademis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Utama" %}}
+
+
+
+* Kuliah universitas dengan konten matematika yang kompleks.
+
+* Presentasi riset teknik dan ilmiah.
+
+* Presentasi proyek perusahaan menggunakan tabel LaTeX.
+
+* Slide interaktif untuk lokakarya dan seminar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi Batch LaTeX-ke-PowerPoint untuk materi kursus.
+
+* Integrasi ke dalam pipa presentasi otomatis.
+
+* Generasi slide yang dipicu untuk laporan riset atau proyek.
+
+* Kolaborasi multi-penulis dengan alur kerja konversi LaTeX-ke-PPT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

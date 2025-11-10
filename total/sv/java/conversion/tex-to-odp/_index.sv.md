@@ -135,7 +135,51 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av TEX-filer till **ODP (OpenDocument Presentation)** möjliggör att LaTeX-innehåll, formler och tabeller omvandlas till öppen källkods-presentationsslides som är kompatibla med LibreOffice och OpenOffice. Perfekt för akademiker och ingenjörer som delar LaTeX-baserad forskning.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Akademiska föreläsningar med LaTeX-genererade ekvationer.
+
+* Presentationer av öppen källkodsprojekt med strukturerade data.
+
+* Konferensslides för matematik, fysik eller ingenjörsämnen.
+
+* Undervisningsmaterial med interaktiva LaTeX-baserade diagram.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Batchkonvertering av TEX till ODP för kursmaterial eller utbildningsmaterial.
+
+* Schemalagd slidegenerering från LaTeX-forskningsarkiv.
+
+* Integration i öppen källkods-presentationssystem.
+
+* Uppdateringar vid utlösning för flerförfattar-akademiska slideuppsättningar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

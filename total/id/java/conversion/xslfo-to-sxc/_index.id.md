@@ -47,7 +47,55 @@ Saat mengonversi file XSLFO ke SXC, Anda juga dapat menambahkan tanda air ke for
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke format **SXC (StarOffice Spreadsheet)** memungkinkan interoperabilitas yang mulus dengan alat-alat StarOffice dan OpenOffice lama. SXC mempertahankan struktur dan format untuk alur kerja arsip dan pelaporan perusahaan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengarsipkan jadwal proyek berbasis XSLFO dalam SXC untuk sistem warisan.
+
+* Menyiapkan spreadsheet SXC untuk mitra internasional menggunakan StarOffice.
+
+* Mengonversi data XSLFO tabular untuk tujuan pelatihan dan dokumentasi.
+
+* Berbagi KPI bulanan dalam SXC untuk pelaporan kepatuhan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi otomatis batch dari XSLFO ke SXC untuk proyek arsip.
+
+* Integrasi ke alur kerja kantor warisan yang mendukung format StarOffice.
+
+* Generasi laporan SXC terjadwal dari file XSLFO.
+
+* Konversi yang dipicu untuk dasbor manajemen berulang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

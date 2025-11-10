@@ -143,7 +143,51 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter arquivos TEX para **FLATOPC (Flat Open Packaging Conventions)** permite que o conteúdo LaTeX, incluindo fórmulas e tabelas, seja salvo em um único arquivo baseado em XML que é totalmente compatível com os padrões do Office Open XML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Arquivar documentos LaTeX em um formato XML padronizado.
+
+* Preservar conteúdo estruturado e formatação para aplicativos corporativos.
+
+* Compartilhar relatórios acadêmicos ou técnicos complexos como arquivos de pacote único.
+
+* Manter tabelas e equações geradas pelo LaTeX para uso multiplataforma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de TEX para FLATOPC para repositórios de pesquisa.
+
+* Integração em sistemas automatizados de gerenciamento de documentos.
+
+* Geração de FLATOPC acionada para fluxos de trabalho colaborativos.
+
+* Arquivamento agendado de conteúdo LaTeX em formatos baseados em XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

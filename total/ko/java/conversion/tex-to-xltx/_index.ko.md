@@ -47,7 +47,51 @@ TEX 파일을 XLTX로 변환하는 동안 출력 XLTX 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **XLTX(매크로 없는 Excel 템플릿)**으로 변환하면 LaTeX로 생성된 표 및 수식용 안전하고 재사용 가능한 템플릿을 제공하여 협업 및 다중 플랫폼 환경에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 매크로 없는 표준화된 학술 및 기업 템플릿.
+
+* 재사용 가능한 LaTeX 기반 프로젝트 추적 시트.
+
+* 안전한 다중 사용자 공유를 위한 금융 및 연구 템플릿.
+
+* 공학 및 과학 팀을 위한 다중 시트 보고서.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 일괄 TEX-to-XLTX 템플릿 생성.
+
+* 문서 및 템플릿 저장소로의 자동 통합.
+
+* 협업 프로젝트를 위한 예약된 LaTeX 템플릿 업데이트.
+
+* 매크로 없는 LaTeX 기반 템플릿의 다중 플랫폼 배포.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

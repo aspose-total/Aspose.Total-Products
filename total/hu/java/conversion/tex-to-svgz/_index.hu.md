@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti SVGZ-képet is. A
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **SVGZ formátummá való átalakítása (Tömörített Skálázható Vektorgrafika) megőrzi a vektor minőségét, miközben csökkenti a fájlméretet, ideális webes és tudományos publikációkhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* LaTeX egyenletek és diagramok beágyazása weboldalakba.
+
+* Skálázható, nagy felbontású grafikák publikációkhoz.
+
+* Interaktív online vizualizációk LaTeX által generált adatokkal.
+
+* Műszaki ábrák tömörített vektorformátumban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* LaTeX diagramok tömeges átalakítása SVGZ formátumba.
+
+* Integráció webes publikálási csövekkel.
+
+* Kiváltott frissítések tömörített vektorgrafikákból LaTeX forrásokból.
+
+* Tudományos ábrák archiválása és terjesztése.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

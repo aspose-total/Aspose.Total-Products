@@ -143,7 +143,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **ODT (OpenDocument Text)**로 변환하면 LaTeX 사용자가 LibreOffice, OpenOffice 및 기타 오피스 스위트와 호환되는 오픈 표준 문서를 생성하여 플랫폼 간 접근성과 협업을 보장할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 오픈 문서 형식의 학술 논문 제출.
+
+* 다중 플랫폼 호환성을 갖춘 협업적인 연구 보고서.
+
+* 오픈 소스 프로젝트 문서 및 매뉴얼.
+
+* 오픈 소스 도구용 LaTeX 형식의 eBook 또는 교육 자료.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 대학 저장소를 위한 일괄 TEX에서 ODT로 변환.
+
+* 오픈 소스 게시 파이프라인 통합.
+
+* 다중 플랫폼 문서 배포를 위한 자동 변환.
+
+* LaTeX 데이터셋에서 동적 ODT 보고서 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

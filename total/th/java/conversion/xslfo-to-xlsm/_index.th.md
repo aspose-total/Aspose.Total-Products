@@ -47,7 +47,51 @@ otherformats: XLAM XLSB ODS TXT EXCEL DIF FODS TSV XLTM SXC XLSM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **XLSM (Excel ที่เปิดใช้งานแมโคร)** จะรักษาข้อมูลแบบตารางและเปิดใช้งานการอัตโนมัติขั้นสูงโดยใช้แมโคร  XLSM เหมาะสำหรับรายงานแบบไดนามิก อัตโนมัติการทำงานของกระบวนการ และการจำลองการเงิน.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* ฝังการคำนวณที่ใช้ XSLFO เข้าไปในแมโคร Excel.
+
+* อัตโนมัติงานรายงานที่เกิดซ้ำๆ โดยใช้งาน XLSM workbooks.
+
+* สร้างแผงควบคุมแบบโต้ตอบด้วยข้อมูลที่มาจาก XSLFO.
+
+* เตรียมเทมเพลต XSLFO สำหรับการทำงานการเงินที่ใช้แมโคร.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenario การอัตโนมัติ" %}}
+
+
+
+* การสร้าง XLSM workbooks โดยอัตโนมัติจากรายงาน XSLFO.
+
+* การตั้งเวลาให้มีการอัพเดทรายงานที่เปิดใช้งานแมโครสำหรับการทบทวนของผู้จัดการ.
+
+* การรวมกับ VBA และการอัตโนมัติกระบวนการขององค์กร.
+
+* การเริ่มการแปลง XLSM โดยมีการเปลี่ยนแปลงที่เกิดขึ้นสำหรับแผงควบคุมการเงินแบบไดนามิก.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -143,7 +143,55 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików TEX na **FLATOPC (Flat Open Packaging Conventions)** pozwala na zapisanie treści LaTeX, w tym wzorów i tabel, w pojedynczym pliku opartym na XML, który jest w pełni zgodny ze standardami Office Open XML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Zastosowania kluczowe" %}}
+
+
+
+* Archiwizacja dokumentów LaTeX w standaryzowanym formacie XML.
+
+* Zachowanie struktury treści i formatowania dla aplikacji korporacyjnych.
+
+* Udostępnianie złożonych raportów akademickich lub technicznych jako plików jednopakietowych.
+
+* Utrzymywanie tabel i równań generowanych w LaTeX do użytku międzyplatformowego.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa TEX do FLATOPC dla repozytoriów badawczych.
+
+* Integracja z zautomatyzowanymi systemami zarządzania dokumentami.
+
+* Generowanie FLATOPC w ramach prac współpracy.
+
+* Zaplanowana archiwizacja treści LaTeX w formatach opartych na XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

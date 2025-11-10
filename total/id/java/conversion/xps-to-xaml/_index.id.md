@@ -135,7 +135,55 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file XPS (XML Paper Specification) ke **XAML (Extensible Application Markup Language)** memungkinkan pengembang dan desainer untuk menggunakan kembali konten dokumen dalam aplikasi WPF (Windows Presentation Foundation), menjaga tata letak, font, dan grafik vektor.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Menyertakan visual dokumen statis ke dalam aplikasi desktop berbasis WPF.
+
+* Mendesain dasbor interaktif menggunakan elemen UI berbasis XAML.
+
+* Menggunakan kembali tata letak XPS dalam antarmuka dan kontrol perangkat lunak.
+
+* Aplikasi e-learning akademis atau perusahaan yang membutuhkan rendering dokumen yang tepat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch otomatis file XPS menjadi XAML untuk jalur pengembangan perangkat lunak.
+
+* Integrasi dengan alur kerja CI/CD untuk pembaruan aplikasi desktop.
+
+* Pembuatan jadwal aset XAML untuk konten aplikasi berulang.
+
+* Penggunaan kembali dokumen XPS secara efisien dalam beberapa proyek WPF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

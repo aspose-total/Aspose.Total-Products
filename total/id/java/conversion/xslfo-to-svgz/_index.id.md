@@ -57,7 +57,51 @@ Menggunakan API, Anda juga dapat memutar gambar SVGZ keluaran sesuai kebutuhan A
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **SVGZ (SVG Terkompresi)** menyediakan grafik vektor berskala dalam bentuk terkompresi, ideal untuk web, dashboard, dan aplikasi responsif. SVGZ mengurangi ukuran file sambil mempertahankan kualitas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Membuat grafik interaktif dari laporan XSLFO untuk dashboard web.
+
+* Menanamkan visual berskala dalam aplikasi responsif.
+
+* Mengarsipkan tabel keuangan berbasis vektor dalam format terkompresi.
+
+* Menyiapkan diagram untuk e-learning atau basis pengetahuan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi XSLFO ke SVGZ secara batch untuk pelaporan web.
+
+* Ekspor terjadwal dari grafik vektor terkompresi.
+
+* Integrasi dengan alur kerja dashboard online otomatis.
+
+* Penciptaan terpicu dari gambar SVGZ dari analitik XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

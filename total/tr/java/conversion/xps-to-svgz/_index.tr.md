@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı SVGZ görüntüsünü ihtiyaçlarınıza göre de d�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **SVGZ (Sıkıştırılmış Ölçeklenebilir Vektör Grafikleri)**'e dönüştürmek, hafif, ölçeklenebilir grafikler sağlar; web siteleri, uygulamalar ve vektör tabanlı baskılar için uygundur ve hassasiyeti korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Web tabanlı diyagramlar ve illüstrasyonlar.
+
+* Ölçeklenebilir kullanım için infografi ve teknik şemalar.
+
+* Duyarlı web tasarımı için pazarlama grafikleri.
+
+* Vektör düzenleme yazılımlarıyla uyumlu eğitim görselleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XPS'ten SVGZ'ye web varlıkları için toplu dönüşüm akışları.
+
+* Dinamik infografik oluşturmak için zamanlanmış güncellemeler.
+
+* Ölçeklenebilir görüntüler için içerik yönetim sistemleriyle entegrasyon.
+
+* Çok platformlu yayıncılık için optimize edilmiş vektör grafik işleme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -105,7 +105,55 @@ otherformats: EMZ WMF SVGZ DXF APNG IMAGE WMZ PSD JPEG2000 TGA
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення XSLFO на **DICOM (Digital Imaging and Communications in Medicine)** дозволяє інтегрувати структурований звітний вміст з медичними робочими процесами зображення. DICOM є стандартом у радіології, клінічних дослідженнях та інформаційних системах лікарень.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Вбудовування структурованих звітів пацієнтів поряд з візуалізаціями, створеними за допомогою XSLFO.
+
+* Підготовка діагностичних інформаційних панелей для перегляду клінічних даних.
+
+* Перетворення медичних аналітичних таблиць у зображення, сумісні з DICOM.
+
+* Інтеграція лабораторних результатів, створених за допомогою XSLFO, у системи PACS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Заплановане перетворення звітів XSLFO у формат DICOM для лікарень.
+
+* Інтеграція у автоматизовані конвеєри електронних медичних записів (EHR).
+
+* Спровоковане створення візуалізацій DICOM з клінічних звітів XSLFO.
+
+* Пакетна обробка для візуалізації даних досліджень у галузі охорони здоров'я.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

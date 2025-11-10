@@ -57,7 +57,51 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **JPEG2000** สร้างภาพแบบ LaTeX คุณภาพสูงที่บีบอัดเหมาะสำหรับการเก็บถาวร การพิมพ์อาชีพ และการใช้งานบนเว็บ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* เก็บถาวรภาพ LaTeX ความละเอียดสูงสำหรับงานวิจัย
+
+* ไดอะแกรมทางวิทยาศาสตร์สำหรับการตีพิมพ์ออนไลน์โดยไม่สูญเสียคุณภาพมากนัก
+
+* แบ่งปันภาพทางวิชาการที่ถูกบีบอัดในแพลตฟอร์มต่าง ๆ
+
+* ภาพ LaTeX คุณภาพสูงสำหรับเอกสารการสอน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงเป็นชุดข้อมูลโดยอัตโนมัติสำหรับที่เก็บข้อมูลวิจัย
+
+* การรวมเข้ากับกระบวนการตีพิมพ์ทางวิชาการ
+
+* การสร้าง JPEG2000 ตามเหตุการณ์สำหรับการกระจายเว็บหรือการพิมพ์
+
+* เก็บถาวรภาพ LaTeX อย่างต่อเนื่องในรูปแบบบีบอัด
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

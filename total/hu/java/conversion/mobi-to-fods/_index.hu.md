@@ -61,7 +61,47 @@ A MOBI FODS-vé konvertálása után az [Aspose.Cells for Java](https://products
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A MOBI exportálása FODS formátumba (Flat OpenDocument Spreadsheet) XML-alapú táblázat kimenetet biztosít, amely ideális könnyű adatcseréhez. Tökéletes nyílt forráskódú környezetekhez és olyan rendszerekhez, amelyek egyszerű szöveges strukturált eBook adatokat igényelnek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+- eBook könyvtárak kezelése nyílt forráskódú táblázatkezelő alkalmazásokban.
+
+- MOBI tartalomattribútumainak szerkesztése a LibreOffice Calc-ban.
+
+- Könnyű jelentések készítése digitális könyvtári analitikához.
+
+- Metaadatok megosztása csapatok között nyílt formátumok használatával.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+- Tömeges MOBI-FODS konverziók nyílt adatportálokhoz.
+
+- Integráció nyílt forráskódú ETL adatcsatornákba.
+
+- XML-elemzés metaadatok ellenőrzéséhez és tisztításához.
+
+- FODS-alapú adatkiadás akadémiai intézmények számára.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,51 @@ Podczas konwertowania pliku POTM do TSV możesz również dodać znak wodny do w
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików POTM na TSV (wartości oddzielone tabulatorem) umożliwia łatwe przenoszenie tabel prezentacji do arkuszy kalkulacyjnych opartych na tekście lub oprogramowania analitycznego. Pliki TSV są lekkie, edytowalne i zachowują czytelne struktury tabelaryczne.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Wyodrębnianie tabel slajdów do potoków analitycznych opartych na CSV/TSV.
+
+* Eksportowanie danych szkoleniowych lub wyników ankiet z prezentacji.
+
+* Przekształcanie danych finansowych i naukowych na TSV dla narzędzi skryptowych.
+
+* Przygotowanie treści tabelarycznych slajdów do importu do baz danych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja slajdów na TSV dla potoków pobierania danych.
+
+* Zautomatyzowane przepływy pracy raportowania zasilające pliki TSV do platform BI.
+
+* Integracja z skryptami Python/R do analizy statystycznej.
+
+* Wywoływane generowanie plików TSV z szablonów prezentacji hostowanych w chmurze.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

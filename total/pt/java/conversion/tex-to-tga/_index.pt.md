@@ -57,7 +57,55 @@ Usando a API, você também pode girar a imagem TGA de saída conforme suas nece
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter TEX para **TGA (Imagem Targa)** permite exportações de alta qualidade de figuras geradas em LaTeX para aplicações intensivas em gráficos, visualizações científicas e arte digital.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Ilustrações científicas de alta fidelidade.
+
+* Diagramas gerados em LaTeX para edição de gráficos.
+
+* Preparação de visuais para fluxos de trabalho de animação e simulação.
+
+* Publicação digital que requer qualidade de imagem sem perdas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Exportação em lote de TEX para TGA para pipelines de visualização de pesquisa.
+
+* Integração com ferramentas de processamento gráfico e simulação.
+
+* Geração acionada de imagens de alta qualidade a partir de conteúdo LaTeX.
+
+* Arquivamento automatizado de diagramas em TGA para equipes de gráficos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

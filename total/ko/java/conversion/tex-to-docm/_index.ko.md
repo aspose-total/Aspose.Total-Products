@@ -143,7 +143,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX 파일을 **DOCM (Word Macro-Enabled Document)**으로 변환하면 LaTeX 콘텐츠를 고급 Word 매크로와 원활하게 통합할 수 있습니다. 이는 자동 보고서 생성이 필요한 학술 연구자와 엔지니어들에게 특히 유용합니다. 동적 테이블, 수식 및 대화형 콘텐츠가 포함된 보고서를 자동으로 생성해야 하는 경우에 유용합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Microsoft Word에서 LaTeX 중심의 연구 보고서 자동화.
+
+* 공학 문서에 복잡한 수학식 삽입.
+
+* 재현 가능한 결과를 위한 매크로가 포함된 대화형 실험실 템플릿 생성.
+
+* 자동 교차 참조 및 번호 매기기가 포함된 학술 논문 편집.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 기관 문서 관리 시스템에서 일괄 TEX에서 DOCM으로 변환.
+
+* LaTeX 저장소에서 과학 저널 자동 생성.
+
+* 기술 출판을 위한 워크플로 자동화 통합.
+
+* LaTeX 콘텐츠와 Word 매크로를 결합한 연구 대시보드 자동 업데이트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,51 @@ A POTM fájl TSV formátumba konvertálásakor vízjelet is hozzáadhat a kimene
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A POTM fájlok TSV (Tabulátorral Elválasztott Értékek) formátumba való átalakítása lehetővé teszi a prezentációs táblázatok könnyű átvitelét szövegalapú táblázatkezelőbe vagy elemző szoftverekbe. A TSV fájlok könnyűek, szerkeszthetőek, és tiszta táblázati struktúrákat tartanak fenn.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Diatáblázatok kinyerése CSV/TSV-alapú elemző csővezetékekhez.
+
+* Képzési adatok vagy felmérési eredmények exportálása prezentációkból.
+
+* Pénzügyi és tudományos adatok átalakítása TSV formátumba szkriptes eszközök számára.
+
+* Táblázatos dia tartalom előkészítése adatbázisokba történő importáláshoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Diák TSV formátumba történő tömeges átalakítása az adatbeviteli csővezetékekhez.
+
+* Automatizált jelentési munkafolyamatok, amelyek TSV fájlokat táplálnak BI platformokba.
+
+* Integráció Python/R szkriptekkel statisztikai elemzésekhez.
+
+* Kiváltott TSV generálás felhőalapú prezentációs sablonokból.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

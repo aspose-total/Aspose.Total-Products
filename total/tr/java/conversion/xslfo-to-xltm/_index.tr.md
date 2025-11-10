@@ -47,7 +47,55 @@ XSLFO dosyasını XLTM'ye dönüştürürken, çıktı XLTM dosya biçiminize fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **XLTM (Makro Etkin Excel Şablonu)**'na dönüştürülmesi, gömülü otomasyonla tekrar kullanılabilir çalışma kitaplarını destekler. XLTM şablonları tekrarlayan raporlama ve gelişmiş iş akışlarını kolaylaştırır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Gömülü makrolarla otomasyon için XSLFO raporlarını standartlaştırma.
+
+* Bölümler arasında etkileşimli raporlama şablonlarının dağıtımı.
+
+* XSLFO'dan tekrar kullanılabilir finansal modelleme şablonlarının hazırlanması.
+
+* Tablo şeklindeki XSLFO verilerinden otomatikleştirilmiş gösterge tablosu şablonlarının oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Kurumsal raporlama için XLTM şablonlarının toplu olarak oluşturulması.
+
+* Otomatik VBA iş akışlarıyla entegrasyon.
+
+* Yineleyen proje raporları için zamanlanmış XSLFO'dan XLTM'ye dönüştürme.
+
+* Makro tabanlı analitik gösterge tabloları için tetiklenen XLTM şablonu oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

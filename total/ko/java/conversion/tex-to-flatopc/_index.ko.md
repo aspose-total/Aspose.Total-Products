@@ -143,7 +143,55 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+텍 파일을 **FLATOPC (Flat Open Packaging Conventions)**으로 변환하면 수식과 표를 포함한 LaTeX 콘텐츠를 단일 XML 기반 파일에 저장할 수 있어 Office Open XML 표준과 완벽하게 호환됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 표준화된 XML 형식으로 LaTeX 문서 보관.
+
+* 기업 애플리케이션을 위한 구조화된 콘텐츠와 서식 보존.
+
+* 복잡한 학술 또는 기술 보고서를 단일 패키지 파일로 공유.
+
+* 크로스 플랫폼 사용을 위한 LaTeX 생성 표 및 수식 유지.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 연구 저장소를 위한 일괄 TEX-to-FLATOPC 변환.
+
+* 자동화된 문서 관리 시스템 통합.
+
+* 협업 워크플로우를 위한 FLATOPC 생성 트리거.
+
+* XML 기반 형식에서 LaTeX 콘텐츠의 예약 보관 일정.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

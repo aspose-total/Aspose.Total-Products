@@ -102,7 +102,45 @@ otherformats: XLSB EXCEL XLAM XLSX CSV TSV XLTM DIF XLT XLS MHTML SXC XLTX MARKD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POT ל־FODS (Flat XML ODF Spreadsheet) מעניקה לעסקים גמישות לאחסון נתוני טבלה של PowerPoint במבנים גלויים, מבוססי XML. פורמט זה תומך בשקיפות ואינטרואופרביליות בשיתוף נתונים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת תבניות מכירות ב־PowerPoint לפורמטים גלויים של גיליון נתונים.
+
+* שיתוף נתוני טבלה עם שותפים באמצעות LibreOffice או OpenOffice.
+
+* יצירת גיליונות נתונים לחינוך ממצגות אקדמיות.
+
+* ארכיבת נתוני גיליון נתונים מבוססי XML לרשומות לטווח ארוך.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* שילוב עם מערכות פרסום של נתונים פתוחים.
+
+* הפקת גיליון נתונים ב־XML באופן אוטומטי לדיווחים רגולטוריים.
+
+* המרת FODS בזמן אמת בניהול מסמכים אקדמי.
+
+* המרה בצורת סדר עבור תמורת נתונים בין מחלקות.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

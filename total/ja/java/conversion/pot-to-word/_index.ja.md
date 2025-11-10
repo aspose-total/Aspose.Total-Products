@@ -53,7 +53,45 @@ APIを使用して、透かしを使用してPOTファイルからWORDへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTをWORDに変換すると、プレゼンテーションテンプレートをMicrosoft Wordや類似のエディタと互換性のあるリッチテキストドキュメントに変換できます。教育、ビジネス、および方針の文書作成ワークフローをサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* 学術プレゼンテーションを公開可能なレポートに変換する。
+
+* 編集可能な会議の議事録や企業の要約を準備する。
+
+* PowerPointベースのコースを書面の学習教材に変換する。
+
+* トレーニングスライドを内部文書に再利用する。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 内部レビュー用の自動化されたPowerPointからWordへの文書化。
+
+* コンテンツ管理システムでのバッチ変換。
+
+* 文書準備パイプラインのワークフロー統合。
+
+* 企業コミュニケーションシステム向けの効率的な変換。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

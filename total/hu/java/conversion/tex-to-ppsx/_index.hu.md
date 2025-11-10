@@ -135,7 +135,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **PPSX formátumba történő konvertálása (PowerPoint bemutató makrók nélkül)** biztonságos, azonnal megtekinthető prezentációkat eredményez LaTeX tartalommal, alkalmas megosztásra több platformon.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Akadémiai előadások terjesztése makrók nélkül, biztonsági kockázatok nélkül.
+
+* Vállalati vagy oktatási prezentációk LaTeX-stílusú táblázatokkal.
+
+* Újrafelhasználható konferencia diák képletekkel gazdagítva.
+
+* Műszaki diák több platformon való megosztása.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges LaTeX-PPSX konverziók.
+
+* Előadások vagy oktatási diák automatizált létrehozása.
+
+* Integráció LMS-szel vagy vállalati prezentációs rendszerekkel.
+
+* Kiváltott diák generálás együttműködéses akadémiai projektekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

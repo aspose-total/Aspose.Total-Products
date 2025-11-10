@@ -130,7 +130,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XPS ke **RTF (Rich Text Format)** memastikan kompatibilitas maksimum dengan sebagian besar pengolah kata sambil mempertahankan format dasar, sehingga ideal untuk berbagi dokumen di berbagai lingkungan perangkat lunak.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Konversi laporan sederhana untuk distribusi yang mudah.
+
+* Korespondensi hukum yang memerlukan dukungan format universal.
+
+* Tugas pendidikan yang kompatibel dengan berbagai platform.
+
+* Arsip dokumen warisan dalam format yang mudah dibaca.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch file XPS ke RTF untuk akses universal.
+
+* Integrasi dengan sistem manajemen konten otomatis.
+
+* Berbagi yang disederhanakan di lingkungan perusahaan berbagai platform.
+
+* Pipa konversi untuk migrasi dokumen warisan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

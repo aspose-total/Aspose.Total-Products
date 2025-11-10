@@ -102,7 +102,55 @@ otherformats: MHTML EXCEL XLSX CSV ODS XLSB SXC TSV XLSM XLS XLAM XLT MARKDOWN X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POTM ל-FODS יוצרת קבצי גליון נתונים מבוססי XML שטוחים. FODS אידיאלי עבור אחסון גליונות נתונים קלים ולא תלויי פלטפורמה, ששומרים על מבני טבלה ממצגות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייצוא טבלאות מ-PowerPoint ל-FODS לשימוש ב־LibreOffice או OpenOffice.
+
+* המרת דוחות נומריים מבוססי שקפים לגליונות נתונים צלב-פלטפורמה.
+
+* שיתוף טבלאות פרויקטים אקדמיים או של עמותות בפורמטים פתוחים של XML.
+
+* ארכיבת נתוני מצגות בגליונות נתונים פלטפורמתיים בצורה מובנית.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* אוטומציה של תהליכי עבודה עבור המרות גורמי POTM ל-FODS בצפיפות.
+
+* שילוב בצינורות אוטומציה של משרדים צלב-פלטפורמה.
+
+* יצירת קבצי FODS פועלת עבור צוותים מבוזרים.
+
+* חילוץ נתוני XML מובנים למערכות דיווח והתאמה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

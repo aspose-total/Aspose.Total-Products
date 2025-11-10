@@ -61,7 +61,45 @@ POTファイルをXLAMに変換するときに、出力XLAMファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTをXLAM（Excel Add-In）に変換することで、プレゼンテーションデータから派生したExcelシートにマクロを埋め込むことができ、自動化が可能になります。この変換により、PowerPointをレポート作成に、Excelを動的計算に活用する企業に利益がもたらされます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* PowerPointベースのKPIテンプレートからExcelアドインを作成する。
+
+* 販売やトレーニングのパフォーマンスデータの計算を自動化する。
+
+* マクロ駆動のダッシュボードをプレゼンテーションから生成する。
+
+* プレゼンテーションの視覚要素をExcelの自動化モデルと統合する。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業向け分析ツールのための自動化されたXLAM生成。
+
+* PowerPointとExcelのマクロを組み合わせた変換ワークフロー。
+
+* ビジネスプロセス自動化プラットフォームとの統合。
+
+* 定期的なスプレッドシート操作のための企業向け自動化。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

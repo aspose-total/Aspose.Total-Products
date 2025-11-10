@@ -57,7 +57,51 @@ Met behulp van de API kunt u ook de uitgevoerde DICOM-afbeelding roteren volgens
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XPS naar **DICOM (Digital Imaging and Communications in Medicine)** maakt de integratie van visuele documenten in medische beeldvormingssystemen mogelijk, waarbij details met hoge resolutie behouden blijven voor klinische toepassingen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Inbedden van medische rapporten in radiologische beeldvormingsworkflows.
+
+* Archiveren van diagnostische documenten naast patiëntscans.
+
+* Ziekenhuissystemen die DICOM-compatibiliteit vereisen voor rapporten.
+
+* Telemedicine platforms die klinische documentafbeeldingen integreren.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch XPS-naar-DICOM conversie voor ziekenhuisregistratiesystemen.
+
+* Geautomatiseerde integratie met PACS (Picture Archiving and Communication Systems).
+
+* Geplande updates voor patiëntregistratieafbeeldingen.
+
+* Gestroomlijnde workflows voor de verwerking van medische beeldgegevens.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

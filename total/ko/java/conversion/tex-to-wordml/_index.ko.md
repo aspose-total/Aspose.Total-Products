@@ -143,7 +143,55 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+텍을 **WordML(마이크로소프트 워드 XML 형식)**으로 변환하면 LaTeX 콘텐츠를 XML 기반 워드 문서와 완벽하게 호환되도록 만들어 자동화된 워크플로우, 콘텐츠 유효성 검사 및 기업 시스템 통합이 가능해집니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LaTeX 소스로부터 XML 기반 과학 보고서 생성.
+
+* 구조화된 WordML을 사용한 기업 문서 작업 흐름.
+
+* 자동 콘텐츠 병합을 통한 다중 저자 협업.
+
+* 학술 또는 기술 자료의 XML 기반 게시.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* LaTeX 저장소에서 WordML 문서의 자동 생성.
+
+* 기업 콘텐츠 관리 시스템 통합.
+
+* 대규모 연구 출판물을 위한 트리거된 XML 내보내기.
+
+* 규정 준수 보고 및 학술 제출을 위한 일괄 처리.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

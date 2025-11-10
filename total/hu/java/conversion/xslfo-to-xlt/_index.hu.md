@@ -47,7 +47,51 @@ A XSLFO-fájl XLT-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLT-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **XLT (Excel sablon)** formátumba lehetővé teszi az újrafelhasználható táblázatsablonok létrehozását előre meghatározott formázással és stílusokkal. Az XLT tökéletes a rendszeres XSLFO forrásokból származó jelentések szabványosításához.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Szabványosított XSLFO alapú számlasablonok előkészítése.
+
+* Ismételt használatra szánt projektjelentés-sablonok létrehozása.
+
+* Havi irányítópultok archiválása újrafelhasználható Excel sablonként.
+
+* Az XSLFO-ból generált vállalati KPI jelentés-sablonok terjesztése.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Automatizált XLT sablonok generálása XSLFO jelentésekből.
+
+* Integráció ismétlődő jelentési csatornákkal.
+
+* Ütemezett átalakítás szabványosított osztályos sablonokhoz.
+
+* Kiváltott Excel sablonok generálása az egyenletes jelentéshez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

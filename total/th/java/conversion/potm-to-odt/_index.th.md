@@ -53,7 +53,51 @@ otherformats: WORD ODTX DOTX ODT WORDML OTT TEXT FLATOPC DOTM DOT ODTM RTF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POTM เป็น ODT ช่วยให้ผู้ใช้สามารถเปิดเนื้อหาเทมเพลต PowerPoint ใน LibreOffice หรือ OpenOffice Writer ได้ มันเป็นวิธีที่เหมาะสำหรับการแก้ไขเนื้อหาข้อความที่เกี่ยวกับการนำเสนอในรูปแบบเอกสารมาตรฐานที่เปิด
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* แบ่งปันเนื้อหา PowerPoint กับทีมโดยใช้เครื่องมือโอเพนซอร์ส
+
+* สร้างเอกสารทางวิชาการหรือองค์กรไม่แสวงหาผลกำไรโดยใช้ชุดโปรแกรมสำนักงานฟรี
+
+* ใช้งานใหม่การนำเสนอเป็นคู่มือรูปแบบ ODT
+
+* สร้างเนื้อหาการฝึกอบรมที่สามารถแก้ไขได้สำหรับระบบเอกสารที่เปิด
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัต" %}}
+
+
+
+* ระบบองค์กรที่แปลงการนำเสนอของ Microsoft เพื่อความเข้ากันได้กับ ODT
+
+* รายงานอัตโนมัตสำหรับการกระจายเอกสารข้ามแพลตฟอร์ม
+
+* ท่อการเปลี่ยนแปลงเป็นชุดคำสั่งสำหรับการเก็บเอกสารที่เป็นไปตามมาตรฐาน ODF
+
+* การสร้าง ODT ในระบบองค์กรที่ใช้ระบบปฏิบัติการ Linux
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

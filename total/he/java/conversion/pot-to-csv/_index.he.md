@@ -102,7 +102,51 @@ otherformats: FODS XLTM XLT XLAM MARKDOWN EXCEL MHTML XLSB ODS SXC XLS XLTX XLSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי POT (תבנית PowerPoint) ל־CSV (ערכים מופרדים בפסיק) מאפשרת לצוותים לחלץ נתונים מובנים מטבלאות המצגת לתוך פורמטים המתאימים לגיליון אלקטרוני. זה מאוד שימושי בניתוחים, דיווחים ושמירת רשומות תאגידיות שבהן תוכן טבלאי צריך להיות מיובא ל־Excel או למסדי נתונים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* חילוץ סיכומים פיננסיים מתרשימי המצגת לדוחות CSV.
+
+* המרת מדדי הכשרה משקפים לנתוני גיליון נתונים שניתן לשתף.
+
+* ייבוא נתונים טבלאיים מ־PowerPoint למערכות בינה עסקית.
+
+* הכנת סטי נתונים CSV עבור לוחות מחוונים לניתוחי שיווק.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* חילוץ אוטומטי של נתוני טבלה במהלך דיווח תאגידי.
+
+* שילוב בצינורות ETL להמרת נתונים מובנים.
+
+* המרה בצטברות של מצגות ל־CSV לתיעוד תקינות.
+
+* אוטומציה מ־PowerPoint למסד נתונים עבור זרימות עבודה בניתוחים.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

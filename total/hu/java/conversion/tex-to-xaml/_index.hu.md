@@ -135,7 +135,55 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok XAML (Extensible Application Markup Language) formátumba való átalakítása lehetővé teszi a LaTeX tartalom, képletek és diagramok használatát WPF, UWP és .NET alapú alkalmazásokban, megőrizve a vektorgrafikát és a szövegformázást.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* LaTeX által generált diagramok és egyenletek beágyazása asztali alkalmazásokba.
+
+* Interaktív UI elemek létrehozása tudományos vagy matematikai vizuális elemekkel.
+
+* Műszaki alkalmazások, amelyek dinamikus diagramokat jelenítenek meg LaTeX forrásokból.
+
+* Oktatási szoftverek, amelyek zökkenőmentesen integrálják a LaTeX képleteket.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Több UI komponens tömeges TEX-XAML konverziója.
+
+* Integráció automatizált WPF vagy UWP projektcsövekbe.
+
+* Kiváltott LaTeX alapú vizuális elemek generálása .NET alkalmazásokhoz.
+
+* Ütemezett frissítések többmodulú oktatási szoftverekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

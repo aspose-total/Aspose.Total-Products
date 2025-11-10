@@ -47,7 +47,55 @@ XSLFO 파일을 SXC로 변환하는 동안 출력 SXC 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **SXC (StarOffice 스프레드시트)** 형식으로 변환하면 기존 StarOffice 및 OpenOffice 도구와의 원활한 상호 운용성을 제공합니다. SXC는 보관 및 기업 보고 워크플로에 대한 구조와 서식을 보존합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* SXC에 XSLFO 기반 프로젝트 일정을 보관하여 레거시 시스템에서 사용합니다.
+
+* StarOffice를 사용하는 국제 파트너를 위해 SXC 스프레드시트를 준비합니다.
+
+* 교육 및 문서 작성 목적으로 표 형식의 XSLFO 데이터를 변환합니다.
+
+* 규정 준수 보고를 위해 SXC에 월간 KPI를 공유합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 보관 프로젝트용 XSLFO에서 SXC로 일괄 자동 변환합니다.
+
+* StarOffice 형식을 지원하는 레거시 오피스 워크플로에 통합합니다.
+
+* XSLFO 파일에서 예약된 SXC 보고서 생성을 스케줄링합니다.
+
+* 반복되는 관리 대시보드를 위한 트리거 변환을 수행합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

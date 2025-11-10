@@ -57,7 +57,51 @@ Med hjälp av API:t kan du också rotera den utgående DICOM-bilden enligt dina 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera XPS till **DICOM (Digital Imaging and Communications in Medicine)** möjliggör integrering av dokumentvisuella i medicinska bildsystem och bevarar högupplösta detaljer för kliniska tillämpningar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* Bädda in medicinska rapporter i radiologibildflöden.
+
+* Arkivering av diagnostiska dokument bredvid patientundersökningar.
+
+* Sjukhusystem som kräver DICOM-kompatibilitet för rapporter.
+
+* Telemedicinplattformar som integrerar kliniska dokumentbilder.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batch XPS-till-DICOM-omvandling för sjukhusjournalssystem.
+
+* Automatiserad integration med PACS (Picture Archiving and Communication Systems).
+
+* Schemalagda uppdateringar för patientjournalbilder.
+
+* Strömlinjeformade arbetsflöden för bearbetning av medicinsk bilddata.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

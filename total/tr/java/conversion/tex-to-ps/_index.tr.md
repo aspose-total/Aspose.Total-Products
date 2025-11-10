@@ -143,7 +143,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **PS (PostScript)**e dönüştürmek, LaTeX biçimlendirmesini, grafikleri ve karmaşık matematik içeriğini koruyan, profesyonel yayıncılık ve baskıya hazır belgeler için çok yönlü bir sayfa açıklama dosyası üretir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Profesyonel baskı için LaTeX makaleleri ve raporları hazırlama.
+
+* Teknik diyagramlar ve tabloların PostScript sürümlerini oluşturma.
+
+* Hassas biçimlendirme gerektiren akademik dergi başvuruları.
+
+* LaTeX belgelerinin evrensel sayfa düzeni formatında arşivlenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Yayın akışları için otomatik toplu TEX'ten PS'e dönüştürme.
+
+* Profesyonel baskı iş akışlarıyla entegrasyon.
+
+* Büyük ölçekli belge dağıtımı için tetiklenmiş PostScript oluşturma.
+
+* Çoklu yazarlı akademik projeler için zamanlanmış TEX'ten PS'e dönüşümler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

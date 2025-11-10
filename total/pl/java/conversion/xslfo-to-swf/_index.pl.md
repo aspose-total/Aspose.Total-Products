@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja XSLFO na **SWF (Flash)** umożliwia tworzenie interaktywnych animacji dla zdezaktualizowanych pulpitów nawigacyjnych i aplikacji internetowych. SWF zachowuje grafikę wektorową i pozwala na interakcje oparte na osi czasu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Osadzanie interaktywnych wykresów XSLFO w zdezaktualizowanych portalach internetowych.
+
+* Przygotowywanie animowanych pulpitów nawigacyjnych dla historycznych systemów wewnętrznych.
+
+* Konwertowanie modułów szkoleniowych na format SWF do użytku offline.
+
+* Archiwizowanie interaktywnych wizualizacji XSLFO w celach zgodności.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja XSLFO na SWF dla systemów zdezaktualizowanych.
+
+* Tworzenie wsadowe animowanych pulpitów nawigacyjnych.
+
+* Generowanie wywołane dla aplikacji internetowych zdezaktualizowanych.
+
+* Integracja z automatyzowanymi potokami raportów interaktywnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

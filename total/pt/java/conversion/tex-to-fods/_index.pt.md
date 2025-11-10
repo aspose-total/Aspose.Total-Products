@@ -47,7 +47,55 @@ Ao converter o arquivo TEX para FODS, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter TEX para **FODS (Planilha OpenDocument Plana)** fornece dados LaTeX em planilhas abertas baseadas em XML compatíveis com o LibreOffice e o OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Compartilhamento de tabelas científicas baseadas em LaTeX com suites de escritório de código aberto.
+
+* Pesquisa acadêmica que requer formatos de planilha abertos e independentes de plataforma.
+
+* Rastreamento e relatórios de projetos em ambientes multiplataforma.
+
+* Preparação de dados LaTeX para planilhas FODS colaborativas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão automatizada de TEX para FODS para fluxos de trabalho de código aberto.
+
+* Processamento em lote de conjuntos de dados LaTeX para colaboração multiplataforma.
+
+* Exportação programada de resultados de laboratório ou tabelas de experimentos.
+
+* Integração em pipelines de documentos para instituições de pesquisa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

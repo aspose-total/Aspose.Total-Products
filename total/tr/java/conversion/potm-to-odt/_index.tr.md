@@ -53,7 +53,51 @@ API'yi kullanarak, filigranlı POTM dosyasını ODT'ye dönüştürme işlemini 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM'yi ODT'ye dönüştürmek, kullanıcıların PowerPoint şablon içeriğini LibreOffice veya OpenOffice Writer'da açmasına olanak tanır. Açık standart belge formatlarında sunum tabanlı metin içeriğini düzenlemek için platformlar arası bir yol sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Durumları" %}}
+
+
+
+* Açık kaynak araçlarını kullanan ekiplerle PowerPoint içeriğini paylaşma.
+
+* Ücretsiz ofis paketlerini kullanarak akademik veya STK belge oluşturma.
+
+* Sunumları ODT biçimli kılavuzlara dönüştürme.
+
+* Açık belge ekosistemleri için düzenlenebilir eğitim içeriği üretme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Kurumsal sistemlerin Microsoft sunumlarını ODT uyumluluğu için dönüştürmesi.
+
+* Platformlar arası belge dağıtımı için otomatik raporlama.
+
+* ODF uyumlu belge depolama için toplu dönüşüm boru hatları.
+
+* Linux tabanlı kurumsal sistemler içinde ODT oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

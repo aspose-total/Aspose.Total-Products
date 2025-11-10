@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力DXF画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**DXF（Drawing Exchange Format）**に変換することで、CADアプリケーションでXPSレイアウトを使用し、デザイン、建築、エンジニアリングプロジェクトのためのベクトル要素を保持できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* XPSドキュメントから抽出された建築プランと設計図。
+
+* CADソフトウェア用のエンジニアリング図面とスキーマ。
+
+* 正確なベクトル変換を必要とする技術文書。
+
+* 共同作業のための産業設計ワークフロー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* CADチーム向けのXPSからDXFへの自動バッチ変換。
+
+* 迅速なレイアウト更新のためのデザインパイプラインとの統合。
+
+* 定期的なエンジニアリングレポートのためのスケジュールされたDXF生成。
+
+* 製造業向けのベクトル要素の効率的な抽出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

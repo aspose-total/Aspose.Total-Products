@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 TGA 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **TGA (Targa Image)**로 변환하면 게임, 시뮬레이션 및 고해상도 시각화에서 자주 사용되는 고품질 래스터 그래픽을 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 시뮬레이션이나 게임 분석을 위해 XSLFO로 생성된 시각 자료 준비.
+
+* 압축 손실을 최소화하면서 상세 차트 보관.
+
+* 전문 출판을 위한 래스터 그래픽 생성.
+
+* 디자인 워크플로에 TGA로 운영 대시보드 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 고해상도 보고서를 위한 XSLFO를 TGA로 일괄 변환.
+
+* 전문 시각화 파이프라인을 위한 예약된 내보내기.
+
+* 반복되는 XSLFO 분석에서 트리거된 TGA 생성.
+
+* 자동화된 디자인 워크플로 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

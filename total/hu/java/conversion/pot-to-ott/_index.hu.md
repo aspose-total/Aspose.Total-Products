@@ -53,7 +53,45 @@ Az API segítségével POT fájlból OTT-ba konvertálhat vízjellel. Ha vízjel
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A POT fájl átalakítása OTT fájllá (OpenDocument Text Template) lehetővé teszi szervezetek számára, hogy újrafelhasználható dokumentumsablonokat hozzanak létre, amelyek megfelelnek az open standards előírásainak. Az OTT sablonok ideálisak olyan intézmények számára, amelyek kiemelten fontosnak tartják az elérhetőséget és hosszú távú megőrzést.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Nyílt szabványú sablonok generálása PowerPoint oktatási anyagokból.
+
+* Prezentációs stílusok átalakítása újrafelhasználható szövegsablonokká.
+
+* Következetes dokumentumformátumok létrehozása tudományos publikáláshoz.
+
+* Nyílt hozzáférésű sablonok tervezése NGO dokumentációhoz.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Automatizált OTT generálás PowerPoint fő elrendezéseiből.
+
+* Integráció nyílt forráskódú dokumentummenetekkel.
+
+* Sablon szinkronizálás intézményi dokumentumtárolók között.
+
+* Kormányzati dokumentumrendszerek, amelyek nyílt formátumú sablonokat használnak.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

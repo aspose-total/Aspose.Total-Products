@@ -144,7 +144,55 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XPS átalakítása **XAMLFLOW-ra (áramlási dokumentum XAML-ben)** átalakítja a statikus XPS tartalmat szerkeszthető, áramló elrendezésekké, amelyek alkalmasak dinamikus megjelenítésre a WPF FlowDocuments-ben, ideálisak e-könyvekhez, jelentésekhez vagy interaktív tartalmakhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+
+
+* Interaktív e-könyvek és dokumentációk létrehozása XPS forrásokból.
+
+* Áramlás alapú vállalati jelentések és kézikönyvek asztali alkalmazásokhoz.
+
+* Dinamikus szöveg- és média-megjelenítés oktatási vagy képzési alkalmazásokban.
+
+* Munkaügyi kézikönyvek vagy irányelvek bemutatása FlowDocuments-ként.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* XPS archívumok automatizált átalakítása XAMLFLOW-ra e-learning platformokhoz.
+
+* Ütemezett FlowDocument generálás ismétlődő jelentésekhez vagy kézikönyvekhez.
+
+* Integráció olyan szoftvereszközökkel, amelyek dinamikusan megjelenítik a FlowDocuments-eket.
+
+* Egyszerűsített csővezeték a statikus XPS elrendezések átalakításához reszponzív FlowDocuments-ekké.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

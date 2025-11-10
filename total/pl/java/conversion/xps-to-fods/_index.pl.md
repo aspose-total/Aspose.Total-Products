@@ -47,7 +47,51 @@ Konwertując plik XPS na FODS, możesz także dodać znak wodny do wyjściowego 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików XPS na **FODS (Flat OpenDocument Spreadsheet)** zapewnia kompatybilność z arkuszami kalkulacyjnymi typu open-source w programach LibreOffice i OpenOffice. Idealne dla organizacji korzystających z rozwiązań neutralnych względem dostawcy i wieloplatformowych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Zbiory danych projektów akademickich i badawczych do wspólnej edycji.
+
+* Raportowanie finansowe w formie open-source dla organizacji pozarządowych lub instytucji rządowych.
+
+* Karty danych technicznych i dzienniki operacyjne w otwartych formatach.
+
+* Współdzielenie arkuszy kalkulacyjnych między platformami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zautomatyzowane procesy konwersji XPS na FODS dla laboratoriów badawczych.
+
+* Integracja z systemami ERP lub analitycznymi typu open-source.
+
+* Zaplanowane aktualizacje arkuszy kalkulacyjnych operacyjnych.
+
+* Usprawniona współpraca przy użyciu otwartych formatów dokumentów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

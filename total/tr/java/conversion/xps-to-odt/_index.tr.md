@@ -129,7 +129,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **ODT (Açık Belge Metni)**'e dönüştürmek, LibreOffice ve OpenOffice gibi açık kaynak ofis paketleriyle uyumluluğu sağlar. Belge düzenini ve içeriğini korurken, çapraz platformu destekleyen, satıcıdan bağımsız bir formata olanak tanır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Açık kaynak araçlarını kullanan kuruluşlardaki işbirlikçi projeler.
+
+* Üniversiteler için akademik makaleler ve araştırma belgeleri.
+
+* ODF uyumluluğu gerektiren hükümet ve STK belgeleri.
+
+* Birden fazla platformda paylaşılan teknik kılavuzlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Çapraz platform erişimi için büyük XPS arşivlerinin ODT'ye otomatik dönüştürülmesi.
+
+* Nextcloud gibi belge işbirliği platformlarıyla entegrasyon.
+
+* Standart içerik oluşturmak için ODT şablonları oluşturma.
+
+* Akademik veya araştırma yayıncılığı iş akışları için toplu dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

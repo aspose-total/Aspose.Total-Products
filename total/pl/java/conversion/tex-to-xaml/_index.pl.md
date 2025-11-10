@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików TEX na **XAML (Extensible Application Markup Language)** umożliwia wykorzystanie treści LaTeX, wzorów i diagramów w aplikacjach opartych na WPF, UWP i .NET, zachowując grafikę wektorową i formatowanie tekstu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Osadzanie diagramów i równań wygenerowanych w LaTeX w aplikacjach desktopowych.
+
+* Tworzenie interaktywnych elementów interfejsu użytkownika z wizualizacjami naukowymi lub matematycznymi.
+
+* Aplikacje techniczne wyświetlające dynamiczne wykresy z źródeł LaTeX.
+
+* Oprogramowanie edukacyjne integrujące wzory LaTeX w sposób bezproblemowy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa TEX na XAML dla wielu elementów interfejsu użytkownika.
+
+* Integracja w zautomatyzowane potoki projektów WPF lub UWP.
+
+* Wywoływane generowanie wizualizacji opartych na LaTeX dla aplikacji .NET.
+
+* Zaplanowane aktualizacje dla wielomodułowego oprogramowania edukacyjnego.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

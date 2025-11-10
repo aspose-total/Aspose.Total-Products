@@ -61,7 +61,55 @@ Podczas konwertowania pliku POTM do FODS możesz również dodać znak wodny do 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja POTM na FODS generuje płaskie pliki arkuszy kalkulacyjnych oparte na XML. FODS jest idealny do lekkiego, niezależnego od platformy przechowywania arkuszy kalkulacyjnych, zachowując struktury tabel z slajdów prezentacji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Eksportowanie tabel z PowerPointa do FODS do użytku w LibreOffice lub OpenOffice.
+
+* Konwertowanie raportów numerycznych opartych na slajdach na arkusze kalkulacyjne wieloplatformowe.
+
+* Dzielenie się tabelami projektów akademickich lub NGO w otwartych formatach XML.
+
+* Archiwizowanie danych prezentacji w strukturalnych płaskich arkuszach kalkulacyjnych XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyzacja procesu przetwarzania wsadowego POTM na FODS.
+
+* Integracja w wieloplatformowe potoki automatyzacji biurowej.
+
+* Generowanie plików FODS na żądanie dla zespołów rozproszonych.
+
+* Wydobywanie strukturalnych danych XML do systemów raportowania i zgodności.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

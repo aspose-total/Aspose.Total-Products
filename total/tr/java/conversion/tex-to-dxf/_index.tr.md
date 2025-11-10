@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı DXF görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **DXF (Çizim Değişim Formatı)**'na dönüştürmek, LaTeX ile oluşturulan teknik diyagramların, mavi baskıların ve şemaların mühendislik ve mimarlık projelerinde CAD yazılımlarında kullanılmasını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX teknik belgelerinden mühendislik şemaları.
+
+* CAD entegrasyonu için mimari diyagramlar.
+
+* Tasarım projeleri için LaTeX tabanlı çizim görselleştirmeleri.
+
+* LaTeX'ten türetilmiş imalat veya prototip şemaları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Mühendislik iş akışları için toplu TEX'ten DXF'e dönüşüm.
+
+* CAD yazılımı boru hatlarıyla entegrasyon.
+
+* Tasarım şemalarının tetiklenmiş otomatik oluşturulması.
+
+* LaTeX şemalarının DXF formatında arşivlenmesi, platformlar arası kullanım için.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

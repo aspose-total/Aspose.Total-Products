@@ -47,7 +47,51 @@ Saat mengonversi file XPS ke XLAM, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XPS ke **XLAM (Excel Add-In)** memungkinkan penciptaan alat otomatisasi Excel kustom, makro, dan fungsionalitas yang diperluas dari dokumen XPS statis, sempurna untuk pengguna korporat yang canggih.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengotomatisasi perhitungan dan alur kerja yang berulang dalam keuangan atau operasi.
+
+* Membuat add-in produktivitas yang didukung makro dari data yang ada.
+
+* Memperluas fungsionalitas Excel menggunakan template yang dikonversi dari XPS.
+
+* Peningkatan alur kerja tingkat perusahaan menggunakan add-in Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi Massal XPS ke XLAM untuk alat otomatisasi korporat.
+
+* Integrasi dengan perangkat lunak internal untuk memicu add-in Excel.
+
+* Pembuatan jadwal solusi yang didukung makro untuk tim.
+
+* Pipa otomatisasi yang disederhanakan untuk tugas pelaporan yang berulang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

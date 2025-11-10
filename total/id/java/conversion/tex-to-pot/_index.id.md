@@ -135,7 +135,55 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **POT (PowerPoint Template)** memungkinkan konten berformat LaTeX menjadi template PowerPoint yang dapat digunakan ulang untuk presentasi akademis, bisnis, dan korporat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Utama" %}}
+
+
+
+* Slide kuliah profesional dengan persamaan kompleks.
+
+* Template proposal proyek korporat dengan tabel LaTeX.
+
+* Template standar untuk mata kuliah universitas.
+
+* Presentasi konferensi teknik atau ilmiah.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch TEX-ke-POT otomatis untuk perpustakaan template.
+
+* Integrasi ke dalam sistem otomatisasi slide perusahaan.
+
+* Pembaruan template terjadwal dari sumber LaTeX.
+
+* Generasi yang dipicu untuk kolaborasi multi pengguna.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

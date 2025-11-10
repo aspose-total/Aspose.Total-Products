@@ -47,7 +47,55 @@ XSLFO dosyasını MD'ye dönüştürürken, çıktı MD dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO (Genişletilebilir Stil Sayfası Dili Biçimlendirme Nesneleri) dosyalarını **MD (Markdown)** biçimine dönüştürmek, hafif, web dostu ve kolay okunabilir belgeler oluşturmayı sağlar. Markdown, XSLFO içeriğinden başlıkların, tabloların ve listelerin yapısını korurken web siteleri, bloglar ve belgelendirme platformları için uygun hale getirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Teknik belgeler için XSLFO tarafından oluşturulan raporların Markdown'a dönüştürülmesi.
+
+* Bilgi tabanlarına XSLFO'dan yapılandırılmış tablolar ve içerik yayınlama.
+
+* Tablo düzenleri ve başlıkların korunduğu blog için hazır raporlar oluşturma.
+
+* Yapılandırılmış XSLFO analizlerinden açık kaynak belgeleri hazırlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XSLFO raporlarının web portalı için Markdown'a toplu dönüşümü için zamanlanmış işlem.
+
+* Otomatik belge oluşturma boru hatlarına entegrasyon.
+
+* Tekrarlayan analizler veya proje raporları için tetiklenen dönüşüm.
+
+* Bilgi yönetim sistemleri için otomatik XSLFO'dan MD iş akışları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

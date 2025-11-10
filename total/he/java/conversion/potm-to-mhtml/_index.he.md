@@ -102,7 +102,51 @@ otherformats: EXCEL TSV MARKDOWN SXC XLAM XLS CSV DIF XLT XLTX ODS XLSM XLSB FOD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POTM ל-MHTML (MIME HTML) יוצרת ארכיונים רשת בקובץ אחד המשלבים את כל תוכן השקפים, התמונות והעיצוב לקובץ אחד המתאים ל-HTML. MHTML מתאים לצפייה לא מקוונת, לארכיבה ולשיתוף שקפים דרך דואר אלקטרוני או פלטפורמות רשת.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* שיתוף תבניות מצגות אינטראקטיביות דרך דואר אלקטרוני.
+
+* יצירת ארכיוני שקפים מוכנים לשימוש ללקוחות או צדדים עניינים.
+
+* הטבעת תוכן מצגת בפורטלי רשת פנימיים.
+
+* ארכיבת מצגות שיווק וחומרי הדרכה בפורמט קובץ אחד.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* ייצוא MHTML אוטומטי של תבניות מצגות לפרסום ברשת.
+
+* שילוב עם מערכות ניהול תוכן וארכיבה.
+
+* המרה צפונית לניהול מאגר שקפים בכל החברה.
+
+* יצירה מופעלת למסירת לקוח או להפצה פנימית.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

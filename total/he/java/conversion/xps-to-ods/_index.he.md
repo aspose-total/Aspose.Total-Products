@@ -102,7 +102,51 @@ otherformats: XLTX TSV XLSB CSV SXC DIF FODS TXT MD EXCEL XLAM XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XPS ל־**ODS (גיליון נתונים של OpenDocument)** מאפשרת תאימות רחבה עם שני התוכנות LibreOffice ו־OpenOffice תוך שמירה על מבני נתונים מאורגנים. אידיאלי עבור סביבות שיתופיות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* גיליונות נתונים של עסקים משותפים בין מספר חבילות תוכנה למשרד.
+
+* דוחות נתונים של ממשלה או ארגון לא ממשלתי הדורשים פורמטים פתוחים.
+
+* מעקב ומדדי ביצועים של צוותים במסגרת פרויקטים.
+
+* תיעוד טכני ומחקרי בצורת גיליון נתונים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה אוטומטית בצמיחה מרובה של XPS ל־ODS.
+
+* שילוב במערכות ניהול מסמכים ותהליכי עבודה.
+
+* יצירת ODS מתוזמנת לדוחות חוזרים.
+
+* חלוקת נתונים אוטומטית בין פלטפורמות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

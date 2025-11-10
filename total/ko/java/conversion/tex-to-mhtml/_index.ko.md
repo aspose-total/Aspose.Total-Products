@@ -143,7 +143,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **MHTML (MIME HTML)**로 변환하면 LaTeX 문서를 하나의 파일로 렌더링하여 방정식, 표 및 그래픽을 오프라인 또는 온라인으로 볼 수 있게 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LaTeX 연구 논문을 자체 포함 웹 페이지로 보관.
+
+* 그래픽 및 방정식이 포함된 LaTeX 기반 보고서 공유.
+
+* 단일 MHTML 파일에서 대화식 강의 자료 생성.
+
+* 오프라인 전자 학습 모듈로 기술 콘텐츠 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 강의 자료 라이브러리를 위한 일괄 TEX-to-MHTML 변환.
+
+* 자동화된 전자 학습 콘텐츠 생성에 통합.
+
+* LaTeX 소스로부터 예약된 MHTML 업데이트.
+
+* 연구 논문 공유를 위한 트리거 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

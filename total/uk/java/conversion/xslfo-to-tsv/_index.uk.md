@@ -102,7 +102,55 @@ otherformats: MD ODS CSV SXC XLT XLTM EXCEL XLSM FODS XLTX XLAM DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення XSLFO на **TSV (значення, розділені табуляцією)** спрощує вилучення табличних даних для аналітики, імпорту в базу даних або процесів ETL. TSV є легким, зручним для читання та широко підтримується мовами програмування та інструментами обробки даних.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Експорт XSLFO звітів у TSV для введення в базу даних.
+
+* Підготовка даних, зручних для аналітики, зі структурованих таблиць XSLFO.
+
+* Міграція даних з фінансових таблиць XSLFO на аналітичні платформи.
+
+* Обмін простими табличними даними у форматі TSV для легкої інтеграції.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Планова пакетна конвертація з XSLFO в TSV для BI-каналів.
+
+* Інтеграція ETL для реальних аналітичних робочих процесів.
+
+* Спрацьоване експортування TSV з XSLFO звітів для автоматизованих інформаційних панелей.
+
+* Програмна конвертація для обробки великомасштабних наборів даних XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

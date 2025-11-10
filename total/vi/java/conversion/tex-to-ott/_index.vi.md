@@ -143,7 +143,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **OTT (Mẫu Văn bản OpenDocument)** giúp giáo viên, nhà nghiên cứu và doanh nghiệp tạo ra các mẫu có thể tái sử dụng với kiểu dáng LaTeX trong các định dạng mở, tối ưu hóa tiêu chuẩn hóa tài liệu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Mẫu tài liệu giảng dạy với định dạng LaTeX nhất quán.
+
+* Mẫu OpenDocument cho báo cáo thí nghiệm cộng tác.
+
+* Mẫu báo cáo dự án và doanh nghiệp cho bộ ứng dụng văn phòng mã nguồn mở.
+
+* Biểu mẫu chuẩn hóa cho mục đích học thuật hoặc quản trị.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo mẫu tự động cho môi trường đa người dùng.
+
+* Tích hợp vào luồng công việc LMS và văn phòng mã nguồn mở.
+
+* Cập nhật hàng loạt thư viện mẫu cho các cơ sở giáo dục.
+
+* Chuyển đổi LaTeX động sang OTT cho tài liệu nghiên cứu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -143,7 +143,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **GIF (Grafik Değişim Formatı)** olarak dönüştürmek, LaTeX görselleştirmelerinin ve küçük animasyonların çevrimiçi paylaşılmasına veya eğitim materyallerine gömülmesine olanak tanır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Eğitim içeriği için basit LaTeX animasyonları.
+
+* Adım adım problem çözme diyagramlarının paylaşımı.
+
+* E-öğrenme platformlarına animasyonlu formüllerin gömülmesi.
+
+* GIF formatında tekrarlayan LaTeX hesaplamalarının görselleştirilmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Eğitim için toplu TEX'ten GIF'e dönüşümün otomatikleştirilmesi.
+
+* LMS ve çevrimiçi kurs içeriğiyle entegrasyon.
+
+* LaTeX çizimlerinden veya dizilerinden GIF'lerin tetiklenerek oluşturulması.
+
+* LaTeX güncellemelerine dayalı olarak eğitim GIF'lerinin otomatik olarak güncellenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

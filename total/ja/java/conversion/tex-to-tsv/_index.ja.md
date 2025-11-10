@@ -47,7 +47,51 @@ TEXファイルをTSVに変換するときに、出力TSVファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**TSV（タブ区切り値）**に変換すると、数値とテキストのLaTeXデータ用の軽量な代替形式が提供され、分析やソフトウェアのインポートに適しています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 統計分析用にエクスポートされた学術実験テーブル。
+
+* Python、R、またはMATLAB用のエンジニアリングデータセット。
+
+* 分析プラットフォーム用に変換された軽量なLaTeXテーブル。
+
+* チーム間での軽量なLaTeXデータ共有。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 研究パイプラインでのバッチTEXからTSVへの変換。
+
+* AIモデル用のLaTeX表データの自動エクスポート。
+
+* 共同分析ダッシュボード用のリアルタイムTSV生成。
+
+* 構造化されたデータセットのETLパイプラインへの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

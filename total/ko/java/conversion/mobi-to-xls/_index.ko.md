@@ -61,7 +61,47 @@ MOBI를 XLS로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI를 XLS로 변환하면 구조화된 메타데이터를 보존하면서 오래된 Microsoft Excel 버전과의 호환성을 보장합니다. 이는 여전히 레거시 Excel 워크플로를 사용하는 기업 시스템에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+- Excel 97-2003과 호환되는 MOBI 도서 목록 생성.
+
+- 오프라인 카탈로그 보고를 위한 메타데이터 내보내기.
+
+- 오래된 기업 시스템에서의 출판 로그 관리.
+
+- 비 클라우드 환경에서 XLS로 준비된 데이터 세트 공유.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+- 보관용 MOBI 데이터에 대한 자동화된 XLS 내보내기.
+
+- 레거시 회계 또는 출판 시스템 통합.
+
+- XLS 형식의 MOBI 메타데이터 정기적 동기화.
+
+- 정부 디지털 출판 기록용 XLS 출력.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

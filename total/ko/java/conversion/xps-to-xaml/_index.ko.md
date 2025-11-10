@@ -135,7 +135,55 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS (XML Paper Specification) 파일을 **XAML (Extensible Application Markup Language)**으로 변환하면 개발자와 디자이너가 WPF (Windows Presentation Foundation) 애플리케이션에서 문서 콘텐츠를 재사용할 수 있어 레이아웃, 글꼴 및 벡터 그래픽을 보존할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* WPF 기반 데스크톱 애플리케이션에 정적 문서 시각 요소 통합.
+
+* XAML 기반 UI 요소를 사용하여 대화형 대시보드 디자인.
+
+* 소프트웨어 인터페이스 및 컨트롤에서 XPS 레이아웃 재사용.
+
+* 정확한 문서 렌더링이 필요한 학술적 또는 기업용 e-러닝 앱.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XPS 파일을 XAML로 자동 일괄 변환하여 소프트웨어 개발 파이프라인에 통합.
+
+* 데스크톱 애플리케이션 업데이트를 위한 CI/CD 워크플로와 통합.
+
+* 반복되는 앱 콘텐츠를 위한 XAML 자산의 예약 생성.
+
+* 여러 WPF 프로젝트에서 XPS 문서를 간편하게 재사용.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

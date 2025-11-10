@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı DICOM görüntüsünü ihtiyaçlarınıza göre de d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'in **DICOM (Tıpta Dijital Görüntüleme ve İletişim) 'e dönüştürülmesi, belge görsellerinin tıbbi görüntüleme sistemlerine entegrasyonunu sağlar, klinik uygulamalar için yüksek çözünürlüklü detayları korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Tıbbi raporların radyoloji görüntüleme iş akışlarına gömülmesi.
+
+* Hastaların taramalarıyla birlikte tanısal belgelerin arşivlenmesi.
+
+* Raporlar için DICOM uyumluluğu gerektiren hastane sistemleri.
+
+* Klinik belge görsellerini entegre eden uzaktan tıp platformları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Hastane kayıt sistemleri için toplu XPS'ten DICOM'a dönüşüm.
+
+* PACS (Resim Arşivleme ve İletişim Sistemleri) ile otomatik entegrasyon.
+
+* Hasta kayıt görselleri için planlanmış güncellemeler.
+
+* Tıbbi görüntü verileri işleme için akışkan iş akışları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

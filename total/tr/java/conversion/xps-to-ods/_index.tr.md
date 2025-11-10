@@ -47,7 +47,55 @@ XPS dosyasını ODS'ye dönüştürürken, çıktı ODS dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **ODS (OpenDocument Elektronik Tablo)**'a dönüştürmek, hem LibreOffice hem de OpenOffice ile geniş uyumluluk sağlarken yapılandırılmış veri düzenlerini korumayı sağlar. İşbirlikçi ortamlar için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Birden fazla ofis paketi arasında paylaşılan kurumsal elektronik tablolar.
+
+* Açık formatları gerektiren hükümet veya STK veri raporları.
+
+* Ekip tabanlı proje takibi ve performans metrikleri.
+
+* Elektronik tablo biçiminde teknik ve araştırma belgeleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XPS arşivlerinden ODS'ye toplu otomatik dönüşüm.
+
+* Belge yönetimi ve iş akışı sistemlerine entegrasyon.
+
+* Tekrarlayan raporlar için zamanlanmış ODS oluşturma.
+
+* Çapraz platform otomatik veri dağıtımı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

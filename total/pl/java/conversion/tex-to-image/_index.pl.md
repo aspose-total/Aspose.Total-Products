@@ -57,7 +57,51 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz IMAGE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **OBRAZ (ogólne formaty rastrowe)** przekształca równania, tabele i figury LaTeX-a na uniwersalnie kompatybilne formaty obrazów do celów internetowych, drukowanych i dokumentacyjnych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Osadzanie generowanych przez LaTeX figury w blogach i na stronach internetowych.
+
+* Przygotowywanie obrazów o wysokiej rozdzielczości do prac naukowych.
+
+* Udostępnianie diagramów w uniwersalnie czytelnych formatach.
+
+* Konwertowanie złożonych tabel LaTeX na migawki obrazów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja TEX do obrazu w trybie wsadowym dla bibliotek treści.
+
+* Integracja z automatyzacją publikacji i przepływami pracy na stronach internetowych.
+
+* Wywoływane aktualizacje dla treści lekcyjnych lub tutoriali opartych na obrazach.
+
+* Eksportowanie wielu diagramów LaTeX do spójnych formatów obrazów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

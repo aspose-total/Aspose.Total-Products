@@ -105,7 +105,51 @@ otherformats: IMAGE TGA WMF JPEG2000 SVGZ APNG  EMZ PSD WMZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення TEX у **DXF (Drawing Exchange Format)** дозволяє використовувати технічні діаграми, креслення та схеми, створені в LaTeX, у CAD-програмах для інженерних та архітектурних проєктів.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Інженерні схеми з технічних документів LaTeX.
+
+* Архітектурні діаграми для інтеграції з CAD.
+
+* Візуалізація графіків на основі LaTeX для дизайн-проєктів.
+
+* Виготовлення або прототипування діаграм з LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетне перетворення TEX у DXF для інженерних процесів.
+
+* Інтеграція з CAD-програмними конвеєрами.
+
+* Автоматизоване спричинення генерації діаграм дизайну.
+
+* Архівування схем LaTeX у форматі DXF для використання на різних платформах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

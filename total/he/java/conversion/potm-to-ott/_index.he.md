@@ -99,7 +99,51 @@ otherformats: DOTX ODT WORDML DOCX TEXT WORD FLATOPC DOTM DOC RTF DOCM DOT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POTM ל-OTT יוצרת תבניות טקסט פתוחות חוזרות המתאימות ל-LibreOffice Writer וליישומים דומים. תבניות אלו שומרות עיצוב, סגנונות ורכיבי עיצוב עבור סביבות שאינן של מיקרוסופט.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* עיצוב תבניות OTT עבור משרדים פתוחים המשתמשים בסגנונות של PowerPoint.
+
+* המרת תוכן מצגת למבני תבניות מבוססי ODT.
+
+* שימוש בתבניות בפורמט פתוח בממשל או בסקטור הציבורי.
+
+* תקני תיעוד של ארגונים לא ממשלתיים בשימוש בקבצי OTT חוזרים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת תבניות OTT אוטומטיות במערכות ניהול מסמכים פתוחות.
+
+* צינורות פרסום מסמכים מרובי פלטפורמות באמצעות פורמטים פתוחים.
+
+* זרימי עבודה להמרה המקשרים בין אקוסיסטמות של מיקרוסופט ו-LibreOffice.
+
+* שימוש מוסדי בקניית תבניות OTT ממצגות בגודל גדול.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

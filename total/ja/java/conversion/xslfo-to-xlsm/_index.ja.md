@@ -47,7 +47,55 @@ XSLFOファイルをXLSMに変換するときに、出力XLSMファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**XLSM（マクロ有効Excel）**に変換すると、表形式のデータが保持され、マクロを使用した高度な自動化が可能になります。XLSMは動的レポーティング、ワークフローの自動化、財務モデリングに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* XSLFOベースの計算をExcelマクロに埋め込む。
+
+* XLSMワークブックを使用して繰り返し報告タスクを自動化する。
+
+* XSLFOソースデータを使用してインタラクティブなダッシュボードを生成する。
+
+* マクロ駆動の財務ワークフロー用のXSLFOテンプレートを準備する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XSLFOレポートからXLSMワークブックの自動生成。
+
+* 管理レビュー用のスケジュールされたマクロ有効レポートの更新。
+
+* VBAおよび企業ワークフロー自動化との統合。
+
+* 動的な財務ダッシュボード用のXLSM変換のトリガー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

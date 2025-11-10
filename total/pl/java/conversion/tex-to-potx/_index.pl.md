@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **POTX (szablon PowerPoint bez makr)** pozwala na bezpieczne, wielokrotnego użytku szablony slajdów z formatowaniem LaTeX, idealne do środowisk wielu użytkowników.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Standaryzowane szablony slajdów kursowych z równaniami LaTeX.
+
+* Slajdy konferencyjne bez ograniczeń makr.
+
+* Wielokrotnego użytku szablony prezentacji projektów.
+
+* Wykłady akademickie z treściami bogatymi w formuły.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Tworzenie zbiorcze szablonów LaTeX do POTX.
+
+* Automatyczne aktualizacje szablonów z repozytoriów LaTeX.
+
+* Integracja z systemami edukacyjnymi LMS lub korporacyjnymi systemami slajdów.
+
+* Generowanie szablonów slajdów na żądanie dla zespołów wielu autorów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

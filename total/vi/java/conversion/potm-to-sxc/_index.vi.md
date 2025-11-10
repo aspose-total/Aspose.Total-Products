@@ -61,7 +61,55 @@ Trong khi chuyển đổi tệp POTM sang SXC, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi từ POTM sang SXC tạo ra các tệp bảng tính cũ. Định dạng này hữu ích để tương thích với các bộ ứng dụng văn phòng cũ hơn và đảm bảo dữ liệu trình bày lịch sử vẫn có thể được phân tích.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Di chuyển bảng tài chính dựa trên slide sang SXC cho các hệ thống cũ.
+
+* Chuyển đổi báo cáo dự án cho các tổ chức sử dụng phần mềm văn phòng cũ.
+
+* Lưu trữ nội dung slide số học trong định dạng bảng tính tương thích ngược với các phiên bản cũ.
+
+* Chia sẻ bảng trình bày với các nhóm sử dụng các ứng dụng lỗi thời.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt các mẫu POTM sang SXC để lưu trữ.
+
+* Tích hợp với các hệ thống báo cáo cũ.
+
+* Kích hoạt việc tạo ra SXC để bảo tồn dữ liệu lịch sử.
+
+* Quy trình làm việc từ slide sang bảng tính cũ tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

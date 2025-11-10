@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 IMAGE 이미지를 회전할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **이미지(일반 래스터 형식인 PNG 또는 BMP)**로 변환하면 보고서, 문서 및 디지턈 콘텐츠 배포에 넓은 호환성을 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 보고서 및 아카이브용 고품질 이미지 내보내기.
+
+* 온라인 또는 인쇄 배포용 교육 자료.
+
+* XPS 파일에서 파생된 마케팅 자료.
+
+* 기업 또는 정부용 시각적 문서화.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 일괄 XPS-to-IMAGE 변환 파이프라인.
+
+* 웹 게시 또는 인트라넷 시스템 통합.
+
+* XPS 저장소에서 이미지 아카이브의 예약 생성.
+
+* 콘텐츠 공유를 위한 자동 문서-이미지 워크플로우.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

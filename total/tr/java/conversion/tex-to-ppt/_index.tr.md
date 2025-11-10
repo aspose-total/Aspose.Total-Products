@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+LaTeX belgelerinden standart düzenlenebilir slaytlar üreten **PPT (PowerPoint Sunumu)** dönüştürme, formülleri, tabloları ve diyagramları koruyarak öğretim, araştırma ve kurumsal kullanım için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Mühendislik veya bilimsel araştırma sunumları.
+
+* LaTeX denklemleri içeren akademik dersler ve seminerler.
+
+* Profesyonel proje teklifleri.
+
+* Veri tablolarıyla etkileşimli eğitim materyalleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Araştırma ekipleri için toplu LaTeX'ten-PPT'ye dönüştürmeler.
+
+* Otomatik sunum oluşturma boru hatlarına entegrasyon.
+
+* Ders veya konferans slaytlarının tetiklenen oluşturulması.
+
+* LaTeX içerikli PPT slaytlarında çoklu yazar işbirliği.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

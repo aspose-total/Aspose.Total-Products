@@ -57,7 +57,55 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz SVGZ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja XSLFO do **SVGZ (Skompresowany SVG)** zapewnia skalowalną grafikę wektorową w skompresowanej formie, idealną do zastosowań internetowych, pulpitów nawigacyjnych i aplikacji responsywnych. SVGZ zmniejsza rozmiar pliku, zachowując jakość.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Tworzenie interaktywnych wykresów z raportów XSLFO do pulpitów nawigacyjnych w internecie.
+
+* Osadzanie skalowalnych wizualizacji w aplikacjach responsywnych.
+
+* Archiwizacja tabel finansowych opartych na wektorach w formacie skompresowanym.
+
+* Przygotowywanie diagramów do e-learningu lub baz wiedzy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja XSLFO na SVGZ do raportowania internetowego.
+
+* Zaplanowany eksport skompresowanej grafiki wektorowej.
+
+* Integracja z zautomatyzowanymi przepływami pracy pulpitów nawigacyjnych online.
+
+* Wywoływane tworzenie obrazów SVGZ z analiz XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

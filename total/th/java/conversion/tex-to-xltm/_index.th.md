@@ -47,7 +47,51 @@ otherformats: FODS XLSB MD XLTX ODS XLTM EXCEL TXT XLT XLAM DIF XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **XLTM (Excel Macro-Enabled Template)** รวมเทมเพลตที่ใช้ซ้ำกับแมโครเพื่อให้สามารถใช้งานได้ในการทำงานข้อมูล LaTeX อัตโนมัติและรายงานที่เปลี่ยนไปตามเวลา.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* เทมเพลตทางวิชาการที่มีแมโครซ้อนอยู่สำหรับการตรวจคะแนนอัตโนมัติ.
+
+* เทมเพลตทางการเงินและวิศวกรรมที่ใช้กำลังจากชุดข้อมูล LaTeX.
+
+* แดชบอร์ดที่เปลี่ยนไปตามเวลาด้วยการคำนวณของแมโคร.
+
+* เทมเพลตโครงการที่ใช้ร่วมกันสำหรับทีมผู้เขียนหลายคน.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การสร้างเทมเพลต LaTeX-to-XLTM แบบกลุ่มสำหรับองค์กร.
+
+* การเติมแมโครอัตโนมัติจากแหล่งข้อมูล LaTeX.
+
+* การรวมเข้ากับการอัตโนมัติของกระบวนการทำงานสำหรับโครงการวิจัย.
+
+* การสร้างเทมเพลตที่เปิดใช้งานแมโครสำหรับผู้ใช้หลายคน.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

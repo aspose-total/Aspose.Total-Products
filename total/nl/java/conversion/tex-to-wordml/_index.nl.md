@@ -143,7 +143,55 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het converteren van TEX naar **WordML (Microsoft Word XML-indeling)** maakt LaTeX-inhoud volledig compatibel met op XML gebaseerde Word-documenten, waardoor geautomatiseerde workflows, inhoudsvalidatie en integratie met bedrijfssystemen mogelijk worden.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Genereren van op XML gebaseerde wetenschappelijke rapporten uit LaTeX-bronnen.
+
+* Workflows voor bedrijfsdocumentatie met gestructureerde WordML.
+
+* Samenwerking tussen meerdere auteurs met geautomatiseerde inhoudssamenvoeging.
+
+* Publicatie van academische of technische materialen op basis van XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerd genereren van WordML-documenten uit LaTeX-repositories.
+
+* Integratie in bedrijfscontentmanagementsystemen.
+
+* Getriggerde XML-export voor grootschalige onderzoekspublicaties.
+
+* Batchverwerking voor nalevingsrapportage en academische indieningen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

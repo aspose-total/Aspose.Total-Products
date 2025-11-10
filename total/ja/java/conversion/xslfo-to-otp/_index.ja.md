@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**OTP（OpenDocument Presentation Template）**に変換すると、構造化されたXSLFOデータから再利用可能なスライドテンプレートを作成できます。OTPテンプレートはチーム全体でプレゼンテーションの書式を標準化します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* XSLFOで生成されたレポートから企業プレゼンテーションテンプレートを準備する。
+
+* 再利用可能なOTP形式でトレーニングモジュールを標準化する。
+
+* XSLFOコンテンツから一貫したスタイリングで投資家向けピッチデッキを作成する。
+
+* 将来の再利用のために四半期レポートテンプレートをアーカイブする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* テンプレートライブラリ向けのXSLFOからOTPへの定期的なバッチ変換。
+
+* 自動化されたスライド生成パイプラインとの統合。
+
+* 新しいXSLFOレポートシリーズのためのトリガーされたOTPテンプレート作成。
+
+* 部署間でのXSLFOベースのテンプレートの自動展開。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

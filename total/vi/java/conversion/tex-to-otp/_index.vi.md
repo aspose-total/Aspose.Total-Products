@@ -135,7 +135,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **OTP (OpenDocument Presentation Template)** tạo ra các mẫu trình bày có thể tái sử dụng với định dạng LaTeX để thiết kế các slide bài giảng hoặc doanh nghiệp một cách nhất quán.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Mẫu bài giảng chuẩn với các phương trình được thiết kế theo LaTeX.
+
+* Mẫu slide hội nghị cho các nhóm nghiên cứu.
+
+* Tài liệu giáo dục có thể tái sử dụng với nội dung phong phú về công thức.
+
+* Mẫu đề xuất dự án cho các bài thuyết trình kỹ thuật.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo hàng loạt các mẫu LaTeX-to-OTP cho các khóa học.
+
+* Cập nhật mẫu được kích hoạt từ các kho LaTeX.
+
+* Phân phối tự động các mẫu slide cho các cộng tác viên.
+
+* Tích hợp với quy trình làm việc trình bày LMS mã nguồn mở.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

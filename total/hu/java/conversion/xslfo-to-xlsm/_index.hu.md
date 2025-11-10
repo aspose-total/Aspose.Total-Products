@@ -47,7 +47,55 @@ A XSLFO-fájl XLSM-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **XLSM (Makróval ellátott Excel)** formátummá megőrzi a táblázatos adatokat, és lehetővé teszi a makrók használatával történő haladó automatizálást. Az XLSM ideális dinamikus jelentéskészítéshez, munkafolyamat-automatizáláshoz és pénzügyi modellezéshez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* XSLFO alapú számítások beágyazása Excel-makrókba.
+
+* Ismétlődő jelentési feladatok automatizálása XLSM munkafüzetek segítségével.
+
+* Interaktív vezérlőpultok létrehozása XSLFO forrású adatokkal.
+
+* XSLFO sablonok előkészítése makróvezérelt pénzügyi munkafolyamatokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* XLSM munkafüzetek automatikus generálása XSLFO jelentésekből.
+
+* Ütemezett makróval ellátott jelentésfrissítések a vezetőségi áttekintéshez.
+
+* Integráció a VBA-val és a vállalati munkafolyamat-automatizálással.
+
+* Kiváltott XLSM konverzió dinamikus pénzügyi vezérlőpultokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

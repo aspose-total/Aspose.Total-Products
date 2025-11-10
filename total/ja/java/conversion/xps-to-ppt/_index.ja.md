@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**PPT（PowerPoint 97-2003）**に変換すると、古いMicrosoft Officeバージョンとの後方互換性が確保され、編集可能なスライド、テキスト、基本的な書式が保持されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 古いOfficeバージョンと互換性のあるレガシー企業プレゼンテーション。
+
+* アーカイブおよび歴史的なスライドデッキの保存。
+
+* 古いソフトウェアを使用する機関向けの教育コンテンツ。
+
+* 異なるバージョンの環境向けの内部報告およびトレーニングデッキ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 企業アーカイブ用にXPSファイルをPPTに一括変換。
+
+* 後方互換性のあるプレゼンテーションの定期的な自動生成。
+
+* レガシードキュメントワークフローとの統合。
+
+* 複数のOfficeバージョンでのスムーズなスライドデッキ作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

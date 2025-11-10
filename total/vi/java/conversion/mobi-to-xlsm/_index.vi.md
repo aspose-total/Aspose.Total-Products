@@ -61,7 +61,47 @@ Sau khi chuyển đổi MOBI sang XLSM, [Aspose.Cells for Java](https://products
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp MOBI thành XLSM (Macro-Enabled Excel Workbook) giúp tự động hóa trực tiếp trong Excel, cho phép thao tác dữ liệu eBook động thông qua các macro VBA được nhúng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+- Phân tích danh mục MOBI tương tác bằng cách sử dụng các macro Excel.
+
+- Theo dõi xu hướng tự động cho xuất bản số.
+
+- Tạo bảng điều khiển pivot cho các chỉ số tương tác của độc giả.
+
+- Tạo các công cụ được kích hoạt bằng macro cho quản lý quy trình biên tập.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+- Nhập MOBI dựa trên cơ sở kích hoạt thông qua Excel VBA.
+
+- Tự động tạo báo cáo sau khi phân tích MOBI.
+
+- Tích hợp với bảng điều khiển xuất bản được kích hoạt bằng macro.
+
+- Chuyển đổi hàng loạt dữ liệu từ MOBI thông qua XLSM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

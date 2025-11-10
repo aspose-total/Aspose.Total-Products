@@ -47,7 +47,55 @@ XSLFO dosyasını XLAM'ye dönüştürürken, çıktı XLAM dosya biçiminize fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **XLAM (Excel Eklentisi)**'e dönüştürülmesi, XSLFO üretilen veri ve makroların tekrar kullanılabilir Excel eklentilerine gömülmesini sağlar. XLAM, otomasyonu, özel raporlamayı ve etkileşimli elektronik tablo uygulamalarını destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Takım kullanımı için XSLFO raporlama şablonlarını Excel eklentileri olarak paketleme.
+
+* XSLFO verilerinden türetilen otomatik hesaplama araçlarını dağıtma.
+
+* Özel Excel gösterge panolarına XSLFO analitiklerini entegre etme.
+
+* XLAM eklentileri ile tekrarlanabilir raporlama iş akışlarını etkinleştirme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Yineleyen görevler için XSLFO'dan XLAM oluşturmayı otomatikleştirme.
+
+* Güncellenmiş XSLFO verileri ile eklentilerin zamanlanmış dağıtımı.
+
+* VBA tabanlı iş akışı otomasyonu ile entegrasyon.
+
+* Kurumsal raporlama araçları için tetiklenen XLAM eklentilerinin oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **OTP (OpenDocument Presentation Template)** levert herbruikbare presentatiesjablonen op met LaTeX-opmaak voor consistente opmaak van lezingen of zakelijke dia's.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Gestandaardiseerde lezingssjablonen met LaTeX-opgemaakte vergelijkingen.
+
+* Conferentiediasjablonen voor onderzoeksteams.
+
+* Herbruikbaar educatief materiaal met formule-rijke inhoud.
+
+* Projectvoorstelsjablonen voor technische presentaties.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchgeneratie van LaTeX-naar-OTP-sjablonen voor cursussen.
+
+* Sjabloonupdates geactiveerd vanuit LaTeX-opslagplaatsen.
+
+* Geautomatiseerde distributie van dia-sjablonen naar samenwerkingspartners.
+
+* Integratie met open-source LMS-presentatieworkflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

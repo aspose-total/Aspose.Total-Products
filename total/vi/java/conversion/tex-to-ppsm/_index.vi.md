@@ -135,7 +135,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **PPSM (PowerPoint Macro-Enabled Show)** cho phép nội dung LaTeX bao gồm các macro để tính toán tự động, sơ đồ tương tác và trình bày động.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Bài giảng học thuật dựa trên macro với bảng động.
+
+* Trình bày nghiên cứu với biểu đồ tự cập nhật.
+
+* Slide đào tạo doanh nghiệp với yếu tố tương tác.
+
+* Slide hội nghị đa tác giả với công thức LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ TEX sang PPSM cho các bài thuyết trình tương tác.
+
+* Tích hợp tự động nội dung LaTeX vào các bộ slide có macro.
+
+* Cập nhật theo lịch trình cho tài liệu thực hành động.
+
+* Tạo ra theo yêu cầu cho quy trình trình bày nghiên cứu hoặc doanh nghiệp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,55 @@ otherformats: SXC XLTM FODS EXCEL CSV ODS XLAM TXT XLTX XLT DIF XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення TEX на **TSV (значення, розділені табуляцією)** надає альтернативний легкий формат для числових і текстових даних LaTeX, що підходить для аналітики та імпорту програмного забезпечення.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+
+
+
+* Таблиці академічних експериментів, експортовані для статистичного аналізу.
+
+* Інженерні набори даних для Python, R або MATLAB.
+
+* Фінансові таблиці LaTeX, перетворені для аналітичних платформ.
+
+* Легке обмін даними LaTeX між командами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетне перетворення TEX у TSV у дослідницьких конвеєрах.
+
+* Автоматизований експорт даних LaTeX для моделей штучного інтелекту.
+
+* Генерація TSV в реальному часі для спільних аналітичних інформаційних панелей.
+
+* Інтеграція в конвеєри ETL для структурованих наборів даних.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

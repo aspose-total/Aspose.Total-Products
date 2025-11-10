@@ -135,7 +135,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **PPTM (Makróval aktivált PowerPoint)** formátumba szerkeszthető diákokat kínál automatizálási lehetőségekkel. A PPTM ideális dinamikus jelentésekhez, interaktív vezérlőpultokhoz és ismétlődő prezentációkhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* XSLFO-alapú számítások beágyazása interaktív diákba.
+
+* Automatizált teljesítményértékelési vezérlőpultok előkészítése.
+
+* Makróval aktivált képzési vagy oktató diák készítése.
+
+* Dinamikus befektetői vagy igazgatói prezentációk terjesztése.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ütemezett XSLFO jelentések átalakítása PPTM diákká.
+
+* Integráció VBA automatizálási csatornákkal.
+
+* Ismétlődő XSLFO tartalomból kiváltott makróval aktivált diák generálása.
+
+* Automatizált tételkonverzió dinamikus vállalati prezentációkhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,47 @@ otherformats: XLSB TSV XLTM SXC ODS EXCEL FODS XLT DIF XLAM XLTX XLSM XLSX XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การส่งออก MOBI เป็น FODS (Flat OpenDocument Spreadsheet) จะให้ผลลัพธ์ของสเปรดชีตที่ใช้ XML ที่เหมาะสำหรับการแลกเปลี่ยนข้อมูลแบบเบาๆ มันเหมาะสำหรับสภาพแวดล้อมแบบโอเพนซอร์สและระบบที่ต้องการข้อมูล eBook โครงสร้างเป็นข้อความธรรมดา
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+- การจัดการห้องสมุด eBook ในแอปพลิเคชันสเปรดชีตโอเพนซอร์ส
+
+- การแก้ไขคุณสมบัติเนื้อหา MOBI ภายใน LibreOffice Calc
+
+- การสร้างรายงานเบาๆ สำหรับการวิเคราะห์ห้องสมุดดิจิทัล
+
+- การแชร์เมตาดาต้าในทีมโดยใช้รูปแบบเปิด
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+- การแปลง MOBI เป็น FODS แบบกลุ่มสำหรับพอร์ทัลข้อมูลเปิด
+
+- การรวมเข้ากับท่อข้อมูล ETL โอเพนซอร์ส
+
+- การแยกวิเคราะห์ XML สำหรับการตรวจสอบและทำความสะอาดเมตาดาต้า
+
+- การเผยแพร่ข้อมูลที่ใช้ FODS สำหรับสถาบันการศึกษา
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

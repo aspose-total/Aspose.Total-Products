@@ -54,7 +54,51 @@ APIを使用すると、パスワードで保護されたTXTドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXTを**PPTX（PowerPoint XML Presentation）**に変換すると、オフラインおよびオンラインの両方で使用できる多目的でモダンなスライドデッキが作成されます。PPTXは高度な書式設定、メディアの埋め込み、クラウドコラボレーションをサポートしています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* テキスト計画から生成されたビジネス戦略プレゼンテーション。
+
+* 講義ノートから変換された学術講義スライド。
+
+* 技術仕様から作成された製品デモ。
+
+* 運用テキストファイルから直接生成されたチームレポートスライド。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 週次更新用にスケジュールされたTXTからPPTXへのバッチ変換。
+
+* AI支援スライドデザインプラットフォームとの統合。
+
+* CRMやERPのテキストログからのリアルタイムスライド作成。
+
+* マーケティング、営業、内部報告のための自動生成プレゼンテーション。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

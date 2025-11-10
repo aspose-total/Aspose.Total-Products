@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **PPS (PowerPoint Gösterisi)**e dönüştürmek, otomatik dersler, eğitim oturumları ve LaTeX içeriğinin hızlı paylaşımı için hemen oynatılabilen yalnızca slaytlardan oluşan sunumlar oluşturur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Hemen kullanıma hazır akademik ders slaytları.
+
+* Etkileşimli atölye sunumları.
+
+* Müşteri sunumları için mühendislik proje özetleri.
+
+* Konferans için LaTeX tabanlı slaytlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Zamanlanmış toplu TEX'ten-PPS'e dönüşümler.
+
+* LaTeX içeriğinden eğitim slaytlarının otomatik oluşturulması.
+
+* Sunum dağıtım sistemleriyle entegrasyon.
+
+* Seminerler veya e-öğrenme platformları için tetiklenen PPS oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,51 @@ XSLFO 파일을 XLSB로 변환하는 동안 출력 XLSB 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+대규모 데이터 세트에 대한 고성능 스프레드시트 저장을 제공하는 XSLFO를 **XLSB(Excel Binary Workbook)**로 변환하면 파일 크기가 줄어들고 계산이 가속화되며 복잡한 서식이 보존됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 대규모 표 형식 데이터를 포함하는 XSLFO 금융 모델 처리.
+
+* XSLFO 운영 보고서를 조밀한 이진 형식으로 보관.
+
+* 데이터 중심 분석을 위한 Excel 대시보드 생성.
+
+* XSLFO 템플릿에서 XLSB 기반 예측 시트 준비.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 빠른 로딩을 위해 XSLFO 보고서를 XLSB로 일괄 변환.
+
+* 기업 분석 애플리케이션을 위한 예약된 내보내기.
+
+* 자동화된 Excel 기반 보고 파이프라인 통합.
+
+* 대규모 금융 보고서를 위한 XSLFO에서 트리거된 XLSB 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,55 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter arquivos XSLFO para **POT (Modelo do PowerPoint)** permite slides padronizados e reutilizáveis para usuários do Microsoft PowerPoint. Os modelos POT preservam layouts de slides, estilos e formatação de tabelas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Criar modelos de relatórios corporativos a partir de resumos financeiros XSLFO.
+
+* Preparar slides de acompanhamento mensal de projetos para apresentações consistentes.
+
+* Projetar módulos de treinamento a partir de dados estruturados XSLFO.
+
+* Gerar decks de apresentação de investidores reutilizáveis com layouts de slides predefinidos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Geração automatizada em lote de arquivos POT a partir de relatórios XSLFO.
+
+* Criação agendada de modelos para apresentações recorrentes da equipe.
+
+* Integração com pipelines de automação de slides corporativos.
+
+* Conversão acionada de dados XSLFO em modelos POT prontos para uso.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

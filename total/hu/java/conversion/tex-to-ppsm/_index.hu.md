@@ -135,7 +135,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok átalakítása **PPSM formátumra (PowerPoint Macro-Enabled Show)** lehetővé teszi a LaTeX tartalom számára a makrók használatát automatizált számításokhoz, interaktív diagramokhoz és dinamikus prezentációkhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+
+
+* Makróvezérelt egyetemi előadások dinamikus táblázatokkal.
+
+* Kutatási prezentációk automatikusan frissülő grafikonokkal.
+
+* Vállalati tréning prezentációk interaktív elemekkel.
+
+* Több szerző által készített konferencia diák LaTeX képletekkel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges TEX-PPSM konverziók interaktív prezentációkhoz.
+
+* LaTeX tartalom automatizált integrálása makróval ellátott diákba.
+
+* Ütemezett frissítések dinamikus workshop anyagokhoz.
+
+* Kiváltott létrehozás kutatási vagy vállalati prezentációs folyamatokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

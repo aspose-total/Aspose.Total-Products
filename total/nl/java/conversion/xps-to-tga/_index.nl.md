@@ -57,7 +57,51 @@ Met behulp van de API kunt u ook de uitgevoerde TGA-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XPS naar **TGA (Targa-afbeeldingsbestand)** levert hoogwaardige rasterafbeeldingen op die geschikt zijn voor professionele grafische en videoproductie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Hoogwaardige visuals voor video- en multimediaprojecten.
+
+* Gamedesign-assets afgeleid van XPS-diagrammen.
+
+* Technische illustraties die lossless rasterafbeeldingen vereisen.
+
+* Bedrijfsgrafieken voor presentatie- of archiveringsdoeleinden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch XPS-naar-TGA conversiepijplijnen.
+
+* Geplande creatie voor multimediaproductieworkflows.
+
+* Integratie met grafische bewerkings- en videosoftware.
+
+* Geautomatiseerde verwerking van technische of ontwerp visuals.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

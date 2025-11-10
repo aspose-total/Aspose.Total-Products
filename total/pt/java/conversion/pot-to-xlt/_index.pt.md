@@ -61,7 +61,45 @@ Ao converter o arquivo POT para XLT, você também pode adicionar marca d'água 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter POT em XLT (Modelo do Excel) ajuda as organizações a estabelecer modelos de planilha reutilizáveis a partir de layouts de apresentação. O XLT suporta entrada de dados eficiente e relatórios consistentes entre equipes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Design de modelos financeiros a partir de apresentações de orçamento do PowerPoint.
+
+* Criação de planilhas padrão para entrada de dados para RH ou contabilidade.
+
+* Reutilização de visuais de treinamento em rastreadores de desempenho baseados no Excel.
+
+* Geração de modelos de negócios reutilizáveis a partir de slides.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Geração automatizada de XLT a partir de designs de apresentações corporativas.
+
+* Sincronização de modelos em sistemas de gerenciamento de documentos.
+
+* Integração em ferramentas de planejamento de recursos empresariais.
+
+* Implantação simplificada de modelos de Excel padronizados.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

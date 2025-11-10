@@ -57,7 +57,51 @@ Med hjälp av API:t kan du också rotera den utgående IMAGE-bilden enligt dina 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av XSLFO till **BILD (Generiska Rasterformat)** ger mångsidig utdata för webb, utskrift och skrivbordsapplikationer. Stödda format kan inkludera PNG, BMP eller TIFF beroende på kraven.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* Generera statiska visuella element från strukturerade XSLFO-tabeller.
+
+* Förbereda grafik för rapporteringsinstrumentpaneler eller dokumentation.
+
+* Exportera diagram och tabeller för mobila appar eller e-lärande.
+
+* Skapa rasteriserade arkiv av återkommande rapporter.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batchkonvertering av XSLFO-rapporter till flera bildformat.
+
+* Integration med automatiserade instrumentpanelsgenereringspipeliner.
+
+* Utlöst export för schemalagd rapportleverans.
+
+* Automatisk bildgenerering för e-lärande eller webbplattformar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh EMZ đầu ra theo nhu c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX thành **EMZ (Compressed Windows Metafile)** đảm bảo đồ họa vector LaTeX được bảo tồn trong định dạng nén phù hợp cho bài thuyết trình, tài liệu và xuất bản kỹ thuật.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Nhúng sơ đồ LaTeX vào tài liệu Microsoft Office.
+
+* Bảo tồn đồ họa vector cho báo cáo kỹ thuật.
+
+* Sơ đồ LaTeX có thể tái sử dụng cho xuất bản chuyên nghiệp.
+
+* Đồ họa nén cho PDF học thuật.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Nén và chuyển đổi hàng loạt cho thư viện tài liệu.
+
+* Tích hợp vào quy trình công bố tự động.
+
+* Tạo ra EMZ theo yêu cầu cho slide hoặc báo cáo.
+
+* Lưu trữ sơ đồ LaTeX dưới dạng nén để phân phối dễ dàng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,47 @@ MOBIをXLTに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBIをXLT（Excelテンプレート）に変換すると、eBookの分析とレポート作成のための再利用可能なスプレッドシートテンプレートが作成されます。この形式は、プロジェクト全体で視覚的なレイアウトと数式を標準化します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+- MOBI分析のための標準化されたテンプレートの設計。
+
+- 出版部門向けのレポート作成の効率化。
+
+- 著者チームに一貫したダッシュボードを配布する。
+
+- eBookメタデータのための再利用可能なデータ入力テンプレートの作成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- テンプレートベースのMOBIインポート自動化。
+
+- XLTレポート構造への定期的な更新。
+
+- Excelテンプレートライブラリとの統合。
+
+- 出版ワークフロー用の事前定義されたXLTマクロ。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

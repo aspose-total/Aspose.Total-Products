@@ -47,7 +47,55 @@ TEXファイルをXLSMに変換するときに、出力XLSMファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**XLSM（Excel Macro-Enabled Workbook）**に変換すると、LaTeXのデータセットが高度なExcelマクロと連携して自動化、分析、ダイナミックレポート作成が可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* LaTeXで生成されたデータを使用したダイナミックダッシュボード。
+
+* 研究用の自動計算およびレポートテンプレート。
+
+* マクロを有効にした学術または企業のレポート。
+
+* 複雑な数式を含むエンジニアリングおよびファイナンスレポート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 自動化されたワークフロー用のバッチLaTeXからXLSMへの変換。
+
+* 企業向けのマクロ駆動型レポートシステムへの統合。
+
+* 共同作業用のXLSMワークブックのトリガー更新。
+
+* LaTeXのデータセットからの自動化されたExcelマクロ作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ Saat mengonversi file XSLFO ke ODS, Anda juga dapat menambahkan tanda air ke for
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **ODS (OpenDocument Spreadsheet)** memastikan kompatibilitas dengan aplikasi spreadsheet open-source modern. ODS mempertahankan gaya, rumus, dan tabel, sehingga ideal untuk pelaporan kolaboratif dan berbagi data.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Kunci" %}}
+
+
+
+* Mengonversi laporan SDM yang dihasilkan oleh XSLFO untuk pengguna LibreOffice.
+
+* Berbagi analitik triwulanan dengan mitra eksternal dalam format ODS.
+
+* Menyiapkan dasbor operasional untuk tinjauan lintas departemen.
+
+* Mengarsipkan tabel keuangan berbasis XSLFO dalam format terbuka yang tahan lama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi XSLFO ke ODS secara real-time untuk lingkungan kantor kolaboratif.
+
+* Ekspor batch terjadwal dari metrik operasional dari XSLFO.
+
+* Integrasi ke dalam pipa laporan otomatis untuk tim jarak jauh.
+
+* Menghasilkan spreadsheet ODS secara otomatis dari templat XSLFO untuk laporan berulang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,55 @@ otherformats: XLTM FODS SXC XLAM XLT XLTX ODS XLSM XLSB CSV DIF TXT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי XSLFO (Extensible Stylesheet Language Formatting Objects) ל־**MD (Markdown)** מאפשרת יצירת מסמכים קלים, ידידותיים לרשת, וקלים לקריאה. Markdown שומר על מבנה הכותרות, הטבלאות, והרשימות מתוך תוכן XSLFO ובנוסף מסדר אותו לשימוש באתרים, בלוגים, ופלטפורמות תיעוד.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת דוחות שנוצרו ב-XSLFO ל־Markdown לצורך תיעוד טכני.
+
+* פרסום טבלאות מובנות ותוכן מ-XSLFO לבסיסי ידע.
+
+* יצירת דוחות מוכנים לבלוג עם שמירה על פריסת הטבלאות והכותרות.
+
+* הכנת תיעוד קוד פתוח מנתוני XSLFO מובנים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת דוחות XSLFO בצורה צפויה ל־Markdown לפורטלי רשת.
+
+* שילוב בצינורות יצור תיעוד אוטומטי.
+
+* המרה מופעלת לדוחות אנליטיקה חוזרים או דוחות פרויקט.
+
+* זרימות עבודה אוטומטיות מ-XSLFO ל־MD למערכות לניהול ידע.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

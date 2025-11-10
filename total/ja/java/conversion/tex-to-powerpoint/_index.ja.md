@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**POWERPOINT（PPT/PPTX）**に変換すると、LaTeXの式、表、図を含む完全に編集可能なプレゼンテーションが作成され、プロフェッショナルや学術的なスライドデッキに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 複雑な数学的内容を含む大学の講義。
+
+* エンジニアリングや科学研究のプレゼンテーション。
+
+* LaTeXの表を使用した企業のプロジェクトプレゼンテーション。
+
+* ワークショップやセミナー用のインタラクティブなスライド。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* コース教材のためのバッチLaTeXからPowerPointへの変換。
+
+* 自動化されたプレゼンテーションパイプラインへの統合。
+
+* 研究やプロジェクトレポートのためのトリガー付きスライド生成。
+
+* LaTeXからPPTへの変換ワークフローを使用した複数著者のコラボレーション。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

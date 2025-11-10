@@ -57,7 +57,51 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh PSD đầu ra theo nhu c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO sang **PSD (Adobe Photoshop)** cho phép các nhà thiết kế đồ họa chỉnh sửa các bảng và hình ảnh được tạo ra từ XSLFO với các lớp và hiệu ứng tiên tiến. Đầu ra PSD lý tưởng cho các hình ảnh tiếp thị hoặc trình bày.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi biểu đồ XSLFO thành thiết kế Photoshop có lớp.
+
+* Tùy chỉnh hình ảnh báo cáo cho tài liệu tiếp thị.
+
+* Chỉnh sửa các bảng cấu trúc XSLFO cho các bài thuyết trình chuyên nghiệp.
+
+* Chuẩn bị đồ họa minh họa với kiểu dáng nâng cao.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Xuất tự động các báo cáo XSLFO sang PSD cho quy trình thiết kế tự động.
+
+* Tích hợp với các đường ống xử lý Photoshop hàng loạt.
+
+* Chuyển đổi theo lịch trình cho các báo cáo hình ảnh định kỳ.
+
+* Kích hoạt việc tạo PSD cho bảng điều khiển tiếp thị sáng tạo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

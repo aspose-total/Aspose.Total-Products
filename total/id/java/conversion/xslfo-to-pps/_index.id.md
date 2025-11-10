@@ -135,7 +135,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **PPS (PowerPoint Show)** memungkinkan pembuatan file presentasi yang berjalan sendiri untuk pertemuan, pelatihan, atau kios. PPS mempertahankan format saat dibuka langsung dalam mode tayangan slide.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mendistribusikan presentasi gambaran perusahaan yang berjalan sendiri.
+
+* Menyiapkan slide pelatihan atau onboarding otomatis dari data XSLFO.
+
+* Berbagi konten pemasaran interaktif untuk pameran dagang.
+
+* Menghasilkan dasbor KPI yang menarik secara visual untuk tinjauan manajemen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch terjadwal dari XSLFO ke file PPS.
+
+* Integrasi ke alur kerja distribusi tayangan slide otomatis.
+
+* Generasi dipicu dari deck PPS dari laporan XSLFO.
+
+* Pembaruan otomatis presentasi yang berjalan sendiri untuk pertemuan berkala.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,51 @@ XSLFO 파일을 MD로 변환하는 동안 출력 MD 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO (Extensible Stylesheet Language Formatting Objects) 파일을 **MD (Markdown)**로 변환하면 가벼우면서도 웹 친화적이고 쉽게 읽을 수 있는 문서를 만들 수 있습니다. Markdown은 XSLFO 콘텐츠의 제목, 표 및 목록 구조를 보존하면서 웹사이트, 블로그 및 문서 플랫폼에 적합하게 만듭니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 기술 문서로 XSLFO로 생성된 보고서를 Markdown으로 변환하기.
+
+* XSLFO에서 구조화된 표 및 콘텐츠를 지식 베이스로 발행하기.
+
+* 테이블 레이아웃과 제목이 보존된 블로그용 보고서 작성하기.
+
+* 구조화된 XSLFO 분석에서 오픈 소스 문서 작성하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 웹 포털용 XSLFO 보고서의 예약 배치 변환을 Markdown으로.
+
+* 자동화된 문서 생성 파이프라인에 통합하기.
+
+* 반복되는 분석이나 프로젝트 보고서를 위한 트리거 변환.
+
+* 지식 관리 시스템을 위한 자동화된 XSLFO-to-MD 워크플로우.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

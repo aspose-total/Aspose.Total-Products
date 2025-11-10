@@ -135,7 +135,49 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ TEX เป็น **ODP (OpenDocument Presentation)** ช่วยให้เนื้อหา LaTeX, สูตรคณิตศาสตร์ และตาราง สามารถแปลงเป็นภาพนิยายที่เปิดโอกาสที่เข้ากันได้กับ LibreOffice และ OpenOffice ที่เป็นซอฟต์แวร์โอเพนซอร์ส ที่เหมาะสำหรับนักวิชาการและวิศวกรที่แบ่งปันงานวิจัยที่ใช้ LaTeX
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การบรรยายทางวิชาการที่มีสมการที่สร้างจาก LaTeX
+* การนำเสนอโครงการโอเพนซอร์สที่มีข้อมูลโครงสร้าง
+* ภาพนิยายสำหรับการนำเสนอในการประชุมเรื่องคณิตศาสตร์ ฟิสิกส์ หรือวิศวกรรม
+* วัสดุการสอนที่มีแผนภูมิ LaTeX ที่สามารถแอคทีฟ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การแปลงไฟล์ TEX เป็น ODP จำนวนมากสำหรับเนื้อหาหลักสูตรหรือวัสดุการฝึกอบรม
+* การสร้างภาพนิยายตามกำหนดเวลาจากที่เก็บข้อมูลวิจัย LaTeX
+* การรวมเข้ากับกระแสงานนำเสนอโอเพนซอร์ส
+* การอัปเดตโดยการกระตุ้นสำหรับสไลด์ทางวิชาการที่มีผู้เขียนหลายคน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,51 @@ XPSファイルをODSに変換するときに、出力ODSファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**ODS（OpenDocument Spreadsheet）**に変換すると、LibreOfficeとOpenOfficeの両方とも広く互換性があり、構造化されたデータレイアウトを維持できます。共同作業環境に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 複数のオフィススイートで共有される企業スプレッドシート。
+
+* オープンフォーマットが必要な政府やNGOのデータレポート。
+
+* チームベースのプロジェクト追跡とパフォーマンスメトリクス。
+
+* スプレッドシート形式の技術および研究文書。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XPSアーカイブからODSへの大量自動変換。
+
+* 文書管理およびワークフローシステムへの統合。
+
+* 定期的なレポートのためのスケジュールされたODS生成。
+
+* クロスプラットフォームの自動化されたデータ配布。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

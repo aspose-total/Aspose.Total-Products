@@ -54,7 +54,51 @@ API를 사용하면 암호로 보호된 TXT 문서를 PPSX로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT를 **PPSX (PowerPoint Show XML)**로 변환하면 클라우드 편집 및 협업 프레젠테이션에 최적화된 현대적인 XML 기반 슬라이드 쇼가 제공됩니다. 웹 기반 오피스 스위트에 의존하는 비즈니스에 적합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 원격 팀을 위한 협업 프레젠테이션 덱.
+
+* 텍스트 레슨으로부터 변환된 E-러닝 코스 슬라이드.
+
+* 클라우드 시스템에서 직접 PPSX 파일로 공유되는 프로젝트 업데이트.
+
+* 팀간 리뷰를 위해 전달되는 마케팅 및 영업 프레젠테이션.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 온라인 교육 모듈을 위한 TXT-to-PPSX 자동 변환.
+
+* 콘텐츠 변경에 의해 트리거된 실시간 클라우드 업데이트.
+
+* 여러 부서 프레젠테이션을 위한 일괄 처리.
+
+* 슬라이드 스타일링을 위한 AI 디자인 어시스턴트와의 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -144,7 +144,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**MARKDOWN**に変換すると、LaTeXドキュメントがMarkdown構文を使用した軽量で読みやすいテキストに変換され、Web公開、ドキュメント作成、バージョン管理ワークフローに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* オンラインブログ用の学術ノートやレポートの変換。
+
+* Markdownに適したLaTeX数式を含む技術文書。
+
+* GitHubやGitLabリポジトリでの共同編集。
+
+* WebベースのプラットフォームでのLaTeX研究要約の公開。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* ドキュメントパイプライン向けのバッチTEXからMarkdownへの変換。
+
+* 静的サイトジェネレーター（例：Hugo、Jekyll）との統合。
+
+* 教育コンテンツプラットフォーム向けのトリガー生成。
+
+* 継続的なLaTeXからWebへの公開のためのスケジュール変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

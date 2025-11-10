@@ -57,7 +57,51 @@ Med hjälp av API:t kan du också rotera den utgående IMAGE-bilden enligt dina 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera TEX till **BILD (generiska rasterformat)** omvandlar LaTeX-ekvationer, tabeller och figurer till universellt kompatibla bildformat för webb, utskrift och dokumentationsändamål.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Bädda in LaTeX-genererade figurer i bloggar och webbplatser.
+
+* Förbereda högupplösta bilder för akademiska artiklar.
+
+* Dela diagram i universellt läsbara format.
+
+* Konvertera komplexa LaTeX-tabeller till bildögonblicksbilder.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batch TEX-till-bildkonvertering för innehållsbibliotek.
+
+* Integration med automatiserade publicerings- och webbarbetsflöden.
+
+* Uppdateringar som utlöses för bildbaserat föreläsnings- eller handledningsinnehåll.
+
+* Exportera flera LaTeX-diagram till enhetliga bildformat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

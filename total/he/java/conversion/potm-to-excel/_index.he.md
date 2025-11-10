@@ -102,7 +102,55 @@ otherformats: DIF XLAM FODS XLT XLSM XLSX ODS TSV XLTM MARKDOWN MHTML XLSB SXC X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POTM ל-EXCEL בצורה חלקה ממירה טבלאות ותרשימים במצגת לחוברות עבודה של Microsoft Excel שניתן לערוך במלואם. זה מאפשר למשתמשים להמשיך בניתוח נתונים, תחזיות או ויזואליזציה ב-Excel מבלי ליצור מחדש את התוכן באופן ידני.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* המרת תחזיות מכירות ב-PowerPoint לגליונות Excel דינמיים.
+
+* ייצוא מצגות תקציב לניתוח טבלאות דינמיות מתקדמות.
+
+* המרת גרפים זמני פרויקט ותרשימי Gantt ל-Excel לשיתוף צוותי.
+
+* המרת שקופיות מחקר ל-Excel למודלים סטטיסטיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* צינורות אוטומטיים שיוצרים חוברות עבודה ב-Excel מתבניות PowerPoint.
+
+* שילוב עם כלים לבינה עסקית לוויזואליזציה מיידית של נתונים.
+
+* עיבוד רצפי של מצגות POTM לדיווח רבעוני.
+
+* טריגרים בענן שיוצרים קבצי Excel לשימוש במספר מחלקות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

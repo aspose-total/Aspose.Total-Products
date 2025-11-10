@@ -57,7 +57,51 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **SVGZ (Compressed Scalable Vector Graphics)** ช่วยรักษาคุณภาพของเวกเตอร์ในขณะลดขนาดไฟล์ ที่เหมาะสำหรับการใช้ในเว็บและการตีพิมพ์ทางวิชาการ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ฝังสมการและแผนภาพ LaTeX ในหน้าเว็บ
+
+* กราฟิกที่มีความละเอียดสูงและสามารถปรับขนาดได้สำหรับการตีพิมพ์
+
+* การแสดงผลข้อมูลที่สร้างจาก LaTeX ในรูปแบบออนไลน์ที่สามารถโต้ตอบได้
+
+* ภาพประกอบทางเทคนิคในรูปแบบเวกเตอร์ที่ถูกบีบอัด
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลงไดอะแกรม LaTeX เป็น SVGZ แบบกลุ่ม
+
+* การรวมระบบท่องพับเว็บ
+
+* การอัปเดตภาพเวกเตอร์ที่ถูกบีบอัดจากแหล่งข้อมูล LaTeX ตามที่กำหนด
+
+* การเก็บถาวรและกระจายภาพประกอบทางวิชาการ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

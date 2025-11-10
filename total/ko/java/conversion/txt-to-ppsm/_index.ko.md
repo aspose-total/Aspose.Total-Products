@@ -54,7 +54,51 @@ API를 사용하면 암호로 보호된 TXT 문서를 PPSM로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT를 **PPSM (매크로 활성화된 PowerPoint 쇼)**로 변환하면 자동화 기능과 직접적인 슬라이드 쇼 프레젠테이션이 결합됩니다. 상호 작용 요소가 포함된 동적 프레젠테이션에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 실시간 계산을 활용한 인터랙티브 금융 프레젠테이션.
+
+* 복잡한 워크플로우를 탐색하기 위해 매크로를 사용하는 교육 모듈.
+
+* 자동 업데이트가 있는 프로젝트 추적 슬라이드.
+
+* 자동 콘텐츠 전환을 갖춘 영업 데모.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 주간 보고서용 매크로 활성화된 쇼 슬라이드의 자동 생성.
+
+* CRM 및 프로젝트 관리 도구와의 통합.
+
+* 예약된 매크로 실행 슬라이드쇼 업데이트.
+
+* 고객을 대상으로 하는 프레젠테이션을 위한 트리거된 인터랙티브 슬라이드.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

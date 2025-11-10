@@ -57,7 +57,55 @@ Met behulp van de API kunt u ook de uitgevoerde DXF-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het converteren van XSLFO naar **DXF (Drawing Exchange Format)** behoudt op vector gebaseerde tabellarische lay-outs voor gebruik in CAD- en technische ontwerptoepassingen. DXF-bestanden behouden nauwkeurige afmetingen en lay-outstructuren.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het omzetten van XSLFO gegenereerde technische rapporten naar CAD-vriendelijke formaten.
+
+* Het archiveren van gestructureerde tabellen als vectorafbeeldingen voor technische documentatie.
+
+* Het integreren van operationele lay-outs in ontwerpsoftware.
+
+* Het genereren van technische diagrammen uit XSLFO-rapporten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch XSLFO-naar-DXF conversie voor technische documentatieworkflows.
+
+* Geplande export van gestructureerde rapporttabellen als DXF voor ontwerpreview.
+
+* Integratie met geautomatiseerde CAD-gebaseerde rapportpijplijnen.
+
+* Getriggerde conversie van XSLFO-gegevens naar DXF-tekeningen voor technische teams.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

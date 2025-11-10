@@ -129,7 +129,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików XPS na **OTT (OpenDocument Text Template)** przekształca statyczne pliki XPS w wielokrotnie użyteczne szablony dla użytkowników LibreOffice i OpenOffice, doskonałe do standardowych dokumentów roboczych w otwartych formatach.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Szablony materiałów akademickich i edukacyjnych dla studentów i nauczycieli.
+
+* Szablony projektów NGO do raportów i propozycji.
+
+* Standaryzowane szablony open-source do dokumentacji korporacyjnej.
+
+* Szablony treści kreatywnych do broszur i biuletynów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Generowanie zbiorcze szablonów OTT z repozytoriów XPS.
+
+* Integracja z narzędziami automatyzacji workflow open-source.
+
+* Automatyczne wypełnianie szablonów danymi organizacyjnymi.
+
+* Usprawnianie procesów tworzenia dokumentów międzyplatformowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

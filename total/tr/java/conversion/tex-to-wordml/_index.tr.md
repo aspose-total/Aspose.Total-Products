@@ -143,7 +143,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+LaTeX içeriğini XML tabanlı Word belgeleriyle tam uyumlu hale getirmek için TEX'i **WordML (Microsoft Word XML formatı)** şekline dönüştürmek, otomatik iş akışlarını, içerik doğrulamasını ve kurumsal sistemlerle entegrasyonu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX kaynaklarından XML tabanlı bilimsel rapor oluşturma.
+
+* Yapılandırılmış WordML kullanarak kurumsal belge iş akışları.
+
+* Otomatik içerik birleştirme ile çoklu yazar işbirliği.
+
+* Akademik veya teknik materyallerin XML tabanlı yayınlanması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* LaTeX depolarından WordML belgelerinin otomatik oluşturulması.
+
+* Kurumsal içerik yönetim sistemlerine entegrasyon.
+
+* Büyük ölçekli araştırma yayınları için tetiklenen XML dışa aktarımları.
+
+* Uyumluluk raporlaması ve akademik gönderiler için toplu işlem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

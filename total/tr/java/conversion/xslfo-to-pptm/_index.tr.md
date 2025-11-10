@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **PPTM'ye (Makro Etkin PowerPoint)** dönüştürülmesi düzenlenebilir slaytları otomasyon yetenekleriyle birleştirir. PPTM, dinamik raporlama, etkileşimli gösterge panoları ve tekrar eden sunumlar için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Etkileşimli slaytlara XSLFO tabanlı hesaplamaların gömülmesi.
+
+* Otomatik performans değerlendirme gösterge panolarının hazırlanması.
+
+* Makro etkin eğitim veya talimat slaytlarının oluşturulması.
+
+* Dinamik yatırımcı veya yönetim kurulu sunumlarının dağıtılması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XSLFO raporlarının zamanlanmış olarak PPTM slaytlarına dönüştürülmesi.
+
+* VBA otomasyon boru hatlarıyla entegrasyon.
+
+* Tekrar eden XSLFO içeriğinden tetiklenen makro etkin slayt oluşturma.
+
+* Dinamik kurumsal sunumlar için otomatik toplu dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XPS เป็น **XAMLFLOW (Flow Document in XAML)** จะแปลงเนื้อหา XPS ที่เป็นแบบสถิตเป็นเลเอาท์ที่สามารถแก้ไขได้และไหลไปได้ ที่เหมาะสำหรับการแสดงผลแบบไดนามิกใน WPF FlowDocuments ที่เหมาะสำหรับ e-reader, รายงาน หรือเนื้อหาแบบโต้ตอบ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* สร้าง e-books และเอกสารแบบโต้ตอบจากแหล่ง XPS
+
+* รายงานขององค์กรที่ใช้เลือกตามการไหลสำหรับแอปพลิเคชันบนเดสก์ท็อป
+
+* การแสดงผลข้อความและสื่อไวยากรในแอปพลิเคชันการศึกษาหรือการอบรม
+
+* หนังสือคู่มือพนักงานหรือคู่มือนโยบายที่นำเสนอในรูปแบบ FlowDocuments
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XPS ให้เป็น XAMLFLOW โดยอัตโนมัติสำหรับแพลตฟอร์มการเรียนออนไลน์
+
+* การสร้าง FlowDocument ตามกำหนดเวลาสำหรับรายงานหรือคู่มือที่เกิดซ้ำ
+
+* การรวมระบบกับเครื่องมือซอฟต์แวร์ที่แสดง FlowDocuments ได้แบบไดนามิก
+
+* กระบวนการทำงานที่เรียบง่ายสำหรับการแปลงเลเอาท์ XPS แบบสถิตเป็น FlowDocuments ที่ตอบสนองได้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

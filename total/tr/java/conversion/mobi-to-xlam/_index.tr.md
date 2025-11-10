@@ -61,7 +61,47 @@ MOBI'yi XLAM'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI dosyalarını XLAM (Excel Eklentisi) formatına dönüştürmek, MOBI ile ilgili veri işlevlerini doğrudan Excel ortamlarına gömme imkanı sağlar. Bu dönüşüm, elektronik tablo tabanlı yayıncılık iş akışlarında gelişmiş analitik ve otomasyonu destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+- Excel makroları içine MOBI'den veri dönüştürücüler gömme.
+
+- Yayıncılar için e-kitap analitik işlevlerini otomatikleştirme.
+
+- Dijital içerik performansı için sayfa içi gösterge panoları geliştirme.
+
+- MOBI veri analiz araçlarını Excel Eklentileri içine entegre etme.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+- XLAM otomasyonunu kullanarak makro destekli MOBI işleme.
+
+- Kurumsal Excel sistemlerine MOBI ayrıştırıcıların dağıtımı.
+
+- E-kitap raporlama görevleri için Eklentilerin dinamik oluşturulması.
+
+- MOBI veri seti güncellemeleri için gerçek zamanlı XLAM uzantıları.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

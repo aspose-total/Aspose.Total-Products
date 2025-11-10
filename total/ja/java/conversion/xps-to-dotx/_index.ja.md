@@ -130,7 +130,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**DOTX（Wordテンプレート）**に変換すると、自動スクリプトを使用せずに再利用可能なドキュメントレイアウトを求めるユーザー向けのテンプレートオプションが提供されます。教育、企業、クリエイティブなワークフローでの安全な共有と一貫した書式設定に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 標準化された教育用ワークシートや課題。
+
+* キャンペーンやプレゼンテーション用のマーケティングコンテンツテンプレート。
+
+* 人事や業務用の内部ポリシーおよび手順テンプレート。
+
+* 財務および技術文書用のレポートテンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 企業全体での自動テンプレート生成。
+
+* DOTXファイルを文書管理プラットフォームに供給する変換パイプライン。
+
+* ブランド基準に合わせるためのXPSコンテンツの事前書式設定。
+
+* 顧客向け提案テンプレートの一括作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

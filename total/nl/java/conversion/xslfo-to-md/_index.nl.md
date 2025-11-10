@@ -47,7 +47,51 @@ Tijdens het converteren van het XSLFO-bestand naar MD, kunt u ook een watermerk 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XSLFO (Extensible Stylesheet Language Formatting Objects) bestanden naar **MD (Markdown)** maakt het mogelijk om lichtgewicht, webvriendelijke en gemakkelijk leesbare documenten te creëren. Markdown behoudt de structuur van koppen, tabellen en lijsten van XSLFO-inhoud terwijl het geschikt wordt gemaakt voor websites, blogs en documentatieplatforms.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het omzetten van XSLFO gegenereerde rapporten naar Markdown voor technische documentatie.
+
+* Gestructureerde tabellen en inhoud van XSLFO publiceren naar kennisbanken.
+
+* Blog-klaar rapporten maken met behoud van tabelindelingen en koppen.
+
+* Open-source documentatie voorbereiden van gestructureerde XSLFO-analyses.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geplande batchconversie van XSLFO-rapporten naar Markdown voor webportalen.
+
+* Integratie in geautomatiseerde documentatiegeneratiepijplijnen.
+
+* Getriggerde conversie voor terugkerende analyses of projectrapporten.
+
+* Geautomatiseerde XSLFO-naar-MD-workflows voor kennissystemen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

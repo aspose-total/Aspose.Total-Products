@@ -135,7 +135,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO thành **PPS (PowerPoint Show)** cho phép tạo các tệp trình diễn tự chạy cho cuộc họp, đào tạo hoặc kiosks. PPS bảo tồn định dạng khi mở trực tiếp trong chế độ trình diễn.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Phân phối bài thuyết trình tổng quan doanh nghiệp tự chạy.
+
+* Chuẩn bị các slide đào tạo tự động hoặc hướng dẫn từ dữ liệu XSLFO.
+
+* Chia sẻ nội dung tiếp thị tương tác cho triển lãm thương mại.
+
+* Tạo bảng điều khiển KPI hấp dẫn mắt cho việc xem xét của quản lý.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt theo lịch từ XSLFO sang tệp PPS.
+
+* Tích hợp vào quy trình phân phối trình diễn tự động.
+
+* Kích hoạt tạo ra các bộ PPS từ báo cáo XSLFO.
+
+* Tự động cập nhật bài thuyết trình tự chạy cho các cuộc họp định kỳ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,45 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **PPSM (PowerPoint Macro-Enabled Show)** ช่วยให้เนื้อหา LaTeX สามารถรวม macros เพื่อการคำนวณโดยอัตโนมัติ ไดอะแกรมแบบโต้ตอบ และการนำเสนอที่เปลี่ยนไปได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การบรรยายทางวิชาการที่ใช้ macros กับตารางแบบไดนามิก
+* การนำเสนองานวิจัยที่มีการอัพเดทแผนภูมิโดยอัตโนมัติ
+* การฝึกอบรมในองค์กรที่มีองค์ประกอบที่สามารถแสดงผลได้
+* การนำเสนอสไลด์สำหรับการประชุมที่มีสูตร LaTeX
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การแปลง TEX เป็น PPSM แบบกลุ่มสำหรับการนำเสนอที่สามารถแสดงผลได้
+* การรวมเนื้อหา LaTeX เข้ากับสไลด์ที่มี macros ได้
+* การอัพเดทตามกำหนดเวลาสำหรับเนื้อหาเกี่ยวกับการฝึกอบรมที่เปลี่ยนไปได้
+* การสร้างตามที่เรียกใช้สำหรับการนำเสนองานวิจัยหรือองค์กร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

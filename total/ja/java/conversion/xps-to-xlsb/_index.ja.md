@@ -47,7 +47,51 @@ XPSファイルをXLSBに変換するときに、出力XLSBファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+大規模データセットのパフォーマンスを向上させるために、XPSを**XLSB（Excelバイナリワークブック）**に変換することで、コンパクトで高速なバイナリ形式を使用しながらすべてのスプレッドシート機能を維持します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 効率的な処理が必要な大規模な財務データまたは売上データセット。
+
+* 複雑な数式を持つエンジニアリングおよび科学データセット。
+
+* 大量のデータ入力を持つインタラクティブダッシュボード。
+
+* チャートやピボットテーブルが埋め込まれた企業レポート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 高性能アナリティクスのためのバッチXPSからXLSBへの変換。
+
+* 静的XPSデータからダッシュボードの自動生成。
+
+* 定期的なレポート作成のためのスケジュールされたXLSBの更新。
+
+* 高速なスプレッドシートが必要なBIシステムへの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

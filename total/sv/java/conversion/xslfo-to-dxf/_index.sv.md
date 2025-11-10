@@ -57,7 +57,55 @@ Med hjälp av API:t kan du också rotera den utgående DXF-bilden enligt dina be
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av XSLFO till **DXF (Drawing Exchange Format)** bevarar vektorbaserade tabellayouter för användning i CAD- och tekniska designapplikationer. DXF-filer bibehåller exakta dimensioner och layoutstrukturer.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* Konvertera XSLFO-genererade ingenjörsrapporter till CAD-vänliga format.
+
+* Arkivering av strukturerade tabeller som vektorritningar för teknisk dokumentation.
+
+* Integrering av driftslayouter i designprogramvara.
+
+* Generering av tekniska diagram från XSLFO-rapporter.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Batch XSLFO-till-DXF-konvertering för ingenjörsdokumentationsflöden.
+
+* Planerad export av strukturerade rapporttabeller som DXF för designgranskning.
+
+* Integration med automatiserade CAD-baserade rapportpipeliner.
+
+* Utlöst konvertering av XSLFO-data till DXF-ritningar för tekniska team.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

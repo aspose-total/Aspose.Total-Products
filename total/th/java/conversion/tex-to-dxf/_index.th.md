@@ -57,7 +57,45 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **DXF (Drawing Exchange Format)** ช่วยให้ไดอะแกรมเทคนิคที่สร้างจาก LaTeX, บลูพริ้นต์ และแผนภาพสามารถใช้ในซอฟต์แวร์ CAD สำหรับโครงการวิศวกรรมและสถาปัตยกรรม
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* แผนภาพเทคนิคจากเอกสารเทคนิค LaTeX
+* แผนภาพสถาปัตยกรรมสำหรับการผสานรวมกับ CAD
+* การแสดงผลแผนภาพที่ใช้ LaTeX สำหรับโครงการออกแบบ
+* แผนภาพการผลิตหรือจำลองที่ได้มาจาก LaTeX
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง TEX เป็น DXF แบบกลุ่มสำหรับการทำงานวิศวกรรม
+* การผสานรวมกับกระบวนการทำงานซอฟต์แวร์ CAD
+* การสร้างแผนภาพออกโดยอัตโนมัติจากการกระตุ้น
+* การเก็บถาวรแผนภาพ LaTeX ในรูปแบบ DXF เพื่อการใช้งาน跨แพลตฟอร์ม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

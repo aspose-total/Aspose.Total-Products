@@ -47,7 +47,51 @@ Saat mengonversi file XSLFO ke XLTM, Anda juga dapat menambahkan tanda air ke fo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **XLTM (Template Excel yang Mendukung Macro)** mendukung workbook yang dapat digunakan kembali dengan otomatisasi tersemat. Template XLTM mempermudah pelaporan yang berulang dan alur kerja lanjutan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Standarisasi laporan XSLFO dengan makro tersemat untuk otomatisasi.
+
+* Mendistribusikan template pelaporan interaktif di seluruh departemen.
+
+* Menyiapkan template pemodelan keuangan yang dapat digunakan kembali dari XSLFO.
+
+* Membuat template dasbor otomatis dari data XSLFO tabular.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi batch template XLTM untuk pelaporan perusahaan.
+
+* Integrasi dengan alur kerja VBA otomatis.
+
+* Konversi XSLFO ke XLTM yang terjadwal untuk laporan proyek berulang.
+
+* Pembuatan template XLTM yang dipicu untuk dasbor analitik yang didukung makro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力DXF画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**DXF（Drawing Exchange Format）**に変換すると、CADや技術設計アプリケーションで使用するためのベクトルベースの表形式レイアウトが保持されます。DXFファイルは正確な寸法とレイアウト構造を維持します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* XSLFOで生成されたエンジニアリングレポートをCAD向けの形式に変換する。
+
+* 構造化されたテーブルをベクトル図として技術文書にアーカイブする。
+
+* 運用レイアウトを設計ソフトウェアに統合する。
+
+* XSLFOレポートから技術図を生成する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* エンジニアリング文書ワークフロー向けのバッチXSLFOからDXFへの変換。
+
+* 構造化されたレポートテーブルをDXFとして設計レビュー用に定期的にエクスポートする。
+
+* 自動化されたCADベースのレポートパイプラインとの統合。
+
+* 技術チーム向けにXSLFOデータをDXF図に変換するトリガーを設定する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

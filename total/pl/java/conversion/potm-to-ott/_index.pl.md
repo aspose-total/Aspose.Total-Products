@@ -53,7 +53,51 @@ Korzystając z API, możesz również wykonać konwersję pliku POTM do OTT ze z
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików POTM na OTT tworzy wielokrotnego użytku szablony tekstu OpenDocument kompatybilne z programem LibreOffice Writer i podobnymi aplikacjami. Te szablony zachowują układ, style i elementy projektowe dla środowisk nie-Microsoft.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Projektowanie szablonów OTT dla biur open-source przy użyciu stylów PowerPoint.
+
+* Konwertowanie treści prezentacji na struktury szablonów opartych na formacie ODT.
+
+* Użycie szablonów w formacie otwartym przez rząd lub sektor publiczny.
+
+* Standardy dokumentacji organizacji pozarządowych przy użyciu wielokrotnego użytku plików OTT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna generacja szablonów OTT w systemach zarządzania dokumentami w formacie otwartym.
+
+* Wieloplatformowe rurociągi publikacji dokumentów przy użyciu formatów otwartych.
+
+* Przepływy konwersji łączące ekosystemy Microsoft i LibreOffice.
+
+* Dużoskalowe instytucjonalne użycie szablonów OTT pochodzących z prezentacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

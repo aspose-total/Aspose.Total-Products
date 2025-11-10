@@ -102,7 +102,45 @@ otherformats: XLSB XLSX XLS EXCEL CSV XLAM SXC TSV MARKDOWN XLTM DIF MHTML ODS F
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POT ל-XLSM (גיליון עבודה שמאופשר מאקרו) מאפשרת לארגונים לשמור על בינאריות ואוטומציה בגיליונות העבודה שלהם. זה אידיאלי למצגות שמכילות לוגיקת נתונים או חישובים אנליטיים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת גיליונות עבודה אינטראקטיביים מלוחות מחוונים ב-PowerPoint.
+
+* בניית תבניות שמאפשרות מאקרו עבור משימות פיננסיות חוזרות.
+
+* המרת נתוני מצגת לכלים אוטומטיים לדיווח.
+
+* יצירת גיליונות עבודה דינמיים למעקב אחר התקדמות בהכשרה.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת PowerPoint ל-XLSM באופן אוטומטי לצורך ניתוח פנימי.
+
+* שילוב תהליכי עבודה עם סקריפטים שמאופשרים על ידי VBA.
+
+* יצירת דוחות פיננסיים עם מאקרו בצורה צפונית.
+
+* אוטומציה דינמית של גיליונות עבודה לדיווח עסקי.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

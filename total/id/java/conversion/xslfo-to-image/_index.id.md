@@ -57,7 +57,51 @@ Menggunakan API, Anda juga dapat memutar gambar IMAGE keluaran sesuai kebutuhan 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **IMAGE (Format Raster Generik)** memberikan output yang serbaguna untuk web, cetak, dan aplikasi desktop. Format yang didukung dapat mencakup PNG, BMP, atau TIFF tergantung pada kebutuhan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Menghasilkan visual statis dari tabel XSLFO yang terstruktur.
+
+* Menyiapkan grafis untuk dashboard pelaporan atau dokumentasi.
+
+* Mengekspor grafik dan tabel untuk aplikasi seluler atau e-learning.
+
+* Membuat arsip raster dari laporan yang berulang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch laporan XSLFO ke berbagai format gambar.
+
+* Integrasi dengan pipa generasi dashboard otomatis.
+
+* Ekspor yang dipicu untuk pengiriman laporan terjadwal.
+
+* Generasi gambar otomatis untuk e-learning atau platform web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

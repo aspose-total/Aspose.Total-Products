@@ -57,7 +57,55 @@ Usando a API, você também pode girar a imagem WMF de saída conforme suas nece
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter TEX para **WMF (Windows Metafile)** preserva gráficos vetoriais para diagramas LaTeX, garantindo compatibilidade com o Microsoft Office e documentação técnica.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Incorporar ilustrações LaTeX no Word ou PowerPoint.
+
+* Diagramas técnicos em relatórios profissionais.
+
+* Figuras escaláveis para documentos corporativos e acadêmicos.
+
+* Distribuição multiplataforma de gráficos gerados pelo LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de diagramas LaTeX para WMF.
+
+* Integração em pipelines de documentos do Microsoft Office.
+
+* Atualizações acionadas para gráficos vetoriais em apresentações.
+
+* Arquivamento automatizado de figuras técnicas geradas pelo LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

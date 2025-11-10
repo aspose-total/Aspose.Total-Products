@@ -143,7 +143,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **OTT(OpenDocument Text Template)**로 변환하면 교육자, 연구자 및 기업이 LaTeX 스타일링을 사용하여 재사용 가능한 템플릿을 만들 수 있게 되어 문서 표준화를 간소화할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 일관된 LaTeX 서식을 가진 교육 자료 템플릿.
+
+* 협업을 위한 OpenDocument 템플릿.
+
+* 오픈 소스 오피스 스위트를 위한 프로젝트 및 비즈니스 보고서 템플릿.
+
+* 학술 또는 행정용 표준화된 양식.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 다중 사용자 환경을 위한 자동화된 템플릿 생성.
+
+* 오픈 소스 LMS 및 오피스 워크플로에 통합.
+
+* 학술 기관을 위한 템플릿 라이브러리 일괄 업데이트.
+
+* 연구 문서 작성을 위한 동적 LaTeX-to-OTT 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

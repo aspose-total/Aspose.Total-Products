@@ -61,7 +61,45 @@ POTファイルをTSVに変換するときに、出力TSVファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTをTSV（Tab-Separated Values）に変換することは、プレゼンテーションテーブルをデータのインポートや処理に使用されるテキストベースのスプレッドシートに効率的にエクスポートする方法を提供します。TSVは、大規模なデータセットを分析ツール間で簡単に取り扱うことを可能にします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* インポート用にプレゼンテーションベースの分析をTSVデータに変換する。
+
+* 機械学習モデル向けの構造化された表形式のレポートを準備する。
+
+* 教育スライドから学術成績メトリクスを抽出する。
+
+* 企業システム向けの共有可能なTSVデータセットを作成する。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 分析パイプラインに統合されたバッチTSV変換。
+
+* PowerPointのトレーニング資料からの自動化された表の抽出。
+
+* 企業データ交換のためのETLシステムへの統合。
+
+* 大規模なレポート自動化のためのTSV生成。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,55 @@ Trong khi chuyển đổi tệp XSLFO sang FODS, bạn cũng có thể thêm hì
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp XSLFO sang định dạng **FODS (Bảng tính OpenDocument phẳng)** hỗ trợ các bộ ứng dụng mã nguồn mở như LibreOffice và OpenOffice. FODS cho phép tạo bảng tính dựa trên XML nhẹ, có thể chỉnh sửa phù hợp cho môi trường làm việc cộng tác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chia sẻ các bảng kế hoạch được tạo bằng XSLFO với người dùng bộ ứng dụng mã nguồn mở.
+
+* Lưu trữ báo cáo trong định dạng bảng tính chuẩn mở.
+
+* Chuẩn bị các bảng theo dõi dự án cho việc cộng tác trên nhiều nền tảng.
+
+* Chuyển đổi các bảng kỹ thuật XSLFO thành bảng tính FODS có thể chỉnh sửa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ XSLFO sang FODS cho các đường ống báo cáo mã nguồn mở.
+
+* Tích hợp vào các hệ thống quản lý tài liệu hỗ trợ FODS.
+
+* Xuất lịch trình cho bảng điều khiển dự án cộng tác.
+
+* Chuyển đổi tự động các báo cáo phân tích XSLFO sang định dạng FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

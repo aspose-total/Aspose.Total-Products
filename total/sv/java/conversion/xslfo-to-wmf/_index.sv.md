@@ -57,7 +57,55 @@ Med hjälp av API:t kan du också rotera den utgående WMF-bilden enligt dina be
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera XSLFO till **WMF (Windows Metafile)** möjliggör skalbara vektorbilder som är kompatibla med Microsoft Office och andra desktop publiceringsapplikationer.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Bädda in XSLFO-tabeller och diagram i Microsoft Word eller PowerPoint.
+
+* Skapa skalbara visuella element för företagspresentationer.
+
+* Arkivera rapportvisuella element i vektorformat.
+
+* Förbereda tekniska illustrationer från strukturerade XSLFO-data.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batch XSLFO-till-WMF-konvertering för dokumentflöden.
+
+* Schemalagd export av vektorgrafik för presentationsbilder.
+
+* Utlöst generering av WMF-bilder från XSLFO-paneler.
+
+* Integration med automatiserade företagspubliceringspipeliner.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

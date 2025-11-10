@@ -47,7 +47,51 @@ XPS 파일을 TXT로 변환하는 동안 출력 TXT 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **TXT(일반 텍스트)**로 변환하면 최대 호환성, 편집 편의성 및 스크립트, 데이터베이스 또는 분석에서 사용하기 위한 원시 텍스트 콘텐츠를 추출합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 텍스트 분석이나 감성 분석을 위한 텍스트 데이터 추출.
+
+* 자연어 처리(NLP) 프로젝트용 콘텐츠 준비.
+
+* 문서 콘텐츠의 빠른 편집 또는 재활용.
+
+* 가벼우면서 보편적으로 읽을 수 있는 형식으로 텍스트 콘텐츠 보관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XPS 콘텐츠를 TXT로 자동 일괄 추출하여 처리.
+
+* 텍스트 마이닝 및 분석을 위한 데이터 파이프라인 통합.
+
+* 반복 보고서용 일반 텍스트 버전의 예약 생성.
+
+* 대규모 XPS 아카이브에서 텍스트 추출을 위한 간소화된 워크플로우.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

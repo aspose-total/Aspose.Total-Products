@@ -57,7 +57,51 @@ Met behulp van de API kunt u ook de uitgevoerde JPEG2000-afbeelding roteren volg
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XPS naar **JPEG2000** levert hoogwaardige, gecomprimeerde afbeeldingen op die geschikt zijn voor professionele publicatie, medische en archiveringsdoeleinden.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke Gebruiksscenario's" %}}
+
+
+
+* Archivering van bedrijfs- en juridische documenten.
+
+* Publicatieklare afbeeldingen met hoge resolutie.
+
+* Integratie in digitale bibliotheken die verliesloze kwaliteit vereisen.
+
+* Medische en wetenschappelijke documentatie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde conversie van XPS-archieven naar JPEG2000 voor opslagefficiëntie.
+
+* Geplande batchverwerking voor documentbeeldbibliotheken.
+
+* Integratie met systemen voor digitaal assetbeheer.
+
+* Gestroomlijnde publicatieworkflows voor afbeeldingen met hoge resolutie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

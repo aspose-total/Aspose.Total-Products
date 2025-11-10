@@ -47,7 +47,55 @@ A TEX-fájl XLAM-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLAM-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **XLAM (Excel kiegészítő makró)** formátummá alakítása lehetővé teszi, hogy a LaTeX táblázatok és képletek interaktív Excel eszközökké váljanak automatizált számításokkal és kibővített funkcionalitással.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Pénzügyi modellezési sablonok LaTeX segítségével.
+
+* Automatizált számítási eszközök mérnöki projektekhez.
+
+* Akadémiai képletlapok beágyazása Excel makrókba.
+
+* Adatfeldolgozási vezérlőpultok, amelyek LaTeX és Excel automatizálást kombinálnak.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* XLAM kiegészítők automatizált létrehozása LaTeX adatkészletekből.
+
+* Tömeges LaTeX-to-XLAM konverzió vállalati eszközök számára.
+
+* Kiváltott makróval ellátott táblázatok kutatási adattárolókból.
+
+* Integráció automatizált jelentéskészítési és vezérlőpult csövekbe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

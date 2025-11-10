@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **MARKDOWN** ทำให้เอกสาร LaTeX เป็นข้อความที่มีน้ำหนักเบาและอ่านง่ายด้วยไวยากรณ์ Markdown ที่เหมาะสำหรับการเผยแพร่บนเว็บไซต์ การเขียนเอกสาร และการทำงานที่มีการควบคุมเวอร์ชัน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การแปลงบันทึกและรายงานทางวิชาการสำหรับบล็อกออนไลน์
+
+* เอกสารเทคนิคพร้อมสูตร LaTeX ในไวยากรณ์ Markdown-friendly
+
+* การแก้ไขร่วมกันในที่เก็บรักษาของ GitHub หรือ GitLab
+
+* เผยแพร่สรุปการวิจัย LaTeX ในแพลตฟอร์มบนเว็บ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* การแปลง Batch TEX เป็น Markdown สำหรับท่องไปร
+
+* การผสานกับเครื่องมือสร้างเว็บไซต์แบบคงที่ (เช่น Hugo, Jekyll)
+
+* การสร้างเมื่อเกิดเหตุการณ์สำหรับแพลตฟอร์มเนื้อหาการศึกษา
+
+* การแปลงตามกำหนดเวลาสำหรับการเผยแพร่ LaTeX เป็นเว็บอย่างต่อเนื่อง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

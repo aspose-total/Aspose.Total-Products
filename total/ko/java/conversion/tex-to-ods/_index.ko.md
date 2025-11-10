@@ -47,7 +47,51 @@ TEX 파일을 ODS로 변환하는 동안 출력 ODS 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **ODS (OpenDocument Spreadsheet)**로 변환하면 사용자가 편집 가능한 스프레드시트에서 LaTeX 콘텐츠를 활용하여 분석 및 협업 프로젝트에 활용할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 복잡한 숫자 테이블을 사용하는 학술 연구.
+
+* 오픈 소스 금융 또는 프로젝트 추적 시트.
+
+* 다중 플랫폼 호환성이 필요한 공학 계산.
+
+* 협업 교육 프로젝트를 위해 ODS에 LaTeX 테이블 공유.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 대학 실험실을 위한 일괄 TEX-to-ODS 변환.
+
+* 오픈 소스 데이터 파이프라인 통합.
+
+* LaTeX로 생성된 숫자 데이터의 자동 보고.
+
+* 다중 사용자 환경을 위한 ODS 생성 트리거.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

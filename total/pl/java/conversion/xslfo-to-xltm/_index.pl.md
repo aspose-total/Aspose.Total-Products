@@ -47,7 +47,51 @@ Konwertując plik XSLFO na XLTM, możesz także dodać znak wodny do wyjścioweg
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie XSLFO na **XLTM (Szablon Excela z makrami)** wspiera wielokrotnie używane skoroszyty z wbudowaną automatyzacją. Szablony XLTM usprawniają powtarzalne raportowanie i zaawansowane przepływy pracy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Standaryzacja raportów XSLFO z wbudowanymi makrami dla automatyzacji.
+
+* Dystrybucja interaktywnych szablonów raportowania między działami.
+
+* Przygotowywanie wielokrotnie używanych szablonów modelowania finansowego z XSLFO.
+
+* Tworzenie zautomatyzowanych szablonów pulpitów nawigacyjnych z tabelarycznych danych XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Generowanie zbiorcze szablonów XLTM dla raportowania korporacyjnego.
+
+* Integracja z zautomatyzowanymi przepływami pracy VBA.
+
+* Zaplanowana konwersja XSLFO na XLTM dla powtarzających się raportów projektowych.
+
+* Wywołane tworzenie szablonu XLTM dla makro-zasilanych pulpitów analitycznych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

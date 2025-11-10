@@ -143,7 +143,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **XAMLFLOW** cho phép nội dung LaTeX được chuyển đổi thành đánh dấu XAML tương thích với luồng cho các quy trình làm việc trực quan, bảng điều khiển và ứng dụng tương tác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Sơ đồ luồng làm việc trực quan với các phương trình được tạo bởi LaTeX.
+
+* Bảng điều khiển tương tác hiển thị dữ liệu thời gian thực với hình ảnh toán học.
+
+* Ứng dụng kỹ thuật hoặc kỹ thuật hiển thị nội dung LaTeX có cấu trúc.
+
+* Công cụ giáo dục tích hợp luồng và sơ đồ LaTeX vào giao diện người dùng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ TEX sang XAMLFLOW cho các thành phần bảng điều khiển.
+
+* Tích hợp vào việc trực quan hóa dữ liệu tự động và luồng làm việc.
+
+* Cập nhật kích hoạt cho sơ đồ LaTeX tương tác trong các ứng dụng dựa trên luồng.
+
+* Tạo lịch trình cho các luồng XAML dựa trên LaTeX cho các nền tảng đa người dùng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

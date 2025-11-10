@@ -143,7 +143,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ TEX เป็น **PCL (ภาษาคำสั่งเครื่องพิมพ์)** ช่วยให้เอกสาร LaTeX รวมถึงสมการ ตาราง และแผนภูมิ สามารถส่งโดยตรงไปยังเครื่องพิมพ์เพื่อให้ได้ผลลัพธ์ที่มีคุณภาพสูงในสถานการณ์ทางวิชาการหรือวิชาชีพ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* พิมพ์เอกสารวิจัยและรายงานเทคนิคของ LaTeX
+
+* ผลลัพธ์ที่มีคุณภาพสูงของบันทึกบทเรียนและเอกสารการศึกษา
+
+* สร้างเอกสารส่งมอบอย่างมืออาชีพจากตารางและแผนภูมิที่สร้างจาก LaTeX
+
+* พิมพ์เอกสารกลุ่มจากโครงการทางวิทยาศาสตร์หรือวิศวกรรม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงไฟล์ TEX เป็น PCL แบบกลุ่มสำหรับคิวการพิมพ์
+
+* การผสานเข้ากับกระบวนการพิมพ์เอกสารอัตโนมัติ
+
+* การสร้าง PCL จากที่เก็บข้อมูล LaTeX เพื่อพิมพ์เป็นกลุ่ม
+
+* การตั้งเวลาผลลัพธ์สำหรับการกระจายเอกสารทางวิชาการหรือธุรกิจ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

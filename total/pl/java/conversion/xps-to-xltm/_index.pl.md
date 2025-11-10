@@ -47,7 +47,53 @@ Konwertując plik XPS na XLTM, możesz także dodać znak wodny do wyjściowego 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików XPS na **XLTM (Szablon programu Excel z obsługą makr)** pozwala na ponowne wykorzystanie szablonów z obsługą makr, łącząc automatyzację z wcześniej zaprojektowaną strukturą arkusza kalkulacyjnego w celu zwiększenia efektywności w środowiskach korporacyjnych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Szablony planowania budżetu z wbudowanymi makrami.
+
+* Zautomatyzowane szablony raportowania sprzedaży i marketingu.
+
+* Szablony do obliczeń kadrowo-płacowych.
+
+* Szablony do zarządzania projektami z automatyzacją zadań.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Tworzenie zbiorcze szablonów XPS na XLTM dla automatyzacji korporacyjnej.
+
+* Integracja z wewnętrznym oprogramowaniem do zarządzania procesami dla zadań automatycznych.
+
+* Zaplanowane aktualizacje szablonów z obsługą makr do użytku korporacyjnego.
+
+* Usprawnione rozpowszechnianie zautomatyzowanych szablonów raportowania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

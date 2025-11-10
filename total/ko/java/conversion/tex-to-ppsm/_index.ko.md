@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **PPSM (PowerPoint Macro-Enabled Show)**로 변환하면 LaTeX 콘텐츠에 자동 계산을 위한 매크로, 대화식 다이어그램 및 동적 프레젠테이션을 포함할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 동적 테이블을 사용한 매크로 기반 학술 강의.
+
+* 자동 업데이트되는 차트를 사용한 연구 발표.
+
+* 대화식 요소를 포함한 기업 교육 데크.
+
+* LaTeX 수식이 포함된 다중 저자 학회 슬라이드.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 대화식 프레젠테이션을 위한 일괄 TEX-to-PPSM 변환.
+
+* 매크로 기능이 활성화된 슬라이드 데크로 LaTeX 콘텐츠 자동 통합.
+
+* 동적 워크샵 자료를 위한 예약된 업데이트.
+
+* 연구 또는 기업 프레젠테이션 파이프라인을 위한 트리거 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

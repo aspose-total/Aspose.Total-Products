@@ -121,7 +121,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **PPS (PowerPoint Show)**로 변환하면 편집 없이 즉시 보기와 공유에 이상적인 프레젠테이션 모드로 열리는 슬라이드 덱이 생성됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 공유 가능한 고객 프레젠테이션.
+
+* 자동화된 회의 슬라이드쇼.
+
+* 교실이나 e-러닝 플랫폼용 교육 자료.
+
+* 정교한 슬라이드 덱이 필요한 마케팅 캠페인.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 프레젠테이션을 위한 XPS 파일의 대량 변환.
+
+* 교육이나 이벤트용 자동화된 슬라이드 쇼의 예약 생성.
+
+* 빠른 액세스를 위한 내부 공유 플랫폼 통합.
+
+* 여러 팀이나 고객에게 슬라이드를 간편하게 배포.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

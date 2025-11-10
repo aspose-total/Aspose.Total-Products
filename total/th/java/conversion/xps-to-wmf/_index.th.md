@@ -57,7 +57,45 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XPS เป็น **WMF (Windows Metafile)** จะสร้างกราฟิกเวกเตอร์ที่สามารถปรับขนาดได้เหมาะสำหรับการใช้งานใน Microsoft Office และภาพประกอบทางเทคนิค
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ฝังกราฟิกเวกเตอร์ลงในเอกสาร Office
+* แผนภูมิทางเทคนิคสำหรับคู่มือและรายงาน
+* ภาพประกอบทางการตลาดที่ต้องการกราฟิกที่สามารถปรับขนาดได้
+* เนื้อหาอธิบายสำหรับงานนำเสนอและโบรชัวร์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XPS เป็น WMF จำนวนมากสำหรับไลบรารีเอกสารขององค์กร
+* สร้างแผนภูมิที่สามารถปรับขนาดได้จาก XPS โดยอัตโนมัติ
+* การผสานกับท่อการประกาศ
+* การอัปเดตตามกำหนดเวลาสำหรับกราฟิกเวกเตอร์ที่เกิดซ้ำ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ otherformats: XLSM XLTM XLTX FODS EXCEL XLAM SXC TXT TSV XLSB MD XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **XLAM (Excel Add-In)** ช่วยให้สามารถฝังข้อมูลที่สร้างจาก XSLFO และแมโครเข้า Excel add-ins ที่สามารถนำไปใช้ซ้ำได้  XLAM รองรับการอัตโนมัติ รายงานที่กำหนดเอง และแอปพลิเคชันสเปรดชีตที่สามารถทำงานแบบแอ็คทีฟ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การจัดเก็บเทมเพลตรายงาน XSLFO เป็น Excel add-ins สำหรับการใช้งานของทีม
+
+* การแจกจ่ายเครื่องมือคำนวณอัตโนมัติที่ได้มาจากข้อมูล XSLFO
+
+* การรวมวิเคราะห์ XSLFO เข้ากับแดชบอร์ด Excel ที่กำหนดเอง
+
+* การเปิดใช้งานเวิร์กโฟลว์การรายงานที่ซ้ำได้ด้วย XLAM add-ins
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การอัตโนมัติการสร้าง XLAM จาก XSLFO สำหรับงานที่เกิดซ้ำ
+
+* การตั้งเวลาในการใช้งาน add-ins พร้อมข้อมูล XSLFO ที่อัพเดท
+
+* การรวมเข้ากับการอัตโนมัติเวิร์กโฟลว์ที่ใช้ VBA
+
+* การสร้าง XLAM add-ins ตามเงื่อนไขสำหรับเครื่องมือรายงานของบริษัท
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

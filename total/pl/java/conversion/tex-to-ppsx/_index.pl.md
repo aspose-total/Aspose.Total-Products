@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **PPSX (Pokaz PowerPoint bez makr)** pozwala uzyskać bezpieczne, gotowe do oglądania prezentacje z treściami LaTeX, odpowiednie do udostępniania na różnych platformach.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Wykłady akademickie do dystrybucji bez ryzyka związanego z makrami.
+
+* Prezentacje korporacyjne lub szkoleniowe z tabelami stylizowanymi w LaTeX.
+
+* Wielokrotnie używane slajdy konferencyjne z diagramami bogatymi w formuły.
+
+* Udostępnianie technicznych slajdów na różnych platformach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersje wsadowe LaTeX na PPSX.
+
+* Automatyczne tworzenie slajdów wykładowych lub szkoleniowych.
+
+* Integracja z systemami LMS lub prezentacyjnymi przedsiębiorstwa.
+
+* Wywoływanie generacji slajdów dla projektów akademickich realizowanych wspólnie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

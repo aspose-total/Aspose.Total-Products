@@ -47,7 +47,55 @@ Saat mengonversi file TEX ke MD, Anda juga dapat menambahkan tanda air ke format
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **MD (File Markdown)** menghasilkan file Markdown standar dari LaTeX, mempertahankan struktur teks, tabel, dan format dasar untuk keterbacaan multi-platform.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Kunci" %}}
+
+
+
+* Menyiapkan catatan penelitian LaTeX untuk kolaborasi berbasis Git.
+
+* Dokumentasi ringan dengan dukungan matematika dan tabel.
+
+* Berbagi catatan kuliah LaTeX dalam format Markdown sumber terbuka.
+
+* Mengonversi laporan teknis untuk situs web statis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch TEX-ke-MD otomatis untuk tim penelitian.
+
+* Integrasi ke dalam jalur konten web yang terkendali versi.
+
+* Pembaruan yang dipicu dari file Markdown dari repositori LaTeX.
+
+* Generasi terus-menerus file MD untuk blog pendidikan atau teknis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,55 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **TGA (Targa Image)** สร้างกราฟิกเรสเตอร์คุณภาพสูงที่มักใช้ในเกม จำลอง และการแสดงผลความละเอียดสูง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* เตรียมข้อมูลภาพที่สร้างจาก XSLFO สำหรับการจำลองหรือการวิเคราะห์เกม
+
+* เก็บข้อมูลแผนภูมิละเอียดโดยมีการสูญเสียการบีบอัดต่ำ
+
+* สร้างกราฟิกเรสเตอร์สำหรับการพิมพ์อาชีพ
+
+* แปลงแดชบอร์ดการดำเนินงานเป็น TGA สำหรับเวิร์กโฟลว์การออกแบบ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลง XSLFO เป็น TGA แบบกลุ่มสำหรับรายงานความละเอียดสูง
+
+* ส่งออกตามกำหนดเวลาสำหรับท่อการแสดงผลอาชีพ
+
+* สร้าง TGA จาก XSLFO ที่เกิดซ้ำ
+
+* ผสานกับเวิร์กโฟลว์การออกแบบโดยอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

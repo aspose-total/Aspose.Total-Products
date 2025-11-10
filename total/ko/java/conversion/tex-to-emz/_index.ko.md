@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 EMZ 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+텍스트를 **EMZ(압축된 Windows 메타파일)**로 변환하면 LaTeX 벡터 그래픽이 압축된 형식으로 보존되어 프레젠테이션, 문서 및 기술 출판물에 적합해집니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Microsoft Office 문서에 LaTeX 다이어그램 임베딩.
+
+* 기술 보고서를 위한 벡터 그래픽 보존.
+
+* 전문 출판물용 재사용 가능한 LaTeX 도표.
+
+* 학술 PDF를 위한 압축된 그래픽.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 문서 라이브러리를 위한 일괄 압축 및 변환.
+
+* 자동화된 출판 워크플로에 통합.
+
+* 슬라이드 덱이나 보고서를 위한 EMZ 생성 트리거.
+
+* 쉬운 배포를 위해 압축 형식으로 LaTeX 다이어그램 보관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

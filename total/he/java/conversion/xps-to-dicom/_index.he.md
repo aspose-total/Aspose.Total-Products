@@ -105,7 +105,51 @@ otherformats: DXF SVGZ WMF TGA EMZ PSD APNG IMAGE WMZ JPEG2000 DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XPS ל-**DICOM (תקשורת דיגיטלית ותקשורת ברפואה)** מאפשרת אינטגרציה של תמונות מסמכים למערכות תמונות רפואיות, שמשמרת פרטים ברזולוציה גבוהה ליישומים קליניים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* משובץ דוחות רפואיים לתהליכי תמונות רדיולוגיות.
+
+* ארכיבת מסמכים דיאגנוסטיים לצד סריקות של חולים.
+
+* מערכות בית חולים שדורשות תאימות DICOM לדוחות.
+
+* פלטפורמות טלמדיצינה שמשתלבות עם תמונות קליניות של מסמכים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת XPS ל-DICOM בצורה רצפית עבור מערכות רשומות בית חולים.
+
+* אינטגרציה אוטומטית עם PACS (מערכות לארכיבת תמונות ותקשורת).
+
+* עדכונים מתוזמנים לתמונות ברשומות המטופלים.
+
+* זריזת תהליכי עבודה עבור עיבוד נתוני תמונה רפואית.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

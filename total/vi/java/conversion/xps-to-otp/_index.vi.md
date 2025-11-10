@@ -121,7 +121,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XPS thành **OTP (Mẫu Trình bày OpenDocument)** tạo ra các mẫu trình bày có thể tái sử dụng cho LibreOffice và OpenOffice, giúp đồng nhất thiết kế và bố cục cho các nhóm.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Mẫu trình bày doanh nghiệp cho cuộc họp với khách hàng.
+
+* Mẫu bài giảng chuẩn cho giáo viên.
+
+* Mẫu báo cáo cho tổ chức phi chính phủ hoặc dự án để sử dụng lặp đi lặp lại.
+
+* Slide trình chiếu chiến dịch tiếp thị với branding nhất quán.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tự động tạo ra các mẫu OTP từ các báo cáo XPS.
+
+* Tích hợp với hệ thống quản lý nội dung để phân phối trên toàn nhóm.
+
+* Tạo ra mẫu theo lịch trình cho các bài thuyết trình định kỳ.
+
+* Đồng nhất hóa branding và bố cục qua các bộ phận.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

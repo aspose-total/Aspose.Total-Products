@@ -105,7 +105,51 @@ otherformats: DXF APNG TGA JPEG2000 SVGZ EMZ WMF  PSD WMZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XSLFO ל- **תמונה (פורמטי רסטר גנריים)** מספקת פלט רב עוצמה לאפליקציות אינטרנט, הדפסה ושולחנות עבודה. הפורמטים הנתמכים יכולים לכלול PNG, BMP או TIFF בהתאם לדרישות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת תמונות סטטיות מטבלאות מובנות של XSLFO.
+
+* הכנת גרפיקות לדשבורדי דיווחים או תיעוד.
+
+* ייצוא תרשימים וטבלאות לאפליקציות ניידות או למערכות למידה ממוחשבות.
+
+* יצירת ארכיונים רסטריים של דוחות חוזרים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רצפתית של דוחות XSLFO לפורמטי תמונה מרובים.
+
+* שילוב עם צינורות יצור דשבורדים אוטומטיים.
+
+* ייצוא מופעל למסירת דוח מתוזמן.
+
+* יצירת תמונות אוטומטיות למערכות למידה או אינטרנט.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

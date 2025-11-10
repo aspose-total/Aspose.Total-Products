@@ -47,7 +47,31 @@ TEXファイルをFODSに変換するときに、出力FODSファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+TEXを**FODS（Flat OpenDocument Spreadsheet）**に変換すると、LaTeXデータがLibreOfficeやOpenOfficeと互換性のあるオープンでXMLベースのスプレッドシートになります。
+
+## {{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+- オープンソースオフィススイートでLaTeXベースの科学テーブルを共有すること。
+- オープンでプラットフォームに依存しないスプレッドシート形式が必要な学術研究。
+- マルチプラットフォーム環境でのプロジェクトの追跡と報告。
+- 共同作業用のFODSスプレッドシートにLaTeXデータを準備すること。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- オープンソースワークフロー向けのTEXからFODSへの自動変換。
+- クロスプラットフォームの共同作業のためのLaTeXデータセットのバッチ処理。
+- 定期的な実験結果や実験テーブルのエクスポート。
+- 研究機関向けのドキュメントパイプラインへの統合。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

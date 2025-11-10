@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp TEX sang EXCEL, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **EXCEL (XLS/XLSX)** cho phép tài liệu LaTeX với bảng và công thức được tích hợp hoàn toàn vào Microsoft Excel để phân tích, trực quan hóa và báo cáo chuyên nghiệp.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Báo cáo tài chính với các công thức được tạo bởi LaTeX.
+
+* Tính toán kỹ thuật cho phân tích bảng tính phức tạp.
+
+* Bảng điểm học thuật và tập dữ liệu nghiên cứu.
+
+* Bảng điều khiển tương tác kết hợp bảng LaTeX và biểu đồ Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ LaTeX sang Excel cho báo cáo cơ sở.
+
+* Tích hợp với các công cụ thông minh doanh nghiệp dựa trên Excel tự động.
+
+* Cập nhật kích hoạt cho bảng tiến độ dự án.
+
+* Chuyển đổi thời gian thực cho việc hợp tác trên Excel dựa trên đám mây.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

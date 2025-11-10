@@ -47,7 +47,53 @@ XPSファイルをXLTMに変換するときに、出力XLTMファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**XLTM（マクロ有効Excelテンプレート）**に変換すると、再利用可能なマクロ有効テンプレートが作成され、自動化が事前に設計されたスプレッドシート構造と統合され、企業環境での効率が向上します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* マクロが埋め込まれた予算計画テンプレート。
+
+* 自動化された営業およびマーケティングレポートテンプレート。
+
+* 人事および給与計算テンプレート。
+
+* タスク自動化が組み込まれたプロジェクト管理テンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 企業の自動化のための大量のXPSからXLTMテンプレートの作成。
+
+* 自動化されたタスクのための内部ワークフローソフトウェアとの統合。
+
+* 企業利用のための定期的なマクロ有効テンプレートの更新。
+
+* 自動化されたレポートテンプレートの効率的な配布。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

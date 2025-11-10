@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp TEX sang TSV, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **TSV (Tab-Separated Values)** cung cấp một định dạng nhẹ khác cho dữ liệu LaTeX số và văn bản, phù hợp cho phân tích và nhập dữ liệu vào phần mềm.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Bảng thí nghiệm học thuật được xuất cho phân tích thống kê.
+
+* Bộ dữ liệu kỹ thuật cho Python, R hoặc MATLAB.
+
+* Bảng LaTeX tài chính được chuyển đổi cho các nền tảng phân tích.
+
+* Chia sẻ dữ liệu LaTeX nhẹ trong các nhóm làm việc.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ TEX sang TSV trong các đường ống nghiên cứu.
+
+* Xuất dữ liệu bảng LaTeX tự động cho các mô hình AI.
+
+* Tạo TSV theo thời gian thực cho các bảng điều khiển phân tích cộng tác.
+
+* Tích hợp vào các đường ống ETL cho các bộ dữ liệu có cấu trúc.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

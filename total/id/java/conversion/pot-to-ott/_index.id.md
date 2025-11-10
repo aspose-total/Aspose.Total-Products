@@ -53,7 +53,45 @@ Menggunakan API, Anda juga dapat melakukan konversi file POT ke OTT dengan tanda
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi POT ke OTT (OpenDocument Text Template) memungkinkan organisasi untuk membuat templat dokumen yang dapat digunakan kembali sesuai dengan standar terbuka. Templat OTT ideal untuk lembaga yang menekankan aksesibilitas dan penyimpanan arsip jangka panjang.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Membuat templat standar terbuka dari materi pelatihan PowerPoint.
+
+* Mengonversi gaya presentasi menjadi templat teks yang dapat digunakan kembali.
+
+* Menciptakan format dokumen yang konsisten untuk penerbitan akademis.
+
+* Mendesain templat akses terbuka untuk dokumentasi NGO.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Generasi OTT otomatis dari tata letak master PowerPoint.
+
+* Integrasi dengan alur kerja dokumen sumber terbuka.
+
+* Sinkronisasi templat di seluruh repositori dokumen institusi.
+
+* Sistem dokumen pemerintah yang memanfaatkan templat format terbuka.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

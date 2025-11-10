@@ -61,7 +61,47 @@ MOBI'yi TSV'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI dosyalarını TSV'ye (Tablo Ayırıcılı Değerler) dönüştürmek, teknik ekipler, yapay zeka geliştiricileri ve tutarlı ayraçlar gerektiren arka uç veri işlemleri için ideal olan e-kitap verilerinin temiz ve yapılandırılmış bir şekilde dışa aktarılmasını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+- E-kitap meta verilerini ilişkisel veritabanlarına aktarma.
+
+- Yapılandırılmış MOBI verilerini kullanarak dil modellerini eğitme.
+
+- Analitik araçlar için TSV tabanlı okuma günlükleri oluşturma.
+
+- Kurumsal veri depolarına e-kitap detaylarını taşıma.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+- Metin analitiği için MOBI'den TSV'ye toplu işleme.
+
+- Otomatik NLP ön işleme boru hatlarına entegrasyon.
+
+- Veri senkronizasyonları sırasında tetiklenen TSV oluşturma.
+
+- Yapay zeka kategorizasyon sistemleri için meta veri normalizasyonu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

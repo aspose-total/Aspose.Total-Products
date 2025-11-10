@@ -143,7 +143,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików TEX na **DOCM (Dokument z obsługą makr programu Word)** umożliwia bezproblemową integrację treści LaTeX z zaawansowanymi makrami programu Word. Jest to szczególnie przydatne dla badaczy akademickich i inżynierów, którzy potrzebują zautomatyzowanego generowania raportów z dynamicznymi tabelami, formułami i interaktywnymi treściami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Automatyzacja raportów badawczych z dużą ilością LaTeX w programie Microsoft Word.
+
+* Osadzanie złożonych równań matematycznych w dokumentacji inżynieryjnej.
+
+* Tworzenie interaktywnych szablonów laboratoryjnych z makrami dla uzyskiwania powtarzalnych wyników.
+
+* Kompilacja prac dyplomowych z automatycznym krzyżowym odwoływaniem i numerowaniem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa TEX do DOCM w instytucjonalnych systemach zarządzania dokumentami.
+
+* Generowanie czasopism naukowych za pomocą makr z repozytoriów LaTeX.
+
+* Integracja z automatyzacją procesów w publikacjach technicznych.
+
+* Automatyczne aktualizowanie pulpitów badawczych, łącząc treści LaTeX z makrami programu Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

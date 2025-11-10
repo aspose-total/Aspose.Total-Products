@@ -47,7 +47,51 @@ Saat mengonversi file XSLFO ke XLSM, Anda juga dapat menambahkan tanda air ke fo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **XLSM (Excel yang Diaktifkan Makro)** mempertahankan data tabular dan memungkinkan otomatisasi lanjutan menggunakan makro. XLSM ideal untuk pelaporan dinamis, otomatisasi alur kerja, dan pemodelan keuangan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Menyematkan perhitungan berbasis XSLFO ke dalam makro Excel.
+
+* Mengotomatisasi tugas pelaporan berkala menggunakan buku kerja XLSM.
+
+* Menghasilkan dasbor interaktif dengan data yang bersumber dari XSLFO.
+
+* Menyiapkan template XSLFO untuk alur kerja keuangan yang didorong oleh makro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi otomatis buku kerja XLSM dari laporan XSLFO.
+
+* Pembaruan laporan yang diaktifkan makro yang dijadwalkan untuk tinjauan manajemen.
+
+* Integrasi dengan VBA dan otomatisasi alur kerja perusahaan.
+
+* Konversi XLSM yang dipicu untuk dasbor keuangan dinamis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

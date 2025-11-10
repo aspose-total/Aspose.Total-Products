@@ -130,7 +130,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**ODT（OpenDocument Text）**に変換すると、LibreOfficeやOpenOfficeなどのオープンソースオフィススイートとの互換性が実現されます。文書のレイアウトとコンテンツを保持しながら、クロスプラットフォームでベンダーニュートラルな形式をサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* オープンソースツールを使用する組織内の共同プロジェクト。
+
+* 大学向けの学術論文や研究文書。
+
+* ODF準拠が必要な政府やNGOの文書。
+
+* 複数プラットフォームで共有される技術マニュアルやガイド。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 大規模なXPSアーカイブをODTに自動変換してクロスプラットフォームでアクセス。
+
+* Nextcloudのような文書共同作業プラットフォームとの統合。
+
+* 標準化されたコンテンツ作成のためのODTテンプレートの生成。
+
+* 学術研究の出版ワークフローのための一括変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,51 @@ otherformats: XLSB XLTM CSV XLTX EXCEL ODS TSV MD DIF XLAM XLT TXT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XSLFO לפורמט **SXC (גיליון עבודה של StarOffice)** מאפשרת שיתוף פעולה חלק עם כלי StarOffice ו-OpenOffice מסורתיים. SXC שומרת על מבנה ועיצוב לצורך זרימת עבודה לארכיון ולדיווחים תאגידיים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ארכוב תכני XSLFO לגרפים פרויקט ב-SXC עבור מערכות מורשות.
+
+* הכנת גיליונות עבודה SXC עבור שותפים בינלאומיים באמצעות StarOffice.
+
+* המרת נתוני XSLFO טבלאיים לצורך הכשרה ותיעוד.
+
+* שיתוף מדדי ביצוע חודשיים ב-SXC לצורך דיווח תקינות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה אוטומטית בצפון מ-XSLFO ל-SXC לפרויקטים ארכיוניים.
+
+* שילוב בזרימות עבודה מורשות לפורמטים של StarOffice.
+
+* יצירת דוחות SXC מתוזמנים מקבצי XSLFO.
+
+* המרה מופעלת ללוחות בקרה ניהוליים חוזרים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

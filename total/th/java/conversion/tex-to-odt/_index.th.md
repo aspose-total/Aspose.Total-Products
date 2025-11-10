@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **ODT (OpenDocument Text)** ช่วยให้ผู้ใช้ LaTeX สามารถสร้างเอกสารมาตรฐานเปิดที่เข้ากันได้กับ LibreOffice, OpenOffice, และชุดโปรแกรมสำนักงานอื่น ๆ ซึ่งช่วยให้สามารถเข้าถึงและทำงานร่วมกันได้บนแพลตฟอร์มต่าง ๆ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การส่งมอบงานวิชาการในรูปแบบเอกสารเปิด
+
+* รายงานการวิจัยร่วมกันที่เข้ากันได้กับหลายแพลตฟอร์ม
+
+* เอกสารโครงการโอเพนซอร์สและคู่มือ
+
+* หนังสืออิเล็กทรอนิกส์หรือเอกสารสอนใช้เครื่องมือโอเพนซอร์สที่จัดรูปแบบด้วย LaTeX
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงไฟล์ TEX เป็น ODT จำนวนมากสำหรับคลังข้อมูลมหาวิทยาลัย
+
+* การรวมเข้ากับกระแสการเผยแพร่โอเพนซอร์ส
+
+* การแปลงอัตโนมัติสำหรับการกระจายเอกสารบนหลายแพลตฟอร์ม
+
+* การสร้างรายงาน ODT แบบไดนามิกจากชุดข้อมูล LaTeX
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

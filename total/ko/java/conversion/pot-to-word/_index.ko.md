@@ -53,7 +53,45 @@ API를 사용하여 워터마크를 사용하여 POT 파일을 WORD로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POT을 WORD로 변환하면 프레젠테이션 템플릿을 Microsoft Word 및 유사한 편집기와 호환되는 리치 텍스트 문서로 변환할 수 있습니다. 교육, 비즈니스 및 정책 문서 작업을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 학술 발표 자료를 발행 가능한 보고서로 변환하기.
+
+* 편집 가능한 회의록 및 기업 요약서 작성하기.
+
+* PowerPoint 기반 강좌를 문서화된 학습 자료로 변환하기.
+
+* 교육 슬라이드를 내부 문서로 재활용하기.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 내부 검토용 자동화된 PowerPoint-to-Word 문서화.
+
+* 콘텐츠 관리 시스템에서 일괄 변환.
+
+* 문서 작성 파이프라인에 대한 워크플로 통합.
+
+* 기업 커뮤니케이션 시스템에 대한 간소화된 변환.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

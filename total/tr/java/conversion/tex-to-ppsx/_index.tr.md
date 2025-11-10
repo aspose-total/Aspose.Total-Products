@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **PPSX'e (Makrosuz PowerPoint Gösterisi)** dönüştürmek, LaTeX içeriği olan güvenli, hemen görüntülenebilir sunumlar üretir ve farklı platformlar arasında paylaşım için uygundur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Makro güvenlik riski olmadan dağıtım için akademik dersler.
+
+* LaTeX-stilinde tablolar içeren kurumsal veya eğitim sunumları.
+
+* Formül açısından zengin diyagramlarla tekrar kullanılabilir konferans slaytları.
+
+* Teknik slaytların çoklu platformda paylaşımı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Toplu LaTeX'ten PPSX'e dönüşümler.
+
+* Ders veya eğitim slaytlarının otomatik oluşturulması.
+
+* LMS veya kurumsal sunum sistemleriyle entegrasyon.
+
+* İşbirlikçi akademik projeler için tetiklenmiş slayt oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

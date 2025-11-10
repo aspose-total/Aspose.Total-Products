@@ -47,7 +47,51 @@ När du konverterar TEX-fil till SXC, kan du också lägga till vattenstämpel t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av TEX till **SXC (StarOffice Calc Spreadsheet)** möjliggör för äldre OpenOffice- eller StarOffice-användare att arbeta med LaTeX-tabulärdata utan att förlora strukturen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* Historiska LaTeX-dataset i StarOffice-kompatibelt format.
+
+* Akademisk forskning som kräver kompatibilitet med äldre kontorsprogram.
+
+* Delning av numeriska LaTeX-tabeller över plattformar.
+
+* Projekt rapporter i SXC för äldre kontorssystem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Schemalagda partiella konverteringar av LaTeX-dataset.
+
+* Integration i äldre kontorsautomatiseringsflöden.
+
+* Arkivering av strukturerade LaTeX-tabeller för forskningskontinuitet.
+
+* Utlöst SXC-generering för samarbetsprojekt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

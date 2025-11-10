@@ -53,7 +53,51 @@ Met behulp van de API kunt u ook een POTM-bestand naar WORDML-conversie met wate
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM naar WORDML-conversie exporteert presentatiesjablonen naar WordProcessingML, een op XML gebaseerd Microsoft Word-formaat dat ideaal is voor gegevensintegratie en gestructureerde documentopslag. Het behoudt de documentsemantiek voor geautomatiseerde systemen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* XML-gebaseerde opslag van presentatie-inhoud voor bedrijfssystemen.
+
+* Integratie van PowerPoint-gegevens in gestructureerde rapportagesjablonen.
+
+* Geautomatiseerde documentweergave vanuit WordML voor online publicatie.
+
+* Hergebruik van inhoud in op database gebaseerde documentatieworkflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde XML-conversiepijplijnen voor gegevensuitwisseling van documenten.
+
+* Integratie met CMS-platforms met gebruik van het WordML-formaat.
+
+* Conversie voor versiebeheerde documentopslagplaatsen.
+
+* Cross-format publicatieworkflows die gebruikmaken van de XML WordML-uitvoer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

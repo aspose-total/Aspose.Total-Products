@@ -135,7 +135,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp XSLFO (Extensible Stylesheet Language Formatting Objects) thành **ODP (OpenDocument Presentation)** giúp tạo ra các bài thuyết trình mã nguồn mở một cách dễ dàng trong khi vẫn giữ nguyên nội dung cấu trúc và kiểu dáng. ODP tương thích với LibreOffice Impress và các bộ ứng dụng văn phòng mã nguồn mở khác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi báo cáo hàng năm được tạo từ XSLFO thành các bài thuyết trình ODP tương tác.
+
+* Chuẩn bị nội dung giáo dục từ các bảng XSLFO có cấu trúc để sử dụng trong lớp học.
+
+* Lưu trữ các bài thuyết trình họp hội đồng trong một định dạng mở đảm bảo tính tương lai.
+
+* Tạo bảng điều khiển trực quan từ dữ liệu phân tích dựa trên XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt các báo cáo hàng tháng từ XSLFO thành ODP cho việc đánh giá doanh nghiệp.
+
+* Tích hợp vào các luồng công việc tự động từ báo cáo đến bài thuyết trình.
+
+* Tạo ra các bài thuyết trình ODP theo lịch cho các cuộc họp định kỳ.
+
+* Kích hoạt chuyển đổi nội dung XSLFO thành các bộ slide mã nguồn mở.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

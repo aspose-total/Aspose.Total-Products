@@ -47,7 +47,55 @@ När du konverterar TEX-fil till TSV, kan du också lägga till vattenstämpel t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertera TEX till **TSV (Tab-Separated Values)** ger ett alternativt lättviktigt format för numeriska och textuella LaTeX-data, lämpligt för analys och programimport.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* Akademiska experimenttabeller exporterade för statistisk analys.
+
+* Ingenjörsdatauppsättningar för Python, R eller MATLAB.
+
+* Finansiella LaTeX-tabeller konverterade för analysplattformar.
+
+* Lättviktig LaTeX-data delas inom team.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Batch TEX-till-TSV-konvertering i forskningspipeliner.
+
+* Automatisk export av LaTeX-tabulärdata för AI-modeller.
+
+* Realtids-TSV-generering för samarbetsanalyser.
+
+* Integration i ETL-pipeliner för strukturerade datauppsättningar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

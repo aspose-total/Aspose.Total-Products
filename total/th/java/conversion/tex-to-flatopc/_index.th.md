@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ TEX เป็น **FLATOPC (Flat Open Packaging Conventions)** ช่วยให้เนื้อหา LaTeX รวมถึงสูตรคณิตและตาราง สามารถบันทึกไว้ในไฟล์เดียวที่ใช้รูปแบบ XML ที่เข้ากันได้เต็มรูปแบบกับมาตรฐาน Office Open XML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* เก็บถาวรเอกสาร LaTeX ในรูปแบบ XML มาตรฐาน
+
+* รักษาเนื้อหาโครงสร้างและการจัดรูปแบบสำหรับแอปพลิเคชันขององค์กร
+
+* แบ่งปันรายงานทางวิชาการหรือเทคนิคที่ซับซ้อนเป็นไฟล์แพ็คเดียว
+
+* รักษาตารางและสมการที่สร้างจาก LaTeX เพื่อใช้งานได้บนหลายแพลตฟอร์ม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลงไฟล์ TEX เป็น FLATOPC จำนวนมากสำหรับคลังข้อมูลวิจัย
+
+* ผสานเข้ากับระบบการจัดการเอกสารโดยอัตโนมัติ
+
+* สร้าง FLATOPC ตามกระบวนการทำงานร่วมกัน
+
+* ทำการเก็บถาวรเนื้อหา LaTeX ในรูปแบบ XML ตามกำหนดเวลา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

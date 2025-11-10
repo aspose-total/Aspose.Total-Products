@@ -57,7 +57,51 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **EMZ (Enhanced Windows Metafile Compressed)** ช่วยให้ได้กราฟิกเวกเตอร์คุณภาพสูงพร้อมกับการบีบอัด ที่เหมาะสำหรับสไลด์เดคและภาพประกอบพร้อมพิมพ์
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การส่งออกตาราง XSLFO เป็นกราฟิกที่สามารถปรับขนาดได้สำหรับการนำเสนอ
+
+* การฝังภาพทางการเงินหรือดำเนินการในสไลด์เดค
+
+* การสร้างภาพถาวรสำหรับแดชบอร์ดรายงาน
+
+* การเตรียมภาพสำหรับเวิร์กโฟลว์การพิมพ์บนเดสก์ท็อป
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงชุดรายงาน XSLFO เป็น EMZ ตามกำหนดเวลา
+
+* การรวมเข้ากับกระแสการรายงานอัตโนมัติ
+
+* การสร้างภาพ EMZ ที่เหมาะสำหรับการฝังในสไลด์ตามเหตุการณ์
+
+* การแปลงแดชบอร์ด XSLFO เป็นภาพเวกเตอร์บีบอัดแบบเรียลไทม์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

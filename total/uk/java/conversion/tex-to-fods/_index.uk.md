@@ -102,7 +102,35 @@ otherformats: DIF MD CSV TXT XLT ODS XLTX XLSM XLSB SXC XLTM EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Перетворення TEX у **FODS (Flat OpenDocument Spreadsheet)** дозволяє отримати дані LaTeX у відкритих XML-аркушах даних, сумісних з LibreOffice та OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+
+* Поширення наукових таблиць на основі LaTeX у відкритих офісних пакетах з відкритим вихідним кодом.
+* Академічні дослідження, які потребують використання платформонезалежних форматів електронних таблиць.
+* Відстеження проектів та звітність в умовах багатоплатформового середовища.
+* Підготовка даних LaTeX для спільної роботи з FODS-таблицями.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Автоматизована конвертація TEX в FODS для робочих процесів з відкритим вихідним кодом.
+* Пакетна обробка наборів даних LaTeX для спільної роботи на різних платформах.
+* Запланована експорт лабораторних результатів або таблиць експериментів.
+* Інтеграція в документальні потоки для наукових установ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,51 @@ När du konverterar TEX-fil till FODS, kan du också lägga till vattenstämpel 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera TEX till **FODS (Flat OpenDocument Spreadsheet)** levererar LaTeX-data i öppna, XML-baserade kalkylblad som är kompatibla med LibreOffice och OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* Dela LaTeX-baserade vetenskapliga tabeller med öppen källkods kontorspaket.
+
+* Akademisk forskning som kräver öppna, plattformsoberoende kalkylbladsformat.
+
+* Projektspårning och rapportering i flerplattforms miljöer.
+
+* Förbereda LaTeX-data för samarbetsfokuserade FODS-kalkylblad.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Automatiserad TEX-till-FODS-konvertering för arbetsflöden med öppen källkod.
+
+* Batchbehandling av LaTeX-datauppsättningar för samarbete över plattformar.
+
+* Schemalagd export av labresultat eller experimenttabeller.
+
+* Integration i dokumentpipeliner för forskningsinstitutioner.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

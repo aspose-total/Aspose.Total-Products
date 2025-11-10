@@ -102,7 +102,45 @@ otherformats: XLAM XLTX XLSX XLT DIF XLSM XLSB XLS ODS CSV FODS TSV XLTM MHTML M
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POT ל-SXC (גיליון חישובי של StarOffice Calc) מאפשרת להשתמש בנתונים שנגזרו ממצגות בסביבות StarOffice או OpenOffice הישנות. פורמט זה נשמר רלוונטי לפרויקטים חינוכיים וארכיוניים שדורשים תאימות לאחור.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* שימוש מחדש בתוכן של PowerPoint עבור מוסדות המשתמשים בתוכנה ישנה.
+
+* יצירת גליונות פעילות לתלמידים מטבלאות מצגות.
+
+* שיתוף מדדים עסקיים בין כלי גיליון קוד פתוח.
+
+* ארכיבת ניתוחים מבוססי PowerPoint במערכות ירושה.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* זרימות עבודה להמרת נתונים ישנים עבור המרת מותגים.
+
+* חילוץ אוטומטי של טבלאות PowerPoint לקבצי SXC.
+
+* המרות מתוזמנות למערכות ארכיון ואקדמיות.
+
+* שילוב עם פלטפורמות בינה עסקית ירושות.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,33 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh WMF đầu ra theo nhu c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi TEX sang **WMF (Windows Metafile)** bảo tồn đồ họa vector cho các sơ đồ LaTeX, đảm bảo tính tương thích với Microsoft Office và tài liệu kỹ thuật.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Nhúng hình minh họa LaTeX vào Word hoặc PowerPoint.
+* Sơ đồ kỹ thuật trong báo cáo chuyên nghiệp.
+* Hình ảnh có thể co giãn cho tài liệu doanh nghiệp và học thuật.
+* Phân phối đa nền tảng của đồ họa được tạo bởi LaTeX.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi hàng loạt các sơ đồ LaTeX sang WMF.
+* Tích hợp vào luồng công việc tài liệu Microsoft Office.
+* Cập nhật kích hoạt cho đồ họa vector trong các bài thuyết trình.
+* Lưu trữ tự động các hình ảnh kỹ thuật được tạo bởi LaTeX.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

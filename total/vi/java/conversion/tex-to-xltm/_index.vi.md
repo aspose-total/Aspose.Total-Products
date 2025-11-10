@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp TEX sang XLTM, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX thành **XLTM (Excel Macro-Enabled Template)** kết hợp các mẫu có thể tái sử dụng với các macro, cho phép quy trình dữ liệu LaTeX tự động hóa và báo cáo động.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Mẫu học thuật với macro nhúng để tự động chấm điểm.
+
+* Mẫu tài chính và kỹ thuật được cung cấp bởi bộ dữ liệu LaTeX.
+
+* Bảng điều khiển động với các tính toán do macro điều khiển.
+
+* Mẫu dự án cộng tác cho các nhóm tác giả đa tác giả.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo mẫu Batch LaTeX-to-XLTM cho doanh nghiệp.
+
+* Tự động hóa việc điền macro từ các nguồn dữ liệu LaTeX.
+
+* Tích hợp vào tự động hóa quy trình cho các dự án nghiên cứu.
+
+* Tạo mẫu có macro kích hoạt cho truy cập đa người dùng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

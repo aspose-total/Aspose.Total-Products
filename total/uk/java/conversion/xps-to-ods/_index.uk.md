@@ -102,7 +102,51 @@ otherformats: XLTX TSV XLSB CSV SXC DIF FODS TXT MD EXCEL XLAM XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Конвертація XPS в **ODS (OpenDocument Spreadsheet)** дозволяє широку сумісність як з LibreOffice, так і з OpenOffice, зберігаючи структуровані макети даних. Ідеально підходить для спільних середовищ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Корпоративні таблиці, які використовуються в кількох офісних пакетах.
+
+* Звіти даних уряду або НПО, які вимагають відкритих форматів.
+
+* Відстеження проектів та показники продуктивності на командному рівні.
+
+* Технічна та дослідницька документація у формі таблиць.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Масова автоматизована конвертація з архівів XPS в ODS.
+
+* Інтеграція в системи управління документами та робочими процесами.
+
+* Планове створення ODS для повторюваних звітів.
+
+* Автоматизована розподіл даних між платформами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

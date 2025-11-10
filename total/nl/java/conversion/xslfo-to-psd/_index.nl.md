@@ -57,7 +57,51 @@ Met behulp van de API kunt u ook de uitgevoerde PSD-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XSLFO naar **PSD (Adobe Photoshop)** stelt grafisch ontwerpers in staat om XSLFO gegenereerde tabellen en visuals te bewerken met lagen en geavanceerde effecten. PSD-uitvoer is ideaal voor marketing- of presentatievisuals.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het omzetten van XSLFO-grafieken naar gelaagde Photoshop-ontwerpen.
+
+* Aanpassen van rapportvisuals voor marketingmateriaal.
+
+* Bewerken van gestructureerde XSLFO-tabellen voor professionele presentaties.
+
+* Voorbereiden van infographics met verbeterde opmaak.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde export van XSLFO-rapporten naar PSD voor ontwerpworkflows.
+
+* Integratie met batch Photoshop-verwerkingspijplijnen.
+
+* Geplande conversie voor terugkerende visuele rapporten.
+
+* Getriggerde PSD-generatie voor creatieve marketingdashboards.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

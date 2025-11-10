@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie XSLFO na **PPTM (PowerPoint z obsługą makr)** łączy edytowalne slajdy z możliwościami automatyzacji. PPTM jest idealny do dynamicznego raportowania, interaktywnych pulpitów nawigacyjnych i prezentacji cyklicznych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Osadzanie obliczeń generowanych przez XSLFO w interaktywnych slajdach.
+
+* Przygotowywanie zautomatyzowanych pulpitów oceny wydajności.
+
+* Tworzenie makroobsługiwanych slajdów szkoleniowych lub instruktażowych.
+
+* Dystrybucja dynamicznych prezentacji dla inwestorów lub zarządu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja raportów XSLFO na slajdy PPTM.
+
+* Integracja z potokami automatyzacji VBA.
+
+* Wywoływanie generowania makroobsługiwanych slajdów z powtarzalnych treści XSLFO.
+
+* Automatyczna konwersja wsadowa dla dynamicznych prezentacji korporacyjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

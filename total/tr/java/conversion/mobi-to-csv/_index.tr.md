@@ -61,7 +61,47 @@ MOBI'yi CSV'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI (Mobipocket eBook) dosyalarını CSV (Virgülle Ayrılmış Değerler) formatına dönüştürmek, dijital kitaplardan metinsel ve meta veri bilgilerinin yapılandırılmış bir şekilde çıkarılmasını sağlar. CSV'nin evrensel uyumluluğu, veri odaklı içerik yeniden amaçlama ve katalog yönetimi için ideal hale getirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+- MOBI kitap kütüphanelerini sıralanabilir CSV kitap veritabanlarına dönüştürme.
+
+- Yazar, başlık ve tür verilerinin yayıncılık panoları için çıkarılması.
+
+- CRM veya envanter araçları içindeki e-kitap koleksiyonlarının yönetilmesi.
+
+- E-kitap meta verilerinin analitik ve öneri sistemlerine aktarılması.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+- Toplu MOBI meta veri çıkarımı için otomatik dönüşüm boru hatları.
+
+- Kütüphane veri birleştirme için ETL sistemlerine entegrasyon.
+
+- Bulut depolama ve CSV tabanlı analitikler ile periyodik senkronizasyon.
+
+- Yapılandırılmış CSV çıktıları kullanarak AI destekli e-kitap kategorizasyonu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

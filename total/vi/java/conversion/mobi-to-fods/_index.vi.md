@@ -61,7 +61,39 @@ Sau khi chuyển đổi MOBI sang FODS, [Aspose.Cells for Java](https://products
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Xuất MOBI sang FODS (Flat OpenDocument Spreadsheet) cung cấp đầu ra bảng tính dựa trên XML lý tưởng cho việc trao đổi dữ liệu nhẹ. Nó hoàn hảo cho môi trường mã nguồn mở và các hệ thống yêu cầu dữ liệu eBook có cấu trúc văn bản thuần.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+- Quản lý thư viện eBook trong các ứng dụng bảng tính mã nguồn mở.
+- Chỉnh sửa các thuộc tính nội dung MOBI trong LibreOffice Calc.
+- Tạo báo cáo nhẹ cho phân tích thư viện số.
+- Chia sẻ siêu dữ liệu giữa các nhóm sử dụng định dạng mở.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+- Chuyển đổi MOBI sang FODS hàng loạt cho các cổng dữ liệu mở.
+- Tích hợp vào các đường ống dữ liệu ETL mã nguồn mở.
+- Phân tích XML để xác minh và làm sạch siêu dữ liệu.
+- Xuất dữ liệu dựa trên FODS cho các cơ sở giáo dục.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

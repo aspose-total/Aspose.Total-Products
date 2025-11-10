@@ -57,7 +57,45 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ XSLFO (Extensible Stylesheet Language Formatting Objects) เป็น **APNG (Animated Portable Network Graphics)** ช่วยให้สามารถสร้างภาพเคลื่อนไหวของข้อมูลรายงานโครงสร้างได้อย่างสวยงามพร้อมความคมชัดของเวกเตอร์  APNGs เหมาะสำหรับแดชบอร์ดแบบอินเทอร์แอคทีฟและการแสดงผลบนเว็บไซต์
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* กราฟเคลื่อนไหวจากรายงานการวิเคราะห์ที่สร้างจาก XSLFO
+* การแสดงผลแบบอินเทอร์แอคทีฟของแนวโน้มทางการเงินหรือดำเนินการ
+* เนื้อหาการศึกษาที่เหมาะสำหรับมือถือด้วยตารางที่เคลื่อนไหว
+* สไลด์เดินเรื่องในแพลตฟอร์มทางการแพทย์ from XSLFO
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงแบบจำนวนมากของแดชบอร์ด XSLFO เป็น APNG สำหรับแอปพลิเคชันเว็บ
+* การรวมเข้ากับท่อการแสดงผลข้อมูลแบบเรียลไทม์
+* การสร้างกราฟิกเคลื่อนไหวตามกำหนดเวลาสำหรับเครื่องมือรายงาน
+* การสร้าง APNG จาก XSLFO ในกระบวนการทำงานโดยอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

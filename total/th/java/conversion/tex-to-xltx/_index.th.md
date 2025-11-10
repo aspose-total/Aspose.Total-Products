@@ -47,7 +47,51 @@ otherformats: XLTM DIF TSV XLSB FODS XLTX TXT ODS SXC XLAM MD XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **XLTX (Excel Template โดยไม่มี Macros)** จะให้เทมเพลตที่ปลอดภัยและใช้ซ้ำสำหรับตารางและสูตร LaTeX ที่เหมาะสำหรับสภาพแวดล้อมที่เป็นร่วมกันและหลายแพลตฟอร์ม
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* รูปแบบเทมเพลตทางวิชาการและธุรกิจที่มีมาตรฐานโดยไม่มี macros
+
+* แผ่นติดตามโครงการที่ใช้ซ้ำที่ใช้ LaTeX
+
+* เทมเพลตทางการเงินและวิจัยสำหรับการแบ่งปันผู้ใช้หลายคนอย่างปลอดภัย
+
+* รายงานหลายแผ่นสำหรับทีมวิศวกรรมและวิทยาศาสตร์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างเทมเพลตจาก TEX เป็น XLTX แบบกลุ่ม
+
+* การผสานอัตโนมัติเข้ากับเอกสารและเทมเพลตเก็บข้อมูล
+
+* การอัปเดตเทมเพลต LaTeX ตามกำหนดเวลาสำหรับโครงการร่วมกัน
+
+* การใช้งานหลายแพลตฟอร์มของเทมเพลต LaTeX ที่ไม่มี macros
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

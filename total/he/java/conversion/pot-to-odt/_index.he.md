@@ -99,7 +99,45 @@ otherformats: DOTX FLATOPC DOTM RTF WORDML WORD DOC OTT DOCX TEXT DOT DOCM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POT ל-ODT (OpenDocument Text) מקלה על בינה בין PowerPoint וכלים למשרד קוד פתוח כמו LibreOffice או OpenOffice. זה מבטיח גמישות בקרב קהילות מקצועיות ואקדמיות שבהן נעדרת סטנדרט פתוח.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* שיתוף תוכן מצגת כטקסט ניתן לעריכה בפורמטים של קוד פתוח.
+
+* המרת מודולי הכשרה לשימוש במוסדות ממשלתיים.
+
+* ייצוא חומרי חברה לשיתוף ציבורי.
+
+* השימוש מחדש בתבניות של PowerPoint במערכות המתאימות ל-ODF.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת גורמי POT ל-ODT במערכות מסמכים לחינוך.
+
+* אוטומציה של תהליכי עבודה לארכיון מסמכים ממשלתיים.
+
+* שילוב בסביבות משרד היברידיות עם פורמטי קבצים מעורבים.
+
+* המרה מתוזמנת לפורטלי תיעוד בקוד פתוח.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,51 @@ Menggunakan API, Anda juga dapat memutar gambar JPEG2000 keluaran sesuai kebutuh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **JPEG2000** menghasilkan visual LaTeX berkualitas tinggi yang terkompresi cocok untuk penyimpanan arsip, penerbitan profesional, dan aplikasi web.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengarsipkan plot LaTeX resolusi tinggi untuk makalah penelitian.
+
+* Diagram ilmiah untuk publikasi online dengan kerugian kualitas minimal.
+
+* Berbagi gambar akademis yang terkompresi di berbagai platform.
+
+* Visual LaTeX berkualitas tinggi untuk materi pengajaran.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch otomatis untuk repositori penelitian.
+
+* Integrasi ke dalam alur kerja penerbitan akademis.
+
+* Generasi JPEG2000 yang dipicu untuk distribusi web atau cetak.
+
+* Pengarsipan terus menerus gambar LaTeX dalam format terkompresi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

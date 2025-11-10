@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 IMAGE 이미지를 회전할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **이미지(일반 래스터 형식)**로 변환하면 LaTeX 방정식, 표 및 그림을 웹, 인쇄 및 문서용으로 보다 보편적으로 호환되는 이미지 형식으로 변환할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LaTeX로 생성된 그림을 블로그와 웹사이트에 삽입하기.
+
+* 학술 논문용 고해상도 이미지 준비하기.
+
+* 보다 보편적으로 읽을 수 있는 형식으로 다이어그램 공유하기.
+
+* 복잡한 LaTeX 표를 이미지 스냅샷으로 변환하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 콘텐츠 라이브러리를 위한 일괄 TEX-to-image 변환.
+
+* 자동 게시 및 웹사이트 워크플로에 통합.
+
+* 이미지 기반 강의나 튜토리얼 콘텐츠에 대한 트리거된 업데이트.
+
+* 여러 LaTeX 다이어그램을 일관된 이미지 형식으로 내보내기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

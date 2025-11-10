@@ -143,7 +143,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **MARKDOWN**으로 변환하면 LaTeX 문서를 Markdown 구문을 사용한 가벼우면서 가독성 있는 텍스트로 변환하여 웹 게시, 문서 작성 및 버전 관리 워크플로에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 온라인 블로그용 학술 노트 및 보고서 변환.
+
+* Markdown 친화적 구문의 LaTeX 수식을 포함한 기술 문서.
+
+* GitHub 또는 GitLab 저장소에서의 협업 편집.
+
+* 웹 기반 플랫폼에서의 LaTeX 연구 요약 발행.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 문서 파이프라인을 위한 일괄 TEX-to-Markdown 변환.
+
+* 정적 사이트 생성기 (예: Hugo, Jekyll)와의 통합.
+
+* 교육 콘텐츠 플랫폼을 위한 트리거 생성.
+
+* 지속적인 LaTeX-to-web 게시를 위한 예약 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

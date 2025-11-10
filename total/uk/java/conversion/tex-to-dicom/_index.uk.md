@@ -105,7 +105,51 @@ otherformats: WMZ WMF EMZ DXF IMAGE JPEG2000 APNG TGA SVGZ PSD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення TEX на **DICOM (цифрове зображення та комунікації в медицині)** дозволяє вбудовувати технічні та наукові діаграми LaTeX у медичні робочі процеси та документацію досліджень.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* Інтеграція діаграм на основі LaTeX у звіти з медичного зображення.
+
+* Документування біомедичних досліджень структурованим вмістом LaTeX.
+
+* Візуалізація анатомічних даних за допомогою графіки, згенерованої LaTeX.
+
+* Публікація схем на основі LaTeX у дослідженнях з радіології.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Автоматизована пакетна конвертація для архівів зображень у лікарнях.
+
+* Інтеграція у робочі процеси медичних досліджень.
+
+* Автоматичне перетворення TEX у DICOM для клінічних досліджень.
+
+* Експорт діаграм LaTeX для діагностики з підтримкою штучного інтелекту.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

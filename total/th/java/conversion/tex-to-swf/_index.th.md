@@ -135,7 +135,51 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **SWF (Shockwave Flash)** สร้างภาพเคลื่อนไหว LaTeX ที่สามารถใช้สร้างการเรียนการสอนแบบโต้ตอบสำหรับแพลตฟอร์มการศึกษาและการนำเสนอออนไลน์ แม้ว่าจะใช้งานหลักสำหรับระบบเก่า
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* บทแนะนำและการแสดงผลที่ใช้ LaTeX ในรูปแบบอนิเมชัน
+
+* โมดูลการเรียนการสอนแบบโต้ตอบสำหรับแพลตฟอร์มการศึกษา
+
+* การแบ่งปันการคำนวณหรือการสาธิตอัลกอริทึมต่าง ๆ
+
+* แผนภูมิเคลื่อนไหวในเนื้อหาการเรียนการสอนทางเทคนิค
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงไฟล์ TEX เป็น SWF แบบกลุ่มสำหรับห้องสมุดเนื้อหาเก่า
+
+* การผสานเข้ากับแพลตฟอร์มการเรียนการสอนแบบออฟไลน์
+
+* การสร้าง SWF ตามลำดับ LaTeX แบบโต้ตอบ
+
+* การอัปเดตตารางเวลาของบทแนะนำแบบอนิเมชัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

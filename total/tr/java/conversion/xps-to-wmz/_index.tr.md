@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı WMZ görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **WMZ (Sıkıştırılmış Windows Metafile)**'e dönüştürmek, dağıtım, sunumlar ve teknik belgeler için uygun kompakt vektör grafikler sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Sunumlar ve e-postalar için sıkıştırılmış diyagramlar.
+
+* Kılavuzlar ve rehberler için teknik çizimler.
+
+* Ölçeklenebilir grafiklere sahip pazarlama materyalleri.
+
+* Kompakt formda vektör zengin belgelerin arşivlenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Belge dağıtımı için toplu XPS-WMZ dönüşümü.
+
+* İçerik yönetim sistemleriyle entegrasyon.
+
+* Sıkıştırılmış vektör dosyalarının zamanlanmış oluşturulması.
+
+* Sunumlar veya pazarlama içeriği için optimize edilmiş işleme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**PPSX（マクロなしのPowerPoint Show）に変換すると、LaTeXコンテンツを含む安全で即座に表示可能なプレゼンテーションが作成され、複数のプラットフォームで共有するのに適しています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* マクロセキュリティリスクなしで配布するための学術講義。
+
+* LaTeXスタイルのテーブルを使用した企業やトレーニングプレゼンテーション。
+
+* 数式豊富な図を含む再利用可能な会議用スライド。
+
+* 技術的なスライドのマルチプラットフォーム共有。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* バッチ処理によるLaTeXからPPSXへの変換。
+
+* 講義やトレーニングスライドの自動作成。
+
+* LMSや企業プレゼンテーションシステムとの統合。
+
+* 協力的な学術プロジェクトのためのトリガー付きスライド生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

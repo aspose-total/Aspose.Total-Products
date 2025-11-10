@@ -121,7 +121,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XPS naar **OTP (OpenDocument Presentation Template)** creëert herbruikbare presentatiesjablonen voor LibreOffice en OpenOffice, waardoor consistente ontwerp- en lay-outmogelijkheden voor teams mogelijk worden.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Bedrijfspresentatiesjablonen voor klantbijeenkomsten.
+
+* Gestandaardiseerde collegesjablonen voor docenten.
+
+* NGO- of projectrapportsjablonen voor herhaaldelijk gebruik.
+
+* Marketingcampagneslidedecks met consistente branding.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde creatie van OTP-sjablonen van XPS-rapporten.
+
+* Integratie met contentmanagementsystemen voor teambrede distributie.
+
+* Geplande sjabloongeneratie voor terugkerende presentaties.
+
+* Gestroomlijnde branding en lay-outstandaardisatie over afdelingen heen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

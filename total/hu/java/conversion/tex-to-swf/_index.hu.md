@@ -135,7 +135,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **SWF (Shockwave Flash)** formátummá alakítása interaktív LaTeX animációkat hoz létre, melyek alkalmasak oktatási platformokhoz és online prezentációkhoz, bár elsősorban régebbi rendszerekhez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Animált LaTeX alapú oktatóanyagok és vizualizációk.
+
+* Interaktív oktatási modulok régebbi platformokhoz.
+
+* Ismétlődő számítások vagy algoritmusok bemutatása.
+
+* Dinamikus diagramok technikai e-learning tartalmakban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges TEX-SWF konverzió régebbi tartalomtárolókhoz.
+
+* Integráció offline e-learning platformokba.
+
+* Kiváltott SWF generálás interaktív LaTeX sorozatokhoz.
+
+* Ütemezett frissítések animált oktatóanyagokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

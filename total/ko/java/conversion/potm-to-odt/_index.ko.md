@@ -53,7 +53,51 @@ API를 사용하여 워터마크를 사용하여 POTM 파일을 ODT로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM을 ODT로 변환하면 사용자가 LibreOffice 또는 OpenOffice Writer에서 PowerPoint 템플릿 콘텐츠를 열 수 있습니다. 이는 오픈 표준 문서 형식에서 발표 기반 텍스트 콘텐츠를 편집하는 크로스 플랫폼 방법을 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 오픈 소스 도구를 사용하여 팀과 PowerPoint 콘텐츠 공유.
+
+* 무료 오피스 스위트를 사용하여 학술 또는 비정부 기구 문서 작성.
+
+* ODT 형식의 매뉴얼로 발표 자료 재활용.
+
+* 오픈 문서 생태계를 위한 편집 가능한 교육 콘텐츠 제작.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 기업 시스템이 Microsoft 프레젠테이션을 ODT 호환성을 위해 변환.
+
+* 크로스 플랫폼 문서 배포를 위한 자동 보고.
+
+* ODF 호환 문서 저장을 위한 일괄 변환 파이프라인.
+
+* Linux 기반 기업 시스템 내에서 ODT 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

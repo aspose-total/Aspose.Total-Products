@@ -135,7 +135,55 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO (Extensible Stylesheet Language Formatting Objects) fájlok átalakítása **ODP (OpenDocument Presentation)** formátumba lehetővé teszi nyílt forráskódú diavetítések könnyű létrehozását, miközben megőrzi a strukturált tartalmat és stílust. Az ODP kompatibilis a LibreOffice Impress-szel és más nyílt forráskódú irodai csomagokkal.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Az XSLFO által generált éves jelentések interaktív ODP prezentációkká alakítása.
+
+* Strukturált XSLFO táblázatokból oktatási tartalmak előkészítése osztálytermi használatra.
+
+* Igazgatósági ülések diáinak archiválása jövőbiztos nyílt formátumban.
+
+* Vizuális vezérlőpultok létrehozása XSLFO alapú analitikai adatokból.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Havi XSLFO jelentések tömeges átalakítása ODP formátumba vállalati felülvizsgálatokhoz.
+
+* Integráció automatizált jelentés-prezentáció munkafolyamatokba.
+
+* Ütemezett ODP diák generálása ismétlődő értekezletekre.
+
+* XSLFO tartalom kiváltott átalakítása nyílt forráskódú diákkészletekké.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

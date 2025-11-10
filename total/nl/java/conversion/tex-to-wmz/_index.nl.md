@@ -57,7 +57,51 @@ Met behulp van de API kunt u ook de uitgevoerde WMZ-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Conversie van TEX naar **WMZ (Gecomprimeerd Windows Metafile)** comprimeert vectorafbeeldingen voor LaTeX-diagrammen, optimaliseert opslag terwijl de kwaliteit behouden blijft voor presentaties en rapporten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Gecomprimeerde LaTeX-diagrammen voor Microsoft Office dia's.
+
+* Archivering van schaalbare technische illustraties.
+
+* Delen van lichtgewicht afbeeldingen in academische publicaties.
+
+* Inbedden van vectorafbeeldingen in rapporten zonder grote bestandsgroottes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde batch TEX-naar-WMZ conversie.
+
+* Integratie in document- en dia-automatiseringssystemen.
+
+* Getriggerde generatie van gecomprimeerde LaTeX-diagrammen.
+
+* Geplande updates van WMZ-afbeeldingen voor multi-user toegang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ XSLFO dosyasını CSV'ye dönüştürürken, çıktı CSV dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO (Genişletilebilir Stil Sayfası Dili Biçim Nesneleri) dosyalarını **CSV (Virgülle Ayrılmış Değerler)** biçimine dönüştürmek, tablo verilerinin hızlı raporlama, veri analizi ve iş zekası iş akışları için kolayca çıkarılmasını sağlar. CSV, çoğu analitik ve veritabanı aracıyla uyumlu hafif bir formattır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* XML tabanlı XSLFO düzenlerinden finansal raporları CSV'ye dönüştürerek denetim amaçları için ihracat yapma.
+
+* Bulut tabanlı BI araçlarında satış ve envanter takibini basitleştirme.
+
+* Makine öğrenimi ön işleme için XSLFO tarafından üretilen verileri hazırlama.
+
+* Otomatik e-posta raporlaması için CSV özetleri oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Muhasebe sistemleri için XSLFO faturalarının CSV'ye zamanlanmış dönüşümü.
+
+* Eski XSLFO veri göçünü hızlandırmak için ETL borularına entegrasyon.
+
+* XSLFO tabanlı operasyonel verilerin analitik gösterge panolarına gerçek zamanlı çıkarılması.
+
+* Çok departmanlı raporlama için otomatik toplu dönüşüm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

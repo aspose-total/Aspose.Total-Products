@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**SWF（Flash）**に変換すると、レガシーダッシュボードやWebアプリケーション用のインタラクティブなアニメーションが可能になります。SWFはベクターグラフィックを保持し、タイムラインベースのインタラクションを可能にします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* レガシーウェブポータルにインタラクティブなXSLFOチャートを埋め込む。
+
+* 歴史的なイントラネットシステム用のアニメーションダッシュボードを準備する。
+
+* トレーニングモジュールをオフラインで使用するためにSWFに変換する。
+
+* コンプライアンス目的でインタラクティブなXSLFOビジュアライゼーションをアーカイブする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* レガシーシステム向けの定期的なXSLFOからSWFへの変換。
+
+* アニメーションダッシュボードの一括作成。
+
+* Webベースのレガシーアプリケーション向けのトリガー生成。
+
+* 自動化されたインタラクティブレポートパイプラインとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

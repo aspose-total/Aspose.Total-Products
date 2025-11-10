@@ -57,7 +57,55 @@ API'yi kullanarak, çıktı WMF görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **WMF (Windows Metafile)** formatına dönüştürülmesi, Microsoft Office ve diğer masaüstü yayınlama uygulamalarıyla uyumlu ölçeklenebilir vektör görüntüler sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Microsoft Word veya PowerPoint'e XSLFO tablolarının ve grafiklerinin gömülmesi.
+
+* Kurumsal sunumlar için ölçeklenebilir görseller oluşturma.
+
+* Rapor görsellerinin vektör formatında arşivlenmesi.
+
+* Yapılandırılmış XSLFO verilerinden teknik çizimler hazırlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Belge iş akışları için toplu XSLFO'dan WMF'ye dönüştürme.
+
+* Slayt destekleri için vektör görsellerin zamanlanmış dışa aktarımı.
+
+* XSLFO panolarından tetiklenen WMF görüntülerinin oluşturulması.
+
+* Otomatikleştirilmiş kurumsal yayınlama akışlarıyla entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

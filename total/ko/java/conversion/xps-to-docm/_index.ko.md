@@ -129,7 +129,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS (XML Paper Specification) 파일을 **DOCM (Word Macro-Enabled Document)**로 변환하면 동적 보고서와 비즈니스 양식이 모든 상호 작용하는 매크로를 유지하여 워크플로 자동화에 적합해집니다. 이 형식은 반복적인 작업과 포함된 스크립트가 생산성을 향상시키는 사무실 환경에 특히 적합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 계산을 위한 자동 매크로가 필요한 재무 및 감사 보고서.
+
+* 내장된 승인 워크플로를 갖춘 기업 템플릿.
+
+* 서명 자동화가 필요한 법적 문서 패키지.
+
+* 작업 추적을 위해 매크로를 사용하는 프로젝트 관리 대시보드.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 기업 팀을 위한 XPS 보고서를 매크로가 활성화된 Word 파일로 대량 변환.
+
+* 파일을 열 때 매크로를 트리거하는 문서 관리 시스템과의 통합.
+
+* 포함된 수식을 사용하여 송장 및 명세서를 자동 생성.
+
+* 동적 필드가 있는 간소화된 인사 채용 양식.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **PPSM (Pakiet pokazów programu PowerPoint z obsługą makr)** pozwala na uwzględnienie makr w treści LaTeX do automatycznych obliczeń, interaktywnych diagramów i dynamicznych prezentacji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Dynamiczne wykłady akademickie z użyciem makr i tabel.
+
+* Prezentacje badawcze z automatycznymi aktualizacjami wykresów.
+
+* Prezentacje korporacyjne z elementami interaktywnymi.
+
+* Slajdy konferencyjne z formułami LaTeX autorstwa wielu osób.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersje wsadowe TEX na PPSM dla prezentacji interaktywnych.
+
+* Automatyczna integracja treści LaTeX do prezentacji z obsługą makr.
+
+* Zaplanowane aktualizacje dla dynamicznych materiałów warsztatowych.
+
+* Wywoływane tworzenie dla potoków prezentacji badawczych lub korporacyjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,51 @@ A POTM fájl FODS formátumba konvertálásakor vízjelet is hozzáadhat a kimen
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A POTM to FODS konverzió lapos XML-alapú OpenDocument táblázatfájlokat generál. Az FODS ideális könnyű, platformfüggetlen táblázatkezelő tároláshoz, megtartva az asztali prezentációk táblázatszerkezeteit.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcs felhasználási esetek" %}}
+
+
+
+* PowerPoint táblázatok exportálása FODS formátumba LibreOffice vagy OpenOffice használatához.
+
+* Diavetítés alapú számjelentések átalakítása platformfüggetlen táblázatokká.
+
+* Akadémiai vagy civil szervezeti projekt táblázatok megosztása nyílt XML formátumokban.
+
+* Prezentációs adatok archiválása strukturált lapos XML táblázatokban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Munkafolyamat automatizálás tételszámú POTM to FODS konverziókhoz.
+
+* Integráció platformfüggetlen irodai automatizálási csövekben.
+
+* Kiváltott FODS fájl generálása elosztott csapatok számára.
+
+* Strukturált XML adatok kinyerése jelentési és szabályozási rendszerekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

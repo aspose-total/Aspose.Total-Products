@@ -47,7 +47,55 @@ När du konverterar XSLFO-fil till ODS, kan du också lägga till vattenstämpel
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av XSLFO till **ODS (OpenDocument Spreadsheet)** säkerställer kompatibilitet med moderna öppen källkods kalkylbladsapplikationer. ODS bevarar stilar, formler och tabeller, vilket gör det idealiskt för samarbetsrapportering och datadelning.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* Konvertera XSLFO-genererade HR-rapporter för LibreOffice-användare.
+
+* Dela kvartalsvis analys med externa partners i ODS-format.
+
+* Förbereda operativa instrumentpaneler för granskning på tvärs av avdelningar.
+
+* Arkivering av XSLFO-baserade finansiella tabeller i ett framtidssäkrat öppet format.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Realtidskonvertering av XSLFO till ODS för samarbetskontorsmiljöer.
+
+* Schemalagd batchexport av operativa mätvärden från XSLFO.
+
+* Integration i automatiserade rapporteringspipeliner för distanslag.
+
+* Automatisk generering av ODS-kalkylblad från XSLFO-mallar för återkommande rapporter.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,55 @@ Az API használatával igény szerint elforgathatja a kimeneti WMF-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok átalakítása **WMF (Windows Metafile)** formátumba megőrzi a vektorgrafikát a LaTeX diagramokban, biztosítva a kompatibilitást a Microsoft Office és a technikai dokumentációk számára.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* LaTeX ábrák beágyazása Word vagy PowerPoint dokumentumokba.
+
+* Műszaki diagramok professzionális jelentésekben.
+
+* Skálázható ábrák vállalati és akadémiai dokumentumokhoz.
+
+* LaTeX által generált grafikák keresztplatformos terjesztése.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* LaTeX diagramok tömeges átalakítása WMF formátumba.
+
+* Integráció a Microsoft Office dokumentumfolyamataiba.
+
+* Vektorgrafikák automatikus frissítése prezentációkban.
+
+* LaTeX által generált műszaki ábrák automatikus archiválása.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

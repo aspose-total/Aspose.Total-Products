@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **PPS (PowerPoint Show)**로 변환하면 회의, 교육 또는 키오스크용 자체 실행 프레젠테이션 파일을 만들 수 있습니다. PPS는 슬라이드쇼 모드에서 직접 열리면서 서식을 보존합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 자체 실행 기업 개요 프레젠테이션 배포.
+
+* XSLFO 데이터에서 자동화된 교육 또는 온보딩 슬라이드 준비.
+
+* 전시회를 위한 대화식 마케팅 콘텐츠 공유.
+
+* 관리 심사용 시각적으로 매력적인 KPI 대시보드 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XSLFO에서 PPS 파일로 예약된 일괄 변환.
+
+* 자동화된 슬라이드쇼 배포 워크플로에 통합.
+
+* XSLFO 보고서에서 PPS 덱 생성을 트리거.
+
+* 주기적 회의용 자동 업데이트 자체 실행 프레젠테이션 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

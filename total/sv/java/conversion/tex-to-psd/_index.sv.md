@@ -57,7 +57,51 @@ Med hjälp av API:t kan du också rotera den utgående PSD-bilden enligt dina be
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera TEX till **PSD (Photoshop-dokument)** gör att LaTeX-genererade visuella element kan redigeras fullt ut i Adobe Photoshop för design av hög kvalitet och efterbehandling.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Redigering av LaTeX-diagram för presentationer och affischer.
+
+* Förberedande av publiceringsklara grafik med Photoshop-förbättringar.
+
+* Anpassning av utbildnings- eller träningsvisuella element.
+
+* Skapande av visuellt rika figurer för marknadsförings- eller akademiskt bruk.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiserade scenarier" %}}
+
+
+
+* Batchkonvertering av TEX till PSD för designteam.
+
+* Integration med automatiserade grafiska designarbetsflöden.
+
+* Utlös PSD-skapande för affisch- eller infografikproduktion.
+
+* Redigerbart LaTeX-diagramexport för flerlagers Photoshop-redigering.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

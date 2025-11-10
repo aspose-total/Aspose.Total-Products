@@ -130,7 +130,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS（XML Paper Specification）ファイルを**PCL（Printer Command Language）**に変換することで、さまざまなレーザープリンターやインクジェットプリンターでのシームレスな印刷が可能になります。PCLは、企業やオフィス環境向けに印刷パフォーマンスを最適化しながら、ページレイアウト、フォント、およびグラフィックスを保持します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 法人オフィスでの大量文書印刷。
+
+* XPSファイルからのマーケティングパンフレットや技術マニュアルの直接印刷。
+
+* 法的または財務レポートの正確なページレイアウトの保存。
+
+* バッチ文書出力の効率的な印刷ワークフロー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 大規模な印刷ジョブのためのバッチXPSからPCLへの変換。
+
+* 自動化されたワークフロー用の印刷管理システムとの統合。
+
+* 定期的なレポートや文書の印刷のためのスケジュール変換。
+
+* ストリームラインされた企業文書処理パイプライン。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,45 @@ Podczas konwertowania pliku POT do ODS możesz również dodać znak wodny do wy
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja formatu POT na ODS (OpenDocument Spreadsheet) zapewnia bezproblemową interoperacyjność z otwartymi środowiskami biurowymi. Jest idealna dla instytucji akademickich i organizacji publicznych, które przyjmują standardy ODF.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Dzielenie się raportami generowanymi w PowerPoint z użytkownikami LibreOffice.
+
+* Zamiana prezentacji klasowych w szablony do wprowadzania danych.
+
+* Konwertowanie wizualizacji badawczych na arkusze kalkulacyjne typu open-source.
+
+* Przygotowywanie zgodnych raportów arkuszy kalkulacyjnych dla organizacji publicznych.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczne tworzenie plików ODS z prezentacji szkoleniowych lub sprzedażowych.
+
+* Integracja z otwartymi platformami ERP lub analitycznymi.
+
+* Przepływy konwersji dla hybrydowych ekosystemów dokumentów.
+
+* Zaplanowane transformacje dla projektów standaryzacji dokumentów.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

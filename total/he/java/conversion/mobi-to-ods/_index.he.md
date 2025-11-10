@@ -102,7 +102,47 @@ otherformats: SXC XLS XLSB XLSM XLT CSV XLTX XLAM FODS XLSX XLTM EXCEL DIF TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי MOBI ל-ODS (גיליון נתונים בפורמט OpenDocument) מקלה על הייצוג המובנה של נתוני ספר אלקטרוני בפורמט תקן פתוח, מבטיח תאימות חוצת פלטפורמות בין LibreOffice, OpenOffice וכלים דומים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+- יצירת אינדקסים מובנים לספריות דיגיטליות.
+
+- ניהול מטא-נתונים של ספרי MOBI למחקר קוד פתוח.
+
+- מעקב אחר תרומות המחברים בפרויקטים שיתופיים.
+
+- שמירה על רשימות קריאה שניתן לייצא בפורמט ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+- ייצוא MOBI-ל-ODS בזמן אמת בארכיונים דיגיטליים.
+
+- שילוב עם צינורות פרסום אוטומטיים.
+
+- מנועי המרה בתוך מערכות ניהול תוכן.
+
+- סנכרון מתוזמן של מטא-נתונים לדוחות ODS לספרנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

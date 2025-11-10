@@ -53,7 +53,45 @@ Korzystając z API, możesz również wykonać konwersję pliku POT do OTT ze zn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików POT na OTT (OpenDocument Text Template) umożliwia organizacjom tworzenie wielokrotnie używanych szablonów dokumentów zgodnych ze standardami otwartymi. Szablony OTT są idealne dla instytucji, które kładą nacisk na dostępność i długoterminowe archiwizowanie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Generowanie szablonów zgodnych ze standardami otwartymi z materiałów szkoleniowych w formacie PowerPoint.
+
+* Konwertowanie stylów prezentacji na wielokrotnie używane szablony tekstowe.
+
+* Tworzenie spójnych formatów dokumentów do publikacji akademickiej.
+
+* Projektowanie szablonów o otwartym dostępie do dokumentacji organizacji pozarządowych.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* Automatyczna generacja szablonów OTT z głównych układów w programie PowerPoint.
+
+* Integracja z otwartymi przepływami dokumentów.
+
+* Synchronizacja szablonów między instytucjonalnymi repozytoriami dokumentów.
+
+* Systemy dokumentów rządowych wykorzystujące szablony w otwartym formacie.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

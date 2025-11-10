@@ -47,7 +47,55 @@ XSLFO dosyasını ODS'ye dönüştürürken, çıktı ODS dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **ODS (Açık Belge Elektronik Tablo)** biçimine dönüştürülmesi, modern açık kaynaklı elektronik tablo uygulamalarıyla uyumluluğu sağlar. ODS, stilleri, formülleri ve tabloları korur, bu da işbirlikçi raporlama ve veri paylaşımı için ideal hale getirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* LibreOffice kullanıcıları için XSLFO ile oluşturulan İK raporlarının ODS biçimine dönüştürülmesi.
+
+* ODS biçiminde dış ortaklarla üç aylık analizlerin paylaşılması.
+
+* Bölümler arası gözden geçirme için operasyonel gösterge panolarının hazırlanması.
+
+* Geleceğe yönelik açık bir formatta XSLFO tabanlı finansal tabloların arşivlenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* İşbirlikçi ofis ortamları için gerçek zamanlı XSLFO'dan ODS'ye dönüştürme.
+
+* XSLFO'dan işletme metriklerinin zamanlanmış toplu dışa aktarımı.
+
+* Uzaktaki ekipler için otomatik raporlama boru hatlarına entegrasyon.
+
+* Tekrarlanan raporlar için XSLFO şablonlarından ODS elektronik tablolarının otomatik oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

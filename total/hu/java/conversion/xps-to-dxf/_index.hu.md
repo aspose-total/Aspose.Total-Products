@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti DXF-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XPS átalakítása **DXF (Rajzcsere Formátum)** formátummá lehetővé teszi az XPS elrendezések használatát CAD alkalmazásokban, megőrizve a vektor elemeit tervezéshez, építészethez és mérnöki projektekhez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Építészeti tervek és tervrajzok kinyerése XPS dokumentumokból.
+
+* Mérnöki diagramok és vázlatok CAD szoftverekhez.
+
+* Pontos vektorátalakítást igénylő műszaki dokumentáció.
+
+* Ipari tervezési folyamatok a közös tervezéshez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* XPS automatizált tömeges átalakítása DXF formátummá CAD csapatok számára.
+
+* Integráció a tervezési csövekkel a gyors elrendezésfrissítések érdekében.
+
+* Időzített DXF generálás ismétlődő mérnöki jelentésekhez.
+
+* Vektor elemek egyszerű kinyerése a gyártáshoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

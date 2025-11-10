@@ -61,7 +61,45 @@ Trong khi chuyển đổi tệp POT sang XLAM, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi POT thành XLAM (Excel Add-In) cho phép tự động hóa bằng cách nhúng các macro vào các bảng tính Excel được tạo ra từ dữ liệu trình bày. Sự chuyển đổi này mang lại lợi ích cho các doanh nghiệp sử dụng PowerPoint để báo cáo và Excel để tính toán động.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tạo các tiện ích thêm Excel từ các mẫu KPI dựa trên PowerPoint.
+
+* Tự động hóa các tính toán cho dữ liệu hiệu suất bán hàng hoặc đào tạo.
+
+* Tạo bảng điều khiển được điều khiển bởi macro từ các bài thuyết trình.
+
+* Kết hợp hình ảnh trình bày với các mô hình tự động hóa Excel.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tạo ra XLAM tự động cho các công cụ phân tích doanh nghiệp.
+
+* Quy trình chuyển đổi kết hợp các macro PowerPoint và Excel.
+
+* Tích hợp với các nền tảng tự động hóa quy trình kinh doanh.
+
+* Tự động hóa doanh nghiệp cho các hoạt động bảng tính định kỳ.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

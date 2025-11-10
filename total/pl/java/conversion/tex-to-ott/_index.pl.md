@@ -143,7 +143,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **OTT (OpenDocument Text Template)** umożliwia edukatorom, badaczom i firmom tworzenie wielokrotnie używanych szablonów z formatowaniem LaTeX w otwartych formatach, usprawniając standaryzację dokumentów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Szablony materiałów dydaktycznych z konsekwentnym formatowaniem LaTeX.
+
+* Szablony OpenDocument do wspólnej pracy nad raportami laboratoryjnymi.
+
+* Szablony raportów projektowych i biznesowych dla pakietów biurowych typu open-source.
+
+* Standaryzowane formularze do użytku akademickiego lub administracyjnego.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczne generowanie szablonów dla środowisk wielu użytkowników.
+
+* Integracja z systemami zarządzania uczelnią oraz przepływami pracy biurowej typu open-source.
+
+* Aktualizacje zbiorów szablonów dla instytucji akademickich w trybie wsadowym.
+
+* Dynamiczna konwersja LaTeX na OTT do dokumentacji badawczej.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

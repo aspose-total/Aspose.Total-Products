@@ -135,7 +135,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **SWF (Shockwave Flash)** creëert interactieve LaTeX-animaties die geschikt zijn voor educatieve platforms en online presentaties, hoewel voornamelijk voor verouderde systemen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Geanimeerde LaTeX-gebaseerde tutorials en visualisaties.
+
+* Interactieve educatieve modules voor verouderde platforms.
+
+* Het delen van iteratieve berekeningen of algoritmevertoningen.
+
+* Dynamische diagrammen in technische e-learning inhoud.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch TEX-naar-SWF conversie voor verouderde contentbibliotheken.
+
+* Integratie in offline e-learning platforms.
+
+* Getriggerde SWF-generatie voor interactieve LaTeX-reeksen.
+
+* Geplande updates van geanimeerde tutorials.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,55 @@ Ao converter o arquivo XSLFO para MD, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter arquivos XSLFO (Extensible Stylesheet Language Formatting Objects) para **MD (Markdown)** permite a criação de documentos leves, amigáveis para a web e facilmente legíveis. O Markdown preserva a estrutura de cabeçalhos, tabelas e listas do conteúdo XSLFO, tornando-o adequado para sites, blogs e plataformas de documentação.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Transformar relatórios gerados em XSLFO em Markdown para documentação técnica.
+
+* Publicar tabelas estruturadas e conteúdo de XSLFO em bases de conhecimento.
+
+* Criar relatórios prontos para blog com layouts de tabela e cabeçalhos preservados.
+
+* Preparar documentação de código aberto a partir de análises estruturadas em XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote agendada de relatórios XSLFO para Markdown em portais web.
+
+* Integração em pipelines de geração de documentação automatizada.
+
+* Conversão acionada para análises recorrentes ou relatórios de projetos.
+
+* Fluxos de trabalho automatizados de XSLFO para MD para sistemas de gestão de conhecimento.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ XSLFO dosyasını FODS'ye dönüştürürken, çıktı FODS dosya biçiminize fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO dosyalarını **FODS (Flat OpenDocument Spreadsheet)** formatına dönüştürmek, LibreOffice ve OpenOffice gibi açık kaynak ofis paketlerini destekler. FODS, işbirlikçi ortamlar için uygun olan hafif, düzenlenebilir XML tabanlı elektronik tabloları sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* XSLFO ile oluşturulan bütçe tablolarını açık kaynak ofis kullanıcılarıyla paylaşma.
+
+* Raporları açık, standart bir elektronik tablo formatında arşivleme.
+
+* Çapraz platform işbirliği için proje takip tabloları hazırlama.
+
+* Teknik XSLFO tablolarını düzenlenebilir FODS elektronik tablolarına dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Açık kaynak raporlama akışları için toplu XSLFO'dan FODS'a dönüşüm.
+
+* FODS'yi destekleyen belge yönetim sistemlerine entegrasyon.
+
+* İşbirlikçi proje panoları için zamanlanmış dışa aktarma.
+
+* XSLFO analiz raporlarının otomatik olarak FODS formatına dönüştürülmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

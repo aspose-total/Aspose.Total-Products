@@ -61,7 +61,51 @@ Saat mengonversi file POTM ke SXC, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konversi POTM ke SXC menghasilkan file spreadsheet warisan. Format ini berguna untuk kompatibilitas dengan paket kantor yang lebih lama dan memastikan data presentasi historis masih dapat dianalisis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Kunci" %}}
+
+
+
+* Migrasi tabel keuangan berbasis slide ke SXC untuk sistem warisan.
+
+* Mengonversi laporan proyek untuk organisasi yang menggunakan perangkat lunak kantor yang lebih lama.
+
+* Mengarsipkan konten slide numerik dalam format spreadsheet yang kompatibel ke belakang.
+
+* Berbagi tabel presentasi dengan tim yang menggunakan aplikasi yang sudah ketinggalan zaman.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch template POTM ke SXC untuk pengarsipan.
+
+* Integrasi dengan sistem pelaporan warisan.
+
+* Generasi SXC yang dipicu untuk pelestarian data historis.
+
+* Alur kerja slide ke spreadsheet warisan yang otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 SVGZ 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **SVGZ (압축된 SVG)**로 변환하면 웹, 대시보드 및 반응형 애플리케이션에 이상적인 압축된 형태의 확장 가능한 벡터 그래픽을 제공합니다. SVGZ는 파일 크기를 줄이면서 품질을 유지합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 웹 대시보드용 XSLFO 보고서에서 대화형 차트 생성.
+
+* 반응형 애플리케이션에 확장 가능한 시각 자료 포함.
+
+* 압축된 형식의 벡터 기반 금융 테이블 보관.
+
+* e러닝이나 지식 베이스용 다이어그램 준비.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 웹 보고용 일괄 XSLFO-to-SVGZ 변환.
+
+* 압축된 벡터 그래픽의 예약된 내보내기.
+
+* 자동화된 온라인 대시보드 워크플로우 통합.
+
+* XSLFO 분석에서 SVGZ 이미지의 트리거 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,45 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **WMZ (Compressed Windows Metafile)** ช่วยบีบอัดกราฟิกเวกเตอร์สำหรับไดอะแกรม LaTeX โดยปรับปรุงการจัดเก็บให้กราฟิกมีขนาดเล็กพร้อมรักษาคุณภาพสำหรับงานนำเสนอและรายงาน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การบีบอัดไดอะแกรม LaTeX สำหรับภาพสไลด์ Microsoft Office
+* การเก็บถาวรภาพเทคนิคที่สามารถปรับขนาดได้
+* การแบ่งปันกราฟิกเวกเตอร์เบาในการตีพิมพ์ทางวิชาการ
+* การฝังกราฟิกเวกเตอร์ในรายงานโดยไม่มีขนาดไฟล์ใหญ่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง TEX เป็น WMZ แบบกลุ่มโดยอัตโนมัติ
+* การรวมเข้ากับระบบอัตโนมัติเอกสารและสไลด์
+* การสร้างไดอะแกรม LaTeX ที่ถูกบีบอัดโดยเรียกใช้
+* การตั้งเวลาอัพเดตรูปภาพ WMZ สำหรับการเข้าถึงของผู้ใช้หลายคน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -143,7 +143,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **RTF (Định dạng Văn bản Phong phú)** mang lại tính tương thích toàn cầu, cho phép tài liệu LaTeX được mở trong gần như bất kỳ trình xử lý văn bản nào trong khi bảo tồn định dạng cần thiết và các phương trình toán học.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chia sẻ các bài báo học thuật trên các nền tảng mà không mất định dạng.
+
+* Tài liệu kỹ thuật với các phương trình phức tạp có thể truy cập trong Word hoặc LibreOffice.
+
+* Tài liệu kinh doanh đa nền tảng với kiểu dáng LaTeX.
+
+* Tài liệu LaTeX sẵn sàng qua email trong các định dạng có thể đọc được một cách phổ biến.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt cho các lưu trữ và tính tương thích đa nền tảng.
+
+* Tích hợp vào các đường ống xử lý tài liệu cho các nhóm kỹ thuật.
+
+* Tự động tạo ra báo cáo RTF từ các bộ dữ liệu LaTeX.
+
+* Chuyển đổi kích hoạt cho các hệ thống xuất bản tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

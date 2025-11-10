@@ -57,7 +57,55 @@ Az API használatával igény szerint elforgathatja a kimeneti JPEG2000-képet i
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **JPEG2000** formátumba magas tömörítésű rádióképeket eredményez minimális minőségvesztéssel. A JPEG2000 alkalmas orvosi képalkotásra, nagy vizuális jelentések készítésére és archiválási célokra.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Magas felbontású XSLFO jelentések archiválása bonyolult táblázatokkal.
+
+* Részletes pénzügyi vagy működési vizualizációk készítése digitális terjesztéshez.
+
+* XSLFO elemzések hatékony rádióképekbe való átalakítása.
+
+* Nagy formátumú vizuális elemek generálása kiadványokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* XSLFO batch átalakítása JPEG2000 formátumba archiválási tároláshoz.
+
+* Ütemezett generálás automatizált közzétételi folyamatokhoz.
+
+* Integráció képoptimalizálási csatornákkal.
+
+* Magas felbontású export kiváltása XSLFO irányítópultokból.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

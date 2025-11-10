@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS (XML Paper Specification) dosyalarını **XAML (Genişletilebilir Uygulama İşaretleme Dili)**'e dönüştürmek, geliştiricilere ve tasarımcılara belge içeriğini WPF (Windows Presentation Foundation) uygulamalarında yeniden kullanma olanağı sağlar, düzeni, yazı tiplerini ve vektör grafikleri korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Statik belge görsellerini WPF tabanlı masaüstü uygulamalarına entegre etme.
+
+* XAML tabanlı UI öğelerini kullanarak etkileşimli gösterge panoları tasarlama.
+
+* Yazılım arayüzlerinde ve kontrollerinde XPS düzenlerini yeniden kullanma.
+
+* Belgeyi hassas bir şekilde oluşturan akademik veya kurumsal e-öğrenme uygulamaları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XPS dosyalarının otomatik toplu olarak XAML'e dönüştürülmesi için yazılım geliştirme boru hatları.
+
+* Masaüstü uygulama güncellemeleri için CI/CD iş akışlarıyla entegrasyon.
+
+* Tekrar eden uygulama içeriği için XAML varlıklarının zamanlanmış oluşturulması.
+
+* Birden fazla WPF projesinde XPS belgelerinin kolayca yeniden kullanılması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

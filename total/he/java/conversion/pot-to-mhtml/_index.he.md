@@ -102,7 +102,45 @@ otherformats: XLSX SXC FODS XLAM DIF CSV XLTM XLSB MARKDOWN XLS XLTX XLT XLSM OD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POT ל-MHTML (MIME HTML) מאפשרת למקצוענים לארכוב כל המצגות של PowerPoint כקבצי אינטרנט בעמוד אחד. MHTML תופסת את כל המשאבים - טקסט, תמונות וסגנונות - ולכן היא אידיאלית לגישה לא מקוונת או להפצה דיגיטלית.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת גרסאות שניתן לארכוב ברשת של מצגות תדמיתיות עסקיות.
+
+* שיתוף דו"חות מבוססי PowerPoint כמסמכים רשת עצמאיים.
+
+* שמירה על חומרי הדרכה לגישה באינטרנט הפנימי.
+
+* המרת מצגות שקולות לחינוך למשאבים ניידים ב-HTML.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* ייצוא MHTML אוטומטי עבור מערכות ארכיבה של מסמכים.
+
+* שילוב עם צינורות פרסום באינטרנט העסקיים.
+
+* יצירת HTML מוכן לשימוש לא מקוון מתבניות של PowerPoint.
+
+* המרה בצורת עצמאית לפורטלי למידה והדרכה.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

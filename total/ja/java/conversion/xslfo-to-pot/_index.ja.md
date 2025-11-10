@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOファイルを**POT（PowerPointテンプレート）**に変換すると、Microsoft PowerPointユーザー向けに標準化され再利用可能なスライドが作成されます。POTテンプレートは、スライドのレイアウト、スタイル、および表の書式を保持します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* XSLFO財務サマリーから企業報告テンプレートを作成する。
+
+* 一貫したプレゼンテーション用に月次プロジェクトトラッキングスライドを準備する。
+
+* 構造化されたXSLFOデータからトレーニングモジュールを設計する。
+
+* 事前定義されたスライドレイアウトを使用した再利用可能な投資家向けピッチデッキを生成する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XSLFOレポートからPOTファイルをバッチ自動生成する。
+
+* 定期的なチームプレゼンテーション用のスケジュールされたテンプレート作成。
+
+* 企業のスライド自動化パイプラインとの統合。
+
+* XSLFOデータを即座に使用可能なPOTテンプレートに変換するトリガー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

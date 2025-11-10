@@ -47,7 +47,51 @@ XSLFO 파일을 XLTM로 변환하는 동안 출력 XLTM 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **XLTM (매크로 활성화 엑셀 템플릿)**으로 변환하면 재사용 가능한 워크북에 포함된 자동화를 지원합니다. XLTM 템플릿은 반복적인 보고서 및 고급 워크플로우를 간소화합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 자동화를 위한 포함된 매크로로 XSLFO 보고서 표준화.
+
+* 부서 간 상호 작용형 보고서 템플릿 배포.
+
+* XSLFO에서 재사용 가능한 재무 모델링 템플릿 준비.
+
+* 표 형식의 XSLFO 데이터에서 자동화된 대시보드 템플릿 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 기업 보고를 위한 XLTM 템플릿 일괄 생성.
+
+* 자동화된 VBA 워크플로우와의 통합.
+
+* 반복되는 프로젝트 보고서를 위한 예약된 XSLFO에서 XLTM으로의 변환.
+
+* 매크로 기반 분석 대시보드를 위한 트리거된 XLTM 템플릿 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

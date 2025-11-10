@@ -47,7 +47,51 @@ TEX dosyasını XLTX'ye dönüştürürken, çıktı XLTX dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **XLTX'e (Makrosuz Excel Şablonu)** dönüştürmek, LaTeX tarafından oluşturulan tablolar ve formüller için güvenli, yeniden kullanılabilir şablonlar sağlar, işbirlikçi ve çok platformlu ortamlar için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Makrosuz standartlaştırılmış akademik ve kurumsal şablonlar.
+
+* Yeniden kullanılabilir LaTeX tabanlı proje takip tabloları.
+
+* Güvenli çok kullanıcılı paylaşım için finansal ve araştırma şablonları.
+
+* Mühendislik ve bilim ekipleri için çoklu sayfalı raporlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Toplu TEX'ten XLTX şablonu oluşturma.
+
+* Belge ve şablon havuzlarına otomatik entegrasyon.
+
+* İşbirlikçi projeler için zamanlanmış LaTeX şablon güncellemeleri.
+
+* Makrosuz LaTeX destekli şablonların çok platformlu dağıtımı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

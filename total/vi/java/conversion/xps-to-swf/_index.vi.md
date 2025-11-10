@@ -121,7 +121,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XPS thành **SWF (Shockwave Flash)** cho phép tạo ra các bài thuyết trình tương tác hoặc hoạt hình cho các ứng dụng web cũ và nền tảng học trực tuyến.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Các module học trực tuyến cũ yêu cầu các hoạt hình Flash.
+
+* Hướng dẫn dựa trên tài liệu tương tác.
+
+* Nội dung tiếp thị hoạt hình cho các nền tảng web lịch sử.
+
+* Bài thuyết trình phong phú về đa phương tiện cho các khóa học giáo dục.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi Batch XPS thành SWF cho các hệ thống học trực tuyến dựa trên lưu trữ.
+
+* Tạo nội dung flash tương tác một cách tự động.
+
+* Cập nhật theo lịch trình cho các module đào tạo định kỳ.
+
+* Tích hợp với các cổng thông tin web cũ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

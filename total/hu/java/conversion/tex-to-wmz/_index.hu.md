@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti WMZ-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok átalakítása **WMZ formátumba (Tömörített Windows Metafile)** optimalizálja a vektorgrafikát LaTeX diagramokhoz, minimalizálva az adattárolást, miközben megőrzi a minőséget prezentációk és jelentések számára.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Tömörített LaTeX diagramok Microsoft Office diákhoz.
+
+* Skálázható technikai ábrák archiválása.
+
+* Könnyű grafikák megosztása tudományos publikációkban.
+
+* Vektorgrafikák beágyazása jelentésekbe anélkül, hogy nagy fájlméretek lennének.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Automatizált batch TEX-WMZ konverzió.
+
+* Integráció dokumentum- és diavetítés automatizálási rendszerekbe.
+
+* Tömörített LaTeX diagramok generálása kiváltott eseményekre.
+
+* Időzített WMZ ábrák frissítése több felhasználó számára történő hozzáféréshez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

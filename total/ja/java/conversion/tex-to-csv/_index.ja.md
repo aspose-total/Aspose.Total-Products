@@ -47,7 +47,31 @@ TEXファイルをCSVに変換するときに、出力CSVファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+TEXファイルを**CSV（コンマ区切り値）**に変換すると、LaTeXドキュメントを軽量な表形式データに変換して、スプレッドシート、データベース、分析アプリケーションで使用できます。これは、LaTeXで数値データセットを扱う研究者やアナリストにとって理想的です。
+
+## {{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* LaTeXで生成された表をCSVにエクスポートしてデータ分析を行う。
+* 統計ソフトウェアやPython/R処理向けの学術データセット。
+* LaTeXでフォーマットされた金融やエンジニアリングレポートをスプレッドシートで確認できるように変換。
+* 汎用CSV形式でのオープンソースプロジェクトデータ共有。
+
+## {{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* ETLパイプラインでの一括TEXからCSVへの変換。
+* 研究論文からの表の自動抽出。
+* AI駆動の分析プラットフォームへの統合。
+* 協力データセットのトリガー付きCSV生成。
+
+## {{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

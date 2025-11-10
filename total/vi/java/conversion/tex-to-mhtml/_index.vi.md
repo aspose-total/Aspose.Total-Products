@@ -143,7 +143,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **MHTML (MIME HTML)** cho phép tài liệu LaTeX được hiển thị như một trang web đơn, bảo tồn phương trình, bảng và đồ họa để xem ngoại tuyến hoặc trực tuyến.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Lưu trữ các bài báo nghiên cứu LaTeX dưới dạng trang web tự chứa.
+
+* Chia sẻ báo cáo dựa trên LaTeX với đồ họa và phương trình nhúng.
+
+* Tạo tài liệu giảng dạy tương tác trong một tệp MHTML duy nhất.
+
+* Chuyển đổi nội dung kỹ thuật cho các mô-đun học trực tuyến ngoại tuyến.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt TEX sang MHTML cho thư viện tài liệu học phần.
+
+* Tích hợp vào quá trình tạo nội dung học trực tuyến tự động.
+
+* Cập nhật MHTML theo lịch từ các nguồn LaTeX.
+
+* Chuyển đổi kích hoạt cho việc chia sẻ công bố nghiên cứu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

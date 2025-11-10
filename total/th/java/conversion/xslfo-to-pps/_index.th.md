@@ -135,7 +135,51 @@ presentation.save("output.pps", SaveFormat.Pps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **PPS (PowerPoint Show)** ช่วยให้สร้างไฟล์งานนำเสนอที่เล่นอัตโนมัติสำหรับการประชุม การอบรม หรือที่เกี่ยวกับการสื่อสาร ไฟล์ PPS รักษาการจัดรูปแบบขณะเปิดโดยตรงในโหมดสไลด์โชว์
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การกระจายงานนำเสนอภาพรวมขององค์กรที่เล่นอัตโนมัติ
+
+* เตรียมสไลด์การอบรมหรือการบริหารความรู้โดยอัตโนมัติจากข้อมูล XSLFO
+
+* แบ่งปันเนื้อหาการตลาดแบบแอ็กทีฟสำหรับงานแสดงสินค้า
+
+* สร้างแผนภูมิความก้าวหน้าของ KPI ที่น่าสนใจสำหรับการทบทวนของผู้บริหาร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงจาก XSLFO เป็นไฟล์ PPS แบบกลุ่มตามกำหนดเวลา
+
+* การรวมเข้ากับกระบวนการทำงานการกระจายสไลด์อัตโนมัติ
+
+* การสร้างสไลด์ PPS จากรายงาน XSLFO โดยเรียกใช้
+
+* การอัพเดทงานนำเสนอที่เล่นอัตโนมัติเพื่อการประชุมที่เกิดซ้ำ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **OTP (OpenDocument Presentation Template)**'e dönüştürmek, LibreOffice ve OpenOffice için yeniden kullanılabilir sunum şablonları oluşturarak ekipler için tutarlı tasarım ve düzen sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Müşteri toplantıları için kurumsal sunum şablonları.
+
+* Eğitmenler için standartlaştırılmış ders şablonları.
+
+* Tekrarlanan kullanım için STK veya proje raporlama şablonları.
+
+* Marka kimliği tutarlılığı sağlayan pazarlama kampanyası slayt sunumları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XPS raporlarından OTP şablonlarının otomatik oluşturulması.
+
+* Ekip genelinde içerik yönetim sistemleriyle entegrasyon.
+
+* Tekrar eden sunumlar için zamanlanmış şablon oluşturma.
+
+* Bölümler arasında marka kimliği ve düzen standardizasyonunun sağlanması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,55 @@ Qualsiasi sistema operativo in grado di eseguire Java Runtime Environment (JRE) 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversione da XSLFO a **PPT (formato PowerPoint legacy)** garantisce la compatibilità con le versioni più vecchie di Microsoft Office preservando i contenuti tabellari e i layout delle diapositive. PPT è adatto per le organizzazioni che utilizzano ancora strumenti legacy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* Preparazione di diapositive generate da XSLFO per sistemi aziendali legacy.
+
+* Condivisione di contenuti educativi o formativi in formato PPT.
+
+* Archiviazione di diapositive autocontenute per fini di audit.
+
+* Conversione di report XSLFO in file PowerPoint legacy facilmente distribuibili.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* Conversione batch automatizzata da XSLFO a diapositive PPT.
+
+* Esportazione programmata per report di gestione o formazione ricorrenti.
+
+* Integrazione con flussi di lavoro basati su Office legacy.
+
+* Creazione di PPT attivata da modelli XSLFO per scopi di archiviazione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

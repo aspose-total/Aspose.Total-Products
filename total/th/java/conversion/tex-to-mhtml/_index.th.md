@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **MHTML (MIME HTML)** ช่วยให้เอกสาร LaTeX สามารถแสดงผลเป็นหน้าเว็บเดียว รวมถึงการรักษาสมการ ตาราง และกราฟิกส์สำหรับการดูแบบออฟไลน์หรือออนไลน์
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* เก็บเอกสารวิจัย LaTeX เป็นหน้าเว็บที่มีอยู่เอง
+
+* แบ่งปันรายงานที่ใช้ LaTeX พร้อมกราฟิกและสมการ
+
+* สร้างวัสดุการสอนแบบโต้ตอบในไฟล์ MHTML เดียว
+
+* แปลงเนื้อหาทางเทคนิคสำหรับโมดูลการเรียนออฟไลน์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลง TEX เป็น MHTML ได้เป็นกลุ่มสำหรับห้องสมุดคอร์สแวร์
+
+* ผสานเข้ากับการสร้างเนื้อหาการเรียนอัตโนมัติ
+
+* อัปเดต MHTML ตามกำหนดเวลาจากแหล่ง LaTeX
+
+* การแปลงที่เรียกใช้สำหรับการแบ่งปันงานวิจัย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

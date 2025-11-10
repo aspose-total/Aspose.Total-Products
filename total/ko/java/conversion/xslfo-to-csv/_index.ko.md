@@ -47,7 +47,55 @@ XSLFO 파일을 CSV로 변환하는 동안 출력 CSV 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO (Extensible Stylesheet Language Formatting Objects) 파일을 **CSV (쉼표로 구분된 값)**으로 변환하면 표 데이터를 쉽게 추출하여 신속한 보고서 작성, 데이터 분석 및 비즈니스 인텔리전스 워크플로우에 활용할 수 있습니다. CSV는 대부분의 분석 및 데이터베이스 도구와 호환되는 가벼운 형식으로 유지됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* XML 기반 XSLFO 레이아웃에서 재무 보고서를 CSV로 내보내어 감사 목적으로 사용.
+
+* 클라우드 기반 비즈니스 인텔리전스 도구에서 판매 및 재고 추적을 간소화.
+
+* 기계 학습 전처리를 위해 XSLFO로 생성된 데이터 준비.
+
+* 자동 이메일 보고서용 CSV 요약 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 회계 시스템을 위해 XSLFO 송장을 CSV로 예약 변환.
+
+* 레거시 XSLFO 데이터 이관을 간소화하기 위해 ETL 파이프라인에 통합.
+
+* XSLFO 기반 운영 데이터를 실시간으로 분석 대시보드로 추출.
+
+* 다부서 보고를 위한 자동 일괄 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

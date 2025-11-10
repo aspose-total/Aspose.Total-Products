@@ -102,7 +102,47 @@ otherformats: XLSM XLAM XLSX XLTX XLTM TSV FODS XLSB SXC ODS CSV DIF XLS EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MOBI ל-XLT (תבנית Excel) יוצרת תבניות גיליון נתונים ניתנות לשימוש עבור ניתוח ודיווח על ספרים אלקטרוניים. פורמט זה מסטנדרטיז את הפריסה הוויזואלית והנוסחאות בפרויקטים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+- עיצוב תבניות סטנדרטיות עבור ניתוחי MOBI.
+
+- קיצור דרך בדיווחים עבור מחלקות הוצאה לאור.
+
+- הפצת דשבורדים עקביים לצוותי כותבים.
+
+- בניית תבניות נתונים ניתנות לשימוש עבור מטא-נתוני ספרים אלקטרוניים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+- אוטומציה של יבוא MOBI על בסיס תבניות.
+
+- עדכונים מתוזמנים למבני דיווח XLT.
+
+- שילוב עם ספריות תבניות Excel.
+
+- מאקרוס מוגדרים מראש עבור זרימות עבודה בהוצאה לאור.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

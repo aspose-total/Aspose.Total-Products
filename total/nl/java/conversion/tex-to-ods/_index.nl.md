@@ -47,7 +47,51 @@ Tijdens het converteren van het TEX-bestand naar ODS, kunt u ook een watermerk t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **ODS (OpenDocument Spreadsheet)** stelt gebruikers in staat om LaTeX-inhoud te benutten in bewerkbare spreadsheets voor analyse en samenwerkingsprojecten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Academisch onderzoek met complexe numerieke tabellen.
+
+* Open-source financiële of projectregistratiebladen.
+
+* Technische berekeningen die multi-platform compatibiliteit vereisen.
+
+* Het delen van LaTeX-tabellen in ODS voor samenwerkingseducatieve projecten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch TEX-naar-ODS conversies voor universiteitslaboratoria.
+
+* Integratie in open-source datapipelines.
+
+* Geautomatiseerd rapporteren van door LaTeX gegenereerde numerieke gegevens.
+
+* Getriggerde ODS-generatie voor multi-user omgevingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

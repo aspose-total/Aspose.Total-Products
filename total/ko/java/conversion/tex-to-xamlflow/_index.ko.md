@@ -143,7 +143,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **XAMLFLOW**로 변환하면 LaTeX 콘텐츠를 시각적 워크플로, 대시보드 및 대화형 애플리케이션에 대한 흐름 호환 XAML 마크업으로 변환할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LaTeX로 생성된 방정식을 포함하는 시각적 워크플로 다이어그램.
+
+* 수학적 시각화를 통해 실시간 데이터를 보여주는 대화형 대시보드.
+
+* 구조화된 LaTeX 콘텐츠를 표시하는 기술 또는 공학 애플리케이션.
+
+* UI에서 LaTeX 흐름 및 다이어그램을 통합하는 교육 도구.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 대시보드 구성 요소를 위한 일괄 TEX-to-XAMLFLOW 변환.
+
+* 자동화된 데이터 시각화 및 워크플로 파이프라인 통합.
+
+* 흐름 기반 애플리케이션에서 대화형 LaTeX 다이어그램을 업데이트하는 트리거.
+
+* 다중 사용자 플랫폼을 위한 LaTeX 기반 XAML 흐름의 예약 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

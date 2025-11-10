@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力WMZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**WMZ（圧縮Windowsメタファイル）**に変換すると、LaTeX図のベクトルグラフィックスを圧縮して、プレゼンテーションやレポートの品質を保ちながらストレージを最適化します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* Microsoft Officeスライド用の圧縮されたLaTeX図。
+
+* スケーラブルな技術イラストのアーカイブ。
+
+* 学術論文での軽量なグラフィックスの共有。
+
+* 大きなファイルサイズを必要とせずにレポートにベクトルグラフィックスを埋め込む。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* バッチTEXからWMZへの自動変換。
+
+* 文書やスライドの自動化システムへの統合。
+
+* 圧縮されたLaTeX図の自動生成。
+
+* 複数ユーザーがアクセスするためのWMZ図の定期的な更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

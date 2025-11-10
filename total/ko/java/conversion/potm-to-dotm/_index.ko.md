@@ -53,7 +53,51 @@ API를 사용하여 워터마크를 사용하여 POTM 파일을 DOTM로 변환�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM을 DOTM으로 변환하면 PowerPoint 템플릿에서 파생된 매크로 활성화된 Word 템플릿이 생성됩니다. 이를 통해 Word 템플릿 내에서 매크로나 데이터 채우기 스크립트와 같은 자동화된 구성 요소를 재사용하여 문서 제작 속도를 높일 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 기업 워크플로우용 자동 보고서 생성 템플릿.
+
+* PowerPoint 템플릿에서 매크로 기반 Word 양식 생성.
+
+* 포함된 자동화 스크립트가 있는 기술 문서 템플릿.
+
+* HR 또는 재무부서용 표준화된 데이터 입력 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 프레젠테이션 입력에서 DOTM 파일을 생성하는 워크플로 봇.
+
+* 문서 자동화 플랫폼과의 통합.
+
+* POTM 템플릿을 재사용 가능한 매크로 활성화된 Word 양식으로 대량 변환.
+
+* 프레젠테이션 콘텐츠에서 동적 계약 템플릿 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

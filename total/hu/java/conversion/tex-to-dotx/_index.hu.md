@@ -144,7 +144,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok átalakítása **DOTX (Word sablon)** formátumra tiszta, újrahasználható sablonokat eredményez makrók nélkül, tökéletes választás az akadémiai és vállalati környezetek számára, amelyek LaTeX formázási következetességet igényelnek anélkül, hogy kockázatot jelentene a szkriptelés.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Profi jelentéssablonok LaTeX-stílusú egyenletekkel.
+
+* Akadémiai dolgozat formázási sablonok diákoknak és egyetemeknek.
+
+* Szabványosított tanterv sablonok oktatók számára.
+
+* Kutatási projekt dokumentációs sablonok laborok számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Vállalati vagy oktatási sablonok tömeges létrehozása.
+
+* Sablonok automatizált telepítése LMS vagy dokumentumkezelő rendszerekben.
+
+* LaTeX to Word sablon konverzió a dokumentumok egységes arculatának érdekében.
+
+* Integráció automatizált jelentésgenerálási folyamatokba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

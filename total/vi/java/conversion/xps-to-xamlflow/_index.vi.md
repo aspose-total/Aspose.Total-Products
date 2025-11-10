@@ -143,7 +143,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XPS thành **XAMLFLOW (Tài liệu dòng trong XAML)** biến nội dung XPS tĩnh thành bố cục có thể chỉnh sửa, phù hợp cho hiển thị động trong WPF FlowDocuments, lý tưởng cho đọc sách điện tử, báo cáo hoặc nội dung tương tác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tạo sách điện tử tương tác và tài liệu từ nguồn XPS.
+
+* Báo cáo doanh nghiệp dựa trên dòng và hướng dẫn cho ứng dụng desktop.
+
+* Hiển thị văn bản và phương tiện động trong ứng dụng giáo dục hoặc đào tạo.
+
+* Sổ tay nhân viên hoặc hướng dẫn chính sách được trình bày dưới dạng FlowDocuments.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi tự động các bản lưu trữ XPS thành XAMLFLOW cho các nền tảng học trực tuyến.
+
+* Tạo FlowDocument theo lịch trình cho báo cáo hoặc hướng dẫn định kỳ.
+
+* Tích hợp với các công cụ phần mềm hiển thị FlowDocuments động.
+
+* Luồng công việc tối ưu hóa cho việc chuyển đổi bố cục XPS tĩnh thành FlowDocuments đáp ứng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

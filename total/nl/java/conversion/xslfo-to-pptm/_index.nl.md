@@ -135,7 +135,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XSLFO naar **PPTM (Macro-Enabled PowerPoint)** combineert bewerkbare dia's met automatiseringsmogelijkheden. PPTM is ideaal voor dynamische rapportage, interactieve dashboards en terugkerende presentaties.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Insluiten van XSLFO-gestuurde berekeningen in interactieve dia's.
+
+* Voorbereiden van geautomatiseerde prestatiebeoordelingsdashboards.
+
+* Maken van macro-ingeschakelde trainings- of instructiedia's.
+
+* Verspreiden van dynamische investeerders- of bestuurspresentaties.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geplande conversie van XSLFO-rapporten naar PPTM-dia's.
+
+* Integratie met VBA-automatiseringspijplijnen.
+
+* Getriggerde generatie van macro-ingeschakelde dia's uit terugkerende XSLFO-inhoud.
+
+* Geautomatiseerde batchconversie voor dynamische bedrijfspresentaties.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

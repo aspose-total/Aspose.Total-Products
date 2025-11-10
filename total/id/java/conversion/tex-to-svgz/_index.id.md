@@ -57,7 +57,51 @@ Menggunakan API, Anda juga dapat memutar gambar SVGZ keluaran sesuai kebutuhan A
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **SVGZ (Grafis Vektor Skalabel Terkompresi)** mempertahankan kualitas vektor sambil mengurangi ukuran file, ideal untuk web dan publikasi akademis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Menanamkan persamaan LaTeX dan diagram dalam halaman web.
+
+* Grafis skalabel, resolusi tinggi untuk publikasi.
+
+* Visualisasi online interaktif dari data yang dihasilkan LaTeX.
+
+* Ilustrasi teknis dalam format vektor terkompresi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch diagram LaTeX ke SVGZ.
+
+* Integrasi dengan jalur penerbitan web.
+
+* Pembaruan terpicu dari grafis vektor terkompresi dari sumber LaTeX.
+
+* Pengarsipan dan distribusi ilustrasi akademis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

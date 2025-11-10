@@ -121,7 +121,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **PPSX(PowerPoint Show, 매크로 없음)**로 변환하면 서식과 레이아웃을 유지한 채 보안을 위해 매크로 종속성을 제거한 읽기 전용 프레젠테이션 슬라이드 덱이 생성됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 회사 전체에 정보 제공을 위한 프레젠테이션.
+
+* e-러닝 배포용 교육 슬라이드.
+
+* 공유할 준비가 된 마케팅 또는 영업 프리젠테이션 덱.
+
+* 대규모 관객을 위한 이벤트나 세미나 프레젠테이션.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 안전한 프레젠테이션 공유를 위한 XPS 파일 대량 변환.
+
+* 교육 세션을 위한 일정에 따른 자동 생성된 쇼 파일.
+
+* 프레젠테이션 배포를 위한 내부 포털과의 통합.
+
+* 고객 또는 대중 사용을 위한 읽기 전용 슬라이드의 간소화된 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

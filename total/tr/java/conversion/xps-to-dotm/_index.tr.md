@@ -129,7 +129,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **DOTM (Word Macro-Enabled Template)** şekline dönüştürmek, şablon verimliliğini makro otomasyonuyla birleştirir. Kuruluşlar, tekrarlayan görevleri doğrudan Word içinde otomatikleştirirken belge düzenlerini koruyabilir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Otomatik hesaplama makrolarına sahip fatura ve rapor şablonları.
+
+* Müşteri verilerini otomatik olarak dolduran yasal form şablonları.
+
+* Görev takibi için etkileşimli makrolara sahip proje planlama şablonları.
+
+* Onayları ve bildirimleri otomatikleştiren İK belge şablonları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XPS kaynaklarından standartlaştırılmış makro destekli şablonların toplu oluşturulması.
+
+* Otomatik belge oluşturması için ERP sistemlerine entegrasyon.
+
+* Kaynak XPS dosyaları değiştiğinde tetiklenen şablon güncellemeleri.
+
+* DOTM şablonları kullanarak otomatikleştirilmiş raporlama iş akışları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **POTX(매크로 없는 PowerPoint 템플릿)**으로 변환하면 LaTeX 서식을 사용한 안전하고 재사용 가능한 슬라이드 템플릿을 만들 수 있어 다중 사용자 환경에 적합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LaTeX 수식을 포함한 표준화된 강좌 슬라이드 템플릿.
+
+* 매크로 제한이 없는 회의 슬라이드.
+
+* 재사용 가능한 프로젝트 프레젠테이션 템플릿.
+
+* 수식이 풍부한 학술 강의 덱.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* LaTeX-to-POTX 템플릿 일괄 생성.
+
+* LaTeX 저장소에서 자동화된 템플릿 업데이트.
+
+* 교육용 LMS나 기업 슬라이드 시스템 통합.
+
+* 다중 저자 팀을 위한 슬라이드 템플릿 생성 트리거.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

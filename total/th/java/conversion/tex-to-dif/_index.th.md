@@ -47,7 +47,51 @@ otherformats: XLSB XLTM XLTX XLT SXC EXCEL MD XLSM TSV ODS FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **DIF (Data Interchange Format)** ช่วยให้ข้อมูลตาราง LaTeX สามารถใช้กับโปรแกรมสเปรดชีตรุ่นเก่าและเครื่องมือทางวิทยาศาสตร์ที่เชี่ยวชาญได้โดยรักษาโครงสร้างและความแม่นยำ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* นำเข้าตารางตัวเลขที่ใช้ LaTeX เข้าสู่ซอฟต์แวร์ทางการเงินรุ่นเก่า
+
+* แบ่งปันการคำนวณทางวิศวกรรมกับเครื่องมือที่เชี่ยวชาญใน DIF
+
+* รักษาข้อมูลโครงสร้างสำหรับการตีพิมพ์ทางวิชาการ
+
+* เก็บข้อมูลชุด LaTeX ในรูปแบบการแลกเปลี่ยนที่เปิดเผย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้าง DIF จากข้อมูลโครงการ LaTeX แบบกลุ่ม
+
+* การผสานเข้ากับท่อข้อมูลทางวิทยาศาสตร์
+
+* การเก็บข้อมูลผลการทดลองวิจัยโดยอัตโนมัติ
+
+* การแปลงเป็นตารางเวลาสำหรับระบบรายงานต่อเนื่อง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

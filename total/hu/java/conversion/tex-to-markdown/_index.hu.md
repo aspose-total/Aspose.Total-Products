@@ -144,7 +144,55 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **MARKDOWN** formátumba való átalakítása könnyű, olvasható szöveget eredményez Markdown szintaxissal, ideális webes publikáláshoz, dokumentáláshoz és verziókezelt munkafolyamatokhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Akadémiai jegyzetek és jelentések átalakítása online blogok számára.
+
+* Műszaki dokumentáció LaTeX képletekkel Markdown-barát szintaxissal.
+
+* Együttműködés GitHub vagy GitLab tárolókban.
+
+* LaTeX kutatási összefoglalók publikálása webes platformokon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Batch TEX-Markdown konverzió dokumentációs csővezetékekhez.
+
+* Integráció statikus webhelygenerátorokkal (pl. Hugo, Jekyll).
+
+* Kiváltott generálás oktatási tartalomplatformokhoz.
+
+* Ütemezett konverzió folyamatos LaTeX-web publikáláshoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

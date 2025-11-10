@@ -61,7 +61,47 @@ otherformats: EXCEL FODS XLAM MARKDOWN XLSB XLS SXC XLSX DIF XLT TSV XLTM XLSM M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POT เป็น XLTX (Excel Template Open XML) จะให้เทมเพลตสเปรดชีตที่ใช้ XML ที่ทันสมัย ซึ่งจะช่วยให้มีเทมเพลตที่สอดคล้องกับภาพประกอบใน PowerPoint และเทมเพลต Excel ระดับองค์กร ซึ่งจะช่วยให้มีความสอดคล้องและสามารถขยายขนาดได้ในการเอกสาร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการใช้งานหลัก" %}}
+
+
+
+* สร้างเทมเพลต Excel ตามแบรนด์จากรายงาน PowerPoint
+
+* สร้างแบบฟอร์มกรอกข้อมูลมาตรฐานสำหรับแผนกต่าง ๆ
+
+* นำเสนอเลย์เอาต์ของงานนำเสนอให้กลายเป็นเทมเพลตสเปรดชีตที่สามารถนำมาใช้ซ้ำได้
+
+* สนับสนุนความสอดคล้องของรูปแบบการรายงานระหว่างทีม
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้าง XLTX โดยอัตโนมัติภายในระบบเนื้อหาขององค์กร
+
+* การผสานรวมกับไลบรารีเทมเพลตบน SharePoint
+
+* การแปลงเป็นชุดเทมเพลต Excel ที่เป็นไปตามแบรนด์ได้เป็นกลุ่ม
+
+* อัตโนมัติกระบวนการในการจัดการเทมเพลต Excel
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

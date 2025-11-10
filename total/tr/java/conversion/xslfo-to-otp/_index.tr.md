@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **OTP (OpenDocument Presentation Template)**e dönüştürülmesi, yapılandırılmış XSLFO verilerinden yeniden kullanılabilir slayt şablonları oluşturmaya olanak tanır. OTP şablonları, sunum biçimlendirmesini takımlar arasında standartlaştırır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* XSLFO tarafından oluşturulan raporlardan kurumsal sunum şablonlarının hazırlanması.
+
+* Yeniden kullanılabilir OTP formatlarında eğitim modüllerinin standartlaştırılması.
+
+* XSLFO içeriğinden tutarlı stille yatırımcı sunum dosyalarının oluşturulması.
+
+* Gelecekteki yeniden kullanım için üç aylık rapor şablonlarının arşivlenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Şablon kütüphaneleri için XSLFO'dan OTP'ye zamanlanmış toplu dönüşüm.
+
+* Otomatik slayt oluşturma boru hatlarıyla entegrasyon.
+
+* Yeni XSLFO rapor serileri için tetiklenen OTP şablonu oluşturma.
+
+* Bölümler arasında XSLFO tabanlı şablonların otomatik dağıtımı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

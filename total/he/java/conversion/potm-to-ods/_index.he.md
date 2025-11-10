@@ -102,7 +102,55 @@ otherformats: XLTX XLT XLSX DIF XLSB EXCEL TSV XLS MARKDOWN XLAM XLSM MHTML FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POTM ל-ODS יוצרת קבצי גיליון נתונים של OpenDocument המתאימים ל־LibreOffice, OpenOffice וליישומי גיליון נתונים קוד פתוח אחרים. זה מבטיח שנתוני המצגת יכולים להיות משומשים מחדש בין פלטפורמות שונות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* המרת נתוני שקופיות עסקיים לפורמטים ספריות פתוחים.
+
+* מצגות אקדמיות שמשומשות מחדש לצורך ניתוח סטטיסטי בקוד פתוח.
+
+* דוחות של ארגונים לא ממשלתיים שהומרו לצורך שיתוף פעולה בין פלטפורמות.
+
+* תקנות טבלאות שקופיות מספריות ב־ODS לזרימות עבודה במספר מחלקות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירה אוטומטית של קבצי ODS מתבניות מצגת.
+
+* שילוב עם מערכות ניהול מסמכים שתומכות בפורמטים פתוחים.
+
+* המרות צפיפות לשיתוף פעולה בין פלטפורמות.
+
+* יצירת ODS מופעלת לצורך צינורות דיווח בענן.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -53,7 +53,55 @@ APIを使用して、透かしを使用してPOTMファイルからOTTへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTMをOTTに変換すると、LibreOffice Writerなどと互換性のある再利用可能なOpenDocument Textテンプレートが作成されます。これらのテンプレートは、Microsoft以外の環境向けにレイアウト、スタイル、デザイン要素を保持します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* PowerPointスタイルを使用してオープンソースオフィス向けのOTTテンプレートを設計する。
+
+* プレゼンテーションコンテンツをODTベースのテンプレート構造に変換する。
+
+* オープンフォーマットのテンプレートを使用する政府や公共部門。
+
+* 再利用可能なOTTファイルを使用したNGOの文書化基準。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* オープン文書管理システムでの自動OTTテンプレート生成。
+
+* オープンフォーマットを使用したマルチプラットフォームドキュメント公開パイプライン。
+
+* MicrosoftとLibreOfficeエコシステムを結ぶ変換ワークフロー。
+
+* プレゼンテーションから派生したOTTテンプレートの大規模な機関利用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

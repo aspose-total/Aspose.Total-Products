@@ -47,7 +47,55 @@ TEXファイルをTXTに変換するときに、出力TXTファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**TXT（プレーンテキスト）**に変換すると、LaTeXコンテンツのためのシンプルで普遍的に読み取り可能な形式が提供され、軽量な保存、迅速な共有、およびテキスト処理に役立ちます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* テキストベースの検索と分析のためのLaTeXコンテンツの抽出。
+
+* シンプルなテキスト形式でのLaTeXノートや表の共有。
+
+* スクリプトやコーディングプロジェクトのための軽量なドキュメンテーション。
+
+* プレーンテキストのメール配信用にLaTeXコンテンツを準備。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* アーカイブ用にLaTeXファイルをTXTに一括変換。
+
+* 自動化されたテキスト処理ワークフローとの統合。
+
+* LaTeXリポジトリからのトリガーされたTXT生成。
+
+* 軽量なLaTeXドキュメンテーションのための定期的なエクスポート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

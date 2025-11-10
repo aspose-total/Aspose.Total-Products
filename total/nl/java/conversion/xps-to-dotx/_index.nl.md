@@ -129,7 +129,55 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XPS naar **DOTX (Word-sjabloon)** biedt een macrovrije sjabloonoptie voor gebruikers die herbruikbare documentindelingen zoeken zonder geautomatiseerde scripts. Ideaal voor veilig delen en consistente opmaak in educatieve, zakelijke en creatieve workflows.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Gestandaardiseerde educatieve werkbladen en opdrachten.
+
+* Marketinginhoudssjablonen voor campagnes en presentaties.
+
+* Interne beleids- en procedure-sjablonen voor HR of operaties.
+
+* Rapportsjablonen voor financiële en technische documentatie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde sjabloongeneratie voor bedrijfsbreed gebruik.
+
+* Conversiepijplijnen die DOTX-bestanden voeden naar documentbeheerplatforms.
+
+* Vooraf opmaken van XPS-inhoud om aan te sluiten bij merkstandaarden.
+
+* Batchcreatie van klantgerichte voorstelsjablonen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

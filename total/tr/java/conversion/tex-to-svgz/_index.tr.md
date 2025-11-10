@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı SVGZ görüntüsünü ihtiyaçlarınıza göre de d�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **SVGZ'ye (Sıkıştırılmış Ölçeklenebilir Vektör Grafikleri)** dönüştürmek, dosya boyutunu azaltırken vektör kalitesini korur ve web ve akademik yayınlar için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX denklemlerini ve diyagramlarını web sayfalarına gömme.
+
+* Yayınlar için ölçeklenebilir, yüksek çözünürlüklü grafikler.
+
+* LaTeX tarafından oluşturulan verilerin etkileşimli çevrimiçi görselleştirmeleri.
+
+* Sıkıştırılmış vektör formatında teknik illüstrasyonlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* LaTeX diyagramlarının SVGZ'ye toplu dönüşümü.
+
+* Web yayınlama boru hatlarıyla entegrasyon.
+
+* LaTeX kaynaklarından sıkıştırılmış vektör grafiklerinin tetiklenen güncellemeleri.
+
+* Akademik illüstrasyonların arşivlenmesi ve dağıtımı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

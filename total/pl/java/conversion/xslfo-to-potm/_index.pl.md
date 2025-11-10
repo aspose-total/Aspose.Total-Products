@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie XSLFO na **POTM (Szablon PowerPoint z obsługą makr)** pozwala na osadzanie makr w wielokrotnie używanych szablonach slajdów. POTM jest idealny do dynamicznych prezentacji wymagających automatyzacji i interaktywnej zawartości.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Osadzanie obliczeń opartych na XSLFO w makrach prezentacji.
+
+* Automatyzacja cyklicznych aktualizacji statusu projektu w prezentacjach slajdów.
+
+* Generowanie interaktywnych pulpitów nawigacyjnych z tabel danych XSLFO.
+
+* Dystrybucja standaryzowanych szablonów POTM między działami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja raportów XSLFO na szablony POTM w celu automatyzacji.
+
+* Integracja z VBA lub przepływami pracy automatyzacji w PowerPoint.
+
+* Wywoływana partia generowania szablonów prezentacji obsługujących makra.
+
+* Automatyczna aktualizacja szablonów POTM na podstawie analiz XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

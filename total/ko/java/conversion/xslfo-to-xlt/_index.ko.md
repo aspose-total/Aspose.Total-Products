@@ -47,7 +47,51 @@ XSLFO 파일을 XLT로 변환하는 동안 출력 XLT 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **XLT (Excel 템플릿)**으로 변환하면 사전 정의된 서식과 스타일이 있는 재사용 가능한 스프레드시트 템플릿을 만들 수 있습니다. XLT는 XSLFO 소스로부터 반복적으로 발생하는 보고서를 표준화하는 데 적합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 표준화된 XSLFO 기반 인보이스 템플릿 준비.
+
+* 반복적으로 사용할 프로젝트 보고서 템플릿 작성.
+
+* 월간 대시보드를 재사용 가능한 Excel 템플릿으로 아카이빙.
+
+* XSLFO에서 생성된 기업 KPI 보고서 템플릿 배포.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XSLFO 보고서로부터 자동화된 XLT 템플릿 생성.
+
+* 반복적인 보고 파이프라인과의 통합.
+
+* 표준화된 부서 템플릿을 위한 예약 변환.
+
+* 일관된 보고를 위해 Excel 템플릿 생성을 트리거.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

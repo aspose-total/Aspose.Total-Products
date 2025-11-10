@@ -47,7 +47,51 @@ XSLFOファイルをXLAMに変換するときに、出力XLAMファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**XLAM（Excel Add-In）**に変換すると、XSLFOで生成されたデータとマクロを再利用可能なExcelアドインに埋め込むことができます。XLAMは自動化、カスタムレポーティング、インタラクティブなスプレッドシートアプリケーションをサポートしています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* チームでの使用を目的としたXSLFOレポーティングテンプレートをExcelアドインとしてパッケージ化する。
+
+* XSLFOデータから派生した自動計算ツールを配布する。
+
+* XSLFOアナリティクスをカスタムExcelダッシュボードに統合する。
+
+* XLAMアドインを使用した繰り返し可能なレポーティングワークフローを有効にする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的なタスクのためのXSLFOからXLAMの自動生成を自動化する。
+
+* XSLFOデータを更新したアドインの定期的な展開。
+
+* VBAベースのワークフロー自動化との統合。
+
+* 企業向けレポーティングツールのためのXLAMアドインのトリガー生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

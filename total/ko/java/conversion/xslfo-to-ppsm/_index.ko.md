@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **PPSM (매크로 활성화 PowerPoint 쇼)**로 변환하면 자체 실행 슬라이드와 매크로 자동화를 결합할 수 있습니다. PPSM은 대화형 대시보드, 자동화된 프레젠테이션 또는 동적 보고에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 슬라이드 쇼 형식의 자동화된 성능 대시보드 준비.
+
+* 대화형 XSLFO 기반 콘텐츠에 매크로 임베딩.
+
+* 팀 전체 보고용 매크로 활성화 프레젠테이션 공유.
+
+* 동적 투자자 또는 이사회 프레젠테이션 쇼 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 자동 회의를 위해 XSLFO 슬라이드를 PPSM으로 일괄 변환.
+
+* 반복되는 XSLFO 보고서에서 매크로 활성화 슬라이드를 예약된 업데이트.
+
+* VBA 또는 PowerPoint 자동화 워크플로와 통합.
+
+* 실시간 대화형 프레젠테이션을 위한 트리거된 PPSM 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

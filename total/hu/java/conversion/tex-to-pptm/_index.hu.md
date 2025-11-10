@@ -135,7 +135,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **PPTM formátumba történő konvertálása (PowerPoint Macro-Enabled Presentation)** teljesen interaktív diák létrehozását teszi lehetővé LaTeX-ből, beleértve az automatizált számításokhoz szükséges makrókat, dinamikus diagramokat és interaktív oktatási anyagokat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Interaktív akadémiai előadások LaTeX egyenletekkel.
+
+* Vállalati irányítópultok és kutatási prezentációs sablonok.
+
+* Automatizált szeminárium diák valós idejű adatfrissítésekkel.
+
+* Műhelyprezentációk makróvezérelt interaktivitással.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges TEX-PPTM konverzió interaktív diákokhoz.
+
+* Integráció vállalati vagy egyetemi automatizálási rendszerekbe.
+
+* Makróval ellátott prezentációk generálása indítás alapján.
+
+* Időzített frissítések LaTeX tárolókból több szerzős projektekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

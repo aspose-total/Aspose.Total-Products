@@ -144,7 +144,55 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file TEX ke **DOTM (Word Macro-Enabled Template)** menyediakan template yang dapat digunakan kembali dengan fungsionalitas makro. Ideal untuk alur kerja otomatis, ini menghubungkan penataan tipe presisi LaTeX dengan kemampuan otomatisasi Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Template pengajuan otomatis untuk jurnal akademik.
+
+* Template laporan teknis yang dapat digunakan kembali dengan pembangkitan konten dinamis.
+
+* Formulir yang diaktifkan makro untuk entri data laboratorium atau penelitian.
+
+* Menghasilkan template Word yang didukung LaTeX untuk kolaborasi multi-penulis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Pembuatan dokumen real-time yang dipicu dari aliran masukan LaTeX.
+
+* Integrasi ke dalam jalur otomatisasi dokumen perusahaan berbasis Word.
+
+* Pembaruan template batch untuk proyek penelitian kolaboratif.
+
+* Menghasilkan dokumentasi proyek yang diaktifkan makro untuk tim rekayasa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

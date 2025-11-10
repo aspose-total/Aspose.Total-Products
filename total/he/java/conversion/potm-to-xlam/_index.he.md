@@ -102,7 +102,55 @@ otherformats: XLSX DIF MARKDOWN XLTX CSV EXCEL MHTML XLSM ODS TSV FODS XLT XLTM 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POTM ל-XLAM יוצרת תוסף Excel המופעל במקרו מתבניות PowerPoint. זה מאפשר הטמעת פונקציות שניתן להשתמש בהן מחדש, נוסחות מותאמות אישית או כלים אינטראקטיביים המגיעים מתוכן של המצגת.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* פיתוח תוספי Excel מחישובי שקופיות אינטראקטיביים.
+
+* אוטומציה של לוחות מחירים פיננסיים שמועצבו מקודם ב-PowerPoint.
+
+* המרת תבניות KPI או כרטיסי ציון לכלים המופעלים במקרו.
+
+* יצירת סקריפטים לאוטומציה ב-Excel מלוגיקת המצגת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* זרימי עבודה עסקיים המייצרים קבצי XLAM מתבניות POTM.
+
+* שילוב עם צינורות אוטומציה של Excel לניתוח עסקי.
+
+* יצירת כלים המופעלים במקרו ממצגות תדמיתיות.
+
+* יצירת תוסף XLAM מופעל במקרו בהפעלה מקובצי תבניות ניתוח סטנדרטיות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

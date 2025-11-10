@@ -130,7 +130,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS（XML Paper Specification）ファイルを**DOCM（Word Macro-Enabled Document）**に変換することで、動的レポートやビジネスフォームがワークフローの自動化のためのすべてのインタラクティブなマクロを保持します。この形式は、繰り返しタスクや埋め込みスクリプトが生産性を向上させるオフィス環境に特に適しています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 計算用の自動マクロが必要な財務および監査レポート。
+
+* 承認ワークフローが埋め込まれた企業テンプレート。
+
+* 署名の自動化が必要な法的文書パッケージ。
+
+* タスク追跡のためにマクロを使用するプロジェクト管理ダッシュボード。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* エンタープライズチーム向けにXPSレポートをマクロ有効化されたWordファイルに一括変換。
+
+* ファイルを開くときにマクロをトリガーする文書管理システムとの統合。
+
+* 埋め込み数式を使用した請求書や明細書の自動生成。
+
+* 動的フィールドを備えた効率化された人事オンボーディングフォーム。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

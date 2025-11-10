@@ -135,7 +135,51 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av XSLFO till **OTP (OpenDocument Presentation Template)** möjliggör skapandet av återanvändbara bildmallar från strukturerade XSLFO-data. OTP-mallar standardiserar presentationsformatering över olika team.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* Förbereda företagspresentationmallar från XSLFO-genererade rapporter.
+
+* Standardisera träningsmoduler i återanvändbara OTP-format.
+
+* Skapa investerarpitchdäck med konsekvent formatering från XSLFO-innehåll.
+
+* Arkivera kvartalsrapportsmallar för framtida återanvändning.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Schemalagd batchkonvertering från XSLFO till OTP för mallbibliotek.
+
+* Integration med automatiserade bildgenereringspipeliner.
+
+* Utlöst skapande av OTP-mallar för nya XSLFO-rapportserier.
+
+* Automatisk distribution av XSLFO-baserade mallar över avdelningar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

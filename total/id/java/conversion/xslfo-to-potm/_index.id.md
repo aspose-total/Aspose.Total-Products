@@ -135,7 +135,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **POTM (Template PowerPoint Ber-Macro)** memungkinkan penyisipan makro dalam template slide yang dapat digunakan kembali. POTM ideal untuk presentasi dinamis yang memerlukan otomatisasi dan konten interaktif.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Menyisipkan perhitungan berbasis XSLFO ke dalam makro presentasi.
+
+* Mengotomatisasi pembaruan status proyek yang berulang dalam slide decks.
+
+* Menghasilkan dasbor interaktif dari tabel data XSLFO.
+
+* Mendistribusikan template POTM standar di seluruh departemen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi terjadwal laporan XSLFO ke template POTM untuk otomatisasi.
+
+* Integrasi dengan VBA atau alur kerja otomatisasi PowerPoint.
+
+* Generasi batch terpicu dari template presentasi ber-makro.
+
+* Pembaruan otomatis template POTM dari analitik XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

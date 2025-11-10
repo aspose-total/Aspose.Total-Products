@@ -53,7 +53,45 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp POT s
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi POT thành OTT (Mẫu Văn bản OpenDocument) giúp các tổ chức tạo ra các mẫu văn bản có thể tái sử dụng tuân thủ các tiêu chuẩn mở. Các mẫu OTT lý tưởng cho các tổ chức nhấn mạnh vào tính khả dụng và lưu trữ dài hạn.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tạo các mẫu chuẩn mở từ tài liệu đào tạo PowerPoint.
+
+* Chuyển đổi các kiểu trình bày thành các mẫu văn bản có thể tái sử dụng.
+
+* Tạo định dạng văn bản nhất quán cho xuất bản học thuật.
+
+* Thiết kế các mẫu truy cập mở cho tài liệu của tổ chức phi chính phủ.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tự động tạo ra OTT từ các bố cục chính PowerPoint.
+
+* Tích hợp với các luồng công việc tài liệu mã nguồn mở.
+
+* Đồng bộ hóa mẫu trên các kho lưu trữ văn bản của tổ chức.
+
+* Hệ thống tài liệu chính phủ tận dụng các mẫu định dạng mở.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

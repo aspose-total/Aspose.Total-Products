@@ -135,7 +135,55 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp XPS (XML Paper Specification) sang **XAML (Extensible Application Markup Language)** cho phép các nhà phát triển và thiết kế viên tái sử dụng nội dung tài liệu trong các ứng dụng WPF (Windows Presentation Foundation), bảo tồn bố cục, font chữ và đồ họa vector.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Kết hợp hình ảnh tài liệu tĩnh vào các ứng dụng desktop dựa trên WPF.
+
+* Thiết kế bảng điều khiển tương tác bằng cách sử dụng các yếu tố giao diện người dùng dựa trên XAML.
+
+* Tái sử dụng bố cục XPS trong giao diện và điều khiển phần mềm.
+
+* Ứng dụng e-learning học thuật hoặc doanh nghiệp yêu cầu hiển thị tài liệu chính xác.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt tự động các tệp XPS thành XAML cho các đường ống phát triển phần mềm.
+
+* Tích hợp với luồng làm việc CI/CD cho việc cập nhật ứng dụng desktop.
+
+* Tạo tài sản XAML theo lịch trình cho nội dung ứng dụng định kỳ.
+
+* Tái sử dụng mượt mà các tài liệu XPS trong nhiều dự án WPF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

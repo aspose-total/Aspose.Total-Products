@@ -47,7 +47,51 @@ Saat mengonversi file XSLFO ke XLT, Anda juga dapat menambahkan tanda air ke for
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **XLT (Excel Template)** memungkinkan penggunaan kembali template spreadsheet dengan format dan gaya yang telah ditentukan sebelumnya. XLT sangat cocok untuk standarisasi laporan berulang dari sumber XSLFO.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Menyiapkan template faktur berbasis XSLFO yang terstandar.
+
+* Membuat template pelaporan proyek untuk penggunaan berulang.
+
+* Mengarsipkan dasbor bulanan sebagai template Excel yang dapat digunakan kembali.
+
+* Mendistribusikan template pelaporan KPI perusahaan yang dihasilkan dari XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi template XLT secara otomatis dari laporan XSLFO.
+
+* Integrasi dengan pipa pelaporan berulang.
+
+* Konversi terjadwal untuk template departemen yang terstandar.
+
+* Generasi template Excel yang dipicu untuk pelaporan yang konsisten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

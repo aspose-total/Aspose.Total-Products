@@ -61,7 +61,55 @@ Saat mengonversi file POTM ke TSV, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi POTM ke TSV (Tab-Separated Values) memungkinkan transfer mudah tabel presentasi ke spreadsheet berbasis teks atau perangkat lunak analitik. File TSV ringan, dapat diedit, dan mempertahankan struktur tabular yang bersih.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengekstrak tabel slide untuk pipeline analitik berbasis CSV/TSV.
+
+* Mengekspor data pelatihan atau hasil survei dari presentasi.
+
+* Transformasi data keuangan dan ilmiah ke TSV untuk alat scripting.
+
+* Menyiapkan konten slide tabular untuk diimpor ke database.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch slide ke TSV untuk pipeline ingest data.
+
+* Alur kerja pelaporan otomatis yang memberi makan file TSV ke platform BI.
+
+* Integrasi dengan skrip Python/R untuk analisis statistik.
+
+* Generasi TSV yang dipicu dari template presentasi yang di-hosting di cloud.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

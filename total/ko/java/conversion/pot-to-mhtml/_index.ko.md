@@ -61,7 +61,45 @@ POT 파일을 MHTML로 변환하는 동안 출력 MHTML 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POT를 MHTML(MIME HTML)로 변환하면 전문가들이 전체 파워포인트 프레젠테이션을 단일 웹 파일로 보관할 수 있습니다. MHTML은 텍스트, 이미지 및 스타일과 같은 모든 리소스를 캡처하여 오프라인 액세스나 디지털 배포에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 기업 프레젠테이션의 웹 보관 가능한 버전 생성.
+
+* PowerPoint 기반 보고서를 독립적인 웹 문서로 공유.
+
+* 인트라넷 액세스용 교육 자료 보존.
+
+* 이동 가능한 HTML 리소스로 교육용 슬라이드 덱 변환.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 문서 보관 시스템을 위한 자동화된 MHTML 내보내기.
+
+* 기업 인트라넷 게시 파이프라인과의 통합.
+
+* PowerPoint 템플릿에서 오프라인 준비된 HTML 생성.
+
+* e러닝 및 교육 포털을 위한 일괄 변환.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

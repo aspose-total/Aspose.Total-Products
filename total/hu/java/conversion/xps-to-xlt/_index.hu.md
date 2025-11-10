@@ -47,7 +47,51 @@ A XPS-fájl XLT-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLT-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XPS átalakítása **XLT (Excel sablon)** formátumra lehetővé teszi újrafelhasználható, előre formázott táblázatok létrehozását ismételt használatra, ideális szabványos jelentések és következetes adatbevitel céljára.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Szabványosított vállalati jelentés sablonok.
+
+* Projekt nyomonkövetési és erőforrásallokációs sablonok.
+
+* Akadémiai táblázat sablonok ismételt feladatokhoz.
+
+* Pénzügyi kimutatások és költségvetési sablonok.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Automatizált XPS-to-XLT sablon létrehozás vállalati csapatok számára.
+
+* Előre formázott táblázatok ütemezett generálása.
+
+* Integráció dokumentumkezelő rendszerekkel sablonok terjesztéséhez.
+
+* Ismétlődő adatbeviteli folyamatok egyszerűsített szabványosítása.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

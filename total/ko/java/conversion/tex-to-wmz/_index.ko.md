@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 WMZ 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+텍스트를 **WMZ (압축된 Windows Metafile)**로 변환하면 LaTeX 다이어그램의 벡터 그래픽을 압축하여 저장 공간을 최적화하면서 발표 자료와 보고서의 품질을 유지할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Microsoft Office 슬라이드용 압축된 LaTeX 다이어그램.
+
+* 확장 가능한 기술적인 그림의 아카이빙.
+
+* 학술 논문에서 가벼운 그래픽 공유.
+
+* 큰 파일 크기 없이 보고서에 벡터 그래픽 임베딩.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 자동 일괄 TEX-to-WMZ 변환.
+
+* 문서 및 슬라이드 자동화 시스템 통합.
+
+* 압축된 LaTeX 다이어그램의 생성 트리거.
+
+* 다중 사용자 액세스를 위한 WMZ 그림의 예약된 업데이트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

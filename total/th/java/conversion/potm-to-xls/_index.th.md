@@ -61,7 +61,51 @@ otherformats: EXCEL SXC FODS XLSM XLS MHTML MARKDOWN XLTM XLAM ODS XLSB XLSX DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM เป็น XLS ที่แปลงงานนำเสนอเป็นสเปรดชีต Microsoft Excel แบบคลาสสิกที่เข้ากันได้กับเวอร์ชัน Excel เก่ากว่า ๆ มันรักษาตาราง กราฟ และการจัดรูปแบบพื้นฐานสำหรับความเข้ากันได้ย้อนหลัง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การแปลงงบประมาณที่เป็นสไลด์เป็น XLS สำหรับทีมเก่า
+
+* การส่งออกข้อมูลการนำเสนอทางประวัติเป็นรูปแบบ Excel 97-2003
+
+* การแปลงรายงานการเงินสำหรับซอฟต์แวร์บัญชีเวอร์ชันเก่า
+
+* การแบ่งปันตารางที่สามารถแก้ไขได้โดยไม่ต้องพึ่งพา Excel เวอร์ชันใหม่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* ประมวลผลแบบกลุ่มของเทมเพลต POTM เป็นสเปรดชีต XLS
+
+* การผสานระบบ ERP เก่าและรายงาน
+
+* ท่อการทำงานจากสไลด์ไปสู่สเปรดชีตโดยรักษาการจัดรูปแบบ
+
+* การสร้าง XLS ตามที่เรียกใช้สำหรับการเก็บถาวรและการกระจาย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

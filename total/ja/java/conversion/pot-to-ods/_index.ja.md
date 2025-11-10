@@ -61,7 +61,45 @@ POTファイルをODSに変換するときに、出力ODSファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTをODS（OpenDocument Spreadsheet）に変換すると、オープンソースオフィス環境とのシームレスな相互運用性が実現されます。これは、ODF標準を採用する学術機関や公共機関に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* PowerPointで生成されたレポートをLibreOfficeユーザーと共有する。
+
+* クラスのプレゼンテーションをデータ入力テンプレートに変換する。
+
+* 研究の視覚データをオープンソースのスプレッドシートに変換する。
+
+* 公共機関向けの準拠スプレッドシートレポートを準備する。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* トレーニングや営業プレゼンテーションからの自動ODS作成。
+
+* オープンソースERPや分析プラットフォームへの統合。
+
+* ハイブリッドドキュメントエコシステム向けの変換ワークフロー。
+
+* 文書標準化プロジェクトのための定期的な変換。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

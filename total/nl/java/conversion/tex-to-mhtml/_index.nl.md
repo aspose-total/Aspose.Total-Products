@@ -143,7 +143,55 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **MHTML (MIME HTML)** maakt het mogelijk om LaTeX-documenten weer te geven als een webpagina in één bestand, waarbij vergelijkingen, tabellen en afbeeldingen behouden blijven voor offline of online weergave.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Archiveren van LaTeX-onderzoekspapers als zelfstandige webpagina's.
+
+* Delen van op LaTeX gebaseerde rapporten met ingebedde afbeeldingen en vergelijkingen.
+
+* Genereren van interactief lesmateriaal in één MHTML-bestand.
+
+* Omzetten van technische inhoud voor offline e-learningmodules.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch TEX-naar-MHTML-conversie voor cursusmateriaalbibliotheken.
+
+* Integratie in geautomatiseerde generatie van e-learninginhoud.
+
+* Geplande MHTML-updates vanuit LaTeX-bronnen.
+
+* Getriggerde conversie voor het delen van onderzoekspublicaties.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,51 @@ XSLFOファイルをXLTに変換するときに、出力XLTファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**XLT（Excelテンプレート）**に変換すると、事前に定義された書式やスタイルを持つ再利用可能なスプレッドシートテンプレートが作成できます。XLTは、XSLFOソースからの定期的なレポートの標準化に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* XSLFOベースの請求書テンプレートの標準化準備。
+
+* 繰り返し使用するプロジェクトレポートテンプレートの作成。
+
+* 月次ダッシュボードを再利用可能なExcelテンプレートとしてアーカイブ。
+
+* XSLFOから生成された企業のKPIレポートテンプレートの配布。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XSLFOレポートからの自動化されたXLTテンプレート生成。
+
+* 定期的なレポートパイプラインとの統合。
+
+* 標準化された部門テンプレートのためのスケジュール変換。
+
+* 一貫したレポートのためのExcelテンプレートのトリガー生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -129,7 +129,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **WordML (Word Processing ML)**'e dönüştürmek, teknik kullanıcıların Word'ün XML tabanlı belge yapısıyla doğrudan çalışmasını sağlar. Bu, otomatik düzenleme, içerik çıkarma ve gelişmiş belge iş akışlarına entegrasyonu olanaklı kılar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Programatik olarak dinamik Word belgeleri oluşturan geliştiriciler.
+
+* Metin ve meta verilerin otomatik çıkarılması ve işlenmesi.
+
+* Kurumsal içerik yönetim sistemlerine entegrasyon.
+
+* XML tabanlı işleme gerektiren teknik yayınlama iş akışları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Toplu belge işleme için otomatik XPS'ten WordML iş akışları.
+
+* Özel Word raporları oluşturan AI sistemleriyle entegrasyon.
+
+* XML tabanlı Word belgelerinde tetiklenen içerik güncellemeleri.
+
+* Teknik ve hukuki belgeler için kolaylaştırılmış XML düzenleme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

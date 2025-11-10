@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力TGA画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**TGA（Targaイメージファイル）**に変換すると、プロのグラフィックやビデオ制作に適した高品質のラスター画像が得られます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* ビデオやマルチメディアプロジェクト向けの高精細ビジュアル。
+
+* XPSダイアグラムから派生したゲームデザイン資産。
+
+* ロスレスラスター画像が必要な技術イラスト。
+
+* プレゼンテーションやアーカイブ目的の企業グラフィック。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* バッチXPSからTGAへの変換パイプライン。
+
+* マルチメディア制作ワークフローのためのスケジュール作成。
+
+* グラフィック編集やビデオソフトウェアとの統合。
+
+* 技術的またはデザインビジュアルの自動処理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**PPSX（マクロなしのPowerPoint Show）に変換すると、配布用に安全な自己実行プレゼンテーションが生成されます。PPSXはマクロの実行リスクを回避しながら、フォーマットとレイアウトを保持します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* XSLFOデータから自己実行型の財務ダッシュボードを作成する。
+
+* 標準化されたトレーニングやオンボーディングプレゼンテーションを共有する。
+
+* マクロなしの投資家向けピッチショーを準備する。
+
+* チーム全体への四半期レビュースライドのアーカイブ化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的なプレゼンテーション用にXSLFOからPPSXへのスケジュールされた一括変換。
+
+* マクロなしのスライドショーデッキのトリガー生成。
+
+* 自動化された配布パイプラインへの統合。
+
+* XSLFOレポートからの自己実行スライドの自動更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

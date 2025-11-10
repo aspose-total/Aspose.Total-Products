@@ -135,7 +135,55 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **PPS (PowerPoint bemutató)** formátumba lehetővé teszi önállóan futó bemutatófájlok létrehozását értekezletekhez, képzésekhez vagy kioszkokhoz. A PPS formátum megőrzi a formázást, miközben közvetlenül diavetítés módban nyílik meg.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Önállóan futó vállalati áttekintő bemutatók terjesztése.
+
+* Automatizált képzési vagy bevezető diák előkészítése XSLFO adatokból.
+
+* Interaktív marketingtartalom megosztása kiállításokon.
+
+* Látványos KPI irányítópultok generálása vezetői áttekintéshez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ütemezett tételkonverzió XSLFO-ból PPS fájlokba.
+
+* Integráció automatizált diavetítés-elosztási munkafolyamatokba.
+
+* Kiváltott PPS csomagok generálása XSLFO jelentésekből.
+
+* Automatikusan frissülő önállóan futó bemutatók ismétlődő értekezletekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

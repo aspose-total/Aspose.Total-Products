@@ -130,7 +130,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file XPS (XML Paper Specification) ke **DOCM (Word Macro-Enabled Document)** memastikan bahwa laporan dinamis dan formulir bisnis tetap mempertahankan semua makro interaktif untuk otomatisasi alur kerja. Format ini sangat cocok untuk lingkungan kantor di mana tugas-tugas berulang dan skrip tersemat meningkatkan produktivitas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Laporan keuangan dan audit yang memerlukan makro otomatis untuk perhitungan.
+
+* Templat perusahaan dengan alur kerja persetujuan tersemat.
+
+* Paket dokumen hukum dengan otomatisasi tanda tangan.
+
+* Dasbor manajemen proyek yang menggunakan makro untuk pelacakan tugas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi massal laporan XPS menjadi file Word yang mendukung makro untuk tim perusahaan.
+
+* Integrasi dengan sistem manajemen dokumen yang memicu makro saat file dibuka.
+
+* Generasi otomatis tagihan dan laporan dengan rumus tersemat.
+
+* Formulir onboarding SDM yang disederhanakan dengan bidang dinamis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

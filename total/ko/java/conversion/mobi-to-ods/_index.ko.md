@@ -61,7 +61,47 @@ MOBI를 ODS로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI 파일을 ODS(OpenDocument Spreadsheet)로 변환하면 eBook 데이터를 구조화된 형식으로 표현할 수 있어 LibreOffice, OpenOffice 및 유사한 도구에서의 크로스 플랫폼 호환성을 보장합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+- 구조화된 디지털 도서관 색인 생성.
+
+- 오픈 소스 연구를 위한 MOBI 도서 메타데이터 관리.
+
+- 협업 프로젝트에서 저자 기여 추적.
+
+- ODS 형식의 내보낼 수 있는 독서 목록 유지.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+- 디지털 아카이브에서 실시간 MOBI-to-ODS 변환.
+
+- 자동화된 출판 파이프라인과의 통합.
+
+- 콘텐츠 관리 시스템 내 변환 트리거.
+
+- 사서를 위한 ODS 보고서로의 예약된 메타데이터 동기화.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

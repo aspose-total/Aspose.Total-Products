@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力DICOM画像を回転させるこ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**DICOM（医学画像通信および情報学）**に変換することで、技術的および科学的なLaTeX図を医学画像ワークフローや研究文書に埋め込むことができます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* 医学画像レポートにLaTeXベースの図を統合する。
+
+* 構造化されたLaTeXコンテンツで生物医学研究を文書化する。
+
+* LaTeXで生成されたグラフィックを使用して解剖データを視覚化する。
+
+* 放射線学研究でLaTeXベースの図を公開する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 病院画像アーカイブの自動バッチ変換。
+
+* 医学研究ワークフローへの統合。
+
+* 臨床研究のためのTEXからDICOMへのトリガー付きレンダリング。
+
+* AI支援診断のためのLaTeX図のエクスポート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

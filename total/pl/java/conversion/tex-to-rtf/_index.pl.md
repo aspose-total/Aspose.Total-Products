@@ -143,7 +143,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **RTF (Rich Text Format)** oferuje uniwersalną kompatybilność, umożliwiając otwieranie dokumentów LaTeX w niemal każdym edytorze tekstu, zachowując jednocześnie istotne formatowanie i równania matematyczne.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Dzielenie się pracami naukowymi między platformami bez utraty formatowania.
+
+* Podręczniki techniczne z dostępem do skomplikowanych równań w programie Word lub LibreOffice.
+
+* Dokumentacja biznesowa na różnych platformach z formatowaniem LaTeX.
+
+* Dokumenty LaTeX gotowe do wysłania w formatach uniwersalnie czytelnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa dla archiwów i kompatybilność między platformami.
+
+* Integracja w potoki przetwarzania dokumentów dla zespołów technicznych.
+
+* Automatyczne generowanie raportów RTF z danych LaTeX.
+
+* Wywoływane konwersje dla systemów publikacji automatycznej.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

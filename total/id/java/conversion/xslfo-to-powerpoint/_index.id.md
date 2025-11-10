@@ -135,7 +135,55 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **POWERPOINT (PPTX)** memberikan slide yang sepenuhnya diformat, dapat diedit, cocok untuk Microsoft PowerPoint. Format PPTX memastikan kompatibilitas dengan fitur desain canggih, grafik, dan multimedia.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengubah laporan tahunan XSLFO menjadi slide PowerPoint yang menarik secara visual.
+
+* Menyiapkan dasbor manajemen dan presentasi KPI.
+
+* Membuat konten pendidikan atau pelatihan dari tabel XSLFO yang terstruktur.
+
+* Berbagi slide yang dihasilkan dari XSLFO dengan pemangku kepentingan perusahaan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch terjadwal dari XSLFO ke PPTX untuk laporan berulang.
+
+* Integrasi dengan pembuatan slide otomatis dan dasbor analitik.
+
+* Transformasi dipicu dari data XSLFO menjadi dek PowerPoint interaktif.
+
+* Generasi PPTX real-time untuk presentasi rapat dewan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

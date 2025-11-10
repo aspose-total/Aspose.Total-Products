@@ -61,7 +61,45 @@ A POT fájl SXC formátumba konvertálásakor vízjelet is hozzáadhat a kimenet
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A POT fájl átalakítása SXC formátummá (StarOffice Calc táblázat) lehetővé teszi a prezentációból származó adatok használatát a régebbi StarOffice vagy OpenOffice környezetekben. Ez a formátum releváns marad oktatási és archiválási projektek esetén, amelyek hátrafelé kompatibilitást igényelnek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* PowerPoint tartalom újrahasznosítása intézmények számára, amelyek régebbi szoftvert használnak.
+
+* Diák feladatlapok létrehozása prezentációs táblázatokból.
+
+* Vállalati mutatók megosztása nyílt forráskódú táblázatkezelő eszközökön keresztül.
+
+* PowerPoint-alapú elemzések archiválása régi rendszerekben.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Vállalati migrációhoz szükséges régi adattranszformációs munkafolyamatok.
+
+* Automatikus PowerPoint táblák kinyerése SXC fájlokba.
+
+* Ütemezett átalakítások archiválási és oktatási rendszerekhez.
+
+* Integráció régi üzleti intelligencia platformokkal.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

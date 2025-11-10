@@ -47,7 +47,51 @@ otherformats: TSV XLSB EXCEL MD TXT XLT FODS DIF XLSM ODS XLAM SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ XPS เป็น **DIF (Data Interchange Format)** ช่วยให้เกิดความเข้ากันได้กับซอฟต์แวร์สเปรดชีตรุ่นเก่าในขณะที่รักษาความสมบูรณ์ของข้อมูลตัวเลขและตารางไว้ได้  DIF เหมาะสำหรับองค์กรที่รักษาระบบการเงินและ ERP รุ่นเก่า
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* การย้ายบันทึกการเงินที่เป็นประวัติ
+
+* การนำเข้ารายงานที่ใช้ระบบ XPS เข้าสู่ซอฟต์แวร์บัญชีรุ่นเก่า
+
+* การรักษาชุดข้อมูลตัวเลขสำหรับการตรวจสอบการปฏิบัติข้อบังคับ
+
+* การแลกเปลี่ยนข้อมูลระหว่างเครื่องมือสเปรดชีต跨แพลตฟอร์ม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงข้อมูลเป็นชุดข้อมูลเป็นชุดข้อมูลแบบกลุ่มสำหรับชุดข้อมูล XPS สำหรับการเก็บถาวร
+
+* การรวมเข้ากับท่อไออาร์พีสำหรับรายงานการเงิน
+
+* การอัปเดตข้อมูลประวัติตามกำหนดเวลาในรูปแบบ DIF
+
+* กระบวนการย้ายจาก XPS ไปสู่แพลตฟอร์มการวิเคราะห์รุ่นใหม่อย่างเรียบง่าย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

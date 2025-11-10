@@ -102,7 +102,55 @@ otherformats: EXCEL SXC XLTX XLAM XLSM CSV TSV MD XLTM XLT XLSB ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי XSLFO ל־**TXT (טקסט פשוט)** מאפשרת תאימות אוניברסלית עם כל עורכי טקסט, כלי עיבוד נתונים וסביבות תכנות. קבצי TXT מחלצים תוכן יסודי מתוך XSLFO בלי עיצוב, מה שהופך אותם לאידיאליים לניתוח נתונים גולמי, כתיבת סקריפטים וארכיון.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייצוא טבלאות ודוחות XSLFO לעיבוד נתונים בצפצוף.
+
+* הכנת גרסאות טקסט פשוט של דוחות פיננסיים או תפעוליים מובנים.
+
+* ארכיבת תוכן XSLFO בפורמט נגיש באופן אוניברסלי.
+
+* יצירת חילוצי נתונים גולמיים עבור צינורות נתונים לניתוח.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת צפצוף מתוזמנת מ־XSLFO ל־TXT עבור זרימות עבודה אוטומטיות.
+
+* שילוב בתהליכי ETL וצינורות עיבוד נתונים.
+
+* ייצוא TXT מופעל מדוחות חוזרים של XSLFO.
+
+* חילוץ אוטומטי של סיכומי טקסט פשוט מלוחות מחוות XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

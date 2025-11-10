@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXファイルを**ODP（OpenDocument Presentation）**に変換することで、LaTeXコンテンツ、数式、および表を、LibreOfficeやOpenOfficeと互換性のあるオープンソースのプレゼンテーションスライドに変換できます。LaTeXベースの研究を共有する学者やエンジニアに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* LaTeXで生成された方程式を含む学術講義。
+
+* 構造化されたデータを含むオープンソースプロジェクトのプレゼンテーション。
+
+* 数学、物理、またはエンジニアリングのトピックに関する会議用スライド。
+
+* 対話型のLaTeXベースの図を含む教材。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* コースウェアやトレーニング資料向けのバッチTEXからODPへの変換。
+
+* LaTeX研究リポジトリからのスケジュールされたスライド生成。
+
+* オープンソースプレゼンテーションパイプラインへの統合。
+
+* 複数の著者による学術スライドデッキのトリガー更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

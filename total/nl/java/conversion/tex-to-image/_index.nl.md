@@ -57,7 +57,55 @@ Met behulp van de API kunt u ook de uitgevoerde IMAGE-afbeelding roteren volgens
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **AFBEELDING (generieke rasterformaten)** transformeert LaTeX-vergelijkingen, tabellen en figuren naar universeel compatibele afbeeldingsformaten voor web, print en documentatiedoeleinden.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Inbedden van door LaTeX gegenereerde figuren in blogs en websites.
+
+* Voorbereiden van afbeeldingen met hoge resolutie voor academische papers.
+
+* Delen van diagrammen in universeel leesbare formaten.
+
+* Omzetten van complexe LaTeX-tabellen naar afbeeldingssnapshots.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch TEX-naar-afbeelding conversie voor contentbibliotheken.
+
+* Integratie met geautomatiseerde publicatie- en website-workflows.
+
+* Getriggerde updates voor op afbeeldingen gebaseerde les- of tutorialinhoud.
+
+* Exporteren van meerdere LaTeX-diagrammen naar consistente afbeeldingsformaten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

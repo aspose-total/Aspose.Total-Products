@@ -61,7 +61,47 @@ otherformats: XLSM XLAM XLSX XLTX XLTM TSV FODS XLSB SXC ODS XLT DIF XLS EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MOBI เป็น XLT (Excel Template) จะสร้างเทมเพลตสเปรดชีตที่ใช้ซ้ำสำหรับการวิเคราะห์และรายงาน eBook รูปแบบนี้จะมาตรฐานเลยการจัดเลยตำแหน่งและสูตรคำนวณในโปรเจกต์ต่าง ๆ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+- ออกแบบเทมเพลตมาตรฐานสำหรับการวิเคราะห์ MOBI
+
+- ปรับปรุงกระบวนการรายงานสำหรับแผนกการพิมพ์
+
+- กระจายแดชบอร์ดที่สม่ำเสมอให้ทีมผู้เขียน
+
+- สร้างเทมเพลตสำหรับการป้อนข้อมูลที่ใช้ซ้ำสำหรับข้อมูลอีบุ๊ค
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+- การนำเข้า MOBI โดยใช้เทมเพลต
+
+- อัปเดตโครงสร้างรายงาน XLT ตามกำหนด
+
+- การผสมผสานกับไลบรารีเทมเพลต Excel
+
+- มาโคร XLT ที่กำหนดไว้สำหรับกระบวนการทำงานในการพิมพ์
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,55 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file XSLFO (Extensible Stylesheet Language Formatting Objects) ke **XAML (Extensible Application Markup Language)** memungkinkan pengembang dan desainer untuk mengubah laporan terstruktur menjadi komponen UI yang kaya, interaktif, dan dapat diskalakan untuk aplikasi desktop dan web. XAML mempertahankan gaya, tata letak, dan struktur hirarkis dari XSLFO sambil memungkinkan integrasi yang mulus dengan WPF, UWP, dan kerangka kerja berbasis XAML lainnya.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengonversi dasbor yang dihasilkan oleh XSLFO menjadi aplikasi WPF dengan tabel dan grafik interaktif.
+
+* Menanamkan laporan keuangan atau operasional terstruktur ke dalam antarmuka desktop.
+
+* Mendesain komponen UI untuk aplikasi perusahaan berdasarkan konten XSLFO.
+
+* Mengubah laporan analitik terstruktur menjadi visual XAML interaktif untuk aplikasi presentasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch otomatis dari laporan XSLFO berulang menjadi komponen UI XAML.
+
+* Integrasi ke dalam pipa ETL untuk generasi waktu nyata dari dasbor XAML.
+
+* Pembaruan terjadwal antarmuka XAML dari sumber data XSLFO dinamis.
+
+* Generasi dipicu dari tata letak XAML untuk kerangka kerja pelaporan, visualisasi, atau aplikasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,45 @@ POT 파일을 FODS로 변환하는 동안 출력 FODS 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POT를 FODS(Flat XML ODF Spreadsheet)로 변환하면 기업은 PowerPoint 테이블 데이터를 오픈, XML 기반 스프레드시트 구조에 저장할 수 있어 유연성을 높일 수 있습니다. 이 형식은 데이터 공유에서 투명성과 상호 운용성을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* PowerPoint 판매 템플릿을 오픈 스프레드시트 형식으로 변환.
+
+* LibreOffice 또는 OpenOffice를 사용하여 파트너와의 표 데이터 공유.
+
+* 학술 발표 자료로부터 교육용 스프레드시트 생성.
+
+* 장기 기록을 위해 XML 기반 스프레드시트 데이터 보관.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 오픈 데이터 게시 시스템과 통합.
+
+* 규제 보고를 위한 자동화된 XML 스프레드시트 생성.
+
+* 학술 문서 관리에서의 실시간 FODS 변환.
+
+* 부서간 데이터 교환을 위한 일괄 변환.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

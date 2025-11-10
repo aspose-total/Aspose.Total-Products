@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja TEX na **POWERPOINT (PPT/PPTX)** umożliwia tworzenie w pełni edytowalnych prezentacji z równaniami, tabelami i diagramami w LaTeX, idealnych do profesjonalnych i akademickich slajdów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Wykłady uniwersyteckie z złożoną zawartością matematyczną.
+
+* Prezentacje z dziedziny inżynierii i naukowych badań.
+
+* Korporacyjne prezentacje projektów z użyciem tabel w LaTeX.
+
+* Interaktywne slajdy na warsztaty i seminaria.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa LaTeX do PowerPoint dla materiałów kursowych.
+
+* Integracja z automatyzowanymi procesami tworzenia prezentacji.
+
+* Generowanie slajdów na żądanie dla raportów z badań lub projektów.
+
+* Współpraca wielu autorów z wykorzystaniem procesów konwersji LaTeX do PPT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

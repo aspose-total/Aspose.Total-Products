@@ -143,7 +143,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+LaTeX içeriğini akış uyumlu XAML işaretleme dili haline getirerek TEX'i **XAMLFLOW**'a dönüştürmek, görsel iş akışları, panolar ve etkileşimli uygulamalar için uygun hale gelmesini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX ile oluşturulan denklemleri içeren görsel iş akışı diyagramları.
+
+* Matematiksel görsellerle gerçek zamanlı verileri gösteren etkileşimli panolar.
+
+* Yapılandırılmış LaTeX içeriği gösteren teknik veya mühendislik uygulamaları.
+
+* Kullanıcı arayüzünde LaTeX akışlarını ve diyagramlarını entegre eden eğitim araçları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Panolar için Toplu TEX'ten XAMLFLOW'a dönüşüm.
+
+* Otomatik veri görselleştirme ve iş akışı borularına entegrasyon.
+
+* Akış tabanlı uygulamalardaki etkileşimli LaTeX diyagramlarının tetiklenen güncellemeleri.
+
+* Çok kullanıcılı platformlar için LaTeX tabanlı XAML akışlarının zamanlanmış oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

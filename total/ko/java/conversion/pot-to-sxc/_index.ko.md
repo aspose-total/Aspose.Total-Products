@@ -61,7 +61,45 @@ POT 파일을 SXC로 변환하는 동안 출력 SXC 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POT를 SXC(StarOffice Calc Spreadsheet)로 변환하면 기존 StarOffice 또는 OpenOffice 환경에서 프레젠테이션 기반 데이터를 사용할 수 있습니다. 이 형식은 역호환성이 필요한 교육 및 기록 보존 프로젝트에 여전히 관련이 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 오래된 소프트웨어를 사용하는 기관을 위해 PowerPoint 콘텐츠 재활용.
+
+* 프레젠테이션 테이블에서 학생 활동 시트 작성.
+
+* 오픈 소스 스프레드시트 도구 간에 기업 메트릭 공유.
+
+* 레거시 시스템에서 PowerPoint 기반 분석 보관.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 이전을 위한 레거시 데이터 변환 워크플로우.
+
+* PowerPoint 테이블을 SXC 파일로 자동 추출.
+
+* 보존 및 학술 시스템을 위한 예약 변환.
+
+* 레거시 비즈니스 인텔리전스 플랫폼과의 통합.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

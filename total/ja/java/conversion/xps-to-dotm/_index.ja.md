@@ -130,7 +130,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**DOTM（Word Macro-Enabled Template）**に変換すると、テンプレートの効率性とマクロ自動化が統合されます。組織は、Word内で繰り返しのタスクを自動化しながら、一貫した文書レイアウトを維持できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* 自動計算マクロを備えた請求書やレポートのテンプレート。
+
+* クライアントデータを自動入力する法的書類のテンプレート。
+
+* タスク追跡用のインタラクティブマクロを備えたプロジェクト計画テンプレート。
+
+* 承認や通知を自動化する人事文書のテンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XPSソースから標準化されたマクロを有効にしたテンプレートを大量作成。
+
+* ERPシステムに統合して文書生成を自動化。
+
+* ソースXPSファイルが変更されたときのトリガーテンプレートの更新。
+
+* DOTMテンプレートを使用した自動報告ワークフロー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

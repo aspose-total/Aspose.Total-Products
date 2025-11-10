@@ -102,7 +102,51 @@ otherformats: XLSB XLTM XLTX XLT SXC EXCEL MD XLSM TSV ODS FODS CSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення TEX на **DIF (Data Interchange Format)** забезпечує можливість використання даних LaTeX у віджетах старіших електронних таблиць та спеціалізованих наукових інструментів, зберігаючи структуру та точність.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Імпорт числових таблиць на основі LaTeX у застаріле фінансове програмне забезпечення.
+
+* Обмін інженерними розрахунками з інструментами, сумісними з DIF.
+
+* Збереження структурованих даних для академічних публікацій.
+
+* Архівування наборів даних LaTeX у відкритих форматах обміну.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетне створення DIF з даних проекту LaTeX.
+
+* Інтеграція в наукові потоки даних.
+
+* Автоматизоване архівування результатів досліджень експериментів.
+
+* Заплановані конвертації для систем постійної звітності.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

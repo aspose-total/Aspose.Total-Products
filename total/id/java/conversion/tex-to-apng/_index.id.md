@@ -57,7 +57,51 @@ Menggunakan API, Anda juga dapat memutar gambar APNG keluaran sesuai kebutuhan A
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file TEX ke **APNG (Animated PNG)** memungkinkan diagram, persamaan, dan plot LaTeX diubah menjadi grafik animasi untuk presentasi berbasis web, konten pendidikan, dan visualisasi interaktif.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Utama" %}}
+
+
+
+* Ilustrasi matematika animasi untuk kuliah online.
+
+* Graf LaTeX interaktif dalam aplikasi web pendidikan.
+
+* Diagram dinamis untuk platform e-learning.
+
+* Memvisualisasikan tren data yang dihasilkan LaTeX dari waktu ke waktu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch TEX ke APNG untuk materi kursus.
+
+* Integrasi ke dalam pipeline penerbitan web otomatis.
+
+* Pencitraan yang dipicu untuk alat pendidikan berbasis kecerdasan buatan.
+
+* Pembuatan animasi otomatis dari plot LaTeX untuk tutorial.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

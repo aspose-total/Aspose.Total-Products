@@ -61,7 +61,45 @@ Ao converter o arquivo POT para XLAM, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter POT em XLAM (Excel Add-In) permite automação ao incorporar macros em planilhas do Excel derivadas de dados de apresentação. Essa transformação beneficia empresas que utilizam o PowerPoint para relatórios e o Excel para cálculos dinâmicos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Criar complementos do Excel a partir de modelos de KPI baseados no PowerPoint.
+
+* Automatizar cálculos para dados de desempenho de vendas ou treinamento.
+
+* Gerar painéis com macros a partir de apresentações.
+
+* Integrar visuais de apresentação com modelos de automação do Excel.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Geração automatizada de XLAM para ferramentas de análise empresarial.
+
+* Fluxos de trabalho de conversão combinando macros do PowerPoint e do Excel.
+
+* Integração com plataformas de automação de processos de negócios.
+
+* Automação corporativa para operações recorrentes de planilhas.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

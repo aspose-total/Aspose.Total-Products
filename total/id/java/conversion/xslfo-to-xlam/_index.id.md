@@ -47,7 +47,55 @@ Saat mengonversi file XSLFO ke XLAM, Anda juga dapat menambahkan tanda air ke fo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **XLAM (Excel Add-In)** memungkinkan penyisipan data yang dihasilkan XSLFO dan makro ke dalam add-in Excel yang dapat digunakan kembali. XLAM mendukung otomatisasi, pelaporan kustom, dan aplikasi spreadsheet interaktif.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengemas template pelaporan XSLFO sebagai add-in Excel untuk penggunaan tim.
+
+* Mendistribusikan alat perhitungan otomatis yang berasal dari data XSLFO.
+
+* Mengintegrasikan analitik XSLFO ke dalam dasbor Excel kustom.
+
+* Memungkinkan alur kerja pelaporan yang dapat diulang dengan add-in XLAM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Mengotomatisasi generasi XLAM dari XSLFO untuk tugas-tugas berulang.
+
+* Penjadwalan implementasi add-in dengan data XSLFO yang diperbarui.
+
+* Integrasi dengan otomatisasi alur kerja berbasis VBA.
+
+* Generasi dipicu dari add-in XLAM untuk alat pelaporan perusahaan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **PPTM (PowerPoint Macro-Enabled Presentation)** maakt volledig interactieve dia's mogelijk vanuit LaTeX, inclusief macro's voor geautomatiseerde berekeningen, dynamische grafieken en interactief lesmateriaal.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Interactieve academische colleges met LaTeX-vergelijkingen.
+
+* Bedrijfsdashboards en onderzoekspresentatiesjablonen.
+
+* Geautomatiseerde seminar-dia's met realtime gegevensupdates.
+
+* Workshop-presentaties met door macro's aangestuurde interactiviteit.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch TEX-naar-PPTM-conversie voor interactieve dia-decks.
+
+* Integratie in bedrijfs- of universitaire automatiseringssystemen.
+
+* Getriggerde generatie van macro-enabled presentaties.
+
+* Geplande updates vanuit LaTeX-opslagplaatsen voor projecten met meerdere auteurs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

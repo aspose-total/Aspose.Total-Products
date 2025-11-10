@@ -135,7 +135,51 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av TEX till **OTP (OpenDocument Presentation Template)** producerar återanvändbara presentationsmallar med LaTeX-formatering för konsekvent design av föreläsnings- eller affärsslide.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* Standardiserade föreläsningsmallar med LaTeX-stiliserade ekvationer.
+
+* Konferenslide-mallar för forskningsteam.
+
+* Återanvändbart utbildningsmaterial med formelrik innehåll.
+
+* Projektförslagsmallar för tekniska presentationer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Batch-generering av LaTeX-till-OTP-mallar för kurser.
+
+* Malluppdateringar utlösta från LaTeX-repositorier.
+
+* Automatisk distribution av slidemallar till samarbetspartners.
+
+* Integration med öppen källkods LMS-presentationsflöden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

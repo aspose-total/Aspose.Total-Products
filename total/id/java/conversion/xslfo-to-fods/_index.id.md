@@ -47,7 +47,55 @@ Saat mengonversi file XSLFO ke FODS, Anda juga dapat menambahkan tanda air ke fo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file XSLFO ke format **FODS (Flat OpenDocument Spreadsheet)** mendukung suite kantor open-source seperti LibreOffice dan OpenOffice. FODS memungkinkan lembar kerja berbasis XML yang ringan dan dapat diedit cocok untuk lingkungan kolaboratif.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Berbagi lembar anggaran yang dihasilkan dari XSLFO dengan pengguna kantor open-source.
+
+* Mengarsipkan laporan dalam format spreadsheet terbuka dan standar.
+
+* Menyiapkan lembar pelacakan proyek untuk kolaborasi lintas platform.
+
+* Mengonversi tabel XSLFO teknis menjadi lembar kerja FODS yang dapat diedit.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch XSLFO ke FODS untuk jalur pelaporan open-source.
+
+* Integrasi ke sistem manajemen dokumen yang mendukung FODS.
+
+* Ekspor terjadwal untuk dasbor proyek kolaboratif.
+
+* Konversi otomatis laporan analitik XSLFO ke format FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

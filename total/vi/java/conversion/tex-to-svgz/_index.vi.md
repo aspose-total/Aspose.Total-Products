@@ -57,7 +57,51 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh SVGZ đầu ra theo nhu 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **SVGZ (Đồ họa vector có khả năng nén)** giữ nguyên chất lượng vector trong khi giảm kích thước tệp, lý tưởng cho các xuất bản trên web và học thuật.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Nhúng phương trình và sơ đồ LaTeX vào trang web.
+
+* Đồ họa có khả năng mở rộng, chất lượng cao cho các xuất bản.
+
+* Trực quan hóa trực tuyến tương tác của dữ liệu được tạo bởi LaTeX.
+
+* Hình minh họa kỹ thuật trong định dạng vector nén.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt sơ đồ LaTeX sang SVGZ.
+
+* Tích hợp với các đường ống xuất bản web.
+
+* Cập nhật kích hoạt của đồ họa vector nén từ nguồn LaTeX.
+
+* Lưu trữ và phân phối hình minh họa học thuật.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS (XML Paper Specification) dosyalarını **ODP (OpenDocument Presentation)**'a dönüştürmek, LibreOffice ve OpenOffice ile uyumlu tamamen düzenlenebilir, platformlar arası sunumlar oluşturmayı sağlar. ODP, düzeni, metni ve görüntüleri korurken işbirlikçi iş akışlarını destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Akademik kurumlar için eğitim ders slaytları.
+
+* Açık formatları gerektiren STK'lar veya hükümet sunumları.
+
+* Ekip proje brifingleri ve ilerleme raporları.
+
+* Açık kaynak platformları için pazarlama veya kampanya sunumları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Eğitim platformları için XPS arşivlerinin toplu dönüşümü ODP'ye.
+
+* Otomatik slayt oluşturma için iş akışı araçlarıyla entegrasyon.
+
+* Tekrar eden sunum içeriğinin zamanlanmış güncellemeleri.
+
+* Farklı ofis paketleri arasında verimli işbirliği.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

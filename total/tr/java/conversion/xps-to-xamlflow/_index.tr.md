@@ -143,7 +143,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **XAMLFLOW'a (XAML'de Akış Belgesi)** dönüştürmek, statik XPS içeriğini düzenlenebilir, akıcı düzenlere dönüştürür ve WPF FlowDocuments'te dinamik olarak görüntülemek için uygun hale getirir, e-okuyucular, raporlar veya etkileşimli içerikler için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* XPS kaynaklarından etkileşimli e-kitaplar ve belgeler oluşturma.
+
+* Masaüstü uygulamalar için akış tabanlı kurumsal raporlar ve kılavuzlar.
+
+* Eğitim veya eğitim uygulamalarında dinamik metin ve medya renderlama.
+
+* FlowDocuments olarak sunulan çalışan el kitapları veya politika kılavuzları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XPS arşivlerinin e-öğrenim platformları için XAMLFLOW'a otomatik dönüştürülmesi.
+
+* Tekrarlayan raporlar veya kılavuzlar için zamanlanmış FlowDocument oluşturma.
+
+* FlowDocuments'leri dinamik olarak görüntüleyen yazılım araçlarıyla entegrasyon.
+
+* Statik XPS düzenlerini duyarlı FlowDocuments'lere dönüştürmek için optimize edilmiş iş akışı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

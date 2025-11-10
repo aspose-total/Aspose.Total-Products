@@ -47,7 +47,51 @@ Konwertując plik TEX na TXT, możesz także dodać znak wodny do wyjściowego f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **TXT (czysty tekst)** zapewnia prosty, uniwersalnie czytelny format dla treści LaTeX, przydatny do lekkiego przechowywania, szybkiego udostępniania i przetwarzania tekstu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Wyodrębnianie treści LaTeX do wyszukiwania i analizy opartej na tekście.
+
+* Udostępnianie notatek LaTeX lub tabel w prostym formacie tekstowym.
+
+* Lekka dokumentacja do projektów skryptowych lub programistycznych.
+
+* Przygotowanie treści LaTeX do dystrybucji w formie tekstu zwykłego e-maila.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja plików LaTeX na TXT dla celów archiwizacyjnych.
+
+* Integracja z zautomatyzowanymi przepływami przetwarzania tekstu.
+
+* Generowanie plików TXT z repozytoriów LaTeX w odpowiedzi na wyzwalacze.
+
+* Zaplanowana eksport dla lekkiej dokumentacji LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

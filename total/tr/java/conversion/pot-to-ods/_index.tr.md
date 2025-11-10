@@ -61,7 +61,45 @@ POT dosyasını ODS'ye dönüştürürken, çıktı ODS dosya biçiminize de fil
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POT'u ODS'ye (Açık Belge Elektronik Tablosu) dönüştürmek, açık kaynak ofis ortamlarıyla sorunsuz etkileşim sağlar. ODF standartlarını benimseyen akademik kurumlar ve kamu kuruluşları için mükemmeldir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* PowerPoint ile oluşturulan raporların LibreOffice kullanıcılarıyla paylaşılması.
+
+* Sınıf sunumlarının veri giriş şablonlarına dönüştürülmesi.
+
+* Araştırma görsellerinin açık kaynak elektronik tablolara dönüştürülmesi.
+
+* Kamu kuruluşları için uyumlu elektronik tablo raporlarının hazırlanması.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+* Eğitim veya satış sunumlarından otomatik ODS oluşturma.
+
+* Açık kaynak ERP veya analiz platformlarına entegrasyon.
+
+* Hibrit belge ekosistemleri için dönüşüm iş akışları.
+
+* Belge standardizasyon projeleri için zamanlanmış dönüşümler.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

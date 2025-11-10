@@ -135,7 +135,55 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **PPT formátumra (hagyományos PowerPoint formátum)** kompatibilitást biztosít az idősebb Microsoft Office verziókkal, miközben megőrzi a táblázatos tartalmat és a diavetítés elrendezését. A PPT alkalmas olyan szervezetek számára, amelyek még mindig hagyományos eszközöket használnak.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Az XSLFO által generált diák előkészítése hagyományos vállalati rendszerek számára.
+
+* Oktatási vagy képzési tartalom megosztása PPT formátumban.
+
+* Önálló diák archiválása ellenőrzési célokra.
+
+* Az XSLFO jelentések átalakítása könnyen terjeszthető hagyományos PowerPoint fájlokká.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges automatizált átalakítás XSLFO-ról PPT diákra.
+
+* Ütemezett export ismétlődő vezetői vagy képzési jelentésekhez.
+
+* Integráció a hagyományos Office-alapú munkafolyamat csövekkel.
+
+* XSLFO sablonokból kiváltott PPT létrehozása archiválási célokra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

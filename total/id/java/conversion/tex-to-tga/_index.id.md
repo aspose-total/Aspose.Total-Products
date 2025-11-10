@@ -57,7 +57,51 @@ Menggunakan API, Anda juga dapat memutar gambar TGA keluaran sesuai kebutuhan An
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **TGA (Targa Image)** memungkinkan ekspor raster berkualitas tinggi dari gambar yang dihasilkan LaTeX untuk aplikasi yang membutuhkan grafis intensif, visualisasi ilmiah, dan seni digital.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Utama" %}}
+
+
+
+* Ilustrasi ilmiah berfidelitas tinggi.
+
+* Diagram yang dihasilkan LaTeX untuk pengeditan grafis.
+
+* Menyiapkan visual untuk alur kerja animasi dan simulasi.
+
+* Penerbitan digital yang membutuhkan kualitas gambar tanpa kehilangan kualitas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Ekspor Batch TEX ke TGA untuk pipa visualisasi penelitian.
+
+* Integrasi dengan alat pemrosesan grafis dan simulasi.
+
+* Generasi dipicu dari gambar berkualitas tinggi dari konten LaTeX.
+
+* Pengarsipan otomatis diagram dalam TGA untuk tim grafis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ otherformats: XLSB XLTM SXC XLTX EXCEL ODS TSV MD DIF XLAM XLT TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็นรูปแบบ **SXC (StarOffice Spreadsheet)** ช่วยให้สามารถใช้งานร่วมกับเครื่องมือ StarOffice และ OpenOffice เวอร์ชันเก่าได้อย่างไม่มีข้อขัดแย้ง  SXC รักษาโครงสร้างและการจัดรูปแบบสำหรับการทำงานเกี่ยวกับการเก็บถาวรและรายงานขององค์กร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* เก็บถาวรตารางเวลาโครงการที่ใช้ XSLFO ในรูปแบบ SXC สำหรับระบบเก่า
+
+* เตรียมสเปรดชีต SXC สำหรับพันธมิตรระหว่างประเทศโดยใช้ StarOffice
+
+* แปลงข้อมูล XSLFO แบบตารางสำหรับการฝึกอบรมและเอกสารประกอบ
+
+* แบ่งปัน KPI รายเดือนในรูปแบบ SXC สำหรับการรายงานความเชื่อถือได้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงจาก XSLFO เป็น SXC อัตโนมัติเป็นชุดสำหรับโครงการเก็บถาวร
+
+* การผสานเข้ากับการทำงานของสำนักงานเวอร์ชันเก่าที่รองรับรูปแบบ StarOffice
+
+* การสร้างรายงาน SXC ตามกำหนดเวลาจากไฟล์ XSLFO
+
+* การแปลงโดยเรียกใช้สำหรับแดชบอร์ดการจัดการที่เกิดซ้ำ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

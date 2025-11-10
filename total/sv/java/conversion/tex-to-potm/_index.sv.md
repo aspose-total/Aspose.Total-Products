@@ -135,7 +135,51 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera TEX till **POTM (PowerPoint-mall med makrofunktioner)** lägger till återanvändbara mallar med makrofunktioner, vilket kopplar samman LaTeX-innehåll med automatisk slidefunktionalitet.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsområden" %}}
+
+
+
+* Interaktiva pedagogiska slides med LaTeX-formler.
+
+* Forskningspresentationer med automatiskt uppdaterande tabeller.
+
+* Mallar med makrofunktioner för vetenskaplig rapportering.
+
+* Mallar för föreläsningsslides med flera författare.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Skapa batchar med makroaktiverade mallar från LaTeX-innehåll.
+
+* Utlösta malluppdateringar för akademiska eller företagspresentationer.
+
+* Integration i PowerPoint-automatiseringsflöden.
+
+* Schemalagd generering av LaTeX till POTM-slide-mallar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

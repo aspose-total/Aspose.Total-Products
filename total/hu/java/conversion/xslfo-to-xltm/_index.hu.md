@@ -47,7 +47,45 @@ A XSLFO-fájl XLTM-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **XLTM (Makróval engedélyezett Excel sablon)** támogatja a beágyazott automatizálással rendelkező újrafelhasználható munkafüzeteket. Az XLTM sablonok egyszerűsítik az ismétlődő jelentéskészítést és az előrehaladott munkafolyamatokat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+
+
+* Az XSLFO jelentések szabványosítása beágyazott makrókkal az automatizáláshoz.
+* Interaktív jelentéssablonok terjesztése osztályok között.
+* Újrafelhasználható pénzügyi modellezési sablonok előkészítése XSLFO-ból.
+* Automatizált vezérlőpult sablonok létrehozása táblázatos XSLFO adatokból.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* XLTM sablonok tömeges generálása vállalati jelentéskészítéshez.
+* Integráció automatizált VBA munkafolyamatokkal.
+* Ütemezett XSLFO-to-XLTM konverzió ismétlődő projektjelentésekhez.
+* Kiváltott XLTM sablon létrehozása makróvezérelt analitikai vezérlőpultokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

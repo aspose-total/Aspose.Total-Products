@@ -53,7 +53,51 @@ Met behulp van de API kunt u ook een POTM-bestand naar OTT-conversie met waterme
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het converteren van POTM naar OTT creëert herbruikbare OpenDocument-tekstsjablonen die compatibel zijn met LibreOffice Writer en vergelijkbare toepassingen. Deze sjablonen behouden lay-out, stijlen en ontwerpelementen voor niet-Microsoft omgevingen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het ontwerpen van OTT-sjablonen voor open-source kantoren met behulp van PowerPoint-stijlen.
+
+* Het omzetten van presentatie-inhoud naar ODT-gebaseerde sjabloonstructuren.
+
+* Overheids- of publieke-sectorgebruik van open-formaat sjablonen.
+
+* NGO-documentatiestandaarden met behulp van herbruikbare OTT-bestanden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde OTT-sjabloon generatie in open documentbeheersystemen.
+
+* Multi-platform documentpublicatiepijplijnen met behulp van open formaten.
+
+* Conversieworkflows die Microsoft- en LibreOffice-ecosystemen overbruggen.
+
+* Grootschalig institutioneel gebruik van OTT-sjablonen afgeleid van presentaties.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,51 @@ XSLFO 파일을 DIF로 변환하는 동안 출력 DIF 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO 파일을 **DIF (데이터 교환 형식)**으로 변환하면 오래된 스프레드시트 응용 프로그램 및 레거시 데이터 시스템과의 호환성을 보장합니다. DIF는 구조화된 표 형식 콘텐츠를 유지하면서 이질적인 플랫폼 간의 데이터 이동성을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 역사적인 판매 기록을 레거시 스프레드시트 시스템으로 이관.
+
+* 규정 준수를 위해 XSLFO로 생성된 보고서를 아카이빙.
+
+* DIF 형식을 사용하여 기업 계획 소프트웨어 간 데이터 교환.
+
+* 크로스 플랫폼 분석을 위한 마케팅 지표 준비.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 월간 XSLFO 성능 보고서를 DIF로 일괄 변환.
+
+* DIF 입력이 필요한 레거시 ERP 시스템으로의 통합.
+
+* 역사적 추세 분석을 위해 DIF 데이터 세트의 예약 업데이트.
+
+* 자동 보고 파이프라인에서 XSLFO에서 DIF로의 트리거 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

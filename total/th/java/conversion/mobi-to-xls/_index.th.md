@@ -61,7 +61,47 @@ otherformats: XLSM SXC DIF XLTM EXCEL ODS XLSX XLAM XLTX XLS XLSB XLT FODS TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MOBI เป็น XLS ช่วยให้เข้ากันได้กับเวอร์ชัน Microsoft Excel เก่าๆ พร้อมรักษาเมตาดาต้าโครงสร้างไว้ มันเหมาะสำหรับระบบองค์กรที่ยังใช้งานไฟล์ Excel เวอร์ชันเก่า
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+- สร้างรายการหนังสือ MOBI ที่เข้ากันได้กับ Excel 97–2003
+
+- ส่งออกเมตาดาต้าสำหรับรายงานแคตตาล็อกแบบออฟไลน์
+
+- จัดการบันทึกการเผยแพร่ในระบบองค์กรเวอร์ชันเก่า
+
+- แบ่งปันชุดข้อมูลที่พร้อมสำหรับ XLS ในสภาพแวดล้อมที่ไม่ได้เชื่อมต่อกับคลาวด์
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+- ส่งออก XLS โดยอัตโนมัติสำหรับข้อมูล MOBI สำหรับการเก็บถาวร
+
+- การผสานเข้ากับระบบบัญชีหรือระบบการเผยแพร่เวอร์ชันเก่า
+
+- การซิงโครไนซ์เมตาดาต้า MOBI ในรูปแบบ XLS อย่างสม่ำเสมอ
+
+- ผลลัพธ์ XLS สำหรับบันทึกการเผยแพร่ดิจิทัลของรัฐบาล
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

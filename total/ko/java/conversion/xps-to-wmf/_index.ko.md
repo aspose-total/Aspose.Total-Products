@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 WMF 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **WMF (Windows Metafile)**로 변환하면 Microsoft Office 통합 및 기술 그림에 적합한 확장 가능한 벡터 그래픽이 생성됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 벡터 그래픽을 Office 문서에 포함시키기.
+
+* 매뉴얼 및 보고서용 기술 다이어그램.
+
+* 확장 가능한 그래픽이 필요한 마케팅 시각 자료.
+
+* 프레젠테이션 및 브로셔용 설명 콘텐츠.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 기업 문서 라이브러리용 일괄 XPS-to-WMF 변환.
+
+* XPS에서 확장 가능한 다이어그램의 자동 생성.
+
+* 게시 파이프라인과의 통합.
+
+* 반복되는 벡터 그래픽을 위한 예약된 업데이트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

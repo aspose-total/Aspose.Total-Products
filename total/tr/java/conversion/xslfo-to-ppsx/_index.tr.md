@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **PPSX'e (Makrosuz PowerPoint Gösterisi)** dönüştürülmesi, dağıtım için güvenli olan otomatik çalışan sunumlar üretir. PPSX, makro yürütme risklerinden kaçınırken biçimlendirmeyi ve düzenlemeleri korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* XSLFO verilerinden otomatik çalışan finansal gösterge panoları oluşturma.
+
+* Standartlaştırılmış eğitim veya işe alım sunumlarını paylaşma.
+
+* Makrosuz yatırımcı sunum gösterileri hazırlama.
+
+* Takım geneline dağıtım için dönemlik gözden geçirme slaytlarını arşivleme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tekrarlayan sunumlar için XSLFO'dan PPSX'e zamanlanmış toplu dönüşüm.
+
+* Makrosuz slayt destelerinin tetiklenmiş oluşturulması.
+
+* Otomatik dağıtım borularına entegrasyon.
+
+* XSLFO raporlarından otomatik çalışan slaytların otomatik güncellenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

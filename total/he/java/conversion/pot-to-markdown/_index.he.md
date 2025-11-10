@@ -102,7 +102,45 @@ otherformats: FODS TSV ODS XLSM DIF XLTX XLSB XLS XLSX SXC MHTML CSV EXCEL XLAM 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POT ל־MARKDOWN מאפשרת למורים, מפתחים ומקצוענים להמיר מצגות של PowerPoint לתיעוד קל משקל ומוכן לרשת. הפשטות של Markdown מבטיחה שיתוף פעולה קל ובקרת גרסאות בפרויקטי תוכן.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת שקופיות של PowerPoint לחומר לימוד מבוסס Markdown.
+
+* המרת מצגות שיווק לתיעוד מוכן לבלוג.
+
+* הכנת דוחות טכניים למערכות תיעוד מבוססות Git.
+
+* יצירת תיעוד למפתחים משקפי הדרכה עסקיים.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת Markdown מתבניות של PowerPoint בתהליכי תיעוד.
+
+* שילוב עם מחוללי אתרים סטטיים כמו Hugo או Jekyll.
+
+* סיכום מצגות אוטומטי להערות Markdown.
+
+* ניהול ידע בבקרת גרסאות באמצעות פלט Markdown.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

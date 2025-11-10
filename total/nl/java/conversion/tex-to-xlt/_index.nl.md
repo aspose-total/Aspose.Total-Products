@@ -47,7 +47,51 @@ Tijdens het converteren van het TEX-bestand naar XLT, kunt u ook een watermerk t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **XLT (Excel-sjabloon)** maakt het mogelijk om op LaTeX gebaseerde gegevens te gebruiken voor herbruikbare Excel-sjablonen voor projecten, analyses en academisch werk.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Gestandaardiseerde rapportagesjablonen voor onderzoeksteams.
+
+* Herbruikbare financiële modellen op basis van LaTeX-tabellen.
+
+* Academische cijferberekeningstabellen met LaTeX-formules.
+
+* Sjablonen voor het volgen van technische projecten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchcreatie van Excel-sjablonen vanuit LaTeX.
+
+* Integratie in bedrijfs- of academische sjabloonrepositories.
+
+* Geautomatiseerde vulling van LaTeX-gegevens in XLT-sjablonen.
+
+* Geplande updates van sjablonen voor multi-user omgevingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

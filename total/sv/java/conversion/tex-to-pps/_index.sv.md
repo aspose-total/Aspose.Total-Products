@@ -135,7 +135,51 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av TEX till **PPS (PowerPoint Show)** skapar endast bildspelspresentationer för omedelbar uppspelning, perfekt för automatiserade föreläsningar, utbildningssessioner och snabb delning av LaTeX-innehåll.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Färdiga akademiska föreläsningspresentationer.
+
+* Interaktiva workshop-presentationer.
+
+* Sammanfattningar av ingenjörsprojekt för kundpresentationer.
+
+* Konferensklara slides baserade på LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Schemalagda omvandlingar av TEX till PPS.
+
+* Automatisk generering av utbildningspresentationer från LaTeX-innehåll.
+
+* Integration med presentationsdistributionssystem.
+
+* Utlösta skapanden av PPS för seminarier eller e-lärande plattformar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

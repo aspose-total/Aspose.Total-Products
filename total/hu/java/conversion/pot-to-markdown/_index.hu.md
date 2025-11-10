@@ -61,7 +61,45 @@ A POT fájl MARKDOWN formátumba konvertálásakor vízjelet is hozzáadhat a ki
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A POT fájl átalakítása MARKDOWN formátumba lehetővé teszi az oktatók, fejlesztők és szakemberek számára, hogy könnyű, webre kész dokumentációvá alakítsák át a PowerPoint prezentációkat. A Markdown egyszerűsége biztosítja a könnyű együttműködést és verziókezelést a tartalomprojektekben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* PowerPoint diák átalakítása Markdown-alapú tananyaggá.
+
+* Marketing prezentációk átalakítása blogra kész dokumentációvá.
+
+* Műszaki jelentések előkészítése Git-alapú dokumentációs rendszerekhez.
+
+* Fejlesztői dokumentáció létrehozása vállalati oktatási anyagokból.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* Markdown generálás PowerPoint sablonokból dokumentációs folyamatokban.
+
+* Integráció statikus webhelygenerátorokkal, mint például a Hugo vagy a Jekyll.
+
+* Automatizált prezentáció összefoglalás Markdown jegyzetekké.
+
+* Verziókezelt tudáskezelés Markdown kimenet használatával.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

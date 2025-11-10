@@ -57,7 +57,55 @@ Usando a API, você também pode girar a imagem DXF de saída conforme suas nece
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter XPS para **DXF (Drawing Exchange Format)** permite o uso de layouts XPS em aplicações CAD, preservando elementos vetoriais para projetos de design, arquitetura e engenharia.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Planos arquitetônicos e plantas extraídos de documentos XPS.
+
+* Diagramas e esquemas de engenharia para software CAD.
+
+* Documentação técnica que requer conversão precisa de vetores.
+
+* Fluxos de trabalho de design industrial para elaboração colaborativa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote automatizada de XPS para DXF para equipes CAD.
+
+* Integração com pipelines de design para atualizações rápidas de layout.
+
+* Geração programada de DXF para relatórios de engenharia recorrentes.
+
+* Extração simplificada de elementos vetoriais para fabricação.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh PSD đầu ra theo nhu c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **PSD (Photoshop Document)** cho phép các hình ảnh được tạo ra bằng LaTeX có thể được chỉnh sửa hoàn toàn trong Adobe Photoshop để thiết kế và xử lý hình ảnh chất lượng cao.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chỉnh sửa sơ đồ LaTeX cho bài thuyết trình và poster.
+
+* Chuẩn bị đồ họa sẵn sàng xuất bản với các cải tiến của Photoshop.
+
+* Tùy chỉnh hình ảnh giáo dục hoặc đào tạo.
+
+* Tạo các hình ảnh phong phú màu sắc cho mục đích tiếp thị hoặc học thuật.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt TEX sang PSD cho các nhóm thiết kế.
+
+* Tích hợp với các luồng công việc thiết kế đồ họa tự động.
+
+* Tạo PSD được kích hoạt cho việc tạo poster hoặc biểu đồ minh họa.
+
+* Xuất sơ đồ LaTeX có thể chỉnh sửa cho việc chỉnh sửa nhiều lớp trong Photoshop.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -105,7 +105,51 @@ otherformats: DXF WMF EMZ SVGZ JPEG2000 PSD APNG  WMZ IMAGE DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення TEX на **TGA (зображення Targa)** дозволяє отримати високоякісні растрові експорти фігур, згенерованих у LaTeX, для графічно інтенсивних застосувань, наукових візуалізацій та цифрового мистецтва.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Наукові ілюстрації високої відтворюваності.
+
+* Діаграми, згенеровані у LaTeX для редагування графіки.
+
+* Підготовка візуалів для анімації та симуляційних робочих процесів.
+
+* Цифрове видавництво, яке вимагає втратного якості зображення.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетний експорт TEX в TGA для наукових візуалізаційних конвеєрів.
+
+* Інтеграція з інструментами обробки графіки та симуляції.
+
+* Спровоковане створення високоякісних зображень з вмісту LaTeX.
+
+* Автоматизоване архівування діаграм у форматі TGA для графічних команд.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

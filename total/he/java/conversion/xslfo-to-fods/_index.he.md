@@ -102,7 +102,51 @@ otherformats: XLAM ODS CSV XLTM XLT TSV SXC MD EXCEL XLTX XLSM DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי XSLFO לפורמט **FODS (גיליון נתונים פשוט של OpenDocument)** תומכת בחבילות משרד קוד פתוח כמו LibreOffice ו-OpenOffice. FODS מאפשרת יצירת גיליונות נתונים בפורמט XML קלים וניתנים לעריכה המתאימים לסביבות שיתופיות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* שיתוף גיליונות תקציב שנוצרו ב-XSLFO עם משתמשי משרד קוד פתוח.
+
+* ארכיבת דוחות בפורמט גיליון נתונים פתוח ותקני.
+
+* הכנת גיליונות מעקב לפרויקטים לשיתוף פעולה חוצת פלטפורמות.
+
+* המרת טבלאות XSLFO טכניות לגיליונות נתונים FODS שניתנים לעריכה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת XSLFO ל-FODS בצורה צפופה לצרכי דיווח בקווים פתוחים.
+
+* שילוב במערכות ניהול מסמכים התומכות ב-FODS.
+
+* ייצוא מתוזמן ללוחות מחוונים לפרויקטים שיתופיים.
+
+* המרה אוטומטית של דוחות נתונים XSLFO לפורמט FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

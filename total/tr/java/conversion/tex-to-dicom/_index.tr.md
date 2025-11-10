@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı DICOM görüntüsünü ihtiyaçlarınıza göre de d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **DICOM (Tıpta Dijital Görüntüleme ve İletişim) ** formatına dönüştürmek, teknik ve bilimsel LaTeX diyagramlarının tıbbi görüntüleme iş akışlarına ve araştırma belgelerine gömülmesine olanak tanır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX tabanlı diyagramların tıbbi görüntüleme raporlarına entegre edilmesi.
+
+* Yapılandırılmış LaTeX içeriği ile biyomedikal araştırmaların belgelenmesi.
+
+* LaTeX tarafından oluşturulan grafiklerle anatomik verilerin görselleştirilmesi.
+
+* Radyoloji araştırmalarında LaTeX tabanlı şemaların yayınlanması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Hastane görüntüleme arşivleri için otomatik toplu dönüşüm.
+
+* Tıbbi araştırma iş akışlarına entegrasyon.
+
+* Klinik çalışmalar için tetiklenen TEX'ten DICOM'a dönüştürme.
+
+* Yapay zeka destekli teşhisler için LaTeX diyagramlarının dışa aktarılması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

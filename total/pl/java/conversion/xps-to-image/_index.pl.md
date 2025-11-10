@@ -57,7 +57,51 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz IMAGE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików XPS na **OBRAZ (ogólne formaty rastrowe, takie jak PNG lub BMP)** zapewnia szeroką kompatybilność dla raportów, dokumentacji i dystrybucji treści cyfrowych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne zastosowania" %}}
+
+
+
+* Eksportowanie obrazów wysokiej jakości do raportów i archiwów.
+
+* Materiały edukacyjne do dystrybucji online lub drukowanej.
+
+* Materiały marketingowe pochodzące z plików XPS.
+
+* Dokumentacja wizualna do użytku korporacyjnego lub rządowego.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partie konwersji XPS na OBRAZ.
+
+* Integracja z systemami publikacji internetowej lub wewnętrznej.
+
+* Zaplanowane tworzenie archiwów obrazów z repozytoriów XPS.
+
+* Zautomatyzowane przepływy pracy od dokumentu do obrazu w celu udostępniania treści.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

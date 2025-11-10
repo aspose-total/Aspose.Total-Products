@@ -102,7 +102,49 @@ otherformats: FODS XLSM TSV XLTX XLTM XLAM CSV XLT XLSX XLSB EXCEL ODS XLS SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי MOBI ל־DIF (תבנית להעברת נתונים) מבטיחה תאימות עם מערכות נתונים מורשות תוך שמירה על קריאות בגיליונות מובנים. DIF מציעה דרך יעילה לתקן סטטיסטיקות של ספרים אלקטרוניים, היסטוריית קריאה או נתוני קטלוג בין פלטפורמות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+- ארכוב מטא-נתונים של קובץ MOBI לצורת ניתוח היסטורית.
+
+- ייבוא סטטיסטיקות של ספרים אלקטרוניים לתוכנות וינטאג'.
+
+- רשומות פרסום אקדמיות מעוצבות לאחסון מותקן.
+
+- המרת קטלוג לאינטרנט למערכות ספרים אלקטרוניים במוסדות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+- ייצוא מתוזמן של MOBI ל־DIF בניהול נתוני מחקר.
+
+- שילוב עם מערכות ERP ישנות או דיווחים.
+
+- עיבוד צמוד דרך ממירי שורת פקודה לספריינים.
+
+- משלוח קבצי DIF אוטומטי לרשתות קריאה מופצות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

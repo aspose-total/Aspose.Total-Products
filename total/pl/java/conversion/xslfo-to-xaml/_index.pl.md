@@ -135,7 +135,55 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja plików XSLFO (Extensible Stylesheet Language Formatting Objects) na **XAML (Extensible Application Markup Language)** pozwala programistom i projektantom przekształcać strukturalne raporty w bogate, interaktywne i skalowalne komponenty interfejsu użytkownika dla aplikacji desktopowych i internetowych. XAML zachowuje stylowanie, układ i struktury hierarchiczne z XSLFO, umożliwiając jednoczesną integrację z WPF, UWP i innymi frameworkami opartymi na XAML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Konwertowanie wygenerowanych z XSLFO pulpitów nawigacyjnych na aplikacje WPF z interaktywnymi tabelami i wykresami.
+
+* Osadzanie strukturalnych raportów finansowych lub operacyjnych w interfejsach desktopowych.
+
+* Projektowanie komponentów interfejsu użytkownika dla aplikacji korporacyjnych na podstawie treści XSLFO.
+
+* Przekształcanie strukturalnych raportów analitycznych w interaktywne wizualizacje XAML do aplikacji prezentacyjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna wsadowa konwersja powtarzających się raportów XSLFO na komponenty interfejsu użytkownika XAML.
+
+* Integracja z potokami ETL dla generowania w czasie rzeczywistym pulpitów nawigacyjnych XAML.
+
+* Zaplanowane aktualizacje interfejsów XAML z dynamicznych źródeł danych XSLFO.
+
+* Wywoływane generowanie układów XAML do raportowania, wizualizacji lub frameworków aplikacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

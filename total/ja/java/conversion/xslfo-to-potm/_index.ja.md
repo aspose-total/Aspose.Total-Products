@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**POTM（マクロ有効なPowerPointテンプレート）**に変換すると、再利用可能なスライドテンプレートにマクロを埋め込むことができます。POTMは、自動化とインタラクティブなコンテンツが必要な動的プレゼンテーションに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* XSLFOベースの計算をプレゼンテーションマクロに埋め込む。
+
+* スライドデッキでの定期的なプロジェクトステータスの自動化。
+
+* XSLFOデータテーブルからインタラクティブなダッシュボードを生成する。
+
+* 部門間で標準化されたPOTMテンプレートを配布する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XSLFOレポートをPOTMテンプレートに自動変換するスケジュール設定。
+
+* VBAやPowerPoint自動化ワークフローとの統合。
+
+* マクロ有効なプレゼンテーションテンプレートのトリガー付きバッチ生成。
+
+* XSLFOアナリティクスからのPOTMテンプレートの自動更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

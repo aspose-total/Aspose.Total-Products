@@ -47,7 +47,51 @@ A TEX-fájl TSV-vé konvertálásakor vízjelet is hozzáadhat a kimeneti TSV-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **TSV-re való konvertálása (Tabulátorral elválasztott értékek) alternatív, könnyű súlyú formátumot nyújt numerikus és szöveges LaTeX adatokhoz, alkalmas analitikához és szoftverimportáláshoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Akadémiai kísérleti táblázatok exportálása statisztikai elemzésekhez.
+
+* Mérnöki adatkészletek Pythonhoz, R-hez vagy MATLAB-hoz.
+
+* Pénzügyi LaTeX táblázatok átalakítása analitikai platformok számára.
+
+* Könnyű LaTeX adatmegosztás csapatok között.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Batch TEX-TO-TSV konverzió kutatási folyamatokban.
+
+* LaTeX táblázatadatok automatikus exportálása AI modellekhez.
+
+* Valós idejű TSV generálás együttműködő analitikai vezérlőpultokhoz.
+
+* Integráció ETL folyamatokba strukturált adatkészletekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

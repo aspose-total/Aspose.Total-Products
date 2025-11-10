@@ -57,7 +57,51 @@ Med hjälp av API:t kan du också rotera den utgående DICOM-bilden enligt dina 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av TEX till **DICOM (Digital Imaging and Communications in Medicine)** gör det möjligt att bädda in tekniska och vetenskapliga LaTeX-diagram i medicinska bildbehandlingsflöden och forskningsdokumentation.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* Integrering av LaTeX-baserade diagram i medicinska bildbehandlingsrapporter.
+
+* Dokumentation av biomedicinsk forskning med strukturerat LaTeX-innehåll.
+
+* Visualisering av anatomiska data med LaTeX-genererade grafik.
+
+* Publicering av LaTeX-baserade scheman inom radiologiforskning.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Automatiserad batchkonvertering för sjukhusbildarkiv.
+
+* Integration i medicinska forskningsflöden.
+
+* Utlöst TEX-till-DICOM-rendering för kliniska studier.
+
+* Export av LaTeX-diagram för AI-assisterad diagnostik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

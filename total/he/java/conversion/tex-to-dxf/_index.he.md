@@ -105,7 +105,55 @@ otherformats: IMAGE TGA WMF JPEG2000 SVGZ APNG  EMZ PSD WMZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל־**DXF (פורמט תמורת ציור)** מאפשרת להשתמש בתרשימים טכניים, תוכניות בנייה וסכמים שנוצרו ב־LaTeX בתוך תוכנות CAD לפרויקטי הנדסה ואדריכלות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* סכמים הנדסיים ממסמכים טכניים ב־LaTeX.
+
+* תרשימי אדריכלות לאינטגרציה עם CAD.
+
+* תצוגת עקומות במבוסס LaTeX לפרויקטי עיצוב.
+
+* תרשימי ייצור או פרוטוטיפים המקורם ב־LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת גורמים ב־TEX ל־DXF בצורה צפופה לזרימות עבודה הנדסיות.
+
+* אינטגרציה עם צינורות תוכנה של CAD.
+
+* יצירה אוטומטית מופעלת של תרשימי עיצוב.
+
+* ארכיבה של סכמים ב־LaTeX בפורמט DXF לשימוש צלפוני.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

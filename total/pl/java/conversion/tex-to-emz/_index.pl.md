@@ -57,7 +57,55 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz EMZ z
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **EMZ (Skompresowany Windows Metafile)** zapewnia zachowanie wektorowej grafiki LaTeX w skompresowanym formacie odpowiednim do prezentacji, dokumentów i publikacji technicznych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+
+
+
+* Osadzanie diagramów LaTeX w dokumentach Microsoft Office.
+
+* Zachowywanie grafiki wektorowej w raportach technicznych.
+
+* Ponowne wykorzystywanie schematów LaTeX w profesjonalnych publikacjach.
+
+* Skompresowana grafika do akademickich plików PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* Partiowa kompresja i konwersja dla bibliotek dokumentów.
+
+* Integracja w zautomatyzowane przepływy publikacji.
+
+* Wywoływane generowanie EMZ dla prezentacji slajdów lub raportów.
+
+* Archiwizowanie diagramów LaTeX w skompresowanych formatach dla łatwej dystrybucji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

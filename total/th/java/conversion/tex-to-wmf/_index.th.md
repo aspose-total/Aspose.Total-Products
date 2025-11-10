@@ -57,7 +57,45 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **WMF (Windows Metafile)** จะรักษากราฟิกเวกเตอร์สำหรับไดอะแกรม LaTeX ซึ่งจะให้ความเข้ากันได้กับ Microsoft Office และเอกสารทางเทคนิค
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ฝังภาพประกอบ LaTeX ใน Word หรือ PowerPoint
+* ไดอะแกรมทางเทคนิคในรายงานอาชีพ
+* ภาพที่สามารถปรับขนาดได้สำหรับเอกสารธุรกิจและวิชาการ
+* การกระจายข้ามแพลตฟอร์มของกราฟิกที่สร้างจาก LaTeX
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงไดอะแกรม LaTeX เป็น WMF แบบกลุ่ม
+* การรวมเข้ากับกระบวนการเอกสารของ Microsoft Office
+* การอัปเดตที่เรียกใช้สำหรับกราฟิกเวกเตอร์ในการนำเสนอ
+* การเก็บข้อมูลอัตโนมัติของรูปภาพทางเทคนิคที่สร้างจาก LaTeX
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

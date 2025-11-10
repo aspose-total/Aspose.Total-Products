@@ -61,7 +61,47 @@ Setelah mengonversi MOBI ke XLAM, [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file MOBI ke XLAM (Excel Add-In) memungkinkan penyisipan fungsi data terkait MOBI langsung ke dalam lingkungan Excel. Transformasi ini memberdayakan analitik lanjutan dan otomatisasi dalam alur kerja penerbitan berbasis spreadsheet.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+- Menyisipkan konverter MOBI-to-data dalam makro Excel.
+
+- Mengotomatisasi fungsi analitik eBook untuk penerbit.
+
+- Mengembangkan dasbor di lembar untuk kinerja konten digital.
+
+- Mengintegrasikan alat analisis data MOBI dalam Add-ins Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+- Pengolahan MOBI yang diaktifkan makro menggunakan otomatisasi XLAM.
+
+- Penyediaan parser MOBI dalam sistem Excel perusahaan.
+
+- Generasi dinamis Add-ins untuk tugas pelaporan eBook.
+
+- Perluasan XLAM real-time untuk pembaruan dataset MOBI.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

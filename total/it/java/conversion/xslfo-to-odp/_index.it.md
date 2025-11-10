@@ -135,7 +135,55 @@ Qualsiasi sistema operativo in grado di eseguire Java Runtime Environment (JRE) 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversione dei file XSLFO (Extensible Stylesheet Language Formatting Objects) in **ODP (OpenDocument Presentation)** consente la creazione semplice di presentazioni open-source preservando contenuti strutturati e stili. ODP è compatibile con LibreOffice Impress e altre suite per ufficio open-source.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* Trasformare i report annuali generati da XSLFO in presentazioni ODP interattive.
+
+* Preparare contenuti educativi da tabelle strutturate XSLFO per l'uso in classe.
+
+* Archiviare le diapositive delle riunioni del consiglio in un formato aperto a prova di futuro.
+
+* Creare cruscotti visuali da dati analitici basati su XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* Conversione batch dei report mensili XSLFO in ODP per le revisioni aziendali.
+
+* Integrazione nei flussi di lavoro automatizzati da report a presentazioni.
+
+* Generazione programmata di diapositive ODP per riunioni ricorrenti.
+
+* Trasformazione attivata dei contenuti XSLFO in presentazioni open-source.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

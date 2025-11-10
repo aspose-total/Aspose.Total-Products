@@ -135,7 +135,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **OTP (OpenDocument Presentation Template)** memungkinkan pembuatan template slide yang dapat digunakan kembali dari data XSLFO yang terstruktur. Template OTP memstandardisasi format presentasi di seluruh tim.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Menyiapkan template presentasi perusahaan dari laporan yang dihasilkan oleh XSLFO.
+
+* Memstandardisasi modul pelatihan dalam format OTP yang dapat digunakan kembali.
+
+* Membuat slide pitch investor dengan gaya yang konsisten dari konten XSLFO.
+
+* Mengarsipkan template laporan triwulanan untuk penggunaan di masa depan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch terjadwal dari XSLFO ke OTP untuk perpustakaan template.
+
+* Integrasi dengan pipa generasi slide otomatis.
+
+* Pemicu pembuatan template OTP untuk seri laporan XSLFO baru.
+
+* Penyebaran otomatis template berbasis XSLFO di seluruh departemen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

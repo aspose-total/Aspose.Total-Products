@@ -47,7 +47,51 @@ A TEX-fájl XLTX-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLTX-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok átalakítása **XLTX formátumra (Excel sablon makrók nélkül)** biztonságos, újrafelhasználható sablonokat nyújt a LaTeX által generált táblázatokhoz és képletekhez, ideális megosztott és többplatformos környezetekben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Szabványosított akadémiai és vállalati sablonok makrók nélkül.
+
+* Újrafelhasználható, LaTeX alapú projektkövető táblázatok.
+
+* Pénzügyi és kutatási sablonok biztonságos többfelhasználós megosztásához.
+
+* Több lapos jelentések mérnöki és tudományos csapatok számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges TEX-to-XLTX sablon létrehozás.
+
+* Automatizált integráció dokumentum- és sablontárolókba.
+
+* Ütemezett LaTeX sablonfrissítések együttműködéses projektekhez.
+
+* Makrómentes LaTeX-alapú sablonok többplatformos telepítése.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja XSLFO na **POWERPOINT (PPTX)** dostarcza w pełni sformatowane, edytowalne slajdy odpowiednie dla programu Microsoft PowerPoint. Format PPTX zapewnia kompatybilność z zaawansowanymi funkcjami projektowania, wykresami i multimediami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przekształcanie rocznych raportów XSLFO w wizualnie atrakcyjne slajdy PowerPoint.
+
+* Przygotowywanie paneli zarządzania i prezentacji KPI.
+
+* Tworzenie treści edukacyjnych lub szkoleniowych z zorganizowanych tabel XSLFO.
+
+* Dzielenie się slajdami wygenerowanymi z XSLFO z interesariuszami korporacyjnymi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja zbiorcza z XSLFO na PPTX dla powtarzających się raportów.
+
+* Integracja z automatycznym tworzeniem slajdów i panelami analitycznymi.
+
+* Wywołane przekształcenie danych XSLFO w interaktywne prezentacje PowerPoint.
+
+* Generowanie PPTX w czasie rzeczywistym dla prezentacji na posiedzeniach zarządu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

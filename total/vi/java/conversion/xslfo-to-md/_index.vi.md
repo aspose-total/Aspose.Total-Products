@@ -47,7 +47,55 @@ Trong khi chuyển đổi tệp XSLFO sang MD, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp XSLFO (Extensible Stylesheet Language Formatting Objects) sang **MD (Markdown)** cho phép tạo ra tài liệu nhẹ, thân thiện với web và dễ đọc. Markdown bảo toàn cấu trúc của tiêu đề, bảng và danh sách từ nội dung XSLFO trong khi làm cho nó phù hợp cho các trang web, blog và các nền tảng tài liệu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi các báo cáo được tạo ra từ XSLFO thành Markdown cho tài liệu kỹ thuật.
+
+* Xuất bản bảng và nội dung có cấu trúc từ XSLFO sang cơ sở kiến thức.
+
+* Tạo các báo cáo sẵn sàng cho blog với bố cục bảng và tiêu đề được bảo toàn.
+
+* Chuẩn bị tài liệu mã nguồn mở từ phân tích XSLFO có cấu trúc.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt định kỳ của các báo cáo XSLFO sang Markdown cho cổng thông tin web.
+
+* Tích hợp vào các đường ống tạo tài liệu tự động.
+
+* Chuyển đổi kích hoạt cho các báo cáo phân tích hoặc dự án định kỳ.
+
+* Luồng làm việc tự động XSLFO-to-MD cho các hệ thống quản lý kiến thức.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

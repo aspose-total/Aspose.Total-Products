@@ -135,7 +135,55 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **POTM (PowerPoint Macro-Enabled Template)** menambahkan template yang dapat digunakan kembali dengan kemampuan makro, menghubungkan konten LaTeX dengan fungsionalitas slide otomatis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Slide pendidikan interaktif dengan rumus LaTeX.
+
+* Presentasi penelitian dengan tabel yang diperbarui secara otomatis.
+
+* Template yang diaktifkan makro untuk pelaporan ilmiah.
+
+* Template slide kuliah multi-penulis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Pembuatan template makro yang dijalankan secara berkelompok dari konten LaTeX.
+
+* Pembaruan template yang dipicu untuk slide akademis atau perusahaan.
+
+* Integrasi ke dalam alur kerja otomatisasi PowerPoint.
+
+* Generasi template slide LaTeX-to-POTM yang terjadwal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

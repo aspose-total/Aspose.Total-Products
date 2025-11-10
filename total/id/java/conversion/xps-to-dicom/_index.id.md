@@ -57,7 +57,51 @@ Menggunakan API, Anda juga dapat memutar gambar DICOM keluaran sesuai kebutuhan 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XPS ke **DICOM (Digital Imaging and Communications in Medicine)** memungkinkan integrasi visual dokumen ke dalam sistem gambar medis, mempertahankan detail resolusi tinggi untuk aplikasi klinis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Menanamkan laporan medis ke dalam alur kerja gambar radiologi.
+
+* Mengarsipkan dokumen diagnostik bersama pemindaian pasien.
+
+* Sistem rumah sakit yang memerlukan kompatibilitas DICOM untuk laporan.
+
+* Platform telemedicine yang mengintegrasikan gambar dokumen klinis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi XPS ke DICOM secara batch untuk sistem catatan rumah sakit.
+
+* Integrasi otomatis dengan PACS (Picture Archiving and Communication Systems).
+
+* Pembaruan terjadwal untuk gambar rekam pasien.
+
+* Alur kerja yang disederhanakan untuk pemrosesan data gambar medis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

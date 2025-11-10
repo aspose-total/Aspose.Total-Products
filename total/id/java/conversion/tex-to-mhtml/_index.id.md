@@ -144,7 +144,55 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **MHTML (MIME HTML)** memungkinkan dokumen LaTeX dirender sebagai halaman web tunggal, menjaga persamaan, tabel, dan grafik untuk ditampilkan secara offline atau online.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Kunci" %}}
+
+
+
+* Mengarsipkan makalah penelitian LaTeX sebagai halaman web mandiri.
+
+* Berbagi laporan berbasis LaTeX dengan grafik dan persamaan tersemat.
+
+* Menghasilkan materi kuliah interaktif dalam satu file MHTML.
+
+* Mengonversi konten teknis untuk modul e-learning offline.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi Batch TEX ke MHTML untuk perpustakaan kursus.
+
+* Integrasi ke dalam generasi konten e-learning otomatis.
+
+* Pembaruan MHTML terjadwal dari sumber LaTeX.
+
+* Konversi yang dipicu untuk berbagi publikasi penelitian.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

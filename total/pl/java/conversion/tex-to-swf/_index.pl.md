@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **SWF (Shockwave Flash)** tworzy interaktywne animacje LaTeX odpowiednie dla platform edukacyjnych i prezentacji online, chociaż głównie dla systemów z przeszłości.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Animowane samouczki i wizualizacje oparte na LaTeX.
+
+* Interaktywne moduły edukacyjne dla platform z przeszłości.
+
+* Dzielenie się iteracyjnymi obliczeniami lub demonstracjami algorytmów.
+
+* Dynamiczne diagramy w treściach technicznych e-learningu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa TEX na SWF dla bibliotek treści z przeszłości.
+
+* Integracja z platformami e-learningowymi offline.
+
+* Generowanie SWF w odpowiedzi na interaktywne sekwencje LaTeX.
+
+* Zaplanowane aktualizacje animowanych samouczków.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

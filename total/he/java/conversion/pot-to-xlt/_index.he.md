@@ -102,7 +102,45 @@ otherformats: DIF FODS MARKDOWN XLTX ODS MHTML XLSX TSV XLSB SXC XLSM XLTM CSV E
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POT ל-XLT (תבנית Excel) עוזרת לארגונים להקים תבניות גיליון נתונים שניתן להשתמש בהן ממצגות. XLT תומך בהזנת נתונים יעילה ובדיווח עקבי בקרב צוותים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* עיצוב תבניות פיננסיות ממצגות תקציב ב-PowerPoint.
+
+* יצירת גליונות הזנת נתונים סטנדרטיים למחלקת משאבי אנוש או חשבונאות.
+
+* שימוש מחדש בויזואלים לאימונים כעוקבי ביצועים במבוסס Excel.
+
+* יצירת תבניות עסקיות שניתן להשתמש בהן ממצגות.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת XLT אוטומטית מעיצובי מצגות תדמיתיות עסקיות.
+
+* סנכרון של תבניות במערכות לניהול מסמכים.
+
+* שילוב בכלי לניהול משאבים עסקיים.
+
+* הטמעה יעילה של תבניות Excel תקניות.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

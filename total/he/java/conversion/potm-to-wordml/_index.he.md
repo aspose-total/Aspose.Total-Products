@@ -99,7 +99,55 @@ otherformats: DOTM DOTX TEXT RTF DOCM FLATOPC ODT DOT DOC WORD DOCX OTT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POTM ל-WORDML מייצאת תבניות מצגת לתוך WordProcessingML, פורמט של Microsoft Word מבוסס XML המושלם לאינטגרציה של נתונים ואחסון מסמכים מובנה. היא שומרת על סמנטיקת המסמך עבור מערכות אוטומטיות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* אחסון מבוסס XML של תוכן מצגת עבור מערכות עסקיות.
+
+* אינטגרציה של נתוני PowerPoint לתבניות דיווח מובנות.
+
+* ייצור מסמכים אוטומטי מ-WordML לפרסום מקוון.
+
+* השימוש בתוכן בתהליכי תיעוד מופעלים על ידי מסדי נתונים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* צינורות המרה אוטומטיים של XML לתמורת נתוני מסמך.
+
+* אינטגרציה עם פלטפורמות CMS באמצעות פורמט WordML.
+
+* המרה למאגרי מסמכים באחסון בקרת גרסאות.
+
+* תהליכי פרסום צורתיים המשתמשים בפלט XML WordML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,51 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh DICOM đầu ra theo nhu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO thành **DICOM (Hình ảnh số và Liên lạc trong Y học)** cho phép tích hợp nội dung báo cáo cấu trúc với luồng công việc hình ảnh y học. DICOM là tiêu chuẩn trong chẩn đoán hình ảnh, nghiên cứu lâm sàng và hệ thống thông tin bệnh viện.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Nhúng báo cáo cấu trúc về bệnh nhân cùng với các hình ảnh được tạo ra từ XSLFO.
+
+* Chuẩn bị bảng điều khiển chẩn đoán cho việc xem dữ liệu lâm sàng.
+
+* Chuyển đổi bảng phân tích y học thành hình ảnh tương thích với DICOM.
+
+* Tích hợp kết quả xét nghiệm được tạo ra từ XSLFO vào hệ thống PACS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi định kỳ các báo cáo XSLFO thành định dạng DICOM cho các bệnh viện.
+
+* Tích hợp vào các luồng dữ liệu hồ sơ sức khỏe điện tử tự động.
+
+* Kích hoạt tạo ra hình ảnh DICOM từ các báo cáo lâm sàng XSLFO.
+
+* Xử lý theo lô cho việc trực quan hóa dữ liệu nghiên cứu trong lĩnh vực chăm sóc sức khỏe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

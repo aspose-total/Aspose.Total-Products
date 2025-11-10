@@ -102,7 +102,45 @@ otherformats: FODS XLSB MD XLTX ODS CSV EXCEL TXT XLT XLAM DIF XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל־**XLTM (תבנית המאפשרת מקרו ב־Excel)** משלבת תבניות ניתנות לשימוש חוזר עם מקרוים, מאפשרת זרימות עבודה אוטומטיות של נתוני LaTeX ודיווח דינמי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* תבניות אקדמיות עם מקרוים מוטבעים להערכה אוטומטית.
+* תבניות פיננסיות והנדסיות המופעלות על ידי קבוצות נתונים של LaTeX.
+* לוחות מחוונים דינמיים עם חישובים מופעלים על ידי מקרוים.
+* תבניות פרויקט משותפות לצוותים מרובי מחברים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת תבנית LaTeX-to-XLTM בצורה צפופה עבור עסקים.
+* מילוי מקרוים אוטומטי ממקורות נתונים של LaTeX.
+* שילוב בתהליכי אוטומציה של זרימת העבודה לפרויקטי מחקר.
+* יצירת תבנית המאפשרת מקרוים באופן מופעל עבור גישה של משתמשים מרובים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

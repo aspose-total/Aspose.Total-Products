@@ -53,7 +53,51 @@ otherformats: DOTX ODT WORDML OTTX TEXT WORD FLATOPC DOTM OTT RTF OTTM DOT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POTM เป็น OTT จะสร้างเทมเพลต OpenDocument Text ที่สามารถใช้ซ้ำได้และเข้ากันได้กับ LibreOffice Writer และแอปพลิเคชันที่คล้ายกัน ที่เก็บรักษาเลเอาท์ สไตล์ และองค์ประกอบดีไซน์สำหรับสภาพแวดล้อมที่ไม่ใช่ Microsoft
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การออกแบบเทมเพลต OTT สำหรับสำนักงานโอเพนซอร์สโดยใช้สไตล์ PowerPoint
+
+* การแปลงเนื้อหางานนำเสนอเป็นโครงสร้างเทมเพลตที่ใช้ ODT
+
+* การใช้เทมเพลตรูปแบบเปิดใช้งานในรัฐบาลหรือหน่วยงานสาธารณะ
+
+* มาตรฐานเอกสาร NGO โดยใช้ไฟล์ OTT ที่ใช้ซ้ำได้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างเทมเพลต OTT โดยอัตโนมัติในระบบการจัดการเอกสารเปิด
+
+* ท่องไปรษณีย์การเผยแพร่เอกสารบนหลายแพลตฟอร์มโดยใช้รูปแบบเปิด
+
+* กระบวนการทำงานการแปลงที่เชื่อมโยงระหว่างระบบ Microsoft และ LibreOffice
+
+* การใช้เทมเพลต OTT ที่ได้มาจากงานนำเสนอในสถาบันขนาดใหญ่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

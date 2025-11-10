@@ -57,7 +57,51 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz WMF z
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików XPS na **WMF (Windows Metafile)** generuje skalowalną grafikę wektorową odpowiednią do integracji z pakietem Microsoft Office oraz ilustracji technicznych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Osadzanie grafiki wektorowej w dokumentach pakietu Office.
+
+* Diagramy techniczne do podręczników i raportów.
+
+* Wizualizacje marketingowe wymagające skalowalnej grafiki.
+
+* Treści ilustracyjne do prezentacji i broszur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa XPS na WMF dla firmowych bibliotek dokumentów.
+
+* Automatyczne tworzenie skalowalnych diagramów z plików XPS.
+
+* Integracja z procesami publikacji.
+
+* Zaplanowane aktualizacje dla powtarzających się grafik wektorowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

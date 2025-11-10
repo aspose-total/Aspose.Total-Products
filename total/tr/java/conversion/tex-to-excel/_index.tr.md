@@ -47,7 +47,51 @@ TEX dosyasını EXCEL'ye dönüştürürken, çıktı EXCEL dosya biçiminize fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **EXCEL'e (XLS/XLSX)** dönüştürmek, tablolar ve formüller içeren LaTeX belgelerinin analiz, görselleştirme ve profesyonel raporlama için Microsoft Excel'e tam entegrasyonunu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX ile oluşturulan formüllere sahip mali raporlar.
+
+* Karmaşık elektronik tablo analizleri için mühendislik hesaplamaları.
+
+* Akademik not tabloları ve araştırma veri setleri.
+
+* LaTeX tablolarını ve Excel grafiklerini birleştiren etkileşimli panolar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Kurumsal raporlama için toplu LaTeX'ten Excel'e dönüşüm.
+
+* Otomatik Excel tabanlı iş zekası araçlarıyla entegrasyon.
+
+* Proje ilerleme elektronik tabloları için tetiklenen güncellemeler.
+
+* Bulut tabanlı Excel işbirliği için gerçek zamanlı dönüşüm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

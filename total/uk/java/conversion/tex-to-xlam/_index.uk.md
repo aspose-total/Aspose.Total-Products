@@ -102,7 +102,51 @@ otherformats: XLSM SXC ODS XLTM EXCEL MD XLT TXT CSV FODS XLTX DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Конвертація TEX у **XLAM (Excel Add-In Macro)** дозволяє зробити таблиці та формули LaTeX інтерактивними інструментами Excel з автоматизованими обчисленнями та покращеною функціональністю.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* Фінансові моделі на основі LaTeX.
+
+* Автоматизовані засоби обчислень для інженерних проектів.
+
+* Академічні формуляри, вбудовані в макроси Excel.
+
+* Панелі обробки даних, які поєднують LaTeX та автоматизацію Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Автоматизована створення додатків XLAM з наборів даних LaTeX.
+
+* Пакетні конвертації LaTeX у XLAM для корпоративних інструментів.
+
+* Запуск макро-спроможних електронних таблиць з дослідницьких репозиторіїв.
+
+* Інтеграція в автоматизовані звітно-панельні конвеєри та панелі.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

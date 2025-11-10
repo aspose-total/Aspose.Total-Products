@@ -135,7 +135,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XSLFO naar **POTX (PowerPoint-sjabloon zonder macro's)** zorgt voor herbruikbare, veilige sjablonen voor terugkerende presentaties. POTX behoudt lay-outs, opmaak en tabellen zonder risico op uitvoering van macro's.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Voorbereiden van op XSLFO gebaseerde maandelijkse beoordelingssjablonen voor PowerPoint-gebruikers.
+
+* Standaard trainingsdia's maken zonder macro's voor delen tussen afdelingen.
+
+* Archiveren van sjablonen voor kwartaalrapportages.
+
+* Genereren van investeerderspresentatiesjablonen die veilig zijn voor externe distributie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geplande batchconversie van XSLFO naar POTX-sjablonen.
+
+* Integratie in geautomatiseerde workflows voor het genereren van dia's.
+
+* Getriggerde creatie van macrovrije presentatiesjablonen van XSLFO-rapporten.
+
+* Automatische implementatie van POTX-sjablonen voor consistentie in het hele team.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

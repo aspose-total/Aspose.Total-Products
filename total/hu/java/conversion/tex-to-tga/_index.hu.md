@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti TGA-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **TGA formátumba való átalakítása (Targa kép)** lehetővé teszi a LaTeX által generált ábrák magas minőségű raszter exportálását olyan grafikai-intenzív alkalmazásokhoz, tudományos vizualizációkhoz és digitális művészethez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Magas hűségű tudományos illusztrációk.
+
+* LaTeX által generált diagramok grafikai szerkesztéshez.
+
+* Vizuális elemek előkészítése animációhoz és szimulációs munkafolyamatokhoz.
+
+* Digitális kiadások, amelyek veszteségmentes képminőséget igényelnek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Tömeges TEX-TGA export kutatási vizualizációs csövekhez.
+
+* Integráció grafikai feldolgozási és szimulációs eszközökkel.
+
+* Kiváló minőségű képek automatikus generálása LaTeX tartalomból.
+
+* Diagramok automatikus archiválása TGA formátumban grafikai csapatok számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

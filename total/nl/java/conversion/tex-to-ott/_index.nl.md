@@ -143,7 +143,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **OTT (OpenDocument Tekstsjabloon)** stelt docenten, onderzoekers en bedrijven in staat om herbruikbare sjablonen te maken met LaTeX-opmaak in open formaten, waardoor documentstandaardisatie wordt gestroomlijnd.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Sjablonen voor lesmateriaal met consistente LaTeX-opmaak.
+
+* OpenDocument-sjablonen voor samenwerking bij laboratoriumrapportage.
+
+* Project- en bedrijfsrapportsjablonen voor open-source kantoorpakketten.
+
+* Gestandaardiseerde formulieren voor academisch of administratief gebruik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde sjabloongeneratie voor multi-user omgevingen.
+
+* Integratie in open-source LMS en kantoorworkflows.
+
+* Batchupdates van sjabloonbibliotheken voor academische instellingen.
+
+* Dynamische LaTeX-naar-OTT-conversie voor onderzoeksdocumentatie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

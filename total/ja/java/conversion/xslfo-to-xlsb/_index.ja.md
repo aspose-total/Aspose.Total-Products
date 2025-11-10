@@ -47,7 +47,55 @@ XSLFOファイルをXLSBに変換するときに、出力XLSBファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**XLSB（Excelバイナリワークブック）**に変換すると、大規模なデータセットのための高性能なスプレッドシートストレージが提供されます。XLSBはファイルサイズを削減し、計算を加速し、複雑な書式を保持します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* 大規模な表形式データセットを持つXSLFO金融モデルの取り扱い。
+
+* XSLFO操作レポートをコンパクトなバイナリ形式でアーカイブ。
+
+* データ重視の分析のためのExcelダッシュボードの生成。
+
+* XSLFOテンプレートからXLSBベースの予測シートの準備。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XSLFOレポートのバッチ変換を行い、XLSBへの高速読み込みを実現。
+
+* 企業向け分析アプリケーションへの定期的なエクスポート。
+
+* Excelベースの自動化されたレポートパイプラインへの統合。
+
+* 大規模な財務レポートのためのXSLFOからトリガーされたXLSB生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

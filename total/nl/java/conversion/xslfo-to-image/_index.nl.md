@@ -57,7 +57,51 @@ Met behulp van de API kunt u ook de uitgevoerde IMAGE-afbeelding roteren volgens
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XSLFO naar **AFBEELDING (Generieke rasterformaten)** biedt veelzijdige output voor web, print en desktoptoepassingen. Ondersteunde formaten kunnen PNG, BMP of TIFF omvatten, afhankelijk van de vereisten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke Gebruiksscenario's" %}}
+
+
+
+* Genereren van statische visuals uit gestructureerde XSLFO-tabellen.
+
+* Voorbereiden van afbeeldingen voor rapportagedashboards of documentatie.
+
+* Exporteren van grafieken en tabellen voor mobiele apps of e-learning.
+
+* Maken van gerasteriseerde archieven van terugkerende rapporten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchconversie van XSLFO-rapporten naar meerdere beeldformaten.
+
+* Integratie met geautomatiseerde dashboardgeneratiepijplijnen.
+
+* Getriggerde export voor geplande rapportlevering.
+
+* Geautomatiseerde beeldgeneratie voor e-learning of webplatforms.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,49 @@ otherformats: FODS TSV ODS XLSM DIF XLTX XLSB XLS XLSX SXC MHTML MARKDOWN EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POT เป็น MARKDOWN ช่วยให้นักการศึกษา นักพัฒนา และผู้เชี่ยวชาญสามารถแปลงงานนำเสนอ PowerPoint เป็นเอกสารที่มีน้ำหนักเบาพร้อมใช้งานบนเว็บได้ ความง่ายในการใช้งานของ Markdown ช่วยให้การทำงานร่วมกันและควบคุมเวอร์ชันในโครงการเนื้อหาเป็นเรื่องง่าย
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การเปลี่ยน PowerPoint slides เป็นเนื้อหาของคอร์สที่ใช้ Markdown
+* การแปลงงานนำเสนอทางการตลาดเป็นเอกสารพร้อมใช้งานบนบล็อก
+* เตรียมรายงานทางเทคนิคสำหรับระบบเอกสารที่ใช้ Git
+* สร้างเอกสารสำหรับนักพัฒนาจากเด็กเรียนในบริษัท
+
+
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้าง Markdown จากเทมเพลต PowerPoint ในกระบวนการทำงานของเอกสาร
+* การรวมระบบสร้างเว็บไซต์แบบสถิตเช่น Hugo หรือ Jekyll
+* การสรุปงานนำเสนอโดยอัตโนมัติเป็นบันทึก Markdown
+* การจัดการความรู้ที่มีการควบคุมเวอร์ชันโดยใช้เอกสาร Markdown
+
+
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -135,7 +135,55 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **POTX (PowerPoint Template tanpa Macros)** memungkinkan template slide yang aman dan dapat digunakan kembali dengan format LaTeX, sempurna untuk lingkungan multi-pengguna.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Template slide kursus yang terstandarisasi dengan persamaan LaTeX.
+
+* Slide konferensi tanpa batasan makro.
+
+* Template presentasi proyek yang dapat digunakan kembali.
+
+* Slide kuliah akademik dengan konten yang kaya akan formula.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Pembuatan batch template LaTeX-to-POTX.
+
+* Pembaruan template otomatis dari repositori LaTeX.
+
+* Integrasi ke dalam LMS pendidikan atau sistem slide perusahaan.
+
+* Generasi template slide yang dipicu untuk tim multi-penulis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

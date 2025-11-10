@@ -102,7 +102,51 @@ otherformats: XLTM TSV DIF XLSX XLT MARKDOWN MHTML ODS XLAM EXCEL FODS CSV XLTX 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POT ל-XLS (Excel 97–2003 Workbook) מאפשרת תאימות עם מערכות גליון נתונים מורשות שנמצאות בשימוש עדיין בסביבות תעשייתיות רבות. היא שומרת נתוני טבלה ומבנה ממצגות PowerPoint לצורך ניתוח שניתן לעריכה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת דוחות פיננסיים מ-PowerPoint למערכות Excel מורשות.
+
+* שיתוף נתוני הכשרה ברשתות עסקיות ישנות יותר.
+
+* ייבוא טבלאות מ-PowerPoint לתוך מודלים חשבונאיים מורשים.
+
+* בניית גליונות נתונים לאחור המתאימים.
+
+
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת XLS בצורה צפופה לצורך זרימות עבודה לארכיון ובין מחלקות.
+
+* צינורות המרה אוטומטיים במערכות תקניות.
+
+* שילוב עם גליונות נתונים ERP מורשים.
+
+* ייצואים מתוזמנים לדיווח תקני בחברות.
+
+
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

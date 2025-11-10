@@ -57,7 +57,51 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz EMZ z
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie XSLFO na **EMZ (Enhanced Windows Metafile Compressed)** umożliwia uzyskanie wysokiej jakości grafiki wektorowej z kompresją, idealnej do prezentacji slajdów i przygotowywania materiałów do druku.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Eksportowanie tabel XSLFO jako skalowalnej grafiki do prezentacji.
+
+* Osadzanie wizualizacji finansowych lub operacyjnych w prezentacjach slajdów.
+
+* Tworzenie obrazów archiwalnych do paneli raportowych.
+
+* Przygotowywanie wizualizacji do przepływów pracy z publikacjami na pulpicie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana wsadowa konwersja raportów XSLFO na EMZ.
+
+* Integracja z automatyzowanymi potokami raportowania.
+
+* Wywoływane tworzenie obrazów EMZ do osadzania w slajdach.
+
+* Konwersja w czasie rzeczywistym pulpitów XSLFO na skompresowane wizualizacje wektorowe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

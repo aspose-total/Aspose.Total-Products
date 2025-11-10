@@ -61,7 +61,55 @@ POTM 파일을 FODS로 변환하는 동안 출력 FODS 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM를 FODS로 변환하면 평면 XML 기반 OpenDocument 스프레드시트 파일이 생성됩니다. FODS는 가벼운 플랫폼 독립적인 스프레드시트 저장에 이상적이며 프레젠테이션 슬라이드의 테이블 구조를 유지합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LibreOffice 또는 OpenOffice에서 사용하기 위해 PowerPoint 테이블 내보내기.
+
+* 플랫폼 간 스프레드시트로 슬라이드 기반의 숫자 보고서 변환.
+
+* 오픈 XML 형식의 학술 또는 NGO 프로젝트 테이블 공유.
+
+* 구조화된 평면 XML 스프레드시트에 프레젠테이션 데이터 보관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 일괄 POTM를 FODS로 변환하는 워크플로 자동화.
+
+* 플랫폼 간 오피스 자동화 파이프라인 통합.
+
+* 분산 팀을 위한 트리거된 FODS 파일 생성.
+
+* 보고 및 규정 준수 시스템을 위한 구조화된 XML 데이터 추출.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

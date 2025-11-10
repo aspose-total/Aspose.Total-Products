@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 EMZ 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **EMZ (Enhanced Windows Metafile Compressed)**로 변환하면 압축된 고품질 벡터 그래픽을 얻을 수 있어, 슬라이드 덱 및 인쇄용 시각 자료에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* XSLFO 테이블을 확대 가능한 그래픽으로 프레젠테이션용으로 내보내기.
+
+* 재무 또는 운영 시각 자료를 슬라이드 덱에 포함.
+
+* 보고용 대시보드를 위한 아카이브 이미지 생성.
+
+* 데스크톱 퍼블리싱 워크플로에 시각 자료 준비.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XSLFO 보고서를 EMZ로 일괄 변환하는 예약 배치.
+
+* 자동화된 보고 파이프라인에 통합.
+
+* 슬라이드 삽입용 EMZ 이미지의 트리거 생성.
+
+* XSLFO 대시보드를 압축된 벡터 시각 자료로 실시간 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

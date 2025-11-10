@@ -61,7 +61,45 @@ Saat mengonversi file POT ke XLAM, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi POT menjadi XLAM (Excel Add-In) memungkinkan otomatisasi dengan menyematkan makro ke lembar Excel yang berasal dari data presentasi. Transformasi ini bermanfaat bagi perusahaan yang memanfaatkan PowerPoint untuk pelaporan dan Excel untuk perhitungan dinamis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Membuat add-in Excel dari template KPI berbasis PowerPoint.
+
+* Mengotomatisasi perhitungan data kinerja penjualan atau pelatihan.
+
+* Menghasilkan dasbor yang didorong oleh makro dari presentasi.
+
+* Mengintegrasikan visual presentasi dengan model otomatisasi Excel.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Generasi XLAM otomatis untuk alat analitik perusahaan.
+
+* Alur kerja konversi yang menggabungkan makro PowerPoint dan Excel.
+
+* Integrasi dengan platform otomatisasi proses bisnis.
+
+* Otomatisasi perusahaan untuk operasi spreadsheet berulang.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,45 @@ APIを使用して、透かしを使用してPOTファイルからOTTへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTをOTT（OpenDocument Text Template）に変換することで、組織はオープンスタンダードに準拠した再利用可能な文書テンプレートを作成できます。OTTテンプレートは、アクセシビリティや長期的なアーカイブを重視する機関に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* PowerPointのトレーニング資料からオープンスタンダードのテンプレートを生成する。
+
+* プレゼンテーションスタイルを再利用可能なテキストテンプレートに変換する。
+
+* 学術出版向けの一貫した文書形式を作成する。
+
+* NGOの文書化のためのオープンアクセステンプレートを設計する。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* PowerPointのマスターレイアウトからの自動OTT生成。
+
+* オープンソースの文書ワークフローとの統合。
+
+* 機関の文書リポジトリ全体でのテンプレート同期。
+
+* オープンフォーマットのテンプレートを活用した政府文書システム。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

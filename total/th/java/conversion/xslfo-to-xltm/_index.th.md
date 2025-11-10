@@ -47,7 +47,51 @@ otherformats: TSV FODS SXC XLT XLTM EXCEL ODS MD DIF XLTX XLAM XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **XLTM (แมโครทำงาน Excel Template)** สนับสนุนการใช้งานอีกครั้งของสมุดงานที่มีการอัตโนมัติซึ่งฝังอยู่ในเทมเพลต XLTM เทมเพลตช่วยให้การรายงานที่ซ้ำซ้อนและการทำงานขั้นสูงเป็นไปอย่างราบรื่น
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* มาตรฐานการรายงาน XSLFO พร้อมกับแมโครทำงานสำหรับการอัตโนมัติ
+
+* การกระจายเทมเพลตการรายงานแบบแอคทีฟไปยังแผนกต่าง ๆ
+
+* เตรียมเทมเพลตการจำแนกการเงินที่ใช้ซ้ำได้จาก XSLFO
+
+* สร้างเทมเพลตแดชบอร์ดที่อัตโนมัติจากข้อมูล XSLFO แบบตาราง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การสร้างเทมเพลต XLTM แบบกลุ่มสำหรับการรายงานของบริษัท
+
+* การผสานรวมกับการทำงาน VBA อัตโนมัติ
+
+* การแปลง XSLFO เป็น XLTM ตามกำหนดเวลาสำหรับรายงานโครงการที่เกิดซ้ำซ้อน
+
+* การสร้างเทมเพลต XLTM ตามเงื่อนไขสำหรับแดชบอร์ดการวิเคราะห์ที่ใช้แมโคร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

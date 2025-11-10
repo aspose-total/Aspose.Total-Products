@@ -61,7 +61,45 @@ otherformats: DIF XLTX XLSX SXC XLS XLSM XLSB EXCEL MARKDOWN XLT ODS TSV FODS MH
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POT เป็น XLTM (แมโครทำงานได้ Excel Template) ช่วยให้องค์กรสามารถอัตโนมัติการสร้างสเปรดชีทพร้อมรักษาลักษณะการออกแบบจาก PowerPoint ที่เหมาะสำหรับการสร้างเทมเพลตที่เป็นไปได้และมีประสิทธิภาพสำหรับการทำงานที่เกิดซ้ำๆ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* สร้างเทมเพลต Excel ที่สามารถใช้แมโครจาก KPIs ใน PowerPoint
+
+* อัตโนมัติเทมเพลตรายงานพร้อมแมโครข้อมูลที่ฝังอยู่
+
+* ออกแบบโมเดลการพยากรณ์ทางการเงินที่สามารถทำซ้ำได้
+
+* สร้างตัวติดตามผลการเรียนรู้ทางการศึกษาด้วยสคริปต์อัตโนมัติ
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้าง XLTM ที่ผสมเข้ากับกระบวนการอัตโนมัติข้อมูล
+
+* การใช้งานขององค์กรในการใช้เทมเพลตสเปรดชีทที่ใช้แมโคร
+
+* การสร้างเทมเพลตตามกำหนดเวลาสำหรับทีมการเงินและทีมทรัพยากรบุคคล
+
+* การอัตโนมัติการแปลงสำหรับวงจรการรายงานที่ทำซ้ำได้
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,51 @@ XPS dosyasını FODS'ye dönüştürürken, çıktı FODS dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **FODS (Flat OpenDocument Spreadsheet)**'e dönüştürmek, LibreOffice ve OpenOffice ile açık kaynak elektronik tablo uyumluluğunu sağlar. Satıcıdan bağımsız, platformlar arası çözümler kullanan kuruluşlar için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* İşbirlikçi düzenleme için akademik ve araştırma proje veri setleri.
+
+* STK'lar veya devlet kurumları için açık kaynak finansal raporlama.
+
+* Açık formatlarda teknik veri tabloları ve işletme günlükleri.
+
+* Ekipler arasında platformlar arası elektronik tablo paylaşımı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Araştırma laboratuvarları için otomatik XPS'ten FODS dönüşüm boru hatları.
+
+* Açık kaynak ERP veya analiz sistemleriyle entegrasyon.
+
+* İşletme elektronik tabloları için zamanlanmış güncellemeler.
+
+* Açık belge formatlarını kullanarak verimli işbirliği.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

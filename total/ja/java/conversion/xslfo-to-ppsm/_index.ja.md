@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**PPSM（マクロ有効なPowerPointショー）に変換すると、自己実行スライドとマクロ自動化が組み合わさります。PPSMはインタラクティブなダッシュボード、自動化されたプレゼンテーション、または動的レポート作成に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* スライドショー形式での自動化されたパフォーマンスダッシュボードの準備。
+
+* インタラクティブなXSLFO駆動コンテンツのためのマクロの埋め込み。
+
+* チーム全体のレポート作成のためのマクロ有効なプレゼンテーションの共有。
+
+* 動的な投資家や取締役会プレゼンテーションショーの作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XSLFOスライドをPPSMにバッチ変換して自動化された会議に使用。
+
+* 定期的なXSLFOレポートからのマクロ有効スライドのスケジュール更新。
+
+* VBAやPowerPoint自動化ワークフローとの統合。
+
+* リアルタイムのインタラクティブプレゼンテーションのためのトリガーされたPPSM生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

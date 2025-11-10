@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı TGA görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **TGA (Targa Görüntüsü)** biçimine dönüştürülmesi genellikle oyun, simülasyonlar ve yüksek çözünürlüklü görselleştirmelerde kullanılan yüksek kaliteli radyal grafikler sunar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Simülasyonlar veya oyun analitiği için XSLFO ile oluşturulan görsellerin hazırlanması.
+
+* Sıkıştırma kaybı minimum olan detaylı grafiklerin arşivlenmesi.
+
+* Profesyonel yayıncılık için radyal grafiklerin oluşturulması.
+
+* Tasarım iş akışları için TGA'ya operasyonel panoların dönüştürülmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Yüksek çözünürlüklü raporlama için XSLFO'nun toplu olarak TGA'ya dönüştürülmesi.
+
+* Profesyonel görselleştirme boru hatları için zamanlanmış dışa aktarım.
+
+* Tekrarlanan XSLFO analitiğinden tetiklenen TGA oluşturma.
+
+* Otomatik tasarım iş akışlarıyla entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

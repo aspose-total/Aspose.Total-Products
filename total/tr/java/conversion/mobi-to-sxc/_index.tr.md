@@ -61,7 +61,47 @@ MOBI'yi SXC'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI'den SXC (StarOffice Calc) dönüşümü, eski elektronik tablo formatlarını kullanan kurumlar için arşivleme ve uyumluluk ihtiyaçlarını destekler. Bu format, yapılandırılmış veri bütünlüğünü korurken eski sistemlerde okunabilirliği sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+- MOBI istatistiklerinin StarOffice uyumlu veritabanlarına aktarılması.
+
+- Hükümet arşivleri için eski formatlı e-kitap kataloglarının korunması.
+
+- Miras yayıncılık sistemlerinde geriye dönük uyumluluğun sağlanması.
+
+- Çevrimdışı rapor analizi için MOBI meta verilerinin dönüştürülmesi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+- SXC toplu raporları için otomatik MOBI ayrıştırma.
+
+- Eski ETL çerçeveleriyle entegrasyon.
+
+- Miras veri saklama için zamanlanmış dışa aktarmalar.
+
+- Tarihi içerik arşivleri için AI veri etiketleme boru hatları.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

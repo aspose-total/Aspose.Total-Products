@@ -47,7 +47,51 @@ otherformats: XLSB SXC ODS EXCEL DIF MD FODS XLT XLSM TXT XLTM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **XLSB (Excel Binary Workbook)** นำเสนอการจัดเก็บสเปรดชีทที่มีประสิทธิภาพสูงสำหรับชุดข้อมูลขนาดใหญ่ การใช้ XLSB ลดขนาดไฟล์ เร่งคำนวณ และรักษาการจัดรูปแบบที่ซับซ้อน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* การจัดการโมเดลการเงิน XSLFO ที่มีชุดข้อมูลตารางขนาดใหญ่
+
+* การเก็บถาวรรายงานการดำเนินงาน XSLFO ในรูปแบบไบนารีที่กระชับ
+
+* การสร้างแดชบอร์ด Excel สำหรับการวิเคราะห์ข้อมูลที่หนัก
+
+* การเตรียมชุดข้อมูลที่ใช้ XLSB จากเทมเพลต XSLFO
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* การแปลงชุดรายงาน XSLFO เป็น XLSB แบบจำนวนมากเพื่อโหลดเร็วขึ้น
+
+* การส่งออกตามกำหนดเวลาสำหรับแอปพลิเคชันการวิเคราะห์ข้อมูลขององค์กร
+
+* การรวมเข้ากับกระบวนการรายงาน Excel อัตโนมัติ
+
+* การสร้าง XLSB ตามเงื่อนไขจาก XSLFO สำหรับการรายงานการเงินขนาดใหญ่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

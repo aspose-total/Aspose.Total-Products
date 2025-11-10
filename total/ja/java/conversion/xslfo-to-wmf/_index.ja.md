@@ -57,7 +57,55 @@ APIを使用すると、必要に応じて出力WMF画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**WMF（Windows Metafile）**に変換すると、Microsoft Officeや他のデスクトップパブリッシングアプリケーションと互換性のあるスケーラブルベクターイメージが作成できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* Microsoft WordやPowerPointにXSLFOテーブルやチャートを埋め込む。
+
+* 企業プレゼンテーション用のスケーラブルなビジュアルを作成する。
+
+* レポートのビジュアルをベクターフォーマットでアーカイブする。
+
+* 構造化されたXSLFOデータから技術イラストを準備する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* ドキュメントワークフロー用のバッチXSLFOからWMFへの変換。
+
+* スライドデッキ用のベクタービジュアルの定期的なエクスポート。
+
+* XSLFOダッシュボードからのWMFイメージのトリガー生成。
+
+* 自動化された企業パブリッシングパイプラインとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

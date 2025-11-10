@@ -57,7 +57,51 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **PSD (Adobe Photoshop)** ช่วยให้นักออกแบบกราฟิกสามารถแก้ไขตารางและภาพที่สร้างจาก XSLFO ด้วยเลเยอร์และเอฟเฟกต์ขั้นสูงได้ PSD ที่ได้เหมาะสำหรับภาพประกอบการตลาดหรืองานนำเสนอ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การแปลงแผนภูมิ XSLFO เป็นการออกแบบ Photoshop ที่มีเลเยอร์
+
+* ปรับแต่งภาพรายงานสำหรับสื่อการตลาด
+
+* แก้ไขตาราง XSLFO โครงสร้างสำหรับการนำเสนออย่างมืออาชีพ
+
+* เตรียมอินโฟกราฟิกด้วยสไตล์ที่ปรับปรุง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การส่งออกอัตโนมัติของรายงาน XSLFO เป็น PSD สำหรับเวิร์กโฟลว์การออกแบบ
+
+* การผสานรวมกับกระบวนการประมวลผล Photoshop แบบกลุ่ม
+
+* การแปลงตารางเวลาสำหรับรายงานทางสื่อที่เกิดซ้ำ
+
+* การสร้าง PSD ตามที่เรียกดูสำหรับแดชบอร์ดการตลาดที่สร้างสรรค์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ När du konverterar XSLFO-fil till TSV, kan du också lägga till vattenstämpel
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av XSLFO till **TSV (Tab-Separated Values)** förenklar extrahering av tabulär data för analys, databasimport eller ETL-processer. TSV är lättviktig, lättläst och brett stödd av programmeringsspråk och dataverktyg.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* Exportera XSLFO-rapporter till TSV för databasinköp.
+
+* Förbereda analytikavänliga dataset från strukturerade XSLFO-tabeller.
+
+* Datamigrering från XSLFO-finansiella ark till analytplattformar.
+
+* Dela enkla tabulära data i TSV-format för enkel integration.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Schemalagd omvandling från XSLFO till TSV för BI-pipelines.
+
+* ETL-integration för realtidsanalyser.
+
+* Utlöst TSV-export från XSLFO-rapporter för automatiserade instrumentpaneler.
+
+* Programmatisk omvandling för storskaliga XSLFO-dataset.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp TEX sang ODS, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **ODS (OpenDocument Spreadsheet)** cho phép người dùng tận dụng nội dung LaTeX trong bảng tính có thể chỉnh sửa để phân tích và thực hiện dự án cộng tác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Nghiên cứu học thuật với bảng số phức tạp.
+
+* Bảng theo dõi tài chính hoặc dự án mã nguồn mở.
+
+* Tính toán kỹ thuật yêu cầu khả năng tương thích đa nền tảng.
+
+* Chia sẻ bảng LaTeX trong ODS cho các dự án giáo dục cộng tác.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt TEX sang ODS cho các phòng thí nghiệm đại học.
+
+* Tích hợp vào các đường ống dữ liệu mã nguồn mở.
+
+* Báo cáo tự động về dữ liệu số được tạo ra từ LaTeX.
+
+* Tạo ra ODS theo yêu cầu cho môi trường đa người dùng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

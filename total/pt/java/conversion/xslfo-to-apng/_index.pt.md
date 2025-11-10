@@ -57,7 +57,51 @@ Usando a API, você também pode girar a imagem APNG de saída conforme suas nec
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A conversão de arquivos XSLFO (Extensible Stylesheet Language Formatting Objects) para **APNG (Gráficos de Rede Portáteis Animados)** permite representações animadas de dados estruturados de relatórios, mantendo a qualidade vetorial nítida. Os APNGs são ideais para painéis interativos e visualizações baseadas na web.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Gráficos animados a partir de relatórios analíticos gerados por XSLFO.
+
+* Visualizações interativas de tendências financeiras ou operacionais.
+
+* Conteúdo educacional amigável para dispositivos móveis com tabelas animadas.
+
+* Slides dinâmicos em plataformas de telemedicina ou e-learning.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de painéis XSLFO para APNG para aplicações web.
+
+* Integração em pipelines de visualização de dados em tempo real.
+
+* Geração programada de gráficos animados para ferramentas de relatórios.
+
+* Criação de APNG acionada a partir de XSLFO em fluxos de trabalho automatizados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz PSD z
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie XSLFO na **PSD (Adobe Photoshop)** pozwala grafikom edytować tabele i wizualizacje wygenerowane w XSLFO z warstwami i zaawansowanymi efektami. Format PSD jest idealny do zastosowań marketingowych lub prezentacyjnych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przekształcanie wykresów XSLFO w warstwowe projekty Photoshopa.
+
+* Dostosowywanie wizualizacji raportów do materiałów marketingowych.
+
+* Edytowanie strukturalnych tabel XSLFO do profesjonalnych prezentacji.
+
+* Przygotowywanie infografik z ulepszonym stylem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczny eksport raportów XSLFO do formatu PSD do prac projektowych.
+
+* Integracja z partiami przetwarzania Photoshopa.
+
+* Zaplanowana konwersja dla cyklicznych raportów wizualnych.
+
+* Wywoływane generowanie plików PSD dla kreatywnych pulpitów marketingowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

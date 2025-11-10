@@ -57,7 +57,49 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **DXF (Drawing Exchange Format)** จะรักษาโครงร่างแบบเวกเตอร์สำหรับการใช้ใน CAD และแอปพลิเคชันออกแบบทางเทคนิค ไฟล์ DXF รักษาขนาดและโครงสร้างเลเอาท์อย่างแม่นยำ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* การแปลงรายงานวิศวกรรมที่สร้างจาก XSLFO เป็นรูปแบบที่เข้ากันได้กับ CAD
+* เก็บถาวรตารางโครงสร้างเป็นการวาดเวกเตอร์สำหรับเอกสารทางเทคนิค
+* การรวมเลเอาท์การดำเนินงานเข้ากับซอฟต์แวร์ออกแบบ
+* การสร้างแผนภาพทางเทคนิคจากรายงาน XSLFO
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงจำนวนมากของ XSLFO เป็น DXF สำหรับเวิร์กโฟลว์เอกสารวิศวกรรม
+* การส่งออกตารางรายงานโครงสร้างเป็น DXF ตามกำหนดเวลาสำหรับการทบทวนการออกแบบ
+* การรวมเข้ากับกระแสงานรายงานที่ใช้ CAD โดยอัตโนมัติ
+* การแปลงข้อมูลจาก XSLFO เป็นการวาด DXF สำหรับทีมทางเทคนิคโดยเรียกใช้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

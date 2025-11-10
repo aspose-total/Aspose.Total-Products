@@ -144,7 +144,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXファイルを**DOCM（Word Macro-Enabled Document）**に変換することで、LaTeXコンテンツを高度なWordマクロとシームレスに統合できます。これは、動的な表、数式、インタラクティブコンテンツを必要とする学術研究者やエンジニアに特に役立ちます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* Microsoft WordでのLaTeX重視の研究レポートの自動化。
+
+* エンジニアリング文書に複雑な数学式を埋め込む。
+
+* 再現可能な結果のためのマクロ付きインタラクティブな実験テンプレートの作成。
+
+* 自動クロスリファレンスと番号付けを伴う学術論文の編纂。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 機関の文書管理システムでのバッチTEXからDOCMへの変換。
+
+* LaTeXリポジトリからの科学ジャーナルのマクロ駆動生成。
+
+* 技術出版のためのワークフロー自動化への統合。
+
+* LaTeXコンテンツとWordマクロを組み合わせた研究ダッシュボードの自動更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

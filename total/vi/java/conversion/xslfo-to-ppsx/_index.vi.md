@@ -135,7 +135,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO thành **PPSX (PowerPoint Show without Macros)** tạo ra các bản trình bày tự chạy an toàn để phân phối. PPSX bảo tồn định dạng và bố cục mà không gây ra rủi ro thực thi macro.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tạo bảng điều khiển tài chính tự chạy từ dữ liệu XSLFO.
+
+* Chia sẻ bài thuyết trình đào tạo hoặc giới thiệu chuẩn hóa.
+
+* Chuẩn bị bản trình bày pitch cho nhà đầu tư không chứa macro.
+
+* Lưu trữ các slide xem xét hàng quý để phân phối trên toàn đội.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt XSLFO thành PPSX theo lịch trình cho các bản trình bày lặp lại.
+
+* Tạo ra các bộ slide trình diễn không chứa macro theo yêu cầu.
+
+* Tích hợp vào các đường ống phân phối tự động.
+
+* Tự động cập nhật các slide tự chạy từ báo cáo XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

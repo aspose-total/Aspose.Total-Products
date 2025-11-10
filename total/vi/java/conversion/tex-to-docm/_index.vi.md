@@ -143,7 +143,55 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp TEX thành **DOCM (Tài liệu được kích hoạt Macro của Word)** cho phép tích hợp mượt mà nội dung LaTeX với các macro Word tiên tiến. Điều này đặc biệt hữu ích cho các nhà nghiên cứu và kỹ sư trong lĩnh vực học thuật cần tạo ra báo cáo tự động với bảng động, công thức và nội dung tương tác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tự động hóa việc tạo báo cáo nghiên cứu nặng LaTeX trong Microsoft Word.
+
+* Nhúng các phương trình toán học phức tạp vào tài liệu kỹ thuật.
+
+* Tạo các mẫu thí nghiệm tương tác với macro cho kết quả có thể tái tạo.
+
+* Biên soạn luận văn học thuật với việc tự động tham chiếu và đánh số.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ TEX sang DOCM trong các hệ thống quản lý tài liệu của tổ chức.
+
+* Tạo ra các tạp chí khoa học từ các kho lưu trữ LaTeX dựa trên macro.
+
+* Tích hợp vào quy trình tự động hóa công việc xuất bản kỹ thuật.
+
+* Cập nhật tự động các bảng điều tra nghiên cứu kết hợp nội dung LaTeX với macro Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

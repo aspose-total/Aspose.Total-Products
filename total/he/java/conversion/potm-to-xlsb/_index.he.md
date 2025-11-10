@@ -102,7 +102,51 @@ otherformats: FODS DIF XLSX MARKDOWN MHTML CSV TSV SXC XLS ODS XLTM XLTX EXCEL X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POTM ל-XLSB יוצרת חוברות עבודה בינאריות של Excel, המאפשרות זמני טעינה מהירים וגדלי קבצים קטנים יותר תוך שמירה על כל הנתונים, הנוסחאות והתרשימים משקפי המצגת.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת מודלים פיננסיים מורכבים של מצגות לחוברות עבודה בינאריות קומפקטיות.
+
+* ייצוא סטים גדולים של נתונים ממצגות לניתוח ב-Excel של עסקים.
+
+* ניתוחים ביצועיים גבוהים שדורשים גישה מהירה לגיליונות האלקטרוניים.
+
+* ארכיבת טבלאות משקפי המצגת הכבדים כ-XLSB לאחסון יעיל.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* צינורות אוטומטיים שיוצרים קבצי XLSB ממצגות תדמיתיות.
+
+* שילוב עם כלים לדיווח עם נתונים כבדים.
+
+* יצירת XLSB מופעלת עבור לוחות מחוונים בענן.
+
+* עיבוד צפיפות של מצגות לפורמטים של גיליונות אלקטרוניים ביצועיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

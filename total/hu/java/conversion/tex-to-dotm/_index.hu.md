@@ -144,7 +144,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok átalakítása **DOTM (Word Macro-Enabled Template)** formátumra újrafelhasználható sablonokat biztosít makró funkcióval. Ideális automatizált munkafolyamatokhoz, összekapcsolja a LaTeX precíz tördelését a Word automatizálási képességeivel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Automatizált beküldési sablonok tudományos folyóiratokhoz.
+
+* Újrafelhasználható technikai jelentés sablonok dinamikus tartalom létrehozással.
+
+* Makróval ellátott űrlapok laboratóriumi vagy kutatási adatbevitelhez.
+
+* LaTeX által támogatott Word sablonok generálása több szerző együttműködéséhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Valós idejű dokumentum létrehozás LaTeX bemeneti adatfolyamokból.
+
+* Integráció Word-alapú vállalati dokumentumautomatizálási csövekbe.
+
+* Tömeges sablonfrissítések együttműködéses kutatási projektekhez.
+
+* Makróval ellátott projekt dokumentáció generálása mérnöki csapatok számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

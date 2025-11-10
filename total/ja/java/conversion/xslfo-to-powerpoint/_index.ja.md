@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**POWERPOINT（PPTX）**に変換すると、Microsoft PowerPointに適した完全に書式設定された編集可能なスライドが提供されます。PPTX形式は、高度なデザイン機能、チャート、マルチメディアとの互換性を確保します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* XSLFOの年次報告書を視覚的に魅力的なPowerPointスライドに変換する。
+
+* 管理ダッシュボードやKPIプレゼンテーションの準備。
+
+* 構造化されたXSLFOテーブルから教育用またはトレーニングコンテンツの作成。
+
+* XSLFOで生成されたスライドを企業のステークホルダーと共有する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的なレポート用のXSLFOからPPTXへのスケジュールされたバッチ変換。
+
+* 自動化されたスライド作成と分析ダッシュボードとの統合。
+
+* XSLFOデータをインタラクティブなPowerPointデッキに変換するトリガー。
+
+* 取締役会の会議プレゼンテーションのためのリアルタイムPPTX生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

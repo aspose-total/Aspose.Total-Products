@@ -47,7 +47,51 @@ TEX dosyasını XLT'ye dönüştürürken, çıktı XLT dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **XLT'ye (Excel Şablonu)** dönüştürmek, LaTeX tabanlı verilerin projeler, analizler ve akademik çalışmalar için tekrar kullanılabilir Excel şablonları oluşturmasına olanak tanır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Araştırma ekipleri için standartlaştırılmış raporlama şablonları.
+
+* LaTeX tabanlı tablolara dayalı tekrar kullanılabilir finansal modeller.
+
+* LaTeX formülleri içeren akademik not hesaplama tabloları.
+
+* Mühendislik proje takip şablonları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* LaTeX'ten Excel şablonlarının toplu oluşturulması.
+
+* Kurumsal veya akademik şablon havuzlarına entegrasyon.
+
+* XLT şablonlarına otomatik LaTeX veri yerleştirme.
+
+* Çoklu kullanıcı ortamları için zamanlanmış şablon güncellemeleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

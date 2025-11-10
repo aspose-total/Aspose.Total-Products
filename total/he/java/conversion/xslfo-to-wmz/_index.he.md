@@ -105,7 +105,51 @@ otherformats: PSD  APNG JPEG2000 SVGZ WMF EMZ IMAGE DXF TGA DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XSLFO ל־**WMZ (קובץ מטה דחוס של Windows)** מספקת תמונות וקטוריות דחוסות המתאימות לדוא"ל, הצגות ואינטגרציה ברשת תוך שמירה על סקאלביליות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* שליחת תמונות שנוצרו ב-XSLFO כקבצים מצורפים דחוסים.
+
+* הטמעת גרפיקה סקאלבילית ב-PowerPoint ו-Word.
+
+* ארכיבת תמונות דו"ח וקטוריות דחוסות.
+
+* שיתוף לוחות מחוונים אופרטיביים דרך דוא"ל או פורטלים פנימיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה קובצי XSLFO ל-WMZ באופן צפוי לאחסון יעיל מבחינת מקום.
+
+* דחיסה אוטומטית מתוזמנת של דוחות חזותיים.
+
+* יצירת WMZ מופעלת לתהליכי הצגה חוזרים.
+
+* אינטגרציה לצינורות המצגת והמסמך האוטומטיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

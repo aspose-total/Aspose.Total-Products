@@ -47,7 +47,55 @@ A XSLFO-fájl ODS-vé konvertálásakor vízjelet is hozzáadhat a kimeneti ODS-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO konvertálása **ODS (OpenDocument Spreadsheet)** formátumba biztosítja a kompatibilitást a modern nyílt forráskódú táblázatkezelő alkalmazásokkal. Az ODS megőrzi a stílusokat, képleteket és táblázatokat, így ideális a közös jelentéskészítéshez és adatmegosztáshoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* XSLFO által generált HR jelentések konvertálása LibreOffice felhasználók számára.
+
+* Negyedéves analitikák megosztása külső partnerekkel ODS formátumban.
+
+* Operatív vezérlőpultok előkészítése átfogó osztályok áttekintéséhez.
+
+* XSLFO alapú pénzügyi táblázatok archiválása jövőbiztos nyílt formátumban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Valós idejű XSLFO-ODS konverzió együttműködési irodai környezetekhez.
+
+* Ütemezett tétel export operatív mutatókból XSLFO-ból.
+
+* Integráció automatizált jelentési csövekbe távoli csapatok számára.
+
+* Automatikus ODS táblázatok generálása XSLFO sablonokból ismétlődő jelentésekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

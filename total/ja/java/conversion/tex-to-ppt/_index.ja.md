@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+LaTeXドキュメントから**PPT（PowerPointプレゼンテーション）**への変換により、教育、研究、企業利用のために数式、表、図を保持した標準の編集可能なスライドが生成されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* エンジニアリングや科学研究のプレゼンテーション。
+
+* LaTeXの数式を含む学術講義やセミナー。
+
+* プロジェクト提案書。
+
+* データテーブルを使用したインタラクティブなトレーニング資料。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 研究チーム向けのバッチLaTeXからPPTへの変換。
+
+* 自動化されたプレゼンテーション作成パイプラインへの統合。
+
+* 講義や会議スライドの自動生成。
+
+* LaTeXコンテンツを含むPPTスライドでの複数著者による共同作業。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

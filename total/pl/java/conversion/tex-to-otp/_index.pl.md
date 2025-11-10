@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **OTP (OpenDocument Presentation Template)** pozwala tworzyć wielokrotnego użytku szablony prezentacji z formatowaniem LaTeX dla spójnego projektu wykładów lub slajdów biznesowych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Standaryzowane szablony wykładów z równaniami w stylu LaTeX.
+
+* Szablony slajdów konferencyjnych dla zespołów badawczych.
+
+* Wielokrotnego użytku materiały edukacyjne z treściami bogatymi w formuły.
+
+* Szablony propozycji projektów do prezentacji technicznych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Generowanie zbiorcze szablonów LaTeX-to-OTP dla kursów.
+
+* Aktualizacje szablonów wywoływane z repozytoriów LaTeX.
+
+* Automatyczne rozpowszechnianie szablonów slajdów wśród współpracowników.
+
+* Integracja z open-source LMS w toku prezentacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -143,7 +143,55 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików TEX na **DOTM (Szablon z włączoną obsługą makr w programie Word)** umożliwia tworzenie szablonów z funkcjonalnością makr. Idealne do zautomatyzowanych procesów, łączy precyzyjne składanie LaTeX-a z możliwościami automatyzacji programu Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Zautomatyzowane szablony do składania prac naukowych w czasopismach akademickich.
+
+* Wielokrotnego użytku szablony raportów technicznych z generowaniem dynamicznej zawartości.
+
+* Formularze z obsługą makr do wprowadzania danych laboratoryjnych lub badawczych.
+
+* Generowanie szablonów Word z obsługą makr dla współpracy wielu autorów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Tworzenie dokumentów w czasie rzeczywistym uruchamiane z wejściowych strumieni LaTeX.
+
+* Integracja z bazowanymi na Wordzie automatyzowanymi procesami dokumentów w przedsiębiorstwie.
+
+* Aktualizacje zbiorcze szablonów dla projektów badawczych prowadzonych w ramach współpracy.
+
+* Generowanie dokumentacji projektowej z obsługą makr dla zespołów inżynieryjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

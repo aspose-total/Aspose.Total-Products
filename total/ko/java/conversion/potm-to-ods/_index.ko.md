@@ -61,7 +61,51 @@ POTM 파일을 ODS로 변환하는 동안 출력 ODS 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM를 ODS로 변환하면 LibreOffice, OpenOffice 및 기타 오픈 소스 스프레드시트 애플리케이션과 호환되는 OpenDocument 스프레드시트 파일이 생성됩니다. 이를 통해 프레젠테이션 데이터를 다양한 플랫폼에서 재사용할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 기업 슬라이드 데이터를 오픈 표준 스프레드시트 형식으로 변환합니다.
+
+* 학술 발표 자료를 오픈 소스 통계 분석용으로 재활용합니다.
+
+* NGO 보고서를 다양한 플랫폼 간 협업을 위해 변환합니다.
+
+* ODS에서 다부서 워크플로에 대한 숫자 슬라이드 테이블을 표준화합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 프레젠테이션 템플릿에서 ODS 파일을 자동으로 생성합니다.
+
+* 오픈 포맷을 지원하는 문서 관리 시스템과 통합합니다.
+
+* 다양한 플랫폼 간 협업을 위한 일괄 변환을 수행합니다.
+
+* 클라우드 기반 보고 파이프라인을 위해 트리거된 ODS 생성을 수행합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

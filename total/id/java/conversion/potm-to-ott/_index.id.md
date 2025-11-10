@@ -53,7 +53,55 @@ Menggunakan API, Anda juga dapat melakukan konversi file POTM ke OTT dengan tand
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi POTM ke OTT menciptakan template Teks Dokumen Terbuka yang dapat digunakan ulang yang kompatibel dengan LibreOffice Writer dan aplikasi serupa. Template ini mempertahankan tata letak, gaya, dan elemen desain untuk lingkungan non-Microsoft.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mendesain template OTT untuk kantor sumber terbuka menggunakan gaya PowerPoint.
+
+* Mengonversi konten presentasi ke dalam struktur template berbasis ODT.
+
+* Penggunaan template format terbuka oleh pemerintah atau sektor publik.
+
+* Standar dokumentasi LSM menggunakan file OTT yang dapat digunakan kembali.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi template OTT otomatis dalam sistem manajemen dokumen terbuka.
+
+* Pipa publikasi dokumen lintas platform menggunakan format terbuka.
+
+* Alur kerja konversi yang menghubungkan ekosistem Microsoft dan LibreOffice.
+
+* Penggunaan institusi dalam skala besar dari template OTT yang berasal dari presentasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

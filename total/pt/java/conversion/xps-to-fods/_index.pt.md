@@ -47,7 +47,51 @@ Ao converter o arquivo XPS para FODS, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter XPS para **FODS (Flat OpenDocument Spreadsheet)** garante compatibilidade de planilhas de código aberto com o LibreOffice e o OpenOffice. Ideal para organizações que utilizam soluções neutras em relação a fornecedores e multiplataforma.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Conjuntos de dados de projetos acadêmicos e de pesquisa para edição colaborativa.
+
+* Relatórios financeiros de código aberto para ONGs ou instituições governamentais.
+
+* Fichas técnicas e registros operacionais em formatos abertos.
+
+* Compartilhamento de planilhas multiplataforma dentro de equipes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Pipelines de conversão automatizada de XPS para FODS para laboratórios de pesquisa.
+
+* Integração com sistemas de ERP ou análise de código aberto.
+
+* Atualizações programadas para planilhas operacionais.
+
+* Colaboração simplificada usando formatos de documento aberto.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

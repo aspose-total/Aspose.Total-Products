@@ -102,7 +102,55 @@ otherformats: XLTM ODS XLSB XLTX SXC EXCEL TXT XLT CSV TSV FODS MD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XPS ל-XLAM (תוסף Excel) מאפשרת יצירת כלים מותאמים אישית לאוטומציה ב-Excel, מאקרוס ופונקציות מורחבות ממסמכי XPS סטטיים, מושלמת עבור משתמשים עסקיים מתקדמים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* אוטומציה של חישובים ותהליכי עבודה חוזרים בפיננסים או בתהליכי הפעולה.
+
+* יצירת תוספי יעילות המאפשרים מאקרו מתוך נתונים קיימים.
+
+* הרחבת פונקציונליות של Excel באמצעות תבניות שהומרו מ-XPS.
+
+* שיפורי תהליכי עבודה ברמה הארגונית באמצעות תוספי Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת XPS ל-XLAM בכמויות גדולות לצורך כלים לאוטומציה ארגוניים.
+
+* שילוב עם תוכנה פנימית להפעלת תוספי Excel.
+
+* יצירה מתוזמנת של פתרונות מאקרו לצוותים.
+
+* צינורות אוטומציה משולבים למשימות דיווח חוזרות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

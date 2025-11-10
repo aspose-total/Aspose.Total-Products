@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**OTP（OpenDocument Presentation Template）**に変換すると、LibreOfficeやOpenOffice向けの再利用可能なプレゼンテーションテンプレートが作成され、チームに一貫したデザインとレイアウトが可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* クライアントミーティング用の企業プレゼンテーションテンプレート。
+
+* 教育者向けの標準化された講義テンプレート。
+
+* 繰り返し使用するNGOやプロジェクト報告テンプレート。
+
+* 一貫したブランディングを持つマーケティングキャンペーンのスライドデッキ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XPSレポートからOTPテンプレートの自動作成。
+
+* チーム全体へのコンテンツ管理システムとの統合。
+
+* 定期的なプレゼンテーション用のスケジュールされたテンプレート生成。
+
+* 部門間でのブランディングとレイアウトの標準化を効率化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

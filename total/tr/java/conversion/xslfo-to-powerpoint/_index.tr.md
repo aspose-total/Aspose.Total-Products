@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **POWERPOINT (PPTX)** formatına dönüştürülmesi, Microsoft PowerPoint için uygun tamamen biçimlendirilmiş, düzenlenebilir slaytlar sunar. PPTX formatı, gelişmiş tasarım özellikleri, grafikler ve multimedya ile uyumluluğu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* XSLFO yıllık raporlarını görsel olarak etkileyici PowerPoint slaytlarına dönüştürme.
+
+* Yönetim panoları ve KPI sunumları hazırlama.
+
+* Yapılandırılmış XSLFO tablolarından eğitim veya eğitim içeriği oluşturma.
+
+* Kurumsal paydaşlarla paylaşım için XSLFO tarafından oluşturulan slaytlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tekrarlayan raporlar için XSLFO'dan PPTX'e zamanlanmış toplu dönüşüm.
+
+* Otomatik slayt oluşturma ve analiz panolarıyla entegrasyon.
+
+* XSLFO verilerinin etkileşimli PowerPoint desteklerine dönüştürülmesi.
+
+* Yönetim kurulu toplantı sunumları için gerçek zamanlı PPTX oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

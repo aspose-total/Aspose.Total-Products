@@ -135,7 +135,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO thành **POTM (Mẫu PowerPoint Kích hoạt Macro)** cho phép nhúng macro vào các mẫu slide có thể tái sử dụng. POTM lý tưởng cho các bài thuyết trình động yêu cầu tự động hóa và nội dung tương tác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Nhúng các tính toán dựa trên XSLFO vào các macro bài thuyết trình.
+
+* Tự động hóa cập nhật tình hình dự án định kỳ trong các bộ slide.
+
+* Tạo bảng điều khiển tương tác từ các bảng dữ liệu XSLFO.
+
+* Phân phối các mẫu POTM chuẩn trong các bộ phận.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi định kỳ các báo cáo XSLFO thành các mẫu POTM để tự động hóa.
+
+* Tích hợp với VBA hoặc quy trình làm việc tự động của PowerPoint.
+
+* Tạo ra các mẫu bài thuyết trình kích hoạt macro theo lô.
+
+* Tự động cập nhật các mẫu POTM từ phân tích XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

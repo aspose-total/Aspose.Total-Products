@@ -135,7 +135,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX-bestanden naar **ODP (OpenDocument Presentation)** maakt het mogelijk om LaTeX-inhoud, formules en tabellen om te zetten in open-source presentaties die compatibel zijn met LibreOffice en OpenOffice. Ideaal voor academici en ingenieurs die LaTeX-gebaseerd onderzoek delen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Academische colleges met LaTeX gegenereerde vergelijkingen.
+
+* Presentaties van open-source projecten met gestructureerde gegevens.
+
+* Conferentieslides voor wiskunde, natuurkunde of technische onderwerpen.
+
+* Lesmateriaal met interactieve LaTeX-gebaseerde diagrammen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch TEX-naar-ODP conversie voor lesmateriaal of trainingsmateriaal.
+
+* Geplande generatie van slides vanuit LaTeX-onderzoeksrepositories.
+
+* Integratie in open-source presentatiepijplijnen.
+
+* Getriggerde updates voor academische slideshows met meerdere auteurs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

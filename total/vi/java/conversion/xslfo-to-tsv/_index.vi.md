@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp XSLFO sang TSV, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO thành **TSV (Tab-Separated Values)** đơn giản hóa việc trích xuất dữ liệu bảng cho phân tích, nhập dữ liệu cơ sở dữ liệu hoặc quy trình ETL. TSV nhẹ, dễ đọc và được hỗ trợ rộng rãi bởi các ngôn ngữ lập trình và công cụ dữ liệu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xuất báo cáo XSLFO sang TSV để nhập dữ liệu vào cơ sở dữ liệu.
+
+* Chuẩn bị tập dữ liệu thân thiện với phân tích từ các bảng cấu trúc XSLFO.
+
+* Di chuyển dữ liệu từ các bảng tài chính XSLFO sang các nền tảng phân tích.
+
+* Chia sẻ dữ liệu bảng đơn giản trong định dạng TSV để dễ dàng tích hợp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt định kỳ từ XSLFO sang TSV cho các ống dẫn BI.
+
+* Tích hợp ETL cho quy trình làm việc phân tích thời gian thực.
+
+* Xuất TSV kích hoạt từ các báo cáo XSLFO cho các bảng điều khiển tự động.
+
+* Chuyển đổi theo chương trình cho các tập dữ liệu XSLFO quy mô lớn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

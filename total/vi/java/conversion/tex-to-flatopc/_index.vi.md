@@ -143,7 +143,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp TEX thành **FLATOPC (Flat Open Packaging Conventions)** cho phép nội dung LaTeX, bao gồm công thức và bảng, được lưu trong một tệp dựa trên XML duy nhất hoàn toàn tương thích với tiêu chuẩn Office Open XML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Lưu trữ tài liệu LaTeX trong định dạng XML chuẩn hóa.
+
+* Bảo tồn nội dung có cấu trúc và định dạng cho các ứng dụng doanh nghiệp.
+
+* Chia sẻ các báo cáo học thuật hoặc kỹ thuật phức tạp dưới dạng tệp đóng gói duy nhất.
+
+* Bảo quản các bảng và phương trình được tạo bởi LaTeX để sử dụng trên nhiều nền tảng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ TEX sang FLATOPC cho các kho lưu trữ nghiên cứu.
+
+* Tích hợp vào các hệ thống quản lý tài liệu tự động.
+
+* Kích hoạt việc tạo FLATOPC cho các luồng làm việc cộng tác.
+
+* Lập lịch lưu trữ nội dung LaTeX trong các định dạng dựa trên XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

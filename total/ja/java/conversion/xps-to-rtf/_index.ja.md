@@ -130,7 +130,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**RTF（リッチテキスト形式）**に変換することで、ほとんどのワードプロセッサとの最大の互換性を確保しながら基本的な書式を保持し、さまざまなソフトウェア環境での文書共有に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 簡単な配布のためのシンプルなレポート変換。
+
+* 汎用フォーマットのサポートが必要な法的文書。
+
+* 複数のプラットフォームと互換性のある教育課題。
+
+* 幅広く読み取れる形式でのレガシードキュメントのアーカイブ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XPSファイルをRTFに一括変換して普遍的なアクセスを実現。
+
+* 自動化されたコンテンツ管理システムとの統合。
+
+* 混在プラットフォームの企業環境での効率的な共有。
+
+* レガシードキュメントの移行用の変換パイプライン。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

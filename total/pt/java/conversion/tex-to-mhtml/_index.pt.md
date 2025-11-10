@@ -143,7 +143,51 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter TEX para **MHTML (MIME HTML)** permite que documentos LaTeX sejam renderizados como uma página da web de arquivo único, preservando equações, tabelas e gráficos para visualização offline ou online.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Arquivar artigos de pesquisa LaTeX como páginas da web autocontidas.
+
+* Compartilhar relatórios baseados em LaTeX com gráficos e equações incorporados.
+
+* Gerar materiais de palestra interativos em um único arquivo MHTML.
+
+* Converter conteúdo técnico para módulos de e-learning offline.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de TEX para MHTML para bibliotecas de cursos.
+
+* Integração na geração automatizada de conteúdo de e-learning.
+
+* Atualizações programadas de MHTML a partir de fontes LaTeX.
+
+* Conversão acionada para compartilhamento de publicações de pesquisa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

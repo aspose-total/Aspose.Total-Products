@@ -47,7 +47,51 @@ XPS 파일을 TSV로 변환하는 동안 출력 TSV 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **TSV (탭으로 구분된 값)**로 변환하면 프로그래밍, 분석 및 데이터베이스 가져오기/내보내기 시 특히 유용한 간단하고 가벼운 데이터 공유 형식을 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 계산 분석을 위한 과학 데이터 세트.
+
+* R, Python 또는 통계 소프트웨어로 쉬운 가져오기.
+
+* Excel 종속성 없이 팀 간 빠른 데이터 교환.
+
+* 평면 파일 데이터를 필요로 하는 웹 기반 보고 도구.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 연구소를 위한 자동화된 XPS-to-TSV 파이프라인.
+
+* 일괄 처리를 위한 분석 스크립트 통합.
+
+* 반복되는 XPS 보고서를 위한 예약 변환.
+
+* 데이터베이스 또는 ETL 워크플로에 간소화된 흡수.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,51 @@ Podczas konwertowania pliku POTM do XLAM możesz również dodać znak wodny do 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja POTM na XLAM tworzy makroaktywne dodatki do programu Excel na podstawie szablonów programu PowerPoint. Pozwala to na osadzanie wielokrotnie używanej funkcjonalności, niestandardowych formuł lub interaktywnych narzędzi pochodzących z treści prezentacji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Tworzenie dodatków do programu Excel na podstawie interaktywnych obliczeń slajdów.
+
+* Automatyzacja pulpitów finansowych pierwotnie zaprojektowanych w programie PowerPoint.
+
+* Konwersja szablonów KPI lub tablic wyników na narzędzia z makrami.
+
+* Tworzenie wielokrotnie używanych skryptów automatyzacji Excel na podstawie logiki prezentacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Przepływy pracy w przedsiębiorstwie generujące pliki XLAM na podstawie szablonów POTM.
+
+* Integracja z potokami automatyzacji Excel do analiz biznesowych.
+
+* Tworzenie wsadowe narzędzi z makrami na podstawie prezentacji korporacyjnych.
+
+* Wywoływana generacja dodatku XLAM dla standaryzowanych szablonów analitycznych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

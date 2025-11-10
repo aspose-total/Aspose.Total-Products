@@ -105,7 +105,55 @@ otherformats:  TGA PSD EMZ SVGZ WMF DXF WMZ IMAGE APNG DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XSLFO ל־**JPEG2000** מספקת תמונות רסטר בדחיסה גבוהה עם אובדן איכות מינימלי. JPEG2000 מתאים לתמונות רפואיות, דוחות חזותיים גדולים, ומטרות ארכיון.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ארכוב דוחות XSLFO ברזולוציה גבוהה עם טבלאות מורכבות.
+
+* הכנת חזותות פיננסיות או תפעוליות מפורטות להפצה דיגיטלית.
+
+* המרת נתוני XSLFO לתמונות רסטר יעילות.
+
+* יצירת חזותות בפורמט גדול לפרסומים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת רצף של XSLFO ל־JPEG2000 לאחסון ארכיון.
+
+* יצירה מתוזמנת לזרימות עבודה לפרסום אוטומטי.
+
+* שילוב עם צינון תמונות בצינון.
+
+* ייצוא ברזולוציה גבוהה מלוחות מחוות XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

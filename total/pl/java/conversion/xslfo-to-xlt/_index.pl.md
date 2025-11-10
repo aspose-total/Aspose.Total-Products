@@ -47,7 +47,51 @@ Konwertując plik XSLFO na XLT, możesz także dodać znak wodny do wyjściowego
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie XSLFO na **XLT (szablon Excela)** pozwala na ponowne wykorzystanie szablonów arkuszy kalkulacyjnych z predefiniowanym formatowaniem i stylami. XLT doskonale nadaje się do standaryzacji powtarzających się raportów z źródeł XSLFO.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przygotowywanie standaryzowanych szablonów faktur opartych na XSLFO.
+
+* Tworzenie szablonów raportów projektowych do wielokrotnego użytku.
+
+* Archiwizowanie miesięcznych pulpitów jako ponownie wykorzystywalne szablony Excela.
+
+* Dystrybucja szablonów raportowania KPI firmy generowanych z XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczne generowanie szablonów XLT z raportów XSLFO.
+
+* Integracja z powtarzającymi się potokami raportowania.
+
+* Zaplanowana konwersja dla standaryzowanych szablonów departamentowych.
+
+* Wywoływane generowanie szablonów Excela dla spójnego raportowania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ Med hjälp av API:t kan du också rotera den utgående SVGZ-bilden enligt dina b
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av TEX till **SVGZ (Komprimerad skalbar vektorgrafik)** bevarar vektorernas kvalitet samtidigt som filstorleken minskas, vilket är idealiskt för webb- och akademiska publikationer.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsområden" %}}
+
+
+
+* Bädda in LaTeX-ekvationer och diagram på webbsidor.
+
+* Skalbara, högupplösta grafik för publikationer.
+
+* Interaktiva onlinevisualiseringar av LaTeX-genererade data.
+
+* Tekniska illustrationer i komprimerat vektorformat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batchkonvertering av LaTeX-diagram till SVGZ.
+
+* Integration med webbpubliceringspipeliner.
+
+* Uppdateringar av komprimerad vektorgrafik från LaTeX-källor vid utlösning.
+
+* Arkivering och distribution av akademiska illustrationer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

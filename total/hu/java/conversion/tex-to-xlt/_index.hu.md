@@ -47,7 +47,51 @@ A TEX-fájl XLT-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLT-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok átalakítása **XLT formátumra (Excel sablon)** lehetővé teszi a LaTeX alapú adatok újrafelhasználását Excel sablonokban projektekhez, elemzésekhez és tudományos munkákhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Szabványosított jelentési sablonok kutatócsoportok számára.
+
+* Újrafelhasználható pénzügyi modellek LaTeX táblákon alapulva.
+
+* Tudományos osztályzatkiszámító lapok LaTeX képletekkel.
+
+* Mérnöki projektkövetési sablonok.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Excel sablonok tömeges létrehozása LaTeX-ből.
+
+* Integráció vállalati vagy tudományos sablonraktárakba.
+
+* Automatizált LaTeX adatok beillesztése XLT sablonokba.
+
+* Ütemezett sablonfrissítések többfelhasználós környezetekben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı IMAGE görüntüsünü ihtiyaçlarınıza göre de d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **RESİM (genel raster formatlar)**'a dönüştürmek, LaTeX denklemlerini, tablolarını ve şekillerini web, baskı ve belgeleme amaçları için evrensel olarak uyumlu resim formatlarına dönüştürür.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX tarafından oluşturulan şekilleri bloglara ve web sitelerine gömme.
+
+* Akademik makaleler için yüksek çözünürlüklü resimler hazırlama.
+
+* Diyagramları evrensel olarak okunabilir formatlarda paylaşma.
+
+* Karmaşık LaTeX tablolarını resim anlık görüntülerine dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* İçerik kütüphaneleri için toplu TEX'ten resme dönüşüm.
+
+* Otomatik yayınlama ve web sitesi iş akışlarıyla entegrasyon.
+
+* Resim tabanlı ders veya öğretici içeriği için tetiklenen güncellemeler.
+
+* Birden fazla LaTeX diyagramını tutarlı resim formatlarına dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

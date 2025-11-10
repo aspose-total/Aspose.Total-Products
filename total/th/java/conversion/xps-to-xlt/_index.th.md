@@ -47,7 +47,51 @@ otherformats: XLSM EXCEL TXT ODS DIF XLSB XLT TSV SXC XLTX XLAM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XPS เป็น **XLT (Excel Template)** ช่วยให้สามารถสร้างสเปรดชีตที่มีรูปแบบที่กำหนดไว้ล่วงหน้าสำหรับการใช้ซ้ำ ที่เหมาะสำหรับรายงานมาตรฐานและการป้อนข้อมูลที่สม่ำเสมอ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* รูปแบบเทมเพลตการรายงานของบริษัทที่มีมาตรฐาน
+
+* รูปแบบเทมเพลตการติดตามโครงการและการจัดสรรทรัพยากร
+
+* รูปแบบสเปรดชีตทางการศึกษาสำหรับการมอบหมายซ้ำ
+
+* รูปแบบสเปรดชีตงบการเงินและงบประมาณ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างเทมเพลต XPS-to-XLT อัตโนมัติสำหรับทีมในองค์กร
+
+* การสร้างสเปรดชีตที่มีรูปแบบที่กำหนดไว้ล่วงหน้าตามกำหนดเวลา
+
+* การผสานรวมกับระบบจัดการเอกสารสำหรับการกระจายเทมเพลต
+
+* การมีระบบมาตรฐานสำหรับการป้อนข้อมูลที่เกิดซ้ำๆ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -144,7 +144,55 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **ODT (OpenDocument Text)** formátummá alakítása lehetővé teszi a LaTeX felhasználók számára, hogy nyílt szabványú dokumentumokat hozzanak létre, melyek kompatibilisek a LibreOffice, OpenOffice és más irodai szoftverekkel, biztosítva ezzel az elérhetőséget és együttműködést platformok között.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Akadémiai beadások nyílt dokumentumformátumokban.
+
+* Együttműködő kutatási jelentések többplatformos kompatibilitással.
+
+* Nyílt forráskódú projekt dokumentációk és kézikönyvek.
+
+* LaTeX formázású e-könyvek vagy oktatási anyagok nyílt forráskódú eszközökhöz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Tömeges TEX to ODT konverzió egyetemi adattárolókhoz.
+
+* Integráció nyílt forráskódú kiadási csövekbe.
+
+* Automatizált konverzió többplatformos dokumentáció terjesztéséhez.
+
+* Dinamikus ODT jelentések generálása LaTeX adatkészletekből.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

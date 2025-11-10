@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力DICOM画像を回転させるこ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**DICOM（医学画像通信規格）**に変換することで、文書の視覚情報を医療画像システムに統合し、臨床応用のために高解像度の詳細を保持します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* 医療報告書を放射線画像ワークフローに埋め込む。
+
+* 患者スキャンと一緒に診断書類をアーカイブする。
+
+* レポートにDICOM互換性が必要な病院システム。
+
+* 臨床文書画像を統合するテレメディスンプラットフォーム。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 病院記録システム向けのバッチXPSからDICOMへの変換。
+
+* PACS（画像アーカイブ通信システム）との自動統合。
+
+* 患者記録画像の定期更新。
+
+* 医療画像データ処理の効率化されたワークフロー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

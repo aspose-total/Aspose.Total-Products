@@ -61,7 +61,45 @@ POTファイルをXLTXに変換するときに、出力XLTXファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTをXLTX（Excel Template Open XML）に変換すると、PowerPointのビジュアルを企業向けのExcelテンプレートに整合させる、モダンでXMLベースのスプレッドシートテンプレートが提供されます。これにより、文書の一貫性と拡張性が確保されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* PowerPointレポートからブランド付きExcelテンプレートを作成する。
+
+* 部門向けの標準化されたデータ入力フォームを生成する。
+
+* プレゼンテーションのレイアウトを再利用可能なスプレッドシートテンプレートに再利用する。
+
+* レポート形式のクロスチーム一貫性をサポートする。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業向けコンテンツシステム内での自動化されたXLTX作成。
+
+* SharePointベースのテンプレートライブラリとの統合。
+
+* ブランド準拠のExcelテンプレート製作のための一括変換。
+
+* Excelテンプレート管理のワークフロー自動化。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

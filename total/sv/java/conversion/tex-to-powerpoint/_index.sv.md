@@ -135,7 +135,51 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av TEX till **POWERPOINT (PPT/PPTX)** ger helt redigerbara presentationer med LaTeX-ekvationer, tabeller och diagram, perfekt för professionella och akademiska bildspel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Universitetsföreläsningar med komplex matematiskt innehåll.
+
+* Ingenjörs- och vetenskapliga forskningspresentationer.
+
+* Företagsprojektpresentationer med LaTeX-tabeller.
+
+* Interaktiva bilder för workshops och seminarier.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Batch LaTeX-till-PowerPoint-konvertering för kursmaterial.
+
+* Integration i automatiserade presentationspipeliner.
+
+* Utlösta bildgenerering för forsknings- eller projektrapporter.
+
+* Samarbete med flera författare med LaTeX-till-PPT-konverteringsflöden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

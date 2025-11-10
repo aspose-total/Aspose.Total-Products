@@ -47,7 +47,51 @@ När du konverterar XPS-fil till SXC, kan du också lägga till vattenstämpel t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera XPS till **SXC (StarOffice Spreadsheet)** ger bakåtkompatibilitet med äldre OpenOffice/StarOffice-filer. Detta format är lämpligt för äldre arbetsflöden och arkivering.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Arkivering av äldre rapporter i SXC-format.
+
+* Historiska finansiella och operationella dataset.
+
+* Migration av XPS-baserade kalkylblad till öppen källkods miljöer.
+
+* Tekniska eller forskningsloggar för äldre kontorspaket.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Batchkonvertering av XPS-förråd till SXC-filer.
+
+* Automatiserad arkivering för efterlevnad och revisionsändamål.
+
+* Planerad migration av periodiska XPS-rapporter.
+
+* Integration av äldre systempipeliner.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

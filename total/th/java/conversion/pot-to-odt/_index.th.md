@@ -53,7 +53,41 @@ otherformats: DOTX FLATOPC DOTM RTF WORDML WORD ODT OTT ODTX TEXT DOT ODTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POT เป็น ODT (OpenDocument Text) ช่วยให้การทำงานร่วมกันระหว่าง PowerPoint และเครื่องมือสำนักงานโอเพนซอร์ส เช่น LibreOffice หรือ OpenOffice นั้นสะดวกสบาย ซึ่งนี้จะช่วยให้มีความยืดหยุ่นในระบบนิเวศทางวิชาชีพและวิชาการที่ใช้มาตรฐานเปิด
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+* แบ่งปันเนื้อหางานนำเสนอในรูปแบบข้อความที่สามารถแก้ไขได้ในรูปแบบโอเพนซอร์ส
+
+* แปลงโมดูลการฝึกอบรมเพื่อใช้ในสถาบันราชการ
+
+* ส่งออกวัสดุของบริษัทเพื่อให้สามารถทำงานร่วมกันกับสาธารณะ
+
+* ใช้งานเทมเพลต PowerPoint ในระบบที่เป็นไปตามมาตรฐาน ODF
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การแปลงจำนวนมากของ POT เป็น ODT ในระบบเอกสารการศึกษา
+
+* อัตโนมัติการทำงานของกระบวนการเก็บถาวรเอกสารของรัฐบาล
+
+* การรวมเข้ากันในสภาพแวดล้อมสำนักงานผสมรูปแบบไฟล์
+
+* การแปลงตามกำหนดเวลาสำหรับพอร์ทัลเอกสารโอเพนซอร์ส
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

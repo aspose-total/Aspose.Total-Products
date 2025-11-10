@@ -102,7 +102,47 @@ otherformats: EXCEL DIF XLS CSV TSV XLTX XLSM FODS XLSX XLAM ODS SXC XLSB XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי MOBI ל-XLTM (תבנית Excel המאופשרת מאקרו) משלבת אוטומציה ותקנה. זה מאפשר תבניות חוזרות, מופעלות על ידי מאקרו, לניהול וניתוח נתוני MOBI.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+- תבניות מוכנות למאקרו לניתוח ספרים אוטומטי.
+
+- פריסות דיווח מותאמות להמרות MOBI.
+
+- דשבורדים מופעלים על ידי תבניות לפרסום דיגיטלי.
+
+- סביבות Excel מיועדות לדוחות ניתנים לחזרה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+- יבוא רצפי MOBI באצות XLTM.
+
+- יצירת XLTM דינמי בצינורות פרסום.
+
+- שילוב עם אוטומציה VBA לניתוחים.
+
+- הפצת תבנית XLTM מאוחסנת בענן לצוותים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,55 @@ API'yi kullanarak, çıktı DXF görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'yu **DXF (Çizim Değişim Formatı)**'a dönüştürmek, CAD ve teknik tasarım uygulamalarında kullanılmak üzere vektör tablo düzenlerini korur. DXF dosyaları, hassas boyutları ve düzen yapılarını korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* XSLFO ile oluşturulan mühendislik raporlarını CAD dostu formatlara dönüştürme.
+
+* Yapılandırılmış tabloları teknik belgeler için vektör çizimlere arşivleme.
+
+* İşletme düzenlerini tasarım yazılımlarına entegre etme.
+
+* XSLFO raporlarından teknik diyagramlar oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Mühendislik belgeleri iş akışları için toplu XSLFO'dan DXF'e dönüştürme.
+
+* Yapılandırılmış rapor tablolarının tasarım incelemesi için DXF olarak zamanlanmış dışa aktarımı.
+
+* Otomatik CAD tabanlı rapor akışlarıyla entegrasyon.
+
+* Teknik ekipler için XSLFO verilerinin tetiklenerek DXF çizimlerine dönüştürülmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

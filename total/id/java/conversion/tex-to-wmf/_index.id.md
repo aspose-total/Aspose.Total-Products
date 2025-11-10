@@ -57,7 +57,51 @@ Menggunakan API, Anda juga dapat memutar gambar WMF keluaran sesuai kebutuhan An
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **WMF (Windows Metafile)** menjaga grafik vektor untuk diagram LaTeX, memastikan kompatibilitas dengan Microsoft Office dan dokumentasi teknis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Menanamkan ilustrasi LaTeX di Word atau PowerPoint.
+
+* Diagram teknis dalam laporan profesional.
+
+* Gambar yang dapat diskalakan untuk dokumen korporat dan akademis.
+
+* Distribusi lintas platform dari grafik yang dihasilkan oleh LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch diagram LaTeX ke WMF.
+
+* Integrasi ke dalam alur dokumen Microsoft Office.
+
+* Pembaruan terpicu untuk grafik vektor dalam presentasi.
+
+* Pengarsipan otomatis dari gambar teknis yang dihasilkan oleh LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

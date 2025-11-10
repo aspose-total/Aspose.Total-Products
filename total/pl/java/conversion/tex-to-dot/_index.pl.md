@@ -143,7 +143,55 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików TEX na **DOT (Szablon dokumentu Word)** pozwala użytkownikom wykorzystać formatowanie LaTeX podczas tworzenia wielokrotnie używanych szablonów Word do celów korporacyjnych lub edukacyjnych. Pomaga to utrzymać spójność w oficjalnych raportach i dokumentach zawodowych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Nagłówki firmowe i szablony propozycji z typografią w stylu LaTeX.
+
+* Standaryzowane szablony akademickie lub egzaminacyjne dla uniwersytetów.
+
+* Szablony CV i życiorysów zawodowych.
+
+* Szablony dokumentacji projektowej dla inżynierów i badaczy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczne generowanie szablonów do tworzenia raportów wsadowych.
+
+* Integracja z oprogramowaniem do automatyzacji dokumentów w placówkach edukacyjnych.
+
+* Wywoływanie aktualizacji szablonów z repozytoriów LaTeX dla spójności marki.
+
+* Tworzenie dynamicznych bibliotek szablonów dla projektów inżynieryjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

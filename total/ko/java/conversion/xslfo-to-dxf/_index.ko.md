@@ -57,7 +57,55 @@ API를 사용하여 필요에 따라 출력 DXF 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **DXF (도면 교환 형식)**로 변환하면 CAD 및 기술 설계 응용 프로그램에서 사용할 수 있는 벡터 기반 표 레이아웃이 보존됩니다. DXF 파일은 정확한 치수와 레이아웃 구조를 유지합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* XSLFO로 생성된 공학 보고서를 CAD 친화적인 형식으로 변환하기.
+
+* 구조화된 표를 벡터 도면으로 아카이빙하여 기술 문서 작성.
+
+* 운영 레이아웃을 설계 소프트웨어에 통합하기.
+
+* XSLFO 보고서에서 기술 다이어그램 생성하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 공학 문서 작업을 위한 일괄 XSLFO-to-DXF 변환.
+
+* 구조화된 보고서 표를 DXF로 설계 검토를 위해 예약된 내보내기.
+
+* 자동화된 CAD 기반 보고서 파이프라인과 통합.
+
+* 기술 팀을 위해 XSLFO 데이터를 DXF 도면으로 변환하는 트리거.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

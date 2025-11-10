@@ -135,7 +135,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **POWERPOINT (PPT/PPTX)** formátumra való átalakítása teljesen szerkeszthető prezentációkat eredményez LaTeX egyenletekkel, táblázatokkal és diagramokkal, ideálisak szakmai és akadémiai diákok számára.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Egyetemi előadások bonyolult matematikai tartalommal.
+
+* Mérnöki és tudományos kutatási prezentációk.
+
+* Vállalati projekt prezentációk LaTeX táblázatokkal.
+
+* Interaktív diák műhelymunkákhoz és szemináriumokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges LaTeX-PowerPoint konverzió kurzusanyagokhoz.
+
+* Integráció automatizált prezentációs folyamatokba.
+
+* Kiváltott diák generálás kutatási vagy projektjelentésekhez.
+
+* Több szerző együttműködése LaTeX-PPT konverziós munkafolyamatokkal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

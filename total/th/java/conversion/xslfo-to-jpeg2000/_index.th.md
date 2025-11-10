@@ -57,7 +57,51 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **JPEG2000** จะให้ภาพระเบิดที่บีบอัดสูงพร้อมกับการสูญเสียคุณภาพขั้นต่ำ  JPEG2000 เหมาะสำหรับการสำรวจทางการแพทย์ รายงานทางการมองขนาดใหญ่ และวัตถุประสงค์ในการเก็บถาวร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* เก็บถาวรรายงาน XSLFO ความละเอียดสูงที่มีตารางที่ซับซ้อน
+
+* เตรียมภาพระเบิดทางการเงินหรือดำเนินการอย่างละเอียดสำหรับการกระจายดิจิตอล
+
+* แปลงการวิเคราะห์ XSLFO เป็นภาพระเบิดที่มีประสิทธิภาพ
+
+* สร้างภาพขนาดใหญ่สำหรับการตีพิมพ์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลงกลุ่ม XSLFO เป็น JPEG2000 แบบชุดสำหรับการเก็บถาวร
+
+* การสร้างตามกำหนดเวลาสำหรับกระบวนการการตีพิมพ์อัตโนมัติ
+
+* การรวมเข้ากับท่อปรับปรุงภาพ
+
+* การสร้างส่งออกความละเอียดสูงจากแดชบอร์ด XSLFO ตามเงื่อนไข
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

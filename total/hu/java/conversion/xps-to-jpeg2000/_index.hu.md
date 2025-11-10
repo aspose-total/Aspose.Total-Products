@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti JPEG2000-képet i
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XPS átalakítása **JPEG2000**-ra magas minőségű, tömörített képeket eredményez, amelyek alkalmasak professzionális kiadásra, orvosi és archiválási alkalmazásokra.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Vállalati és jogi dokumentumok archiválása.
+
+* Kiadásra kész nagy felbontású képek.
+
+* Integráció veszteségmentes minőséget igénylő digitális könyvtárakba.
+
+* Orvosi és tudományos dokumentáció.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* XPS archívumok automatizált átalakítása JPEG2000 formátumba tárolási hatékonyság érdekében.
+
+* Ütemezett tétel feldolgozás dokumentumkép könyvtárakhoz.
+
+* Integráció digitális eszközkezelő rendszerekkel.
+
+* Egyszerűsített kiadási folyamatok nagy felbontású képekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

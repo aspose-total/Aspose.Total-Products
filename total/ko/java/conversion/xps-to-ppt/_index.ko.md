@@ -121,7 +121,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **PPT (PowerPoint 97-2003)**로 변환하면 이전 버전의 Microsoft Office와의 역호환성을 보장하면서 편집 가능한 슬라이드, 텍스트 및 기본 서식을 유지할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 이전 Office 버전과 호환되는 레거시 기업 프레젠테이션.
+
+* 보존을 위한 기록 및 역사적인 슬라이드 덱.
+
+* 이전 소프트웨어를 사용하는 기관을 위한 교육 콘텐츠.
+
+* 혼합 버전 환경을 위한 내부 보고 및 교육 덱.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 기업 아카이브를 위한 XPS 파일의 일괄 변환.
+
+* 역호환성 프레젠테이션의 예약 자동 생성.
+
+* 레거시 문서 워크플로우 통합.
+
+* 여러 Office 버전 간의 슬라이드 덱 생성 간소화.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

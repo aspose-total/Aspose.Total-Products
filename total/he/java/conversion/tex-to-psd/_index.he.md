@@ -105,7 +105,51 @@ otherformats: SVGZ EMZ WMF IMAGE JPEG2000 APNG  WMZ DXF TGA DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל־**PSD (מסמך Photoshop)** מאפשרת עריכה מלאה של הוויזואלים שנוצרו ב־LaTeX ב־Adobe Photoshop לעיצוב גבוה ועיבוד לאחר.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* עריכת תרשימי LaTeX למצגות ופוסטרים.
+
+* יצירת גרפיקה מוכנה לפרסום עם שיפורים ב־Photoshop.
+
+* התאמה אישית של ויזואלים לחינוך או הדרכה.
+
+* יצירת תמונות עשירות ויזואלית לשימוש אקדמי או שיווקי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת קובצים ב־TEX ל־PSD בצורה רצופה עבור צוותי עיצוב.
+
+* שילוב עם זרימות עבודה אוטומטיות לעיצוב גרפי.
+
+* יצירת PSD מופעל עבור יצירת פוסטר או אינפוגרפיקה.
+
+* ייצוא של תרשים LaTeX שניתן לעריכה בפוטושופ ברמות שונות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

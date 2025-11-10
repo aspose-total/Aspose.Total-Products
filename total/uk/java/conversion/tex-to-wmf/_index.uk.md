@@ -105,7 +105,51 @@ otherformats: TGA IMAGE DXF EMZ JPEG2000  SVGZ PSD WMZ APNG DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення TEX на **WMF (Windows Metafile)** зберігає векторну графіку для діаграм LaTeX, забезпечуючи сумісність з Microsoft Office та технічною документацією.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Вбудовування ілюстрацій LaTeX у Word або PowerPoint.
+
+* Технічні діаграми у професійних звітах.
+
+* Масштабовані фігури для корпоративних та академічних документів.
+
+* Розподіл графіки, згенерованої LaTeX, між платформами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетне перетворення діаграм LaTeX на WMF.
+
+* Інтеграція в потоки документів Microsoft Office.
+
+* Спровоковані оновлення векторної графіки у презентаціях.
+
+* Автоматизоване архівування технічних фігур, згенерованих LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

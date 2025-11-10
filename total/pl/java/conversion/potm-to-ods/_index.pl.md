@@ -61,7 +61,51 @@ Podczas konwertowania pliku POTM do ODS możesz również dodać znak wodny do w
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików POTM na ODS generuje pliki arkuszy kalkulacyjnych OpenDocument kompatybilne z LibreOffice, OpenOffice i innymi aplikacjami arkuszy kalkulacyjnych typu open-source. Zapewnia to możliwość ponownego wykorzystania danych prezentacji na różnych platformach.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przekształcanie danych slajdów korporacyjnych na formaty arkuszy kalkulacyjnych zgodne ze standardem otwartym.
+
+* Przeznaczenie prezentacji akademickich do analizy statystycznej w oprogramowaniu typu open-source.
+
+* Konwersja raportów organizacji pozarządowych dla współpracy na różnych platformach.
+
+* Standaryzacja tabel liczbowych ze slajdów w formacie ODS dla wielooddziałowych procesów roboczych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczne generowanie plików ODS z szablonów prezentacji.
+
+* Integracja z systemami zarządzania dokumentami obsługującymi formaty otwarte.
+
+* Konwersje wsadowe dla współpracy na różnych platformach.
+
+* Wywoływanie tworzenia plików ODS dla chmurowych potoków raportowania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

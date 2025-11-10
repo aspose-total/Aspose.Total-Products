@@ -102,7 +102,51 @@ otherformats: XLSB XLTM CSV XLTX EXCEL ODS TSV MD DIF XLAM XLT TXT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення XSLFO в формат **SXC (StarOffice Spreadsheet)** дозволяє безшовну взаємодію зі старими інструментами StarOffice та OpenOffice. SXC зберігає структуру та форматування для архівування та корпоративних звітів.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* Архівування графіків проектів на основі XSLFO в SXC для старих систем.
+
+* Підготовка електронних таблиць SXC для міжнародних партнерів, які використовують StarOffice.
+
+* Конвертація табличних даних XSLFO для навчальних та документаційних цілей.
+
+* Обмін щомісячними KPI в SXC для звітності про відповідність.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетне автоматизоване перетворення з XSLFO в SXC для архівних проектів.
+
+* Інтеграція в робочі процеси старих офісних пакетів, що підтримують формати StarOffice.
+
+* Планове створення звітів SXC з файлів XSLFO.
+
+* Тригерне перетворення для повторюваних керівницьких панелей управління.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

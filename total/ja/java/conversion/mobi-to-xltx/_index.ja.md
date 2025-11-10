@@ -61,7 +61,47 @@ MOBIをXLTXに変換した後、[Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBIをXLTX（Excelテンプレート）に変換すると、標準化された分析に最適なクリーンでXMLベースのテンプレートが生成されます。一貫した電子書籍レポートフレームワークを求める組織に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+- MOBIカタログエクスポート用のブランド化されたテンプレートの設定。
+
+- 部門間で視覚的なダッシュボードを再利用。
+
+- データインポートのための繰り返し可能なモデルの作成。
+
+- 複数の支店でのMOBI分析の標準化。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- 予定されたMOBIからXLTXテンプレートへの再生成。
+
+- 自動化されたExcelレポートビルダーとの統合。
+
+- 複数部門のテンプレート同期。
+
+- XLTXトリガーを介したクラウドベースのMOBIデータインポート。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

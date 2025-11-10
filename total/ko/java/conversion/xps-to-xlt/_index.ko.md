@@ -47,7 +47,51 @@ XPS 파일을 XLT로 변환하는 동안 출력 XLT 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **XLT(Excel 템플릿)**으로 변환하면 반복적으로 사용할 수 있는 재사용 가능한 서식이 적용된 스프레드시트를 만들 수 있어 표준화된 보고 및 일관된 데이터 입력에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 표준화된 회사 보고서 템플릿.
+
+* 프로젝트 추적 및 자원 할당 템플릿.
+
+* 반복적인 과제를 위한 학술 스프레드시트 템플릿.
+
+* 재무제표 및 예산 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 기업 팀을 위한 자동화된 XPS-to-XLT 템플릿 생성.
+
+* 미리 서식이 적용된 스프레드시트의 예약 생성.
+
+* 템플릿 배포를 위한 문서 관리 시스템과의 통합.
+
+* 반복적인 데이터 입력 워크플로우의 표준화된 간소화.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

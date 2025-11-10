@@ -102,7 +102,47 @@ otherformats: EXCEL CSV XLTX ODS SXC FODS XLSX XLT XLTM XLAM XLSM XLS XLSB DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי MOBI ל־TSV (ערכים מופרדים בטאב) מאפשרת ייצוא נקי ומובנה של נתוני ספר אלקטרוני המתאים לצוותים טכניים, מפתחי AI ופעולות נתונים בצד השרת שדורשים גדרים עקביים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+- יבוא של נתוני מטה-נתונים של ספרים אלקטרוניים למסדי נתונים רלציוניים.
+
+- אימון של מודלי שפה באמצעות נתוני MOBI מובנים.
+
+- יצירת לוגים לקריאה מבוססי TSV לכלים אנליטיים.
+
+- העברת פרטי ספרים אלקטרוניים למחסני נתונים עסקיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+- עיבוד רצפי MOBI ל־TSV לצורך ניתוח טקסט.
+
+- שילוב בצינורות עיבוד NLP אוטומטיות.
+
+- יצירת TSV במהלך סנכרון נתונים.
+
+- תקונת מטה-נתונים למערכות קטגוריזציה של AI.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

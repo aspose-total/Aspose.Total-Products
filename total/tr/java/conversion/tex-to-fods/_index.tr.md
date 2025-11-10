@@ -47,7 +47,55 @@ TEX dosyasını FODS'ye dönüştürürken, çıktı FODS dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **FODS (Flat OpenDocument Spreadsheet)** olarak dönüştürmek, LaTeX verilerini LibreOffice ve OpenOffice ile uyumlu olan açık, XML tabanlı elektronik tablolara dönüştürür.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX tabanlı bilimsel tabloları açık kaynak ofis paketleriyle paylaşma.
+
+* Platformdan bağımsız elektronik tablo formatları gerektiren akademik araştırmalar.
+
+* Çoklu platform ortamlarında proje takibi ve raporlama.
+
+* İşbirlikçi FODS elektronik tablolar için LaTeX verilerinin hazırlanması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Açık kaynak iş akışları için otomatik TEX'ten FODS'a dönüşüm.
+
+* LaTeX veri kümelerinin çapraz platform işbirliği için toplu işlenmesi.
+
+* Laboratuvar sonuçlarının veya deney tablolarının zamanlanmış dışa aktarımı.
+
+* Araştırma kurumları için belge akışlarına entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

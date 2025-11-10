@@ -130,7 +130,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XPS ke **OTT (OpenDocument Text Template)** mengubah file XPS statis menjadi template yang dapat digunakan ulang untuk pengguna LibreOffice dan OpenOffice, sempurna untuk dokumen alur kerja standar dalam format terbuka.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Utama" %}}
+
+
+
+* Template materi akademik dan pendidikan untuk siswa dan guru.
+
+* Template proyek LSM untuk laporan dan proposal.
+
+* Template sumber terbuka standar untuk dokumentasi perusahaan.
+
+* Template konten kreatif untuk brosur dan buletin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi batch template OTT dari repositori XPS.
+
+* Integrasi dengan alat otomatisasi alur kerja sumber terbuka.
+
+* Pengisian otomatis data organisasi ke dalam template.
+
+* Memperlancar proses pembuatan dokumen lintas platform.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

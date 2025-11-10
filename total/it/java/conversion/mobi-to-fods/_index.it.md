@@ -61,7 +61,47 @@ Dopo aver convertito MOBI in FODS, [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'esportazione di MOBI in FODS (Flat OpenDocument Spreadsheet) fornisce un output di foglio di calcolo basato su XML ideale per lo scambio di dati leggero. È perfetto per ambienti open-source e sistemi che richiedono dati strutturati di eBook in formato testo semplice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+- Gestione delle librerie di eBook in applicazioni di fogli di calcolo open-source.
+
+- Modifica degli attributi del contenuto MOBI all'interno di LibreOffice Calc.
+
+- Creazione di report leggeri per l'analisi delle biblioteche digitali.
+
+- Condivisione di metadati tra team utilizzando formati aperti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+- Conversioni batch da MOBI a FODS per portali di dati aperti.
+
+- Integrazione nei flussi di dati ETL open-source.
+
+- Analisi XML per la verifica e la pulizia dei metadati.
+
+- Pubblicazione di dati basati su FODS per istituzioni accademiche.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

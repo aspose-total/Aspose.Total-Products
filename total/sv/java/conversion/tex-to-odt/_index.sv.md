@@ -143,7 +143,51 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera TEX till **ODT (OpenDocument Text)** gör att LaTeX-användare kan producera öppna standarddokument som är kompatibla med LibreOffice, OpenOffice och andra kontorspaket, vilket säkerställer tillgänglighet och samarbete över plattformar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* Akademiska bidrag i öppna dokumentformat.
+
+* Samarbetsforskning med multiplattformskompatibilitet.
+
+* Dokumentation och manualer för öppen källkod.
+
+* LaTeX-formaterade e-böcker eller undervisningsmaterial för öppen källkod.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batchkonvertering av TEX till ODT för universitetsarkiv.
+
+* Integration i öppna publiceringspipeliner.
+
+* Automatiserad konvertering för distribution av dokumentation över flera plattformar.
+
+* Generering av dynamiska ODT-rapporter från LaTeX-dataset.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

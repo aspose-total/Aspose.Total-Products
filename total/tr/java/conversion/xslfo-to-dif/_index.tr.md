@@ -47,7 +47,55 @@ XSLFO dosyasını DIF'ye dönüştürürken, çıktı DIF dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO dosyalarını **DIF (Veri Değişim Formatı)** biçimine dönüştürmek, eski elektronik tablo uygulamaları ve eski veri sistemleri ile uyumluluğu sağlar. DIF, yapılandırılmış tablo içeriğini korurken heterojen platformlar arasında veri taşınabilirliğini destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Tarihsel satış kayıtlarının eski elektronik tablo sistemlerine aktarılması.
+
+* Düzenleyici uyumluluk için XSLFO ile oluşturulan raporların arşivlenmesi.
+
+* DIF formatını kullanarak kurumsal planlama yazılımları arasında veri alışverişi.
+
+* Çeşitli platformlar için pazarlama metriklerinin hazırlanması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Aylık XSLFO performans raporlarının DIF formatına toplu dönüşümü.
+
+* DIF girdisi gerektiren eski ERP sistemlerine entegrasyon.
+
+* Tarihsel trend analizi için DIF veri kümelerinin zamanlanmış güncellemeleri.
+
+* Otomatik raporlama akışlarında XSLFO'dan DIF'a tetiklenen dönüşüm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -129,7 +129,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XPS thành **MARKDOWN** biến tài liệu tĩnh thành định dạng nhẹ, dễ chỉnh sửa tương thích với blog, nền tảng tài liệu và hệ thống quản lý phiên bản.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xuất bản tài liệu kỹ thuật trên GitHub hoặc GitLab.
+
+* Chuyển đổi báo cáo thành nội dung sẵn sàng cho blog.
+
+* Tạo ghi chú và bài viết cơ sở kiến thức nội bộ.
+
+* Chỉnh sửa cộng tác cho các nhóm sử dụng đánh dấu nhẹ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi tự động các bản lưu trữ XPS thành Markdown cho các nền tảng nội dung.
+
+* Tích hợp với các công cụ tạo trang web tĩnh như Hugo hoặc Jekyll.
+
+* Tạo phiên bản Markdown theo lịch trình cho tài liệu định kỳ.
+
+* Quy trình làm việc mạch lạc cho việc cập nhật cơ sở kiến thức nội bộ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

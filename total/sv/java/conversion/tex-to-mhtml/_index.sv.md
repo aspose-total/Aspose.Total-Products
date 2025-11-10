@@ -143,7 +143,55 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera TEX till **MHTML (MIME HTML)** gör att LaTeX-dokument kan renderas som en enda webbsida, vilket bevarar ekvationer, tabeller och grafik för offline- eller onlinevisning.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Arkivering av LaTeX-forskningsdokument som självständiga webbsidor.
+
+* Dela LaTeX-baserade rapporter med inbäddad grafik och ekvationer.
+
+* Generera interaktiva föreläsningsmaterial i en enda MHTML-fil.
+
+* Konvertera tekniskt innehåll för offline e-lärandemoduler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batch TEX-till-MHTML-konvertering för kursbibliotek.
+
+* Integration i automatiserad generering av e-lärningsinnehåll.
+
+* Schemalagda MHTML-uppdateringar från LaTeX-källor.
+
+* Utlöst konvertering för delning av forskningspublikationer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

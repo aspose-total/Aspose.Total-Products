@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **POT (PowerPoint Şablonu)**'na dönüştürmek, statik XPS belgelerinden tekrar kullanılabilir Microsoft PowerPoint şablonları oluşturmayı sağlar, standartlaştırılmış kurumsal ve akademik sunumlar için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Müşteri teklifleri için şirket markalı PowerPoint şablonları.
+
+* Tekrarlanan ders sunumları için akademik ders materyali şablonları.
+
+* Önceden tanımlanmış düzenlerle pazarlama sunumları.
+
+* Tekrarlanan kullanımlar için konferans ve seminer şablonları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Ekipler için XPS dosyalarının POT şablonlarına toplu dönüşümü.
+
+* Otomatik sunum oluşturma iş akışlarıyla entegrasyon.
+
+* Tekrarlanan şablon tabanlı içerikler için zamanlanmış güncellemeler.
+
+* Tekrarlayan raporlama görevleri için kolaylaştırılmış slayt oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,51 @@ otherformats: MD ODS TSV SXC XLT XLTM EXCEL XLSM FODS XLTX XLAM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **TSV (ค่าที่แยกด้วยแท็บ)** ช่วยให้การสกัดข้อมูลตารางเป็นขั้นตอนที่ง่ายขึ้นสำหรับการวิเคราะห์ข้อมูล การนำเข้าฐานข้อมูล หรือกระบวนการ ETL  TSV เป็นขนาดเบา อ่านง่าย และได้รับการสนับสนุนอย่างกว้างขวางโดยภาษาโปรแกรมและเครื่องมือข้อมูล
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* ส่งออกรายงาน XSLFO เข้าสู่ TSV เพื่อนำเข้าฐานข้อมูล
+
+* เตรียมชุดข้อมูลที่เหมาะสำหรับการวิเคราะห์จากตาราง XSLFO โครงสร้าง
+
+* การย้ายข้อมูลจากแผ่นงบการเงิน XSLFO ไปยังแพลตฟอร์มวิเคราะห์
+
+* แบ่งปันข้อมูลตารางอย่างง่ายในรูปแบบ TSV เพื่อการบูรณาการที่ง่าย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงจาก XSLFO เป็น TSV ในชุดคำสั่งที่กำหนดเวลาสำหรับท่อ BI
+
+* การรวม ETL สำหรับกระบวนการทำงานวิเคราะห์แบบเรียลไทม์
+
+* การส่งออก TSV ที่เรียกใช้จากรายงาน XSLFO สำหรับแดชบอร์ดอัตโนมัติ
+
+* การแปลงโปรแกรมสำหรับชุดข้อมูล XSLFO ขนาดใหญ่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

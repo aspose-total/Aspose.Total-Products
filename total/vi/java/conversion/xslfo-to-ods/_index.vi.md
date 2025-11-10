@@ -47,7 +47,55 @@ Trong khi chuyển đổi tệp XSLFO sang ODS, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO sang **ODS (OpenDocument Spreadsheet)** đảm bảo tính tương thích với các ứng dụng bảng tính mã nguồn mở hiện đại. ODS bảo tồn các kiểu dáng, công thức và bảng, làm cho nó lý tưởng cho báo cáo cộng tác và chia sẻ dữ liệu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi báo cáo nhân sự được tạo bằng XSLFO cho người dùng LibreOffice.
+
+* Chia sẻ phân tích hàng quý với đối tác bên ngoài dưới định dạng ODS.
+
+* Chuẩn bị bảng điều khiển vận hành để xem xét giữa các bộ phận.
+
+* Lưu trữ các bảng tài chính dựa trên XSLFO trong một định dạng mở đảm bảo tương lai.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi thời gian thực từ XSLFO sang ODS cho môi trường văn phòng cộng tác.
+
+* Xuất hàng loạt các chỉ số vận hành từ XSLFO theo lịch trình.
+
+* Tích hợp vào các đường ống báo cáo tự động cho các nhóm làm việc từ xa.
+
+* Tự động tạo các bảng tính ODS từ các mẫu XSLFO cho các báo cáo định kỳ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

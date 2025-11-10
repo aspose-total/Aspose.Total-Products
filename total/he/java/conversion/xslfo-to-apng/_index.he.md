@@ -105,7 +105,51 @@ otherformats: WMZ SVGZ JPEG2000 DXF  TGA PSD EMZ WMF IMAGE DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי XSLFO (פורמט עצמי לעיצוב גרפי) ל-**APNG (תמונות ניידות רשת ניידות)** מאפשרת ייצוגים מונפשים של נתוני דוח מובנים תוך שמירה על איכות וקטורית מדויקת. APNGs מתאימים במיוחד ללוחות מחוונים אינטראקטיביים ולוויזואליזציות במבוססי רשת.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* תרשימים מונפשים מדוחות ניתוח שנוצרו מ-XSLFO.
+
+* ויזואליזציות אינטראקטיביות של מגמות פיננסיות או תפעוליות.
+
+* תוכן חינוכי ידידותי לנייד עם טבלאות מונפשות.
+
+* שקופיות דינמיות בפלטפורמות טלמדיצינה או למידה מרחוק.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רצפית של לוחות מחוונים XSLFO ל-APNG ליישומי רשת.
+
+* שילוב בצינורות נתונים בזמן אמת לוויזואליזציות.
+
+* יצירה מתוזמנת של גרפיקות מונפשות לכלי דיווח.
+
+* יצירת APNG מופעלת מ-XSLFO בתהליכי עבודה אוטומטיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -143,7 +143,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX thành **WordML (định dạng XML của Microsoft Word)** giúp nội dung LaTeX hoàn toàn tương thích với tài liệu dựa trên XML của Word, cho phép quy trình làm việc tự động, xác thực nội dung và tích hợp với hệ thống doanh nghiệp.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tạo báo cáo khoa học dựa trên XML từ nguồn LaTeX.
+
+* Quy trình làm tài liệu doanh nghiệp sử dụng WordML có cấu trúc.
+
+* Hợp tác đa tác giả với việc hợp nhất nội dung tự động.
+
+* Xuất bản dựa trên XML của tài liệu học thuật hoặc kỹ thuật.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo tài liệu WordML tự động từ các kho LaTeX.
+
+* Tích hợp vào hệ thống quản lý nội dung doanh nghiệp.
+
+* Xuất XML kích hoạt cho các bài báo nghiên cứu quy mô lớn.
+
+* Xử lý theo lô cho báo cáo tuân thủ và nộp học thuật.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

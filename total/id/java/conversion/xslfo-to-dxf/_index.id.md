@@ -57,7 +57,51 @@ Menggunakan API, Anda juga dapat memutar gambar DXF keluaran sesuai kebutuhan An
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **DXF (Drawing Exchange Format)** menjaga tata letak tabular berbasis vektor untuk digunakan dalam aplikasi CAD dan desain teknis. File DXF mempertahankan dimensi yang tepat dan struktur tata letak.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengonversi laporan teknik yang dihasilkan oleh XSLFO ke format yang ramah CAD.
+
+* Mengarsipkan tabel terstruktur sebagai gambar vektor untuk dokumentasi teknis.
+
+* Mengintegrasikan tata letak operasional ke dalam perangkat lunak desain.
+
+* Menghasilkan diagram teknis dari laporan XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch XSLFO ke DXF untuk alur kerja dokumentasi teknik.
+
+* Ekspor terjadwal tabel laporan terstruktur sebagai DXF untuk tinjauan desain.
+
+* Integrasi dengan jalur laporan CAD otomatis.
+
+* Konversi dipicu data XSLFO menjadi gambar DXF untuk tim teknis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

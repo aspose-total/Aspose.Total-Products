@@ -143,7 +143,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX-bestanden naar **PCL (Printer Command Language)** maakt het mogelijk om LaTeX-documenten, inclusief vergelijkingen, tabellen en diagrammen, rechtstreeks naar printers te sturen voor hoogwaardige output in professionele of academische omgevingen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Afdrukken van LaTeX-onderzoeksrapporten en technische verslagen.
+
+* Hoogwaardige output van colleges en educatief materiaal.
+
+* Professionele hand-outs produceren vanuit LaTeX gegenereerde tabellen en diagrammen.
+
+* Afdrukken van batchdocumenten uit wetenschappelijke of technische projecten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch TEX-naar-PCL conversie voor afdrukwachtrijen.
+
+* Integratie in geautomatiseerde documentafdrukworkflows.
+
+* Getriggerde PCL-generatie vanuit LaTeX-opslagplaatsen voor massaal afdrukken.
+
+* Geplande output voor academische of zakelijke documentendistributie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

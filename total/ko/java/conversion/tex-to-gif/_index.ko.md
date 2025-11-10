@@ -143,7 +143,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **GIF (그래픽 교환 형식)**으로 변환하면 LaTeX 시각화 및 작은 애니메이션을 온라인으로 공유하거나 교육 자료에 포함할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 교육 콘텐츠용 간단한 LaTeX 애니메이션.
+
+* 단계별 문제 해결 다이어그램 공유.
+
+* e-러닝 플랫폼에 애니메이션된 수식 포함.
+
+* GIF 형식으로 반복되는 LaTeX 계산 시각화.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 자습서용 자동 일괄 TEX에서 GIF로 변환.
+
+* LMS 및 온라인 코스 콘텐츠 통합.
+
+* LaTeX 플롯이나 시퀀스에서 GIF 생성 트리거.
+
+* LaTeX 업데이트에 따라 교육용 GIF 자동 업데이트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

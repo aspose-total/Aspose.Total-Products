@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**PPSX（PowerPoint Show、マクロなし）に変換すると、読み取り専用で、フォーマットとレイアウトを維持しながらセキュリティのためにマクロ依存性を削除したプレゼンテーション用スライドデッキが作成されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 企業全体向けの情報提供プレゼンテーション。
+
+* eラーニング配信用の教育スライド。
+
+* 共有可能なマーケティングまたはセールスプレゼンテーション用のデッキ。
+
+* 大規模な観客向けのイベントやセミナープレゼンテーション。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XPSファイルをPPSXに一括変換してセキュアなプレゼンテーション共有を行う。
+
+* トレーニングセッション用のショーファイルの定期的な自動作成。
+
+* プレゼンテーション配信のための内部ポータルとの統合。
+
+* クライアントや一般向けに読み取り専用スライドを効率的に生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

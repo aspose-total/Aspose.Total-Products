@@ -102,7 +102,51 @@ otherformats: XLSM XLTM XLTX FODS EXCEL CSV SXC TXT TSV XLSB MD XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення XSLFO на **XLAM (Excel Add-In)** дозволяє вбудовувати дані, створені за допомогою XSLFO, та макроси в повторно використовувані додатки Excel. XLAM підтримує автоматизацію, індивідуальну звітність та інтерактивні програми електронних таблиць.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Упаковка XSLFO звітних шаблонів як додатків Excel для використання командою.
+
+* Розповсюдження автоматизованих засобів обчислення, отриманих з даних XSLFO.
+
+* Інтеграція аналітики XSLFO в індивідуальні панелі управління Excel.
+
+* Забезпечення повторюваних робочих процесів з допомогою додатків XLAM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Автоматизація генерації XLAM з XSLFO для повторюваних завдань.
+
+* Заплановане розгортання додатків з оновленими даними XSLFO.
+
+* Інтеграція з автоматизацією робочих процесів на основі VBA.
+
+* Тригерне створення додатків XLAM для корпоративних засобів звітності.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

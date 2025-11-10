@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı PSD görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **PSD'ye (Photoshop Belgesi)** dönüştürmek, LaTeX tarafından oluşturulan görsellerin yüksek kaliteli tasarım ve işleme için Adobe Photoshop'ta tamamen düzenlenebilir olmasını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Sunumlar ve posterler için LaTeX diyagramlarını düzenleme.
+
+* Photoshop iyileştirmeleriyle yayına hazır grafikler hazırlama.
+
+* Eğitim veya eğitim görsellerini özelleştirme.
+
+* Pazarlama veya akademik kullanım için görsel açıdan zengin figürler oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tasarım ekipleri için toplu TEX'ten PSD'ye dönüşüm.
+
+* Otomatik grafik tasarım iş akışlarıyla entegrasyon.
+
+* Poster veya infografik oluşturmak için tetiklenmiş PSD oluşturma.
+
+* Çok katmanlı Photoshop düzenlemesi için düzenlenebilir LaTeX diyagramı dışa aktarma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh TGA đầu ra theo nhu c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **TGA (Targa Image)** cho phép xuất raster chất lượng cao của các hình ảnh được tạo ra từ LaTeX cho các ứng dụng đòi hỏi đồ họa, trực quan hóa khoa học và nghệ thuật số.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Hình minh họa khoa học chất lượng cao.
+
+* Sơ đồ được tạo ra từ LaTeX để chỉnh sửa đồ họa.
+
+* Chuẩn bị hình ảnh cho quy trình hoạt hình và mô phỏng.
+
+* Xuất bản số với chất lượng hình ảnh không mất mát.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Xuất batch TEX sang TGA cho các đường ống trực quan hóa nghiên cứu.
+
+* Tích hợp với công cụ xử lý đồ họa và mô phỏng.
+
+* Tạo ra hình ảnh chất lượng cao từ nội dung LaTeX được kích hoạt.
+
+* Lưu trữ tự động các sơ đồ trong TGA cho các nhóm đồ họa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

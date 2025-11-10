@@ -135,7 +135,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **OTP (OpenDocument Presentation Template)** formátumba lehetővé teszi újrafelhasználható diavetítés sablonok létrehozását strukturált XSLFO adatokból. Az OTP sablonok egységesítik a prezentáció formázását a csapatok között.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Vállalati prezentációs sablonok előkészítése XSLFO-generált jelentésekből.
+
+* Képzési modulok egységesítése újrafelhasználható OTP formátumban.
+
+* Befektetői pitch deck-ek létrehozása XSLFO tartalomból származó egységes stílussal.
+
+* Negyedéves jelentési sablonok archiválása későbbi újrafelhasználás céljából.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ütemezett tételkonverzió XSLFO-ról OTP-re sablonkönyvtárakhoz.
+
+* Integráció automatizált diavetítés generálási csövekkel.
+
+* Kiváltott OTP sablon létrehozása új XSLFO jelentéssorozatokhoz.
+
+* XSLFO-alapú sablonok automatikus telepítése az osztályok között.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

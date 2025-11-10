@@ -57,7 +57,55 @@ Med hjälp av API:t kan du också rotera den utgående JPEG2000-bilden enligt di
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av XPS till **JPEG2000** ger högkvalitativa, komprimerade bilder lämpliga för professionell publicering, medicinska ändamål och arkivering.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Arkivering av företags- och juridiska dokument.
+
+* Publiceringsklara högupplösta bilder.
+
+* Integration i digitala bibliotek som kräver förlustfri kvalitet.
+
+* Medicinsk och vetenskaplig dokumentation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Automatisk konvertering av XPS-arkiv till JPEG2000 för effektiv lagring.
+
+* Schemalagd batchbehandling för dokumentbildsbibliotek.
+
+* Integration med system för digital tillgångshantering.
+
+* Strömlinjeformade publiceringsflöden för högupplösta bilder.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

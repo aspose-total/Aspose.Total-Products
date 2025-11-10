@@ -53,7 +53,45 @@ API를 사용하여 워터마크를 사용하여 POT 파일을 DOCM로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POT 파일을 DOCM(Word Macro-Enabled Document)으로 변환하면 기업은 프레젠테이션 콘텐츠와 함께 자동화 논리를 유지할 수 있습니다. 이 형식은 PowerPoint 데이터가 상호 작용하는 보고서나 템플릿을 구동하는 동적 문서 생성 워크플로에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 프레젠테이션 템플릿에서 자동화된 교육 매뉴얼 작성.
+
+* 반복되는 보고서 생성을 위한 매크로 삽입.
+
+* 포함된 양식이 있는 대화식 정책 문서 작성.
+
+* 매크로가 적용된 PowerPoint 세일즈 덱을 클라이언트 제안서로 변환.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 문서 관리 파이프라인에 매크로가 적용된 Word 내보내기 통합.
+
+* 슬라이드 라이브러리에서 DOCM 문서 자동 생성.
+
+* 비즈니스 인텔리전스 시스템에서 동적 보고서 생성.
+
+* CRM 또는 ERP 환경에서 템플릿 자동화.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

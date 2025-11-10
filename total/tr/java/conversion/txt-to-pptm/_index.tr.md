@@ -54,7 +54,55 @@ API ayrıca parola korumalı TXT belgelerini PPTM'ye dönüştürmenize olanak t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT dosyalarını **PPTM (Makro Etkin) biçimine dönüştürmek, gömülü otomasyonla dinamik slayt paketleri oluşturmayı sağlar. Tekrarlanabilir etkileşimli slaytlara ihtiyaç duyan işletmeler ve eğitmenler için mükemmel bir seçenek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Gömülü makrolarla KPI gösterge tabloları.
+
+* Eğitim oturumları için etkileşimli simülasyonlar.
+
+* Otomatik hesaplamalarla finansal rapor sunumları.
+
+* Makro destekli güncellemelerle dinamik proje slaytları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Günlük kayıtlardan makro etkin sunumların otomatik oluşturulması.
+
+* Kurumsal otomasyon araçlarıyla entegrasyon.
+
+* Tekrar eden finansal slaytlar için tetiklenen güncellemeler.
+
+* Sunum içeriğini yenilemek için zamanlanmış makro yürütmeleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

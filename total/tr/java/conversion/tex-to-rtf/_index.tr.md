@@ -143,7 +143,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **RTF (Zengin Metin Formatı)** 'a dönüştürmek, LaTeX belgelerinin neredeyse her kelime işlemcisinde açılmasına ve temel biçimlendirmenin ve matematiksel denklemlerin korunmasına olanak tanır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Biçimlendirmeyi kaybetmeden platformlar arasında akademik makaleler paylaşma.
+
+* Word veya LibreOffice'te erişilebilir karmaşık denklemlere sahip teknik kılavuzlar.
+
+* LaTeX stiliyle çapraz platform iş belgeleri.
+
+* Evrensel olarak okunabilir biçimlerde e-posta için hazır LaTeX belgeleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Arşivler ve çapraz platform uyumluluğu için toplu dönüştürme.
+
+* Teknik ekipler için belge işleme borularına entegrasyon.
+
+* LaTeX veri kümelerinden otomatik RTF raporlarının oluşturulması.
+
+* Otomatik yayınlama sistemleri için tetiklenen dönüşümler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

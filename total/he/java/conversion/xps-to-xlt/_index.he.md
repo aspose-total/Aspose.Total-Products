@@ -102,7 +102,51 @@ otherformats: XLSM EXCEL TXT ODS DIF XLSB CSV TSV SXC XLTX XLAM MD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XPS ל-XLT (תבנית Excel) מאפשרת יצירת גיליונות עבודה מוכנים לשימוש חוזר, המיועדים לדיווח תקני ולהזנת נתונים עקביים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* תבניות דיווח תקניות לחברות.
+
+* תבניות למעקב אחר פרויקטים והקצאת משאבים.
+
+* תבניות גיליונות עבודה אקדמיים למשימות חוזרות.
+
+* תבניות להצהרות פיננסיות ותקציבון.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת תבניות XPS-to-XLT ממוכנות באופן אוטומטי עבור צוותי עסקים.
+
+* יצירה מתוזמנת של גיליונות עבודה מוכנים מראש.
+
+* שילוב עם מערכות ניהול מסמכים להפצת תבניות.
+
+* תהליך תקנה של זרימות עבודה חוזרות להזנת נתונים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

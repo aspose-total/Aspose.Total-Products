@@ -47,7 +47,51 @@ Saat mengonversi file TEX ke ODS, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **ODS (OpenDocument Spreadsheet)** memungkinkan pengguna untuk memanfaatkan konten LaTeX dalam lembar kerja yang dapat diedit untuk analisis dan proyek kolaboratif.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Penelitian akademis dengan tabel numerik kompleks.
+
+* Lembar pelacakan keuangan atau proyek sumber terbuka.
+
+* Perhitungan rekayasa yang memerlukan kompatibilitas multi-platform.
+
+* Berbagi tabel LaTeX dalam ODS untuk proyek pendidikan kolaboratif.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch TEX ke ODS untuk laboratorium universitas.
+
+* Integrasi ke dalam jalur data sumber terbuka.
+
+* Pelaporan otomatis data numerik yang dihasilkan oleh LaTeX.
+
+* Generasi ODS yang dipicu untuk lingkungan multi-pengguna.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **SWF (Flash)**-re interaktív animációkat tesz lehetővé a régi vezérlőpultokhoz és webalkalmazásokhoz. Az SWF megőrzi a vektorgrafikát és lehetővé teszi az idővonalon alapuló interakciókat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Interaktív XSLFO diagramok beágyazása régi webportálokba.
+
+* Animált vezérlőpultok előkészítése történelmi belső hálózati rendszerekhez.
+
+* Képzési modulok átalakítása SWF formátumba offline használatra.
+
+* Interaktív XSLFO vizualizációk archiválása szabályozási célokra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ütemezett XSLFO-SWF átalakítás régi rendszerekhez.
+
+* Animált vezérlőpultok tömeges létrehozása.
+
+* Kiváltott generálás webes régi alkalmazásokhoz.
+
+* Integráció automatizált interaktív jelentési csővezetékekkel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

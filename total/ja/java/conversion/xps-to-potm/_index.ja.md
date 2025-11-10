@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**POTM（マクロ有効なPowerPointテンプレート）に変換すると、再利用可能なテンプレートと自動化が組み合わさり、埋め込まれたマクロを実行できるインタラクティブなスライドデッキが可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* 自動化されたチャートの更新が可能な企業テンプレート。
+
+* 埋め込まれたマクロを使用したインタラクティブなトレーニングプレゼンテーション。
+
+* スライド内で動的なデータ更新が必要な財務ダッシュボード。
+
+* PowerPointベースのレポート作成におけるワークフローの自動化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XPSファイルをマクロ有効なテンプレートに自動バッチ変換。
+
+* Excelやデータベースソースとの統合によるスライドコンテンツの動的な提供。
+
+* マクロ有効なプレゼンテーションテンプレートの定期的な生成。
+
+* 企業会議のためのインタラクティブなダッシュボードの効率的な作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

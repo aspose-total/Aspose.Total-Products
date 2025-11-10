@@ -47,7 +47,51 @@ otherformats: DIF MD FODS TXT XLT ODS XLTX XLSM XLSB SXC XLTM EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **FODS (Flat OpenDocument Spreadsheet)** ช่วยในการนำข้อมูล LaTeX มาใส่ในสเปรดชีตแบบ XML ที่เปิดเผย ที่เข้ากันได้กับ LibreOffice และ OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* แบ่งปันตารางทางวิทยาศาสตร์ที่ใช้ LaTeX กับชุดโปรแกรมสำนักงานโอเพนซอร์ส
+
+* งานวิจัยทางวิชาการที่ต้องการรูปแบบสเปรดชีตที่เปิดเผยและไม่ขึ้นอยู่กับแพลตฟอร์ม
+
+* การติดตามโครงการและรายงานในสภาพแวดล้อมหลายแพลตฟอร์ม
+
+* เตรียมข้อมูล LaTeX สำหรับสเปรดชีต FODS ที่ใช้ร่วมกัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง TEX เป็น FODS อัตโนมัติสำหรับการทำงานแบบโอเพนซอร์ส
+
+* ประมวลผลชุดข้อมูล LaTeX แบบกลุ่มสำหรับการทำงานร่วมกันในหลายแพลตฟอร์ม
+
+* การส่งออกผลการทดลองหรือตารางการทดลองตามกำหนดเวลา
+
+* การรวมเข้ากับท่องไปของเอกสารสำหรับสถาบันวิจัย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

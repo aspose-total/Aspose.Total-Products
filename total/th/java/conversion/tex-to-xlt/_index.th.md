@@ -47,7 +47,51 @@ otherformats: XLTX TXT ODS FODS SXC XLSB XLAM XLT EXCEL MD XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **XLT (Excel Template)** ช่วยให้ข้อมูลที่ใช้ LaTeX เป็นเทมเพลต Excel ที่สามารถนำมาใช้ซ้ำในโครงการ การวิเคราะห์ และงานทางวิชาการ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases หลัก" %}}
+
+
+
+* รูปแบบเทมเพลตสำหรับทีมวิจัยที่มีมาตรฐาน
+
+* รูปแบบโมเดลการเงินที่ใช้ซ้ำจากตาราง LaTeX
+
+* แผ่นคำนวณเกรดทางวิชาการด้วยสูตร LaTeX
+
+* รูปแบบการติดตามโครงการวิศวกรรม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* สร้างเทมเพลต Excel จำนวนมากจาก LaTeX แบบกลุ่ม
+
+* การผสานเข้ากับคลังเทมเพลตขององค์กรหรือสถาบันการศึกษา
+
+* การประชุมข้อมูล LaTeX ในเทมเพลต XLT โดยอัตโนมัติ
+
+* การอัปเดตเทมเพลตตามกำหนดเวลาสำหรับสภาพแวดล้อมการใช้งานหลายผู้ใช้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

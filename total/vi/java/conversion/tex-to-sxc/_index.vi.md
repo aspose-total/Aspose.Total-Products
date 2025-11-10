@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp TEX sang SXC, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **SXC (Bảng tính StarOffice Calc)** cho phép người dùng cũ của OpenOffice hoặc StarOffice làm việc với dữ liệu bảng LaTeX mà không mất cấu trúc.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Bộ dữ liệu LaTeX lịch sử trong định dạng tương thích với StarOffice.
+
+* Nghiên cứu học thuật yêu cầu tính tương thích với văn phòng cũ.
+
+* Chia sẻ bảng LaTeX số học trên nhiều nền tảng.
+
+* Báo cáo dự án trong SXC cho các hệ thống văn phòng cũ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt định kỳ của bộ dữ liệu LaTeX.
+
+* Tích hợp vào quy trình tự động hóa văn phòng cũ.
+
+* Lưu trữ bảng LaTeX có cấu trúc cho sự liên tục trong nghiên cứu.
+
+* Tạo ra SXC theo yêu cầu cho các dự án cộng tác.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

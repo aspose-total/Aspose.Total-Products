@@ -57,7 +57,51 @@ Met behulp van de API kunt u ook de uitgevoerde JPEG2000-afbeelding roteren volg
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XSLFO naar **JPEG2000** levert sterk gecomprimeerde rasterafbeeldingen op met minimaal kwaliteitsverlies. JPEG2000 is geschikt voor medische beeldvorming, grote visuele rapporten en archiveringsdoeleinden.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke Gebruiksscenario's" %}}
+
+
+
+* Archiveren van XSLFO-rapporten met hoge resolutie met complexe tabellen.
+
+* Gedetailleerde financiële of operationele visuals voor digitale distributie voorbereiden.
+
+* XSLFO-analyses omzetten naar efficiënte rasterafbeeldingen.
+
+* Genereren van grootformaat visuals voor publicaties.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchconversie van XSLFO naar JPEG2000 voor archivering.
+
+* Geplande generatie voor geautomatiseerde publicatieworkflows.
+
+* Integratie met beeldoptimalisatiepijplijnen.
+
+* Getriggerde export van hoge resolutie van XSLFO-dashboards.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ TEXファイルをMDに変換するときに、出力MDファイル形式に透�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**MD（Markdownファイル）**に変換すると、LaTeXから標準のMarkdownファイルが生成され、テキスト構造、表、基本的なフォーマットが保持され、複数プラットフォームで読みやすくなります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* Gitベースの共同作業のためのLaTeX研究ノートの準備。
+
+* 数式と表のサポートを備えた軽量なドキュメント。
+
+* オープンソースのMarkdown形式でのLaTeX講義ノートの共有。
+
+* 静的ウェブサイト用に技術レポートを変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 研究チーム向けの自動バッチTEXからMDへの変換。
+
+* バージョン管理されたウェブコンテンツパイプラインへの統合。
+
+* LaTeXリポジトリからのMarkdownファイルのトリガー更新。
+
+* 教育または技術ブログ用のMDファイルの継続的生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

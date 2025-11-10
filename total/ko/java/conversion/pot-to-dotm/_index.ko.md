@@ -53,7 +53,45 @@ API를 사용하여 워터마크를 사용하여 POT 파일을 DOTM로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POT를 DOTM(매크로 활성화 워드 템플릿)으로 변환하면 자동화 매크로가 포함된 재사용 가능한 문서 템플릿을 제공하여 기업이 PowerPoint 기반 데이터를 활용한 동적 자동 작성 문서를 얻을 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 데이터 필드가 포함된 대화식 제안 템플릿 생성.
+
+* 매크로 활성화 문서 키트로 PowerPoint 템플릿 변환.
+
+* 브랜드 인보이스 또는 인증서의 자동 생성.
+
+* 부서 간 문서 표준화.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 워크플로 자동화 시스템 내 DOTM 생성.
+
+* 클라우드 기반 문서 플랫폼을 통한 자동화된 템플릿 배포.
+
+* 온디맨드 문서 생성을 위한 ERP 또는 CRM 데이터 통합.
+
+* 매크로 활성화 문서 템플릿의 기업 전체 배포.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

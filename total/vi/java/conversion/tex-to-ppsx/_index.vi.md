@@ -135,7 +135,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX thành **PPSX (PowerPoint Show without Macros)** tạo ra các bài thuyết trình an toàn, sẵn sàng để xem với nội dung LaTeX, phù hợp để chia sẻ trên nhiều nền tảng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Bài giảng học thuật để phân phối mà không có rủi ro bảo mật macro.
+
+* Bài thuyết trình doanh nghiệp hoặc đào tạo với bảng được thiết kế bằng LaTeX.
+
+* Slide hội thảo có chứa biểu đồ phong phú về công thức.
+
+* Chia sẻ trên nhiều nền tảng của các slide kỹ thuật.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ LaTeX sang PPSX.
+
+* Tự động tạo ra các slide bài giảng hoặc đào tạo.
+
+* Tích hợp với hệ thống quản lý học tập hoặc thuyết trình doanh nghiệp.
+
+* Tạo ra slide theo yêu cầu cho các dự án hợp tác học thuật.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

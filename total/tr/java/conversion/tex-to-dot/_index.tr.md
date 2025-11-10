@@ -143,7 +143,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX dosyalarını **DOT (Word Belge Şablonu)** biçimine dönüştürmek, kullanıcıların LaTeX biçimlendirmesinden yararlanarak kurumsal veya eğitim amaçlı yeniden kullanılabilir Word şablonları oluşturmalarına olanak tanır. Bu, resmi raporlarda ve profesyonel belgelerde tutarlılığın sağlanmasına yardımcı olur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX tarzı tipografiye sahip şirket antetleri ve teklif şablonları.
+
+* Üniversiteler için standartlaştırılmış akademik veya sınav şablonları.
+
+* Profesyonel kullanım için özgeçmiş ve CV şablonları.
+
+* Mühendisler ve araştırmacılar için proje belgeleme şablonları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Toplu rapor oluşturma için şablonların otomatik oluşturulması.
+
+* Eğitim kurumlarında belge otomasyon yazılımlarıyla entegrasyon.
+
+* Marka tutarlılığı için LaTeX depolarından tetiklenen şablon güncellemeleri.
+
+* Mühendislik projeleri için dinamik şablon kütüphaneleri oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

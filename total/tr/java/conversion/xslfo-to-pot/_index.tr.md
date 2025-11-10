@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO dosyalarını **POT (PowerPoint Şablonu)** biçimine dönüştürmek, Microsoft PowerPoint kullanıcıları için standartlaştırılmış, yeniden kullanılabilir slaytlar sağlar. POT şablonları slayt düzenlerini, stillerini ve tablo biçimlendirmelerini korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* XSLFO finansal özetlerinden kurumsal raporlama şablonları oluşturma.
+
+* Tutarlı sunumlar için aylık proje takip slaytlarını hazırlama.
+
+* Yapılandırılmış XSLFO verilerinden eğitim modülleri tasarlama.
+
+* Önceden tanımlanmış slayt düzenlerine sahip yeniden kullanılabilir yatırımcı sunum dosyaları oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XSLFO raporlarından POT dosyalarının toplu otomatik oluşturulması.
+
+* Tekrar eden takım sunumları için planlanmış şablon oluşturma.
+
+* Kurumsal slayt otomasyon borularıyla entegrasyon.
+
+* XSLFO verilerinin kullanıma hazır POT şablonlarına dönüştürülmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,55 @@ XSLFO dosyasını XLSB'ye dönüştürürken, çıktı XLSB dosya biçiminize fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **XLSB (Excel Binary Workbook)** 'e dönüştürülmesi, büyük veri kümeleri için yüksek performanslı elektronik tablo depolama sunar. XLSB dosya boyutunu azaltır, hesaplamayı hızlandırır ve karmaşık biçimlendirmeyi korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Büyük tablo veri kümelerine sahip XSLFO finansal modellerin işlenmesi.
+
+* Kompakt ikili formatta XSLFO operasyonel raporların arşivlenmesi.
+
+* Veri yoğun analizler için Excel gösterge tablolarının oluşturulması.
+
+* XSLFO şablonlarından XLSB tabanlı tahmin tablolarının hazırlanması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XSLFO raporlarının hızlı yükleme için XLSB'ye toplu dönüşümü.
+
+* Kurumsal analitik uygulamalar için zamanlanmış dışa aktarma.
+
+* Otomatik Excel tabanlı raporlama boru hatlarına entegrasyon.
+
+* Büyük ölçekli finansal raporlama için tetiklenen XSLFO'dan XLSB oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

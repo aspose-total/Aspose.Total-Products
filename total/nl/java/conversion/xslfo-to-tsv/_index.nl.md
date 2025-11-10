@@ -47,7 +47,51 @@ Tijdens het converteren van het XSLFO-bestand naar TSV, kunt u ook een watermerk
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XSLFO naar **TSV (Tab-Separated Values)** vereenvoudigt de extractie van tabulaire gegevens voor analyses, database-import of ETL-processen. TSV is lichtgewicht, leesbaar voor mensen en wordt breed ondersteund door programmeertalen en gegevenstools.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* XSLFO-rapporten exporteren naar TSV voor database-inname.
+
+* Het voorbereiden van datasets die geschikt zijn voor analyse van gestructureerde XSLFO-tabellen.
+
+* Gegevensmigratie van XSLFO-financiële overzichten naar analyseplatforms.
+
+* Eenvoudige tabulaire gegevens delen in TSV-indeling voor eenvoudige integratie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geplande batchconversie van XSLFO naar TSV voor BI-pipelines.
+
+* ETL-integratie voor realtime analytische workflows.
+
+* Getriggerde TSV-export van XSLFO-rapporten voor geautomatiseerde dashboards.
+
+* Programatische conversie voor grootschalige XSLFO-datasets.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

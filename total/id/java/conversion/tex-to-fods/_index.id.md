@@ -47,7 +47,31 @@ Saat mengonversi file TEX ke FODS, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi TEX ke **FODS (Flat OpenDocument Spreadsheet)** menghasilkan data LaTeX dalam lembar kerja berbasis XML yang kompatibel dengan LibreOffice dan OpenOffice.
+
+## {{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* Berbagi tabel ilmiah berbasis LaTeX dengan paket aplikasi perkantoran sumber terbuka.
+* Penelitian akademis yang membutuhkan format lembar kerja yang tidak tergantung pada platform.
+* Pelacakan proyek dan pelaporan di lingkungan multi-platform.
+* Menyiapkan data LaTeX untuk lembar kerja FODS kolaboratif.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* Konversi TEX ke FODS otomatis untuk alur kerja sumber terbuka.
+* Pengolahan batch dataset LaTeX untuk kolaborasi lintas platform.
+* Ekspor terjadwal hasil laboratorium atau tabel eksperimen.
+* Integrasi ke dalam alur dokumen untuk lembaga penelitian.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

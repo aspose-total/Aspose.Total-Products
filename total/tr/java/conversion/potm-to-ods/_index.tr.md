@@ -61,7 +61,55 @@ POTM dosyasını ODS'ye dönüştürürken, çıktı ODS dosya biçiminize de fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM dosyalarını ODS'ye dönüştürmek, LibreOffice, OpenOffice ve diğer açık kaynaklı elektronik tablo uygulamalarıyla uyumlu OpenDocument Elektronik Tablo dosyaları üretir. Sunum verilerinin farklı platformlarda yeniden kullanılmasını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Kurumsal slayt verilerinin açık standart elektronik tablo formatlarına dönüştürülmesi.
+
+* Akademik sunumların açık kaynak istatistik analizi için tekrar kullanılması.
+
+* NGO raporlarının platformlar arası iş birliği için dönüştürülmesi.
+
+* ODS'de sayısal slayt tablolarının standartlaştırılması, çok departmanlı iş akışları için.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Sunum şablonlarından ODS dosyalarının otomatik olarak oluşturulması.
+
+* Açık formatları destekleyen belge yönetim sistemleriyle entegrasyon.
+
+* Platformlar arası iş birliği için toplu dönüşümler.
+
+* Bulut tabanlı raporlama boru hatları için tetiklenen ODS oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

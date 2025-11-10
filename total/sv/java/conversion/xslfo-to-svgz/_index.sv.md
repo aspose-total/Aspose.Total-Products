@@ -57,7 +57,51 @@ Med hjälp av API:t kan du också rotera den utgående SVGZ-bilden enligt dina b
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av XSLFO till **SVGZ (komprimerad SVG)** ger skalbara vektorgrafik i komprimerad form, idealisk för webben, instrumentpaneler och responsiva applikationer. SVGZ minskar filstorleken samtidigt som kvaliteten bibehålls.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* Skapa interaktiva diagram från XSLFO-rapporter för webbaserade instrumentpaneler.
+
+* Bädda in skalbara visuella element i responsiva applikationer.
+
+* Arkivera vektorbaserade finansiella tabeller i komprimerat format.
+
+* Förbereda diagram för e-lärande eller kunskapsbaser.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batchkonvertering av XSLFO till SVGZ för webbrapportering.
+
+* Schemalagd export av komprimerad vektorgrafik.
+
+* Integration med automatiserade onlineinstrumentpanelflöden.
+
+* Utlöst skapande av SVGZ-bilder från XSLFO-analyser.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

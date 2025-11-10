@@ -144,7 +144,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**ODT（OpenDocument Text）**に変換することで、LaTeXユーザーはLibreOffice、OpenOffice、および他のオフィススイートと互換性のあるオープン標準ドキュメントを作成し、さまざまなプラットフォームでのアクセシビリティとコラボレーションを確保できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* オープンドキュメント形式での学術論文の提出。
+
+* マルチプラットフォーム互換性を持つ共同研究レポート。
+
+* オープンソースプロジェクトのドキュメントやマニュアル。
+
+* オープンソースツール向けのLaTeX形式のeBookや教材。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 大学リポジトリ向けのバッチTEXからODTへの変換。
+
+* オープンソースパブリッシングパイプラインへの統合。
+
+* マルチプラットフォームドキュメント配布のための自動変換。
+
+* LaTeXデータセットから動的ODTレポートの生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

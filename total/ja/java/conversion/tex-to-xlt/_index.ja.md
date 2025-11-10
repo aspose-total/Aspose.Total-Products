@@ -47,7 +47,51 @@ TEXファイルをXLTに変換するときに、出力XLTファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**XLT（Excelテンプレート）**に変換すると、LaTeXベースのデータをプロジェクト、分析、学術作業用の再利用可能なExcelテンプレートにすることができます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 研究チーム向けの標準化されたレポートテンプレート。
+
+* LaTeXテーブルに基づく再利用可能な財務モデル。
+
+* LaTeX数式を使用した学業成績計算シート。
+
+* エンジニアリングプロジェクトの追跡テンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* LaTeXからExcelテンプレートのバッチ作成。
+
+* 企業または学術テンプレートリポジトリへの統合。
+
+* XLTテンプレートへの自動化されたLaTeXデータの挿入。
+
+* マルチユーザー環境向けの定期的なテンプレート更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

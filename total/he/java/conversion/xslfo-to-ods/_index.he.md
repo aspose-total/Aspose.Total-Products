@@ -102,7 +102,55 @@ otherformats: TXT XLSB EXCEL XLT DIF XLTM FODS XLAM XLTX SXC XLSM MD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XSLFO ל־**ODS (גיליון נתונים של OpenDocument)** מבטיחה תאימות עם יישומי גליון נתונים קוד פתוח מודרניים. ODS שומרת סגנונות, נוסחאות וטבלאות, ולכן היא אידיאלית לדיווח שיתופי ולשיתוף נתונים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת דוחות משאבי אנוש שנוצרו באמצעות XSLFO עבור משתמשי LibreOffice.
+
+* שיתוף נתוני ניתוח רבעוני עם שותפים חיצוניים בתבנית ODS.
+
+* הכנת לוחות מחוונים תפעוליים לסקירה חוצת מחלקות.
+
+* ארכיבת טבלאות כספיות מבוססות XSLFO בתבנית פתוחה ועתידית.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת XSLFO ל־ODS בזמן אמת עבור סביבות משרד שיתופיות.
+
+* ייצוא צ'אט קבוצתי מתוזמן של מדדים תפעוליים מ־XSLFO.
+
+* שילוב בצינורות דיווח אוטומטיים עבור צוותים מרוחקים.
+
+* יצירת גיליונות נתונים בתבנית ODS מתבניות XSLFO עבור דוחות חוזרים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

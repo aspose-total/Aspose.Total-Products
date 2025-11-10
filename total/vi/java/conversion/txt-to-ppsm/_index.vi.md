@@ -54,7 +54,51 @@ API cũng cho phép bạn chuyển đổi các tài liệu TXT được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TXT thành **PPSM (Macro-enabled PowerPoint Show)** kết hợp khả năng tự động hóa với trình chiếu trực tiếp. Lý tưởng cho các bài thuyết trình động với các yếu tố tương tác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Bài thuyết trình tài chính tương tác với tính toán trực tiếp.
+
+* Các mô-đun đào tạo sử dụng macro để điều hướng các quy trình làm việc phức tạp.
+
+* Các slide theo dõi dự án với cập nhật tự động.
+
+* Bản demo bán hàng với các chuyển đổi nội dung tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tự động tạo ra các slide trình chiếu có macro cho báo cáo hàng tuần.
+
+* Tích hợp với CRM và các công cụ quản lý dự án.
+
+* Cập nhật trình chiếu tự động theo lịch trình.
+
+* Các slide tương tác được kích hoạt cho các bài thuyết trình dành cho khách hàng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

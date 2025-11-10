@@ -135,7 +135,55 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **POTX(매크로 없는 PowerPoint 템플릿)**으로 변환하면 반복적인 프레젠테이션을 위한 재사용 가능하고 안전한 템플릿이 보장됩니다. POTX는 레이아웃, 서식 및 매크로 실행 위험 없이 테이블을 보존합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* PowerPoint 사용자를 위한 XSLFO 기반 월간 리뷰 템플릿 준비.
+
+* 부서간 공유를 위한 매크로 없는 표준화된 교육 슬라이드 작성.
+
+* 분기별 재무 보고 템플릿 보관.
+
+* 외부 배포에 안전한 투자자 프레젠테이션 템플릿 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XSLFO에서 POTX 템플릿으로 예약된 일괄 변환.
+
+* 자동화된 슬라이드 생성 워크플로에 통합.
+
+* XSLFO 보고서로부터 매크로 없는 프레젠테이션 템플릿의 트리거된 생성.
+
+* 팀 전체 일관성을 위해 POTX 템플릿의 자동 배포.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

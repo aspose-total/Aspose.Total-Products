@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+텍스트를 **파워포인트 (PPT/PPTX)**로 변환하면 LaTeX 수식, 표 및 다이어그램이 포함된 완전히 편집 가능한 프레젠테이션이 생성되어 전문가 및 학술용 슬라이드 덱에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 복잡한 수학적 내용을 다루는 대학 강의.
+
+* 공학 및 과학 연구 발표.
+
+* LaTeX 표를 사용한 기업 프로젝트 발표.
+
+* 워크샵 및 세미나용 대화식 슬라이드.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 강의 자료용 일괄 LaTeX-to-PowerPoint 변환.
+
+* 자동화된 프레젠테이션 파이프라인 통합.
+
+* 연구 또는 프로젝트 보고서용 슬라이드 생성 트리거.
+
+* LaTeX-to-PPT 변환 워크플로를 통한 다중 저자 협업.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

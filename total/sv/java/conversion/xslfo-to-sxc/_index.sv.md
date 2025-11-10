@@ -47,7 +47,51 @@ När du konverterar XSLFO-fil till SXC, kan du också lägga till vattenstämpel
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av XSLFO till **SXC (StarOffice Spreadsheet)**-format möjliggör sömlös interoperabilitet med äldre StarOffice- och OpenOffice-verktyg. SXC bevarar strukturen och formateringen för arkivering och företagsrapporteringsflöden.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsområden" %}}
+
+
+
+* Arkivering av projektplaner baserade på XSLFO i SXC för äldre system.
+
+* Förberedande av SXC-kalkylblad för internationella partners med hjälp av StarOffice.
+
+* Konvertering av tabulära XSLFO-data för utbildnings- och dokumentationsändamål.
+
+* Delning av månatliga KPI:er i SXC för efterlevnadsrapportering.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batchautomatiserad konvertering från XSLFO till SXC för arkiveringsprojekt.
+
+* Integration i äldre kontorsflöden som stöder StarOffice-format.
+
+* Schemalagd generering av SXC-rapporter från XSLFO-filer.
+
+* Utlöst konvertering för återkommande ledningspaneler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

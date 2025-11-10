@@ -47,7 +47,51 @@ TEXファイルをODSに変換するときに、出力ODSファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**ODS（OpenDocument Spreadsheet）**に変換することで、ユーザーは編集可能なスプレッドシートでLaTeXコンテンツを活用し、分析や共同プロジェクトに役立てることができます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 複雑な数値表を使用した学術研究。
+
+* オープンソースの財務またはプロジェクト追跡シート。
+
+* 複数プラットフォーム互換性が必要なエンジニアリング計算。
+
+* 協力的な教育プロジェクトでのLaTeX表の共有。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 大学の研究室向けのバッチTEXからODSへの変換。
+
+* オープンソースデータパイプラインへの統合。
+
+* LaTeXで生成された数値データの自動レポート作成。
+
+* 複数ユーザー環境向けのODS生成のトリガー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -121,7 +121,51 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XPS เป็น **PPT (PowerPoint 97-2003)** ช่วยให้มีความเข้ากันได้กับเวอร์ชันเก่าของ Microsoft Office โดยยังคงรักษาสไลด์ที่สามารถแก้ไขได้ ข้อความ และการจัดรูปแบบพื้นฐาน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การนำเสนอขององค์กรเวอร์ชันเก่าที่เข้ากันได้กับ Office เวอร์ชันเก่า
+
+* การสงวนสลักฐานและประวัติการนำเสนอสไลด์
+
+* เนื้อหาการศึกษาสำหรับสถาบันที่ใช้ซอฟต์แวร์เวอร์ชันเก่า
+
+* การรายงานภายในและการฝึกอบรมสำหรับสภาพแวดล้อมที่มีเวอร์ชันผสม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงไฟล์ XPS เป็น PPT จำนวนมากสำหรับเอกสารสำหรับองค์กร
+
+* การสร้างงานนำเสนอที่เข้ากันได้กับเวอร์ชันเก่าโดยอัตโนมัติตามกำหนด
+
+* การผสานกับกระบวนการทำงานเอกสารเวอร์ชันเก่า
+
+* การสร้างสไลด์เรียบง่ายใน Office เวอร์ชันหลายรุ่น
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

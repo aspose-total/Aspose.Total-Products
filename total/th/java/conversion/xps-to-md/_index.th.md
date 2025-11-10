@@ -47,7 +47,51 @@ otherformats: XLTX SXC XLSB XLAM MD ODS XLT DIF XLSM XLTM FODS TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XPS เป็น **MD (Markdown)** มอบรูปแบบข้อความที่เรียบง่ายที่สามารถอ่านได้โดยมนุษย์ แก้ไขได้ และเหมาะสำหรับเอกสารที่ควบคุมเวอร์ชันและเนื้อหาบนเว็บไซต์
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* คู่มือเทคนิคและคู่มือในรูปแบบเบา
+
+* เอกสารภายในสำหรับซอฟต์แวร์และขั้นตอนการดำเนินธุรกิจ
+
+* การแปลงเร็วสำหรับบทความบล็อกหรือแพลตฟอร์มแบ่งปันความรู้
+
+* การจดบันทึกข้อมูลทางวิชาการและวิจัยที่รองรับ Markdown
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงจำนวนมากของ XPS เป็น MD สำหรับระบบจัดการเนื้อหา
+
+* การผสานกับท่อปล่อยเผยแบบอัตโนมัติ
+
+* การอัปเดตตามกำหนดเวลาของเอกสารที่ใช้ Markdown
+
+* กระบวนการทำงานที่เรียบง่ายสำหรับการแปลงไฟล์ XPS หลายไฟล์เป็นข้อความที่สามารถแก้ไขได้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 JPEG2000 이미지를 회전할 수�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **JPEG2000**으로 변환하면 전문 출판, 의료 및 보관용으로 적합한 고품질 압축 이미지를 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 기업 및 법적 문서의 보존.
+
+* 출판용 고해상도 이미지.
+
+* 손실 없는 품질이 필요한 디지털 도서관 통합.
+
+* 의료 및 과학 문서.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 저장 효율성을 위해 XPS 아카이브를 JPEG2000으로 자동 변환.
+
+* 문서 이미지 라이브러리를 위한 일정 배치 처리.
+
+* 디지털 자산 관리 시스템 통합.
+
+* 고해상도 이미지를 위한 간소화된 출판 워크플로우.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

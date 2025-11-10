@@ -47,7 +47,51 @@ XPS dosyasını XLAM'ye dönüştürürken, çıktı XLAM dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **XLAM (Excel Eklentisi)**'e dönüştürmek, statik XPS belgelerinden özel Excel otomasyon araçları, makrolar ve genişletilmiş işlevsellik oluşturmayı sağlar, ileri düzey kurumsal kullanıcılar için mükemmel bir seçenektir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Finans veya operasyonlardaki tekrarlayan hesaplamaları ve iş akışlarını otomatikleştirme.
+
+* Varolan verilerden makro etkin üretkenlik eklentileri oluşturma.
+
+* XPS'ten dönüştürülen şablonları kullanarak Excel işlevselliğini genişletme.
+
+* Excel eklentileri kullanarak kurumsal düzeyde iş akışı geliştirmeleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Kurumsal otomasyon araçları için toplu XPS'ten XLAM'e dönüşüm.
+
+* Dahili yazılımla entegrasyon, Excel eklentilerini tetiklemek için.
+
+* Ekipler için makro etkin çözümlerin zamanlanmış oluşturulması.
+
+* Tekrarlayan raporlama görevleri için akışkanlaştırılmış otomasyon süreçleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

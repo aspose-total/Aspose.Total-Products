@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı IMAGE görüntüsünü ihtiyaçlarınıza göre de d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **RESİM (Genel Raster Formatlar)** biçimine dönüştürülmesi, web, baskı ve masaüstü uygulamalar için çok yönlü çıktı sağlar. Desteklenen formatlar, gereksinimlere bağlı olarak PNG, BMP veya TIFF içerebilir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Yapılandırılmış XSLFO tablolarından statik görseller oluşturma.
+
+* Raporlama panoları veya belgeler için grafikler hazırlama.
+
+* Mobil uygulamalar veya e-öğrenme için grafiklerin ve tabloların dışa aktarılması.
+
+* Tekrarlayan raporların rasterize edilmiş arşivlerinin oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XSLFO raporlarının toplu olarak birden fazla resim formatına dönüştürülmesi.
+
+* Otomatik panolar oluşturma boru hatlarıyla entegrasyon.
+
+* Zamanlanmış rapor teslimatı için tetiklenmiş dışa aktarma.
+
+* E-öğrenme veya web platformları için otomatik resim oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

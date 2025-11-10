@@ -105,7 +105,51 @@ otherformats: JPEG2000  PSD TGA DXF EMZ SVGZ WMZ IMAGE WMF DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי TEX ל־**APNG (PNG מונפש)** מאפשרת להמיר תרשימים, משוואות וגרפים שנוצרו ב־LaTeX לגרפיקה מונפשת למצגות בממשק האינטרנט, תוכן למידה ותמונות חזותיות אינטראקטיביות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* איורים מתמטיים מונפשים להרצאות מקוונות.
+
+* גרפים אינטראקטיביים ב־LaTeX ליישומי אינטרנט ללימוד.
+
+* תרשימים דינמיים לפלטפורמות למידה אלקטרוניות.
+
+* ויזואליזציה של מגמות נתונים שנוצרו ב־LaTeX לאורך זמן.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת קבצי TEX ל־APNG בצורה רציפה לחומרי לימוד.
+
+* שילוב בצינורות פרסום אוטומטיות ברשת.
+
+* עיבוד גרפי כתוביות בהפעלה עבור כלים לימודיים המופעלים באמצעות AI.
+
+* יצירה אוטומטית של אנימציות מגרפים שנוצרו ב־LaTeX לצורך הדרכות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

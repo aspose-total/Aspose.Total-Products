@@ -47,7 +47,51 @@ A TEX-fájl SXC-vé konvertálásakor vízjelet is hozzáadhat a kimeneti SXC-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **SXC-re való átalakítása (StarOffice Calc táblázatkezelő) lehetővé teszi a régebbi OpenOffice vagy StarOffice felhasználók számára, hogy LaTeX táblázati adatokkal dolgozzanak anélkül, hogy elveszítenék a struktúrát.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Történelmi LaTeX adatkészletek StarOffice-kompatibilis formátumban.
+
+* Tudományos kutatások, amelyek régi irodai kompatibilitást igényelnek.
+
+* Numerikus LaTeX táblázatok keresztplatformos megosztása.
+
+* Projektjelentések SXC formátumban régebbi irodai rendszerekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Időzített tömeges átalakítások LaTeX adatkészletekből.
+
+* Integráció a régi irodai automatizálási folyamatokba.
+
+* Strukturált LaTeX táblázatok archiválása a kutatási folytonosság érdekében.
+
+* Kiváltott SXC generálás együttműködési projektekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

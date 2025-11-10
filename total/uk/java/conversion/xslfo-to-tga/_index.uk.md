@@ -105,7 +105,55 @@ otherformats: DXF EMZ WMZ JPEG2000  APNG IMAGE PSD SVGZ WMF DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення XSLFO в **TGA (зображення Targa)** забезпечує високоякісну растрову графіку, яка часто використовується в іграх, симуляціях та візуалізаціях високої роздільної здатності.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Підготовка візуальних матеріалів, згенерованих XSLFO, для симуляцій або аналізу гри.
+
+* Архівування детальних діаграм з мінімальною втратою якості під час стиснення.
+
+* Генерація растрової графіки для професійного видавництва.
+
+* Перетворення робочих панелей у TGA для дизайнерських робочих процесів.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетне перетворення XSLFO в TGA для звітності високої роздільної здатності.
+
+* Запланований експорт для професійних візуалізаційних конвеєрів.
+
+* Запуск генерації TGA з повторюваних аналітичних XSLFO.
+
+* Інтеграція з автоматизованими дизайнерськими робочими процесами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

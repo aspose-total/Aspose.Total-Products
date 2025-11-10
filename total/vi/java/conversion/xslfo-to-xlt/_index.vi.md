@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp XSLFO sang XLT, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO thành **XLT (Mẫu Excel)** cho phép sử dụng lại các mẫu bảng tính với định dạng và kiểu dáng được xác định trước. XLT rất lý tưởng để chuẩn hóa các báo cáo định kỳ từ nguồn XSLFO.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuẩn bị các mẫu hóa đơn dựa trên XSLFO theo tiêu chuẩn.
+
+* Tạo các mẫu báo cáo dự án để sử dụng lặp đi lặp lại.
+
+* Lưu trữ bảng điều khiển hàng tháng dưới dạng mẫu Excel có thể tái sử dụng.
+
+* Phân phối các mẫu báo cáo KPI doanh nghiệp được tạo ra từ XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tự động tạo mẫu XLT từ các báo cáo XSLFO.
+
+* Tích hợp với các đường ống báo cáo định kỳ.
+
+* Chuyển đổi theo lịch trình cho các mẫu phòng ban chuẩn hóa.
+
+* Kích hoạt tạo ra các mẫu Excel để báo cáo nhất quán.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

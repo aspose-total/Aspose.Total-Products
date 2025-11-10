@@ -105,7 +105,51 @@ otherformats: DXF SVGZ IMAGE EMZ APNG WMF PSD  TGA WMZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення TEX у **JPEG2000** забезпечує високоякісні, стиснуті візуальні матеріали LaTeX, які підходять для архівування, професійного видавництва та веб-застосувань.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Архівування високороздільних графіків LaTeX для наукових статей.
+
+* Наукові діаграми для онлайн-публікацій з мінімальною втратою якості.
+
+* Обмін стиснутими академічними фігурами між платформами.
+
+* Високоякісні візуальні матеріали LaTeX для навчальних матеріалів.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Автоматизована пакетна конвертація для наукових репозиторіїв.
+
+* Інтеграція в академічні видавничі потоки.
+
+* Запуск генерації JPEG2000 для веб-або друку.
+
+* Постійне архівування графіків LaTeX у стиснутих форматах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

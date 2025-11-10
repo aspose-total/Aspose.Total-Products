@@ -135,7 +135,55 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO fájlok átalakítása **POT (PowerPoint sablon)** formátumba standardizált, újrafelhasználható dia sablonokat eredményez a Microsoft PowerPoint felhasználói számára. A POT sablonok megőrzik a dia elrendezéseket, stílusokat és táblázat formázásokat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Vállalati jelentés sablonok létrehozása XSLFO pénzügyi összesítésekből.
+
+* Havi projekt követési diák előkészítése egységes bemutatáshoz.
+
+* Képzési modulok tervezése strukturált XSLFO adatokból.
+
+* Újrafelhasználható befektetői pitch deck-ek generálása előre meghatározott dia elrendezésekkel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges automatizált POT fájlok generálása XSLFO jelentésekből.
+
+* Ütemezett sablon létrehozás ismétlődő csapatbemutatókhoz.
+
+* Integráció vállalati dia automatizálási csövekkel.
+
+* XSLFO adatok kiváltott átalakítása használatra kész POT sablonokká.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

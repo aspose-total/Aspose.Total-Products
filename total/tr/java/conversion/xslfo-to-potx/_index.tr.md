@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **POTX'e (Makrosuz PowerPoint Şablonu)** dönüştürülmesi, tekrar eden sunumlar için yeniden kullanılabilir, güvenli şablonlar sağlar. POTX, makro yürütme riskleri olmadan düzenlemeleri, biçimlendirmeleri ve tabloları korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* PowerPoint kullanıcıları için XSLFO tabanlı aylık gözden geçirme şablonlarının hazırlanması.
+
+* Makrosuz standart eğitim slaytlarının farklı departmanlar arasında paylaşımı için oluşturulması.
+
+* Üç aylık finansal raporlama şablonlarının arşivlenmesi.
+
+* Harici dağıtım için güvenli yatırımcı sunumu şablonlarının oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XSLFO'dan POTX şablonlarına zamanlanmış toplu dönüşüm.
+
+* Otomatik slayt oluşturma iş akışlarına entegrasyon.
+
+* XSLFO raporlarından makrosuz sunum şablonlarının tetiklenerek oluşturulması.
+
+* Takım genelinde tutarlılık için POTX şablonlarının otomatik dağıtımı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

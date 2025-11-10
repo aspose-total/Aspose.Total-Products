@@ -57,7 +57,51 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz DXF z
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików XPS na **DXF (Drawing Exchange Format)** umożliwia wykorzystanie układów XPS w aplikacjach CAD, zachowując elementy wektorowe do projektów projektowych, architektonicznych i inżynieryjnych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Planowanie architektoniczne i rysunki techniczne wyodrębnione z dokumentów XPS.
+
+* Schematy i diagramy inżynieryjne dla oprogramowania CAD.
+
+* Dokumentacja techniczna wymagająca precyzyjnej konwersji wektorowej.
+
+* Przepływy pracy w projektowaniu przemysłowym dla współpracy nad projektem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna konwersja wsadowa XPS na DXF dla zespołów CAD.
+
+* Integracja z potokami projektowymi dla szybkich aktualizacji układów.
+
+* Zaplanowane generowanie plików DXF dla cyklicznych raportów inżynieryjnych.
+
+* Usprawnione wyodrębnianie elementów wektorowych do produkcji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ XSLFO dosyasını XLT'ye dönüştürürken, çıktı XLT dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'yu **XLT (Excel Şablonu)**'a dönüştürmek, önceden tanımlanmış biçimlendirme ve stillerle tekrar kullanılabilir elektronik tablo şablonları sağlar. XLT, XSLFO kaynaklarından tekrarlayan raporları standartlaştırmak için mükemmeldir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Standart XSLFO tabanlı fatura şablonları hazırlama.
+
+* Tekrarlanan kullanım için proje raporlama şablonları oluşturma.
+
+* Aylık panoları yeniden kullanılabilir Excel şablonları olarak arşivleme.
+
+* XSLFO'dan oluşturulan kurumsal KPI raporlama şablonlarını dağıtma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XSLFO raporlarından otomatik XLT şablonu oluşturma.
+
+* Tekrarlayan raporlama boru hatlarıyla entegrasyon.
+
+* Standartlaştırılmış departman şablonları için zamanlanmış dönüşüm.
+
+* Tutarlı raporlama için tetiklenen Excel şablonlarının oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

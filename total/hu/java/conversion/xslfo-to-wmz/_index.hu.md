@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti WMZ-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **WMZ (Tömörített Windows Metafile)** formátumba tömörített vektorgrafikus képeket eredményez, melyek ideálisak e-mailekhez, prezentációkhoz és webes integrációhoz, miközben megőrzik a skálázhatóságot.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* XSLFO által generált vizuális elemek küldése tömörített mellékletekként.
+
+* Skálázható grafikák beágyazása PowerPointba és Wordbe.
+
+* Tömörített vektorgrafikus jelentések archiválása.
+
+* Operatív vezérlőpultok megosztása e-mailben vagy belső portálokon keresztül.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* XSLFO fájlok tömeges átalakítása WMZ formátumba helytakarékos tárolás érdekében.
+
+* Időzített automatizált vizuális jelentések tömörítése.
+
+* Ismétlődő prezentációs munkafolyamatokhoz kiváltott WMZ generálása.
+
+* Integráció automatizált diavetítés- és dokumentumfolyamatokba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

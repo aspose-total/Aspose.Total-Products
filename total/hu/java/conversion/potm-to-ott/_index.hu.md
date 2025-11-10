@@ -53,7 +53,51 @@ Az API segítségével POTM fájlból OTT-ba konvertálhat vízjellel. Ha vízje
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A POTM átalakítása OTT formátummá újrafelhasználható OpenDocument Text sablonokat hoz létre, melyek kompatibilisek a LibreOffice Writerrel és hasonló alkalmazásokkal. Ezek a sablonok megőrzik a diagramot, stílusokat és tervezési elemeket a nem-Microsoft környezetek számára.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* OTT sablonok tervezése nyílt forráskódú irodákhoz PowerPoint stílusok használatával.
+
+* Prezentációs tartalom átalakítása ODT alapú sablonstruktúrákká.
+
+* Kormányzati vagy közszféra használata nyílt formátumú sablonokhoz.
+
+* NGO dokumentációs szabványok használata újrafelhasználható OTT fájlokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Automatizált OTT sablon generálás nyílt dokumentumkezelő rendszerekben.
+
+* Többplatformos dokumentumközzétételi csatornák használata nyílt formátumokkal.
+
+* Konverziós munkafolyamatok áthidalása a Microsoft és a LibreOffice ökoszisztémái között.
+
+* Nagy léptékű intézményi felhasználású OTT sablonok, amelyek prezentációkból származnak.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

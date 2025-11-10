@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie XSLFO na **PPS (PowerPoint Show)** pozwala tworzyć pliki prezentacji samodzielnie uruchamiające się podczas spotkań, szkoleń lub w kioskach. PPS zachowuje formatowanie, otwierając się bezpośrednio w trybie pokazu slajdów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Dystrybuowanie samodzielnie uruchamiających się prezentacji ogólnych korporacji.
+
+* Przygotowywanie zautomatyzowanych slajdów szkoleniowych lub wprowadzających na podstawie danych XSLFO.
+
+* Dzielenie się interaktywnymi treściami marketingowymi na targach.
+
+* Generowanie wizualnie atrakcyjnych pulpitów nawigacyjnych KPI do przeglądu przez zarządzanie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja wsadowa z XSLFO do plików PPS.
+
+* Integracja z zautomatyzowanymi przepływami pracy dystrybucji pokazów slajdów.
+
+* Wywoływane generowanie pokazów PPS na podstawie raportów XSLFO.
+
+* Automatyczna aktualizacja samodzielnie uruchamiających się prezentacji na powtarzające się spotkania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -129,7 +129,55 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XPS naar **MARKDOWN** transformeert statische documenten naar een lichtgewicht, gemakkelijk te bewerken formaat dat compatibel is met blogs, documentatieplatforms en versiebeheersystemen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Technische documentatie publiceren op GitHub of GitLab.
+
+* Rapporten omzetten naar blogklare inhoud.
+
+* Notities en interne kennisbankvermeldingen maken.
+
+* Samenwerking voor teams die lichtgewicht opmaak gebruiken.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde conversie van XPS-archieven naar Markdown voor inhoudsplatforms.
+
+* Integratie met statische sitegeneratoren zoals Hugo of Jekyll.
+
+* Geplande generatie van Markdown-versies voor terugkerende documentatie.
+
+* Gestroomlijnde workflow voor updates van de interne kennisbank.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

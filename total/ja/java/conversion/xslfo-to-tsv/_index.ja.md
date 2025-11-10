@@ -47,7 +47,55 @@ XSLFOファイルをTSVに変換するときに、出力TSVファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**TSV（タブ区切り値）**に変換すると、分析、データベースインポート、ETLプロセスのための表形式データの抽出が簡素化されます。TSVは軽量で人間が読みやすく、プログラミング言語やデータツールで広くサポートされています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* XSLFOレポートをTSVにエクスポートしてデータベースに取り込む。
+
+* 構造化されたXSLFOテーブルから分析向けのデータセットを準備する。
+
+* XSLFO財務シートから分析プラットフォームへのデータ移行。
+
+* 簡単な表形式データをTSV形式で共有し、簡単に統合する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XSLFOからTSVへのスケジュールされたバッチ変換（BIパイプライン向け）。
+
+* リアルタイム分析ワークフロー向けのETL統合。
+
+* XSLFOレポートからトリガーされたTSVエクスポート（自動ダッシュボード向け）。
+
+* 大規模XSLFOデータセット向けのプログラム変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

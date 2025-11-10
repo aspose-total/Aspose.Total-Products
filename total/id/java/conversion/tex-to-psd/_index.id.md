@@ -57,7 +57,51 @@ Menggunakan API, Anda juga dapat memutar gambar PSD keluaran sesuai kebutuhan An
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **PSD (Dokumen Photoshop)** memungkinkan visual yang dihasilkan oleh LaTeX dapat diedit sepenuhnya di Adobe Photoshop untuk desain dan pengolahan lanjutan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengedit diagram LaTeX untuk presentasi dan poster.
+
+* Menyiapkan grafis siap publikasi dengan peningkatan Photoshop.
+
+* Menyesuaikan visual edukasi atau pelatihan.
+
+* Membuat gambar yang kaya secara visual untuk penggunaan pemasaran atau akademis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch TEX ke PSD untuk tim desain.
+
+* Integrasi dengan alur kerja desain grafis otomatis.
+
+* Pembuatan PSD yang dipicu untuk pembuatan poster atau infografis.
+
+* Ekspor diagram LaTeX yang dapat diedit untuk pengeditan Photoshop multi-layer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

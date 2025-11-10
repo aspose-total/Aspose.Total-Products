@@ -121,7 +121,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **OTP (OpenDocument Presentation Template)**으로 변환하면 LibreOffice 및 OpenOffice를 위한 재사용 가능한 프레젠테이션 템플릿을 만들어 팀의 일관된 디자인과 레이아웃을 가능하게 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 고객 회의용 기업 프레젠테이션 템플릿.
+
+* 교육자를 위한 표준화된 강의 템플릿.
+
+* 반복적인 사용을 위한 NGO 또는 프로젝트 보고서 템플릿.
+
+* 일관된 브랜딩을 갖춘 마케팅 캠페인 슬라이드 덱.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XPS 보고서로부터 OTP 템플릿의 자동 생성.
+
+* 팀 전체에 대한 콘텐츠 관리 시스템 통합.
+
+* 반복적인 프레젠테이션을 위한 예약된 템플릿 생성.
+
+* 부서 간 브랜딩 및 레이아웃 표준화 간소화.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

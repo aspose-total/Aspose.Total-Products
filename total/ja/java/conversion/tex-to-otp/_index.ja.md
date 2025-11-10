@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**OTP（OpenDocument Presentation Template）**に変換すると、一貫した講義やビジネススライドデザインのためのLaTeX形式の再利用可能なプレゼンテーションテンプレートが生成されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* LaTeXスタイルの方程式を備えた標準化された講義テンプレート。
+
+* 研究チーム向けの会議スライドテンプレート。
+
+* 数式豊富なコンテンツを備えた再利用可能な教育資料。
+
+* 技術プレゼンテーション用のプロジェクト提案テンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* コース向けのLaTeXからOTPテンプレートの一括生成。
+
+* LaTeXリポジトリからトリガーされるテンプレートの更新。
+
+* 共同作業者へのスライドテンプレートの自動配布。
+
+* オープンソースLMSプレゼンテーションワークフローとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

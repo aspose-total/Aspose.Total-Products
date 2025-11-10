@@ -129,7 +129,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików XPS na **MHTML (MIME HTML)** umożliwia spakowanie całego dokumentu, w tym obrazów, tekstu i stylów, do jednego pliku gotowego do użycia w sieci, idealnego do archiwizacji lub udostępniania.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Archiwizowanie dokumentów XPS w formacie kompatybilnym z siecią.
+
+* Udostępnianie kompletnych raportów za pomocą e-maili bez załączników zewnętrznych.
+
+* Publikowanie treści XPS na wewnętrznych portalach internetowych.
+
+* Dokumentacja internetowa do użytku korporacyjnego lub akademickiego.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna konwersja XPS na MHTML w trybie wsadowym dla archiwów przedsiębiorstw.
+
+* Zaplanowane generowanie wersji dokumentów gotowych do użycia w sieci.
+
+* Integracja z systemami intranetowymi do wewnętrznego rozpowszechniania.
+
+* Zoptymalizowany przepływ pracy dla cyfrowej archiwizacji raportów i podręczników.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

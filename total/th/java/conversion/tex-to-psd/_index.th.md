@@ -57,7 +57,45 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **PSD (Photoshop Document)** ช่วยให้ภาพที่สร้างจาก LaTeX สามารถแก้ไขได้แบบเต็มรูปแบบใน Adobe Photoshop สำหรับการออกแบบระดับสูงและการประมวลผลหลังการถ่ายภาพ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* แก้ไขไดอะแกรม LaTeX สำหรับการนำเสนอและโปสเตอร์
+* เตรียมกราฟิกพร้อมจะตีพิมพ์พร้อมการปรับปรุงด้วย Photoshop
+* ปรับแต่งภาพการศึกษาหรือการฝึกอบรม
+* สร้างภาพเคลื่อนไหวที่มีรายละเอียดสำหรับการใช้ทางการตลาดหรือทางวิชาการ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลงไฟล์ TEX เป็น PSD แบบกลุ่มสำหรับทีมออกแบบ
+* ผสานกับกระบวนการทำงานดีไซน์กราฟิกอัตโนมัติ
+* สร้าง PSD ตามที่กำหนดสำหรับการสร้างโปสเตอร์หรือสรุปข้อมูลกราฟิก
+* สามารถแก้ไขไดอะแกรม LaTeX และส่งออกเพื่อแก้ไขใน Photoshop หลายชั้น
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

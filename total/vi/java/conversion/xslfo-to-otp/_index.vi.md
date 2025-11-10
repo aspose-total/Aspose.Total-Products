@@ -135,7 +135,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO sang **OTP (Mẫu Trình Bày OpenDocument)** cho phép tạo các mẫu slide có thể tái sử dụng từ dữ liệu cấu trúc XSLFO. Các mẫu OTP chuẩn hóa định dạng trình bày trên toàn bộ nhóm.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuẩn bị mẫu trình bày doanh nghiệp từ các báo cáo được tạo từ XSLFO.
+
+* Chuẩn hóa các mô-đun đào tạo trong định dạng OTP có thể tái sử dụng.
+
+* Tạo các bộ slide trình bày cho nhà đầu tư với kiểu dáng nhất quán từ nội dung XSLFO.
+
+* Lưu trữ các mẫu báo cáo hàng quý để sử dụng lại trong tương lai.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt theo lịch từ XSLFO sang OTP cho thư viện mẫu.
+
+* Tích hợp với các đường ống tạo slide tự động.
+
+* Tạo mẫu OTP kích hoạt cho loạt báo cáo mới từ XSLFO.
+
+* Tự triển khai các mẫu dựa trên XSLFO trên các bộ phận.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,47 @@ MOBI를 TSV로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI 파일을 TSV (Tab-Separated Values)로 변환하면 기술 팀, AI 개발자, 일관된 구분 기호가 필요한 백엔드 데이터 작업을 위한 eBook 데이터의 깔끔하고 구조화된 내보내기가 가능해집니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+- eBook 메타데이터를 관계형 데이터베이스로 가져오기.
+
+- 구조화된 MOBI 데이터를 사용하여 언어 모델 교육.
+
+- 분석 도구를 위한 TSV 기반의 독서 로그 생성.
+
+- 기업 데이터 웨어하우스로 eBook 세부 정보 이관.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+- 텍스트 분석을 위한 MOBI-to-TSV 일괄 처리.
+
+- 자동화된 NLP 전처리 파이프라인 통합.
+
+- 데이터 동기화 중 트리거된 TSV 생성.
+
+- AI 분류 시스템을 위한 메타데이터 정규화.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

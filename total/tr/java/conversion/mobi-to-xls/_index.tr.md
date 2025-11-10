@@ -61,7 +61,47 @@ MOBI'yi XLS'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI'den XLS dönüşümü, yapılandırılmış meta verileri korurken eski Microsoft Excel sürümleriyle uyumluluğu sağlar. Hala eski Excel iş akışlarını kullanan kurumsal sistemler için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+- Excel 97–2003 ile uyumlu MOBI kitap listeleri oluşturma.
+
+- Çevrimdışı katalog raporlama için meta verileri dışa aktarma.
+
+- Eski kurumsal sistemlerde yayınlama günlüklerini yönetme.
+
+- Bulut olmayan ortamlar arasında XLS'ye hazır veri kümelerini paylaşma.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+- Arşiv MOBI verileri için otomatik XLS dışa aktarımları.
+
+- Eski muhasebe veya yayınlama sistemlerine entegrasyon.
+
+- MOBI meta verilerinin XLS formatında düzenli senkronizasyonu.
+
+- Hükümet dijital yayınlama kayıtları için XLS çıktısı.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

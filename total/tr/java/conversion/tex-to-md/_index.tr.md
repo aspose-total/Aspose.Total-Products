@@ -47,7 +47,51 @@ TEX dosyasını MD'ye dönüştürürken, çıktı MD dosya biçiminize filigran
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **MD'ye (Markdown Dosyasına)** dönüştürmek, LaTeX'ten standart bir Markdown dosyası oluşturarak metin yapısını, tabloları ve çoklu platform okunabilirliği için temel biçimlendirmeyi korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Git tabanlı işbirliği için LaTeX araştırma notlarını hazırlama.
+
+* Matematik ve tablo desteği olan hafif belgeleme.
+
+* Açık kaynak Markdown formatında LaTeX ders notlarını paylaşma.
+
+* Statik web siteleri için teknik raporları dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Araştırma ekipleri için otomatik toplu TEX'ten MD'ye dönüşüm.
+
+* Sürüm kontrolü yapılan web içerik boru hatlarına entegrasyon.
+
+* LaTeX depolarından Markdown dosyalarına tetiklenen güncellemeler.
+
+* Eğitim veya teknik bloglar için sürekli MD dosyaları oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

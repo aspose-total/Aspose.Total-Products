@@ -57,7 +57,55 @@ API'yi kullanarak, çıktı WMF görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **WMF (Windows Metafile)** olarak dönüştürmek, LaTeX diyagramları için vektör grafikleri korur ve Microsoft Office ve teknik belgelerle uyumluluğu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX çizimlerini Word veya PowerPoint'e gömme.
+
+* Profesyonel raporlardaki teknik diyagramlar.
+
+* Kurumsal ve akademik belgeler için ölçeklenebilir şekiller.
+
+* LaTeX tarafından oluşturulan grafiklerin çapraz platformda dağıtımı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* LaTeX diyagramlarının WMF'ye toplu dönüşümü.
+
+* Microsoft Office belge akışlarına entegrasyon.
+
+* Sunumlardaki vektör grafikler için tetiklenen güncellemeler.
+
+* LaTeX tarafından oluşturulan teknik şekillerin otomatik arşivlenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

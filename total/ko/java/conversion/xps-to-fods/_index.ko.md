@@ -47,7 +47,51 @@ XPS 파일을 FODS로 변환하는 동안 출력 FODS 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **FODS (Flat OpenDocument Spreadsheet)**로 변환하면 LibreOffice 및 OpenOffice와의 오픈 소스 스프레드시트 호환성이 보장됩니다. 벤더 중립적이고 크로스 플랫폼 솔루션을 사용하는 조직에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 협업 편집을 위한 학술 및 연구 프로젝트 데이터 세트.
+
+* 비정부 기구 또는 정부 기관을 위한 오픈 소스 재무 보고.
+
+* 오픈 포맷의 기술 데이터 시트 및 운영 로그.
+
+* 팀 내에서의 크로스 플랫폼 스프레드시트 공유.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 연구소를 위한 자동화된 XPS-to-FODS 변환 파이프라인.
+
+* 오픈 소스 ERP 또는 분석 시스템과의 통합.
+
+* 운영 스프레드시트를 위한 예약된 업데이트.
+
+* 오픈 문서 형식을 사용한 간소화된 협업.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

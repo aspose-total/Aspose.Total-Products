@@ -61,7 +61,51 @@ Saat mengonversi file POTM ke XLAM, Anda juga dapat menambahkan tanda air ke for
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konversi POTM ke XLAM menciptakan Excel Add-ins yang mendukung makro dari template PowerPoint. Ini memungkinkan penyisipan fungsionalitas yang dapat digunakan kembali, rumus kustom, atau alat interaktif yang berasal dari konten presentasi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengembangkan add-ins Excel dari perhitungan slide interaktif.
+
+* Mengotomatisasi dasbor keuangan yang awalnya dirancang di PowerPoint.
+
+* Mengonversi template KPI atau scorecard menjadi alat yang mendukung makro.
+
+* Membuat skrip otomatisasi Excel yang dapat digunakan kembali dari logika presentasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Alur kerja perusahaan yang menghasilkan file XLAM dari template POTM.
+
+* Integrasi dengan jalur otomatisasi Excel untuk analisis bisnis.
+
+* Pembuatan serentak alat yang mendukung makro dari presentasi perusahaan.
+
+* Pemicu generasi add-in XLAM untuk template analitik standar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,55 @@ XPS dosyasını SXC'ye dönüştürürken, çıktı SXC dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **SXC (StarOffice Elektronik Tablo)** formatına dönüştürmek, eski OpenOffice/StarOffice dosyalarıyla geriye dönük uyumluluk sağlar. Bu format, eski iş akışları ve arşivleme amaçları için uygundur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* SXC formatında eski rapor arşivleme.
+
+* Tarihsel finansal ve operasyonel veri kümeleri.
+
+* XPS tabanlı elektronik tabloların açık kaynak ortamlarına taşınması.
+
+* Eski ofis paketleri için teknik veya araştırma kayıtları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XPS depolarının SXC dosyalarına toplu dönüştürülmesi.
+
+* Uyumluluk ve denetim amaçları için otomatik arşivleme.
+
+* Periyodik XPS raporlarının zamanlanmış taşınması.
+
+* Eski sistem entegrasyonu boru hatları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

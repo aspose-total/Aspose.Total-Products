@@ -144,7 +144,55 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file TEX ke **DOTX (Template Word)** menghasilkan template yang bersih dan dapat digunakan ulang tanpa macros, sangat cocok untuk lingkungan akademis dan korporat yang membutuhkan konsistensi format LaTeX tanpa risiko scripting.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Template laporan profesional dengan persamaan berformat LaTeX.
+
+* Template format tesis akademis untuk mahasiswa dan universitas.
+
+* Template rencana pelajaran standar untuk pendidik.
+
+* Template dokumentasi proyek penelitian untuk laboratorium.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Pembuatan template korporat atau pendidikan secara massal.
+
+* Penyebaran template otomatis dalam LMS atau sistem manajemen dokumen.
+
+* Konversi template LaTeX ke Word untuk branding dokumen yang konsisten.
+
+* Integrasi ke dalam pipeline generasi laporan otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

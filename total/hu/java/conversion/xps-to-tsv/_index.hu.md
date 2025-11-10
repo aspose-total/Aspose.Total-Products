@@ -47,7 +47,49 @@ A XPS-fájl TSV-vé konvertálásakor vízjelet is hozzáadhat a kimeneti TSV-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XPS átalakítása **TSV (Tabulátorral elválasztott értékek)** formátumra egyszerű, könnyű formátumot biztosít az adatmegosztáshoz, különösen hasznos programozásban, analitikában és adatbázis import/export forgatókönyvekben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Tudományos adatkészletek számítási elemzésekhez.
+
+* Egyszerű importálás R-be, Python-ba vagy statisztikai szoftverekbe.
+
+* Gyors adatcserék csapatok között Excel-függőség nélkül.
+
+* Webes jelentési eszközök lapos fájl adatokkal.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Automatizált XPS-to-TSV csővezetékek kutató laboratóriumok számára.
+
+* Integráció analitikai szkriptekkel tétel feldolgozásokhoz.
+
+* Ütemezett átalakítás ismétlődő XPS jelentésekhez.
+
+* Egyszerűsített beolvasás adatbázisba vagy ETL munkafolyamatokba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

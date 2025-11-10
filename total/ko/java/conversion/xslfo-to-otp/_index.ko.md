@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **OTP (OpenDocument Presentation Template)**으로 변환하면 구조화된 XSLFO 데이터에서 재사용 가능한 슬라이드 템플릿을 만들 수 있습니다. OTP 템플릿은 팀간의 프레젠테이션 형식을 표준화합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* XSLFO로 생성된 보고서에서 기업 프레젠테이션 템플릿 준비.
+
+* 재사용 가능한 OTP 형식으로 교육 모듈 표준화.
+
+* XSLFO 콘텐츠에서 일관된 스타일링으로 투자자 피치 덱 생성.
+
+* 향후 재사용을 위해 분기별 보고서 템플릿 보관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 템플릿 라이브러리를 위한 XSLFO에서 OTP로 일정 배치 변환.
+
+* 자동화된 슬라이드 생성 파이프라인과의 통합.
+
+* 새로운 XSLFO 보고서 시리즈를 위한 트리거된 OTP 템플릿 생성.
+
+* 부서 간 XSLFO 기반 템플릿의 자동 배포.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

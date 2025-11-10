@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **PPS (PowerPoint Show)**로 변환하면 즉시 재생할 수 있는 슬라이드 전용 프레젠테이션을 만들어 자동화된 강의, 교육 세션, LaTeX 콘텐츠의 빠른 공유에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 즉시 실행 가능한 학술 강의 덱.
+
+* 대화식 워크샵 프레젠테이션.
+
+* 고객 프레젠테이션용 엔지니어링 프로젝트 요약.
+
+* 학회용 LaTeX 기반 슬라이드.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 일정에 따른 일괄 TEX에서 PPS로 변환.
+
+* LaTeX 콘텐츠에서 교육 덱 자동 생성.
+
+* 프레젠테이션 배포 시스템 통합.
+
+* 세미나나 e-러닝 플랫폼을 위한 PPS 생성 트리거.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

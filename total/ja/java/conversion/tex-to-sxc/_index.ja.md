@@ -47,7 +47,51 @@ TEXファイルをSXCに変換するときに、出力SXCファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**SXC（StarOffice Calc Spreadsheet）**に変換することで、古いOpenOfficeやStarOfficeユーザーがLaTeXの表形式データを構造を失うことなく扱えるようになります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* StarOffice互換形式の歴史的なLaTeXデータセット。
+
+* レガシーオフィス互換性を必要とする学術研究。
+
+* 数値LaTeXテーブルのクロスプラットフォーム共有。
+
+* 古いオフィスシステム向けのSXCによるプロジェクトレポート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* LaTeXデータセットの定期的なバッチ変換。
+
+* レガシーオフィス自動化ワークフローへの統合。
+
+* 研究の連続性のための構造化されたLaTeXテーブルのアーカイブ。
+
+* 共同プロジェクトのためのSXC生成のトリガー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

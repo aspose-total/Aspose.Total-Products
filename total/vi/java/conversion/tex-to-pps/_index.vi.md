@@ -135,7 +135,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX thành **PPS (PowerPoint Show)** tạo ra các bài thuyết trình chỉ chứa slide để phát ngay lập tức, lý tưởng cho các bài giảng tự động, buổi đào tạo và chia sẻ nhanh nội dung LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Bộ slide bài giảng học thuật sẵn sàng chạy.
+
+* Bài thuyết trình tương tác cho các buổi workshop.
+
+* Tóm tắt dự án kỹ thuật cho các bài thuyết trình cho khách hàng.
+
+* Slide LaTeX sẵn sàng cho hội nghị.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi lô TEX thành PPS theo lịch trình.
+
+* Tạo ra tự động bộ slide đào tạo từ nội dung LaTeX.
+
+* Tích hợp với các hệ thống triển khai bài thuyết trình.
+
+* Tạo PPS theo yêu cầu cho các buổi seminar hoặc nền tảng học trực tuyến.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,47 @@ otherformats: CSV ODS XLTM DIF TSV XLAM FODS EXCEL XLSX XLT XLTX XLSB XLS XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MOBI ל-SXC (StarOffice Calc) תומכת בצרכי ארכיון ותאימות עבור מוסדות המשתמשים בפורמטי גיליון נתונים ישנים. פורמט זה שומר על שלמות הנתונים המובנים תוך הבטחת קריאות במערכות מורשות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+- ייבוא סטטיסטיקות של MOBI לבסיסי נתונים התומכים ב-StarOffice.
+
+- שמירה על קטלוגי ספרים בפורמט ישן לארכיונים ממשלתיים.
+
+- אפשרות לאחור בתאימות במערכות הוצאה לאור מורשות.
+
+- המרת מטא-נתונים של MOBI לניתוח דוחות לא מקוונים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+- פירוק MOBI אוטומטי לדוחות צמיחה של SXC.
+
+- שילוב עם מתכניות ETL מורשות.
+
+- ייצואים מתוזמנים לשמירת נתונים מורשים.
+
+- צינורות תיוג נתונים AI עבור ארכיונים של תוכן היסטורי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

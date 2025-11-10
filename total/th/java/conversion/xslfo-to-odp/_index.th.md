@@ -135,7 +135,55 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ XSLFO (Extensible Stylesheet Language Formatting Objects) เป็น **ODP (OpenDocument Presentation)** ช่วยให้สร้างสไลด์โชว์โอเพนซอร์สได้อย่างง่าย พร้อมรักษาเนื้อหาโครงสร้างและสไตล์ไว้เป็นอย่างดี ODP เข้ากันได้กับ LibreOffice Impress และชุดโปรแกรมสำนักงานโอเพนซอร์สอื่น
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* การแปลงรายงานประจำปีที่สร้างจาก XSLFO เป็นการนำเสนอ ODP ที่สามารถแสดงผลแบบโต้ตอบ
+
+* เตรียมเนื้อหาการศึกษาจากตาราง XSLFO โครงสร้างสำหรับการใช้ในห้องเรียน
+
+* เก็บสไลด์การประชุมของกรรมการไว้ในรูปแบบโอเพนที่ปลอดภัยสำหรับอนาคต
+
+* สร้างแผงควบคุมทางสายตาจากข้อมูลการวิเคราะห์ที่มีพื้นฐานจาก XSLFO
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลงไฟล์รายงาน XSLFO รายเดือนเป็น ODP สำหรับการทบทวนของบริษัทเป็นชุด
+
+* ผสานเข้ากับการทำงานอัตโนมัติของรายงานไปยังการนำเสนอ
+
+* สร้างสไลด์ ODP ตามกำหนดเวลาสำหรับการประชุมที่เกิดซ้ำๆ
+
+* แปลงเนื้อหา XSLFO เป็นสไลด์โดยใช้เทคโนโลยีโอเพนซอร์ส
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

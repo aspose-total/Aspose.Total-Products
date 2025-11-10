@@ -144,7 +144,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXファイルを**FLATOPC（Flat Open Packaging Conventions）**に変換すると、数式や表を含むLaTeXコンテンツを単一のXMLベースのファイルに保存し、Office Open XML標準と完全に互換性のある形式で保存できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 標準化されたXML形式でLaTeX文書をアーカイブする。
+
+* 企業向けアプリケーションのために構造化されたコンテンツとフォーマットを保存する。
+
+* 複雑な学術や技術レポートを単一のパッケージファイルとして共有する。
+
+* LaTeXで生成された表や数式をクロスプラットフォームで使用するために維持する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 研究リポジトリ向けのバッチTEXからFLATOPCへの変換。
+
+* 自動化された文書管理システムへの統合。
+
+* 共同作業フローのためのトリガーとなるFLATOPC生成。
+
+* XMLベースの形式でのLaTeXコンテンツの定期的なアーカイブ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

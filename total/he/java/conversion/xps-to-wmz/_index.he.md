@@ -105,7 +105,51 @@ otherformats: APNG IMAGE WMF SVGZ EMZ DXF JPEG2000  TGA PSD DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XPS ל־**WMZ (קובץ מטה-קובץ חד) מדמה** מאפשרת גרפיקה וקטורית צפיפה המתאימה להפצה, הצגות ותיעוד טכני.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* תרשימים דחוסים להצגות ולאימיילים.
+
+* איורים טכניים למדריכים ומדריכים.
+
+* חומרי שיווק עם גרפיקה ניתנת להתאמה.
+
+* ארכיון של מסמכים עשירי וקטורים בצורה צפה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת סדרות של XPS ל־WMZ להפצת מסמכים.
+
+* שילוב עם מערכות ניהול תוכן.
+
+* יצירה מתוזמנת של קבצי וקטור דחוסים.
+
+* עיבוד משולב להצגות או תוכן שיווקי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

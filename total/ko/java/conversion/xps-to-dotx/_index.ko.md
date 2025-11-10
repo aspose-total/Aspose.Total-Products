@@ -129,7 +129,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **DOTX(Word 템플릿)**으로 변환하면 자동 스크립트 없이 재사용 가능한 문서 레이아웃을 찾는 사용자들에게 안전한 공유와 일관된 서식을 제공하는 템플릿 옵션이 됩니다. 교육, 기업 및 창의적인 워크플로우에서 안전한 공유와 일관된 서식을 위한 이상적인 선택입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 표준화된 교육용 워크시트 및 과제.
+
+* 캠페인 및 프레젠테이션을 위한 마케팅 콘텐츠 템플릿.
+
+* 인사 또는 운영을 위한 내부 정책 및 절차 템플릿.
+
+* 재무 및 기술 문서용 보고서 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 회사 전체에서 사용할 수 있는 자동화된 템플릿 생성.
+
+* DOTX 파일을 문서 관리 플랫폼에 공급하는 변환 파이프라인.
+
+* 브랜딩 표준에 맞추기 위해 XPS 콘텐츠 사전 서식 지정.
+
+* 고객에게 제안 템플릿 일괄 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

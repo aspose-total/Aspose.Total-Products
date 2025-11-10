@@ -102,7 +102,51 @@ otherformats: XLTX TXT ODS FODS SXC XLSB XLAM CSV EXCEL MD XLSM DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל־**XLT (תבנית Excel)** מאפשרת לנתונים המבוססים על LaTeX להפוך לתבניות Excel הניתנות לשימוש עבור פרויקטים, ניתוחים ועבודה אקדמית.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* תבניות דיווח מוסכמות עבור צוותי מחקר.
+
+* מודלים פיננסיים ניתנים לשימוש המבוססים על טבלאות LaTeX.
+
+* גליון ציון אקדמי עם נוסחאות LaTeX.
+
+* תבניות מעקב פרויקטים הנדרשות בהנדסה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת תבניות Excel בצורה צפופה מ־LaTeX.
+
+* שילוב במאגרי תבניות קורפורטיביים או אקדמיים.
+
+* מילוי נתוני LaTeX באופן אוטומטי בתבניות XLT.
+
+* עדכוני תבניות מתוזמנים עבור סביבות משתמשים מרובים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

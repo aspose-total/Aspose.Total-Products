@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'yu **PPSM (Makro Etkin PowerPoint Gösterisi)**'e dönüştürmek, otomatik çalışan slaytları makro otomasyonuyla birleştirir. PPSM, etkileşimli gösteri panoları, otomatik sunumlar veya dinamik raporlar için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Slayt gösterisi formatında otomatik performans panoları hazırlama.
+
+* Etkileşimli XSLFO odaklı içerik için makroların gömülmesi.
+
+* Takım genelinde raporlama için makro etkin sunumların paylaşılması.
+
+* Dinamik yatırımcı veya yönetim kurulu sunum gösterileri oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Otomatik toplantılar için XSLFO slaytlarının PPSM'ye toplu dönüşümü.
+
+* Tekrarlayan XSLFO raporlarından makro etkin slaytların zamanlanmış güncellenmesi.
+
+* VBA veya PowerPoint otomasyon iş akışlarıyla entegrasyon.
+
+* Gerçek zamanlı etkileşimli sunumlar için tetiklenen PPSM oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

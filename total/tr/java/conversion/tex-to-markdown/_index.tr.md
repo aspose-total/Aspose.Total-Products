@@ -143,7 +143,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **MARKDOWN**e dönüştürmek, LaTeX belgelerini Markdown sözdizimiyle hafif, okunabilir metne dönüştürerek web yayıncılığı, belgelendirme ve sürüm kontrollü iş akışları için ideal hale getirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Akademik notları ve raporları çevrimiçi bloglar için dönüştürme.
+
+* Markdown dostu sözdiziminde LaTeX formülleri içeren teknik belgeler.
+
+* GitHub veya GitLab depolarında işbirlikçi düzenleme.
+
+* Web tabanlı platformlarda LaTeX araştırma özetlerini yayınlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Belgelendirme boruları için toplu TEX'ten Markdown'e dönüşüm.
+
+* Statik site oluşturucularla entegrasyon (ör. Hugo, Jekyll).
+
+* Eğitim içerik platformları için tetiklenmiş üretim.
+
+* Sürekli LaTeX'ten web'e yayınlama için zamanlanmış dönüşüm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

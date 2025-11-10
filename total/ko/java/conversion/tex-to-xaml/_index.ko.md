@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX 파일을 **XAML (Extensible Application Markup Language)**로 변환하면 LaTeX 콘텐츠, 수식 및 다이어그램을 WPF, UWP 및 .NET 기반 애플리케이션에서 사용할 수 있게 되어 벡터 그래픽 및 텍스트 서식을 보존합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 데스크톱 앱에 LaTeX로 생성된 다이어그램 및 수식 임베딩.
+
+* 과학적 또는 수학적 시각 요소를 포함한 대화형 UI 요소 생성.
+
+* LaTeX 소스에서 동적 차트를 표시하는 기술 애플리케이션.
+
+* LaTeX 수식을 원활하게 통합하는 교육 소프트웨어.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 여러 UI 구성 요소에 대한 일괄 TEX-to-XAML 변환.
+
+* 자동화된 WPF 또는 UWP 프로젝트 파이프라인 통합.
+
+* .NET 애플리케이션을 위한 LaTeX 기반 시각 자동 생성.
+
+* 다중 모듈 교육 소프트웨어를 위한 예약된 업데이트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

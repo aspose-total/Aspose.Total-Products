@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**POTX（マクロなしのPowerPointテンプレート）**に変換すると、LaTeXの書式設定を使用した安全で再利用可能なスライドテンプレートが作成でき、複数ユーザー環境に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* LaTeX方程式を含む標準化されたコーススライドテンプレート。
+
+* マクロ制限のない会議用スライド。
+
+* 再利用可能なプロジェクトプレゼンテーションテンプレート。
+
+* 数式豊富な学術講義用デッキ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* LaTeXからPOTXテンプレートの一括作成。
+
+* LaTeXリポジトリからの自動テンプレート更新。
+
+* 教育用LMSや企業向けスライドシステムへの統合。
+
+* 複数著者チーム向けのトリガー式スライドテンプレート生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

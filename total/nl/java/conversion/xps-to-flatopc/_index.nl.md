@@ -129,7 +129,55 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XPS (XML Paper Specification)-bestanden naar **FLATOPC (Flat Open Packaging Conventions)** maakt het mogelijk om documentinhoud te extraheren in een gestructureerd XML-formaat, waarbij lay-out, lettertypen en metadata behouden blijven voor geavanceerde documentverwerkingsworkflows.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Programatische extractie van tekst en opmaak voor bedrijfssystemen voor documenten.
+
+* Archivering van XPS-documenten in gestructureerde XML voor langetermijnopslag.
+
+* Integratie in geautomatiseerde publicatiepijplijnen.
+
+* Datamining uit technische of financiële rapporten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch XPS-naar-FLATOPC conversie voor bedrijfscontentbeheer.
+
+* Geplande extractie voor terugkerende rapportworkflows.
+
+* Integratie met op AI gebaseerde systemen voor documentenparsen.
+
+* Geautomatiseerde validatie van geëxtraheerde documentinhoud voor naleving.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

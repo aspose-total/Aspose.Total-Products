@@ -102,7 +102,47 @@ otherformats: ODS XLAM SXC DIF XLS FODS EXCEL CSV XLT XLTM XLTX XLSX TSV XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי MOBI ל-XLSM (גיליון עבודה של Excel המאופשר מקרו) מאפשרת אוטומציה ישירות בתוך Excel, מאפשרת עיבוד דינמי של נתוני ספר אלקטרוני דרך מקרו VBA מוטבע.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים שימוש מרכזיים" %}}
+
+- ניתוח קטלוג MOBI אינטראקטיבי באמצעות מקרוים של Excel.
+
+- מעקב אוטומטי אחר מגמות לפרסום דיגיטלי.
+
+- יצירת לוחות מחזור פיבוט למדדי מעורבות של הקוראים.
+
+- יצירת כלים מופעלים במקרו לניהול זרימת עבודה עורפית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+- ייבוא MOBI מבוסס טריגר דרך VBA של Excel.
+
+- יצירת דוחות אוטומטיים לאחר פענוח של MOBI.
+
+- שילוב עם לוחות מחזור מאופשרים במקרו.
+
+- המרת סדרות מידע מ-MOBI באמצעות XLSM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

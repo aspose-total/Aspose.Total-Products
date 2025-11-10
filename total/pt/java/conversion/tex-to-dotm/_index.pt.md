@@ -143,7 +143,55 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter arquivos TEX para **DOTM (Modelo Habilitado para Macro do Word)** fornece modelos reutilizáveis com funcionalidade de macro. Ideal para fluxos de trabalho automatizados, ele conecta a composição de alta precisão do LaTeX com as capacidades de automação do Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Modelos de submissão automatizados para revistas acadêmicas.
+
+* Modelos de relatórios técnicos reutilizáveis com geração de conteúdo dinâmico.
+
+* Formulários habilitados para macro para entrada de dados de laboratório ou pesquisa.
+
+* Geração de modelos do Word com LaTeX para colaborações com vários autores.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Criação de documentos em tempo real acionada a partir de fluxos de entrada LaTeX.
+
+* Integração em pipelines de automação de documentos empresariais baseados no Word.
+
+* Atualizações em lote de modelos para projetos de pesquisa colaborativos.
+
+* Geração de documentação de projeto habilitada para macro para equipes de engenharia.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

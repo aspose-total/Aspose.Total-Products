@@ -53,7 +53,45 @@ otherformats: WORDML TEXT RTF WORD WORDMLM DOTX DOTM DOT WORDMLX ODT FLATOPC OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POT เป็น WORDML (WordprocessingML) ช่วยให้เกิดการแปลงเนื้อหางานนำเสนอเป็นเอกสาร Word โครงสร้างบน XML ได้อย่างราบรื่น ซึ่งสนับสนุนการผสานรวมองค์กรขั้นสูงและการสร้างเอกสารที่ขับเคลื่อนด้วยข้อมูลได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การแปลงงานนำเสนอขององค์กรเป็นเอกสารเทคนิคที่มีแท็ก XML
+
+* การผสานเนื้อหางานนำเสนอเข้ากับระบบการเผยแพร่ที่ขับเคลื่อนด้วยฐานข้อมูล
+
+* การจัดโครงสร้างวัสดุการศึกษาสำหรับคลังข้อมูลดิจิทัล
+
+* การแปลงเทมเพลตการตลาดเป็นข้อมูล WordML ที่มีโครงสร้าง
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การผสานการแปลง PowerPoint เป็น XML ในระบบ ETL ขององค์กร
+
+* การสร้างเอกสาร Word ที่ขับเคลื่อนด้วย XML แบบกลุ่ม
+
+* ท่องไปมาอัตโนมัติสำหรับการส่งออกเอกสารที่มีโครงสร้าง
+
+* การเชื่อมโยงผลลัพธ์ WordML กับเครื่องมือจัดการเนื้อหาและความรู้
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

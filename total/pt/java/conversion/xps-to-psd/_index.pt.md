@@ -57,7 +57,51 @@ Usando a API, você também pode girar a imagem PSD de saída conforme suas nece
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter XPS para **PSD (Documento Photoshop)** permite que designers trabalhem em imagens em camadas e editáveis extraídas de arquivos XPS, adequadas para fluxos de trabalho criativos e de marketing.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Material de marketing editável derivado de arquivos XPS.
+
+* Ilustrações em camadas para apresentações e campanhas.
+
+* Aprimoramentos de diagramas técnicos para publicações.
+
+* Manipulação de fotos e projetos de design a partir de visuais de documentos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de XPS para PSD para equipes criativas.
+
+* Integração com fluxos de trabalho de design para atualizações visuais automatizadas.
+
+* Geração programada de PSD a partir de relatórios XPS recorrentes.
+
+* Pipeline de edição otimizado para conteúdo de marketing ou educacional.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

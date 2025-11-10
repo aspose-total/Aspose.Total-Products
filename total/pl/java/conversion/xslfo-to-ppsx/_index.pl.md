@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie XSLFO na **PPSX (Pokaz PowerPoint bez makr)** pozwala uzyskać samodzielnie uruchamiane prezentacje bezpieczne do dystrybucji. PPSX zachowuje formatowanie i układy, unikając ryzyka wykonania makr.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Tworzenie samodzielnie uruchamianych pulpitów finansowych na podstawie danych XSLFO.
+
+* Udostępnianie standaryzowanych prezentacji szkoleniowych lub wprowadzających.
+
+* Przygotowywanie pokazów inwestycyjnych bez makr.
+
+* Archiwizacja slajdów z kwartalnych przeglądów do dystrybucji w zespole.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana wsadowa konwersja XSLFO na PPSX dla prezentacji cyklicznych.
+
+* Wywoływane generowanie pokazów slajdów bez makr.
+
+* Integracja z automatyzowanymi potokami dystrybucji.
+
+* Automatyczna aktualizacja samodzielnie uruchamianych slajdów na podstawie raportów XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

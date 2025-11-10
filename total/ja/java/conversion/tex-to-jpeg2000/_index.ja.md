@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力JPEG2000画像を回転させる
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**JPEG2000**に変換すると、アーカイブ、プロフェッショナルな出版、Webアプリケーションに適した高品質で圧縮されたLaTeXビジュアルが提供されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 研究論文用の高解像度のLaTeXプロットのアーカイブ。
+
+* 最小限の品質低下でのオンライン出版用の科学図。
+
+* プラットフォーム間での圧縮された学術図の共有。
+
+* 教材用の高品質なLaTeXビジュアル。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 研究リポジトリ向けの自動バッチ変換。
+
+* 学術出版パイプラインへの統合。
+
+* Webまたは印刷配布用のJPEG2000生成のトリガー。
+
+* 圧縮形式でのLaTeX図の継続的なアーカイブ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -130,7 +130,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS（XML Paper Specification）ファイルを**FLATOPC（Flat Open Packaging Conventions）**に変換することで、構造化されたXML形式で文書コンテンツを抽出し、レイアウト、フォント、およびメタデータを保持して高度な文書処理ワークフローに活用できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 企業向け文書システムでのテキストと書式のプログラムによる抽出。
+
+* 長期保存のための構造化されたXML形式でのXPS文書のアーカイブ。
+
+* 自動化されたパブリッシングパイプラインへの統合。
+
+* 技術的または財務報告書からのデータマイニング。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 企業向けコンテンツ管理のためのバッチXPSからFLATOPCへの変換。
+
+* 定期的なレポートワークフローのためのスケジュール抽出。
+
+* AIベースの文書解析システムとの統合。
+
+* コンプライアンスのための抽出文書コンテンツの自動検証。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

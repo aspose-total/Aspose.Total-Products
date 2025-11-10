@@ -47,7 +47,55 @@ XSLFO dosyasını XLTX'ye dönüştürürken, çıktı XLTX dosya biçiminize fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **XLTX (Makrosuz Excel Şablonu)**'na dönüştürülmesi, makro yürütme riski olmadan tekrarlayan raporlar için güvenli, yeniden kullanılabilir şablonlar sağlar. XLTX, biçimlendirmeyi, stilleri ve tablo yapılarını korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Takım kullanımı için XSLFO tabanlı aylık finansal şablonların hazırlanması.
+
+* Bölümler arası dağıtım için güvenli proje takip tablolarının oluşturulması.
+
+* Makrosuz KPI raporlama şablonlarının dağıtımı.
+
+* Standart XSLFO raporlama yapılarının XLTX formatında arşivlenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tekrarlayan rapor dağıtımı için zamanlanmış XSLFO'dan XLTX'e dönüşüm.
+
+* Sürekli raporlama için şablon yönetim sistemlerine entegrasyon.
+
+* Kurumsal iş akışları için makrosuz şablonların toplu oluşturulması.
+
+* Standartlaştırılmış raporlama için XSLFO'dan XLTX dosyalarının tetiklenmiş oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ XPSファイルをSXCに変換するときに、出力SXCファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**SXC（StarOffice Spreadsheet）**に変換すると、古いOpenOffice/StarOfficeファイルとの後方互換性が提供されます。この形式は、レガシーワークフローやアーカイブ目的に適しています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* SXC形式でのレガシーレポートのアーカイブ。
+
+* 歴史的な財務および運用データセット。
+
+* XPSベースのスプレッドシートをオープンソース環境に移行。
+
+* 古いオフィススイート向けの技術的または研究ログ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XPSリポジトリのバッチ変換をSXCファイルに。
+
+* コンプライアンスおよび監査目的の自動アーカイブ。
+
+* 定期的なXPSレポートのスケジュールされた移行。
+
+* レガシーシステム統合パイプライン。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

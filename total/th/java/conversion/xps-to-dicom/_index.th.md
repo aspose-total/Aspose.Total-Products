@@ -57,7 +57,51 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XPS เป็น **DICOM (Digital Imaging and Communications in Medicine)** ช่วยให้สามารถรวมภาพเอกสารเข้ากับระบบภาพการแพทย์ได้อย่างสมบูรณ์ โดยรักษารายละเอียดความละเอียดสูงสำหรับการใช้งานทางคลินิก
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* ฝังรายงานทางการแพทย์ลงในขั้นตอนการทำภาพรังสีแพทย์
+
+* เก็บเอกสารการวินิจฉัยพร้อมกับภาพสแกนของผู้ป่วย
+
+* ระบบโรงพยาบาลที่ต้องการความเข้ากันได้กับ DICOM สำหรับรายงาน
+
+* แพลตฟอร์มเทเลเมดิซินที่รวมภาพเอกสารทางคลินิก
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XPS เป็น DICOM แบบกลุ่มสำหรับระบบบันทึกข้อมูลในโรงพยาบาล
+
+* การรวมอัตโนมัติกับ PACS (ระบบเก็บภาพและการสื่อสาร)
+
+* การอัพเดทตามกำหนดเวลาสำหรับภาพของบันทึกข้อมูลผู้ป่วย
+
+* กระบวนการทำงานที่เรียบง่ายสำหรับการประมวลผลข้อมูลภาพการแพทย์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

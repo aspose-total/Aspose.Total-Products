@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie XSLFO na **PPT (format Legacy PowerPoint)** zapewnia kompatybilność z starszymi wersjami pakietu Microsoft Office, jednocześnie zachowując treści tabelaryczne i układy slajdów. PPT jest odpowiedni dla organizacji wciąż korzystających z przestarzałych narzędzi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przygotowywanie slajdów wygenerowanych z XSLFO do starszych systemów korporacyjnych.
+
+* Udostępnianie treści edukacyjnych lub szkoleniowych w formacie PPT.
+
+* Archiwizowanie samodzielnych slajdów w celach audytowych.
+
+* Konwertowanie raportów XSLFO na łatwo dystrybuowalne pliki PowerPoint w starszym formacie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna konwersja zbiorcza z XSLFO na slajdy PPT.
+
+* Zaplanowany eksport dla cyklicznych raportów zarządzania lub szkoleń.
+
+* Integracja z przestarzałymi potokami pracy opartymi na pakiecie Office.
+
+* Wywoływanie tworzenia slajdów PPT z szablonów XSLFO w celach archiwizacyjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

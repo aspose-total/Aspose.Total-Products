@@ -47,7 +47,55 @@ XSLFO 파일을 TSV로 변환하는 동안 출력 TSV 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **TSV (탭으로 구분된 값)**로 변환하면 분석, 데이터베이스 가져오기 또는 ETL 프로세스를 위한 탭형식의 데이터 추출이 간단해집니다. TSV는 가벼우며 사람이 읽기 쉽고 프로그래밍 언어 및 데이터 도구에서 널리 지원됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 데이터베이스 적재를 위해 XSLFO 보고서를 TSV로 내보내기.
+
+* 구조화된 XSLFO 테이블에서 분석에 적합한 데이터 세트 준비.
+
+* XSLFO 금융 시트에서 분석 플랫폼으로 데이터 이관.
+
+* 쉬운 통합을 위해 TSV 형식으로 간단한 탭형식 데이터 공유.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* BI 파이프라인을 위한 XSLFO에서 TSV로 예약된 일괄 변환.
+
+* 실시간 분석 워크플로에 대한 ETL 통합.
+
+* 자동화된 대시보드를 위해 XSLFO 보고서에서 트리거된 TSV 내보내기.
+
+* 대규모 XSLFO 데이터 세트에 대한 프로그래밍 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het converteren van XSLFO-bestanden naar **POT (PowerPoint-sjabloon)** maakt gestandaardiseerde, herbruikbare dia's mogelijk voor Microsoft PowerPoint-gebruikers. POT-sjablonen behouden dia-indelingen, stijlen en tabelopmaak.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het maken van bedrijfsrapportagesjablonen van XSLFO-financiële samenvattingen.
+
+* Het voorbereiden van maandelijkse projectvolgdia's voor consistente presentatie.
+
+* Het ontwerpen van trainingsmodules van gestructureerde XSLFO-gegevens.
+
+* Het genereren van herbruikbare investeerderspitchdecks met vooraf gedefinieerde dia-indelingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchgewijze geautomatiseerde generatie van POT-bestanden van XSLFO-rapporten.
+
+* Geplande sjablooncreatie voor terugkerende teampresentaties.
+
+* Integratie met bedrijfsslide-automatiseringspijplijnen.
+
+* Getriggerde conversie van XSLFO-gegevens naar direct bruikbare POT-sjablonen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

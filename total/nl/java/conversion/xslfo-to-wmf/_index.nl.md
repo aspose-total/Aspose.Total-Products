@@ -57,7 +57,51 @@ Met behulp van de API kunt u ook de uitgevoerde WMF-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het converteren van XSLFO naar **WMF (Windows Metafile)** maakt schaalbare vectorafbeeldingen mogelijk die compatibel zijn met Microsoft Office en andere desktop publishing-toepassingen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Insluiten van XSLFO-tabellen en grafieken in Microsoft Word of PowerPoint.
+
+* Het maken van schaalbare visuals voor zakelijke presentaties.
+
+* Archiveren van rapport visuals in vectorformaat.
+
+* Voorbereiden van technische illustraties van gestructureerde XSLFO-gegevens.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch XSLFO-naar-WMF conversie voor documentworkflows.
+
+* Geplande export van vector visuals voor presentaties.
+
+* Getriggerde generatie van WMF-afbeeldingen van XSLFO-dashboards.
+
+* Integratie met geautomatiseerde bedrijfspublicatiepijplijnen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

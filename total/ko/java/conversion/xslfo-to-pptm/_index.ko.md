@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **PPTM (매크로 활성화된 PowerPoint)**으로 변환하면 편집 가능한 슬라이드와 자동화 기능이 결합됩니다. PPTM은 동적 보고서, 대화형 대시보드 및 반복적인 프레젠테이션에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* XSLFO 기반 계산을 대화형 슬라이드에 임베딩하기.
+
+* 자동 성과 검토 대시보드 준비하기.
+
+* 매크로 활성화된 교육 또는 안내 슬라이드 작성하기.
+
+* 동적 투자자 또는 이사회 프레젠테이션 배포하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XSLFO 보고서를 PPTM 슬라이드로 예약된 변환하기.
+
+* VBA 자동화 파이프라인과 통합하기.
+
+* 반복되는 XSLFO 콘텐츠로부터 트리거된 매크로 활성화된 슬라이드 생성하기.
+
+* 동적 기업 프레젠테이션을 위한 자동화된 일괄 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

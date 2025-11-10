@@ -47,7 +47,51 @@ A XSLFO-fájl TSV-vé konvertálásakor vízjelet is hozzáadhat a kimeneti TSV-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **TSV (Tabulátorral elválasztott értékek)** formátumba egyszerűsíti a táblázatos adatok kinyerését az analitikához, adatbázis importáláshoz vagy ETL folyamatokhoz. A TSV könnyű, ember által olvasható és széles körben támogatott a programozási nyelvekben és adatelemző eszközökben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* XSLFO jelentések exportálása TSV formátumba adatbázis beolvasás céljából.
+
+* Analitikai-barát adatkészletek előkészítése strukturált XSLFO táblázatokból.
+
+* Adatmigráció XSLFO pénzügyi táblázatokról analitikai platformokra.
+
+* Egyszerű táblázatos adatok megosztása TSV formátumban könnyű integráció céljából.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Ütemezett tételkonverzió XSLFO-ról TSV-re BI csövekhez.
+
+* ETL integráció valós idejű analitikai folyamatokhoz.
+
+* Kiváltott TSV export XSLFO jelentésekből automatizált vezérlőpultokhoz.
+
+* Programozott átalakítás nagy léptékű XSLFO adatkészletekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

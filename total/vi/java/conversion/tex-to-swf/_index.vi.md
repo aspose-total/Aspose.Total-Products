@@ -135,7 +135,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX thành **SWF (Shockwave Flash)** tạo ra các hoạt hình LaTeX tương tác phù hợp cho các nền tảng giáo dục và bài thuyết trình trực tuyến, mặc dù chủ yếu dành cho các hệ thống cũ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Hướng dẫn và minh họa dựa trên LaTeX động.
+
+* Các mô-đun giáo dục tương tác cho các nền tảng cũ.
+
+* Chia sẻ các tính toán lặp lại hoặc minh họa thuật toán.
+
+* Biểu đồ động trong nội dung học trực tuyến kỹ thuật.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt TEX thành SWF cho thư viện nội dung cũ.
+
+* Tích hợp vào các nền tảng học trực tuyến ngoại tuyến.
+
+* Tạo ra SWF theo yêu cầu cho các chuỗi LaTeX tương tác.
+
+* Cập nhật định kỳ các hướng dẫn động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

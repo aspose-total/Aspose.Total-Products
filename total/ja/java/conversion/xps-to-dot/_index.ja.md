@@ -130,7 +130,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSファイルを**DOT（Word文書テンプレート）**に変換することで、固定レイアウトのXPSコンテンツを再利用可能なテンプレートに変換できます。これは、レポート、提案、契約書などで一貫した文書スタイルが必要な企業に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* 提案書やプレゼンテーション用の企業ブランドのテンプレート。
+
+* 四半期報告書や年次報告書用の標準化されたレポートテンプレート。
+
+* 法務部門や調達部門向けの契約書テンプレート。
+
+* eラーニングプラットフォーム向けの教材テンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* DOTテンプレートから大量の新しい文書を自動作成。
+
+* ワークフローツールとの統合による動的データでテンプレートを埋める。
+
+* 事前設計されたテンプレートを使用してチーム間でコンテンツ配布を効率化。
+
+* 企業システムで文書の標準化を行うための変換パイプライン。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

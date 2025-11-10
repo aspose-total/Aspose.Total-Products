@@ -61,7 +61,47 @@ POT dosyasını TSV'ye dönüştürürken, çıktı TSV dosya biçiminize de fil
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POT'u TSV'ye (Tablo Ayırıcılı Değerler) dönüştürmek, sunum tablolarını veri aktarımı ve işleme için kullanılan metin tabanlı elektronik tablolara verimli bir şekilde aktarmak için etkili bir yöntem sunar. TSV, analiz araçları arasında büyük veri kümelerini işlemeyi basitleştirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* İçe aktarma için sunum tabanlı analitiği TSV veriye dönüştürme.
+
+* Makine öğrenme modelleri için yapılandırılmış tablo raporları hazırlama.
+
+* Eğitim slaytlarından akademik performans metriklerini çıkarma.
+
+* Kurumsal sistemler için paylaşılabilir TSV veri kümeleri oluşturma.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Analitik boru hatlarına entegre edilmiş toplu TSV dönüşümü.
+
+* PowerPoint eğitim materyallerinden tablo otomatik çıkarma.
+
+* Kurumsal veri alışverişi için ETL sistemlerine entegrasyon.
+
+* Büyük ölçekli rapor otomasyonu için TSV oluşturma.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

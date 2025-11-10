@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp TEX sang DIF, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **DIF (Data Interchange Format)** đảm bảo dữ liệu bảng LaTeX có thể được sử dụng với các chương trình bảng tính cũ hơn và các công cụ khoa học chuyên ngành đồng thời duy trì cấu trúc và độ chính xác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Nhập bảng số dựa trên LaTeX vào phần mềm tài chính cũ.
+
+* Chia sẻ các phép tính kỹ thuật với các công cụ tương thích với DIF.
+
+* Bảo tồn dữ liệu có cấu trúc cho các xuất bản học thuật.
+
+* Lưu trữ bộ dữ liệu LaTeX trong các định dạng trao đổi mở.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo ra DIF hàng loạt từ dữ liệu dự án LaTeX.
+
+* Tích hợp vào các đường ống dữ liệu khoa học.
+
+* Lưu trữ tự động kết quả thí nghiệm nghiên cứu.
+
+* Chuyển đổi theo lịch trình cho các hệ thống báo cáo liên tục.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

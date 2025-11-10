@@ -135,7 +135,55 @@ Qualsiasi sistema operativo in grado di eseguire Java Runtime Environment (JRE) 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversione dei file TEX in **ODP (OpenDocument Presentation)** consente di trasformare contenuti LaTeX, formule e tabelle in diapositive di presentazione open source compatibili con LibreOffice e OpenOffice. Ideale per accademici e ingegneri che condividono ricerche basate su LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* Lezioni accademiche con equazioni generate da LaTeX.
+
+* Presentazioni di progetti open source con dati strutturati.
+
+* Diapositive per conferenze su argomenti di matematica, fisica o ingegneria.
+
+* Materiali didattici con diagrammi interattivi basati su LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* Conversione batch da TEX a ODP per materiale didattico o di formazione.
+
+* Generazione programmata di diapositive da repository di ricerche LaTeX.
+
+* Integrazione in pipeline di presentazioni open source.
+
+* Aggiornamenti attivati per presentazioni accademiche multi-autore.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

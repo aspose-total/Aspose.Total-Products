@@ -105,7 +105,55 @@ otherformats: WMZ PSD TGA JPEG2000 WMF IMAGE SVGZ EMZ APNG DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XSLFO ל־**DXF (Drawing Exchange Format)** שומרת פריטי פרטים מבוססי וקטוריים לשימוש ביישומים של CAD ועיצוב טכני. קבצי DXF שומרים ממדים מדויקים ומבני פריסה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת דוחות הנדסיים שנוצרו ב-XSLFO לפורמטים ידידותיים ל-CAD.
+
+* ארכיבה של טבלאות מובנות כשרטוטי וקטור לתיעוד טכני.
+
+* שילוב של פריטי פרטים תפעוליים לתוך תוכנות עיצוב.
+
+* יצירת תרשימים טכניים מדוחות XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת XSLFO ל־DXF בצורה צפופה לעבודות תיעוד הנדסי.
+
+* ייצוא מתוזמן של טבלאות דוח מובנות כ־DXF לצורך ביקורת עיצוב.
+
+* שילוב עם צינורות דוחות מבוססי CAD אוטומטיים.
+
+* המרת נתוני XSLFO לשרטוטי DXF עבור צוותים טכניים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

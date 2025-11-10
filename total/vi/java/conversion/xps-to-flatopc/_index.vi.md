@@ -129,7 +129,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp XPS (XML Paper Specification) sang **FLATOPC (Flat Open Packaging Conventions)** cho phép trích xuất nội dung tài liệu dưới dạng XML có cấu trúc, bảo tồn bố cục, font chữ và siêu dữ liệu cho quy trình xử lý tài liệu tiên tiến.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Trích xuất chương trình văn bản và định dạng cho các hệ thống tài liệu doanh nghiệp.
+
+* Lưu trữ tài liệu XPS dưới dạng XML có cấu trúc cho việc lưu trữ dài hạn.
+
+* Tích hợp vào các đường ống xuất bản tự động.
+
+* Khai thác dữ liệu từ các báo cáo kỹ thuật hoặc tài chính.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ XPS sang FLATOPC cho quản lý nội dung doanh nghiệp.
+
+* Trích xuất theo lịch trình cho các quy trình báo cáo định kỳ.
+
+* Tích hợp với các hệ thống phân tích tài liệu dựa trên trí tuệ nhân tạo.
+
+* Xác thực tự động nội dung tài liệu trích xuất cho tuân thủ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

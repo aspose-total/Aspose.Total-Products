@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 DICOM 이미지를 회전할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **DICOM (의학 영상 및 통신)**으로 변환하면 기술적 및 과학적 LaTeX 다이어그램을 의료 영상 워크플로 및 연구 문서에 포함할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 의료 영상 보고서에 LaTeX 기반 다이어그램 통합.
+
+* 구조화된 LaTeX 콘텐츠로 생명 과학 연구 문서 작성.
+
+* LaTeX로 생성된 그래픽을 사용하여 해부학 데이터 시각화.
+
+* 방사선학 연구에서 LaTeX 기반 도표 발행.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 병원 영상 아카이브를 위한 자동화된 일괄 변환.
+
+* 의료 연구 워크플로에 통합.
+
+* 임상 연구를 위한 TEX-to-DICOM 렌더링 트리거.
+
+* AI 지원 진단을 위한 LaTeX 다이어그램 내보내기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

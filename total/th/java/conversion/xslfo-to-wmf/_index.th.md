@@ -57,7 +57,45 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **WMF (Windows Metafile)** ช่วยให้ได้รูปภาพเวกเตอร์ที่สามารถปรับขนาดได้ ที่เข้ากันได้กับ Microsoft Office และแอปพลิเคชันสำหรับ desktop publishing อื่น ๆ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ฝังตารางและแผนภูมิ XSLFO ใน Microsoft Word หรือ PowerPoint
+* สร้างภาพแบบเวกเตอร์ที่สามารถปรับขนาดได้สำหรับการนำเสนอของบริษัท
+* เก็บภาพแสดงข้อมูลรายงานในรูปแบบเวกเตอร์
+* เตรียมภาพประกอบทางเทคนิคจากข้อมูล XSLFO ที่มีโครงสร้าง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลง XSLFO เป็น WMF จำนวนมากสำหรับเวิร์กฟลอว์ของเอกสาร
+* ส่งออกภาพแบบเวกเตอร์ตามกำหนดเวลาสำหรับสไลด์ดีกส์
+* สร้างภาพ WMF จากแดชบอร์ด XSLFO โดยเรียกใช้
+* ผสานกับท่อทำงานการพิมพ์ของบริษัทอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

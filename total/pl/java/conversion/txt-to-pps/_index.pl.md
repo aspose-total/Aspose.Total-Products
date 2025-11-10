@@ -54,7 +54,51 @@ Interfejs API umożliwia również konwersję dokumentów TXT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików TXT na format **PPS (PowerPoint Show)** pozwala na tworzenie gotowych do prezentacji pokazów slajdów, które otwierają się bezpośrednio w trybie pokazu slajdów. Ten format jest idealny do dystrybucji finalnych prezentacji klientom lub publiczności.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Prezentacje sprzedażowe gotowe do przekazania klientowi bez ryzyka edycji.
+
+* Slajdy z nagranymi wykładami do platform e-learningowych.
+
+* Pokazy slajdów z wydarzeń i konferencji generowane na podstawie agend tekstowych.
+
+* Prezentacje kampanii marketingowych dostarczane bezpośrednio jako pliki PPS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna konwersja TXT na PPS dla dostarczania treści webinarów.
+
+* Zaplanowane eksporty zbiorcze dla bibliotek prezentacji klientów.
+
+* Integracja z portalami treści dla pokazów slajdów na żądanie.
+
+* Generowanie na żądanie dla wewnętrznych sesji informacyjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

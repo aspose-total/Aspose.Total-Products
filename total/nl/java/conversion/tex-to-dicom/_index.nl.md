@@ -57,7 +57,51 @@ Met behulp van de API kunt u ook de uitgevoerde DICOM-afbeelding roteren volgens
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **DICOM (Digital Imaging and Communications in Medicine)** maakt het mogelijk om technische en wetenschappelijke LaTeX-diagrammen in te bedden in medische beeldvormingsworkflows en onderzoeksdocumentatie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Integratie van op LaTeX gebaseerde diagrammen in medische beeldvormingsrapporten.
+
+* Documenteren van biomedisch onderzoek met gestructureerde LaTeX-inhoud.
+
+* Visualiseren van anatomische gegevens met door LaTeX gegenereerde afbeeldingen.
+
+* Publiceren van op LaTeX gebaseerde schema's in radiologisch onderzoek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde batchconversie voor ziekenhuisbeeldarchieven.
+
+* Integratie in medische onderzoekworkflows.
+
+* Getriggerde TEX-naar-DICOM-rendering voor klinische studies.
+
+* Exporteren van LaTeX-diagrammen voor door AI ondersteunde diagnostiek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

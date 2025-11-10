@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **PPSM (PowerPoint Macro-Enabled Show)** olarak dönüştürmek, LaTeX içeriğinin otomatik hesaplamalar, etkileşimli diyagramlar ve dinamik sunumlar için makrolar içermesine olanak tanır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Dinamik tablolarla makro destekli akademik dersler.
+
+* Otomatik güncellenen grafiklerle araştırma sunumları.
+
+* Etkileşimli unsurlar içeren kurumsal eğitim sunumları.
+
+* LaTeX formülleri içeren çoklu yazarlı konferans slaytları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Etkileşimli sunumlar için toplu TEX'ten PPSM'ye dönüşümler.
+
+* LaTeX içeriğinin makro destekli slayt paketlerine otomatik entegrasyonu.
+
+* Dinamik atölye materyalleri için zamanlanmış güncellemeler.
+
+* Araştırma veya kurumsal sunum akışları için tetiklenen oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

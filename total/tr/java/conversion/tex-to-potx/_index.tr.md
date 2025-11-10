@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **POTX'e (Makrosuz PowerPoint Şablonu)** dönüştürmek, LaTeX biçimlendirmesiyle güvenli, yeniden kullanılabilir slayt şablonları sağlar, çok kullanıcılı ortamlar için mükemmeldir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX denklemleri içeren standartlaştırılmış ders slayt şablonları.
+
+* Makro kısıtlamaları olmadan konferans slaytları.
+
+* Yeniden kullanılabilir proje sunumu şablonları.
+
+* Formül açısından zengin içeriğe sahip akademik ders slaytları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* LaTeX'ten POTX şablonlarının toplu oluşturulması.
+
+* LaTeX depolarından otomatik şablon güncellemeleri.
+
+* Eğitim LMS veya kurumsal slayt sistemlerine entegrasyon.
+
+* Çoklu yazar takımları için tetiklenmiş slayt şablonu oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

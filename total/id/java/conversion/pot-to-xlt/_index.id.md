@@ -61,7 +61,45 @@ Saat mengonversi file POT ke XLT, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi POT ke XLT (Excel Template) membantu organisasi menetapkan template spreadsheet yang dapat digunakan kembali dari tata letak presentasi. XLT mendukung penginputan data yang efisien dan pelaporan yang konsisten di seluruh tim.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mendesain template keuangan dari presentasi anggaran PowerPoint.
+
+* Membuat lembar penginputan data standar untuk HR atau akuntansi.
+
+* Mengubah visual pelatihan menjadi pelacak kinerja berbasis Excel.
+
+* Menghasilkan template bisnis yang dapat digunakan kembali dari slide.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Generasi XLT otomatis dari desain presentasi perusahaan.
+
+* Sinkronisasi template di seluruh sistem manajemen dokumen.
+
+* Integrasi ke dalam alat perencanaan sumber daya perusahaan.
+
+* Penyelarasan implementasi template Excel yang standar.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

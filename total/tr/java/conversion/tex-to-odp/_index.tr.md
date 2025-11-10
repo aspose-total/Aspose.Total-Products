@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX dosyalarını **ODP (OpenDocument Presentation)** formatına dönüştürmek, LaTeX içeriğini, formülleri ve tabloları LibreOffice ve OpenOffice ile uyumlu açık kaynak sunum slaytlarına dönüştürmeyi sağlar. LaTeX tabanlı araştırmaları paylaşan akademisyenler ve mühendisler için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX ile oluşturulmuş denklemlerin bulunduğu akademik dersler.
+
+* Yapılandırılmış verilerle açık kaynak proje sunumları.
+
+* Matematik, fizik veya mühendislik konularında konferans slaytları.
+
+* Etkileşimli LaTeX tabanlı diyagramlarla öğretim materyalleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Kurs materyalleri veya eğitim materyalleri için toplu TEX'ten ODP'ye dönüşüm.
+
+* LaTeX araştırma depolarından zamanlanmış slayt oluşturma.
+
+* Açık kaynak sunum akışlarına entegrasyon.
+
+* Çoklu yazarlı akademik slayt destekleri için tetiklenen güncellemeler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

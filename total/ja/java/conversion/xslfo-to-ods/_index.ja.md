@@ -47,7 +47,55 @@ XSLFOファイルをODSに変換するときに、出力ODSファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**ODS（OpenDocument Spreadsheet）**に変換することで、最新のオープンソースのスプレッドシートアプリケーションとの互換性が確保されます。ODSはスタイル、数式、テーブルを保持し、共同レポーティングやデータ共有に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* LibreOfficeユーザー向けにXSLFOで生成されたHRレポートをODS形式に変換する。
+
+* ODS形式で四半期ごとの分析を外部パートナーと共有する。
+
+* 部署間レビュー用の運用ダッシュボードを準備する。
+
+* 将来にわたって有効なオープンフォーマットであるODSに基づく財務テーブルをアーカイブする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 共同オフィス環境向けのリアルタイムXSLFOからODSへの変換。
+
+* XSLFOからの運用メトリクスの定期的なバッチエクスポート。
+
+* リモートチーム向けの自動レポーティングパイプラインへの統合。
+
+* 定期的なレポート用のXSLFOテンプレートからODSスプレッドシートを自動生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

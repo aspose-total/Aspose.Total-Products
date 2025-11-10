@@ -130,7 +130,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**MHTML（MIME HTML）**に変換すると、画像、テキスト、スタイルを含むドキュメント全体を1つのWeb用ファイルにパッケージ化でき、アーカイブや共有に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* Web互換形式でXPSドキュメントをアーカイブする。
+
+* 外部添付ファイルなしで完全なレポートをメールで共有する。
+
+* 内部WebポータルでXPSコンテンツを公開する。
+
+* 企業や学術用途のWebベースのドキュメント。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 企業アーカイブ向けの自動バッチXPSからMHTMLへの変換。
+
+* Web用ドキュメントバージョンの定期生成。
+
+* イントラネットシステムとの統合による内部配布。
+
+* レポートやマニュアルのデジタルアーカイブの効率化されたワークフロー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

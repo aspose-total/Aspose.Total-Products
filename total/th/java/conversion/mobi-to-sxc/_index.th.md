@@ -61,7 +61,51 @@ otherformats: SXC ODS XLTM DIF TSV XLAM FODS EXCEL XLSX XLT XLTX XLSB XLS XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MOBI เป็น SXC (StarOffice Calc) สนับสนุนความต้องการในการถูกเก็บถาวรและเข้ากันได้สำหรับสถาบันที่ใช้รูปแบบสเปรดชีตเก่า รูปแบบนี้รักษาความสมบูรณ์ของข้อมูลโครงสร้างในขณะที่ยังรักษาความอ่านได้ในระบบที่เป็นที่เก่า
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+- นำเข้าสถิติ MOBI เข้าสู่ฐานข้อมูลที่เข้ากันได้กับ StarOffice
+
+- รักษาสมุดหนังสืออีบุ๊ครูปแบบเก่าสำหรับสำนักหอสารสาธารณะ
+
+- สามารถใช้งานย้อนหลังในระบบการพิมพ์ที่มีมูลค่ามรดก
+
+- แปลงข้อมูลเมตาดาต้า MOBI เพื่อการวิเคราะห์รายงานแบบออฟไลน์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+- การแยกวิเคราะห์ MOBI อัตโนมัติสำหรับรายงานกลุ่ม SXC
+
+- การผสานกับกรอบการทำงาน ETL เก่า
+
+- การส่งออกตามกำหนดเวลาสำหรับการรักษาข้อมูลมรดก
+
+- ท่อการประทับเวลาของข้อมูล AI สำหรับคลังข้อมูลเนื้อหาประวัติศาสตร์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

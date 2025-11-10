@@ -121,7 +121,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XPS átalakítása **SWF (Shockwave Flash)** formátumba interaktív vagy animált bemutatókat tesz lehetővé régi webes alkalmazásokhoz és e-learning platformokhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Régi e-learning modulok, amelyek Flash animációkat igényelnek.
+
+* Interaktív dokumentumalapú oktatóanyagok.
+
+* Animált marketing tartalom történelmi webes platformokhoz.
+
+* Multimédiában gazdag bemutatók oktatási kurzusokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges XPS-SWF konverzió archívum alapú e-learning rendszerekhez.
+
+* Interaktív flash tartalom automatizált generálása.
+
+* Ütemezett frissítések ismétlődő képzési modulokhoz.
+
+* Integráció régi webportálokkal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

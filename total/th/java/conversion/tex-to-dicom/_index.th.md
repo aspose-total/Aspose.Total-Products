@@ -57,7 +57,45 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **DICOM (Digital Imaging and Communications in Medicine)** ช่วยให้สามารถฝังไดอะแกรม LaTeX ทางเทคนิคและวิทยาศาสตร์ลงในการทำงานของระบบภาพการแพทย์และเอกสารวิจัยได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การรวมไดอะแกรม LaTeX เข้ากับรายงานการภาพการแพทย์
+* การเขียนเอกสารวิจัยทางชีวแพทย์ด้วยเนื้อหา LaTeX โครงสร้าง
+* การแสดงข้อมูล解剖ศาสตร์โดยใช้กราฟิกที่สร้างจาก LaTeX
+* การเผยแพร่แผนภาพที่ใช้ LaTeX ในการวิจัยรังสีวิทยา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงเป็นชุดข้อมูลอัตโนมัติสำหรับคลังข้อมูลภาพในโรงพยาบาล
+* การรวมเข้ากับกระบวนการทำงานของการวิจัยทางการแพทย์
+* การเรียกใช้การแปลง TEX เป็น DICOM สำหรับการศึกษาทางคลินิก
+* การส่งออกไดอะแกรม LaTeX สำหรับการวินิจฉัยโรคด้วยการช่วยด้วย AI
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

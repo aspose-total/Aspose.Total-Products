@@ -102,7 +102,51 @@ otherformats: XLSM XLTM XLTX FODS EXCEL CSV SXC TXT TSV XLSB MD XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XSLFO ל-XLAM (תוסף Excel) מאפשרת להטביע נתונים שנוצרו ב-XSLFO ומאקרוסים בתוך תוספי Excel הניתנים לשימוש חוזר. XLAM תומך באוטומציה, דיווחים מותאמים אישית ויישומים אינטראקטיביים בגיליון האלקטרוני.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* אריזת תבניות דיווח XSLFO כתוספי Excel לשימוש בצוות.
+
+* הפצת כלי חישוב אוטומטיים המקורם בנתוני XSLFO.
+
+* שילוב של ניתוחי XSLFO בפאנלים מותאמים אישית ב-Excel.
+
+* הפעלת זרימות דיווח חוזרות עם תוספי XLAM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* אוטומציה של יצירת XLAM מ-XSLFO למשימות חוזרות.
+
+* הפצת תוספים מתוזמנת עם נתוני XSLFO מעודכנים.
+
+* שילוב עם אוטומציה של זרימות עבודה במבוסס VBA.
+
+* יצירה מופעלת של תוספי XLAM לכלי דיווח תאגידיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

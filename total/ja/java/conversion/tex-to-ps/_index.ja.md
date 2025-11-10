@@ -144,7 +144,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**PS（PostScript）**に変換すると、LaTeXの書式、グラフィックス、複雑な数学コンテンツを保持した、プロの出版物や印刷用ドキュメントに適した多目的のページ記述ファイルが生成されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* プロの印刷用にLaTeX論文やレポートを準備する。
+
+* 技術図表のPostScriptバージョンを生成する。
+
+* 正確な書式で学術ジャーナルに投稿する。
+
+* LaTeXドキュメントを普遍的なページレイアウト形式でアーカイブする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 出版パイプライン向けの自動バッチTEXからPSへの変換。
+
+* プロの印刷ワークフローとの統合。
+
+* 大規模な文書配布のためのトリガー付きPostScript生成。
+
+* 複数の著者による学術プロジェクト向けのスケジュールされたTEXからPSへのエクスポート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -53,7 +53,45 @@ Met behulp van de API kunt u ook een POT-bestand naar WORDML-conversie met water
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van POT naar WORDML (WordprocessingML) maakt een naadloze transformatie van presentatie-inhoud naar op XML gebaseerde gestructureerde Word-documenten mogelijk. Dit ondersteunt geavanceerde integraties binnen bedrijven en op gegevens gebaseerde documentgeneratie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het omzetten van bedrijfspresentaties naar XML-getagde technische documentatie.
+
+* Integratie van presentatie-inhoud in op database gebaseerde publicatiesystemen.
+
+* Structurering van educatief materiaal voor digitale archieven.
+
+* Het omzetten van marketingtemplates naar gestructureerde WordML-gegevens.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Integratie van PowerPoint-naar-XML-conversies in bedrijfs-ETL-systemen.
+
+* Batchgeneratie van op XML gebaseerde Word-rapporten.
+
+* Automatiseringspijplijnen voor export van gestructureerde documentatie.
+
+* Koppelen van WordML-uitvoer aan CMS en kennisbeheertools.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

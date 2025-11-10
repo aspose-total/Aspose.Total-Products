@@ -143,7 +143,55 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **ODT (OpenDocument Text)** pozwala użytkownikom LaTeXa tworzyć dokumenty zgodne z otwartymi standardami, kompatybilne z LibreOffice, OpenOffice i innymi pakietami biurowymi, zapewniając dostępność i współpracę między platformami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Prace akademickie w formatach otwartych dokumentów.
+
+* Raporty z badań współpracujących z wieloplatformową kompatybilnością.
+
+* Dokumentacja projektów open-source i instrukcje obsługi.
+
+* Książki elektroniczne lub materiały dydaktyczne sformatowane w LaTeX dla narzędzi open-source.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa TEX na ODT dla repozytoriów uniwersyteckich.
+
+* Integracja z potokami publikacji open-source.
+
+* Automatyczna konwersja dla dystrybucji dokumentacji na wiele platform.
+
+* Generowanie dynamicznych raportów ODT z danych LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

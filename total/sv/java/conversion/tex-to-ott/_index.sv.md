@@ -143,7 +143,51 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av TEX till **OTT (OpenDocument Text Template)** ger pedagoger, forskare och företag möjlighet att skapa återanvändbara mallar med LaTeX-styling i öppna format, vilket effektiviserar standardiseringen av dokument.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* Mallar för undervisningsmaterial med konsekvent LaTeX-formatering.
+
+* OpenDocument-mallar för samarbete vid laboratorierapportering.
+
+* Mallar för projekt- och affärsrapporter för öppen källkods kontorspaket.
+
+* Standardiserade formulär för akademiskt eller administrativt bruk.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Automatisk mallgenerering för fleranvändarmiljöer.
+
+* Integration i öppen källkods LMS och kontorsflöden.
+
+* Batchuppdateringar av mallbibliotek för akademiska institutioner.
+
+* Dynamisk LaTeX-till-OTT-konvertering för forskningsdokumentation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

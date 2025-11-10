@@ -61,7 +61,51 @@ POTM 파일을 SXC로 변환하는 동안 출력 SXC 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM를 SXC로 변환하면 레거시 스프레드시트 파일이 생성됩니다. 이 형식은 오래된 오피스 스위트와의 호환성을 위해 유용하며, 역사적 프레젠테이션 데이터를 여전히 분석할 수 있도록 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 레거시 시스템을 위해 슬라이드 기반 재무 테이블을 SXC로 이관하는 것.
+
+* 오래된 오피스 소프트웨어를 사용하는 조직을 위해 프로젝트 보고서를 변환하는 것.
+
+* 역호환 가능한 스프레드시트 형식으로 숫자 슬라이드 콘텐츠를 아카이빙하는 것.
+
+* 오래된 애플리케이션을 사용하는 팀과 프레젠테이션 테이블을 공유하는 것.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 아카이브를 위해 POTM 템플릿을 SXC로 일괄 변환하는 것.
+
+* 레거시 보고 시스템과의 통합.
+
+* 역사적 데이터 보존을 위해 트리거된 SXC 생성.
+
+* 자동화된 슬라이드-레거시 스프레드시트 워크플로우.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

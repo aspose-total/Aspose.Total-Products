@@ -121,7 +121,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **PPSM (매크로 활성화된 PowerPoint 쇼)**로 변환하면 자동화, 동적 대시보드 또는 프레젠테이션 기반 워크플로에 적합한 대화형 슬라이드 쇼를 만들 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 내장된 계산을 사용한 대화형 고객 피칭 덱.
+
+* 자동 탐색 또는 퀴즈 매크로가 포함된 교육 모듈.
+
+* 프레젠테이션 모드에서 자동으로 업데이트되는 금융 대시보드.
+
+* 기업 회의용 자동 보고 슬라이드.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 기업 자동화를 위한 일괄 XPS-to-PPSM 변환.
+
+* 동적 슬라이드 콘텐츠를 위한 실시간 데이터 피드 통합.
+
+* 반복 프레젠테이션을 위한 매크로 활성화된 슬라이드쇼 예약 생성.
+
+* 프레젠테이션 기반 보고를 위한 간소화된 내부 워크플로.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

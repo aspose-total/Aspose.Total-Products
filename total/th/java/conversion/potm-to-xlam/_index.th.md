@@ -61,7 +61,51 @@ otherformats: XLSX DIF MARKDOWN XLTX XLAM EXCEL MHTML XLSM ODS TSV FODS XLT XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POTM เป็น XLAM ช่วยสร้าง Excel Add-ins ที่เปิดใช้งานแมโครจากเทมเพลต PowerPoint ซึ่งช่วยให้สามารถฝังฟังก์ชันที่ใช้ซ้ำได้ สูตรที่กำหนดเอง หรือเครื่องมือแบบอินเทอร์แอคที่ได้มาจากเนื้อหาในงานนำเสนอ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* การพัฒนา Excel add-ins จากการคำนวณสไลด์แบบอินเทอร์แอคทีฟ
+
+* การอัตโนมัติแดชบอร์ดการเงินที่ออกแบบเริ่มต้นจาก PowerPoint
+
+* การแปลงเทมเพลต KPI หรือสกอร์การ์ดเป็นเครื่องมือที่เปิดใช้แมโคร
+
+* การสร้างสคริปต์อัตโนมัติของ Excel ที่ใช้ซ้ำจากตรรกะงานนำเสนอ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การทำงานขององค์กรที่สร้างไฟล์ XLAM จากเทมเพลต POTM
+
+* การผสานรวมกับกระบวนการอัตโนมัติ Excel สำหรับการวิเคราะห์ธุรกิจ
+
+* การสร้างเครื่องมือที่เปิดใช้แมโครจากงานนำเสนอของบริษัทเป็นชุด
+
+* การสร้างเครื่องมือเพิ่มเติม XLAM จากเทมเพลตการวิเคราะห์มาตรฐาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

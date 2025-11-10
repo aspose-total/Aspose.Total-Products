@@ -47,7 +47,51 @@ TEX 파일을 TXT로 변환하는 동안 출력 TXT 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **TXT(일반 텍스트)**로 변환하면 LaTeX 콘텐츠를 위한 간단하고 보편적으로 읽을 수 있는 형식을 제공하여 가벼운 저장, 빠른 공유, 텍스트 처리에 유용합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 텍스트 기반 검색 및 분석을 위한 LaTeX 콘텐츠 추출.
+
+* 간단한 텍스트 형식으로 LaTeX 노트나 표 공유.
+
+* 스크립팅이나 코딩 프로젝트를 위한 가벼운 문서화.
+
+* 일반 텍스트 이메일 배포를 위한 LaTeX 콘텐츠 준비.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 보관을 위한 LaTeX 파일의 TXT 일괄 변환.
+
+* 자동화된 텍스트 처리 워크플로우 통합.
+
+* LaTeX 저장소로부터 트리거된 TXT 생성.
+
+* 가벼운 LaTeX 문서화를 위한 예약된 내보내기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ Met behulp van de API kunt u ook de uitgevoerde SVGZ-afbeelding roteren volgens 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **SVGZ (Gecomprimeerde Schaalbare Vectorafbeeldingen)** behoudt de vector kwaliteit terwijl het bestand kleiner wordt, ideaal voor web- en academische publicaties.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Inbedden van LaTeX-vergelijkingen en diagrammen in webpagina's.
+
+* Schaalbare, hoge-resolutie afbeeldingen voor publicaties.
+
+* Interactieve online visualisaties van LaTeX-gegenereerde data.
+
+* Technische illustraties in gecomprimeerd vectorformaat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchconversie van LaTeX-diagrammen naar SVGZ.
+
+* Integratie met webpublicatiepijplijnen.
+
+* Getriggerde updates van gecomprimeerde vectorafbeeldingen vanuit LaTeX-bronnen.
+
+* Archivering en distributie van academische illustraties.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

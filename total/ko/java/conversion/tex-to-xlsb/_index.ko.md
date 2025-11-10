@@ -47,7 +47,55 @@ TEX 파일을 XLSB로 변환하는 동안 출력 XLSB 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+대규모 LaTeX 데이터셋의 경우 TEX를 **XLSB(Excel Binary Workbook)**로 변환하면 공식과 서식을 보존하면서 파일 크기를 최적화하여 빠른 성능을 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LaTeX에서의 대규모 금융 또는 공학 데이터셋.
+
+* 데이터 집약적 프로젝트용 성능 최적화된 스프레드시트.
+
+* 포함된 계산을 하는 다중 시트 LaTeX 보고서.
+
+* 조밀한 이진 저장 공간이 필요한 학술 연구 데이터.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 속도를 위해 LaTeX 테이블을 XLSB로 일괄 변환.
+
+* 기업 BI 파이프라인 통합.
+
+* 자동화된 LaTeX-to-이진 Excel 보고서 생성.
+
+* 다부서 협업을 위한 트리거된 XLSB 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

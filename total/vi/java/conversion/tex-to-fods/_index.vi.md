@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp TEX sang FODS, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **FODS (Flat OpenDocument Spreadsheet)** cung cấp dữ liệu LaTeX trong bảng tính dạng mở, dựa trên XML tương thích với LibreOffice và OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chia sẻ bảng khoa học dựa trên LaTeX với các bộ ứng dụng văn phòng mã nguồn mở.
+
+* Nghiên cứu học thuật yêu cầu định dạng bảng tính không phụ thuộc vào nền tảng.
+
+* Theo dõi và báo cáo dự án trong môi trường đa nền tảng.
+
+* Chuẩn bị dữ liệu LaTeX cho các bảng tính FODS hợp tác.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi TEX sang FODS tự động cho các luồng làm việc mã nguồn mở.
+
+* Xử lý hàng loạt các bộ dữ liệu LaTeX cho việc hợp tác đa nền tảng.
+
+* Xuất kết quả thí nghiệm hoặc bảng thí nghiệm theo lịch trình.
+
+* Tích hợp vào các đường ống tài liệu cho các cơ sở nghiên cứu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ Saat mengonversi file TEX ke SXC, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **SXC (StarOffice Calc Spreadsheet)** memungkinkan pengguna OpenOffice atau StarOffice yang lebih tua untuk bekerja dengan data tabular LaTeX tanpa kehilangan struktur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Kumpulan data LaTeX historis dalam format yang kompatibel dengan StarOffice.
+
+* Penelitian akademis yang membutuhkan kompatibilitas kantor lama.
+
+* Berbagi tabel LaTeX numerik lintas platform.
+
+* Laporan proyek dalam SXC untuk sistem kantor yang lebih lama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch terjadwal dari kumpulan data LaTeX.
+
+* Integrasi ke dalam alur kerja otomatisasi kantor lama.
+
+* Mengarsipkan tabel LaTeX terstruktur untuk kontinuitas penelitian.
+
+* Generasi SXC yang dipicu untuk proyek kolaboratif.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

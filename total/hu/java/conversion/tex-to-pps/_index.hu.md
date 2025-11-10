@@ -135,7 +135,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **PPS formátumba való átalakítása (PowerPoint Show)** kizárólag dia prezentációkat hoz létre azonnali lejátszáshoz, ideális automatizált előadásokhoz, tréningekhez és LaTeX tartalmak gyors megosztásához.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Azonnal futtatható akadémiai előadások.
+
+* Interaktív műhelybemutatók.
+
+* Mérnöki projekt összefoglalók ügyfélbemutatókhoz.
+
+* Konferenciára kész LaTeX alapú diák.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Ütemezett TEX-PPS konverziók.
+
+* Tréning prezentációk automatikus generálása LaTeX tartalomból.
+
+* Integráció prezentáció terjesztési rendszerekkel.
+
+* PPS létrehozása kiváltva szemináriumokhoz vagy e-learning platformokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

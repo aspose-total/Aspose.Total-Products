@@ -47,7 +47,51 @@ XPS 파일을 XLTX로 변환하는 동안 출력 XLTX 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **XLTX(Excel 템플릿)**으로 변환하면 보안과 호환성을 보장하면서 표준화된 보고서 작성, 데이터 입력 및 비즈니스 문서 작성에 이상적인 재사용 가능한 매크로 없는 템플릿이 생성됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 회사 브랜드의 보고서 템플릿.
+
+* 반복적인 데이터 입력을 위한 학술 또는 연구 템플릿.
+
+* 팀 협업을 위한 프로젝트 추적 시트.
+
+* 매크로 없는 재무 및 운영 보고 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XPS 기반 Excel 템플릿의 자동 생성.
+
+* 기업 전반적인 사용을 위한 일괄 생성 파이프라인.
+
+* 배포를 위한 문서 관리 시스템 통합.
+
+* 반복되는 표준화된 템플릿을 위한 예약된 업데이트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

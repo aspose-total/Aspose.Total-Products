@@ -129,7 +129,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **MARKDOWN**으로 변환하면 정적 문서를 가볍고 편집하기 쉬운 형식으로 변환하여 블로그, 문서 플랫폼 및 버전 관리 시스템과 호환됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* GitHub 또는 GitLab에 기술 문서 게시.
+
+* 보고서를 블로그용 콘텐츠로 변환.
+
+* 노트 및 내부 지식 베이스 항목 작성.
+
+* 가벼운 마크업을 사용하는 팀의 협업 편집.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 콘텐츠 플랫폼을 위해 XPS 아카이브를 Markdown으로 자동 변환.
+
+* Hugo 또는 Jekyll과 같은 정적 사이트 생성기와 통합.
+
+* 반복되는 문서 작성을 위한 Markdown 버전의 예약 생성.
+
+* 내부 지식 베이스 업데이트를 위한 간소화된 워크플로우.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

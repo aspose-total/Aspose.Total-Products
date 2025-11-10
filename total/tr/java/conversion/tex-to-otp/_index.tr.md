@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **OTP'ye (OpenDocument Presentation Template)** dönüştürmek, tutarlı ders veya iş slayt tasarımı için LaTeX biçimlendirmeli yeniden kullanılabilir sunum şablonları oluşturur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX biçiminde denklemeler içeren standartlaştırılmış ders şablonları.
+
+* Araştırma ekipleri için konferans slayt şablonları.
+
+* Formül içerikli yeniden kullanılabilir eğitim materyalleri.
+
+* Teknik sunumlar için proje teklifi şablonları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Kurslar için LaTeX'ten OTP şablonlarının toplu olarak oluşturulması.
+
+* LaTeX depolarından tetiklenen şablon güncellemeleri.
+
+* Slayt şablonlarının işbirlikçilere otomatik olarak dağıtılması.
+
+* Açık kaynaklı LMS sunum iş akışlarıyla entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

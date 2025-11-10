@@ -130,7 +130,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XPS átalakítása **MARKDOWN**-ra átalakítja a statikus dokumentumokat egy könnyen szerkeszthető formátummá, amely kompatibilis blogokkal, dokumentációs platformokkal és verziókezelő rendszerekkel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Műszaki dokumentáció közzététele a GitHubon vagy a GitLabon.
+
+* Jelentések átalakítása blogra kész tartalomává.
+
+* Jegyzetek és belső tudásbázisbejegyzések létrehozása.
+
+* Együttműködési szerkesztés csapatok számára könnyű jelöléssel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Az XPS archívumok automatizált átalakítása Markdown formátummá tartalomplatformok számára.
+
+* Integráció statikus webhelygenerátorokkal, mint például a Hugo vagy a Jekyll.
+
+* Időzített Markdown verziók generálása ismétlődő dokumentációkhoz.
+
+* Zökkenőmentes munkafolyamat belső tudásbázis-frissítésekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

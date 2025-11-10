@@ -61,7 +61,45 @@ otherformats: TSV DIF XLSM MHTML FODS MARKDOWN ODS XLT EXCEL SXC XLTM XLS XLTX X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POT เป็น XLAM (Excel Add-In) ช่วยให้การอัตโนมัติได้โดยฝังมาโครลลงในแผ่น Excel ที่ได้มาจากข้อมูลในงานนำเสนอ การเปลี่ยนแปลงนี้เป็นประโยชน์ต่อองค์กรที่ใช้ PowerPoint สำหรับรายงานและ Excel สำหรับการคำนวณแบบไดนามิก.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* สร้าง Excel add-ins จากเทมเพลต KPI ที่มาจาก PowerPoint.
+
+* การอัตโนมัติการคำนวณสำหรับข้อมูลประสิทธิภาพการขายหรือการฝึกอบรม.
+
+* สร้างแดชบอร์ดที่ใช้มาโครจากงานนำเสนอ.
+
+* การรวมภาพประกอบงานนำเสนอกับโมเดลอัตโนมัติของ Excel.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+* การสร้าง XLAM โดยอัตโนมัติสำหรับเครื่องมือวิเคราะห์ขององค์กร.
+
+* ขั้นตอนการแปลงรวมระหว่าง PowerPoint และ Excel มาโคร.
+
+* การรวมกับแพลตฟอร์มอัตโนมัติกระบวนการธุรกิจ.
+
+* อัตโนมัติขององค์กรสำหรับการดำเนินการในสเปรดชีทที่เกิดซ้ำๆ.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -105,7 +105,51 @@ otherformats: DXF EMZ WMZ JPEG2000  APNG IMAGE PSD SVGZ WMF DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XSLFO ל־**TGA (תמונת Targa)** מספקת גרפיקה רסטרית באיכות גבוהה שנהוגה לעיתים תכנות, סימולציות וויזואליזציות ברזולוציה גבוהה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* הכנת תמונות שנוצרו ב-XSLFO עבור סימולציות או ניתוחי משחקים.
+
+* ארכיבת תרשימים מפורטים עם מינימום אובדן דחיסה.
+
+* יצירת גרפיקה רסטרית לפרסום מקצועי.
+
+* המרת לוחות בקרה תפעוליים ל־TGA עבור זרימות עבודה בעיצוב.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה צפופה של XSLFO ל־TGA לדיווח ברזולוציה גבוהה.
+
+* ייצוא מתוזמן לצינורות ויזואליזציה מקצועיים.
+
+* יצירת TGA מופעלת מניתוחי XSLFO חוזרים.
+
+* שילוב עם זרימות עבודה בעיצוב אוטומטיות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

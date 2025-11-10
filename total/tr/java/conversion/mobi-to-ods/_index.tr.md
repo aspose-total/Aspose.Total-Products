@@ -61,7 +61,47 @@ MOBI'yi ODS'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI dosyalarını ODS (Açık Belge Elektronik Tablosu) formatına dönüştürmek, eBook verilerinin yapılandırılmış temsilini sağlar ve LibreOffice, OpenOffice ve benzeri araçlar arasında çapraz platform uyumluluğunu garanti eden açık standart bir formatta gerçekleşir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+- Yapılandırılmış dijital kütüphane dizinleri oluşturma.
+
+- Açık kaynak araştırmaları için MOBI kitap meta verilerini yönetme.
+
+- İşbirlikçi projelerde yazar katkılarını takip etme.
+
+- Dışa aktarılabilir okuma listelerini ODS formatında tutma.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+- Dijital arşivlerde gerçek zamanlı MOBI'den ODS'ye dönüştürme.
+
+- Otomatik yayınlama boru hatlarıyla entegrasyon.
+
+- İçerik yönetim sistemlerinde dönüşüm tetikleyicileri.
+
+- Kütüphaneciler için ODS raporlarına zamanlanmış meta veri senkronizasyonu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

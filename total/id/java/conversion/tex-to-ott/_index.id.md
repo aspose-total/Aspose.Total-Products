@@ -144,7 +144,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **OTT (OpenDocument Text Template)** memberdayakan pendidik, peneliti, dan bisnis untuk membuat templat yang dapat digunakan kembali dengan gaya LaTeX dalam format terbuka, menyederhanakan standarisasi dokumen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Templat materi pengajaran dengan format LaTeX yang konsisten.
+
+* Templat OpenDocument untuk pelaporan lab kolaboratif.
+
+* Templat laporan proyek dan bisnis untuk suite kantor sumber terbuka.
+
+* Formulir standar untuk penggunaan akademis atau administratif.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi templat otomatis untuk lingkungan multi-pengguna.
+
+* Integrasi ke alur kerja LMS sumber terbuka dan kantor.
+
+* Pembaruan batch perpustakaan templat untuk lembaga akademis.
+
+* Konversi LaTeX-to-OTT dinamis untuk dokumentasi penelitian.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,55 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp XSLFO (Extensible Stylesheet Language Formatting Objects) sang **XAML (Extensible Application Markup Language)** cho phép các nhà phát triển và thiết kế biến các báo cáo có cấu trúc thành các thành phần giao diện người dùng (UI) phong phú, tương tác và có khả năng mở rộng cho ứng dụng trên máy tính và web. XAML bảo toàn kiểu dáng, bố cục và cấu trúc phân cấp từ XSLFO trong khi cho phép tích hợp mượt mà với WPF, UWP và các framework khác dựa trên XAML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi bảng điều khiển được tạo bởi XSLFO thành ứng dụng WPF với bảng và biểu đồ tương tác.
+
+* Nhúng các báo cáo tài chính hoặc vận hành có cấu trúc vào giao diện máy tính để bàn.
+
+* Thiết kế các thành phần giao diện người dùng cho ứng dụng doanh nghiệp dựa trên nội dung XSLFO.
+
+* Biến các báo cáo phân tích có cấu trúc thành các hình ảnh XAML tương tác cho ứng dụng trình bày.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt tự động của các báo cáo XSLFO định kỳ thành các thành phần giao diện người dùng XAML.
+
+* Tích hợp vào các đường ống ETL để tạo bảng điều khiển XAML theo thời gian thực.
+
+* Cập nhật định kỳ các giao diện XAML từ các nguồn dữ liệu XSLFO động.
+
+* Kích hoạt tạo ra các bố cục XAML cho báo cáo, trực quan hóa hoặc các framework ứng dụng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

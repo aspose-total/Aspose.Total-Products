@@ -135,7 +135,55 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **POTM (PowerPoint Macro-Enabled Template)** formátummá alakítása újrafelhasználható sablonokat eredményez makró funkciókkal, összekapcsolva a LaTeX tartalmat az automatizált dia funkciókkal.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Interaktív oktatási diák LaTeX képletekkel.
+
+* Kutatási prezentációk automatikusan frissülő táblázatokkal.
+
+* Makróval ellátott sablonok tudományos jelentésekhez.
+
+* Több szerző által szerkeszthető előadás sablonok.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Tömeges makróval ellátott sablon létrehozása LaTeX tartalomból.
+
+* Kiváltott sablonfrissítések akadémiai vagy vállalati diákcsomagokhoz.
+
+* Integráció a PowerPoint automatizálási folyamatokba.
+
+* Ütemezett LaTeX-POTM dia sablon generálás.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

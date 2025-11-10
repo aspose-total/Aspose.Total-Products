@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti DXF-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **DXF (Rajzcsere Formátum)** formátummá megőrzi a vektor alapú táblázatos elrendezéseket CAD és műszaki tervezési alkalmazásokban való használatra. A DXF fájlok pontos méreteket és elrendezési struktúrákat tartanak fenn.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Az XSLFO által generált mérnöki jelentések átalakítása CAD-barát formátumokká.
+
+* Strukturált táblázatok archiválása vektorrajzként műszaki dokumentációhoz.
+
+* Üzemeltetési elrendezések integrálása tervező szoftverekbe.
+
+* Műszaki diagramok generálása XSLFO jelentésekből.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Tömeges XSLFO-DXF átalakítás mérnöki dokumentációs folyamatokhoz.
+
+* Strukturált jelentési táblázatok ütemezett exportálása DXF formátumban tervezési felülvizsgálatokhoz.
+
+* Integráció automatizált CAD-alapú jelentési csövekkel.
+
+* XSLFO adatok kiváltott átalakítása DXF rajzokká műszaki csapatok számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

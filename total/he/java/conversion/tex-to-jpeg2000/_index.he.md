@@ -105,7 +105,51 @@ otherformats: DXF SVGZ IMAGE EMZ APNG WMF PSD  TGA WMZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל־**JPEG2000** מספקת תמונות LaTeX באיכות גבוהה וכדורסל, המתאימות לארכיון, לפרסום מקצועי וליישומים ברשת.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ארכובת עיצובי LaTeX ברזולוציה גבוהה למאמרי מחקר.
+
+* תרשימים מדעיים לפרסום מקוון עם אובדן איכות מינימלי.
+
+* שיתוף ציורים אקדמיים דחוסים בין פלטפורמות.
+
+* תמונות LaTeX באיכות גבוהה לחומרי הוראה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה אוטומטית בצורת סדרות למאגרי מחקר.
+
+* שילוב בצינורות פרסום אקדמיים.
+
+* יצירת JPEG2000 בתגובה לטריגר להפצה ברשת או להדפסה.
+
+* ארכיון רציף של ציורי LaTeX בפורמטים דחוסים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

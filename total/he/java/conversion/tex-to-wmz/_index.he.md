@@ -105,7 +105,51 @@ otherformats: APNG  TGA WMF IMAGE DXF JPEG2000 PSD EMZ SVGZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל־**WMZ (קובץ מטה-קובץ דחוס של Windows)** דוחס גרפיקה וקטורית עבור תרשימי LaTeX, מיטיב את אחסון הנתונים תוך שמירה על איכות למצגות ולדוחות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* תרשימי LaTeX דחוסים לשקפים במשרד מיקרוסופט.
+
+* ארכיבת איורים טכניים ניתנים להתאמה.
+
+* שיתוף גרפיקה קלה בפרסומים אקדמיים.
+
+* הטמעת גרפיקה וקטורית בדוחות ללא גודל קובץ גדול.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת צמיג TEX ל־WMZ בצורה אוטומטית.
+
+* שילוב במערכות אוטומציה של מסמכים ושקפים.
+
+* יצירה מופעלת של תרשימי LaTeX דחוסים.
+
+* עדכונים מתוזמנים של דמויות WMZ לגישה מרובה משתמשים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

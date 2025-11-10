@@ -130,7 +130,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**PS（PostScript）**に変換すると、プロフェッショナルな出版および印刷環境で広く使用されている汎用かつデバイス非依存の印刷形式が提供されます。PSはベクターグラフィックス、テキストのフォーマット、およびページレイアウトを保持し、高品質な出力を実現します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* PostScript互換性が必要な印刷および出版ワークフロー。
+
+* 正確なレイアウトが必要なプロフェッショナルなパンフレットや雑誌の印刷。
+
+* ベクターフォーマットで保存された技術図面やダイアグラム。
+
+* 高い忠実度が重要な企業や法的文書の印刷。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XPSファイルをPostScriptに自動バッチ変換して印刷ワークフローに統合。
+
+* プロフェッショナルな印刷所や印刷前工程システムとの統合。
+
+* 定期的な文書印刷タスクのためのPS生成のスケジュール設定。
+
+* 高出力の企業印刷パイプラインを効率化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

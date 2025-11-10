@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **PPS (PowerPoint Gösterisi)** biçimine dönüştürülmesi, toplantılar, eğitimler veya kiosklar için kendiliğinden çalışan sunum dosyaları oluşturmayı sağlar. PPS, doğrudan slayt gösterisi modunda açılırken biçimlendirmeyi korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Kendiliğinden çalışan kurumsal genel bakış sunumlarının dağıtımı.
+
+* XSLFO verilerinden otomatik eğitim veya işe alım slaytlarının hazırlanması.
+
+* Ticaret fuarları için etkileşimli pazarlama içeriğinin paylaşılması.
+
+* Yönetim incelemesi için görsel olarak çekici KPI panolarının oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XSLFO'dan PPS dosyalarına zamanlanmış toplu dönüşüm.
+
+* Otomatik slayt gösterisi dağıtım iş akışlarına entegrasyon.
+
+* XSLFO raporlarından PPS destelerinin tetiklenerek oluşturulması.
+
+* Tekrarlayan toplantılar için otomatik olarak güncellenen kendiliğinden çalışan sunumlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

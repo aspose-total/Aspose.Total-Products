@@ -47,7 +47,51 @@ otherformats: XLTX TSV XLSB ODS SXC DIF FODS TXT MD EXCEL XLAM XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XPS เป็น **ODS (OpenDocument Spreadsheet)** ช่วยให้เกิดความเข้ากันได้กับ LibreOffice และ OpenOffice พร้อมกับการรักษาโครงสร้างข้อมูลที่มีระเบียบ ใช้งานได้ดีในสภาพแวดล้อมที่ต้องการการทำงานร่วมกัน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สเปรดชีตขององค์กรที่ใช้ร่วมกันในหลายชุดโปรแกรมสำนักงาน
+
+* รายงานข้อมูลของรัฐบาลหรือองค์กรไม่แสวงหาผลประโยชน์ที่ต้องการรูปแบบเปิด
+
+* การติดตามโครงการและการวัดผลงานทีม
+
+* เอกสารทางเทคนิคและการวิจัยในรูปแบบสเปรดชีต
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การแปลงจำนวนมากจาก XPS ไปยัง ODS โดยอัตโนมัติ
+
+* การรวมเข้ากับระบบการจัดการเอกสารและการทำงาน
+
+* การสร้าง ODS ตามกำหนดเวลาสำหรับรายงานที่เกิดซ้ำ
+
+* การกระจายข้อมูลอัตโนมัติข้ามแพลตฟอร์ม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ TEX 파일을 XLAM로 변환하는 동안 출력 XLAM 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+텍스트를 **XLAM(Excel Add-In Macro)**으로 변환하면 LaTeX 표 및 수식이 자동 계산 및 기능 향상을 갖춘 대화형 Excel 도구로 변환됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LaTeX를 활용한 금융 모델링 템플릿.
+
+* 공학 프로젝트용 자동 계산 도구.
+
+* Excel 매크로에 포함된 학술 공식 시트.
+
+* LaTeX 및 Excel 자동화를 결합한 데이터 처리 대시보드.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* LaTeX 데이터셋에서 XLAM 애드인 자동 생성.
+
+* 기업 도구용 일괄 LaTeX-to-XLAM 변환.
+
+* 연구 저장소에서 트리거된 매크로 활성 스프레드시트.
+
+* 자동화된 보고서 및 대시보드 파이프라인 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

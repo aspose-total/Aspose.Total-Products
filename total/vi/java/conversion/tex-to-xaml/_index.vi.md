@@ -135,7 +135,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp TEX thành **XAML (Ngôn ngữ đánh dấu ứng dụng mở rộng)** cho phép nội dung LaTeX, công thức và sơ đồ được sử dụng trong các ứng dụng dựa trên WPF, UWP và .NET, bảo tồn đồ họa vector và định dạng văn bản.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Nhúng sơ đồ và phương trình được tạo bởi LaTeX vào ứng dụng desktop.
+
+* Tạo các yếu tố giao diện người dùng tương tác với hình ảnh khoa học hoặc toán học.
+
+* Ứng dụng kỹ thuật hiển thị biểu đồ động từ nguồn LaTeX.
+
+* Phần mềm giáo dục tích hợp các công thức LaTeX một cách mượt mà.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ TEX sang XAML cho nhiều thành phần giao diện người dùng.
+
+* Tích hợp vào các luồng công việc dự án WPF hoặc UWP tự động hóa.
+
+* Tạo ra các hình ảnh dựa trên LaTeX cho ứng dụng .NET theo yêu cầu.
+
+* Cập nhật theo lịch trình cho phần mềm giáo dục đa mô-đun.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

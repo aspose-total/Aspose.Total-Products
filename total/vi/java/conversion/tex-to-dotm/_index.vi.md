@@ -143,7 +143,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp TEX thành **DOTM (Mẫu Kích hoạt Macro của Word)** cung cấp các mẫu có thể tái sử dụng với chức năng macro. Lý tưởng cho các quy trình làm việc tự động, nó kết nối khả năng thiết lập kiểu chính xác của LaTeX với khả năng tự động hóa của Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Mẫu nộp tự động cho các tạp chí học thuật.
+
+* Mẫu báo cáo kỹ thuật có thể tái sử dụng với việc tạo nội dung động.
+
+* Biểu mẫu kích hoạt macro cho việc nhập dữ liệu phòng thí nghiệm hoặc nghiên cứu.
+
+* Tạo các mẫu Word được kích hoạt bằng macro cho các dự án hợp tác đa tác giả sử dụng LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo tài liệu theo thời gian thực được kích hoạt từ các luồng đầu vào LaTeX.
+
+* Tích hợp vào các đường ống tự động hóa tài liệu doanh nghiệp dựa trên Word.
+
+* Cập nhật mẫu hàng loạt cho các dự án nghiên cứu hợp tác.
+
+* Tạo tài liệu dự án được kích hoạt bằng macro cho các nhóm kỹ sư.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

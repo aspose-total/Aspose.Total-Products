@@ -144,7 +144,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**OTT（OpenDocument Text Template）**に変換することで、教育者、研究者、企業がLaTeXスタイルを使用した再利用可能なテンプレートをオープンフォーマットで作成し、文書の標準化を効率化できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 一貫したLaTeX書式の教材テンプレート。
+
+* 共同での実験報告のためのOpenDocumentテンプレート。
+
+* オープンソースオフィススイート向けのプロジェクトおよびビジネスレポートテンプレート。
+
+* 学術または管理目的の標準化されたフォーム。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 複数ユーザー環境向けの自動化されたテンプレート生成。
+
+* オープンソースLMSおよびオフィスワークフローへの統合。
+
+* 学術機関向けのテンプレートライブラリの一括更新。
+
+* 研究文書のための動的なLaTeXからOTTへの変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

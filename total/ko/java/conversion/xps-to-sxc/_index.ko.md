@@ -47,7 +47,51 @@ XPS 파일을 SXC로 변환하는 동안 출력 SXC 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **SXC (StarOffice 스프레드시트)**로 변환하면 이전 OpenOffice/StarOffice 파일과의 하위 호환성이 제공됩니다. 이 형식은 레거시 워크플로 및 보관 목적에 적합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* SXC 형식으로 레거시 보고서 보관.
+
+* 역사적 재무 및 운영 데이터 세트.
+
+* XPS 기반 스프레드시트를 오픈 소스 환경으로 이관.
+
+* 이전 오피스 스위트용 기술 또는 연구 로그.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XPS 저장소를 SXC 파일로 일괄 변환.
+
+* 규정 준수 및 감사 목적을 위한 자동 보관.
+
+* 주기적인 XPS 보고서의 예약된 이관.
+
+* 레거시 시스템 통합 파이프라인.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

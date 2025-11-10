@@ -47,7 +47,51 @@ otherformats: MD XLT ODS XLAM XLSM FODS TSV XLSB TXT EXCEL DIF XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **MD (ไฟล์ Markdown)** จะสร้างไฟล์ Markdown มาตรฐานจาก LaTeX โดยรักษาโครงสร้างข้อความ ตาราง และการจัดรูปแบบพื้นฐานเพื่อความอ่านได้บนหลายแพลตฟอร์ม
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* เตรียมบันทึกการวิจัย LaTeX สำหรับการทำงานร่วมกับ Git
+
+* เอกสารเบาๆ ที่รองรับการใช้สูตรคณิตศาสตร์และตาราง
+
+* แบ่งปันบันทึกบรรยาย LaTeX ในรูปแบบ Markdown โอเพนซอร์ส
+
+* แปลงรายงานทางเทคนิคสำหรับเว็บไซต์แบบคงที่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การแปลงไฟล์ TEX เป็น MD แบบกลุ่มอัตโนมัติสำหรับทีมวิจัย
+
+* การรวมเข้ากับกระแสเนื้อหาเว็บที่ควบคุมเวอร์ชัน
+
+* การอัพเดตไฟล์ Markdown จากที่เก็บรักษา LaTeX โดยเรียกใช้
+
+* การสร้างไฟล์ MD อย่างต่อเนื่องสำหรับบล็อกการศึกษาหรือเทคนิค
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

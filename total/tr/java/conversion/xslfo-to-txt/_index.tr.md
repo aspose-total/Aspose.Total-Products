@@ -47,7 +47,55 @@ XSLFO dosyasını TXT'ye dönüştürürken, çıktı TXT dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO dosyalarını **TXT (Düz Metin)** formatına dönüştürmek, tüm metin düzenleyiciler, veri işleme araçları ve programlama ortamları ile evrensel uyumluluk sağlar. TXT dosyaları, XSLFO'dan stil olmadan temel içeriği çıkarır ve ham veri analizi, betik yazma ve arşivleme için ideal hale getirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Toplu veri işleme için XSLFO tablolarını ve raporlarını dışa aktarma.
+
+* Yapılandırılmış finansal veya operasyonel raporların düz metin versiyonlarını hazırlama.
+
+* XSLFO içeriğini evrensel erişilebilir bir formatta arşivleme.
+
+* Analitik akışları için ham veri çıkartma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Otomatik iş akışları için XSLFO'dan TXT'ye zamanlanmış toplu dönüşüm.
+
+* ETL ve veri ön işleme akışlarına entegrasyon.
+
+* Tekrarlanan XSLFO raporlarından tetiklenen TXT dışa aktarma.
+
+* XSLFO panolarından otomatik olarak düz metin özetlerinin çıkarılması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

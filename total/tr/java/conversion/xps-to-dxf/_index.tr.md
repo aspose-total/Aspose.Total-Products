@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı DXF görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **DXF (Çizim Değişim Formatı)**'na dönüştürmek, tasarım, mimari ve mühendislik projeleri için vektör unsurlarını koruyarak XPS düzenlerinin CAD uygulamalarında kullanılmasını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* XPS belgelerinden çıkarılan mimari planlar ve mavi baskılar.
+
+* CAD yazılımları için mühendislik diyagramları ve şemaları.
+
+* Kesin vektör dönüşümü gerektiren teknik belgeler.
+
+* İşbirlikçi taslaklar için endüstriyel tasarım iş akışları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* CAD ekipleri için XPS'in DXF'e otomatik toplu dönüşümü.
+
+* Hızlı düzen güncellemeleri için tasarım boru hatlarıyla entegrasyon.
+
+* Tekrarlayan mühendislik raporları için planlanmış DXF oluşturma.
+
+* Üretim için vektör unsurlarının kolay çıkarımı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -143,7 +143,55 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het converteren van TEX-bestanden naar **DOCM (Word Macro-Enabled Document)** maakt de naadloze integratie van LaTeX-inhoud met geavanceerde Word-macro's mogelijk. Dit is met name handig voor academische onderzoekers en ingenieurs die geautomatiseerde rapportgeneratie nodig hebben met dynamische tabellen, formules en interactieve inhoud.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Automatiseren van LaTeX-zware onderzoeksrapporten in Microsoft Word.
+
+* Inbedden van complexe wiskundige vergelijkingen voor technische documentatie.
+
+* Maken van interactieve laboratoriumsjablonen met macro's voor reproduceerbare resultaten.
+
+* Compilatie van academische scripties met automatische verwijzingen en nummering.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch TEX naar DOCM conversie in institutionele documentbeheersystemen.
+
+* Macro-gestuurde generatie van wetenschappelijke tijdschriften uit LaTeX-repositories.
+
+* Integratie in workflowautomatisering voor technische publicatie.
+
+* Automatisch bijwerken van onderzoeksdashboards die LaTeX-inhoud combineren met Word-macro's.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

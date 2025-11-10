@@ -61,7 +61,55 @@ otherformats: XLAM XLTX XLSX XLT DIF XLSM XLSB XLS ODS SXC FODS TSV XLTM MHTML M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POT เป็น SXC (สเปรดชีต StarOffice Calc) ทำให้เป็นไปได้ที่จะใช้ข้อมูลที่ได้มาจากการนำเสนอในสภาพแวดล้อม StarOffice หรือ OpenOffice เวอร์ชันเก่า ๆ รูปแบบนี้ยังคงเป็นสิ่งที่สำคัญสำหรับโครงการทางการศึกษาและการเก็บถาวรที่ต้องการความเข้ากันได้ย้อนหลัง.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การนำเนื้อหา PowerPoint มาใช้ใหม่สำหรับสถาบันที่ใช้ซอฟต์แวร์รุ่นเก่า.
+
+* สร้างแผ่นงานกิจกรรมของนักเรียนจากตารางการนำเสนอ.
+
+* แบ่งปันข้อมูลเชิงธุรกิจข้ามเครื่องมือสเปรดชีตโอเพนซอร์ส.
+
+* เก็บถาวรการวิเคราะห์ที่มีพื้นฐานจาก PowerPoint ในระบบเก่า.
+
+
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* กระบวนการทำงานการแปลงข้อมูลเก่าสำหรับการย้ายข้อมูลขององค์กร.
+
+* การสกัดตาราง PowerPoint ให้อัตโนมัติเข้าสู่ไฟล์ SXC.
+
+* การแปลงรูปแบบตามกำหนดเวลาสำหรับระบบเก็บถาวรและการศึกษา.
+
+* การผสานรวมกับแพลตฟอร์มอินเทลลิเจนธุรกิจเก่า.
+
+
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -105,7 +105,51 @@ otherformats:  EMZ SVGZ PSD APNG DXF WMF JPEG2000 IMAGE WMZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XPS ל־**TGA (קובץ תמונה של Targa)** מספקת תמונות רסטר באיכות גבוהה המתאימות לייצור גרפי ווידאו מקצועי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ויזואלים ברמת תאימות גבוהה לפרויקטי וידאו ומולטימדיה.
+
+* נכסים לעיצוב משחקים המגיעים מתרשימי XPS.
+
+* איורים טכניים הדורשים תמונות רסטר ללא אובדן.
+
+* גרפיקה תעשייתית לצורך הצגה או שמירה ארכיונית.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* צינורות המרה מ־XPS ל־TGA בצורה רצופה.
+
+* יצירה מתוזמנת לצורך זרימות עבודה לייצור מולטימדיה.
+
+* שילוב עם תוכנות עריכת גרפיקה ווידאו.
+
+* עיבוד אוטומטי של ויזואלים טכניים או עיצוביים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

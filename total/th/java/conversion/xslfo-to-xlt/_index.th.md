@@ -47,7 +47,51 @@ otherformats: XLAM FODS EXCEL XLSM XLTM MD TSV XLTX DIF ODS TXT XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **XLT (Excel Template)** ช่วยให้สามารถใช้งานเทมเพลตสเปรดชีทที่สามารถนำกลับมาใช้ซ้ำได้พร้อมกับการจัดรูปแบบและสไตล์ที่กำหนดไว้ล่วงหน้า  XLT เหมาะสำหรับมาตรฐานการรายงานที่เกิดซ้ำๆ จากแหล่งข้อมูล XSLFO
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* เตรียมเทมเพลตใบแจ้งหนี้ที่มีมาตรฐานตาม XSLFO
+
+* สร้างเทมเพลตรายงานโครงการสำหรับการใช้ซ้ำ
+
+* เก็บข้อมูลแผนการดูแลรายเดือนเป็นเทมเพลต Excel ที่สามารถนำกลับมาใช้ซ้ำ
+
+* กระจายเทมเพลตการรายงาน KPI ของบริษัทที่สร้างจาก XSLFO
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การสร้างเทมเพลต XLT โดยอัตโนมัติจากรายงาน XSLFO
+
+* การผสานรวมกับท่อการรายงานที่เกิดซ้ำ
+
+* การแปลงเป็นเทมเพลตตามตารางเวลาสำหรับเทมเพลตแผนกมาตรฐาน
+
+* การสร้างเทมเพลต Excel โดยการกระตุ้นสำหรับการรายงานที่สม่ำเสมอ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

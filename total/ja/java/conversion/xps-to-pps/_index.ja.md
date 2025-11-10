@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**PPS（PowerPoint Show）**に変換すると、直接プレゼンテーションモードで開くスライドデッキが作成され、編集せずにすぐに表示および共有するのに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 共有可能なクライアントプレゼンテーション。
+
+* 自動化された会議用スライドショー。
+
+* 教室やeラーニングプラットフォーム向けの教材。
+
+* 仕上げの行ったスライドデッキが必要なマーケティングキャンペーン。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* プレゼンテーション用にXPSファイルをPPSに一括変換。
+
+* トレーニングやイベント用の自動スライドショーの定期的生成。
+
+* 内部共有プラットフォームとの統合による迅速なアクセス。
+
+* 複数のチームやクライアントにスライドを効率的に配布。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 SVGZ 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **SVGZ(압축 가능한 확장 가능한 벡터 그래픽)**로 변환하면 가벼우면서 웹 사이트, 앱 및 벡터 기반 인쇄에 적합한 확장 가능한 그래픽을 보존할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 웹 기반 다이어그램 및 일러스트레이션.
+
+* 확장 가능한 사용을 위한 인포그래픽 및 기술적인 도식.
+
+* 반응형 웹 디자인을 위한 마케팅 그래픽.
+
+* 벡터 편집 소프트웨어와 호환되는 교육용 시각 자료.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 웹 자산용 XPS에서 SVGZ로의 일괄 변환 파이프라인.
+
+* 동적 인포그래픽 생성을 위한 예약 업데이트.
+
+* 확장 가능한 이미지를 위한 콘텐츠 관리 시스템 통합.
+
+* 다중 플랫폼 게시를 위한 간소화된 벡터 그래픽 처리.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

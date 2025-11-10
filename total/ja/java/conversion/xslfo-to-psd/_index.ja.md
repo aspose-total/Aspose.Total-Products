@@ -57,7 +57,55 @@ APIを使用すると、必要に応じて出力PSD画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**PSD（Adobe Photoshop）**に変換することで、グラフィックデザイナーはレイヤーや高度な効果を持つXSLFO生成の表やビジュアルを編集できます。PSD出力はマーケティングやプレゼンテーションのビジュアルに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* XSLFOチャートをレイヤー化されたPhotoshopデザインに変換する。
+
+* マーケティング資料用にレポートのビジュアルをカスタマイズする。
+
+* プロフェッショナルなプレゼンテーション用に構造化されたXSLFOテーブルを編集する。
+
+* 強化されたスタイリングでインフォグラフィックを準備する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XSLFOレポートをPSDに自動エクスポートしてデザインワークフローに統合する。
+
+* バッチ処理のPhotoshop処理パイプラインとの統合。
+
+* 定期的なビジュアルレポートのためのスケジュール変換。
+
+* クリエイティブなマーケティングダッシュボードのためのトリガーされたPSD生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

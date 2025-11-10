@@ -47,7 +47,51 @@ otherformats: TSV XLAM XLSM DIF XLTX EXCEL XLTM MD SXC FODS ODS TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ XSLFO เป็น **DIF (Data Interchange Format)** ช่วยให้เกิดความเข้ากันได้กับแอปพลิเคชันสเปรดชีตรุ่นเก่าและระบบข้อมูลที่เป็นมรรค่า  DIF รักษาเนื้อหาแบบตารางโครงสร้างในขณะที่สนับสนุนความเคลื่อนย้ายข้อมูลระหว่างแพลตฟอร์มที่แตกต่างกัน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การย้ายบันทึกการขายย้อนหลังเข้าสู่ระบบสเปรดชีตรุ่นเก่า
+
+* การเก็บถาวรรายงานที่สร้างจาก XSLFO เพื่อปฏิบัติตามกฎระเบียบ
+
+* การแลกเปลี่ยนข้อมูลระหว่างซอฟต์แวร์วางแผนองค์กรโดยใช้รูปแบบ DIF
+
+* เตรียมเมตริกการตลาดสำหรับการวิเคราะห์ข้ามแพลตฟอร์ม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงไฟล์รายงานประสิทธิภาพ XSLFO รายเดือนเป็น DIF แบบกลุ่ม
+
+* การรวมเข้ากับระบบ ERP เก่าที่ต้องการข้อมูลนำเข้าในรูปแบบ DIF
+
+* การอัปเดตตารางข้อมูล DIF ตามกำหนดเวลาสำหรับการวิเคราะห์แนวโน้มย้อนหลัง
+
+* การเริ่มการแปลงจาก XSLFO เป็น DIF ในท่อรายงานอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

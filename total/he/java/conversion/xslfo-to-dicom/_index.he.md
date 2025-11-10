@@ -105,7 +105,49 @@ otherformats: EMZ WMF SVGZ DXF APNG IMAGE WMZ PSD JPEG2000 TGA
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XSLFO ל־**DICOM (תקשורת דיגיטלית ותקשורת ברפואה)** מאפשרת שילוב של תוכן דוח מובנה עם זרימות עבודה בתחום התמונות הרפואיות. DICOM הוא תקן ברדיולוגיה, בדיקות קליניות ומערכות מידע בבתי חולים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* משובץ דוחות מבונים של חולים לצד ויזואליזציות שנוצרו על ידי XSLFO.
+* הכנת לוחות בקרה דיאגנוסטיים לסקירת נתונים קליניים.
+* המרת טבלאות נתונים רפואיים לתמונות התואמות ל־DICOM.
+* שילוב של תוצאות מעבדה שנוצרו על ידי XSLFO למערכות PACS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת דוחות XSLFO לתבנית DICOM באופן מתוזמן עבור בתי חולים.
+* שילוב בצינורות רשומות בריאות אלקטרוניות (EHR) אוטומטיות.
+* יצירה מופעלת של ויזואליזציות DICOM מדוחות קליניים שנוצרו על ידי XSLFO.
+* עיבוד צפיפות לצורך ויזואליזציה של נתוני מחקר בתחום הבריאות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

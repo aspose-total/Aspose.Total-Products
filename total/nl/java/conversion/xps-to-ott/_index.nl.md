@@ -129,7 +129,55 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het converteren van XPS naar **OTT (OpenDocument Text Template)** transformeert statische XPS-bestanden in herbruikbare sjablonen voor LibreOffice- en OpenOffice-gebruikers, perfect voor gestandaardiseerde workflowdocumenten in open formaten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Sjablonen voor academisch en educatief materiaal voor studenten en docenten.
+
+* NGO-projectsjablonen voor rapporten en voorstellen.
+
+* Gestandaardiseerde open-source sjablonen voor bedrijfsdocumentatie.
+
+* Creatieve inhoudssjablonen voor brochures en nieuwsbrieven.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchgeneratie van OTT-sjablonen vanuit XPS-opslagplaatsen.
+
+* Integratie met open-source workflowautomatiseringstools.
+
+* Automatisch invullen van sjablonen met organisatorische gegevens.
+
+* Stroomlijnen van documentcreatieprocessen over verschillende platforms.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

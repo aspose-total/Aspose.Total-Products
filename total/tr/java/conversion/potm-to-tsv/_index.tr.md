@@ -61,7 +61,55 @@ POTM dosyasını TSV'ye dönüştürürken, çıktı TSV dosya biçiminize de fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM'yi TSV'ye (Tablo Ayırıcılı Değerler) dönüştürmek, sunum tablolarının metin tabanlı elektronik tablolara veya analiz yazılımlarına kolayca aktarılmasını sağlar. TSV dosyaları hafif, düzenlenebilir ve temiz tablo yapılarını korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* CSV/TSV tabanlı analiz boru hatları için slayt tablolarının çıkarılması.
+
+* Sunumlardan eğitim verilerinin veya anket sonuçlarının dışa aktarılması.
+
+* TSV'ye finansal ve bilimsel veri dönüşümü için betik araçları.
+
+* Veritabanlarına aktarım için tablo şeklinde slayt içeriğinin hazırlanması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Veri alım boru hatları için slaytların TSV'ye toplu dönüşümü.
+
+* Otomatik raporlama iş akışları, TSV dosyalarını BI platformlarına besliyor.
+
+* İstatistiksel analiz için Python/R betikleriyle entegrasyon.
+
+* Bulut barındırılan sunum şablonlarından tetiklenen TSV oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

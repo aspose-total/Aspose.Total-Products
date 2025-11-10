@@ -121,7 +121,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **PPTM(매크로 활성화된 PowerPoint)**으로 변환하면 동적 데이터, 자동화 및 향상된 기업 또는 교육 워크플로우를 위한 매크로가 포함된 상호 작용형 프레젠테이션을 만들 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 프레젠테이션 형식의 재무 또는 영업 대시보드.
+
+* 자동화된 탐색 기능이 있는 교육 및 교육 모듈.
+
+* 경영진 검토용 상호 작용형 보고서.
+
+* 매크로가 포함된 자동화된 프로젝트 상태 프레젠테이션.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 기업 자동화를 위한 대량 XPS-to-PPTM 변환.
+
+* 실시간 슬라이드 업데이트를 위한 실시간 데이터 소스 통합.
+
+* 반복 회의용 매크로가 활성화된 프레젠테이션의 예약 생성.
+
+* 이해관계자 검토용 상호 작용형 슬라이드의 간소화된 제작.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**PPT（レガシーPowerPoint形式）**に変換することで、古いMicrosoft Officeバージョンとの互換性を確保しながら、表形式のコンテンツやスライドレイアウトを維持します。PPTは、まだレガシーツールを使用している組織に適しています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* レガシー企業システム向けにXSLFOで生成されたスライドを準備する。
+
+* PPT形式で教育やトレーニングコンテンツを共有する。
+
+* 監査目的で自己完結型のスライドをアーカイブする。
+
+* XSLFOレポートを簡単に配布可能なレガシーPowerPointファイルに変換する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XSLFOからPPTスライドへのバッチ自動変換。
+
+* 定期的な管理やトレーニングレポートのスケジュールエクスポート。
+
+* レガシーオフィスベースのワークフローパイプラインとの統合。
+
+* アーカイブ目的でXSLFOテンプレートからトリガーされたPPT作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

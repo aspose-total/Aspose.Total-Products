@@ -53,7 +53,45 @@ Menggunakan API, Anda juga dapat melakukan konversi file POT ke DOTM dengan tand
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi POT ke DOTM (Template Word yang Diaktifkan Makro) memberikan organisasi dengan template dokumen yang dapat digunakan kembali yang mencakup makro otomatisasi. Hal ini penting bagi perusahaan yang mencari dokumen yang dinamis dan diisi otomatis berdasarkan data yang didorong oleh PowerPoint.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Menghasilkan template proposal interaktif dengan bidang data.
+
+* Mengonversi template PowerPoint menjadi kit dokumentasi yang diaktifkan makro.
+
+* Mengotomatisasi pembuatan faktur atau sertifikat merek.
+
+* Standarisasi dokumentasi di seluruh departemen.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Generasi DOTM dalam sistem otomatisasi alur kerja.
+
+* Penyebaran template otomatis melalui platform dokumen berbasis cloud.
+
+* Integrasi dengan data ERP atau CRM untuk generasi dokumen sesuai permintaan.
+
+* Penyebaran template dokumen yang diaktifkan makro di seluruh perusahaan.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

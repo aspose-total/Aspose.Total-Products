@@ -57,7 +57,51 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh EMZ đầu ra theo nhu c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO thành **EMZ (Enhanced Windows Metafile Compressed)** cho phép tạo đồ họa vector chất lượng cao với việc nén, lý tưởng cho bài trình bày và hình ảnh sẵn sàng in.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xuất bảng XSLFO dưới dạng đồ họa có thể co giãn cho bài thuyết trình.
+
+* Nhúng hình ảnh tài chính hoặc vận hành vào bài trình bày.
+
+* Tạo hình ảnh lưu trữ cho bảng điều khiển báo cáo.
+
+* Chuẩn bị hình ảnh cho quy trình xuất bản trên máy tính.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt định kỳ của báo cáo XSLFO sang EMZ.
+
+* Tích hợp vào các đường ống báo cáo tự động.
+
+* Tạo hình ảnh EMZ theo lịch trình để nhúng vào slide.
+
+* Chuyển đổi thời gian thực của bảng điều khiển XSLFO thành hình ảnh vector nén.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

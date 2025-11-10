@@ -47,7 +47,55 @@ Saat mengonversi file XSLFO ke DIF, Anda juga dapat menambahkan tanda air ke for
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file XSLFO ke **DIF (Data Interchange Format)** memastikan kompatibilitas dengan aplikasi spreadsheet lama dan sistem data warisan. DIF mempertahankan konten tabular terstruktur sambil mendukung portabilitas data antar platform heterogen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Memigrasikan catatan penjualan historis ke dalam sistem spreadsheet warisan.
+
+* Mengarsipkan laporan yang dihasilkan oleh XSLFO untuk kepatuhan regulasi.
+
+* Pertukaran data antara perangkat lunak perencanaan perusahaan menggunakan format DIF.
+
+* Menyiapkan metrik pemasaran untuk analitika lintas platform.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Transformasi batch laporan kinerja XSLFO bulanan menjadi DIF.
+
+* Integrasi ke dalam sistem ERP warisan yang memerlukan input DIF.
+
+* Pembaruan terjadwal dataset DIF untuk analisis tren historis.
+
+* Konversi yang dipicu dari XSLFO ke DIF dalam pipa laporan otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

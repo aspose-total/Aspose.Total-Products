@@ -144,7 +144,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXファイルを**DOTM（Word Macro-Enabled Template）**に変換すると、マクロ機能付きの再利用可能なテンプレートが作成されます。自動化ワークフローに最適で、LaTeXの精密な組版とWordの自動化機能を結びつけます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 学術ジャーナル向けの自動提出テンプレート。
+
+* 動的コンテンツ生成を備えた再利用可能な技術レポートテンプレート。
+
+* 研究室や研究データ入力用のマクロ有効なフォーム。
+
+* 複数の著者による共同研究のためのLaTeXパワードWordテンプレートの生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* LaTeX入力ストリームからトリガーされるリアルタイムドキュメント作成。
+
+* Wordベースの企業文書自動化パイプラインへの統合。
+
+* 共同研究プロジェクトのためのバッチテンプレート更新。
+
+* エンジニアリングチーム向けのマクロ有効なプロジェクトドキュメンテーションの生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -143,7 +143,51 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera TEX till **GIF (Graphics Interchange Format)** gör det möjligt att dela LaTeX-visualiseringar och små animationer online eller bädda in dem i handledningar och utbildningsmaterial.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Enkla LaTeX-animationer för utbildningsinnehåll.
+
+* Dela steg-för-steg problem-lösningsdiagram.
+
+* Bädda in animerade formler i e-lärande plattformar.
+
+* Visualisera iterativa LaTeX-beräkningar i GIF-format.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiserade scenarier" %}}
+
+
+
+* Automatisk batchkonvertering av TEX till GIF för handledningar.
+
+* Integration med LMS och onlinekursinnehåll.
+
+* Utlösad generering av GIF:ar från LaTeX-plotter eller sekvenser.
+
+* Automatisk uppdatering av utbildnings-GIF:ar baserat på LaTeX-uppdateringar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,51 @@ otherformats: DIF MD CSV TXT XLT ODS XLTX XLSM XLSB SXC XLTM EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל־**FODS (גיליון נתונים פלט פתוח)** מספקת נתוני LaTeX בגליונות נתונים פתוחים, מבוססי XML, המתאימים ל־LibreOffice ו־OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* שיתוף טבלאות מדעיות בעלות LaTeX עם חבילות משרד קוד פתוחות.
+
+* מחקר אקדמי הדורש פורמטים של גיליונות נתונים פלט פתוחים ולא תלויים בפלטפורמה.
+
+* מעקב ודיווח על פרויקטים בסביבות מרובות פלטפורמות.
+
+* הכנת נתוני LaTeX לגיליונות נתונים FODS שיתופיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת TEX ל־FODS באופן אוטומטי עבור זרימות עבודה בקוד פתוח.
+
+* עיבוד צ׳אט של נתוני LaTeX לצורך שיתוף פעולה בכל הפלטפורמות.
+
+* ייצוא מתוזמן של תוצאות מעבדה או טבלאות ניסוי.
+
+* שילוב לתוך צינורות מסמכים עבור מוסדות מחקר.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -129,7 +129,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **RTF (Zengin Metin Biçimi)**'e dönüştürmek, temel biçimlendirmeyi korurken çoğu kelime işlemcisiyle maksimum uyumluluk sağlar ve farklı yazılım ortamlarında belge paylaşımı için ideal hale getirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Kolay dağıtım için basit rapor dönüşümü.
+
+* Evrensel format desteği gerektiren yasal yazışmalar.
+
+* Birden fazla platformla uyumlu eğitim görevleri.
+
+* Geniş çapta okunabilir formatta eski belgelerin arşivlenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XPS dosyalarının RTF'ye evrensel erişim için toplu dönüşümü.
+
+* Otomatik içerik yönetim sistemleriyle entegrasyon.
+
+* Karışık platformlu kurumsal ortamlarda kolay paylaşım.
+
+* Eski belge göçü için dönüşüm boruları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

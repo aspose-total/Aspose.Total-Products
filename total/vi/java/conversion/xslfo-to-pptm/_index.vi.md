@@ -135,7 +135,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO thành **PPTM (PowerPoint có Macro-Enabled)** kết hợp các slide có thể chỉnh sửa với khả năng tự động hóa. PPTM lý tưởng cho báo cáo động, bảng điều khiển tương tác và các bài thuyết trình định kỳ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Nhúng tính toán dựa trên XSLFO vào các slide tương tác.
+
+* Chuẩn bị bảng điều khiển đánh giá hiệu suất tự động.
+
+* Tạo slide đào tạo hoặc hướng dẫn có Macro-Enabled.
+
+* Phân phối các bài thuyết trình động cho nhà đầu tư hoặc hội đồng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi định kỳ các báo cáo XSLFO thành các slide PPTM.
+
+* Tích hợp với đường ống tự động hóa VBA.
+
+* Kích hoạt việc tạo slide có Macro-Enabled từ nội dung XSLFO định kỳ.
+
+* Chuyển đổi hàng loạt tự động cho các bài thuyết trình doanh nghiệp động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

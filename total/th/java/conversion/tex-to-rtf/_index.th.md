@@ -143,7 +143,45 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **RTF (Rich Text Format)** มีความเข้ากันได้ทั่วไป ทำให้เอกสาร LaTeX สามารถเปิดในโปรแกรมประมวลผลคำเหมือนใดก็ได้โดยรักษาการจัดรูปแบบที่สำคัญและสมการทางคณิตศาสตร์ไว้ได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* แบ่งปันเอกสารทางวิชาการข้ามแพลตฟอร์มโดยไม่สูญเสียการจัดรูปแบบ
+* คู่มือเทคนิคที่มีสมการซับซ้อนที่สามารถเข้าถึงได้ใน Word หรือ LibreOffice
+* เอกสารธุรกิจข้ามแพลตฟอร์มด้วยสไตล์ LaTeX
+* เอกสาร LaTeX พร้อมส่งทางอีเมลในรูปแบบที่ทุกคนสามารถอ่านได้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงเป็นชุดข้อมูลสำหรับการเก็บถาวรและความเข้ากันได้ข้ามแพลตฟอร์ม
+* การรวมเข้ากับกระบวนการประมวลผลเอกสารสำหรับทีมเทคนิค
+* การสร้างรายงาน RTF โดยอัตโนมัติจากชุดข้อมูล LaTeX
+* การเริ่มต้นการแปลงสำหรับระบบการเผยแพร่อัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

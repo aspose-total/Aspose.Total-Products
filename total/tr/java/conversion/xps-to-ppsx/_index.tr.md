@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **PPSX'e (PowerPoint Gösterisi, makro içermeyen)** dönüştürmek, güvenlik için makro bağımlılıklarını kaldırırken biçimlendirmeyi ve düzeni koruyarak salt okunur, sunuma hazır slayt paketleri oluşturur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Şirket genelinde bilgilendirme sunumları.
+
+* E-öğrenim dağıtımı için eğitim slaytları.
+
+* Paylaşıma hazır pazarlama veya satış sunum paketleri.
+
+* Büyük kitlelere yönelik etkinlik veya seminer sunumları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XPS dosyalarının PPSX'e güvenli sunum paylaşımı için toplu dönüşümü.
+
+* Eğitim oturumları için zamanlanmış otomatik gösteri dosyalarının oluşturulması.
+
+* Sunum dağıtımı için iç portal entegrasyonu.
+
+* Müşteri veya genel kullanım için salt okunur slaytların hızlı bir şekilde oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

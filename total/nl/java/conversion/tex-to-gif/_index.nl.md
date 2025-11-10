@@ -143,7 +143,45 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **GIF (Graphics Interchange Format)** maakt het mogelijk om LaTeX visualisaties en kleine animaties online te delen of in tutorials en trainingsmateriaal in te sluiten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Simpele LaTeX-animaties voor educatieve inhoud.
+* Stapsgewijze probleemoplossingsdiagrammen delen.
+* Geanimeerde formules insluiten in e-learning platforms.
+* Iteratieve LaTeX-berekeningen visualiseren in GIF-indeling.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde batch TEX-naar-GIF conversie voor tutorials.
+* Integratie met LMS en online cursusinhoud.
+* Getriggerde generatie van GIFs van LaTeX-plots of sequenties.
+* Educatieve GIFs automatisch bijwerken op basis van LaTeX-updates.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

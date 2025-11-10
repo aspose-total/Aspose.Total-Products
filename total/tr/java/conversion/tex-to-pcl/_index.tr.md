@@ -143,7 +143,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX dosyalarını **PCL (Yazıcı Komut Dili)** formatına dönüştürmek, denklemler, tablolar ve diyagramlar da dahil olmak üzere LaTeX belgelerinin yazıcıya doğrudan gönderilmesine olanak tanır, böylece profesyonel veya akademik ortamlarda yüksek kaliteli çıktı alınabilir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX araştırma makaleleri ve teknik raporların yazdırılması.
+
+* Ders notlarının ve eğitim materyallerinin yüksek kaliteli çıktısı.
+
+* LaTeX ile oluşturulan tablolar ve diyagramlardan profesyonel el ilanlarının üretilmesi.
+
+* Bilimsel veya mühendislik projelerinden toplu belgelerin yazdırılması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Yazdırma kuyrukları için toplu TEX-PCL dönüşümü.
+
+* Otomatik belge yazdırma iş akışlarına entegrasyon.
+
+* LaTeX depolarından tetiklenen PCL oluşturma işlemi kitle yazdırma için.
+
+* Akademik veya kurumsal belge dağıtımı için zamanlanmış çıktı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

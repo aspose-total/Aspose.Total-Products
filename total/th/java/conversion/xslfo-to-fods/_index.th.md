@@ -47,7 +47,55 @@ otherformats: XLAM ODS FODS XLTM XLT TSV SXC MD EXCEL XLTX XLSM DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ XSLFO เป็นรูปแบบ **FODS (Flat OpenDocument Spreadsheet)** สนับสนุนโปรแกรมสำนักงานโอเพ่นซอร์สเช่น LibreOffice และ OpenOffice  FODS ช่วยให้สามารถสร้างสเปรดชีตที่ใช้ XML ได้ง่าย ที่เหมาะสำหรับสภาพแวดล้อมที่มีการทำงานร่วมกัน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* แบ่งปันงบประมาณที่สร้างจาก XSLFO กับผู้ใช้โปรแกรมสำนักงานโอเพ่นซอร์ส
+
+* เก็บรักษารายงานในรูปแบบสเปรดชีตที่เป็นมาตรฐานและเปิดเผย
+
+* เตรียมชีตติดตามโครงการสำหรับการทำงานร่วมกันในหลายแพลตฟอร์ม
+
+* แปลงตาราง XSLFO ทางเทคนิคเป็นสเปรดชีต FODS ที่สามารถแก้ไขได้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* แปลงไฟล์ XSLFO เป็น FODS จำนวนมากสำหรับท่องไปร์ลงทางโปรแกรมสำนักงานโอเพ่นซอร์ส
+
+* ผสานเข้ากับระบบการจัดการเอกสารที่สนับสนุน FODS
+
+* ส่งออกตามกำหนดเวลาสำหรับแดชบอร์ดโครงการที่ทำงานร่วมกัน
+
+* แปลงรายงานการวิเคราะห์จาก XSLFO เป็นรูปแบบ FODS โดยอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

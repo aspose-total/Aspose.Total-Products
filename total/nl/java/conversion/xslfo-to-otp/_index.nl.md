@@ -135,7 +135,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XSLFO naar **OTP (OpenDocument Presentation Template)** maakt het mogelijk om herbruikbare dia-templates te maken van gestructureerde XSLFO-gegevens. OTP-templates standaardiseren de opmaak van presentaties binnen teams.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het voorbereiden van bedrijfspresentatiesjablonen vanuit XSLFO gegenereerde rapporten.
+
+* Standaardiseren van trainingsmodules in herbruikbare OTP-formaten.
+
+* Het maken van investeerderspitchdecks met consistente opmaak vanuit XSLFO-inhoud.
+
+* Archiveren van sjablonen voor kwartaalrapportage voor toekomstig hergebruik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geplande batchconversie van XSLFO naar OTP voor templatesbibliotheken.
+
+* Integratie met geautomatiseerde dia-generatiepijplijnen.
+
+* Getriggerde creatie van OTP-templates voor nieuwe XSLFO-rapportseries.
+
+* Automatische implementatie van op XSLFO gebaseerde sjablonen binnen afdelingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

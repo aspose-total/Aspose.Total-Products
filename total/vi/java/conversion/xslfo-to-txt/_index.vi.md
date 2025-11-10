@@ -47,7 +47,55 @@ Trong khi chuyển đổi tệp XSLFO sang TXT, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp XSLFO sang **TXT (Văn bản thuần)** cho phép tương thích với tất cả các trình soạn thảo văn bản, công cụ xử lý dữ liệu và môi trường lập trình. Các tệp TXT trích xuất nội dung cốt lõi từ XSLFO mà không có kiểu dáng, làm cho nó lý tưởng cho phân tích dữ liệu thô, viết kịch bản và lưu trữ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xuất bảng và báo cáo XSLFO cho xử lý dữ liệu hàng loạt.
+
+* Chuẩn bị phiên bản văn bản thuần của các báo cáo tài chính hoặc hoạt động có cấu trúc.
+
+* Lưu trữ nội dung XSLFO dưới dạng định dạng có thể truy cập một cách phổ biến.
+
+* Tạo ra các trích xuất dữ liệu thô cho các ống dẫn phân tích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt XSLFO sang TXT theo lịch trình cho các luồng công việc tự động hóa.
+
+* Tích hợp vào ETL và các ống dẫn tiền xử lý dữ liệu.
+
+* Xuất TXT được kích hoạt từ các báo cáo XSLFO định kỳ.
+
+* Trích xuất tự động các bản tóm tắt văn bản thuần từ các bảng điều khiển XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

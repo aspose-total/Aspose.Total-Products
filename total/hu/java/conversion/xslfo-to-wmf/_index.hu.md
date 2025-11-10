@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti WMF-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **WMF (Windows Metafile)** formátummá skálázható vektorgrafikákat eredményez, amelyek kompatibilisek a Microsoft Office és más asztali kiadó alkalmazásokkal.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* XSLFO táblázatok és diagramok beágyazása a Microsoft Wordbe vagy PowerPointba.
+
+* Skálázható vizuális elemek létrehozása vállalati prezentációkhoz.
+
+* Jelentések vizuális elemeinek archiválása vektorformátumban.
+
+* Műszaki illusztrációk készítése strukturált XSLFO adatokból.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges XSLFO-WMF konverzió dokumentumfolyamatokhoz.
+
+* Időzített exportálás vektorgrafikákhoz diavetítésekhez.
+
+* WMF képek kiváltott generálása XSLFO irányítópultokból.
+
+* Integráció automatizált vállalati kiadási csövekkel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

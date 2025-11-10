@@ -57,7 +57,51 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XPS เป็น **TGA (Targa Image File)** จะให้รูปภาพแบบเราสเตอร์คุณภาพสูงที่เหมาะสำหรับกราฟิกและการผลิตวิดีโออย่างมืออาชีพ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ภาพสีสันคมชัดสำหรับโครงการวิดีโอและมัลติมีเดีย.
+
+* ทรัพยากรการออกแบบเกมที่ได้มาจากแผนภาพ XPS.
+
+* ภาพประกอบทางเทคนิคที่ต้องการรูปภาพเราสเตอร์ที่ไม่สูญเสีย.
+
+* กราฟิกสำหรับการนำเสนอหรือเก็บถาวรขององค์กร.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* ท่อการแปลง XPS เป็น TGA แบบกลุ่ม.
+
+* การสร้างตามกำหนดเวลาสำหรับกระบวนการผลิตมัลติมีเดีย.
+
+* การผสมผสานกับซอฟต์แวร์แก้ไขกราฟิกและวิดีโอ.
+
+* การประมวลผลอัตโนมัติของภาพประกอบทางเทคนิคหรือการออกแบบ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

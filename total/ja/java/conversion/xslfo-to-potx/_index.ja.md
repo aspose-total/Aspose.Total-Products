@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**POTX（マクロなしのPowerPointテンプレート）に変換することで、再利用可能で安全なテンプレートを作成できます。POTXは、レイアウト、書式、表をマクロの実行リスクなしに保存します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* PowerPointユーザー向けのXSLFOベースの月次レビューテンプレートの準備。
+
+* マクロのない標準化されたトレーニングスライドの作成、部門間での共有。
+
+* 四半期の財務報告テンプレートのアーカイブ。
+
+* 外部配布に安全な投資家向けプレゼンテーションテンプレートの生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XSLFOからPOTXテンプレートへの定期的なバッチ変換。
+
+* 自動化されたスライド生成ワークフローへの統合。
+
+* XSLFOレポートからマクロのないプレゼンテーションテンプレートのトリガー付き作成。
+
+* チーム全体での一貫性のためのPOTXテンプレートの自動展開。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

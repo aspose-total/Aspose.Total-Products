@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı EMZ görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **EMZ (Geliştirilmiş Windows Metafile Sıkıştırılmış)** biçimine dönüştürülmesi, sıkıştırma ile yüksek kaliteli vektör grafikler sağlar, slayt sunumları ve baskıya hazır görseller için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Sunumlar için ölçeklenebilir grafik olarak XSLFO tablolarının dışa aktarılması.
+
+* Slayt sunumlarına finansal veya işletme görsellerinin gömülmesi.
+
+* Raporlama panoları için arşiv görsellerinin oluşturulması.
+
+* Masaüstü yayıncılık iş akışları için görsellerin hazırlanması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XSLFO raporlarının EMZ'ye toplu dönüşümünün zamanlanmış olarak yapılması.
+
+* Otomatik raporlama boru hatlarına entegrasyon.
+
+* Slayta gömme için EMZ görsellerinin tetiklenmiş oluşturulması.
+
+* Sıkıştırılmış vektör görsellere gerçek zamanlı XSLFO panolarının dönüştürülmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

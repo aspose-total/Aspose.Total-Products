@@ -143,7 +143,55 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **MHTML (MIME HTML)** pozwala renderować dokumenty LaTeX jako pojedynczą stronę internetową, zachowując równania, tabele i grafiki do przeglądania offline lub online.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Archiwizowanie prac badawczych LaTeX jako samodzielne strony internetowe.
+
+* Dzielenie się raportami opartymi na LaTeX z osadzonymi grafikami i równaniami.
+
+* Generowanie interaktywnych materiałów dydaktycznych w jednym pliku MHTML.
+
+* Konwertowanie treści technicznych na moduły e-learningu offline.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa TEX na MHTML dla bibliotek materiałów dydaktycznych.
+
+* Integracja z automatycznym generowaniem treści e-learningowych.
+
+* Zaplanowane aktualizacje MHTML z źródeł LaTeX.
+
+* Wywołana konwersja do udostępniania publikacji badawczych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

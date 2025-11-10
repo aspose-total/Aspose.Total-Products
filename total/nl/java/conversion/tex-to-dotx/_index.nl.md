@@ -143,7 +143,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX-bestanden naar **DOTX (Word-sjabloon)** levert schone, herbruikbare sjablonen zonder macro's op, perfect voor academische en zakelijke omgevingen die LaTeX-opmaakconsistentie vereisen zonder risico's van scripting.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Professionele rapport-sjablonen met LaTeX-opgemaakte vergelijkingen.
+
+* Opmaaksjablonen voor academische scripties voor studenten en universiteiten.
+
+* Gestandaardiseerde sjablonen voor lesplannen voor docenten.
+
+* Sjablonen voor documentatie van onderzoeksprojecten voor laboratoria.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch-creatie van zakelijke of educatieve sjablonen.
+
+* Geautomatiseerde implementatie van sjablonen in LMS of documentbeheersystemen.
+
+* Conversie van LaTeX naar Word-sjabloon voor consistente documentopmaak.
+
+* Integratie in geautomatiseerde rapportgeneratiepijplijnen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -143,7 +143,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **GIF (Graphics Interchange Format)** pozwala udostępniać wizualizacje LaTeX oraz małe animacje online lub osadzać je w samouczkach i materiałach szkoleniowych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Proste animacje LaTeX do treści edukacyjnych.
+
+* Udostępnianie diagramów krok po kroku do rozwiązywania problemów.
+
+* Osadzanie animowanych formuł w platformach e-learningowych.
+
+* Wizualizacja iteracyjnych obliczeń LaTeX w formacie GIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna konwersja zbiorcza TEX na GIF do samouczków.
+
+* Integracja z systemami LMS oraz treściami kursów online.
+
+* Wywoływane generowanie GIF-ów z wykresów LaTeX lub sekwencji.
+
+* Automatyczna aktualizacja edukacyjnych GIF-ów na podstawie aktualizacji LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

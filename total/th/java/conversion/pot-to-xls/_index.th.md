@@ -61,7 +61,45 @@ otherformats: XLTM TSV DIF XLSX XLT MARKDOWN MHTML ODS XLAM EXCEL FODS XLS XLTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POT เป็น XLS (Excel 97–2003 Workbook) ช่วยให้เข้ากันได้กับระบบสเปรดชีตรุ่นเก่าที่ยังใช้อยู่ในสถานการณ์องค์กรหลายแห่ง มันรักษาข้อมูลแบบตารางและโครงสร้างจากงานนำเสนอ PowerPoint สำหรับการวิเคราะห์ที่สามารถแก้ไขได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การแปลงรายงานการเงิน PowerPoint สำหรับระบบ Excel เวอร์ชันเก่า
+
+* แบ่งปันข้อมูลการฝึกอบรมในเครือข่ายองค์กรเวอร์ชันเก่า
+
+* นำเข้าตาราง PowerPoint เข้าสู่ระบบบัญชีเวอร์ชันเก่า
+
+* สร้างแผ่นงานวิเคราะห์ที่เข้ากันได้ย้อนหลัง
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้าง XLS แบบกลุ่มสำหรับการทำงานเก็บถาวรและการทำงานระหว่างแผนก
+
+* ท่องไปรในระบบการแปลงอัตโนมัติในระบบปฏิบัติตามกฎหมาย
+
+* การผสานร่วมกับสเปรดชีต ERP เวอร์ชันเก่า
+
+* การส่งออกตามกำหนดเวลาสำหรับรายงานองค์กรมาตรฐาน
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

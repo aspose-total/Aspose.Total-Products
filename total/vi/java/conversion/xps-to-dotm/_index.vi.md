@@ -129,7 +129,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XPS thành **DOTM (Mẫu Kích hoạt Macro của Word)** kết hợp hiệu suất mẫu với tự động hóa macro. Tổ chức có thể duy trì bố cục tài liệu đồng nhất trong khi tự động hóa các công việc lặp đi lặp lại trực tiếp trong Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Mẫu hóa đơn và báo cáo với macro tự động tính toán.
+
+* Mẫu biểu mẫu pháp lý tự động điền dữ liệu khách hàng.
+
+* Mẫu lập kế hoạch dự án với macro tương tác để theo dõi công việc.
+
+* Mẫu tài liệu nhân sự tự động hóa việc phê duyệt và thông báo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch bản Tự động hóa" %}}
+
+
+
+* Tạo hàng loạt các mẫu có kích hoạt macro chuẩn từ nguồn XPS.
+
+* Tích hợp vào hệ thống ERP để tạo tài liệu tự động.
+
+* Cập nhật mẫu khi các tệp nguồn XPS thay đổi.
+
+* Luồng công việc báo cáo tự động sử dụng mẫu DOTM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -105,7 +105,51 @@ otherformats:  EMZ SVGZ PSD APNG DXF WMF JPEG2000 IMAGE WMZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення XPS на **TGA (файл зображення Targa)** надає високоякісні растрові зображення, які підходять для професійної графіки та відеопродукції.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Високоякісні візуальні елементи для відео- та мультимедійних проектів.
+
+* Елементи дизайну ігор, отримані з діаграм XPS.
+
+* Технічні ілюстрації, які вимагають безвтратного растрового зображення.
+
+* Корпоративна графіка для презентацій або архівування.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетні конвеєри конвертації XPS у TGA.
+
+* Запланована створення для робочих процесів мультимедійного виробництва.
+
+* Інтеграція з графічними програмами редагування та відео.
+
+* Автоматизована обробка технічних або дизайнерських візуальних елементів.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

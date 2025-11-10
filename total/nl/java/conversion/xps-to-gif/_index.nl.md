@@ -143,7 +143,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XPS naar **GIF (Graphics Interchange Format)** brengt statische documenten tot leven met lichtgewicht geanimeerde of statische afbeeldingen, ideaal voor online platforms en e-mailcampagnes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Geanimeerde diagrammen voor socialemediacampagnes.
+
+* Instructie-GIFs voor e-learning en tutorials.
+
+* Visualisatie van datatrends voor presentaties.
+
+* Lichtgewicht bestandsdeling voor rapporten en afbeeldingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde XPS-naar-GIF-conversie voor webplatforms.
+
+* Geplande generatie van GIFs voor marketinginhoud.
+
+* Integratie met contentmanagementsystemen voor online publicatie.
+
+* Batchcreatie voor instructie- of promotiematerialen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

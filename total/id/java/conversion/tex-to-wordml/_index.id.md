@@ -144,7 +144,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **WordML (format XML Microsoft Word)** membuat konten LaTeX sepenuhnya kompatibel dengan dokumen berbasis XML Word, memungkinkan alur kerja otomatis, validasi konten, dan integrasi dengan sistem perusahaan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Generasi laporan ilmiah berbasis XML dari sumber LaTeX.
+
+* Alur kerja dokumentasi perusahaan menggunakan WordML terstruktur.
+
+* Kolaborasi multi-penulis dengan penggabungan konten otomatis.
+
+* Publikasi berbasis XML untuk materi akademis atau teknis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi otomatis dokumen WordML dari repositori LaTeX.
+
+* Integrasi ke dalam sistem manajemen konten perusahaan.
+
+* Ekspor XML yang dipicu untuk publikasi penelitian berskala besar.
+
+* Pengolahan batch untuk pelaporan kepatuhan dan pengajuan akademis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

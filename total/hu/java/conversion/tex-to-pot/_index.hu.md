@@ -135,7 +135,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **POT formátumba való átalakítása (PowerPoint sablon) lehetővé teszi a LaTeX-stílusú tartalom újrahasználható PowerPoint sablonná történő alakítását akadémiai, üzleti és vállalati prezentációkhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Professzionális előadás diák bonyolult egyenletekkel.
+
+* Vállalati projektjavaslat sablonok LaTeX táblázatokkal.
+
+* Szabványosított sablonok egyetemi kurzusokhoz.
+
+* Mérnöki vagy tudományos konferenciák prezentációi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Automatizált batch TEX-POT konverziók sablonkönyvtárakhoz.
+
+* Integráció vállalati diavetítés automatizálási rendszerekbe.
+
+* Ütemezett sablonfrissítések LaTeX forrásokból.
+
+* Kiváltott generálás több felhasználós együttműködéshez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

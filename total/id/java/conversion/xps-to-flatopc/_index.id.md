@@ -130,7 +130,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file XPS (XML Paper Specification) ke **FLATOPC (Flat Open Packaging Conventions)** memungkinkan ekstraksi konten dokumen dalam format XML terstruktur, menjaga tata letak, font, dan metadata untuk alur kerja pemrosesan dokumen yang canggih.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Ekstraksi teks dan format secara programatik untuk sistem dokumen perusahaan.
+
+* Pengarsipan dokumen XPS dalam XML terstruktur untuk penyimpanan jangka panjang.
+
+* Integrasi ke dalam alur kerja penerbitan otomatis.
+
+* Penambangan data dari laporan teknis atau keuangan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi XPS-ke-FLATOPC secara batch untuk manajemen konten perusahaan.
+
+* Ekstraksi terjadwal untuk alur kerja laporan berulang.
+
+* Integrasi dengan sistem pemrosesan dokumen berbasis AI.
+
+* Validasi otomatis konten dokumen yang diekstrak untuk kepatuhan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

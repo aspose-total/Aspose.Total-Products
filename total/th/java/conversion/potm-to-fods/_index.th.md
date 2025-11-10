@@ -61,7 +61,55 @@ otherformats: MHTML EXCEL XLSX FODS ODS XLSB SXC TSV XLSM XLS XLAM XLT MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POTM เป็น FODS จะสร้างไฟล์ OpenDocument Spreadsheet ที่เป็นรูปแบบ XML แบบแบน ซึ่ง FODS เหมาะสำหรับการเก็บข้อมูลสเปรดชีทที่เบา ไม่ขึ้นอยู่กับแพลตฟอร์ม และยังคงรักษารูปแบบตารางจากภาพนำเสนอไว้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ส่งออกตาราง PowerPoint เป็น FODS สำหรับใช้กับ LibreOffice หรือ OpenOffice
+
+* แปลงรายงานตัวเลขที่มีพื้นฐานจากสไลด์เป็นสเปรดชีทที่เหมาะสำหรับใช้บนหลายแพลตฟอร์ม
+
+* แบ่งปันตารางโครงการทางวิชาการหรือองค์กรไม่แสวงหาผลกำไรในรูปแบบ XML เปิด
+
+* เก็บข้อมูลการนำเสนอไว้ในสเปรดชีท XML แบบแบนที่มีโครงสร้าง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การอัตโนมัติของกระบวนการทำงานสำหรับการแปลง POTM เป็น FODS แบบกลุ่ม
+
+* การผสานในท่อการทำงานออฟฟิศที่เหมาะสำหรับการใช้บนหลายแพลตฟอร์ม
+
+* การสร้างไฟล์ FODS ตามที่เรียกใช้สำหรับทีมที่กระจาย
+
+* การสร้างข้อมูล XML โครงสร้างสำหรับรายงานและระบบการปฏิบัติตามกฎระเบียบ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -129,7 +129,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików XPS na **DOTM (Szablon z włączonymi makrami programu Word)** łączy efektywność szablonu z automatyzacją makr. Organizacje mogą utrzymać jednolite układy dokumentów, automatyzując powtarzające się zadania bezpośrednio w programie Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Szablony faktur i raportów z makrami automatycznego obliczania.
+
+* Szablony formularzy prawnych, które automatycznie wypełniają dane klienta.
+
+* Szablony planowania projektów z interaktywnymi makrami do śledzenia zadań.
+
+* Szablony dokumentów HR automatyzujące zatwierdzanie i powiadomienia.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Masowe tworzenie standaryzowanych szablonów z włączonymi makrami z plików XPS.
+
+* Integracja z systemami ERP dla automatycznego generowania dokumentów.
+
+* Wywoływanie aktualizacji szablonów po zmianie plików źródłowych XPS.
+
+* Automatyzacja przepływów pracy raportowania przy użyciu szablonów DOTM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

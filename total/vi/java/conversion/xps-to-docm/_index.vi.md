@@ -129,7 +129,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp XPS (XML Paper Specification) sang **DOCM (Tài liệu có Macro được kích hoạt)** đảm bảo rằng các báo cáo động và biểu mẫu kinh doanh giữ lại tất cả các macro tương tác để tự động hóa quy trình làm việc. Định dạng này đặc biệt phù hợp cho môi trường văn phòng nơi các công việc lặp đi lặp lại và các kịch bản nhúng tăng cường năng suất.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Báo cáo tài chính và kiểm toán yêu cầu macro tự động cho các phép tính.
+
+* Mẫu doanh nghiệp với luồng làm việc phê duyệt được nhúng.
+
+* Gói tài liệu pháp lý với tự động ký.
+
+* Bảng điều khiển quản lý dự án sử dụng macro để theo dõi công việc.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt báo cáo XPS thành các tệp Word có macro cho các nhóm doanh nghiệp.
+
+* Tích hợp với hệ thống quản lý tài liệu kích hoạt macro khi mở tệp.
+
+* Tự động tạo hóa đơn và bảng kê có công thức nhúng.
+
+* Biểu mẫu tiếp nhận nhân sự được tối ưu hóa với các trường động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

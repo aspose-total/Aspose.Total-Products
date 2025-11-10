@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS（XML Paper Specification）ファイルを**ODP（OpenDocument Presentation）**に変換することで、LibreOfficeやOpenOfficeと互換性のある、完全に編集可能なクロスプラットフォームプレゼンテーションを作成できます。ODPはレイアウト、テキスト、画像を保持しながら、共同作業フローをサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 学術機関向けの教育用講義スライド。
+
+* オープンフォーマットが必要なNGOや政府のプレゼンテーション。
+
+* チームプロジェクトのブリーフィングや進捗報告。
+
+* オープンソースプラットフォーム向けのマーケティングやキャンペーンプレゼンテーション。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 教育プラットフォーム向けのXPSアーカイブの一括変換をODPに。
+
+* スライド生成を自動化するワークフローツールとの統合。
+
+* 定期的なプレゼンテーションコンテンツのスケジュール更新。
+
+* 異なるオフィススイート間での効率的な共同作業。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

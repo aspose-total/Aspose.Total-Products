@@ -135,7 +135,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **POTM (PowerPoint Macro-Enabled Template)** voegt herbruikbare sjablonen met macrofunctionaliteit toe, waardoor LaTeX-inhoud wordt gekoppeld aan geautomatiseerde diafunctionaliteit.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Interactieve educatieve dia's met LaTeX-formules.
+
+* Onderzoeks presentaties met automatisch bijgewerkte tabellen.
+
+* Macro-ingeschakelde sjablonen voor wetenschappelijke rapportage.
+
+* Sjablonen voor lezingen met meerdere auteurs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch-creatie van macro-ingeschakelde sjablonen vanuit LaTeX-inhoud.
+
+* Getriggerde sjabloonupdates voor academische of zakelijke dia-decks.
+
+* Integratie in PowerPoint-automatiseringsworkflows.
+
+* Geplande generatie van LaTeX-naar-POTM dia-sjablonen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

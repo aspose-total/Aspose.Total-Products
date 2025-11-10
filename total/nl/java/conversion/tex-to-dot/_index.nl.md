@@ -143,7 +143,55 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX-bestanden naar **DOT (Word Document Template)** stelt gebruikers in staat om LaTeX-opmaak te benutten bij het maken van herbruikbare Word-sjablonen voor zakelijk of educatief gebruik. Dit helpt bij het handhaven van consistentie in officiële rapporten en professionele documenten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Bedrijfsbriefhoofden en voorstelsjablonen met LaTeX-stijl typografie.
+
+* Gestandaardiseerde academische of examensjablonen voor universiteiten.
+
+* Curriculum vitae en cv-sjablonen voor professioneel gebruik.
+
+* Projectdocumentatiesjablonen voor ingenieurs en onderzoekers.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde generatie van sjablonen voor batchrapportcreatie.
+
+* Integratie met documentautomatiseringssoftware in onderwijsinstellingen.
+
+* Getriggerde sjabloonupdates vanuit LaTeX-opslagplaatsen voor merkconsistentie.
+
+* Het creëren van dynamische sjabloonbibliotheken voor technische projecten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

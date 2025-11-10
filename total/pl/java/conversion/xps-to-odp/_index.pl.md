@@ -121,7 +121,55 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików XPS (XML Paper Specification) na **ODP (OpenDocument Presentation)** pozwala użytkownikom tworzyć w pełni edytowalne, wieloplatformowe prezentacje kompatybilne z LibreOffice i OpenOffice. ODP zachowuje układ, tekst i obrazy, jednocześnie wspierając prace zespołowe.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Wykłady edukacyjne dla instytucji akademickich.
+
+* Prezentacje organizacji pozarządowych lub rządowych wymagające otwartych formatów.
+
+* Omówienia projektów zespołowych i raporty postępu.
+
+* Prezentacje marketingowe lub kampanie dla platform open-source.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja archiwów XPS na ODP dla platform edukacyjnych.
+
+* Integracja z narzędziami do zarządzania pracą dla automatycznego generowania slajdów.
+
+* Zaplanowane aktualizacje treści prezentacji.
+
+* Usprawniona współpraca między różnymi pakietami biurowymi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

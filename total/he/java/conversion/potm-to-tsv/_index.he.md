@@ -102,7 +102,51 @@ otherformats: XLTX XLT DIF SXC XLSB XLS FODS CSV EXCEL XLAM MARKDOWN XLTM MHTML 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POTM ל־TSV (ערכים מופרדים בטאב) מאפשרת העברה קלה של טבלאות מצגת לתוך גיליונות נתונים מבוססי טקסט או תוכנות ניתוח. קבצי TSV הם קלים, ניתנים לעריכה, ושומרים על מבנה טבלאי נקי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* חילוץ טבלאות משקופיות עבור צינורות נתונים מבוססי CSV/TSV.
+
+* ייצוא נתוני הכשרה או תוצאות סקר ממצגות.
+
+* המרת נתונים פיננסיים ומדעיים ל־TSV עבור כלי תסריט.
+
+* הכנת תוכן טבלאי לייבוא למסדי נתונים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רציפה של שקופיות ל־TSV עבור צינורות כניסת נתונים.
+
+* זרימות עבודה לדיווחים אוטומטיים המזינות קבצי TSV לפלטפורמות BI.
+
+* שילוב עם סקריפטים Python/R לניתוח סטטיסטי.
+
+* יצירת TSV מופעלת מתבניות מצגת מאוחסנות בענן.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp XPS sang SXC, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XPS thành **SXC (Bảng tính StarOffice)** cung cấp khả năng tương thích ngược với các tệp OpenOffice/StarOffice cũ hơn. Định dạng này phù hợp cho quy trình làm việc cũ và mục đích lưu trữ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Lưu trữ báo cáo cũ trong định dạng SXC.
+
+* Bộ dữ liệu tài chính và hoạt động lịch sử.
+
+* Di chuyển bảng tính dựa trên XPS sang môi trường mã nguồn mở.
+
+* Nhật ký kỹ thuật hoặc nghiên cứu cho các bộ công cụ văn phòng cũ hơn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt các kho XPS thành các tệp SXC.
+
+* Lưu trữ tự động cho mục đích tuân thủ và kiểm toán.
+
+* Di chuyển định kỳ báo cáo XPS.
+
+* Các đường ống tích hợp hệ thống cũ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

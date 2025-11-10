@@ -57,7 +57,55 @@ Az API használatával igény szerint elforgathatja a kimeneti APNG-képet is. A
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO (Extensible Stylesheet Language Formatting Objects) fájlok átalakítása **APNG (Animált Portable Network Graphics)** formátumba lehetővé teszi a strukturált jelentési adatok animált ábrázolását, miközben éles vektor minőséget biztosít. Az APNG-k ideálisak interaktív vezérlőpultokhoz és webes vizualizációkhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Animált diagramok az XSLFO által generált elemzési jelentésekből.
+
+* Pénzügyi vagy működési trendek interaktív vizualizációi.
+
+* Mobilbarát oktatóanyagok animált táblázatokkal.
+
+* Dinamikus diák a telemedicinában vagy az e-learning platformokon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* XSLFO vezérlőpultok tömeges átalakítása APNG formátumba webes alkalmazásokhoz.
+
+* Integráció valós idejű adatvizualizációs csövekbe.
+
+* Ütemezett animált grafikák generálása jelentési eszközök számára.
+
+* Kiváltott APNG létrehozása XSLFO-ból automatizált munkafolyamatokban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

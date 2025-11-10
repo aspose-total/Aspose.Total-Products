@@ -61,7 +61,45 @@ POT 파일을 XLTM로 변환하는 동안 출력 XLTM 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POT를 XLTM(매크로 활성화 엑셀 템플릿)으로 변환하면 엔터프라이즈가 스프레드시트 생성을 자동화할 수 있으면서 PowerPoint 디자인 힌트를 유지할 수 있습니다. 반복적인 워크플로우를 위한 동적 대화식 템플릿을 생성하는 데 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* PowerPoint KPI에서 매크로 활성화 엑셀 템플릿 작성.
+
+* 내장 데이터 매크로를 사용한 보고서 템플릿 자동화.
+
+* 반복 가능한 재무 예측 모델 설계.
+
+* 자동화 스크립트를 사용한 학업 성적 추적기 생성.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* XLTM 생성이 데이터 자동화 워크플로에 통합.
+
+* 매크로로 구동되는 스프레드시트 템플릿의 엔터프라이즈 배포.
+
+* 재무 및 인사팀을 위한 예약된 템플릿 생성.
+
+* 반복 가능한 보고 주기를 위한 변환 자동화.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

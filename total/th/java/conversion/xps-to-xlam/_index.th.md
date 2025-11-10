@@ -47,7 +47,45 @@ otherformats: XLTM ODS XLSB XLTX SXC EXCEL TXT XLT XLAM TSV FODS MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XPS เป็น **XLAM (Excel Add-In)** ช่วยให้สามารถสร้างเครื่องมืออัตโนมัติของ Excel ที่กำหนดเอง แมโคร และฟังก์ชันที่ขยายจากเอกสาร XPS ที่เป็นสถานะคงที่ ที่เหมาะสำหรับผู้ใช้ระดับองค์กรที่ขั้นสูง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การอัตโนมัติการคำนวณและการทำงานในการเงินหรือการดำเนินงาน
+* การสร้างแอดอินผลิตภัณฑ์ที่มีแมโครจากข้อมูลที่มีอยู่
+* การขยายฟังก์ชันของ Excel โดยใช้เทมเพลตที่แปลงจาก XPS
+* การเพิ่มประสิทธิภาพของการทำงานด้วย Excel add-ins ในระดับองค์กร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การแปลง XPS เป็น XLAM จำนวนมากสำหรับเครื่องมืออัตโนมัติของบริษัท
+* การรวมกับซอฟต์แวร์ภายในเพื่อเรียกใช้ Excel add-ins
+* การสร้างโซลูชันที่มีแมโครอย่างต่อเนื่องสำหรับทีมงานตามกำหนดเวลา
+* การสร้างกระบวนการอัตโนมัติที่เรียบง่ายสำหรับงานรายงานที่ซ้ำซาก
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

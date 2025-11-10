@@ -61,7 +61,45 @@ Ao converter o arquivo POT para XLTM, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter POT para XLTM (Modelo de Excel com Macro) permite que empresas automatizem a geração de planilhas mantendo as dicas de design do PowerPoint. Ideal para produzir modelos dinâmicos e interativos para fluxos de trabalho recorrentes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Construir modelos de Excel com macro a partir de KPIs do PowerPoint.
+
+* Automatizar modelos de relatórios com macros de dados incorporadas.
+
+* Projetar modelos repetíveis de previsão financeira.
+
+* Criar rastreadores de desempenho acadêmico com scripts de automação.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Geração de XLTM integrada em fluxos de trabalho de automação de dados.
+
+* Implantação empresarial de modelos de planilhas com macro.
+
+* Criação agendada de modelos para equipes financeiras e de RH.
+
+* Automação de conversão para ciclos de relatórios repetíveis.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

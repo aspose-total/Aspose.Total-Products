@@ -130,7 +130,55 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XPS átalakítása **OTT (OpenDocument Text Template)** formátumra átalakítja a statikus XPS fájlokat újrafelhasználható sablonokká a LibreOffice és OpenOffice felhasználói számára, tökéletesen alkalmas standardizált munkafolyamatok dokumentumaira nyílt formátumokban.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Akadémiai és oktatási anyagsablonok diákok és tanárok számára.
+
+* NGO projekt sablonok jelentésekhez és javaslatokhoz.
+
+* Standardizált nyílt forráskódú sablonok vállalati dokumentációhoz.
+
+* Kreatív tartalomsablonok brosúrákhoz és hírlevelekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* OTT sablonok tömeges generálása XPS tárolókból.
+
+* Integráció nyílt forráskódú munkafolyamat-automatizálási eszközökkel.
+
+* Sablonok automatikus kitöltése szervezeti adatokkal.
+
+* Keresztplatformos dokumentum létrehozási folyamatok egyszerűsítése.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

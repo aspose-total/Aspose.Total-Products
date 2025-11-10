@@ -135,7 +135,51 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter XSLFO para **OTP (OpenDocument Presentation Template)** permite criar modelos de slides reutilizáveis a partir de dados estruturados XSLFO. Os modelos OTP padronizam a formatação de apresentações entre equipes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Preparar modelos de apresentação corporativos a partir de relatórios gerados em XSLFO.
+
+* Padronizar módulos de treinamento em formatos OTP reutilizáveis.
+
+* Criar decks de apresentação para investidores com estilo consistente a partir de conteúdo XSLFO.
+
+* Arquivar modelos de relatórios trimestrais para uso futuro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote agendada de XSLFO para OTP para bibliotecas de modelos.
+
+* Integração com pipelines de geração de slides automatizada.
+
+* Criação de modelos OTP acionada para novas séries de relatórios XSLFO.
+
+* Implantação automática de modelos baseados em XSLFO em departamentos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

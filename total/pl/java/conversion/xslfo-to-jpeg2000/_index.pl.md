@@ -57,7 +57,51 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz JPEG2
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie XSLFO na **JPEG2000** zapewnia obrazy rastrowe o wysokim stopniu kompresji przy minimalnej utracie jakości. JPEG2000 nadaje się do obrazowania medycznego, tworzenia dużych raportów wizualnych oraz celów archiwalnych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Archiwizacja raportów XSLFO o wysokiej rozdzielczości z złożonymi tabelami.
+
+* Przygotowywanie szczegółowych wizualizacji finansowych lub operacyjnych do dystrybucji cyfrowej.
+
+* Konwertowanie analiz XSLFO na efektywne obrazy rastrowe.
+
+* Generowanie wizualizacji w dużym formacie do publikacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja XSLFO na JPEG2000 do archiwizacji.
+
+* Zaplanowane generowanie dla zautomatyzowanych procesów publikacyjnych.
+
+* Integracja z potokami optymalizacji obrazów.
+
+* Wywoływane eksportowanie o wysokiej rozdzielczości z pulpitów XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -121,7 +121,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików XPS na **PPSM (Pakiet PowerPoint z obsługą makr)** umożliwia tworzenie interaktywnych pokazów slajdów z makrami, idealnych do automatyzacji, dynamicznych pulpitów nawigacyjnych lub przepływów pracy opartych na prezentacjach.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Interaktywne prezentacje dla klientów z wbudowanymi obliczeniami.
+
+* Moduły szkoleniowe z automatyczną nawigacją lub makrami quizowymi.
+
+* Pulpity nawigacyjne finansowe, które automatycznie się aktualizują w trybie prezentacji.
+
+* Automatyczne slajdy raportowe na spotkania korporacyjne.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa XPS na PPSM dla automatyzacji przedsiębiorstwa.
+
+* Integracja z żywymi danymi dla dynamicznej zawartości slajdów.
+
+* Zaplanowane tworzenie pokazów slajdów z obsługą makr dla cyklicznych prezentacji.
+
+* Zoptymalizowany wewnętrzny przepływ pracy dla raportowania opartego na prezentacjach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

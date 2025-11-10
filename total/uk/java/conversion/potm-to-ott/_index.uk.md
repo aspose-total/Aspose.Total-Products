@@ -99,7 +99,51 @@ otherformats: DOTX ODT WORDML DOCX TEXT WORD FLATOPC DOTM DOC RTF DOCM DOT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення POTM в OTT створює багаторазові шаблони тексту OpenDocument, сумісні з LibreOffice Writer та подібними додатками. Ці шаблони зберігають макет, стилі та елементи дизайну для немікрософтових середовищ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Створення шаблонів OTT для офісів з відкритим вихідним кодом за допомогою стилів PowerPoint.
+
+* Перетворення вмісту презентацій на структури шаблонів на основі ODT.
+
+* Використання урядом або сектором громадського сектору відкритих форматів шаблонів.
+
+* Стандарти документування НУО з використанням багаторазових файлів OTT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Автоматизоване створення шаблонів OTT в системах управління відкритим документом.
+
+* Багатоплатформенні конвеєри публікації документів з використанням відкритих форматів.
+
+* Робочі процеси конвертації, які з'єднують екосистеми Microsoft та LibreOffice.
+
+* Великомасштабне інституційне використання шаблонів OTT, похідних від презентацій.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

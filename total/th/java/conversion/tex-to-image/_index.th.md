@@ -57,7 +57,55 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **IMAGE (รูปแบบเราสเตอร์ทั่วไป)** จะแปลงสมการ LaTeX, ตาราง และรูปภาพเป็นรูปแบบภาพที่เข้ากันได้ทั่วไปสำหรับเว็บ พิมพ์ และเอกสารต่าง ๆ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ฝังรูปภาพที่สร้างจาก LaTeX เข้าไปในบล็อกและเว็บไซต์
+
+* เตรียมรูปภาพความละเอียดสูงสำหรับเอกสารวิชาการ
+
+* แบ่งปันแผนภาพในรูปแบบที่อ่านได้ทั่วไป
+
+* แปลงตาราง LaTeX ที่ซับซ้อนเป็นภาพสแนปช็อต
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลง TEX เป็นรูปภาพเป็นชุดใหญ่สำหรับไลบรารีเนื้อหา
+
+* การรวมกับการเผยแพร่อัตโนมัติและขั้นตอนการทำงานของเว็บไซต์
+
+* การอัปเดตที่เรียกใช้สำหรับเนื้อหาการสอนหรือบทเรียนที่ใช้รูปภาพ
+
+* ส่งออกแผนภาพ LaTeX หลายรูปเป็นรูปแบบภาพที่สม่ำเสมอ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

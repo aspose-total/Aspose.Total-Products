@@ -57,7 +57,55 @@ APIを使用すると、必要に応じて出力WMZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**WMZ（圧縮Windowsメタファイル）**に変換すると、スケーラビリティを維持しながら、Eメール、プレゼンテーション、Web統合に最適な圧縮されたベクター画像が提供されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+
+
+* XSLFOで生成されたビジュアルを圧縮添付ファイルとして送信する。
+
+* PowerPointやWordにスケーラブルなグラフィックを埋め込む。
+
+* 圧縮されたベクターレポートのビジュアルをアーカイブする。
+
+* Eメールや内部ポータルを介して運用ダッシュボードを共有する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XSLFOファイルをWMZにバッチ変換してスペース効率の良いストレージにする。
+
+* ビジュアルレポートの定期的な自動圧縮をスケジュールする。
+
+* 定期的なプレゼンテーションワークフローのためのトリガー付きWMZ生成。
+
+* 自動化されたスライドデッキやドキュメントパイプラインへの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

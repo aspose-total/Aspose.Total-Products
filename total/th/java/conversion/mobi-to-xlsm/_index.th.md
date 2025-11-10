@@ -61,7 +61,45 @@ otherformats: ODS XLAM SXC DIF XLS FODS EXCEL XLSM XLT XLTM XLTX XLSX TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ MOBI เป็น XLSM (Macro-Enabled Excel Workbook) ช่วยเสริมความสามารถให้สามารถใช้งานอัตโนมัติโดยตรงใน Excel โดยอนุญาตการจัดการข้อมูล eBook อย่างไดนามิกผ่าน VBA macros ที่ฝังอยู่
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+- การวิเคราะห์แคตตาล็อก MOBI แบบโต้ตอบโดยใช้ Excel macros
+- การติดตามแนวโน้มอัตโนมัติสำหรับการเผยแพร่ดิจิทัล
+- การสร้างแผงควบคุมพิวเว็บสำหรับการวัดค่าการมีส่วนร่วมของผู้อ่าน
+- การสร้างเครื่องมือที่มีพลังงานของ macro สำหรับการจัดการกระบวนการทำงานของบรรณาธิกร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+- การนำเข้า MOBI ตามเงื่อนไขที่กำหนดผ่าน Excel VBA
+- การสร้างรายงานโดยอัตโนมัติหลังจากการแยกวิเคราะห์ MOBI
+- การรวมระบบกับแผงควบคุมการเผยแพร่ที่มีพลังงานของ macro
+- การแปลงจากชุดข้อมูล MOBI ด้วย XLSM ที่ขับเคลื่อนด้วย batch
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

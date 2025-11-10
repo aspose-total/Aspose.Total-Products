@@ -129,7 +129,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **MARKDOWN**'a dönüştürmek, statik belgeleri bloglar, belgelendirme platformları ve sürüm kontrol sistemleriyle uyumlu, kolayca düzenlenebilir bir formata dönüştürür.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Teknik belgeleri GitHub veya GitLab'de yayınlama.
+
+* Raporları blog için hazır içeriğe dönüştürme.
+
+* Notlar ve iç bilgi tabanı girişleri oluşturma.
+
+* Hafif işaretleme kullanan ekipler için işbirlikçi düzenleme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XPS arşivlerinin Markdown'e otomatik dönüşümü, içerik platformları için.
+
+* Hugo veya Jekyll gibi statik site oluşturucularla entegrasyon.
+
+* Tekrar eden belgelendirme için Markdown sürümlerinin zamanlanmış oluşturulması.
+
+* İç bilgi tabanı güncellemeleri için akışkanlaştırılmış iş akışı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

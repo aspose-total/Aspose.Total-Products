@@ -47,7 +47,51 @@ XPSファイルをTSVに変換するときに、出力TSVファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**TSV（タブ区切り値）**に変換すると、特にプログラミング、分析、データベースのインポート/エクスポートシナリオでデータ共有に便利なシンプルで軽量な形式が提供されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用シナリオ" %}}
+
+
+
+* 計算解析のための科学データセット。
+
+* R、Python、または統計ソフトウェアへの簡単なインポート。
+
+* Excelに依存しないチーム間の迅速なデータ交換。
+
+* フラットファイルデータを必要とするWebベースのレポートツール。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 研究室向けの自動化されたXPSからTSVへのパイプライン。
+
+* バッチ処理用の分析スクリプトとの統合。
+
+* 定期的なXPSレポートのためのスケジュール変換。
+
+* データベースやETLワークフローへの簡素な取り込み。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

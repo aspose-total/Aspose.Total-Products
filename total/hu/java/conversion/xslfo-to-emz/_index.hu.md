@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti EMZ-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **EMZ (Enhanced Windows Metafile Compressed)** formátumra magas minőségű vektorgrafikát eredményez tömörítéssel, ideális slide-okhoz és nyomtatásra kész vizuális elemekhez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* XSLFO táblák exportálása skálázható grafikusként prezentációkhoz.
+
+* Pénzügyi vagy működési vizuális elemek beágyazása slide-okba.
+
+* Archiválási képek készítése jelentési vezérlőpulton.
+
+* Vizuális elemek előkészítése asztali kiadási munkafolyamatokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* XSLFO jelentések ütemezett tömeges átalakítása EMZ formátumra.
+
+* Integráció automatizált jelentési csatornákba.
+
+* EMZ képek kiváltott létrehozása slide-okba ágyazáshoz.
+
+* XSLFO vezérlőpultok valós idejű átalakítása tömörített vektorgrafikákká.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

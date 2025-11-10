@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**PPS（PowerPoint Show）**に変換すると、会議、トレーニング、またはキオスク用の自己実行型プレゼンテーションファイルを作成できます。PPSは、スライドショー モードで直接開いてもフォーマットを保持します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 自己実行型の企業概要プレゼンテーションの配布。
+
+* XSLFOデータからの自動化されたトレーニングやオンボーディングスライドの準備。
+
+* 展示会向けのインタラクティブなマーケティングコンテンツの共有。
+
+* 管理レビュー用に視覚的に魅力的なKPIダッシュボードの生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XSLFOからPPSファイルへのスケジュールされた一括変換。
+
+* 自動化されたスライドショー配布ワークフローへの統合。
+
+* XSLFOレポートからPPSデッキのトリガー生成。
+
+* 定期的な会議用に自動更新される自己実行型プレゼンテーションの作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

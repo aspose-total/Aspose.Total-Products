@@ -57,7 +57,51 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **IMAGE (รูปแบบแบบราสเตอร์ทั่วไป)** ให้ผลลัพธ์ที่หลากหลายสำหรับเว็บ พิมพ์ และแอปพลิเคชันบนเดสก์ท็อป รูปแบบที่รองรับสามารถเป็น PNG, BMP หรือ TIFF ขึ้นอยู่กับความต้องการ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* สร้างภาพสถิติจากตาราง XSLFO โครงสร้าง
+
+* เตรียมกราฟิกสำหรับแดชบอร์ดรายงานหรือเอกสาร
+
+* ส่งออกแผนภูมิและตารางสำหรับแอปมือถือหรือ e-learning
+
+* สร้างเอกสารรูปแบบราสเตอร์ของรายงานที่เกิดซ้ำ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลงกลุ่มรายงาน XSLFO เป็นหลายรูปแบบภาพ
+
+* การผสานรวมกับกระบวนการสร้างแดชบอร์ดอัตโนมัติ
+
+* ส่งออกที่เรียกใช้งานสำหรับการส่งมอบรายงานตามกำหนด
+
+* การสร้างภาพโดยอัตโนมัติสำหรับ e-learning หรือแพลตฟอร์มเว็บ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

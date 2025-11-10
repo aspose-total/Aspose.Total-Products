@@ -135,7 +135,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX thành **PPTM (PowerPoint Macro-Enabled Presentation)** cho phép tạo ra các slide tương tác hoàn toàn từ LaTeX, bao gồm các macro cho các tính toán tự động, biểu đồ động và tài liệu giảng dạy tương tác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Bài giảng học thuật tương tác với các phương trình LaTeX.
+
+* Bảng điều khiển doanh nghiệp và mẫu trình bày nghiên cứu.
+
+* Slide seminar tự động với cập nhật dữ liệu thời gian thực.
+
+* Trình bày workshop với tương tác do macro điều khiển.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi Batch TEX thành PPTM cho các bộ slide tương tác.
+
+* Tích hợp vào các hệ thống tự động doanh nghiệp hoặc trường đại học.
+
+* Tạo ra các bản trình bày có macro được kích hoạt.
+
+* Cập nhật định kỳ từ các kho LaTeX cho các dự án đa tác giả.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

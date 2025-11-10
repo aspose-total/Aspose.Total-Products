@@ -57,7 +57,55 @@ API'yi kullanarak, çıktı PSD görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **PSD (Adobe Photoshop)** 'e dönüştürülmesi, grafik tasarımcıların katmanlar ve gelişmiş efektlerle XSLFO tarafından oluşturulan tabloları ve görselleri düzenlemelerine olanak tanır. PSD çıktısı, pazarlama veya sunum görselleri için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* XSLFO grafiklerini katmanlı Photoshop tasarımlarına dönüştürme.
+
+* Pazarlama materyalleri için rapor görsellerini özelleştirme.
+
+* Profesyonel sunumlar için yapılandırılmış XSLFO tablolarını düzenleme.
+
+* Geliştirilmiş stil ile infografikler hazırlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tasarım iş akışları için XSLFO raporlarının PSD'ye otomatik olarak dönüştürülmesi.
+
+* Toplu Photoshop işleme boru hatlarıyla entegrasyon.
+
+* Tekrar eden görsel raporlar için zamanlanmış dönüşüm.
+
+* Yaratıcı pazarlama panoları için tetiklenmiş PSD oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **PPSX(매크로 없는 PowerPoint Show)**로 변환하면 LaTeX 콘텐츠가 포함된 안전하고 여러 플랫폼에서 공유할 수 있는 프레젠테이션을 생성합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 매크로 보안 위험이 없는 학술 강의 배포용.
+
+* LaTeX 스타일의 테이블이 포함된 기업이나 교육용 프레젠테이션.
+
+* 수식이 풍부한 다이어그램이 포함된 재사용 가능한 회의 슬라이드.
+
+* 기술적인 슬라이드의 다중 플랫폼 공유.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 일괄 LaTeX-to-PPSX 변환.
+
+* 강의나 교육 슬라이드의 자동 생성.
+
+* LMS나 기업 프레젠테이션 시스템과 통합.
+
+* 협업 학술 프로젝트용 트리거 슬라이드 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

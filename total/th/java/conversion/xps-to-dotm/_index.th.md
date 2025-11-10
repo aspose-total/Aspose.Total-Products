@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XPS เป็น **DOTM (Word Macro-Enabled Template)** รวมความมีประสิทธิภาพของเทมเพลตพร้อมกับการอัตโนมัติของแมโคร องค์กรสามารถรักษาเลเอาท์เอกสารที่สม่ำเสมอในขณะที่อัตโนมัติงานที่ซ้ำซ้อนโดยตรงใน Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* เทมเพลตใบแจ้งหนี้และรายงานพร้อมแมโครที่คำนวณอัตโนมัติ
+
+* เทมเพลตแบบฟอร์มทางกฎหมายที่เติมข้อมูลของลูกค้าโดยอัตโนมัติ
+
+* เทมเพลตวางแผนโครงการพร้อมแมโครแบบอินเทอร์แอคทีฟสำหรับการติดตามงาน
+
+* เทมเพลตเอชอาร์ที่อัตโนมัติการอนุมัติและการแจ้งเตือน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การสร้างเทมเพลตที่มีแมโครที่มีมาตรฐานจำนวนมากจากแหล่ง XPS
+
+* การรวมเข้ากับระบบ ERP เพื่อการสร้างเอกสารโดยอัตโนมัติ
+
+* การอัพเดตเทมเพลตโดยอัตโนมัติเมื่อไฟล์ XPS ต้นฉบับเปลี่ยนแปลง
+
+* การทำงานของกระบวนการรายงานโดยอัตโนมัติโดยใช้เทมเพลต DOTM
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -129,7 +129,55 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XPS naar **RTF (Rich Text Format)** zorgt voor maximale compatibiliteit met de meeste tekstverwerkers, met behoud van basisopmaak, waardoor het ideaal is voor het delen van documenten in diverse softwareomgevingen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Eenvoudige rapportconversie voor gemakkelijke distributie.
+
+* Juridische correspondentie die universele formatondersteuning vereist.
+
+* Educatieve opdrachten die compatibel zijn met meerdere platforms.
+
+* Archivering van legacy-documenten in een breed leesbaar formaat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchconversie van XPS-bestanden naar RTF voor universele toegang.
+
+* Integratie met geautomatiseerde contentbeheersystemen.
+
+* Vereenvoudigd delen in gemengde bedrijfsomgevingen.
+
+* Conversiepijplijnen voor migratie van legacy-documenten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

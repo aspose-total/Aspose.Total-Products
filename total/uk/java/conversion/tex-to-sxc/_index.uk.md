@@ -102,7 +102,51 @@ otherformats: CSV TXT XLTM MD FODS XLSM XLT DIF ODS EXCEL XLSB XLTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення TEX на **SXC (таблиця StarOffice Calc)** дозволяє користувачам старіших версій OpenOffice або StarOffice працювати з даними у вигляді LaTeX без втрати структури.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Історичні набори даних LaTeX у форматі, сумісному з StarOffice.
+
+* Академічні дослідження, які вимагають сумісності зі старим офісним програмним забезпеченням.
+
+* Крос-платформенний обмін числовими таблицями LaTeX.
+
+* Звіти про проекти у форматі SXC для старіших офісних систем.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Заплановані пакетні конвертації наборів даних LaTeX.
+
+* Інтеграція в робочі процеси старих офісних систем.
+
+* Архівування структурованих таблиць LaTeX для забезпечення неперервності досліджень.
+
+* Генерація SXC за вимогою для спільних проектів.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

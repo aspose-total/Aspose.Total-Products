@@ -135,7 +135,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XSLFO naar **PPS (PowerPoint Show)** maakt het mogelijk om zelfstandig draaiende presentatiebestanden te maken voor vergaderingen, trainingen of kiosken. PPS behoudt de opmaak terwijl het direct wordt geopend in diavoorstellingsmodus.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Verspreiden van zelfstandig draaiende bedrijfsoverzichtpresentaties.
+
+* Voorbereiden van geautomatiseerde trainingen of inwerkingsdia's op basis van XSLFO-gegevens.
+
+* Delen van interactieve marketinginhoud voor beurzen.
+
+* Genereren van visueel aantrekkelijke KPI-dashboards voor managementbeoordeling.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geplande batchconversie van XSLFO naar PPS-bestanden.
+
+* Integratie in geautomatiseerde diavoorstellingsdistributieworkflows.
+
+* Getriggerde generatie van PPS-decks vanuit XSLFO-rapporten.
+
+* Automatisch bijwerken van zelfstandig draaiende presentaties voor terugkerende vergaderingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,51 @@ Konwertując plik TEX na ODS, możesz także dodać znak wodny do wyjściowego f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja TEX na **ODS (OpenDocument Spreadsheet)** pozwala użytkownikom wykorzystać treści LaTeX w edytowalnych arkuszach kalkulacyjnych do analizy i projektów współpracy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Badania akademickie złożonych tabel numerycznych.
+
+* Arkusze śledzenia finansowego lub projektowego typu open-source.
+
+* Obliczenia inżynieryjne wymagające kompatybilności z wieloma platformami.
+
+* Dzielenie się tabelami LaTeX w formacie ODS w ramach projektów edukacyjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersje wsadowe TEX na ODS dla laboratoriów uniwersyteckich.
+
+* Integracja z otwartymi przepływami danych.
+
+* Automatyczne raportowanie danych numerycznych generowanych przez LaTeX.
+
+* Generowanie plików ODS w trybie wyzwalanym dla środowisk wielu użytkowników.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

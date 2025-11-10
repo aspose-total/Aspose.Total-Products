@@ -47,7 +47,51 @@ TEX 파일을 TSV로 변환하는 동안 출력 TSV 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **TSV (탭으로 구분된 값)**로 변환하면 숫자 및 텍스트 LaTeX 데이터에 대한 대체 경량 형식을 제공하여 분석 및 소프트웨어 가져오기에 적합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 통계 분석을 위해 내보낸 학술 실험 테이블.
+
+* Python, R 또는 MATLAB용 엔지니어링 데이터 세트.
+
+* 분석 플랫폼을 위해 변환된 금융 LaTeX 테이블.
+
+* 팀간의 경량 LaTeX 데이터 공유.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 연구 파이프라인에서 일괄 TEX-to-TSV 변환.
+
+* AI 모델을 위한 LaTeX 표 데이터의 자동 내보내기.
+
+* 협업 분석 대시보드를 위한 실시간 TSV 생성.
+
+* 구조화된 데이터 세트를 위한 ETL 파이프라인 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

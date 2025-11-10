@@ -57,7 +57,49 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **EMZ (Compressed Windows Metafile)** ช่วยให้กราฟิกเวกเตอร์ของ LaTeX ถูกสงวนไว้ในรูปแบบที่ถูกบีบอัดเหมาะสำหรับงานนำเสนอ เอกสาร และการพิมพ์ทางเทคนิค
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ฝังไดอะแกรม LaTeX เข้ากับเอกสาร Microsoft Office
+* สงวนกราฟิกเวกเตอร์สำหรับรายงานทางเทคนิค
+* แผนภาพ LaTeX ที่ใช้ซ้ำได้สำหรับการพิมพ์เอกสารอาชีพ
+* กราฟิกที่ถูกบีบอัดสำหรับ PDF ทางวิชาการ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การบีบอัดแบบกลุ่มและแปลงสำหรับคลังเอกสาร
+* การผสานเข้ากับการทำงานอัตโนมัติ
+* การสร้าง EMZ ตามเหตุการณ์สำหรับสไลด์เดคหรือรายงาน
+* เก็บไว้ในรูปแบบบีบอัดสำหรับการกระจายได้ง่าย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -105,7 +105,51 @@ otherformats: DXF WMZ WMF TGA EMZ JPEG2000 SVGZ PSD  APNG DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення TEX на **ЗОБРАЖЕННЯ (загальні растрові формати)** перетворює рівняння, таблиці та малюнки LaTeX у універсально сумісні формати зображень для вебу, друку та документації.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Вбудовування малюнків, згенерованих LaTeX, у блоги та веб-сайти.
+
+* Підготовка зображень високої роздільної здатності для наукових статей.
+
+* Обмін діаграмами в універсальних читабельних форматах.
+
+* Перетворення складних таблиць LaTeX у знімки зображень.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетне перетворення TEX на зображення для бібліотек контенту.
+
+* Інтеграція з автоматизованими процесами публікації та веб-сайтів.
+
+* Автоматичне оновлення для змісту лекцій або навчального матеріалу на основі зображень.
+
+* Експорт кількох діаграм LaTeX у послідовні формати зображень.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

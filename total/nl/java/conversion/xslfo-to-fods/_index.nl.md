@@ -47,7 +47,55 @@ Tijdens het converteren van het XSLFO-bestand naar FODS, kunt u ook een watermer
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het converteren van XSLFO-bestanden naar het **FODS (Flat OpenDocument Spreadsheet)** formaat ondersteunt open-source kantoorpakketten zoals LibreOffice en OpenOffice. FODS maakt lichte, bewerkbare op XML gebaseerde spreadsheets mogelijk die geschikt zijn voor samenwerkingsomgevingen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Delen van met XSLFO gegenereerde budgetoverzichten met gebruikers van open-source kantoorpakketten.
+
+* Archiveren van rapporten in een open, gestandaardiseerd spreadsheetformaat.
+
+* Voorbereiden van projectvolgoverzichten voor samenwerking op verschillende platforms.
+
+* Het omzetten van technische XSLFO-tabellen naar bewerkbare FODS-spreadsheets.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchconversie van XSLFO naar FODS voor open-source rapportagepijplijnen.
+
+* Integratie in documentbeheersystemen die FODS ondersteunen.
+
+* Geplande export voor samenwerkingsprojectdashboards.
+
+* Automatische conversie van XSLFO-analyserapporten naar FODS-formaat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

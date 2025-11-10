@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO 파일을 **POT (PowerPoint 템플릿)**으로 변환하면 Microsoft PowerPoint 사용자를 위한 표준화된 재사용 가능한 슬라이드가 생성됩니다. POT 템플릿은 슬라이드 레이아웃, 스타일 및 표 형식을 보존합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* XSLFO 금융 요약에서 기업 보고서 템플릿 생성.
+
+* 일관된 프로젝트 추적 슬라이드를 위한 매월 준비.
+
+* 구조화된 XSLFO 데이터에서 교육 모듈 디자인.
+
+* 미리 정의된 슬라이드 레이아웃을 사용하여 재사용 가능한 투자자 피치 덱 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XSLFO 보고서로부터 POT 파일의 일괄 자동 생성.
+
+* 반복되는 팀 프레젠테이션을 위한 예약된 템플릿 생성.
+
+* 기업 슬라이드 자동화 파이프라인과의 통합.
+
+* XSLFO 데이터를 사용 준비된 POT 템플릿으로 변환하는 트리거.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

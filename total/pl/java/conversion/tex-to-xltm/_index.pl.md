@@ -47,7 +47,51 @@ Konwertując plik TEX na XLTM, możesz także dodać znak wodny do wyjściowego 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **XLTM (Excel Macro-Enabled Template)** łączy w sobie szablony do wielokrotnego użytku z makrami, umożliwiając zautomatyzowane przepływy danych LaTeX oraz dynamiczne raportowanie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Szablony akademickie z wbudowanymi makrami do automatycznego oceniania.
+
+* Szablony finansowe i inżynieryjne zasilane zestawami danych LaTeX.
+
+* Dynamiczne panele sterowania z obliczeniami sterowanymi makrami.
+
+* Szablony projektów współpracy dla zespołów wielu autorów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Generowanie wsadowe szablonów LaTeX-to-XLTM dla przedsiębiorstw.
+
+* Automatyczne wypełnianie makr z źródeł danych LaTeX.
+
+* Integracja z automatyzacją przepływu pracy dla projektów badawczych.
+
+* Tworzenie szablonów z makrami uruchamianymi dla dostępu wielu użytkowników.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

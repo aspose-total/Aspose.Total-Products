@@ -135,7 +135,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file TEX ke **XAML (Extensible Application Markup Language)** memungkinkan konten LaTeX, formula, dan diagram digunakan dalam aplikasi WPF, UWP, dan berbasis .NET, menjaga grafik vektor dan format teks.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Kunci" %}}
+
+
+
+* Menanamkan diagram dan persamaan yang dihasilkan oleh LaTeX dalam aplikasi desktop.
+
+* Membuat elemen UI interaktif dengan visual ilmiah atau matematika.
+
+* Aplikasi teknis menampilkan grafik dinamis dari sumber LaTeX.
+
+* Perangkat lunak pendidikan mengintegrasikan formula LaTeX dengan mulus.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch TEX ke XAML untuk beberapa komponen UI.
+
+* Integrasi ke dalam pipa proyek WPF atau UWP otomatis.
+
+* Generasi dipicu visual berbasis LaTeX untuk aplikasi .NET.
+
+* Pembaruan terjadwal untuk perangkat lunak pendidikan multi-modul.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

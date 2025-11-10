@@ -57,7 +57,55 @@ Usando a API, você também pode girar a imagem DXF de saída conforme suas nece
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter XSLFO para **DXF (Drawing Exchange Format)** preserva layouts tabulares baseados em vetores para uso em CAD e aplicações de design técnico. Arquivos DXF mantêm dimensões precisas e estruturas de layout.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Converter relatórios de engenharia gerados por XSLFO em formatos amigáveis para CAD.
+
+* Arquivar tabelas estruturadas como desenhos vetoriais para documentação técnica.
+
+* Integrar layouts operacionais em software de design.
+
+* Gerar diagramas técnicos a partir de relatórios XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de XSLFO para DXF para fluxos de trabalho de documentação de engenharia.
+
+* Exportação programada de tabelas de relatórios estruturados como DXF para revisão de design.
+
+* Integração com pipelines de relatórios automatizados baseados em CAD.
+
+* Conversão acionada de dados XSLFO em desenhos DXF para equipes técnicas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

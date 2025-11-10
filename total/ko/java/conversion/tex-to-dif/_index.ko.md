@@ -47,7 +47,51 @@ TEX 파일을 DIF로 변환하는 동안 출력 DIF 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **DIF (데이터 교환 형식)**으로 변환하면 LaTeX 표 데이터를 오래된 스프레드시트 프로그램 및 전문적인 과학 도구와 함께 사용할 수 있으면서도 구조와 정확성을 유지할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 레거시 금융 소프트웨어로 LaTeX 기반 숫자 테이블 가져오기.
+
+* DIF 호환 도구로 공학 계산 공유.
+
+* 학술 출판을 위한 구조화된 데이터 보존.
+
+* LaTeX 데이터 세트를 열린 교환 형식으로 보관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* LaTeX 프로젝트 데이터에서 일괄적인 DIF 생성.
+
+* 과학 데이터 파이프라인 통합.
+
+* 연구 실험 결과의 자동 아카이빙.
+
+* 지속적인 보고 시스템을 위한 예약된 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

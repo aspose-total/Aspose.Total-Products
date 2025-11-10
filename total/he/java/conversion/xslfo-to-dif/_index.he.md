@@ -102,7 +102,55 @@ otherformats: TSV XLAM XLSM CSV XLTX EXCEL XLTM MD SXC FODS ODS TXT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי XSLFO ל־**DIF (תבנית התנגדות נתונים)** מבטיחה תאימות עם יישומי גליון נתונים ישנים ומערכות נתונים מורשות. DIF שומרת תוכן טבלאי מובנה תוך תמיכה בניידות נתונים בין פלטפורמות שונות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* העברת רשומות מכירות היסטוריות למערכות גליון נתונים מורשות.
+
+* ארכיבה של דוחות שנוצרו ב-XSLFO לצורכי תאימות רגולטוריים.
+
+* תמיכה בהחלפת נתונים בין תוכנות לתכנון עסקיות באמצעות פורמט DIF.
+
+* הכנת מדדי שיווק לניתוח צפייה חוצה פלטפורמות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה צפונית של דוחות ביצועים חודשיים ב-XSLFO לפורמט DIF.
+
+* שילוב במערכות ERP מורשות הדורשות קלט בפורמט DIF.
+
+* עדכונים מתוזמנים של קבוצות נתונים בפורמט DIF לצורך ניתוח מגמות היסטורי.
+
+* המרה מופעלת מ-XSLFO ל-DIF בצינורות דיווח אוטומטיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

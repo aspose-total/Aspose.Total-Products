@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 DICOM 이미지를 회전할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **DICOM (의료용 영상 및 통신 규약)**으로 변환하면 문서 시각 자료를 의료 영상 시스템에 통합하여 임상 응용을 위한 고해상도 세부 정보를 보존할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 의료 보고서를 방사선 영상 워크플로에 포함.
+
+* 환자 스캔과 진단 문서를 함께 보관.
+
+* 보고서를 위해 DICOM 호환성이 필요한 병원 시스템.
+
+* 임상 문서 이미지를 통합하는 원격 의료 플랫폼.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 병원 기록 시스템을 위한 일괄 XPS-to-DICOM 변환.
+
+* PACS (영상 아카이빙 및 통신 시스템)와의 자동 통합.
+
+* 환자 기록 이미지를 위한 예약된 업데이트.
+
+* 의료 영상 데이터 처리를 위한 간소화된 워크플로.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

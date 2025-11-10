@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **SWF (Shockwave Flash)**로 변환하면 교육 플랫폼과 온라인 프레젠테이션에 적합한 대화형 LaTeX 애니메이션을 만들 수 있지만 주로 레거시 시스템을 위한 것입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LaTeX 기반의 애니메이션화된 튜토리얼 및 시각화.
+
+* 레거시 플랫폼용 대화형 교육 모듈.
+
+* 반복적인 계산 또는 알고리즘 시연 공유.
+
+* 기술적인 전자 학습 콘텐츠의 동적 다이어그램.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 레거시 콘텐츠 라이브러리를 위한 일괄 TEX-to-SWF 변환.
+
+* 오프라인 전자 학습 플랫폼 통합.
+
+* 대화형 LaTeX 시퀀스를 위한 트리거된 SWF 생성.
+
+* 애니메이션화된 튜토리얼의 예약된 업데이트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 WMZ 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **WMZ (압축된 Windows Metafile)**로 변환하면 압축된 벡터 이미지를 제공하여 이메일, 프레젠테이션 및 웹 통합에 이상적이며 확장 가능성을 유지합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* XSLFO로 생성된 시각 자료를 압축 첨부 파일로 전송.
+
+* PowerPoint 및 Word에 확장 가능한 그래픽 삽입.
+
+* 압축된 벡터 보고서 시각 자료 보관.
+
+* 이메일이나 내부 포털을 통해 운영 대시보드 공유.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XSLFO 파일을 WMZ로 일괄 변환하여 공간 효율적인 저장.
+
+* 시각 자료의 예약 자동 압축.
+
+* 반복적인 프레젠테이션 워크플로우를 위한 트리거된 WMZ 생성.
+
+* 자동화된 슬라이드 덱 및 문서 파이프라인 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

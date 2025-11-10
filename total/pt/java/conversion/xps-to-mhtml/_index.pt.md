@@ -129,7 +129,55 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter XPS para **MHTML (MIME HTML)** permite empacotar o documento inteiro, incluindo imagens, texto e estilos, em um único arquivo pronto para web, ideal para arquivar ou compartilhar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Arquivar documentos XPS em um formato compatível com a web.
+
+* Compartilhar relatórios completos por e-mail sem anexos externos.
+
+* Publicar conteúdo XPS em portais web internos.
+
+* Documentação baseada na web para uso corporativo ou acadêmico.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão automatizada em lote de XPS para MHTML para arquivos empresariais.
+
+* Geração agendada de versões de documentos prontos para web.
+
+* Integração com sistemas de intranet para distribuição interna.
+
+* Fluxo de trabalho simplificado para arquivamento digital de relatórios e manuais.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

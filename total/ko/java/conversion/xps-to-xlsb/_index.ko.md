@@ -47,7 +47,51 @@ XPS 파일을 XLSB로 변환하는 동안 출력 XLSB 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+대규모 데이터 세트의 성능을 향상시키기 위해 XPS를 **XLSB(Excel Binary Workbook)**로 변환하면 모든 스프레드시트 기능을 보존하면서 간결하고 빠르게 로드되는 이진 형식을 사용합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 효율적인 처리가 필요한 대규모 금융 또는 영업 데이터 세트.
+
+* 복잡한 수식을 갖는 공학 및 과학 데이터 세트.
+
+* 대량 데이터 입력이 있는 대화형 대시보드.
+
+* 차트 및 피벗 테이블이 포함된 기업 보고서.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 고성능 분석을 위한 일괄 XPS에서 XLSB로 변환.
+
+* 정적 XPS 데이터에서 대시보드 자동 생성.
+
+* 반복 보고를 위한 예약된 XLSB 업데이트.
+
+* 빠르게 로드되는 스프레드시트가 필요한 BI 시스템 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

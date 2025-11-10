@@ -57,7 +57,55 @@ Med hjälp av API:t kan du också rotera den utgående TGA-bilden enligt dina be
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertera XPS till **TGA (Targa Image File)** ger högkvalitativa rasterbilder lämpliga för professionell grafik och videoproduktion.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Högkvalitativa visuella element för video- och multimediaprojekt.
+
+* Spelutformningsresurser härledda från XPS-diagram.
+
+* Tekniska illustrationer som kräver förlustfria rasterbilder.
+
+* Företagsgrafik för presentation eller arkivering.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Batch XPS-till-TGA-konverteringspipeliner.
+
+* Schemalagd skapande för arbetsflöden för multimediaproduktion.
+
+* Integration med grafikredigerings- och videoprogramvara.
+
+* Automatiserad bearbetning av tekniska eller designvisuella element.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

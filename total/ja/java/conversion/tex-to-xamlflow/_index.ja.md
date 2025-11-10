@@ -144,7 +144,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**XAMLFLOW**に変換すると、LaTeXコンテンツをビジュアルワークフロー、ダッシュボード、インタラクティブアプリケーションに適したXAMLマークアップに変換できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* LaTeXで生成された方程式を含むビジュアルワークフローダイアグラム。
+
+* 数学的な視覚要素を備えたリアルタイムデータを表示するインタラクティブダッシュボード。
+
+* 構造化されたLaTeXコンテンツを表示する技術やエンジニアリングアプリケーション。
+
+* UI内でLaTeXフローとダイアグラムを統合した教育ツール。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* ダッシュボードコンポーネント向けのバッチTEXからXAMLFLOWへの変換。
+
+* 自動化されたデータ可視化とワークフローパイプラインへの統合。
+
+* フローベースのアプリケーション内でのインタラクティブLaTeXダイアグラムのトリガー更新。
+
+* マルチユーザープラットフォーム向けのLaTeXベースのXAMLフローの定期的な生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

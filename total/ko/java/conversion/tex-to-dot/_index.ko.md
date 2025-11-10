@@ -143,7 +143,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX 파일을 **DOT(Word 문서 템플릿)**으로 변환하면 LaTeX 서식을 활용하여 기업이나 교육용 재사용 가능한 Word 템플릿을 작성할 수 있습니다. 이를 통해 공식 보고서와 전문 문서의 일관성을 유지할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LaTeX 스타일 타이포그래피를 사용한 회사 문서머리글 및 제안서 템플릿.
+
+* 대학을 위한 표준화된 학술 또는 시험 템플릿.
+
+* 전문적인 이력서 및 이력서 템플릿.
+
+* 엔지니어 및 연구원을 위한 프로젝트 문서 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 일괄 보고서 작성을 위한 템플릿 자동 생성.
+
+* 교육 기관에서 문서 자동화 소프트웨어와의 통합.
+
+* 브랜딩 일관성을 위해 LaTeX 저장소에서의 트리거된 템플릿 업데이트.
+
+* 엔지니어링 프로젝트를 위한 동적 템플릿 라이브러리 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

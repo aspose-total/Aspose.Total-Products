@@ -57,7 +57,51 @@ Met behulp van de API kunt u ook de uitgevoerde WMZ-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XPS naar **WMZ (Gecomprimeerd Windows Metafile)** maakt compacte vectorafbeeldingen mogelijk die geschikt zijn voor distributie, presentaties en technische documentatie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Gecomprimeerde diagrammen voor presentaties en e-mails.
+
+* Technische illustraties voor handleidingen en gidsen.
+
+* Marketingmateriaal met schaalbare afbeeldingen.
+
+* Archivering van documenten met veel vectoren in compacte vorm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchconversie van XPS naar WMZ voor documentdistributie.
+
+* Integratie met contentmanagementsystemen.
+
+* Geplande generatie van gecomprimeerde vectorbestanden.
+
+* Gestroomlijnde verwerking voor presentaties of marketinginhoud.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

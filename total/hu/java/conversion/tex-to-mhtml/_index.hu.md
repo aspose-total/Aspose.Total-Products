@@ -144,7 +144,55 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **MHTML (MIME HTML)** formátumba való átalakítása lehetővé teszi, hogy a LaTeX dokumentumokat egyetlen fájlként jelenítsék meg weboldalon, megőrizve az egyenleteket, táblázatokat és grafikákat offline vagy online megtekintéshez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* LaTeX kutatási cikkek archiválása önálló weboldalak formájában.
+
+* LaTeX alapú jelentések megosztása beágyazott grafikákkal és egyenletekkel.
+
+* Interaktív előadási anyagok létrehozása egyetlen MHTML fájlban.
+
+* Műszaki tartalom átalakítása offline e-learning modulokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges TEX-MHTML konverzió kurzusműkönyvtárakhoz.
+
+* Integráció automatizált e-learning tartalom létrehozásába.
+
+* Időzített MHTML frissítések LaTeX forrásokból.
+
+* Kiváltott konverzió kutatási publikációk megosztásához.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

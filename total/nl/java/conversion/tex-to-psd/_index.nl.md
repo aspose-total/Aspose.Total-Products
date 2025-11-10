@@ -57,7 +57,51 @@ Met behulp van de API kunt u ook de uitgevoerde PSD-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **PSD (Photoshop-document)** maakt het mogelijk om LaTeX gegenereerde visuals volledig bewerkbaar te maken in Adobe Photoshop voor hoogwaardig ontwerp en nabewerking.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het bewerken van LaTeX-diagrammen voor presentaties en posters.
+
+* Het voorbereiden van grafische afbeeldingen die gereed zijn voor publicatie met Photoshop-verbeteringen.
+
+* Het aanpassen van educatieve of trainingsvisuals.
+
+* Het maken van visueel aantrekkelijke figuren voor marketing- of academisch gebruik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch TEX-naar-PSD conversie voor ontwerpteams.
+
+* Integratie met geautomatiseerde grafische ontwerpworkflows.
+
+* Getriggerde PSD-creatie voor het genereren van posters of infographics.
+
+* Bewerkbare LaTeX-diagram export voor meerlaagse Photoshop-bewerking.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

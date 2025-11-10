@@ -144,7 +144,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX konvertálása **XAMLFLOW**-ra lehetővé teszi a LaTeX tartalom átalakítását az áramlathoz kompatibilis XAML jelölésbe a vizuális folyamatokhoz, vezérlőpultokhoz és interaktív alkalmazásokhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Vizuális folyamatábrák LaTeX által generált egyenletekkel.
+
+* Interaktív vezérlőpultok valós idejű adatokkal matematikai vizuális elemekkel.
+
+* Műszaki vagy mérnöki alkalmazások strukturált LaTeX tartalmának megjelenítése.
+
+* Oktatási eszközök integrálása LaTeX folyamatokkal és ábrákkal az UI-ban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Batch TEX-XAMLFLOW konverzió a vezérlőpult komponenseihez.
+
+* Integráció automatizált adatvizualizációs és folyamatcsővezetékekbe.
+
+* Kiváltott frissítések interaktív LaTeX ábrákhoz az áramlatalapú alkalmazásokban.
+
+* Ütemezett LaTeX alapú XAML folyamatok generálása többfelhasználós platformokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

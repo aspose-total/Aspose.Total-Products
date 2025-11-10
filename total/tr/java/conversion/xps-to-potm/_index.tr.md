@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **POTM (Makro Etkin PowerPoint Şablonu)**'na dönüştürmek, tekrar kullanılabilir şablonları otomasyonla birleştirerek, gömülü makroları yürütebilen gelişmiş sunumlar için etkileşimli slayt destekleri sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Otomatik grafik güncellemeleriyle kurumsal şablonlar.
+
+* Gömülü makrolara sahip etkileşimli eğitim sunumları.
+
+* Slaytlarda dinamik veri güncellemeleri gerektiren finansal gösterge panoları.
+
+* PowerPoint tabanlı raporlama içinde iş akışı otomasyonu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XPS dosyalarının makro etkin şablonlara otomatik dönüştürülmesi.
+
+* Slayt içeriğini dinamik olarak beslemek için Excel veya veritabanı kaynaklarıyla entegrasyon.
+
+* Makro etkin sunum şablonlarının zamanlanmış oluşturulması.
+
+* Kurumsal toplantılar için etkileşimli gösterge panolarının hızlı bir şekilde oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

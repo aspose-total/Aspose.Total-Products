@@ -102,7 +102,45 @@ otherformats: XLSM SXC ODS XLTM EXCEL MD XLT TXT CSV FODS XLTX DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל־**XLAM (תוסף מאקרו של Excel)** מאפשרת לטבלאות ולנוסחאות של LaTeX להפוך לכלים אינטראקטיביים ב-Excel עם חישובים אוטומטיים ופונקציונליות משופרת.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* תבניות למודלים פיננסיים המופעלות על ידי LaTeX.
+* כלים לחישובים אוטומטיים לפרויקטים הנדסיים.
+* גליונות נוסחאות אקדמיים מוטבעים במאקרוס של Excel.
+* לוחות מחיקת נתונים המשלבים בין LaTeX ואוטומציה ב-Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירה אוטומטית של תוספי XLAM ממערכות נתונים של LaTeX.
+* המרות LaTeX-to-XLAM בצורה צפופה לכלים עסקיים.
+* גישה לגליונות אלקטרוניים פעילים במאקרו ממאגרי מחקר.
+* שילוב בדיווחים אוטומטיים ובצינורות לוחות מחיקה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

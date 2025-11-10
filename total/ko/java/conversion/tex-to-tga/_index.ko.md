@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 TGA 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **TGA (Targa Image)**로 변환하면 그래픽 집중적인 응용 프로그램, 과학 시각화 및 디지털 아트를 위한 LaTeX로 생성된 도형의 고품질 래스터 내보내기가 가능해집니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 고품질 과학 일러스트.
+
+* 그래픽 편집을 위한 LaTeX로 생성된 다이어그램.
+
+* 애니메이션 및 시뮬레이션 워크플로에 시각 자료 준비.
+
+* 손실 없는 이미지 품질이 필요한 디지털 출판.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 연구 시각화 파이프라인을 위한 일괄 TEX-to-TGA 내보내기.
+
+* 그래픽 처리 및 시뮬레이션 도구 통합.
+
+* LaTeX 콘텐츠로부터 고품질 이미지 자동 생성.
+
+* 그래픽 팀을 위한 TGA에 다이어그램 자동 보관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

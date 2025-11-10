@@ -143,7 +143,55 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX 파일을 **DOTM (Word Macro-Enabled Template)**으로 변환하면 매크로 기능이 있는 재사용 가능한 템플릿이 제공됩니다. 자동화된 워크플로에 이상적이며, LaTeX의 정밀 조판과 Word의 자동화 기능을 연결합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 학술 저널을 위한 자동 제출 템플릿.
+
+* 동적 콘텐츠 생성이 가능한 재사용 가능한 기술 보고서 템플릿.
+
+* 연구실이나 연구 데이터 입력을 위한 매크로 기능이 있는 양식.
+
+* 다중 저자 협업을 위한 LaTeX 기반 Word 템플릿 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* LaTeX 입력 스트림에서 트리거된 실시간 문서 생성.
+
+* Word 기반 기업 문서 자동화 파이프라인 통합.
+
+* 협업 연구 프로젝트를 위한 일괄 템플릿 업데이트.
+
+* 엔지니어링 팀을 위한 매크로 기능이 있는 프로젝트 문서 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

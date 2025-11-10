@@ -135,7 +135,55 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av XSLFO till **POWERPOINT (PPTX)** ger fullt formaterade, redigerbara slides lämpliga för Microsoft PowerPoint. PPTX-formatet säkerställer kompatibilitet med avancerade designfunktioner, diagram och multimedia.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* Omvandla XSLFO-årsrapporter till visuellt engagerande PowerPoint-slides.
+
+* Förbereda ledningspaneler och KPI-presentationer.
+
+* Skapa utbildningsinnehåll eller träningsmaterial från strukturerade XSLFO-tabeller.
+
+* Dela XSLFO-genererade slides med företagets intressenter.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Schemalagd batchkonvertering från XSLFO till PPTX för återkommande rapporter.
+
+* Integration med automatisk skapande av slides och analyspaneler.
+
+* Utlöst transformation av XSLFO-data till interaktiva PowerPoint-deck.
+
+* Realtids-PPTX-generering för styrelsemötespresentationer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

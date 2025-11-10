@@ -57,7 +57,51 @@ Met behulp van de API kunt u ook de uitgevoerde TGA-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XSLFO naar **TGA (Targa-afbeelding)** levert hoogwaardige rasterafbeeldingen op die vaak worden gebruikt in gaming, simulaties en visualisaties met hoge resolutie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Voorbereiden van XSLFO gegenereerde visuals voor simulaties of game-analyse.
+
+* Gedetailleerde grafieken archiveren met minimaal verlies aan compressie.
+
+* Genereren van rasterafbeeldingen voor professionele publicatie.
+
+* Operationele dashboards omzetten naar TGA voor ontwerpworkflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchconversie van XSLFO naar TGA voor rapportage met hoge resolutie.
+
+* Geplande export voor professionele visualisatiepijplijnen.
+
+* Getriggerde TGA-generatie van terugkerende XSLFO-analyses.
+
+* Integratie met geautomatiseerde ontwerpworkflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

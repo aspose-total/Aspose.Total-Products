@@ -57,7 +57,55 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh DXF đầu ra theo nhu c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO sang **DXF (Drawing Exchange Format)** bảo tồn bố cục bảng dựa trên vector để sử dụng trong các ứng dụng CAD và thiết kế kỹ thuật. Các tệp DXF duy trì kích thước chính xác và cấu trúc bố cục.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi báo cáo kỹ thuật được tạo bởi XSLFO sang định dạng thân thiện với CAD.
+
+* Lưu trữ các bảng có cấu trúc dưới dạng vẽ vector cho tài liệu kỹ thuật.
+
+* Tích hợp bố cục hoạt động vào phần mềm thiết kế.
+
+* Tạo biểu đồ kỹ thuật từ các báo cáo XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ XSLFO sang DXF cho quy trình làm tài liệu kỹ thuật.
+
+* Xuất cấu trúc bảng báo cáo theo lịch trình dưới dạng DXF để xem xét thiết kế.
+
+* Tích hợp với các đường ống báo cáo CAD tự động.
+
+* Kích hoạt chuyển đổi dữ liệu XSLFO thành bản vẽ DXF cho các nhóm kỹ thuật.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ XSLFO 파일을 TXT로 변환하는 동안 출력 TXT 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO 파일을 **TXT(일반 텍스트)**으로 변환하면 모든 텍스트 편집기, 데이터 처리 도구 및 프로그래밍 환경과의 보편적 호환성을 제공합니다. TXT 파일은 스타일링 없이 XSLFO에서 핵심 콘텐츠를 추출하여, 원시 데이터 분석, 스크립팅 및 아카이빙에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 일괄 데이터 처리를 위한 XSLFO 테이블 및 보고서 내보내기.
+
+* 구조화된 재무 또는 운영 보고서의 일반 텍스트 버전 준비.
+
+* XSLFO 콘텐츠를 보편적으로 접근 가능한 형식으로 아카이빙.
+
+* 분석 파이프라인을 위한 원시 데이터 추출 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 자동화된 워크플로에 대한 XSLFO에서 TXT로 예약된 일괄 변환.
+
+* ETL 및 데이터 전처리 파이프라인 통합.
+
+* 주기적인 XSLFO 보고서로부터 트리거된 TXT 내보내기.
+
+* XSLFO 대시보드에서 일반 텍스트 요약 자동 추출.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

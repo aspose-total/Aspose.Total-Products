@@ -57,7 +57,55 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh JPEG2000 đầu ra theo 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO sang **JPEG2000** cung cấp hình ảnh raster nén cao với mức độ mất chất lượng tối thiểu. JPEG2000 thích hợp cho hình ảnh y tế, báo cáo trực quan lớn và mục đích lưu trữ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Lưu trữ báo cáo XSLFO độ phân giải cao với bảng phức tạp.
+
+* Chuẩn bị hình ảnh tài chính hoặc hoạt động chi tiết cho phân phối kỹ thuật số.
+
+* Chuyển đổi phân tích XSLFO thành hình ảnh raster hiệu quả.
+
+* Tạo hình ảnh định dạng lớn cho xuất bản.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt XSLFO sang JPEG2000 cho việc lưu trữ lâu dài.
+
+* Tạo ra theo lịch trình cho quy trình công việc xuất bản tự động.
+
+* Tích hợp với đường ống tối ưu hóa hình ảnh.
+
+* Kích hoạt xuất bản độ phân giải cao từ bảng điều khiển XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

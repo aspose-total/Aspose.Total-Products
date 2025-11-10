@@ -102,7 +102,55 @@ otherformats: TSV FODS XLSM ODS CSV XLS XLTM MARKDOWN XLSB XLSX XLT MHTML EXCEL 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POTM ל-SXC מייצרת קבצי גיליון נתונים מורשים. פורמט זה שימושי לצורך תאימות עם חבילות משרד ישנות ומבטיח שנתוני ההצגה ההיסטוריים יכולים עדיין להינתק.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* העברת טבלאות כספיות מבוססות שקופיות ל-SXC עבור מערכות מורשות.
+
+* המרת דוחות פרויקטים עבור ארגונים המשתמשים בתוכנה משרד ישנה.
+
+* ארכיבת תוכן שקופיות מספרי בפורמט גיליון נתונים שמתאים לאחור.
+
+* שיתוף טבלאות ההצגה עם צוותים המשתמשים ביישומים מיושנים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רצפיות של תבניות POTM ל-SXC לצורך ארכיון.
+
+* שילוב עם מערכות דיווח מורשות.
+
+* יצירת SXC מופעלת לצורך שמירה על נתונים היסטוריים.
+
+* זרימות עבודה אוטומטיות מרצפיות לגיליון נתונים מורשים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

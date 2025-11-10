@@ -47,7 +47,55 @@ Konwertując plik XSLFO na FODS, możesz także dodać znak wodny do wyjścioweg
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików XSLFO do formatu **FODS (Flat OpenDocument Spreadsheet)** wspiera oprogramowanie biurowe typu open-source, takie jak LibreOffice i OpenOffice. FODS umożliwia tworzenie lekkich, edytowalnych arkuszy kalkulacyjnych opartych na XML, odpowiednich do środowisk współpracy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Dzielenie się arkuszami budżetowymi wygenerowanymi z XSLFO z użytkownikami oprogramowania biurowego typu open-source.
+
+* Archiwizowanie raportów w otwartym, standaryzowanym formacie arkusza kalkulacyjnego.
+
+* Przygotowywanie arkuszy śledzenia projektów do współpracy między platformami.
+
+* Konwertowanie technicznych tabel XSLFO na edytowalne arkusze kalkulacyjne FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa z XSLFO do FODS dla potoków raportowania typu open-source.
+
+* Integracja z systemami zarządzania dokumentami obsługującymi FODS.
+
+* Zaplanowane eksportowanie dla wspólnych pulpitów projektowych.
+
+* Automatyczna konwersja raportów analitycznych XSLFO do formatu FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

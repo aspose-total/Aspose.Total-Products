@@ -143,7 +143,55 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av TEX-filer till **DOTM (Word-makroaktiverad mall)** ger återanvändbara mallar med makrofunktionalitet. Perfekt för automatiserade arbetsflöden, det förenar LaTEx precisionssättning med Words automatiseringsfunktioner.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Automatiska inlämningsmallar för akademiska tidskrifter.
+
+* Återanvändbara tekniska rapportmallar med dynamiskt innehållsgenerering.
+
+* Makroaktiverade formulär för laboratorie- eller forskningsdatainmatning.
+
+* Generering av LaTeX-drivna Word-mallar för samarbete med flera författare.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Realtidsdokumentskapande utlöst från LaTeX-indataströmmar.
+
+* Integration i Word-baserade företagsdokumentautomatiseringspipeliner.
+
+* Batchmalluppdateringar för samarbetsprojekt inom forskning.
+
+* Generering av makroaktiverad projektdokumentation för ingenjörsteam.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

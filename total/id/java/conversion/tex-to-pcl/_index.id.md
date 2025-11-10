@@ -144,7 +144,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file TEX ke **PCL (Printer Command Language)** memungkinkan dokumen LaTeX, termasuk persamaan, tabel, dan diagram, untuk langsung dikirimkan ke printer untuk output berkualitas tinggi di lingkungan profesional atau akademis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Utama" %}}
+
+
+
+* Mencetak makalah penelitian LaTeX dan laporan teknis.
+
+* Output berkualitas tinggi dari catatan kuliah dan materi pendidikan.
+
+* Menghasilkan materi handout profesional dari tabel dan diagram yang dihasilkan oleh LaTeX.
+
+* Mencetak dokumen dalam jumlah besar dari proyek ilmiah atau rekayasa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch TEX ke PCL untuk antrian cetak.
+
+* Integrasi ke alur kerja pencetakan dokumen otomatis.
+
+* Generasi PCL yang dipicu dari repositori LaTeX untuk pencetakan massal.
+
+* Output terjadwal untuk distribusi dokumen akademis atau perusahaan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

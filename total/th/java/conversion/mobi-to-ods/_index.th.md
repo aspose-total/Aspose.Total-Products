@@ -61,7 +61,51 @@ otherformats: SXC XLS XLSB XLSM XLT ODS XLTX XLAM FODS XLSX XLTM EXCEL DIF TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ MOBI เป็น ODS (OpenDocument Spreadsheet) ช่วยให้ข้อมูล eBook ถูกเรียงโครงสร้างในรูปแบบมาตรฐานเปิด ทำให้สามารถใช้งานได้บนหลายแพลตฟอร์ม เช่น LibreOffice, OpenOffice, และเครื่องมือที่คล้ายกัน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+- สร้างดัชนีห้องสมุดดิจิทัลโครงสร้าง
+
+- จัดการข้อมูลหนังสือ MOBI สำหรับงานวิจัยโอเพนซอร์ส
+
+- ติดตามความร่วมมือของผู้เขียนในโครงการร่วมกัน
+
+- รักษารายการอ่านที่สามารถส่งออกได้ในรูปแบบ ODS
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+- การส่งออก MOBI เป็น ODS แบบเรียลไทม์ในคลังข้อมูลดิจิทัล
+
+- การผสานกับท่อส่งสินค้าอัตโนมัติ
+
+- การเรียกเกิดการแปลงในระบบจัดการเนื้อหา
+
+- การซิงค์ข้อมูลเมตาดาต้าตามกำหนดเวลาไปยังรายงาน ODS สำหรับบรรณารักษ์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

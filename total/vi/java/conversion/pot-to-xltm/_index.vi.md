@@ -61,7 +61,45 @@ Trong khi chuyển đổi tệp POT sang XLTM, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi POT thành XLTM (Mẫu Excel có Macro) giúp doanh nghiệp tự động hóa việc tạo bảng tính trong khi vẫn giữ nguyên các gợi ý thiết kế của PowerPoint. Lý tưởng cho việc tạo các mẫu tương tác động, động cho các quy trình làm việc lặp đi lặp lại.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xây dựng các mẫu Excel có Macro từ các KPI trong PowerPoint.
+
+* Tự động hóa các mẫu báo cáo với các macro dữ liệu nhúng.
+
+* Thiết kế các mô hình dự báo tài chính có thể lặp lại.
+
+* Tạo các bảng theo dõi hiệu suất học tập với các kịch bản tự động hóa.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Tạo ra XLTM tích hợp vào các quy trình tự động hóa dữ liệu.
+
+* Triển khai doanh nghiệp các mẫu bảng tính có Macro.
+
+* Tạo mẫu theo lịch cho các nhóm tài chính và nhân sự.
+
+* Tự động hóa chuyển đổi cho các chu kỳ báo cáo có thể lặp lại.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

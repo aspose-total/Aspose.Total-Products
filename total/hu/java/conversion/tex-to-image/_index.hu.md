@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti IMAGE-képet is. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **KÉP formátumra történő átalakítása (általános rácsformátumokra)** lehetővé teszi a LaTeX egyenletek, táblázatok és ábrák univerzálisan kompatibilis képformátumokká alakítását webes, nyomtatott és dokumentációs célokra.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* LaTeX által generált ábrák beágyazása blogokba és webhelyekre.
+
+* Magas felbontású képek készítése tudományos publikációkhoz.
+
+* Diagramok megosztása univerzálisan olvasható formátumokban.
+
+* Bonyolult LaTeX táblázatok átalakítása képekbe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Batch TEX-kép átalakítás tartalomtárakhoz.
+
+* Integráció automatizált kiadási és webhelymunkafolyamatokkal.
+
+* Kép alapú előadások vagy oktatóanyagok automatikus frissítése.
+
+* Több LaTeX diagram exportálása egységes képformátumokba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

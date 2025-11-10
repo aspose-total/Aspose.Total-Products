@@ -135,7 +135,55 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **SWF (Flash)** memungkinkan animasi interaktif untuk dasbor dan aplikasi web warisan. SWF mempertahankan grafik vektor dan memungkinkan interaksi berbasis timeline.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Menanamkan grafik XSLFO interaktif di portal web warisan.
+
+* Menyiapkan dasbor animasi untuk sistem intranet historis.
+
+* Mengonversi modul pelatihan menjadi SWF untuk penggunaan offline.
+
+* Mengarsipkan visualisasi XSLFO interaktif untuk tujuan kepatuhan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi XSLFO ke SWF terjadwal untuk sistem warisan.
+
+* Pembuatan dasbor animasi secara massal.
+
+* Generasi yang dipicu untuk aplikasi warisan berbasis web.
+
+* Integrasi dengan saluran laporan interaktif otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

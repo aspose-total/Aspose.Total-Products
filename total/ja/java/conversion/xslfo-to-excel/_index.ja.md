@@ -47,7 +47,51 @@ XSLFOファイルをEXCELに変換するときに、出力EXCELファイル形�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**EXCEL（XLS/XLSX）**に変換すると、高度なデータ分析、ピボットテーブル、可視化に適した完全にフォーマットされたスプレッドシートが提供されます。Excel形式への変換は、ファイナンス、会計、および業務報告ワークフローに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* XSLFOで生成された請求書をExcelに変換してクライアントが確認できるようにする。
+
+* 表形式のレポートデータから動的なピボットテーブルを作成する。
+
+* Excelで部門のパフォーマンスダッシュボードを生成する。
+
+* 協力的なビジネスプランニングのためのXSLFOレポートを準備する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XSLFOレポートをExcelに変換してステークホルダーに提供する夜間スケジュール変換。
+
+* 自動化された分析のためのVBAマクロとの統合。
+
+* XSLFOソースからExcelダッシュボードを自動生成する。
+
+* 操作上のXSLFOファイルをExcelスプレッドシートに変換するETLワークフロー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

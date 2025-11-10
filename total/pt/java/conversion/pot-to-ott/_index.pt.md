@@ -53,7 +53,45 @@ Usando a API, você também pode realizar a conversão de arquivo POT para OTT c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter POT para OTT (Modelo de Texto do OpenDocument) permite que organizações criem modelos de documentos reutilizáveis que estejam em conformidade com padrões abertos. Os modelos OTT são ideais para instituições que enfatizam acessibilidade e arquivamento a longo prazo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Gerar modelos de padrão aberto a partir de materiais de treinamento do PowerPoint.
+
+* Converter estilos de apresentação em modelos de texto reutilizáveis.
+
+* Criar formatos de documento consistentes para publicações acadêmicas.
+
+* Projetar modelos de acesso aberto para documentação de ONGs.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Geração automatizada de OTT a partir de layouts mestres do PowerPoint.
+
+* Integração com fluxos de trabalho de documentos de código aberto.
+
+* Sincronização de modelos em repositórios de documentos institucionais.
+
+* Sistemas de documentos governamentais aproveitando modelos em formato aberto.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

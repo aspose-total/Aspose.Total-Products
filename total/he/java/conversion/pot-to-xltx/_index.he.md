@@ -102,7 +102,45 @@ otherformats: EXCEL FODS XLAM MARKDOWN XLSB XLS SXC XLSX DIF XLT TSV XLTM XLSM M
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POT ל- XLTX (תבנית Excel Open XML) מספקת תבניות גיליון עבודה מבוססות XML ומתקדמות שמסדרות תצוגות של PowerPoint עם תבניות Excel ברמת עסקית. זה מבטיח עקביות וקידמה בתיעוד.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* יצירת תבניות Excel מובאות מדוחות PowerPoint מותגיות.
+
+* יצירת טפסי קלט נתונים תקניים למחלקות.
+
+* שימוש מחדש בפריסות מצגת לתבניות גיליון עבודה ניתנות לשימוש מחדש.
+
+* תמיכה בעקביות בין צוותים שונים בפורמטים לדיווח.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת XLTX אוטומטית בתוך מערכות תוכן עסקיות.
+
+* שילוב עם ספריות תבניות במבוססות SharePoint.
+
+* המרה רציפה לייצור תבניות Excel המצומצמות למותג.
+
+* אוטומציה של זרימת העבודה בניהול תבניות Excel.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

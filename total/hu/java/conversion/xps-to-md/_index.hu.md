@@ -47,7 +47,51 @@ A XPS-fájl MD-vé konvertálásakor vízjelet is hozzáadhat a kimeneti MD-fáj
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XPS átalakítása **MD (Markdown)** formátummá egyszerűsített szöveges formátumot eredményez, amely ember által olvasható, szerkeszthető, és ideális verziókezelt dokumentációhoz és webes tartalomhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Műszaki kézikönyvek és útmutatók könnyű formátumban.
+
+* Belső dokumentációk szoftverekhez és vállalati eljárásokhoz.
+
+* Gyors átalakítás blogbejegyzésekhez vagy tudásmegosztó platformokhoz.
+
+* Akadémiai és kutatási jegyzetelés Markdown támogatással.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges XPS-MD átalakítás tartalomkezelő rendszerekhez.
+
+* Integráció automatizált közzétételi csatornákkal.
+
+* Ütemezett frissítések Markdown-alapú dokumentációkhoz.
+
+* Egyszerűsített munkafolyamat több XPS fájl átalakításához szerkeszthető szöveggé.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

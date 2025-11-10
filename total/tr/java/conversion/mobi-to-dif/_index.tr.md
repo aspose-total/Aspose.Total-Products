@@ -61,7 +61,47 @@ MOBI'yi DIF'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI dosyalarını DIF (Veri Değişim Formatı) formatına dönüştürmek, yapılandırılmış elektronik tablolarda okunabilirliği korurken eski veri sistemleriyle uyumluluğu sağlar. DIF, eBook istatistiklerini, okuma geçmişini veya katalog verilerini platformlar arasında standart hale getirmenin verimli bir yolunu sunar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+- Tarihsel analiz için MOBI dosya meta verilerinin arşivlenmesi.
+
+- DIF'yi destekleyen eski yazılımlara eBook istatistiklerinin aktarılması.
+
+- Standart depolama için biçimlendirilmiş akademik yayıncılık kayıtları.
+
+- Kurumsal eBook sistemleri için çevrimdışı katalog dönüşümü.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+- Araştırma veri yönetiminde zamanlanmış MOBI'den DIF'e dönüşümlerin ihracatı.
+
+- Eski ERP veya raporlama sistemleriyle entegrasyon.
+
+- Kütüphaneciler için komut satırı dönüştürücüler aracılığıyla toplu işleme.
+
+- Dağıtılmış okuma ağları için otomatik DIF dosya teslimatı.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

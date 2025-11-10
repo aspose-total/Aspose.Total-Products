@@ -57,7 +57,51 @@ Med hjälp av API:t kan du också rotera den utgående TGA-bilden enligt dina be
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av XSLFO till **TGA (Targa Image)** levererar högkvalitativa rastergrafik som ofta används inom spel, simuleringar och högupplösta visualiseringar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Förbereda XSLFO-genererade visuella element för simuleringar eller spelanalys.
+
+* Arkivering av detaljerade diagram med minimal kompressionsförlust.
+
+* Generera rastergrafik för professionell publicering.
+
+* Konvertera operativa instrumentpaneler till TGA för designarbetsflöden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Batchkonvertering av XSLFO till TGA för högupplöst rapportering.
+
+* Schemalagd export för professionella visualiseringspipeliner.
+
+* Utlöst TGA-generering från återkommande XSLFO-analyser.
+
+* Integration med automatiserade designarbetsflöden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

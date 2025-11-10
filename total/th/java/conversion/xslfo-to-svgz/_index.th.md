@@ -57,7 +57,51 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **SVGZ (SVG ที่บีบอัด)** จะให้กราฟิกเวกเตอร์ที่มีความยืดหยุ่นในรูปแบบที่ถูกบีบอัด เหมาะสำหรับเว็บไซต์ แดชบอร์ด และแอปพลิเคชันที่สามารถปรับขนาดได้ การบีบอัด SVGZ ช่วยลดขนาดไฟล์ในขณะที่ยังคงคุณภาพไว้ได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้างกราฟชาร์ตแบบอินเทอร์แอคทีฟจากรายงาน XSLFO สำหรับแดชบอร์ดเว็บ
+
+* ฝังภาพที่สามารถปรับขนาดได้ในแอปพลิเคชันที่สามารถปรับขนาดได้
+
+* เก็บถาพนิเวศเบส์ที่มีพื้นฐานเป็นเวกเตอร์ในรูปแบบที่ถูกบีบอัด
+
+* เตรียมแผนภูมิสำหรับการเรียนออนไลน์หรือฐานความรู้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลง XSLFO เป็น SVGZ แบบกลุ่มสำหรับรายงานเว็บ
+
+* ส่งออกแบบเวกเตอร์ที่ถูกบีบอัดตามกำหนดเวลา
+
+* การรวมเข้ากับการทำงานของแดชบอร์ดออนไลน์อัตโนมัติ
+
+* สร้างภาพ SVGZ จากการวิเคราะห์ XSLFO ที่ถูกเรียกใช้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

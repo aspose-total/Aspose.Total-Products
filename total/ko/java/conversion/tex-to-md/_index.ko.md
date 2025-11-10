@@ -47,7 +47,51 @@ TEX 파일을 MD로 변환하는 동안 출력 MD 파일 형식에 워터마크�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **MD (Markdown 파일)**로 변환하면 LaTeX에서 표준 Markdown 파일을 생성하여 텍스트 구조, 표 및 기본 서식을 보존하여 여러 플랫폼에서 읽기 쉽게 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Git 기반 협업을 위한 LaTeX 연구 노트 작성.
+
+* 수학 및 표 지원이 포함된 가벼운 문서 작성.
+
+* 오픈 소스 Markdown 형식으로 LaTeX 강의 노트 공유.
+
+* 정적 웹 사이트를 위한 기술 보고서 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 연구 팀을 위한 자동화된 일괄 TEX-to-MD 변환.
+
+* 버전 관리되는 웹 콘텐츠 파이프라인에 통합.
+
+* LaTeX 저장소에서 Markdown 파일의 트리거된 업데이트.
+
+* 교육 또는 기술 블로그를 위한 MD 파일의 지속적 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

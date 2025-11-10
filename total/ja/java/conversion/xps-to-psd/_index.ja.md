@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力PSD画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**PSD（Photoshop Document）**に変換することで、XPSファイルから抽出されたレイヤー化された編集可能な画像でデザイナーが作業できるようになり、クリエイティブやマーケティングのワークフローに適しています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* XPSファイルから派生した編集可能なマーケティング資料。
+
+* プレゼンテーションやキャンペーン用のレイヤー化されたイラスト。
+
+* 出版物向けの技術図の強化。
+
+* ドキュメントの視覚からの写真加工やデザインプロジェクト。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* クリエイティブチーム向けのバッチXPSからPSDへの変換。
+
+* デザインワークフローとの統合による自動化された視覚的更新。
+
+* 定期的なXPSレポートからのスケジュールされたPSD生成。
+
+* マーケティングや教育コンテンツ向けの効率化された編集パイプライン。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

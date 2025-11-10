@@ -47,7 +47,49 @@ otherformats: TXT XLT ODS XLAM XLSM FODS DIF XLTM XLSB MD SXC EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XPS เป็น **XLSM (สมุดงาน Excel ที่เปิดใช้งานแมโคร)** ช่วยให้องค์กรสามารถรักษาและเสริมสร้างการอัตโนมัติ สูตร และองค์ประกอบที่มีการปรับแต่งจากรายงาน XPS ที่เป็นแบบสถิต
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* โมเดลทางการเงินที่ต้องการการคำนวณโดยอัตโนมัติ
+* สเปรดชีตการติดตามโครงการและการวางแผนที่มีการปฏิสัมพันธ์
+* รายงานอัตโนมัติพร้อมแมโครซ้อน
+* การปรับปรุงการทำงานด้วยการอัตโนมัติที่ใช้ Excel
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* ท่องไปท่องมาของการแปลงข้อมูลจำนวนมากสำหรับ XPS เป็น XLSM ในกระบวนการทำงานขององค์กร
+* การผสานรวมกับระบบ BI และ ERP สำหรับการรายงานแบบไดนามิก
+* การอัพเดทตามกำหนดของสมุดงานที่เปิดใช้งานแมโคร
+* การสร้างแผงควบคุมแบบปฏิสัมพันธ์โดยอัตโนมัติจากข้อมูล XPS
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

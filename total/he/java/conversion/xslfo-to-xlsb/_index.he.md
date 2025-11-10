@@ -102,7 +102,51 @@ otherformats: CSV SXC ODS EXCEL DIF MD FODS XLT XLSM TXT XLTM XLTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XSLFO ל־**XLSB (Excel Binary Workbook)** מציעה אחסון גיליון נתונים ביצועי גבוה עבור קבצים גדולים. XLSB מפחית את גודל הקובץ, מאיץ את החישובים, ושומר על העיצוב המורכב.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* עיבוד מודלים פיננסיים XSLFO עם קבצי נתונים טבלאיים גדולים.
+
+* ארכיבה של דוחות תפעוליים XSLFO בצורה בינארית קומפקטית.
+
+* יצירת לוחות בקרה באקסל עבור ניתוחי נתונים כבדים.
+
+* הכנת גיליונות תחזית מבוססי XLSB מתבניות XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רציפה של דוחות XSLFO ל־XLSB לטעינה מהירה יותר.
+
+* ייצוא מתוזמן ליישומי ניתוח עסקיים בארגון.
+
+* שילוב בצינורות דיווח אוטומטיים במבוסס אקסל.
+
+* יצירת XLSB מופעלת מתוך XSLFO לדיווח פיננסי בגדלים גדולים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

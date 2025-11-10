@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+LaTeXから**PPTM（PowerPoint Macro-Enabled Presentation）**への変換により、自動計算用のマクロ、動的チャート、インタラクティブな教材を含む、LaTeXから完全にインタラクティブなスライドが可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* LaTeX方程式を使用したインタラクティブな学術講義。
+
+* 企業のダッシュボードや研究プレゼンテーションテンプレート。
+
+* リアルタイムデータの更新を行う自動セミナースライド。
+
+* マクロ駆動のインタラクティブなワークショッププレゼンテーション。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* インタラクティブなスライドデッキのためのバッチTEXからPPTMへの変換。
+
+* 企業や大学の自動化システムへの統合。
+
+* マクロを有効にしたプレゼンテーションのトリガー生成。
+
+* LaTeXリポジトリからの定期的な更新による複数著者プロジェクト向けのスケジュール更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

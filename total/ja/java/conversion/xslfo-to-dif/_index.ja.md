@@ -47,7 +47,55 @@ XSLFOファイルをDIFに変換するときに、出力DIFファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOファイルを**DIF（データインターチェンジフォーマット）**に変換することで、古いスプレッドシートアプリケーションやレガシーデータシステムとの互換性が確保されます。DIFは構造化された表形式のコンテンツを維持しながら、異種プラットフォーム間でのデータの移植をサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+
+
+* 歴史的な販売記録をレガシースプレッドシートシステムに移行する。
+
+* XSLFOで生成されたレポートを規制順守のためにアーカイブする。
+
+* DIF形式を使用してエンタープライズプランニングソフトウェア間でデータを交換する。
+
+* クロスプラットフォームの分析のためにマーケティングメトリクスを準備する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 月次XSLFOパフォーマンスレポートをDIFにバッチ変換する。
+
+* DIF入力を必要とするレガシーERPシステムへの統合。
+
+* 歴史的なトレンド分析のためのDIFデータセットの定期的な更新。
+
+* XSLFOからDIFへのトリガー変換を自動化されたレポートパイプラインで実行する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

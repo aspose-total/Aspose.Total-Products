@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **OTT (OpenDocument Text Template)** ช่วยเสริมให้นักการศึกษา นักวิจัย และธุรกิจสามารถสร้างเทมเพลตที่ใช้ซ้ำได้ด้วยรูปแบบ LaTeX ในรูปแบบเปิด เพื่อความสะดวกในการปรับปรุงมาตรฐานของเอกสาร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* เทมเพลตสื่อการสอนที่มีการจัดรูปแบบ LaTeX อย่างสม่ำเสมอ
+
+* เทมเพลต OpenDocument สำหรับการรายงานผลการทดลองร่วมกัน
+
+* เทมเพลตรายงานโครงการและธุรกิจสำหรับชุดซอฟต์แวร์สำนักงานเปิด
+
+* แบบฟอร์มมาตรฐานสำหรับการใช้ทางวิชาการหรือการบริหาร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างเทมเพลตโดยอัตโนมัติสำหรับสภาพแวดล้อมที่มีผู้ใช้หลายคน
+
+* การผสานเข้ากับการทำงานของระบบการจัดการเรียนการสอนและสำนักงานเปิด
+
+* การอัปเดตชุดเทมเพลตเป็นกลุ่มสำหรับสถาบันการศึกษา
+
+* การแปลง LaTeX เป็น OTT อย่างไดนามิกสำหรับเอกสารที่ใช้ในการวิจัย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

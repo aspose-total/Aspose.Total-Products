@@ -53,7 +53,51 @@ APIを使用して、透かしを使用してPOTMファイルからWORDMLへの�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTMをWORDML変換すると、プレゼンテーションテンプレートがWordProcessingMLにエクスポートされ、データ統合や構造化されたドキュメントの保存に適したXMLベースのMicrosoft Word形式になります。自動システム向けに文書の意味論を保存します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 企業システム向けのプレゼンテーションコンテンツのXMLベースの保存。
+
+* PowerPointデータを構造化されたレポートテンプレートに統合。
+
+* WordMLからの自動文書レンダリングによるオンライン出版。
+
+* データベース駆動のドキュメンテーションワークフローでのコンテンツ再利用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* ドキュメントデータ交換のための自動XML変換パイプライン。
+
+* WordML形式を使用したCMSプラットフォームとの統合。
+
+* バージョン管理された文書リポジトリの変換。
+
+* XML WordML出力を活用したクロスフォーマットのパブリッシングワークフロー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

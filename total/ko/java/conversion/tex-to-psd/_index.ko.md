@@ -57,7 +57,55 @@ API를 사용하여 필요에 따라 출력 PSD 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+텍스트를 **PSD (포토샵 문서)**로 변환하면 레이텍으로 생성된 시각 자료를 Adobe 포토샵에서 완전히 편집할 수 있어 고급 디자인 및 후처리에 활용할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 발표나 포스터용 레이텍 다이어그램 편집.
+
+* 포토샵을 활용한 출판용 그래픽 준비.
+
+* 교육이나 훈련용 시각 자료 맞춤화.
+
+* 마케팅이나 학술용 시각적으로 풍부한 그림 작성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 디자인 팀을 위한 일괄 TEX-to-PSD 변환.
+
+* 자동화된 그래픽 디자인 워크플로우 통합.
+
+* 포스터나 인포그래픽 생성을 위한 트리거된 PSD 작성.
+
+* 다층 포토샵 편집을 위한 편집 가능한 레이텍 다이어그램 내보내기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,45 @@ POTファイルをSXCに変換するときに、出力SXCファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTをSXC（StarOffice Calc Spreadsheet）に変換すると、古いStarOfficeやOpenOffice環境でプレゼンテーションからのデータを使用できるようになります。この形式は、後方互換性が必要な教育およびアーカイブプロジェクトにとって依然として重要です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 古いソフトウェアを使用する機関向けにPowerPointコンテンツを再利用する。
+
+* プレゼンテーションの表から学生向けのアクティビティシートを作成する。
+
+* オープンソースのスプレッドシートツール間で企業のメトリクスを共有する。
+
+* レガシーシステムでPowerPointベースの分析をアーカイブする。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 企業の移行向けのレガシーデータ変換ワークフロー。
+
+* PowerPointの表をSXCファイルに自動抽出する。
+
+* アーカイブおよび学術システム向けの定期的な変換。
+
+* レガシービジネスインテリジェンスプラットフォームとの統合。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

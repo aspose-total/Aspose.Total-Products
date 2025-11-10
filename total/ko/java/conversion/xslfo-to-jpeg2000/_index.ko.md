@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 JPEG2000 이미지를 회전할 수�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **JPEG2000**으로 변환하면 최소 품질 손실로 고압축 래스터 이미지를 얻을 수 있습니다. JPEG2000은 의료 이미징, 대형 시각적 보고서 및 보관용으로 적합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 복잡한 테이블이 포함된 고해상도 XSLFO 보고서 아카이빙.
+
+* 디지털 배포용 상세한 재무 또는 운영 시각 자료 준비.
+
+* 효율적인 래스터 이미지로 XSLFO 분석 변환.
+
+* 출판물을 위한 대형 형식 시각 자료 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 아카이브 저장을 위한 XSLFO 일괄 변환을 위한 일정화.
+
+* 자동 게시 워크플로우를 위한 예약 생성.
+
+* 이미지 최적화 파이프라인과의 통합.
+
+* XSLFO 대시보드에서 트리거된 고해상도 내보내기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

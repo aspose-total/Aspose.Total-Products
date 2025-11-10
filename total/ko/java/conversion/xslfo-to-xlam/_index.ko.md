@@ -47,7 +47,55 @@ XSLFO 파일을 XLAM로 변환하는 동안 출력 XLAM 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **XLAM (Excel Add-In)**으로 변환하면 XSLFO로 생성된 데이터와 매크로를 재사용 가능한 Excel 애드인에 포함할 수 있습니다. XLAM은 자동화, 사용자 정의 보고 및 대화식 스프레드시트 애플리케이션을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 팀 사용을 위해 XSLFO 보고 템플릿을 Excel 애드인으로 패키징.
+
+* XSLFO 데이터에서 파생된 자동화된 계산 도구 배포.
+
+* 사용자 정의 Excel 대시보드에 XSLFO 분석 통합.
+
+* XLAM 애드인을 사용한 반복 가능한 보고 워크플로우 활성화.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 주기적 작업을 위해 XSLFO에서 XLAM 생성 자동화.
+
+* 업데이트된 XSLFO 데이터로 애드인 예약 배포.
+
+* VBA 기반 워크플로우 자동화와 통합.
+
+* 기업 보고 도구를 위한 XLAM 애드인 생성 트리거.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,51 @@ otherformats: SXC FODS XLT XLTM EXCEL CSV XLTX XLSB ODS XLAM TXT TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל- **XLSM (Excel Macro-Enabled Workbook)** מאפשרת לקבוצות נתונים שנוצרו ב־LaTeX לשוחח עם מאקרוס מתקדמים ב-Excel לצורך אוטומציה, ניתוח ויצירת דוחות דינמיים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* לוחות מחוונים דינמיים עם נתונים שנוצרו ב־LaTeX.
+
+* חישובים אוטומטיים ותבניות דיווח למחקר.
+
+* דיווחים אקדמיים או תעשייתיים המאפשרים שימוש במאקרוס.
+
+* דיווחים בתחומי הנדל"ן והפיננסים עם נוסחאות מורכבות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרות Batch של LaTeX ל-XLSM לצורך זרימות עבודה אוטומטיות.
+
+* שילוב במערכות דיווח מובנות על מאקרוס בארגונים.
+
+* עדכונים מופעלים עבור חוברות עבודה משותפות ב-XLSM.
+
+* יצירת מאקרו ב-Excel באופן אוטומטי מקבוצות נתונים שנוצרו ב־LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

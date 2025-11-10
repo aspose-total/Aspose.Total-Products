@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力TGA画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**TGA（Targaイメージ）**に変換すると、LaTeXで生成された図を高品質なラスターエクスポートでき、グラフィックス重視のアプリケーション、科学的視覚化、デジタルアートに適しています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 高精細な科学イラスト。
+
+* グラフィック編集用のLaTeX生成ダイアグラム。
+
+* アニメーションやシミュレーションワークフロー用の視覚化の準備。
+
+* 損失のない画像品質が必要なデジタル出版。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 研究視覚化パイプライン向けのバッチTEXからTGAへのエクスポート。
+
+* グラフィック処理やシミュレーションツールとの統合。
+
+* LaTeXコンテンツから高品質画像の自動生成をトリガー。
+
+* グラフィックスチーム向けのTGA形式でのダイアグラムの自動アーカイブ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,51 @@ otherformats: XLTX TXT ODS FODS SXC XLSB XLAM CSV EXCEL MD XLSM DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Конвертація TEX в **XLT (Шаблон Excel)** дозволяє LaTeX-базовим даним створювати повторно використовувані шаблони Excel для проектів, аналітики та академічної роботи.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* Стандартизовані шаблони звітів для дослідницьких груп.
+
+* Повторно використовувані фінансові моделі на основі LaTeX-таблиць.
+
+* Таблиці для розрахунку академічних оцінок з формулами LaTeX.
+
+* Шаблони для відстеження інженерних проектів.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетне створення шаблонів Excel з LaTeX.
+
+* Інтеграція в корпоративні або академічні репозиторії шаблонів.
+
+* Автоматизоване заповнення даними LaTeX у шаблонах XLT.
+
+* Заплановані оновлення шаблонів для багатокористувацьких середовищ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

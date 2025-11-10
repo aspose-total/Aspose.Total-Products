@@ -144,7 +144,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XPS ke **XAMLFLOW (Dokumen Aliran dalam XAML)** mengubah konten XPS statis menjadi tata letak yang dapat diedit, mengalir sesuai untuk tampilan dinamis dalam WPF FlowDocuments, ideal untuk e-reader, laporan, atau konten interaktif.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Membuat e-book dan dokumentasi interaktif dari sumber XPS.
+
+* Laporan perusahaan berbasis aliran dan manual untuk aplikasi desktop.
+
+* Pemrosesan teks dan media dinamis dalam aplikasi pendidikan atau pelatihan.
+
+* Buku pegawai atau panduan kebijakan disajikan sebagai FlowDocuments.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi otomatis arsip XPS menjadi XAMLFLOW untuk platform e-learning.
+
+* Generasi FlowDocument terjadwal untuk laporan atau manual berulang.
+
+* Integrasi dengan perangkat lunak yang menampilkan FlowDocuments secara dinamis.
+
+* Pipa kerja yang efisien untuk mengonversi tata letak XPS statis menjadi FlowDocuments responsif.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

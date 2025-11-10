@@ -57,7 +57,25 @@ APIを使用すると、必要に応じて出力APNG画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+XPS（XML Paper Specification）ファイルを**APNG（Animated Portable Network Graphics）**に変換すると、静的なXPSドキュメントがアニメーション化され、ダイナミックなプレゼンテーションやウェブフレンドリーなインタラクティブなグラフィックスに最適です。
+
+## Key Use Cases
+
+* XPSベースのレポートからアニメーションダッシュボードを作成する。
+* オンラインコース向けの動きのある教育ビジュアライゼーション。
+* ウェブサイトやソーシャルメディア向けのインタラクティブなマーケティンググラフィックス。
+* 時間経過に伴うプロセスワークフローやデータトレンドの視覚化。
+
+## Automation Scenarios
+
+* eラーニングプラットフォーム向けにXPSアーカイブをAPNGにバッチ変換する。
+* アニメーションコンテンツ用のウェブ公開パイプラインとの統合。
+* ダッシュボード向けのインタラクティブビジュアルのトリガー生成。
+* マーケティングやトレーニングキャンペーン向けの自動変換。
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

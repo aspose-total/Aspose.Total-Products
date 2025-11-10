@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力WMF画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**WMF（Windows Metafile）**に変換することで、LaTeX図表のベクターグラフィックスを保持し、Microsoft Officeや技術文書との互換性を確保します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* WordやPowerPointにLaTeX図版を埋め込む。
+
+* プロフェッショナルなレポートの技術図表。
+
+* 企業や学術文書向けのスケーラブルな図。
+
+* LaTeXで生成したグラフィックスのクロスプラットフォーム配布。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* LaTeX図表をWMFにバッチ変換。
+
+* Microsoft Office文書パイプラインへの統合。
+
+* プレゼンテーションのベクターグラフィックスのトリガー更新。
+
+* LaTeXで生成した技術図表の自動アーカイブ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

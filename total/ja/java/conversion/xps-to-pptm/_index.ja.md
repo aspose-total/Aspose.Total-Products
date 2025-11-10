@@ -121,7 +121,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**PPTM（マクロ有効なPowerPoint）**に変換すると、動的データ、自動化、および強化された企業または教育ワークフロー用のマクロを備えたインタラクティブなプレゼンテーションが可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* プレゼンテーション形式の財務または営業ダッシュボード。
+
+* 自動ナビゲーション付きのトレーニングおよび教育モジュール。
+
+* 管理レビュー用のインタラクティブレポート。
+
+* マクロを使用した自動プロジェクトステータスプレゼンテーション。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 企業の自動化のための大量XPSからPPTMへの変換。
+
+* リアルタイムのスライド更新のためのライブデータソースとの統合。
+
+* 定期的な会議のためのマクロ有効なプレゼンテーションのスケジュール作成。
+
+* ステークホルダーレビュー用のインタラクティブスライドの効率化された製作。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

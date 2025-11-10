@@ -135,7 +135,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **ODP (OpenDocument Presentation)** formátumba való átalakítása lehetővé teszi a LaTeX tartalom, képletek és táblázatok átalakítását olyan nyílt forráskódú bemutató diákká, amely kompatibilis a LibreOffice és az OpenOffice programokkal. Ideális akadémikusok és mérnökök számára, akik LaTeX alapú kutatásokat osztanak meg.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Akadémiai előadások LaTeX által generált egyenletekkel.
+
+* Nyílt forráskódú projektbemutatók strukturált adatokkal.
+
+* Konferenciadiák matematikai, fizikai vagy mérnöki témákban.
+
+* Oktatási anyagok interaktív LaTeX alapú diagramokkal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges TEX-ODP konverzió tananyagokhoz vagy képzési anyagokhoz.
+
+* Ütemezett diák generálás LaTeX kutatási adattárolókból.
+
+* Integráció nyílt forráskódú bemutató csövekbe.
+
+* Kiváltott frissítések több szerző által készített akadémiai diákokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

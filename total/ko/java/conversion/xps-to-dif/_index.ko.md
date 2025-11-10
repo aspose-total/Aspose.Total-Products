@@ -47,7 +47,51 @@ XPS 파일을 DIF로 변환하는 동안 출력 DIF 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS 파일을 **DIF (데이터 교환 형식)**으로 변환하면 레거시 스프레드시트 소프트웨어와의 호환성을 제공하면서 숫자 및 표 데이터 무결성을 보존할 수 있습니다. DIF는 오래된 금융 및 ERP 시스템을 유지하는 조직에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 역사적인 재무 기록 이관.
+
+* XPS 기반 보고서를 레거시 회계 소프트웨어로 가져오기.
+
+* 규정 준수 감사를 위한 숫자 데이터 세트 보존.
+
+* 크로스 플랫폼 스프레드시트 도구 간 데이터 교환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 보존용 XPS 데이터 세트에 대한 자동 일괄 변환.
+
+* 재무 보고를 위한 ERP 파이프라인 통합.
+
+* DIF 형식의 역사적 데이터 예약 업데이트.
+
+* XPS에서 현대적인 분석 플랫폼으로의 간소화된 이관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -130,7 +130,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**MARKDOWN**に変換すると、静的ドキュメントが軽量で編集しやすい形式に変換され、ブログ、ドキュメントプラットフォーム、バージョン管理システムと互換性があります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* GitHubやGitLabで技術文書を公開する。
+
+* レポートをブログ用コンテンツに変換する。
+
+* メモや内部知識ベースのエントリーを作成する。
+
+* 軽量マークアップを使用したチームの共同編集。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XPSアーカイブをMarkdownに自動変換してコンテンツプラットフォームに統合する。
+
+* HugoやJekyllなどの静的サイトジェネレーターと統合する。
+
+* 定期的なドキュメント作成のためのMarkdownバージョンのスケジュール生成。
+
+* 内部知識ベースの更新のための効率化されたワークフロー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

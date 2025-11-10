@@ -47,7 +47,55 @@ Durante la conversione del file XSLFO in TXT, puoi anche aggiungere una filigran
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversione dei file XSLFO in **TXT (Testo normale)** consente la compatibilità universale con tutti gli editor di testo, gli strumenti di elaborazione dati e gli ambienti di programmazione. I file TXT estraggono il contenuto principale da XSLFO senza stili, rendendoli ideali per l'analisi dei dati grezzi, lo scripting e l'archiviazione.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* Esportazione di tabelle e report XSLFO per l'elaborazione dati batch.
+
+* Preparazione di versioni in testo normale di report finanziari o operativi strutturati.
+
+* Archiviazione dei contenuti XSLFO in un formato universalmente accessibile.
+
+* Generazione di estratti di dati grezzi per i flussi di analisi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* Conversione batch programmata da XSLFO a TXT per flussi di lavoro automatizzati.
+
+* Integrazione in ETL e flussi di pre-elaborazione dati.
+
+* Esportazione TXT attivata da report XSLFO ricorrenti.
+
+* Estrazione automatica di riepiloghi in testo normale da cruscotti XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ Konwertując plik TEX na CSV, możesz także dodać znak wodny do wyjściowego f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików TEX na **CSV (wartości rozdzielone przecinkami)** pozwala przekształcić dokumenty LaTeX w lekkie dane tabelaryczne do arkuszy kalkulacyjnych, baz danych i aplikacji analitycznych. Jest to idealne rozwiązanie dla badaczy i analityków pracujących z zestawami danych numerycznych w LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Eksportowanie tabel wygenerowanych w LaTeX do formatu CSV w celu analizy danych.
+
+* Zbiory danych akademickich do oprogramowania statystycznego i przetwarzania w Pythonie/R.
+
+* Raporty finansowe lub inżynieryjne sformatowane w LaTeX przekształcone do przeglądu w arkuszu kalkulacyjnym.
+
+* Udostępnianie danych projektów open-source w uniwersalnym formacie CSV.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa TEX na CSV w potokach ETL.
+
+* Automatyczne wyodrębnianie tabel z artykułów badawczych.
+
+* Integracja z platformami analityki opartej na sztucznej inteligencji.
+
+* Wywoływanie generowania plików CSV dla zbiorów danych do współpracy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

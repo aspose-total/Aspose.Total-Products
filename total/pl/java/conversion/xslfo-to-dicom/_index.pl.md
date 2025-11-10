@@ -57,7 +57,51 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie XSLFO na **DICOM (Digital Imaging and Communications in Medicine)** umożliwia integrację strukturalnej zawartości raportów z obrazowaniem medycznym. DICOM jest standardem w radiologii, badaniach klinicznych i systemach informacyjnych szpitali.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Osadzanie strukturalnych raportów pacjentów obok wizualizacji generowanych przez XSLFO.
+
+* Przygotowywanie pulpitów diagnostycznych do przeglądu danych klinicznych.
+
+* Konwertowanie tabel analiz medycznych na obrazy kompatybilne z DICOM.
+
+* Integracja wyników badań laboratoryjnych generowanych przez XSLFO do systemów PACS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja raportów XSLFO na format DICOM dla szpitali.
+
+* Integracja z zautomatyzowanymi potokami elektronicznych kart pacjenta (EHR).
+
+* Wywoływane generowanie wizualizacji DICOM z raportów klinicznych XSLFO.
+
+* Przetwarzanie wsadowe do wizualizacji danych badawczych w opiece zdrowotnej.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

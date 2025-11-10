@@ -57,7 +57,51 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh DICOM đầu ra theo nhu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **DICOM (Hình ảnh số và Liên lạc trong Y học)** cho phép các biểu đồ LaTeX kỹ thuật và khoa học được nhúng vào quy trình làm việc và tài liệu nghiên cứu y học.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tích hợp biểu đồ dựa trên LaTeX vào báo cáo hình ảnh y học.
+
+* Ghi chú nghiên cứu y sinh học với nội dung LaTeX có cấu trúc.
+
+* Hiển thị dữ liệu cấu trúc bằng đồ họa được tạo bởi LaTeX.
+
+* Xuất bản các sơ đồ dựa trên LaTeX trong nghiên cứu về chẩn đoán hình ảnh.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt tự động cho các lưu trữ hình ảnh bệnh viện.
+
+* Tích hợp vào quy trình làm việc nghiên cứu y học.
+
+* Kích hoạt việc chuyển đổi TEX sang DICOM cho các nghiên cứu lâm sàng.
+
+* Xuất các biểu đồ LaTeX cho chẩn đoán hỗ trợ bởi trí tuệ nhân tạo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

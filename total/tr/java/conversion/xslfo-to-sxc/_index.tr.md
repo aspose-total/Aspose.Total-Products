@@ -47,7 +47,51 @@ XSLFO dosyasını SXC'ye dönüştürürken, çıktı SXC dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'yu **SXC (StarOffice Elektronik Tablo)** formatına dönüştürmek, eski StarOffice ve OpenOffice araçlarıyla sorunsuz etkileşim olanağı sağlar. SXC, arşivleme ve kurumsal raporlama iş akışları için yapıyı ve biçimlendirmeyi korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* XSLFO tabanlı proje zaman çizelgelerini SXC'ye arşivleme sistemleri için saklama.
+
+* Uluslararası ortaklar için StarOffice kullanarak SXC elektronik tablolar hazırlama.
+
+* Eğitim ve belgeleme amaçları için tablo şeklinde XSLFO verilerini dönüştürme.
+
+* Uyumluluk raporlaması için aylık KPI'ların SXC'de paylaşılması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Arşivleme projeleri için XSLFO'dan SXC'ye toplu otomatik dönüşüm.
+
+* StarOffice formatlarını destekleyen eski ofis iş akışlarına entegrasyon.
+
+* XSLFO dosyalarından zamanlanmış SXC raporu oluşturma.
+
+* Tekrarlanan yönetim panoları için tetiklenen dönüşüm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ A XSLFO-fájl SXC-vé konvertálásakor vízjelet is hozzáadhat a kimeneti SXC-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO **SXC (StarOffice táblázatkezelő)** formátumba való konvertálása lehetővé teszi a zökkenőmentes együttműködést a régi StarOffice és OpenOffice eszközökkel. Az SXC megőrzi a struktúrát és a formázást az archiválási és vállalati jelentési folyamatokhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+
+
+* XSLFO alapú projektütemtervek archiválása SXC formátumban a régi rendszerekhez.
+
+* SXC táblázatok előkészítése nemzetközi partnerek számára a StarOffice használatával.
+
+* Táblázatos XSLFO adatok konvertálása oktatási és dokumentációs célokra.
+
+* Havi KPI-k megosztása SXC formátumban a szabályozási jelentésekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges automatizált konverzió XSLFO-ról SXC-re archiválási projektekhez.
+
+* Integráció a régi irodai folyamatokba, támogatva a StarOffice formátumokat.
+
+* Ütemezett SXC jelentéskészítés XSLFO fájlokból.
+
+* Kiváltott konverzió ismétlődő vezetői irányítópultokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

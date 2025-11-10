@@ -102,7 +102,47 @@ otherformats: XLSB TSV XLTM SXC ODS EXCEL CSV XLT DIF XLAM XLTX XLSM XLSX XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ייצוא MOBI ל־FODS (Flat OpenDocument Spreadsheet) מספק פלט גיליון נתונים מבוסס XML המושלם להחלפת נתונים קלים. זה מושלם עבור סביבות קוד פתוח ומערכות שדורשות נתוני eBook מובנים בטקסט פשוט.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+- ניהול ספריות של eBook ביישומי גיליון קוד פתוח.
+
+- עריכת תכונות תוכן MOBI ב־LibreOffice Calc.
+
+- יצירת דוחות קלים לניתוח ספריית דיגיטל.
+
+- שיתוף מטא-נתונים בין צוותים באמצעות פורמטים פתוחים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+- המרות MOBI-ל־FODS בצורת סדרות לשערי נתונים פתוחים.
+
+- שילוב בצינורות נתונים ETL קוד פתוחים.
+
+- פירוק XML לאימות וניקוי מטא-נתונים.
+
+- פרסום נתונים מבוססי FODS למוסדות אקדמיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

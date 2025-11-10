@@ -47,7 +47,51 @@ otherformats: SXC TXT XLTM MD FODS XLSM XLT DIF ODS EXCEL XLSB XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **SXC (สเตอร์ออฟฟิศแคลคสเปรดชีต)** ช่วยให้ผู้ใช้ OpenOffice หรือ StarOffice เวอร์ชันเก่าสามารถทำงานกับข้อมูลตาราง LaTeX โดยไม่สูญเสียโครงสร้าง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* ชุดข้อมูล LaTeX ประวัติศาสตร์ในรูปแบบที่เข้ากันได้กับ StarOffice
+
+* งานวิจัยทางวิชาการที่ต้องการความเข้ากันได้กับโปรแกรมสำนักงานเวอร์ชันเก่า
+
+* การแบ่งปันตาราง LaTeX ที่มีตัวเลขได้บนหลายแพลตฟอร์ม
+
+* รายงานโครงการในรูปแบบ SXC สำหรับระบบสำนักงานเวอร์ชันเก่า
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงชุดข้อมูล LaTeX แบบจำนวนมากตามกำหนดเวลา
+
+* การผสานเข้ากับกระบวนการทำงานอัตโนมัติของสำนักงานเวอร์ชันเก่า
+
+* การเก็บข้อมูลตาราง LaTeX โครงสร้างสำหรับความต่อเนื่องในการวิจัย
+
+* การสร้าง SXC ตามที่เกิดขึ้นจากโครงการร่วมกัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

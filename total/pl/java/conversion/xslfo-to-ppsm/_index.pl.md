@@ -135,7 +135,55 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie XSLFO na **PPSM (Pokaż PowerPoint z makrami)** łączy samodzielne slajdy z automatyzacją makr. PPSM jest idealny do interaktywnych pulpitów nawigacyjnych, prezentacji z automatyzacją lub dynamicznego raportowania.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przygotowywanie zautomatyzowanych pulpitów nawigacyjnych w formacie pokazu slajdów.
+
+* Osadzanie makr dla interaktywnych treści generowanych z XSLFO.
+
+* Udostępnianie prezentacji z makrami do raportowania na szeroką skalę.
+
+* Tworzenie dynamicznych pokazów dla inwestorów lub zarządu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja slajdów XSLFO na PPSM dla zautomatyzowanych spotkań.
+
+* Zaplanowana aktualizacja slajdów z makrami z powtarzających się raportów XSLFO.
+
+* Integracja z VBA lub przepływami pracy automatyzacji w PowerPoint.
+
+* Wywoływanie generowania PPSM dla prezentacji interaktywnych w czasie rzeczywistym.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

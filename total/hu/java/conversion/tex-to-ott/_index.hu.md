@@ -144,7 +144,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok átalakítása **OTT (OpenDocument Text Template)** formátumra lehetővé teszi az oktatók, kutatók és vállalkozások számára, hogy újrafelhasználható sablonokat hozzanak létre LaTeX formázással nyílt formátumokban, egyszerűsítve a dokumentumok szabványosítását.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Oktatási anyagok sablonjai egységes LaTeX formázással.
+
+* Nyílt formátumú sablonok együttműködésre laboratóriumi jelentések esetén.
+
+* Projektek és vállalati jelentések sablonjai nyílt forráskódú irodai szoftverekhez.
+
+* Szabványosított űrlapok az akadémiai vagy adminisztratív felhasználásra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Automatizált sablon-generálás többfelhasználós környezetekhez.
+
+* Integráció nyílt forráskódú LMS és irodai munkafolyamatokba.
+
+* Tömeges frissítések a sablonkönyvtárakhoz az akadémiai intézmények számára.
+
+* Dinamikus LaTeX-OTT konverzió kutatási dokumentációkhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

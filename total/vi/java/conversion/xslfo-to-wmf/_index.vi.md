@@ -57,7 +57,51 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh WMF đầu ra theo nhu c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO thành **WMF (Windows Metafile)** cho phép sử dụng hình ảnh vector có thể co giãn tương thích với Microsoft Office và các ứng dụng desktop publishing khác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Nhúng bảng và biểu đồ XSLFO vào Microsoft Word hoặc PowerPoint.
+
+* Tạo hình ảnh có thể co giãn cho các bài thuyết trình doanh nghiệp.
+
+* Lưu trữ hình ảnh báo cáo dưới dạng vector.
+
+* Chuẩn bị minh họa kỹ thuật từ dữ liệu cấu trúc XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt XSLFO thành WMF cho quy trình làm việc văn bản.
+
+* Xuất hình ảnh vector theo lịch trình cho slide decks.
+
+* Tạo hình ảnh WMF từ bảng điều khiển XSLFO theo sự kích hoạt.
+
+* Tích hợp với các đường ống xuất bản doanh nghiệp tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

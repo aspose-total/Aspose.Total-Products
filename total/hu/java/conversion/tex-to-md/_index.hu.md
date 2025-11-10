@@ -47,7 +47,51 @@ A TEX-fájl MD-vé konvertálásakor vízjelet is hozzáadhat a kimeneti MD-fáj
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájl átalakítása **MD formátumra (Markdown fájl)** egy standard Markdown fájlt hoz létre LaTeX-ből, megőrizve a szövegstruktúrát, táblázatokat és alapvető formázást a többplatformos olvashatóság érdekében.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* LaTeX kutatási jegyzetek előkészítése Git-alapú együttműködéshez.
+
+* Könnyű dokumentáció matematikai és táblázat támogatással.
+
+* LaTeX előadási jegyzetek megosztása nyílt forráskódú Markdown formátumban.
+
+* Műszaki jelentések átalakítása statikus webhelyek számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Automatizált batch TEX-MD konverzió kutatócsoportok számára.
+
+* Integráció verziókezelt webes tartalomcsövekbe.
+
+* Kiváltott frissítések Markdown fájlokból LaTeX tárolókból.
+
+* Folyamatos MD fájlok generálása oktatási vagy műszaki blogokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,51 @@ otherformats: MD ODS CSV SXC XLT XLTM EXCEL XLSM FODS XLTX XLAM DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XSLFO ל־**TSV (ערכים מופרדים בטאב)** פשוטה את תהליך חילוץ הנתונים הטבלאיים לצורכי ניתוח, ייבוא למסד נתונים או תהליכי ETL. TSV הוא קל, קריא לאדם, ונתמך בצורה רחבה על ידי שפות תכנות וכלי נתונים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייצוא דוחות XSLFO ל־TSV לצורך קליטה למסד נתונים.
+
+* הכנת סטי נתונים ידידותי לניתוח מטבלאות מסודרות של XSLFO.
+
+* העברת נתונים מגליונות כספיים של XSLFO לפלטפורמות ניתוח.
+
+* שיתוף נתונים טבלאיים פשוטים בפורמט TSV לשם שילוב קל.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה מתוזמנת באצווה מ־XSLFO ל־TSV לצורך צינון BI.
+
+* אינטגרציה של ETL לזרימות ניתוח בזמן אמת.
+
+* ייצוא TSV ממופעל מדוחות XSLFO ללוחות בקרה אוטומטיים.
+
+* המרה תכנותית לסטים גדולים של נתוני XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,55 @@ XSLFOファイルをXLTMに変換するときに、出力XLTMファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**XLTM（マクロ有効Excelテンプレート）**に変換すると、埋め込み自動化をサポートする再利用可能なワークブックが可能になります。XLTMテンプレートは繰り返しのレポート作成や高度なワークフローを効率化します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* 自動化のために埋め込みマクロを備えたXSLFOレポートの標準化。
+
+* 部門間でインタラクティブなレポートテンプレートの配布。
+
+* XSLFOから再利用可能な財務モデリングテンプレートの準備。
+
+* 表形式のXSLFOデータから自動化されたダッシュボードテンプレートの作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 企業レポートのためのXLTMテンプレートの一括生成。
+
+* 自動化されたVBAワークフローとの統合。
+
+* 定期的なプロジェクトレポートのためのXSLFOからXLTMへの変換のスケジュール設定。
+
+* マクロ駆動の分析ダッシュボードのためのトリガーされたXLTMテンプレート作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

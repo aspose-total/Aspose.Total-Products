@@ -57,7 +57,55 @@ Usando a API, você também pode girar a imagem DICOM de saída conforme suas ne
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter XPS para **DICOM (Comunicações e Imagens Digitais em Medicina)** permite a integração de visuais de documentos em sistemas de imagens médicas, preservando detalhes de alta resolução para aplicações clínicas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Incorporação de relatórios médicos nos fluxos de trabalho de imagens de radiologia.
+
+* Arquivamento de documentos de diagnóstico junto com exames de pacientes.
+
+* Sistemas hospitalares que requerem compatibilidade com DICOM para relatórios.
+
+* Plataformas de telemedicina integrando imagens de documentos clínicos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de XPS para DICOM para sistemas de registros hospitalares.
+
+* Integração automatizada com PACS (Sistemas de Comunicação e Arquivamento de Imagens).
+
+* Atualizações programadas para imagens de registros de pacientes.
+
+* Fluxos de trabalho simplificados para processamento de dados de imagens médicas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

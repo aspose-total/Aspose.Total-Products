@@ -47,7 +47,51 @@ XPS 파일을 MD로 변환하는 동안 출력 MD 파일 형식에 워터마크�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **MD (Markdown)**로 변환하면 인간이 읽기 쉽고 편집 가능한 간소화된 텍스트 형식이 생성되어 버전 관리되는 문서 및 웹 콘텐츠에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 가벼운 형식의 기술 매뉴얼 및 안내서.
+
+* 소프트웨어 및 기업 절차에 대한 내부 문서.
+
+* 블로그 게시물이나 지식 공유 플랫폼을 위한 빠른 변환.
+
+* Markdown 지원을 통한 학술 및 연구 노트 작성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 콘텐츠 관리 시스템을 위한 일괄 XPS-to-MD 변환.
+
+* 자동 게시 파이프라인과의 통합.
+
+* Markdown 기반 문서의 예약된 업데이트.
+
+* 편집 가능한 텍스트로 여러 XPS 파일을 변환하는 간소화된 워크플로우.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

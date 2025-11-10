@@ -143,7 +143,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **MHTML (MIME HTML)** olarak dönüştürmek, LaTeX belgelerinin denklemeleri, tabloları ve grafikleri koruyarak çevrimdışı veya çevrimiçi görüntüleme için tek dosya web sayfası olarak oluşturulmasını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX araştırma makalelerini kendi içinde barındıran web sayfaları olarak arşivleme.
+
+* Gömülü grafikler ve denklemler içeren LaTeX tabanlı raporları paylaşma.
+
+* Tek bir MHTML dosyasında etkileşimli ders materyalleri oluşturma.
+
+* Çevrimdışı e-öğrenme modülleri için teknik içeriği dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Kurs kütüphaneleri için toplu TEX'ten MHTML'e dönüştürme.
+
+* Otomatik e-öğrenme içeriği oluşturmaya entegrasyon.
+
+* LaTeX kaynaklarından zamanlanmış MHTML güncellemeleri.
+
+* Araştırma yayınlarını paylaşmak için tetiklenen dönüşüm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**PPTM（マクロ有効なPowerPoint）**に変換すると、編集可能なスライドと自動化機能が組み合わさります。PPTMは動的レポート、インタラクティブなダッシュボード、繰り返しプレゼンテーションに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* XSLFOに基づく計算をインタラクティブなスライドに埋め込む。
+
+* 自動化されたパフォーマンスレビューダッシュボードの準備。
+
+* マクロ有効なトレーニングまたは指導スライドの作成。
+
+* 動的な投資家や取締役向けのプレゼンテーションの配布。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XSLFOレポートをPPTMスライドに定期的に変換する。
+
+* VBA自動化パイプラインとの統合。
+
+* 繰り返しのXSLFOコンテンツからトリガーされたマクロ有効なスライド生成。
+
+* 動的な企業プレゼンテーションのための自動バッチ変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -143,7 +143,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **RTF (Rich Text Format)** biedt universele compatibiliteit, waardoor LaTeX-documenten kunnen worden geopend in bijna elke tekstverwerker met behoud van essentiële opmaak en wiskundige vergelijkingen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het delen van academische papers over verschillende platforms zonder opmaak te verliezen.
+
+* Technische handleidingen met complexe vergelijkingen toegankelijk in Word of LibreOffice.
+
+* Zakelijke documentatie met LaTeX-styling voor meerdere platformen.
+
+* E-mailklare LaTeX-documenten in universeel leesbare formaten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchconversie voor archieven en compatibiliteit tussen verschillende platformen.
+
+* Integratie in documentverwerkingspipelines voor technische teams.
+
+* Automatische generatie van RTF-rapporten uit LaTeX-datasets.
+
+* Getriggerde conversies voor geautomatiseerde publicatiesystemen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

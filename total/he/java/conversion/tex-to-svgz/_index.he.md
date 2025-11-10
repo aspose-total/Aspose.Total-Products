@@ -105,7 +105,51 @@ otherformats: APNG JPEG2000 WMZ EMZ TGA IMAGE  WMF PSD DXF DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל־**SVGZ (גרפיקה וקטורית דחופה ומדוחסת)** שומרת על איכות הווקטור ובו זמנית יורידה את גודל הקובץ, מומלץ לפרסום ברשת ובפרסומים אקדמיים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* הטמעת משוואות ותרשימים ב־LaTeX בעמודי אינטרנט.
+
+* גרפיקה גמישה וברזולוציה גבוהה לפרסומים.
+
+* ויזואליזציות אינטראקטיביות ברשת שנוצרו ב־LaTeX.
+
+* איורים טכניים בפורמט וקטור מדוחס.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רציפה של תרשימי LaTeX ל־SVGZ.
+
+* שילוב עם צינורות פרסום ברשת.
+
+* עדכונים מופעלים של גרפיקה וקטורית מדוחסת ממקורות LaTeX.
+
+* ארכיבה והפצה של איורים אקדמיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

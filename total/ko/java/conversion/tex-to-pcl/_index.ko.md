@@ -143,7 +143,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX 파일을 **PCL (프린터 명령어 언어)**로 변환하면 LaTeX 문서, 방정식, 표 및 다이어그램을 포함하여 전문 또는 학술적 환경에서 고품질 출력을 위해 프린터로 직접 전송할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LaTeX 연구 논문 및 기술 보고서 인쇄.
+
+* 강의 노트 및 교육 자료의 고품질 출력.
+
+* LaTeX로 생성된 표 및 다이어그램에서 전문적인 핸드아웃 제작.
+
+* 과학 또는 공학 프로젝트에서 일괄 문서 인쇄.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 프린트 대기열을 위한 일괄 TEX-to-PCL 변환.
+
+* 자동 문서 인쇄 워크플로에 통합.
+
+* 대량 인쇄를 위해 LaTeX 저장소에서 트리거된 PCL 생성.
+
+* 학술 또는 기업 문서 배포를 위한 예약된 출력.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

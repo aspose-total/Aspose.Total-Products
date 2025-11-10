@@ -57,7 +57,55 @@ Az API használatával igény szerint elforgathatja a kimeneti DICOM-képet is. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **DICOM (Digitális Képalkotás és Kommunikáció az Orvoslásban)** formátumra lehetővé teszi a strukturált jelentéstartalmak integrációját az orvosi képalkotási folyamatokba. A DICOM szabvány a radiológiában, klinikai tanulmányokban és kórházi információs rendszerekben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Strukturált páciensjelentések beágyazása az XSLFO által generált vizualizációk mellé.
+
+* Diagnosztikai irányítópultok előkészítése klinikai adatok felülvizsgálatához.
+
+* Orvosi analitikai táblázatok átalakítása DICOM-kompatibilis képeké.
+
+* Az XSLFO által generált laboreredmények integrálása a PACS rendszerekbe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* XSLFO jelentések ütemezett átalakítása DICOM formátumba kórházak számára.
+
+* Integráció automatizált elektronikus egészségügyi nyilvántartási (EHR) csövekbe.
+
+* DICOM vizualizációk kiváltott generálása XSLFO klinikai jelentésekből.
+
+* Tömeges feldolgozás kutatási adatvizualizációhoz az egészségügyben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

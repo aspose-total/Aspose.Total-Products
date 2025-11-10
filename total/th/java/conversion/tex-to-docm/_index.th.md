@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ TEX เป็น **DOCM (Word Macro-Enabled Document)** ช่วยให้เนื้อหา LaTeX สามารถผสมผสานกับ Word macros ได้อย่างราบรื่น ซึ่งมีประโยชน์อย่างมากสำหรับนักวิจัยทางวิชาการและวิศวกรที่ต้องการการสร้างรายงานโดยอัตโนมัติพร้อมกับตารางที่เปลี่ยนแปลงได้, สูตร, และเนื้อหาที่สามารถทำงานได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การอัตโนมัติรายงานการวิจัยที่มีเนื้อหา LaTeX ใน Microsoft Word.
+
+* การฝังสูตรคณิตศาสตร์ที่ซับซ้อนสำหรับเอกสารวิศวกรรม.
+
+* การสร้างเทมเพลตห้องทดลองที่สามารถทำงานได้พร้อมกับ macros เพื่อผลลัพธ์ที่สามารถทำซ้ำได้.
+
+* การรวบรวมวิทยานิพนธ์ที่มีการ cross-referencing และการตั้งเลขอัตโนมัติ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การแปลงไฟล์ TEX เป็น DOCM จำนวนมากในระบบจัดการเอกสารของสถาบัน.
+
+* การสร้างวารสารวิทยาศาสตร์โดยใช้ macros จากที่เก็บข้อมูล LaTeX.
+
+* การผสมผสานเข้ากับการอัตโนมัติของกระบวนการทำงานสำหรับการเผยแพร่ทางเทคนิค.
+
+* การอัพเดทแดชบอร์ดการวิจัยโดยผสมเนื้อหา LaTeX กับ Word macros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

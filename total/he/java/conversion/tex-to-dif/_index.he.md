@@ -102,7 +102,51 @@ otherformats: XLSB XLTM XLTX XLT SXC EXCEL MD XLSM TSV ODS FODS CSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל־**DIF (פורמט החלפת נתונים)** מבטיחה שנתוני טבלאות LaTeX יכולים להיות בשימוש בתוכניות גליון ישנות וכלים מדעיים מתמחים במתן שמירה על מבנה ודיוק.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יבוא של טבלאות מספריות מבוססות LaTeX לתוכנות פיננסיות מסורתיות.
+
+* שיתוף חישובים הנדסיים עם כלים התומכים ב־DIF.
+
+* שמירה על נתונים מובנים לפרסומים אקדמיים.
+
+* ארכיבה של סטים של LaTeX בפורמטים פתוחי החלפה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת DIF בצורה צפופה מנתוני פרויקט LaTeX.
+
+* שילוב בצינורות נתונים מדעיים.
+
+* ארכיבה אוטומטית של תוצאות ניסויי מחקר.
+
+* המרות מתוזמנות למערכות דיווח רציפות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

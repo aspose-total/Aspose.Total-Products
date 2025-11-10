@@ -47,7 +47,51 @@ Tijdens het converteren van het TEX-bestand naar FODS, kunt u ook een watermerk 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **FODS (Flat OpenDocument Spreadsheet)** levert LaTeX-gegevens op in open, op XML gebaseerde spreadsheets die compatibel zijn met LibreOffice en OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het delen van op LaTeX gebaseerde wetenschappelijke tabellen met open-source kantoorpakketten.
+
+* Academisch onderzoek dat open, platformonafhankelijke spreadsheetindelingen vereist.
+
+* Projecttracking en rapportage in multiplatformomgevingen.
+
+* Het voorbereiden van LaTeX-gegevens voor samenwerkende FODS-spreadsheets.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde TEX-naar-FODS-conversie voor open-source workflows.
+
+* Batchverwerking van LaTeX-datasets voor samenwerking tussen verschillende platforms.
+
+* Geplande export van laboratoriumresultaten of experimenttabellen.
+
+* Integratie in documentpijplijnen voor onderzoeksinstellingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

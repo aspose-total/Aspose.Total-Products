@@ -57,7 +57,55 @@ Az API használatával igény szerint elforgathatja a kimeneti DXF-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok átalakítása **DXF (Rajzcsere Formátum)** formátummá lehetővé teszi a LaTeX által generált műszaki diagramok, tervrajzok és vázlatok használatát CAD szoftverekben mérnöki és építészeti projektekhez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Mérnöki vázlatok LaTeX műszaki dokumentumokból.
+
+* Építészeti diagramok CAD integrációhoz.
+
+* LaTeX alapú ábrázolás tervezési projektekhez.
+
+* Gyártási vagy prototípus diagramok LaTeX alapján.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Tömeges TEX-DXF konverzió mérnöki folyamatokhoz.
+
+* Integráció CAD szoftverekkel.
+
+* Kiváltott automatikus tervezési diagramok generálása.
+
+* LaTeX vázlatok archiválása DXF formátumban a platformfüggetlen használathoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

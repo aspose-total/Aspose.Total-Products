@@ -135,7 +135,51 @@ presentation.save("output.pps", SaveFormat.Pps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **PPS (PowerPoint Show)** จะสร้างงานนำเสนอเฉพาะสไลด์สำหรับการเล่นทันที ที่เหมาะสำหรับการบรรยายอัตโนมัติ การฝึกอบรม และการแบ่งปันเนื้อหา LaTeX อย่างรวดเร็ว
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* งานนำเสนอบทเรียนที่พร้อมใช้งาน
+
+* งานนำเสนอสัมมนาแบบโต้ตอบ
+
+* สรุปโครงการวิศวกรรมสำหรับงานนำเสนอลูกค้า
+
+* สไลด์ที่พร้อมสำหรับการประชุมที่ใช้ LaTeX
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง TEX เป็น PPS แบบกลุ่มตามกำหนดเวลา
+
+* การสร้างงานนำเสนออัตโนมัติจากเนื้อหา LaTeX
+
+* การผสานระบบการนำเสนอ
+
+* การสร้าง PPS ตามเหตุการณ์สำหรับสัมมนาหรือแพลตฟอร์มการเรียนออนไลน์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

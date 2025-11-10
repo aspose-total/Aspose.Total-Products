@@ -47,7 +47,51 @@ TEX dosyasını XLAM'ye dönüştürürken, çıktı XLAM dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **XLAM (Excel Eklenti Makrosu)**'a dönüştürmek, LaTeX tablolarını ve formülleri etkileşimli Excel araçlarına dönüştürerek otomatik hesaplamalar ve gelişmiş işlevsellik sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX tarafından desteklenen finansal modelleme şablonları.
+
+* Mühendislik projeleri için otomatik hesaplama araçları.
+
+* Excel makrolarına gömülü akademik formül tabloları.
+
+* LaTeX ve Excel otomasyonunu birleştiren veri işleme panoları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* LaTeX veri setlerinden XLAM eklentilerinin otomatik oluşturulması.
+
+* Kurumsal araçlar için toplu LaTeX'ten XLAM'e dönüşümler.
+
+* Araştırma depolarından tetiklenen makro etkinleştirilmiş elektronik tablolar.
+
+* Otomatik raporlama ve pano boru hatlarına entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

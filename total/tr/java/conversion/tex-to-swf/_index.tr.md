@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **SWF (Shockwave Flash)** 'e dönüştürmek, eğitim platformları ve çevrimiçi sunumlar için uygun etkileşimli LaTeX animasyonları oluşturur, ancak öncelikle eski sistemler için kullanılır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Animasyonlu LaTeX tabanlı eğitimler ve görselleştirmeler.
+
+* Eski platformlar için etkileşimli eğitim modülleri.
+
+* İteratif hesaplamaların veya algoritma gösterimlerinin paylaşımı.
+
+* Teknik e-öğrenme içeriğinde dinamik diyagramlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Eski içerik kütüphaneleri için toplu TEX'ten SWF'ye dönüşüm.
+
+* Çevrimdışı e-öğrenme platformlarına entegrasyon.
+
+* Etkileşimli LaTeX dizileri için tetiklenmiş SWF oluşturma.
+
+* Animasyonlu eğitimlerin zamanlanmış güncellemeleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

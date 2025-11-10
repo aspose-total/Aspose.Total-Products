@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+텍스트를 **POTM (PowerPoint Macro-Enabled Template)**으로 변환하면 매크로 기능을 갖춘 재사용 가능한 템플릿이 추가되어 LaTeX 콘텐츠와 자동화된 슬라이드 기능이 연결됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LaTeX 수식을 포함한 대화식 교육용 슬라이드.
+
+* 자동 업데이트되는 표를 사용한 연구 발표.
+
+* 과학 보고서용 매크로 기능이 활성화된 템플릿.
+
+* 다중 저자 강의 슬라이드 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* LaTeX 콘텐츠로부터 일괄 매크로 기능이 활성화된 템플릿 생성.
+
+* 학술 또는 기업용 슬라이드 덱을 위한 트리거된 템플릿 업데이트.
+
+* PowerPoint 자동화 워크플로에 통합.
+
+* 예약된 LaTeX-to-POTM 슬라이드 템플릿 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -144,7 +144,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **RTF (Rich Text Format)** menawarkan kompatibilitas universal, memungkinkan dokumen LaTeX dibuka di hampir semua pengolah kata sambil mempertahankan format dan persamaan matematika yang penting.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Berbagi makalah akademis di berbagai platform tanpa kehilangan format.
+
+* Manual teknis dengan persamaan kompleks yang dapat diakses di Word atau LibreOffice.
+
+* Dokumentasi bisnis lintas platform dengan gaya LaTeX.
+
+* Dokumen LaTeX siap kirim melalui email dalam format yang dapat dibaca secara universal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch untuk arsip dan kompatibilitas lintas platform.
+
+* Integrasi ke dalam alur kerja pemrosesan dokumen untuk tim teknis.
+
+* Pembuatan laporan RTF otomatis dari kumpulan data LaTeX.
+
+* Konversi yang dipicu untuk sistem penerbitan otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,51 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz JPEG2
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja TEX na **JPEG2000** dostarcza wysokiej jakości, skompresowane wizualizacje LaTeX odpowiednie do archiwizacji, profesjonalnego publikowania i zastosowań internetowych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+
+
+
+* Archiwizowanie wysokiej rozdzielczości wykresów LaTeX do prac badawczych.
+
+* Diagramy naukowe do publikacji online z minimalną utratą jakości.
+
+* Dzielenie skompresowanych rycin akademickich między platformami.
+
+* Wysokiej jakości wizualizacje LaTeX do materiałów dydaktycznych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* Automatyczna konwersja wsadowa dla repozytoriów badawczych.
+
+* Integracja z procesami publikowania akademickiego.
+
+* Wywoływane generowanie JPEG2000 dla dystrybucji internetowej lub drukowanej.
+
+* Ciągła archiwizacja figur LaTeX w formatach skompresowanych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,55 @@ API'yi kullanarak, çıktı JPEG2000 görüntüsünü ihtiyaçlarınıza göre d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **JPEG2000** formatına dönüştürmek, arşivleme, profesyonel yayıncılık ve web uygulamaları için uygun yüksek kaliteli, sıkıştırılmış LaTeX görselleri sunar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Araştırma makaleleri için yüksek çözünürlüklü LaTeX çizimlerini arşivleme.
+
+* Bilimsel diyagramlar, minimal kalite kaybıyla çevrimiçi yayın için.
+
+* Platformlar arasında sıkıştırılmış akademik figürlerin paylaşımı.
+
+* Öğretim materyalleri için yüksek kaliteli LaTeX görselleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Araştırma havuzları için otomatik toplu dönüşüm.
+
+* Akademik yayıncılık akışlarına entegrasyon.
+
+* Web veya baskı dağıtımı için tetiklenmiş JPEG2000 oluşturma.
+
+* Sıkıştırılmış formatlarda LaTeX figürlerinin sürekli arşivlenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

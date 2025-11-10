@@ -102,7 +102,51 @@ otherformats: XLTX EXCEL CSV DIF XLTM SXC MD TXT XLSB XLSM ODS FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XPS ל־**TSV (ערכים מופרדים בטאב)** מספקת פורמט פשוט וקל משקל לשיתוף נתונים, שימושי במיוחד בתחומי תכנות, ניתוח נתונים וייבוא/ייצוא מסדי נתונים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* סט נתונים מדעיים לניתוח חישובי.
+
+* ייבוא קל ל־R, Python או תוכנות סטטיסטיות.
+
+* תמיכה בתמיכה מהירה בין צוותים ללא תלות ב־Excel.
+
+* כלים לדיווח במבנה קבצים שטוחים במבוססי רשת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* צינורות עבודה ממוכנים להמרת XPS ל־TSV למעבדות מחקר.
+
+* שילוב עם סקריפטים לניתוח לעיבוד בצובר.
+
+* המרה מתוזמנת לדוחות קבצי XPS חוזרים.
+
+* קליטה פשוטה למסד נתונים או זרימות עבודה ETL.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

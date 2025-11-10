@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XPS เป็น **MARKDOWN** จะเปลี่ยนเอกสารแบบสถิตเป็นรูปแบบที่เบา ง่ายต่อการแก้ไข ที่เข้ากันได้กับบล็อก แพลตฟอร์มเอกสาร และระบบควบคุมเวอร์ชัน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* เผยแพร่เอกสารเทคนิคบน GitHub หรือ GitLab
+
+* แปลงรายงานเป็นเนื้อหาพร้อมใช้งานบนบล็อก
+
+* สร้างบันทึกและรายการฐานความรู้ภายใน
+
+* การแก้ไขร่วมกันสำหรับทีมที่ใช้มาร์กอัพเบา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงอัตโนมัติของ XPS เป็น Markdown สำหรับแพลตฟอร์มเนื้อหา
+
+* การรวมกับเครื่องมือสร้างเว็บไซต์แบบสถิตเช่น Hugo หรือ Jekyll
+
+* การสร้าง Markdown เวอร์ชันตามกำหนดเวลาสำหรับเอกสารที่เกิดซ้ำ
+
+* การทำงานอย่างเรียบง่ายสำหรับการอัปเดตฐานความรู้ภายใน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,51 @@ APIを使用すると、パスワードで保護されたTXTドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT（プレーンテキスト）ファイルを**ODP（OpenDocument Presentation）**形式に変換することで、生のテキストレポートを構造化されたスライドデッキにシームレスに変換でき、ビジネスミーティングや共同プレゼンテーションに最適です。ODP形式は、LibreOffice、OpenOffice、および他のオープンソースの生産性スイートでの互換性を確保します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+
+
+* ミーティングノートをプロフェッショナルなODPスライドデッキに変換する。
+
+* 学術研究の要約を教室プレゼンテーションに変換する。
+
+* 取締役会での議論用に内部企業レポートをフォーマットする。
+
+* ポリシードキュメントから作成されたトレーニングモジュール。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* HRのオンボーディング資料の自動化されたTXTからODPへの変換。
+
+* 企業の知識管理システムへの統合。
+
+* 週次の運用レポートのスケジュールされた一括変換。
+
+* プロジェクト管理ログからのODPスライドのトリガー作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

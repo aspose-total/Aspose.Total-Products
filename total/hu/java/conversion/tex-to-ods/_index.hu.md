@@ -47,7 +47,51 @@ A TEX-fájl ODS-vé konvertálásakor vízjelet is hozzáadhat a kimeneti ODS-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok átalakítása **ODS (OpenDocument Spreadsheet)** formátumra lehetővé teszi a LaTeX tartalom kihasználását szerkeszthető táblázatokban elemzéshez és közös projektekhez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Akadémiai kutatások bonyolult számítási táblázataival.
+
+* Nyílt forráskódú pénzügyi vagy projektkövető táblázatok.
+
+* Mérnöki számítások, amelyek több platformon is működnek.
+
+* LaTeX táblázatok megosztása ODS formátumban közös oktatási projektekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges TEX-ODS konverziók egyetemi laboratóriumok számára.
+
+* Integráció nyílt forráskódú adatcsatornákba.
+
+* Automatizált jelentéskészítés LaTeX által generált numerikus adatokból.
+
+* ODS generálásának kiváltása több felhasználós környezetekben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

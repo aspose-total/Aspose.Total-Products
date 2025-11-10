@@ -61,7 +61,47 @@ MOBI를 DIF로 변환한 후 [Aspose.Cells for Java](https://products.aspose.com
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI 파일을 DIF (데이터 교환 형식)으로 변환하면 레거시 데이터 시스템과의 호환성을 유지하면서 구조화된 스프레드시트에서 가독성을 유지할 수 있습니다. DIF는 eBook 통계, 독서 기록 또는 카탈로그 데이터를 플랫폼 간에 표준화하는 효율적인 방법을 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+- 역사적 분석을 위해 MOBI 파일 메타데이터 보관.
+
+- DIF를 지원하는 빈티지 소프트웨어로 eBook 통계 가져오기.
+
+- 표준화된 저장을 위해 학술 출판 기록 형식 지정.
+
+- 기관 eBook 시스템을 위한 오프라인 카탈로그 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+- 연구 데이터 관리에서 예약된 MOBI-to-DIF 내보내기.
+
+- 이전 ERP 또는 보고 시스템과 통합.
+
+- 사서를 위한 명령줄 변환기를 통한 일괄 처리.
+
+- 분산 독서 네트워크를 위한 자동화된 DIF 파일 전달.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

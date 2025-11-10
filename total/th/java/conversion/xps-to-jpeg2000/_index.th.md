@@ -57,7 +57,51 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XPS เป็น **JPEG2000** ให้ภาพที่มีคุณภาพสูงและบีบอัดที่เหมาะสำหรับการเผยแพร่อย่างมืออาชีพ การใช้งานทางการแพทย์ และการเก็บถาวร.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* เก็บถาวรเอกสารบริษัทและกฎหมาย
+
+* ภาพความละเอียดสูงพร้อมสำหรับการเผยแพร่
+
+* การผสานเข้ากับห้องสมุดดิจิทัลที่ต้องการคุณภาพที่ไม่สูญเสีย
+
+* เอกสารทางการแพทย์และวิทยาศาสตร์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงข้อมูลเก็บถาวร XPS เป็น JPEG2000 อัตโนมัติเพื่อประสิทธิภาพในการจัดเก็บ
+
+* การประมวลผลเป็นชุดตามกำหนดเวลาสำหรับห้องสมุดภาพเอกสาร
+
+* การผสานกับระบบการจัดการสินทรัพย์ดิจิทัล
+
+* กระบวนการทำงานในการเผยแพร่อย่างมีระบบสำหรับภาพความละเอียดสูง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ TEXファイルをXLTXに変換するときに、出力XLTXファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**XLTX（マクロなしのExcelテンプレート）**に変換すると、LaTeXで生成された表や数式用の安全で再利用可能なテンプレートが提供され、共同作業やマルチプラットフォーム環境に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* マクロなしの標準化された学術および企業用テンプレート。
+
+* 再利用可能なLaTeXベースのプロジェクト追跡シート。
+
+* 安全なマルチユーザー共有用の財務および研究テンプレート。
+
+* エンジニアリングおよび科学チーム向けのマルチシートレポート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* バッチTEXからXLTXテンプレートの作成。
+
+* 文書およびテンプレートリポジトリへの自動統合。
+
+* 共同プロジェクトのためのスケジュールされたLaTeXテンプレートの更新。
+
+* マクロなしのLaTeXパワードテンプレートのマルチプラットフォーム展開。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

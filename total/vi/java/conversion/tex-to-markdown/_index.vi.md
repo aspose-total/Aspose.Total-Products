@@ -143,7 +143,55 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **MARKDOWN** biến đổi tài liệu LaTeX thành văn bản nhẹ, dễ đọc với cú pháp Markdown, lý tưởng cho xuất bản web, tài liệu và quy trình làm việc kiểm soát phiên bản.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi ghi chú và báo cáo học thuật cho blog trực tuyến.
+
+* Tài liệu kỹ thuật với công thức LaTeX trong cú pháp thân thiện với Markdown.
+
+* Chỉnh sửa cộng tác trong kho lưu trữ GitHub hoặc GitLab.
+
+* Xuất bản tóm tắt nghiên cứu LaTeX trên các nền tảng web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt TEX sang Markdown cho các đường ống tài liệu.
+
+* Tích hợp với các công cụ tạo trang tĩnh (ví dụ: Hugo, Jekyll).
+
+* Kích hoạt tạo ra cho các nền tảng nội dung giáo dục.
+
+* Chuyển đổi theo lịch trình cho việc xuất bản liên tục từ LaTeX sang web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

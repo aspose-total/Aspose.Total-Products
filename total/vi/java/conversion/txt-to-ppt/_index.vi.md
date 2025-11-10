@@ -54,7 +54,51 @@ API cũng cho phép bạn chuyển đổi các tài liệu TXT được bảo v�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi file TXT sang file **PowerPoint (.PPT)** giúp tạo ra các bài thuyết trình hình ảnh nhanh chóng từ văn bản gốc. Quá trình chuyển đổi này lý tưởng cho các chuyên gia muốn tạo slide deck nhanh chóng mà không cần thiết kế từng slide thủ công.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Slide họp công ty được tạo trực tiếp từ tổng kết dự án.
+
+* Bài thuyết trình hội nghị được xây dựng từ ghi chú của diễn giả.
+
+* Slide đào tạo và giới thiệu được tạo từ tài liệu chính sách.
+
+* Slide lên kế hoạch sự kiện được tạo từ danh sách công việc văn bản.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tự động tạo slide PPT từ báo cáo hàng ngày.
+
+* Tích hợp vào các công cụ quy trình làm việc để sản xuất bài thuyết trình nhanh chóng.
+
+* Tạo lô slide theo lịch trình cho sự kiện hoặc hội thảo.
+
+* Định dạng slide hỗ trợ bằng trí tuệ nhân tạo dựa trên phân tích nội dung TXT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

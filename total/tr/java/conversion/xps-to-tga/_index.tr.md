@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı TGA görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **TGA (Targa Görüntü Dosyası)**'na dönüştürmek, profesyonel grafik ve video üretimi için uygun yüksek kaliteli radyal görüntüler sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Video ve multimedya projeleri için yüksek kaliteli görseller.
+
+* XPS diyagramlarından türetilen oyun tasarım varlıkları.
+
+* Kayıpsız radyal görüntüler gerektiren teknik illüstrasyonlar.
+
+* Sunum veya arşiv amaçlı kurumsal grafikler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Toplu XPS'ten TGA'ya dönüştürme boru hatları.
+
+* Multimedya üretim iş akışları için zamanlanmış oluşturma.
+
+* Grafik düzenleme ve video yazılımlarıyla entegrasyon.
+
+* Teknik veya tasarım görsellerinin otomatik işlenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**SWF（Shockwave Flash）**に変換すると、教育プラットフォームやオンラインプレゼンテーション向けのインタラクティブなLaTeXアニメーションが作成されますが、主に旧式システム向けです。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* LaTeXベースのアニメーションチュートリアルや視覚化。
+
+* 旧式プラットフォーム向けのインタラクティブな教育モジュール。
+
+* 反復計算やアルゴリズムデモンストレーションの共有。
+
+* 技術系eラーニングコンテンツのダイナミックな図表。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 旧コンテンツライブラリ向けのバッチTEXからSWFへの変換。
+
+* オフラインeラーニングプラットフォームへの統合。
+
+* インタラクティブなLaTeXシーケンスのためのトリガーされたSWF生成。
+
+* アニメーションチュートリアルの定期的な更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

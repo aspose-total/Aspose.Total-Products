@@ -57,7 +57,51 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XPS เป็น **DXF (Drawing Exchange Format)** ช่วยให้สามารถใช้เลย์เอาท์ XPS ในแอปพลิเคชัน CAD โดยรักษาองค์ประกอบเวกเตอร์สำหรับโครงการดีไซน์ สถาปัตยกรรม และวิศวกรรม
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* แผนผังสถาปัตยกรรมและแบบแผนที่ถูกสกัดออกจากเอกสาร XPS
+
+* แผนภาพวิศวกรรมและแผนภูมิสำหรับซอฟต์แวร์ CAD
+
+* เอกสารเทคนิคที่ต้องการการแปลงเวกเตอร์อย่างแม่นยำ
+
+* กระบวนการออกแบบอุตสาหกรรมสำหรับการร่างรองร่วมกัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XPS เป็น DXF แบบกลุ่มโดยอัตโนมัติสำหรับทีม CAD
+
+* การผสานกับกระบวนการออกแบบสำหรับการอัปเดตเลย์เอาท์อย่างรวดเร็ว
+
+* การสร้าง DXF ตามกำหนดเวลาสำหรับรายงานวิศวกรรมที่เกิดซ้ำ
+
+* การสกัดองค์ประกอบเวกเตอร์อย่างเรียบง่ายสำหรับการผลิต
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

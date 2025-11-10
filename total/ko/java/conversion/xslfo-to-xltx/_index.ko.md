@@ -47,7 +47,55 @@ XSLFO 파일을 XLTX로 변환하는 동안 출력 XLTX 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **XLTX(매크로 없는 엑셀 템플릿)**으로 변환하면 매크로 실행 위험이 없는 반복 보고용 안전하고 재사용 가능한 템플릿이 보장됩니다. XLTX는 서식, 스타일 및 테이블 구조를 보존합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 팀 사용을 위한 XSLFO 기반 월간 재무 템플릿 준비.
+
+* 부서간 배포에 안전한 프로젝트 추적 시트 작성.
+
+* 매크로 없이 KPI 보고 템플릿 배포.
+
+* 표준 XSLFO 보고 구조를 XLTX 형식으로 보관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 반복 보고용 XSLFO를 XLTX로 일정에 따라 변환.
+
+* 일관된 보고를 위해 템플릿 관리 시스템 통합.
+
+* 기업 워크플로를 위한 매크로 없는 템플릿 일괄 생성.
+
+* 표준화된 보고를 위해 XSLFO에서 XLTX 파일 생성 트리거.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

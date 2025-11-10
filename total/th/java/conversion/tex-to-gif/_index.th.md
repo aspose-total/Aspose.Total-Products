@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **GIF (รูปแบบการแลกเปลี่ยนกราฟิก)** ช่วยให้การแสดงผล LaTeX และการเคลื่อนไหวขนาดเล็กสามารถแชร์ออนไลน์หรือฝังลงในบทเรียนและเอกสารการอบรมได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การสร้างภาพเคลื่อนไหว LaTeX ง่ายๆ สำหรับเนื้อหาการศึกษา
+
+* แบ่งปันแผนภาพการแก้ปัญหาขั้นตอนต่อขั้น
+
+* การฝังสูตรที่เคลื่อนไหวในแพลตฟอร์มการเรียนออนไลน์
+
+* การแสดงผลการคำนวณ LaTeX แบบทวนซ้ำในรูปแบบ GIF
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง TEX เป็น GIF แบบกลุ่มโดยอัตโนมัติสำหรับบทเรียน
+
+* การผสานกับระบบ LMS และเนื้อหาบทเรียนออนไลน์
+
+* การสร้าง GIF จากกราฟ LaTeX หรือลำดับโดยเรียกใช้
+
+* การอัปเดต GIF การศึกษาโดยอัตโนมัติตามการอัปเดต LaTeX
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

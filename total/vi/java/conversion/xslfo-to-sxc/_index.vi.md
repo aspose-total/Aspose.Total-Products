@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp XSLFO sang SXC, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO sang định dạng **SXC (Bảng tính StarOffice)** cho phép tương thích mượt mà với các công cụ StarOffice và OpenOffice cũ. SXC bảo tồn cấu trúc và định dạng cho quy trình lưu trữ và báo cáo doanh nghiệp.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Lưu trữ lịch trình dự án dựa trên XSLFO trong SXC cho các hệ thống cũ.
+
+* Chuẩn bị bảng tính SXC cho đối tác quốc tế sử dụng StarOffice.
+
+* Chuyển đổi dữ liệu XSLFO bảng cho mục đích đào tạo và tài liệu.
+
+* Chia sẻ KPI hàng tháng trong SXC cho báo cáo tuân thủ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi tự động hàng loạt từ XSLFO sang SXC cho các dự án lưu trữ.
+
+* Tích hợp vào quy trình làm việc văn phòng cũ hỗ trợ định dạng StarOffice.
+
+* Tạo báo cáo SXC theo lịch từ các tệp XSLFO.
+
+* Chuyển đổi kích hoạt cho bảng điều khiển quản lý định kỳ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

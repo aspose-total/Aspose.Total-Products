@@ -143,7 +143,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX-bestanden naar **DOTM (Word Macro-Enabled Template)** biedt herbruikbare sjablonen met macrofunctionaliteit. Ideaal voor geautomatiseerde workflows, het verbindt LaTeX's precieze opmaak met de automatiseringsmogelijkheden van Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Geautomatiseerde indieningssjablonen voor academische tijdschriften.
+
+* Herbruikbare sjablonen voor technische rapporten met dynamische inhoudsgeneratie.
+
+* Macro-ingeschakelde formulieren voor laboratorium- of onderzoeksgegevensinvoer.
+
+* Genereren van LaTeX-aangedreven Word-sjablonen voor samenwerkingen met meerdere auteurs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Real-time documentcreatie geactiveerd vanuit LaTeX-invoerstromen.
+
+* Integratie in op Word gebaseerde enterprise documentautomatiseringspijplijnen.
+
+* Batch-sjabloonupdates voor samenwerkingsprojecten in onderzoek.
+
+* Genereren van macro-ingeschakelde projectdocumentatie voor engineeringteams.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

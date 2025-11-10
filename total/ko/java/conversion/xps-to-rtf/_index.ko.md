@@ -129,7 +129,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **RTF (Rich Text Format)**로 변환하면 대부분의 워드 프로세서와 최대 호환성을 보장하면서 기본 서식을 유지하여 다양한 소프트웨어 환경에서 문서 공유에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 쉬운 배포를 위한 간단한 보고서 변환.
+
+* 범용 형식 지원이 필요한 법적 서신.
+
+* 여러 플랫폼과 호환되는 교육 과제.
+
+* 널리 읽을 수 있는 형식으로 레거시 문서 보관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XPS 파일을 RTF로 일괄 변환하여 범용 액세스.
+
+* 자동화된 콘텐츠 관리 시스템과 통합.
+
+* 혼합 플랫폼 기업 환경에서 간소화된 공유.
+
+* 레거시 문서 이관을 위한 변환 파이프라인.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

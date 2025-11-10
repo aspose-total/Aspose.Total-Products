@@ -135,7 +135,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **PPSM (PowerPoint Macro-Enabled Show)** maakt het mogelijk om LaTeX-inhoud te voorzien van macro's voor geautomatiseerde berekeningen, interactieve diagrammen en dynamische presentaties.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Macrogestuurde academische colleges met dynamische tabellen.
+
+* Onderzoeks presentaties met automatisch bijgewerkte grafieken.
+
+* Bedrijfstraining presentaties met interactieve elementen.
+
+* Conferentie slides met LaTeX formules van meerdere auteurs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch TEX-naar-PPSM conversies voor interactieve presentaties.
+
+* Geautomatiseerde integratie van LaTeX-inhoud in macro-ingeschakelde presentaties.
+
+* Geplande updates voor dynamisch workshopmateriaal.
+
+* Getriggerde creatie voor onderzoeks- of bedrijfspresentatiepijplijnen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

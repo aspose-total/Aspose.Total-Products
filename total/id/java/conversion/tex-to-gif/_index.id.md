@@ -144,7 +144,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **GIF (Graphics Interchange Format)** memungkinkan visualisasi LaTeX dan animasi kecil dibagikan secara online atau disematkan ke dalam tutorial dan materi pelatihan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Animasi LaTeX sederhana untuk konten pendidikan.
+
+* Berbagi diagram pemecahan masalah langkah demi langkah.
+
+* Menyematkan rumus animasi dalam platform e-learning.
+
+* Memvisualisasikan perhitungan LaTeX iteratif dalam format GIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch TEX ke GIF otomatis untuk tutorial.
+
+* Integrasi dengan LMS dan konten kursus online.
+
+* Generasi GIF dari plot LaTeX atau urutan yang dipicu.
+
+* Memperbarui otomatis GIF pendidikan berdasarkan pembaruan LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

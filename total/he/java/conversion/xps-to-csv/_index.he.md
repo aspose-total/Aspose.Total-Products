@@ -102,7 +102,55 @@ otherformats: SXC ODS DIF XLTX XLT FODS TXT EXCEL TSV XLTM XLSM MD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי XPS (XML Paper Specification) ל־**CSV (ערכים מופרדים בפסיק)** מאפשרת חילוץ מהיר של נתוני טבלה ממסמכים בפריסה קבועה. קבצי CSV הם אידיאליים לצורכי ניתוח, דיווח ושילוב חלקי עם מסדי נתונים וכלים לניתוח עסקי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייצוא דוחות מכירות לייבוא מהיר ל־Excel או Google Sheets.
+
+* העברת נתונים מובנים מקבצי XPS שאוחסנו למערכות CRM.
+
+* חילוץ רשומות פיננסיות לצורכי ניתוח ותחזוק.
+
+* תיעוד מבוסס נתונים למחקר אקדמי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת קבצי XPS ל־CSV בצורת צמיחה למחסני נתונים עסקיים.
+
+* שילוב עם צינורות ETL לדיווח אוטומטי.
+
+* חילוץ מתוזמן של נתוני טבלה תקופתיים ללוחות מחוונים.
+
+* עיבוד אוטומטי של תוצאות סקרים או שאלונים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

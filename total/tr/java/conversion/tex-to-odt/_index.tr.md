@@ -143,7 +143,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **ODT (Açık Belge Metni)** biçimine dönüştürmek, LaTeX kullanıcılarının LibreOffice, OpenOffice ve diğer ofis paketleriyle uyumlu açık standart belgeler üretmelerini sağlar, böylece platformlar arası erişilebilirlik ve işbirliğini garanti eder.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Açık belge formatlarında akademik gönderimler.
+
+* Çok platformlu uyumlulukla işbirlikçi araştırma raporları.
+
+* Açık kaynak proje belgeleri ve kılavuzları.
+
+* LaTeX biçimli e-kitaplar veya açık kaynak araçlar için öğretim materyalleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Üniversite depoları için toplu TEX'ten ODT'ye dönüştürme.
+
+* Açık kaynak yayınlama akışlarına entegrasyon.
+
+* Çok platformlu belge dağıtımı için otomatik dönüşüm.
+
+* LaTeX veri kümelerinden dinamik ODT raporları oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

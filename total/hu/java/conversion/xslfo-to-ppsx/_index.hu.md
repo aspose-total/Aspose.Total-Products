@@ -135,7 +135,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **PPSX-re (PowerPoint Show without Macros)** önállóan futó bemutatókat eredményez, amelyek biztonságosan terjeszthetők. A PPSX megőrzi a formázást és elrendezést, miközben elkerüli a makrók végrehajtásának kockázatát.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Önállóan futó pénzügyi irányítópultok létrehozása XSLFO adatokból.
+
+* Szabványosított képzési vagy bevezető prezentációk megosztása.
+
+* Makrómentes befektetői pitch bemutatók készítése.
+
+* Negyedéves áttekintő diák archiválása csapat széles körű terjesztéséhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* XSLFO ütemezett tömeges átalakítása PPSX-re ismétlődő prezentációkhoz.
+
+* Makrómentes diavetítési csomagok kiváltott generálása.
+
+* Integráció automatizált terjesztési csatornákba.
+
+* Önállóan futó diák frissítése XSLFO jelentésekből.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

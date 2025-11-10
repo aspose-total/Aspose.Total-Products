@@ -135,7 +135,55 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XSLFO naar **PPT (Legacy PowerPoint-indeling)** zorgt voor compatibiliteit met oudere versies van Microsoft Office, terwijl tabulaire inhoud en dia-indelingen behouden blijven. PPT is geschikt voor organisaties die nog steeds gebruikmaken van verouderde tools.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Voorbereiden van XSLFO gegenereerde dia's voor verouderde bedrijfssystemen.
+
+* Delen van educatieve of trainingsinhoud in PPT-indeling.
+
+* Archiveren van zelfstandige dia's voor controle-doeleinden.
+
+* Omzetten van XSLFO-rapporten naar gemakkelijk distribueerbare verouderde PowerPoint-bestanden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch geautomatiseerde conversie van XSLFO naar PPT-dia's.
+
+* Geplande export voor terugkerende management- of trainingsrapporten.
+
+* Integratie met legacy Office-gebaseerde workflow-pijplijnen.
+
+* Geactiveerde PPT-creatie vanuit XSLFO-templates voor archiveringsdoeleinden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

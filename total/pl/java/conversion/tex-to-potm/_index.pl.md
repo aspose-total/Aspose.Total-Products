@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **POTM (szablon z włączoną obsługą makr w programie PowerPoint)** dodaje wielokrotnie używane szablony z możliwością makr, łącząc treści LaTeX z automatyczną funkcjonalnością slajdów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Interaktywne slajdy edukacyjne z formułami LaTeX.
+
+* Prezentacje badawcze z automatycznymi aktualizacjami tabel.
+
+* Szablony z obsługą makr do raportowania naukowego.
+
+* Szablony slajdów wykładowych dla wielu autorów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Tworzenie wsadowe szablonów z obsługą makr na podstawie treści LaTeX.
+
+* Wywoływane aktualizacje szablonów dla prezentacji akademickich lub korporacyjnych.
+
+* Integracja z automatyzacją w programie PowerPoint.
+
+* Zaplanowane generowanie szablonów slajdów LaTeX-to-POTM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

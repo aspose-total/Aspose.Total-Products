@@ -129,7 +129,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **DOTX (Word Şablonu)**'na dönüştürmek, otomatik betik olmadan yeniden kullanılabilir belge düzenleri arayan kullanıcılar için bir şablon seçeneği sunar. Eğitim, kurumsal ve yaratıcı iş akışlarında güvenli paylaşım ve tutarlı biçimlendirme için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Standartlaştırılmış eğitim çalışma sayfaları ve ödevler.
+
+* Kampanyalar ve sunumlar için pazarlama içerik şablonları.
+
+* İK veya operasyonlar için iç politika ve prosedür şablonları.
+
+* Finansal ve teknik belgeler için rapor şablonları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Şirket genelinde kullanım için otomatik şablon oluşturma.
+
+* DOTX dosyalarını belge yönetim platformlarına besleyen dönüşüm boruları.
+
+* Marka standartlarıyla uyumlu olacak şekilde XPS içeriğinin önceden biçimlendirilmesi.
+
+* Müşteriye sunulan teklif şablonlarının toplu oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

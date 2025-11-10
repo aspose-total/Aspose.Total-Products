@@ -61,7 +61,55 @@ POTMファイルをFODSに変換するときに、出力FODSファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTMからFODSへの変換により、フラットなXMLベースのOpenDocumentスプレッドシートファイルが生成されます。FODSは軽量でプラットフォームに依存しないスプレッドシートの保存に最適であり、プレゼンテーションスライドからのテーブル構造を保持します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* LibreOfficeやOpenOfficeで使用するためにPowerPointのテーブルをFODSにエクスポートする。
+
+* クロスプラットフォームのスプレッドシートにスライドベースの数値レポートを変換する。
+
+* オープンXML形式で学術的またはNGOプロジェクトのテーブルを共有する。
+
+* 構造化されたフラットなXMLスプレッドシートでプレゼンテーションデータをアーカイブする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* バッチPOTMからFODSへのワークフロー自動化。
+
+* クロスプラットフォームのオフィス自動化パイプラインへの統合。
+
+* 分散チーム向けのトリガーされたFODSファイル生成。
+
+* レポーティングおよびコンプライアンスシステム向けの構造化されたXMLデータ抽出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

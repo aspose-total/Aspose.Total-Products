@@ -135,7 +135,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **PPSX (PowerPoint Show tanpa Macros)** menghasilkan presentasi yang berjalan sendiri yang aman untuk didistribusikan. PPSX mempertahankan format dan tata letak sambil menghindari risiko eksekusi makro.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Membuat dasbor keuangan yang berjalan sendiri dari data XSLFO.
+
+* Berbagi presentasi pelatihan atau onboarding standar.
+
+* Menyiapkan tayangan pitch investor tanpa makro.
+
+* Mengarsipkan slide tinjauan triwulanan untuk distribusi tim.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch terjadwal dari XSLFO ke PPSX untuk presentasi berulang.
+
+* Generasi dipicu dari dek slide tanpa makro.
+
+* Integrasi ke dalam pipa distribusi otomatis.
+
+* Pembaruan otomatis dari slide yang berjalan sendiri dari laporan XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

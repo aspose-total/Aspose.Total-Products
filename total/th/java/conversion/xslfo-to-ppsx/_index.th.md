@@ -135,7 +135,51 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **PPSX (PowerPoint Show โดยไม่มีแมโคร)** จะสร้างงานนำเสนอที่เล่นอัตโนมัติที่ปลอดภัยสำหรับการกระจาย. PPSX จะรักษาการจัดรูปแบบและเลย์เอาต์ พร้อมหลีกเลี่ยงความเสี่ยงในการดำเนินการแมโคร.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* สร้างแผนภูมิการเงินที่เล่นอัตโนมัติจากข้อมูล XSLFO.
+
+* แบ่งปันงานฝึกอบรมหรืองานนำเสนอการบริหาร.
+
+* เตรียมการนำเสนอการลงทุนโดยไม่มีแมโคร.
+
+* เก็บถาวรสไลด์การทบทวนไตรมาสสำหรับการกระจายทีม.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงกลุ่มของ XSLFO เป็น PPSX ตามกำหนดเวลาสำหรับงานนำเสนอที่เกิดซ้ำ.
+
+* การสร้างสไลด์โชว์โดยไม่มีแมโครตามเหตุการณ์ที่เกิดขึ้น.
+
+* การรวมเข้ากับท่อการกระจายอัตโนมัติ.
+
+* การอัพเดทอัตโนมัติของสไลด์ที่เล่นอัตโนมัติจากรายงาน XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

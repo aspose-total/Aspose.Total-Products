@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 IMAGE 이미지를 회전할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **이미지 (일반 래스터 형식)**으로 변환하면 웹, 인쇄 및 데스크톱 애플리케이션에 대한 다양한 출력이 가능합니다. 요구 사항에 따라 PNG, BMP 또는 TIFF와 같은 지원되는 형식을 포함할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 구조화된 XSLFO 테이블에서 정적 시각화 생성.
+
+* 보고 대시보드 또는 문서용 그래픽 준비.
+
+* 모바일 앱이나 e-러닝을 위한 차트 및 테이블 내보내기.
+
+* 반복 보고서의 래스터화된 아카이브 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XSLFO 보고서의 일괄 이미지 형식 변환.
+
+* 자동화된 대시보드 생성 파이프라인 통합.
+
+* 예약된 보고서 전달을 위한 트리거된 내보내기.
+
+* e-러닝이나 웹 플랫폼을 위한 자동화된 이미지 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

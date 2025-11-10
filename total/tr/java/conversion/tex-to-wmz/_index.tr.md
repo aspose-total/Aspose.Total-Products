@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı WMZ görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **WMZ'ye (Sıkıştırılmış Windows Metafile)** dönüştürmek, LaTeX diyagramları için vektör grafikleri sıkıştırarak depolamayı optimize ederken sunumlar ve raporlar için kaliteyi korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Microsoft Office slaytları için sıkıştırılmış LaTeX diyagramları.
+
+* Ölçeklenebilir teknik çizimlerin arşivlenmesi.
+
+* Akademik yayınlarda hafif grafiklerin paylaşımı.
+
+* Büyük dosya boyutları olmadan raporlara vektör grafiklerin gömülmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Otomatik toplu TEX'ten WMZ'ye dönüşüm.
+
+* Belge ve slayt otomasyon sistemlerine entegrasyon.
+
+* Sıkıştırılmış LaTeX diyagramlarının tetiklenmiş oluşturulması.
+
+* Çok kullanıcılı erişim için WMZ şekillerinin zamanlanmış güncellemeleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

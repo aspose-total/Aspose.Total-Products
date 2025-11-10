@@ -61,7 +61,47 @@ MOBI'yi XLT'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produc
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI'yi XLT'ye (Excel Şablonu) dönüştürmek, e-kitap analizi ve raporlama için yeniden kullanılabilir elektronik tablo şablonları oluşturur. Bu format, görsel düzen ve formülleri projeler arasında standartlaştırır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+- MOBI analizi için standartlaştırılmış şablonlar tasarlama.
+
+- Yayınlama departmanları için raporlama süreçlerini optimize etme.
+
+- Yazar ekiplerine tutarlı panolar dağıtma.
+
+- E-kitap meta verileri için yeniden kullanılabilir veri giriş şablonları oluşturma.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+- Şablona dayalı MOBI içe aktarma otomasyonu.
+
+- XLT raporlama yapıları için zamanlanmış güncellemeler.
+
+- Excel şablon kütüphaneleriyle entegrasyon.
+
+- Yayınlama iş akışları için önceden tanımlanmış XLT makroları.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

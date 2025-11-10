@@ -57,7 +57,51 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh TGA đầu ra theo nhu c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO thành **TGA (Hình ảnh Targa)** mang lại đồ họa raster chất lượng cao thường được sử dụng trong trò chơi, mô phỏng và hình ảnh độ phân giải cao.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuẩn bị hình ảnh được tạo ra từ XSLFO cho mô phỏng hoặc phân tích trò chơi.
+
+* Lưu trữ biểu đồ chi tiết với mức độ nén tối thiểu.
+
+* Tạo đồ họa raster cho xuất bản chuyên nghiệp.
+
+* Chuyển đổi bảng điều khiển hoạt động thành TGA cho quy trình thiết kế.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ XSLFO sang TGA cho báo cáo độ phân giải cao.
+
+* Xuất lịch trình cho các đường ống hình ảnh chuyên nghiệp.
+
+* Kích hoạt việc tạo ra TGA từ phân tích XSLFO định kỳ.
+
+* Tích hợp với quy trình thiết kế tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,45 @@ Ao converter o arquivo POT para ODS, você também pode adicionar marca d'água 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter POT para ODS (Planilha de Documentos Abertos) garante interoperabilidade perfeita com ambientes de escritório de código aberto. É perfeito para instituições acadêmicas e organizações públicas que adotam os padrões ODF.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Compartilhar relatórios gerados no PowerPoint com usuários do LibreOffice.
+
+* Transformar apresentações em sala de aula em modelos de entrada de dados.
+
+* Converter visuais de pesquisa em planilhas de código aberto.
+
+* Preparar relatórios de planilhas compatíveis para organizações públicas.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Criação automatizada de ODS a partir de apresentações de treinamento ou vendas.
+
+* Integração em plataformas de ERP ou análise de código aberto.
+
+* Fluxos de trabalho de conversão para ecossistemas de documentos híbridos.
+
+* Transformações agendadas para projetos de padronização de documentos.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,47 @@ MOBI'yi FODS'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI'nin FODS'a (Flat OpenDocument Spreadsheet) dışa aktarılması, hafif veri değişimi için ideal olan XML tabanlı bir elektronik tablo çıktısı sağlar. Açık kaynak ortamları ve düz metin yapılandırılmış e-kitap verileri gerektiren sistemler için mükemmeldir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+- Açık kaynak elektronik tablo uygulamalarında e-kitap kütüphanelerinin yönetilmesi.
+
+- LibreOffice Calc içinde MOBI içerik özniteliklerinin düzenlenmesi.
+
+- Dijital kütüphane analitiği için hafif raporlar oluşturulması.
+
+- Açık formatları kullanan ekipler arasında meta verilerin paylaşılması.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+- Açık veri portalları için toplu MOBI'den FODS'a dönüşümler.
+
+- Açık kaynak ETL veri borularına entegrasyon.
+
+- Meta verilerin doğrulama ve temizleme için XML ayrıştırılması.
+
+- Akademik kurumlar için FODS tabanlı veri yayınlama.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

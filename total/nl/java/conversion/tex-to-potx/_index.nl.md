@@ -135,7 +135,55 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **POTX (PowerPoint-sjabloon zonder macro's)** maakt veilige, herbruikbare dia-sjablonen met LaTeX-opmaak mogelijk, ideaal voor multi-user omgevingen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Gestandaardiseerde cursusdia-sjablonen met LaTeX-vergelijkingen.
+
+* Conferentiedia's zonder macrobeperkingen.
+
+* Herbruikbare projectpresentatiesjablonen.
+
+* Academische colleges met formule-rijke inhoud.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchcreatie van LaTeX-naar-POTX-sjablonen.
+
+* Geautomatiseerde sjabloonupdates vanuit LaTeX-opslagplaatsen.
+
+* Integratie in educatieve LMS of bedrijfssystemen voor dia's.
+
+* Geactiveerde generatie van dia-sjablonen voor teams met meerdere auteurs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

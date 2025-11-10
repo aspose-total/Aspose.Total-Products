@@ -135,7 +135,51 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **SWF (Flash)** ช่วยให้สามารถสร้างภาพเคลื่อนไหวแบบโต้ตอบสำหรับแดชบอร์ดและแอปพลิเคชันเว็บโดยสารที่เก่าแก่ได้ SWF สามารถรักษากราฟิกเวกเตอร์และอนุภาคที่ใช้เวลาเป็นพื้นฐาน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* ฝังแผนภูมิ XSLFO แบบโต้ตอบในพอร์ทัลเว็บเก่า
+
+* เตรียมแดชบอร์ดแบบเคลื่อนไหวสำหรับระบบอินทราเน็ตที่เก่า
+
+* แปลงโมดูลการฝึกอบรมเป็น SWF เพื่อใช้งานแบบออฟไลน์
+
+* เก็บถาวรการแสดงข้อมูล XSLFO แบบโต้ตอบเพื่อการปฏิบัติตามกฎหมาย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XSLFO เป็น SWF ตามกำหนดเวลาสำหรับระบบเก่า
+
+* สร้างแดชบอร์ดแบบเคลื่อนไหวเป็นชุด
+
+* การสร้างตigger สำหรับแอปพลิเคชันเว็บเก่า
+
+* การผสานรวมกับท่อส่งรายงานแบบโต้ตอบโดยอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

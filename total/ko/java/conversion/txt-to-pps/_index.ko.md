@@ -54,7 +54,55 @@ API를 사용하면 암호로 보호된 TXT 문서를 PPS로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT 파일을 **PPS (PowerPoint Show)** 형식으로 변환하면 직접 슬라이드쇼 모드로 열리는 발표용 슬라이드쇼가 생성됩니다. 이 형식은 완성된 프레젠테이션을 고객이나 청중에게 배포하는 데 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 편집 위험이 없이 배포되는 고객용 판매 프레젠테이션.
+
+* e-러닝 플랫폼용 미리 녹화된 강의 슬라이드.
+
+* 텍스트 일정표에서 생성된 이벤트 및 회의 슬라이드쇼.
+
+* 마케팅 캠페인 프레젠테이션을 PPS 파일로 직접 전달.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 웨비나 콘텐츠 전달을 위한 자동화된 TXT-to-PPS 변환.
+
+* 고객 프레젠테이션 라이브러리를 위한 일정화된 일괄 익스포트.
+
+* 요청 시 슬라이드쇼를 위한 콘텐츠 포털 통합.
+
+* 내부 브리핑 세션을 위한 트리거 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

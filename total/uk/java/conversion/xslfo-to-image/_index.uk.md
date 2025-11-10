@@ -105,7 +105,51 @@ otherformats: DXF APNG TGA JPEG2000 SVGZ EMZ WMF  PSD WMZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення XSLFO на **ЗОБРАЖЕННЯ (Загальні растрові формати)** надає універсальний вихід для вебу, друку та настільних додатків. Підтримувані формати можуть включати PNG, BMP або TIFF в залежності від вимог.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Генерація статичних візуальних елементів зі структурованих таблиць XSLFO.
+
+* Підготовка графіки для звітних панелей або документації.
+
+* Експорт діаграм та таблиць для мобільних додатків або електронного навчання.
+
+* Створення растрованих архівів повторюваних звітів.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетне перетворення звітів XSLFO на кілька форматів зображень.
+
+* Інтеграція з автоматизованими конвеєрами генерації звітних панелей.
+
+* Тригерний експорт для доставки запланованих звітів.
+
+* Автоматизована генерація зображень для електронного навчання або веб-платформ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

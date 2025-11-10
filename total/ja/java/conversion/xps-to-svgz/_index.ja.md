@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力SVGZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**SVGZ（圧縮可能なスケーラブルベクターグラフィックス）**に変換することで、ウェブサイト、アプリ、ベクターベースの印刷向きに適した軽量でスケーラブルなグラフィックスを保持します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* ウェブベースの図表やイラスト。
+
+* スケーラブルな使用のためのインフォグラフィックや技術図。
+
+* レスポンシブWebデザイン向けのマーケティンググラフィックス。
+
+* ベクター編集ソフトと互換性のある教育用ビジュアル。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XPSからSVGZへのバッチ変換パイプラインによるWebアセット。
+
+* 動的インフォグラフィック生成のための定期的な更新。
+
+* スケーラブルな画像のためのコンテンツ管理システムとの統合。
+
+* マルチプラットフォーム出版向けの効率化されたベクターグラフィックス処理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -121,7 +121,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **POTM (매크로 활성화 PowerPoint 템플릿)**으로 변환하면 재사용 가능한 템플릿을 자동화하여 포함된 매크로를 실행할 수 있는 상호 작용형 슬라이드 덱을 만들 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 자동화된 차트 업데이트가 포함된 기업용 템플릿.
+
+* 포함된 매크로가 있는 대화식 교육 프레젠테이션.
+
+* 슬라이드에서 동적 데이터 업데이트가 필요한 금융 대시보드.
+
+* PowerPoint 기반 보고서 내의 워크플로우 자동화.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XPS 파일을 매크로 활성화 템플릿으로 자동 일괄 변환.
+
+* Excel이나 데이터베이스 소스와 통합하여 슬라이드 콘텐츠를 동적으로 공급.
+
+* 매크로 활성화 프레젠테이션 템플릿의 예약된 생성.
+
+* 기업 회의용 대화식 대시보드의 간소화된 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

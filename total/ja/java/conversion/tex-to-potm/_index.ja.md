@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**POTM（PowerPoint Macro-Enabled Template）**に変換すると、マクロ機能を備えた再利用可能なテンプレートが追加され、LaTeXコンテンツと自動スライド機能が結びつきます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* LaTeX数式を使用したインタラクティブな教育スライド。
+
+* 自動更新テーブルを備えた研究プレゼンテーション。
+
+* 科学的レポート用のマクロ機能付きテンプレート。
+
+* 複数の著者向けの講義スライドテンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* LaTeXコンテンツからのバッチマクロ機能付きテンプレート作成。
+
+* 学術または企業のスライドデッキ用のトリガーされたテンプレート更新。
+
+* PowerPoint自動化ワークフローへの統合。
+
+* 予定されたLaTeXからPOTMスライドテンプレートの生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

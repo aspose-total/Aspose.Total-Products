@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı TGA görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **TGA (Targa Görüntüsü)**'e dönüştürmek, grafik yoğun uygulamalar, bilimsel görselleştirmeler ve dijital sanat için LaTeX tarafından oluşturulan şekillerin yüksek kaliteli rastgele dışa aktarımlarını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Yüksek kaliteli bilimsel illüstrasyonlar.
+
+* Grafik düzenleme için LaTeX tarafından oluşturulan diyagramlar.
+
+* Animasyon ve simülasyon iş akışları için görsellerin hazırlanması.
+
+* Kayıpsız görüntü kalitesi gerektiren dijital yayıncılık.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Araştırma görselleştirme boru hatları için toplu TEX'ten TGA'ya dışa aktarma.
+
+* Grafik işleme ve simülasyon araçlarıyla entegrasyon.
+
+* LaTeX içeriğinden yüksek kaliteli görüntülerin tetiklenerek oluşturulması.
+
+* Grafik ekipleri için TGA'da diyagramların otomatik arşivlenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

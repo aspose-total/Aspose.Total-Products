@@ -135,7 +135,55 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **OTP (OpenDocument Presentation Template)** menghasilkan template presentasi yang dapat digunakan kembali dengan format LaTeX untuk desain slide kuliah atau bisnis yang konsisten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Utama" %}}
+
+
+
+* Template kuliah berstandar dengan persamaan berformat LaTeX.
+
+* Template slide konferensi untuk tim penelitian.
+
+* Materi pendidikan yang dapat digunakan kembali dengan konten kaya formula.
+
+* Template proposal proyek untuk presentasi teknis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi batch template LaTeX-to-OTP untuk kursus.
+
+* Pembaruan template yang dipicu dari repositori LaTeX.
+
+* Distribusi otomatis template slide kepada rekan kerja.
+
+* Integrasi dengan alur kerja presentasi LMS sumber terbuka.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

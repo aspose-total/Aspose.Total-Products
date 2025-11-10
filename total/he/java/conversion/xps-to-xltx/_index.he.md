@@ -102,7 +102,51 @@ otherformats: TSV XLT XLTM XLAM FODS SXC CSV EXCEL TXT XLSM ODS DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XPS ל־**XLTX (תבנית Excel)** יוצרת תבניות שימושיות, ללא מקרו, המתאימות לדיווחים תקניים, הזנת נתונים ותיעוד עסקי תוך הבטחת אבטחה ותאימות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* תבניות דיווח בעלות סימון החברה.
+
+* תבניות אקדמיות או למחקר להזנת נתונים חוזרת.
+
+* גליונות מעקב בפרויקט לשיתוף צוות.
+
+* תבניות דיווח פיננסי ותפעולי ללא מקרו.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירה אוטומטית של תבניות Excel מבוססות XPS.
+
+* צינורות יצור רצפים לשימוש ברחבי הארגון.
+
+* שילוב עם מערכות ניהול מסמכים להפצה.
+
+* עדכונים מתוזמנים לתבניות תקניות חוזרות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+텍 파일을 **ODP (OpenDocument Presentation)**으로 변환하면 LaTeX 콘텐츠, 수식 및 표를 LibreOffice 및 OpenOffice와 호환되는 오픈 소스 프레젠테이션 슬라이드로 변환할 수 있습니다. LaTeX 기반 연구를 공유하는 학자 및 엔지니어에게 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LaTeX로 생성된 수식이 포함된 학술 강의.
+
+* 구조화된 데이터가 포함된 오픈 소스 프로젝트 프레젠테이션.
+
+* 수학, 물리 또는 공학 주제의 학회 슬라이드.
+
+* LaTeX 기반 대화식 다이어그램이 포함된 교육 자료.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 강의 자료나 교육 자료를 위한 일괄 TEX에서 ODP로 변환.
+
+* LaTeX 연구 저장소에서 스케줄된 슬라이드 생성.
+
+* 오픈 소스 프레젠테이션 파이프라인 통합.
+
+* 다중 저자 학술 슬라이드 덱을 위한 트리거 업데이트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 WMZ 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **WMZ (압축된 Windows Metafile)**로 변환하면 배포, 프레젠테이션 및 기술 문서에 적합한 조밀한 벡터 그래픽을 얻을 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 프레젠테이션 및 이메일용 압축된 다이어그램.
+
+* 설명서 및 안내서용 기술적인 일러스트레이션.
+
+* 확장 가능한 그래픽을 사용한 마케팅 자료.
+
+* 조밀한 형태로 벡터 풍부한 문서의 보관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 문서 배포를 위한 일괄 XPS-to-WMZ 변환.
+
+* 콘텐츠 관리 시스템과의 통합.
+
+* 압축된 벡터 파일의 예약 생성.
+
+* 프레젠테이션 또는 마케팅 콘텐츠를 위한 간소화된 처리.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

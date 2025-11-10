@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 SVGZ 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **SVGZ(압축 가능한 확장 가능한 벡터 그래픽)**로 변환하면 파일 크기를 줄이면서 벡터 품질을 유지할 수 있어 웹 및 학술 출판에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 웹 페이지에 LaTeX 수식 및 다이어그램 임베딩.
+
+* 출판물용 확장 가능한 고해상도 그래픽.
+
+* LaTeX로 생성된 데이터의 대화식 온라인 시각화.
+
+* 압축된 벡터 형식의 기술적인 일러스트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* LaTeX 다이어그램을 SVGZ로 일괄 변환.
+
+* 웹 게시 파이프라인과의 통합.
+
+* LaTeX 소스에서 압축된 벡터 그래픽의 트리거 업데이트.
+
+* 학술 일러스트의 보관 및 배포.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

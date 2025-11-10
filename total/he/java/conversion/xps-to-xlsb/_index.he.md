@@ -102,7 +102,51 @@ otherformats: DIF XLT TSV XLTX XLSM MD XLAM TXT EXCEL XLTM ODS SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XPS ל- **XLSB (Excel Binary Workbook)** משפרת ביצועים עבור קבצי נתונים גדולים על ידי שימוש בתבנית בינארית קומפקטית ומהירה לטעינה תוך שמירה על כל יכולות גיליון האלקטרוני.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* קבצי נתונים כלכליים או מכירות גדולים הדורשים עיבוד יעיל.
+
+* קבצי נתונים הנדרשים להנדסה ולמדע עם נוסחאות מורכבות.
+
+* לוחות בקרה אינטראקטיביים עם קלטי נתונים בנפח גבוה.
+
+* דוחות תאגידיים עם תרשימים מוטבעים וטבלאות פיבוט.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת XPS ל-XLSB בצורה צפופה לאנליזות ביצועים גבוהים.
+
+* יצירה אוטומטית של לוחות בקרה מנתוני XPS סטטיים.
+
+* עדכונים מתוזמנים של XLSB לדיווחים חוזרים.
+
+* שילוב במערכות BI הדורשות גיליון אלקטרוני מהיר לטעינה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

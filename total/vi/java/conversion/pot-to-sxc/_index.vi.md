@@ -61,7 +61,45 @@ Trong khi chuyển đổi tệp POT sang SXC, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi POT sang SXC (Bảng tính StarOffice Calc) giúp sử dụng dữ liệu xuất phát từ bài thuyết trình trong môi trường StarOffice hoặc OpenOffice cũ. Định dạng này vẫn phù hợp cho các dự án giáo dục và lưu trữ yêu cầu tương thích ngược.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tái sử dụng nội dung PowerPoint cho các tổ chức sử dụng phần mềm cũ hơn.
+
+* Tạo bảng hoạt động cho sinh viên từ các bảng trình bày.
+
+* Chia sẻ số liệu doanh nghiệp trên các công cụ bảng tính mã nguồn mở.
+
+* Lưu trữ phân tích dựa trên PowerPoint trong các hệ thống cũ.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Luồng công việc chuyển đổi dữ liệu cũ cho di cư doanh nghiệp.
+
+* Trích xuất bảng PowerPoint tự động vào các tệp SXC.
+
+* Chuyển đổi theo lịch trình cho các hệ thống lưu trữ và học thuật.
+
+* Tích hợp với các nền tảng thông minh doanh nghiệp cũ.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

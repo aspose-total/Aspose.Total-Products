@@ -47,7 +47,55 @@ XSLFOファイルをMDに変換するときに、出力MDファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO（Extensible Stylesheet Language Formatting Objects）ファイルを**MD（Markdown）**に変換することで、軽量でウェブフレンドリーで読みやすいドキュメントを作成できます。Markdownは、XSLFOコンテンツから見出し、テーブル、リストの構造を保持しつつ、ウェブサイト、ブログ、ドキュメントプラットフォーム向けに適した形式にします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* XSLFOで生成されたレポートをMarkdownに変換して技術文書化する。
+
+* XSLFOから構造化されたテーブルやコンテンツをナレッジベースに公開する。
+
+* テーブルレイアウトや見出しを保持したブログ用レポートを作成する。
+
+* 構造化されたXSLFOアナリティクスからオープンソースのドキュメントを準備する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XSLFOレポートの定期的なMarkdownへのバッチ変換をウェブポータル向けにスケジュールする。
+
+* 自動化されたドキュメンテーション生成パイプラインへの統合。
+
+* 定期的なアナリティクスやプロジェクトレポートのためのトリガー変換。
+
+* ナレッジ管理システム向けの自動化されたXSLFOからMDへのワークフロー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

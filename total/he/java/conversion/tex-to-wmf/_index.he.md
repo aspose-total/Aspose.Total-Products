@@ -105,7 +105,51 @@ otherformats: TGA IMAGE DXF EMZ JPEG2000  SVGZ PSD WMZ APNG DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל־**WMF (Windows Metafile)** שומרת גרפיקה וקטורית עבור תרשימי LaTeX, מבטיחה תאימות עם Microsoft Office ותיעוד טכני.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* הטמעת תרשימי LaTeX ב־Word או PowerPoint.
+
+* תרשימים טכניים בדוחות מקצועיים.
+
+* דמויות בגודל משתנה למסמכים עסקיים ואקדמיים.
+
+* הפצה צלבת פלטפורמות של גרפיקה שנוצרה ב־LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רציפה של תרשימי LaTeX ל־WMF.
+
+* שילוב בצינורות מסמכים של Microsoft Office.
+
+* עדכונים מופעלים לגרפיקה וקטורית במצגות.
+
+* ארכיבה אוטומטית של דמויות טכניות שנוצרו ב־LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

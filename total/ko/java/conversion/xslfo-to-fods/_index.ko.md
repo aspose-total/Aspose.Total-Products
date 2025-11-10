@@ -47,7 +47,51 @@ XSLFO 파일을 FODS로 변환하는 동안 출력 FODS 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO 파일을 **FODS (Flat OpenDocument Spreadsheet)** 형식으로 변환하면 LibreOffice 및 OpenOffice와 같은 오픈 소스 오피스 스위트를 지원합니다. FODS는 협업 환경에 적합한 가벼운 편집 가능한 XML 기반 스프레드시트를 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 오픈 소스 오피스 사용자와 XSLFO로 생성된 예산 시트 공유.
+
+* 표준화된 스프레드시트 형식으로 보고서 보관.
+
+* 크로스 플랫폼 협업을 위한 프로젝트 추적 시트 준비.
+
+* 기술적인 XSLFO 테이블을 편집 가능한 FODS 스프레드시트로 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 오픈 소스 보고 파이프라인을 위한 일괄 XSLFO-to-FODS 변환.
+
+* FODS를 지원하는 문서 관리 시스템에 통합.
+
+* 협업 프로젝트 대시보드를 위한 예약된 내보내기.
+
+* XSLFO 분석 보고서를 FODS 형식으로 자동 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

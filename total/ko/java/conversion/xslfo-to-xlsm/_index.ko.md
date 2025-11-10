@@ -47,7 +47,51 @@ XSLFO 파일을 XLSM로 변환하는 동안 출력 XLSM 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **XLSM (매크로 활성화된 Excel)**으로 변환하면 표 데이터를 보존하고 매크로를 사용한 고급 자동화를 가능하게 합니다. XLSM은 동적 보고서, 워크플로 자동화 및 재무 모델링에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Excel 매크로에 XSLFO 기반 계산 내용 임베딩.
+
+* XLSM 워크북을 사용하여 반복 보고 작업 자동화.
+
+* XSLFO 소스 데이터를 활용한 대화형 대시보드 생성.
+
+* 매크로 기반 재무 워크플로를 위한 XSLFO 템플릿 준비.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XSLFO 보고서로부터 XLSM 워크북의 자동 생성.
+
+* 관리 검토를 위한 예약된 매크로 활성화된 보고서 업데이트.
+
+* VBA 및 기업 워크플로 자동화와의 통합.
+
+* 동적 재무 대시보드를 위한 트리거된 XLSM 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

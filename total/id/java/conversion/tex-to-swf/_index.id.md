@@ -135,7 +135,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **SWF (Shockwave Flash)** menciptakan animasi LaTeX interaktif yang cocok untuk platform pendidikan dan presentasi online, meskipun utamanya untuk sistem-sistem lama.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Kunci" %}}
+
+
+
+* Tutorial dan visualisasi berbasis LaTeX yang dianimasikan.
+
+* Modul pendidikan interaktif untuk platform-platform lama.
+
+* Berbagi perhitungan iteratif atau demonstrasi algoritma.
+
+* Diagram dinamis dalam konten e-learning teknis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi Batch TEX ke SWF untuk perpustakaan konten lama.
+
+* Integrasi ke platform e-learning offline.
+
+* Generasi SWF yang dipicu untuk urutan LaTeX interaktif.
+
+* Pembaruan terjadwal tutorial beranimasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,37 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+XPS（XML Paper Specification）ファイルを**XAML（Extensible Application Markup Language）**に変換することで、開発者やデザイナーはWPF（Windows Presentation Foundation）アプリケーションでドキュメントコンテンツを再利用し、レイアウト、フォント、ベクターグラフィックを保持することができます。
+
+## {{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+* WPFベースのデスクトップアプリケーションに静的ドキュメントビジュアルを組み込む。
+
+* XAMLベースのUI要素を使用してインタラクティブなダッシュボードを設計する。
+
+* ソフトウェアインターフェースやコントロールでXPSのレイアウトを再利用する。
+
+* 正確なドキュメントレンダリングが必要な学術または企業向けeラーニングアプリ。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* XPSファイルをXAMLに自動バッチ変換してソフトウェア開発パイプラインに組み込む。
+
+* デスクトップアプリケーションの更新のためのCI/CDワークフローとの統合。
+
+* 定期的なアプリコンテンツのXAMLアセットのスケジュール生成。
+
+* 複数のWPFプロジェクトでXPSドキュメントを効率的に再利用する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

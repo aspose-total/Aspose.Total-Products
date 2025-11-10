@@ -135,7 +135,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **PPTM (Presentasi PowerPoint yang Mendukung Macro)** memungkinkan slide yang sepenuhnya interaktif dari LaTeX, termasuk makro untuk perhitungan otomatis, grafik dinamis, dan materi pengajaran interaktif.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Kuliah akademis interaktif dengan persamaan LaTeX.
+
+* Dasbor perusahaan dan template presentasi riset.
+
+* Slide seminar otomatis dengan pembaruan data real-time.
+
+* Presentasi workshop dengan interaktivitas yang didorong oleh makro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch TEX ke PPTM untuk slide deck interaktif.
+
+* Integrasi ke dalam sistem otomatisasi perusahaan atau universitas.
+
+* Generasi yang dipicu dari presentasi yang mendukung makro.
+
+* Pembaruan terjadwal dari repositori LaTeX untuk proyek multi-penulis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

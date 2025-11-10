@@ -105,7 +105,51 @@ otherformats: WMZ PSD TGA JPEG2000 WMF IMAGE SVGZ EMZ APNG DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення XSLFO в **DXF (Drawing Exchange Format)** зберігає векторні таблиці для використання в CAD та технічних додатках для дизайну. Файли DXF зберігають точні розміри та структури макетів.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Перетворення інженерних звітів, згенерованих XSLFO, у формати, зручні для CAD.
+
+* Архівування структурованих таблиць у вигляді векторних малюнків для технічної документації.
+
+* Інтеграція робочих макетів у програмне забезпечення для дизайну.
+
+* Генерація технічних діаграм з звітів XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетне перетворення XSLFO в DXF для робочих процесів інженерної документації.
+
+* Запланований експорт структурованих таблиць звітів у форматі DXF для перегляду дизайну.
+
+* Інтеграція з автоматизованими конвеєрами звітів на основі CAD.
+
+* Тригерне перетворення даних XSLFO в малюнки DXF для технічних команд.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

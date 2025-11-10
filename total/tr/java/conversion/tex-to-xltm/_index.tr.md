@@ -47,7 +47,51 @@ TEX dosyasını XLTM'ye dönüştürürken, çıktı XLTM dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **XLTM (Excel Macro-Enabled Template)**'e dönüştürmek, tekrar kullanılabilir şablonları makrolarla birleştirerek otomatik LaTeX veri iş akışlarını ve dinamik raporlamayı sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Otomatik derecelendirme için gömülü makrolara sahip akademik şablonlar.
+
+* LaTeX veri kümeleri ile desteklenen finansal ve mühendislik şablonları.
+
+* Makro destekli hesaplamaları olan dinamik panolar.
+
+* Çoklu yazar takımları için işbirlikçi proje şablonları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Kurumsal için toplu LaTeX'ten-XLTM şablonu oluşturma.
+
+* LaTeX veri kaynaklarından otomatik makro popülasyonu.
+
+* Araştırma projeleri için iş akışı otomasyonuna entegrasyon.
+
+* Çoklu kullanıcı erişimi için tetiklenmiş makro destekli şablon oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

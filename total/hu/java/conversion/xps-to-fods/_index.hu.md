@@ -47,7 +47,51 @@ A XPS-fájl FODS-vé konvertálásakor vízjelet is hozzáadhat a kimeneti FODS-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XPS átalakítása **FODS (Flat OpenDocument Spreadsheet)** formátumra biztosítja az open-source táblázatkezelő kompatibilitását a LibreOffice és az OpenOffice programokkal. Ideális megoldás azoknak a szervezeteknek, amelyek a beszállítófüggetlen, platformfüggetlen megoldásokat használják.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Akadémiai és kutatási projekt adatkészletek közös szerkesztéséhez.
+
+* Open-source pénzügyi jelentések készítése NGO-k vagy kormányintézmények számára.
+
+* Műszaki adatlapok és működési naplók nyílt formátumokban.
+
+* Platformfüggetlen táblázatmegosztás csapatok között.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Automatizált XPS-FODS konverziós csatornák kutató laboratóriumok számára.
+
+* Integráció open-source ERP vagy analitikai rendszerekkel.
+
+* Ütemezett frissítések operatív táblázatokhoz.
+
+* Zökkenőmentes együttműködés nyílt dokumentumformátumok használatával.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

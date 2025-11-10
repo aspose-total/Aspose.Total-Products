@@ -135,7 +135,55 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO (Extensible Stylesheet Language Formatting Objects) 파일을 **XAML (Extensible Application Markup Language)**로 변환하면 개발자와 디자이너가 구조화된 보고서를 풍부하고 상호작용 가능하며 확장 가능한 UI 구성 요소로 변환할 수 있습니다. XAML은 XSLFO로부터 스타일링, 레이아웃 및 계층 구조를 보존하면서 WPF, UWP 및 기타 XAML 기반 프레임워크와의 원활한 통합을 가능하게 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* XSLFO로 생성된 대시보드를 WPF 애플리케이션으로 변환하여 상호작용 가능한 테이블 및 차트를 만듭니다.
+
+* 구조화된 금융 또는 운영 보고서를 데스크톱 인터페이스에 포함합니다.
+
+* XSLFO 콘텐츠를 기반으로 하는 기업 애플리케이션을 위한 UI 구성 요소를 디자인합니다.
+
+* 구조화된 분석 보고서를 발표 앱용 상호작용 가능한 XAML 비주얼로 변환합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 주기적으로 발생하는 XSLFO 보고서를 XAML UI 구성 요소로 자동 변환합니다.
+
+* 실시간으로 XAML 대시보드를 생성하기 위해 ETL 파이프라인에 통합합니다.
+
+* 동적 XSLFO 데이터 소스에서 XAML 인터페이스를 정기적으로 업데이트합니다.
+
+* 보고, 시각화 또는 애플리케이션 프레임워크용 XAML 레이아웃을 트리거하여 생성합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

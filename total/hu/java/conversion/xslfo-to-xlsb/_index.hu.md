@@ -47,7 +47,51 @@ A XSLFO-fájl XLSB-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO konvertálása **XLSB (Excel bináris munkafüzet)** formátumba nagy teljesítményű táblázatkezelést kínál nagy adatkészletek esetén. Az XLSB csökkenti a fájlméretet, felgyorsítja a számításokat, és megőrzi a bonyolult formázást.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* XSLFO pénzügyi modellek kezelése nagy táblázatos adatkészletekkel.
+
+* XSLFO operatív jelentések archiválása tömör bináris formában.
+
+* Excel irányítópultok generálása adatokkal teli elemzésekhez.
+
+* XSLFO sablonokból származó XLSB alapú előrejelzési lapok előkészítése.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* XSLFO jelentések tételkonvertálása XLSB formátumba gyorsabb betöltés érdekében.
+
+* Ütemezett export vállalati elemzési alkalmazásokhoz.
+
+* Integráció automatizált Excel-alapú jelentési csövekbe.
+
+* XSLFO-ból kiváltott XLSB generálása nagy léptékű pénzügyi jelentésekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,47 @@ MOBI를 FODS로 변환한 후 [Aspose.Cells for Java](https://products.aspose.co
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI를 FODS(Flat OpenDocument Spreadsheet)로 내보내면 가벼운 데이터 교환을 위한 XML 기반 스프레드시트 출력물을 제공합니다. 오픈 소스 환경 및 일반 텍스트 구조화된 eBook 데이터가 필요한 시스템에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+- 오픈 소스 스프레드시트 애플리케이션에서 eBook 라이브러리 관리.
+
+- LibreOffice Calc 내에서 MOBI 콘텐츠 속성 편집.
+
+- 디지털 도서관 분석을 위한 가벼운 보고서 작성.
+
+- 오픈 포맷을 사용하여 팀 간 메타데이터 공유.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+- 오픈 데이터 포털을 위한 일괄 MOBI-to-FODS 변환.
+
+- 오픈 소스 ETL 데이터 파이프라인 통합.
+
+- 메타데이터 확인 및 정리를 위한 XML 구문 분석.
+
+- 학술 기관을 위한 FODS 기반 데이터 게시.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

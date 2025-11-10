@@ -105,7 +105,55 @@ otherformats: DXF WMF EMZ SVGZ JPEG2000 PSD APNG  WMZ IMAGE DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל־**TGA (תמונת Targa)** מאפשרת ייצוא רסטר באיכות גבוהה של דיוקנים שנוצרו ב־LaTeX עבור יישומים המבוססים על גרפיקה, ויזואליזציות מדעיות ואמנות דיגיטלית.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* איורים מדעיים ברמת סדר גבוה.
+
+* דיאגרמות שנוצרו ב־LaTeX לעריכת גרפיקה.
+
+* הכנת תמונות לתהליכי אנימציה וסימולציה.
+
+* פרסום דיגיטלי הדורש איכות תמונה ללא אובדן.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* ייצוא מספר רב של קבצים TEX ל־TGA עבור צינורות ויזואליזציה למחקר.
+
+* שילוב עם כלי עיבוד גרפי וסימולציה.
+
+* יצירת תמונות באיכות גבוהה מתוכן שנוצר ב־LaTeX באופן מופעל.
+
+* ארכיבה אוטומטית של דיאגרמות ב־TGA עבור צוותי גרפיקה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

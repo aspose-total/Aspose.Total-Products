@@ -47,7 +47,51 @@ TEXファイルをXLTMに変換するときに、出力XLTMファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**XLTM（Excel Macro-Enabled Template）**に変換すると、再利用可能なテンプレートとマクロが組み合わさり、自動化されたLaTeXデータワークフローと動的レポーティングが可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 自動採点用に埋め込まれたマクロを備えた学術テンプレート。
+
+* LaTeXデータセットを活用した金融およびエンジニアリングテンプレート。
+
+* マクロ駆動型計算を備えた動的ダッシュボード。
+
+* 複数の著者チーム向けの共同プロジェクトテンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 企業向けのバッチLaTeX-to-XLTMテンプレート生成。
+
+* LaTeXデータソースからの自動マクロ生成。
+
+* 研究プロジェクトのワークフロー自動化への統合。
+
+* 複数ユーザーアクセス用のトリガー付きマクロ有効テンプレート作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

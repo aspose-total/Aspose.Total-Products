@@ -143,7 +143,55 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **XAMLFLOW(Flow Document in XAML)**으로 변환하면 정적인 XPS 콘텐츠를 편집 가능한 흐르는 레이아웃으로 변환하여 WPF FlowDocuments에서 동적으로 표시할 수 있게 되어, e-reader, 보고서 또는 대화형 콘텐츠에 적합해집니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* XPS 소스에서 대화형 전자책 및 문서 작성.
+
+* 데스크톱 애플리케이션용 흐름 기반 기업 보고서 및 매뉴얼.
+
+* 교육 또는 훈련 앱에서 동적 텍스트 및 미디어 렌더링.
+
+* FlowDocuments로 제시되는 직원 핸드북 또는 정책 안내서.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XPS 아카이브를 e-learning 플랫폼용 XAMLFLOW로 자동 변환.
+
+* 주기적인 보고서 또는 매뉴얼을 위한 예약된 FlowDocument 생성.
+
+* FlowDocuments를 동적으로 표시하는 소프트웨어 도구와의 통합.
+
+* 정적 XPS 레이아웃을 반응형 FlowDocuments로 변환하기 위한 간소화된 파이프라인.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

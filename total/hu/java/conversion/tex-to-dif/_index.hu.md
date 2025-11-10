@@ -47,7 +47,51 @@ A TEX-fájl DIF-vé konvertálásakor vízjelet is hozzáadhat a kimeneti DIF-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **DIF (Adatcsere Formátum)** formátumba való átalakítása lehetővé teszi a LaTeX táblázatok használatát régebbi táblázatkezelő programokban és speciális tudományos eszközökben, miközben megőrzi a struktúrát és pontosságot.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* LaTeX alapú numerikus táblázatok importálása örökölt pénzügyi szoftverekbe.
+
+* Mérnöki számítások megosztása DIF-kompatibilis eszközökkel.
+
+* Strukturált adatok megőrzése tudományos publikációkhoz.
+
+* LaTeX adatkészletek archiválása nyílt csereformátumokban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* DIF generálás tételprojekt adatokból.
+
+* Integráció tudományos adatcsövekbe.
+
+* Kutatási kísérleti eredmények automatizált archiválása.
+
+* Ütemezett átalakítások folyamatos jelentési rendszerekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

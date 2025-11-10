@@ -53,7 +53,45 @@ API를 사용하여 워터마크를 사용하여 POT 파일을 OTT로 변환할 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POT을 OTT(OpenDocument Text Template)으로 변환하면 조직이 오픈 표준을 준수하는 재사용 가능한 문서 템플릿을 만들 수 있습니다. OTT 템플릿은 접근성과 장기 보관을 강조하는 기관에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* PowerPoint 교육 자료에서 오픈 표준 템플릿 생성.
+
+* 프레젠테이션 스타일을 재사용 가능한 텍스트 템플릿으로 변환.
+
+* 학술 출판을 위한 일관된 문서 형식 생성.
+
+* NGO 문서 작성을 위한 오픈 액세스 템플릿 설계.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* PowerPoint 마스터 레이아웃에서 자동화된 OTT 생성.
+
+* 오픈 소스 문서 워크플로우 통합.
+
+* 기관 문서 저장소 간의 템플릿 동기화.
+
+* 오픈 포맷 템플릿을 활용하는 정부 문서 시스템.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

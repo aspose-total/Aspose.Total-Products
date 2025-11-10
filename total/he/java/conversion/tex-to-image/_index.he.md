@@ -105,7 +105,51 @@ otherformats: DXF WMZ WMF TGA EMZ JPEG2000 SVGZ PSD  APNG DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל- **תמונה (פורמטים רסטר גנריים)** ממירה משוואות LaTeX, טבלאות ואיורים לפורמטי תמונה שגיאונים לשימוש ברחבי הרשת, הדפוס והתיעוד.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* הטמעת דיוקנים שנוצרו באמצעות LaTeX בבלוגים ובאתרים.
+
+* הכנת תמונות ברזולוציה גבוהה למאמרים אקדמיים.
+
+* שיתוף תרשימים בפורמטים קריאים באופן אוניברסלי.
+
+* המרת טבלאות מורכבות של LaTeX לצילומי תמונה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת טקסט TEX לתמונה בצורה עצמאית לספריות תוכן.
+
+* שילוב עם זרימות עבודה אוטומטיות ופרסום.
+
+* עדכונים מופעלים לתוכן לימוד או מדריך מבוסס תמונות.
+
+* ייצוא של מספר תרשימי LaTeX לפורמטי תמונה עקביים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

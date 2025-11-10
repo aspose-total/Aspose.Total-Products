@@ -143,7 +143,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX dosyalarını **DOTX (Word Şablonu)** dosyalarına dönüştürmek, betik riskleri olmadan LaTeX biçimlendirme tutarlılığı gerektiren akademik ve kurumsal ortamlar için mükemmel, tekrar kullanılabilir şablonlar sunar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX-stilinde denklemler içeren profesyonel rapor şablonları.
+
+* Öğrenciler ve üniversiteler için akademik tez biçimlendirme şablonları.
+
+* Eğitmenler için standartlaştırılmış ders planı şablonları.
+
+* Laboratuvarlar için araştırma projesi belgeleme şablonları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Kurumsal veya eğitim şablonlarının toplu oluşturulması.
+
+* LMS veya belge yönetim sistemlerinde otomatik şablon dağıtımı.
+
+* Belgelerin tutarlı markalaşması için LaTeX'ten Word şablonuna dönüşüm.
+
+* Otomatik rapor oluşturma süreçlerine entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

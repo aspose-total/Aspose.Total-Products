@@ -135,7 +135,55 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO thành **PPSM (Macro-Enabled PowerPoint Show)** kết hợp các slide tự chạy với tự động hóa macro. PPSM lý tưởng cho bảng điều khiển tương tác, bài thuyết trình tự động hoặc báo cáo động.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuẩn bị bảng điều khiển hiệu suất tự động trong định dạng trình diễn.
+
+* Nhúng macro cho nội dung XSLFO tương tác.
+
+* Chia sẻ bài thuyết trình có kích hoạt macro cho báo cáo trên toàn nhóm.
+
+* Tạo ra các chương trình trình diễn động cho nhà đầu tư hoặc hội đồng quản trị.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt các slide XSLFO thành PPSM cho các cuộc họp tự động.
+
+* Cập nhật định kỳ các slide có kích hoạt macro từ các báo cáo XSLFO lặp lại.
+
+* Tích hợp với VBA hoặc quy trình làm việc tự động của PowerPoint.
+
+* Kích hoạt việc tạo ra PPSM cho các bài thuyết trình tương tác thời gian thực.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

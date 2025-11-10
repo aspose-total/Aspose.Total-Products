@@ -130,7 +130,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**WordML（Word Processing ML）**に変換することで、技術者はWordのXMLベースのドキュメント構造と直接作業できます。これにより、自動編集、コンテンツ抽出、高度なドキュメントワークフローへの統合が可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* プログラムによって動的なWord文書を生成する開発者。
+
+* テキストとメタデータの自動抽出と操作。
+
+* 企業向けコンテンツ管理システムへの統合。
+
+* XMLベースの操作を必要とする技術的なパブリッシングパイプライン。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 大量のドキュメント処理のための自動XPSからWordMLへのパイプライン。
+
+* カスタムWordレポートを生成するAIシステムとの統合。
+
+* XMLベースのWord文書でのトリガーされたコンテンツ更新。
+
+* 技術的および法的文書のための効率化されたXML編集。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

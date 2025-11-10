@@ -47,7 +47,55 @@ Konwertując plik XSLFO na TSV, możesz także dodać znak wodny do wyjściowego
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie XSLFO na **TSV (wartości oddzielone tabulatorem)** upraszcza ekstrakcję danych tabelarycznych do analiz, importu do bazy danych lub procesów ETL. TSV jest lekki, czytelny dla człowieka i szeroko obsługiwany przez języki programowania oraz narzędzia do przetwarzania danych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Eksportowanie raportów XSLFO do TSV w celu zaimportowania ich do bazy danych.
+
+* Przygotowywanie zestawów danych przyjaznych dla analiz z tabel XSLFO.
+
+* Migracja danych z arkuszy finansowych XSLFO do platform analitycznych.
+
+* Udostępnianie prostych danych tabelarycznych w formacie TSV dla łatwej integracji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja wsadowa z XSLFO na TSV dla potoków BI.
+
+* Integracja ETL dla przepływów pracy analitycznych w czasie rzeczywistym.
+
+* Wywołany eksport TSV z raportów XSLFO dla zautomatyzowanych pulpitów.
+
+* Konwersja programistyczna dla dużych zbiorów danych XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

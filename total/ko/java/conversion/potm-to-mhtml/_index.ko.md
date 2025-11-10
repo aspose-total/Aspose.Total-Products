@@ -61,7 +61,51 @@ POTM 파일을 MHTML로 변환하는 동안 출력 MHTML 파일 형식에 워터
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM를 MHTML(MIME HTML)로 변환하면 모든 슬라이드 콘텐츠, 이미지 및 서식을 하나의 HTML 호환 파일로 결합한 단일 파일 웹 아카이브가 생성됩니다. MHTML은 오프라인 보기, 아카이빙, 이메일이나 웹 플랫폼을 통한 프레젠테이션 공유에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 이메일을 통한 대화식 프레젠테이션 템플릿 공유.
+
+* 고객이나 이해관계자를 위한 오프라인용 슬라이드 아카이브 생성.
+
+* 내부 웹 포털에 프레젠테이션 콘텐츠 임베딩.
+
+* 마케팅 덱 및 교육 자료를 단일 파일 형식으로 아카이빙.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 웹 게시를 위한 프레젠테이션 템플릿의 자동화된 MHTML 내보내기.
+
+* 콘텐츠 관리 및 아카이빙 시스템과의 통합.
+
+* 회사 전체 슬라이드 저장소 관리를 위한 일괄 변환.
+
+* 고객 전달이나 내부 배포를 위한 트리거 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

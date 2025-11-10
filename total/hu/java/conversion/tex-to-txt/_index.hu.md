@@ -47,7 +47,51 @@ A TEX-fájl TXT-vé konvertálásakor vízjelet is hozzáadhat a kimeneti TXT-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **TXT (Egyszerű szöveg)** formátumba történő átalakítása egyszerű, univerzálisan olvasható formátumot biztosít a LaTeX tartalomhoz, hasznos könnyű tároláshoz, gyors megosztáshoz és szövegfeldolgozáshoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* LaTeX tartalom kinyerése szövegalapú kereséshez és elemzéshez.
+
+* LaTeX jegyzetek vagy táblázatok egyszerű szöveges formátumban történő megosztása.
+
+* Könnyű dokumentáció szkripteléshez vagy kódolási projektekhez.
+
+* LaTeX tartalom előkészítése egyszerű szöveges e-mail terjesztéshez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* LaTeX fájlok tömeges átalakítása TXT formátumba archiváláshoz.
+
+* Integráció automatizált szövegfeldolgozási munkafolyamatokkal.
+
+* TXT generálásának kiváltása LaTeX tárolókból.
+
+* Ütemezett export könnyű LaTeX dokumentációhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

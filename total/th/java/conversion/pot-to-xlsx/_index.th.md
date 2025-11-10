@@ -61,7 +61,51 @@ otherformats: MARKDOWN XLTX ODS XLS SXC DIF XLSM FODS XLAM TSV XLTM XLSB MHTML X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POT เป็น XLSX (Excel Open XML Workbook) ช่วยให้สามารถใช้งานร่วมกับแพลตฟอร์มสเปรดชีตรุ่นใหม่ได้ ทำให้ข้อมูลที่มาจาก PowerPoint สามารถวิเคราะห์ แสดงผล และประมวลผลได้ในระบบองค์กร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ส่งออกข้อมูลจากงานนำเสนอไปยัง Excel เพื่อวิเคราะห์ร่วมกัน
+
+* สร้างรายงาน XLSX เพื่อแบ่งปันระหว่างแผนก
+
+* แปลงงานนำเสนอทางการศึกษาเป็นการบ้านในสเปรดชีต
+
+* เตรียมสรุปข้อมูลของบริษัทสำหรับแดชบอร์ดเรียลไทม์
+
+
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การส่งออก XLSX โดยอัตโนมัติในระบบเอกสารขององค์กร
+
+* การผสานกับเครื่องมือ BI และ dashboarding
+
+* การแปลงข้อมูลเป็นกลางของหลายแผนกโดยใช้ชุดคำสั่ง
+
+* การปรับปรุงเวิร์กโฟลว์การแปลง PowerPoint เป็น Excel ให้เรียบง่าย
+
+
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

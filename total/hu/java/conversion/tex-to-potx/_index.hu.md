@@ -135,7 +135,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok átalakítása **POTX formátumra (PowerPoint sablon makrók nélkül)** biztonságos, újrafelhasználható dia sablonokat eredményez LaTeX formázással, tökéletesen alkalmas több felhasználós környezetekhez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Szabványosított kurzusdia sablonok LaTeX egyenletekkel.
+
+* Konferenciadia sablonok makrókorlátozás nélkül.
+
+* Újrafelhasználható projektbemutató sablonok.
+
+* Akadémiai előadások dia sorozata képletekkel gazdag tartalommal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* LaTeX-POTX sablonok tömeges létrehozása.
+
+* Automatizált sablonfrissítések LaTeX tárolókból.
+
+* Integráció oktatási LMS-ekbe vagy vállalati dia rendszerekbe.
+
+* Kiváltott dia sablon generálás több szerző csapatai számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

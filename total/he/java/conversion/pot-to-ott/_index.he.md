@@ -99,7 +99,45 @@ otherformats: DOTM WORD DOT DOCX TEXT DOC WORDML DOTX ODT FLATOPC DOCM RTF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POT ל-OTT (תבנית טקסט של OpenDocument) מאפשרת לארגונים ליצור תבניות מסמכים הניתנות לשימוש חוזר העומדות בתקנים פתוחים. תבניות OTT הן אידיאליות למוסדות המדגישים נגישות וארכיון לטווח ארוך.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* יצירת תבניות בתקנים פתוחים מחומרי הדרכה ב-PowerPoint.
+
+* המרת סגנונות ההצגה לתבניות טקסט הניתנות לשימוש חוזר.
+
+* יצירת פורמטים תיקניים עבור פרסום אקדמי עקבי.
+
+* עיצוב תבניות גישה פתוחה לתיעוד של עמותות לא ממשלתיות.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* הפקת OTT אוטומטית מתבניות ראשיות ב-PowerPoint.
+
+* שילוב עם זרימות עבודה של מסמכים בקוד פתוח.
+
+* סנכרון של תבניות במערכות מאגרי מסמכים מוסדיים.
+
+* מערכות מסמכים של ממשלה משתמשות בתבניות בפורמט פתוח.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,55 @@ XPS 파일을 XLAM로 변환하는 동안 출력 XLAM 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **XLAM(Excel Add-In)**으로 변환하면 정적 XPS 문서에서 사용자 정의 Excel 자동화 도구, 매크로 및 확장 기능을 만들 수 있어 고급 기업 사용자에게 적합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 금융 또는 영업 분야에서 반복적인 계산 및 업무 자동화.
+
+* 기존 데이터에서 매크로 기능이 있는 생산성 애드인 생성.
+
+* XPS에서 변환된 템플릿을 사용하여 Excel 기능 확장.
+
+* Excel 애드인을 사용한 기업 수준의 워크플로 개선.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 기업 자동화 도구를 위한 대량 XPS-to-XLAM 변환.
+
+* 내부 소프트웨어와 통합하여 Excel 애드인을 트리거.
+
+* 팀을 위한 매크로 기능 솔루션의 예약 생성.
+
+* 반복적인 보고 작업을 위한 간소화된 자동화 파이프라인.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp TEX sang MD, bạn cũng có thể thêm hình m
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **MD (Tệp Markdown)** tạo ra một tệp Markdown chuẩn từ LaTeX, bảo tồn cấu trúc văn bản, bảng và định dạng cơ bản để đọc trên nhiều nền tảng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuẩn bị ghi chú nghiên cứu LaTeX cho việc hợp tác dựa trên Git.
+
+* Tài liệu nhẹ với hỗ trợ toán học và bảng.
+
+* Chia sẻ ghi chú bài giảng LaTeX dưới dạng Markdown mã nguồn mở.
+
+* Chuyển đổi báo cáo kỹ thuật cho các trang web tĩnh.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi tự động hàng loạt TEX sang MD cho các nhóm nghiên cứu.
+
+* Tích hợp vào các luồng công việc nội dung web kiểm soát phiên bản.
+
+* Cập nhật kích hoạt các tệp Markdown từ kho lưu trữ LaTeX.
+
+* Tạo liên tục các tệp MD cho blog giáo dục hoặc kỹ thuật.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

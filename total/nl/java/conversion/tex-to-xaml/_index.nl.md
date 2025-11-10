@@ -135,7 +135,55 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX-bestanden naar **XAML (Extensible Application Markup Language)** maakt het mogelijk om LaTeX-inhoud, formules en diagrammen te gebruiken in WPF, UWP en op .NET gebaseerde toepassingen, met behoud van vectorafbeeldingen en tekst opmaak.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Insluiten van LaTeX gegenereerde diagrammen en vergelijkingen in desktop-apps.
+
+* Creëren van interactieve UI-elementen met wetenschappelijke of wiskundige visuals.
+
+* Technische toepassingen die dynamische grafieken weergeven vanuit LaTeX-bronnen.
+
+* Educatieve software die LaTeX-formules naadloos integreert.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch TEX-naar-XAML conversie voor meerdere UI-componenten.
+
+* Integratie in geautomatiseerde WPF- of UWP-projectpijplijnen.
+
+* Getriggerde generatie van op LaTeX gebaseerde visuals voor .NET-toepassingen.
+
+* Geplande updates voor multi-module educatieve software.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

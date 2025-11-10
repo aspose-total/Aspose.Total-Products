@@ -61,7 +61,45 @@ POT 파일을 XLAM로 변환하는 동안 출력 XLAM 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POT를 XLAM(Excel Add-In)으로 변환하면 프레젠테이션 데이터에서 파생된 엑셀 시트에 매크로를 포함시켜 자동화를 가능하게 합니다. 이 변환은 보고를 위해 PowerPoint를 활용하고 동적 계산을 위해 Excel을 활용하는 기업에 이점을 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* PowerPoint 기반 KPI 템플릿에서 엑셀 애드인 생성.
+
+* 영업 또는 교육 성과 데이터에 대한 계산 자동화.
+
+* 프레젠테이션에서 매크로로 구동되는 대시보드 생성.
+
+* 프레젠테이션 시각 자료를 엑셀 자동화 모델과 통합.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 분석 도구를 위한 자동 XLAM 생성.
+
+* PowerPoint 및 Excel 매크로를 결합한 변환 워크플로우.
+
+* 비즈니스 프로세스 자동화 플랫폼과의 통합.
+
+* 반복적인 스프레드시트 작업을 위한 기업 자동화.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

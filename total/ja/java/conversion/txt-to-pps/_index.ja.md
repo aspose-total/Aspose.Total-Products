@@ -54,7 +54,55 @@ APIを使用すると、パスワードで保護されたTXTドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXTファイルを**PPS（PowerPoint Show）**形式に変換すると、スライドショーが直接スライドショーモードで開かれるプレゼンテーション用のスライドショーが作成されます。この形式は、完成したプレゼンテーションをクライアントや観客に配布するのに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 編集リスクなしで配布可能なクライアント向けセールスプレゼンテーション。
+
+* eラーニングプラットフォーム向けの事前録音された講義スライド。
+
+* テキストベースの議題から生成されたイベントや会議のスライドショー。
+
+* PPSファイルとして直接配信されるマーケティングキャンペーンプレゼンテーション。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* ウェビナーコンテンツ配信のための自動化されたTXTからPPSへの変換。
+
+* クライアントプレゼンテーションライブラリのためのスケジュールされたバッチエクスポート。
+
+* オンデマンドのスライドショーのためのコンテンツポータルへの統合。
+
+* 内部ブリーフィングセッションのためのトリガー生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

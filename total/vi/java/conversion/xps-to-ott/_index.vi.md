@@ -129,7 +129,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XPS thành **OTT (Mẫu Văn bản OpenDocument)** biến các tệp XPS tĩnh thành các mẫu có thể tái sử dụng cho người dùng LibreOffice và OpenOffice, hoàn hảo cho tài liệu quy trình chuẩn hóa trong định dạng mở.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Mẫu tài liệu học thuật và giáo dục cho sinh viên và giáo viên.
+
+* Mẫu dự án của tổ chức phi chính phủ cho báo cáo và đề xuất.
+
+* Mẫu chuẩn mở nguồn cho tài liệu doanh nghiệp.
+
+* Mẫu nội dung sáng tạo cho tờ rơi và bản tin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo hàng loạt mẫu OTT từ kho lưu trữ XPS.
+
+* Tích hợp với các công cụ tự động hóa quy trình làm việc mã nguồn mở.
+
+* Tự động điền dữ liệu vào các mẫu với dữ liệu tổ chức.
+
+* Tối ưu hóa quy trình tạo tài liệu đa nền tảng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

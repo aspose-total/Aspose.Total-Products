@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp TEX sang TXT, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX thành **TXT (Văn bản thuần túy)** cung cấp một định dạng đơn giản, có thể đọc được một cách phổ biến cho nội dung LaTeX, hữu ích cho việc lưu trữ nhẹ, chia sẻ nhanh chóng và xử lý văn bản.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Trích xuất nội dung LaTeX để tìm kiếm và phân tích dựa trên văn bản.
+
+* Chia sẻ ghi chú hoặc bảng LaTeX dưới dạng văn bản đơn giản.
+
+* Tài liệu nhẹ cho các dự án viết kịch bản hoặc lập trình.
+
+* Chuẩn bị nội dung LaTeX cho việc phân phối qua email dưới dạng văn bản thuần túy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt các tệp LaTeX thành TXT để lưu trữ.
+
+* Tích hợp với quy trình làm việc văn bản tự động.
+
+* Kích hoạt việc tạo ra TXT từ các kho lưu trữ LaTeX.
+
+* Xuất khẩu theo lịch trình cho tài liệu LaTeX nhẹ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz WMZ z
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **WMZ (Skompresowany plik metawykresu systemu Windows)** kompresuje grafikę wektorową dla diagramów LaTeX, optymalizując przechowywanie przy jednoczesnym zachowaniu jakości prezentacji i raportów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Skompresowane diagramy LaTeX do slajdów programu Microsoft Office.
+
+* Archiwizacja skalowalnych ilustracji technicznych.
+
+* Udostępnianie lekkich grafik w publikacjach akademickich.
+
+* Osadzanie grafiki wektorowej w raportach bez dużych rozmiarów plików.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna konwersja wsadowa TEX na WMZ.
+
+* Integracja z systemami automatyzacji dokumentów i slajdów.
+
+* Wywoływane generowanie skompresowanych diagramów LaTeX.
+
+* Zaplanowane aktualizacje figur WMZ dla dostępu wielu użytkowników.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

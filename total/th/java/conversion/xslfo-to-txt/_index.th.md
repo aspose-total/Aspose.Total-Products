@@ -47,7 +47,55 @@ otherformats: EXCEL SXC XLTX XLAM XLSM TXT TSV MD XLTM XLT XLSB ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ XSLFO เป็น **TXT (ข้อความธรรมดา)** ช่วยให้สามารถใช้งานร่วมกันได้กับเครื่องมือแก้ไขข้อความทั้งหมด โปรแกรมประมวลผลข้อมูล และสภาพแวดล้อมการเขียนโปรแกรม ไฟล์ TXT สามารถสกัดเนื้อหาหลักจาก XSLFO โดยไม่มีการจัดรูปแบบ ทำให้เหมาะสำหรับการวิเคราะห์ข้อมูลเชิงรุกและสคริปต์ และการเก็บถาวร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ส่งออกตารางและรายงาน XSLFO สำหรับการประมวลผลข้อมูลเป็นชุด
+
+* เตรียมเวอร์ชันข้อความธรรมดาของรายงานการเงินหรือการดำเนินงานโครงสร้าง
+
+* เก็บถาวรเนื้อหา XSLFO ในรูปแบบที่สามารถเข้าถึงได้ทั่วไป
+
+* สร้างการสกัดข้อมูลหลักสำหรับท่อการวิเคราะห์ข้อมูล
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงจาก XSLFO เป็น TXT ตามกำหนดเวลาสำหรับการทำงานอัตโนมัติ
+
+* การผสานเข้ากับ ETL และท่อการประมวลผลข้อมูล
+
+* ส่งออกข้อความธรรมดาจากรายงาน XSLFO ที่เกิดซ้ำ
+
+* สกัดสรุปข้อความธรรมดาจากแดชบอร์ด XSLFO โดยอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

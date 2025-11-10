@@ -143,7 +143,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **ODT (OpenDocument Text)** cho phép người dùng LaTeX tạo ra tài liệu chuẩn mở tương thích với LibreOffice, OpenOffice và các bộ ứng dụng văn phòng khác, đảm bảo tính khả dụng và sự hợp tác trên nhiều nền tảng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Nộp bài học thuật trong định dạng tài liệu mở.
+
+* Báo cáo nghiên cứu cộng tác với khả năng tương thích đa nền tảng.
+
+* Tài liệu dự án mã nguồn mở và hướng dẫn.
+
+* Sách điện tử hoặc tài liệu giảng dạy định dạng LaTeX cho các công cụ mã nguồn mở.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt TEX sang ODT cho kho lưu trữ của trường đại học.
+
+* Tích hợp vào các đường ống xuất bản mã nguồn mở.
+
+* Chuyển đổi tự động cho phân phối tài liệu đa nền tảng.
+
+* Tạo báo cáo ODT động từ bộ dữ liệu LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,47 @@ MOBI'yi EXCEL'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://prod
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI dosyalarını EXCEL formatına dönüştürmek, yazarların, yayıncıların ve analistlerin e-kitap verilerini doğrudan Microsoft Excel içinde görselleştirmesine ve filtrelemesine olanak tanır. XLS ve XLSX çıktıları, panolar oluşturmayı ve dijital içerik envanterini yönetmeyi daha kolay hale getirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+- E-kitap meta verilerini, derecelendirmeleri ve incelemeleri Excel tablolarında düzenleme.
+
+- İndirme ve okuyucu trendlerini görsel olarak analiz etme.
+
+- Yayıncılar ve kitap dağıtımcıları için katalog raporları oluşturma.
+
+- AI model eğitimi için Excel tabanlı veri kümeleri hazırlama.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+- MOBI meta verilerinin Excel çalışma kitaplarına zamanlanmış dönüşümleri.
+
+- Power BI veya Microsoft 365 iş akışlarına entegrasyon.
+
+- Güncellenmiş e-kitap verileriyle Excel tablolarının otomatik yenilenmesi.
+
+- MOBI'den XML akışlarına yönelik Excel tabanlı kalite kontrol.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

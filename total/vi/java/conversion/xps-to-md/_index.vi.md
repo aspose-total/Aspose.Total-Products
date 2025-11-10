@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp XPS sang MD, bạn cũng có thể thêm hình m
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XPS thành **MD (Markdown)** mang lại định dạng văn bản đơn giản dễ đọc, dễ chỉnh sửa và lý tưởng cho tài liệu kiểm soát phiên bản và nội dung web.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Hướng dẫn kỹ thuật và hướng dẫn trong định dạng nhẹ.
+
+* Tài liệu nội bộ cho phần mềm và quy trình doanh nghiệp.
+
+* Chuyển đổi nhanh cho bài đăng trên blog hoặc các nền tảng chia sẻ kiến thức.
+
+* Ghi chú học thuật và nghiên cứu với hỗ trợ Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt XPS thành MD cho hệ thống quản lý nội dung.
+
+* Tích hợp với đường ống xuất bản tự động.
+
+* Cập nhật định kỳ cho tài liệu dựa trên Markdown.
+
+* Luồng làm việc mượt mà để chuyển đổi nhiều tệp XPS thành văn bản có thể chỉnh sửa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

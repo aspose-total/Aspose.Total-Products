@@ -105,7 +105,51 @@ otherformats: SVGZ JPEG2000 EMZ  PSD WMZ DXF TGA IMAGE APNG DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Конвертація XSLFO в **WMF (Windows Metafile)** дозволяє отримати масштабовані векторні зображення, сумісні з Microsoft Office та іншими додатками для десктопного видавництва.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Вбудовування таблиць та діаграм XSLFO в Microsoft Word або PowerPoint.
+
+* Створення масштабованих візуальних елементів для корпоративних презентацій.
+
+* Архівування візуальних елементів звітів у векторному форматі.
+
+* Підготовка технічних ілюстрацій зі структурованих даних XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетна конвертація XSLFO в WMF для робочих процесів з документами.
+
+* Запланований експорт векторних візуальних елементів для слайд-дек.
+
+* Автоматичне створення зображень WMF з панелей XSLFO.
+
+* Інтеграція з автоматизованими корпоративними потоками видавництва.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

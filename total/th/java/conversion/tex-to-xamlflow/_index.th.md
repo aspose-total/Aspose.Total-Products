@@ -143,7 +143,45 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **XAMLFLOW** ช่วยให้เนื้อหา LaTeX สามารถแปลงเป็น XAML markup ที่เข้ากันได้กับการทำงานแบบกระแสสำหรับการสร้างผังงานที่มีประสิทธิภาพ แดชบอร์ด และแอปพลิเคชันที่สามารถทำงานได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="ประเภทการใช้งานหลัก" %}}
+
+
+
+* ผังงานที่มีภาพถ่าย LaTeX-generated equations
+* แดชบอร์ดแบบโต้ตอบที่แสดงข้อมูลแบบเรียลไทม์พร้อมกับภาพถ่ายทางคณิตศาสตร์
+* แอปพลิเคชันทางเทคนิคหรือวิศวกรรมที่แสดงเนื้อหา LaTeX โครงสร้าง
+* เครื่องมือการศึกษาที่รวมเชื่อมต่อการไหลของ LaTeX และผังงานใน UI
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การแปลง Batch TEX เป็น XAMLFLOW สำหรับส่วนประกอบของแดชบอร์ด
+* การรวมเข้ากับการแสดงข้อมูลและกระบวนการทำงานอัตโนมัติ
+* การอัพเดทที่เรียกใช้สำหรับผังงาน LaTeX ที่มีการเชื่อมโยงในแอปพลิเคชันที่ใช้กระแส
+* การสร้างตารางเวลาของการไหล XAML ที่ใช้ LaTeX สำหรับแพลตฟอร์มหลายผู้ใช้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

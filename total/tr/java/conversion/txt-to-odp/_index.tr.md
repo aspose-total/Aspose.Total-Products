@@ -54,7 +54,51 @@ API ayrıca parola korumalı TXT belgelerini ODP'ye dönüştürmenize olanak ta
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT (düz metin) dosyalarını **ODP (OpenDocument Presentation)** formatına dönüştürmek, ham metin raporlarını yapılandırılmış slayt sunumlarına dönüştürmek için idealdir ve iş toplantıları ve işbirlikçi sunumlar için uygundur. ODP formatı, LibreOffice, OpenOffice ve diğer açık kaynak üretkenlik paketlerinde uyumluluğu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Toplantı notlarını profesyonel ODP slayt sunumlarına dönüştürme.
+
+* Akademik araştırma özetlerini sınıf sunumlarına dönüştürme.
+
+* İç şirket raporlarını yönetim kurulu görüşmeleri için biçimlendirme.
+
+* Politika belgelerinden oluşturulan eğitim modülleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* İK onboarding materyalleri için otomatik TXT-ODP dönüşümü.
+
+* Kurumsal bilgi yönetim sistemlerine entegrasyon.
+
+* Haftalık operasyonel raporların zamanlanmış toplu dönüşümleri.
+
+* Proje yönetimi günlüklerinden ODP slaytların tetiklenerek oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

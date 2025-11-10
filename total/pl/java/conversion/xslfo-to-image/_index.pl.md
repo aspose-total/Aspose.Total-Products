@@ -57,7 +57,51 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz IMAGE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie XSLFO na **OBRAZ (Formaty Rastrowe Ogólne)** zapewnia wszechstronny wynik dla aplikacji internetowych, drukowanych i desktopowych. Obsługiwane formaty mogą obejmować PNG, BMP lub TIFF w zależności od wymagań.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+
+
+
+* Generowanie statycznych wizualizacji z tabel XSLFO.
+
+* Przygotowywanie grafik do paneli raportowych lub dokumentacji.
+
+* Eksportowanie wykresów i tabel do aplikacji mobilnych lub e-learningu.
+
+* Tworzenie zarchiwizowanych wersji rastrowych raportów cyklicznych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* Partiowa konwersja raportów XSLFO na wiele formatów obrazów.
+
+* Integracja z automatyzowanymi potokami generowania paneli raportowych.
+
+* Wywołany eksport do zaplanowanej dostawy raportu.
+
+* Automatyczne generowanie obrazów dla e-learningu lub platform internetowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

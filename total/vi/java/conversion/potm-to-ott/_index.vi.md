@@ -53,7 +53,51 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp POTM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi POTM sang OTT tạo ra các mẫu văn bản OpenDocument có thể tái sử dụng tương thích với LibreOffice Writer và các ứng dụng tương tự. Những mẫu này bảo tồn bố cục, kiểu dáng và các yếu tố thiết kế cho môi trường không phải của Microsoft.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Thiết kế các mẫu OTT cho văn phòng mã nguồn mở bằng cách sử dụng các kiểu dáng của PowerPoint.
+
+* Chuyển đổi nội dung trình bày thành cấu trúc mẫu dựa trên ODT.
+
+* Sử dụng mẫu định dạng mở trong các cơ quan chính phủ hoặc công cộng.
+
+* Tiêu chuẩn tài liệu của tổ chức phi chính phủ sử dụng các tệp OTT có thể tái sử dụng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo mẫu OTT tự động trong các hệ thống quản lý tài liệu mã nguồn mở.
+
+* Các đường ống xuất bản tài liệu đa nền tảng sử dụng định dạng mở.
+
+* Quy trình chuyển đổi nối các hệ sinh thái Microsoft và LibreOffice.
+
+* Sử dụng mẫu OTT phát sinh từ các bài thuyết trình trong quy mô lớn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

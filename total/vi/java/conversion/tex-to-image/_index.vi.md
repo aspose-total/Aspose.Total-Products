@@ -57,7 +57,51 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh IMAGE đầu ra theo nhu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX thành **HÌNH ẢNH (các định dạng raster chung)** biến các phương trình LaTeX, bảng và hình ảnh thành các định dạng hình ảnh tương thích mọi nơi cho mục đích web, in và tài liệu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Nhúng hình ảnh được tạo bởi LaTeX vào blog và website.
+
+* Chuẩn bị hình ảnh độ phân giải cao cho các bài báo học thuật.
+
+* Chia sẻ sơ đồ trong các định dạng đọc được mọi nơi.
+
+* Chuyển đổi bảng LaTeX phức tạp thành ảnh chụp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt TEX thành hình ảnh cho thư viện nội dung.
+
+* Tích hợp với quy trình xuất bản tự động và website.
+
+* Cập nhật kích hoạt cho nội dung bài giảng hoặc hướng dẫn dựa trên hình ảnh.
+
+* Xuất nhiều sơ đồ LaTeX thành các định dạng hình ảnh nhất quán.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

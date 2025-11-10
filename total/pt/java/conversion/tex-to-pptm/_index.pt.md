@@ -135,7 +135,55 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter TEX para **PPTM (Apresentação com Macros do PowerPoint)** permite slides totalmente interativos a partir do LaTeX, incluindo macros para cálculos automatizados, gráficos dinâmicos e materiais de ensino interativos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Palestras acadêmicas interativas com equações em LaTeX.
+
+* Painéis corporativos e modelos de apresentação de pesquisa.
+
+* Slides de seminários automatizados com atualizações de dados em tempo real.
+
+* Apresentações de workshops com interatividade orientada por macros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de TEX para PPTM para decks de slides interativos.
+
+* Integração em sistemas de automação empresarial ou universitária.
+
+* Geração acionada de apresentações com macros.
+
+* Atualizações programadas a partir de repositórios LaTeX para projetos com vários autores.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

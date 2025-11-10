@@ -47,7 +47,51 @@ Tijdens het converteren van het TEX-bestand naar TSV, kunt u ook een watermerk t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **TSV (Tab-Separated Values)** biedt een alternatief lichtgewicht formaat voor numerieke en tekstuele LaTeX-gegevens, geschikt voor analyse en software-import.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Academische experimenttabellen geëxporteerd voor statistische analyse.
+
+* Technische datasets voor Python, R of MATLAB.
+
+* Financiële LaTeX-tabellen geconverteerd voor analytische platforms.
+
+* Lichtgewicht LaTeX-gegevens delen binnen teams.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch TEX-naar-TSV conversie in onderzoekspipelines.
+
+* Geautomatiseerde export van LaTeX-tabulaire gegevens voor AI-modellen.
+
+* Real-time TSV-generatie voor samenwerkende analytische dashboards.
+
+* Integratie in ETL-pipelines voor gestructureerde datasets.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

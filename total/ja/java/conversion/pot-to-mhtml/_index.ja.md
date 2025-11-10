@@ -61,7 +61,45 @@ POTファイルをMHTMLに変換するときに、出力MHTMLファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTファイルをMHTML（MIME HTML）に変換することで、プロフェッショナルはPowerPointプレゼンテーション全体を単一のWebファイルとしてアーカイブできます。MHTMLはすべてのリソース（テキスト、画像、スタイル）をキャプチャし、オフラインアクセスやデジタル配布に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 企業プレゼンテーションのWebアーカイブ可能なバージョンを作成する。
+
+* PowerPointベースのレポートをスタンドアロンのWebドキュメントとして共有する。
+
+* イントラネットアクセス用のトレーニング資料を保存する。
+
+* 教育用スライドデッキをポータブルなHTMLリソースに変換する。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* 文書アーカイブシステム向けの自動MHTMLエクスポート。
+
+* 企業イントラネット公開パイプラインとの統合。
+
+* PowerPointテンプレートからのオフライン対応HTML生成。
+
+* eラーニングおよびトレーニングポータル向けのバッチ変換。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

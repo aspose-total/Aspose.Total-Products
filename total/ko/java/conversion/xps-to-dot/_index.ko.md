@@ -129,7 +129,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS 파일을 **DOT(Word 문서 템플릿)**으로 변환하면 고정 레이아웃 XPS 콘텐츠를 재사용 가능한 템플릿으로 변환할 수 있습니다. 이는 보고서, 제안서, 계약서에 걸쳐 일관된 문서 스타일링이 필요한 기업에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 제안서와 프레젠테이션용 회사 브랜드 템플릿.
+
+* 분기별 또는 연간 보고서용 표준화된 보고서 템플릿.
+
+* 법률 및 구매 부서용 계약 템플릿.
+
+* e러닝 플랫폼용 교육 자료 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 대량의 DOT 템플릿에서 새 문서 자동 생성.
+
+* 워크플로 도구와 통합하여 동적 데이터로 템플릿 채우기.
+
+* 사전 설계된 템플릿을 사용하여 팀간 콘텐츠 배포 최적화.
+
+* 기업 시스템에서 문서 표준화를 위한 변환 파이프라인.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

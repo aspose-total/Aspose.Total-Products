@@ -102,7 +102,55 @@ otherformats: TSV MD CSV SXC ODS XLSM XLT XLTM XLSB DIF FODS EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XSLFO ל-**XLTX (תבנית Excel ללא מקרו)** מבטיח תבניות בטוחות וניתנות לשימוש חוזר לדיווחים תדירים בלי סיכון לביצוע מקרו. XLTX שומר על עיצוב, סגנונות ומבני טבלאות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* הכנת תבניות פיננסיות חודשיות מבוססות XSLFO לשימוש בצוות.
+
+* יצירת גליונות מעקב פרויקט בטוחים להפצה בין מחלקות.
+
+* הפצת תבניות לדיווח על KPI ללא מקרו.
+
+* ארכיבת מבני דיווח XSLFO סטנדרטיים בפורמט XLTX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת XSLFO ל-XLTX מתוזמנת להפצת דוחות חוזרת.
+
+* שילוב במערכות ניהול תבניות לדיווח עקבי.
+
+* יצירת סדרות של תבניות ללא מקרו לתהליכי עבודה תקניים.
+
+* יצירת קבצי XLTX מ-XSLFO באופן מופעל לדיווח סטנדרטי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

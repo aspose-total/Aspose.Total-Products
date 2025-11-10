@@ -47,7 +47,51 @@ A XSLFO-fájl MD-vé konvertálásakor vízjelet is hozzáadhat a kimeneti MD-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO (Extensible Stylesheet Language Formatting Objects) fájlok átalakítása **MD (Markdown)** formátumba lehetővé teszi könnyű, webbarát és könnyen olvasható dokumentumok létrehozását. A Markdown megőrzi a fejlécek, táblázatok és listák struktúráját az XSLFO tartalomból, miközben alkalmasá teszi webhelyekhez, blogokhoz és dokumentációs platformokhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Az XSLFO által generált jelentések átalakítása Markdown formátumba technikai dokumentációhoz.
+
+* Strukturált táblázatok és tartalom közzététele XSLFO-ból tudásbázisokhoz.
+
+* Blogra kész jelentések készítése megőrzött táblázat elrendezésekkel és fejlécekkel.
+
+* Nyílt forráskódú dokumentáció előkészítése strukturált XSLFO elemzésekből.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* XSLFO jelentések ütemezett tömeges átalakítása Markdown formátumba webportálokhoz.
+
+* Integráció automatizált dokumentáció generálási csövekbe.
+
+* Indított átalakítás ismétlődő elemzésekhez vagy projektjelentésekhez.
+
+* Automatizált XSLFO-MD munkafolyamatok tudáskezelési rendszerekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

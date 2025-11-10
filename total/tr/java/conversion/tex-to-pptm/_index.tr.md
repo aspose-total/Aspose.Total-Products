@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+LaTeX'ten **PPTM (PowerPoint Macro-Enabled Presentation)** 'a dönüştürme, otomatik hesaplamalar için makrolar, dinamik grafikler ve etkileşimli öğretim materyalleri içeren tamamen etkileşimli slaytlar sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX denklemleri ile etkileşimli akademik dersler.
+
+* Kurumsal gösterge panoları ve araştırma sunumu şablonları.
+
+* Gerçek zamanlı veri güncellemeleri ile otomatik seminer slaytları.
+
+* Makro tabanlı etkileşimli atölye sunumları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Etkileşimli slayt paketleri için toplu LaTeX'ten PPTM'ye dönüşüm.
+
+* Kurumsal veya üniversite otomasyon sistemlerine entegrasyon.
+
+* Makro özellikli sunumların tetiklenerek oluşturulması.
+
+* Çoklu yazar projeleri için LaTeX depolarından zamanlanmış güncellemeler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

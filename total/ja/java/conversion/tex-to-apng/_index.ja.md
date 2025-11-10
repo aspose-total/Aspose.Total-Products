@@ -57,7 +57,55 @@ APIを使用すると、必要に応じて出力APNG画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXファイルを**APNG（Animated PNG）**に変換すると、LaTeXの図、式、プロットをWebベースのプレゼンテーション、教育コンテンツ、インタラクティブな可視化のためのアニメーショングラフィックスに変換できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* オンライン講義用のアニメーション数学イラスト。
+
+* 教育用WebアプリケーションでのインタラクティブなLaTeXグラフ。
+
+* eラーニングプラットフォーム用のダイナミックダイアグラム。
+
+* 時間経過とともに変化するLaTeX生成データトレンドの可視化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* コース教材用のバッチTEXからAPNGへの変換。
+
+* 自動化されたWeb公開パイプラインへの統合。
+
+* AI搭載教育ツール用のトリガーされたレンダリング。
+
+* チュートリアル用のLaTeXプロットからのアニメーションの自動生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,55 @@ otherformats: XLAM SXC MD FODS XLTM TXT EXCEL ODS XLT XLSM XLTX TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי TEX ל־**CSV (ערכים מופרדים בפסיק)** מאפשרת להמיר מסמכי LaTeX לנתוני טבלה קלים לגלישות, מסדי נתונים ויישומי ניתוח. זה אידיאלי עבור חוקרים וניתחים העובדים עם קבוצות מספריות ב־LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייצוא טבלאות שנוצרו ב־LaTeX ל־CSV לצורך ניתוח נתונים.
+
+* קבוצות נתונים אקדמיות לתוכנות סטטיסטיות ועיבוד ב־Python/R.
+
+* דוחות פיננסיים או הנדסיים בפורמט LaTeX המומרים לצפייה בגליון אלקטרוני.
+
+* שיתוף נתוני פרויקט קוד פתוח בפורמט CSV אוניברסלי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת קבצי TEX ל־CSV בצורה צפופה בצינורות ETL.
+
+* חילוץ אוטומטי של טבלאות ממאמרי מחקר.
+
+* שילוב בפלטפורמות ניתוח מופעלות על ידי AI.
+
+* יצירת CSV מופעלת עבור קבוצות נתונים שיתופיות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

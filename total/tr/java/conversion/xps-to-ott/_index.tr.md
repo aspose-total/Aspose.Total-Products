@@ -129,7 +129,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **OTT (OpenDocument Text Template)**'e dönüştürmek, statik XPS dosyalarını LibreOffice ve OpenOffice kullanıcıları için yeniden kullanılabilir şablonlara dönüştürerek, açık formatlarda standart iş akışı belgeleri için mükemmel bir çözümdür.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Öğrenciler ve öğretmenler için akademik ve eğitim materyali şablonları.
+
+* Raporlar ve teklifler için STK proje şablonları.
+
+* Kurumsal belgelendirme için standart açık kaynaklı şablonlar.
+
+* Broşürler ve bültenler için yaratıcı içerik şablonları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XPS depolarından OTT şablonlarının toplu olarak oluşturulması.
+
+* Açık kaynaklı iş akışı otomasyon araçlarıyla entegrasyon.
+
+* Şablonların kurumsal verilerle otomatik olarak doldurulması.
+
+* Çapraz platform belge oluşturma süreçlerinin optimize edilmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

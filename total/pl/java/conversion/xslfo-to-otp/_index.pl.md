@@ -135,7 +135,55 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja XSLFO na **OTP (OpenDocument Presentation Template)** pozwala tworzyć wielokrotnie używane szablony slajdów z ustrukturyzowanych danych XSLFO. Szablony OTP standaryzują formatowanie prezentacji w zespołach.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przygotowywanie szablonów prezentacji korporacyjnych z raportów wygenerowanych w XSLFO.
+
+* Standaryzacja modułów szkoleniowych w wielokrotnie używanych formatach OTP.
+
+* Tworzenie deków inwestycyjnych z jednolitym stylem na podstawie treści XSLFO.
+
+* Archiwizacja szablonów kwartalnych raportów do przyszłego ponownego wykorzystania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja zbiorcza z XSLFO na OTP dla bibliotek szablonów.
+
+* Integracja z automatycznymi procesami generowania slajdów.
+
+* Wywoływane tworzenie szablonów OTP dla nowych serii raportów XSLFO.
+
+* Automatyczne wdrażanie szablonów opartych na XSLFO w różnych działach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

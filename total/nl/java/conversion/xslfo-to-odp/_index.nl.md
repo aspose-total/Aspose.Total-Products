@@ -135,7 +135,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XSLFO (Extensible Stylesheet Language Formatting Objects) bestanden naar **ODP (OpenDocument Presentation)** maakt het eenvoudig om open-source diavoorstellingen te maken met behoud van gestructureerde inhoud en opmaak. ODP is compatibel met LibreOffice Impress en andere open-source kantoorpakketten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het omzetten van XSLFO gegenereerde jaarverslagen naar interactieve ODP presentaties.
+
+* Het voorbereiden van educatief materiaal van gestructureerde XSLFO tabellen voor gebruik in de klas.
+
+* Het archiveren van slides van bestuursvergaderingen in een toekomstbestendig open formaat.
+
+* Het creëren van visuele dashboards op basis van XSLFO-gebaseerde analytische gegevens.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchconversie van maandelijkse XSLFO-rapporten naar ODP voor bedrijfsoverzichten.
+
+* Integratie in geautomatiseerde rapport-naar-presentatie workflows.
+
+* Geplande generatie van ODP-slides voor terugkerende vergaderingen.
+
+* Getriggerde transformatie van XSLFO-inhoud naar open-source diavoorstellingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

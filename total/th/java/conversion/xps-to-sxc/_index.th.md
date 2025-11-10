@@ -47,7 +47,45 @@ otherformats: XLT XLTM ODS XLTX DIF XLSB EXCEL SXC TSV XLAM XLSM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XPS เป็น **SXC (StarOffice Spreadsheet)** จะมีความเข้ากันได้ย้อนหลังกับไฟล์ OpenOffice/StarOffice เวอร์ชันเก่า ๆ รูปแบบนี้เหมาะสำหรับการทำงานแบบเก่าและเก็บถาวร.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การเก็บถาวรรายงานเก่าในรูปแบบ SXC
+* ชุดข้อมูลทางการเงินและดำเนินการทางประวัติ
+* การย้ายข้อมูลสเปรดชีตที่ใช้ XPS ไปยังสภาพแวดล้อมโอเพนซอร์ส
+* บันทึกเทคนิคหรือวารสารวิจัยสำหรับชุดโปรแกรมสำนักงานเก่า
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงข้อมูลจำนวนมากจากเก็บข้อมูล XPS เป็นไฟล์ SXC
+* การเก็บถาวรอัตโนมัติเพื่อปฏิบัติตามข้อบังคับและการตรวจสอบ
+* การย้ายข้อมูลรายงาน XPS เป็นระยะ
+* ท่อการรวมระบบเก่า
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ TEX 파일을 SXC로 변환하는 동안 출력 SXC 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **SXC (StarOffice Calc Spreadsheet)**로 변환하면 오래된 OpenOffice 또는 StarOffice 사용자가 LaTeX 표 데이터를 구조를 손상시키지 않고 작업할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* StarOffice 호환 형식의 과거 LaTeX 데이터 세트.
+
+* 레거시 오피스 호환성이 필요한 학술 연구.
+
+* 숫자형 LaTeX 테이블의 크로스 플랫폼 공유.
+
+* 오래된 오피스 시스템용 SXC의 프로젝트 보고서.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* LaTeX 데이터 세트의 예약 배치 변환.
+
+* 레거시 오피스 자동화 워크플로에 통합.
+
+* 연구 연속성을 위한 구조화된 LaTeX 테이블 보관.
+
+* 협업 프로젝트를 위한 트리거된 SXC 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

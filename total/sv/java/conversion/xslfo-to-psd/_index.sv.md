@@ -57,7 +57,55 @@ Med hjälp av API:t kan du också rotera den utgående PSD-bilden enligt dina be
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera XSLFO till **PSD (Adobe Photoshop)** gör det möjligt för grafiska designers att redigera XSLFO-genererade tabeller och visuella element med lager och avancerade effekter. PSD-utdata är idealisk för marknadsföring eller presentationsvisuella.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Omvandla XSLFO-diagram till lagerbaserade Photoshop-designer.
+
+* Anpassa rapportvisuella element för marknadsföringsmaterial.
+
+* Redigera strukturerade XSLFO-tabeller för professionella presentationer.
+
+* Förbereda infografik med förbättrad stil.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Automatisk export av XSLFO-rapporter till PSD för designarbetsflöden.
+
+* Integration med batch Photoshop-processpipeliner.
+
+* Schemalagd konvertering för återkommande visuella rapporter.
+
+* Utlöst PSD-generering för kreativa marknadsföringsinstrumentpaneler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

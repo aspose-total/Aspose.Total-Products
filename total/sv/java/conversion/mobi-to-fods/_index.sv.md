@@ -61,7 +61,47 @@ Efter att ha konverterat MOBI till FODS, gör [Aspose.Cells for Java](https://pr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Exportera MOBI till FODS (Flat OpenDocument Spreadsheet) ger en XML-baserad kalkylarksutdata som är idealisk för lättviktig datautbyte. Det är perfekt för öppna källkodsmiljöer och system som kräver strukturerad eBokdata i ren text.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+- Hantera eBoksbibliotek i öppna kalkylarksapplikationer.
+
+- Redigera MOBI-innehållsegenskaper i LibreOffice Calc.
+
+- Skapa lätta rapporter för digital biblioteksanalys.
+
+- Dela metadata mellan team med öppna format.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+- Batchkonvertering av MOBI till FODS för öppna dataportaler.
+
+- Integration i öppna ETL-dataflöden.
+
+- XML-analys för metadataverifiering och rensning.
+
+- Publicering av data i FODS-format för akademiska institutioner.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

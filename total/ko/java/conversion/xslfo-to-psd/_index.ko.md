@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 PSD 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **PSD (Adobe Photoshop)**로 변환하면 그래픽 디자이너가 레이어와 고급 효과로 XSLFO로 생성된 표 및 시각 자료를 편집할 수 있습니다. PSD 출력은 마케팅이나 프레젠테이션 시각 자료에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* XSLFO 차트를 계층적 Photoshop 디자인으로 변환하기.
+
+* 마케팅 자료에 맞게 보고서 시각 자료 사용자 정의하기.
+
+* 전문적인 프레젠테이션을 위해 구조화된 XSLFO 표 편집하기.
+
+* 스타일링이 향상된 인포그래픽 준비하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 디자인 워크플로에 대한 XSLFO 보고서의 자동화된 PSD로의 내보내기.
+
+* 일괄 Photoshop 처리 파이프라인과의 통합.
+
+* 반복적인 시각적 보고서를 위한 예약 변환.
+
+* 창의적인 마케팅 대시보드를 위한 트리거된 PSD 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

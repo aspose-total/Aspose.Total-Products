@@ -49,7 +49,33 @@ Trong khi chuyển đổi POT sang JSON, bạn cũng có thể đặt dải ô t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi các tệp POT sang JSON (JavaScript Object Notation) cho phép biểu diễn cấu trúc dữ liệu slide cho các hệ thống web, phân tích và tự động hóa. JSON được sử dụng rộng rãi để tích hợp dữ liệu trình bày vào các API, bảng điều khiển và đường ống học máy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* Xuất dữ liệu siêu dữ liệu mẫu PowerPoint cho phân tích hoặc báo cáo.
+* Tích hợp nội dung slide vào ứng dụng web trực quan hóa dữ liệu.
+* Tạo nội dung học dựa trên JSON từ các bài thuyết trình giáo dục.
+* Trích xuất dữ liệu biểu đồ hoặc văn bản cho đầu vào mô hình AI.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi JSON tự động cho các nền tảng dựa trên REST API.
+* Tích hợp với hồ dữ liệu và hệ thống ETL.
+* Trích xuất slide theo lịch trình thành JSON có cấu trúc cho bảng điều khiển.
+* Chỉ mục và gắn thẻ nội dung trình bày dựa trên AI.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

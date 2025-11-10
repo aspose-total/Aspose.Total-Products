@@ -135,7 +135,55 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików XSLFO (Extensible Stylesheet Language Formatting Objects) na **ODP (OpenDocument Presentation)** umożliwia łatwe tworzenie pokazów slajdów typu open-source, zachowując strukturalną treść i stylowanie. ODP jest kompatybilny z LibreOffice Impress oraz innymi pakietami biurowymi typu open-source.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przekształcanie rocznych raportów wygenerowanych za pomocą XSLFO w interaktywne prezentacje ODP.
+
+* Przygotowywanie treści edukacyjnych z zorganizowanych tabel XSLFO do użytku w sali lekcyjnej.
+
+* Archiwizowanie slajdów z posiedzeń zarządu w przyszłościowym otwartym formacie.
+
+* Tworzenie wizualnych pulpitów nawigacyjnych na podstawie danych analitycznych opartych na XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja miesięcznych raportów XSLFO na ODP do przeglądów korporacyjnych.
+
+* Integracja w zautomatyzowane przepływy pracy od raportu do prezentacji.
+
+* Zaplanowane generowanie slajdów ODP na powtarzające się spotkania.
+
+* Wywołana transformacja treści XSLFO na otwarte zestawy slajdów typu open-source.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

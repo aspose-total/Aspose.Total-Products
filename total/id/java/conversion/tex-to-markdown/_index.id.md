@@ -144,7 +144,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **MARKDOWN** mengubah dokumen LaTeX menjadi teks ringan yang mudah dibaca dengan sintaks Markdown, ideal untuk publikasi web, dokumentasi, dan alur kerja yang terkontrol versi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengonversi catatan akademis dan laporan untuk blog online.
+
+* Dokumentasi teknis dengan rumus LaTeX dalam sintaks Markdown yang ramah.
+
+* Penyuntingan kolaboratif di repositori GitHub atau GitLab.
+
+* Mempublikasikan ringkasan penelitian LaTeX di platform berbasis web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi Batch TEX ke Markdown untuk alur kerja dokumentasi.
+
+* Integrasi dengan generator situs statis (misalnya, Hugo, Jekyll).
+
+* Generasi yang dipicu untuk platform konten pendidikan.
+
+* Konversi terjadwal untuk publikasi LaTeX-ke-web yang berkelanjutan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,51 @@ Menggunakan API, Anda juga dapat memutar gambar IMAGE keluaran sesuai kebutuhan 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **IMAGE (format raster generik)** mengubah persamaan LaTeX, tabel, dan gambar menjadi format gambar yang kompatibel secara universal untuk web, cetak, dan dokumentasi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Kunci" %}}
+
+
+
+* Menanamkan gambar-gambar yang dihasilkan oleh LaTeX ke dalam blog dan situs web.
+
+* Menyiapkan gambar beresolusi tinggi untuk makalah akademis.
+
+* Berbagi diagram dalam format yang dapat dibaca secara universal.
+
+* Mengonversi tabel LaTeX kompleks menjadi gambar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch TEX ke gambar untuk perpustakaan konten.
+
+* Integrasi dengan alur kerja penerbitan otomatis dan situs web.
+
+* Pembaruan yang dipicu untuk konten kuliah atau tutorial berbasis gambar.
+
+* Mengekspor beberapa diagram LaTeX ke dalam format gambar yang konsisten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

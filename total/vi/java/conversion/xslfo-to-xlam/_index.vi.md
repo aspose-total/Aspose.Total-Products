@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp XSLFO sang XLAM, bạn cũng có thể thêm hì
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO thành **XLAM (Excel Add-In)** cho phép nhúng dữ liệu và macro được tạo từ XSLFO vào các Excel add-ins có thể tái sử dụng. XLAM hỗ trợ tự động hóa, báo cáo tùy chỉnh và ứng dụng bảng tính tương tác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Đóng gói các mẫu báo cáo XSLFO như Excel add-ins để sử dụng cho nhóm.
+
+* Phân phối các công cụ tính toán tự động dựa trên dữ liệu XSLFO.
+
+* Tích hợp phân tích XSLFO vào các bảng điều khiển Excel tùy chỉnh.
+
+* Cho phép quy trình làm báo cáo có thể lặp lại với các add-ins XLAM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tự động hóa việc tạo XLAM từ XSLFO cho các nhiệm vụ định kỳ.
+
+* Triển khai định kỳ các add-ins với dữ liệu XSLFO được cập nhật.
+
+* Tích hợp với tự động hóa quy trình làm việc dựa trên VBA.
+
+* Kích hoạt việc tạo ra các add-ins XLAM cho các công cụ báo cáo doanh nghiệp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

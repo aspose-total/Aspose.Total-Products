@@ -47,7 +47,51 @@ Ao converter o arquivo XSLFO para XLTM, você também pode adicionar marca d'ág
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertendo XSLFO para **XLTM (Modelo de Excel com Macro habilitado)** suporta pastas de trabalho reutilizáveis com automação incorporada. Os modelos XLTM simplificam relatórios repetitivos e fluxos de trabalho avançados.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Padronização de relatórios XSLFO com macros incorporadas para automação.
+
+* Distribuição de modelos de relatórios interativos entre departamentos.
+
+* Preparação de modelos de modelagem financeira reutilizáveis a partir de XSLFO.
+
+* Criação de modelos de painel automatizados a partir de dados tabulares XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Geração em lote de modelos XLTM para relatórios corporativos.
+
+* Integração com fluxos de trabalho VBA automatizados.
+
+* Conversão agendada de XSLFO para XLTM para relatórios de projeto recorrentes.
+
+* Criação de modelos XLTM acionados para painéis de análise com macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

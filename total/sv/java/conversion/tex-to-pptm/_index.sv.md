@@ -135,7 +135,55 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera TEX till **PPTM (PowerPoint Macro-Enabled Presentation)** möjliggör helt interaktiva slides från LaTeX, inklusive makron för automatiserade beräkningar, dynamiska diagram och interaktiva undervisningsmaterial.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Interaktiva akademiska föreläsningar med LaTeX-ekvationer.
+
+* Företagsinstrumentpaneler och forskningspresentationmallar.
+
+* Automatiserade seminarieslides med realtidsdatauppdateringar.
+
+* Workshop-presentationer med makrodriven interaktivitet.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Batch TEX-till-PPTM-konvertering för interaktiva slide decks.
+
+* Integration i företags- eller universitetsautomatiseringssystem.
+
+* Utlösta genereringar av makroaktiverade presentationer.
+
+* Schemalagda uppdateringar från LaTeX-repositorier för flerförfattarprojekt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

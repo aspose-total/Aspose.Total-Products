@@ -61,7 +61,45 @@ Trong khi chuyển đổi tệp POT sang XLSM, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi POT sang XLSM (Bảng tính Excel có Macro) cho phép tổ chức giữ tính tương tác và tự động hóa trong bảng tính của họ. Điều này rất lý tưởng cho các bài thuyết trình chứa logic dữ liệu hoặc tính toán phân tích.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tạo bảng tính tương tác từ bảng điều khiển PowerPoint.
+
+* Xây dựng các mẫu có Macro cho các nhiệm vụ tài chính định kỳ.
+
+* Chuyển đổi dữ liệu thuyết trình thành các công cụ báo cáo tự động.
+
+* Tạo bảng tiến độ đào tạo động.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* Chuyển đổi tự động PowerPoint sang XLSM cho phân tích nội bộ.
+
+* Tích hợp quy trình với các kịch bản tự động hóa dựa trên VBA.
+
+* Tạo ra hàng loạt báo cáo tài chính có Macro.
+
+* Tự động hóa bảng tính động cho báo cáo doanh nghiệp.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ POTMファイルをEXCELに変換するときに、出力EXCELファイル形式
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+プレゼンテーションの表やグラフを完全に編集可能なMicrosoft Excelワークブックに変換することで、POTMをEXCELにシームレスに変換します。これにより、ユーザーはコンテンツを手動で再作成することなく、Excelでデータ分析、予測、または可視化を継続できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+- PowerPointの売上予測を動的なExcelシートに変換する。
+- 予算プレゼンテーションを高度なピボットテーブル分析のためにエクスポートする。
+- プロジェクトのタイムラインやガントチャートをExcelに変換してチームでの共同作業を行う。
+- 統計モデリングのために研究スライドをExcelに変換する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- PowerPointテンプレートからExcelワークブックを生成する自動パイプライン。
+- ビジネスインテリジェンスツールとの統合による即時データ可視化。
+- 四半期報告のためのPOTMプレゼンテーションのバッチ処理。
+- クラウドベースのトリガーによる、複数部門で使用するExcelファイルの生成。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## /BMP
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

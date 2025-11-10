@@ -47,7 +47,55 @@ Saat mengonversi file XSLFO ke TSV, Anda juga dapat menambahkan tanda air ke for
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **TSV (Tab-Separated Values)** menyederhanakan ekstraksi data tabular untuk analitika, impor database, atau proses ETL. TSV ringan, mudah dibaca, dan didukung secara luas oleh bahasa pemrograman dan alat data.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengekspor laporan XSLFO ke TSV untuk ingest database.
+
+* Menyiapkan dataset yang ramah analitika dari tabel XSLFO terstruktur.
+
+* Migrasi data dari lembar keuangan XSLFO ke platform analitika.
+
+* Berbagi data tabular sederhana dalam format TSV untuk integrasi yang mudah.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch terjadwal dari XSLFO ke TSV untuk pipa BI.
+
+* Integrasi ETL untuk alur kerja analitika real-time.
+
+* Ekspor TSV yang dipicu dari laporan XSLFO untuk dashboard otomatis.
+
+* Konversi programatik untuk dataset XSLFO dalam skala besar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

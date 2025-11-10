@@ -102,7 +102,45 @@ otherformats: TSV DIF XLSM MHTML FODS MARKDOWN ODS XLT EXCEL SXC XLTM XLS XLTX C
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POT ל-XLAM (תוסף Excel) מאפשרת אוטומציה על ידי הטמעת מאקרוס בגליונות Excel המקוריים מנתוני המצגת. השינוי הזה מועיל לעסקים המשתמשים ב-PowerPoint לדיווחים וב-Excel לחישובים דינמיים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת תוספי Excel מתבניות KPI המבוססות על PowerPoint.
+
+* אוטומציה של חישובים עבור נתוני ביצועי מכירות או הדרכה.
+
+* יצירת לוחות מחוונים המופעלים במאקרו ממצגות.
+
+* שילוב חזותי של המצגות עם דגמי אוטומציה של Excel.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת XLAM אוטומטי עבור כלי ניתוח עסקיים.
+
+* זרימות עבודה להמרה המשלבות מאקרוס של PowerPoint ו-Excel.
+
+* שילוב עם פלטפורמות אוטומציה של תהליכי עסקים.
+
+* אוטומציה תאגידית לפעולות גיליון חוזרות.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

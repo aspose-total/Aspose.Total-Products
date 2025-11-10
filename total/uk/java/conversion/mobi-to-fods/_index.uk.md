@@ -102,7 +102,47 @@ otherformats: XLSB TSV XLTM SXC ODS EXCEL CSV XLT DIF XLAM XLTX XLSM XLSX XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Експорт MOBI в FODS (Flat OpenDocument Spreadsheet) забезпечує XML-подібний вихід таблиці, ідеальний для легкої обміну даними. Це ідеально підходить для середовищ з відкритим вихідним кодом та систем, які потребують структурованих даних електронних книг у вигляді звичайного тексту.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+- Управління бібліотеками електронних книг у додатках для аркушів з відкритим вихідним кодом.
+
+- Редагування атрибутів вмісту MOBI у LibreOffice Calc.
+
+- Створення легких звітів для аналітики цифрової бібліотеки.
+
+- Обмін метаданими між командами за допомогою відкритих форматів.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+- Пакетні конвертації MOBI в FODS для відкритих порталів даних.
+
+- Інтеграція в екстракцію, трансформацію та завантаження даних з відкритим вихідним кодом.
+
+- Розбір XML для перевірки та очищення метаданих.
+
+- Публікація даних на основі FODS для академічних установ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

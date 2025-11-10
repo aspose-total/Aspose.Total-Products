@@ -135,7 +135,51 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av TEX till **SWF (Shockwave Flash)** skapar interaktiva LaTeX-animationer lämpliga för utbildningsplattformar och online-presentationer, främst för äldre system.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Animerade LaTeX-baserade handledningar och visualiseringar.
+
+* Interaktiva utbildningsmoduler för äldre plattformar.
+
+* Dela iterativa beräkningar eller algoritm demonstrationer.
+
+* Dynamiska diagram i tekniskt e-lärande innehåll.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batch TEX-till-SWF konvertering för äldre innehållsbibliotek.
+
+* Integration i offline e-läringsplattformar.
+
+* Utlöst SWF-generering för interaktiva LaTeX-sekvenser.
+
+* Planerade uppdateringar av animerade handledningar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

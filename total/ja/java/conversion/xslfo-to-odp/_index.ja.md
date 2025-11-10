@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO（Extensible Stylesheet Language Formatting Objects）ファイルを**ODP（OpenDocument Presentation）**に変換すると、構造化されたコンテンツとスタイリングを保持しながらオープンソースのスライドショーを簡単に作成できます。ODPはLibreOffice Impressや他のオープンソースオフィススイートと互換性があります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* XSLFOで生成された年次報告書をインタラクティブなODPプレゼンテーションに変換する。
+
+* 構造化されたXSLFOテーブルから教育コンテンツを準備して教室で使用する。
+
+* 未来にも対応したオープンフォーマットで取締役会のスライドをアーカイブする。
+
+* XSLFOベースの分析データからビジュアルダッシュボードを作成する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 月次XSLFOレポートを一括変換して企業レビュー用のODPにする。
+
+* レポートからプレゼンテーションへの自動化ワークフローへの統合。
+
+* 定期的な会議のためにODPスライドをスケジュール生成する。
+
+* XSLFOコンテンツをオープンソースのスライドデッキに変換する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

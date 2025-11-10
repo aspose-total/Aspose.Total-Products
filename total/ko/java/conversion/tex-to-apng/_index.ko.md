@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 APNG 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX 파일을 **APNG (Animated PNG)**로 변환하면 LaTeX 다이어그램, 방정식 및 플롯을 웹 기반 프레젠테이션, 교육 콘텐츠 및 대화형 시각화용으로 애니메이션 그래픽으로 변환할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 온라인 강의용 애니메이션 수학적 그림.
+
+* 교육용 웹 애플리케이션의 대화형 LaTeX 그래프.
+
+* e-러닝 플랫폼용 동적 다이어그램.
+
+* LaTeX로 생성된 데이터 추이 시각화.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 강의 자료용 일괄 TEX-to-APNG 변환.
+
+* 자동화된 웹 게시 파이프라인 통합.
+
+* AI 기반 교육 도구용 트리거된 렌더링.
+
+* 자습서용 LaTeX 플롯에서 애니메이션 자동 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

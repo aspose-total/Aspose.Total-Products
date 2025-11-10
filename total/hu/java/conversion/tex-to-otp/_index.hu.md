@@ -135,7 +135,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **OTP (OpenDocument Presentation Template)** formátummá való átalakítása újrafelhasználható bemutató sablonokat eredményez LaTeX formázással a következetes előadások vagy üzleti diák tervezéséhez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Szabványosított előadás sablonok LaTeX-stílusú egyenletekkel.
+
+* Konferencia diák sablonok kutatócsoportok számára.
+
+* Újrafelhasználható oktatási anyagok képletgazdag tartalommal.
+
+* Projektjavaslat sablonok technikai prezentációkhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* LaTeX-OTP sablonok tömeges generálása kurzusokhoz.
+
+* Sablonfrissítések kiváltása LaTeX tárolókból.
+
+* Diák sablonok automatikus terjesztése együttműködőknek.
+
+* Integráció nyílt forráskódú LMS prezentációs folyamatokkal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

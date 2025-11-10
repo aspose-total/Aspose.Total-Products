@@ -57,7 +57,51 @@ Met behulp van de API kunt u ook de uitgevoerde DXF-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XPS naar **DXF (Drawing Exchange Format)** maakt het mogelijk om XPS-indelingen te gebruiken in CAD-toepassingen, waarbij vector-elementen worden behouden voor ontwerp-, architectuur- en engineeringprojecten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Architectonische plannen en blauwdrukken geëxtraheerd uit XPS-documenten.
+
+* Technische diagrammen en schema's voor CAD-software.
+
+* Technische documentatie die nauwkeurige vectorconversie vereist.
+
+* Workflows voor industrieel ontwerp voor samenwerking bij het opstellen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde batchconversie van XPS naar DXF voor CAD-teams.
+
+* Integratie met ontwerppipelines voor snelle lay-outupdates.
+
+* Geplande DXF-generatie voor terugkerende engineeringrapporten.
+
+* Gestroomlijnde extractie van vector-elementen voor productie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

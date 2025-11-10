@@ -135,7 +135,51 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera XSLFO till **SWF (Flash)** möjliggör interaktiva animationer för äldre instrumentpaneler och webbapplikationer. SWF bevarar vektorgrafik och tillåter tidsbaserade interaktioner.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* Bädda in interaktiva XSLFO-diagram i äldre webbportaler.
+
+* Förbereda animerade instrumentpaneler för historiska intranätsystem.
+
+* Konvertera utbildningsmoduler till SWF för offline-användning.
+
+* Arkivering av interaktiva XSLFO-visualiseringar för efterlevnadssyften.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Schemalagd konvertering av XSLFO till SWF för äldre system.
+
+* Batchskapande av animerade instrumentpaneler.
+
+* Utlöst generering för webbaserade äldre appar.
+
+* Integration med automatiserade interaktiva rapportpipeliner.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -143,7 +143,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **MARKDOWN** przekształca dokumenty LaTeX w lekki, czytelny tekst z składnią Markdown, idealny do publikacji internetowej, dokumentacji i przepływów pracy kontrolowanych wersją.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Konwertowanie notatek i raportów akademickich na blogi online.
+
+* Dokumentacja techniczna z formułami LaTeX w składni przyjaznej dla Markdown.
+
+* Wspólne edytowanie w repozytoriach GitHub lub GitLab.
+
+* Publikowanie podsumowań badań LaTeX na platformach internetowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa TEX na Markdown dla potoków dokumentacji.
+
+* Integracja z generatorami statycznych stron (np. Hugo, Jekyll).
+
+* Wywoływane generowanie dla platform edukacyjnych.
+
+* Zaplanowana konwersja dla ciągłego publikowania LaTeX w internecie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

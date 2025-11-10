@@ -144,7 +144,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**RTF（リッチテキスト形式）**に変換することで、LaTeX文書をほぼすべてのワードプロセッサーで開くことができ、重要な書式や数学の式を保持しながら表示できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 書式を失わずにプラットフォーム間で学術論文を共有する。
+
+* WordやLibreOfficeでアクセス可能な複雑な方程式を含む技術マニュアル。
+
+* LaTeXスタイルのクロスプラットフォームビジネス文書。
+
+* あらゆる環境で読みやすい形式のメール対応のLaTeX文書。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* アーカイブやクロスプラットフォームの互換性のためのバッチ変換。
+
+* 技術チーム向けの文書処理パイプラインへの統合。
+
+* LaTeXデータセットからのRTFレポートの自動生成。
+
+* 自動公開システム用のトリガー変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

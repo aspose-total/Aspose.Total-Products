@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti PSD-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **PSD (Adobe Photoshop)**-ra lehetővé teszi a grafikus tervezők számára, hogy rétegekkel és fejlett hatásokkal rendelkező XSLFO által generált táblákat és vizuális elemeket szerkesszék. A PSD kimenet ideális marketing vagy prezentációs vizuális elemekhez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* XSLFO diagramok átalakítása rétegzett Photoshop tervekké.
+
+* Jelentési vizuális elemek testreszabása marketing anyagokhoz.
+
+* Strukturált XSLFO táblák szerkesztése profi prezentációkhoz.
+
+* Infografikák készítése fokozott stílusban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* XSLFO jelentések automatizált exportálása PSD formátumba tervezési folyamatokhoz.
+
+* Integráció batch Photoshop feldolgozási csövekkel.
+
+* Ütemezett átalakítás ismétlődő vizuális jelentésekhez.
+
+* Kiváltott PSD generálás kreatív marketing irányítópultokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

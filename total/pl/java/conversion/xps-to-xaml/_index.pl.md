@@ -135,7 +135,55 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików XPS (XML Paper Specification) na **XAML (Extensible Application Markup Language)** pozwala programistom i projektantom na ponowne wykorzystanie zawartości dokumentów w aplikacjach WPF (Windows Presentation Foundation), zachowując układ, czcionki i grafikę wektorową.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Włączanie statycznych wizualizacji dokumentów do aplikacji desktopowych opartych na WPF.
+
+* Projektowanie interaktywnych pulpitów nawigacyjnych przy użyciu elementów interfejsu użytkownika opartych na XAML.
+
+* Ponowne wykorzystywanie układów XPS w interfejsach oprogramowania i kontrolkach.
+
+* Aplikacje edukacyjne lub korporacyjne e-learning wymagające precyzyjnego renderowania dokumentów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna wsadowa konwersja plików XPS na XAML do procesów rozwoju oprogramowania.
+
+* Integracja z przepływami pracy CI/CD dla aktualizacji aplikacji desktopowych.
+
+* Zaplanowane generowanie zasobów XAML dla powtarzającej się zawartości aplikacji.
+
+* Ułatwione ponowne wykorzystanie dokumentów XPS w wielu projektach WPF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

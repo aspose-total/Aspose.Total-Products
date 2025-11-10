@@ -57,7 +57,51 @@ Menggunakan API, Anda juga dapat memutar gambar DXF keluaran sesuai kebutuhan An
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **DXF (Drawing Exchange Format)** memungkinkan diagram teknis, blueprints, dan skematik yang dihasilkan oleh LaTeX digunakan dalam perangkat lunak CAD untuk proyek-proyek rekayasa dan arsitektur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Kunci" %}}
+
+
+
+* Skematik rekayasa dari dokumen teknis LaTeX.
+
+* Diagram arsitektur untuk integrasi CAD.
+
+* Visualisasi plot berbasis LaTeX untuk proyek desain.
+
+* Diagram manufaktur atau prototipe yang berasal dari LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi Batch TEX ke DXF untuk alur kerja rekayasa.
+
+* Integrasi dengan pipa perangkat lunak CAD.
+
+* Pemicu generasi otomatis diagram desain.
+
+* Arsip skematik LaTeX dalam format DXF untuk penggunaan lintas platform.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

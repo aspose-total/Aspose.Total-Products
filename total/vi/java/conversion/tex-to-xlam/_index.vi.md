@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp TEX sang XLAM, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX thành **XLAM (Excel Add-In Macro)** cho phép bảng và công thức LaTeX trở thành các công cụ Excel tương tác với tính toán tự động và chức năng nâng cao.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Mẫu mô hình tài chính được hỗ trợ bởi LaTeX.
+
+* Công cụ tính toán tự động cho các dự án kỹ thuật.
+
+* Bảng công thức học thuật được nhúng vào các macro Excel.
+
+* Bảng điều khiển xử lý dữ liệu kết hợp LaTeX và tự động hóa Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo tự động các add-in XLAM từ bộ dữ liệu LaTeX.
+
+* Chuyển đổi hàng loạt LaTeX thành XLAM cho các công cụ doanh nghiệp.
+
+* Kích hoạt các bảng tính có sẵn macro từ các kho lưu trữ nghiên cứu.
+
+* Tích hợp vào báo cáo tự động và đường ống bảng điều khiển.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

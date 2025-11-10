@@ -102,7 +102,51 @@ otherformats: XLTX ODS SXC XLTM MD FODS TXT CSV EXCEL XLSM TSV XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל- **XLSB (Excel Binary Workbook)** מבטיחה ביצועים מהירים יותר עבור קבצי LaTeX גדולים, שומרת על נוסחאות ועיצוב ומיטבת את גודל הקובץ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* קבצי נתונים פיננסיים או הנדסיים בגודל גדול מתוך LaTeX.
+
+* גיליון אלקטרוני ביצועים מותאמים לפרויקטים עם נתונים מרובי-שכבות.
+
+* דוחות LaTeX מרובי-גיליונות עם חישובים מוטמעים.
+
+* נתוני מחקר אקדמי הדורשים אחסון בינארי קומפקטי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רציפה של טבלאות LaTeX ל-XLSB למהירות.
+
+* שילוב בצינורות BI עסקיים.
+
+* יצירת דוחות LaTeX-Excel בינאריים אוטומטיים.
+
+* יצירת XLSB מופעלת עבור שיתופי פעולה בין מחלקות מרובות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

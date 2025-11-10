@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力WMZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**WMZ（圧縮Windowsメタファイル）**に変換すると、配布、プレゼンテーション、技術文書に適したコンパクトなベクターグラフィックスが可能です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* プレゼンテーションやメール用の圧縮された図表。
+
+* マニュアルやガイド用の技術イラスト。
+
+* スケーラブルなグラフィックスを備えたマーケティング資料。
+
+* コンパクトな形式でのベクター豊かなドキュメントのアーカイブ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* ドキュメント配布のためのバッチXPSからWMZへの変換。
+
+* コンテンツ管理システムとの統合。
+
+* 圧縮されたベクターファイルの定期的な生成。
+
+* プレゼンテーションやマーケティングコンテンツの効率化された処理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

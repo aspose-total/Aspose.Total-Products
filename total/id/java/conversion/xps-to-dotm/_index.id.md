@@ -130,7 +130,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XPS ke **DOTM (Template yang Diaktifkan Makro Word)** menggabungkan efisiensi template dengan otomatisasi makro. Organisasi dapat mempertahankan tata letak dokumen yang seragam sambil mengotomatisasi tugas-tugas yang berulang langsung di dalam Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Template faktur dan laporan dengan makro perhitungan otomatis.
+
+* Template formulir hukum yang mengisi data klien secara otomatis.
+
+* Template perencanaan proyek dengan makro interaktif untuk pelacakan tugas.
+
+* Template dokumen SDM yang mengotomatisasi persetujuan dan pemberitahuan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Pembuatan massal template yang diaktifkan makro standar dari sumber XPS.
+
+* Integrasi ke sistem ERP untuk generasi dokumen otomatis.
+
+* Pembaruan template yang dipicu ketika file XPS sumber berubah.
+
+* Alur kerja pelaporan otomatis menggunakan template DOTM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

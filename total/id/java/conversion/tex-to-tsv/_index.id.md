@@ -47,7 +47,55 @@ Saat mengonversi file TEX ke TSV, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **TSV (Nilai yang Dipisahkan Tab)** memberikan format ringan alternatif untuk data LaTeX numerik dan teks, cocok untuk analisis dan impor perangkat lunak.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Tabel eksperimen akademis diekspor untuk analisis statistik.
+
+* Kumpulan data rekayasa untuk Python, R, atau MATLAB.
+
+* Tabel LaTeX keuangan dikonversi untuk platform analitik.
+
+* Berbagi data LaTeX ringan di antara tim.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi Batch TEX ke TSV dalam pipa riset.
+
+* Ekspor otomatis data tabular LaTeX untuk model AI.
+
+* Generasi TSV real-time untuk dasbor analitik kolaboratif.
+
+* Integrasi ke dalam pipa ETL untuk kumpulan data terstruktur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

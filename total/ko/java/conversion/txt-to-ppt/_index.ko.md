@@ -54,7 +54,51 @@ API를 사용하면 암호로 보호된 TXT 문서를 PPT로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT를 **PowerPoint (.PPT)** 파일로 변환하면 원시 텍스트에서 시각적 프레젠테이션을 빠르게 생성할 수 있습니다. 이 변환은 각 슬라이드를 수동으로 디자인하지 않고 빠른 슬라이드 덱을 찾는 전문가들에게 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 프로젝트 요약에서 직접 생성된 기업 회의 슬라이드.
+
+* 연설자 노트에서 작성된 회의 발표 자료.
+
+* 정책 문서에서 생성된 교육 및 온보딩 덱.
+
+* 텍스트 작업 목록에서 생성된 이벤트 계획 슬라이드.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 일일 보고서로부터 PPT 슬라이드의 자동 생성.
+
+* 빠른 프레젠테이션 제작을 위한 워크플로 도구 통합.
+
+* 이벤트나 세미나 프레젠테이션의 일괄 생성 예약.
+
+* TXT 콘텐츠 분석을 기반으로 한 AI 지원 슬라이드 형식 지원.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

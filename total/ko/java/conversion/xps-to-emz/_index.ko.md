@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 EMZ 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **EMZ (압축된 Windows 메타파일)**으로 변환하면 문서 시각 요소를 효율적으로 포함시킬 수 있어서 벡터의 선명도를 유지한 채 프레젠테이션, 보고서 또는 소프트웨어 애플리케이션에 효과적으로 삽입할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Microsoft Office 프레젠테이션에 고품질 그래픽 삽입.
+
+* 기술 및 건축도면 공유.
+
+* 압축 파일을 사용한 소프트웨어 문서 일러스트레이션.
+
+* 벡터 정확한 시각 요소를 사용한 e러닝 모듈.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 콘텐츠 라이브러리를 위한 일괄 XPS-to-EMZ 변환.
+
+* 자동화된 문서화 파이프라인 통합.
+
+* 주기적 기술 보고서를 위한 EMZ 생성 일정화.
+
+* 프레젠테이션용 시각 요소를 위한 간소화된 그래픽 처리.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

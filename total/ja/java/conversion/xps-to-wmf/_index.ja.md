@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力WMF画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**WMF（Windows Metafile）**に変換すると、Microsoft Office統合や技術イラストに適したスケーラブルベクターグラフィックスが生成されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* ベクターグラフィックスをOfficeドキュメントに埋め込む。
+
+* マニュアルやレポート用の技術図。
+
+* スケーラブルグラフィックスが必要なマーケティングビジュアル。
+
+* プレゼンテーションやパンフレット用の説明コンテンツ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 企業文書ライブラリ用のバッチXPSからWMFへの変換。
+
+* XPSからスケーラブル図を自動作成。
+
+* パブリッシングパイプラインとの統合。
+
+* 定期的なベクターグラフィックスのスケジュール更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

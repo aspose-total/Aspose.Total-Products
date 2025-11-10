@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **PPTM (Makro Etkin PowerPoint)**'e dönüştürmek, dinamik veriler için makrolarla etkileşimli sunumlar yapılmasını, otomasyonu ve geliştirilmiş kurumsal veya eğitim akışlarını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Sunum formatında finansal veya satış panoları.
+
+* Otomatik gezinme ile eğitim ve eğitim modülleri.
+
+* Yönetim incelemesi için etkileşimli raporlar.
+
+* Makrolarla otomatik proje durumu sunumları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Kurumsal otomasyon için toplu XPS'ten PPTM'ye dönüşüm.
+
+* Gerçek zamanlı slayt güncellemeleri için canlı veri kaynaklarıyla entegrasyon.
+
+* Tekrarlayan toplantılar için makro etkin sunumların zamanlanmış oluşturulması.
+
+* Paydaş incelemesi için etkileşimli slaytların akıcı üretimi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

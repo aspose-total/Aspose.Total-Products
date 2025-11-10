@@ -135,7 +135,45 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **PPTM (PowerPoint Macro-Enabled Presentation)** ช่วยให้สไลด์ที่เต็มไปด้วยความสามารถในการแสดงผลจาก LaTeX, รวมถึงมาโครสำหรับการคำนวณโดยอัตโนมัติ กราฟิกแบบไดนามิก และวัสดุการสอนที่สามารถแสดงผลได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การบรรยายทางวิชาการแบบแอ็คทีฟพร้อมสมการ LaTeX
+* แผนภูมิองค์ประกอบกิจการและเทมเพลตการนำเสนองานวิจัย
+* สไลด์สัมมนาอัตโนมัติพร้อมการอัพเดทข้อมูลแบบเรียลไทม์
+* การนำเสนอเวิร์กชอปพร้อมความสามารถในการทำงานโดยมาโคร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง TEX เป็น PPTM แบบกลุ่มสำหรับสไลด์ที่สามารถแสดงผลได้
+* การผสานเข้ากับระบบอัตโนมัติขององค์กรหรือมหาวิทยาลัย
+* การสร้างงานนำเสนอพร้อมมาโครตามที่เรียกใช้
+* การอัพเดทตามกำหนดเวลาจากที่เก็บข้อมูล LaTeX สำหรับโครงการที่มีผู้เขียนหลายคน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

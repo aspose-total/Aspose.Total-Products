@@ -61,7 +61,45 @@ otherformats: DIF FODS MARKDOWN XLTX ODS MHTML XLSX TSV XLSB SXC XLSM XLTM XLT E
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POT เป็น XLT (Excel Template) ช่วยองค์กรในการสร้างเทมเพลตสเปรดชีทที่ใช้ซ้ำได้จากเลย์เอาท์ของงานนำเสนอ  XLT สนับสนุนการป้อนข้อมูลอย่างมีประสิทธิภาพและรายงานที่สอดคล้องกันในทีม
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ออกแบบเทมเพลตทางการเงินจากงานนำเสนองบประมาณ PowerPoint
+
+* สร้างแผ่นข้อมูลมาตรฐานสำหรับฝ่ายทรัพยากรบุคคลหรือบัญชี
+
+* ใช้ภาพการอบรมในการติดตามผลการปฏิบัติงานที่ใช้ Excel
+
+* สร้างเทมเพลตธุรกิจที่ใช้ซ้ำจากสไลด์
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้าง XLT โดยอัตโนมัติจากการออกแบบงานนำเสนอขององค์กร
+
+* การซิงโครไนซ์เทมเพลตในระบบจัดการเอกสาร
+
+* การผสานเข้ากับเครื่องมือวางแผนทรัพยากรองค์กร
+
+* การใช้เทมเพลต Excel มาตรฐานอย่างเรียบง่าย
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -143,7 +143,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **OTT (OpenDocument Text Template)** 'e dönüştürmek, eğitimcilerin, araştırmacıların ve işletmelerin LaTeX stiliyle açık formatlarda tekrar kullanılabilir şablonlar oluşturmasını sağlayarak belge standardizasyonunu kolaylaştırır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX biçimlendirmesiyle tutarlı öğretim materyali şablonları.
+
+* İşbirlikçi laboratuvar raporları için OpenDocument şablonları.
+
+* Açık kaynak ofis paketleri için proje ve iş raporu şablonları.
+
+* Akademik veya idari kullanım için standartlaştırılmış formlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Çok kullanıcılı ortamlar için otomatik şablon oluşturma.
+
+* Açık kaynak LMS ve ofis iş akışlarına entegrasyon.
+
+* Akademik kurumlar için şablon kütüphanelerinin toplu güncellemeleri.
+
+* Araştırma belgeleri için dinamik LaTeX'ten OTT'ye dönüşüm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

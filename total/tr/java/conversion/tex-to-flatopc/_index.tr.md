@@ -143,7 +143,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX dosyalarını **FLATOPC (Flat Open Packaging Conventions)** biçimine dönüştürmek, formüller ve tablolar da dahil olmak üzere LaTeX içeriğinin tek bir XML tabanlı dosyada saklanmasını ve Office Open XML standartlarıyla tam uyumlu hale getirilmesini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* LaTeX belgelerini standartlaştırılmış bir XML biçiminde arşivleme.
+
+* Yapılandırılmış içerik ve biçimlendirmeyi kurumsal uygulamalar için koruma.
+
+* Karmaşık akademik veya teknik raporları tek paket dosyaları olarak paylaşma.
+
+* LaTeX tarafından oluşturulan tabloları ve denklemleri platformlar arası kullanım için koruma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Araştırma havuzları için toplu TEX-FLATOPC dönüşümü.
+
+* Otomatik belge yönetim sistemlerine entegrasyon.
+
+* İşbirlikçi iş akışları için tetiklenmiş FLATOPC oluşturma.
+
+* Zamanlanmış olarak LaTeX içeriğinin XML tabanlı biçimlerde arşivlenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

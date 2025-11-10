@@ -135,7 +135,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XSLFO naar **SWF (Flash)** maakt interactieve animaties mogelijk voor legacy dashboards en webapplicaties. SWF behoudt vectorafbeeldingen en maakt op tijdlijn gebaseerde interacties mogelijk.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Interactieve XSLFO-grafieken insluiten in legacy webportalen.
+
+* Geanimeerde dashboards voor historische intranetsystemen voorbereiden.
+
+* Training modules converteren naar SWF voor offline gebruik.
+
+* Interactieve XSLFO-visualisaties archiveren voor nalevingsdoeleinden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geplande conversie van XSLFO naar SWF voor legacy systemen.
+
+* Batchcreatie van geanimeerde dashboards.
+
+* Getriggerde generatie voor op web gebaseerde legacy-apps.
+
+* Integratie met geautomatiseerde interactieve rapportpijplijnen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

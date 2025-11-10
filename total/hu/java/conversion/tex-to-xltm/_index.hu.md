@@ -47,7 +47,51 @@ A TEX-fájl XLTM-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLTM-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok átalakítása **XLTM (Excel Macro-Enabled Template)** formátumra újrafelhasználható sablonokat és makrókat kombinál, lehetővé téve az automatizált LaTeX adatfolyamatokat és dinamikus jelentéskészítést.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Olyan akadémiai sablonok beágyazott makrókkal, amelyek automatizált értékelést tesznek lehetővé.
+
+* Pénzügyi és mérnöki sablonok LaTeX adatkészletekkel.
+
+* Dinamikus vezérlőpultok makróvezérelt számításokkal.
+
+* Együttműködési projekt sablonok többszerzős csapatok számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges LaTeX-to-XLTM sablon generálás vállalatok számára.
+
+* Automatizált makrók betöltése LaTeX adatforrásokból.
+
+* Integráció a munkafolyamat-automatizálásba kutatási projektek esetén.
+
+* Indított makróval ellátott sablon létrehozása több felhasználó számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

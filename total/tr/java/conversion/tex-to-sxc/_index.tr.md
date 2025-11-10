@@ -47,7 +47,51 @@ TEX dosyasını SXC'ye dönüştürürken, çıktı SXC dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **SXC (StarOffice Calc Elektronik Tablo)** formatına dönüştürmek, eski OpenOffice veya StarOffice kullanıcılarının LaTeX tablo verileriyle çalışmasını sağlarken yapıyı kaybetmemelerini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* StarOffice uyumlu formatında tarihsel LaTeX veri setleri.
+
+* Eski ofis uyumluluğu gerektiren akademik araştırmalar.
+
+* Sayısal LaTeX tablolarının çapraz platform paylaşımı.
+
+* Eski ofis sistemleri için SXC'de proje raporları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* LaTeX veri setlerinin zamanlanmış toplu dönüşümleri.
+
+* Eski ofis otomasyon iş akışlarına entegrasyon.
+
+* Araştırma sürekliliği için yapılandırılmış LaTeX tablolarının arşivlenmesi.
+
+* İşbirlikçi projeler için tetiklenen SXC oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików XSLFO na **POT (szablon PowerPoint)** umożliwia tworzenie standaryzowanych, wielokrotnie używanych slajdów dla użytkowników Microsoft PowerPoint. Szablony POT zachowują układy slajdów, style i formatowanie tabel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Tworzenie szablonów raportów korporacyjnych z podsumowań finansowych w formacie XSLFO.
+
+* Przygotowywanie miesięcznych slajdów śledzenia projektów dla spójnej prezentacji.
+
+* Projektowanie modułów szkoleniowych z ustrukturyzowanych danych XSLFO.
+
+* Generowanie wielokrotnie używanych prezentacji inwestycyjnych z predefiniowanymi układami slajdów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna generacja zbiorcza plików POT z raportów XSLFO.
+
+* Zaplanowane tworzenie szablonów dla cyklicznych prezentacji zespołowych.
+
+* Integracja z korporacyjnymi procesami automatyzacji slajdów.
+
+* Wywoływana konwersja danych XSLFO na gotowe do użycia szablony POT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

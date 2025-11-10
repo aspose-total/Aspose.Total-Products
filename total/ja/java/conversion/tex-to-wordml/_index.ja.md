@@ -144,7 +144,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+LaTeXのコンテンツを**WordML（Microsoft Word XML形式）**に変換することで、LaTeXコンテンツをXMLベースのWord文書と完全に互換性のあるものにし、自動化されたワークフロー、コンテンツの検証、企業システムとの統合を可能にします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* LaTeXソースからのXMLベースの科学的レポート生成。
+
+* 構造化されたWordMLを使用した企業向けドキュメンテーションワークフロー。
+
+* 自動コンテンツマージングによる複数著者の協力。
+
+* 学術または技術資料のXML駆動出版。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* LaTeXリポジトリからWordML文書の自動生成。
+
+* 企業コンテンツ管理システムへの統合。
+
+* 大規模な研究出版物向けのトリガーされたXMLエクスポート。
+
+* コンプライアンスレポートや学術提出物のバッチ処理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

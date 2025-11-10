@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı WMF görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **WMF (Windows Metafile)**'e dönüştürmek, Microsoft Office entegrasyonu ve teknik illüstrasyonlar için uygun ölçeklenebilir vektör grafikler üretir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Vektör grafiklerin Ofis belgelerine gömülmesi.
+
+* Kılavuzlar ve raporlar için teknik diyagramlar.
+
+* Ölçeklenebilir grafikler gerektiren pazarlama görselleri.
+
+* Sunumlar ve broşürler için açıklayıcı içerik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Kurumsal belge kütüphaneleri için toplu XPS-WMF dönüşümü.
+
+* XPS'ten ölçeklenebilir diyagramların otomatik oluşturulması.
+
+* Yayınlama akışlarıyla entegrasyon.
+
+* Tekrar eden vektör grafikler için zamanlanmış güncellemeler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

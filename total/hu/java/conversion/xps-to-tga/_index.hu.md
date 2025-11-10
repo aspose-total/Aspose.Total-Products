@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti TGA-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XPS átalakítása **TGA (Targa képfájl)** formátumba magas minőségű rácsképeket eredményez, amelyek alkalmasak szakmai grafikai és videótermeléshez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Magas hűségű vizuális elemek videó- és multimédiaprojektekhez.
+
+* Játékterv-alkotási eszközök XPS diagramokból.
+
+* Technikai illusztrációk, amelyek veszteségmentes rácsképeket igényelnek.
+
+* Vállalati grafikák bemutatóhoz vagy archiválási célokra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges XPS-TGA konverziós csatornák.
+
+* Ütemezett létrehozás multimédiatermelési munkafolyamatokhoz.
+
+* Integráció grafikai szerkesztő- és videószoftverekkel.
+
+* Automatizált feldolgozás technikai vagy tervezési vizuális elemekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

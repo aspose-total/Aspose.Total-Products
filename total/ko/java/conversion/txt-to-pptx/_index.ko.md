@@ -54,7 +54,51 @@ API를 사용하면 암호로 보호된 TXT 문서를 PPTX로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT를 **PPTX(PowerPoint XML 프레젠테이션)**로 변환하면 오프라인 및 온라인 사용 모두에 적합한 다재다능하고 현대적인 슬라이드 덱이 생성됩니다. PPTX는 고급 서식, 미디어 임베딩 및 클라우드 협업을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 텍스트 계획에서 생성된 비즈니스 전략 프레젠테이션.
+
+* 강의 노트에서 변환된 학술 강의 슬라이드.
+
+* 기술 사양에서 생성된 제품 데모.
+
+* 운영 텍스트 파일에서 직접 생성된 팀 보고 슬라이드.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 주간 업데이트용으로 예약된 TXT를 PPTX로 일괄 변환.
+
+* AI 지원 슬라이드 디자인 플랫폼과 통합.
+
+* CRM 또는 ERP 텍스트 로그에서 실시간 슬라이드 생성.
+
+* 마케팅, 영업 및 내부 보고용 자동 생성된 프레젠테이션.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

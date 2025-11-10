@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **PPTM (Prezentacja z makrami w programie PowerPoint)** umożliwia tworzenie w pełni interaktywnych slajdów z LaTeX, w tym makra do automatycznych obliczeń, dynamiczne wykresy i interaktywne materiały dydaktyczne.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Interaktywne wykłady akademickie z równaniami LaTeX.
+
+* Szablony korporacyjnych pulpitów i prezentacji badawczych.
+
+* Automatyczne slajdy seminaryjne z aktualizacjami danych w czasie rzeczywistym.
+
+* Prezentacje warsztatowe z interaktywnością sterowaną makrami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa TEX na PPTM dla interaktywnych zestawów slajdów.
+
+* Integracja z systemami automatyzacji przedsiębiorstw lub uczelni.
+
+* Wywoływane generowanie prezentacji z makrami.
+
+* Zaplanowane aktualizacje z repozytoriów LaTeX dla projektów wielu autorów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

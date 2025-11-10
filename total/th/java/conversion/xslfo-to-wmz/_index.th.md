@@ -57,7 +57,51 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **WMZ (Compressed Windows Metafile)** จะให้ภาพเวกเตอร์ที่ถูกบีบอัดที่เหมาะสำหรับอีเมล งานนำเสนอ และการผสานเว็บโดยรักษาความยืดหยุ่น
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* ส่งภาพที่สร้างจาก XSLFO เป็นไฟล์แนบที่ถูกบีบอัด
+
+* ฝังกราฟิกที่สามารถปรับขนาดใน PowerPoint และ Word
+
+* เก็บข้อมูลภาพรายงานเวกเตอร์ที่ถูกบีบอัด
+
+* แบ่งปันแดชบอร์ดการดำเนินการผ่านทางอีเมลหรือพอร์ทัลภายใน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลงไฟล์ XSLFO เป็น WMZ แบบกลุ่มเพื่อการจัดเก็บที่มีพื้นที่
+
+* บีบอัดรายงานทางการเห็นอย่างอัตโนมัติตามกำหนดเวลา
+
+* สร้าง WMZ ตามที่กำหนดสำหรับการทำงานที่เกิดซ้ำซาก
+
+* ผสานเข้ากับการสร้างสไลด์อัตโนมัติและท่องไปของเอกสาร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

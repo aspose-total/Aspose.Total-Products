@@ -47,7 +47,51 @@ TEX dosyasını ODS'ye dönüştürürken, çıktı ODS dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **ODS (OpenDocument Elektronik Tablo)**'a dönüştürmek, kullanıcıların düzenlenebilir elektronik tablolar içinde LaTeX içeriğini analiz ve işbirlikçi projeler için kullanmalarını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Karmaşık sayısal tablolarla akademik araştırmalar.
+
+* Açık kaynak finansal veya proje takip tabloları.
+
+* Çok platformlu uyumluluk gerektiren mühendislik hesaplamaları.
+
+* İşbirlikçi eğitim projeleri için LaTeX tablolarının ODS'te paylaşılması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Üniversite laboratuvarları için toplu TEX'ten ODS'ye dönüşümler.
+
+* Açık kaynak veri borularına entegrasyon.
+
+* LaTeX tarafından oluşturulan sayısal verilerin otomatik raporlanması.
+
+* Çok kullanıcılı ortamlar için tetiklenen ODS oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **POTM (Makro Etkin PowerPoint Şablonu)**'a dönüştürülmesi, tekrar kullanılabilir slayt şablonlarına makroların gömülmesine olanak tanır. POTM, otomasyon ve etkileşimli içerik gerektiren dinamik sunumlar için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Sunum makrolarına XSLFO tabanlı hesaplamaların gömülmesi.
+
+* Slayt destelerinde tekrar eden proje durumu güncellemelerinin otomatik hale getirilmesi.
+
+* XSLFO veri tablolarından etkileşimli gösterge panellerinin oluşturulması.
+
+* Standartlaştırılmış POTM şablonlarının departmanlar arasında dağıtılması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XSLFO raporlarının POTM şablonlarına otomasyon için zamanlanmış dönüştürülmesi.
+
+* VBA veya PowerPoint otomasyon iş akışlarıyla entegrasyon.
+
+* Makro etkin sunum şablonlarının tetiklenmiş toplu olarak oluşturulması.
+
+* XSLFO analizlerinden POTM şablonlarının otomatik güncellenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

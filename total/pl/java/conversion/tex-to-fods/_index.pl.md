@@ -47,7 +47,55 @@ Konwertując plik TEX na FODS, możesz także dodać znak wodny do wyjściowego 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja TEX na **FODS (Flat OpenDocument Spreadsheet)** umożliwia przekształcenie danych LaTeX w otwarte arkusze kalkulacyjne oparte na XML, kompatybilne z LibreOffice i OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Dzielenie się tabelami naukowymi opartymi na LaTeX z pakietami biurowymi typu open-source.
+
+* Badania akademickie wymagające otwartych, platformowo-niezależnych formatów arkuszy kalkulacyjnych.
+
+* Śledzenie projektów i raportowanie w środowiskach wieloplatformowych.
+
+* Przygotowywanie danych LaTeX do współpracy z arkuszami FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna konwersja TEX na FODS dla przepływów pracy typu open-source.
+
+* Przetwarzanie wsadowe zbiorów danych LaTeX dla współpracy wieloplatformowej.
+
+* Zaplanowane eksportowanie wyników laboratoryjnych lub tabel eksperymentalnych.
+
+* Integracja w potoki dokumentów dla instytucji badawczych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

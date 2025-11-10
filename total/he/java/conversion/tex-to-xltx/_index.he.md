@@ -102,7 +102,45 @@ otherformats: XLTM DIF TSV XLSB FODS CSV TXT ODS SXC XLAM MD XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל־**XLTX (תבנית Excel ללא מקרוים)** מספקת תבניות בטוחות וניתנות לשימוש עבור טבלאות ונוסחאות שנוצרו ב־LaTeX, אשר מתאימות לסביבות שיתופיות ורבות פלטפורמות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* תבניות אקדמיות ותעשייתיות סטנדרטיות ללא מקרוים.
+* גיליונות מעקב במיזמי LaTeX הניתנים לשימוש חוזר.
+* תבניות פיננסיות ומחקר לשיתוף מרובה משתמשים בצורה מאובטחת.
+* דוחות מרובי גיליונות לצוותי הנדסה ומדע.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת תבנית TEX-to-XLTX בצורה צפופה.
+* שילוב אוטומטי למאגרי מסמכים ותבניות.
+* עדכוני תבניות LaTeX מתוזמנים לפרויקטים שיתופיים.
+* הפצה רב-פלטפורמית של תבניות LaTeX ללא מקרוים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

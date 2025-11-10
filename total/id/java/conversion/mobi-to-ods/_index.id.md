@@ -61,7 +61,47 @@ Setelah mengonversi MOBI ke ODS, [Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file MOBI ke ODS (OpenDocument Spreadsheet) memfasilitasi representasi data eBook yang terstruktur dalam format standar terbuka, memastikan kompatibilitas lintas platform di LibreOffice, OpenOffice, dan alat serupa.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Kunci" %}}
+
+- Membuat indeks perpustakaan digital yang terstruktur.
+
+- Mengelola metadata buku MOBI untuk penelitian sumber terbuka.
+
+- Melacak kontribusi penulis dalam proyek kolaboratif.
+
+- Menjaga daftar bacaan yang dapat diekspor dalam format ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+- Ekspor MOBI-ke-ODS real-time dalam arsip digital.
+
+- Integrasi dengan jalur penerbitan otomatis.
+
+- Pemicu konversi dalam sistem manajemen konten.
+
+- Sinkronisasi metadata terjadwal ke laporan ODS untuk pustakawan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

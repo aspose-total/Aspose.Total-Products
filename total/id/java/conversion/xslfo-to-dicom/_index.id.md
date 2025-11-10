@@ -57,7 +57,55 @@ Menggunakan API, Anda juga dapat memutar gambar DICOM keluaran sesuai kebutuhan 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **DICOM (Digital Imaging and Communications in Medicine)** memungkinkan integrasi konten laporan terstruktur dengan alur kerja citra medis. DICOM adalah standar dalam radiologi, studi klinis, dan sistem informasi rumah sakit.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Menanamkan laporan pasien terstruktur bersama visualisasi yang dihasilkan oleh XSLFO.
+
+* Menyiapkan dasbor diagnostik untuk tinjauan data klinis.
+
+* Mengonversi tabel analitik medis menjadi gambar yang kompatibel dengan DICOM.
+
+* Mengintegrasikan hasil laboratorium yang dihasilkan oleh XSLFO ke dalam sistem PACS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi terjadwal laporan XSLFO ke format DICOM untuk rumah sakit.
+
+* Integrasi ke dalam alur kerja rekam medis elektronik (EHR) otomatis.
+
+* Generasi dipicu visual DICOM dari laporan klinis XSLFO.
+
+* Pengolahan batch untuk visualisasi data penelitian di bidang kesehatan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

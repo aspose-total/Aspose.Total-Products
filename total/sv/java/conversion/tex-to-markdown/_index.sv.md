@@ -143,7 +143,55 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av TEX till **MARKDOWN** omvandlar LaTeX-dokument till lättläst text med Markdown-syntax, perfekt för webbpublicering, dokumentation och versionshanterade arbetsflöden.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Konvertera akademiska anteckningar och rapporter för online-bloggar.
+
+* Teknisk dokumentation med LaTeX-formler i Markdown-vänlig syntax.
+
+* Samredigering i GitHub- eller GitLab-repositorier.
+
+* Publicering av LaTeX-forskningsöversikter på webbaserade plattformar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Batch TEX-till-Markdown-omvandling för dokumentationspipeliner.
+
+* Integration med statiska webbplatsskapare (t.ex. Hugo, Jekyll).
+
+* Utlöst generering för utbildningsinnehållsplattformar.
+
+* Schemalagd konvertering för kontinuerlig LaTeX-till-webbpublicering.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

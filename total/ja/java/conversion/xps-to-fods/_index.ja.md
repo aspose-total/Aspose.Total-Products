@@ -47,7 +47,51 @@ XPSファイルをFODSに変換するときに、出力FODSファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**FODS（Flat OpenDocument Spreadsheet）**に変換することで、LibreOfficeやOpenOfficeとのオープンソーススプレッドシートの互換性が確保されます。ベンダーニュートラルでクロスプラットフォームのソリューションを使用する組織に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 共同編集用の学術および研究プロジェクトデータセット。
+
+* NGOや政府機関向けのオープンソース財務報告書。
+
+* オープンフォーマットでの技術データシートおよび運用ログ。
+
+* チーム内でのクロスプラットフォームのスプレッドシート共有。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 研究室向けの自動化されたXPSからFODSへの変換パイプライン。
+
+* オープンソースERPや分析システムとの統合。
+
+* 運用スプレッドシートの定期的な更新。
+
+* オープンドキュメント形式を使用した効率的な共同作業。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

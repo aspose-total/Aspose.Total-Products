@@ -61,7 +61,45 @@ POTファイルをFODSに変換するときに、出力FODSファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTをFODS（Flat XML ODF Spreadsheet）に変換することで、企業はPowerPointの表データをオープンでXMLベースのスプレッドシート構造に保存する柔軟性を得ることができます。この形式はデータ共有において透明性と相互運用性をサポートしています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* PowerPointの販売テンプレートをオープンなスプレッドシート形式に変換する。
+
+* LibreOfficeやOpenOfficeを使用してパートナーと表形式のデータを共有する。
+
+* 学術プレゼンテーションから教育用スプレッドシートを作成する。
+
+* 長期記録のためにXMLベースのスプレッドシートデータをアーカイブする。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* オープンデータ公開システムとの統合。
+
+* 規制報告のための自動化されたXMLスプレッドシート生成。
+
+* 学術文書管理におけるリアルタイムのFODS変換。
+
+* 部門間データ交換のためのバッチ変換。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

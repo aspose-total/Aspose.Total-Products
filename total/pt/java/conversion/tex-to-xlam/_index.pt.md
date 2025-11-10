@@ -47,7 +47,51 @@ Ao converter o arquivo TEX para XLAM, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter TEX para **XLAM (Excel Add-In Macro)** permite que tabelas e fórmulas LaTeX se tornem ferramentas interativas do Excel com cálculos automatizados e funcionalidades aprimoradas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Modelos de modelagem financeira alimentados por LaTeX.
+
+* Ferramentas de cálculo automatizadas para projetos de engenharia.
+
+* Planilhas de fórmulas acadêmicas incorporadas em macros do Excel.
+
+* Painéis de processamento de dados combinando LaTeX e automação do Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Criação automatizada de complementos XLAM a partir de conjuntos de dados LaTeX.
+
+* Conversões em lote de LaTeX para XLAM para ferramentas empresariais.
+
+* Planilhas habilitadas para macro acionadas a partir de repositórios de pesquisa.
+
+* Integração em relatórios automatizados e pipelines de painéis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

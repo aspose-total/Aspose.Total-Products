@@ -102,7 +102,51 @@ otherformats: XLAM FODS EXCEL XLSM XLTM MD TSV XLTX DIF ODS TXT CSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XSLFO ל- **XLT (תבנית Excel)** מאפשרת תבניות גיליונות אלקטרוניים ניתנות לשימוש חוזר עם עיצוב וסגנונות מוגדרים מראש. XLT מושלמת לתקן דוחות חוזרים ממקורות XSLFO.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* הכנת תבניות חשבוניות על בסיס XSLFO מתוקנות.
+
+* יצירת תבניות לדיווח פרויקטים לשימוש חוזר.
+
+* ארכיבה של לוחות מחוונים חודשיים כתבניות Excel ניתנות לשימוש חוזר.
+
+* חלוקת תבניות לדיווח על KPI תאגידיות הנוצרות מ-XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת תבנית XLT אוטומטית מדוחות XSLFO.
+
+* שילוב עם צינורות דיווח חוזרים.
+
+* המרה מתוזמנת לתבניות מחלקתיות מתוקנות.
+
+* יצירת תבניות Excel באופן מופעל לדיווח עקבי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

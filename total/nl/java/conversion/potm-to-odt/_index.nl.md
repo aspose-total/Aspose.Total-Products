@@ -53,7 +53,51 @@ Met behulp van de API kunt u ook een POTM-bestand naar ODT-conversie met waterme
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van POTM naar ODT stelt gebruikers in staat om PowerPoint-sjablooninhoud te openen in LibreOffice of OpenOffice Writer. Het biedt een platformonafhankelijke manier om tekstinhoud van presentaties te bewerken in open standaard documentformaten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het delen van PowerPoint-inhoud met teams met behulp van open-source tools.
+
+* Het maken van academische of NGO-documentatie met behulp van gratis kantoorpakketten.
+
+* Het hergebruiken van presentaties in ODT-geformatteerde handleidingen.
+
+* Het produceren van bewerkbare trainingsinhoud voor open document ecosystemen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Bedrijfssystemen die Microsoft-presentaties converteren voor ODT-compatibiliteit.
+
+* Geautomatiseerde rapportage voor platformonafhankelijke documentdistributie.
+
+* Batchtransformatiepijplijnen voor ODF-compatibele documentopslag.
+
+* ODT-generatie binnen op Linux gebaseerde bedrijfssystemen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

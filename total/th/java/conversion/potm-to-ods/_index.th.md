@@ -61,7 +61,55 @@ otherformats: XLTX XLT XLSX DIF XLSB EXCEL TSV XLS MARKDOWN XLAM XLSM MHTML FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POTM เป็น ODS จะสร้างไฟล์ OpenDocument Spreadsheet ที่เข้ากันได้กับ LibreOffice, OpenOffice, และแอปพลิเคชันสเปรดชีตโอเพนซอร์สอื่น ๆ โดยการนี้จะช่วยให้ข้อมูลการนำเสนอสามารถนำกลับมาใช้ในแพลตฟอร์มต่าง ๆ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การแปลงข้อมูลสไลด์ขององค์กรเป็นรูปแบบสเปรดชีตมาตรฐานเปิด
+
+* การใช้งานใหม่ของงานนำเสนอทางวิชาการสำหรับการวิเคราะห์สถิติโอเพนซอร์ส
+
+* การแปลงรายงานขององค์กรไม่แสวงหาผลประโยชน์เพื่อการทำงานร่วมกันบนแพลตฟอร์มต่าง ๆ
+
+* การปรับมาตรฐานตารางสไลด์ตัวเลขใน ODS สำหรับการทำงานข้ามแผนก
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างไฟล์ ODS โดยอัตโนมัติจากเทมเพลตการนำเสนอ
+
+* การผสานกับระบบการจัดการเอกสารที่รองรับรูปแบบเปิด
+
+* การแปลงข้อมูลเป็นชุดใหญ่สำหรับการทำงานร่วมกันบนแพลตฟอร์มต่าง ๆ
+
+* การสร้าง ODS ตามที่กำหนดสำหรับการสร้างรายงานในคลาวด์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

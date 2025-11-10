@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı JPEG2000 görüntüsünü ihtiyaçlarınıza göre d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **JPEG2000**'e dönüştürmek, profesyonel yayıncılık, tıbbi ve arşiv uygulamaları için uygun, yüksek kaliteli sıkıştırılmış görüntüler sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Kurumsal ve yasal belgelerin arşivlenmesi.
+
+* Yayına hazır yüksek çözünürlüklü görüntüler.
+
+* Kayıpsız kalite gerektiren dijital kütüphanelere entegrasyon.
+
+* Tıbbi ve bilimsel belgeler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XPS arşivlerinin depolama verimliliği için JPEG2000'e otomatik dönüştürülmesi.
+
+* Belge görüntü kütüphaneli için zamanlanmış toplu işleme.
+
+* Dijital varlık yönetim sistemleriyle entegrasyon.
+
+* Yüksek çözünürlüklü görüntüler için akışkan yayıncılık iş akışları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ XPS 파일을 XLTM로 변환하는 동안 출력 XLTM 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **XLTM (매크로 활성화 엑셀 템플릿)**으로 변환하면 재사용 가능한 매크로 활성화 템플릿을 얻을 수 있어, 자동화를 통합한 미리 설계된 스프레드시트 구조로 기업 환경에서 효율적으로 사용할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 매크로가 포함된 예산 계획 템플릿.
+
+* 자동화된 영업 및 마케팅 보고서 템플릿.
+
+* 인사 및 급여 계산 템플릿.
+
+* 작업 자동화가 포함된 프로젝트 관리 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 기업 자동화를 위한 대량 XPS-to-XLTM 템플릿 생성.
+
+* 자동화된 작업을 위한 내부 워크플로 소프트웨어 통합.
+
+* 기업용 예약된 매크로 활성화 템플릿 업데이트.
+
+* 자동화된 보고서 템플릿의 간소화된 배포.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

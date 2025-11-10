@@ -144,7 +144,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file TEX ke **FLATOPC (Flat Open Packaging Conventions)** memungkinkan konten LaTeX, termasuk rumus dan tabel, disimpan dalam satu file berbasis XML yang sepenuhnya kompatibel dengan standar Office Open XML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Kunci" %}}
+
+
+
+* Mengarsipkan dokumen LaTeX dalam format XML yang terstandar.
+
+* Menjaga konten terstruktur dan format untuk aplikasi perusahaan.
+
+* Berbagi laporan akademis atau teknis yang kompleks sebagai file paket tunggal.
+
+* Menjaga tabel dan persamaan yang dihasilkan oleh LaTeX untuk penggunaan lintas platform.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch TEX ke FLATOPC untuk repositori penelitian.
+
+* Integrasi ke dalam sistem manajemen dokumen otomatis.
+
+* Generasi FLATOPC yang dipicu untuk alur kerja kolaboratif.
+
+* Penjadwalan pengarsipan konten LaTeX dalam format berbasis XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

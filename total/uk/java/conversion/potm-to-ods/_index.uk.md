@@ -102,7 +102,51 @@ otherformats: XLTX XLT XLSX DIF XLSB EXCEL TSV XLS MARKDOWN XLAM XLSM MHTML FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення POTM у ODS дозволяє створювати файли OpenDocument Spreadsheet, сумісні з LibreOffice, OpenOffice та іншими аркушами даних з відкритим вихідним кодом. Це забезпечує можливість повторного використання даних презентації на різних платформах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Перетворення корпоративних даних слайдів у формати аркушів даних з відкритим стандартом.
+
+* Академічні презентації перетворені для використання у відкритому статистичному аналізі.
+
+* Звіти НУО перетворені для спільної роботи на різних платформах.
+
+* Стандартизація числових таблиць слайдів у форматі ODS для багатофункціональних робочих процесів.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Автоматизоване створення файлів ODS з шаблонів презентацій.
+
+* Інтеграція з системами управління документами, що підтримують відкриті формати.
+
+* Пакетне перетворення для спільної роботи на різних платформах.
+
+* Створення ODS за допомогою тригерів для хмарних звітних конвеєрів.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

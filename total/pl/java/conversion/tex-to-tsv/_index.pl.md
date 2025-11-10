@@ -47,7 +47,55 @@ Konwertując plik TEX na TSV, możesz także dodać znak wodny do wyjściowego f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja TEX na **TSV (wartości oddzielone tabulatorem)** zapewnia alternatywny lekki format danych numerycznych i tekstowych z LaTeX, odpowiedni do analizy i importu oprogramowania.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Tabele eksperymentów akademickich eksportowane do analizy statystycznej.
+
+* Zbiory danych inżynieryjnych dla Pythona, R lub MATLAB.
+
+* Konwersja finansowych tabel LaTeX dla platform analitycznych.
+
+* Lekkie udostępnianie danych LaTeX między zespołami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa TEX na TSV w potokach badawczych.
+
+* Automatyczny eksport danych tabelarycznych LaTeX dla modeli AI.
+
+* Generowanie TSV w czasie rzeczywistym dla wspólnych pulpitów analitycznych.
+
+* Integracja z potokami ETL dla strukturalnych zbiorów danych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

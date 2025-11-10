@@ -53,7 +53,55 @@ API'yi kullanarak, filigranlı POTM dosyasını OTT'ye dönüştürme işlemini 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM'yi OTT'ye dönüştürmek, LibreOffice Writer ve benzeri uygulamalarla uyumlu tekrar kullanılabilir OpenDocument Metin şablonları oluşturur. Bu şablonlar, düzeni, stilleri ve tasarım unsurlarını Microsoft olmayan ortamlar için korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* PowerPoint stillerini kullanarak açık kaynak ofisleri için OTT şablonları tasarlama.
+
+* Sunum içeriğini ODT tabanlı şablon yapılarına dönüştürme.
+
+* Açık format şablonlarının hükümet veya kamu sektörü kullanımı.
+
+* Yeniden kullanılabilir OTT dosyalarını kullanarak STK belge standartları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Açık belge yönetim sistemlerinde otomatik OTT şablonu oluşturma.
+
+* Açık formatları kullanan çok platformlu belge yayınlama boru hatları.
+
+* Microsoft ve LibreOffice ekosistemlerini birbirine bağlayan dönüşüm iş akışları.
+
+* Sunumlardan türetilen OTT şablonlarının büyük ölçekli kurumsal kullanımı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

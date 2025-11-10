@@ -99,7 +99,45 @@ otherformats: FLATOPC WORD RTF DOC ODT DOTM OTT DOCX DOT TEXT DOTX WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי POT ל-DOCM (מסמך המופעל על ידי מקרו של Word) מאפשרת לארגונים לשמור על הלוגיקה של האוטומציה לצד תוכן המצגת שלהם. פורמט זה אידיאלי לזרימות עבודה ליצירת מסמכים דינמיים שבהם נתוני PowerPoint מובילים דוחות אינטראקטיביים או תבניות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת מדריכי הכשרה אוטומטיים מתבניות מצגות.
+
+* מוטבעת מקרוים ליצירת דוחות חוזרות.
+
+* בניית מסמכי מדיניות אינטראקטיביים עם טפסים מוטבעים.
+
+* המרת מצגות מכירות ב-PowerPoint להצעות ללקוחות שמופעלות באמצעות מקרוים.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* שילוב של ייצואי Word המופעלים במקרוים לתוך צינורות ניהול מסמכים.
+
+* יצירת מסמכי DOCM באופן אוטומטי מספריות שקופיות.
+
+* יצירת דוחות דינמיים במערכות לניהול מידע עסקי.
+
+* אוטומציה של תבניות בסביבות CRM או ERP.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

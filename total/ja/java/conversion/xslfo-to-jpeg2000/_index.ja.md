@@ -57,7 +57,55 @@ APIを使用すると、必要に応じて出力JPEG2000画像を回転させる
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**JPEG2000**に変換すると、品質の損失が最小限で高圧縮のラスター画像が得られます。JPEG2000は医療画像、大規模な視覚レポート、アーカイブ用途に適しています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 複雑な表を含む高解像度のXSLFOレポートをアーカイブする。
+
+* デジタル配信用に詳細な財務または運用の視覚資料を準備する。
+
+* XSLFOの分析を効率的なラスター画像に変換する。
+
+* 出版物向けの大形の視覚資料を生成する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* アーカイブ用にXSLFOをJPEG2000にバッチ変換する。
+
+* 自動出版ワークフローのためのスケジュール生成。
+
+* 画像最適化パイプラインとの統合。
+
+* XSLFOダッシュボードからの高解像度エクスポートをトリガーする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

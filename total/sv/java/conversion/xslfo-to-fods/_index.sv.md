@@ -47,7 +47,51 @@ När du konverterar XSLFO-fil till FODS, kan du också lägga till vattenstämpe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av XSLFO-filer till **FODS (Flat OpenDocument Spreadsheet)**-format stöder öppen källkods kontorspaket som LibreOffice och OpenOffice. FODS möjliggör lätta, redigerbara kalkylblad baserade på XML som passar för samarbetsmiljöer.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* Dela XSLFO-genererade budgetblad med användare av öppen källkodskontor.
+
+* Arkivering av rapporter i ett öppet, standardiserat kalkylbladsformat.
+
+* Förbereda projektspårningsblad för samarbete över plattformar.
+
+* Konvertera tekniska XSLFO-tabeller till redigerbara FODS-kalkylblad.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batchkonvertering av XSLFO till FODS för öppna rapporteringspipeliner.
+
+* Integrering i dokumenthanteringssystem som stöder FODS.
+
+* Schemalagd export för samarbetsprojektdashboardar.
+
+* Automatisk konvertering av XSLFO-analyserapporter till FODS-format.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

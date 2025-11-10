@@ -47,7 +47,45 @@ otherformats: TXT XLSB EXCEL XLT DIF XLTM FODS XLAM XLTX SXC XLSM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **ODS (OpenDocument Spreadsheet)** ช่วยให้เกิดความเข้ากันได้กับแอปพลิเคชันสเปรดชีตโอเพนซอร์สที่ทันสมัย โดย ODS รักษาสไตล์ สูตร และตาราง ทำให้เหมาะสำหรับการรายงานและแบ่งปันข้อมูลร่วมกัน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* การแปลงรายงานทรัพยากรบุคคลที่สร้างจาก XSLFO สำหรับผู้ใช้ LibreOffice
+* การแบ่งปันการวิเคราะห์รายไตรมาสกับพาร์ทเนอร์ภายนอกในรูปแบบ ODS
+* เตรียมการแผงควบคุมการดำเนินงานสำหรับการทบทวนระหว่างแผนก
+* เก็บถาวรตารางการเงินที่ใช้ XSLFO ในรูปแบบเปิดที่มั่นใจสำหรับอนาคต
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XSLFO เป็น ODS แบบเรียลไทม์สำหรับสภาพแวดล้อมทำงานร่วมกัน
+* การส่งออกชุดข้อมูลดำเนินการตามกำหนดเวลาจาก XSLFO
+* การรวมเข้ากับท่อรายงานอัตโนมัติสำหรับทีมระยะไกล
+* การสร้างสเปรดชีต ODS โดยอัตโนมัติจากเทมเพลต XSLFO สำหรับรายงานที่เกิดซ้ำ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -144,7 +144,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file TEX ke **DOT (Template Dokumen Word)** memungkinkan pengguna memanfaatkan format LaTeX saat membangun template Word yang dapat digunakan ulang untuk keperluan korporat atau pendidikan. Hal ini membantu menjaga konsistensi dalam laporan resmi dan dokumen profesional.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Kop surat perusahaan dan template proposal dengan tipografi gaya LaTeX.
+
+* Template akademik atau ujian standar untuk universitas.
+
+* Template curriculum vitae dan resume untuk penggunaan profesional.
+
+* Template dokumentasi proyek untuk insinyur dan peneliti.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi otomatis template untuk pembuatan laporan dalam jumlah besar.
+
+* Integrasi dengan perangkat lunak otomatisasi dokumen di lembaga pendidikan.
+
+* Pembaruan template yang dipicu dari repositori LaTeX untuk konsistensi merek.
+
+* Membuat perpustakaan template dinamis untuk proyek-proyek rekayasa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

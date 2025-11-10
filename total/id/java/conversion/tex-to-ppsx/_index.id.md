@@ -135,7 +135,45 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **PPSX (PowerPoint Show tanpa Macros)** menghasilkan presentasi yang aman dan siap ditampilkan dengan konten LaTeX, cocok untuk dibagikan di berbagai platform.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Kuliah akademik untuk distribusi tanpa risiko keamanan makro.
+* Presentasi korporat atau pelatihan dengan tabel bergaya LaTeX.
+* Slaid konferensi yang dapat digunakan kembali dengan diagram yang kaya akan formula.
+* Berbagi slaid teknis di berbagai platform.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi Batch LaTeX ke PPSX.
+* Pembuatan otomatis slaid kuliah atau pelatihan.
+* Integrasi dengan LMS atau sistem presentasi perusahaan.
+* Generasi slaid yang dipicu untuk proyek akademik kolaboratif.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

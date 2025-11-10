@@ -53,7 +53,45 @@ otherformats: DOTMX DOTMM DOT DOTM ODT RTF FLATOPC OTT DOTX TEXT WORDML WORD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POT เป็น DOTM (แมโครที่เปิดใช้งานได้ Word Template) จะให้องค์กรมีเทมเพลตเอกสารที่สามารถนำมาใช้ซ้ำได้ซึ่งรวมถึงแมโครการทำงานด้วย สิ่งนี้สำคัญสำหรับองค์กรที่ต้องการเอกสารที่สามารถกรอกข้อมูลอัตโนมัติตามข้อมูลจาก PowerPoint
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้างเทมเพลตข้อเสนอที่สามารถแสดงข้อมูลได้
+
+* แปลงเทมเพลต PowerPoint เป็นชุดเอกสารที่มีแมโคร
+
+* ทำให้การสร้างใบแจ้งหนี้หรือใบรับรองที่มีตราสัญลักษณ์เป็นอัตโนมัติ
+
+* มาตรฐานเอกสารในแผนกต่าง ๆ
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้าง DOTM ในระบบอัตโนมัติของเวิร์กโฟลว์
+
+* การใช้งานเทมเพลตอัตโนมัติผ่านแพลตฟอร์มเอกสารบนคลาวด์
+
+* การผสานข้อมูลกับ ERP หรือ CRM สำหรับการสร้างเอกสารตามความต้องการ
+
+* การใช้งานเทมเพลตเอกสารที่เปิดใช้งานได้ทั่วบริษัท
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

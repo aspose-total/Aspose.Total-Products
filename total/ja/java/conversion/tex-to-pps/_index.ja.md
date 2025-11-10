@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**PPS（PowerPoint Show）**に変換すると、即座に再生できるスライドのみのプレゼンテーションが作成され、自動化された講義、トレーニングセッション、LaTeXコンテンツの迅速な共有に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* 実行可能な学術講義デッキ。
+
+* インタラクティブなワークショッププレゼンテーション。
+
+* クライアントプレゼンテーション用のエンジニアリングプロジェクトサマリー。
+
+* 学会用のLaTeXベースのスライド。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 予定されたバッチTEXからPPSへの変換。
+
+* LaTeXコンテンツからのトレーニングデッキの自動生成。
+
+* プレゼンテーション展開システムとの統合。
+
+* セミナーやeラーニングプラットフォーム向けのトリガーされたPPS作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

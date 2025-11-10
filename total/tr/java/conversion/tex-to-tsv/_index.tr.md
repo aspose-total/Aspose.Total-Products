@@ -47,7 +47,55 @@ TEX dosyasını TSV'ye dönüştürürken, çıktı TSV dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **TSV'ye (Tablo Ayırıcılı Değerler)** dönüştürmek, sayısal ve metinsel LaTeX verileri için analiz ve yazılım içe aktarmaya uygun alternatif hafif bir formattır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* İstatistiksel analiz için ihraç edilen akademik deney tabloları.
+
+* Python, R veya MATLAB için mühendislik veri setleri.
+
+* Analitik platformlar için dönüştürülen finansal LaTeX tabloları.
+
+* Takımlar arasında hafif LaTeX veri paylaşımı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Araştırma borularında toplu TEX'ten TSV'ye dönüşüm.
+
+* Yapay zeka modelleri için LaTeX tablo verilerinin otomatik olarak ihraç edilmesi.
+
+* İşbirlikçi analitik panolar için gerçek zamanlı TSV oluşturma.
+
+* Yapılandırılmış veri kümeleri için ETL borularına entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,55 @@ Menggunakan API, Anda juga dapat memutar gambar EMZ keluaran sesuai kebutuhan An
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **EMZ (Compressed Windows Metafile)** memastikan grafik vektor LaTeX tetap terjaga dalam format yang terkompresi cocok untuk presentasi, dokumen, dan publikasi teknis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Kunci" %}}
+
+
+
+* Menyematkan diagram LaTeX ke dalam dokumen Microsoft Office.
+
+* Menjaga grafik vektor untuk laporan teknis.
+
+* Skematik LaTeX yang dapat digunakan ulang untuk publikasi profesional.
+
+* Grafik terkompresi untuk PDF akademis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Kompresi dan konversi batch untuk perpustakaan dokumen.
+
+* Integrasi ke alur kerja penerbitan otomatis.
+
+* Generasi EMZ yang dipicu untuk slide atau laporan.
+
+* Mengarsipkan diagram LaTeX dalam format terkompresi untuk distribusi yang mudah.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

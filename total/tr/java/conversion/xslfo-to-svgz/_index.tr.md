@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı SVGZ görüntüsünü ihtiyaçlarınıza göre de d�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **SVGZ (Sıkıştırılmış SVG)**'ye dönüştürülmesi, web, gösterge panoları ve duyarlı uygulamalar için ideal olan sıkıştırılmış formda ölçeklenebilir vektör grafikler sağlar. SVGZ, kaliteyi korurken dosya boyutunu azaltır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Web gösterge panoları için XSLFO raporlarından etkileşimli grafikler oluşturma.
+
+* Duyarlı uygulamalarda ölçeklenebilir görselleri gömme.
+
+* Sıkıştırılmış biçimde vektör tablolarını arşivleme.
+
+* E-öğrenme veya bilgi tabanları için diyagramlar hazırlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Web raporlama için toplu XSLFO'dan SVGZ'ye dönüştürme.
+
+* Sıkıştırılmış vektör grafiklerin zamanlanmış dışa aktarımı.
+
+* Otomatik çevrimiçi gösterge paneli iş akışlarıyla entegrasyon.
+
+* XSLFO analizlerinden tetiklenen SVGZ görüntülerinin oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

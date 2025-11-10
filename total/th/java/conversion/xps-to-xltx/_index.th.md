@@ -47,7 +47,51 @@ otherformats: TSV XLT XLTM XLAM FODS SXC XLTX EXCEL TXT XLSM ODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XPS เป็น **XLTX (Excel Template)** สร้างเทมเพลตที่สามารถนำมาใช้ซ้ำได้โดยไม่มีแมโคร ที่เหมาะสำหรับรายงานมาตรฐาน การป้อนข้อมูล และเอกสารธุรกิจ พร้อมรักษาความปลอดภัยและความเข้ากันได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* เทมเพลตรายงานที่มีตราสำหรับบริษัท
+
+* เทมเพลตสำหรับงานวิจัยหรือการป้อนข้อมูลที่ต้องทำซ้ำ
+
+* แผ่นติดตามโครงการสำหรับการทำงานร่วมกันของทีม
+
+* เทมเพลตสำหรับรายงานทางการเงินและดำเนินการโดยไม่มีแมโคร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างเทมเพลต Excel ที่ใช้ XPS โดยอัตโนมัติ
+
+* การสร้างไปรายการเพื่อการใช้งานในองค์กร
+
+* การผสานกับระบบจัดการเอกสารเพื่อการกระจาย
+
+* การอัปเดตตามกำหนดเวลาสำหรับเทมเพลตมาตรฐานที่เกิดซ้ำ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

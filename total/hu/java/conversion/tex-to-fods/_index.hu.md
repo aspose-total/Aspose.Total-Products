@@ -47,7 +47,51 @@ A TEX-fájl FODS-vé konvertálásakor vízjelet is hozzáadhat a kimeneti FODS-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok konvertálása **FODS (Flat OpenDocument Spreadsheet)** formátumba LaTeX adatokat szolgáltat nyitott, XML-alapú táblázatok formájában, melyek kompatibilisek a LibreOffice és az OpenOffice szoftverekkel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* LaTeX alapú tudományos táblázatok megosztása nyílt forráskódú irodai szoftverekkel.
+
+* Akadémiai kutatásokhoz szükséges nyílt, platformfüggetlen táblázatformátumok.
+
+* Projektek nyomon követése és jelentés készítése többplatformos környezetekben.
+
+* LaTeX adatok előkészítése együttműködésre alkalmas FODS táblázatokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Automatizált TEX-FODS konverzió nyílt forráskódú munkafolyamatokhoz.
+
+* LaTeX adathalmazok tömeges feldolgozása többplatformos együttműködéshez.
+
+* Laboreredmények vagy kísérleti táblázatok ütemezett exportálása.
+
+* Integráció kutatóintézetek dokumentumfolyamataiba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

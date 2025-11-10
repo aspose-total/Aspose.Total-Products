@@ -105,7 +105,55 @@ otherformats: DXF PSD EMZ APNG TGA  JPEG2000 WMF WMZ IMAGE DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XSLFO ל־**SVGZ (SVG דחוס)** מספקת גרפיקה וקטורית נמתחת בצורה דחוסה, אידיאלית לאפליקציות אינטרנט, לדשבורדים וליישומים רספונסיביים. SVGZ יכול להפחית את גודל הקובץ תוך שמירה על איכות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* יצירת תרשימים אינטראקטיביים מדוחות XSLFO עבור דשבורדים באינטרנט.
+
+* הטבעת גרפיקה נמתחת ביישומים רספונסיביים.
+
+* ארכיבת טבלאות פיננסיות מבוססות וקטור בפורמט דחוס.
+
+* הכנת תרשימים ללמידה אלקטרונית או לבסיסי ידע.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת XSLFO ל־SVGZ בצורה צמודה לרשת עבור דיווחים באינטרנט.
+
+* ייצוא מתוזמן של גרפיקה וקטורית דחוסה.
+
+* שילוב עם זרימות עבודה אוטומטיות לדשבורדים מקוונים.
+
+* יצירה מופעלת של תמונות SVGZ מנתוני XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,51 @@ otherformats: EXCEL TSV MARKDOWN SXC XLAM XLS MHTML DIF XLT XLTX ODS XLSM XLSB F
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POTM เป็น MHTML (MIME HTML) จะสร้างเอกสารเว็บแบบไฟล์เดียวที่รวมเนื้อหาสไลด์ทั้งหมด รวมถึงรูปภาพและการจัดรูปแบบเข้าไว้ในไฟล์ที่เข้ากันได้กับ HTML ไฟล์เดียวกัน MHTML เหมาะสำหรับการดูแบบออฟไลน์ การเก็บถาวร และการแบ่งปันงานนำเสนอผ่านทางอีเมลหรือแพลตฟอร์มเว็บ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* แบ่งปันเทมเพลตงานนำเสนอแบบแอคทีฟผ่านทางอีเมล
+
+* สร้างเอกสารเก็บไว้เพื่อใช้งานแบบออฟไลน์สำหรับลูกค้าหรือผู้มีส่วนได้เสีย
+
+* ฝังเนื้อหางานนำเสนอในพอร์ทัลเว็บภายใน
+
+* เก็บถาวรเด็คการตลาดและเอกสารการฝึกอบรมในรูปแบบไฟล์เดียวกัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การส่งออก MHTML อัตโนมัติของเทมเพลตงานนำเสนอสำหรับการเผยแพร่บนเว็บ
+
+* การผสานกับระบบการจัดการเนื้อหาและเก็บถาวร
+
+* การแปลงเป็นชุดสำหรับการจัดการเก็บสไลด์ในบริษัททั้งหมด
+
+* การสร้างตiggered สำหรับการส่งมอบให้กับลูกค้าหรือการกระจายภายใน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

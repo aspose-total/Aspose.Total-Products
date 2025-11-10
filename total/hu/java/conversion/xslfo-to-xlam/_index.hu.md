@@ -47,7 +47,55 @@ A XSLFO-fájl XLAM-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLA
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **XLAM (Excel Add-In)** formátumra lehetővé teszi az XSLFO által generált adatok és makrók beágyazását újrafelhasználható Excel-kiegészítőkbe. Az XLAM támogatja az automatizálást, az egyedi jelentéskészítést és az interaktív táblázatkezelő alkalmazásokat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* XSLFO jelentéssablonok csomagolása Excel-kiegészítőkké a csapatok számára történő használatra.
+
+* Az XSLFO adatokból származó automatizált számítási eszközök terjesztése.
+
+* Az XSLFO elemzések integrálása egyedi Excel-műszerfalakba.
+
+* Ismételhető jelentési folyamatok lehetővé tétele XLAM kiegészítőkkel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Az XLAM generálásának automatizálása XSLFO-ból ismétlődő feladatokhoz.
+
+* Ütemezett kiegészítők telepítése frissített XSLFO adatokkal.
+
+* Integráció a VBA-alapú munkafolyamat-automatizálással.
+
+* Az XLAM kiegészítők kiváltott generálása vállalati jelentéstámogató eszközökhöz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

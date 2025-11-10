@@ -57,7 +57,51 @@ Med hjälp av API:t kan du också rotera den utgående EMZ-bilden enligt dina be
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av XSLFO till **EMZ (Enhanced Windows Metafile Compressed)** möjliggör högkvalitativa vektorgrafik med komprimering, perfekt för bildspel och utskriftsberedda visuella element.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Exportera XSLFO-tabeller som skalbar grafik för presentationer.
+
+* Bädda in finansiella eller operationella visuella element i bildspel.
+
+* Skapa arkivbilder för rapporteringsinstrumentpaneler.
+
+* Förbereda visuella element för desktop-publiceringsflöden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Schemalagd batchkonvertering av XSLFO-rapporter till EMZ.
+
+* Integration i automatiserade rapporteringspipeliner.
+
+* Utlöst skapande av EMZ-bilder för inbäddning i bildspel.
+
+* Realtidskonvertering av XSLFO-instrumentpaneler till komprimerade vektorgrafiska element.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

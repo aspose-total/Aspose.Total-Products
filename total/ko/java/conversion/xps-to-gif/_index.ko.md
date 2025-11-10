@@ -143,7 +143,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **GIF (그래픽 교환 형식)**으로 변환하면 가벼운 애니메이션 또는 정적 이미지로 정적 문서를 생동감 있게 만들어 온라인 플랫폼 및 이메일 캠페인에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 소셜 미디어 캠페인용 애니메이션 다이어그램.
+
+* e러닝 및 튜토리얼용 지시 GIF.
+
+* 프레젠테이션용 데이터 트렌드 시각화.
+
+* 보고서 및 그래픽용 가벼운 파일 공유.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 웹 플랫폼용 자동화된 XPS-to-GIF 변환.
+
+* 마케팅 콘텐츠용 GIF 예약 생성.
+
+* 온라인 게시를 위한 콘텐츠 관리 시스템 통합.
+
+* 교육용 또는 홍보 자료용 일괄 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

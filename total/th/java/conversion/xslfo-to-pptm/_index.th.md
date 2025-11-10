@@ -135,7 +135,45 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **PPTM (PowerPoint ที่เปิดใช้งานแมโคร)** รวมเอกสารสไลด์ที่สามารถแก้ไขได้กับความสามารถในการอัตโนมัติ  PPTM เหมาะสำหรับรายงานแบบไดนามิก แผงควบคุมแบบอินเทอร์แอคทีฟ และการนำเสนอที่เกิดซ้ำซาก
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* ฝังการคำนวณที่มาจาก XSLFO ลงในสไลด์ที่สามารถแก้ไขได้
+* เตรียมการแผงควบคุมประเมินผลอัตโนมัติ
+* สร้างสไลด์การฝึกอบรมหรือคำสอนที่เปิดใช้งานแมโคร
+* กระจายการนำเสนอที่เกิดเปลี่ยนแปลงได้สำหรับนักลงทุนหรือคณะกรรมการ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การแปลงรายงาน XSLFO เป็นสไลด์ PPTM ตามกำหนดเวลา
+* การรวมระบบอัตโนมัติ VBA
+* การสร้างสไลด์ที่เปิดใช้งานแมโครจากเนื้อหา XSLFO ที่เกิดซ้ำซาก
+* การแปลงข้อมูลเป็นชุดอัตโนมัติสำหรับการนำเสนอของบริษัทที่เปลี่ยนแปลงได้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

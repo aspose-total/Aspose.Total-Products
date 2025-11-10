@@ -57,7 +57,55 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **DICOM (Digital Imaging and Communications in Medicine)** ช่วยให้สามารถผสานเนื้อหารายงานโครงสร้างกับขั้นตอนการทำงานด้านการภาพการแพทย์ได้  DICOM เป็นมาตรฐานในวิทยาศาสตร์รังสี, การศึกษาทางคลินิก, และระบบข้อมูลโรงพยาบาล.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* ฝังรายงานผู้ป่วยโครงสร้างไว้ข้างกับภาพประกอบที่สร้างจาก XSLFO
+
+* เตรียมข้อมูลแผนภูมิการวินิจฉัยสำหรับการทบทวนข้อมูลทางคลินิก
+
+* แปลงตารางการวิเคราะห์ทางการแพทย์เป็นภาพที่เข้ากันได้กับ DICOM
+
+* ผสานผลการทดลองทางห้องปฏิบัติการที่สร้างจาก XSLFO เข้าสู่ระบบ PACS
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงรายงาน XSLFO เป็นรูปแบบ DICOM ตามกำหนดเวลาสำหรับโรงพยาบาล
+
+* การผสานเข้ากับท่อไฟฟ้าสำหรับบันทึกประวัติสุขภาพอิเล็กทรอนิกส์โดยอัตโนมัติ
+
+* การสร้างภาพ DICOM จากรายงานทางคลินิก XSLFO โดยเรียกใช้
+
+* การประมวลผลเป็นชุดสำหรับการสร้างภาพข้อมูลวิจัยในด้านการดูข้อมูลทางการแพทย์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

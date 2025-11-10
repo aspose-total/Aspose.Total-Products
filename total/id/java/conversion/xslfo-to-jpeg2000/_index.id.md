@@ -57,7 +57,51 @@ Menggunakan API, Anda juga dapat memutar gambar JPEG2000 keluaran sesuai kebutuh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **JPEG2000** memberikan gambar raster dengan kompresi tinggi dengan kerugian kualitas minimal. JPEG2000 cocok untuk pencitraan medis, laporan visual besar, dan tujuan arsip.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengarsipkan laporan XSLFO resolusi tinggi dengan tabel-tabel kompleks.
+
+* Menyiapkan visual keuangan atau operasional yang detail untuk distribusi digital.
+
+* Mengonversi analitik XSLFO menjadi gambar raster yang efisien.
+
+* Menghasilkan visual berformat besar untuk publikasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch XSLFO ke JPEG2000 untuk penyimpanan arsip.
+
+* Generasi terjadwal untuk alur kerja penerbitan otomatis.
+
+* Integrasi dengan jalur optimisasi gambar.
+
+* Pemicu ekspor resolusi tinggi dari dasbor XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

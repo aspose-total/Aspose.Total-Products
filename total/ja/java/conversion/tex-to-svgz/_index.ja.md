@@ -57,7 +57,55 @@ APIを使用すると、必要に応じて出力SVGZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**SVGZ（圧縮可能なベクトルグラフィックス）に変換すると、ファイルサイズを削減しながらベクトル品質を保持でき、Webや学術出版に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* WebページにLaTeXの式や図を埋め込む。
+
+* 出版向けのスケーラブルで高解像度のグラフィックス。
+
+* LaTeXで生成されたデータのインタラクティブなオンライン可視化。
+
+* 圧縮されたベクトル形式の技術イラスト。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* LaTeXの図をSVGZにバッチ変換。
+
+* Webパブリッシングパイプラインとの統合。
+
+* LaTeXソースからの圧縮ベクトルグラフィックスのトリガー更新。
+
+* 学術イラストのアーカイブと配布。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

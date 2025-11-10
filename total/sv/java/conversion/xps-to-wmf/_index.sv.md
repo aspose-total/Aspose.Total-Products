@@ -57,7 +57,55 @@ Med hjälp av API:t kan du också rotera den utgående WMF-bilden enligt dina be
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av XPS till **WMF (Windows Metafile)** producerar skalbara vektorgrafik lämplig för integration i Microsoft Office och tekniska illustrationer.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* Bädda in vektorgrafik i Office-dokument.
+
+* Tekniska diagram för manualer och rapporter.
+
+* Marknadsföringsmaterial som kräver skalbar grafik.
+
+* Illustrativt innehåll för presentationer och broschyrer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Batchkonvertering av XPS till WMF för företagsdokumentbibliotek.
+
+* Automatisk skapande av skalbara diagram från XPS.
+
+* Integration med publiceringspipeliner.
+
+* Schemalagda uppdateringar för återkommande vektorgrafik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

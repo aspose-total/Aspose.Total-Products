@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+텍스트를 **POT (PowerPoint Template)**으로 변환하면 LaTeX 스타일의 콘텐츠를 학술, 비즈니스 및 기업 프레젠테이션용 재사용 가능한 PowerPoint 템플릿으로 만들 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 복잡한 방정식이 포함된 전문 강의 슬라이드.
+
+* LaTeX 테이블이 포함된 기업 프로젝트 제안 템플릿.
+
+* 대학 과정용 표준화된 템플릿.
+
+* 공학 또는 과학 학술 대회 발표.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 템플릿 라이브러리를 위한 자동 일괄 TEX-to-POT 변환.
+
+* 기업용 슬라이드 자동화 시스템 통합.
+
+* LaTeX 소스로부터 예약된 템플릿 업데이트.
+
+* 다중 사용자 협업을 위한 트리거 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

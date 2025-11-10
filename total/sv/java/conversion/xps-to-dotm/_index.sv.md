@@ -129,7 +129,51 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertera XPS till **DOTM (Word-makroaktiverad mall)** kombinerar mallens effektivitet med makroautomatisering. Organisationer kan behålla enhetliga dokumentlayouter samtidigt som de automatiserar repetitiva uppgifter direkt i Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* Faktura- och rapportmallar med automatiska beräkningsmakron.
+
+* Juridiska formulärmallar som automatiskt fyller i klientdata.
+
+* Projektplaneringsmallar med interaktiva makron för uppföljning av uppgifter.
+
+* HR-dokumentmallar som automatiserar godkännanden och meddelanden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Massproduktion av standardiserade makroaktiverade mallar från XPS-källor.
+
+* Integration i ERP-system för automatisk dokumentgenerering.
+
+* Utlösta malluppdateringar när käll-XPS-filerna ändras.
+
+* Automatiserade rapporteringsflöden med DOTM-mallar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

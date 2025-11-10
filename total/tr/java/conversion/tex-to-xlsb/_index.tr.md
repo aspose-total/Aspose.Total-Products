@@ -47,7 +47,55 @@ TEX dosyasını XLSB'ye dönüştürürken, çıktı XLSB dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **XLSB (Excel Binary Workbook)** formatına dönüştürmek, büyük LaTeX veri setleri için daha hızlı performans sağlar, formülleri ve biçimlendirmeyi korurken dosya boyutunu optimize eder.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX'ten büyük ölçekli finansal veya mühendislik veri setleri.
+
+* Veri yoğun projeler için performans-optimized elektronik tablolar.
+
+* Gömülü hesaplamalar içeren çok sayfalı LaTeX raporları.
+
+* Kompakt ikili depolama gerektiren akademik araştırma verileri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* LaTeX tablolarının hızlı dönüşümü için XLSB'ye toplu dönüşüm.
+
+* Kurumsal BI boru hatlarına entegrasyon.
+
+* Otomatik LaTeX'ten ikili Excel raporu oluşturma.
+
+* Çok departmanlı işbirlikleri için tetiklenmiş XLSB oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

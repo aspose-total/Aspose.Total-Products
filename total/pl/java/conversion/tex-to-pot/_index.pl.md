@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja TEX na **POT (szablon PowerPoint)** pozwala na wykorzystanie treści w stylu LaTeX jako wielokrotnie użytecznego szablonu PowerPoint do prezentacji akademickich, biznesowych i korporacyjnych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Profesjonalne slajdy wykładowe z złożonymi równaniami.
+
+* Szablony propozycji projektów korporacyjnych z tabelami LaTeX.
+
+* Standaryzowane szablony dla kursów uniwersyteckich.
+
+* Prezentacje konferencyjne z dziedziny inżynierii lub nauk ścisłych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczne konwersje zbiorcze TEX na POT dla bibliotek szablonów.
+
+* Integracja z systemami automatyzacji slajdów w przedsiębiorstwach.
+
+* Zaplanowane aktualizacje szablonów z źródeł LaTeX.
+
+* Generowanie na żądanie w ramach współpracy wielu użytkowników.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

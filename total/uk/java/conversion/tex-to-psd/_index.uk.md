@@ -105,7 +105,55 @@ otherformats: SVGZ EMZ WMF IMAGE JPEG2000 APNG  WMZ DXF TGA DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення TEX у **PSD (документ Photoshop)** дозволяє редагувати візуальні елементи, створені в LaTeX, в Adobe Photoshop для високоякісного дизайну та післяобробки.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Редагування LaTeX діаграм для презентацій та плакатів.
+
+* Підготовка графічних матеріалів готових до публікації з використанням покращень у Photoshop.
+
+* Налаштування візуальних матеріалів для освітніх або навчальних цілей.
+
+* Створення візуально насичених фігур для маркетингу або академічного використання.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетне перетворення TEX у PSD для дизайнерських команд.
+
+* Інтеграція з автоматизованими робочими процесами графічного дизайну.
+
+* Створення PSD за вимогою для створення плакатів або інфографіки.
+
+* Експорт редагованих LaTeX діаграм для редагування в Photoshop з декількома шарами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

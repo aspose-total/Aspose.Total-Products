@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+LaTeX를 **PPTM (PowerPoint Macro-Enabled Presentation)**으로 변환하면 자동 계산, 동적 차트, 대화식 교육 자료를 포함한 완전히 대화식 슬라이드를 만들 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LaTeX 방정식을 사용한 대화식 학술 강의.
+
+* 기업 대시보드 및 연구 발표 템플릿.
+
+* 실시간 데이터 업데이트가 포함된 자동 세미나 슬라이드.
+
+* 매크로 기반 상호 작용이 가능한 워크샵 발표.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 대화식 슬라이드 덱을 위한 일괄 TEX-to-PPTM 변환.
+
+* 기업 또는 대학 자동화 시스템 통합.
+
+* 매크로 기능이 활성화된 프레젠테이션의 생성 트리거.
+
+* LaTeX 저장소에서 예약된 업데이트로 다중 저자 프로젝트에 대한 예약된 업데이트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -143,7 +143,55 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av TEX-filer till **FLATOPC (Flat Open Packaging Conventions)** gör att LaTeX-innehåll, inklusive formler och tabeller, kan sparas i en enda XML-baserad fil som är fullt kompatibel med Office Open XML-standarder.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* Arkivering av LaTeX-dokument i standardiserat XML-format.
+
+* Bevara strukturerat innehåll och formatering för företagsapplikationer.
+
+* Dela komplexa akademiska eller tekniska rapporter som enskilda paketfiler.
+
+* Bibehålla LaTeX-genererade tabeller och ekvationer för användning på olika plattformar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batchkonvertering av TEX till FLATOPC för forskningsarkiv.
+
+* Integration i automatiserade dokumenthanteringssystem.
+
+* Utlös FLATOPC-generering för samarbetsflöden.
+
+* Schemalagd arkivering av LaTeX-innehåll i XML-baserade format.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

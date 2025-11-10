@@ -61,7 +61,49 @@ MOBIをDIFに変換した後、[Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+
+
+MOBIファイルをDIF（Data Interchange Format）に変換することで、レガシーデータシステムとの互換性を確保しつつ、構造化されたスプレッドシートでの読みやすさを維持します。DIFは、電子書籍の統計、読書履歴、カタログデータをプラットフォーム間で標準化する効率的な方法を提供します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+- 歴史的分析のためのMOBIファイルメタデータのアーカイブ化。
+
+- DIFをサポートするビンテージソフトウェアに電子書籍の統計をインポート。
+
+- 標準化された保存形式にフォーマットされた学術出版記録。
+
+- 機関の電子書籍システム向けのオフラインカタログ変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- 研究データ管理でのスケジュールされたMOBIからDIFへのエクスポート。
+
+- 古いERPやレポーティングシステムとの統合。
+
+-司書向けのコマンドラインコンバータを使用したバッチ処理。
+
+- 分散読書ネットワーク向けの自動化されたDIFファイル配信。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+## BMP
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -130,7 +130,55 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XPS átalakítása **MHTML (MIME HTML)** formátumba lehetővé teszi az teljes dokumentum, beleértve a képeket, szöveget és stílusokat, egyetlen webes fájlba való csomagolását, ideális archiváláshoz vagy megosztáshoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* XPS dokumentumok archiválása web-kompatibilis formátumban.
+
+* Teljes jelentések megosztása e-mailben külső mellékletek nélkül.
+
+* XPS tartalom közzététele belső webportálokon.
+
+* Webes dokumentáció vállalati vagy oktatási célokra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Automatizált tétel XPS-MHTML konverzió vállalati archívumokhoz.
+
+* Időzített webes dokumentumverziók generálása.
+
+* Integráció belső hálózati rendszerekkel belső terjesztéshez.
+
+* Egyszerűsített munkafolyamatok a jelentések és kézikönyvek digitális archiválásához.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

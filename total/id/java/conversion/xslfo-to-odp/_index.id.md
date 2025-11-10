@@ -135,7 +135,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file XSLFO (Extensible Stylesheet Language Formatting Objects) ke **ODP (OpenDocument Presentation)** memungkinkan penciptaan tayangan slide sumber terbuka dengan mudah sambil mempertahankan konten terstruktur dan gaya. ODP kompatibel dengan LibreOffice Impress dan suite kantor sumber terbuka lainnya.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Utama" %}}
+
+
+
+* Mengubah laporan tahunan yang dihasilkan oleh XSLFO menjadi presentasi ODP interaktif.
+
+* Menyiapkan konten pendidikan dari tabel XSLFO terstruktur untuk digunakan di kelas.
+
+* Mengarsipkan slide pertemuan dewan dalam format terbuka yang tahan lama.
+
+* Membuat dasbor visual dari data analitik berbasis XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch laporan bulanan XSLFO menjadi ODP untuk tinjauan perusahaan.
+
+* Integrasi ke alur kerja laporan ke presentasi yang otomatis.
+
+* Generasi terjadwal slide ODP untuk pertemuan berulang.
+
+* Transformasi dipicu konten XSLFO menjadi dek slide sumber terbuka.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

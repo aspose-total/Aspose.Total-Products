@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp XSLFO sang XLSM, bạn cũng có thể thêm hì
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO thành **XLSM (Excel có Macro)** bảo tồn dữ liệu bảng và cho phép tự động hóa tiên tiến bằng cách sử dụng macro. XLSM lý tưởng cho báo cáo động, tự động hóa quy trình làm việc và mô hình tài chính.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Nhúng tính toán dựa trên XSLFO vào các macro Excel.
+
+* Tự động hóa các nhiệm vụ báo cáo định kỳ bằng cách sử dụng các bảng làm việc XLSM.
+
+* Tạo bảng điều khiển tương tác với dữ liệu nguồn từ XSLFO.
+
+* Chuẩn bị các mẫu XSLFO cho các quy trình làm việc tài chính dựa trên macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tự động tạo các bảng làm việc XLSM từ các báo cáo XSLFO.
+
+* Cập nhật báo cáo có kích hoạt macro theo lịch trình để xem xét của quản lý.
+
+* Tích hợp với VBA và tự động hóa quy trình làm việc doanh nghiệp.
+
+* Kích hoạt chuyển đổi XLSM cho bảng điều khiển tài chính động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

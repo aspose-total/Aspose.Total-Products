@@ -47,7 +47,51 @@ Tijdens het converteren van het TEX-bestand naar SXC, kunt u ook een watermerk t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **SXC (StarOffice Calc Spreadsheet)** stelt oudere OpenOffice- of StarOffice-gebruikers in staat om te werken met LaTeX-tabulaire gegevens zonder de structuur te verliezen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Historische LaTeX-datasets in StarOffice-compatibel formaat.
+
+* Academisch onderzoek dat vereist dat het compatibel is met verouderde kantoorsoftware.
+
+* Delen van numerieke LaTeX-tabellen tussen verschillende platforms.
+
+* Projectrapporten in SXC voor oudere kantoorsystemen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geplande batchconversies van LaTeX-datasets.
+
+* Integratie in geautomatiseerde workflows van verouderde kantoorsoftware.
+
+* Archivering van gestructureerde LaTeX-tabellen voor continuïteit in onderzoek.
+
+* Aanmaken van SXC-bestanden voor samenwerkingsprojecten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

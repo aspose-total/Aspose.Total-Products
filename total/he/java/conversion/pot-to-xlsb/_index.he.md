@@ -102,7 +102,45 @@ otherformats: ODS CSV DIF XLTX FODS XLSM XLS MARKDOWN XLTM XLT TSV EXCEL MHTML X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POT ל-XLSB (Excel Binary Workbook) יוצרת גיליונות נתונים מתוחזקים וקומפקטיים המתאימים למערכות נתונים גדולות שניתקלות ב-PowerPoint. XLSB משפרת את המהירות והיעילות בעבודות נתונים פיננסיים, אקדמיים או עסקיים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייצוא טבלאות מ-PowerPoint לגיליונות נתונים בינאריים ביצועיים.
+
+* אחסון טבלאות נתונים עסקיים גדולות ממצגות בצורה יעילה.
+
+* שימוש בגיליונות נתונים בינאריים למודלים אנליטיים.
+
+* ניהול נתוני ביצועי האימון בקבצי Excel קומפקטיים.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרות צוברות במהירות גבוהה של נתוני מצגות.
+
+* יצירת XLSB לדיווחים פיננסיים המכילים נתונים מרובים.
+
+* שילוב עם לוחות מחוונים לדיווחים אוטומטיים.
+
+* ארכיבה עסקית של ניתוחי מצגות.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

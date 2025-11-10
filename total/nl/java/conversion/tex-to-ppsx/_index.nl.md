@@ -135,7 +135,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het converteren van TEX naar **PPSX (PowerPoint Show zonder macro's)** levert veilige, direct te bekijken presentaties op met LaTeX-inhoud, geschikt voor delen over meerdere platforms.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Academische colleges voor distributie zonder risico's op macrobeveiliging.
+
+* Bedrijfs- of trainingspresentaties met LaTeX-opgemaakte tabellen.
+
+* Herbruikbare conferentieslides met formule-rijke diagrammen.
+
+* Delen van technische slides over meerdere platforms.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch LaTeX-naar-PPSX conversies.
+
+* Geautomatiseerde creatie van colleges of trainingspresentaties.
+
+* Integratie met LMS of bedrijfspresentatiesystemen.
+
+* Geactiveerde slide-generatie voor samenwerkingsprojecten in de academische wereld.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

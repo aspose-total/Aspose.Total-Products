@@ -102,7 +102,51 @@ otherformats: XLT XLTM ODS XLTX DIF XLSB EXCEL CSV TSV XLAM XLSM MD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Конвертація XPS в **SXC (StarOffice Spreadsheet)** забезпечує сумісність зі старішими файлами OpenOffice/StarOffice. Цей формат підходить для робочих процесів в легасі та для архівації.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Архівація звітів в форматі SXC для легасі.
+
+* Історичні фінансові та операційні набори даних.
+
+* Міграція електронних таблиць на основі XPS у середовища з відкритим вихідним кодом.
+
+* Технічні або дослідницькі журнали для старих офісних пакетів.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетна конвертація репозиторіїв XPS у файли SXC.
+
+* Автоматизована архівація для відповідності та аудиту.
+
+* Запланована міграція періодичних звітів XPS.
+
+* Інтеграційні конвеєри для систем легасі.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

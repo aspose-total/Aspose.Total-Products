@@ -47,7 +47,51 @@ otherformats: XLTX TSV XLSM TXT ODS SXC XLTM EXCEL MD XLAM DIF FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XPS เป็น **Excel (.XLS, .XLSX)** เปิดการใช้งานสมบัติของสเปรดชีตอย่างเต็มรูปแบบ ทำให้สามารถใช้สูตร ตารางเพิ่มเติม กราฟ และการแสดงข้อมูลในขณะที่ยังคงรักษาโครงสร้างเอกสารเดิมไว้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* รายงานการเงินธุรกิจสำหรับการวิเคราะห์แบบโต้ตอบ
+
+* แผงควบคุมยอดขายและการตัดสินใจที่เปลี่ยนไปตามสถานการณ์
+
+* ชุดข้อมูลทางวิชาการสำหรับการวิจัยและการประเมินทางสถิติ
+
+* สเปรดชีตการติดตามสินค้าคงคลังและโซ่อุปทาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XPS เป็น Excel จำนวนมากสำหรับระบบรายงานขององค์กร
+
+* การผสานรวมกับเครื่องมือ BI เช่น Power BI และ Tableau
+
+* การสร้างรายงาน Excel โดยอัตโนมัติสำหรับผู้มีส่วนได้ส่วนเสีย
+
+* การสร้างกระแสการแปลงตารางเวลาสำหรับรายงานที่เกิดซ้ำๆ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

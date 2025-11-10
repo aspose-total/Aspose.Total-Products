@@ -53,7 +53,45 @@ Met behulp van de API kunt u ook een POT-bestand naar OTT-conversie met watermer
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van POT naar OTT (OpenDocument Text Template) stelt organisaties in staat om herbruikbare documenttemplates te maken die voldoen aan open standaarden. OTT-templates zijn ideaal voor instellingen die de nadruk leggen op toegankelijkheid en langetermijnarchivering.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Genereren van open-standaard templates vanuit PowerPoint-trainingsmateriaal.
+
+* Omzetten van presentatiestijlen naar herbruikbare teksttemplates.
+
+* Creëren van consistente documentformaten voor academische publicaties.
+
+* Ontwerpen van open-toegang templates voor NGO-documentatie.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Geautomatiseerde OTT-generatie vanuit PowerPoint-masterindelingen.
+
+* Integratie met open-source documentworkflows.
+
+* Synchronisatie van templates over institutionele documentrepositories.
+
+* Overheidsdocumentensystemen die gebruikmaken van open-formaat templates.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

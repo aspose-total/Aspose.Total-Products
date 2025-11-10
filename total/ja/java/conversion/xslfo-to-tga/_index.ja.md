@@ -57,7 +57,55 @@ APIを使用すると、必要に応じて出力TGA画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**TGA（Targa Image）**に変換すると、ゲーム、シミュレーション、高解像度の視覚化でよく使用される高品質のラスターグラフィックスが生成されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* XSLFOで生成された視覚データをシミュレーションやゲーム分析用に準備する。
+
+* 圧縮損失を最小限に抑えた詳細なチャートのアーカイブ。
+
+* プロフェッショナルな出版用のラスターグラフィックスを生成する。
+
+* デザインワークフロー用に操作ダッシュボードをTGAに変換する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XSLFOをTGAにバッチ変換して高解像度レポートを作成する。
+
+* プロフェッショナルな視覚化パイプライン向けの定期的なエクスポート。
+
+* 定期的なXSLFO分析からのTGA生成をトリガーする。
+
+* 自動化されたデザインワークフローとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

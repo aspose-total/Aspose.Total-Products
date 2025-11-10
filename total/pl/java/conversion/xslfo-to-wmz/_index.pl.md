@@ -57,7 +57,51 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz WMZ z
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie XSLFO na **WMZ (Skompresowany plik metafile Windows)** zapewnia skompresowane obrazy wektorowe idealne do wysyłania w e-mailach, prezentacji i integracji internetowej, zachowując skalowalność.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Wysyłanie wizualizacji wygenerowanych w XSLFO jako skompresowane załączniki.
+
+* Osadzanie skalowalnej grafiki w programach PowerPoint i Word.
+
+* Archiwizowanie skompresowanych wizualizacji raportów wektorowych.
+
+* Udostępnianie operacyjnych pulpitów nawigacyjnych za pośrednictwem e-maili lub wewnętrznych portali.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja plików XSLFO na WMZ dla efektywnego zarządzania przestrzenią.
+
+* Zaplanowana automatyczna kompresja raportów wizualnych.
+
+* Wywoływane generowanie plików WMZ dla powtarzających się procesów prezentacyjnych.
+
+* Integracja z automatycznymi procesami tworzenia prezentacji i dokumentów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

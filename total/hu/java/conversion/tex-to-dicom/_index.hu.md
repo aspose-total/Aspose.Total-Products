@@ -57,7 +57,55 @@ Az API használatával igény szerint elforgathatja a kimeneti DICOM-képet is. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok átalakítása **DICOM (Digitális Képalkotás és Kommunikáció az Orvoslásban)** formátummá lehetővé teszi a műszaki és tudományos LaTeX diagramok beágyazását az orvosi képalkotási folyamatokba és kutatási dokumentációkba.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* LaTeX alapú diagramok integrálása az orvosi képalkotási jelentésekbe.
+
+* Biomedikai kutatások dokumentálása strukturált LaTeX tartalommal.
+
+* Anatómiai adatok megjelenítése LaTeX által generált grafikákkal.
+
+* LaTeX alapú vázlattervek közzététele a radiológiai kutatásokban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Automatizált tételkonverzió a kórházi képarchívumok számára.
+
+* Integráció az orvosi kutatási folyamatokba.
+
+* Kiváltott TEX-DICOM ábrázolás klinikai tanulmányokhoz.
+
+* LaTeX diagramok exportálása AI-asszisztált diagnosztikához.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

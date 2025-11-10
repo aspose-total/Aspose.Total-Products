@@ -47,7 +47,55 @@ A XSLFO-fájl FODS-vé konvertálásakor vízjelet is hozzáadhat a kimeneti FOD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO fájlok **FODS (Flat OpenDocument Spreadsheet)** formátumba történő konvertálása támogatja az open-source irodai szoftvereket, mint például a LibreOffice és az OpenOffice. A FODS könnyű, szerkeszthető, XML-alapú táblázatokat tesz lehetővé, amelyek alkalmasak a közös munkára.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* XSLFO által generált költségvetési táblázatok megosztása az open-source irodai felhasználókkal.
+
+* Jelentések archiválása egy nyílt, szabványos táblázatformátumban.
+
+* Projektkövetési táblázatok előkészítése platformfüggetlen együttműködéshez.
+
+* Műszaki XSLFO táblázatok konvertálása szerkeszthető FODS táblázatokká.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges XSLFO-FODS konverzió az open-source jelentési csövekhez.
+
+* Integrálás dokumentumkezelő rendszerekbe, amelyek támogatják a FODS-t.
+
+* Ütemezett export a közös projekt irányítópultokhoz.
+
+* XSLFO analitikai jelentések automatikus konvertálása FODS formátumba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,45 @@ Saat mengonversi file POT ke SXC, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi POT ke SXC (StarOffice Calc Spreadsheet) memungkinkan penggunaan data yang berasal dari presentasi di lingkungan StarOffice atau OpenOffice versi lama. Format ini tetap relevan untuk proyek-proyek pendidikan dan arsip yang memerlukan kompatibilitas mundur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Memanfaatkan kembali konten PowerPoint untuk lembaga yang menggunakan perangkat lunak lama.
+
+* Membuat lembar aktivitas siswa dari tabel presentasi.
+
+* Berbagi metrik perusahaan di berbagai alat spreadsheet open-source.
+
+* Mengarsipkan analitika berbasis PowerPoint di sistem-sistem lama.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Alur kerja transformasi data lama untuk migrasi perusahaan.
+
+* Ekstraksi tabel PowerPoint secara otomatis ke file SXC.
+
+* Konversi terjadwal untuk sistem arsip dan akademik.
+
+* Integrasi dengan platform bisnis inteligensi lama.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

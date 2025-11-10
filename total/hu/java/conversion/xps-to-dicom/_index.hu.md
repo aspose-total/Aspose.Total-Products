@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti DICOM-képet is. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XPS **DICOM-ra (Digitális Képalkotás és Kommunikáció az Orvoslásban)** történő átalakítása lehetővé teszi a dokumentumvizuális elemek integrálását az orvosi képalkotó rendszerekbe, megőrizve a klinikai alkalmazásokhoz szükséges nagy felbontású részleteket.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Orvosi jelentések beágyazása a radiológiai képalkotó folyamatokba.
+
+* Diagnosztikai dokumentumok archiválása a betegvizsgálatok mellett.
+
+* Kórházi rendszerek, amelyek DICOM-kompatibilitást igényelnek a jelentésekhez.
+
+* Telemedicinális platformok, amelyek integrálják a klinikai dokumentumképeket.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Tömeges XPS-DICOM konverzió kórházi nyilvántartási rendszerekhez.
+
+* Automatizált integráció a PACS-szal (Képarchiválási és Kommunikációs Rendszerek).
+
+* Ütemezett frissítések a betegvizsgálati képekhez.
+
+* Egyszerűsített folyamatok az orvosi képalkotási adatok feldolgozásához.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

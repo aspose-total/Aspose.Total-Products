@@ -47,7 +47,55 @@ otherformats: XLTM FODS SXC XLAM XLT XLTX ODS XLSM XLSB MD DIF TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ XSLFO (Extensible Stylesheet Language Formatting Objects) เป็น **MD (Markdown)** ช่วยให้สามารถสร้างเอกสารที่เบา ใช้งานง่าย และอ่านได้ง่ายบนเว็บได้อย่างมีประสิทธิภาพ  Markdown ช่วยในการรักษาโครงสร้างของหัวเรื่อง ตาราง และรายการจากเนื้อหา XSLFO ในขณะที่ทำให้เหมาะสำหรับเว็บไซต์ บล็อก และแพลตฟอร์มเอกสาร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* การแปลงรายงานที่สร้างจาก XSLFO เป็น Markdown สำหรับเอกสารเทคนิค
+
+* เผยแพร่ตารางและเนื้อหาที่มีโครงสร้างจาก XSLFO ไปยังฐานความรู้
+
+* สร้างรายงานพร้อมใช้บล็อกพร้อมเก็บรักษาเค้าโครงตารางและหัวเรื่อง
+
+* เตรียมเอกสารเปิดเผยจากการวิเคราะห์ XSLFO ที่มีโครงสร้าง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงรายงาน XSLFO เป็น Markdown อย่างเป็นจำนวนเป็นระยะเวลาสำหรับพอร์ทัลเว็บ
+
+* การผสานเข้ากับท่องไปของการสร้างเอกสารโดยอัตโนมัติ
+
+* การแปลงโดยเร่งให้เกิดขึ้นอีกครั้งสำหรับการวิเคราะห์หรือรายงานโครงการที่เกิดซ้ำ
+
+* กระบวนการทำงานอัตโนมัติจาก XSLFO เป็น MD สำหรับระบบการจัดการความรู้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

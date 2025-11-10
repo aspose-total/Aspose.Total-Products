@@ -47,7 +47,51 @@ Ao converter o arquivo TEX para ODS, você também pode adicionar marca d'água 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter TEX para **ODS (Planilha de Documentos Abertos)** permite aos usuários aproveitar o conteúdo LaTeX em planilhas editáveis para análises e projetos colaborativos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Pesquisa acadêmica com tabelas numéricas complexas.
+
+* Planilhas de rastreamento financeiro ou de projetos de código aberto.
+
+* Cálculos de engenharia que exigem compatibilidade multiplataforma.
+
+* Compartilhamento de tabelas LaTeX em ODS para projetos educacionais colaborativos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversões em lote de TEX para ODS para laboratórios universitários.
+
+* Integração em pipelines de dados de código aberto.
+
+* Relatórios automatizados de dados numéricos gerados por LaTeX.
+
+* Geração de ODS acionada para ambientes multiusuários.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

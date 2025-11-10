@@ -102,7 +102,55 @@ otherformats: XLT XLTM ODS XLTX DIF XLSB EXCEL CSV TSV XLAM XLSM MD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XPS ל־**SXC (גיליון עבודה של StarOffice)** מספקת תאימות לאחור עם קבצים ישנים של OpenOffice/StarOffice. פורמט זה מתאים לזרימות עבודה ישנות ולמטרות ארכיון.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* ארכיון דוחות ישנים בפורמט SXC.
+
+* קבצי נתונים פיננסיים ותפעוליים היסטוריים.
+
+* העברת גיליונות עבודה מבוססי XPS לסביבות קוד פתוח.
+
+* לוגים טכניים או מחקריים עבור חבילות משרדיות ישנות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רציפה של ספריות XPS לקבצי SXC.
+
+* ארכיון אוטומטי לצורכי תאימות ובדיקות ניתוח.
+
+* העברה מתוזמנת של דוחות תקופתיים בפורמט XPS.
+
+* צינורות אינטגרציה של מערכות ישנות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

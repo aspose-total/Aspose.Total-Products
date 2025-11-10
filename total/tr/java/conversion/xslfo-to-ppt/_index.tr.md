@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **PPT'ye (Eski PowerPoint formatı)** dönüştürülmesi, eski Microsoft Office sürümleriyle uyumluluğu sağlarken tablo içeriğini ve slayt düzenlerini korur. PPT, hala eski araçları kullanan kuruluşlar için uygundur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* XSLFO ile oluşturulan slaytların eski kurumsal sistemlere hazırlanması.
+
+* Eğitim veya eğitim içeriğinin PPT formatında paylaşılması.
+
+* Denetim amaçları için kendi kendine yeten slaytların arşivlenmesi.
+
+* XSLFO raporlarının kolayca dağıtılabilir eski PowerPoint dosyalarına dönüştürülmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XSLFO'dan PPT slaytlarına toplu otomatik dönüşüm.
+
+* Yönetim veya eğitim raporlarının tekrarlayan şekilde dışa aktarılması için zamanlanmış işlem.
+
+* Eski Ofis tabanlı iş akışı borularıyla entegrasyon.
+
+* Arşivleme amaçları için XSLFO şablonlarından tetiklenen PPT oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

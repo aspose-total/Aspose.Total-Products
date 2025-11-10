@@ -57,7 +57,55 @@ API'yi kullanarak, çıktı APNG görüntüsünü ihtiyaçlarınıza göre de d�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX dosyalarını **APNG (Animasyonlu PNG)** formatına dönüştürmek, LaTeX diyagramları, denklemleri ve çizimlerini web tabanlı sunumlar, eğitim içerikleri ve etkileşimli görselleştirmeler için animasyonlu grafiklere dönüştürmeyi sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Çevrimiçi dersler için animasyonlu matematiksel görseller.
+
+* Eğitim web uygulamalarında etkileşimli LaTeX grafikleri.
+
+* E-öğrenme platformları için dinamik diyagramlar.
+
+* Zaman içinde LaTeX tarafından üretilen veri trendlerinin görselleştirilmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Ders materyalleri için toplu TEX'ten-APNG'ye dönüşüm.
+
+* Otomatik web yayınlama süreçlerine entegrasyon.
+
+* AI destekli eğitim araçları için tetiklenen renderlama.
+
+* LaTeX çizimlerinden otomatik animasyon oluşturma için.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

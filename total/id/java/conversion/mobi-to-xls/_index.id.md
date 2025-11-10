@@ -61,7 +61,47 @@ Setelah mengonversi MOBI ke XLS, [Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konversi MOBI ke XLS memastikan kompatibilitas dengan versi Microsoft Excel yang lebih lama sambil mempertahankan metadata terstruktur. Ini ideal untuk sistem perusahaan yang masih menggunakan alur kerja Excel versi lama.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+- Membuat daftar buku MOBI yang kompatibel dengan Excel 97–2003.
+
+- Mengekspor metadata untuk pelaporan katalog offline.
+
+- Mengelola log penerbitan di sistem perusahaan yang lebih lama.
+
+- Berbagi dataset siap XLS di antara lingkungan non-cloud.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+- Ekspor XLS otomatis untuk data MOBI arsip.
+
+- Integrasi ke dalam sistem akuntansi atau penerbitan versi lama.
+
+- Sinkronisasi reguler metadata MOBI dalam format XLS.
+
+- Output XLS untuk catatan penerbitan digital pemerintah.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

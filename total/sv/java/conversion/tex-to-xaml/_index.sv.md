@@ -135,7 +135,55 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera TEX-filer till **XAML (Extensible Application Markup Language)** möjliggör användning av LaTeX-innehåll, formler och diagram i WPF, UWP och .NET-baserade applikationer samtidigt som vektorgrafik och textformatering bevaras.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Huvudsakliga användningsområden" %}}
+
+
+
+* Bädda in LaTeX-genererade diagram och ekvationer i skrivbordsapplikationer.
+
+* Skapa interaktiva UI-element med vetenskapliga eller matematiska visuella element.
+
+* Tekniska applikationer som visar dynamiska diagram från LaTeX-källor.
+
+* Utbildningsprogram som integrerar LaTeX-formler sömlöst.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batchkonvertering av TEX till XAML för flera UI-komponenter.
+
+* Integration i automatiserade WPF- eller UWP-projektpipelines.
+
+* Utlöst generering av LaTeX-baserade visuella element för .NET-applikationer.
+
+* Schemalagda uppdateringar för flermodulära utbildningsprogram.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

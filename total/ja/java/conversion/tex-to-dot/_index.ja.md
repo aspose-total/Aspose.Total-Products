@@ -144,7 +144,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXファイルを**DOT（Word文書テンプレート）に変換すると、LaTeXの書式を活用しながら、企業や教育機関で再利用可能なWordテンプレートを作成できます。これにより、公式レポートや専門文書の一貫性を保つのに役立ちます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* LaTeXスタイルのタイポグラフィを使用した企業のヘッダーや提案書のテンプレート。
+
+* 大学向けの標準化された学術用または試験用テンプレート。
+
+* プロフェッショナルな使用のための履歴書や履歴書のテンプレート。
+
+* エンジニアや研究者向けのプロジェクト文書のテンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* バッチレポート作成のためのテンプレートの自動生成。
+
+* 教育機関での文書自動化ソフトウェアとの統合。
+
+* ブランドの一貫性のためのLaTeXリポジトリからのトリガーされたテンプレートの更新。
+
+* エンジニアリングプロジェクト向けの動的テンプレートライブラリの作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

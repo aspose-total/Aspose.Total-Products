@@ -53,7 +53,51 @@ API를 사용하여 워터마크를 사용하여 POTM 파일을 OTT로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM을 OTT로 변환하면 LibreOffice Writer 및 유사한 응용 프로그램과 호환되는 재사용 가능한 OpenDocument Text 템플릿이 생성됩니다. 이러한 템플릿은 Microsoft 환경이 아닌 환경을 위해 레이아웃, 스타일 및 디자인 요소를 보존합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* PowerPoint 스타일을 활용하여 오픈 소스 사무실을 위한 OTT 템플릿 설계.
+
+* 프레젠테이션 콘텐츠를 ODT 기반 템플릿 구조로 변환.
+
+* 공개 포맷 템플릿을 사용하는 정부 또는 공공 부문.
+
+* 재사용 가능한 OTT 파일을 사용하여 NGO 문서화 표준 준수.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 오픈 문서 관리 시스템에서 자동화된 OTT 템플릿 생성.
+
+* 오픈 포맷을 사용한 다중 플랫폼 문서 게시 파이프라인.
+
+* Microsoft와 LibreOffice 생태계를 연결하는 변환 워크플로우.
+
+* 프레젠테이션에서 파생된 대규모 기관용 OTT 템플릿의 대규모 사용.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

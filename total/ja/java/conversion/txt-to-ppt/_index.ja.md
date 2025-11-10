@@ -54,7 +54,55 @@ APIを使用すると、パスワードで保護されたTXTドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXTファイルを**PowerPoint (.PPT)**ファイルに変換すると、生のテキストから視覚的なプレゼンテーションを素早く作成できます。この変換は、各スライドを手動でデザインすることなく、迅速なスライドデッキを求めるプロフェッショナルに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* プロジェクト要約から直接生成された企業会議用スライド。
+
+* スピーカーノートから構築された会議プレゼンテーション。
+
+* ポリシードキュメントから作成されたトレーニングおよびオンボーディングデッキ。
+
+* テキストタスクリストから生成されたイベントプランニングスライド。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 日報からPPTスライドを自動生成。
+
+* ワークフローツールに統合して迅速なプレゼンテーション制作。
+
+* イベントやセミナープレゼンテーションの定期的なバッチ作成。
+
+* TXTコンテンツ分析に基づくAI支援スライドフォーマット。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

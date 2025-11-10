@@ -105,7 +105,51 @@ otherformats: TGA EMZ PSD SVGZ JPEG2000 WMZ  APNG IMAGE DXF DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XPS ל־**WMF (Windows Metafile)** מייצרת גרפיקה וקטורית נמתחת המתאימה לשילוב במסמכי Microsoft Office ולאיורים טכניים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* שילוב של גרפיקה וקטורית במסמכי Office.
+
+* תרשימים טכניים למדריכים ולדוחות.
+
+* תמונות שיווקיות הדורשות גרפיקה נמתחת.
+
+* תוכן איורי למצגות ופרסומיות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת XPS ל־WMF בצורה רצופה עבור ספריות מסמכים תאגידיות.
+
+* יצירה אוטומטית של תרשימים נמתחים מ־XPS.
+
+* שילוב עם צינורות פרסום.
+
+* עדכונים מתוזמנים עבור גרפיקה וקטורית חוזרת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -129,7 +129,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS (XML Paper Specification) dosyalarını **DOCM (Word Macro-Enabled Document)** biçimine dönüştürmek, dinamik raporların ve iş formlarının tüm etkileşimli makrolarını iş akışı otomasyonu için korur. Bu biçim özellikle tekrarlayan görevlerin ve gömülü komut dosyalarının üretkenliği artırdığı ofis ortamları için uygundur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Hesaplamalar için otomatik makrolara ihtiyaç duyan finansal ve denetim raporları.
+
+* Gömülü onay iş akışlarına sahip kurumsal şablonlar.
+
+* İmza otomasyonuyla hukuki belge paketleri.
+
+* Görev takibi için makroları kullanan proje yönetimi panoları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Kurumsal ekipler için XPS raporlarının toplu olarak makro destekli Word dosyalarına dönüştürülmesi.
+
+* Dosya açıldığında makroları tetikleyen belge yönetim sistemleriyle entegrasyon.
+
+* Gömülü formüllerle faturaların ve ekstrelerin otomatik oluşturulması.
+
+* Dinamik alanlarla hızlandırılmış insan kaynakları entegrasyon formları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

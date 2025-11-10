@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力EMZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**EMZ（圧縮Windowsメタファイル）**に変換することで、文書の視覚要素を効率的にプレゼンテーション、レポート、またはソフトウェアアプリケーションに埋め込み、ベクターのクリアさを保ちます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* Microsoft Officeプレゼンテーションに高品質なグラフィックを埋め込む。
+
+* 技術的および建築図の共有。
+
+* 圧縮ファイルを使用したソフトウェアドキュメントのイラスト。
+
+* ベクター精密な視覚要素を使用したEラーニングモジュール。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* コンテンツライブラリのためのバッチXPSからEMZへの変換。
+
+* 自動化されたドキュメンテーションパイプラインとの統合。
+
+* 定期的な技術レポートのためのスケジュールされたEMZ生成。
+
+* プレゼンテーション用の視覚要素をすばやく処理するための効率化されたグラフィックス処理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

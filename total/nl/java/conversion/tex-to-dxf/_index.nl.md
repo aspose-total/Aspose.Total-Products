@@ -57,7 +57,51 @@ Met behulp van de API kunt u ook de uitgevoerde DXF-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **DXF (Drawing Exchange Format)** maakt het mogelijk om door LaTeX gegenereerde technische diagrammen, blauwdrukken en schema's te gebruiken in CAD-software voor engineering- en architectuurprojecten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Technische schema's van LaTeX technische documenten.
+
+* Architectuurdiagrammen voor CAD-integratie.
+
+* Plotvisualisatie op basis van LaTeX voor ontwerpprojecten.
+
+* Productie- of prototypingdiagrammen afgeleid van LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch TEX-naar-DXF conversie voor engineeringworkflows.
+
+* Integratie met CAD-softwarepijplijnen.
+
+* Getriggerde geautomatiseerde generatie van ontwerpschema's.
+
+* Archivering van LaTeX-schema's in DXF-formaat voor gebruik op verschillende platforms.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

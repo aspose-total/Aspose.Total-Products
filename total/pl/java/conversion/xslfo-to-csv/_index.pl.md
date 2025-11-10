@@ -47,7 +47,55 @@ Konwertując plik XSLFO na CSV, możesz także dodać znak wodny do wyjściowego
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików XSLFO (Extensible Stylesheet Language Formatting Objects) na **CSV (wartości rozdzielane przecinkami)** umożliwia łatwe wyodrębnianie danych tabelarycznych do szybkiego raportowania, analizy danych i przepływów pracy związanych z inteligencją biznesową. CSV pozostaje lekkim formatem kompatybilnym z większością narzędzi analitycznych i baz danych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Eksportowanie raportów finansowych z układów XSLFO opartych na XML do formatu CSV w celach audytowych.
+
+* Uproszczenie śledzenia sprzedaży i stanów magazynowych w narzędziach do analizy biznesowej opartych na chmurze.
+
+* Przygotowanie danych wygenerowanych przez XSLFO do przetwarzania wstępnego w uczeniu maszynowym.
+
+* Generowanie podsumowań w formacie CSV do automatycznego raportowania mailowego.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja faktur XSLFO na CSV do systemów księgowych.
+
+* Integracja z potokami ETL w celu usprawnienia migracji danych z XSLFO z systemów dziedziczących.
+
+* W czasie rzeczywistym wyodrębnianie operacyjnych danych opartych na XSLFO do paneli analitycznych.
+
+* Automatyczna konwersja wsadowa do raportowania wielooddziałowego.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

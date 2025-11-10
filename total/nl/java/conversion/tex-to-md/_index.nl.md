@@ -47,7 +47,55 @@ Tijdens het converteren van het TEX-bestand naar MD, kunt u ook een watermerk to
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **MD (Markdown-bestand)** produceert een standaard Markdown-bestand vanuit LaTeX, waarbij de tekststructuur, tabellen en basisopmaak behouden blijven voor leesbaarheid op meerdere platforms.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Voorbereiden van LaTeX-onderzoeksnotities voor samenwerking op basis van Git.
+
+* Lichtgewicht documentatie met wiskundige en tabelondersteuning.
+
+* Delen van LaTeX-collegenotities in open-source Markdown-indeling.
+
+* Omzetten van technische rapporten voor statische websites.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde batch TEX-naar-MD conversie voor onderzoeksteams.
+
+* Integratie in versiegecontroleerde webinhoudspipelines.
+
+* Getriggerde updates van Markdown-bestanden vanuit LaTeX-opslagplaatsen.
+
+* Continue generatie van MD-bestanden voor educatieve of technische blogs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

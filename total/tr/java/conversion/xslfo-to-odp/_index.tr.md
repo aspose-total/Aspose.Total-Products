@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO (Genişletilebilir Stil Tablosu Dili Biçimlendirme Nesneleri) dosyalarını **ODP (Açık Belge Sunumu)** biçimine dönüştürmek, yapılandırılmış içeriği ve stili korurken açık kaynaklı slayt gösterilerinin kolayca oluşturulmasını sağlar. ODP, LibreOffice Impress ve diğer açık kaynak ofis paketleri ile uyumludur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* XSLFO ile oluşturulan yıllık raporları etkileşimli ODP sunumlarına dönüştürme.
+
+* Yapılandırılmış XSLFO tablolarından sınıf içi kullanım için eğitim içeriği hazırlama.
+
+* Geleceğe yönelik açık bir formatta yönetim kurulu toplantı slaytlarını arşivleme.
+
+* XSLFO tabanlı analiz verilerinden görsel panolar oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Aylık XSLFO raporlarının kurumsal incelemeler için ODP'ye toplu dönüşümü.
+
+* Rapor-sunum otomasyon iş akışlarına entegrasyon.
+
+* Tekrar eden toplantılar için zamanlanmış ODP slaytlarının oluşturulması.
+
+* XSLFO içeriğinin açık kaynaklı slayt desteklerine dönüştürülmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,45 @@ otherformats: XLSB XLSX XLS EXCEL XLSM XLAM SXC TSV MARKDOWN XLTM DIF MHTML ODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POT เป็น XLSM (Macro-Enabled Excel Workbook) ช่วยให้องค์กรสามารถรักษาความสามารถในการโต้ตอบและอัตโนมัติในสเปรดชีตของพวกเขาได้ นี่เหมาะสำหรับการนำเสนอที่มีตรรกะข้อมูลหรือการคำนวณทางวิเคราะห์
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* สร้างสเปรดชีตที่สามารถโต้ตอบจากแดชบอร์ด PowerPoint
+
+* สร้างเทมเพลตที่สามารถใช้งาน Macro สำหรับงานทางการเงินที่เกิดซ้ำๆ
+
+* แปลงข้อมูลจากการนำเสนอเป็นเครื่องมือรายงานอัตโนมัติ
+
+* สร้างสเปรดชีตเกี่ยวกับความก้าวหน้าในการฝึกอบรมที่เปลี่ยนไปอย่างไดนามิก
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+* การแปลง PowerPoint เป็น XLSM โดยอัตโนมัติสำหรับการวิเคราะห์ภายใน
+
+* การผสานการทำงานกับสคริปต์อัตโนมัติที่ใช้ VBA
+
+* การสร้างรายงานการเงินที่สามารถใช้ Macro ได้เป็นกลุ่ม
+
+* การอัตโนมัติสเปรดชีตที่เปลี่ยนไปอย่างไดนามิกสำหรับการรายงานขององค์กร
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

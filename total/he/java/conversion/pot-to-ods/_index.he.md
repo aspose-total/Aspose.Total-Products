@@ -102,7 +102,45 @@ otherformats: XLS CSV DIF FODS XLSB XLSM MARKDOWN SXC XLSX XLT TSV XLTX EXCEL XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POT ל-ODS (OpenDocument Spreadsheet) מבטיחה התאמה חלקה עם סביבות משרד קוד פתוח. זה מושלם עבור מוסדות אקדמיים וארגונים ציבוריים שמאמצים את תקנות ODF.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* שיתוף דו"חות שנוצרו ב-PowerPoint עם משתמשי LibreOffice.
+
+* המרת מצגות בכיתה לתבניות להזנת נתונים.
+
+* המרת תמונות מחקר לגיליונות נתונים בקוד פתוח.
+
+* הכנת דו"חות גיליון נתונים תואמים לתקנות עבור ארגונים ציבוריים.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת ODS אוטומטית ממצגות הדרכה או מצגות מכירות.
+
+* שילוב במערכות ERP או פלטפורמות אנליטיקה בקוד פתוח.
+
+* זרימות עבודה למערכות מסמכים היברידיות.
+
+* המרות מתוזמנות לפרויקטים לתקנות מסמכים.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,55 @@ otherformats: XLAM SXC MD FODS XLTM TXT EXCEL ODS XLT XLSM XLTX TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ TEX เป็น **CSV (Comma-Separated Values)** ช่วยให้เอกสาร LaTeX สามารถแปลงเป็นข้อมูลตารางเบาสำหรับสเปรดชีต ฐานข้อมูล และแอปพลิเคชันทางการวิเคราะห์ นี้เหมาะสำหรับนักวิจัยและวิเคราะห์ที่ทำงานกับชุดข้อมูลตัวเลขใน LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ส่งออกตารางที่สร้างจาก LaTeX เป็น CSV เพื่อวิเคราะห์ข้อมูล.
+
+* ชุดข้อมูลทางวิชาการสำหรับซอฟต์แวร์สถิติและการประมวลผล Python/R.
+
+* รายงานทางการเงินหรือวิศวกรรมที่จัดรูปแบบใน LaTeX ที่แปลงเป็นการตรวจสอบสเปรดชีต.
+
+* การแชร์ข้อมูลโครงการโอเพนซอร์สในรูปแบบ CSV สามารถใช้ได้ทั่วไป.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงไฟล์ TEX เป็น CSV จำนวนมากในท่อ ETL.
+
+* การดึงข้อมูลตารางจากเอกสารวิจัยโดยอัตโนมัติ.
+
+* การรวมเข้ากับแพลตฟอร์มการวิเคราะข้อมูลที่ใช้ AI.
+
+* การสร้าง CSV ตามที่เรียกด้วยชุดข้อมูลที่ทำงานร่วมกัน.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

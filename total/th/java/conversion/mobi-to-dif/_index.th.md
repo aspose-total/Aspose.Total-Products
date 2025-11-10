@@ -61,7 +61,51 @@ otherformats: FODS XLSM TSV XLTX XLTM XLAM DIF XLT XLSX XLSB EXCEL ODS XLS SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ MOBI เป็น DIF (รูปแบบการแลกเปลี่ยนข้อมูล) ช่วยให้เกิดความเข้ากันได้กับระบบข้อมูลโบราณในขณะที่ยังคงความอ่านได้ในสเปรดชีตที่มีโครงสร้าง  DIF มีวิธีการที่มีประสิทธิภาพในการมาตรฐานสถิติหนังสืออิเล็กทรอนิกส์ ประวัติการอ่าน หรือข้อมูลแคตตาล็อกที่เกี่ยวข้องในแพลตฟอร์มต่าง ๆ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+- การเก็บข้อมูลเมตาดาต้าของไฟล์ MOBI เพื่อการวิเคราะห์ทางประวัติศาสตร์
+
+- การนำเข้าสถิติหนังสืออิเล็กทรอนิกส์เข้าสู่ซอฟต์แวร์โบราณที่รองรับ DIF
+
+- บันทึกการตีพิมพ์ทางวิชาการที่จัดรูปแบบเพื่อการจัดเก็บมาตรฐาน
+
+- การแปลงแคตตาล็อกแบบออฟไลน์สำหรับระบบหนังสืออิเล็กทรอนิกส์ของสถาบัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+- การส่งออก MOBI เป็น DIF ตามกำหนดเวลาในการจัดการข้อมูลวิจัย
+
+- การรวมระบบกับระบบ ERP เก่าหรือรายงาน
+
+- การประมวลผลเป็นชุดผ่านตัวแปลงบรรทัดคำสั่งสำหรับบรรณารักษ์
+
+- การส่งมอบไฟล์ DIF โดยอัตโนมัติสำหรับเครือข่ายการอ่านแบ่งแจก
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

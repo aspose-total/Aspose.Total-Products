@@ -121,7 +121,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XPS naar **PPSX (PowerPoint Show, macrovrij)** levert alleen-lezen, klaar-om-te-presenteren diavoorstellingen op, met behoud van opmaak en lay-out en het verwijderen van macro-afhankelijkheden voor beveiliging.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Bedrijfsbrede informatieve presentaties.
+
+* Educatieve dia's voor e-learning distributie.
+
+* Marketing- of verkooppresentaties klaar om te delen.
+
+* Evenement- of seminarpresentaties voor grote publiek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Bulkconversie van XPS-bestanden naar PPSX voor veilige presentatiedistributie.
+
+* Geplande geautomatiseerde creatie van showbestanden voor trainingssessies.
+
+* Integratie met interne portals voor presentatiedistributie.
+
+* Efficiënte generatie van alleen-lezen dia's voor gebruik door klanten of publiek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

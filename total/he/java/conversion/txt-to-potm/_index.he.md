@@ -100,7 +100,51 @@ otherformats: ODP POWERPOINT PPSX PPTM PPTX POTX PPT POT PPSM PPS CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי TXT ל־**POTM (תבנית PowerPoint עם תסריטים מאופשרים)** מבטיחה מצגות מתקדמות עם תסריטים אוטומטיים ומאקרוס שניתן ליצור מטקסט פשוט. אידיאלי עבור עסקים שזקוקים לאוטומציה חוזרת במצגות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* לוחות מחוונים פיננסיים עם מאקרוס מוטבעים שנוצרו מסיכומי CSV.
+
+* סימולציות להכשרה באמצעות בקרי ניווט אוטומטיים.
+
+* מצגות תהליכי עבודה שבהן מאקרוס מפעילים תרשימים דינמיים.
+
+* שקופיות דיווח תיק תקייתיות מלוגים טקסטואליים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת תבניות עם מאקרוסים באופן צפון לדיווחים רבעוניים חוזרים.
+
+* שילוב עם תסריטי VBA למצגות מבוססות נתונים אוטומטיות.
+
+* עדכון אוטומטי של שקופיות ללוחות מעקב בפרויקט.
+
+* ביצוע מאקרו בתגובה לחזון קיצוני של KPIs מבוסס טקסט.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

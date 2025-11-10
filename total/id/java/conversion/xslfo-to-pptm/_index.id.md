@@ -135,7 +135,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **PPTM (PowerPoint yang Mendukung Macro)** menggabungkan slide yang dapat diedit dengan kemampuan otomatisasi. PPTM ideal untuk pelaporan dinamis, dasbor interaktif, dan presentasi berulang.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Menyematkan perhitungan yang didorong oleh XSLFO ke dalam slide interaktif.
+
+* Menyiapkan dasbor tinjauan kinerja otomatis.
+
+* Membuat slide pelatihan atau instruksional yang mendukung makro.
+
+* Mendistribusikan presentasi investor atau dewan yang dinamis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi terjadwal laporan XSLFO menjadi slide PPTM.
+
+* Integrasi dengan jalur otomatisasi VBA.
+
+* Pemicu pembuatan slide yang mendukung makro dari konten XSLFO yang berulang.
+
+* Konversi batch otomatis untuk presentasi perusahaan yang dinamis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

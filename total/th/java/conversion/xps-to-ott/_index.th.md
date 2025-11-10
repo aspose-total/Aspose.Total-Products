@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XPS เป็น **OTT (OpenDocument Text Template)** จะเปลี่ยนไฟล์ XPS ที่เป็นแบบสถิตให้กลายเป็นเทมเพลตที่ใช้ซ้ำได้สำหรับผู้ใช้ LibreOffice และ OpenOffice ที่เหมาะสำหรับเอกสารของกระบวนการทำงานมาตรฐานในรูปแบบเปิด
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* เทมเพลตสำหรับเอกสารทางการศึกษาและการเรียนรู้สำหรับนักเรียนและครู
+
+* เทมเพลตโครงการ NGO สำหรับรายงานและข้อเสนอ
+
+* เทมเพลตเปิดซอร์สมาตรฐานสำหรับเอกสารขององค์กร
+
+* เทมเพลตเนื้อหาสร้างสรรค์สำหรับโบรชัวร์และจดหมายข่าว
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* การสร้างเทมเพลต OTT จำนวนมากจากคลัง XPS แบบกลุ่ม
+
+* การผสานรวมกับเครื่องมืออัตโนมัติของกระบวนการทำงานเปิดซอร์ส
+
+* การเติมข้อมูลขององค์กรในเทมเพลตโดยอัตโนมัติ
+
+* การปรับปรุงกระบวนการสร้างเอกสารข้ามแพลตฟอร์ม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

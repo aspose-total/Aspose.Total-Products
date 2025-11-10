@@ -102,7 +102,45 @@ otherformats: XLAM XLTX XLSX XLT DIF XLSM XLSB XLS ODS CSV FODS TSV XLTM MHTML M
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення POT у SXC (таблиця StarOffice Calc) дозволяє використовувати дані, отримані з презентацій, в старих середовищах StarOffice або OpenOffice. Цей формат залишається актуальним для освітніх та архівних проектів, які потребують сумісності з попередніми версіями.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* Переробка вмісту PowerPoint для установ, які використовують застаріле програмне забезпечення.
+
+* Створення завдань для студентів на основі таблиць презентацій.
+
+* Обмін корпоративними метриками за допомогою таблиць електронних таблиць з відкритим вихідним кодом.
+
+* Архівування аналітики на основі PowerPoint у старих системах.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Робочі процеси перетворення даних для міграції підприємств.
+
+* Автоматичне видобування таблиць PowerPoint у файли SXC.
+
+* Заплановані конвертації для архівних та академічних систем.
+
+* Інтеграція з платформами бізнес-аналітики попереднього покоління.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

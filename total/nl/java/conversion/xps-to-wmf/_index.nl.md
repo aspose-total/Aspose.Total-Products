@@ -57,7 +57,51 @@ Met behulp van de API kunt u ook de uitgevoerde WMF-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het converteren van XPS naar **WMF (Windows Metafile)** produceert schaalbare vectorafbeeldingen die geschikt zijn voor integratie in Microsoft Office en technische illustraties.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Insluiten van vectorafbeeldingen in Office-documenten.
+
+* Technische diagrammen voor handleidingen en rapporten.
+
+* Marketing visuals die schaalbare graphics vereisen.
+
+* Illustratieve inhoud voor presentaties en brochures.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch XPS-naar-WMF conversie voor bedrijfsdocumentbibliotheken.
+
+* Geautomatiseerde creatie van schaalbare diagrammen vanuit XPS.
+
+* Integratie met publicatiepijplijnen.
+
+* Geplande updates voor terugkerende vectorafbeeldingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

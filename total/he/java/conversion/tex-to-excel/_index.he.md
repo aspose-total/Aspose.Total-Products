@@ -102,7 +102,51 @@ otherformats: DIF ODS XLTX XLTM XLSB TSV XLT TXT FODS MD CSV XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל- **EXCEL (XLS/XLSX)** מאפשרת למסמכי LaTeX עם טבלאות ונוסחאות להיות משולבים במלואם ב-Microsoft Excel לצורך ניתוח, ויזואליזציה ודיווח מקצועי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* דוחות פיננסיים עם נוסחאות שנוצרו באמצעות LaTeX.
+
+* חישובים הנדסיים לניתוח גיליון נתונים מורכב.
+
+* גליונות ציון אקדמיים ומערכות נתונים למחקר.
+
+* לוחות בקרה אינטראקטיביים המשלבים טבלאות LaTeX ותרשימי Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת LaTeX ל-Excel בצורה רציפה לצורך דיווח מוסדי.
+
+* שילוב עם כלים לנתוני עסקים מונחים ב-Excel.
+
+* עדכונים מופעלים לגיליונות התקדמות פרויקט.
+
+* המרה בזמן אמת לשיתוף פעולה ב-Excel מבוסס ענן.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

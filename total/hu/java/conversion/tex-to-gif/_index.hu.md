@@ -144,7 +144,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok átalakítása **GIF formátumra (Graphics Interchange Format)** lehetővé teszi a LaTeX vizualizációk és kis animációk online megosztását vagy beágyazását oktatóanyagokba és képzési anyagokba.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Egyszerű LaTeX animációk oktatási tartalmakhoz.
+
+* Lépésről lépésre megosztott problémamegoldó diagramok.
+
+* Animált képletek beágyazása e-learning platformokba.
+
+* Iteratív LaTeX számítások vizualizálása GIF formátumban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Automatizált batch TEX-GIF konverzió oktatóanyagokhoz.
+
+* Integráció LMS-szel és online tanfolyam tartalmakkal.
+
+* GIF-ek generálása LaTeX ábrákból vagy sorozatokból.
+
+* Oktatási GIF-ek automatikus frissítése LaTeX frissítések alapján.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

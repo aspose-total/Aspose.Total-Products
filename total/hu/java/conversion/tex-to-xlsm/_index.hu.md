@@ -47,7 +47,51 @@ A TEX-fájl XLSM-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLSM-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok XLSM formátummá való átalakítása (Excel Macro-Enabled Workbook) lehetővé teszi a LaTeX adatkészletek összekapcsolását fejlett Excel makrókkal az automatizáláshoz, elemzéshez és dinamikus jelentéskészítéshez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Dinamikus vezérlőpultok LaTeX által generált adatokkal.
+
+* Automatizált számítások és jelentéssablonok kutatáshoz.
+
+* Makróval ellátott akadémiai vagy vállalati jelentések.
+
+* Mérnöki és pénzügyi jelentések bonyolult képletekkel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Batch LaTeX-XLSM konverziók automatizált munkafolyamatokhoz.
+
+* Integráció vállalati makróvezérelt jelentési rendszerekbe.
+
+* Kiváltott frissítések együttműködésre épülő XLSM munkafüzetekhez.
+
+* Automatizált Excel makró létrehozása LaTeX adatkészletekből.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

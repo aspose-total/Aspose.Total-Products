@@ -144,7 +144,55 @@ Qualsiasi sistema operativo in grado di eseguire Java Runtime Environment (JRE) 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversione da TEX a **MARKDOWN** trasforma i documenti LaTeX in testo leggero e leggibile con sintassi Markdown, ideale per la pubblicazione web, la documentazione e i flussi di lavoro controllati dalla versione.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* Conversione di appunti accademici e relazioni per blog online.
+
+* Documentazione tecnica con formule LaTeX in sintassi Markdown-friendly.
+
+* Modifica collaborativa nei repository di GitHub o GitLab.
+
+* Pubblicazione di riepiloghi di ricerca LaTeX su piattaforme web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* Conversione batch da TEX a Markdown per pipeline di documentazione.
+
+* Integrazione con generatori di siti statici (ad es. Hugo, Jekyll).
+
+* Generazione attivata per piattaforme di contenuti educativi.
+
+* Conversione programmata per la pubblicazione continua di LaTeX sul web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

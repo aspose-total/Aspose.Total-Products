@@ -47,7 +47,55 @@ Tijdens het converteren van het XSLFO-bestand naar SXC, kunt u ook een watermerk
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het converteren van XSLFO naar **SXC (StarOffice Spreadsheet)**-indeling maakt naadloze interoperabiliteit mogelijk met legacy StarOffice en OpenOffice-tools. SXC behoudt de structuur en opmaak voor archivering en bedrijfsrapportageworkflows.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Archiveren van op XSLFO gebaseerde projectplanningen in SXC voor legacy systemen.
+
+* Voorbereiden van SXC-spreadsheets voor internationale partners met behulp van StarOffice.
+
+* Omzetten van tabulaire XSLFO-gegevens voor trainings- en documentatiedoeleinden.
+
+* Delen van maandelijkse KPI's in SXC voor nalevingsrapportage.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch geautomatiseerde conversie van XSLFO naar SXC voor archiveringsprojecten.
+
+* Integratie in legacy kantoorworkflows ter ondersteuning van StarOffice-indelingen.
+
+* Geplande SXC-rapportgeneratie vanuit XSLFO-bestanden.
+
+* Getriggerde conversie voor terugkerende managementdashboards.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

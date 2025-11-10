@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **PPSX (매크로 없는 PowerPoint 쇼)**로 변환하면 배포에 안전한 자체 실행 프레젠테이션이 생성됩니다. PPSX는 매크로 실행 위험을 피하면서 서식과 레이아웃을 보존합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* XSLFO 데이터에서 자체 실행 금융 대시보드 생성.
+
+* 표준화된 교육 또는 온보딩 프레젠테이션 공유.
+
+* 매크로 없는 투자자 피치 쇼 준비.
+
+* 팀 전체에 분기 검토 슬라이드 보관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 주기적인 프레젠테이션을 위한 XSLFO를 PPSX로 일괄 변환 예약.
+
+* 매크로 없는 슬라이드쇼 덱의 트리거 생성.
+
+* 자동화된 배포 파이프라인 통합.
+
+* XSLFO 보고서에서 자체 실행 슬라이드 자동 업데이트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

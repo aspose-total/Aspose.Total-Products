@@ -47,7 +47,43 @@ otherformats: XLSM SXC ODS XLTM EXCEL MD XLT TXT XLAM FODS XLTX DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **XLAM (Excel Add-In Macro)** ช่วยให้ตารางและสูตร LaTeX กลายเป็นเครื่องมือ Excel ที่สามารถทำงานได้อย่างประสิทธิภาพด้วยการคำนวณอัตโนมัติและฟังก์ชันที่ปรับปรุง
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* แม่แบบการจำลองทางการเงินที่มีพลังจาก LaTeX
+* เครื่องมือคำนวณอัตโนมัติสำหรับโครงการวิศวกรรม
+* แผ่นงานสูตรการเรียนที่ฝังอยู่ใน Excel macros
+* แดชบอร์ดประมวลผลข้อมูลที่รวมระหว่าง LaTeX และ Excel automation
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* การสร้าง XLAM add-ins โดยอัตโนมัติจากชุดข้อมูล LaTeX
+* การแปลง LaTeX เป็น XLAM แบบจำนวนมากสำหรับเครื่องมือองค์กร
+* สเปรดชีทที่เปิดใช้งานแมโครจากที่เก็บข้อมูลวิจัย
+* การผสานเข้ากับรายงานอัตโนมัติและท่อประสานข้อมูล
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

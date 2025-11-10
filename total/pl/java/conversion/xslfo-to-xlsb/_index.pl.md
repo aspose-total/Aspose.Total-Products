@@ -47,7 +47,55 @@ Konwertując plik XSLFO na XLSB, możesz także dodać znak wodny do wyjścioweg
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie XSLFO na **XLSB (Excel Binary Workbook)** oferuje wysokowydajne przechowywanie arkuszy kalkulacyjnych dla dużych zbiorów danych. XLSB zmniejsza rozmiar pliku, przyspiesza obliczenia i zachowuje skomplikowane formatowanie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Obsługa modeli finansowych XSLFO z dużymi zbiorami danych tabelarycznych.
+
+* Archiwizacja operacyjnych raportów XSLFO w kompaktowej formie binarnej.
+
+* Generowanie pulpitów Excel do analiz danych.
+
+* Przygotowywanie arkuszy prognozowych opartych na XSLFO z szablonów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja raportów XSLFO na XLSB dla szybszego wczytywania.
+
+* Zaplanowany eksport dla aplikacji analitycznych dla przedsiębiorstw.
+
+* Integracja z zautomatyzowanymi potokami raportowania opartymi na Excelu.
+
+* Wywoływane generowanie XLSB z XSLFO dla raportowania finansowego na dużą skalę.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

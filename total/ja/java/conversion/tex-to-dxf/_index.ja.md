@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力DXF画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**DXF（Drawing Exchange Format）**に変換することで、LaTeXで生成された技術図、設計図、および図面をCADソフトウェアで使用して、エンジニアリングおよび建築プロジェクトに活用できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* LaTeX技術文書からのエンジニアリング図面。
+
+* CAD統合用の建築図。
+
+* デザインプロジェクトのためのLaTeXベースのプロット可視化。
+
+* LaTeXから派生した製造またはプロトタイプ図面。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* エンジニアリングワークフロー向けのバッチTEXからDXFへの変換。
+
+* CADソフトウェアパイプラインとの統合。
+
+* デザイン図のトリガー付き自動生成。
+
+* LaTeX図面のDXF形式でのクロスプラットフォーム利用のためのアーカイブ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

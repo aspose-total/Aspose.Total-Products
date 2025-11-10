@@ -47,7 +47,51 @@ Konwertując plik TEX na XLT, możesz także dodać znak wodny do wyjściowego f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **XLT (szablon Excela)** pozwala na tworzenie szablonów Excela z danymi opartymi na LaTeX, które można wykorzystać wielokrotnie w projektach, analizach i pracy akademickiej.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Standardowe szablony raportowania dla zespołów badawczych.
+
+* Wielokrotnie używane modele finansowe oparte na tabelach LaTeX.
+
+* Arkusze kalkulacyjne ocen akademickich z formułami LaTeX.
+
+* Szablony śledzenia projektów inżynieryjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Tworzenie wsadowe szablonów Excela z LaTeX.
+
+* Integracja z firmowymi lub akademickimi repozytoriami szablonów.
+
+* Automatyczne wypełnianie danych LaTeX w szablonach XLT.
+
+* Zaplanowane aktualizacje szablonów dla środowisk wielu użytkowników.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

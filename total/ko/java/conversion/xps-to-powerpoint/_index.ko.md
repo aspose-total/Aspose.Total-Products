@@ -121,7 +121,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **POWERPOINT (PPTX)**로 변환하면 텍스트, 이미지, 차트 및 애니메이션을 포함한 완전히 편집 가능한 슬라이드 덱을 만들 수 있어 정적인 XPS 파일을 상호작용적이고 프레젠테이션용으로 만들 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 동적 슬라이드 형식의 비즈니스 및 재무 보고서.
+
+* 교육 강의 및 교육 자료.
+
+* 고객 참여를 위한 마케팅 캠페인 프레젠테이션.
+
+* 차트 및 시각 자료를 활용한 프로젝트 및 팀 진행 상황 업데이트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XPS 아카이브를 편집 가능한 PPTX 덱으로 일괄 변환.
+
+* 동적 슬라이드를 위한 데이터 소스와의 자동 통합.
+
+* 반복적 보고서 프레젠테이션을 위한 예약 변환.
+
+* 고객이나 내부 대시보드의 간소화된 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

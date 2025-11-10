@@ -57,7 +57,55 @@ API'yi kullanarak, çıktı EMZ görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **EMZ'ye (Sıkıştırılmış Windows Metafile)** dönüştürmek, LaTeX vektör grafiklerinin sunumlar, belgeler ve teknik yayınlar için uygun bir sıkıştırılmış formatta korunmasını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX diyagramlarını Microsoft Office belgelerine gömme.
+
+* Teknik raporlar için vektör grafiklerin korunması.
+
+* Profesyonel yayınlar için yeniden kullanılabilir LaTeX şemaları.
+
+* Akademik PDF'ler için sıkıştırılmış grafikler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Belge kütüphaneleri için toplu sıkıştırma ve dönüştürme.
+
+* Otomatik yayınlama iş akışlarına entegrasyon.
+
+* Slayt destekleri veya raporlar için tetiklenmiş EMZ oluşturma.
+
+* Dağıtımı kolaylaştırmak için sıkıştırılmış formatlarda LaTeX diyagramlarının arşivlenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

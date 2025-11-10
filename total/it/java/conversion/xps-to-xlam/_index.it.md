@@ -47,7 +47,51 @@ Durante la conversione del file XPS in XLAM, puoi anche aggiungere una filigrana
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversione da XPS a **XLAM (Excel Add-In)** consente la creazione di strumenti personalizzati di automazione di Excel, macro e funzionalità estese da documenti XPS statici, perfetti per utenti aziendali avanzati.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* Automatizzazione di calcoli e flussi di lavoro ripetitivi in finanza o operazioni.
+
+* Creazione di componenti aggiuntivi per la produttività abilitati alle macro da dati esistenti.
+
+* Estensione della funzionalità di Excel utilizzando modelli convertiti da XPS.
+
+* Miglioramenti dei flussi di lavoro a livello aziendale utilizzando componenti aggiuntivi di Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* Conversione bulk da XPS a XLAM per strumenti di automazione aziendale.
+
+* Integrazione con software interno per attivare componenti aggiuntivi di Excel.
+
+* Creazione programmata di soluzioni abilitate alle macro per team.
+
+* Pipeline di automazione ottimizzata per compiti di reportistica ripetitivi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

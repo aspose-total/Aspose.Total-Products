@@ -102,7 +102,45 @@ otherformats: XLAM XLSX XLTX SXC XLSM DIF MARKDOWN ODS XLTM XLT MHTML XLSB FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POT ל־TSV (ערכים מופרדים בטאב) מספקת דרך יעילה לייצוא טבלאות מצגת לגיליונות טקסט מבוססי נתונים המשמשים לייבוא ועיבוד נתונים. TSV פשוטה את הטיפול בקבוצות נתונים גדולות בכלים לניתוח.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת נתוני ניתוח מבוססי מצגות לנתוני TSV לייבוא.
+
+* הכנת דוחות טבלאיים מובנים עבור מודלי למידת מכונה.
+
+* חישול מדדי ביצוע אקדמי משקפי לימוד.
+
+* יצירת קבוצות נתונים בפורמט TSV שניתן לשתף עבור מערכות עסקיות.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* המרת TSV בצורה צפופה משולבת בצינורות נתונים לניתוח.
+
+* חילוץ טבלאות אוטומטי מחומרי הדרכה ב־PowerPoint.
+
+* שילוב במערכות ETL להחלפת נתונים עסקיים.
+
+* יצירת TSV לאוטומציה בדיווח בקנה מידה גדול.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

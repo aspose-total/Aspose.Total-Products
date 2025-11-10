@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti APNG-képet is. A
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok átalakítása **APNG (Animált PNG)** formátumba lehetővé teszi a LaTeX diagramok, egyenletek és ábrák átalakítását animált grafikává webes prezentációkhoz, oktatási tartalmakhoz és interaktív vizualizációkhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Animált matematikai illusztrációk online előadásokhoz.
+
+* Interaktív LaTeX grafikonok oktatási webalkalmazásokban.
+
+* Dinamikus diagramok az e-learning platformokon.
+
+* LaTeX által generált adattrendek időbeli vizualizációja.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges TEX-to-APNG konverzió kurzusanyagokhoz.
+
+* Integráció automatizált webes közzétételi csövekbe.
+
+* Kiváltott renderelés AI-alapú oktatási eszközök számára.
+
+* Animációk automatikus generálása LaTeX ábrákból oktatóanyagokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

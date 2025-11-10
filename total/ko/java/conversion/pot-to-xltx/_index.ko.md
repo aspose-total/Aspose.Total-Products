@@ -61,7 +61,45 @@ POT 파일을 XLTX로 변환하는 동안 출력 XLTX 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POT를 XLTX(Excel 템플릿 Open XML)로 변환하면 PowerPoint 시각 자료와 기업용 Excel 템플릿을 일치시키는 현대적이고 XML 기반의 스프레드시트 템플릿이 제공됩니다. 이를 통해 문서 작성의 일관성과 확장성이 보장됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* PowerPoint 보고서로부터 브랜드화된 Excel 템플릿 생성.
+
+* 부서별 표준화된 데이터 입력 양식 생성.
+
+* 프레젠테이션 레이아웃을 재사용 가능한 스프레드시트 템플릿으로 재활용.
+
+* 보고 형식에서 팀 간 일관성 지원.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 기업 콘텐츠 시스템 내에서 자동화된 XLTX 생성.
+
+* SharePoint 기반 템플릿 라이브러리와 통합.
+
+* 브랜드 준수 Excel 템플릿 제작을 위한 일괄 변환.
+
+* Excel 템플릿 관리에서의 워크플로 자동화.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

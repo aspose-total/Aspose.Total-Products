@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti JPEG2000-képet i
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **JPEG2000** formátumba való átalakítása magas minőségű, tömörített LaTeX vizuális elemeket eredményez, melyek alkalmasak archiválásra, szakmai kiadásra és webes alkalmazásokra.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Magas felbontású LaTeX ábrák archiválása kutatási cikkekhez.
+
+* Tudományos diagramok online publikálása minimális minőségvesztéssel.
+
+* Tömörített akadémiai ábrák megosztása különböző platformok között.
+
+* Magas minőségű LaTeX vizuális elemek oktatási anyagokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Automatizált tételkonverzió kutatási adattárakhoz.
+
+* Integráció az akadémiai kiadási csatornákba.
+
+* Kiváltott JPEG2000 generálás webes vagy nyomtatott terjesztéshez.
+
+* Folyamatos archiválás tömörített formátumban a LaTeX ábráknak.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

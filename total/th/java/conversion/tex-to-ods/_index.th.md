@@ -47,7 +47,51 @@ otherformats: ODS FODS TXT XLTX EXCEL XLAM XLSB MD DIF XLT SXC XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **ODS (OpenDocument Spreadsheet)** ช่วยให้ผู้ใช้สามารถใช้เนื้อหา LaTeX ในสเปรดชีตที่สามารถแก้ไขได้สำหรับการวิเคราะห์และโครงการที่ทำร่วมกัน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การวิจัยทางวิชาการที่มีตารางตัวเลขที่ซับซ้อน
+
+* แผ่นงานติดตามโครงการหรือการเงินโอเพนซอร์ส
+
+* การคำนวณวิศวกรรมที่ต้องการความเข้ากันได้กับหลายแพลตฟอร์ม
+
+* แบ่งปันตาราง LaTeX ใน ODS สำหรับโครงการการศึกษาที่ทำร่วมกัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงข้อมูลจำนวนมากจาก TEX เป็น ODS สำหรับห้องปฏิบัติการมหาวิทยาลัย
+
+* การรวมเข้ากับท่อข้อมูลโอเพนซอร์ส
+
+* รายงานอัตโนมัติของข้อมูลตัวเลขที่สร้างจาก LaTeX
+
+* การสร้าง ODS โดยเรียกใช้สำหรับสภาพแวดล้อมที่ใช้งานโดยหลายผู้ใช้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

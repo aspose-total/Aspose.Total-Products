@@ -47,7 +47,55 @@ XSLFO 파일을 ODS로 변환하는 동안 출력 ODS 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **ODS (OpenDocument Spreadsheet)**로 변환하면 현대 오픈 소스 스프레드시트 애플리케이션과의 호환성이 보장됩니다. ODS는 스타일, 수식 및 테이블을 보존하여 협업 보고 및 데이터 공유에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LibreOffice 사용자를 위한 XSLFO로 생성된 HR 보고서 변환.
+
+* ODS 형식으로 외부 파트너들에게 분기별 분석 공유.
+
+* 부서 간 검토를 위한 운영 대시보드 작성.
+
+* 미래를 대비한 XSLFO 기반 재무 테이블 아카이빙.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 협업 오피스 환경을 위한 실시간 XSLFO에서 ODS로 변환.
+
+* XSLFO에서 운영 메트릭 일괄 익스포트 예약.
+
+* 원격 팀을 위한 자동화된 보고 파이프라인 통합.
+
+* 주기적 보고서를 위한 XSLFO 템플릿에서 ODS 스프레드시트 자동 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

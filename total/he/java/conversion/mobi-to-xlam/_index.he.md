@@ -102,7 +102,47 @@ otherformats: SXC DIF XLT EXCEL XLTX XLSM CSV XLTM ODS FODS XLSX XLSB TSV XLS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי MOBI ל-XLAM (תוסף Excel) מאפשרת הטמעת פונקציות נתונים הקשורות ל-MOBI ישירות בסביבות Excel. המרה זו מעצימה ניתוחים מתקדמים ואוטומציה בזרימי עבודה המבוססים על גיליונות אלקטרוניים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+- הטמעת ממירי MOBI-לנתונים בתוך מקרוי Excel.
+
+- אוטומציה של פונקציות ניתוח ספרים אלקטרוניים עבור הוצאות לאור.
+
+- פיתוח לוחות מחוונים בגליון לביצועים של תוכן דיגיטלי.
+
+- שילוב כלים לניתוח נתוני MOBI בתוך תוספות Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+- עיבוד MOBI באמצעות מקרוים באמצעות XLAM.
+
+- הטמעת פענוחי MOBI בתוך מערכות Excel עסקיות.
+
+- יצירה דינמית של תוספות למשימות דיווח על ספרים אלקטרוניים.
+
+- הרחבות XLAM בזמן אמת לעדכוני קבוצת נתוני MOBI.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,55 @@ Met behulp van de API kunt u ook de uitgevoerde WMF-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het converteren van TEX naar **WMF (Windows Metafile)** behoudt vectorafbeeldingen voor LaTeX-diagrammen, waardoor compatibiliteit met Microsoft Office en technische documentatie wordt gegarandeerd.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke Gebruiksscenario's" %}}
+
+
+
+* Insluiten van LaTeX-illustraties in Word of PowerPoint.
+
+* Technische diagrammen in professionele rapporten.
+
+* Schaalbare figuren voor zakelijke en academische documenten.
+
+* Cross-platform distributie van door LaTeX gegenereerde afbeeldingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchconversie van LaTeX-diagrammen naar WMF.
+
+* Integratie in Microsoft Office-documentworkflows.
+
+* Getriggerde updates voor vectorafbeeldingen in presentaties.
+
+* Geautomatiseerde archivering van door LaTeX gegenereerde technische figuren.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力PSD画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**PSD（Photoshop Document）**に変換すると、LaTeXで生成されたビジュアルをAdobe Photoshopで完全に編集できるようになり、高度なデザインや後処理が可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* プレゼンテーションやポスター用のLaTeX図の編集。
+
+* Photoshopの強化機能を使用した出版物用のグラフィックの準備。
+
+* 教育やトレーニング用のビジュアルのカスタマイズ。
+
+* マーケティングや学術用途のビジュアルリッチな図の作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* デザインチーム向けのバッチTEXからPSDへの変換。
+
+* 自動化されたグラフィックデザインワークフローとの統合。
+
+* ポスターやインフォグラフィックの生成のためのトリガーされたPSD作成。
+
+* マルチレイヤーPhotoshop編集用の編集可能なLaTeX図のエクスポート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

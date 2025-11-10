@@ -130,7 +130,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XPS ke **MARKDOWN** mengubah dokumen statis menjadi format yang ringan dan mudah diedit yang kompatibel dengan blog, platform dokumentasi, dan sistem kontrol versi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Menerbitkan dokumentasi teknis di GitHub atau GitLab.
+
+* Mengubah laporan menjadi konten siap blog.
+
+* Membuat catatan dan entri basis pengetahuan internal.
+
+* Pengeditan kolaboratif untuk tim menggunakan markup ringan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi otomatis arsip XPS menjadi Markdown untuk platform konten.
+
+* Integrasi dengan generator situs statis seperti Hugo atau Jekyll.
+
+* Generasi terjadwal versi Markdown untuk dokumentasi berulang.
+
+* Alur kerja yang disederhanakan untuk pembaruan basis pengetahuan internal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

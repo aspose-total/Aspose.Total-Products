@@ -47,7 +47,45 @@ otherformats: DIF FODS XLTM XLSM ODS XLT TSV MD XLSB EXCEL XLTX TXT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XPS เป็น **FODS (Flat OpenDocument Spreadsheet)** ช่วยให้สามารถใช้งานร่วมกันได้กับ LibreOffice และ OpenOffice ที่เป็นโปรแกรมสเปรดชีตโอเพนซอร์ส ที่เหมาะสำหรับองค์กรที่ใช้โซลูชันที่เป็นเวนเดอร์นิวทรัลและ跨แพลตฟอร์ม
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* ชุดข้อมูลโครงการทางวิชาการและวิจัยสำหรับการแก้ไขร่วมกัน
+* รายงานการเงินโอเพนซอร์สสำหรับองค์กรไม่แสวงหาผลกำไรหรือสถาบันรัฐ
+* แผ่นข้อมูลทางเทคนิคและบันทึกการดำเนินงานในรูปแบบโอเพน
+* การแบ่งปันสเปรดชีตระหว่างทีมที่ใช้งานได้บนหลายแพลตฟอร์ม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* ท่อการแปลง XPS เป็น FODS โดยอัตโนมัติสำหรับห้องปฏิบัติการวิจัย
+* การผสานรวมกับระบบ ERP หรือระบบวิเคราะห์โอเพนซอร์ส
+* การอัปเดตตามกำหนดสำหรับสเปรดชีตการดำเนินงาน
+* การทำงานร่วมกันอย่างเรียบง่ายโดยใช้รูปแบบเอกสารโอเพน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

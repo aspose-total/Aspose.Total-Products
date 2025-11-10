@@ -47,7 +47,45 @@ Tijdens het converteren van het TEX-bestand naar XLAM, kunt u ook een watermerk 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **XLAM (Excel Add-In Macro)** maakt het mogelijk om LaTeX-tabellen en formules interactieve Excel-tools te maken met geautomatiseerde berekeningen en verbeterde functionaliteit.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Financiële modellen aangedreven door LaTeX.
+* Geautomatiseerde berekeningshulpmiddelen voor technische projecten.
+* Academische formulebladen ingebed in Excel-macro's.
+* Gegevensverwerkingsdashboards die LaTeX en Excel-automatisering combineren.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde creatie van XLAM-add-ins vanuit LaTeX-datasets.
+* Batchconversies van LaTeX naar XLAM voor bedrijfsmiddelen.
+* Getriggerde macro-ingeschakelde spreadsheets vanuit onderzoeksrepositories.
+* Integratie in geautomatiseerde rapportage- en dashboardpijplijnen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

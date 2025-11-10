@@ -47,7 +47,51 @@ TEX dosyasını TXT'ye dönüştürürken, çıktı TXT dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **TXT (Düz Metin)**e dönüştürmek, LaTeX içeriği için basit, evrensel olarak okunabilir bir format sağlar; hafif depolama, hızlı paylaşım ve metin işleme için faydalıdır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Metin tabanlı arama ve analiz için LaTeX içeriğinin çıkarılması.
+
+* LaTeX notlarını veya tablolarını basit metin formatında paylaşma.
+
+* Betik veya kodlama projeleri için hafif belgeleme.
+
+* LaTeX içeriğinin düz metin e-posta dağıtımı için hazırlanması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Arşivleme için LaTeX dosyalarının TXT'ye toplu dönüşümü.
+
+* Otomatik metin işleme iş akışlarıyla entegrasyon.
+
+* LaTeX depolarından tetiklenen TXT oluşturma.
+
+* Hafif LaTeX belgeleri için zamanlanmış dışa aktarma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 WMF 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **WMF (Windows Metafile)**로 변환하면 Microsoft Office 및 기타 데스크톱 퍼블리싱 애플리케이션과 호환되는 확장 가능한 벡터 이미지를 얻을 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Microsoft Word 또는 PowerPoint에 XSLFO 테이블 및 차트 임베딩.
+
+* 기업 프레젠테이션용 확장 가능한 시각 자료 작성.
+
+* 벡터 형식으로 보고서 시각 자료 보관.
+
+* 구조화된 XSLFO 데이터에서 기술적인 삽화 작성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 문서 워크플로우용 일괄 XSLFO-to-WMF 변환.
+
+* 슬라이드 덱용 벡터 시각 자료 예약 내보내기.
+
+* XSLFO 대시보드에서 WMF 이미지 생성 트리거.
+
+* 자동화된 기업 퍼블리싱 파이프라인 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO sang **SWF (Flash)** cho phép tạo ra các hoạt hình tương tác cho các bảng điều khiển cũ và ứng dụng web. SWF bảo tồn đồ họa vector và cho phép tương tác dựa trên thời gian.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Nhúng biểu đồ XSLFO tương tác vào các cổng thông tin web cũ.
+
+* Chuẩn bị bảng điều khiển hoạt hình cho các hệ thống mạng nội bộ lịch sử.
+
+* Chuyển đổi các mô-đun đào tạo thành định dạng SWF để sử dụng ngoại tuyến.
+
+* Lưu trữ các hình ảnh tương tác XSLFO cho mục đích tuân thủ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi XSLFO sang SWF theo lịch trình cho các hệ thống cũ.
+
+* Tạo bảng điều khiển hoạt hình theo lô.
+
+* Tạo ra cho các ứng dụng web cũ dựa trên kịch bản kích hoạt.
+
+* Tích hợp với các đường ống báo cáo tương tác tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

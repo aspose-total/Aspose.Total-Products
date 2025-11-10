@@ -47,7 +47,51 @@ TEX 파일을 CSV로 변환하는 동안 출력 CSV 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX 파일을 **CSV (쉼표로 구분된 값)**로 변환하면 LaTeX 문서를 스프레드시트, 데이터베이스 및 분석 애플리케이션용 가벼운 표 데이터로 변환할 수 있습니다. 이는 LaTeX에서 숫자 데이터셋을 다루는 연구원과 분석가에게 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LaTeX로 생성된 표를 CSV로 내보내어 데이터 분석에 활용하기.
+
+* 통계 소프트웨어 및 Python/R 처리용 학술 데이터셋.
+
+* LaTeX로 서식이 지정된 금융 또는 공학 보고서를 스프레드시트 검토용으로 변환하기.
+
+* 범용 CSV 형식으로 오픈 소스 프로젝트 데이터 공유하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* ETL 파이프라인에서 일괄 TEX-to-CSV 변환.
+
+* 연구 논문에서 표 자동 추출.
+
+* AI 기반 분석 플랫폼 통합.
+
+* 협업 데이터셋을 위한 트리거된 CSV 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van XSLFO naar **POTM (Macro-Enabled PowerPoint Template)** maakt het mogelijk om macro's in herbruikbare dia-templates in te sluiten. POTM is ideaal voor dynamische presentaties die automatisering en interactieve inhoud vereisen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het insluiten van XSLFO-gebaseerde berekeningen in presentatiemacro's.
+
+* Het automatiseren van terugkerende projectstatusupdates in dia-decks.
+
+* Het genereren van interactieve dashboards uit XSLFO-datatabellen.
+
+* Het verspreiden van gestandaardiseerde POTM-templates over afdelingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geplande conversie van XSLFO-rapporten naar POTM-templates voor automatisering.
+
+* Integratie met VBA of PowerPoint-automatiseringsworkflows.
+
+* Getriggerde batchgeneratie van macro-enabled presentatietemplates.
+
+* Automatische update van POTM-templates vanuit XSLFO-analyse.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

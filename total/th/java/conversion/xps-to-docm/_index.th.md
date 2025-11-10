@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ XPS (XML Paper Specification) เป็น **DOCM (Word Macro-Enabled Document)** จะทำให้รายงานและแบบฟอร์มทางธุรกิจที่เป็นไฟล์เอกสารแบบไดนามิกสามารถรักษาแมโครที่สามารถทำงานได้ทั้งหมดสำหรับการอัตโนมัติของกระบวนการทำงาน รูปแบบนี้เหมาะอย่างยิ่งสำหรับสถานการณ์ในสำนักงานที่งานที่ซ้ำซ้อนและสคริปต์ที่ฝังอยู่ช่วยเพิ่มประสิทธิภาพ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* รายงานทางการเงินและการตรวจสอบที่ต้องการแมโครอัตโนมัติสำหรับการคำนวณ
+
+* แม่แบบของบริษัทที่มีการไหลของการอนุมัติที่ฝังอยู่
+
+* แพ็คเกจเอกสารทางกฎหมายที่มีการอัตโนมัติลายเซ็น
+
+* แดชบอร์ดการจัดการโครงการที่ใช้แมโครสำหรับการติดตามงาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การแปลงไฟล์รายงาน XPS เป็นไฟล์ Word ที่มีแมโครสำหรับทีมในองค์กร
+
+* การผสานระบบการจัดการเอกสารที่เรียกใช้แมโครเมื่อเปิดไฟล์
+
+* การสร้างใบแจ้งหนี้และรายงานการเงินโดยอัตโนมัติพร้อมสูตรที่ฝังอยู่
+
+* แบบฟอร์มการบริหารทรัพยากรบุคคลที่เรียบง่ายด้วยช่องข้อมูลแบบไดนามิก
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

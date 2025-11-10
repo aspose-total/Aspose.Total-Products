@@ -57,7 +57,51 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **TGA (Targa Image)** ช่วยให้สามารถส่งออกรูประดับคุณภาพสูงของรูปภาพที่สร้างจาก LaTeX สำหรับการใช้ในแอปพลิเคชันที่ใช้งานกราฟิกอย่างหนัก, การแสดงผลทางวิทยาศาสตร์, และศิลปะดิจิทัล.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ภาพประกอบทางวิทยาศาสตร์ที่มีความคมชัดสูง.
+
+* แผนภาพที่สร้างจาก LaTeX สำหรับการแก้ไขกราฟิก.
+
+* เตรียมภาพเคลื่อนไหวสำหรับการทำงานและการจำลอง.
+
+* การเผยแพร่ดิจิทัลที่ต้องการคุณภาพของรูปภาพที่ไม่สูญเสีย.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* ส่งออก Batch TEX-to-TGA สำหรับการทำงานของท่อการแสดงผลการวิจัย.
+
+* การผสมผสานกับเครื่องมือประมวลผลกราฟิกและจำลอง.
+
+* การสร้างภาพคุณภาพสูงจากเนื้อหา LaTeX โดยอัตโนมัติ.
+
+* การเก็บถาวรของแผนภาพในรูปแบบ TGA สำหรับทีมกราฟิกโดยอัตโนมัติ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

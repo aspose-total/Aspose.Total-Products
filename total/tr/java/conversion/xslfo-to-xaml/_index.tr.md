@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO (Genişletilebilir Stil Şablonu Dil Biçimleme Nesneleri) dosyalarını **XAML (Genişletilebilir Uygulama İşaretleme Dili)** biçimine dönüştürmek, geliştiricilerin ve tasarımcıların yapılandırılmış raporları zengin, etkileşimli ve ölçeklenebilir masaüstü ve web uygulamaları için UI bileşenlerine dönüştürmelerini sağlar. XAML, XSLFO'dan stil, düzen ve hiyerarşik yapıları korurken WPF, UWP ve diğer XAML tabanlı çerçevelerle sorunsuz entegrasyonu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* XSLFO tarafından oluşturulan panoları etkileşimli tablolar ve grafiklerle donatılmış WPF uygulamalarına dönüştürme.
+
+* Yapılandırılmış finansal veya operasyonel raporları masaüstü arayüzlerine gömme.
+
+* XSLFO içeriğine dayalı kurumsal uygulamalar için UI bileşenleri tasarlama.
+
+* Yapılandırılmış analiz raporlarını sunum uygulamaları için etkileşimli XAML görsellere dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tekrarlanan XSLFO raporlarının otomatik toplu dönüşümü XAML UI bileşenlerine.
+
+* Gerçek zamanlı XAML panolarının ETL boru hatlarına entegrasyonu için.
+
+* Dinamik XSLFO veri kaynaklarından XAML arayüzlerin zamanlanmış güncellemeleri.
+
+* Raporlama, görselleştirme veya uygulama çerçeveleri için tetiklenen XAML düzenlerinin oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

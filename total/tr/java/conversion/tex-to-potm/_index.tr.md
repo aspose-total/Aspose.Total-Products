@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX'i **POTM (PowerPoint Macro-Enabled Template)** olarak dönüştürmek, makro yeteneklerine sahip tekrar kullanılabilir şablonlar ekleyerek LaTeX içeriğini otomatik slayt işlevselliği ile birleştirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX formülleri içeren etkileşimli eğitim slaytları.
+
+* Otomatik güncellenen tablolarla araştırma sunumları.
+
+* Bilimsel raporlama için makro yetenekli şablonlar.
+
+* Çoklu yazarlı ders slayt şablonları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* LaTeX içeriğinden toplu makro yetenekli şablon oluşturma.
+
+* Akademik veya kurumsal slayt paketleri için tetiklenen şablon güncellemeleri.
+
+* PowerPoint otomasyon iş akışlarına entegrasyon.
+
+* Zamanlanmış LaTeX'ten POTM slayt şablonu oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

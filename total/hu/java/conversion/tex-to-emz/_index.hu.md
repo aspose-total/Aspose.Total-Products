@@ -57,7 +57,55 @@ Az API használatával igény szerint elforgathatja a kimeneti EMZ-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok **EMZ (Tömörített Windows Metafile)** formátumba való konvertálása biztosítja, hogy a LaTeX vektorgrafikák tömörített formátumban megmaradjanak, amely alkalmas prezentációkhoz, dokumentumokhoz és technikai publikációkhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* LaTeX diagramok beágyazása Microsoft Office dokumentumokba.
+
+* Vektorgrafikák megőrzése technikai jelentésekhez.
+
+* Újrahasználható LaTeX séma professzionális publikációkhoz.
+
+* Tömörített grafikák akadémiai PDF-ekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges tömörítés és konvertálás dokumentumtárakhoz.
+
+* Integráció automatizált kiadási folyamatokba.
+
+* Kiváltott EMZ generálás slide-deckekhez vagy jelentésekhez.
+
+* LaTeX diagramok archiválása tömörített formátumban könnyű terjesztéshez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

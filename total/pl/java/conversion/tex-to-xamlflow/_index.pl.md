@@ -143,7 +143,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja TEX na **XAMLFLOW** pozwala przekształcić treści LaTeX w zgodne z przepływem znaczniki XAML do wizualnych przepływów, pulpitów nawigacyjnych i interaktywnych aplikacji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Diagramy wizualnych przepływów z równaniami wygenerowanymi w LaTeX.
+
+* Interaktywne pulpity nawigacyjne pokazujące dane w czasie rzeczywistym z wizualizacjami matematycznymi.
+
+* Aplikacje techniczne lub inżynieryjne wyświetlające strukturalne treści LaTeX.
+
+* Narzędzia edukacyjne integrujące przepływy i diagramy LaTeX w interfejsie użytkownika.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa TEX na XAMLFLOW dla komponentów pulpitu nawigacyjnego.
+
+* Integracja z automatyzowanymi wizualizacjami danych i przepływami pracy.
+
+* Wywoływane aktualizacje interaktywnych diagramów LaTeX w aplikacjach opartych na przepływie.
+
+* Zaplanowane generowanie przepływów XAML opartych na LaTeX dla platform wielu użytkowników.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

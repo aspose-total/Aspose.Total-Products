@@ -129,7 +129,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS (XML Paper Specification) 파일을 **PCL (Printer Command Language)**으로 변환하면 레이저 및 잉크젯 프린터에서 원활한 인쇄가 가능해집니다. PCL은 기업 및 사무실 환경에서 인쇄 성능을 최적화하면서 페이지 레이아웃, 글꼴 및 그래픽을 보존합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 기업 사무실에서 대량 문서 인쇄.
+
+* XPS 파일에서 직접 마케팅 브로셔 및 기술 매뉴얼 인쇄.
+
+* 법적이거나 재무 보고서의 정확한 페이지 레이아웃 보존.
+
+* 일괄 문서 출력을 위한 효율적인 인쇄 워크플로우.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 대규모 인쇄 작업을 위한 일괄 XPS-to-PCL 변환.
+
+* 자동화된 워크플로우를 위한 인쇄 관리 시스템 통합.
+
+* 반복 보고 및 문서 인쇄를 위한 예약 변환.
+
+* 효율적인 기업 문서 처리 파이프라인.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

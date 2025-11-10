@@ -144,7 +144,55 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **ODT (OpenDocument Text)** memungkinkan pengguna LaTeX untuk menghasilkan dokumen standar terbuka yang kompatibel dengan LibreOffice, OpenOffice, dan suite kantor lainnya, memastikan aksesibilitas dan kolaborasi lintas platform.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Pengajuan akademis dalam format dokumen terbuka.
+
+* Laporan penelitian kolaboratif dengan kompatibilitas multi-platform.
+
+* Dokumentasi proyek sumber terbuka dan manual.
+
+* Buku elektronik atau materi pengajaran berformat LaTeX untuk alat sumber terbuka.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi Batch TEX ke ODT untuk repositori universitas.
+
+* Integrasi ke dalam alur kerja penerbitan sumber terbuka.
+
+* Konversi otomatis untuk distribusi dokumentasi multi-platform.
+
+* Menghasilkan laporan ODT dinamis dari kumpulan data LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

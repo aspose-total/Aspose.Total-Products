@@ -102,7 +102,45 @@ otherformats: DIF XLTX XLSX SXC XLS XLSM XLSB EXCEL MARKDOWN XLT ODS TSV FODS MH
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POT ל-XLTM (תבנית Excel המאופשרת מאקרו) מאפשרת לארגונים לאוטומציה של יצירת גיליון אלקטרוני תוך שמירה על עיצוב ה-PowerPoint. אידיאלי ליצירת תבניות דינמיות ואינטראקטיביות לתהליכי עבודה חוזרים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* בניית תבניות Excel המאופשרות ממדדי הביצוע של PowerPoint.
+
+* אוטומציה של תבניות דוחות עם מאקרוס נתונים מוטבעים.
+
+* עיצוב דגמי תחזיות פיננסיות חוזרים.
+
+* יצירת מעקבים על ביצועים אקדמיים עם סקריפטים לאוטומציה.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* ייצור XLTM משולב בתהליכי אוטומציה של נתונים.
+
+* הטמעת תבניות גיליון עבודה המופעלות באמצעות מאקרוס בסביבת ארגון.
+
+* יצירת תבניות מתוזמנות עבור צוותי פיננסים ומשאבי אנוש.
+
+* אוטומציה של המרה עבור מחזורי דיווח חוזרים.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

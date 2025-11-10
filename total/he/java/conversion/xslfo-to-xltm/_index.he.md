@@ -102,7 +102,45 @@ otherformats: TSV FODS SXC XLT CSV EXCEL ODS MD DIF XLTX XLAM XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XSLFO ל- **XLTM (תבנית Excel עם מאקרוים מופעלים)** תומכת בחוברות עבודה חוזרות עם אוטומציה מוטמעת. תבניות XLTM מקלות על דיווחים חוזרים ועל זרימות עבודה מתקדמות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* תקנות דוחות XSLFO עם מאקרוס מוטמעים לאוטומציה.
+* הפצת תבניות דיווח אינטראקטיביות בין מחלקות.
+* הכנת תבניות לדגמאות פיננסיות חוזרות מ-XSLFO.
+* יצירת תבניות לוח בקרה מאוטומטיות מנתוני XSLFO טבלאיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת תבניות XLTM בצורה צפופה לדיווח תאגידי.
+* שילוב עם זרימות עבודה VBA אוטומטיות.
+* המרת XSLFO ל-XLTM מתוזמנת לדיווחי פרויקט חוזרים.
+* יצירת תבנית XLTM בעקבות טריגר לדשבורדים אנליטיים המופעלים במאקרוס.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

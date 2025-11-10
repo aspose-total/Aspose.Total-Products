@@ -135,7 +135,55 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter arquivos TEX para **ODP (OpenDocument Presentation)** permite que conteúdo LaTeX, fórmulas e tabelas sejam transformados em slides de apresentação de código aberto compatíveis com o LibreOffice e o OpenOffice. Ideal para acadêmicos e engenheiros compartilharem pesquisas baseadas em LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Palestras acadêmicas com equações geradas em LaTeX.
+
+* Apresentações de projetos de código aberto com dados estruturados.
+
+* Slides de conferências sobre temas de matemática, física ou engenharia.
+
+* Materiais de ensino com diagramas interativos baseados em LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de TEX para ODP para material didático ou treinamento.
+
+* Geração programada de slides a partir de repositórios de pesquisas em LaTeX.
+
+* Integração em pipelines de apresentação de código aberto.
+
+* Atualizações acionadas para decks de slides acadêmicos com vários autores.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

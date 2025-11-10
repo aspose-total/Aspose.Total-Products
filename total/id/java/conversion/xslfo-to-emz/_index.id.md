@@ -57,7 +57,51 @@ Menggunakan API, Anda juga dapat memutar gambar EMZ keluaran sesuai kebutuhan An
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **EMZ (Enhanced Windows Metafile Compressed)** memungkinkan grafis vektor berkualitas tinggi dengan kompresi, ideal untuk slide decks dan visual siap cetak.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Kunci" %}}
+
+
+
+* Mengekspor tabel XSLFO sebagai grafis yang dapat diskalakan untuk presentasi.
+
+* Menanamkan visual keuangan atau operasional dalam slide decks.
+
+* Membuat gambar arsip untuk dashboard pelaporan.
+
+* Menyiapkan visual untuk alur kerja penerbitan desktop.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch terjadwal dari laporan XSLFO ke EMZ.
+
+* Integrasi ke dalam alur kerja pelaporan otomatis.
+
+* Penciptaan terpicu dari gambar EMZ untuk penyisipan slide.
+
+* Konversi real-time dari dashboard XSLFO ke visual vektor terkompresi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

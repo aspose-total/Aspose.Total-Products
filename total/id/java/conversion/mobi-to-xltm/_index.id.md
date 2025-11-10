@@ -61,7 +61,47 @@ Setelah mengonversi MOBI ke XLTM, [Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file MOBI ke XLTM (Template Excel yang Diaktifkan Makro) menggabungkan otomatisasi dan standarisasi. Ini memungkinkan penggunaan kembali, template yang didorong makro untuk mengelola dan menganalisis data MOBI.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+- Template siap makro untuk analisis eBook otomatis.
+
+- Tata letak laporan yang dapat dikonfigurasi untuk konversi MOBI.
+
+- Dasbor yang didorong oleh template untuk penerbitan digital.
+
+- Lingkungan Excel yang disederhanakan untuk laporan yang dapat diulang.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+- Impor batch MOBI menggunakan makro XLTM.
+
+- Generasi XLTM dinamis dalam pipa penerbitan.
+
+- Integrasi dengan otomatisasi VBA untuk analitika.
+
+- Distribusi template XLTM yang di-hosting di cloud untuk tim.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

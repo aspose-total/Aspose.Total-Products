@@ -61,7 +61,45 @@ Saat mengonversi file POT ke XLTM, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi POT menjadi XLTM (Template Excel yang Diaktifkan Makro) memungkinkan perusahaan mengotomatisasi pembuatan spreadsheet sambil mempertahankan desain PowerPoint. Ideal untuk membuat template dinamis dan interaktif untuk alur kerja berulang.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Membangun template Excel yang diaktifkan makro dari KPI PowerPoint.
+
+* Mengotomatisasi template laporan dengan makro data tersemat.
+
+* Mendesain model peramalan keuangan yang dapat diulang.
+
+* Membuat pelacak kinerja akademik dengan skrip otomatisasi.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Generasi XLTM terintegrasi ke dalam alur kerja otomatisasi data.
+
+* Implementasi perusahaan dari template spreadsheet yang didorong makro.
+
+* Pembuatan template terjadwal untuk tim keuangan dan SDM.
+
+* Otomatisasi konversi untuk siklus pelaporan yang dapat diulang.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

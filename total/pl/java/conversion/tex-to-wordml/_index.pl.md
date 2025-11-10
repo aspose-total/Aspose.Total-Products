@@ -143,7 +143,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **WordML (format XML Microsoft Word)** sprawia, że zawartość LaTeX staje się w pełni kompatybilna z dokumentami opartymi na XML w programie Word, umożliwiając zautomatyzowane przepływy pracy, walidację treści i integrację z systemami przedsiębiorstwa.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Generowanie raportów naukowych opartych na XML z źródeł LaTeX.
+
+* Przepływy pracy dokumentacji przedsiębiorstwa z użyciem strukturalnego WordML.
+
+* Współpraca wielu autorów z automatycznym łączeniem treści.
+
+* Publikowanie materiałów akademickich lub technicznych opartych na XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczne generowanie dokumentów WordML z repozytoriów LaTeX.
+
+* Integracja z systemami zarządzania treścią przedsiębiorstwa.
+
+* Wywoływane eksporty XML dla publikacji badawczych na dużą skalę.
+
+* Przetwarzanie wsadowe do raportowania zgodności i składania prac akademickich.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

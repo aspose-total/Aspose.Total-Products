@@ -57,7 +57,51 @@ Met behulp van de API kunt u ook de uitgevoerde JPEG2000-afbeelding roteren volg
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het converteren van TEX naar **JPEG2000** levert hoogwaardige, gecomprimeerde LaTeX visuals op die geschikt zijn voor archivering, professionele publicatie en webtoepassingen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke Gebruiksscenario's" %}}
+
+
+
+* Archiveren van hoogwaardige LaTeX plots voor onderzoeksartikelen.
+
+* Wetenschappelijke diagrammen voor online publicatie met minimaal kwaliteitsverlies.
+
+* Gecomprimeerde academische figuren delen over verschillende platforms.
+
+* Hoogwaardige LaTeX visuals voor lesmateriaal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde batchconversie voor onderzoeksrepositories.
+
+* Integratie in academische publicatiepijplijnen.
+
+* Getriggerde generatie van JPEG2000 voor web- of printdistributie.
+
+* Continue archivering van LaTeX figuren in gecomprimeerde formaten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

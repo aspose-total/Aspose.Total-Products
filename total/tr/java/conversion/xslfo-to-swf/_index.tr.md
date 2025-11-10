@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **SWF (Flash)** 'e dönüştürülmesi, eski panolar ve web uygulamaları için etkileşimli animasyonları mümkün kılar. SWF, vektör grafiklerini korur ve zaman çizelgesi tabanlı etkileşimlere izin verir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Eski web portalına etkileşimli XSLFO grafiklerinin gömülmesi.
+
+* Tarihi iç ağ sistemleri için animasyonlu panoların hazırlanması.
+
+* Eğitim modüllerinin çevrimdışı kullanım için SWF'ye dönüştürülmesi.
+
+* Uyumluluk amaçları için etkileşimli XSLFO görselleştirmelerinin arşivlenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Eski sistemler için zamanlanmış XSLFO'dan SWF'ye dönüştürme.
+
+* Animasyonlu panoların toplu oluşturulması.
+
+* Web tabanlı eski uygulamalar için tetiklenmiş üretim.
+
+* Otomatik etkileşimli rapor akışlarıyla entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

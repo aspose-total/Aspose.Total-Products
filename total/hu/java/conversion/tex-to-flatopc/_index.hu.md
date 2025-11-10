@@ -144,7 +144,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok átalakítása **FLATOPC (Flat Open Packaging Conventions)** formátumra lehetővé teszi a LaTeX tartalom, beleértve a képleteket és táblázatokat, egyetlen XML-alapú fájlba való mentését, amely teljes mértékben kompatibilis az Office Open XML szabványokkal.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* LaTeX dokumentumok archiválása szabványosított XML formátumban.
+
+* Strukturált tartalom és formázás megőrzése vállalati alkalmazásokhoz.
+
+* Bonyolult tudományos vagy műszaki jelentések megosztása egyetlen csomagfájl formájában.
+
+* LaTeX által generált táblázatok és egyenletek fenntartása platformfüggetlen használatra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges TEX-FLATOPC átalakítás kutatási adattárolókhoz.
+
+* Integráció automatizált dokumentumkezelő rendszerekbe.
+
+* Kiváltott FLATOPC generálás együttműködési munkafolyamatokhoz.
+
+* Időzített archiválás LaTeX tartalom XML-alapú formátumokban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

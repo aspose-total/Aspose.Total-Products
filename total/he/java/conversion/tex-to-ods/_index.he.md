@@ -102,7 +102,51 @@ otherformats: CSV FODS TXT XLTX EXCEL XLAM XLSB MD DIF XLT SXC XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל-**ODS (OpenDocument Spreadsheet)** מאפשרת למשתמשים להשתמש בתוכן LaTeX בגיליונות נתונים ניתנים לעריכה לצורך ניתוח ופרויקטים שיתופיים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* מחקר אקדמי עם טבלאות מורכבות מספרים.
+
+* גיליונות נתונים פיננסיים או למעקב אחר פרויקטים בקוד פתוח.
+
+* חישובים הנדרשים תאימות מרובת פלטפורמות בתחום ההנדסה.
+
+* שיתוף טבלאות LaTeX ב-ODS לפרויקטי חינוך שיתופיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרות מספר רב של קבצי TEX ל-ODS עבור מעבדות אוניברסיטאיות.
+
+* שילוב בצינורות נתונים בקוד פתוח.
+
+* דיווח אוטומטי של נתונים מספריים שנוצרו באמצעות LaTeX.
+
+* יצירת ODS מופעלת עבור סביבות משתמשים מרובות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

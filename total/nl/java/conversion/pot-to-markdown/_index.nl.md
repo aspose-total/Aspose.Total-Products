@@ -61,7 +61,45 @@ Tijdens het converteren van een POT-bestand naar MARKDOWN, kunt u ook een waterm
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van POT naar MARKDOWN stelt docenten, ontwikkelaars en professionals in staat om PowerPoint-presentaties om te zetten in lichtgewicht, webklare documentatie. De eenvoud van Markdown zorgt voor gemakkelijke samenwerking en versiebeheer in contentprojecten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het omzetten van PowerPoint-slides naar op Markdown gebaseerd cursusmateriaal.
+
+* Marketingpresentaties omzetten naar blogklare documentatie.
+
+* Technische rapporten voor Git-gebaseerde documentatiesystemen voorbereiden.
+
+* Ontwikkelaarsdocumentatie maken van bedrijfstraining decks.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* Markdown-generatie vanuit PowerPoint-templates in documentatieworkflows.
+
+* Integratie met statische sitegeneratoren zoals Hugo of Jekyll.
+
+* Geautomatiseerde samenvatting van presentaties naar Markdown-notities.
+
+* Kennisbeheer met versiebeheer met behulp van Markdown-output.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

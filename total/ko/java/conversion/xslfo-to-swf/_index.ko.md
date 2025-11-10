@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **SWF (플래시)**로 변환하면 레거시 대시보드 및 웹 애플리케이션을 위한 대화형 애니메이션을 만들 수 있습니다. SWF는 벡터 그래픽을 보존하고 타임라인 기반 상호작용을 허용합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 레거시 웹 포털에 대화형 XSLFO 차트 임베딩.
+
+* 역사적인 인트라넷 시스템용 애니메이션 대시보드 준비.
+
+* 오프라인 사용을 위해 SWF로 교육 모듈 변환.
+
+* 규정 준수 목적으로 대화형 XSLFO 시각화 아카이빙.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 레거시 시스템용 예약된 XSLFO-to-SWF 변환.
+
+* 애니메이션 대시보드의 일괄 생성.
+
+* 웹 기반 레거시 앱을 위한 트리거 생성.
+
+* 자동화된 대화형 보고서 파이프라인과의 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

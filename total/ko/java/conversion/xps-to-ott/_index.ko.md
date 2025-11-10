@@ -129,7 +129,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **OTT (OpenDocument Text Template)**으로 변환하면 정적 XPS 파일을 LibreOffice 및 OpenOffice 사용자를 위한 재사용 가능한 템플릿으로 변환하여 오픈 포맷의 표준화된 워크플로 문서에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 학생과 교사를 위한 학술 및 교육 자료 템플릿.
+
+* 보고서 및 제안을 위한 NGO 프로젝트 템플릿.
+
+* 기업 문서용 표준 오픈 소스 템플릿.
+
+* 브로셔 및 뉴스레터를 위한 창의적인 콘텐츠 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XPS 저장소에서 OTT 템플릿의 일괄 생성.
+
+* 오픈 소스 워크플로 자동화 도구와의 통합.
+
+* 조직 데이터로 템플릿 자동 채우기.
+
+* 크로스 플랫폼 문서 작성 프로세스 간소화.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

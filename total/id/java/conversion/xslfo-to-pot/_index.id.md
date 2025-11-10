@@ -135,7 +135,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file XSLFO ke **POT (PowerPoint Template)** memungkinkan slide yang dapat standar dan dapat digunakan ulang untuk pengguna Microsoft PowerPoint. Template POT menjaga tata letak slide, gaya, dan format tabel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Membuat template pelaporan perusahaan dari ringkasan keuangan XSLFO.
+
+* Menyiapkan slide pelacakan proyek bulanan untuk presentasi yang konsisten.
+
+* Mendesain modul pelatihan dari data XSLFO yang terstruktur.
+
+* Menghasilkan deck pitch investor yang dapat digunakan ulang dengan tata letak slide yang telah ditentukan sebelumnya.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi otomatis batch file POT dari laporan XSLFO.
+
+* Pembuatan template terjadwal untuk presentasi tim yang berulang.
+
+* Integrasi dengan jalur otomatisasi slide perusahaan.
+
+* Konversi data XSLFO menjadi template POT yang siap digunakan secara terpicu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

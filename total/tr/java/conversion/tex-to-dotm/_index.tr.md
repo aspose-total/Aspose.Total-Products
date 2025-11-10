@@ -143,7 +143,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX dosyalarını **DOTM (Word Macro-Enabled Template)** dosyalarına dönüştürmek, makro işlevselliğine sahip tekrar kullanılabilir şablonlar sağlar. Otomatik iş akışları için ideal olan bu dönüşüm, LaTeX'in hassas dizgi yeteneklerini Word'ün otomasyon yetenekleriyle birleştirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Akademik dergiler için otomatik gönderim şablonları.
+
+* Dinamik içerik oluşturma yeteneğine sahip tekrar kullanılabilir teknik rapor şablonları.
+
+* Laboratuvar veya araştırma veri girişi için makro işlevli formlar.
+
+* Çoklu yazar işbirlikleri için LaTeX destekli Word şablonları oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* LaTeX giriş akışlarından tetiklenen gerçek zamanlı belge oluşturma.
+
+* Word tabanlı kurumsal belge otomasyon boru hatlarına entegrasyon.
+
+* İşbirlikçi araştırma projeleri için toplu şablon güncellemeleri.
+
+* Mühendislik ekipleri için makro işlevli proje belgeleri oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

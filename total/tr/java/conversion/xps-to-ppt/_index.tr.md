@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **PPT'ye (PowerPoint 97-2003)** dönüştürmek, eski Microsoft Office sürümleriyle geriye dönük uyumluluğu sağlar ve düzenlenebilir slaytları, metinleri ve temel biçimlendirmeyi korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Eski Ofis sürümleriyle uyumlu eski kurumsal sunumlar.
+
+* Arşiv ve tarihsel slayt desteği koruma.
+
+* Eski yazılım kullanan kurumlar için eğitim içeriği.
+
+* Farklı sürüm ortamlarında iç raporlama ve eğitim sunumları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XPS dosyalarının toplu olarak PPT'ye dönüştürülmesi için kurumsal arşivler.
+
+* Geriye dönük uyumlu sunumların zamanlanmış otomatik oluşturulması.
+
+* Eski belge iş akışlarıyla entegrasyon.
+
+* Birden fazla Ofis sürümünde hızlı slayt desteği oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

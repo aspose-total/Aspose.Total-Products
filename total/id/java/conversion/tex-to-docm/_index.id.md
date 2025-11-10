@@ -144,7 +144,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file TEX ke **DOCM (Word Macro-Enabled Document)** memungkinkan integrasi yang mulus antara konten LaTeX dengan makro Word canggih. Ini sangat berguna bagi peneliti akademis dan insinyur yang memerlukan pembuatan laporan otomatis dengan tabel dinamis, rumus, dan konten interaktif.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Kunci" %}}
+
+
+
+* Mengotomatisasi laporan penelitian berat LaTeX di Microsoft Word.
+
+* Menanamkan persamaan matematika kompleks untuk dokumentasi rekayasa.
+
+* Membuat template laboratorium interaktif dengan makro untuk hasil yang dapat direproduksi.
+
+* Kompilasi tesis akademis dengan referensi silang dan penomoran otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch TEX ke DOCM dalam sistem manajemen dokumen institusi.
+
+* Generasi jurnal ilmiah yang didorong oleh makro dari repositori LaTeX.
+
+* Integrasi ke dalam otomatisasi alur kerja untuk penerbitan teknis.
+
+* Dasbor penelitian yang diperbarui secara otomatis yang menggabungkan konten LaTeX dengan makro Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

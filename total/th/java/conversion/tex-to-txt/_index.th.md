@@ -47,7 +47,51 @@ otherformats: TXT EXCEL XLAM FODS XLSB TSV XLT XLTM XLSM DIF SXC ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **TXT (Plain Text)** ให้รูปแบบที่อ่านง่ายและใช้ได้ทั่วไปสำหรับเนื้อหา LaTeX มีประโยชน์สำหรับการเก็บรักษาข้อมูลอย่างเบา การแบ่งปันอย่างรวดเร็ว และการประมวลผลข้อความ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* สกัดเนื้อหา LaTeX สำหรับการค้นหาและวิเคราะห์ที่เป็นข้อความ
+
+* แบ่งปันบันทึกหรือตาราง LaTeX ในรูปแบบข้อความที่เรียบง่าย
+
+* เอกสารเบาสำหรับโครงการสคริปต์หรือการเขียนโค้ด
+
+* เตรียมเนื้อหา LaTeX สำหรับการกระจายอีเมล์ในรูปแบบข้อความ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลงไฟล์ LaTeX เป็น TXT แบบกลุ่มสำหรับการเก็บถาวร
+
+* การรวมเข้ากับกระบวนการทำงานข้อความอัตโนมัติ
+
+* การสร้างข้อความ TXT จากที่เก็บข้อมูล LaTeX โดยเรียกใช้
+
+* การส่งออกตามกำหนดเวลาสำหรับเอกสาร LaTeX เบา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

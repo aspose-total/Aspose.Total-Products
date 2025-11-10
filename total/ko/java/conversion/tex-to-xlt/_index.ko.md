@@ -47,7 +47,51 @@ TEX 파일을 XLT로 변환하는 동안 출력 XLT 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+텍스트를 **XLT(Excel 템플릿)**으로 변환하면 LaTeX 기반 데이터가 프로젝트, 분석 및 학술 작업용 재사용 가능한 Excel 템플릿을 형성할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 연구 팀을 위한 표준화된 보고서 템플릿.
+
+* LaTeX 테이블을 기반으로 하는 재사용 가능한 금융 모델.
+
+* LaTeX 수식이 포함된 학점 계산 시트.
+
+* 공학 프로젝트 추적 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* LaTeX에서 Excel 템플릿 일괄 생성.
+
+* 기업 또는 학술 템플릿 저장소 통합.
+
+* XLT 템플릿에서의 자동화된 LaTeX 데이터 채우기.
+
+* 다중 사용자 환경을 위한 예약된 템플릿 업데이트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

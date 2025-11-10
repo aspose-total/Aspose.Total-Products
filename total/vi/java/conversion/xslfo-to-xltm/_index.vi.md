@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp XSLFO sang XLTM, bạn cũng có thể thêm hì
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO thành **XLTM (Mẫu Excel Kích hoạt Macro)** hỗ trợ các bảng tính có thể tái sử dụng với tự động hóa nhúng. Các mẫu XLTM giúp tối ưu hóa báo cáo lặp đi lặp lại và quy trình làm việc tiên tiến.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tiêu chuẩn hóa báo cáo XSLFO với macro nhúng để tự động hóa.
+
+* Phân phối các mẫu báo cáo tương tác trên các bộ phận.
+
+* Chuẩn bị các mẫu mô hình tài chính có thể tái sử dụng từ XSLFO.
+
+* Tạo các mẫu bảng điều khiển tự động từ dữ liệu XSLFO dạng bảng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo hàng loạt các mẫu XLTM cho báo cáo doanh nghiệp.
+
+* Tích hợp với quy trình làm việc VBA tự động.
+
+* Chuyển đổi XSLFO thành XLTM theo lịch trình cho các báo cáo dự án định kỳ.
+
+* Tạo mẫu XLTM kích hoạt cho bảng điều khiển phân tích dữ liệu dựa trên macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

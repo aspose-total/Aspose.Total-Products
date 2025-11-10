@@ -105,7 +105,51 @@ otherformats: WMZ WMF EMZ DXF IMAGE JPEG2000 APNG TGA SVGZ PSD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל- **DICOM (תקשורת דיגיטלית ברפואה)** מאפשרת להטביע תרשימי LaTeX טכניים ומדעיים בזרימות עבודה בתחום התמונות הרפואיות ובתיעוד מחקר.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* שילוב של תרשימי LaTeX בדוחות תמונות רפואיות.
+
+* תיעוד של מחקר ביורפואי עם תוכן מבוסס LaTeX מובנה.
+
+* ויזואליזציה של נתונים אנטומיים באמצעות גרפיקה שנוצרה באמצעות LaTeX.
+
+* פרסום סכמות מבוססות LaTeX במחקר ברדיולוגיה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה אוטומטית בצפי לארכיונים של תמונות בבתי חולים.
+
+* שילוב בזרימות עבודה במחקר רפואי.
+
+* עיבוד TEX ל-DICOM המופעל על ידי תכנון למחקרים קליניים.
+
+* ייצוא של תרשימי LaTeX לאבחון ממוחשב מוסף.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,63 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh DICOM đầu ra theo nhu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XPS thành **DICOM (Hình ảnh số và Liên lạc trong Y học)** cho phép tích hợp hình ảnh tài liệu vào hệ thống hình ảnh y học, bảo tồn chi tiết độ phân giải cao cho các ứng dụng lâm sàng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Nhúng báo cáo y học vào quy trình hình ảnh chẩn đoán hình ảnh.
+
+
+
+* Lưu trữ tài liệu chẩn đoán cùng với quét bệnh nhân.
+
+
+
+* Hệ thống bệnh viện yêu cầu tính tương thích DICOM cho báo cáo.
+
+
+
+* Nền tảng y tế từ xa tích hợp hình ảnh tài liệu lâm sàng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi XPS thành DICOM hàng loạt cho hệ thống hồ sơ bệnh viện.
+
+
+
+* Tích hợp tự động với PACS (Hệ thống Lưu trữ và Truyền thông Hình ảnh).
+
+
+
+* Cập nhật theo lịch cho hình ảnh hồ sơ bệnh nhân.
+
+
+
+* Quy trình làm việc mạch lạc cho xử lý dữ liệu hình ảnh y học.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

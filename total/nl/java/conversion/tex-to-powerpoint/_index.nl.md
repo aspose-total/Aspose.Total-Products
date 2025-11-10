@@ -135,7 +135,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **POWERPOINT (PPT/PPTX)** levert volledig bewerkbare presentaties op met LaTeX-vergelijkingen, tabellen en diagrammen, ideaal voor professionele en academische dia's.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Universitaire colleges met complexe wiskundige inhoud.
+
+* Presentaties voor technisch en wetenschappelijk onderzoek.
+
+* Bedrijfsprojectpresentaties met LaTeX-tabellen.
+
+* Interactieve dia's voor workshops en seminars.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch LaTeX-naar-PowerPoint conversie voor cursusmateriaal.
+
+* Integratie in geautomatiseerde presentatiepijplijnen.
+
+* Geactiveerde dia-generatie voor onderzoeks- of projectrapporten.
+
+* Samenwerking tussen meerdere auteurs met LaTeX-naar-PPT conversieworkflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

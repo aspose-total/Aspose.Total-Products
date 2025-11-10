@@ -47,7 +47,55 @@ Saat mengonversi file TEX ke XLSM, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **XLSM (Excel Macro-Enabled Workbook)** memungkinkan kumpulan data LaTeX berinteraksi dengan makro Excel canggih untuk otomatisasi, analisis, dan pelaporan dinamis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Dasbor dinamis dengan data yang dihasilkan oleh LaTeX.
+
+* Perhitungan otomatis dan templat pelaporan untuk riset.
+
+* Pelaporan akademis atau korporat yang diaktifkan makro.
+
+* Laporan teknik dan keuangan dengan rumus-rumus kompleks.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch LaTeX ke XLSM untuk alur kerja otomatis.
+
+* Integrasi ke dalam sistem pelaporan makro perusahaan.
+
+* Pembaruan yang dipicu untuk buku kerja XLSM kolaboratif.
+
+* Pembuatan makro Excel otomatis dari kumpulan data LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

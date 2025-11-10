@@ -100,7 +100,51 @@ otherformats: PPSX PPTX PPT PPTM PPS POWERPOINT POT POTX POTM PPSM CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי TXT (טקסט פשוט) לפורמט **ODP (OpenDocument Presentation)** מאפשרת המרה חלקה של דוחות טקסטואליים גולמיים למצגות ממויינות, אידיאליות לפגישות עסקיות והצגות שיתופיות. פורמט ODP מבטיח תאימות בכלי העבודה המבוססים על קוד פתוח כמו LibreOffice, OpenOffice ואחרים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* המרת פתקי פגישות למצגות מקצועיות בפורמט ODP.
+
+* סיכומי מחקר אקדמי מומרים להצגות בכיתה.
+
+* דוחות פנימיים שמומרים לצורת מצגת לדיוני חדר ישיבות.
+
+* מודולי הכשרה שנוצרים מתיעוד מדיניות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת TXT ל-ODP באופן אוטומטי לחומרי הכשרה של ממשלת העובדים.
+
+* שילוב במערכות ניהול ידע תאומות.
+
+* המרות קבצים באצווה מתוזמנת של דוחות תפעוליים שבועיים.
+
+* יצירת מצגות ODP מיובאי יומן ניהול פרויקטים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

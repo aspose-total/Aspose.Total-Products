@@ -135,7 +135,51 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av XSLFO till **PPSX (PowerPoint Show utan makron)** producerar självkörande presentationer som är säkra att distribuera. PPSX bevarar formatering och layout samtidigt som den undviker risker med makroutförande.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* Skapa självkörande finansiella instrumentpaneler från XSLFO-data.
+
+* Dela standardiserade utbildnings- eller introduktionspresentationer.
+
+* Förbereda makrofria investerarpresentationer.
+
+* Arkivera kvartalsvisa granskningsbilder för teamomfattande distribution.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Schemalagd batchkonvertering av XSLFO till PPSX för återkommande presentationer.
+
+* Utlöst generering av makrofria bildspelspaket.
+
+* Integration i automatiserade distributionspipeliner.
+
+* Automatisk uppdatering av självkörande bilder från XSLFO-rapporter.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

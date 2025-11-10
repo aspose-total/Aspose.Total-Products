@@ -135,7 +135,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **POTX (PowerPoint Template tanpa Macros)** memastikan template yang dapat digunakan ulang, aman untuk presentasi yang berulang. POTX menjaga tata letak, format, dan tabel tanpa risiko eksekusi makro.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Menyiapkan template ulasan bulanan berbasis XSLFO untuk pengguna PowerPoint.
+
+* Membuat slide pelatihan standar tanpa makro untuk dibagikan lintas departemen.
+
+* Mengarsipkan template pelaporan keuangan triwulanan.
+
+* Menghasilkan template presentasi investor yang aman untuk distribusi eksternal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch terjadwal dari XSLFO ke template POTX.
+
+* Integrasi ke alur kerja pembuatan slide otomatis.
+
+* Penciptaan dipicu dari template presentasi bebas makro dari laporan XSLFO.
+
+* Penyebaran otomatis template POTX untuk konsistensi di seluruh tim.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

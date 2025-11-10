@@ -57,7 +57,55 @@ API를 사용하여 필요에 따라 출력 APNG 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO (Extensible Stylesheet Language Formatting Objects) 파일을 **APNG (Animated Portable Network Graphics)**으로 변환하면 구조화된 보고 데이터의 애니메이션 표현을 유지하면서 선명한 벡터 품질을 유지할 수 있습니다. APNG는 대화형 대시보드와 웹 기반 시각화에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* XSLFO로 생성된 분석 보고서의 애니메이션 차트.
+
+* 재무 또는 운영 트렌드의 대화형 시각화.
+
+* 애니메이션 테이블을 사용한 모바일 친화적 교육 콘텐츠.
+
+* 텔레메딕인이나 전자 학습 플랫폼의 동적 슬라이드.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 웹 애플리케이션을 위한 XSLFO 대시보드의 APNG 일괄 변환.
+
+* 실시간 데이터 시각화 파이프라인 통합.
+
+* 보고 도구를 위한 애니메이션 그래픽의 예약 생성.
+
+* 자동화된 워크플로에서 XSLFO로부터 트리거된 APNG 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

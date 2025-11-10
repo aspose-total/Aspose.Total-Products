@@ -47,7 +47,55 @@ TEX dosyasını CSV'ye dönüştürürken, çıktı CSV dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX dosyalarını **CSV (Virgülle Ayrılmış Değerler)** dosyalarına dönüştürmek, LaTeX belgelerini elektronik tablolara, veritabanlarına ve analitik uygulamalara dönüştürmeyi sağlar. Bu, LaTeX'te sayısal veri kümeleriyle çalışan araştırmacılar ve analistler için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX tarafından oluşturulan tabloların CSV'ye aktarılması veri analizi için.
+
+* İstatistik yazılımları ve Python/R işleme için akademik veri kümeleri.
+
+* LaTeX biçimlendirilmiş finans veya mühendislik raporlarının elektronik tablolarda incelenmesi için dönüştürülmesi.
+
+* Evrensel CSV formatında açık kaynak proje verilerinin paylaşımı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* ETL boru hatlarında toplu TEX'ten CSV'ye dönüşüm.
+
+* Araştırma makalelerinden tabloların otomatik çıkarılması.
+
+* AI destekli analitik platformlara entegrasyon.
+
+* İşbirlikçi veri kümeleri için tetiklenmiş CSV oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

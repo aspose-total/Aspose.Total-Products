@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**PPSM（マクロ有効なPowerPoint Show）**に変換すると、自動化、ダイナミックダッシュボード、またはプレゼンテーションベースのワークフローに最適なマクロを使用したインタラクティブなスライドショーが可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 計算が埋め込まれたインタラクティブな顧客向けピッチデッキ。
+
+* 自動ナビゲーションやクイズマクロを備えたトレーニングモジュール。
+
+* プレゼンテーションモードで自動的に更新される財務ダッシュボード。
+
+* 企業会議用の自動報告スライド。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 企業の自動化のためのバッチXPSからPPSMへの変換。
+
+* 動的なスライドコンテンツのためのライブデータフィードとの統合。
+
+* 定期的なプレゼンテーション用にマクロを有効にしたスライドショーのスケジュール作成。
+
+* プレゼンテーションベースの報告のための効率化された内部ワークフロー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

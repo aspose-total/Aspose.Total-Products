@@ -102,7 +102,51 @@ otherformats: CSV EXCEL XLAM FODS XLSB TSV XLT XLTM XLSM DIF SXC ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל־**TXT (טקסט פשוט)** מספקת פורמט קריא ואוניברסלי לתוכן LaTeX, השימושי לאחסון קל, שיתוף מהיר ועיבוד טקסט.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* חילוץ תוכן LaTeX לצורך חיפוש וניתוח מבוסס טקסט.
+
+* שיתוף הערות או טבלאות LaTeX בפורמט טקסט פשוט.
+
+* תיעוד קל לפרויקטי תסריט או קידוד.
+
+* הכנת תוכן LaTeX להפצה באמצעות דואר אלקטרוני בפורמט טקסט פשוט.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רציפה של קבצי LaTeX ל־TXT לצורך ארכיבה.
+
+* שילוב עם זרימות עבודה אוטומטיות לעיבוד טקסט.
+
+* יצירת TXT מתוזמנת ממאגרי LaTeX.
+
+* ייצוא מתוזמן לתיעוד LaTeX קל.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -54,7 +54,51 @@ Interfejs API umożliwia również konwersję dokumentów TXT chronionych hasłe
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików TXT (zwykły tekst) na format **ODP (OpenDocument Presentation)** umożliwia bezproblemową transformację surowych raportów tekstowych w strukturalne prezentacje slajdów, idealne na spotkania biznesowe i prezentacje współpracownicze. Format ODP zapewnia kompatybilność z pakietami biurowymi typu LibreOffice, OpenOffice i innymi pakietami produktywności typu open-source.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przekształcanie notatek ze spotkań w profesjonalne prezentacje slajdów ODP.
+
+* Podsumowania badań akademickich przekształcone w prezentacje klasowe.
+
+* Wewnętrzne raporty firmowe sformatowane do dyskusji na posiedzeniach zarządu.
+
+* Moduły szkoleniowe stworzone na podstawie dokumentacji polityki.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna konwersja TXT na ODP dla materiałów wprowadzających do pracy w dziale HR.
+
+* Integracja z systemami zarządzania wiedzą korporacyjną.
+
+* Zaplanowane konwersje partii tygodniowych raportów operacyjnych.
+
+* Wywoływane tworzenie slajdów ODP na podstawie logów zarządzania projektem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

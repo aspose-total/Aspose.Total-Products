@@ -47,7 +47,45 @@ Saat mengonversi file TEX ke XLAM, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **XLAM (Excel Add-In Macro)** memungkinkan tabel dan rumus LaTeX menjadi alat Excel interaktif dengan perhitungan otomatis dan fungsionalitas yang ditingkatkan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Template pemodelan keuangan yang didukung oleh LaTeX.
+* Alat perhitungan otomatis untuk proyek-proyek rekayasa.
+* Lembar formula akademis yang disematkan ke dalam makro Excel.
+* Dasbor pemrosesan data yang menggabungkan LaTeX dan otomatisasi Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Pembuatan otomatis add-in XLAM dari kumpulan data LaTeX.
+* Konversi batch LaTeX ke XLAM untuk alat perusahaan.
+* Spreadsheet yang diaktifkan makro dari repositori penelitian.
+* Integrasi ke dalam pelaporan otomatis dan pipeline dasbor.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

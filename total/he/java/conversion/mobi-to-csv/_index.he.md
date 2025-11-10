@@ -102,7 +102,47 @@ otherformats: FODS XLSB XLS XLAM EXCEL XLSX ODS TSV SXC DIF XLTX XLTM XLSM XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי MOBI (ספר אלקטרוני של Mobipocket) לתבנית CSV (ערכים מופרדים בפסיקים) מאפשרת חילוץ מובנה של מידע טקסטואלי ומטה-נתונים מספרי ספרים דיגיטליים. התאימות האוניברסלית של CSV הופכת אותו לאידיאלי עבור תחום השימוש בתוכן המבוסס נתונים וניהול קטלוגים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+- המרת ספרי ספרי MOBI למסדי נתונים CSV שניתנים למיון.
+
+- חילוץ מידע על כותב, כותרת וז'אנר ללוחות מחוונים לפרסום.
+
+- ניהול אוספי ספרים אלקטרוניים בתוך כלי CRM או מלאי.
+
+- ייבוא מטה-נתונים של ספרים אלקטרוניים למערכות ניתוח והמלצה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+- צינורות המרה אוטומטיים לחילוץ מטה-נתונים בצובר לספרי MOBI.
+
+- שילוב במערכות ETL לאגירת נתוני ספרייה.
+
+- סנכרון תקופתי עם אחסון בענן וניתוח מבוסס CSV.
+
+- קטגוריזציה של ספרים אלקטרוניים מופעלת על ידי AI באמצעות פלט CSV מובנה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

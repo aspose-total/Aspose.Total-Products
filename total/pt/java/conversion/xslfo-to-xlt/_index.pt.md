@@ -47,7 +47,55 @@ Ao converter o arquivo XSLFO para XLT, você também pode adicionar marca d'águ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter XSLFO para **XLT (Modelo do Excel)** permite a criação de modelos de planilha reutilizáveis com formatação e estilos predefinidos. O XLT é perfeito para padronizar relatórios recorrentes de fontes XSLFO.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Preparar modelos de fatura padronizados baseados em XSLFO.
+
+* Criar modelos de relatórios de projeto para uso repetido.
+
+* Arquivar painéis mensais como modelos de Excel reutilizáveis.
+
+* Distribuir modelos de relatórios de KPI corporativos gerados a partir de XSLFO.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Geração automatizada de modelos XLT a partir de relatórios XSLFO.
+
+* Integração com pipelines de relatórios recorrentes.
+
+* Conversão agendada para modelos departamentais padronizados.
+
+* Geração acionada de modelos de Excel para relatórios consistentes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

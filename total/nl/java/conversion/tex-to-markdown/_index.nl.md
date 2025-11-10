@@ -143,7 +143,55 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **MARKDOWN** transformeert LaTeX-documenten in lichtgewicht, leesbare tekst met Markdown-syntaxis, ideaal voor webpublicatie, documentatie en versiebeheerworkflows.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Omzetten van academische aantekeningen en rapporten voor online blogs.
+
+* Technische documentatie met LaTeX-formules in Markdown-vriendelijke syntaxis.
+
+* Samenwerking bij het bewerken in GitHub- of GitLab-opslagplaatsen.
+
+* Publiceren van LaTeX-onderzoeksamenvattingen op webgebaseerde platforms.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch TEX-naar-Markdown conversie voor documentatiepijplijnen.
+
+* Integratie met statische sitegeneratoren (bijv. Hugo, Jekyll).
+
+* Getriggerde generatie voor educatieve contentplatforms.
+
+* Geplande conversie voor continue LaTeX-naar-webpublicatie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

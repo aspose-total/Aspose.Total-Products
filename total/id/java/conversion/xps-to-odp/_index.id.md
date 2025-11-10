@@ -121,7 +121,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file XPS (XML Paper Specification) ke **ODP (OpenDocument Presentation)** memungkinkan pengguna untuk membuat presentasi yang sepenuhnya dapat diedit, kompatibel dengan LibreOffice dan OpenOffice. ODP mempertahankan tata letak, teks, dan gambar sambil mendukung alur kerja kolaboratif.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Slide kuliah pendidikan untuk lembaga akademik.
+
+* Presentasi LSM atau pemerintah yang memerlukan format terbuka.
+
+* Briefing proyek tim dan laporan kemajuan.
+
+* Presentasi pemasaran atau kampanye untuk platform open-source.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch arsip XPS ke ODP untuk platform pendidikan.
+
+* Integrasi dengan alat alur kerja untuk generasi slide otomatis.
+
+* Pembaruan terjadwal konten presentasi berulang.
+
+* Kolaborasi yang efisien di berbagai suite kantor yang berbeda.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

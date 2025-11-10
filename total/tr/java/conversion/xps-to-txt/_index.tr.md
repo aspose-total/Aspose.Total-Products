@@ -47,7 +47,55 @@ XPS dosyasını TXT'ye dönüştürürken, çıktı TXT dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS'i **TXT (Düz Metin)** formatına dönüştürmek, maksimum uyumluluk, düzenleme kolaylığı ve betiklerde, veritabanlarında veya analizlerde kullanım için ham metin içeriğini çıkarır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Metin analitiği veya duygu analizi için metinsel verilerin çıkarılması.
+
+* Doğal dil işleme (NLP) projeleri için içerik hazırlama.
+
+* Belge içeriğinin hızlı düzenlenmesi veya yeniden amaçlanması.
+
+* Metinsel içeriğin hafif, evrensel olarak okunabilir bir formatta arşivlenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* XPS içeriğinin işlenmesi için TXT'ye otomatik toplu çıkarma.
+
+* Metin madenciliği ve analizi için veri akışlarıyla entegrasyon.
+
+* Tekrarlayan raporlar için düz metin sürümlerinin zamanlanmış oluşturulması.
+
+* Büyük XPS arşivlerinden metin çıkarma için akışkan iş akışı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

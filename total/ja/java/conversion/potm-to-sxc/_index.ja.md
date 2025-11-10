@@ -61,7 +61,51 @@ POTMファイルをSXCに変換するときに、出力SXCファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTMからSXCへの変換により、レガシースプレッドシートファイルが生成されます。この形式は古いオフィススイートとの互換性を保つために役立ち、歴史的なプレゼンテーションデータを引き続き分析できるようにします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* レガシーシステム向けにスライドベースの財務表をSXCに移行する。
+
+* 古いオフィスソフトウェアを使用している組織のためのプロジェクトレポートの変換。
+
+* 逆互換性のあるスプレッドシート形式で数値スライドコンテンツをアーカイブする。
+
+* 旧バージョンのアプリケーションを使用するチームとプレゼンテーションテーブルを共有する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* POTMテンプレートをSXCに一括変換してアーカイブする。
+
+* レガシーレポーティングシステムとの統合。
+
+* 歴史的データ保存のためのトリガー付きSXC生成。
+
+* 自動化されたスライドからレガシースプレッドシートへのワークフロー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力IMAGE画像を回転させるこ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**画像（汎用ラスターフォーマット）**に変換すると、Web、印刷、デスクトップアプリケーション向けに多目的な出力が可能になります。必要に応じて、対応するフォーマットにはPNG、BMP、またはTIFFが含まれることがあります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 構造化されたXSLFOテーブルから静的なビジュアルを生成する。
+
+* レポートダッシュボードやドキュメント用のグラフィックの準備。
+
+* モバイルアプリやeラーニング向けにチャートやテーブルをエクスポートする。
+
+* 定期的なレポートのラスタライズされたアーカイブを作成する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XSLFOレポートを複数の画像形式にバッチ変換する。
+
+* 自動化されたダッシュボード生成パイプラインとの統合。
+
+* スケジュールされたレポート配信のためのトリガー付きエクスポート。
+
+* eラーニングやWebプラットフォーム向けの自動画像生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

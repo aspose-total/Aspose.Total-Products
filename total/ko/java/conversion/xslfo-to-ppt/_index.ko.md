@@ -135,7 +135,55 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **PPT(레거시 PowerPoint 형식)**으로 변환하면 오래된 Microsoft Office 버전과 호환되면서 표 및 슬라이드 레이아웃을 보존할 수 있습니다. PPT는 아직 레거시 도구를 사용하는 조직에 적합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 레거시 기업 시스템용 XSLFO로 생성된 슬라이드 준비.
+
+* PPT 형식으로 교육 또는 훈련 콘텐츠 공유.
+
+* 감사 목적을 위해 자체 포함된 슬라이드 아카이빙.
+
+* XSLFO 보고서를 쉽게 배포 가능한 레거시 PowerPoint 파일로 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XSLFO에서 PPT 슬라이드로 일괄 자동 변환.
+
+* 반복되는 관리 또는 교육 보고서를 위한 예약된 내보내기.
+
+* 레거시 오피스 기반 워크플로 파이프라인과 통합.
+
+* 아카이빙 목적을 위해 XSLFO 템플릿에서 트리거된 PPT 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

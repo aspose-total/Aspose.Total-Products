@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı APNG görüntüsünü ihtiyaçlarınıza göre de d�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO (Genişletilebilir Stil Sayfası Dili Biçimlendirme Nesneleri) dosyalarını **APNG (Animasyonlu Taşınabilir Ağ Grafikleri)** biçimine dönüştürmek, net vektör kalitesini korurken yapılandırılmış rapor verilerinin animasyonlu temsillerine olanak tanır. APNG'ler etkileşimli panolar ve web tabanlı görselleştirmeler için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* XSLFO ile oluşturulan analitik raporlardan animasyonlu grafikler.
+
+* Finansal veya operasyonel trendlerin etkileşimli görselleştirmeleri.
+
+* Animasyonlu tablolarla mobil dostu eğitim içerikleri.
+
+* Tele-tıp veya e-öğrenme platformlarında dinamik slaytlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Web uygulamaları için XSLFO panoların toplu olarak APNG'ye dönüştürülmesi.
+
+* Gerçek zamanlı veri görselleştirme boru hatlarına entegrasyon.
+
+* Raporlama araçları için zamanlanmış animasyonlu grafiklerin oluşturulması.
+
+* Otomatik iş akışlarından XSLFO'dan tetiklenen APNG oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

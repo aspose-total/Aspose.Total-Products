@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti EMZ-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XPS átalakítása **EMZ (Tömörített Windows Metafile)** formátumba lehetővé teszi a dokumentumvizuális elemek hatékony beágyazását prezentációkba, jelentésekbe vagy szoftveralkalmazásokba, miközben megőrzi a vektoros tisztaságot.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Magas minőségű grafikák beágyazása a Microsoft Office prezentációkba.
+
+* Műszaki és építészeti diagrammegosztás.
+
+* Szoftverdokumentációs illusztrációk tömörített fájlokkal.
+
+* E-learning modulok vektorpontos vizuális elemekkel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges XPS-EMZ átalakítás tartalomtárakhoz.
+
+* Integráció automatizált dokumentációs csövekkel.
+
+* Ütemezett EMZ generálás ismétlődő műszaki jelentésekhez.
+
+* Egyszerűsített grafikai feldolgozás prezentációra kész vizuális elemekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

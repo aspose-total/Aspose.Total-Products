@@ -57,7 +57,51 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh IMAGE đầu ra theo nhu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XSLFO thành **HÌNH ẢNH (Định dạng Raster Phổ biến)** cung cấp đầu ra linh hoạt cho ứng dụng web, in và desktop. Các định dạng được hỗ trợ có thể bao gồm PNG, BMP hoặc TIFF tùy thuộc vào yêu cầu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tạo hình ảnh tĩnh từ các bảng XSLFO có cấu trúc.
+
+* Chuẩn bị đồ họa cho bảng điều khiển báo cáo hoặc tài liệu.
+
+* Xuất biểu đồ và bảng cho ứng dụng di động hoặc e-learning.
+
+* Tạo bản lưu trữ raster hóa của các báo cáo định kỳ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt các báo cáo XSLFO sang nhiều định dạng hình ảnh.
+
+* Tích hợp với các đường ống tạo bảng điều khiển tự động.
+
+* Xuất báo cáo theo lịch trình.
+
+* Tạo hình ảnh tự động cho e-learning hoặc các nền tảng web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

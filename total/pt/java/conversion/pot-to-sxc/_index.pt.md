@@ -61,7 +61,45 @@ Ao converter o arquivo POT para SXC, você também pode adicionar marca d'água 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter POT para SXC (Planilha StarOffice Calc) torna possível usar dados derivados de apresentações em ambientes legados do StarOffice ou OpenOffice. Este formato continua relevante para projetos educacionais e de arquivo que exigem compatibilidade com versões anteriores.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Reprocessar conteúdo do PowerPoint para instituições que usam software mais antigo.
+
+* Criar folhas de atividades para estudantes a partir de tabelas de apresentação.
+
+* Compartilhar métricas corporativas em ferramentas de planilha de código aberto.
+
+* Arquivar análises baseadas em PowerPoint em sistemas legados.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* Fluxos de trabalho de transformação de dados legados para migração empresarial.
+
+* Extração automática de tabelas do PowerPoint para arquivos SXC.
+
+* Conversões programadas para sistemas de arquivo e acadêmicos.
+
+* Integração com plataformas de inteligência de negócios legadas.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

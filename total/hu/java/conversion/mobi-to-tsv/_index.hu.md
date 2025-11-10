@@ -61,7 +61,47 @@ A MOBI TSV-vé konvertálása után az [Aspose.Cells for Java](https://products.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A MOBI fájlok TSV formátummá alakítása (Tabulátorral elválasztott értékek) tiszta és strukturált exportálást tesz lehetővé az e-könyv adatok számára, ideális technikai csapatok, AI fejlesztők és háttér adatműveletek számára, amelyek következetes elválasztókat igényelnek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+- E-könyv metaadatok importálása relációs adatbázisokba.
+
+- Nyelvi modellek képzése strukturált MOBI adatok felhasználásával.
+
+- TSV alapú olvasási naplók létrehozása analitikai eszközök számára.
+
+- E-könyv részletek migrálása vállalati adattárházakba.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+- MOBI-to-TSV tétel feldolgozás a szövegelemzéshez.
+
+- Integráció automatizált NLP előfeldolgozási csövekbe.
+
+- Kiváltott TSV generálás adatszinkronizációk során.
+
+- Metaadat normalizálása az AI kategorizációs rendszerek számára.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

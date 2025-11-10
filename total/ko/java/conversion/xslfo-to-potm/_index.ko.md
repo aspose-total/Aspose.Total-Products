@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **POTM (매크로 활성화 PowerPoint 템플릿)**으로 변환하면 재사용 가능한 슬라이드 템플릿에 매크로를 포함할 수 있습니다. POTM은 자동화 및 상호 작용 콘텐츠가 필요한 동적 프레젠테이션에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* XSLFO 기반 계산을 프레젠테이션 매크로에 포함하기.
+
+* 슬라이드 덱에서 반복되는 프로젝트 상태 업데이트 자동화.
+
+* XSLFO 데이터 테이블에서 대화식 대시보드 생성.
+
+* 부서 간에 표준화된 POTM 템플릿 배포.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XSLFO 보고서를 자동화를 위한 POTM 템플릿으로 예약 변환.
+
+* VBA 또는 PowerPoint 자동화 워크플로와 통합.
+
+* 매크로 활성화 프레젠테이션 템플릿의 일괄 생성 트리거.
+
+* XSLFO 분석에서 POTM 템플릿 자동 업데이트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

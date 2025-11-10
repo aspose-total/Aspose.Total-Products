@@ -47,7 +47,51 @@ Ao converter o arquivo XSLFO para FODS, você também pode adicionar marca d'ág
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter arquivos XSLFO para o formato **FODS (Planilha OpenDocument Plana)** suporta suites de escritório de código aberto como o LibreOffice e o OpenOffice. FODS permite planilhas baseadas em XML leves e editáveis adequadas para ambientes colaborativos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Compartilhar planilhas de orçamento geradas por XSLFO com usuários de escritório de código aberto.
+
+* Arquivar relatórios em um formato de planilha aberto e padronizado.
+
+* Preparar planilhas de rastreamento de projetos para colaboração entre plataformas.
+
+* Converter tabelas técnicas de XSLFO em planilhas FODS editáveis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de XSLFO para FODS para pipelines de relatórios de código aberto.
+
+* Integração em sistemas de gerenciamento de documentos que suportam FODS.
+
+* Exportação agendada para painéis de projetos colaborativos.
+
+* Conversão automática de relatórios analíticos XSLFO para o formato FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

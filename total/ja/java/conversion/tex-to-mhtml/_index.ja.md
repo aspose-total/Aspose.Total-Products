@@ -144,7 +144,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**MHTML（MIME HTML）**に変換することで、LaTeXドキュメントを1つのファイルのウェブページとしてレンダリングし、数式、表、グラフをオフラインまたはオンラインで表示できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* LaTeX研究論文を自己完結型のウェブページとしてアーカイブ化。
+
+* グラフィックや数式が埋め込まれたLaTeXベースのレポートを共有。
+
+* 1つのMHTMLファイルでインタラクティブな講義資料を生成。
+
+* オフラインeラーニングモジュール用に技術コンテンツを変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* コースウェアライブラリ向けのバッチTEXからMHTMLへの変換。
+
+* 自動化されたeラーニングコンテンツ生成への統合。
+
+* LaTeXソースからの定期的なMHTML更新。
+
+* 研究論文共有のためのトリガー変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,55 @@ otherformats: SXC XLTM FODS EXCEL TSV ODS XLAM TXT XLTX XLT DIF XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **TSV (ค่าที่แยกด้วยแท็บ)** ให้รูปแบบที่เบาเบาและเหมาะสำหรับข้อมูล LaTeX ที่เป็นตัวเลขและข้อความสำหรับการวิเคราะห์และนำเข้าซอฟต์แวร์
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ตารางการทดลองทางวิชาการที่ส่งออกเพื่อวิเคราะห์ทางสถิติ
+
+* ชุดข้อมูลวิศวกรรมสำหรับ Python, R หรือ MATLAB
+
+* ตาราง LaTeX ทางการเงินที่แปลงเพื่อใช้ในแพลตฟอร์มวิเคราะห์
+
+* การแบ่งปันข้อมูล LaTeX ที่เบาเบาในทีม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง TEX เป็น TSV จำนวนมากในท่องไปของการวิจัย
+
+* การส่งออกข้อมูลตาราง LaTeX อัตโนมัติสำหรับโมเดล AI
+
+* การสร้าง TSV แบบเรียลไทม์สำหรับแดชบอร์ดวิเคราะห์ร่วมกัน
+
+* การรวมเข้ากับท่อนโอนข้อมูล ETL สำหรับชุดข้อมูลที่มีโครงสร้าง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ Saat mengonversi file TEX ke DIF, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **DIF (Format Pertukaran Data)** memastikan data tabular LaTeX dapat digunakan dengan program spreadsheet lama dan alat ilmiah khusus sambil mempertahankan struktur dan akurasi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengimpor tabel numerik berbasis LaTeX ke perangkat lunak keuangan warisan.
+
+* Berbagi perhitungan rekayasa dengan alat yang kompatibel dengan DIF.
+
+* Menjaga data terstruktur untuk publikasi akademis.
+
+* Mengarsipkan dataset LaTeX dalam format pertukaran terbuka.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi DIF batch dari data proyek LaTeX.
+
+* Integrasi ke dalam jalur data ilmiah.
+
+* Pengarsipan otomatis hasil eksperimen penelitian.
+
+* Konversi terjadwal untuk sistem pelaporan berkelanjutan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

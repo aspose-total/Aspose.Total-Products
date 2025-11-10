@@ -47,7 +47,55 @@ Durante la conversione del file XSLFO in FODS, puoi anche aggiungere una filigra
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+"""
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversione dei file XSLFO nel formato **FODS (Flat OpenDocument Spreadsheet)** supporta suite per ufficio open-source come LibreOffice e OpenOffice. FODS consente fogli di calcolo leggeri, modificabili e basati su XML adatti per ambienti collaborativi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* Condivisione di fogli di calcolo di bilancio generati da XSLFO con utenti di suite per ufficio open-source.
+
+* Archiviazione di report in un formato di foglio di calcolo aperto e standardizzato.
+
+* Preparazione di fogli di tracciamento progetto per la collaborazione multi-piattaforma.
+
+* Conversione di tabelle tecniche XSLFO in fogli di calcolo FODS modificabili.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* Conversione batch da XSLFO a FODS per pipeline di report open-source.
+
+* Integrazione nei sistemi di gestione documentale che supportano FODS.
+
+* Esportazione programmata per cruscotti progetto collaborativi.
+
+* Conversione automatica di report analitici XSLFO nel formato FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+"""
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

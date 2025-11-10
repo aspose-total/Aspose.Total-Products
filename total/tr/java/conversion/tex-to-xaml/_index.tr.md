@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX dosyalarını **XAML (Genişletilebilir Uygulama İşaretleme Dili)** biçimine dönüştürmek, LaTeX içeriğinin, formüllerinin ve diyagramlarının WPF, UWP ve .NET tabanlı uygulamalarda kullanılmasını sağlar, vektör grafiklerini ve metin biçimlendirmesini korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX ile oluşturulan diyagram ve denklemlerin masaüstü uygulamalara gömülmesi.
+
+* Bilimsel veya matematiksel görsellerle etkileşimli UI öğeleri oluşturma.
+
+* LaTeX kaynaklarından dinamik grafikler gösteren teknik uygulamalar.
+
+* LaTeX formüllerini sorunsuz bir şekilde entegre eden eğitim yazılımları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Birden fazla UI bileşeni için toplu TEX'ten XAML dönüşümü.
+
+* Otomatikleştirilmiş WPF veya UWP proje boru hatlarına entegrasyon.
+
+* .NET uygulamaları için LaTeX tabanlı görsellerin tetiklenerek oluşturulması.
+
+* Çoklu modüllü eğitim yazılımları için zamanlanmış güncellemeler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

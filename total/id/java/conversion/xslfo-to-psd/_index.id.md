@@ -57,7 +57,51 @@ Menggunakan API, Anda juga dapat memutar gambar PSD keluaran sesuai kebutuhan An
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XSLFO ke **PSD (Adobe Photoshop)** memungkinkan desainer grafis untuk mengedit tabel dan visual yang dihasilkan oleh XSLFO dengan lapisan dan efek lanjutan. Output PSD ideal untuk visual pemasaran atau presentasi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengubah grafik XSLFO menjadi desain Photoshop berlapis.
+
+* Menyesuaikan visual laporan untuk materi pemasaran.
+
+* Mengedit tabel XSLFO terstruktur untuk presentasi profesional.
+
+* Menyiapkan infografis dengan gaya yang ditingkatkan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Ekspor otomatis laporan XSLFO ke PSD untuk alur kerja desain.
+
+* Integrasi dengan pipa pemrosesan Photoshop batch.
+
+* Konversi terjadwal untuk laporan visual berulang.
+
+* Generasi PSD yang dipicu untuk dasbor pemasaran kreatif.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -143,7 +143,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **GIF (Định dạng Trao đổi Đồ họa)** cho phép chia sẻ trực tuyến hoặc nhúng hình minh họa LaTeX và các hoạt ảnh nhỏ vào các hướng dẫn và tài liệu đào tạo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Hoạt ảnh LaTeX đơn giản cho nội dung giáo dục.
+
+* Chia sẻ biểu đồ giải quyết vấn đề từng bước một.
+
+* Nhúng công thức động vào các nền tảng học trực tuyến.
+
+* Hình dung các phép tính LaTeX lặp lại dưới dạng GIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt TEX sang GIF tự động cho các hướng dẫn.
+
+* Tích hợp với Hệ thống quản lý học tập (LMS) và nội dung khóa học trực tuyến.
+
+* Kích hoạt tạo ra GIF từ các biểu đồ hoặc chuỗi LaTeX.
+
+* Tự động cập nhật GIF giáo dục dựa trên cập nhật LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

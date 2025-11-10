@@ -143,7 +143,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX dosyalarını **DOCM (Word Macro-Enabled Document)** dosyalarına dönüştürmek, LaTeX içeriğini gelişmiş Word makrolarıyla sorunsuz bir şekilde entegre etmeyi sağlar. Bu özellik özellikle otomatik tablolar, formüller ve etkileşimli içeriklerle rapor oluşturması gereken akademik araştırmacılar ve mühendisler için faydalıdır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LaTeX ağırlıklı araştırma raporlarını Microsoft Word'de otomatikleştirme.
+
+* Mühendislik belgeleri için karmaşık matematiksel denklemleri gömme.
+
+* Tekrarlanabilir sonuçlar için makrolarla etkileşimli laboratuvar şablonları oluşturma.
+
+* Otomatik çapraz referanslar ve numaralandırma ile akademik tez derleme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Kurumsal belge yönetim sistemlerinde toplu TEX'ten DOCM dönüşümü.
+
+* LaTeX depolarından bilimsel dergilerin makro destekli oluşturulması.
+
+* Teknik yayıncılık için iş akışı otomasyonuna entegrasyon.
+
+* LaTeX içeriğini Word makrolarıyla birleştiren araştırma panolarının otomatik güncellenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

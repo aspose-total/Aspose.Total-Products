@@ -130,7 +130,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XPS ke **WordML (Word Processing ML)** memungkinkan pengguna teknis untuk bekerja langsung dengan struktur dokumen berbasis XML dari Word. Hal ini memungkinkan pengeditan otomatis, ekstraksi konten, dan integrasi ke dalam alur kerja dokumen yang canggih.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Pengembang yang menghasilkan dokumen Word dinamis secara programatis.
+
+* Ekstraksi otomatis dan manipulasi teks dan metadata.
+
+* Integrasi ke dalam sistem manajemen konten perusahaan.
+
+* Pipa penerbitan teknis yang memerlukan manipulasi berbasis XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Pipa XPS-ke-WordML otomatis untuk pemrosesan dokumen dalam jumlah besar.
+
+* Integrasi dengan sistem kecerdasan buatan yang menghasilkan laporan Word kustom.
+
+* Pembaruan konten yang dipicu dalam dokumen Word berbasis XML.
+
+* Pengeditan XML yang disederhanakan untuk dokumentasi teknis dan hukum.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

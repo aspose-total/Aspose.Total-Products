@@ -105,7 +105,51 @@ otherformats: APNG EMZ DXF JPEG2000 WMZ TGA SVGZ IMAGE  WMF DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XSLFO ל־**PSD (אדובי פוטושופ)** מאפשרת למעצבי גרפיקה לערוך טבלאות ותמונות שנוצרו ב-XSLFO עם שכבות ואפקטים מתקדמים. פלט PSD הוא אידיאלי לתמונות שיווק או מצגות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת תרשימי XSLFO לעיצובים בפוטושופ עם שכבות.
+
+* התאמה אישית של תמונות דוחות לחומרי שיווק.
+
+* עריכת טבלאות מובנות של XSLFO למצגות מקצועיות.
+
+* הכנת אינפוגרפיקות עם עיצוב משופר.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* ייצוא אוטומטי של דוחות XSLFO ל־PSD לצורכי עבודת עיצוב.
+
+* שילוב עם צינורות עיבוד פוטושופ בצפיפות.
+
+* המרה מתוזמנת לדוחות חזותיים חוזרים.
+
+* יצירת PSD מופעלת עבור לוחות מחוות שיווקיות יצירתיות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

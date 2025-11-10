@@ -102,7 +102,46 @@ otherformats: XLAM XLSB DIF FODS XLT ODS XLSM TSV XLTX EXCEL CSV MD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XPS ל־**XLTM (תבנית Excel עם מאקרו מופעל)** מאפשרת תבניות מאקרו הניתנות לשימוש חוזר, שמשלבות אוטומציה עם מבני גיליון מובנים מראש ליעילות בסביבות עסקיות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* תבניות תכנון תקציב עם מאקרוס מוטמעים.
+* תבניות דיווחים אוטומטיים על מכירות ושיווק.
+* תבניות חישובי HR ושכר.
+* תבניות לניהול פרויקטים עם אוטומציה של משימות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת תבנית XPS-to-XLTM בצמיחה לאוטומציה תאגידית.
+* שילוב עם תוכנת זרימת עבודה פנימית למשימות אוטומטיות.
+* עדכונים מתוזמנים של תבניות עם מאקרוס לשימוש עסקי.
+* הפצת תבניות דיווח אוטומטיות מיועדות לשימוש.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

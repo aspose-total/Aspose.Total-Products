@@ -144,7 +144,55 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **XAMLFLOW** memungkinkan konten LaTeX diubah menjadi markup XAML yang kompatibel dengan alur untuk alur visual, dasbor, dan aplikasi interaktif.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Diagram alur visual dengan persamaan yang dihasilkan oleh LaTeX.
+
+* Dasbor interaktif yang menampilkan data real-time dengan visual matematika.
+
+* Aplikasi teknis atau rekayasa yang menampilkan konten LaTeX terstruktur.
+
+* Alat pendidikan yang mengintegrasikan alur LaTeX dan diagram dalam antarmuka pengguna.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi Batch TEX ke XAMLFLOW untuk komponen dasbor.
+
+* Integrasi ke dalam visualisasi data otomatis dan alur kerja.
+
+* Pembaruan yang dipicu untuk diagram LaTeX interaktif dalam aplikasi berbasis alur.
+
+* Generasi terjadwal alur XAML berbasis LaTeX untuk platform multi-pengguna.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

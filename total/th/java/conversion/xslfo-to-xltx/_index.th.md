@@ -47,7 +47,51 @@ otherformats: TSV MD XLTX SXC ODS XLSM XLT XLTM XLSB DIF FODS EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **XLTX (Excel Template โดยไม่มี Macros)** ช่วยให้มั่นใจได้ว่าจะได้รับเทมเพลตที่ปลอดภัยและสามารถนำกลับมาใช้ซ้ำในการรายงานเป็นประจำโดยไม่มีความเสี่ยงจากการดำเนินการของแมโคร  XLTX จะรักษาการจัดรูปแบบ สไตล์ และโครงสร้างตาราง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* เตรียมเทมเพลตการเงินรายเดือนที่ใช้ XSLFO สำหรับการใช้งานของทีม
+
+* สร้างแผ่นติดตามโครงการที่ปลอดภัยสำหรับการกระจายทางแผนก
+
+* กระจายเทมเพลตการรายงาน KPI โดยไม่มี macros
+
+* เก็บถาวรโครงสร้างการรายงาน XSLFO มาตรฐานในรูปแบบ XLTX
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XSLFO เป็น XLTX ตามกำหนดเวลาสำหรับการกระจายรายงานเป็นประจำ
+
+* การรวมเข้ากับระบบการจัดการเทมเพลตเพื่อการรายงานที่สม่ำเสมอ
+
+* การสร้างเทมเพลตโดยไม่มี macros จำนวนมากสำหรับขั้นตอนการทำงานของบริษัท
+
+* การสร้างไฟล์ XLTX จาก XSLFO ตาม trigger สำหรับการรายงานที่มีมาตรฐาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

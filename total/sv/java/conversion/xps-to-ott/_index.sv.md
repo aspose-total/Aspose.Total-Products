@@ -129,7 +129,51 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av XPS till **OTT (OpenDocument Text Template)** omvandlar statiska XPS-filer till återanvändbara mallar för LibreOffice- och OpenOffice-användare, perfekt för standardiserade arbetsflödesdokument i öppna format.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsområden" %}}
+
+
+
+* Mallar för akademiskt och pedagogiskt material för studenter och lärare.
+
+* NGO-projektmallar för rapporter och förslag.
+
+* Standardiserade öppen källkodsmallar för företagsdokumentation.
+
+* Kreativa innehållsmallar för broschyrer och nyhetsbrev.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batchgenerering av OTT-mallar från XPS-repositorier.
+
+* Integration med öppen källkodsverktyg för arbetsflödesautomatisering.
+
+* Automatisk ifyllnad av mallar med organisationsdata.
+
+* Effektivisering av tvärplattformsprocesser för dokumentskapande.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

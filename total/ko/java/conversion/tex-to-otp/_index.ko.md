@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **OTP(OpenDocument Presentation Template)**으로 변환하면 LaTeX 형식의 재사용 가능한 프레젠테이션 템플릿이 생성되어 일관된 강의나 비즈니스 슬라이드 디자인을 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LaTeX 스타일의 방정식이 포함된 표준 강의 템플릿.
+
+* 연구 팀을 위한 회의 슬라이드 템플릿.
+
+* 공식이 풍부한 콘텐츠를 포함하는 재사용 가능한 교육 자료.
+
+* 기술 프레젠테이션을 위한 프로젝트 제안 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 강좌용 LaTeX-to-OTP 템플릿의 일괄 생성.
+
+* LaTeX 저장소에서 트리거된 템플릿 업데이트.
+
+* 협업자에게 슬라이드 템플릿 자동 배포.
+
+* 오픈 소스 LMS 프레젠테이션 워크플로와의 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

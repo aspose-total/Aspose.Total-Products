@@ -57,7 +57,51 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh APNG đầu ra theo nhu 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp XSLFO (Extensible Stylesheet Language Formatting Objects) sang **APNG (Animated Portable Network Graphics)** cho phép biểu diễn động của dữ liệu báo cáo có cấu trúc trong khi duy trì chất lượng vector sắc nét. APNGs lý tưởng cho bảng điều khiển tương tác và trực quan trên web.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Biểu đồ động từ các báo cáo phân tích được tạo từ XSLFO.
+
+* Trực quan hóa tương tác về xu hướng tài chính hoặc vận hành.
+
+* Nội dung giáo dục thân thiện với di động với bảng động.
+
+* Slide động trong các nền tảng y tế từ xa hoặc học trực tuyến.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt bảng điều khiển XSLFO sang APNG cho ứng dụng web.
+
+* Tích hợp vào các đường ống trực quan hóa dữ liệu thời gian thực.
+
+* Tạo định kỳ đồ họa động cho các công cụ báo cáo.
+
+* Tạo APNG theo yêu cầu từ XSLFO trong các luồng làm việc tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

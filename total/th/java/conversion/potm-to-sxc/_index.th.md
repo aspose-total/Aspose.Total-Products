@@ -61,7 +61,55 @@ otherformats: TSV FODS XLSM ODS SXC XLS XLTM MARKDOWN XLSB XLSX XLT MHTML EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POTM เป็น SXC จะสร้างไฟล์สเปรดชีตรุ่นเก่า รูปแบบนี้มีประโยชน์สำหรับความเข้ากันได้กับชุดโปรแกรมสำนักงานรุ่นเก่าและให้แน่ใจว่าข้อมูลการนำเสนอทางประวัติยังสามารถวิเคราะห์ได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การย้ายตารางการเงินที่เป็นสไลด์ไปยัง SXC สำหรับระบบรุ่นเก่า
+
+* การแปลงรายงานโครงการสำหรับองค์กรที่ใช้ซอฟต์แวร์สำนักงานรุ่นเก่า
+
+* การเก็บถาวรเนื้อหาสไลด์ตัวเลขในรูปแบบสเปรดชีตที่เข้ากันได้ย้อนหลัง
+
+* การแบ่งปันตารางการนำเสนอกับทีมที่ใช้แอปพลิเคชันรุ่นเก่า
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงเทมเพลต POTM เป็น SXC แบบกลุ่มสำหรับการเก็บถาวร
+
+* การผสานกับระบบรายงานรุ่นเก่า
+
+* การสร้าง SXC โดยเรียกใช้ข้อมูลทางประวัติ
+
+* การทำงานอัตโนมัติของสไลด์ไปยังสเปรดชีตรุ่นเก่า
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

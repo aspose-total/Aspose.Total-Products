@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp TEX sang XLT, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX thành **XLT (Mẫu Excel)** cho phép dữ liệu dựa trên LaTeX tạo thành các mẫu Excel có thể tái sử dụng cho dự án, phân tích và công việc học thuật.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Mẫu báo cáo tiêu chuẩn cho các nhóm nghiên cứu.
+
+* Mô hình tài chính có thể tái sử dụng dựa trên bảng LaTeX.
+
+* Bảng tính tính điểm học thuật với các công thức LaTeX.
+
+* Mẫu theo dõi dự án kỹ thuật.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo hàng loạt mẫu Excel từ LaTeX.
+
+* Tích hợp vào kho mẫu của doanh nghiệp hoặc học thuật.
+
+* Tự động hóa việc điền dữ liệu LaTeX vào các mẫu XLT.
+
+* Cập nhật mẫu theo lịch trình cho môi trường đa người dùng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

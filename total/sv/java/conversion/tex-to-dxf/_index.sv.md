@@ -57,7 +57,55 @@ Med hjälp av API:t kan du också rotera den utgående DXF-bilden enligt dina be
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera TEX till **DXF (Drawing Exchange Format)** gör det möjligt att använda LaTeX-genererade tekniska diagram, ritningar och scheman i CAD-program för ingenjörs- och arkitekturprojekt.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Ingenjörsscheman från LaTeX-tekniska dokument.
+
+* Arkitekturdiagram för CAD-integration.
+
+* LaTeX-baserad plottvisualisering för designprojekt.
+
+* Tillverknings- eller prototypdiagram härledda från LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Batch TEX-till-DXF-konvertering för ingenjörsarbetsflöden.
+
+* Integration med CAD-programvarupipelines.
+
+* Utlösta automatisk generering av designdiagram.
+
+* Arkivering av LaTeX-scheman i DXF-format för plattformsoberoende användning.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

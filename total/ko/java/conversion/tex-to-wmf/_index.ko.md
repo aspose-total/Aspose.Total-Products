@@ -57,7 +57,55 @@ API를 사용하여 필요에 따라 출력 WMF 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+텍스트를 **WMF (Windows Metafile)**로 변환하면 LaTeX 다이어그램의 벡터 그래픽을 보존하여 Microsoft Office 및 기술 문서와의 호환성을 보장합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Word나 PowerPoint에 LaTeX 삽화 삽입.
+
+* 전문 보고서의 기술 다이어그램.
+
+* 기업 및 학술 문서용 크기 조정 가능한 그림.
+
+* LaTeX로 생성된 그래픽의 크로스 플랫폼 배포.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* LaTeX 다이어그램을 WMF로 일괄 변환.
+
+* Microsoft Office 문서 파이프라인에 통합.
+
+* 발표 자료의 벡터 그래픽을 트리거로 업데이트.
+
+* LaTeX로 생성된 기술 그림의 자동 아카이빙.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

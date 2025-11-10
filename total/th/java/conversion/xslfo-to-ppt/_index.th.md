@@ -135,7 +135,51 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **PPT (รูปแบบ PowerPoint เก่า)** จะให้ความเข้ากันได้กับเวอร์ชันของ Microsoft Office เก่าๆ พร้อมกับการรักษาเนื้อหาตารางและเลย์เอาต์ของสไลด์ รูปแบบ PPT เหมาะสำหรับองค์กรที่ยังใช้เครื่องมือเวอร์ชันเก่า
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* เตรียมสไลด์ที่สร้างจาก XSLFO สำหรับระบบองค์กรเวอร์ชันเก่า
+
+* แบ่งปันเนื้อหาการศึกษาหรือการอบรมในรูปแบบ PPT
+
+* เก็บถาวรสไลด์ที่เป็นระบบเองเพื่อวัตถุประสงค์การตรวจสอบ
+
+* แปลงรายงาน XSLFO เป็นไฟล์ PowerPoint เวอร์ชันเก่าที่สามารถแจกจ่ายได้ง่าย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลงจาก XSLFO เป็นสไลด์ PPT อัตโนมัติแบบกลุ่ม
+
+* ส่งออกตามกำหนดเวลาสำหรับรายงานการจัดการหรือการอบรมที่เกิดซ้ำ
+
+* ผสานรวมกับกระบวนการทำงานขององค์กรเชิงเอกสารเวอร์ชันเก่า
+
+* สร้าง PPT ตามเทมเพลต XSLFO โดยเรียกใช้เพื่อวัตถุประสงค์การเก็บถาวร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

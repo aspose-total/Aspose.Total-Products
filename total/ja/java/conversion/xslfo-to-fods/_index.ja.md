@@ -47,7 +47,51 @@ XSLFOファイルをFODSに変換するときに、出力FODSファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOファイルを**FODS（Flat OpenDocument Spreadsheet）**形式に変換すると、LibreOfficeやOpenOfficeなどのオープンソースオフィススイートをサポートします。FODSは、編集可能な軽量なXMLベースのスプレッドシートで、共同作業環境に適しています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* XSLFOで生成された予算シートをオープンソースオフィスユーザーと共有する。
+
+* レポートをオープンで標準化されたスプレッドシート形式でアーカイブする。
+
+* クロスプラットフォームの共同作業のためのプロジェクトトラッキングシートを準備する。
+
+* 技術的なXSLFOテーブルを編集可能なFODSスプレッドシートに変換する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* オープンソースのレポーティングパイプライン向けのバッチXSLFOからFODSへの変換。
+
+* FODSをサポートする文書管理システムに統合する。
+
+* 共同作業プロジェクトダッシュボード向けの定期的なエクスポート。
+
+* XSLFOの分析レポートを自動的にFODS形式に変換する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

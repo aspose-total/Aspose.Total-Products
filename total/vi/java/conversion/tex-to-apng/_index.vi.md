@@ -57,7 +57,51 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh APNG đầu ra theo nhu 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp TEX thành **APNG (Animated PNG)** cho phép biểu đồ LaTeX, phương trình và đồ thị được biến đổi thành đồ họa động cho các bài thuyết trình trên web, nội dung giáo dục và trực quan hóa tương tác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Minh họa toán học động cho các bài giảng trực tuyến.
+
+* Đồ thị LaTeX tương tác trong các ứng dụng web giáo dục.
+
+* Biểu đồ động cho các nền tảng học trực tuyến.
+
+* Trực quan hóa xu hướng dữ liệu được tạo bởi LaTeX theo thời gian.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ TEX sang APNG cho tài liệu khóa học.
+
+* Tích hợp vào các đường ống xuất bản web tự động.
+
+* Kích hoạt việc tạo ra cho các công cụ giáo dục được hỗ trợ bởi trí tuệ nhân tạo.
+
+* Tự động tạo ra các đồ họa động từ các đồ thị LaTeX cho các hướng dẫn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

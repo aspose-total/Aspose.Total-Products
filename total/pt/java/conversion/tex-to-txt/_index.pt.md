@@ -47,7 +47,51 @@ Ao converter o arquivo TEX para TXT, você também pode adicionar marca d'água 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter TEX para **TXT (Texto Simples)** fornece um formato simples e universalmente legível para conteúdo LaTeX, útil para armazenamento leve, compartilhamento rápido e processamento de texto.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Extrair conteúdo LaTeX para busca e análise baseadas em texto.
+
+* Compartilhar notas ou tabelas LaTeX em formato de texto simples.
+
+* Documentação leve para projetos de script ou codificação.
+
+* Preparar conteúdo LaTeX para distribuição por e-mail em texto simples.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de arquivos LaTeX para TXT para arquivamento.
+
+* Integração com fluxos de trabalho automatizados de processamento de texto.
+
+* Geração de TXT acionada a partir de repositórios LaTeX.
+
+* Exportação programada para documentação leve de LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

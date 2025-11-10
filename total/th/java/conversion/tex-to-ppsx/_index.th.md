@@ -135,7 +135,45 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **PPSX (PowerPoint Show โดยไม่มีแมโคร)** จะสร้างงานนำเสนอที่ปลอดภัยและพร้อมใช้งานที่มีเนื้อหาจาก LaTeX ที่เหมาะสำหรับแชร์ในหลายแพลตฟอร์ม
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* บรรยายการเรียนทางวิชาการสำหรับการแจกจ่ายโดยไม่มีความเสี่ยงด้านความปลอดภัยของแมโคร
+* งานนำเสนอสำหรับองค์กรหรือการอบรมที่มีตารางรูปแบบ LaTeX
+* สไลด์การประชุมที่สามารถนำกลับมาใช้ซ้ำที่มีแผนภูมิที่รวยไปด้วยสูตร
+* การแชร์สไลด์ทางเทคนิคไปยังหลายแพลตฟอร์ม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง LaTeX เป็น PPSX จำนวนมาก
+* การสร้างสไลด์การบรรยายหรือการอบรมโดยอัตโนมัติ
+* การผสานกับระบบ LMS หรือระบบนำเสนอขององค์กร
+* การสร้างสไลด์ตามที่เรียกใช้สำหรับโครงการทางวิชาการที่ทำงานร่วมกัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

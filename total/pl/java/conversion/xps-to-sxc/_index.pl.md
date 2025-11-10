@@ -47,7 +47,51 @@ Konwertując plik XPS na SXC, możesz także dodać znak wodny do wyjściowego f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików XPS na **SXC (Arkusz kalkulacyjny StarOffice)** zapewnia kompatybilność wsteczną z starszymi plikami OpenOffice/StarOffice. Ten format jest odpowiedni do starych procesów roboczych i celów archiwalnych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Archiwizacja raportów w formacie SXC.
+
+* Historyczne zbiory danych finansowych i operacyjnych.
+
+* Migracja arkuszy kalkulacyjnych opartych na XPS do środowisk oprogramowania typu open-source.
+
+* Dzienniki techniczne lub badawcze dla starszych pakietów biurowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja repozytoriów XPS na pliki SXC.
+
+* Automatyczna archiwizacja w celach zgodności i audytu.
+
+* Zaplanowana migracja okresowych raportów XPS.
+
+* Integracja systemów dziedzicznych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

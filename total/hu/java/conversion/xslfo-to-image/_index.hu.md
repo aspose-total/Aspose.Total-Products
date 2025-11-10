@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti IMAGE-képet is. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **KÉP (Általános Raszter Formátumokra)** sokoldalú kimenetet biztosít webes, nyomtatott és asztali alkalmazásokhoz. A támogatott formátumok közé tartozhatnak PNG, BMP vagy TIFF a követelményektől függően.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Statikus vizuálisok generálása strukturált XSLFO táblázatokból.
+
+* Grafikák előkészítése jelentési irányítópultokhoz vagy dokumentációhoz.
+
+* Diagramok és táblázatok exportálása mobilalkalmazásokhoz vagy e-tanuláshoz.
+
+* Ismétlődő jelentések raszterizált archívumainak létrehozása.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Több XSLFO jelentés tömeges átalakítása különböző képformátumokba.
+
+* Integráció automatizált irányítópult-generálási csövekkel.
+
+* Ütemezett jelentési kiszállításhoz történő kiváltott export.
+
+* Automatizált képgenerálás e-tanuláshoz vagy webes platformokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

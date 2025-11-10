@@ -144,7 +144,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX fájlok átalakítása **DOT formátumra (Word dokumentumsablon)** lehetővé teszi a LaTeX formázás kihasználását, miközben újrafelhasználható Word sablonokat készíthetünk vállalati vagy oktatási célokra. Ez segít fenntartani a hivatalos jelentések és szakmai dokumentumok egységét.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Vállalati levélpapírok és ajánlati sablonok LaTeX-stílusú tipográfiával.
+
+* Egységesített egyetemi vagy vizsga sablonok.
+
+* Önéletrajz és önéletrajz sablonok szakmai felhasználásra.
+
+* Projekt dokumentációs sablonok mérnökök és kutatók számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Sablonok automatikus generálása tömeges jelentéskészítéshez.
+
+* Integráció dokumentumautomatizáló szoftverekkel oktatási intézményekben.
+
+* Kiváltott sablonfrissítések LaTeX tárolókból a márkaegység érdekében.
+
+* Dinamikus sablonkönyvtárak létrehozása mérnöki projektekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

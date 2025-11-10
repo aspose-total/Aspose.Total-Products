@@ -57,7 +57,55 @@ Menggunakan API, Anda juga dapat memutar gambar DICOM keluaran sesuai kebutuhan 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi TEX ke **DICOM (Digital Imaging and Communications in Medicine)** memungkinkan diagram LaTeX teknis dan ilmiah disematkan ke dalam alur kerja pencitraan medis dan dokumentasi penelitian.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengintegrasikan diagram berbasis LaTeX ke dalam laporan pencitraan medis.
+
+* Mendokumentasikan penelitian biomedis dengan konten LaTeX terstruktur.
+
+* Memvisualisasikan data anatomi menggunakan grafik yang dihasilkan oleh LaTeX.
+
+* Mempublikasikan skematika berbasis LaTeX dalam penelitian radiologi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch otomatis untuk arsip pencitraan rumah sakit.
+
+* Integrasi ke dalam alur kerja penelitian medis.
+
+* Rendering TEX-to-DICOM yang dipicu untuk studi klinis.
+
+* Mengekspor diagram LaTeX untuk diagnosis yang dibantu AI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

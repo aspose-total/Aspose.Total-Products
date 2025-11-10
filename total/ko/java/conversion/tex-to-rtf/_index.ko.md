@@ -143,7 +143,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **RTF (Rich Text Format)**로 변환하면 LaTeX 문서를 거의 모든 워드 프로세서에서 열 수 있으면서 필수적인 서식과 수학식을 보존할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 서식을 유지한 채로 플랫폼 간 학술 논문 공유.
+
+* Word나 LibreOffice에서 접근 가능한 복잡한 방정식을 포함한 기술 매뉴얼.
+
+* LaTeX 스타일링이 적용된 크로스 플랫폼 비즈니스 문서.
+
+* 보편적으로 읽을 수 있는 형식으로 이메일에 첨부할 수 있는 LaTeX 문서.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 아카이브 및 크로스 플랫폼 호환성을 위한 일괄 변환.
+
+* 기술 팀을 위한 문서 처리 파이프라인 통합.
+
+* LaTeX 데이터셋에서 RTF 보고서의 자동 생성.
+
+* 자동 게시 시스템을 위한 트리거 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

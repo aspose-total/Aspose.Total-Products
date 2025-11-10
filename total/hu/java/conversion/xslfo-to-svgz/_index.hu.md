@@ -57,7 +57,55 @@ Az API használatával igény szerint elforgathatja a kimeneti SVGZ-képet is. A
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **SVGZ (Tömörített SVG)** formátumba skálázható vektorgrafikát biztosít tömörített formában, ideális webhelyekhez, irányítópultokhoz és reszponzív alkalmazásokhoz. Az SVGZ csökkenti a fájlméretet, miközben megőrzi a minőséget.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Interaktív diagramok létrehozása XSLFO jelentésekből webes irányítópultokhoz.
+
+* Skálázható vizuális elemek beágyazása reszponzív alkalmazásokba.
+
+* Vektor alapú pénzügyi táblázatok archiválása tömörített formátumban.
+
+* Diagramok előkészítése e-learninghez vagy tudásbázisokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges XSLFO-to-SVGZ konverzió webes jelentéskészítéshez.
+
+* Ütemezett exportálás tömörített vektorgrafikákkal.
+
+* Integráció automatizált online irányítópult munkafolyamatokkal.
+
+* SVGZ képek kiváltott létrehozása XSLFO analitikákból.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

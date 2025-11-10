@@ -105,7 +105,51 @@ otherformats: SVGZ JPEG2000 EMZ  PSD WMZ DXF TGA IMAGE APNG DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XSLFO ל־**WMF (Windows Metafile)** מאפשרת תמונות וקטוריות נמדדות המתאימות למשרד מיקרוסופט וליישומי פרסום על שולחן העבודה השוליים האחרים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* הטמעת טבלאות ותרשימים של XSLFO ב־Microsoft Word או PowerPoint.
+
+* יצירת תמונות נמדדות למצגות עסקיות.
+
+* ארכיבת תמונות דוח בפורמט וקטורי.
+
+* הכנת תרשימים טכניים מנתוני XSLFO מובנים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת XSLFO ל־WMF בצורה צמודה למסמכים לזרימות עבודה.
+
+* ייצוא מתוזמן של תמונות נמדדות למצגות.
+
+* יצירה מופעלת של תמונות WMF מלוחות מחוות XSLFO.
+
+* שילוב עם צינורות פרסום תעשייתיים אוטומטיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

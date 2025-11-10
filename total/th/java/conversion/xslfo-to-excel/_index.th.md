@@ -47,7 +47,51 @@ otherformats: XLT MD EXCEL FODS TXT XLSB TSV ODS XLTM DIF XLSM SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XSLFO เป็น **EXCEL (XLS/XLSX)** สร้างสเปรดชีทที่จัดรูปแบบอย่างเต็มที่พร้อมสำหรับการวิเคราะห์ข้อมูลขั้นสูง การสร้างตารางเพิร์ฟตาราง และการแสดงผล การแปลงรูปแบบเป็น Excel เหมาะสำหรับการทำงานทางการเงิน การบัญชี และการรายงานการดำเนินงาน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การแปลงใบแจ้งหนี้ที่สร้างจาก XSLFO เป็น Excel เพื่อให้ลูกค้าตรวจสอบ
+
+* การสร้างตารางเพิร์ฟตารางแบบไดนามิกจากข้อมูลรายงานแบบตาราง
+
+* การสร้างแดชบอร์ดประสิทธิภาพของแผนกใน Excel
+
+* การเตรียมรายงาน XSLFO สำหรับการวางแผนธุรกิจร่วมกัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงรายงาน XSLFO เป็น Excel ให้กับผู้มีส่วนได้ส่วนเสียตลอดคืนตามกำหนด
+
+* การรวมกับ VBA macros เพื่อวิเคราะห์ข้อมูลโดยอัตโนมัติ
+
+* การสร้างแดชบอร์ด Excel โดยอัตโนมัติจากแหล่งข้อมูล XSLFO
+
+* การทำงานของ ETL ที่แปลงไฟล์ XSLFO ดำเนินการให้เป็นสเปรดชีท Excel
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

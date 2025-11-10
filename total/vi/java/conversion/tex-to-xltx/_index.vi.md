@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp TEX sang XLTX, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX thành **XLTX (Mẫu Excel không có Macros)** cung cấp các mẫu an toàn, có thể tái sử dụng cho các bảng và công thức được tạo bởi LaTeX, lý tưởng cho môi trường làm việc đa nền tảng và cộng tác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Các mẫu chuẩn cho học thuật và doanh nghiệp không có macros.
+
+* Bảng theo dõi dự án dựa trên LaTeX có thể tái sử dụng.
+
+* Các mẫu tài chính và nghiên cứu cho việc chia sẻ an toàn giữa nhiều người dùng.
+
+* Báo cáo đa bảng cho các nhóm kỹ sư và khoa học.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo mẫu TEX-to-XLTX hàng loạt.
+
+* Tích hợp tự động vào tài liệu và kho mẫu.
+
+* Cập nhật mẫu LaTeX theo lịch trình cho các dự án cộng tác.
+
+* Triển khai đa nền tảng các mẫu LaTeX không có macros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

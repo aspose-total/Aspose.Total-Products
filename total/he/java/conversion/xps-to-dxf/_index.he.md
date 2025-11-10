@@ -105,7 +105,55 @@ otherformats: WMZ IMAGE APNG EMZ WMF SVGZ TGA JPEG2000  PSD DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XPS ל־**DXF (Drawing Exchange Format)** מאפשרת שימוש בפריסות XPS ביישומי CAD, שומרת רכיבי וקטור לפרויקטים בעיצוב, אדריכלות והנדסה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* תוכניות אדריכליות ותוכניות כחולות שמשובצות ממסמכי XPS.
+
+* תרשימי הנדסה וסכמים לתוכנות CAD.
+
+* תיעוד טכני הדורש המרה מדויקת לוקטור.
+
+* זרימות עבודה לעיצוב תעשייתי לצורך ציור משותף.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה אוטומטית בצפיפות של XPS ל־DXF עבור צוותי CAD.
+
+* שילוב עם צינורות עיצוב לעדכוני פריסה מהירים.
+
+* יצירת DXF מתוזמנת לדוחות הנדסיים חוזרים.
+
+* חילוץ מיושר של רכיבי וקטור לייצור.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

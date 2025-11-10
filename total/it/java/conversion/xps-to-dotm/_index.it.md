@@ -130,7 +130,51 @@ Qualsiasi sistema operativo in grado di eseguire Java Runtime Environment (JRE) 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversione di XPS in **DOTM (Modello abilitato per macro di Word)** unisce l'efficienza del modello all'automazione delle macro. Le organizzazioni possono mantenere layout uniformi dei documenti automatizzando compiti ripetitivi direttamente in Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* Modelli di fattura e report con macro di calcolo automatico.
+
+* Modelli di moduli legali che popolano automaticamente i dati del cliente.
+
+* Modelli di pianificazione del progetto con macro interattive per il tracciamento delle attività.
+
+* Modelli di documenti HR che automatizzano approvazioni e notifiche.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* Creazione in blocco di modelli standardizzati abilitati per macro da fonti XPS.
+
+* Integrazione nei sistemi ERP per la generazione automatica di documenti.
+
+* Aggiornamenti automatici dei modelli quando i file XPS di origine cambiano.
+
+* Flussi di lavoro di reportistica automatizzati utilizzando modelli DOTM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

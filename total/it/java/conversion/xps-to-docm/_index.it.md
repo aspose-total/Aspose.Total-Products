@@ -130,7 +130,55 @@ Qualsiasi sistema operativo in grado di eseguire Java Runtime Environment (JRE) 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversione dei file XPS (XML Paper Specification) in **DOCM (Documento abilitato per macro di Word)** garantisce che i report dinamici e i moduli aziendali mantengano tutte le macro interattive per l'automazione dei flussi di lavoro. Questo formato è particolarmente adatto per gli ambienti lavorativi in cui compiti ripetitivi e script incorporati aumentano la produttività.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* Rapporti finanziari e di revisione che richiedono macro automatizzate per i calcoli.
+
+* Modelli aziendali con flussi di approvazione incorporati.
+
+* Pacchetti di documenti legali con automazione delle firme.
+
+* Cruscotti di gestione progetti che utilizzano macro per il tracciamento delle attività.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenario di automazione" %}}
+
+
+
+* Conversione bulk di report XPS in file Word abilitati per macro per team aziendali.
+
+* Integrazione con sistemi di gestione documentale che attivano le macro all'apertura del file.
+
+* Generazione automatica di fatture e estratti conto con formule incorporate.
+
+* Moduli semplificati di inserimento in azienda con campi dinamici.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

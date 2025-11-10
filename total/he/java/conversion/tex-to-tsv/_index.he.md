@@ -102,7 +102,55 @@ otherformats: SXC XLTM FODS EXCEL CSV ODS XLAM TXT XLTX XLT DIF XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל־**TSV (ערכים מופרדים בטאב)** מספקת פורמט קל משקל כחלופה לנתוני LaTeX נומריים וטקסטואליים, המתאימה לניתוחים ולייבוא תוכנה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* טבלאות ניסוי אקדמיות שיוצאו לניתוח סטטיסטי.
+
+* סט נתונים הנדסיים ל־Python, R או MATLAB.
+
+* טבלאות LaTeX פיננסיות המומרות לפלטפורמות ניתוח.
+
+* שיתוף נתוני LaTeX קלים בין צוותים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת TEX ל־TSV בצורה צפופה בצינורות מחקר.
+
+* ייצוא אוטומטי של נתוני טבלא LaTeX למודלי AI.
+
+* יצירת TSV בזמן אמת ללוחות מחוות נתונים שיתופיים.
+
+* שילוב בצינורות ETL למערכות נתונים מובנות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

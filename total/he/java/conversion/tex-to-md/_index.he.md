@@ -102,7 +102,51 @@ otherformats: CSV XLT ODS XLAM XLSM FODS TSV XLSB TXT EXCEL DIF XLTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת TEX ל־**MD (קובץ Markdown)** מייצרת קובץ Markdown סטנדרטי מ־LaTeX, ששומר על מבנה הטקסט, על טבלאות ועל עיצוב בסיסי לקריאות במגוון פלטפורמות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* הכנת פתקי מחקר ב־LaTeX לשיתוף פעולה באמצעות Git.
+
+* תיעוד קל עם תמיכה במתמטיקה ובטבלאות.
+
+* שיתוף פתקי הרצאות ב־LaTeX בפורמט Markdown קוד פתוח.
+
+* המרת דוחות טכניים לאתרים סטטיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת קובצי TEX ל־MD בצורה אוטומטית לצוותי מחקר.
+
+* שילוב בצינורות תוכן ווב בבקרת גרסאות.
+
+* עדכונים מופעלים של קבצי Markdown ממאגרי LaTeX.
+
+* יצירה רצופה של קבצי MD לבלוגים חינוכיים או טכניים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

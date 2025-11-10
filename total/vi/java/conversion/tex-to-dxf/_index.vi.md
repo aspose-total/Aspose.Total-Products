@@ -57,7 +57,51 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh DXF đầu ra theo nhu c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi TEX sang **DXF (Drawing Exchange Format)** cho phép các biểu đồ kỹ thuật, bản vẽ và sơ đồ được tạo ra từ LaTeX được sử dụng trong phần mềm CAD cho các dự án kỹ thuật và kiến trúc.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Sơ đồ kỹ thuật từ tài liệu kỹ thuật LaTeX.
+
+* Sơ đồ kiến trúc để tích hợp vào CAD.
+
+* Trực quan hóa biểu đồ dựa trên LaTeX cho các dự án thiết kế.
+
+* Sơ đồ sản xuất hoặc nguyên mẫu dựa trên LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi TEX sang DXF hàng loạt cho quy trình làm việc kỹ thuật.
+
+* Tích hợp với đường ống phần mềm CAD.
+
+* Kích hoạt tự động tạo ra các biểu đồ thiết kế.
+
+* Lưu trữ sơ đồ LaTeX dưới dạng DXF để sử dụng trên nhiều nền tảng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

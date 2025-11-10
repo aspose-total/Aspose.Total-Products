@@ -61,7 +61,47 @@ Depois de converter MOBI para XLAM, o [Aspose.Cells for Java](https://products.a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter arquivos MOBI para XLAM (Excel Add-In) permite a incorporação de funções de dados relacionadas ao MOBI diretamente nos ambientes do Excel. Essa transformação capacita análises avançadas e automação em fluxos de trabalho de publicação baseados em planilhas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+- Incorporar conversores de MOBI para dados em macros do Excel.
+
+- Automatizar funções de análise de eBooks para editores.
+
+- Desenvolver painéis de controle na planilha para desempenho de conteúdo digital.
+
+- Integrar ferramentas de análise de dados MOBI em complementos do Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+- Processamento de MOBI habilitado para macro usando automação XLAM.
+
+- Implantação de analisadores de MOBI em sistemas corporativos do Excel.
+
+- Geração dinâmica de complementos para tarefas de relatório de eBooks.
+
+- Extensões XLAM em tempo real para atualizações de conjuntos de dados MOBI.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

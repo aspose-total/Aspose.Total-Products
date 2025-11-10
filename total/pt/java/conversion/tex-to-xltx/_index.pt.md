@@ -47,7 +47,51 @@ Ao converter o arquivo TEX para XLTX, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter TEX para **XLTX (Modelo do Excel sem Macros)** fornece modelos seguros e reutilizáveis para tabelas e fórmulas geradas em LaTeX, ideais para ambientes colaborativos e multiplataforma.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Modelos acadêmicos e corporativos padronizados sem macros.
+
+* Planilhas de acompanhamento de projetos baseadas em LaTeX reutilizáveis.
+
+* Modelos financeiros e de pesquisa para compartilhamento seguro entre vários usuários.
+
+* Relatórios de várias planilhas para equipes de engenharia e ciências.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Criação em lote de modelos TEX para XLTX.
+
+* Integração automatizada em documentos e repositórios de modelos.
+
+* Atualizações programadas de modelos LaTeX para projetos colaborativos.
+
+* Implantação multiplataforma de modelos LaTeX sem macros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

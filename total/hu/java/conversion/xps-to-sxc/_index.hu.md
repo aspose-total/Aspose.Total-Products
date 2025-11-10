@@ -47,7 +47,51 @@ A XPS-fájl SXC-vé konvertálásakor vízjelet is hozzáadhat a kimeneti SXC-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XPS átalakítása **SXC (StarOffice táblázatkezelő)** formátumba visszafelé kompatibilitást biztosít az idősebb OpenOffice/StarOffice fájlokkal. Ez a formátum alkalmas az örökségi munkafolyamatokhoz és archiválási célokra.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Örökségi jelentések archiválása SXC formátumban.
+
+* Történelmi pénzügyi és működési adatkészletek.
+
+* XPS-alapú táblázatok migrálása nyílt forráskódú környezetekbe.
+
+* Műszaki vagy kutatási naplók az idősebb irodai csomagokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* XPS tárhelyek batch átalakítása SXC fájlokká.
+
+* Automatizált archiválás a szabályozási és ellenőrzési célokra.
+
+* Időszakos XPS jelentések ütemezett migrációja.
+
+* Örökségi rendszerintegrációs csővezetékek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **PPS (PowerPoint Show)** creëert presentaties met alleen dia's voor directe weergave, ideaal voor geautomatiseerde colleges, trainingssessies en snelle deling van LaTeX-inhoud.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Klaar-om-te-gebruiken academische college-decks.
+
+* Interactieve workshop-presentaties.
+
+* Samenvattingen van technische projecten voor klantpresentaties.
+
+* Conferentieklare slides op basis van LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geplande batch TEX-naar-PPS conversies.
+
+* Geautomatiseerde generatie van trainingsdecks uit LaTeX-inhoud.
+
+* Integratie met presentatiedeploymentsystemen.
+
+* Getriggerde PPS-creatie voor seminars of e-learning platforms.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

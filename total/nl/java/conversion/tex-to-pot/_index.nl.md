@@ -135,7 +135,55 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **POT (PowerPoint-sjabloon)** maakt het mogelijk om LaTeX-opgemaakte inhoud te gebruiken als een herbruikbaar PowerPoint-sjabloon voor academische, zakelijke en bedrijfspresentaties.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Professionele collegeslides met complexe vergelijkingen.
+
+* Bedrijfsprojectvoorstelsjablonen met LaTeX-tabellen.
+
+* Gestandaardiseerde sjablonen voor universitaire cursussen.
+
+* Presentaties voor technische of wetenschappelijke conferenties.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde batch TEX-naar-POT-conversies voor sjabloonbibliotheken.
+
+* Integratie in bedrijfssystemen voor geautomatiseerde dia's.
+
+* Geplande updates van sjablonen vanuit LaTeX-bronnen.
+
+* Geactiveerde generatie voor samenwerking tussen meerdere gebruikers.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

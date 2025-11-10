@@ -135,7 +135,51 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter TEX para **OTP (OpenDocument Presentation Template)** produz modelos de apresentação reutilizáveis com formatação LaTeX para um design consistente de slides de palestras ou negócios.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Modelos de palestras padronizados com equações estilizadas em LaTeX.
+
+* Modelos de slides de conferência para equipes de pesquisa.
+
+* Materiais educacionais reutilizáveis com conteúdo rico em fórmulas.
+
+* Modelos de propostas de projetos para apresentações técnicas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Geração em lote de modelos LaTeX-para-OTP para cursos.
+
+* Atualizações de modelos acionadas a partir de repositórios LaTeX.
+
+* Distribuição automatizada de modelos de slides para colaboradores.
+
+* Integração com fluxos de trabalho de apresentações de LMS de código aberto.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

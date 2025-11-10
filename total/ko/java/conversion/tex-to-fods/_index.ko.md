@@ -47,7 +47,51 @@ TEX 파일을 FODS로 변환하는 동안 출력 FODS 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX를 **FODS (Flat OpenDocument Spreadsheet)**로 변환하면 LaTeX 데이터를 LibreOffice 및 OpenOffice와 호환되는 오픈 XML 기반 스프레드시트로 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 오픈 소스 오피스 스위트와 LaTeX 기반 과학 테이블 공유.
+
+* 플랫폼에 독립적인 스프레드시트 형식이 필요한 학술 연구.
+
+* 다중 플랫폼 환경에서의 프로젝트 추적 및 보고.
+
+* 협업 FODS 스프레드시트를 위한 LaTeX 데이터 준비.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 오픈 소스 워크플로우를 위한 자동화된 TEX-to-FODS 변환.
+
+* 크로스 플랫폼 협업을 위한 LaTeX 데이터 세트의 일괄 처리.
+
+* 실험 결과나 실험 테이블의 예정된 내보내기.
+
+* 연구 기관의 문서 파이프라인 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

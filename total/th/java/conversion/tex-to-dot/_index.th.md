@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ TEX เป็น **DOT (เทมเพลตเอกสาร Word)** ช่วยให้ผู้ใช้สามารถใช้การจัดรูปแบบจาก LaTeX ในขณะสร้างเทมเพลต Word ที่สามารถนำมาใช้ซ้ำได้สำหรับการใช้งานในองค์กรหรือในสถาบันการศึกษา ซึ่งช่วยรักษาความสม่ำเสมอในรายงานทางการและเอกสารที่มีความเป็นมืออาชีพ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* หัวกระดาษบริษัทและเทมเพลตข้อเสนอด้วยการจัดรูปแบบแบบ LaTeX
+
+* เทมเพลตสำหรับการศึกษาหรือการสอบที่มีมาตรฐานสำหรับมหาวิทยาลัย
+
+* เทมเพลตเรซูเม่และเรซูเม่สำหรับการใช้งานอาชีพ
+
+* เทมเพลตเอกสารโครงการสำหรับวิศวกรและนักวิจัย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างเทมเพลตโดยอัตโนมัติสำหรับการสร้างรายงานเป็นชุด
+
+* การผสานกับซอฟต์แวร์อัตโนมัติเอกสารในสถาบันการศึกษา
+
+* การอัปเดตเทมเพลตโดยเรียกจากที่เก็บ LaTeX เพื่อความสม่ำเสมอในการสร้างแบรนด์
+
+* การสร้างไลบรารีเทมเพลตแบบไดนามิกสำหรับโครงการวิศวกร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

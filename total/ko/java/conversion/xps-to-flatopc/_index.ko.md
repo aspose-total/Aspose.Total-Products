@@ -129,7 +129,55 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS (XML Paper Specification) 파일을 **FLATOPC (Flat Open Packaging Conventions)**으로 변환하면 구조화된 XML 형식으로 문서 내용을 추출할 수 있어 레이아웃, 글꼴 및 메타데이터를 보존하여 고급 문서 처리 워크플로우에 유용합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 기업 문서 시스템을 위한 텍스트 및 서식 프로그래밍 추출.
+
+* 장기 보관을 위해 구조화된 XML로 XPS 문서 보관.
+
+* 자동 게시 파이프라인 통합.
+
+* 기술 또는 금융 보고서로부터 데이터 마이닝.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 기업 콘텐츠 관리를 위한 일괄 XPS-to-FLATOPC 변환.
+
+* 반복 보고서 워크플로우를 위한 예약된 추출.
+
+* AI 기반 문서 구문 분석 시스템과의 통합.
+
+* 규정 준수를 위한 추출된 문서 내용 자동 검증.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

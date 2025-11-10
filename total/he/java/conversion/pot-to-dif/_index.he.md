@@ -102,7 +102,45 @@ otherformats: XLTM MARKDOWN XLT XLSX XLS XLSB MHTML CSV XLSM ODS FODS EXCEL XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי POT ל־DIF (פורמט התעבורה של נתונים) מספקת דרך תקנית להעברת נתוני המצגת למערכות גיליון נתונים מורשות. DIF מבטיחה תאימות בין כלי ניתוח, ולכן מתאימה לארגונים ששומרים על מודלי נתונים היסטוריים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* העברת נתוני מצגת לצורך ניתוח ארכיוני.
+
+* שיתוף מדדים מבוססי PowerPoint עם מערכות מורשות.
+
+* ייבוא נתוני הכשרה או מכירות לסביבות התומכות ב־DIF.
+
+* שמירה על קבוצות נתונים מובנות, נייטרליות לפלטפורמה לצורך ביקורת.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* יצירת DIF אוטומטית עבור מערכות עסקיות מורשות.
+
+* צינורות נורמליזציה שממירים מצגות לרשומות מובנות.
+
+* המרות דוחות היסטוריים עבור מוסדות פיננסיים.
+
+* שילוב בערימות ניתוח היברידיות עם דרישות צורת קובץ מעבריות.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

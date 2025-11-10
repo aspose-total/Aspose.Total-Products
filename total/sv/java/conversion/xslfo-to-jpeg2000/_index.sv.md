@@ -57,7 +57,51 @@ Med hjälp av API:t kan du också rotera den utgående JPEG2000-bilden enligt di
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera XSLFO till **JPEG2000** ger högkomprimerade rasterbilder med minimal kvalitetsförlust. JPEG2000 är lämpligt för medicinsk avbildning, stora visuella rapporter och arkivering.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Arkivering av högupplösta XSLFO-rapporter med komplexa tabeller.
+
+* Förbereda detaljerade ekonomiska eller operationella visuella hjälpmedel för digital distribution.
+
+* Konvertera XSLFO-analyser till effektiva rasterbilder.
+
+* Generera stora visuella hjälpmedel för publikationer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batchkonvertering av XSLFO till JPEG2000 för arkivering.
+
+* Schemalagd generering för automatiserade publiceringsflöden.
+
+* Integration med bildoptimeringspipeliner.
+
+* Utlös högupplöst export från XSLFO-paneler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

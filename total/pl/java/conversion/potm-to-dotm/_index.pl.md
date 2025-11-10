@@ -53,7 +53,51 @@ Korzystając z API, możesz również wykonać konwersję pliku POTM do DOTM ze 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja POTM na DOTM tworzy szablony Word z obsługą makr pochodzące z szablonów PowerPoint. Umożliwia ponowne wykorzystanie składników automatyzacji, takich jak makra lub skrypty wypełniania danych, w szablonach Word dla szybszej produkcji dokumentów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Szablony generowania raportów automatyzujące przepływy pracy w firmie.
+
+* Tworzenie formularzy Word opartych na makrach z szablonów PowerPoint.
+
+* Szablony dokumentów technicznych z wbudowanymi skryptami automatyzacji.
+
+* Standaryzowane szablony wprowadzania danych dla działów HR lub finansów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Boty przepływu pracy generujące pliki DOTM na podstawie danych wejściowych z prezentacji.
+
+* Integracja z platformami automatyzacji dokumentów.
+
+* Masowa konwersja szablonów POTM na wielokrotnie używane formularze Word obsługujące makra.
+
+* Dynamiczne tworzenie szablonów umów na podstawie treści prezentacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

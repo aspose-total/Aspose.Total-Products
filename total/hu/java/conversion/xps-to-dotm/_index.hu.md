@@ -130,7 +130,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XPS átalakítása **DOTM (Word Macro-Enabled Template)** formátumba összefűzi a sablonhatékonyságot a makró automatizálással. A szervezetek egységes dokumentumelrendezéseket tarthatnak fenn, miközben ismétlődő feladatokat automatizálnak közvetlenül a Word-ben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Számla- és jelentéssablonok automatikus számítási makrókkal.
+
+* Jogosultsági űrlapok, amelyek automatikusan kitöltik a ügyféladatait.
+
+* Projekttervezési sablonok interaktív makrókkal a feladatkövetéshez.
+
+* HR dokumentumsablonok automatizált jóváhagyásokkal és értesítésekkel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges létrehozás standardizált makróval ellátott sablonok XPS forrásokból.
+
+* Integráció az ERP rendszerekbe az automatizált dokumentumgeneráláshoz.
+
+* Kiváltott sablonfrissítések forrás XPS fájlok változásakor.
+
+* Automatizált jelentési munkafolyamatok DOTM sablonok használatával.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,55 @@ A XSLFO-fájl TXT-vé konvertálásakor vízjelet is hozzáadhat a kimeneti TXT-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO fájlok **TXT (Egyszerű szöveg)** formátumba történő konvertálása egyetemes kompatibilitást biztosít az összes szövegszerkesztővel, adatfeldolgozási eszközzel és programozási környezettel. A TXT fájlok kinyerik az XSLFO-ból a lényeges tartalmat stílusozás nélkül, így ideálisak nyers adatelemzéshez, szkripteléshez és archiváláshoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* XSLFO táblázatok és jelentések exportálása batch adatfeldolgozáshoz.
+
+* Strukturált pénzügyi vagy működési jelentések egyszerű szöveges verzióinak előkészítése.
+
+* XSLFO tartalom archiválása egyetemesen elérhető formátumban.
+
+* Nyers adatok kinyerése analitikai csővezetékek számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ütemezett batch konverzió XSLFO-ról TXT-re automatizált munkafolyamatokhoz.
+
+* Integráció az ETL és adat előfeldolgozási csővezetékekbe.
+
+* Ismétlődő XSLFO jelentésekből történő automatizált TXT export.
+
+* Egyszerű szöveges összefoglalók automatikus kinyerése XSLFO irányítópultokból.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

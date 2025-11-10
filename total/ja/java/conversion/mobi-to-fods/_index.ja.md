@@ -61,7 +61,47 @@ MOBIをFODSに変換した後、[Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBIをFODS（Flat OpenDocument Spreadsheet）にエクスポートすると、軽量データのやり取りに最適なXMLベースのスプレッドシート出力が得られます。オープンソース環境やプレーンテキスト構造の電子書籍データを必要とするシステムに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+- オープンソースのスプレッドシートアプリケーションでの電子書籍ライブラリの管理。
+
+- LibreOffice Calc内でのMOBIコンテンツ属性の編集。
+
+- デジタルライブラリ分析のための軽量レポートの作成。
+
+- オープンフォーマットを使用してチーム間でメタデータを共有。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- オープンデータポータル向けのバッチMOBIからFODSへの変換。
+
+- オープンソースETLデータパイプラインへの統合。
+
+- メタデータの検証とクレンジングのためのXMLパース。
+
+- 学術機関向けのFODSベースのデータ公開。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

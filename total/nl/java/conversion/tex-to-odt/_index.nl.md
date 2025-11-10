@@ -143,7 +143,55 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **ODT (OpenDocument Text)** stelt LaTeX-gebruikers in staat om open-standaard documenten te produceren die compatibel zijn met LibreOffice, OpenOffice en andere kantoorpakketten, waardoor toegankelijkheid en samenwerking over platforms worden gegarandeerd.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke Gebruiksscenario's" %}}
+
+
+
+* Academische inzendingen in open documentformaten.
+
+* Samenwerkingsonderzoeksrapporten met multi-platform compatibiliteit.
+
+* Documentatie en handleidingen voor open-source projecten.
+
+* LaTeX-geformatteerde eBooks of lesmateriaal voor open-source tools.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch TEX naar ODT conversie voor universitaire repositories.
+
+* Integratie in open-source publicatiepijplijnen.
+
+* Geautomatiseerde conversie voor distributie van documentatie over meerdere platforms.
+
+* Genereren van dynamische ODT-rapporten uit LaTeX-datasets.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

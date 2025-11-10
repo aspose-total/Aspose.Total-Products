@@ -54,7 +54,51 @@ APIを使用すると、パスワードで保護されたTXTドキュメント�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXTを**POTX（PowerPointテンプレートXML）**に変換すると、モダンでスケーラブルでXMLベースのテンプレート生成が可能になります。共同作業フローおよびクラウドベースのプレゼンテーション編集プラットフォームに簡単に統合できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 分散チーム向けのクラウド対応プレゼンテーションテンプレート。
+
+* テキスト講義ノートから生成されたXMLベースの学術スライド。
+
+* 編集可能なPOTXテンプレートに変換されたプロジェクトの進捗状況更新。
+
+* クロスチームのコラボレーションのためのテキストコンテンツから作成されたマーケティング戦略デッキ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 企業コンテンツシステムでの自動化されたTXTからPOTXへの変換。
+
+* CRMプラットフォームからのテキスト入力を使用したリアルタイムテンプレート更新。
+
+* 定期的なレポートサイクルのためのスケジュールされたバッチ変換。
+
+* プレゼンテーションスライドの自動デザインのためのAIツールとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

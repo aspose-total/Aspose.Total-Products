@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**POT（PowerPointテンプレート）**に変換すると、LaTeXスタイルのコンテンツが学術、ビジネス、企業プレゼンテーション用の再利用可能なPowerPointテンプレートになります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 複雑な方程式を含むプロフェッショナルな講義スライド。
+
+* LaTeXテーブルを使用した企業プロジェクト提案テンプレート。
+
+* 大学のコース向けの標準化されたテンプレート。
+
+* エンジニアリングまたは科学のカンファレンスプレゼンテーション。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* テンプレートライブラリ向けの自動バッチTEXからPOTへの変換。
+
+* 企業スライド自動化システムへの統合。
+
+* LaTeXソースからの定期的なテンプレート更新。
+
+* マルチユーザー協力のためのトリガー生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

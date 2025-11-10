@@ -57,7 +57,51 @@ Met behulp van de API kunt u ook de uitgevoerde APNG-afbeelding roteren volgens 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX-bestanden naar **APNG (Animated PNG)** maakt het mogelijk om LaTeX-diagrammen, vergelijkingen en grafieken om te zetten in geanimeerde afbeeldingen voor webgebaseerde presentaties, educatieve inhoud en interactieve visualisaties.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Geanimeerde wiskundige illustraties voor online colleges.
+
+* Interactieve LaTeX-grafieken in educatieve webapplicaties.
+
+* Dynamische diagrammen voor e-learning platforms.
+
+* Visualisatie van door LaTeX gegenereerde datatrends in de loop van de tijd.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch TEX-naar-APNG conversie voor cursusmaterialen.
+
+* Integratie in geautomatiseerde webpublicatiepijplijnen.
+
+* Getriggerde weergave voor op AI gebaseerde educatieve tools.
+
+* Automatische generatie van animaties uit LaTeX-plots voor tutorials.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

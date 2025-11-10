@@ -143,7 +143,45 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง TEX เป็น **WordML (รูปแบบ XML ของ Microsoft Word)** ทำให้เนื้อหา LaTeX เข้ากันได้อย่างสมบูรณ์กับเอกสารที่ใช้ XML เช่นเอกสาร Word, ทำให้สามารถใช้ในกระบวนการอัตโนมัติ, การตรวจสอบเนื้อหา, และการผสานรวมกับระบบองค์กรได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การสร้างรายงานทางวิทยาศาสตร์ที่ใช้ XML จาก LaTeX sources
+* กระบวนการทำงานเอกสารขององค์กรโดยใช้ WordML โครงสร้าง
+* การทำงานร่วมกันของผู้เขียนหลายคนด้วยการผสานเนื้อหาโดยอัตโนมัติ
+* การเผยแพร่โดยใช้ XML ของเอกสารทางวิชาการหรือเทคนิค
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* การสร้างเอกสาร WordML โดยอัตโนมัติจากเก็บข้อมูล LaTeX
+* การรวมเข้ากับระบบการจัดการเนื้อหาขององค์กร
+* การส่งออก XML ตามที่กำหนดสำหรับการเผยแพร่งานวิจัยขนาดใหญ่
+* การประมวลผลเป็นชุดสำหรับรายงานการปฏิบัติตามกฎหมายและการส่งเสนอทางวิชาการ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

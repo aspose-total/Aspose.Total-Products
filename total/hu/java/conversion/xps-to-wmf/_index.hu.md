@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti WMF-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XPS átalakítása **WMF (Windows Metafile)** formátumra skálázható vektorgrafikát eredményez, amely alkalmas a Microsoft Office integrációra és műszaki illusztrációk készítésére.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Vektorgrafikák beágyazása az irodai dokumentumokba.
+
+* Műszaki diagramok készítése kézikönyvekhez és jelentésekhez.
+
+* Skálázható grafikát igénylő marketing vizuális elemek.
+
+* Illusztrációs tartalom prezentációkhoz és brosúrákhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges XPS-WMF konverzió vállalati dokumentumtárakhoz.
+
+* Skálázható diagramok automatizált létrehozása XPS fájlokból.
+
+* Integráció kiadási csatornákkal.
+
+* Ütemezett frissítések ismétlődő vektorgrafikákhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

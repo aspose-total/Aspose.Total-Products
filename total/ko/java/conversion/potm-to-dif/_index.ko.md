@@ -61,7 +61,51 @@ POTM 파일을 DIF로 변환하는 동안 출력 DIF 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM을 DIF(데이터 교환 형식)로 변환하면 표 형식 데이터를 오래된 스프레드시트 프로그램이나 크로스 플랫폼 애플리케이션으로 쉽게 전송할 수 있습니다. DIF는 구조화된 숫자 및 텍스트 데이터의 원활한 호환성을 보장합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 기업 재무 슬라이드를 DIF로 변환하여 레거시 회계 소프트웨어와 호환성 확보.
+
+* 과학 데이터 세트를 오래된 통계 도구와 호환되도록 프레젠테이션에서 내보내기.
+
+* 크로스 플랫폼 스프레드시트 사용을 위해 프로젝트 관리 테이블 재서식화.
+
+* 다중 애플리케이션 보고를 위해 구조화된 프레젠테이션 테이블 보존.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 기업 레거시 시스템을 위해 POTM 템플릿을 DIF로 변환하는 워크플로 자동화.
+
+* 아카이빙이나 보고를 위해 슬라이드 기반 테이블 일괄 추출.
+
+* 자동화된 데이터 처리 파이프라인 통합.
+
+* 중앙 집중식 프레젠테이션 저장소에서 트리거된 DIF 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

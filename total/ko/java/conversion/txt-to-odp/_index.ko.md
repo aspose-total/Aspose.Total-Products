@@ -54,7 +54,55 @@ API를 사용하면 암호로 보호된 TXT 문서를 ODP로 변환할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT(일반 텍스트) 파일을 **ODP(OpenDocument Presentation)** 형식으로 변환하면 가공되지 않은 텍스트 보고서를 구조화된 슬라이드 덱으로 원활하게 변환할 수 있어 비즈니스 미팅과 협업 프레젠테이션에 이상적입니다. ODP 형식은 LibreOffice, OpenOffice 및 기타 오픈 소스 생산성 스위트 간의 호환성을 보장합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 회의록을 전문적인 ODP 슬라이드 덱으로 변환하기.
+
+* 학술 연구 요약을 강의용 프레젠테이션으로 변환하기.
+
+* 이사회 회의를 위해 내부 회사 보고서 형식 지정하기.
+
+* 정책 문서에서 생성된 교육 모듈.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 인사 입사 교육 자료를 위한 자동화된 TXT-to-ODP 변환.
+
+* 기업 지식 관리 시스템 통합.
+
+* 주간 운영 보고서의 일괄 변환 일정화.
+
+* 프로젝트 관리 로그에서 ODP 슬라이드 생성 트리거.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

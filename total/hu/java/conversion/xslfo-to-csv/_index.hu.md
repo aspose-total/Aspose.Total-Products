@@ -47,7 +47,55 @@ A XSLFO-fájl CSV-vé konvertálásakor vízjelet is hozzáadhat a kimeneti CSV-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO (Extensible Stylesheet Language Formatting Objects) fájlok **CSV (vesszővel elválasztott értékek)** formátumba történő konvertálása lehetővé teszi az adattáblázatok könnyű kinyerését gyors jelentéskészítéshez, adatelemzéshez és üzleti intelligencia folyamatokhoz. A CSV egy könnyű súlyú formátum marad, amely kompatibilis a legtöbb elemző és adatbázis eszközzel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Pénzügyi jelentések exportálása XML-alapú XSLFO elrendezésekből CSV-be ellenőrzési célokra.
+
+* Értékesítés és készletkövetés egyszerűsítése felhőalapú BI eszközökben.
+
+* Az XSLFO által generált adatok előkészítése gépi tanulás előfeldolgozásához.
+
+* CSV összefoglalók generálása automatizált e-mail jelentésekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ütemezett XSLFO számlák konvertálása CSV-be a könyvelési rendszerek számára.
+
+* Integráció az ETL csővezetékekbe a hagyományos XSLFO adatmigráció egyszerűsítése érdekében.
+
+* Az XSLFO alapú operatív adatok valós idejű kinyerése analitikai irányítópultokba.
+
+* Automatizált tételkonverzió több részlegi jelentéshez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

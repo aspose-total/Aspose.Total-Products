@@ -47,7 +47,51 @@ XSLFO 파일을 EXCEL로 변환하는 동안 출력 EXCEL 파일 형식에 워�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO를 **EXCEL (XLS/XLSX)**로 변환하면 고급 데이터 분석, 피벗 테이블 및 시각화에 적합한 완전히 서식이 지정된 스프레드시트가 제공됩니다. Excel 형식 변환은 재무, 회계 및 운영 보고 워크플로에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* XSLFO로 생성된 송장을 Excel로 변환하여 고객 검토에 사용합니다.
+
+* 테이블 형식의 보고 데이터에서 동적 피벗 테이블 생성합니다.
+
+* Excel에서 부서 성과 대시보드를 생성합니다.
+
+* 협업 비즈니스 계획을 위해 XSLFO 보고서를 준비합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XSLFO 보고서를 Excel로 변환하여 이해관계자에게 매일 밤 예약 전달합니다.
+
+* 자동 분석을 위해 VBA 매크로와 통합합니다.
+
+* XSLFO 소스에서 Excel 대시보드를 자동으로 생성합니다.
+
+* 운영 XSLFO 파일을 Excel 스프레드시트로 변환하는 ETL 워크플로를 구축합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

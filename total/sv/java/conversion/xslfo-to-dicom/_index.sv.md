@@ -57,7 +57,55 @@ Med hjälp av API:t kan du också rotera den utgående DICOM-bilden enligt dina 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera XSLFO till **DICOM (Digital Imaging and Communications in Medicine)** möjliggör integration av strukturerat rapportinnehåll med medicinska bildhanteringsflöden. DICOM är standard inom radiologi, kliniska studier och sjukhusinformationssystem.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* Bädda in strukturerade patientrapporter bredvid XSLFO-genererade visualiseringar.
+
+* Förbereda diagnostiska instrumentpaneler för granskning av kliniska data.
+
+* Konvertera medicinska analytiktabeller till DICOM-kompatibla bilder.
+
+* Integrera XSLFO-genererade labresultat i PACS-system.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Schemalagd konvertering av XSLFO-rapporter till DICOM-format för sjukhus.
+
+* Integration i automatiserade elektroniska patientjournal (EHR)-pipelines.
+
+* Utlöst generering av DICOM-visualiseringar från XSLFO-kliniska rapporter.
+
+* Batchbehandling för visualisering av forskningsdata inom hälso- och sjukvård.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

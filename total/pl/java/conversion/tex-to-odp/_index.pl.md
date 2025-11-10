@@ -135,7 +135,55 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików TEX na **ODP (OpenDocument Presentation)** pozwala przekształcić treści LaTeX, wzory i tabele w prezentacje zgodne z LibreOffice i OpenOffice. Idealne dla akademików i inżynierów, którzy chcą udostępniać badania oparte na LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne zastosowania" %}}
+
+
+
+* Wykłady akademickie z równaniami wygenerowanymi w LaTeX.
+
+* Prezentacje projektów open-source z danymi strukturalnymi.
+
+* Slajdy konferencyjne na tematy matematyczne, fizyczne lub inżynieryjne.
+
+* Materiały dydaktyczne z interaktywnymi diagramami opartymi na LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja zbiorcza TEX na ODP dla materiałów szkoleniowych.
+
+* Generowanie slajdów z repozytoriów badań LaTeX zgodnie z harmonogramem.
+
+* Integracja z otwartymi systemami do tworzenia prezentacji.
+
+* Aktualizacje slajdów akademickich od wielu autorów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

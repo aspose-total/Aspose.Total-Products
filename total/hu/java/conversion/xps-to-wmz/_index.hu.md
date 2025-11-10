@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti WMZ-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XPS átalakítása **WMZ (Tömörített Windows Metafile)** formátummá lehetővé teszi a kompakt vektorgrafikák elosztását, prezentációkat és műszaki dokumentációkat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Tömörített diagramok prezentációkhoz és e-mailekhez.
+
+* Műszaki illusztrációk kézikönyvekhez és útmutatókhoz.
+
+* Marketing anyagok skálázható grafikákkal.
+
+* Vektorokban gazdag dokumentumok archiválása kompakt formában.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges XPS-WMZ konverzió dokumentumelosztáshoz.
+
+* Integráció tartalomkezelő rendszerekkel.
+
+* Ütemezett tömörített vektorfájlok generálása.
+
+* Egyszerűsített feldolgozás prezentációkhoz vagy marketingtartalmakhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

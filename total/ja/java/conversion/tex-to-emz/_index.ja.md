@@ -57,7 +57,55 @@ APIを使用すると、必要に応じて出力EMZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXを**EMZ（圧縮されたWindowsメタファイル）**に変換することで、LaTeXベクトルグラフィックスを圧縮された形式で保存し、プレゼンテーション、文書、技術出版物に適した状態で保持できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* LaTeXダイアグラムをMicrosoft Office文書に埋め込む。
+
+* 技術レポート用のベクトルグラフィックスを保存する。
+
+* プロフェッショナルな出版物用の再利用可能なLaTeX図解。
+
+* 学術用PDF向けの圧縮されたグラフィックス。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* ドキュメントライブラリのバッチ圧縮および変換。
+
+* 自動化されたパブリッシングワークフローへの統合。
+
+* スライドデッキやレポート用のトリガー付きEMZ生成。
+
+* 圧縮された形式でLaTeXダイアグラムをアーカイブし、簡単に配布する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

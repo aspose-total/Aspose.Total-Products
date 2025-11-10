@@ -121,7 +121,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików XPS na **SWF (Shockwave Flash)** umożliwia tworzenie interaktywnych lub animowanych prezentacji dla starszych aplikacji internetowych i platform e-learningowych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Starsze moduły e-learningowe wymagające animacji Flash.
+
+* Interaktywne samouczki oparte na dokumentach.
+
+* Animowane treści marketingowe dla historycznych platform internetowych.
+
+* Prezentacje bogate w multimedia dla kursów edukacyjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja XPS na SWF wsadowo dla systemów e-learningowych opartych na archiwach.
+
+* Automatyczne generowanie interaktywnych treści flash.
+
+* Zaplanowane aktualizacje dla powtarzających się modułów szkoleniowych.
+
+* Integracja z historycznymi portalami internetowymi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

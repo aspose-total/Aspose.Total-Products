@@ -129,7 +129,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS (XML Paper Specification) dosyalarını **FLATOPC (Flat Open Packaging Conventions)** biçimine dönüştürmek, belge içeriğinin yapılandırılmış bir XML biçiminde çıkarılmasına olanak tanır; düzen, yazı tipleri ve gelişmiş belge işleme iş akışları için meta veriler korunur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Kurumsal belge sistemleri için metin ve biçimlendirmenin programlı çıkarılması.
+
+* Uzun vadeli depolama için yapılandırılmış XML biçiminde XPS belgelerinin arşivlenmesi.
+
+* Otomatik yayınlama iş akışlarına entegrasyon.
+
+* Teknik veya finansal raporlardan veri madenciliği.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Kurumsal içerik yönetimi için toplu XPS-FLATOPC dönüşümü.
+
+* Tekrarlayan rapor iş akışları için zamanlanmış çıkarım.
+
+* AI tabanlı belge ayrıştırma sistemleriyle entegrasyon.
+
+* Uyumluluk için çıkarılan belge içeriğinin otomatik doğrulanması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

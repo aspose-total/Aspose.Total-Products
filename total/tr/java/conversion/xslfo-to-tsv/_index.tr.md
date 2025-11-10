@@ -47,7 +47,55 @@ XSLFO dosyasını TSV'ye dönüştürürken, çıktı TSV dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFO'nun **TSV (Sekmeyle Ayrılmış Değerler)** biçimine dönüştürülmesi, analizler, veritabanı içe aktarma veya ETL süreçleri için tablo verilerinin çıkarılmasını basitleştirir. TSV hafif, insan tarafından okunabilir ve programlama dilleri ve veri araçları tarafından geniş desteklenmektedir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Veritabanı alımı için XSLFO raporlarının TSV'ye aktarılması.
+
+* Yapılandırılmış XSLFO tablolarından analiz dostu veri kümelerinin hazırlanması.
+
+* XSLFO finansal tablolardan analiz platformlarına veri göçü.
+
+* Kolay entegrasyon için TSV biçiminde basit tablo verilerinin paylaşılması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* BI boru hatları için XSLFO'dan TSV'ye zamanlanmış toplu dönüşüm.
+
+* Gerçek zamanlı analiz iş akışları için ETL entegrasyonu.
+
+* Otomatik panolar için XSLFO raporlarından tetiklenen TSV dışa aktarımı.
+
+* Büyük ölçekli XSLFO veri kümeleri için programatik dönüşüm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

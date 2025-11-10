@@ -61,7 +61,45 @@ POTファイルをMARKDOWNに変換するときに、出力MARKDOWNファイル�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTをMARKDOWNに変換することで、教育者、開発者、プロフェッショナルがPowerPointプレゼンテーションを軽量でWeb対応のドキュメントに変換できます。Markdownのシンプルさにより、コンテンツプロジェクトでの簡単なコラボレーションとバージョン管理が可能です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* PowerPointスライドをMarkdownベースのコース教材に変換する。
+
+* マーケティングプレゼンテーションをブログ用のドキュメントに変換する。
+
+* Gitベースのドキュメントシステム向けの技術レポートを準備する。
+
+* 企業のトレーニングデッキから開発者向けドキュメントを作成する。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* ドキュメントワークフローでのPowerPointテンプレートからのMarkdown生成。
+
+* HugoやJekyllなどの静的サイトジェネレータとの統合。
+
+* Markdownノートへの自動プレゼンテーション要約。
+
+* Markdown出力を使用したバージョン管理された知識管理。
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

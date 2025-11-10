@@ -57,7 +57,51 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz DXF z
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **DXF (Drawing Exchange Format)** pozwala na wykorzystanie technicznych diagramów, planów i schematów generowanych w LaTeX w oprogramowaniu CAD do projektów inżynieryjnych i architektonicznych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Schematy inżynieryjne z technicznych dokumentów LaTeX.
+
+* Diagramy architektoniczne do integracji z CAD.
+
+* Wizualizacja wykresów oparta na LaTeX do projektów projektowych.
+
+* Schematy produkcyjne lub prototypowe pochodzące z LaTeX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa TEX na DXF dla procesów inżynieryjnych.
+
+* Integracja z potokami pracy oprogramowania CAD.
+
+* Wywołane zautomatyzowane generowanie schematów projektowych.
+
+* Archiwizacja schematów LaTeX w formacie DXF do użytku międzyplatformowego.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

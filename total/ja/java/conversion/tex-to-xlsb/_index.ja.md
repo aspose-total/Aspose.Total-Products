@@ -47,7 +47,51 @@ TEXファイルをXLSBに変換するときに、出力XLSBファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+大規模なLaTeXデータセットに対してTEXを**XLSB（Excelバイナリワークブック）**に変換することで、フォーミュラと書式を保持しながらファイルサイズを最適化し、高速なパフォーマンスを実現します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* LaTeXからの大規模な金融やエンジニアリングデータセット。
+
+* データ集約型プロジェクト向けのパフォーマンス最適化されたスプレッドシート。
+
+* 埋め込み計算を含む複数シートのLaTeXレポート。
+
+* コンパクトなバイナリストレージが必要な学術研究データ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* LaTeXテーブルのバッチ変換をXLSBに高速化。
+
+* 企業BIパイプラインへの統合。
+
+* バイナリExcelレポートの自動生成によるLaTeX。
+
+* 複数部門の協力のためのXLSB作成のトリガー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

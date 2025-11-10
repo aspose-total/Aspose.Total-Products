@@ -130,7 +130,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPSを**OTT（OpenDocument Text Template）**に変換すると、静的なXPSファイルが再利用可能なテンプレートに変わり、LibreOfficeやOpenOfficeユーザーに適しており、オープンフォーマットでの標準化されたワークフロード文書に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 学生や教師向けの学術および教育資料のテンプレート。
+
+* 報告書や提案書のためのNGOプロジェクトのテンプレート。
+
+* 企業文書のための標準化されたオープンソースのテンプレート。
+
+* パンフレットやニュースレターのためのクリエイティブコンテンツのテンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* XPSリポジトリからのOTTテンプレートの一括生成。
+
+* オープンソースのワークフロー自動化ツールとの統合。
+
+* 組織データでのテンプレートの自動入力。
+
+* クロスプラットフォームの文書作成プロセスの効率化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

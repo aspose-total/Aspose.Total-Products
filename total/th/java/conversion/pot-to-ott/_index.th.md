@@ -53,7 +53,45 @@ otherformats: DOTM WORD DOT OTTX TEXT OTT WORDML DOTX ODT FLATOPC OTTM RTF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POT เป็น OTT (OpenDocument Text Template) ช่วยให้องค์กรสร้างเทมเพลตเอกสารที่สามารถนำกลับมาใช้ซ้ำได้ที่เป็นไปตามมาตรฐานเปิด. เทมเพลต OTT เหมาะสำหรับสถาบันที่เน้นในเรื่องความเข้าถึงและการเก็บถาวรระยะยาว.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้างเทมเพลตมาตรฐานเปิดจากวัสดุการอบรม PowerPoint.
+
+* แปลงรูปแบบการนำเสนอเป็นเทมเพลตข้อความที่สามารถนำกลับมาใช้ซ้ำได้.
+
+* สร้างรูปแบบเอกสารที่สม่ำเสมอสำหรับการเผยแพร่ทางวิชาการ.
+
+* ออกแบบเทมเพลตเอกสารเปิดให้ใช้สำหรับเอกสารองค์กรไม่แสวงหาผลกำไร.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+* การสร้าง OTT โดยอัตโนมัติจากเลย์เอาต์หลัก PowerPoint.
+
+* การผสานรวมกับกระบวนการทำงานเอกสารโอเพนซอร์ส.
+
+* การซิงโครไนซ์เทมเพลตในเครื่องเก็บเอกสารของสถาบัน.
+
+* ระบบเอกสารของรัฐบาลใช้เทมเพลตรูปแบบเปิด.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

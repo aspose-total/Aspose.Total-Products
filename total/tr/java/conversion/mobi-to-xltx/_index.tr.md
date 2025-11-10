@@ -61,7 +61,47 @@ MOBI'yi XLTX'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://produ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI dosyasını XLTX'ye (Excel Şablonu) dönüştürmek, standartlaştırılmış analizler için ideal olan temiz, XML tabanlı şablonlar oluşturur. Sürekli kitap raporlama çerçeveleri isteyen kuruluşlar için mükemmeldir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+- MOBI katalog dışa aktarmaları için markalı şablonların kurulması.
+
+- Bölümler arasında görsel panoların tekrar kullanımı.
+
+- Veri aktarımı için tekrarlanabilir modeller oluşturma.
+
+- Birden fazla şubede MOBI analizlerinin standartlaştırılması.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+- Zamanlanmış MOBI'den XLTX şablonunun yeniden oluşturulması.
+
+- Otomatik Excel rapor oluşturucularla entegrasyon.
+
+- Çoklu bölüm şablon senkronizasyonu.
+
+- XLTX tetikleyicileri aracılığıyla bulut tabanlı MOBI veri aktarımı.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

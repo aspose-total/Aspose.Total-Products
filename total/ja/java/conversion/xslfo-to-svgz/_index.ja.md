@@ -57,7 +57,55 @@ APIを使用すると、必要に応じて出力SVGZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSLFOを**SVGZ（圧縮されたSVG）**に変換すると、ウェブ、ダッシュボード、レスポンシブアプリケーション向けの圧縮された形式でスケーラブルなベクターグラフィックスが提供されます。SVGZはファイルサイズを削減しながら品質を保持します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* XSLFOレポートからウェブダッシュボード用のインタラクティブチャートを作成する。
+
+* レスポンシブアプリケーションにスケーラブルなビジュアルを埋め込む。
+
+* 圧縮された形式でベクターベースの財務表をアーカイブする。
+
+* eラーニングやナレッジベース向けの図を準備する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* ウェブレポート用のバッチXSLFOからSVGZへの変換。
+
+* 圧縮されたベクターグラフィックスの定期的なエクスポート。
+
+* 自動化されたオンラインダッシュボードワークフローとの統合。
+
+* XSLFOアナリティクスからのSVGZ画像のトリガー作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

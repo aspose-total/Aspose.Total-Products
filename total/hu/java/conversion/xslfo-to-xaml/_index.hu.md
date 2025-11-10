@@ -135,7 +135,55 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO (Extensible Stylesheet Language Formatting Objects) fájlok átalakítása **XAML (Extensible Application Markup Language)** formátumra lehetővé teszi a fejlesztők és tervezők számára, hogy strukturált jelentéseket alakítsanak át gazdag, interaktív és skálázható UI komponensekké asztali és webes alkalmazások számára. A XAML megőrzi a stílust, elrendezést és hierarchikus struktúrákat az XSLFO-ból, miközben lehetővé teszi a zökkenőmentes integrációt a WPF, UWP és más XAML alapú keretrendszerekkel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Az XSLFO által generált irányítópultok átalakítása WPF alkalmazásokká interaktív táblázatokkal és diagramokkal.
+
+* Strukturált pénzügyi vagy működési jelentések beágyazása asztali felületekbe.
+
+* UI komponensek tervezése vállalati alkalmazásokhoz XSLFO tartalom alapján.
+
+* Strukturált elemzési jelentések átalakítása interaktív XAML vizuálissá prezentációs alkalmazások számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ismétlődő XSLFO jelentések automatizált tételszerű átalakítása XAML UI komponensekké.
+
+* Integráció valós idejű XAML irányítópultok generálásához ETL csővezetékekbe.
+
+* Ütemezett frissítések XAML felületekhez dinamikus XSLFO adatforrásokból.
+
+* Kiváltott XAML elrendezések generálása jelentési, vizualizációs vagy alkalmazáskeretrendszerekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

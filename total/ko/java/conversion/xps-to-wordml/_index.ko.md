@@ -129,7 +129,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **WordML (Word Processing ML)**로 변환하면 기술 사용자가 Word의 XML 기반 문서 구조와 직접 작업할 수 있습니다. 이를 통해 자동화된 편집, 콘텐츠 추출 및 고급 문서 워크플로에 통합할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 프로그래밍 방식으로 동적 Word 문서를 생성하는 개발자.
+
+* 텍스트 및 메타데이터의 자동 추출 및 조작.
+
+* 기업 콘텐츠 관리 시스템에 통합.
+
+* XML 기반 조작이 필요한 기술적 출판 파이프라인.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 대량 문서 처리를 위한 자동화된 XPS-to-WordML 파이프라인.
+
+* 사용자 정의 Word 보고서를 생성하는 AI 시스템과 통합.
+
+* XML 기반 Word 문서에서 트리거된 콘텐츠 업데이트.
+
+* 기술 및 법적 문서용 간소화된 XML 편집.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,51 @@ Met behulp van de API kunt u ook de uitgevoerde TGA-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van TEX naar **TGA (Targa-afbeelding)** maakt hoogwaardige rasterexports mogelijk van door LaTeX gegenereerde figuren voor grafisch intensieve toepassingen, wetenschappelijke visualisaties en digitale kunst.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Wetenschappelijke illustraties met hoge nauwkeurigheid.
+
+* Door LaTeX gegenereerde diagrammen voor grafische bewerking.
+
+* Voorbereiden van visuals voor animatie- en simulatieworkflows.
+
+* Digitale publicatie die een verliesvrije beeldkwaliteit vereist.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch TEX-naar-TGA-export voor onderzoeksvisualisatiepijplijnen.
+
+* Integratie met grafische verwerkings- en simulatietools.
+
+* Getriggerde generatie van hoogwaardige afbeeldingen uit LaTeX-inhoud.
+
+* Geautomatiseerde archivering van diagrammen in TGA voor grafische teams.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

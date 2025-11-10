@@ -47,7 +47,55 @@ A XSLFO-fájl XLTX-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSLFO átalakítása **XLTX formátumra (Excel sablon makrók nélkül)** biztonságos, újrafelhasználható sablonokat eredményez ismétlődő jelentésekhez anélkül, hogy fennállna a makrók végrehajtásának kockázata. Az XLTX megőrzi a formázást, stílusokat és táblázatstruktúrákat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Havi pénzügyi sablonok előkészítése XSLFO alapján a csapat használatára.
+
+* Projektkövetési táblázatok létrehozása biztonságosan különböző osztályok közötti terjesztéshez.
+
+* KPI jelentési sablonok terjesztése makrók nélkül.
+
+* Szabványos XSLFO jelentési struktúrák archiválása XLTX formátumban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ütemezett XSLFO-to-XLTX konverzió ismétlődő jelentéskiosztáshoz.
+
+* Integráció sablonkezelő rendszerekbe a következetes jelentési célok érdekében.
+
+* Makrómentes sablonok tömeges generálása vállalati munkafolyamatokhoz.
+
+* XLTX fájlok kiváltott létrehozása XSLFO-ból szabványosított jelentési célokra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -53,7 +53,45 @@ API를 사용하여 워터마크를 사용하여 POT 파일을 RTF로 변환할 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POT를 RTF (Rich Text Format)로 변환하면 넓은 호환성과 플랫폼 독립성을 제공합니다. 기업 및 교육기관은 기본 서식을 유지하면서 PowerPoint에서 파생된 텍스트 콘텐츠를 시스템 간에 쉽게 공유할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 다양한 소프트웨어 사용자를 위한 편집 가능한 교육 요약 생성.
+
+* 프레젠테이션 노트를 가벼운 RTF 문서로 내보내기.
+
+* 규정 준수 감사를 위한 가독성 있는 보고서 배포.
+
+* 플랫폼 간 협업을 위한 RTF 기반 템플릿 생성.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* 자동화된 문서화 시스템에서의 RTF 내보내기.
+
+* 가벼운 데이터 교환 파이프라인으로의 통합.
+
+* 기업 콘텐츠 전달 시스템을 위한 예약 변환.
+
+* 보편적으로 읽을 수 있는 형식으로 프레젠테이션 데이터 대량 보관.
+
+&nbsp; {{% /blocks/products/pf/agp/feature-section-col %}}
+
+&nbsp; {{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

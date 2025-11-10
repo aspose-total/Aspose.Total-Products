@@ -129,7 +129,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS를 **MHTML (MIME HTML)**로 변환하면 이미지, 텍스트, 스타일을 포함한 전체 문서를 하나의 웹용 파일로 패키징하여 아카이빙이나 공유에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 웹 호환 형식으로 XPS 문서 아카이빙.
+
+* 외부 첨부 파일 없이 전체 보고서 이메일로 공유.
+
+* 내부 웹 포털에 XPS 콘텐츠 게시.
+
+* 기업이나 학술용 웹 기반 문서.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 기업 아카이브를 위한 자동 일괄 XPS-to-MHTML 변환.
+
+* 웹용 문서 버전의 예약 생성.
+
+* 내부 배포를 위한 인트라넷 시스템 통합.
+
+* 보고서와 매뉴얼의 디지털 아카이빙을 위한 간소화된 워크플로우.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

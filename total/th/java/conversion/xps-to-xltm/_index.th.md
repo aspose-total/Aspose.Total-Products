@@ -47,7 +47,52 @@ otherformats: XLAM XLSB DIF FODS XLT ODS XLSM TSV XLTX EXCEL XLTM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XPS เป็น **XLTM (แมโครทำงานแล้ว Excel Template)** ช่วยให้สามารถใช้เทมเพลตที่มีแมโครเพื่อการใช้ซ้ำได้ รวมถึงการผสานออโตเมชันกับโครงสร้างสเปรดชีตที่ออกแบบไว้ล่วงหน้าเพื่อเพิ่มประสิทธิภาพในสภาพแวดล้อมขององค์กร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* เทมเพลตการวางแผนงบประมาณที่มีแมโครซ้อนอยู่
+
+* เทมเพลตรายงานการขายและการตลาดอัตโนมัติ
+
+* เทมเพลตคำนวณทรัพยากรบุคคลและการจ่ายเงิน
+
+* เทมเพลตการจัดการโครงการพร้อมออโตเมชันงาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์ออโตเมชัน" %}}
+
+
+
+* การสร้างเทมเพลต XPS-to-XLTM จำนวนมากสำหรับออโตเมชันขององค์กร
+
+* การผสานรวมกับซอฟต์แวร์การทำงานภายในเพื่องานอัตโนมัติ
+
+* การอัปเดตเทมเพลตที่มีแมโครทำงานแล้วตามกำหนดสำหรับการใช้งานในองค์กร
+
+* การกระจายเทมเพลตรายงานอัตโนมัติอย่างเรียบง่าย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

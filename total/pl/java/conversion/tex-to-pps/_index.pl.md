@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie TEX na **PPS (PowerPoint Show)** tworzy prezentacje tylko ze slajdami do natychmiastowego odtwarzania, idealne do zautomatyzowanych wykładów, sesji szkoleniowych i szybkiego udostępniania treści LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Gotowe do uruchomienia wykłady akademickie.
+
+* Interaktywne prezentacje warsztatowe.
+
+* Podsumowania projektów inżynieryjnych do prezentacji klientom.
+
+* Slajdy oparte na LaTeX gotowe na konferencje.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowane konwersje TEX na PPS w trybie wsadowym.
+
+* Automatyczne generowanie pakietów szkoleniowych z treści LaTeX.
+
+* Integracja z systemami wdrażania prezentacji.
+
+* Tworzenie PPS na żądanie dla seminariów lub platform e-learningowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
