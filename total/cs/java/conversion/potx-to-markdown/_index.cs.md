@@ -61,7 +61,51 @@ Při převodu souboru POTX na MARKDOWN můžete také přidat vodoznak do výstu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POTX na Markdown umožňuje exportovat obsah snímků do lehkých, čitelných značkovacích souborů vhodných pro dokumentaci, repozitáře na GitHubu a generování statických stránek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Přeměna prezentací na poznámky v Markdownu pro dokumentaci vývojářů.
+
+* Příprava tutoriálů nebo průvodců založených na snímcích v repozitářích na GitHubu.
+
+* Exportování obsahu pro generátory statických stránek jako Hugo nebo Jekyll.
+
+* Převod výukových prezentací do Markdownu pro snadné verzování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod do Markdownu pro knihovny dokumentace.
+
+* Spouštěný export ze snímků do Markdownu pro dokumentační potrubí CI/CD.
+
+* Integrace s generátory statických stránek pro automatizované aktualizace stránek.
+
+* Automatické extrahování snímků do Markdownu pro spolupracující úpravy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

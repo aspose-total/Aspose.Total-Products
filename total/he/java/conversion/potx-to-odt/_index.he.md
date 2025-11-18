@@ -99,7 +99,45 @@ otherformats: DOTM OTT DOTX TEXT FLATOPC DOT WORDML RTF DOCM DOCX WORD DOC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POTX ל-ODT מאפשרת ייצוא שקפים של המצגת לתבנית הטקסט של OpenDocument, המתאימה ל־LibreOffice, OpenOffice וסביבות צד שלישי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* המרת מצגות למסמכי טקסט ניתנים לעריכה ב־OpenOffice או LibreOffice.
+* שיתוף תוכן השקופיות בסביבות לא מיקרוסופט.
+* יצירת דוחות ממצגות למשתמשי משרד פתוח.
+* הכנת תוכן ללמידה המתאים למספר חבילות משרד.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת ODT בצורה צמודה לקבוצת עבודה צלפות.
+* שילוב בפלטפורמות שיתוף מסמכים התומכות ב־ODT.
+* ייצוא אוטומטי לדיווחים על פרויקטים פתוחים.
+* המרה מופעלת לגישות תוכן בכל הסביבות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,55 @@ A PPSM fájl TSV formátumba konvertálásakor vízjelet is hozzáadhat a kimene
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az átalakítás PPSM-ről TSV-re (Tabulátorral elválasztott értékek) egyszerűsíti a szerkezett adatok kinyerését a diákokból egy egyszerű szöveges, univerzálisan olvasható táblázatformátumba.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Dij alapú adattáblák exportálása TSV-be az analitikához.
+
+* Projekt- vagy értékesítési mutatók megosztása több platformon.
+
+* Prezentációs táblázatok átalakítása CSV/TSV-kész csővezetékekhez.
+
+* Akadémiai diák előkészítése strukturált kutatási elemzéshez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* PPSM dekkek tömeges átalakítása TSV fájlokká.
+
+* Automatizált kinyerés ETL vagy BI munkafolyamatokhoz.
+
+* Időzített TSV generálás ismétlődő vállalati diákokból.
+
+* Integráció adatfeldolgozási csővezetékekkel az analitikához.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

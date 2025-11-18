@@ -53,7 +53,51 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPSM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi PPSM sang DOCM (Tài liệu có Macro cho Word) cho phép bài thuyết trình được chuyển đổi thành tài liệu Word có thể chỉnh sửa trong khi vẫn giữ nguyên các chức năng macro. Lý tưởng cho quy trình làm việc doanh nghiệp nơi mà tự động hóa hoặc các kịch bản nhúng cải thiện năng suất.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Báo cáo tương tác yêu cầu macro để cập nhật biểu đồ tự động.
+
+* Hướng dẫn đào tạo với các kịch bản VBA nhúng để mô phỏng tình huống.
+
+* Tự động hóa tài liệu nội bộ được tạo từ các slide.
+
+* Chuyển đổi cho các đề xuất động của khách hàng với các macro kích hoạt hành động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Xử lý hàng loạt các bộ PPSM thành các mẫu DOCM với macro.
+
+* Cập nhật định kỳ các bài thuyết trình tài chính thành các báo cáo Word có Macro.
+
+* Tích hợp với các công cụ tự động hóa quy trình làm việc để chuyển đổi từ slide sang tài liệu.
+
+* Tự động tạo ra báo cáo kiểm toán nội bộ từ các slide PPSM với macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

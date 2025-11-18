@@ -52,7 +52,51 @@ otherformats: DOTM OTT DOTX TEXT FLATOPC DOT WORDML RTF ODTM ODTX WORD ODT
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX转ODT转换可将演示文稿幻灯片导出为适用于LibreOffice、OpenOffice和跨平台环境的OpenDocument Text格式。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将演示文稿转换为可编辑的OpenOffice或LibreOffice文本文档。
+
+* 在非Microsoft环境中共享幻灯片内容。
+
+* 从演示文稿中生成报告，供开源办公室用户使用。
+
+* 准备与多个办公套件兼容的教育内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量ODT转换，用于跨平台办公工作流程。
+
+* 集成到支持ODT的文档协作平台中。
+
+* 用于开源项目报告的自动导出。
+
+* 触发转换以实现跨平台内容可访问性。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

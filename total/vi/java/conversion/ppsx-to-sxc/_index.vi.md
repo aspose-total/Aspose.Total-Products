@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPSX sang SXC, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi **PPSX thành SXC** tạo ra các tệp StarOffice Spreadsheet, cho phép người dùng bộ ứng dụng văn phòng cũ chỉnh sửa và chia sẻ dữ liệu được tạo từ slide trong các ứng dụng tương thích với SXC.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tương thích với quy trình làm việc văn phòng cũ.
+
+* Lưu trữ bảng trình bày để truy cập dài hạn.
+
+* Chia sẻ dữ liệu giữa các tổ chức sử dụng StarOffice hoặc OpenOffice.
+
+* Chuyển đổi số liệu từ slide để phân tích trong các công cụ bảng tính.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi SXC hàng loạt cho tích hợp hệ thống cũ.
+
+* Xuất lịch trình từ các slide trình bày định kỳ.
+
+* Tự động tạo bảng tính cho việc cộng tác đa người dùng.
+
+* Cập nhật kích hoạt khi dữ liệu trình bày mới được thêm vào.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

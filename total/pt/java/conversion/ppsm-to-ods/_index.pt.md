@@ -61,7 +61,51 @@ Ao converter o arquivo PPSM para ODS, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter PPSM para ODS (Planilha de Documentos Abertos) garante total compatibilidade com o LibreOffice, OpenOffice e Google Sheets, mantendo gráficos e tabelas dos slides.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Exportar métricas de apresentação para ODS para análise colaborativa.
+
+* Transformar painéis de projetos em planilhas ODS editáveis.
+
+* Slides acadêmicos convertidos em formatos de planilhas amigáveis para estudantes.
+
+* Converter decks de marketing e vendas em PPSM em arquivos ODS compartilháveis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Automatizar conversões de slide para ODS para relatórios recorrentes.
+
+* Extração em lote de tabelas e gráficos para o formato ODS.
+
+* Geração programada de planilhas a partir de decks de slides corporativos.
+
+* Integração com plataformas de fluxo de trabalho para atualizações dinâmicas de planilhas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

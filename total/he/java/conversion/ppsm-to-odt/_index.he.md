@@ -99,7 +99,55 @@ otherformats: RTF DOCM FLATOPC DOCX DOTM DOT TEXT WORD WORDML DOTX OTT DOC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת PPSM ל־ODT (OpenDocument Text) מבטיחה תאימות צפונית, מאפשרת להמיר שקופיות למסמכי טקסט ניתנים לעריכה עבור מעבדי מילים חופשיים כמו LibreOffice ו־OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* הכנת פתקי הרצאה משקופיות מצגת בפורמט ODT.
+
+* הצעות עסקיות מומרות לסביבות LibreOffice או OpenOffice.
+
+* המרת מצגות למסמכי טקסט בפורמט קוד פתוח לצורך שיתוף פעולה.
+
+* ארכיבת שקופיות ניתנות לעריכה לגישה מרובת פלטפורמות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רצפי PPSM למסמכי ODT לצוותים מבוזרים.
+
+* שילוב עם זרימות עבודה של מסמכים בקוד פתוח לעדכונים אוטומטיים.
+
+* ייצוא מתוזמן של שקופיות לפורמט ODT למאגרי ידע.
+
+* יצירת ODT מופעלת ממצגות לשיתוף פלטפורמות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

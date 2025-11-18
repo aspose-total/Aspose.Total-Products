@@ -61,7 +61,45 @@ otherformats: MARKDOWN ODS XLSB SXC FODS XLTX XLT XLAM XLSM XLSX DIF XLS XLTM TS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **PPSX 转换为 FODS** 可以将幻灯片表格导出为兼容开源办公套件（如LibreOffice和OpenOffice）的扁平OpenDocument电子表格格式。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将学术幻灯片重新用于开源电子表格工具。
+* 需要 FODS 支持的政府或非政府组织报告。
+* 跨平台数据协作，无需专有软件。
+* 将演示指标存档为可编辑的开放格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将 FODS 导出至开源办公工作流程。
+* 幻灯片组更新时触发更新。
+* 与开源分析管道集成。
+* 定期将报告转换为团队协作的计划。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,51 @@ Az API segítségével PPSM fájlból OTT-ba konvertálhat vízjellel. Ha vízje
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM átalakítása OTT formátumra (OpenDocument sablon) lehetővé teszi a felhasználók számára, hogy újrafelhasználható dokumentumsablonokat hozzanak létre prezentációkból nyílt forráskódú formátumokban, ideálisak standardizált vállalati, oktatási vagy NGO dokumentációhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Újrafelhasználható jelentésablak készítése a LibreOffice felhasználói számára.
+
+* Oktatási diavetítések átalakítása szerkeszthető dokumentumsablonokká.
+
+* Az akadémiai diavetítések átalakítása előadás- vagy feladatsablonokká.
+
+* NGO projekt diavetítések átalakítása jelentésablakokká.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Diavetítések tömeges átalakítása OTT sablonokká ismételt használathoz.
+
+* Integráció automatizált munkafolyamat csővezetékekbe a dokumentum létrehozásához.
+
+* Ismétlődő diavetítésekből sablonkönyvtárak ütemezett létrehozása.
+
+* Kiváltott OTT sablon létrehozása projekt dokumentációhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

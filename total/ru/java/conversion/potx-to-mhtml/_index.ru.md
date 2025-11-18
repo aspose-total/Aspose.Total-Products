@@ -61,7 +61,51 @@ otherformats: EXCEL SXC MHTML XLT XLTM XLSM XLAM XLSB DIF ODS XLTX XLSX MARKDOWN
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POTX в MHTML упаковывает слайды презентации в один веб-архивный файл, объединяя HTML, CSS и изображения для офлайн- или веб-распространения.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт слайдов в виде автономных веб-архивов.
+
+* Предоставление презентаций по электронной почте без нарушения форматирования.
+
+* Архивирование корпоративных презентаций для веб-репозиториев.
+
+* Подготовка интерактивных отчетов для офлайн-потребления в Интернете.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное экспортирование MHTML для веб-распространения корпоративных презентаций.
+
+* Генерация MHTML по запросу для офлайн-доступа в распределенных командах.
+
+* Интеграция с системами управления контентом для веб-архивирования.
+
+* Автоматизированная упаковка слайдов для распространения среди клиентов или заинтересованных сторон.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

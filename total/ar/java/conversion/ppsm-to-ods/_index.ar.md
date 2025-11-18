@@ -61,7 +61,55 @@ otherformats: MARKDOWN XLAM XLTX TSV ODS FODS SXC MHTML EXCEL XLS XLSB XLSX XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل PPSM إلى ODS (جدول بيانات مستندات مفتوحة) يضمن التوافق الكامل مع LibreOffice وOpenOffice وGoogle Sheets مع الاحتفاظ بالرسوم البيانية والجداول من الشرائح.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير مقاييس العرض التقديمي إلى ODS للتحليل التعاوني.
+
+* تحويل لوحات مشاريع إلى جداول بيانات قابلة للتحرير في ODS.
+
+* تحويل الشرائح الأكاديمية إلى تنسيقات جداول بيانات صديقة للطلاب.
+
+* تحويل عروض PPSM التسويقية والمبيعاتية إلى ملفات ODS قابلة للمشاركة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+
+
+* أتمتة تحويل الشرائح إلى ODS لتقارير متكررة.
+
+* استخراج دفعي للجداول والرسوم البيانية إلى تنسيق ODS.
+
+* إنشاء جداول بيانات مجدولة من عروض الشرائح الشركات.
+
+* تكامل مع منصات سير العمل لتحديثات جداول بيانات ديناميكية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

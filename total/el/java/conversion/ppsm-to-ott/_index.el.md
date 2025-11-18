@@ -53,7 +53,51 @@ otherformats: ODT OTTM DOTX OTTX TEXT DOT FLATOPC OTT WORDML DOTM WORD RTF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του PPSM σε OTT (Πρότυπο OpenDocument) επιτρέπει στους χρήστες να δημιουργήσουν επαναχρησιμοποιήσιμα πρότυπα εγγράφων από παρουσιάσεις σε μορφές ανοικτού κώδικα, ιδανικά για τυποποιημένη εταιρική, ακαδημαϊκή ή ΜΚΟ τεκμηρίωση.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Προετοιμασία επαναχρησιμοποιήσιμων προτύπων αναφορών για τους χρήστες του LibreOffice.
+
+* Μετατροπή παρουσιάσεων εκπαίδευσης σε επεξεργάσιμα πρότυπα εγγράφων.
+
+* Ακαδημαϊκές διαφάνειες που επαναχρησιμοποιούνται ως πρότυπα διαλέξεων ή εργασιών.
+
+* Διαφάνειες έργων ΜΚΟ που μετατρέπονται σε πρότυπα αναφοράς.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή παρουσιάσεων σε OTT πρότυπα για επαναλαμβανόμενη χρήση.
+
+* Ενσωμάτωση σε αυτοματοποιημένες ροές εργασίας για τη δημιουργία εγγράφων.
+
+* Προγραμματισμένη δημιουργία βιβλιοθηκών προτύπων από επαναλαμβανόμενες διαφάνειες.
+
+* Ενεργοποιημένη δημιουργία προτύπων OTT για την τεκμηρίωση έργων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

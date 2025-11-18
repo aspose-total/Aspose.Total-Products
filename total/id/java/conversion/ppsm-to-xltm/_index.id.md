@@ -61,7 +61,51 @@ Saat mengonversi file PPSM ke XLTM, Anda juga dapat menambahkan tanda air ke for
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi PPSM ke XLTM (Template Excel yang Mendukung Macro) menyediakan template yang dapat digunakan kembali dengan macro, sempurna untuk laporan otomatis atau alur kerja spreadsheet yang berulang.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Membuat template keuangan yang mendukung macro dari slide.
+
+* Mengonversi slide proyek menjadi template laporan Excel yang otomatis.
+
+* Dasbor penjualan atau pemasaran diubah menjadi template yang mendukung macro.
+
+* Slide akademis dimanfaatkan kembali sebagai template penilaian interaktif.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi PPSM ke XLTM secara batch untuk alur kerja yang berulang.
+
+* Pembuatan template yang mendukung macro secara terjadwal untuk otomatisasi pelaporan.
+
+* Integrasi dengan pipa BI untuk analitika yang didorong oleh template.
+
+* Generasi template yang mendukung macro dari presentasi yang dipicu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

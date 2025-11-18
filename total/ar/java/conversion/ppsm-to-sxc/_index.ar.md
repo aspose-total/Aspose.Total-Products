@@ -61,7 +61,55 @@ otherformats: EXCEL ODS XLSX MARKDOWN TSV XLS MHTML XLSM FODS XLSB XLTM XLT SXC 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل PPSM إلى SXC (جدول بيانات StarOffice Calc) يسمح بتحويل الشرائح التقديمية القديمة إلى جداول بيانات متوافقة لمستخدمي OpenOffice أو StarOffice القدامى.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل شرائح المبيعات أو المشاريع إلى جداول بيانات SXC قابلة للتحرير.
+
+* مشاركة العروض التقديمية التاريخية مع برامج المكتب القديمة.
+
+* إعادة استخدام الشرائح الأكاديمية أو الشركات لتقارير الجداول البيانية.
+
+* أرشفة بيانات الشرائح في تنسيق SXC خفيف الوزن.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دُفعي من PPSM إلى SXC للأنظمة القديمة.
+
+* استخراج مجدول للرسوم البيانية والجداول إلى ملفات SXC بشكل مجدول.
+
+* التكامل مع خطوط الأنابيب الآلية للإبلاغ للبرمجيات القديمة.
+
+* تحويل مُشغّل للعروض المتكررة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ otherformats: FODS SXC EXCEL ODS DIF TSV MHTML XLSM XLTM XLT XLSX XLAM XLSB XLS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง PPSM เป็น XLS (Excel 97-2003 Workbook) ช่วยให้มีความเข้ากันได้กับเวอร์ชันเก่าของ Microsoft Excel พร้อมรักษาตารางและแผนภูมิจากสไลด์
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การส่งออกสไลด์ทางการเงินหรือโครงการเป็น XLS สำหรับผู้ใช้เวอร์ชันเก่า
+
+* การแปลงข้อมูลเชิงธุรกิจเป็นชีท Excel ที่สามารถแก้ไขได้
+
+* การแปลงสไลด์ทางการศึกษาเป็นสเปรดชีทสำหรับการวิเคราะห์
+
+* การแบ่งปันข้อมูลการนำเสนอในรูปแบบที่เข้ากันได้กับ Excel เวอร์ชันเก่า
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง PPSM เป็น XLS แบบกลุ่มสำหรับการใช้งานเวอร์ชันเก่าของทีม
+
+* การสร้างสไลด์ตามกำหนดเวลาเป็น XLS เพื่อรายงาน
+
+* การผสานเข้ากับการทำงานอัตโนมัติในการเก็บถาวร
+
+* การสร้าง XLS จากการนำเสนอที่เกิดซ้ำ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ Tijdens het converteren van een PPSX-bestand naar SXC, kunt u ook een watermerk 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het converteren van **PPSX naar SXC** produceert StarOffice-spreadsheetbestanden, waardoor oudere kantoorsuitegebruikers gegevens afkomstig van dia's kunnen bewerken en delen in SXC-compatibele apps.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Compatibiliteit met legacy kantoorworkflows.
+
+* Archiveren van presentatietabellen voor langdurige toegang.
+
+* Gegevens delen tussen organisaties die StarOffice of OpenOffice gebruiken.
+
+* Het omzetten van diagegevens voor analyse in spreadsheettools.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch SXC-conversie voor integratie met legacy systemen.
+
+* Geplande exports van terugkerende presentatiedia's.
+
+* Automatisch genereren van spreadsheets voor samenwerking tussen meerdere gebruikers.
+
+* Getriggerde updates wanneer er nieuwe presentatiegegevens worden toegevoegd.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,55 @@ otherformats: MARKDOWN FODS EXCEL ODS SXC XLT XLSM XLSB XLS MHTML TSV XLTM DIF X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل **PPSX إلى XLSX** يصدر الشرائح إلى ملفات Excel الحديثة مع دعم كامل للتحرير والجداول والصيغ، متوافقة مع Office 2007+ ومنصات السحابة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل الشرائح المتعلقة بالمبيعات أو مؤشرات الأداء الرئيسية أو التسويق إلى لوحات تحكم في Excel.
+
+* جداول بيانات قابلة للتحرير للتقارير الداخلية.
+
+* تحويل العروض التقديمية المعتمدة على البيانات إلى ملفات Excel قابلة للتنفيذ.
+
+* تقارير العملاء المستمدة من مقاييس العرض التقديمي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعة للعروض التقديمية المتكررة.
+
+* تصدير مجدول إلى Excel للإبلاغ التلقائي.
+
+* التكامل مع أدوات BI لتحديثات لوحة القيادة الحية.
+
+* توليد تلقائي لجداول Excel من مراجعات الشرائح.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

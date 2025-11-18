@@ -61,7 +61,51 @@ otherformats: XLTM MHTML MARKDOWN TSV XLS ODS FODS DIF XLSB XLT XLAM XLSM EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **PPSX เป็น ODS** จะสร้างไฟล์ OpenDocument Spreadsheet จากงานนำเสนอ ทำให้สามารถแก้ไขและแบ่งปันใน LibreOffice, OpenOffice หรือแอปสเปรดชีต跨แพลตฟอร์มได้.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* เตรียมข้อมูลโครงการร่วมกันจากภาพนิ่ง.
+
+* รายงานทางวิชาการหรือธุรกิจในรูปแบบเปิด.
+
+* แบ่งปันสเปรดชีตระหว่างทีมระยะไกล.
+
+* ชุดข้อมูลที่สามารถแก้ไขสำหรับการวิเคราะห์หรือแดชบอร์ด.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง ODS แบบกลุ่มอัตโนมัติสำหรับข้อมูลงานนำเสนอที่เกิดซ้ำ.
+
+* การผสานกับเครื่องมือการทำงานโอเพนซอร์สสำหรับการแก้ไขโดยผู้ใช้หลายคน.
+
+* การส่งออกตารางภาพนิ่งไปยังสเปรดชีต ODS ตามเหตุการณ์ที่กำหนด.
+
+* การอัปเดตตารางสำหรับรายงานเกี่ยวกับการวัดและ KPI ที่เกิดซ้ำ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

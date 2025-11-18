@@ -61,7 +61,55 @@ A PPSM fájl XLAM formátumba konvertálásakor vízjelet is hozzáadhat a kimen
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az PPSM átalakítása XLAM-mé (Excel-makróval bővített kiegészítő) lehetővé teszi a diavetítés-alapú számítások és diagramok beágyazását az Excel-kiegészítőkbe, javítva az automatizálási és elemzési képességeket.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Prezentációk átalakítása Excel-kiegészítőkké automatizált jelentéskészítéshez.
+
+* Pénzügyi vagy működési diák exportálása makró támogatással.
+
+* Interaktív vezérlőpultok létrehozása PPSM diákon alapulva.
+
+* Diák átalakítása újrahasználható Excel-makrókká ismétlődő feladatokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Több PPSM bemutatótábla tömeges átalakítása XLAM kiegészítőkké.
+
+* Ütemezett makróval bővített sablonok generálása jelentéskészítéshez.
+
+* Integráció munkafolyamat-automatizálási platformokkal.
+
+* Prezentációkból történő Excel-kiegészítők kiváltott létrehozása.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

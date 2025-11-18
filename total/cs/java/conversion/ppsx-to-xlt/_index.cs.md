@@ -61,7 +61,51 @@ Při převodu souboru PPSX na XLT můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod **PPSX na XLT** vytváří šablonové soubory programu Excel ze snímků, umožňující standardizované rozložení dokumentů pro opakované reportování nebo strukturované pracovní postupy se sešity.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření firemních šablon z tabulek prezentací.
+
+* Standardizované tabulky pro interní reportování.
+
+* Školní nebo akademické tabulky odvozené ze snímků.
+
+* Konzistentní šablony pro klienty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované generování šablon programu Excel z prezentací.
+
+* Hromadný převod pro opakující se formáty reportů.
+
+* Plánované aktualizace při revizi snímků.
+
+* Integrace s pracovními systémy pro dodržování konzistence šablon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

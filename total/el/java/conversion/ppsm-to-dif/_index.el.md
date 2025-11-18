@@ -61,7 +61,51 @@ otherformats: XLS XLT SXC XLSX XLTX FODS XLTM XLSM ODS XLSB TSV XLAM EXCEL MHTML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του PPSM σε DIF (Data Interchange Format) διευκολύνει τη μεταφορά δεδομένων υπολογιστικών φύλλων από διαφάνειες σε συμβατές μορφές για παλαιότερο ή εξειδικευμένο λογισμικό. Ιδανικό για αρχειοθέτηση και ανάλυση διασυνδεδεμένης πλατφόρμας.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Εξαγωγή οικονομικών ή λειτουργικών πινάκων από παρουσιάσεις σε μορφή DIF.
+
+* Μετατροπή διαφανειών προόδου έργων σε αρχεία DIF έτοιμα για υπολογιστές.
+
+* Κοινοποίηση δεδομένων με παλαιά συστήματα που απαιτούν είσοδο DIF.
+
+* Αρχειοθέτηση περιεχομένου διαφανειών πινάκων για ρυθμιστικούς ή ελεγκτικούς σκοπούς.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή διαφανειών PPSM σε DIF για ιστορική αναφορά.
+
+* Αυτοματοποιημένη εξαγωγή πινάκων από σύνολα διαφανειών σε αρχεία DIF.
+
+* Προγραμματισμένες ενημερώσεις για επαναλαμβανόμενα πίνακες ελέγχου έργων.
+
+* Ενσωμάτωση με παλαιότερα εργαλεία ανάλυσης που δέχονται εισαγωγές DIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

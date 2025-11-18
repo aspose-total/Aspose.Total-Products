@@ -53,7 +53,31 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+POTX en conversion DOT permet aux utilisateurs de transformer des modèles de présentation en fichiers de modèle Word. Ceci est essentiel pour créer des cadres de documents réutilisables dérivés de mises en page de diapositives.
+
+## {{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+* Création de modèles de rapports normalisés à partir de présentations marketing ou commerciales.
+* Conversion de diapositives de formation en modèles d'instructions modifiables.
+* Génération de modèles de branding d'entreprise à partir de conceptions de présentation.
+* Préparation de modèles de documents juridiques basés sur des structures de présentation visuelle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Création de modèles en lot pour la standardisation de documents RH ou administratifs.
+* Conversion automatique des diapositives en modèles DOT réutilisables dans les pipelines de documents.
+* Intégration dans l'automatisation des flux de travail pour la génération de rapports basée sur des modèles.
+* Génération DOT déclenchée pour les besoins de documentation d'entreprise récurrents.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,55 @@ PPSM 파일을 CSV로 변환하는 동안 출력 CSV 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM(PowerPoint Slide Show) 파일을 CSV(쉼표로 구분된 값)로 변환하면 프레젠테이션의 표 데이터를 가벼운, 보편적으로 호환되는 스프레드시트 형식으로 내보낼 수 있습니다. 데이터 분석, 보고 및 BI 도구와의 통합에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Excel이나 Google Sheets용 CSV로 슬라이드 기반 차트 내보내기.
+
+* 분석을 위해 프레젠테이션 테이블을 편집 가능한 데이터 파일로 변환.
+
+* 슬라이드에서 숫자 보고서를 보편적으로 읽을 수 있는 CSV 형식으로 공유.
+
+* 분석 도구를 위해 PPSM 덱에서 영업 또는 마케팅 지표 준비.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 여러 슬라이드 덱을 CSV 파일로 일괄 변환.
+
+* 대시보드를 위한 표 데이터 자동 추출.
+
+* 반복되는 기업 프레젠테이션으로부터 예정된 CSV 생성.
+
+* 비즈니스 인텔리전스 플랫폼을 위한 ETL 파이프라인 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

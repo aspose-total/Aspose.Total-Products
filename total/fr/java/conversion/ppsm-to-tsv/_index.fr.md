@@ -61,7 +61,51 @@ Lors de la conversion du fichier PPSM en TSV, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de PPSM en TSV (valeurs séparées par des tabulations) simplifie l'extraction de données structurées à partir des diapositives dans un format de feuille de calcul lisible universellement en texte brut.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Exportation de tableaux de données basés sur des diapositives en TSV pour l'analyse.
+
+* Partage de métriques de projet ou de ventes sur plusieurs plateformes.
+
+* Conversion de tableaux de présentation pour des pipelines prêts pour CSV/TSV.
+
+* Préparation de diapositives académiques pour une analyse de recherche structurée.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de decks PPSM en fichiers TSV.
+
+* Extraction automatisée pour les workflows ETL ou BI.
+
+* Génération planifiée de TSV à partir de diapositives d'entreprise récurrentes.
+
+* Intégration avec des pipelines de traitement de données pour l'analyse.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

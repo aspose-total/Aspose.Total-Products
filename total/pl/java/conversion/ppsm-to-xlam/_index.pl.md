@@ -61,7 +61,51 @@ Podczas konwertowania pliku PPSM do XLAM możesz również dodać znak wodny do 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie PPSM na XLAM (Excel Macro-Enabled Add-In) pozwala na osadzanie obliczeń i wykresów opartych na slajdach w dodatkach Excel, zwiększając automatyzację i możliwości analityczne.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przekształcanie prezentacji w dodatki Excel do automatycznego raportowania.
+
+* Eksportowanie slajdów finansowych lub operacyjnych z obsługą makr.
+
+* Tworzenie interaktywnych pulpitów nawigacyjnych na podstawie slajdów PPSM.
+
+* Konwertowanie slajdów na wielokrotnie użyteczne makra Excel do powtarzających się zadań.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja wielu pakietów slajdów PPSM na dodatki XLAM.
+
+* Zaplanowane generowanie szablonów z obsługą makr do raportowania.
+
+* Integracja z platformami automatyzacji procesów.
+
+* Wywoływane tworzenie dodatków Excel z prezentacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

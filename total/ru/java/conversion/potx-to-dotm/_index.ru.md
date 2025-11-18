@@ -53,7 +53,51 @@ otherformats: WORD DOT RTF DOTX ODT OTT WORDML DOTM TEXT FLATOPC DOTMX DOTMM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POTX в DOTM создает макросохраненные шаблоны Word из слайдов презентации, полезные для автоматизированной отчетности и интерактивных документов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание макросохраненных шаблонов отчетов из бизнес-слайдов.
+
+* Автоматизация интерактивных шаблонов для обучения и HR-процессов.
+
+* Создание клиентских рамочных предложений с встроенными макросами.
+
+* Преобразование лекционных слайдов в интерактивные учебные шаблоны.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование библиотек презентаций в макросохраненные шаблоны.
+
+* Интеграция с системами офисной автоматизации для динамического создания шаблонов.
+
+* Создание DOTM по триггеру из слайдов управления проектами.
+
+* Автоматический экспорт для повторно используемых шаблонов в повторяющихся документальных рабочих процессах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

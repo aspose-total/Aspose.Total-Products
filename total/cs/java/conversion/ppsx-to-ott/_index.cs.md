@@ -53,7 +53,55 @@ Pomocí API můžete také provést převod PPSX souboru na OTT s vodoznakem. Ch
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod **PPSX na OTT** generuje makrovolné otevřené dokumentové šablony, umožňuje opakovaně použitelné standardizované šablony bez rizika makra.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření šablon pro školení nebo workshop v LibreOffice/OpenOffice.
+
+* Standardizované šablony dokumentů pro neziskové organizace nebo akademické účely.
+
+* Opakovaně použitelné šablony založené na sliderech pro týmovou spolupráci.
+
+* Zprávy pro klienty ve formátech pro více platforem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná generace OTT šablon pro opakující se reportování.
+
+* Integrace s open-source systémy pro šablonové nasazení.
+
+* Plánované aktualizace standardizovaných šablon z nových slidů.
+
+* Automatická generace spolupracujících dokumentů z makrovolných slidů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

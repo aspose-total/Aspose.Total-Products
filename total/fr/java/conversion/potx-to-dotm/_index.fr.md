@@ -53,7 +53,31 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de POTX en DOTM crée des modèles Word activés par macro à partir des diapositives de présentation, utiles pour les rapports automatisés et les solutions de documents interactifs.
+
+## {{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* Production de modèles de rapport activés par macro à partir de diapositives commerciales.
+* Automatisation de modèles interactifs pour la formation et les processus RH.
+* Génération de cadres de proposition prêts pour le client avec des macros intégrées.
+* Transformation des diapositives de cours en modèles d'enseignement interactifs.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* Conversion en lot de bibliothèques de présentation en modèles activés par macro.
+* Intégration avec des systèmes d'automatisation de bureau pour la génération dynamique de modèles.
+* Création de DOTM déclenchée à partir de diapositives de gestion de projet.
+* Exportation automatisée pour des modèles réutilisables dans des flux de travail de documents récurrents.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

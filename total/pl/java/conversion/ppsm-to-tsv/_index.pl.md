@@ -61,7 +61,55 @@ Podczas konwertowania pliku PPSM do TSV możesz również dodać znak wodny do w
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja PPSM na TSV (wartości rozdzielone tabulatorem) upraszcza wyodrębnianie danych strukturalnych ze slajdów do postaci tekstu w uniwersalnym formacie arkusza kalkulacyjnego.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Eksportowanie tabel danych opartych na slajdach do TSV w celu analizy.
+
+* Udostępnianie metryk projektu lub sprzedaży na wielu platformach.
+
+* Konwertowanie tabel prezentacji do gotowych do użycia w CSV/TSV potokach.
+
+* Przygotowywanie slajdów akademickich do strukturalnej analizy badawczej.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja zestawów slajdów PPSM na pliki TSV.
+
+* Zautomatyzowane wyodrębnianie dla procesów ETL lub BI.
+
+* Zaplanowane generowanie plików TSV z powtarzających się slajdów korporacyjnych.
+
+* Integracja z potokami przetwarzania danych do celów analitycznych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

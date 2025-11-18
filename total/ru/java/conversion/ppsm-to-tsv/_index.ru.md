@@ -61,7 +61,51 @@ otherformats: DIF ODS XLS SXC XLSB EXCEL TSV XLAM XLSM XLT XLSX MHTML XLTM FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование PPSM в TSV (значения, разделенные табуляцией) упрощает извлечение структурированных данных из слайдов в формат электронной таблицы, удобный для чтения.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Экспорт таблиц данных на основе слайдов в TSV для аналитики.
+
+* Обмен метриками проекта или продажами на различных платформах.
+
+* Преобразование таблиц презентации для конвейеров, готовых к CSV/TSV.
+
+* Подготовка академических слайдов для структурированного анализа исследований.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование колод PPSM в файлы TSV.
+
+* Автоматизированное извлечение для рабочих процессов ETL или BI.
+
+* Плановое создание TSV из повторяющихся корпоративных слайдов.
+
+* Интеграция с конвейерами обработки данных для аналитики.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

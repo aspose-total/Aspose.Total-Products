@@ -61,7 +61,51 @@ Medan du konverterar PPSX-fil till SXC kan du också lägga till vattenstämpel 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av **PPSX till SXC** producerar StarOffice Spreadsheet-filer, vilket gör det möjligt för äldre användare av kontorspaket att redigera och dela data som härstammar från slides i appar som är kompatibla med SXC.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* Kompatibilitet med äldre kontorsarbetsflöden.
+
+* Arkivering av presentationsbord för långsiktig åtkomst.
+
+* Delning av data mellan organisationer som använder StarOffice eller OpenOffice.
+
+* Konvertering av slide-metrar för analys i kalkylbladsverktyg.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batch SXC-konvertering för integrering med äldre system.
+
+* Schemalagda export från återkommande presentationsbilder.
+
+* Automatisk generering av kalkylblad för samarbete mellan flera användare.
+
+* Utlösta uppdateringar när ny presentationsdata läggs till.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

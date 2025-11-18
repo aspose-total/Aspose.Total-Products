@@ -61,7 +61,51 @@ Podczas konwertowania pliku PPSX do FODS możesz również dodać znak wodny do 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja **PPSX na FODS** pozwala na eksport tabel slajdów do płaskiego formatu arkusza kalkulacyjnego OpenDocument, kompatybilnego z pakietami biurowymi typu open-source, takimi jak LibreOffice i OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Slajdy akademickie dostosowane do narzędzi arkuszy kalkulacyjnych open-source.
+
+* Raportowanie rządowe lub NGO wymagające obsługi FODS.
+
+* Współpraca międzyplatformowa w zakresie danych bez oprogramowania własnościowego.
+
+* Archiwizowanie metryk prezentacji w edytowalnych otwartych formatach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiony eksport FODS dla przepływów pracy biurowej open-source.
+
+* Wywoływane aktualizacje podczas rewizji zestawów slajdów.
+
+* Integracja z przepływami pracy analitycznej open-source.
+
+* Zaplanowana konwersja raportów cyklicznych dla współpracy zespołowej.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

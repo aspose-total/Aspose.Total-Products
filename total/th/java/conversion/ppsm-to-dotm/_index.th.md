@@ -53,7 +53,55 @@ otherformats: DOTMM FLATOPC DOTMX WORDML RTF DOTM DOT ODT DOTX WORD TEXT OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง PPSM เป็น DOTM (แมโคร-เปิดใช้งานเทมเพลต Word) จะรักษาเนื้อหาการนำเสนอและแมโครที่ฝังอยู่ ทำให้เป็นไปได้ในการสร้างเทมเพลตอัตโนมัติสำหรับการทำงานขององค์กรและสาขาวิชาทางวิชาการ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* สร้างรายงานเทมเพลตแบบโต้ตอบสำหรับฝ่ายการเงินหรือฝ่ายทรัพยากรบุคคล
+
+* โมดูลการฝึกอบรมพร้อมแมโครที่กำหนดไว้สำหรับการคำนวณอัตโนมัติ
+
+* สร้างเทมเพลตโครงการที่สามารถแก้ไขได้พร้อมแมโครที่เปลี่ยนไป
+
+* แปลงการนำเสนอเป็นเทมเพลตข้อเสนอลูกค้าที่เกิดซ้ำ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงสไลด์เดคเป็น DOTM ในรูปแบบชุดเพื่อใช้ซ้ำตลอดเวลา
+
+* การอัปเดตแมโครจากข้อมูล PPSM ในเทมเพลตการทำงานโดยอัตโนมัติ
+
+* การรวมระบบอัตโนมัติเอกสารสำหรับการสร้างรายงานซ้ำ
+
+* การอัตโนมัติสร้างเทมเพลตการปฏิบัติตามหรือการตรวจสอบจากสไลด์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

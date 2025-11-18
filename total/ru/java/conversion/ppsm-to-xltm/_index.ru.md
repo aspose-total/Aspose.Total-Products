@@ -61,7 +61,51 @@ otherformats: XLSM XLT XLTM XLSB ODS XLSX XLTX TSV MARKDOWN MHTML XLS XLAM DIF S
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование PPSM в XLTM (Шаблон Excel с поддержкой макросов) обеспечивает повторное использование шаблонов с макросами, идеально подходит для автоматизированных отчетов или повторяющихся рабочих процессов в таблицах Excel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание шаблонов финансовых отчетов с поддержкой макросов из слайдов.
+
+* Преобразование проектных слайдов в автоматизированные шаблоны отчетов в Excel.
+
+* Дашборды по продажам или маркетингу преобразованы в шаблоны с поддержкой макросов.
+
+* Академические слайды переосмыслены как интерактивные шаблоны для оценки.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование PPSM в XLTM для повторяющихся рабочих процессов.
+
+* Запланированное создание шаблонов с поддержкой макросов для автоматизации отчетности.
+
+* Интеграция с BI-каналами для аналитики на основе шаблонов.
+
+* Вызванное создание шаблонов с поддержкой макросов из презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

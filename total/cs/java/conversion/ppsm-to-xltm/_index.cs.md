@@ -61,7 +61,51 @@ Při převodu souboru PPSM na XLTM můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod PPSM na XLTM (šablona pro Excel s makry) poskytuje opakovaně použitelné šablony s makry, ideální pro automatizované zprávy nebo opakující se pracovní postupy se sešity.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření makro-povolených finančních šablon ze snímků.
+
+* Převádění projektových snímků do automatizovaných Excelových šablon pro reportování.
+
+* Dashboardy pro prodej nebo marketing přeměněny na makro-povolené šablony.
+
+* Akademické snímky převedeny na interaktivní šablony pro hodnocení.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkový převod PPSM na XLTM pro opakované pracovní postupy.
+
+* Plánované vytváření makro-povolených šablon pro automatizaci reportování.
+
+* Integrace s BI potrubími pro analytiku řízenou šablonami.
+
+* Spuštění generování makro-povolených šablon z prezentací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

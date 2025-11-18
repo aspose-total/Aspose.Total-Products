@@ -61,7 +61,55 @@ otherformats: XLTM XLSX MHTML SXC XLSB DIF ODS EXCEL XLAM FODS TSV XLSM MARKDOWN
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง PPSM เป็น XLSM (Excel Macro-Enabled Workbook) จะรักษาสูตร แมโคร และแผนภูมิจากภาพนิ่ง ทำให้สามารถคำนวณอัตโนมัติและสร้างรายงานที่ใช้ข้อมูลได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การแปลงงานนำเสนอที่มีโมเดลทางการเงินเป็นสมุดงานที่เปิดใช้แมโคร
+
+* เตรียมการทำแผงควบคุมโครงการแบบอินเทอร์แอคทีฟด้วยแมโครจากภาพนิ่ง
+
+* สไลด์ทางการศึกษาที่มีสูตรถูกแปลงเป็น XLSM เพื่อให้สามารถให้คะแนนโดยอัตโนมัติ
+
+* สไลด์ทางการขายที่ถูกแปลงเป็น XLSM เพื่อรายงานโดยอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงจำนวนมากของ PPSM เป็น XLSM เพื่ออัตโนมัติขั้นตอนการทำงาน
+
+* การสร้างสมุดงานที่เปิดใช้แมโครตามกำหนดเวลาจากงานนำเสนอ
+
+* การผสานรวมกับท่อไปร
+
+* การแปลงโดยกระตุ้นสำหรับอัตโนมัติรายงานที่เกิดซ้ำ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

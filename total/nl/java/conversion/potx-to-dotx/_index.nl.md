@@ -53,7 +53,51 @@ Met behulp van de API kunt u ook een POTX-bestand naar DOTX-conversie met waterm
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX naar DOTX conversie maakt het mogelijk om standaard Word-sjablonen te maken van PowerPoint-slides, perfect voor reproduceerbare documenten zonder macro's.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het produceren van schone Word-sjablonen voor rapportage vanuit visuele presentaties.
+
+* Het omzetten van seminar- of workshopslides naar herbruikbare document-sjablonen.
+
+* Het genereren van bewerkbare educatieve sjablonen voor lesplannen.
+
+* Het creëren van merkspecifieke documentlay-outs van bedrijfspresentaties.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde batchconversie naar DOTX voor kantoorsjablonenbibliotheken.
+
+* Integratie in systemen voor digitaal middelenbeheer voor eenvoudige toegang tot sjablonen.
+
+* Getriggerde export voor sjabloonupdates op basis van herziene presentatie-inhoud.
+
+* Workflowautomatisering voor terugkerende sjablooncreatie over afdelingen heen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

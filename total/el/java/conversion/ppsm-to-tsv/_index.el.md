@@ -61,7 +61,51 @@ otherformats: DIF ODS XLS SXC XLSB EXCEL TSV XLAM XLSM XLT XLSX MHTML XLTM FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του PPSM σε TSV (Tab-Separated Values) απλοποιεί την εξαγωγή δομημένων δεδομένων από διαφάνειες σε ένα απλό κείμενο, παντού αναγνώσιμο μορφή φύλλου εργασίας.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Εξαγωγή πινάκων δεδομένων βασισμένων σε διαφάνειες σε TSV για αναλύσεις.
+
+* Κοινοποίηση μετρήσεων έργου ή πωλήσεων σε πολλαπλές πλατφόρμες.
+
+* Μετατροπή πινάκων παρουσίασης για παραγωγή CSV/TSV-έτοιμων αγωγών.
+
+* Προετοιμασία ακαδημαϊκών διαφανειών για δομημένη ανάλυση έρευνας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Μαζική μετατροπή των στοίβων PPSM σε αρχεία TSV.
+
+* Αυτοματοποιημένη εξαγωγή για ροές ETL ή BI.
+
+* Προγραμματισμένη δημιουργία TSV από επαναλαμβανόμενες εταιρικές διαφάνειες.
+
+* Ενσωμάτωση με αγωγούς επεξεργασίας δεδομένων για αναλύσεις.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

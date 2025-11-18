@@ -53,7 +53,51 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de PPSM en RTF (Rich Text Format) offre un moyen léger et universellement compatible de transformer des diapositives en documents texte modifiables. Idéal pour le partage par e-mail, les logiciels hérités et la collaboration multiplateforme.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Exporter le contenu de la présentation en RTF pour une distribution par e-mail.
+
+* Création de documents légers à partir des diapositives à des fins d'archivage.
+
+* Convertir les diapositives en format texte modifiable pour une utilisation multiplateforme.
+
+* Préparer des documents RTF à partir de présentations marketing ou de formation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en masse de PPSM en RTF pour une distribution à l'échelle de l'équipe.
+
+* Exportation automatisée des diapositives de cours en documents RTF modifiables.
+
+* Création planifiée de RTF pour des flux de travail de conformité ou de reporting.
+
+* Intégration avec des systèmes de gestion de documents hérités.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

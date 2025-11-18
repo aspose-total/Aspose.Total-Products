@@ -61,7 +61,51 @@ A PPSX fájl SXC formátumba konvertálásakor vízjelet is hozzáadhat a kimene
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az **PPSX** konvertálása **SXC**-re StarOffice táblázatfájlokat eredményez, lehetővé téve az idősebb irodai szoftver felhasználóknak, hogy szerkesszék és osszák meg a dia-eredetű adatokat SXC-kompatibilis alkalmazásokban.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Örökségi irodai munkafolyamat kompatibilitása.
+
+* Prezentációs táblázatok archiválása hosszú távú hozzáférés céljából.
+
+* Adatmegosztás szervezetek között StarOffice vagy OpenOffice használatával.
+
+* Diaméterek konvertálása elemzéshez táblázatkezelő eszközökben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges SXC konverzió az örökségi rendszerintegrációhoz.
+
+* Ütemezett exportok ismétlődő prezentációs diákokból.
+
+* Táblázatok automatikus generálása több felhasználós együttműködéshez.
+
+* Kiváltott frissítések új prezentációs adatok hozzáadásakor.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

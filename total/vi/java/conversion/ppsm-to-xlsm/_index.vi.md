@@ -61,7 +61,55 @@ Trong khi chuyển đổi tệp PPSM sang XLSM, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi PPSM thành XLSM (Excel Macro-Enabled Workbook) giữ nguyên công thức, macro và biểu đồ từ các slide, cho phép tính toán tự động và báo cáo dữ liệu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi bài thuyết trình có mô hình tài chính thành các bảng tính có macro.
+
+* Chuẩn bị bảng điều khiển dự án tương tác với macro từ các slide.
+
+* Các slide học thuật có công thức được chuyển đổi thành XLSM để tự động chấm điểm.
+
+* Các slide bán hàng được chuyển đổi thành XLSM để báo cáo tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ PPSM sang XLSM để tự động hóa quy trình làm việc.
+
+* Tạo bảng tính có macro theo lịch từ các bài thuyết trình.
+
+* Tích hợp với đường ống thông tin kinh doanh.
+
+* Chuyển đổi kích hoạt cho tự động hóa báo cáo định kỳ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

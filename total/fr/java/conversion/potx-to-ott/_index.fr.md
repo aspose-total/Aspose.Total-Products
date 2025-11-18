@@ -53,7 +53,51 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Transformer un fichier POTX en OTT crée des modèles de documents OpenDocument pour des applications de traitement de texte multiplateformes, facilitant la création de cadres de documents réutilisables.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Conversion de diapositives d'entreprise en cadres de modèles modifiables pour OpenOffice.
+
+* Création de modèles de documents standardisés à partir de présentations marketing ou RH.
+
+* Préparation de modèles réutilisables pour les devoirs des étudiants ou les modules d'enseignement.
+
+* Génération de mises en page de documents de marque à partir de conceptions de diapositives visuelles.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de fichiers de présentation en modèles OTT réutilisables.
+
+* Intégration dans l'automatisation des flux de travail pour des mises à jour de modèles cohérentes.
+
+* Génération OTT déclenchée pour les besoins récurrents de modèles de documents.
+
+* Exportation automatisée de modèles dans des environnements de bureautique open source.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

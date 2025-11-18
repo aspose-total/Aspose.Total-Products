@@ -61,7 +61,51 @@ otherformats: EXCEL ODS XLSX MARKDOWN TSV XLS MHTML XLSM FODS XLSB XLTM XLT SXC 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование PPSM в SXC (таблицы StarOffice Calc) позволяет превратить старые слайды презентаций в совместимые таблицы для пользователей устаревших версий OpenOffice или StarOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование слайдов продаж или проектов в редактируемые таблицы SXC.
+
+* Обмен историческими презентациями с помощью устаревшего офисного программного обеспечения.
+
+* Академические или корпоративные слайды, преобразованные для отчетности в виде таблиц.
+
+* Архивирование данных слайдов в формате SXC.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование PPSM в SXC для устаревших систем.
+
+* Запланированное извлечение диаграмм и таблиц в файлы SXC.
+
+* Интеграция с автоматизированными конвейерами отчетности для старого программного обеспечения.
+
+* Автоматическое преобразование для повторяющихся презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

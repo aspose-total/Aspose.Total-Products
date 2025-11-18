@@ -61,7 +61,51 @@ otherformats: SXC ODS XLSX MHTML FODS XLAM XLS XLTX EXCEL XLSB XLTM MARKDOWN TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **PPSX в MARKDOWN** позволяет преобразовать слайды в текст Markdown, обеспечивая легкий, редактируемый формат, идеальный для документации, веб-сайтов и систем управления контентом.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование заметок презентации в Markdown для технических блогов.
+
+* Подготовка документации на основе слайдов для репозиториев программного обеспечения.
+
+* Архивирование лекций или учебных слайдов в легком текстовом формате.
+
+* Создание веб-дружественной документации из презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование для конвейеров слайдов в блоги.
+
+* Плановый экспорт слайдов в виде Markdown для систем управления знаниями.
+
+* Интеграция с генераторами статических сайтов для автоматического обновления контента.
+
+* Преобразование на основе триггеров при добавлении новых слайдов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

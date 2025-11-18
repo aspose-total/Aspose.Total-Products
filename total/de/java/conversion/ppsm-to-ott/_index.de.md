@@ -53,7 +53,51 @@ Mit der API können Sie auch eine PPSM-Datei in eine OTT-Konvertierung mit Wasse
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von PPSM in OTT (OpenDocument Template) ermöglicht es Benutzern, wiederverwendbare Dokumentenvorlagen aus Präsentationen in Open-Source-Formaten zu erstellen, die ideal für standardisierte Unternehmens-, akademische oder NGO-Dokumentationen sind.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Vorbereitung wiederverwendbarer Berichtsvorlagen für LibreOffice-Benutzer.
+
+* Konvertierung von Schulungsfolien in bearbeitbare Dokumentenvorlagen.
+
+* Akademische Folien, die als Vorlagen für Vorlesungen oder Aufgaben wiederverwendet werden.
+
+* NGO-Projektfolien, die in Berichtsvorlagen umgewandelt werden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelkonvertierung von Folienpräsentationen in OTT-Vorlagen für wiederholten Gebrauch.
+
+* Integration in automatisierte Workflow-Pipelines zur Dokumentenerstellung.
+
+* Geplante Erstellung von Vorlagensammlungen aus wiederkehrenden Folien.
+
+* Ausgelöste Erstellung von OTT-Vorlagen für Projektunterlagen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

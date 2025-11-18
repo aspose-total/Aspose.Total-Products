@@ -61,7 +61,55 @@ otherformats: ODS MHTML XLAM XLSB FODS XLTX XLSX XLS TSV XLSM XLT XLTM MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将PPSM（PowerPoint幻灯片展示）文件转换为CSV（逗号分隔值）可以将演示文稿中的表格数据导出为一种轻量级、普遍兼容的电子表格格式。非常适合数据分析、报告编制以及与BI工具集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将基于幻灯片的图表导出为Excel或Google表格的CSV文件。
+
+* 将演示文稿中的表格转换为可编辑的数据文件进行分析。
+
+* 以普遍可读的CSV格式共享幻灯片中的数值报告。
+
+* 从PPSM幻灯片中准备销售或营销指标以供分析工具使用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将多个幻灯片展示转换为CSV文件。
+
+* 自动提取仪表板的表格数据。
+
+* 从定期公司演示文稿生成计划性的CSV文件。
+
+* 集成到用于商业智能平台的ETL流程中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

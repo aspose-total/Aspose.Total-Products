@@ -61,7 +61,51 @@ PPSM dosyasını XLTM'ye dönüştürürken, çıktı XLTM dosya biçiminize de 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM'yi XLTM'ye (Makro Etkin Excel Şablonu) dönüştürmek, otomatik raporlar veya tekrar eden elektronik tablo iş akışları için mükemmel olan makrolu tekrar kullanılabilir şablonlar sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Slaytlardan makro destekli finansal şablonlar oluşturma.
+
+* Proje slaytlarını otomatik Excel raporlama şablonlarına dönüştürme.
+
+* Satış veya pazarlama gösterge tablolarının makro destekli şablonlara dönüştürülmesi.
+
+* Akademik slaytların etkileşimli not verme şablonlarına dönüştürülmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tekrarlanan iş akışları için toplu PPSM'den XLTM'ye dönüşüm.
+
+* Raporlama otomasyonu için zamanlanmış makro destekli şablon oluşturma.
+
+* Şablon odaklı analizler için BI boru hatlarıyla entegrasyon.
+
+* Sunumlardan makro destekli şablonların tetiklenerek oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

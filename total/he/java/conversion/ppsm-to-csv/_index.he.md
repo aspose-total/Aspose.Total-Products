@@ -102,7 +102,55 @@ otherformats: ODS MHTML XLAM XLSB FODS XLTX XLSX XLS TSV XLSM XLT XLTM MARKDOWN 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי PPSM (מצגת שקופיות של PowerPoint) ל־CSV (ערכים מופרדים בפסיקים) מאפשרת לייצא נתוני טבלה ממצגות לתוך פורמט גיליון נתונים קל, תואם באופן אוניברסלי. אידיאלי לניתוח נתונים, דיווחים ואינטגרציה עם כלים לניתוח עסקי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייצוא תרשימי שקופיות ל־CSV עבור Excel או Google Sheets.
+
+* המרת טבלאות ממצגת לקבצי נתונים ניתנים לעריכה לצורך ניתוח.
+
+* שיתוף דו־משמעי של דוחות מספריים משקפי שקופיות בפורמט CSV שניתן לקריאה בצורה אוניברסלית.
+
+* הכנת מדדי מכירות או שיווק ממצגות PPSM לכלים לניתוח.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רציפה של מספר חבילות שקופיות לקבצי CSV.
+
+* חילוץ אוטומטי של נתוני טבלה ללוחות מחוונים.
+
+* יצירת CSV מתוזמנת ממצגות תדמיתיות חוזרות.
+
+* אינטגרציה לצינורות ETL עבור פלטפורמות לניתוח עסקי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

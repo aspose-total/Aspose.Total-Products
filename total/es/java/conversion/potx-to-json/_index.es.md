@@ -49,7 +49,33 @@ Mientras convierte POTX a JSON, también puede establecer el rango en su formato
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Conversión de POTX a JSON
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de POTX a JSON transforma el contenido de las diapositivas en Notación de Objetos JavaScript estructurada, ideal para aplicaciones web, paneles de control y procesamiento de datos impulsado por API.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* Exportar tablas y gráficos de presentación para paneles de control web.
+* Convertir diapositivas en JSON para la ingestión de datos de IA o aprendizaje automático.
+* Preparar herramientas de informes interactivos a partir de datos de presentación.
+* Compartir contenido basado en diapositivas con aplicaciones web y plataformas SaaS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* Conversión en lote de JSON para canalizaciones de análisis e informes.
+* Integración con sistemas impulsados por API para el consumo de datos de diapositivas en tiempo real.
+* Conversión activada para paneles web o móviles dinámicos.
+* Extracción automatizada del contenido de las diapositivas en JSON estructurado para su procesamiento.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

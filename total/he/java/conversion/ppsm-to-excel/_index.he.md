@@ -102,7 +102,55 @@ otherformats: DIF FODS XLSX CSV MHTML XLTM XLS XLT XLTX MARKDOWN TSV XLSM XLSB O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת PPSM ל-EXCEL מאפשרת העברה מלאה של תרשימים, טבלאות ונתונים מספריים ממצגות לתבנית של Microsoft Excel, מאפשרת עיבוד נתונים מתקדם וניתוח.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת מצגות מכירות ללוחות בקרה ב-Excel.
+
+* המרת מצגות פיננסיות לגליונות Excel ניתנים לעריכה.
+
+* הכנת שקופי ניהול פרויקטים לדיווח ב-Excel.
+
+* המרת שקופי לימודים או מחקר לסטים של נתונים ב-Excel לצורך ניתוח.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* עיבוד רצף שקופיות לחוברות עבודה ב-Excel לגישה רחבה בצוות.
+
+* שילוב עם צינורות דיווח להמרת שקופיות ל-Excel באופן אוטומטי.
+
+* חילוץ מתוזמן של טבלאות ותרשימים ממצגות.
+
+* המרת מופעלת עבור דוחות ניהול חוזרים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

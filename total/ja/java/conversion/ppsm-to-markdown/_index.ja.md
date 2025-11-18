@@ -61,7 +61,51 @@ PPSMファイルをMARKDOWNに変換するときに、出力MARKDOWNファイル
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSMをMarkdownに変換することで、プレゼンテーションコンテンツをフォーマット付きの軽量なプレーンテキストドキュメントに変換できます。ドキュメント、ブログ、GitHubリポジトリ、または開発者間のコラボレーションに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 講義やトレーニングスライドをMarkdownノートに変換する。
+
+* 企業プレゼンテーションから軽量なドキュメントを準備する。
+
+* スライドをブログ用のMarkdownコンテンツにエクスポートする。
+
+* バージョン管理されたMarkdownファイルを使用して開発者とスライドデッキを共有する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* PPSMスライドの一括変換を行い、コンテンツリポジトリにMarkdownを統合する。
+
+* HugoやJekyllなどの静的サイトジェネレータと統合する。
+
+* 定期的なプレゼンテーションをMarkdown形式にエクスポートする。
+
+* スライドデッキからMarkdownドキュメントを生成する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPSM sang XLAM, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi PPSM thành XLAM (Excel Macro-Enabled Add-In) cho phép nhúng tính toán và biểu đồ dựa trên slide vào các add-in Excel, nâng cao khả năng tự động hóa và phân tích.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi bài thuyết trình thành các add-in Excel cho báo cáo tự động.
+
+* Xuất các slide tài chính hoặc vận hành với hỗ trợ macro.
+
+* Tạo bảng điều khiển tương tác dựa trên các slide PPSM.
+
+* Chuyển đổi slide thành các macro Excel có thể tái sử dụng cho các nhiệm vụ định kỳ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt nhiều bộ PPSM thành các add-in XLAM.
+
+* Tạo các mẫu có hỗ trợ macro được lên lịch cho báo cáo.
+
+* Tích hợp với các nền tảng tự động hóa quy trình làm việc.
+
+* Tạo các add-in Excel từ các bài thuyết trình theo yêu cầu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

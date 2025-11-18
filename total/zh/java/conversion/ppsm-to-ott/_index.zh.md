@@ -52,7 +52,51 @@ otherformats: ODT OTTM DOTX OTTX TEXT DOT FLATOPC OTT WORDML DOTM WORD RTF
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将PPSM转换为OTT（OpenDocument模板）允许用户从开源格式的演示文稿中创建可重用的文档模板，非常适合标准化的企业、学术或非政府组织文档。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 为LibreOffice用户准备可重用的报告模板。
+
+* 将培训幻灯片转换为可编辑的文档模板。
+
+* 将学术幻灯片重新用作讲座或作业模板。
+
+* 将非政府组织项目幻灯片转换为报告模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将幻灯片转换为OTT模板以供重复使用。
+
+* 集成到自动化工作流程中，用于文档创建。
+
+* 定期从重复幻灯片生成模板库。
+
+* 为项目文档触发OTT模板创建。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,51 @@ Pomocí API můžete také provést převod POTX souboru na DOTX s vodoznakem. C
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POTX na DOTX umožňuje vytváření standardních šablon Wordu z diapozitivů PowerPointu, ideální pro opakovatelné dokumenty bez maker.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření čistých šablon Wordu pro reporting z vizuálních prezentací.
+
+* Převádění seminárních nebo workshopových prezentací do opakovaně použitelných dokumentových šablon.
+
+* Generování editovatelných vzdělávacích šablon pro plány výuky.
+
+* Vytváření značkových rozložení dokumentů z firemních prezentací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatický hromadný převod do formátu DOTX pro knihovny firemních šablon.
+
+* Integrace do systémů správy digitálních aktiv pro snadný přístup k šablonám.
+
+* Spouštěný export pro aktualizace šablon na základě revidovaného obsahu prezentace.
+
+* Automatizace pracovního postupu pro opakovanou generaci šablon napříč odděleními.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

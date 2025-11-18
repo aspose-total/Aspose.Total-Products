@@ -102,7 +102,51 @@ otherformats: MARKDOWN ODS XLSB SXC CSV XLTX XLT XLAM XLSM XLSX DIF XLS XLTM TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Конвертація **PPSX у FODS** дозволяє експортувати таблиці слайдів у плоский формат OpenDocument Spreadsheet, сумісний з офісними пакетами з відкритим вихідним кодом, такими як LibreOffice та OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Академічні слайди, перетворені для використання у засобах електронних таблиць з відкритим вихідним кодом.
+
+* Звіти уряду або НУО, які вимагають підтримки FODS.
+
+* Міжплатформенна співпраця з даними без використання пропрієтарного програмного забезпечення.
+
+* Архівування метрик презентацій у редагованих відкритих форматах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетна експортація FODS для робочих процесів з відкритим вихідним кодом.
+
+* Спрацьовані оновлення при перегляді наборів слайдів.
+
+* Інтеграція з аналітичними конвеєрами з відкритим вихідним кодом.
+
+* Запланована конвертація повторюваних звітів для командної співпраці.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

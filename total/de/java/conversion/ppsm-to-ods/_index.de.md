@@ -61,7 +61,31 @@ Beim Konvertieren der PPSM-Datei in ODS können Sie Ihrem Ausgabe-ODS-Dateiforma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Die Konvertierung von PPSM in ODS (OpenDocument Spreadsheet) gewährleistet die volle Kompatibilität mit LibreOffice, OpenOffice und Google Sheets und behält dabei Diagramme und Tabellen aus den Folien bei.
+
+## {{% blocks/products/pf/agp/feature-section-col title="Anwendungsfälle" %}}
+
+* Präsentationsmetriken zur gemeinsamen Analyse in ODS exportieren.
+* Projekt-Dashboards in bearbeitbare ODS-Tabellen umwandeln.
+* Akademische Folien in benutzerfreundliche Tabellenkalkulationsformate für Studenten umwandeln.
+* Marketing- und Vertriebs-PPSM-Präsentationen in gemeinsam nutzbare ODS-Dateien konvertieren.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierung von Slide-to-ODS-Konvertierungen für wiederkehrende Berichte.
+* Stapelweise Extraktion von Tabellen und Diagrammen in ODS-Format.
+* Geplante Erstellung von Tabellenkalkulationen aus Unternehmenspräsentationen.
+* Integration mit Workflow-Plattformen für dynamische Aktualisierungen von Tabellenkalkulationen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

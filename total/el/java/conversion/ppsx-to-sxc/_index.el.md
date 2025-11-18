@@ -61,7 +61,51 @@ otherformats: XLS XLTX XLSB XLSX SXC FODS DIF XLAM MHTML EXCEL XLT TSV MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή **PPSX σε SXC** παράγει αρχεία StarOffice Spreadsheet, επιτρέποντας στους χρήστες παλαιότερων σουίτες γραφείου να επεξεργαστούν και να μοιραστούν δεδομένα που προέρχονται από διαφάνειες σε εφαρμογές που υποστηρίζουν το SXC.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+
+
+* Συμβατότητα με τη ροή εργασίας της παλαιάς γραφειακής σουίτας.
+
+* Αρχειοθέτηση πινάκων παρουσιάσεων για μακροχρόνια πρόσβαση.
+
+* Κοινή χρήση δεδομένων μεταξύ οργανισμών που χρησιμοποιούν το StarOffice ή το OpenOffice.
+
+* Μετατροπή μετρήσεων διαφανειών για ανάλυση σε εργαλεία υπολογιστικών φύλλων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή SXC για ολοκλήρωση με παλαιά συστήματα.
+
+* Προγραμματισμένες εξαγωγές από επαναλαμβανόμενες διαφάνειες παρουσιάσεων.
+
+* Αυτόματη δημιουργία υπολογιστικών φύλλων για συνεργασία πολλαπλών χρηστών.
+
+* Ενεργοποίηση ενημερώσεων όταν προστίθενται νέα δεδομένα παρουσίασης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

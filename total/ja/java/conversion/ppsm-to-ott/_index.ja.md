@@ -53,7 +53,51 @@ APIを使用して、透かしを使用してPPSMファイルからOTTへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSMをOTT（OpenDocument Template）に変換すると、オープンソース形式のプレゼンテーションから再利用可能なドキュメントテンプレートを作成できます。標準化された企業、学術、またはNGOの文書作成に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* LibreOfficeユーザー向けの再利用可能なレポートテンプレートの準備。
+
+* トレーニング用スライドデッキを編集可能なドキュメントテンプレートに変換。
+
+* 学術スライドを講義や課題のテンプレートとして再利用。
+
+* NGOプロジェクトスライドをレポートテンプレートに変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* スライドデッキを繰り返し使用するためのOTTテンプレートへの一括変換。
+
+* 文書作成のための自動化ワークフローパイプラインへの統合。
+
+* 定期的なスライドからテンプレートライブラリの生成のスケジュール設定。
+
+* プロジェクト文書作成のためのOTTテンプレート作成のトリガー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

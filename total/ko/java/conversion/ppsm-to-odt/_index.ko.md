@@ -53,7 +53,51 @@ API를 사용하여 워터마크를 사용하여 PPSM 파일을 ODT로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM을 ODT(OpenDocument Text)로 변환하면 크로스 플랫폼 호환성을 보장하여, 슬라이드를 LibreOffice나 OpenOffice와 같은 오픈 소스 워드 프로세서용으로 편집 가능한 텍스트 문서로 변환할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* ODT 형식의 프레젠테이션 슬라이드에서 강의 노트 작성 준비.
+
+* LibreOffice나 OpenOffice 환경용으로 비즈니스 제안서 변환.
+
+* 협업을 위해 슬라이드 덱을 오픈 소스 문서 형식으로 변환.
+
+* 다중 플랫폼 액세스를 위해 편집 가능한 슬라이드 보관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 분산 팀을 위해 PPSM 프레젠테이션 일괄 변환하여 ODT 문서로.
+
+* 자동 업데이트를 위한 오픈 소스 문서 워크플로 통합.
+
+* 지식 저장소를 위해 일정에 따라 슬라이드를 ODT 형식으로 내보내기.
+
+* 크로스 플랫폼 공유를 위해 프레젠테이션으로부터 트리거된 ODT 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

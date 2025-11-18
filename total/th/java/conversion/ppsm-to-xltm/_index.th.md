@@ -61,7 +61,51 @@ otherformats: XLSM XLT XLTM XLSB ODS XLSX XLTX TSV MARKDOWN MHTML XLS XLAM DIF S
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง PPSM เป็น XLTM (แมโคร-เปิดใช้งานเทมเพลต Excel) จะให้เทมเพลตที่ใช้ซ้ำได้พร้อมกับแมโคร ที่เหมาะสำหรับรายงานอัตโนมัติหรือการทำงานของสเปรดชีทที่เกิดซ้ำ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้างเทมเพลตทางการเงินที่เปิดใช้งานแมโครจากสไลด์
+
+* แปลงสไลด์โปรเจกต์เป็นเทมเพลตรายงาน Excel อัตโนมัติ
+
+* แดชบอร์ดขายหรือการตลาดที่ถูกแปลงเป็นเทมเพลตที่เปิดใช้งานแมโคร
+
+* สไลด์ทางการศึกษาที่ถูกใช้ใหม่เป็นเทมเพลตการจัดเกรดแบบแอคทีฟ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงจำนวนมากของ PPSM เป็น XLTM สำหรับการทำงานที่เกิดซ้ำ
+
+* การสร้างเทมเพลตที่เปิดใช้งานแมโครตามกำหนดสำหรับอัตโนมัติรายงาน
+
+* การผสานรวมกับไปพลายน์ BI สำหรับการวิเคราะห์ข้อมูลที่ใช้เทมเพลต
+
+* การสร้างเทมเพลตที่เปิดใช้งานแมโครจากการนำเสนอที่ถูกเรียกใช้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

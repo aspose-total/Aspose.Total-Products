@@ -53,7 +53,51 @@ otherformats: DOTM OTT DOTX TEXT FLATOPC DOT WORDML RTF ODTM ODTX WORD ODT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POTX в ODT позволяет экспортировать слайды презентации в формат OpenDocument Text, подходящий для LibreOffice, OpenOffice и кроссплатформенных сред.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование презентаций в редактируемые текстовые документы OpenOffice или LibreOffice.
+
+* Обмен содержимым слайдов между средами, не связанными с Microsoft.
+
+* Создание отчетов на основе презентационных досок для пользователей офисов с открытым исходным кодом.
+
+* Подготовка образовательного контента, совместимого с несколькими офисными пакетами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование в ODT для кроссплатформенных офисных рабочих процессов.
+
+* Интеграция в платформы совместной работы над документами, поддерживающие ODT.
+
+* Автоматический экспорт для отчетности проектов с открытым исходным кодом.
+
+* Триггерное преобразование для доступности контента на различных платформах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

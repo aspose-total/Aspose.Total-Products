@@ -61,7 +61,25 @@ Lors de la conversion du fichier PPSM en SXC, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Conversion de PPSM en SXC
+
+La conversion de PPSM en SXC (tableur StarOffice Calc) permet de transformer d'anciennes diapositives de présentation en tableurs compatibles pour les utilisateurs des anciennes versions d'OpenOffice ou StarOffice.
+
+## Cas d'utilisation clés
+
+- Conversion de diapositives de vente ou de projet en tableurs SXC modifiables.
+- Partage de présentations historiques avec des logiciels de bureau obsolètes.
+- Diapositives académiques ou d'entreprise réutilisées pour des rapports de tableur.
+- Archivage des données des diapositives dans un format SXC léger.
+
+## Scénarios d'automatisation
+
+- Conversion en lot de PPSM en SXC pour les systèmes obsolètes.
+- Extraction planifiée des graphiques et des tableaux dans des fichiers SXC.
+- Intégration avec des pipelines de reporting automatisés pour les anciens logiciels.
+- Conversion déclenchée pour des présentations récurrentes.
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ PPSXファイルをFODSに変換するときに、出力FODSファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSXをFODSに変換**すると、スライドテーブルをフラットなOpenDocument Spreadsheet形式にエクスポートでき、LibreOfficeやOpenOfficeなどのオープンソースオフィススイートと互換性があります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* オープンソースのスプレッドシートツール向けに再利用される学術スライド。
+
+* FODSサポートが必要な政府機関やNGOの報告書。
+
+* プロプライエタリソフトウェアを使用せずにクロスプラットフォームでのデータ共有。
+
+* 編集可能なオープンフォーマットでプレゼンテーションメトリクスをアーカイブ化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* オープンソースオフィスワークフロー向けのバッチFODSエクスポート。
+
+* スライドデッキが更新されたときのトリガー更新。
+
+* オープンソースの分析パイプラインとの統合。
+
+* チームコラボレーションのための定期的なレポートのスケジュール変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

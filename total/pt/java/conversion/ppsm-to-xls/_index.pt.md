@@ -61,7 +61,55 @@ Ao converter o arquivo PPSM para XLS, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter PPSM para XLS (Excel 97-2003 Workbook) oferece compatibilidade com versões antigas do Microsoft Excel, mantendo tabelas e gráficos dos slides.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Exportar slides financeiros ou de projetos para XLS para usuários legados.
+
+* Converter métricas corporativas em planilhas editáveis do Excel.
+
+* Slides acadêmicos transformados em planilhas para análise.
+
+* Compartilhar dados de apresentação em formato compatível com versões antigas do Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de PPSM para XLS para uso legado em toda a equipe.
+
+* Extração programada de slides para XLS para relatórios.
+
+* Integração em fluxos de trabalho de arquivamento automatizado.
+
+* Geração de XLS acionada a partir de apresentações recorrentes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

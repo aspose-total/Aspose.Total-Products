@@ -53,7 +53,51 @@ otherformats: ODT OTTM DOTX OTTX TEXT DOT FLATOPC OTT WORDML DOTM WORD RTF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง PPSM เป็น OTT (OpenDocument Template) ช่วยให้ผู้ใช้สร้างเทมเพลตเอกสารที่ใช้ซ้ำได้จากงานนำเสนอในรูปแบบโอเพนซอร์ส ที่เหมาะสำหรับเอกสารมาตรฐานขององค์กรธุรกิจ สถาบันการศึกษา หรือองค์กรไม่แสวงหาผลกำไร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* เตรียมเทมเพลตรายงานที่ใช้ซ้ำได้สำหรับผู้ใช้ LibreOffice
+
+* แปลงสไลด์การฝึกอบรมเป็นเทมเพลตเอกสารที่สามารถแก้ไขได้
+
+* สไลด์ทางการศึกษาที่ใช้ใหม่เป็นเทมเพลตการบรรยายหรือการมอบหมาย
+
+* สไลด์โครงการองค์กรไม่แสวงหาผลกำไรที่แปลงเป็นเทมเพลตรายงาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงสไลด์เป็นเทมเพลต OTT จำนวนมากสำหรับการใช้ซ้ำ
+
+* การรวมเข้ากับกระบวนการทำงานอัตโนมัติสำหรับสร้างเอกสาร
+
+* การสร้างไลบรารีเทมเพลตตามกำหนดเวลาจากสไลด์ที่เกิดซ้ำ
+
+* การสร้างเทมเพลต OTT ตามที่กำหนดสำหรับเอกสารโครงการ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

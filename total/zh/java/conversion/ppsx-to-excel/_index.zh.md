@@ -61,7 +61,51 @@ otherformats: XLS XLSX TSV DIF XLTM MHTML XLT MARKDOWN SXC XLTX XLSB XLAM EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **PPSX 转换为 EXCEL** 可将演示文稿中的表格转换为完全可编辑的 Microsoft Excel 电子表格，保留格式、公式和布局结构，用于专业数据管理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将财务或绩效幻灯片转化为可操作的 Excel 报告。
+
+* 用于企业决策的数据驱动仪表板。
+
+* 用于审计或合规目的的可编辑电子表格。
+
+* 使用 Excel 模板进行跨部门报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将多个幻灯片组转换为 Excel，用于企业报告。
+
+* 集成到财务或销售团队的工作流自动化中。
+
+* 从定期演示文稿中定期更新 Excel 报告。
+
+* 从基于幻灯片的关键绩效指标自动生成 Excel 仪表板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

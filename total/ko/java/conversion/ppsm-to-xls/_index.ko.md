@@ -61,7 +61,51 @@ PPSM 파일을 XLS로 변환하는 동안 출력 XLS 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM를 XLS(Excel 97-2003 Workbook)로 변환하면 이전 버전의 Microsoft Excel과의 레거시 호환성을 제공하면서 슬라이드의 표 및 차트를 유지합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 재무 또는 프로젝트 슬라이드를 XLS로 내보내어 레거시 사용자에게 제공합니다.
+
+* 기업 메트릭을 편집 가능한 Excel 시트로 변환합니다.
+
+* 학술 슬라이드를 분석용 스프레드시트로 변환합니다.
+
+* 이전 Excel과 호환되는 형식으로 프레젠테이션 데이터를 공유합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 팀 전체 레거시 사용을 위한 일괄 PPSM-to-XLS 변환.
+
+* 보고를 위해 일정에 따라 슬라이드를 XLS로 추출합니다.
+
+* 자동 아카이브 워크플로에 통합합니다.
+
+* 반복 프레젠테이션으로부터 트리거된 XLS 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

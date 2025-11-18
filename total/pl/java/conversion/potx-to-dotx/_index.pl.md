@@ -53,7 +53,51 @@ Korzystając z API, możesz również wykonać konwersję pliku POTX do DOTX ze 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja POTX na DOTX umożliwia tworzenie standardowych szablonów Worda z slajdów programu PowerPoint, idealnych do tworzenia dokumentów bez makr.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Tworzenie czystych szablonów Worda do raportowania na podstawie wizualnych prezentacji.
+
+* Konwertowanie slajdów z seminarium lub warsztatów na wielokrotnego użytku szablony dokumentów.
+
+* Generowanie edytowalnych szablonów edukacyjnych do planów lekcji.
+
+* Tworzenie spersonalizowanych układów dokumentów na podstawie prezentacji korporacyjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna konwersja wsadowa na DOTX dla bibliotek szablonów biurowych.
+
+* Integracja z systemami zarządzania zasobami cyfrowymi dla łatwego dostępu do szablonów.
+
+* Wywoływane eksportowanie dla aktualizacji szablonów na podstawie zmienionej zawartości prezentacji.
+
+* Automatyzacja procesów dla powtarzalnego generowania szablonów w różnych działach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

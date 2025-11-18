@@ -53,7 +53,51 @@ Menggunakan API, Anda juga dapat melakukan konversi file PPSM ke DOTM dengan tan
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi PPSM ke DOTM (Template Word yang Diaktifkan Makro) menjaga konten presentasi dan makro yang tertanam, memungkinkan pembuatan template otomatis untuk alur kerja perusahaan dan akademis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Membuat laporan template interaktif untuk departemen keuangan atau SDM.
+
+* Modul pelatihan dengan makro yang telah ditentukan untuk perhitungan otomatis.
+
+* Menghasilkan template proyek yang dapat diedit dengan makro dinamis.
+
+* Mengonversi presentasi menjadi template proposal klien berulang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch terjadwal dari slide ke DOTM untuk penggunaan berulang.
+
+* Memperbarui makro secara otomatis dari data PPSM dalam template alur kerja.
+
+* Integrasi dengan platform otomatisasi dokumen untuk pembuatan laporan berulang.
+
+* Mengotomatisasi pembuatan template kepatuhan atau audit dari slide.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

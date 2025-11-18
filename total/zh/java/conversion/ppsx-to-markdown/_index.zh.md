@@ -61,7 +61,51 @@ otherformats: SXC ODS XLSX MHTML FODS XLAM XLS XLTX EXCEL XLSB XLTM MARKDOWN TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **PPSX 转换为 MARKDOWN** 可以将幻灯片转换为 Markdown 文本，提供了一种轻量级、可编辑的格式，非常适合文档、网站和内容管理系统。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将演示文稿注释转换为 Markdown 用于技术博客。
+
+* 为软件存储库准备基于幻灯片的文档。
+
+* 以轻量级文本格式存档讲座或培训幻灯片。
+
+* 从演示文稿生成适合网络的文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 幻灯片到博客流水线的批量转换。
+
+* 将幻灯片定期导出为 Markdown 用于知识管理系统。
+
+* 与静态站点生成器集成，实现自动化内容更新。
+
+* 当添加新幻灯片时触发转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

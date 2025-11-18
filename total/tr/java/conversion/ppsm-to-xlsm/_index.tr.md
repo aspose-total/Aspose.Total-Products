@@ -61,7 +61,55 @@ PPSM dosyasını XLSM'ye dönüştürürken, çıktı XLSM dosya biçiminize de 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM'yi XLSM'ye (Excel Makro Etkinliği Destekleyen Çalışma Kitabı) dönüştürmek, slaytlardan formülleri, makroları ve grafikleri koruyarak otomatik hesaplamaları ve veriye dayalı raporları mümkün kılar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Finansal modeller içeren sunumları makro etkinliği destekleyen çalışma kitaplarına dönüştürme.
+
+* Slaytlardan makrolarla etkileşimli proje gösterge tabloları hazırlama.
+
+* Formülleri içeren akademik slaytları otomatik derecelendirme için XLSM'ye dönüştürme.
+
+* Satış slaytlarını otomatik raporlama için XLSM'ye dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* İş akışı otomasyonu için toplu PPSM'den XLSM'ye dönüştürme.
+
+* Sunumlardan zamanlanmış makro etkinliği destekleyen çalışma kitabı oluşturma.
+
+* İş zekası boru hatlarıyla entegrasyon.
+
+* Tekrarlayan rapor otomasyonu için tetiklenen dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

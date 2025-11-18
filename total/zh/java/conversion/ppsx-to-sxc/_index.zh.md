@@ -61,7 +61,51 @@ otherformats: XLS XLTX XLSB XLSX SXC FODS DIF XLAM MHTML EXCEL XLT TSV MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **PPSX 转换为 SXC** 会生成 StarOffice 电子表格文件，使得旧版办公套件用户能够在兼容SXC的应用程序中编辑和共享幻灯片衍生数据。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 与传统办公流程兼容。
+
+* 将演示文稿表格存档以供长期访问。
+
+* 通过StarOffice或OpenOffice在组织间共享数据。
+
+* 将幻灯片指标转换为电子表格工具中的分析数据。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将SXC转换为旧系统集成。
+
+* 从定期演示文稿中进行定时导出。
+
+* 为多用户协作自动生成电子表格。
+
+* 当添加新演示文稿数据时触发更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ otherformats: EXCEL XLTX XLSM SXC TSV XLTM MARKDOWN DIF XLSX XLSB XLAM FODS ODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 PPSM 转换为 XLAM（Excel 宏启用加载项）可将基于幻灯片的计算和图表嵌入到 Excel 加载项中，增强自动化和分析功能。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将演示文稿转换为 Excel 加载项，用于自动报告生成。
+
+* 导出具有宏支持的财务或运营幻灯片。
+
+* 基于 PPSM 幻灯片创建交互式仪表板。
+
+* 将幻灯片转换为可重复使用的 Excel 宏，用于重复任务。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将多个 PPSM 幻灯片组转换为 XLAM 加载项。
+
+* 定期生成用于报告的宏启用模板。
+
+* 与工作流自动化平台集成。
+
+* 从演示文稿触发创建 Excel 加载项。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

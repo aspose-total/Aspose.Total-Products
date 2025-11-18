@@ -61,7 +61,55 @@ Ao converter o arquivo PPSM para SXC, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter PPSM para SXC (Planilha StarOffice Calc) permite que slides de apresentação mais antigos sejam transformados em planilhas compatíveis para usuários legados do OpenOffice ou StarOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Converter slides de vendas ou projetos em planilhas SXC editáveis.
+
+* Compartilhar apresentações históricas com software de escritório legado.
+
+* Slides acadêmicos ou corporativos reaproveitados para relatórios de planilhas.
+
+* Arquivar dados de slides em um formato SXC leve.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de PPSM para SXC para sistemas legados.
+
+* Extração programada de gráficos e tabelas em arquivos SXC.
+
+* Integração com pipelines de relatórios automatizados para software mais antigo.
+
+* Conversão acionada para apresentações recorrentes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

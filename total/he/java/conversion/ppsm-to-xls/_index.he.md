@@ -102,7 +102,51 @@ otherformats: FODS SXC EXCEL ODS DIF TSV MHTML XLSM XLTM XLT XLSX XLAM XLSB CSV 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת PPSM ל-XLS (Excel 97-2003 Workbook) מספקת תאימות לגרסאות ישנות יותר של Microsoft Excel, תוך שמירה על טבלאות ותרשימים מהשקפים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייצוא שקפים פיננסיים או פרויקט ל-XLS עבור משתמשים ישנים.
+
+* המרת מדדים תאומים לגליונות Excel ניתנים לעריכה.
+
+* שקפים אקדמיים המומרים לגליונות נתונים לצורך ניתוח.
+
+* שיתוף נתוני ההצגה בפורמט התואם ל-Excel הישן.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת קובץ PPSM ל-XLS בצורה רציפה לשימוש ירושתי בצוות.
+
+* חילוץ שקפים מתוזמן ל-XLS לצורך דיווחים.
+
+* שילוב לתהליכי עבודה אוטומטיים.
+
+* יצירת XLS ממצגות חוזרות באופן מופעל.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

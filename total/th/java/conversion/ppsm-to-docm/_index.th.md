@@ -53,7 +53,51 @@ otherformats: DOTM WORD ODT WORDML DOCM DOTX FLATOPC DOCMX TEXT OTT RTF DOT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง PPSM เป็น DOCM (เอกสารที่เปิดใช้งานมาโครใน Word) ช่วยให้งานนำเสนอสามารถแปลงเป็นเอกสาร Word ที่สามารถแก้ไขได้พร้อมรักษาความสามารถของมาโครไว้ได้ มีประโยชน์สำหรับกระบวนการทำงานขององค์กรที่การอัตโนมัติหรือสคริปต์ที่ฝังอยู่เสริมความสามารถในการทำงาน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* รายงานแบบโต้ตอบที่ต้องการมาโครสำหรับการอัพเดตแผนภูมิโดยอัตโนมัติ
+
+* คู่มือการฝึกอบรมที่มีสคริปต์ VBA ที่ฝังอยู่สำหรับการจำลองสถานการณ์
+
+* การอัตโนมัติเอกสารภายในที่สร้างจากสไลด์
+
+* การแปลงสำหรับข้อเสนอลูกค้าที่เปลี่ยนไปโดยมีมาโครที่เรียกเกิดการเปลี่ยน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การประมวลผลชุด PPSM เข้าสู่เทมเพลต DOCM พร้อมมาโคร
+
+* การอัพเดตตามกำหนดการของงานนำเสนอทางการเงินเข้าสู่รายงาน Word ที่เปิดใช้งานมาโคร
+
+* การผสานรวมกับเครื่องมืออัตโนมัติกระบวนการสำหรับการแปลงสไลด์เป็นเอกสาร
+
+* การสร้างรายงานตรวจสอบภายในจากสไลด์ PPSM พร้อมมาโครโดยอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

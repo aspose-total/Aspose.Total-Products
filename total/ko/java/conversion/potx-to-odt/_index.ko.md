@@ -53,7 +53,51 @@ API를 사용하여 워터마크를 사용하여 POTX 파일을 ODT로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX를 ODT로 변환하면 프레젠테이션 슬라이드를 LibreOffice, OpenOffice 및 크로스 플랫폼 환경에 적합한 OpenDocument Text 형식으로 내보낼 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 프레젠테이션을 편집 가능한 OpenOffice 또는 LibreOffice 텍스트 문서로 변환하기.
+
+* Microsoft 이외의 환경에서 슬라이드 콘텐츠 공유하기.
+
+* 오픈 소스 오피스 사용자를 위한 프레젠테이션 덱에서 보고서 생성하기.
+
+* 여러 오피스 스위트와 호환되는 교육 콘텐츠 준비하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 크로스 플랫폼 오피스 워크플로를 위한 일괄 ODT 변환.
+
+* ODT를 지원하는 문서 협업 플랫폼에 통합.
+
+* 오픈 소스 프로젝트 보고서를 위한 자동화된 내보내기.
+
+* 플랫폼 간 콘텐츠 접근성을 위한 트리거 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

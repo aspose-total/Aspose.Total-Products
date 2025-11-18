@@ -53,7 +53,51 @@ Pomocí API můžete také provést převod POTX souboru na ODT s vodoznakem. Ch
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POTX na ODT umožňuje export prezentací do formátu OpenDocument Text, vhodného pro LibreOffice, OpenOffice a prostředí cross-platform.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převádění prezentací do editovatelných textových dokumentů OpenOffice nebo LibreOffice.
+
+* Sdílení obsahu snímků přes prostředí mimo Microsoft.
+
+* Generování zpráv z prezentací pro uživatele open-source kancelářských balíků.
+
+* Příprava vzdělávacího obsahu kompatibilního s více kancelářskými balíky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod ODT pro cross-platform pracovní postupy v kanceláři.
+
+* Integrace do platforem pro spolupráci na dokumentech podporujících ODT.
+
+* Automatický export pro reportování open-source projektů.
+
+* Spouštěný převod pro přístupnost obsahu napříč platformami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

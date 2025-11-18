@@ -61,7 +61,51 @@ PPSMファイルをXLTMに変換するときに、出力XLTMファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSMをXLTM（マクロ有効なExcelテンプレート）に変換すると、マクロを含む再利用可能なテンプレートが作成され、自動レポートや繰り返しのスプレッドシートワークフローに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* スライドからマクロを含む財務テンプレートを作成する。
+
+* プロジェクトスライドを自動化されたExcelレポートテンプレートに変換する。
+
+* 営業またはマーケティングのダッシュボードをマクロを含むテンプレートに変換する。
+
+* 学術スライドをインタラクティブな採点テンプレートに再利用する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 繰り返しのワークフロー用のバッチPPSMからXLTMへの変換。
+
+* レポート自動化のためのスケジュールされたマクロを含むテンプレート作成。
+
+* テンプレート駆動型分析のためのBIパイプラインとの統合。
+
+* プレゼンテーションからのマクロを含むテンプレートのトリガー生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

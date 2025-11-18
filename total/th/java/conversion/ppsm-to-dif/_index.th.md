@@ -61,7 +61,51 @@ otherformats: XLS XLT SXC XLSX XLTX FODS XLTM XLSM ODS XLSB TSV XLAM EXCEL MHTML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง PPSM เป็น DIF (รูปแบบการแลกเปลี่ยนข้อมูล) ช่วยให้การถ่ายโอนข้อมูลสเปรดชีทจากสไลด์เข้าสู่รูปแบบที่เข้ากันได้กับซอฟต์แวร์สำหรับระบบที่เป็นมาตรฐานหรือเฉพาะทาง มีประโยชน์สำหรับการเก็บถาวรและการวิเคราะห์ข้อมูลข้ามแพลตฟอร์ม
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* ส่งออกตารางทางการเงินหรือการดำเนินงานจากงานนำเสนอเข้าสู่รูปแบบ DIF
+
+* แปลงสไลด์ความก้าวหน้าของโครงการเป็นไฟล์ DIF พร้อมใช้งานกับสเปรดชีท
+
+* แบ่งปันข้อมูลกับระบบที่เป็นมาตรฐานที่ต้องการข้อมูลนำเข้า DIF
+
+* เก็บถาวรเนื้อหาสไลด์แบบตารางสำหรับวัตถุประสงค์ทางกฎหมายหรือการตรวจสอบ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลงสไลด์ PPSM เป็น DIF แบบกลุ่มสำหรับรายงานประวัติ
+
+* สกัดตารางจากสไลด์เดคอัตอัตโมติเข้าสู่ไฟล์ DIF
+
+* อัปเดตตารางสำหรับแดชบอร์ดโครงการที่เกิดซ้ำ
+
+* ผสานกับเครื่องมือวิเคราะห์ที่เก่าแก่ที่ยอมรับการนำเข้า DIF
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

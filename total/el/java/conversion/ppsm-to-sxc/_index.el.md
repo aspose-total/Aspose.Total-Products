@@ -61,7 +61,51 @@ otherformats: EXCEL ODS XLSX MARKDOWN TSV XLS MHTML XLSM FODS XLSB XLTM XLT SXC 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του PPSM σε SXC (StarOffice Calc Spreadsheet) επιτρέπει στις παλαιότερες διαφάνειες παρουσιάσεων να μετατραπούν σε συμβατά υπολογιστικά φύλλα εργασίας για τους χρήστες παλαιών εκδόσεων του OpenOffice ή του StarOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Μετατροπή διαφανειών πωλήσεων ή έργων σε επεξεργάσιμα φύλλα εργασίας SXC.
+
+* Διαμοιρασμός ιστορικών παρουσιάσεων με λογισμικό γραφείου παλαιότερων εκδόσεων.
+
+* Επαναχρησιμοποίηση ακαδημαϊκών ή εταιρικών διαφανειών για αναφορές φύλλων εργασίας.
+
+* Αρχειοθέτηση δεδομένων διαφανειών σε μορφή SXC χαμηλού όγκου.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή PPSM σε SXC για παλαιά συστήματα.
+
+* Προγραμματισμένη εξαγωγή γραφημάτων και πινάκων σε αρχεία SXC.
+
+* Ενσωμάτωση με αυτοματοποιημένες αναφορές για παλαιότερο λογισμικό.
+
+* Μετατροπή με ενεργοποίηση για επαναλαμβανόμενες παρουσιάσεις.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

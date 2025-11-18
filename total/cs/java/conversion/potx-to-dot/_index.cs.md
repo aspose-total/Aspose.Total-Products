@@ -53,7 +53,51 @@ Pomocí API můžete také provést převod POTX souboru na DOT s vodoznakem. Ch
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod POTX na DOT umožňuje uživatelům převést šablon prezentací na soubory šablon Wordu. To je zásadní pro vytváření opakovaně použitelných rámů dokumentů odvozených ze slidových rozvržení.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření standardizovaných šablon zpráv z marketingových nebo prodejních prezentací.
+
+* Převádění výukových prezentací na editovatelné instruktážní šablony.
+
+* Generování firemních šablon firemní identity z návrhů prezentací.
+
+* Příprava právních dokumentů založených na vizuálních obrysech prezentací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadné vytváření šablon pro standardizaci dokumentů v oblasti HR nebo administrativy.
+
+* Automatický převod ze slidů na opakovaně použitelné šablony DOT v dokumentačních potrubích.
+
+* Integrace do automatizace pracovního postupu pro generování zpráv řízených šablonami.
+
+* Spouštěný proces generování DOT pro opakující se potřeby firemní dokumentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

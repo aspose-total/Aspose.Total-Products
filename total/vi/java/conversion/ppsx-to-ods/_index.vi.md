@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPSX sang ODS, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi **PPSX thành ODS** tạo ra các tệp OpenDocument Spreadsheet từ bài thuyết trình, cho phép chỉnh sửa và chia sẻ trong LibreOffice, OpenOffice, hoặc ứng dụng bảng tính đa nền tảng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuẩn bị dữ liệu dự án cộng tác từ các slide.
+
+* Báo cáo học thuật hoặc doanh nghiệp trong các định dạng mở.
+
+* Chia sẻ bảng tính đa nền tảng cho các nhóm làm việc từ xa.
+
+* Bộ dữ liệu có thể chỉnh sửa cho phân tích hoặc bảng điều khiển.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi ODS hàng loạt tự động cho dữ liệu bài thuyết trình định kỳ.
+
+* Tích hợp với các công cụ quy trình làm việc mã nguồn mở cho việc chỉnh sửa đa người dùng.
+
+* Xuất bảng từ slide vào bảng tính ODS dựa trên cơ sở kích hoạt.
+
+* Cập nhật theo lịch trình cho các báo cáo chỉ số hiệu suất và KPI định kỳ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

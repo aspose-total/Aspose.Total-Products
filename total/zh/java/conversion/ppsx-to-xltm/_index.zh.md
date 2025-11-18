@@ -61,7 +61,51 @@ otherformats: EXCEL MHTML ODS XLS SXC MARKDOWN XLTX TSV XLT FODS XLSX XLTM DIF X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **PPSX 转换为 XLTM** 会生成支持宏的 Excel 模板，为重复的商业或学术任务提供高级自动化和动态报告功能。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 嵌入宏的基于模板的仪表板。
+
+* 根据幻灯片指标衍生的自动化工作流模板。
+
+* 用于财务或人力资源团队的可重复使用的 Excel 报告结构。
+
+* 学术或企业支持宏的电子表格模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于定期报告的批量 XLTM 生成。
+
+* 从演示文稿中定期更新支持宏的模板。
+
+* 与 Excel 工作流程的自动化平台集成。
+
+* 为高容量报告触发创建动态模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

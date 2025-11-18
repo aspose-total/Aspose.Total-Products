@@ -61,7 +61,51 @@ Podczas konwertowania pliku PPSX do ODS możesz również dodać znak wodny do w
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie **PPSX na ODS** tworzy pliki arkusza kalkulacyjnego OpenDocument z prezentacji, umożliwiając edycję i udostępnianie w LibreOffice, OpenOffice lub aplikacjach arkuszy kalkulacyjnych na różne platformy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przygotowywanie wspólnych danych projektowych z slajdów.
+
+* Raportowanie akademickie lub korporacyjne w otwartych formatach.
+
+* Udostępnianie arkuszy kalkulacyjnych na różne platformy dla zespołów zdalnych.
+
+* Edytowalne zbiory danych do analizy lub pulpitów nawigacyjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna konwersja wsadowa ODS dla powtarzających się danych prezentacji.
+
+* Integracja z narzędziami przepływu pracy typu open-source do wieloosobowej edycji.
+
+* Eksport tabel slajdów na podstawie wyzwalaczy do arkuszy kalkulacyjnych ODS.
+
+* Zaplanowane aktualizacje dla powtarzających się raportów metryk i KPI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

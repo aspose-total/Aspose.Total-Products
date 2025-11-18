@@ -61,7 +61,51 @@ otherformats: MARKDOWN FODS EXCEL ODS SXC XLT XLSM XLSB XLS MHTML TSV XLTM DIF X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **PPSX 转换为 XLSX**，将幻灯片导出为现代 Excel 文件，支持完整编辑、表格和公式，与 Office 2007+ 和云平台兼容。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将销售、KPI 或营销幻灯片转换为 Excel 仪表板。
+
+* 用于内部报告的可编辑电子表格。
+
+* 将数据驱动的演示文稿转化为可操作的 Excel 文件。
+
+* 从演示文稿指标派生的客户报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量转换用于定期演示文稿。
+
+* 定时导出到 Excel 以进行自动报告。
+
+* 与 BI 工具集成，实现实时仪表板更新。
+
+* 从幻灯片修订中自动生成 Excel 电子表格。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

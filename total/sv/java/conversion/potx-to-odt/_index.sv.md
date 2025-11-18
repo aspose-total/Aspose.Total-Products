@@ -53,7 +53,51 @@ Med hjälp av API:t kan du också utföra POTX-fil till ODT-konvertering med vat
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX till ODT-omvandling möjliggör export av presentationsbilder till OpenDocument Text-format, lämpligt för LibreOffice, OpenOffice och plattformsoberoende miljöer.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* Konvertera presentationer till redigerbara OpenOffice- eller LibreOffice-textdokument.
+
+* Dela bildinnehåll över icke-Microsoft-miljöer.
+
+* Generera rapporter från presentationsuppsättningar för användare av öppen källkodskontor.
+
+* Förbereda utbildningsinnehåll kompatibelt med flera kontorspaket.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Batch ODT-omvandling för plattformsoberoende kontorsarbetsflöden.
+
+* Integration i dokumentssamarbetsplattformar som stöder ODT.
+
+* Automatisk export för rapportering av öppen källkodsprojekt.
+
+* Utlöst konvertering för innehållstillgänglighet över plattformar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

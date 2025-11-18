@@ -61,7 +61,55 @@ otherformats: TSV XLS XLSB XLAM XLSX EXCEL XLT SXC XLTX MARKDOWN XLSM XLTM FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل PPSM إلى FODS (جدول بيانات مفتوح المصدر المسطح) يوفر تنسيق جدول بيانات قابل للتحرير وخفيف الوزن متوافق مع LibreOffice و OpenOffice، مفيد لمشاريع التعاون وسير العمل مفتوح المصدر.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير جداول الشرائح إلى FODS لتطبيقات جداول البيانات مفتوحة المصدر.
+
+* إعداد شرائح أكاديمية أو بحثية للتحليل عبر منصات متعددة.
+
+* تحويل المقاييس التشغيلية من عروض PPSM إلى تنسيق FODS.
+
+* مشاركة البيانات المالية أو المبيعات بدون الاعتماد على برامج مملوكة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي من PPSM إلى FODS لفرق العمل التعاونية مفتوحة المصدر.
+
+* استخراج جدول البيانات من الشرائح بشكل مجدول إلى قوالب جداول بيانات قابلة للتحرير.
+
+* دمجها في سير العمل التقريرية المؤتمتة.
+
+* تحويل مُشغّل للمشاركة عبر منصات متعددة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

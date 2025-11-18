@@ -61,7 +61,51 @@ A PPSX fájl XLSX formátumba konvertálásakor vízjelet is hozzáadhat a kimen
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az **PPSX to XLSX** konvertálása modernebb Excel fájlokká alakítja az előadásokat teljes szerkesztési, táblázat- és képletkezelési támogatással, kompatibilis az Office 2007+ és a felhőalapú platformokkal.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+
+
+* Az értékesítési, KPI vagy marketing előadások Excel irányítópultokká alakítása.
+
+* Szerkeszthető táblázatok belső jelentésekhez.
+
+* Adatalapú prezentációk átalakítása cselekvésre kész Excel fájlokká.
+
+* Ügyféljelentések előadási mutatókból származtatva.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges konverzió ismétlődő prezentációkhoz.
+
+* Ütemezett exportálás Excelbe automatizált jelentéskészítéshez.
+
+* Integráció BI eszközökkel élő irányítópultfrissítésekhez.
+
+* Excel táblázatok automatikus generálása diafelülvizsgálatokból.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

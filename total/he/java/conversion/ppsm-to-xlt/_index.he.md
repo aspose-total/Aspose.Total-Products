@@ -102,7 +102,51 @@ otherformats: XLS XLAM EXCEL ODS TSV DIF CSV XLTX XLSB FODS XLSX MHTML XLTM XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת PPSM ל-XLT (תבנית Excel) מאפשרת יצירת תבניות גיליון נתונים ניתנות לשימוש ממצגות, ומקלה על דיווח תעשייתי או אקדמי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת טבלאות ממצגת לתבניות Excel ניתנות לשימוש.
+
+* הכנת תבניות פרויקט או פיננסיות משקפים.
+
+* המרת שקפים אקדמיים לתבניות להערכת ציונים או מטלות.
+
+* המרת מצגות שיווק לתבניות דיווח ב-Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת רצפי PPSM ל-XLT בצורה מסודרת לתבניות.
+
+* יצירת ספריות תבניות ממצגות בתכנון.
+
+* שילוב עם מערכות דיווח אוטומטיות.
+
+* יצירת תבנית מופעלת לפרויקטים חוזרים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

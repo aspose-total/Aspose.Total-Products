@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPSX sang TSV, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi **PPSX sang TSV** xuất các slide dưới dạng giá trị được phân tách bằng tab, lý tưởng cho phân tích dữ liệu, các lựa chọn CSV, và quy trình làm việc dữ liệu dựa trên văn bản.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Trích xuất bảng slide cho phân tích hoặc mô hình AI.
+
+* Chuẩn bị tập dữ liệu TSV cho các đường ống học máy.
+
+* Nhập các chỉ số trình bày vào các công cụ thống kê.
+
+* Chia sẻ dữ liệu slide có cấu trúc với các nhà phát triển hoặc nhà phân tích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi định kỳ các bài thuyết trình thành TSV cho các nhóm phân tích.
+
+* Xuất hàng loạt nhiều slide thành các tập dữ liệu có cấu trúc.
+
+* Tự động cập nhật các tệp TSV khi slide thay đổi.
+
+* Tích hợp với các đường ống ETL cho tự động báo cáo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

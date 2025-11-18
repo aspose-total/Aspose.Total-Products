@@ -61,7 +61,51 @@ Ao converter o arquivo PPSM para XLT, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter PPSM para XLT (Modelo do Excel) permite a criação de modelos de planilhas reutilizáveis a partir de apresentações, simplificando relatórios corporativos ou acadêmicos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Conversão de tabelas de apresentação em modelos de Excel reutilizáveis.
+
+* Preparação de modelos de projetos ou financeiros a partir de slides.
+
+* Slides acadêmicos reaproveitados em modelos de avaliação ou de tarefas.
+
+* Decks de marketing convertidos em modelos de relatórios do Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de PPSM para XLT para modelos padronizados.
+
+* Criação agendada de bibliotecas de modelos a partir de slides.
+
+* Integração com sistemas automatizados de relatórios.
+
+* Geração de modelos acionada para projetos recorrentes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

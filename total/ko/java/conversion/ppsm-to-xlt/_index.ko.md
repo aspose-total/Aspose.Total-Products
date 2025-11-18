@@ -61,7 +61,51 @@ PPSM 파일을 XLT로 변환하는 동안 출력 XLT 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM을 XLT(Excel 템플릿)로 변환하면 프레젠테이션에서 재사용 가능한 스프레드시트 템플릿을 만들어 기업이나 학술 보고를 간소화할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 프레젠테이션 테이블을 재사용 가능한 Excel 템플릿으로 변환합니다.
+
+* 슬라이드에서 프로젝트 또는 재무 템플릿을 준비합니다.
+
+* 학술 슬라이드를 학점 또는 과제 템플릿으로 재활용합니다.
+
+* 마케팅 덱을 Excel 보고 템플릿으로 변환합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 표준화된 템플릿을 위한 일괄 PPSM-to-XLT 변환.
+
+* 슬라이드에서 템플릿 라이브러리의 예약 생성.
+
+* 자동 보고 시스템과의 통합.
+
+* 반복 프로젝트를 위한 트리거된 템플릿 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

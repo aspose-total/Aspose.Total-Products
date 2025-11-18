@@ -53,7 +53,55 @@ Pomocí API můžete také provést převod PPSM souboru na OTT s vodoznakem. Ch
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod PPSM na OTT (OpenDocument Template) umožňuje uživatelům vytvářet opakovaně použitelné šablony dokumentů z prezentací ve formátech s otevřeným zdrojovým kódem, ideální pro standardizovanou firemní, akademickou nebo neziskovou dokumentaci.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Příprava opakovaně použitelných šablon zpráv pro uživatele LibreOffice.
+
+* Převod výukových prezentací na editovatelné šablony dokumentů.
+
+* Akademické prezentace převedeny na šablony pro přednášky nebo úkoly.
+
+* Prezentace projektů neziskových organizací převedeny na šablony pro reportování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod prezentací do OTT šablon pro opakované použití.
+
+* Integrace do automatizovaných pracovních postupů pro tvorbu dokumentů.
+
+* Plánované vytváření knihoven šablon z opakujících se prezentací.
+
+* Spouštěný proces vytváření OTT šablon pro dokumentaci projektů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

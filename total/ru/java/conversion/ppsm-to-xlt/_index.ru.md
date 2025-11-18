@@ -61,7 +61,51 @@ otherformats: XLS XLAM EXCEL ODS TSV DIF XLT XLTX XLSB FODS XLSX MHTML XLTM XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование PPSM в XLT (шаблон Excel) позволяет создавать многоразовые шаблоны электронных таблиц из презентаций, оптимизируя корпоративную или академическую отчетность.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование таблиц презентаций в многоразовые шаблоны Excel.
+
+* Подготовка проектных или финансовых шаблонов из слайдов.
+
+* Академические слайды преобразуются в шаблоны для оценивания или заданий.
+
+* Маркетинговые презентации преобразуются в шаблоны отчетности Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование PPSM в XLT для стандартизированных шаблонов.
+
+* Запланированное создание библиотек шаблонов из слайдов.
+
+* Интеграция с автоматизированными системами отчетности.
+
+* Генерация шаблонов по триггеру для повторяющихся проектов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,51 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de **PPSX en OTT** génère des modèles de documents ouverts sans macro, permettant des modèles standardisés réutilisables sans risques de macro.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Création de modèles de formation ou d'ateliers dans LibreOffice/OpenOffice.
+
+* Modèles de documents normalisés pour les ONG ou le milieu académique.
+
+* Modèles de diapositives réutilisables pour la collaboration en équipe.
+
+* Rapports destinés aux clients dans des formats multiplateformes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Génération en lot de modèles OTT pour des rapports récurrents.
+
+* Intégration avec des systèmes de flux de travail open source pour le déploiement de modèles.
+
+* Mises à jour planifiées des modèles standardisés à partir de nouvelles séries de diapositives.
+
+* Génération automatique de documents collaboratifs à partir de diapositives sans macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

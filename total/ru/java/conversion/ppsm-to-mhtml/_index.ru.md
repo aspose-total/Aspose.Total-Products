@@ -61,7 +61,51 @@ otherformats: XLAM XLSM XLS XLSB MARKDOWN XLT FODS XLTM XLSX XLTX DIF MHTML ODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование PPSM в MHTML (MIME HTML Archive) позволяет создать один HTML-файл, содержащий всю презентацию. Этот формат идеально подходит для обмена в Интернете, просмотра офлайн или архивирования слайдов с полным форматированием и мультимедиа.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Обмен презентационными досками в виде одиночных HTML-файлов для офлайн-доступа.
+
+* Архивирование слайдов с встроенными медиафайлами и анимациями в MHTML.
+
+* Публикация интерактивного контента слайдов на интранетах или веб-сайтах.
+
+* Преобразование лекций или учебных модулей в готовые к публикации в Интернете HTML-архивы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование PPSM в MHTML для развертывания на веб-сайтах или базах знаний.
+
+* Плановое создание файлов MHTML для регулярных презентаций.
+
+* Интеграция с системами управления веб-контентом для автоматической публикации.
+
+* Триггерное преобразование в файлы HTML для архивирования презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

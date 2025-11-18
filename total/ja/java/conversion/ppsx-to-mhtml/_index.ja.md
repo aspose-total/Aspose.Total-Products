@@ -61,7 +61,55 @@ PPSXファイルをMHTMLに変換するときに、出力MHTMLファイル形式
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSXをMHTMLに変換**すると、スライド、画像、フォーマットを組み合わせたプレゼンテーションコンテンツの単一のHTMLアーカイブが作成され、自己完結型でウェブフレンドリーなファイルになります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* オンライン共有用にスライドをウェブ対応のアーカイブとして公開する。
+
+* 添付ファイルなしで完全なプレゼンテーションを単一のファイルでメール送信する。
+
+* トレーニングやウェビナースライドのオフラインHTMLバージョンを作成する。
+
+* ウェブアクセス可能な参照用にスライドデッキをアーカイブする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的なプレゼンテーションをMHTMLに変換してウェブ配布する。
+
+* 複数のスライドデッキを自己完結型のHTMLアーカイブに一括エクスポートする。
+
+* イントラネットやLMSシステムと統合してスライドの自動公開を行う。
+
+* オンラインアーカイブ用にスライドデッキが更新された際にトリガーベースで更新を行う。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

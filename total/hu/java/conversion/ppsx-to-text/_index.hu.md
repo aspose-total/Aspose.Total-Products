@@ -53,7 +53,55 @@ Az API segítségével PPSX fájlból TEXT-ba konvertálhat vízjellel. Ha vízj
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSX fájlok átalakítása SZÖVEG fájlokká** - egyszerű szöveges kinyerés a diákokról, könnyű és szerkeszthető formátumban, alkalmas gyors jegyzeteléshez, szkripteléshez vagy tartalom elemzéshez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Jegyzetek kinyerése értekezleti jegyzőkönyvekhez vagy dokumentációhoz.
+
+* Keresésre alkalmas szövegarchívumok létrehozása prezentációkból.
+
+* Szöveges bemenet előkészítése AI elemzéshez vagy összefoglaláshoz.
+
+* Diáktartalom átalakítása írásbeli jelentésekbe vagy cikkekbe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Szöveg tömeges kinyerése több diavetítésből dokumentációhoz.
+
+* Időzített frissítések egyszerű szövegfájlokhoz, amikor a diákok módosulnak.
+
+* Integráció szövegelemzési csővezetékekkel adatalapú betekintésekhez.
+
+* Kiváltó alapú átalakítás automatizált tartalomkinyerési munkafolyamatokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

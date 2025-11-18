@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPSX sang XLSM, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi **PPSX sang XLSM** tạo ra các bảng tính Excel hỗ trợ macro từ các slide, giữ lại tính tự động và chức năng nâng cao cho báo cáo chuyên nghiệp.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Nhúng macro để tạo báo cáo dự án tự động.
+
+* Mô hình tài chính với các tính toán tự động dựa trên các slide.
+
+* Bảng điều khiển tương tác với các chỉ số dựa trên slide.
+
+* Tạo các bảng tính Excel lặp lại với nội dung động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo ra các báo cáo hỗ trợ macro theo lịch trình.
+
+* Tích hợp với các công cụ tự động hóa quy trình làm việc cho Excel.
+
+* Tự động cập nhật khi nội dung slide được sửa đổi.
+
+* Kích hoạt tạo bảng điều khiển XLSM cho thông tin kinh doanh.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,55 @@ APIを使用して、透かしを使用してPPSXファイルからODTへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSXをODTに変換**することで、スライドからワードへの変換のためのオープンドキュメント形式サポートが提供され、LibreOffice、OpenOffice、またはクロスプラットフォーム編集に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* オープンソースドキュメント形式向けに再利用される学術スライドデッキ。
+
+* ODT互換性が必要な政府機関やNGOの報告書。
+
+* プレゼンテーションスライドから派生したクロスプラットフォームで編集可能なレポート。
+
+* オープンソースオフィス環境での共同文書作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* マルチプラットフォーム配布用にプレゼンテーションをODTに自動バッチ変換。
+
+* チームコラボレーションのためのオープンソースドキュメントワークフローとの統合。
+
+* 定期的な学術報告書や非営利団体向けのスケジュール変換。
+
+* スライドの修正から自動更新されるODTファイル。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,51 @@ otherformats: WORDML RTF DOT OTT DOTM TEXT WORD OTTM FLATOPC ODT DOTX OTTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **PPSX в OTT** создает макро-бесплатные шаблоны открытых документов, обеспечивая возможность повторного использования стандартизированных шаблонов без риска макросов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание шаблонов для тренингов или мастер-классов в LibreOffice/OpenOffice.
+
+* Стандартизированные шаблоны документов для НПО или академических целей.
+
+* Многократное использование шаблонов на основе слайдов для совместной работы команды.
+
+* Отчеты для клиентов в кроссплатформенных форматах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетная генерация шаблонов OTT для повторяющейся отчетности.
+
+* Интеграция с системами рабочего процесса с открытым исходным кодом для развертывания шаблонов.
+
+* Плановое обновление стандартизированных шаблонов из новых слайд-деков.
+
+* Автоматическое создание совместных документов на основе макро-бесплатных слайдов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,55 @@ PPSX 파일을 XLT로 변환하는 동안 출력 XLT 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSX를 XLT로 변환**하면 슬라이드에서 엑셀 템플릿 파일을 생성하여 반복 보고서나 구조화된 스프레드시트 워크플로에 표준화된 문서 레이아웃을 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 프레젠테이션 테이블에서 기업용 템플릿 생성.
+
+* 내부 사용을 위한 표준화된 보고용 스프레드시트.
+
+* 슬라이드에서 파생된 교육용 또는 학술용 스프레드시트.
+
+* 일관된 고객 전달용 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 프레젠테이션으로부터 엑셀 템플릿 자동 생성.
+
+* 반복되는 보고서 형식을 위한 일괄 변환.
+
+* 슬라이드 덱이 수정될 때 예약된 업데이트.
+
+* 템플릿 일관성을 강제하기 위한 워크플로 시스템 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

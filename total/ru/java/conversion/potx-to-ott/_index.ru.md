@@ -53,7 +53,51 @@ otherformats: FLATOPC RTF DOTX ODT WORD OTT DOT WORDML DOTM TEXT OTTX OTTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POTX в OTT создает шаблоны OpenDocument для приложений обработки текста на различных платформах, облегчая создание многократно используемых документов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование корпоративных слайдов в редактируемые шаблоны для OpenOffice.
+
+* Создание стандартизированных шаблонов документов на основе маркетинговых или HR-презентаций.
+
+* Подготовка многократно используемых шаблонов для студенческих заданий или учебных модулей.
+
+* Создание брендированных макетов документов на основе визуальных слайд-дизайнов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование файлов презентаций в многократно используемые шаблоны OTT.
+
+* Интеграция в автоматизацию рабочего процесса для постоянного обновления шаблонов.
+
+* Генерация OTT по запросу для повторяющихся потребностей в шаблонах документов.
+
+* Автоматический экспорт шаблонов в средах офисов с открытым исходным кодом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

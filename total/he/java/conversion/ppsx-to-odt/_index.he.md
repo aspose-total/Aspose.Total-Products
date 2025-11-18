@@ -99,7 +99,67 @@ otherformats: DOT DOC RTF TEXT DOTX WORD FLATOPC DOCM OTT DOTM DOCX WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **PPSX ל-ODT** מספקת תמיכה בתבנית מסמך פתוחה עבור המרות משקפים ל-Word, אידיאלי עבור LibreOffice, OpenOffice, או עריכה חוצת פלטפורמות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* מצגות אקדמיות שמועברות לתבניות מסמכים פתוחות.
+
+
+
+* דיווחים של ממשלה או ארגון לא ממשלתי הדורשים תאימות ל-ODT.
+
+
+
+* דוחות ניתנים לעריכה בפלטפורמות צלילות המקורם בשקפים מצגת.
+
+
+
+* תיעוד שיתופי פעולה בסביבות משרד פתוחות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה אוטומטית בצורת סדרות של מצגות ל-ODT להפצה על מספר פלטפורמות.
+
+
+
+* שילוב עם זרימות עבודה של מסמכים פתוחים לצורך שיתוף צוות.
+
+
+
+* המרות מתוזמנות לדוחות אקדמיים או לא ממסדיים חוזרים.
+
+
+
+* עדכון אוטומטי של קבצי ODT מתוך גרסאות חדשות של השקפים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

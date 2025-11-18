@@ -53,7 +53,51 @@ Pomocí API můžete také provést převod PPSM souboru na DOCM s vodoznakem. C
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod formátu PPSM na DOCM (dokument s povolenými makry pro Word) umožňuje prezentace přeměnit na editovatelné dokumenty Wordu s zachováním funkcí maker. Ideální pro firemní pracovní postupy, kde automatizace nebo vložené skripty zvyšují produktivitu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Interaktivní zprávy vyžadující makra pro automatické aktualizace grafů.
+
+* Výukové materiály s vloženými skripty VBA pro simulace scénářů.
+
+* Automatizace interní dokumentace generované ze slidů.
+
+* Konverze dynamických klientů nabídek s makry spouštěnými akcemi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadné zpracování prezentací PPSM do šablon DOCM s makry.
+
+* Plánované aktualizace finančních prezentací do makro-povolených zpráv Wordu.
+
+* Integrace s nástroji pro automatizaci pracovních postupů pro převod slideů na dokumenty.
+
+* Automatické generování interních auditních zpráv ze slidů PPSM s makry.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,51 @@ APIを使用して、透かしを使用してPOTXファイルからDOCMへの変
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTXテンプレートをDOCM形式に変換することで、ユーザーはWord文書内でマクロ機能を保持できます。変換後も動的コンテンツ操作が必要なビジネスや開発者に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* プレゼンテーションコンテンツをマクロ有効なレポートにエクスポートして自動計算を行う。
+
+* VBAスクリプトが埋め込まれた編集可能なテンプレートを生成してオフィスの自動化を行う。
+
+* スライドからボタンやマクロを使用したインタラクティブなトレーニング文書を作成する。
+
+* プロジェクト管理ダッシュボードのためのレポート生成を自動化する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的なレポート業務のためにPOTXテンプレートをDOCMにバッチ処理する。
+
+* マクロ駆動型ワークフロー自動化システムに統合する。
+
+* コンテンツ管理システムによってトリガーされる自動変換。
+
+* 動的なプレゼンテーションをクライアント利用のインタラクティブなWordテンプレートにエクスポートする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

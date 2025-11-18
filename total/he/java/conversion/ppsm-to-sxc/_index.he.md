@@ -102,7 +102,51 @@ otherformats: EXCEL ODS XLSX MARKDOWN TSV XLS MHTML XLSM FODS XLSB XLTM XLT CSV 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת PPSM ל-SXC (גיליון נתונים של StarOffice Calc) מאפשרת להפוך שקופיות מצגת ישנות לגיליונות נתונים תואמים עבור משתמשי OpenOffice או StarOffice מסורתיים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* המרת שקופיות מצגת מכירות או פרויקט לגיליונות נתונים SXC שניתנים לעריכה.
+
+* שיתוף שקופיות מצגת היסטוריות עם תוכנות משרד מסורתיות.
+
+* שקופיות אקדמיות או תעשייתיות שנמצאות מחדש לצורך דיווח בגיליון נתונים.
+
+* ארכוב נתוני שקופיות בפורמט SXC קל.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת רצף של PPSM ל-SXC עבור מערכות מסורתיות.
+
+* חילוץ מופעל של תרשימים וטבלאות לקבצי SXC במתוזמנים.
+
+* שילוב עם צינורות דיווח אוטומטיים עבור תוכנות ישנות.
+
+* המרת מופעלת עבור מצגות חוזרות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

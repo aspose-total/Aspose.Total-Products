@@ -61,7 +61,51 @@ otherformats: XLSM XLS SXC XLTX XLSX DIF EXCEL MARKDOWN MHTML FODS ODS XLAM TSV 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование PPSM в Markdown позволяет преобразовать содержимое презентации в легкие документы в формате обычного текста с форматированием. Идеально подходит для документации, блогов, репозиториев GitHub или совместной работы разработчиков.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование лекций или учебных слайдов в заметки Markdown.
+
+* Подготовка легкой документации на основе корпоративных презентаций.
+
+* Экспорт слайдов в готовый к блогу контент Markdown.
+
+* Обмен слайд-деками с разработчиками с использованием файлов Markdown, управляемых версиями.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование слайдов PPSM в Markdown для репозиториев контента.
+
+* Интеграция с генераторами статических сайтов, такими как Hugo или Jekyll.
+
+* Плановый экспорт повторяющихся презентаций в формате Markdown.
+
+* Запуск генерации документации Markdown из слайд-деков.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ Při převodu souboru PPSM na MARKDOWN můžete také přidat vodoznak do výstu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod PPSM na Markdown umožňuje transformaci obsahu prezentace do lehkých dokumentů ve formátu čistého textu s formátováním. Ideální pro dokumentaci, blogy, repozitáře na GitHubu nebo spolupráci vývojářů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převod přednášek nebo školení na poznámky v Markdownu.
+
+* Příprava lehké dokumentace z firemních prezentací.
+
+* Exportování snímků do obsahu v Markdownu připraveného pro blog.
+
+* Sdílení prezentací s vývojáři pomocí verzí kontrolovaných souborů Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod snímků PPSM do Markdownu pro repozitáře obsahu.
+
+* Integrace se statickými generátory stránek jako Hugo nebo Jekyll.
+
+* Plánovaný export opakujících se prezentací do formátu Markdown.
+
+* Spouštěná generace dokumentace v Markdownu ze snímků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

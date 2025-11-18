@@ -61,7 +61,55 @@ otherformats: TSV XLS XLSB XLAM XLSX EXCEL XLT SXC XLTX MARKDOWN XLSM XLTM FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง PPSM เป็น FODS (Flat OpenDocument Spreadsheet) จะให้รูปแบบสเปรดชีตที่มีน้ำหนักเบาและสามารถแก้ไขได้ ที่เข้ากันได้กับ LibreOffice และ OpenOffice มีประโยชน์สำหรับโครงการที่มีการทำงานร่วมกันและขั้นตอนการทำงานแบบโอเพนซอร์ส
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* ส่งออกตารางสไลด์เข้าสู่ FODS สำหรับแอปพลิเคชันสเปรดชีตแบบโอเพนซอร์ส
+
+* เตรียมสไลด์ทางวิชาการหรือวิจัยสำหรับการวิเคราะห์แบบหลายแพลตฟอร์ม
+
+* แปลงเมตริกส์การดำเนินงานจากเด็ก PPSM เป็นรูปแบบ FODS
+
+* แบ่งปันข้อมูลทางการเงินหรือขายของโดยไม่ต้องขึ้นอยู่กับซอฟต์แวร์ที่เป็นกรรมสิทธิ์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงจำนวนมากของ PPSM เป็น FODS สำหรับทีมที่ทำงานร่วมกันแบบโอเพนซอร์ส
+
+* การสร้างเวลาในการดึงข้อมูลสไลด์เข้าสู่เทมเพลตสเปรดชีตที่สามารถแก้ไขได้
+
+* การผสานเข้ากับกระบวนการรายงานโครงการอัตโนมัติ
+
+* การแปลงโดยเรียกใช้สำหรับการแบ่งปันข้ามแพลตฟอร์ม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

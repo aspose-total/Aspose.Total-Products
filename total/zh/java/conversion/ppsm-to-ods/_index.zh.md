@@ -61,7 +61,51 @@ otherformats: MARKDOWN XLAM XLTX TSV ODS FODS SXC MHTML EXCEL XLS XLSB XLSX XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将PPSM转换为ODS（OpenDocument电子表格）可确保与LibreOffice、OpenOffice和Google Sheets完全兼容，同时保留幻灯片中的图表和表格。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将演示文稿指标导出为ODS，以进行协作分析。
+
+* 将项目仪表板转换为可编辑的ODS电子表格。
+
+* 将学术幻灯片转换为适合学生使用的电子表格格式。
+
+* 将营销和销售PPSM幻灯片转换为可共享的ODS文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 自动化幻灯片到ODS的转换，用于定期报告。
+
+* 批量将表格和图表提取为ODS格式。
+
+* 从公司幻灯片自动生成电子表格。
+
+* 与工作流平台集成，实现动态电子表格更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

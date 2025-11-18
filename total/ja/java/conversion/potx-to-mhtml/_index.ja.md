@@ -61,7 +61,55 @@ POTXファイルをMHTMLに変換するときに、出力MHTMLファイル形式
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTXをMHTMLに変換するパッケージは、HTML、CSS、および画像を組み合わせた単一のWebアーカイブファイルにプレゼンテーションスライドを収め、オフラインまたはWeb配布用に提供します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* スライドをスタンドアロンのWeb表示可能なアーカイブとしてエクスポート。
+
+* メール経由でプレゼンテーションを共有する際に、書式を崩さずに送信。
+
+* 企業のデッキをWebベースのリポジトリにアーカイブ。
+
+* オフラインWeb利用のためのインタラクティブレポートの準備。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 企業プレゼンテーションのWeb配布のためのバッチMHTMLエクスポート。
+
+* 分散チームのオフラインアクセス用にトリガーされたMHTML生成。
+
+* Webアーカイブ用のコンテンツ管理システムとの統合。
+
+* クライアントやステークホルダーへのスライドパッケージングの自動化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

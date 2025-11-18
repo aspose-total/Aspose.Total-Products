@@ -102,7 +102,51 @@ otherformats: MARKDOWN ODS XLTX XLT CSV XLTM FODS MHTML DIF XLS XLSB SXC EXCEL T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **PPSX ל-XLAM** יוצרת קבצי התוסף של Excel המאפשרים מאקרוים ממצגת, אידיאליים לאוטומציה מתקדמת וכלים חוזרים ב-Excel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת תוספי Excel לצורכי פיננסים או מעקב אחר פרויקטים.
+
+* אוטומציה של משימות גלויות חוזרות באמצעות נתוני השקופית.
+
+* יצירת לוחות מחוונים אינטראקטיביים עם מאקרוים מוטבעים.
+
+* הפצת כלים עם מאקרוים המקורם בטבלאות השקופית.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת תוספי Excel בהתבסס על טריגרים לאוטומציה של תהליכי עבודה.
+
+* המרה בצורת סדרתית של שקופיות לכלים XLAM שניתן להשתמש בהם.
+
+* שילוב עם תבניות Excel תאגידיות לדיווח אוטומטי.
+
+* עדכונים מתוזמנים של פתרונות Excel עם מאקרו.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

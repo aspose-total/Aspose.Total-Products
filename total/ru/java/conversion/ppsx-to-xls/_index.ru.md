@@ -61,7 +61,51 @@ otherformats: XLTX XLSX XLSB DIF XLS MARKDOWN SXC EXCEL ODS MHTML XLTM FODS XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **PPSX в XLS** позволяет создавать традиционные электронные таблицы Excel из слайдов, обеспечивая широкую совместимость с более старыми версиями Microsoft Office и сохраняя таблицы и форматирование.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Архивирование метрик презентаций в формате XLS.
+
+* Создание редактируемых электронных таблиц для устаревших систем Office.
+
+* Внутренняя отчетность и документирование на основе данных слайдов.
+
+* Обмен содержимым слайдов, готовым для таблиц, с командами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование в XLS для корпоративных библиотек слайдов.
+
+* Плановые экспорты таблиц презентаций для отчетности по аудиту.
+
+* Интеграция с системами управления документами.
+
+* Автоматическое обновление файлов XLS при внесении изменений в слайды.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

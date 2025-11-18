@@ -49,7 +49,55 @@ PPSMをJSONに変換しているときに、範囲を出力JSON形式に設定�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSMをJSON（JavaScript Object Notation）に変換することで、プレゼンテーションコンテンツをウェブアプリ、API、またはAIパワーの分析のための構造化されたデータに変換できます。チャート、表、スライドコンテンツが機械可読になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* プレゼンテーションデータをダッシュボードやウェブアプリケーションに統合するためのエクスポート。
+
+* AIや機械学習ワークフローのためにスライドをJSONに変換する。
+
+* 企業のスライドから構造化されたメトリクスを開発者と共有する。
+
+* 学術的または研究用のスライドをデータ分析のためにJSONに変換する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 自動化されたウェブダッシュボード向けのバッチPPSMからJSONへの変換。
+
+* 分析パイプライン向けにスライドコンテンツの定期的な抽出。
+
+* 自動化されたコンテンツインサイトのためのAIツールとの統合。
+
+* 定期的なプレゼンテーションからデータへの変換のためのトリガー変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -99,7 +99,55 @@ otherformats: ODT DOCM DOTX DOCX TEXT DOT FLATOPC DOC WORDML DOTM WORD RTF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення PPSM на OTT (шаблон OpenDocument) дозволяє користувачам створювати шаблони документів з презентацій у форматах відкритого коду, ідеально підходить для стандартизованої корпоративної, академічної або НУО документації.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* Підготовка шаблонів повторного використання звітів для користувачів LibreOffice.
+
+* Перетворення навчальних слайдів у редаговані шаблони документів.
+
+* Академічні слайди перетворені у шаблони лекцій або завдань.
+
+* Слайди проектів НУО перетворені у шаблони звітності.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетне перетворення слайдів у шаблони OTT для повторного використання.
+
+* Інтеграція в автоматизовані конвеєри робочих процесів для створення документів.
+
+* Заплановане створення бібліотек шаблонів з повторюваних слайдів.
+
+* Автоматичне створення шаблонів OTT для документації проекту.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

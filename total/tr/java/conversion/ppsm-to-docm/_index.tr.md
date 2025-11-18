@@ -53,7 +53,51 @@ API'yi kullanarak, filigranlı PPSM dosyasını DOCM'ye dönüştürme işlemini
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM'yi DOCM'ye (Word Macro-Enabled Belgesi) dönüştürmek, sunumların düzenlenebilir Word belgelerine dönüştürülmesine olanak tanırken makro işlevlerini korur. Otomasyon veya gömülü komut dosyalarının üretkenliği artırdığı kurumsal iş akışları için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Otomatik grafik güncellemeleri için makrolara ihtiyaç duyan etkileşimli raporlar.
+
+* Senaryo simülasyonları için gömülü VBA komut dosyaları bulunan eğitim kılavuzları.
+
+* Slaytlardan oluşturulan iç belgelerin otomatikleştirilmesi.
+
+* Eylem tetikli makrolara sahip dinamik müşteri tekliflerinin dönüştürülmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Makrolara sahip DOCM şablonlarına PPSM destelerinin toplu işlenmesi.
+
+* Finans sunumlarının zamanlanmış olarak makro destekli Word raporlarına güncellenmesi.
+
+* Slayttan belgeye dönüşüm için iş akışı otomasyon araçlarıyla entegrasyon.
+
+* Makrolara sahip PPSM slaytlarından iç denetim raporlarının otomatik olarak oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,51 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp POTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi POTX sang ODT cho phép xuất các slide trình bày sang định dạng Văn bản OpenDocument, phù hợp với LibreOffice, OpenOffice và môi trường đa nền tảng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi bài thuyết trình thành tài liệu văn bản có thể chỉnh sửa trong OpenOffice hoặc LibreOffice.
+
+* Chia sẻ nội dung slide trên các môi trường không phải của Microsoft.
+
+* Tạo báo cáo từ các bộ slide trình bày cho người dùng văn phòng mã nguồn mở.
+
+* Chuẩn bị nội dung giáo dục tương thích với nhiều bộ ứng dụng văn phòng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi ODT hàng loạt cho quy trình làm việc văn phòng đa nền tảng.
+
+* Tích hợp vào các nền tảng hợp tác tài liệu hỗ trợ ODT.
+
+* Xuất khẩu tự động cho báo cáo dự án mã nguồn mở.
+
+* Chuyển đổi kích hoạt cho khả năng tiếp cận nội dung trên các nền tảng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

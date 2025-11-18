@@ -53,7 +53,51 @@ API를 사용하여 워터마크를 사용하여 POTX 파일을 WORD로 변환�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX를 워드(일반) 형식으로 변환하면 넓은 호환성을 확보하고 Microsoft Word의 모든 버전에 적합한 프레젠테이션 템플릿에서 편집 가능한 문서를 생성할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 슬라이드 덱을 워드 보고서로 변환하여 넓은 접근성 확보.
+
+* 교육 또는 교육 자료를 편집 가능한 워드 문서로 변환.
+
+* 고객 프레젠테이션을 텍스트 요약으로 내보내어 배포.
+
+* 시각적 슬라이드 콘텐츠로부터 편집 가능한 비즈니스 보고서 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 기업 보고서용 다중 템플릿에서 대량 워드 변환.
+
+* 일관된 결과를 위해 문서 관리 워크플로에 통합.
+
+* 텍스트 문서 작성을 위한 신속한 변환을 위한 트리거.
+
+* 워드 기반 보고서 작성을 위한 프레젠테이션에서의 자동 콘텐츠 추출.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

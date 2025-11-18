@@ -53,7 +53,55 @@ otherformats: RTF ODTM FLATOPC ODTX DOTM DOT TEXT WORD WORDML DOTX OTT ODT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование PPSM в ODT (OpenDocument Text) обеспечивает совместимость с различными платформами, позволяя презентациям быть преобразованными в редактируемые текстовые документы для офисных пакетов с открытым исходным кодом, таких как LibreOffice и OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Подготовка лекционных заметок из слайдов презентации в формате ODT.
+
+* Преобразование бизнес-предложений для среды LibreOffice или OpenOffice.
+
+* Преобразование слайд-дек в форматы документов с открытым исходным кодом для совместной работы.
+
+* Архивирование редактируемых слайдов для доступа с различных платформ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование презентаций PPSM в документы ODT для распределенных команд.
+
+* Интеграция с рабочими процессами документов с открытым исходным кодом для автоматических обновлений.
+
+* Плановый экспорт слайдов в формате ODT для баз знаний.
+
+* Генерация ODT из презентаций для обмена между платформами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

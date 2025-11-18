@@ -61,7 +61,55 @@ PPSX dosyasını XLS'ye dönüştürürken, çıktı XLS dosya biçiminize de fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSX dosyalarını XLS'e dönüştürmek**, slaytlardan geleneksel Excel elektronik tabloları oluşturur, eski Microsoft Office sürümleri arasında geniş uyumluluk sağlarken tabloları ve biçimlendirmeyi korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Sunum ölçümlerini XLS formatında arşivleme.
+
+* Eski Office sistemleri için düzenlenebilir elektronik tablolar oluşturma.
+
+* Slayt verilerini kullanarak iç raporlama ve belgeleme.
+
+* Takımlarla paylaşmak için elektronik tablo için hazır slayt içeriği paylaşma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Kurumsal slayt kütüphaneleri için toplu XLS dönüşümü.
+
+* Denetim raporlaması için sunum tablolarının zamanlanmış dışa aktarımları.
+
+* Belge yönetim sistemleriyle entegrasyon.
+
+* Slaytlar revize edildiğinde XLS dosyalarının otomatik güncellenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

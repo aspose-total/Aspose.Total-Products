@@ -61,7 +61,51 @@ otherformats: DIF TSV XLS ODS EXCEL XLT MHTML XLSX XLTX MARKDOWN XLTM XLAM XLSB 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **PPSX 转换为 XLSM** 可以从幻灯片生成带有宏的 Excel 工作簿，保留专业报告的自动化和高级功能。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 嵌入宏以自动生成项目报告。
+
+* 利用幻灯片生成的自动计算进行财务建模。
+
+* 利用幻灯片驱动的指标创建交互式仪表板。
+
+* 生成具有动态内容的可重复使用的 Excel 工作簿。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时批量生成带有宏的报告。
+
+* 与 Excel 的工作流自动化工具集成。
+
+* 幻灯片内容更新时自动更新。
+
+* 触发创建用于商业智能的 XLSM 仪表板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

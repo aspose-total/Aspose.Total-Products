@@ -61,7 +61,51 @@ otherformats: XLTX XLSX XLSB DIF XLS MARKDOWN SXC EXCEL ODS MHTML XLTM FODS XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **PPSX 转换为 XLS** 可以从幻灯片生成传统的 Excel 电子表格，确保在旧版 Microsoft Office 中具有广泛的兼容性，同时保留表格和格式。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将演示指标存档为 XLS 格式。
+
+* 为传统 Office 系统生成可编辑的电子表格。
+
+* 使用幻灯片数据进行内部报告和文档编制。
+
+* 与团队共享准备好电子表格的幻灯片内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为企业幻灯片库批量转换为 XLS。
+
+* 定期导出演示表格以进行审计报告。
+
+* 与文档管理系统集成。
+
+* 在幻灯片修订时自动更新 XLS 文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

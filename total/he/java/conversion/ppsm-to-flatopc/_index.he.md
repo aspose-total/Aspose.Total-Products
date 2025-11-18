@@ -99,7 +99,51 @@ otherformats: OTT DOT DOTX WORDML ODT DOCM DOC DOTM DOCX TEXT WORD RTF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת PPSM (PowerPoint Slide Show) ל-FLATOPC (Flat Open Packaging Conventions) יוצרת קובץ בודד מבוסס XML ששומר על מבנה ותוכן מלא של המצגות. פורמט זה אידיאלי לאינטרופרביליטי, ארכיבה ועיבוד אוטומטי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* ארכיבת מצגות עסקיות מורכבות במבנה XML תקני.
+
+* הכנת שקופיות לזרימות עבודה אוטומטיות במערכות עסקיות.
+
+* שיתוף נתוני המצגת בין פלטפורמות בלי לאבד עיצוב.
+
+* שמירת מטא-נתונים של השקופיות, ההערות והאובייקטים המוטמעים לצורך ניתוח.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה צפונית של מספר רב של מסדרונות PPSM ל-FLATOPC לצורך ארכיבה.
+
+* שילוב עם צינורות ETL אוטומטיים לספיקת תוכן.
+
+* חילוץ מתוזמן של שקופיות למערכות ניהול מסמכים.
+
+* יצירת FLATOPC מופעלת עבור זרימות עבודה חוזרות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

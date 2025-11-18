@@ -61,7 +61,55 @@ otherformats: MARKDOWN FODS EXCEL ODS SXC XLT XLSM XLSB XLS MHTML TSV XLTM DIF X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **PPSX เป็น XLSX** สามารถส่งออกภาพนิ่งเข้าสู่ไฟล์ Excel รุ่นใหม่พร้อมการแก้ไขเต็มรูปแบบ รองรับตารางและสูตร สามารถใช้งานได้กับ Office 2007+ และแพลตฟอร์มคลาวด์
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การแปลงสไลด์ขาย  KPI หรือการตลาดเข้าสู่แดชบอร์ด Excel
+
+* สเปรดชีทที่สามารถแก้ไขสำหรับรายงานภายใน
+
+* การแปลงงานนำเสนอที่ใช้ข้อมูลเป็นไฟล์ Excel ที่สามารถดำเนินการได้
+
+* รายงานของลูกค้าที่ได้มาจากการวัดผลงานนำเสนอ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงเป็นชุดข้อมูลสำหรับงานนำเสนอที่เกิดซ้ำซาก
+
+* การส่งออกตามกำหนดเวลาไปยัง Excel เพื่อรายงานโดยอัตโนมัติ
+
+* การรวมกับเครื่องมือ BI สำหรับการอัพเดตแดชบอร์ดสด
+
+* การสร้างสเปรดชีท Excel โดยอัตโนมัติจากการแก้ไขสไลด์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

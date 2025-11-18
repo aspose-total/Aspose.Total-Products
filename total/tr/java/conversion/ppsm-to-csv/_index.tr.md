@@ -61,7 +61,55 @@ PPSM dosyasını CSV'ye dönüştürürken, çıktı CSV dosya biçiminize de fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM (PowerPoint Slide Show) dosyalarını CSV (Virgülle Ayrılmış Değerler) formatına dönüştürmek, sunumlardan tablo verilerini hafif, evrensel uyumlu bir elektronik tablo formatına aktarmayı sağlar. Veri analizi, raporlama ve BI araçlarıyla entegrasyon için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Excel veya Google Sheets için slayt tabanlı grafiklerin CSV'ye aktarılması.
+
+* Analiz için sunum tablolarının düzenlenebilir veri dosyalarına dönüştürülmesi.
+
+* Slaytlardan sayısal raporların evrensel olarak okunabilir CSV formatında paylaşılması.
+
+* Analitik araçlar için PPSM destelerinden satış veya pazarlama metriklerinin hazırlanması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Birden fazla slayt destesinin CSV dosyalarına toplu dönüştürülmesi.
+
+* Gösterge panoları için tablo verilerinin otomatik olarak çıkarılması.
+
+* Tekrarlanan kurumsal sunumlardan zamanlanmış CSV oluşturma.
+
+* İş zekası platformları için ETL boru hatlarına entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

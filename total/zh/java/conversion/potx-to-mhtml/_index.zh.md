@@ -61,7 +61,51 @@ otherformats: EXCEL SXC MHTML XLT XLTM XLSM XLAM XLSB DIF ODS XLTX XLSX MARKDOWN
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX转MHTML转换包将演示幻灯片打包成单个Web存档文件，结合了HTML、CSS和图像，可用于离线或Web分发。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将幻灯片导出为独立的Web可查看存档。
+
+* 通过电子邮件共享演示文稿而不破坏格式。
+
+* 为基于Web的存储库存档公司幻灯片组。
+
+* 为离线Web消费准备交互式报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量MHTML导出以便将公司演示文稿进行Web分发。
+
+* 触发MHTML生成以便分布式团队离线访问。
+
+* 与内容管理系统集成以进行Web存档。
+
+* 为客户或利益相关者分发自动化幻灯片打包。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

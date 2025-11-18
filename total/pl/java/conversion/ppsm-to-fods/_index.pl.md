@@ -61,7 +61,51 @@ Podczas konwertowania pliku PPSM do FODS możesz również dodać znak wodny do 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja PPSM na FODS (Flat OpenDocument Spreadsheet) zapewnia lekki, edytowalny format arkusza kalkulacyjnego kompatybilny z LibreOffice i OpenOffice, przydatny do projektów współpracy i przepływów pracy typu open-source.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Eksportowanie tabel slajdów do formatu FODS dla aplikacji arkuszy kalkulacyjnych typu open-source.
+
+* Przygotowywanie slajdów akademickich lub badawczych do analizy na wielu platformach.
+
+* Konwertowanie metryk operacyjnych z prezentacji PPSM do formatu FODS.
+
+* Udostępnianie danych finansowych lub sprzedażowych bez zależności od oprogramowania własnościowego.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja PPSM na FODS dla zespołów współpracy typu open-source.
+
+* Zaplanowane wydobycie danych ze slajdów do edytowalnych szablonów arkuszy kalkulacyjnych.
+
+* Integracja z automatyzowanymi przepływami raportowania projektów.
+
+* Wywoływana konwersja dla udostępniania na różnych platformach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

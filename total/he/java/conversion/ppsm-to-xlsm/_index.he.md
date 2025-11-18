@@ -102,7 +102,55 @@ otherformats: XLTM XLSX MHTML SXC XLSB DIF ODS EXCEL XLAM FODS TSV CSV MARKDOWN 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת PPSM ל-XLSM (Excel Macro-Enabled Workbook) שומרת על נוסחאות, מאקרוס ותרשימים מהשקפים, מאפשרת חישובים אוטומטיים ודוחות מבוססי נתונים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת מצגות עם מודלים פיננסיים לחוברות מאקרו.
+
+* הכנת לוחות מחוונים אינטראקטיביים עם מאקרוס מהשקפים.
+
+* המרת שקפים אקדמיים עם נוסחאות ל-XLSM לצורך ציון אוטומטי.
+
+* המרת שקפים מכירות ל-XLSM לדיווח אוטומטי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת רצף PPSM ל-XLSM לאוטומציה של תהליכי עבודה.
+
+* יצירת חוברות מאקרו מתוזמנות ממצגות.
+
+* שילוב עם צינורות עבודה של בינה עסקית.
+
+* המרה מופעלת לאוטומציה של דוחות חוזרים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

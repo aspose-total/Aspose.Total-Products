@@ -61,7 +61,51 @@ Lors de la conversion du fichier PPSM en XLTM, vous pouvez également ajouter un
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de PPSM en XLTM (modèle Excel activé par macro) fournit des modèles réutilisables avec des macros, parfaits pour les rapports automatisés ou les flux de travail de feuilles de calcul récurrents.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Création de modèles financiers activés par macro à partir de diapositives.
+
+* Conversion de diapositives de projet en modèles de rapports Excel automatisés.
+
+* Tableaux de bord commerciaux ou marketing transformés en modèles activés par macro.
+
+* Diapositives académiques réutilisées en tant que modèles interactifs de notation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de PPSM en XLTM pour des flux de travail répétés.
+
+* Création planifiée de modèles activés par macro pour l'automatisation des rapports.
+
+* Intégration avec les pipelines BI pour des analyses basées sur des modèles.
+
+* Génération déclenchée de modèles activés par macro à partir de présentations.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,55 @@ otherformats: XLAM XLSM XLS XLSB MARKDOWN XLT FODS XLTM XLSX XLTX DIF MHTML ODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του PPSM σε MHTML (MIME HTML Archive) επιτρέπει τη δημιουργία ενός μοναδικού αρχείου HTML που περιέχει ολόκληρη την παρουσίαση. Αυτή η μορφή είναι ιδανική για κοινή χρήση στο web, εκτός σύνδεσης ή αρχειοθέτηση διαφανειών με πλήρη μορφοποίηση και πολυμέσα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+
+
+* Κοινή χρήση συστημάτων παρουσιάσεων ως μοναδικά αρχεία HTML για εκτός σύνδεσης πρόσβαση.
+
+* Αρχειοθέτηση διαφανειών με ενσωματωμένα μέσα και animations σε MHTML.
+
+* Δημοσίευση διαδραστικού περιεχομένου διαφανειών σε εταιρικά δίκτυα ή ιστότοπους.
+
+* Μετατροπή διαλέξεων ή εκπαιδευτικών μονάδων σε έτοιμα για το web αρχεία αρχειοθέτησης HTML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή PPSM σε MHTML για ανάπτυξη ιστότοπου ή βάσης γνώσεων.
+
+* Προγραμματισμένη δημιουργία αρχείων MHTML για επαναλαμβανόμενες παρουσιάσεις.
+
+* Ενσωμάτωση με συστήματα διαχείρισης περιεχομένου για αυτόματη δημοσίευση.
+
+* Μετατροπή με ενεργοποίηση για έτοιμα για αρχειοθέτηση αρχεία παρουσίασης HTML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ PPSX 파일을 XLSB로 변환하는 동안 출력 XLSB 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSX를 XLSB로 변환**하면 슬라이드에서 바이너리 Excel 파일을 내보내어 대규모 데이터 및 복잡한 계산에 대한 성능을 향상시킵니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 프레젠테이션 슬라이드에서 고성능 금융 보고.
+
+* 성능 문제없이 Excel에서 대규모 데이터 집합 관리.
+
+* 효율적인 바이너리 형식으로 슬라이드 테이블 보관.
+
+* 슬라이드 데이터를 기반으로 복잡한 분석 스프레드시트 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 분석 팀을 위한 대규모 슬라이드 덱을 XLSB로 일괄 변환.
+
+* 대량 데이터를 위한 자동 보고 시스템과의 통합.
+
+* 반복 프레젠테이션에서 이진 스프레드시트의 예약된 업데이트.
+
+* 성능 중요 응용 프로그램을 위한 XLSB로의 트리거 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

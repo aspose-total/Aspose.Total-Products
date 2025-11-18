@@ -61,7 +61,51 @@ Při převodu souboru PPSX na XLSM můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod **PPSX na XLSM** generuje makro-povolené sešity Excelu ze snímků, zachovává automatizaci a pokročilou funkcionalitu pro profesionální reporting.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vložení maker pro automatizované projektní zprávy.
+
+* Finanční modelování s automatizovanými výpočty odvozenými ze snímků.
+
+* Interaktivní přístrojové desky s metrikami řízenými snímky.
+
+* Generování opakovatelných sešitů Excelu s dynamickým obsahem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná hromadná generace makro-povolených zpráv.
+
+* Integrace s nástroji pro automatizaci pracovního postupu pro Excel.
+
+* Automatické aktualizace při revizi obsahu snímku.
+
+* Spuštění vytváření přístrojových desek XLSM pro business intelligence.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

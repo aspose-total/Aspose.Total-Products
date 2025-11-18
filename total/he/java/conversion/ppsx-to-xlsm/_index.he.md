@@ -102,7 +102,51 @@ otherformats: DIF TSV XLS ODS EXCEL XLT MHTML XLSX XLTX MARKDOWN XLTM XLAM XLSB 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **PPSX ל-XLSM** יוצרת חוברות עבודה ב-Excel עם תכונת מקרו מופעלת משקפים, ששומרת על אוטומציה ופונקציונליות מתקדמת לדיווח מקצועי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* הטמעת מקרוים לדוחות פרויקטים אוטומטיים.
+
+* דגם פיננסי עם חישובים אוטומטיים המגיעים מהשקפים.
+
+* לוחות מחוונים אינטראקטיביים עם מדדים המופעלים על ידי השקפים.
+
+* יצירת חוברות עבודה ב-Excel חוזרות עם תוכן דינמי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת דוחות עם מקרוים בצורה קבועה על ידי המערכת.
+
+* שילוב עם כלים לאוטומציה של זרימת העבודה עבור Excel.
+
+* עדכונים אוטומטיים כאשר נערף תוכן השקפים.
+
+* יצירת לוחות מחוונים ב-XLSM בתגובה לבינה עסקית.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

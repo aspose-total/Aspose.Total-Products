@@ -61,7 +61,51 @@ otherformats: DIF ODS XLS SXC XLSB EXCEL TSV XLAM XLSM XLT XLSX MHTML XLTM FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将PPSM转换为TSV（制表符分隔值）简化了从幻灯片中提取结构化数据到纯文本、通用可读的电子表格格式。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将基于幻灯片的数据表导出为TSV以进行分析。
+
+* 在多个平台之间共享项目或销售指标。
+
+* 将演示文稿表格转换为CSV/TSV准备的流水线。
+
+* 为结构化研究分析准备学术幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将PPSM幻灯片转换为TSV文件。
+
+* 用于ETL或BI工作流程的自动化提取。
+
+* 从定期企业幻灯片生成计划的TSV。
+
+* 与用于分析的数据处理流水线集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

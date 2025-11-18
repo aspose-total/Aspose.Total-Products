@@ -102,7 +102,51 @@ otherformats: XLS EXCEL XLAM SXC ODS XLSX XLTM DIF MARKDOWN XLT XLSM XLTX FODS M
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **PPSX ל־CSV** מאפשרת ייצוא של תוכן השקפים כערכים מופרדים בפסיקים, המתאים מאוד לניתוח נתונים, דיווחים ואינטגרציה עם מסדי נתונים. קבצי CSV הם קלים ומתאימים בצורה נרחבת לכלים לניתוח.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* חילוץ טבלאות מבוססות שקפים לניתוח סטטיסטי.
+
+* הכנת דוחות מכירות, פיננסיים או KPI ממצגות.
+
+* ייבוא נתוני שקפים למערכות CRM או ERP.
+
+* שיתוף נתונים מוכנים לגיליון בין פלטפורמות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה בצורת סדרתית של טבלאות ממצגות ל־CSV לצורך צינורות ניתוח.
+
+* חילוץ מתוזמן של מדדים ממצגות שבועיות.
+
+* יצירת CSV באופן אוטומטי לאינטגרציה עם כלים לבינה עסקית.
+
+* עדכונים מופעלים כאשר תוכן השקפים משתנה בלוחות מחוונים לדיווחים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

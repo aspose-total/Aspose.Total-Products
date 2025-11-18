@@ -61,7 +61,51 @@ otherformats: EXCEL ODS XLTM MHTML XLAM XLSM SXC XLSX XLT TSV DIF FODS XLSB XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将POTX转换为Markdown可以将幻灯片内容导出为轻量级、易读的标记文件，适用于文档、GitHub存储库和静态网站生成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将演示文稿转换为Markdown笔记，用于开发人员文档。
+
+* 在GitHub存储库中准备基于幻灯片的教程或指南。
+
+* 为Hugo或Jekyll等静态网站生成器导出内容。
+
+* 将培训幻灯片转换为Markdown，便于版本控制。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将Markdown转换为文档库。
+
+* 从幻灯片触发导出到Markdown，用于CI/CD文档流水线。
+
+* 与静态网站生成器集成，实现自动化站点更新。
+
+* 将幻灯片自动提取为Markdown，便于协作编辑。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

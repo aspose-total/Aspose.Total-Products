@@ -49,7 +49,51 @@ PPSX를 JSON으로 변환하는 동안 범위를 출력 JSON 형식으로 설정
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSX를 JSON으로 변환**하면 프레젠테이션 콘텐츠가 기계가 읽을 수 있는 JSON 형식으로 변환되어 개발자, API 및 데이터 기반 애플리케이션에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 웹 또는 모바일 앱용 슬라이드 콘텐츠 내보내기.
+
+* 사용자 정의 대시보드 또는 시각화 도구 통합.
+
+* 분석이나 AI 모델용 슬라이드 기반 데이터 준비.
+
+* API용 프레젠테이션 데이터셋 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 웹 통합을 위해 슬라이드 덱을 JSON으로 일괄 변환.
+
+* 슬라이드가 수정될 때 JSON의 트리거 기반 업데이트.
+
+* 비즈니스 인텔리전스 도구로 슬라이드 데이터를 공급하는 자동화된 파이프라인.
+
+* 반복 보고서 또는 콘텐츠 피드용 예약된 내보내기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

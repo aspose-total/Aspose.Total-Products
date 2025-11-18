@@ -61,7 +61,55 @@ otherformats: XLSM DIF FODS MARKDOWN XLSB XLAM MHTML XLTM XLT XLS TSV ODS SXC EX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل **PPSX إلى XLTX** ينتج قوالب إكسل خالية من الماكرو من الشرائح، مثالية للتقارير الموحدة دون القلق بشأن أمان الماكرو.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* جداول جدولية قابلة لإعادة الاستخدام للتقارير الشركية.
+
+* قوالب أكاديمية أو تدريبية من جداول العروض التقديمية.
+
+* تسليمات العملاء الموحدة المستمدة من الشرائح.
+
+* مكتبات القوالب للتعاون بين الفرق.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائي" %}}
+
+
+
+* تحويل دفعي مجدول للشرائح إلى قوالب XLTX.
+
+* التكامل مع إدارة سير العمل لتنسيق الجداول الإكسل بشكل متسق.
+
+* تحديثات قائمة على الزناد عند تغيير محتوى الشرائح.
+
+* إنشاء مجموعات كبيرة من مكتبات القوالب للاستخدام في المؤسسات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

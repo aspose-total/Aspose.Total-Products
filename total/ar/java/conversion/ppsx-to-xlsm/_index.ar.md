@@ -61,7 +61,51 @@ otherformats: DIF TSV XLS ODS EXCEL XLT MHTML XLSX XLTX MARKDOWN XLTM XLAM XLSB 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل **PPSX إلى XLSM** يولد سجلات عمل Excel مع ماكرو ممكّنة من الشرائح، محتفظًا بالأتمتة والوظائف المتقدمة لتقارير احترافية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تضمين ماكروهات لتقارير المشاريع المُلتَقَمة تلقائيًا.
+
+* نمذجة مالية مع حسابات آلية مشتقة من الشرائح.
+
+* لوحات تحكم تفاعلية بمقاييس تعتمد على الشرائح.
+
+* إنشاء سجلات عمل Excel قابلة للتكرار مع محتوى ديناميكي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* توليفة دفعية مجدولة لتوليد تقارير ممكّنة بالماكرو.
+
+* تكامل مع أدوات أتمتة سير العمل لـ Excel.
+
+* تحديثات تلقائية عند تعديل محتوى الشريحة.
+
+* إنشاء لوحات تحكم XLSM مُشغّلة بمعلومات الذكاء التجاري.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

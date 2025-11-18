@@ -53,7 +53,51 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPSM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi PPSM sang OTT (Mẫu Tài liệu OpenDocument) cho phép người dùng tạo các mẫu tài liệu có thể tái sử dụng từ các bài thuyết trình trong định dạng mã nguồn mở, lý tưởng cho tài liệu chuẩn hóa của doanh nghiệp, học thuật hoặc tổ chức phi chính phủ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuẩn bị các mẫu báo cáo có thể tái sử dụng cho người dùng LibreOffice.
+
+* Chuyển đổi các bộ slide đào tạo thành các mẫu tài liệu có thể chỉnh sửa.
+
+* Các slide học thuật được tái sử dụng như các mẫu bài giảng hoặc bài tập.
+
+* Các slide dự án của tổ chức phi chính phủ được chuyển đổi thành các mẫu báo cáo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt các bộ slide thành các mẫu OTT để sử dụng lặp đi lặp lại.
+
+* Tích hợp vào các luồng công việc tự động hóa để tạo tài liệu.
+
+* Tạo thư viện mẫu theo lịch từ các slide lặp lại.
+
+* Tạo mẫu OTT theo yêu cầu cho tài liệu dự án.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ otherformats: XLAM XLSM XLS XLSB MARKDOWN XLT FODS XLTM XLSX XLTX DIF MHTML ODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง PPSM เป็น MHTML (MIME HTML Archive) ช่วยให้สามารถสร้างไฟล์ HTML เดียวที่มีการนำเสนอทั้งหมดอยู่ในนั้น รูปแบบนี้เหมาะสำหรับการแบ่งปันบนเว็บ การดูแบบออฟไลน์ หรือเก็บสไลด์พร้อมการจัดรูปแบบและมัลติมีเดีย
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* แบ่งปันสไลด์นำเสนอเป็นไฟล์ HTML เดียวสำหรับการเข้าถึงแบบออฟไลน์
+
+* เก็บสไลด์พร้อมสื่อภาพและอนิเมชันภายใน MHTML
+
+* เผยแพร่เนื้อหาสไลด์ที่สามารถโต้ตอบบนอินทราเน็ตหรือเว็บไซต์
+
+* แปลงบทเรียนหรือโมดูลการฝึกอบรมเป็นเอกสาร HTML พร้อมใช้งานบนเว็บ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงจำนวนมากของ PPSM เป็น MHTML สำหรับการใช้งานบนเว็บหรือฐานความรู้
+
+* สร้างไฟล์ MHTML ตามกำหนดเวลาสำหรับการนำเสนอซ้ำ
+
+* ผสานกับระบบการจัดการเนื้อหาบนเว็บสำหรับการเผยแพร่โดยอัตโนมัติ
+
+* การแปลงเมื่อมีการเรียกใช้เพื่อให้ได้เอกสารนำเสนอ HTML พร้อมเก็บไว้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

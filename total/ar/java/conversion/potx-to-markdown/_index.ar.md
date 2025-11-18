@@ -61,7 +61,51 @@ otherformats: EXCEL ODS XLTM MHTML XLAM XLSM SXC XLSX XLT TSV DIF FODS XLSB XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل POTX إلى Markdown يسمح بتصدير محتوى الشرائح إلى ملفات ترميز خفيفة وقابلة للقراءة مناسبة للوثائق، مستودعات GitHub، وإنشاء مواقع ثابتة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل العروض التقديمية إلى ملاحظات Markdown لوثائق المطورين.
+
+* إعداد البرامج التعليمية أو الدلائل القائمة على الشرائح في مستودعات GitHub.
+
+* تصدير المحتوى لمُنشئي مواقع ثابتة مثل Hugo أو Jekyll.
+
+* تحويل عروض التدريب إلى Markdown لسهولة التحكم في الإصدارات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل Markdown بالدُفعة لمكتبات الوثائق.
+
+* تصدير مُشغّل من الشرائح إلى Markdown لأنابيب وثائق CI/CD.
+
+* التكامل مع مُنشئي مواقع ثابتة لتحديثات الموقع التلقائية.
+
+* استخراج تلقائي للشرائح إلى Markdown للتحرير التعاوني.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

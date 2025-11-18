@@ -61,7 +61,55 @@ PPSM dosyasını ODS'ye dönüştürürken, çıktı ODS dosya biçiminize de fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM'yi ODS'ye (Açık Belge Elektronik Tablosu) dönüştürmek, slaytlardan grafik ve tabloları korurken LibreOffice, OpenOffice ve Google Sheets ile tam uyumluluk sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* İşbirlikçi analiz için sunum metriklerini ODS'ye dışa aktarma.
+
+* Proje panolarını düzenlenebilir ODS elektronik tablolarına dönüştürme.
+
+* Akademik slaytları öğrenci dostu elektronik tablo formatlarına dönüştürme.
+
+* Pazarlama ve satış PPSM destelerini paylaşılabilir ODS dosyalarına dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tekrarlayan raporlar için slaytı-ODS dönüşümlerini otomatikleştirme.
+
+* Tabloların ve grafiklerin ODS formatına toplu çıkartılması.
+
+* Kurumsal slayt destelerinden elektronik tabloların zamanlanmış oluşturulması.
+
+* Dinamik elektronik tablo güncellemeleri için iş akışı platformlarıyla entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

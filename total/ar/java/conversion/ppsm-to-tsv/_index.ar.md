@@ -61,7 +61,55 @@ otherformats: DIF ODS XLS SXC XLSB EXCEL TSV XLAM XLSM XLT XLSX MHTML XLTM FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل PPSM إلى TSV (قيم مفصولة بواسطة علامات تبويب) يبسط استخراج البيانات المهيكلة من الشرائح إلى تنسيق جدول بيانات نصي بسيط، يمكن قراءته على نحو عالمي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير جداول البيانات المعتمدة على الشرائح إلى TSV للتحليلات.
+
+* مشاركة مؤشرات المشروع أو المبيعات عبر منصات متعددة.
+
+* تحويل جداول العرض لأنابيب CSV/TSV جاهزة.
+
+* إعداد الشرائح الأكاديمية لتحليل البحوث المهيكلة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعات من مجموعات PPSM إلى ملفات TSV.
+
+* استخراج آلي لسير العمل ETL أو BI.
+
+* إنشاء TSV بشكل مجدول من الشرائح الشركية المتكررة.
+
+* دمج مع أنابيب معالجة البيانات للتحليلات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

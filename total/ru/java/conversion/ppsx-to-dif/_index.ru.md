@@ -61,7 +61,51 @@ otherformats: XLTX XLT TSV XLS MHTML XLAM FODS SXC MARKDOWN EXCEL ODS DIF XLSM X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **PPSX в DIF** экспортирует таблицы слайдов в формат обмена данными, облегчая безшовное обмен данных между приложениями электронных таблиц, идеально подходит для старых систем или сред с различными платформами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Передача данных на основе слайдов в устаревшие инструменты электронных таблиц.
+
+* Экспорт данных из презентаций для академических или исследовательских целей.
+
+* Подготовка наборов данных для статистического программного обеспечения или научного анализа.
+
+* Стандартизированный обмен данными между платформами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановый пакетный экспорт презентаций в формат DIF для исследовательских рабочих процессов.
+
+* Автоматизированная интеграция с конвейерами обработки данных.
+
+* Конвертация на основе триггеров для повторяющихся задач по переводу слайдов в базы данных.
+
+* Массовое преобразование нескольких презентаций для аналитических команд.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

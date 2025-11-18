@@ -61,7 +61,55 @@ otherformats: ODS MHTML XLAM XLSB FODS XLTX XLSX XLS TSV XLSM XLT XLTM MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов PPSM (PowerPoint Slide Show) в CSV (Comma-Separated Values) позволяет экспортировать табличные данные из презентаций в универсальный формат электронных таблиц. Идеально подходит для анализа данных, отчетности и интеграции с BI-инструментами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт графиков на основе слайдов в CSV для Excel или Google Sheets.
+
+* Преобразование таблиц презентаций в редактируемые файлы данных для анализа.
+
+* Обмен числовыми отчетами со слайдов в универсальном читаемом формате CSV.
+
+* Подготовка метрик продаж или маркетинга из досок PPSM для аналитических инструментов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование нескольких слайд-досок в файлы CSV.
+
+* Автоматизированное извлечение табличных данных для панелей управления.
+
+* Плановое создание CSV из повторяющихся корпоративных презентаций.
+
+* Интеграция в ETL-потоки для платформ бизнес-аналитики.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ otherformats: MARKDOWN ODS XLSB SXC FODS XLTX XLT XLAM XLSM XLSX DIF XLS XLTM TS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **PPSX เป็น FODS** ช่วยให้สามารถส่งออกตารางสไลด์เป็นรูปแบบ OpenDocument Spreadsheet แบบแบนที่เข้ากันได้กับชุดโปรแกรมสำนักงานโอเพนซอร์ส เช่น LibreOffice และ OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* สไลด์ทางวิชาการที่นำมาใช้ในเครื่องมือสเปรดชีตโอเพนซอร์ส
+
+* รายงานของรัฐบาลหรือองค์กรไม่แสวงหาก FODS
+
+* การทำงานร่วมกันข้ามแพลตฟอร์มโดยไม่ต้องใช้ซอฟต์แวร์เฉพาะ
+
+* เก็บรักษาข้อมูลเชิงสถิติของการนำเสนอในรูปแบบเปิดที่สามารถแก้ไขได้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* ส่งออก FODS แบบกลุ่มสำหรับการทำงานในสำนักงานโอเพนซอร์ส
+
+* อัปเดตเมื่อสไลด์เปลี่ยนแปลง
+
+* การรวมกับท่อส่งสัญญาณวิเคราะห์โอเพนซอร์ส
+
+* การแปลงรายงานที่เกิดซ้ำๆ ตามกำหนดเวลาสำหรับการทำงานร่วมกันของทีม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

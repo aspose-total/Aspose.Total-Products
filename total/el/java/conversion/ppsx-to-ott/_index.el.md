@@ -53,7 +53,51 @@ otherformats: WORDML RTF DOT OTT DOTM TEXT WORD OTTM FLATOPC ODT DOTX OTTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή **PPSX σε OTT** δημιουργεί πρότυπα εγγράφων χωρίς μακροεντολές, επιτρέποντας την επαναχρησιμοποίηση προτύπων χωρίς κίνδυνο μακροεντολών.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Δημιουργία προτύπων εκπαίδευσης ή εργαστηρίων στο LibreOffice/OpenOffice.
+
+* Πρότυπα εγγράφων για ΜΚΟ ή ακαδημαϊκούς σκοπούς.
+
+* Επαναχρησιμοποιήσιμα πρότυπα βασισμένα σε διαφάνειες για συνεργασία ομάδας.
+
+* Αναφορές προς πελάτες σε μορφές διασυνδεδεμένες με πολλαπλές πλατφόρμες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Μαζική δημιουργία προτύπων OTT για επαναλαμβανόμενη αναφορά.
+
+* Ενσωμάτωση με συστήματα ροών εργασίας ανοικτού κώδικα για ανάπτυξη προτύπων.
+
+* Προγραμματισμένες ενημερώσεις σε πρότυπα από νέες διαφάνειες.
+
+* Αυτόματη δημιουργία συνεργατικών εγγράφων από διαφάνειες χωρίς μακροεντολές.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ otherformats: EXCEL XLTX XLSM SXC TSV XLTM MARKDOWN DIF XLSX XLSB XLAM FODS ODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات PPSM إلى XLAM (إضافة Excel ممكّنة للماكرو) يسمح بتضمين حسابات ورسوم بيانية مستندة إلى الشرائح في إضافات Excel، مما يعزز قدرات الأتمتة والتحليل.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل العروض التقديمية إلى إضافات Excel للإبلاغ التلقائي.
+
+* تصدير الشرائح المالية أو التشغيلية مع دعم الماكرو.
+
+* إنشاء لوحات تحكم تفاعلية استنادًا إلى شرائح PPSM.
+
+* تحويل الشرائح إلى ماكروهات Excel قابلة لإعادة الاستخدام للمهام المتكررة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفاتر PPSM متعددة إلى إضافات XLAM بشكل دفعي.
+
+* إنشاء قوالب ممكّنة للماكرو بشكل مجدول للإبلاغ.
+
+* التكامل مع منصات أتمتة سير العمل.
+
+* إنشاء إضافات Excel مع تنشيط من العروض التقديمية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

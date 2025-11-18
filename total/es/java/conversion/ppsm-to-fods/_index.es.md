@@ -61,7 +61,31 @@ Al convertir un archivo PPSM a FODS, también puede agregar una marca de agua a 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir PPSM a FODS (Flat OpenDocument Spreadsheet) proporciona un formato de hoja de cálculo ligero y editable compatible con LibreOffice y OpenOffice, útil para proyectos colaborativos y flujos de trabajo de código abierto.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+- Exportar tablas de diapositivas a FODS para aplicaciones de hojas de cálculo de código abierto.
+- Preparar diapositivas académicas o de investigación para análisis multiplataforma.
+- Convertir métricas operativas de las presentaciones PPSM al formato FODS.
+- Compartir datos financieros o de ventas sin depender de software propietario.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+- Conversión por lotes de PPSM a FODS para equipos colaborativos de código abierto.
+- Extracción programada de datos de diapositivas en plantillas de hojas de cálculo editables.
+- Integración en flujos de trabajo automatizados de informes de proyectos.
+- Conversión activada para compartir entre plataformas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

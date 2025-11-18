@@ -61,7 +61,55 @@ otherformats: XLS XLSX TSV DIF XLTM MHTML XLT MARKDOWN SXC XLTX XLSB XLAM EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل **PPSX إلى EXCEL** يحول جداول العروض التقديمية إلى جداول بيانات Microsoft Excel قابلة للتحرير بالكامل، مع الاحتفاظ بالتنسيق، الصيغ، وهيكل التخطيط لإدارة البيانات المهنية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل الشرائح المالية أو الأداء إلى تقارير Excel يمكن التنفيذ عليها.
+
+* لوحات تحكم مدفوعة بالبيانات لاتخاذ القرارات الشركاتية.
+
+* جداول بيانات قابلة للتحرير لأغراض التدقيق أو الامتثال.
+
+* تقارير عابرة للوظائف باستخدام قوالب Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+
+
+* تحويل دفعة من عروض الشرائح المتعددة إلى Excel لتقارير الشركات.
+
+* دمجها في أتمتة سير العمل لفرق المالية أو المبيعات.
+
+* تحديثات مجدولة لتقارير Excel من العروض المتكررة.
+
+* توليد تلقائي لوحات تحكم Excel من مؤشرات الأداء الرئيسية المعتمدة على الشرائح.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

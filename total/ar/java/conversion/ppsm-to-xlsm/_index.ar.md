@@ -61,7 +61,55 @@ otherformats: XLTM XLSX MHTML SXC XLSB DIF ODS EXCEL XLAM FODS TSV XLSM MARKDOWN
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل PPSM إلى XLSM (Excel Macro-Enabled Workbook) يحافظ على الصيغ والماكروهات والرسوم البيانية من الشرائح، مما يمكن من الحسابات الآلية وتقارير البيانات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل العروض التقديمية التي تحتوي على نماذج مالية إلى مصنفات ممكنة للماكرو.
+
+* إعداد لوحات مشاريع تفاعلية بمساعدة الماكروهات من الشرائح.
+
+* تحويل الشرائح الأكاديمية التي تحتوي على صيغ إلى XLSM لتقييم آلي.
+
+* تحويل الشرائح التجارية إلى XLSM لتقارير آلية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+
+
+* تحويل دفعي من PPSM إلى XLSM لأتمتة سير العمل.
+
+* توليد مصنفات ممكنة للماكرو بشكل مجدول زمني من العروض التقديمية.
+
+* التكامل مع أنابيب الذكاء التجاري.
+
+* تحويل مشغل لأتمتة تقارير متكررة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

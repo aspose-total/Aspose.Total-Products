@@ -61,7 +61,51 @@ Saat mengonversi file PPSM ke XLS, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi PPSM ke XLS (Excel 97-2003 Workbook) memberikan kompatibilitas warisan untuk versi Microsoft Excel yang lebih lama, sambil tetap mempertahankan tabel dan grafik dari slide.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengekspor slide keuangan atau proyek ke XLS untuk pengguna warisan.
+
+* Mengonversi metrik perusahaan menjadi lembar Excel yang dapat diedit.
+
+* Slide akademis diubah menjadi spreadsheet untuk analisis.
+
+* Berbagi data presentasi dalam format yang kompatibel dengan Excel yang lebih lama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch PPSM ke XLS untuk penggunaan warisan di seluruh tim.
+
+* Ekstraksi slide terjadwal ke XLS untuk pelaporan.
+
+* Integrasi ke alur kerja arsip otomatis.
+
+* Generasi XLS yang dipicu dari presentasi berulang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

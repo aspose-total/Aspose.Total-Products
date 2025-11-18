@@ -61,7 +61,51 @@ A PPSM fájl ODS formátumba konvertálásakor vízjelet is hozzáadhat a kimene
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM fájlok átalakítása ODS formátumra (OpenDocument Spreadsheet) teljes kompatibilitást biztosít a LibreOffice, OpenOffice és a Google Sheets alkalmazásokkal, miközben megőrzi a diajegyzeteket és táblázatokat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Prezentációs mutatók exportálása ODS formátumba együttműködéses elemzéshez.
+
+* Projekt irányítópultok átalakítása szerkeszthető ODS táblázatokká.
+
+* Akadémiai diák átalakítása diábarát táblázatformátumokká.
+
+* Marketing és értékesítési PPSM bemutatók átalakítása megosztható ODS fájlokká.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Diajegyzetek automatizált átalakítása ODS formátumba ismétlődő jelentésekhez.
+
+* Táblázatok és diagramok tömeges kinyerése ODS formátumba.
+
+* Ütemezett táblázatok generálása vállalati diákbemutatókból.
+
+* Integráció munkafolyamat-platformokkal dinamikus táblázatfrissítésekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ PPSMファイルをFODSに変換するときに、出力FODSファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSMをFODS（Flat OpenDocument Spreadsheet）に変換すると、LibreOfficeやOpenOfficeと互換性のある軽量で編集可能なスプレッドシート形式が得られ、共同プロジェクトやオープンソースのワークフローに役立ちます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* オープンソースのスプレッドシートアプリケーション向けにスライドテーブルをFODS形式でエクスポートする。
+
+* 複数プラットフォームでの分析のための学術または研究スライドの準備。
+
+* PPSMデッキから運用メトリクスをFODS形式に変換する。
+
+* プロプライエタリソフトウェアに依存せずに財務データや売上データを共有する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* オープンソースの共同作業チーム向けのバッチPPSMからFODSへの変換。
+
+* スライドデータを編集可能なスプレッドシートテンプレートに定期的に抽出する。
+
+* 自動化されたプロジェクトレポートワークフローに統合する。
+
+* クロスプラットフォーム共有のためのトリガー変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

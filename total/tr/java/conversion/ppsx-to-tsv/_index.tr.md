@@ -61,7 +61,55 @@ PPSX dosyasını TSV'ye dönüştürürken, çıktı TSV dosya biçiminize de fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSX dosyalarını TSV'ye dönüştürmek**, slaytları sekmeyle ayrılmış değerler olarak dışa aktarır, veri analizi, CSV alternatifleri ve metin tabanlı veri iş akışları için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Analiz veya yapay zeka modelleri için slayt tablolarının çıkarılması.
+
+* Makine öğrenimi boru hatları için TSV veri setlerinin hazırlanması.
+
+* Sunum metriklerinin istatistiksel araçlara aktarılması.
+
+* Yapılandırılmış slayt verilerinin geliştiriciler veya analistlerle paylaşılması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Sunumların analiz ekipleri için TSV'ye zamanlanmış dönüşümü.
+
+* Birden fazla slaydın yapılandırılmış veri setlerine toplu dışa aktarımı.
+
+* Slayt desteleri değiştikçe TSV dosyalarının otomatik güncellenmesi.
+
+* Raporlama otomasyonu için ETL boru hatlarıyla entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

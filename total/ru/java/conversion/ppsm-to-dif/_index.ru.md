@@ -61,7 +61,51 @@ otherformats: XLS XLT SXC XLSX XLTX FODS XLTM XLSM ODS XLSB TSV XLAM EXCEL MHTML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование PPSM в DIF (формат обмена данными) облегчает передачу данных таблиц с слайдов в совместимые форматы для устаревших или специализированных программ. Идеально подходит для архивирования и аналитики на разных платформах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт финансовых или операционных таблиц из презентаций в формат DIF.
+
+* Преобразование слайдов с отчётами о ходе проекта в файлы DIF, готовые к использованию в электронных таблицах.
+
+* Обмен данными с устаревшими системами, требующими ввода в формате DIF.
+
+* Архивирование табличного содержимого слайдов для регуляторных или аудиторских целей.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование слайдов PPSM в DIF для исторической отчётности.
+
+* Автоматизированное извлечение таблиц из слайд-деков в файлы DIF.
+
+* Плановое обновление для повторяющихся дашбордов проектов.
+
+* Интеграция с устаревшими аналитическими инструментами, принимающими импорт в формате DIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

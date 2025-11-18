@@ -61,7 +61,51 @@ otherformats: EXCEL ODS XLTM MHTML XLAM XLSM SXC XLSX XLT TSV DIF FODS XLSB XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POTX в Markdown позволяет экспортировать содержимое слайдов в легкие, читаемые файлы разметки, подходящие для документации, репозиториев GitHub и генерации статических сайтов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование презентаций в заметки Markdown для документации разработчика.
+
+* Подготовка учебных материалов или руководств на основе слайдов в репозиториях GitHub.
+
+* Экспорт контента для генераторов статических сайтов, таких как Hugo или Jekyll.
+
+* Преобразование учебных материалов в Markdown для удобного контроля версий.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование в Markdown для библиотек документации.
+
+* Автоматический экспорт слайдов в Markdown для конвейеров документации CI/CD.
+
+* Интеграция с генераторами статических сайтов для автоматического обновления сайтов.
+
+* Автоматическое извлечение слайдов в Markdown для совместного редактирования.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

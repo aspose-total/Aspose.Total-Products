@@ -99,7 +99,55 @@ otherformats: DOTM OTT DOTX TEXT FLATOPC DOT WORDML RTF DOCM DOCX WORD DOC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Конвертація POTX в ODT дозволяє експортувати слайди презентації в формат OpenDocument Text, який підходить для LibreOffice, OpenOffice та крос-платформених середовищ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Конвертування презентацій в редаговані текстові документи OpenOffice або LibreOffice.
+
+* Обмін вмістом слайдів у немікрософтових середовищах.
+
+* Генерація звітів з презентаційних стеків для користувачів відкритих офісних пакетів.
+
+* Підготовка навчального контенту, сумісного з кількома офісними пакетами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетна конвертація в ODT для крос-платформених офісних робочих процесів.
+
+* Інтеграція в платформи спільної роботи з документами, що підтримують ODT.
+
+* Автоматичний експорт для звітності проектів з відкритим кодом.
+
+* Тригерна конвертація для доступності контенту на різних платформах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

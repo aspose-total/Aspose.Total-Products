@@ -52,7 +52,51 @@ otherformats: DOT ODT RTF TEXT DOTX WORD FLATOPC ODTM OTT DOTM ODTX WORDML
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **PPSX 转换为 ODT** 提供了幻灯片转换为 Word 的开放文档格式支持，非常适合于 LibreOffice、OpenOffice 或跨平台编辑。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将学术幻灯片转换为开源文档格式。
+
+* 需要 ODT 兼容性的政府或非政府组织报告。
+
+* 从演示文稿中衍生出的跨平台可编辑报告。
+
+* 在开源办公环境中进行协作文档编写。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量自动将演示文稿转换为 ODT 以进行多平台分发。
+
+* 与团队协作的开源文档工作流集成。
+
+* 定期将学术或非营利性报告转换为计划任务。
+
+* 从幻灯片修订中自动更新 ODT 文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

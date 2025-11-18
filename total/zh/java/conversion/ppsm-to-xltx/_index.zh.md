@@ -61,7 +61,51 @@ otherformats: MARKDOWN SXC EXCEL XLAM FODS XLT ODS XLTX TSV XLS XLTM XLSX MHTML 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将PPSM转换为XLTX（Excel Open XML模板）可创建现代、可重复使用的电子表格模板，无需宏，非常适合标准企业、学术或个人报告。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从演示文稿中准备Excel报告模板。
+
+* 将学术或企业幻灯片转换为可重复使用的XLTX模板。
+
+* 将营销和销售幻灯片转换为标准电子表格模板。
+
+* 将项目仪表板转换为团队广泛使用的可编辑模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将PPSM转换为XLTX，用于标准化报告模板。
+
+* 定期从重复幻灯片生成可重复使用的模板。
+
+* 与自动化内容管道集成。
+
+* 触发模板创建以实现工作流程标准化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

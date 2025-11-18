@@ -61,7 +61,55 @@ PPSMファイルをMHTMLに変換するときに、出力MHTMLファイル形式
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSMをMHTML（MIME HTML Archive）に変換すると、プレゼンテーション全体を含む単一のHTMLファイルが作成されます。この形式は、Web共有、オフライン表示、または完全なフォーマットとマルチメディアを備えたスライドのアーカイブに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* オフラインアクセス用にプレゼンテーションデッキを単一のHTMLファイルとして共有する。
+
+* MHTMLで埋め込みメディアやアニメーションを含むスライドをアーカイブする。
+
+* イントラネットやウェブサイトでインタラクティブなスライドコンテンツを公開する。
+
+* 講義やトレーニングモジュールをWeb用のHTMLアーカイブに変換する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* ウェブサイトやナレッジベース展開用のバッチPPSMからMHTMLへの変換。
+
+* 定期的なプレゼンテーション用のMHTMLファイルのスケジュール生成。
+
+* 自動公開用のWebコンテンツ管理システムとの統合。
+
+* アーカイブ用のHTMLプレゼンテーションファイルへのトリガー変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ otherformats: MARKDOWN SXC EXCEL XLAM FODS XLT ODS XLTX TSV XLS XLTM XLSX MHTML 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование PPSM в XLTX (Шаблон Excel Open XML) создает современные, многоразовые шаблоны электронных таблиц без макросов, идеальные для стандартной корпоративной, академической или личной отчетности.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Подготовка шаблонов отчетности Excel из презентационных слайдов.
+
+* Преобразование академических или корпоративных слайдов в многоразовые шаблоны XLTX.
+
+* Преобразование маркетинговых и продажных слайдов в стандартные шаблоны электронных таблиц.
+
+* Преобразование дашбордов проектов в редактируемые шаблоны для использования всеми членами команды.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование PPSM в XLTX для стандартизированных шаблонов отчетности.
+
+* Запланированная генерация многоразовых шаблонов из повторяющихся слайдов.
+
+* Интеграция с автоматизированными конвейерами контента.
+
+* Создание шаблонов по триггеру для стандартизации рабочего процесса.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,55 @@ otherformats: XLS XLTX XLSB XLSX SXC FODS DIF XLAM MHTML EXCEL XLT TSV MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل **PPSX إلى SXC** ينتج ملفات StarOffice Spreadsheet، مما يسمح لمستخدمي حزم البرامج المكتبية القديمة بتحرير ومشاركة البيانات المستمدة من الشرائح في تطبيقات متوافقة مع SXC.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* التوافق مع سير العمل القديمة في المكتب.
+
+* أرشفة جداول العروض التقديمية للوصول على المدى الطويل.
+
+* مشاركة البعدية عبر المؤسسات باستخدام StarOffice أو OpenOffice.
+
+* تحويل مقاييس الشرائح للتحليل في أدوات جداول البيانات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي لملفات SXC لتكامل النظام القديم.
+
+* تصديرات مجدولة من الشرائح التقديمية المتكررة.
+
+* إنشاء جداول بيانات تلقائيًا للتعاون بين المستخدمين المتعددين.
+
+* تحديثات مشغلة عند إضافة بيانات عروض تقديمية جديدة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,51 @@ Met behulp van de API kunt u ook een POTX-bestand naar ODT-conversie met waterme
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX naar ODT conversie maakt export van presentatieslides naar het OpenDocument Tekstformaat mogelijk, geschikt voor LibreOffice, OpenOffice en cross-platform omgevingen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Presentaties omzetten naar bewerkbare OpenOffice- of LibreOffice-tekstdocumenten.
+
+* Slide-inhoud delen over niet-Microsoft omgevingen.
+
+* Rapporten genereren van presentatiedecks voor gebruikers van open-source kantoorsoftware.
+
+* Educatieve inhoud voorbereiden die compatibel is met meerdere kantoorpakketten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch ODT-conversie voor cross-platform kantoorworkflows.
+
+* Integratie in document-samenwerkingsplatforms die ODT ondersteunen.
+
+* Geautomatiseerde export voor open-source projectrapportage.
+
+* Getriggerde conversie voor toegankelijkheid van inhoud over platforms.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

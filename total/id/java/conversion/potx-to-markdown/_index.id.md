@@ -61,7 +61,51 @@ Saat mengonversi file POTX ke MARKDOWN, Anda juga dapat menambahkan tanda air ke
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi POTX ke Markdown memungkinkan ekspor konten slide ke file markup ringan dan mudah dibaca yang cocok untuk dokumentasi, repositori GitHub, dan pembangkit situs statis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Kunci" %}}
+
+
+
+* Mengubah presentasi menjadi catatan Markdown untuk dokumentasi pengembang.
+
+* Menyiapkan tutorial atau panduan berbasis slide di repositori GitHub.
+
+* Mengeskpor konten untuk pembangkit situs statis seperti Hugo atau Jekyll.
+
+* Mengonversi dek pelatihan menjadi Markdown untuk pengendalian versi yang mudah.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi Markdown batch untuk perpustakaan dokumentasi.
+
+* Ekspor dipicu dari slide ke Markdown untuk alur dokumen CI/CD.
+
+* Integrasi dengan pembangkit situs statis untuk pembaruan situs otomatis.
+
+* Ekstraksi otomatis slide ke Markdown untuk penyuntingan kolaboratif.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

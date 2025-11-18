@@ -49,7 +49,57 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将POTX转换为JSON将幻灯片内容转换为结构化的JavaScript对象表示法，非常适合Web应用程序、仪表板和基于API的数据处理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将演示文稿中的表格和图表导出为Web仪表板。
+
+* 将幻灯片转换为JSON以用于人工智能或机器学习数据摄入。
+
+* 从演示文稿数据准备交互式报告工具。
+
+* 通过Web应用程序和SaaS平台共享基于幻灯片的内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量进行用于分析和报告流程的JSON转换。
+
+* 与基于API的系统集成，实现实时幻灯片数据消费。
+
+* 触发动态Web或移动仪表板的转换。
+
+* 将幻灯片内容自动提取为结构化JSON以进行处理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,55 @@ PPSMファイルをXLSに変換するときに、出力XLSファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSMをXLS（Excel 97-2003 Workbook）に変換すると、古いバージョンのMicrosoft Excelとの互換性が保たれ、スライドから表やグラフが保持されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 財務またはプロジェクトスライドをXLSにエクスポートして、古いバージョンのユーザー向けに提供します。
+
+* 企業のメトリクスを編集可能なExcelシートに変換します。
+
+* 分析のために学術スライドをスプレッドシートに変換します。
+
+* 古いExcel互換形式でプレゼンテーションデータを共有します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* チーム全体の遺産利用のためのバッチPPSMからXLSへの変換。
+
+* レポート用にスライドの定期的な抽出をスケジュールします。
+
+* 自動アーカイブワークフローに統合します。
+
+* 定期的なプレゼンテーションからのXLS生成をトリガーします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

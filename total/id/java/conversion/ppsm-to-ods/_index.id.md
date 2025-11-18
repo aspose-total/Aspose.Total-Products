@@ -61,7 +61,51 @@ Saat mengonversi file PPSM ke ODS, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi PPSM ke ODS (OpenDocument Spreadsheet) memastikan kompatibilitas penuh dengan LibreOffice, OpenOffice, dan Google Sheets sambil mempertahankan grafik dan tabel dari slide.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengekspor metrik presentasi ke ODS untuk analisis kolaboratif.
+
+* Mengubah dasbor proyek menjadi spreadsheet ODS yang dapat diedit.
+
+* Slide akademis dikonversi ke format spreadsheet yang ramah bagi siswa.
+
+* Mengonversi dek PPSM pemasaran dan penjualan menjadi file ODS yang dapat dibagikan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Mengotomatisasi konversi slide ke ODS untuk laporan berulang.
+
+* Ekstraksi tabel dan grafik secara massal ke format ODS.
+
+* Generasi jadwal spreadsheet dari dek slide perusahaan.
+
+* Integrasi dengan platform alur kerja untuk pembaruan spreadsheet dinamis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

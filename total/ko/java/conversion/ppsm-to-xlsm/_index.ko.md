@@ -61,7 +61,51 @@ PPSM 파일을 XLSM로 변환하는 동안 출력 XLSM 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM을 XLSM(Excel Macro-Enabled Workbook)으로 변환하면 슬라이드에서 수식, 매크로 및 차트를 보존하여 자동 계산 및 데이터 기반 보고서를 활용할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 금융 모델을 포함한 프레젠테이션을 매크로가 활성화된 워크북으로 변환합니다.
+
+* 슬라이드에서 매크로를 사용한 대화형 프로젝트 대시보드를 준비합니다.
+
+* 수식이 포함된 학술 슬라이드를 자동 채점을 위해 XLSM으로 변환합니다.
+
+* 자동 보고를 위해 판매 슬라이드를 XLSM으로 변환합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 워크플로 자동화를 위한 일괄 PPSM-to-XLSM 변환.
+
+* 프레젠테이션으로부터 예약된 매크로가 활성화된 워크북 생성.
+
+* 비즈니스 인텔리전스 파이프라인과의 통합.
+
+* 반복 보고 자동화를 위한 트리거 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

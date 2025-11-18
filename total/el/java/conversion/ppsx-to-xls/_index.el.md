@@ -61,7 +61,51 @@ otherformats: XLTX XLSX XLSB DIF XLS MARKDOWN SXC EXCEL ODS MHTML XLTM FODS XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή **PPSX σε XLS** παράγει παραδοσιακά φύλλα Excel από διαφάνειες, εξασφαλίζοντας ευρεία συμβατότητα σε παλαιότερες εκδόσεις του Microsoft Office και διατηρώντας πίνακες και μορφοποίηση.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Αρχειοθέτηση μετρήσεων παρουσιάσεων σε μορφή XLS.
+
+* Δημιουργία επεξεργάσιμων φύλλων εργασίας για παλαιότερα συστήματα Office.
+
+* Εσωτερική αναφορά και τεκμηρίωση χρησιμοποιώντας δεδομένα διαφανειών.
+
+* Κοινοποίηση περιεχομένου διαφανειών έτοιμου για φύλλα εργασίας σε ομάδες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή σε XLS για εταιρικές βιβλιοθήκες διαφανειών.
+
+* Προγραμματισμένες εξαγωγές πινάκων παρουσιάσεων για αναφορές ελέγχου.
+
+* Ενσωμάτωση με συστήματα διαχείρισης εγγράφων.
+
+* Αυτόματες ενημερώσεις αρχείων XLS όταν οι διαφάνειες αναθεωρούνται.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

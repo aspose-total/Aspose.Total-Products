@@ -61,7 +61,51 @@ Durante la conversione del file PPSM in SXC, puoi anche aggiungere una filigrana
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversione da PPSM a SXC (Foglio di calcolo StarOffice Calc) consente di trasformare vecchie diapositive di presentazione in fogli di calcolo compatibili per gli utenti legacy di OpenOffice o StarOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* Conversione di diapositive di vendita o di progetto in fogli di calcolo SXC modificabili.
+
+* Condivisione di presentazioni storiche con software per ufficio legacy.
+
+* Diapositive accademiche o aziendali riproposte per la creazione di report in formato foglio di calcolo.
+
+* Archiviazione dei dati delle diapositive in un formato SXC leggero.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* Conversione batch da PPSM a SXC per sistemi legacy.
+
+* Estrazione programmata di grafici e tabelle in file SXC.
+
+* Integrazione con flussi di lavoro automatizzati per la creazione di report per software più datati.
+
+* Conversione attivata per presentazioni ricorrenti.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

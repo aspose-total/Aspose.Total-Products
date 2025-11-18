@@ -61,7 +61,51 @@ Při převodu souboru PPSX na XLAM můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod **PPSX na XLAM** generuje soubory s makry pro Excelové doplňky z obsahu prezentace, ideální pro pokročilou automatizaci a opakovaně použitelné nástroje v Excelu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření Excelových doplňků pro finance nebo sledování projektů.
+
+* Automatizace opakujících se úkolů se využitím dat ze snímků.
+
+* Generování interaktivních nástěnek s vestavěnými makry.
+
+* Distribuce nástrojů s makry odvozených ze tabulek snímků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Spouštěcí generování Excelových doplňků pro automatizaci pracovního postupu.
+
+* Hromadný převod snímků na opakovaně použitelné nástroje XLAM.
+
+* Integrace s firemními šablonami Excelu pro automatizované hlášení.
+
+* Plánované aktualizace makroaktivovaných řešení v Excelu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ otherformats: MARKDOWN FODS EXCEL ODS SXC XLT XLSM XLSB XLS MHTML TSV XLTM DIF X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **PPSX в XLSX** экспортирует слайды в современные файлы Excel с полной поддержкой редактирования, таблиц и формул, совместимые с Office 2007+ и облачными платформами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование продаж, KPI или маркетинговых слайдов в панели инструментов Excel.
+
+* Редактируемые электронные таблицы для внутренней отчетности.
+
+* Презентации на основе данных, превращенные в действенные файлы Excel.
+
+* Отчеты клиентам, полученные из метрик презентации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование для повторяющихся презентаций.
+
+* Запланированная экспортирование в Excel для автоматизированной отчетности.
+
+* Интеграция с BI-инструментами для обновления живых панелей инструментов.
+
+* Автоматическое создание электронных таблиц Excel на основе изменений слайдов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

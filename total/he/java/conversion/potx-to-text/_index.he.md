@@ -99,7 +99,51 @@ otherformats: WORDML DOTM DOC RTF DOCX ODT DOCM FLATOPC DOT WORD OTT DOTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POTX לטקסט פשוט (TXT) מחלץ את כל תוכן השקפים לקובץ טקסט פשוט, אידיאלי לתיעוד קל, אינדוקס חיפוש או עיבוד טקסט אוטומטי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייצוא של הערות ההצגה לצורך דקדוק פגישות או סיכומים.
+
+* הכנת תוכן השקפים למערכות דיווח מבוססות טקסט.
+
+* המרת שקפים של הדרכה לחומר לימוד טקסטואלי פשוט.
+
+* ארכיבת תוכן ההצגה בפורמט TXT קל.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת TXT בצורה צפה לספריות מסמכים ניתנים לחיפוש.
+
+* שילוב עם מערכות אינדוקס לחיפוש טקסט מלא ועיבוד AI.
+
+* המרה מופעלת לייצוא קל בתהליכי עבודה אוטומטיים.
+
+* חילוץ אוטומטי של תוכן השקפים לטקסט פשוט לצורך ניתוח.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -53,7 +53,51 @@ API를 사용하여 워터마크를 사용하여 PPSX 파일을 ODT로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSX를 ODT로 변환**하면 슬라이드를 워드로 변환할 때 오픈 문서 형식 지원을 제공하여 LibreOffice, OpenOffice 또는 크로스 플랫폼 편집에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 오픈 소스 문서 형식을 위해 학술 슬라이드 덱을 재활용합니다.
+
+* ODT 호환성이 필요한 정부 또는 비정부 기관 보고서.
+
+* 발표 슬라이드에서 파생된 크로스 플랫폼 편집 가능 보고서.
+
+* 오픈 소스 오피스 환경에서의 협업 문서 작성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 다중 플랫폼 배포를 위한 프레젠테이션 자동 일괄 변환.
+
+* 팀 협업을 위한 오픈 소스 문서 워크플로 통합.
+
+* 반복되는 학술 또는 비영리 보고서를 위한 예약 변환.
+
+* 슬라이드 개정으로부터 자동 업데이트되는 ODT 파일.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

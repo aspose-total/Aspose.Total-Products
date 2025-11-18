@@ -53,7 +53,51 @@ API를 사용하여 워터마크를 사용하여 PPSM 파일을 OTT로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM을 OTT(OpenDocument Template)으로 변환하면 사용자가 오픈 소스 형식의 프레젠테이션에서 재사용 가능한 문서 템플릿을 만들 수 있어 표준화된 기업, 학술 또는 비정부기구 문서 작성에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LibreOffice 사용자를 위한 재사용 가능한 보고서 템플릿 준비.
+
+* 교육용 슬라이드 덱을 편집 가능한 문서 템플릿으로 변환.
+
+* 학술 슬라이드를 강의나 과제 템플릿으로 재활용.
+
+* 비정부기구 프로젝트 슬라이드를 보고서 템플릿으로 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 슬라이드 덱을 반복적으로 사용하기 위해 OTT 템플릿으로 일괄 변환.
+
+* 문서 작성을 위한 자동화된 워크플로 파이프라인에 통합.
+
+* 반복되는 슬라이드로부터 템플릿 라이브러리를 예약 생성.
+
+* 프로젝트 문서 작성을 위한 트리거된 OTT 템플릿 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

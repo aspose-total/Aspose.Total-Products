@@ -53,7 +53,51 @@ Korzystając z API, możesz również wykonać konwersję pliku POTX do DOTM ze 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie pliku POTX na DOTM tworzy szablony Word z makrami z slajdów prezentacji, przydatne do automatycznego raportowania i interaktywnych rozwiązań dokumentów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Tworzenie szablonów raportów z makrami z slajdów biznesowych.
+
+* Automatyzacja szablonów interaktywnych do procesów szkoleniowych i HR.
+
+* Generowanie gotowych do klienta szkieletów propozycji z wbudowanymi makrami.
+
+* Przekształcanie slajdów wykładów w interaktywne szablony nauczania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja bibliotek prezentacji na szablony z makrami.
+
+* Integracja z systemami automatyzacji biurowej dla dynamicznego generowania szablonów.
+
+* Wywoływanie tworzenia plików DOTM z slajdów zarządzania projektem.
+
+* Automatyczny eksport dla szablonów do ponownego użycia w cyklicznych procesach dokumentów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

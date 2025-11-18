@@ -61,7 +61,55 @@ PPSMファイルをSXCに変換するときに、出力SXCファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSMをSXC（StarOffice Calc Spreadsheet）に変換することで、古いプレゼンテーションスライドをレガシーOpenOfficeやStarOfficeユーザー向けの互換性のあるスプレッドシートに変換できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 販売やプロジェクトスライドを編集可能なSXCスプレッドシートに変換する。
+
+* レガシーオフィスソフトウェアで過去のプレゼンテーションを共有する。
+
+* 学術または企業のスライドをスプレッドシートレポート用に再利用する。
+
+* スライドデータを軽量なSXC形式でアーカイブする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* レガシーシステム向けのバッチPPSMからSXCへの変換。
+
+* チャートや表の定期的な抽出をスケジュールしてSXCファイルに保存。
+
+* 古いソフトウェア向けの自動報告パイプラインとの統合。
+
+* 定期的なプレゼンテーションの変換をトリガーする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

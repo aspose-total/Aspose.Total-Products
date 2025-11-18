@@ -102,7 +102,51 @@ otherformats: EXCEL XLTX XLSM SXC TSV XLTM MARKDOWN DIF XLSX XLSB CSV FODS ODS X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת PPSM ל-XLAM (תוסף הופך-מאקרו של Excel) מאפשרת הטמעת חישובים ותרשימים מבוססי שקפים בתוספות Excel, משפרת את יכולות האוטומציה והניתוח.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת מצגות לתוספות Excel לדיווח אוטומטי.
+
+* ייצוא שקפים פיננסיים או תפעוליים עם תמיכה במאקרו.
+
+* יצירת לוחות בקרה אינטראקטיביים מבוססי שקפי PPSM.
+
+* המרת שקפים למאקרוס Excel הניתנים לשימוש מחדש למשימות חוזרות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת קבוצות של מצגות PPSM לתוספות XLAM.
+
+* יצירה מתוזמנת של תבניות עם תמיכה במאקרו לדיווח.
+
+* שילוב עם פלטפורמות אוטומציה של תהליכי עבודה.
+
+* יצירת תוספות Excel ממצגות באופן מופעל.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

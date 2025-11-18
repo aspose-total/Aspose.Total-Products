@@ -61,7 +61,55 @@ Ao converter o arquivo PPSX para FODS, você também pode adicionar marca d'águ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter **PPSX para FODS** permite que tabelas de slides sejam exportadas para o formato flat de Planilha OpenDocument, compatível com suites de escritório de código aberto como o LibreOffice e o OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Slides acadêmicos reaproveitados para ferramentas de planilha de código aberto.
+
+* Relatórios governamentais ou de ONG que exigem suporte FODS.
+
+* Colaboração de dados entre plataformas sem software proprietário.
+
+* Arquivamento de métricas de apresentação em formatos abertos editáveis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Exportação em lote de FODS para fluxos de trabalho de escritório de código aberto.
+
+* Atualizações acionadas quando os decks de slides são revisados.
+
+* Integração com pipelines de análise de código aberto.
+
+* Conversão agendada de relatórios recorrentes para colaboração em equipe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

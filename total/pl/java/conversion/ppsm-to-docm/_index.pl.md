@@ -53,7 +53,51 @@ Korzystając z API, możesz również wykonać konwersję pliku PPSM do DOCM ze 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie PPSM na DOCM (Dokument z włączoną obsługą makr w programie Word) pozwala przekształcić prezentacje w edytowalne dokumenty programu Word, zachowując funkcjonalności makr. Idealne do zastosowań korporacyjnych, gdzie automatyzacja lub osadzone skrypty zwiększają produktywność.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Interaktywne raporty wymagające makr do automatycznej aktualizacji wykresów.
+
+* Przewodniki szkoleniowe z osadzonymi skryptami VBA do symulacji scenariuszy.
+
+* Automatyzacja wewnętrznej dokumentacji generowanej ze slajdów.
+
+* Konwersja dynamicznych propozycji klientów z makrami uruchamianymi akcjami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Przetwarzanie zbiorcze prezentacji PPSM na szablony DOCM z makrami.
+
+* Zaplanowane aktualizacje prezentacji finansowych na raporty programu Word z obsługą makr.
+
+* Integracja z narzędziami automatyzacji procesów do konwersji slajdów na dokumenty.
+
+* Automatyczne generowanie raportów audytu wewnętrznego z slajdów PPSM z makrami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

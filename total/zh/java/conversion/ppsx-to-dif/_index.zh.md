@@ -61,7 +61,51 @@ otherformats: XLTX XLT TSV XLS MHTML XLAM FODS SXC MARKDOWN EXCEL ODS DIF XLSM X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **PPSX 转换为 DIF** 可将幻灯片表格导出为数据交换格式，有助于在电子表格应用程序之间实现无缝数据共享，非常适用于旧系统或跨平台环境。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将基于幻灯片的数据转移到传统电子表格工具。
+
+* 从演示文稿中导出学术或研究数据。
+
+* 为统计软件或科学分析准备数据集。
+
+* 跨平台的标准化数据交换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时批量将演示文稿导出为 DIF 以用于研究工作流程。
+
+* 与数据处理流水线自动集成。
+
+* 基于触发器的转换，用于定期幻灯片到数据库的任务。
+
+* 批量转换多个演示文稿以供分析团队使用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

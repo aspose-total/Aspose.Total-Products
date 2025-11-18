@@ -61,7 +61,51 @@ Při převodu souboru PPSM na DIF můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod PPSM na DIF (Data Interchange Format) usnadňuje přenos dat tabulek ze snímků do kompatibilních formátů pro zastaralý nebo specializovaný software. Skvělý pro archivaci a analytiku mezi platformami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Export finančních nebo provozních tabulek z prezentací do formátu DIF.
+
+* Převod snímků průběhu projektu do souborů DIF připravených pro tabulkový procesor.
+
+* Sdílení dat s zastaralými systémy, které vyžadují vstup v DIF.
+
+* Archivace tabulkového obsahu snímků pro regulační nebo auditní účely.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod snímků PPSM do DIF pro historické hlášení.
+
+* Automatické extrahování tabulek ze souborů snímků do souborů DIF.
+
+* Plánované aktualizace pro opakující se projekční nástěnky.
+
+* Integrace s staršími analytickými nástroji, které přijímají importy v DIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

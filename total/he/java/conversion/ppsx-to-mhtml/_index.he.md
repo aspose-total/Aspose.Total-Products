@@ -102,7 +102,51 @@ otherformats: TSV ODS DIF XLTM XLSB XLTX CSV SXC XLSX EXCEL XLS MARKDOWN FODS XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **PPSX ל-MHTML** יוצרת ארכיון HTML יחיד של תוכן המצגת, המשלב שקפים, תמונות ועיצוב לקובץ ידידותי לרשת באינטרנט.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* פרסום שקפים כארכיונים מוכנים לרשת לשיתוף באינטרנט.
+
+* שליחת מצגות מושלמות בקובץ יחיד בלי קבצים מצורפים.
+
+* יצירת גרסאות HTML לאינטרנט ללא חיבור לרשת או לשיעורי וובינר.
+
+* ארכוב שקפים להפניתם ברשת לצורך התייחסות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת מצגות חוזרות ל-MHTML במתונה להפצה ברשת.
+
+* ייצוא צובר של מצגות מרובות לארכיונים HTML עצמאיים.
+
+* שילוב עם מערכות אינטרנט פנימיות או מערכות LMS לפרסום שקפים אוטומטי.
+
+* עדכונים מבוססי טריגר כאשר שקפים מתוקנים לארכיונים ברשת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

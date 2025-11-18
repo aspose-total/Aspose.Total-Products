@@ -61,7 +61,51 @@ PPSM 파일을 SXC로 변환하는 동안 출력 SXC 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM을 SXC(StarOffice Calc 스프레드시트)로 변환하면 이전 프레젠테이션 슬라이드를 레거시 OpenOffice 또는 StarOffice 사용자용으로 호환되는 스프레드시트로 변환할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 영업 또는 프로젝트 슬라이드를 편집 가능한 SXC 스프레드시트로 변환하기.
+
+* 레거시 오피스 소프트웨어와 공유하기 위한 과거 프레젠테이션.
+
+* 스프레드시트 보고를 위해 학술적 또는 기업용 슬라이드 재활용.
+
+* 가벼운 SXC 형식으로 슬라이드 데이터 보관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 레거시 시스템을 위한 일괄 PPSM-to-SXC 변환.
+
+* 차트 및 테이블을 SXC 파일로 예약된 추출.
+
+* 오래된 소프트웨어를 위한 자동 보고 파이프라인 통합.
+
+* 반복 프레젠테이션을 위한 트리거 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

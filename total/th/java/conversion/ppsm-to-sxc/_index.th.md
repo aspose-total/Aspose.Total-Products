@@ -61,7 +61,55 @@ otherformats: EXCEL ODS XLSX MARKDOWN TSV XLS MHTML XLSM FODS XLSB XLTM XLT SXC 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง PPSM เป็น SXC (สเปรดชีต StarOffice Calc) ช่วยให้สไลด์การนำเสนอเก่าสามารถกลายเป็นสเปรดชีตที่เข้ากันได้สำหรับผู้ใช้ OpenOffice หรือ StarOffice เวอร์ชันเก่า
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การแปลงสไลด์ขายหรือโครงการเป็นสเปรดชีต SXC ที่สามารถแก้ไขได้
+
+* แบ่งปันการนำเสนอประวัติศาสตร์กับซอฟต์แวร์สำนักงานเวอร์ชันเก่า
+
+* สไลด์ทางการศึกษาหรือธุรกิจที่ใช้ใหม่เพื่อรายงานสเปรดชีต
+
+* การเก็บข้อมูลสไลด์ในรูปแบบ SXC ที่มีน้ำหนักเบา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงจำนวนมากของ PPSM เป็น SXC สำหรับระบบเก่า
+
+* การสร้างตารางและกราฟอัตโนมัติเป็นไฟล์ SXC ตามกำหนดเวลา
+
+* การผสานรวมกับท่อการรายงานอัตโนมัติสำหรับซอฟต์แวร์เก่า
+
+* การเริ่มการแปลงสำหรับการนำเสนอที่เกิดซ้ำๆ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

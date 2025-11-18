@@ -61,7 +61,51 @@ otherformats: TSV ODS DIF XLTM XLSB XLTX MHTML SXC XLSX EXCEL XLS MARKDOWN FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将**PPSX转换为MHTML**会生成一个包含演示内容的单个HTML存档，将幻灯片、图像和格式合并为一个自包含的适合网络的文件。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将幻灯片发布为适合在线分享的Web存档。
+
+* 通过单个文件电子邮件发送完整的演示文稿，无需附件。
+
+* 创建培训或网络研讨会幻灯片的离线HTML版本。
+
+* 将幻灯片堆栈存档为可在Web上访问的参考资料。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将定期演示转换为MHTML以进行Web分发的定时任务。
+
+* 批量将多个幻灯片堆栈导出为自包含的HTML存档。
+
+* 与企业内部网或LMS系统集成，实现幻灯片的自动发布。
+
+* 当幻灯片堆栈因在线存档而进行修订时，触发更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

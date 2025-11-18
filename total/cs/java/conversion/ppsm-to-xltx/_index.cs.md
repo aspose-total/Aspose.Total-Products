@@ -61,7 +61,51 @@ Při převodu souboru PPSM na XLTX můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod PPSM na XLTX (Excel Open XML Template) vytváří moderní, opakovaně použitelné šablonové tabulky bez maker, ideální pro standardní firemní, akademické nebo osobní reportování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Příprava šablon pro reportování v Excelu z prezentací.
+
+* Akademické nebo firemní snímky přeměněné na opakovaně použitelné šablony XLTX.
+
+* Marketingové a prodejní snímky převedené do standardních šablon tabulek.
+
+* Projekční nástěnky převedené do upravitelných šablon pro týmové využití.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkový převod PPSM na XLTX pro standardizované šablony reportování.
+
+* Plánované generování opakovaně použitelných šablon z opakujících se snímků.
+
+* Integrace s automatizovanými obsahovými potrubími.
+
+* Spouštěná tvorba šablon pro standardizaci pracovního postupu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

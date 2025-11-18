@@ -53,7 +53,55 @@ APIを使用して、透かしを使用してPPSMファイルからDOTMへの変
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSMをDOTM（マクロ有効なWordテンプレート）に変換すると、プレゼンテーションコンテンツと埋め込みマクロの両方が保持され、企業や学術ワークフローのための自動化されたテンプレートの作成が可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* ファイナンスや人事部門向けのインタラクティブなテンプレートレポートの作成。
+
+* 自動計算用の事前定義マクロを備えたトレーニングモジュール。
+
+* 動的マクロを備えた編集可能なプロジェクトテンプレートの生成。
+
+* プレゼンテーションを繰り返し利用される顧客提案テンプレートに変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* スライドデッキを繰り返し使用するためにDOTMにスケジュールされた一括変換。
+
+* PPSMデータからワークフローテンプレート内のマクロを自動更新。
+
+* 繰り返し報告書の生成のための文書自動化プラットフォームとの統合。
+
+* スライドからのコンプライアンスまたは監査テンプレートの自動化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

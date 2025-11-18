@@ -61,7 +61,55 @@ PPSXファイルをXLSに変換するときに、出力XLSファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSXをXLSに変換**すると、スライドから従来のエクセルスプレッドシートが生成され、古いMicrosoft Officeバージョンでも広く互換性が確保され、テーブルと書式が保持されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* XLS形式でプレゼンテーションのメトリクスをアーカイブ化。
+
+* 旧式のOfficeシステム向けに編集可能なスプレッドシートを生成。
+
+* スライドデータを使用した内部報告書や文書作成。
+
+* チームと共有するためのスプレッドシート用のスライドコンテンツの共有。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 企業のスライドライブラリ向けのバッチXLS変換。
+
+* 監査報告のためのプレゼンテーションテーブルの定期的なエクスポート。
+
+* 文書管理システムとの統合。
+
+* スライドが修正されるとXLSファイルが自動更新される。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

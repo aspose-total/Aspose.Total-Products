@@ -61,7 +61,51 @@ Saat mengonversi file PPSM ke XLT, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi PPSM ke XLT (Excel Template) memungkinkan pembuatan template spreadsheet yang dapat digunakan kembali dari presentasi, menyederhanakan pelaporan korporat atau akademis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengonversi tabel presentasi menjadi template Excel yang dapat digunakan kembali.
+
+* Menyiapkan template proyek atau keuangan dari slide.
+
+* Slide akademis yang diubah menjadi template penilaian atau tugas.
+
+* Deck pemasaran yang diubah menjadi template pelaporan Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch PPSM ke XLT untuk template standar.
+
+* Pembuatan jadwal perpustakaan template dari slide.
+
+* Integrasi dengan sistem pelaporan otomatis.
+
+* Generasi template yang dipicu untuk proyek berulang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

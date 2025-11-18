@@ -61,7 +61,51 @@ otherformats: XLTM MHTML MARKDOWN TSV XLS ODS FODS DIF XLSB XLT XLAM XLSM EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **PPSX в ODS** создает файлы электронных таблиц OpenDocument из презентаций, позволяя редактировать и обмениваться ими в LibreOffice, OpenOffice или кроссплатформенных приложениях для электронных таблиц.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Подготовка коллективных данных проекта из слайдов.
+
+* Академическая или корпоративная отчетность в открытых форматах.
+
+* Обмен электронными таблицами между платформами для удаленных команд.
+
+* Редактируемые наборы данных для анализа или панелей управления.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное пакетное преобразование в ODS для повторяющихся данных презентаций.
+
+* Интеграция с инструментами рабочего процесса с открытым исходным кодом для редактирования несколькими пользователями.
+
+* Экспорт таблиц слайдов на основе триггеров в электронные таблицы ODS.
+
+* Плановое обновление для повторяющихся метрических данных и отчетов о KPI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

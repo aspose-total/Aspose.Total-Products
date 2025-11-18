@@ -61,7 +61,55 @@ PPSM dosyasını DIF'ye dönüştürürken, çıktı DIF dosya biçiminize de fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM'yi DIF (Veri Değişim Formatı)’e dönüştürmek, slaytlardan elektronik tablo verilerini eski veya özelleştirilmiş yazılımlar için uyumlu formatlara aktarmayı kolaylaştırır. Arşivleme ve çapraz platform analizleri için mükemmel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Sunumlardan finansal veya operasyonel tabloları DIF formatına dönüştürme.
+
+* Proje ilerleme slaytlarını elektronik tablo uyumlu DIF dosyalarına çevirme.
+
+* DIF girişi gerektiren eski sistemlerle veri paylaşımı.
+
+* Düzenleyici veya denetim amaçları için tablo slayt içeriğini arşivleme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tarihsel raporlama için PPSM slaytlarının toplu olarak DIF'e dönüştürülmesi.
+
+* Slayt paketlerinden tabloların otomatik olarak DIF dosyalarına çıkarılması.
+
+* Tekrar eden proje panoları için zamanlanmış güncellemeler.
+
+* DIF alımlarını kabul eden eski analiz araçlarıyla entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

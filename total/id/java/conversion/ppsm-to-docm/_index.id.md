@@ -53,7 +53,51 @@ Menggunakan API, Anda juga dapat melakukan konversi file PPSM ke DOCM dengan tan
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi PPSM ke DOCM (Dokumen yang Diaktifkan Makro Word) memungkinkan presentasi diubah menjadi dokumen Word yang dapat diedit sambil mempertahankan fungsionalitas makro. Ideal untuk alur kerja perusahaan di mana otomatisasi atau skrip tertanam meningkatkan produktivitas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Laporan interaktif yang memerlukan makro untuk pembaruan grafik otomatis.
+
+* Panduan pelatihan dengan skrip VBA tertanam untuk simulasi skenario.
+
+* Otomatisasi dokumentasi internal yang dihasilkan dari slide.
+
+* Konversi untuk proposal klien dinamis dengan makro yang dipicu tindakan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Pengolahan sekelompok dek PPSM ke templat DOCM dengan makro.
+
+* Pembaruan terjadwal presentasi keuangan menjadi laporan Word yang diaktifkan makro.
+
+* Integrasi dengan alat otomatisasi alur kerja untuk konversi slide ke dokumen.
+
+* Pembuatan otomatis laporan audit internal dari slide PPSM dengan makro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

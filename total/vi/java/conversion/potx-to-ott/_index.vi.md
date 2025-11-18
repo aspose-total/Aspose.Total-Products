@@ -53,7 +53,51 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp POTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi POTX thành OTT tạo ra các mẫu tài liệu OpenDocument cho các ứng dụng xử lý từ trên nhiều nền tảng, tạo điều kiện cho việc sử dụng lại các khung tài liệu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi các bản trình bày doanh nghiệp thành các khung mẫu có thể chỉnh sửa cho OpenOffice.
+
+* Tạo các mẫu tài liệu chuẩn từ các bản trình bày về tiếp thị hoặc nhân sự.
+
+* Chuẩn bị các mẫu có thể tái sử dụng cho bài tập sinh viên hoặc các mô-đun giảng dạy.
+
+* Tạo ra các bố cục tài liệu mang thương hiệu từ thiết kế trình chiếu hình ảnh.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt các tệp trình bày thành các mẫu OTT có thể tái sử dụng.
+
+* Tích hợp vào quy trình tự động hóa công việc để cập nhật mẫu một cách nhất quán.
+
+* Kích hoạt việc tạo ra OTT cho các nhu cầu mẫu tài liệu lặp đi lặp lại.
+
+* Xuất mẫu tài liệu tự động trên các môi trường văn phòng mã nguồn mở.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

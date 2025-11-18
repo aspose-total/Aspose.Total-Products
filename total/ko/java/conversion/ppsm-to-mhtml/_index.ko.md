@@ -61,7 +61,33 @@ PPSM 파일을 MHTML로 변환하는 동안 출력 MHTML 파일 형식에 워터
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}} 
+
+PPSM을 MHTML (MIME HTML Archive)로 변환하면 전체 프레젠테이션을 포함한 단일 HTML 파일을 생성할 수 있습니다. 이 형식은 웹 공유, 오프라인 보기 또는 완전한 서식 및 멀티미디어를 포함한 슬라이드 아카이빙에 이상적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}} 
+
+* 오프라인 액세스용 단일 HTML 파일로 프레젠테이션 덱 공유.
+* MHTML에 포함된 미디어 및 애니메이션을 가진 슬라이드 아카이빙.
+* 인트라넷이나 웹사이트에 대화식 슬라이드 콘텐츠 게시.
+* 강의나 교육 모듈을 웹용 HTML 아카이브로 변환.
+
+{{% /blocks/products/pf/agp/feature-section-col %}} 
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}} 
+
+* 웹사이트나 지식베이스 배포용 일괄 PPSM-to-MHTML 변환.
+* 반복 프레젠테이션을 위한 MHTML 파일 예약 생성.
+* 자동 게시를 위한 웹 콘텐츠 관리 시스템 통합.
+* 아카이브용 HTML 프레젠테이션 파일 변환 트리거.
+
+{{% /blocks/products/pf/agp/feature-section-col %}} 
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

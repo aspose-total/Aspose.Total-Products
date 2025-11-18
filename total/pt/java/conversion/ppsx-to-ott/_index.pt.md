@@ -53,7 +53,51 @@ Usando a API, você também pode realizar a conversão de arquivo PPSX para OTT 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter **PPSX para OTT** gera modelos de documentos abertos sem macros, permitindo a criação de modelos padronizados reutilizáveis sem riscos de macros.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Criar modelos de treinamento ou workshop no LibreOffice/OpenOffice.
+
+* Modelos de documentos padronizados para ONGs ou acadêmicos.
+
+* Modelos de slides reutilizáveis para colaboração em equipe.
+
+* Relatórios para clientes em formatos multiplataforma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Geração em lote de modelos OTT para relatórios recorrentes.
+
+* Integração com sistemas de fluxo de trabalho de código aberto para implantação de modelos.
+
+* Atualizações programadas nos modelos padronizados a partir de novos conjuntos de slides.
+
+* Geração automática de documentos colaborativos a partir de slides sem macros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

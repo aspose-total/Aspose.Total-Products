@@ -61,7 +61,51 @@ otherformats: TSV XLS XLSB XLAM XLSX EXCEL XLT SXC XLTX MARKDOWN XLSM XLTM FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του PPSM σε FODS (Flat OpenDocument Spreadsheet) παρέχει ένα ελαφρύ, επεξεργάσιμο μορφότυπο υπολογιστικού φύλλου συμβατό με το LibreOffice και το OpenOffice, χρήσιμο για συνεργατικά έργα και ροές εργασίας ανοικτού κώδικα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Εξαγωγή πινάκων διαφανειών σε FODS για εφαρμογές υπολογιστικών φύλλων ανοικτού κώδικα.
+
+* Προετοιμασία ακαδημαϊκών ή ερευνητικών διαφανειών για ανάλυση σε πολλαπλές πλατφόρμες.
+
+* Μετατροπή λειτουργικών μετρικών από τις στοίβες PPSM σε μορφή FODS.
+
+* Κοινοποίηση οικονομικών ή πωλήσεων δεδομένων χωρίς εξάρτηση από προγράμματα προικοδοτημένου λογισμικού.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή PPSM σε FODS για συνεργατικές ομάδες ανοικτού κώδικα.
+
+* Προγραμματισμένη εξαγωγή δεδομένων διαφανειών σε επεξεργάσιμα πρότυπα υπολογιστικών φύλλων.
+
+* Ενσωμάτωση σε αυτοματοποιημένες ροές εργασίας έργων.
+
+* Ενεργοποιημένη μετατροπή για κοινοποίηση σε πολλαπλές πλατφόρμες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

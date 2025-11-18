@@ -61,7 +61,45 @@ otherformats: DIF TSV XLS ODS EXCEL XLT MHTML XLSX XLTX MARKDOWN XLTM XLAM XLSB 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **PPSX เป็น XLSM** จะสร้างสมุดงาน Excel ที่เปิดใช้งานมาโคร และฟังก์ชันล้ำสมัยสำหรับการรายงานอย่างมืออาชีพ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* ฝังมาโครสำหรับรายงานโครงการอัตโนมัติ
+* การจำลองการเงินด้วยการคำนวณอัตโนมัติที่ได้จากสไลด์
+* แดชบอร์ดแบบโต้ตอบด้วยตัวชี้วัดจากสไลด์
+* สร้างสมุดงาน Excel ที่ซ้ำได้ด้วยเนื้อหาแบบไดนามิก
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างรายงานที่เปิดใช้งานมาโครเป็นชุดเป็นระยะเวลา
+* การผสานกับเครื่องมืออัตโนมัติของกระบวนการทำงานสำหรับ Excel
+* การอัพเดตอัตโนมัติเมื่อเนื้อหาสไลด์มีการแก้ไข
+* การสร้างแดชบอร์ด XLSM ตามที่เรียกใช้สำหรับอินทิลลิเจนธุรกิจ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

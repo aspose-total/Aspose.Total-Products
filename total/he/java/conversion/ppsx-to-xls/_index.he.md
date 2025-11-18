@@ -102,7 +102,51 @@ otherformats: XLTX XLSX XLSB DIF CSV MARKDOWN SXC EXCEL ODS MHTML XLTM FODS XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **PPSX ל-XLS** מייצרת גיליונות אלקטרוניים רגילים משקפים, מבטיחה תאימות רחבה בקרב גרסאות ישנות יותר של מיקרוסופט אופיס תוך שמירה על טבלאות ועיצוב.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ארכיבת מדדי המצגת בפורמט XLS.
+
+* יצירת גיליונות עריכה עבור מערכות אופיס מורשות.
+
+* דיווח פנימי ותיעוד בשימוש בנתוני השקפים.
+
+* שיתוף תוכן משקפים מוכן לגיליון אלקטרוני עם צוותים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת XLS בצורה צפופה עבור ספריות שקפים תאגידיות.
+
+* ייצואים מתוזמנים של טבלאות מצגת לדיווחי ביקורת.
+
+* שילוב עם מערכות לניהול מסמכים.
+
+* עדכונים אוטומטיים של קבצי XLS כאשר השקפים מתוקנים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

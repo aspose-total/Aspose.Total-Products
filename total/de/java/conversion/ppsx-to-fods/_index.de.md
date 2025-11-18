@@ -61,7 +61,51 @@ Beim Konvertieren der PPSX-Datei in FODS können Sie Ihrem Ausgabe-FODS-Dateifor
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von **PPSX in FODS** ermöglicht es, Folientabellen in einem flachen OpenDocument Spreadsheet-Format zu exportieren, das mit Open-Source-Office-Suiten wie LibreOffice und OpenOffice kompatibel ist.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Akademische Folien für Open-Source-Tabellenkalkulationstools umfunktionieren.
+
+* Regierungs- oder NGO-Berichterstattung, die FODS-Unterstützung erfordert.
+
+* plattformübergreifende Datenkollaboration ohne proprietäre Software.
+
+* Archivierung von Präsentationsmetriken in bearbeitbaren offenen Formaten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapel-FODS-Export für Open-Source-Office-Workflows.
+
+* Ausgelöste Updates bei Überarbeitung von Präsentationsfolien.
+
+* Integration in Open-Source-Analyse-Pipelines.
+
+* Zeitgesteuerte Konvertierung wiederkehrender Berichte für Teamkollaboration.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

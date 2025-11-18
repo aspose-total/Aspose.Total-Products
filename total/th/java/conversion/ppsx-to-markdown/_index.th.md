@@ -61,7 +61,55 @@ otherformats: SXC ODS XLSX MHTML FODS XLAM XLS XLTX EXCEL XLSB XLTM MARKDOWN TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **PPSX เป็น MARKDOWN** ช่วยให้สไลด์สามารถแปลงเป็นข้อความ Markdown ซึ่งเป็นรูปแบบที่เบา แก้ไขได้ ที่เหมาะสำหรับเอกสาร เว็บไซต์ และระบบจัดการเนื้อหา
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การแปลงบันทึกงานนำเสนอเป็น Markdown สำหรับบล็อกเทคนิค
+
+* เตรียมเอกสารที่มีพื้นฐานจากสไลด์สำหรับที่เก็บรักษาซอฟต์แวร์
+
+* เก็บสไลด์การบรรยายหรือการอบรมในรูปแบบข้อความเบา
+
+* สร้างเอกสารที่เป็นมิตรกับเว็บจากการนำเสนอ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การแปลงเป็นชุดสไลด์สำหรับการสร้างบล็อกอัตโนมัติ
+
+* การส่งออกสไลด์ตามกำหนดเวลาเป็น Markdown สำหรับระบบจัดการความรู้
+
+* การรวมกับเครื่องมือสร้างเว็บแบบคงที่สำหรับการอัพเดตเนื้อหาโดยอัตโนมัติ
+
+* การแปลงตามเงื่อนไขเมื่อมีการเพิ่มสไลด์ใหม่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

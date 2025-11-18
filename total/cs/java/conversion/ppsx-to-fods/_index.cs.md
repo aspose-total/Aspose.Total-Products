@@ -61,7 +61,51 @@ Při převodu souboru PPSX na FODS můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod **PPSX na FODS** umožňuje export tabulek snímků do plochého formátu OpenDocument Spreadsheet, který je kompatibilní s kancelářskými balíky s otevřeným zdrojovým kódem jako LibreOffice a OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Akademické prezentace upravené pro nástroje tabulkových procesorů s otevřeným zdrojovým kódem.
+
+* Vládní nebo neziskové organizace vyžadující podporu formátu FODS.
+
+* Spolupráce na datech napříč platformami bez použití proprietárního softwaru.
+
+* Archivace metrik prezentací v editovatelných otevřených formátech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný export FODS pro pracovní postupy s kancelářskými balíky s otevřeným zdrojovým kódem.
+
+* Spuštěné aktualizace při revizi prezentací.
+
+* Integrace s analytickými potrubími s otevřeným zdrojovým kódem.
+
+* Plánovaný převod opakujících se zpráv pro týmovou spolupráci.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

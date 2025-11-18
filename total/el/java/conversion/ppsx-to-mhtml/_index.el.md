@@ -61,7 +61,55 @@ otherformats: TSV ODS DIF XLTM XLSB XLTX MHTML SXC XLSX EXCEL XLS MARKDOWN FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή **PPSX σε MHTML** παράγει ένα μοναδικό αρχείο HTML με το περιεχόμενο της παρουσίασης, συνδυάζοντας διαφάνειες, εικόνες και μορφοποίηση σε ένα αυτόνομο αρχείο φιλικό προς το web.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Δημοσίευση διαφανειών ως αρχεία έτοιμα για το web για online κοινοποίηση.
+
+* Αποστολή πλήρων παρουσιάσεων σε ένα μόνο αρχείο χωρίς συνημμένα.
+
+* Δημιουργία offline εκδόσεων HTML των διαφανειών εκπαίδευσης ή σεμιναρίων.
+
+* Αρχειοθέτηση συστημάτων διαφανειών για αναφορές προσβάσιμες μέσω web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένη μετατροπή επαναλαμβανόμενων παρουσιάσεων σε MHTML για διανομή στο web.
+
+* Μαζική εξαγωγή πολλαπλών συστημάτων διαφανειών σε αυτόνομα αρχεία HTML.
+
+* Ενσωμάτωση με εσωτερικά δίκτυα ή συστήματα LMS για αυτόματη δημοσίευση διαφανειών.
+
+* Ενημερώσεις βασισμένες σε εκδόσεις όταν τα συστήματα διαφανειών αναθεωρούνται για online αρχειοθέτηση.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

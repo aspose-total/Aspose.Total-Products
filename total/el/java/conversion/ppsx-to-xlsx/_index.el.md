@@ -61,7 +61,51 @@ otherformats: MARKDOWN FODS EXCEL ODS SXC XLT XLSM XLSB XLS MHTML TSV XLTM DIF X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή **PPSX σε XLSX** εξάγει διαφάνειες σε μοντέρνα αρχεία Excel με πλήρη υποστήριξη επεξεργασίας, πίνακα και τύπων, συμβατά με το Office 2007+ και τις πλατφόρμες cloud.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Μετατροπή πωλήσεων, KPI ή μάρκετινγκ διαφανειών σε πίνακες ελέγχου Excel.
+
+* Δυνατότητα επεξεργασίας φύλλων εργασίας για εσωτερική αναφορά.
+
+* Παρουσιάσεις με δεδομένα που μετατρέπονται σε ενεργητικά αρχεία Excel.
+
+* Αναφορές πελατών που προέρχονται από μετρήσεις παρουσίασης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή για επαναλαμβανόμενες παρουσιάσεις.
+
+* Προγραμματισμένη εξαγωγή σε Excel για αυτόματη αναφορά.
+
+* Ενσωμάτωση με εργαλεία BI για ενημερώσεις ζωντανού πίνακα ελέγχου.
+
+* Αυτόματη δημιουργία φύλλων εργασίας Excel από αναθεωρήσεις διαφανειών.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

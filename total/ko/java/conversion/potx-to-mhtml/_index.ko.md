@@ -61,7 +61,51 @@ POTX 파일을 MHTML로 변환하는 동안 출력 MHTML 파일 형식에 워터
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX를 MHTML로 변환하는 패키지는 HTML, CSS 및 이미지를 결합하여 오프라인 또는 웹 배포용 단일 웹 아카이브 파일로 프레젠테이션 슬라이드를 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 슬라이드를 독립적인 웹 뷰어 아카이브로 내보내기.
+
+* 서식을 깨지 않고 이메일을 통해 프레젠테이션 공유.
+
+* 기업 덱을 웹 기반 저장소에 보관.
+
+* 오프라인 웹 소비를 위한 대화형 보고서 작성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 기업 프레젠테이션의 웹 배포를 위한 일괄 MHTML 내보내기.
+
+* 분산된 팀의 오프라인 액세스를 위한 트리거된 MHTML 생성.
+
+* 웹 아카이빙을 위한 콘텐츠 관리 시스템 통합.
+
+* 클라이언트 또는 이해 관계자 배포를 위한 자동화된 슬라이드 패키징.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,51 @@ otherformats: FLATOPC RTF DOTX ODT WORD OTT DOT WORDML DOTM TEXT OTTX OTTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του POTX σε OTT δημιουργεί πρότυπα εγγράφων OpenDocument για εφαρμογές επεξεργασίας κειμένου πολλαπλών πλατφορμών, διευκολύνοντας τα επαναχρησιμοποιήσιμα πλαίσια εγγράφων.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Μετατροπή εταιρικών διαφανειών σε επεξεργάσιμα πρότυπα πλαισίων για το OpenOffice.
+
+* Δημιουργία τυποποιημένων προτύπων εγγράφων από παρουσιάσεις μάρκετινγκ ή ανθρώπινου δυναμικού.
+
+* Προετοιμασία επαναχρησιμοποιήσιμων προτύπων για φοιτητικές εργασίες ή διδακτικά μοντέλα.
+
+* Δημιουργία εταιρικών διατάξεων εγγράφων από σχεδιασμούς οπτικών διαφανειών.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή αρχείων παρουσιάσεων σε επαναχρησιμοποιήσιμα πρότυπα OTT.
+
+* Ενσωμάτωση στον αυτοματισμό ροών εργασίας για συνεχείς ενημερώσεις προτύπων.
+
+* Παραγωγή OTT με ενεργοποίηση για επαναλαμβανόμενες ανάγκες προτύπων εγγράφων.
+
+* Αυτοματοποιημένη εξαγωγή προτύπων σε περιβάλλοντα γραφείου ανοικτού κώδικα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

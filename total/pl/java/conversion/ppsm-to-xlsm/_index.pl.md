@@ -61,7 +61,51 @@ Podczas konwertowania pliku PPSM do XLSM możesz również dodać znak wodny do 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie PPSM na XLSM (Skoroszyt z makrami w Excelu) zachowuje formuły, makra i wykresy z slajdów, umożliwiając zautomatyzowane obliczenia i raportowanie oparte na danych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Konwertowanie prezentacji z modelami finansowymi na skoroszyty z makrami.
+
+* Przygotowywanie interaktywnych pulpitów projektowych z makrami ze slajdów.
+
+* Slajdy akademickie z formułami konwertowane na XLSM do automatycznej oceny.
+
+* Slajdy sprzedażowe przekształcone w XLSM do automatycznego raportowania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa PPSM na XLSM w celu automatyzacji procesów.
+
+* Zaplanowane generowanie skoroszytów z makrami na podstawie prezentacji.
+
+* Integracja z potokami danych w biznesie.
+
+* Wywołana konwersja do automatyzacji raportów cyklicznych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

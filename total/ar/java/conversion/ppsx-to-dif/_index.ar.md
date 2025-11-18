@@ -61,7 +61,55 @@ otherformats: XLTX XLT TSV XLS MHTML XLAM FODS SXC MARKDOWN EXCEL ODS DIF XLSM X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل **PPSX إلى DIF** يقوم بتصدير جداول الشرائح إلى تنسيق تبادل البيانات، مما يسهل مشاركة البيانات بين تطبيقات جداول البيانات، مثالي للأنظمة القديمة أو بيئات متعددة المنصات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* نقل البيانات المعتمدة على الشرائح إلى أدوات جداول البيانات القديمة.
+
+* تصدير البيانات الأكاديمية أو البحثية من العروض التقديمية.
+
+* إعداد مجموعات البيانات لبرامج الإحصاء أو التحليل العلمي.
+
+* تبادل البيانات الموحد عبر المنصات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تصدير دفعي مجدول للعروض التقديمية إلى DIF لسير العمل البحثي.
+
+* التكامل التلقائي مع أنابيب معالجة البيانات.
+
+* تحويل قائم على المؤشر لمهام تحويل الشرائح إلى قاعدة بيانات متكررة.
+
+* تحويل دفعي لعروض تقديمية متعددة لفرق التحليل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

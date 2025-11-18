@@ -49,7 +49,51 @@ Saat Anda mengonversi PPSM ke JSON, Anda juga dapat mengatur rentang ke format J
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi PPSM ke JSON (JavaScript Object Notation) memungkinkan konten presentasi diubah menjadi data terstruktur untuk aplikasi web, API, atau analitika yang didukung kecerdasan buatan. Grafik, tabel, dan konten slide menjadi dapat dibaca oleh mesin.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengekspor data presentasi untuk diintegrasikan ke dalam dasbor atau aplikasi web.
+
+* Mengubah slide menjadi JSON untuk alur kerja kecerdasan buatan atau pembelajaran mesin.
+
+* Berbagi metrik terstruktur dari slide perusahaan dengan pengembang.
+
+* Mengonversi slide akademis atau penelitian menjadi JSON untuk analisis data.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi PPSM ke JSON secara batch untuk dasbor web otomatis.
+
+* Ekstraksi konten slide yang terjadwal untuk pipa analitika.
+
+* Integrasi dengan alat kecerdasan buatan untuk wawasan konten otomatis.
+
+* Konversi yang dipicu untuk alur kerja presentasi-ke-data berulang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

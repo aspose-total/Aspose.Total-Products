@@ -102,7 +102,51 @@ otherformats: DIF ODS XLS SXC XLSB EXCEL CSV XLAM XLSM XLT XLSX MHTML XLTM FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Конвертація PPSM в TSV (значення, розділені табуляцією) спрощує видобуток структурованих даних з слайдів у формат таблиці у вигляді звичайного тексту, що можна універсально читати.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Експорт таблиць даних на основі слайдів у TSV для аналітики.
+
+* Обмін метриками проекту або продажами на різних платформах.
+
+* Конвертація таблиць презентацій для готових до CSV/TSV конвеєрів.
+
+* Підготовка академічних слайдів для структурованого аналізу досліджень.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетна конвертація дек PPSM у файли TSV.
+
+* Автоматизований видобуток для робочих процесів ETL або BI.
+
+* Планове створення TSV з регулярних корпоративних слайдів.
+
+* Інтеграція з конвеєрами обробки даних для аналітики.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

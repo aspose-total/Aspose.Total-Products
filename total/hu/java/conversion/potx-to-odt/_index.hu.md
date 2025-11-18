@@ -53,7 +53,51 @@ Az API segítségével POTX fájlból ODT-ba konvertálhat vízjellel. Ha vízje
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A POTX az ODT konverzió lehetővé teszi a bemutató diák exportálását OpenDocument Text formátumba, amely alkalmas a LibreOffice, OpenOffice és platformfüggetlen környezetek számára.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Bemutatók konvertálása szerkeszthető OpenOffice vagy LibreOffice szöveges dokumentumokká.
+
+* Slide tartalom megosztása nem-Microsoft környezetek között.
+
+* Jelentések generálása bemutató csomagokból nyílt forráskódú irodai felhasználók számára.
+
+* Oktatási tartalom előkészítése, amely kompatibilis több irodai szoftverrel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges ODT konverzió platformfüggetlen irodai munkafolyamatokhoz.
+
+* Integráció dokumentum-együttműködési platformokba, amelyek támogatják az ODT-t.
+
+* Automatizált export nyílt forráskódú projektjelentésekhez.
+
+* Kiváltott konverzió a tartalom hozzáférhetőségéért platformok között.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

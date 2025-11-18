@@ -53,7 +53,51 @@ APIを使用して、透かしを使用してPPSXファイルからOTTへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSXをOTTに変換**すると、マクロのないオープンドキュメントテンプレートが生成され、マクロのリスクなしに再利用可能な標準化されたテンプレートが可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* LibreOffice/OpenOfficeでのトレーニングやワークショップのテンプレート作成。
+
+* 標準化されたNGOや学術文書のテンプレート。
+
+* チームの共同作業のための再利用可能なスライドベースのテンプレート。
+
+* クライアント向けのクロスプラットフォーム形式のレポート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的なレポート作成のためのOTTテンプレートの一括生成。
+
+* テンプレート展開のためのオープンソースワークフローシステムとの統合。
+
+* 新しいスライドデッキから標準化されたテンプレートへの定期的な更新のスケジュール設定。
+
+* マクロのないスライドからの共同文書の自動生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

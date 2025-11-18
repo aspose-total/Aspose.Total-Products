@@ -61,7 +61,51 @@ otherformats: XLSM XLS SXC XLTX XLSX DIF EXCEL MARKDOWN MHTML FODS ODS XLAM TSV 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 PPSM 转换为 Markdown 可以将演示内容转换为带有格式的轻量级纯文本文档。非常适合文档、博客、GitHub 存储库或开发人员协作。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将讲座或培训幻灯片转换为 Markdown 笔记。
+
+* 从企业演示文稿准备轻量级文档。
+
+* 将幻灯片导出为适用于博客的 Markdown 内容。
+
+* 使用版本控制的 Markdown 文件与开发人员共享幻灯片组。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将 PPSM 幻灯片转换为 Markdown 以用于内容存储库。
+
+* 与 Hugo 或 Jekyll 等静态站点生成器集成。
+
+* 将定期演示文稿定时导出为 Markdown 格式。
+
+* 从幻灯片组触发生成 Markdown 文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

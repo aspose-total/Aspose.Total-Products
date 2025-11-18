@@ -52,7 +52,51 @@ otherformats: RTFX RTFM TEXT OTT WORDML DOTX WORD RTF ODT FLATOPC DOTM DOT
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将PPSM转换为RTF（Rich Text Format）提供了一种轻量级、普遍兼容的方式，将幻灯片转换为可编辑的文本文档。非常适合电子邮件共享、旧版软件和多平台协作。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将演示内容导出为RTF以便通过电子邮件分发。
+
+* 从幻灯片创建轻量级文档以供存档。
+
+* 将幻灯片转换为可编辑的文本格式以供跨平台使用。
+
+* 从营销或培训演示文稿准备RTF讲义。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将PPSM转换为RTF以供团队广泛分发。
+
+* 将讲座幻灯片自动导出为可编辑的RTF文档。
+
+* 定时创建RTF以供合规或报告工作流程使用。
+
+* 与旧版文档管理系统集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

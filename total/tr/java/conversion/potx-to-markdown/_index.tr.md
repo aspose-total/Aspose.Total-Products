@@ -61,7 +61,51 @@ POTX dosyasını MARKDOWN'ye dönüştürürken, çıktı MARKDOWN dosya biçimi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX'yi Markdown'e dönüştürmek, slayt içeriğini hafif, okunabilir işaretleme dosyalarına dönüştürerek belgelendirme, GitHub depoları ve statik site oluşturma için uygun hale getirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Geliştirici belgeleri için Markdown notlarına sunumları dönüştürme.
+
+* GitHub depolarında slayt tabanlı eğitimler veya rehberler hazırlama.
+
+* Hugo veya Jekyll gibi statik site oluşturucular için içeriği dışa aktarma.
+
+* Eğitim slaytlarını Markdown'e dönüştürerek kolay sürüm kontrolü sağlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Belgelendirme kütüphaneleri için toplu Markdown dönüşümü.
+
+* CI/CD belgelendirme boru hatları için slaytlardan Markdown'e tetiklenen dışa aktarma.
+
+* Otomatik site güncellemeleri için statik site oluşturucularla entegrasyon.
+
+* İşbirlikçi düzenleme için slaytların Markdown'e otomatik olarak çıkarılması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

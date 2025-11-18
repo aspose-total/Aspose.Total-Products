@@ -61,7 +61,51 @@ PPSM dosyasını SXC'ye dönüştürürken, çıktı SXC dosya biçiminize de fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM'yi SXC'ye (StarOffice Calc Elektronik Tablo) dönüştürmek, eski sunum slaytlarının uyumlu elektronik tablolar haline getirilmesine olanak tanır, böylece OpenOffice veya StarOffice kullanıcıları için uygun hale gelir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Satış veya proje slaytlarını düzenlenebilir SXC elektronik tablolarına dönüştürme.
+
+* Tarihsel sunumları eski ofis yazılımıyla paylaşma.
+
+* Eğitim veya kurumsal slaytların elektronik tablo raporlama için yeniden kullanımı.
+
+* Hafif bir SXC formatında slayt verilerini arşivleme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Eski sistemler için toplu PPSM'den SXC'ye dönüştürme.
+
+* Grafiklerin ve tabloların zamanlanmış olarak SXC dosyalarına çıkarılması.
+
+* Eski yazılımlar için otomatik raporlama boru hatlarıyla entegrasyon.
+
+* Tekrar eden sunumlar için tetiklenen dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

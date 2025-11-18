@@ -53,7 +53,51 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPSX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi **PPSX sang ODT** cung cấp hỗ trợ định dạng tài liệu mở cho việc chuyển đổi từ slide sang Word, lý tưởng cho LibreOffice, OpenOffice hoặc chỉnh sửa đa nền tảng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Bộ slide học thuật được tái sử dụng cho các định dạng tài liệu mã nguồn mở.
+
+* Báo cáo của chính phủ hoặc tổ chức phi chính phủ yêu cầu tương thích với ODT.
+
+* Báo cáo có thể chỉnh sửa trên nhiều nền tảng dựa trên các slide trình bày.
+
+* Tài liệu cộng tác trong môi trường văn phòng mã nguồn mở.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt tự động của các bài thuyết trình sang ODT để phân phối trên nhiều nền tảng.
+
+* Tích hợp với quy trình làm việc tài liệu mã nguồn mở cho việc cộng tác nhóm.
+
+* Chuyển đổi định kỳ cho các báo cáo học thuật hoặc phi lợi nhuận.
+
+* Tự động cập nhật các tệp ODT từ các bản sửa đổi slide.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

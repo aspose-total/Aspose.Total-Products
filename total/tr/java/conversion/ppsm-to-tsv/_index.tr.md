@@ -61,7 +61,51 @@ PPSM dosyasını TSV'ye dönüştürürken, çıktı TSV dosya biçiminize de fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM'yi TSV'ye (Tablo Ayırıcılı Değerler) dönüştürmek, slaytlardan yapılandırılmış verilerin düz metin, evrensel olarak okunabilir bir elektronik tablo formatına çıkarılmasını kolaylaştırır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Analiz için slayt tabanlı veri tablolarını TSV'ye dışa aktarma.
+
+* Proje veya satış metriklerini birden fazla platformda paylaşma.
+
+* Sunum tablolarını CSV/TSV'ye hazır boru hatlarına dönüştürme.
+
+* Yapılandırılmış araştırma analizi için akademik slaytları hazırlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* PPSM destelerinin TSV dosyalarına toplu dönüştürülmesi.
+
+* ETL veya BI iş akışları için otomatik çıkarma.
+
+* Tekrarlanan kurumsal slaytlardan zamanlanmış TSV oluşturma.
+
+* Analiz için veri işleme boru hatlarıyla entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

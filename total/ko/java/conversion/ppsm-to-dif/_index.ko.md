@@ -61,7 +61,51 @@ PPSM 파일을 DIF로 변환하는 동안 출력 DIF 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM을 DIF(데이터 교환 형식)로 변환하면 슬라이드에서 스프레드시트 데이터를 레거시 또는 특수 소프트웨어와 호환되는 형식으로 전송하는 것이 용이해집니다. 보관 및 크로스 플랫폼 분석에 적합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 프레젠테이션에서 재무 또는 운영 테이블을 DIF 형식으로 내보내기.
+
+* 프로젝트 진행 슬라이드를 스프레드시트용 DIF 파일로 변환.
+
+* DIF 입력을 필요로 하는 레거시 시스템과 데이터 공유.
+
+* 규제 또는 감사 목적으로 탭화된 슬라이드 콘텐츠 보관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 역사적 보고를 위해 PPSM 슬라이드를 DIF로 일괄 변환.
+
+* 슬라이드 덱에서 테이블 자동 추출하여 DIF 파일로.
+
+* 반복되는 프로젝트 대시보드를 위한 예약된 업데이트.
+
+* DIF 가져오기를 수용하는 이전 분석 도구와 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

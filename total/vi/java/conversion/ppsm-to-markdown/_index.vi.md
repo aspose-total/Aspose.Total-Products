@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPSM sang MARKDOWN, bạn cũng có thể thêm 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi PPSM sang Markdown cho phép nội dung bài thuyết trình được chuyển đổi thành tài liệu văn bản đơn giản với định dạng nhẹ. Lý tưởng cho tài liệu, blog, kho lưu trữ GitHub hoặc cộng tác của các nhà phát triển.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi bài giảng hoặc slide đào tạo thành ghi chú Markdown.
+
+* Chuẩn bị tài liệu nhẹ từ các bài thuyết trình doanh nghiệp.
+
+* Xuất các slide thành nội dung Markdown sẵn sàng cho blog.
+
+* Chia sẻ bộ slide với các nhà phát triển bằng cách sử dụng các tệp Markdown được kiểm soát bằng phiên bản.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt các slide PPSM thành Markdown cho các kho lưu trữ nội dung.
+
+* Tích hợp với các trình tạo trang tĩnh như Hugo hoặc Jekyll.
+
+* Xuất lịch trình của các bài thuyết trình định kỳ sang định dạng Markdown.
+
+* Kích hoạt tạo ra tài liệu Markdown từ bộ slide.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

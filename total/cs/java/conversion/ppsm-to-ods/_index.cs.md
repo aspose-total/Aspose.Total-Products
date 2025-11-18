@@ -61,7 +61,51 @@ Při převodu souboru PPSM na ODS můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod PPSM na ODS (OpenDocument Spreadsheet) zaručuje plnou kompatibilitu s LibreOffice, OpenOffice a Google Sheets a zároveň zachovává grafy a tabulky ze snímků.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Exportování metrik prezentace do ODS pro spolupracující analýzu.
+
+* Transformace projektových nástěnek do editovatelných ODS tabulek.
+
+* Akademické snímky převedené do studentům přívětivých tabulkových formátů.
+
+* Převod marketingových a prodejních PPSM balíčků na sdílitelné soubory ODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizace převodu snímků na ODS pro opakující se zprávy.
+
+* Hromadné extrakce tabulek a grafů do formátu ODS.
+
+* Plánované generování tabulek z firemních prezentací.
+
+* Integrace s platformami pro pracovní postupy pro dynamické aktualizace tabulek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

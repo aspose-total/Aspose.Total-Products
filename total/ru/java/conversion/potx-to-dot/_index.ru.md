@@ -53,7 +53,51 @@ otherformats: WORD TEXT ODT OTT WORDML RTF DOTX DOTM DOTX DOTM FLATOPC DOT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POTX в DOT позволяет пользователям превратить шаблоны презентаций в файлы шаблонов Word. Это необходимо для создания многократно используемых структур документов, основанных на макетах слайдов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание стандартизированных шаблонов отчетов на основе маркетинговых или продажных презентаций.
+
+* Преобразование учебных материалов в редактируемые учебные шаблоны.
+
+* Создание корпоративных шаблонов брендинга на основе дизайнов презентаций.
+
+* Подготовка юридических документов на основе визуальных контуров презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное создание шаблонов для стандартизации документов по управлению персоналом или административным вопросам.
+
+* Автоматическое преобразование слайдов в многоразовые шаблоны DOT в документальных конвейерах.
+
+* Интеграция в автоматизацию рабочего процесса для генерации отчетов на основе шаблонов.
+
+* Запуск генерации DOT для повторяющихся корпоративных документационных потребностей.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

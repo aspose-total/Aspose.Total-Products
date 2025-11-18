@@ -61,7 +61,51 @@ otherformats: MARKDOWN ODS XLTX XLT XLAM XLTM FODS MHTML DIF XLS XLSB SXC EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **PPSX 转换为 XLAM** 可以从演示内容生成宏启用的 Excel 加载项文件，非常适合高级自动化和可重复使用的 Excel 工具。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 为财务或项目跟踪创建 Excel 加载项。
+
+* 使用幻灯片数据自动化重复的电子表格任务。
+
+* 生成嵌入宏的交互式仪表板。
+
+* 分发从幻灯片表格衍生的宏启用工具。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 基于触发器生成用于工作流自动化的 Excel 加载项。
+
+* 将幻灯片批量转换为可重复使用的 XLAM 工具。
+
+* 与公司 Excel 模板集成，用于自动报告。
+
+* 计划更新宏启用的 Excel 解决方案。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

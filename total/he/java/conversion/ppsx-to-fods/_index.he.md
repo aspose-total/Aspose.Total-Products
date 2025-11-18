@@ -102,7 +102,51 @@ otherformats: MARKDOWN ODS XLSB SXC CSV XLTX XLT XLAM XLSM XLSX DIF XLS XLTM TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **PPSX ל־FODS** מאפשרת לייצא טבלאות שקופיות לתבנית גליונות נתונים פשוטה של OpenDocument, המתאימה לתוכנות משרד קוד פתוח כמו LibreOffice ו־OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* שקופיות אקדמיות שמועדפות לכלים לעיבוד גליונות נתונים בקוד פתוח.
+
+* דיווחים של ממשלה או עמותה שדורשים תמיכה ב־FODS.
+
+* שיתוף נתונים בין פלטפורמות בלי צורך בתוכנה פרופריטרית.
+
+* ארכיבת מדדי הצגות בפורמטים פתוחים ניתנים לעריכה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* ייצוא FODS בצורת סדרתית עבור זרימות עבודה בתוכנות משרד קוד פתוח.
+
+* עדכונים מופעלים כאשר מצגות מתוקנות.
+
+* שילוב עם צינורות נתונים בקוד פתוח.
+
+* המרה מתוזמנת של דוחות חוזרים לצורך שיתוף צוותי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

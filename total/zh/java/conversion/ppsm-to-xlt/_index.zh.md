@@ -61,7 +61,51 @@ otherformats: XLS XLAM EXCEL ODS TSV DIF XLT XLTX XLSB FODS XLSX MHTML XLTM XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将PPSM转换为XLT（Excel模板）可从演示文稿中创建可重复使用的电子表格模板，简化企业或学术报告流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将演示文稿中的表格转换为可重复使用的Excel模板。
+
+* 从幻灯片准备项目或财务模板。
+
+* 将学术幻灯片重新用于评分或作业模板。
+
+* 将营销文稿转换为Excel报告模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将PPSM转换为XLT，用于标准化模板。
+
+* 定期从幻灯片创建模板库。
+
+* 与自动报告系统集成。
+
+* 为重复项目触发模板生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,55 @@ Beim Konvertieren der PPSX-Datei in XLT können Sie Ihrem Ausgabe-XLT-Dateiforma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von **PPSX in XLT** erstellt Excel-Vorlagendateien aus Folien, die standardisierte Dokumentenlayouts für wiederholte Berichterstattung oder strukturierte Tabellenkalkulations-Workflows ermöglichen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Erstellung von Unternehmensvorlagen aus Präsentationstabellen.
+
+* Standardisierte Berichtstabellen für den internen Gebrauch.
+
+* Schulungs- oder akademische Tabellenkalkulationen, die von Folien abgeleitet sind.
+
+* Konsistente Vorlagenvorlagen für Kundenlieferungen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierte Generierung von Excel-Vorlagen aus Präsentationen.
+
+* Stapelkonvertierung für wiederkehrende Berichtsformate.
+
+* Geplante Aktualisierungen, wenn Präsentationsfolien überarbeitet werden.
+
+* Integration mit Workflowsystemen zur Durchsetzung von Vorlagenkonsistenz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

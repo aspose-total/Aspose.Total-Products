@@ -61,7 +61,51 @@ Saat mengonversi file PPSX ke SXC, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi **PPSX ke SXC** menghasilkan file StarOffice Spreadsheet, memungkinkan pengguna suite kantor lama untuk mengedit dan berbagi data yang berasal dari slide dalam aplikasi yang kompatibel dengan SXC.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Kompatibilitas alur kerja kantor lama.
+
+* Mengarsipkan tabel presentasi untuk akses jangka panjang.
+
+* Berbagi data di antara organisasi menggunakan StarOffice atau OpenOffice.
+
+* Mengonversi metrik slide untuk analisis dalam alat spreadsheet.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi SXC batch untuk integrasi sistem lama.
+
+* Ekspor terjadwal dari slide presentasi berulang.
+
+* Pembuatan spreadsheet otomatis untuk kolaborasi multi pengguna.
+
+* Pembaruan yang dipicu ketika data presentasi baru ditambahkan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

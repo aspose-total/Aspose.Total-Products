@@ -61,7 +61,51 @@ otherformats: DIF FODS XLSX EXCEL MHTML XLTM XLS XLT XLTX MARKDOWN TSV XLSM XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将PPSM转换为EXCEL可以完整地将演示文稿中的图表、表格和数值数据转移到Microsoft Excel格式，实现高级数据处理和分析。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将销售演示文稿转换为基于Excel的仪表板。
+
+* 将财务演示文稿转换为可编辑的Excel表格。
+
+* 为Excel报告准备项目管理幻灯片。
+
+* 将学术或研究幻灯片转换为用于分析的Excel数据集。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量处理幻灯片以生成团队范围的Excel工作簿。
+
+* 与报告流水线集成，实现幻灯片自动转换为Excel。
+
+* 定期从演示文稿中提取表格和图表。
+
+* 触发式转换用于定期管理报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

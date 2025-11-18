@@ -53,7 +53,51 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPSX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi **PPSX sang RTF** biến các slide thành tài liệu định dạng Rich Text Format tương thích mọi nơi, lý tưởng cho môi trường yêu cầu sự tiện lợi mà không bị ràng buộc bởi phần mềm.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi bài thuyết trình thành tài liệu chứa nhiều văn bản để dễ dàng chia sẻ.
+
+* Lưu trữ nội dung slide dưới định dạng RTF có thể đọc được mọi nơi.
+
+* Chuẩn bị các bản ghi nội bộ hoặc báo cáo từ bài thuyết trình.
+
+* Nội dung có thể chỉnh sửa trên nhiều nền tảng cho mục đích học thuật hoặc doanh nghiệp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt tự động của nhiều bộ slide sang định dạng RTF.
+
+* Tích hợp với kho lưu trữ tài liệu cho mục đích lưu trữ.
+
+* Tạo ra báo cáo nội bộ từ các slide thuyết trình theo lịch trình.
+
+* Cập nhật tài liệu RTF sau khi chỉnh sửa bài thuyết trình.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

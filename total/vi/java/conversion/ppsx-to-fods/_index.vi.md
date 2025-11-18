@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPSX sang FODS, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi **PPSX sang FODS** cho phép bảng trượt được xuất ra dưới dạng bảng OpenDocument phẳng, tương thích với các bộ ứng dụng văn phòng mã nguồn mở như LibreOffice và OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Bài trình bày học thuật được tái sử dụng cho các công cụ bảng tính mã nguồn mở.
+
+* Báo cáo của chính phủ hoặc tổ chức phi chính phủ yêu cầu hỗ trợ FODS.
+
+* Hợp tác dữ liệu đa nền tảng mà không cần phần mềm độc quyền.
+
+* Lưu trữ các chỉ số trình bày trong các định dạng mở có thể chỉnh sửa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Xuất FODS hàng loạt cho quy trình làm việc văn phòng mã nguồn mở.
+
+* Cập nhật kích hoạt khi bộ trượt được sửa đổi.
+
+* Tích hợp với các đường ống phân tích mã nguồn mở.
+
+* Chuyển đổi định kỳ các báo cáo tái diễn cho hợp tác nhóm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

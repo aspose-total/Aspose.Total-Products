@@ -53,7 +53,51 @@ Pomocí API můžete také provést převod PPSX souboru na ODT s vodoznakem. Ch
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod **PPSX na ODT** poskytuje podporu pro formát otevřeného dokumentu pro konverze snímků do Wordu, ideální pro LibreOffice, OpenOffice nebo úpravy mezi platformami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Akademické prezentace převedené do formátů otevřených dokumentů.
+
+* Vládní nebo neziskové organizace vyžadující kompatibilitu s ODT.
+
+* Přenositelné editovatelné zprávy odvozené z prezentací.
+
+* Spolupracující dokumentace v prostředích kancelářských balíků s otevřeným zdrojovým kódem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatická hromadná konverze prezentací do ODT pro distribuci na více platforem.
+
+* Integrace s pracovními postupy otevřených dokumentů pro týmovou spolupráci.
+
+* Plánované konverze pro opakující se akademické nebo neziskové zprávy.
+
+* Automatické aktualizace souborů ODT z revizí snímků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

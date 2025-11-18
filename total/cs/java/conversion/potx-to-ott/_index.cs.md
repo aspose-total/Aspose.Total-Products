@@ -53,7 +53,51 @@ Pomocí API můžete také provést převod POTX souboru na OTT s vodoznakem. Ch
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Přeměna POTX na OTT vytváří šablony OpenDocument pro aplikace pro zpracování textu na různých platformách, usnadňující opakované použití rámce dokumentů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převod firemních snímků do editovatelných šablon pro OpenOffice.
+
+* Vytváření standardizovaných dokumentů z marketingových nebo personálních prezentací.
+
+* Příprava opakovaně použitelných šablon pro studentské úkoly nebo výukové moduly.
+
+* Generování značkových rozvržení dokumentů z vizuálních návrhů snímků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod souborů prezentací do opakovaně použitelných šablon OTT.
+
+* Integrace do automatizace pracovních postupů pro konzistentní aktualizace šablon.
+
+* Spouštěná generace OTT pro opakující se potřeby dokumentů.
+
+* Automatický export šablon do prostředí kancelářských balíků s otevřeným zdrojovým kódem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

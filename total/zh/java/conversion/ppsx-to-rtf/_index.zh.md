@@ -52,7 +52,51 @@ otherformats: DOTX RTF RTFM FLATOPC WORD ODT TEXT WORDML DOTM DOT RTFX OTT
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **PPSX 转换为 RTF** 将幻灯片转换为普遍兼容的富文本格式文档，非常适合需要广泛可访问性而无需软件限制的环境。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将演示文稿转换为文本密集的文档，便于共享。
+
+* 将幻灯片内容存档为普遍可读的 RTF 格式。
+
+* 从演示文稿准备内部备忘录或报告。
+
+* 用于学术或企业用途的跨平台可编辑内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量自动将多个幻灯片组转换为 RTF。
+
+* 与文档存储库集成以进行存档。
+
+* 从演示文稿定期生成内部报告。
+
+* 在演示文稿编辑后触发更新到 RTF 文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,51 @@ otherformats: DOT OTT WORDML TEXT DOTX RTF WORD DOTM DOTMM DOTMX ODT FLATOPC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **PPSX в DOTM** позволяет генерировать шаблоны с макросами из слайдов, идеально подходит для компаний, которые полагаются на автоматизированные процессы, встроенные в документы Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Создание корпоративных шаблонов с встроенными макросами для динамической отчетности.
+
+* Автоматизированные формы для управления персоналом, финансами или проектами на основе презентаций.
+
+* Интерактивные учебные шаблоны для заданий или научной документации.
+
+* Согласованные шаблоны предложений с макросами, управляемыми рабочим процессом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Создание шаблонов на основе триггеров для повторяющихся отчетов по проектам.
+
+* Пакетное создание шаблонов с включенными макросами из новых презентаций.
+
+* Интеграция с системами автоматизации рабочего процесса для заполнения документов.
+
+* Плановое обновление макро-шаблонов для последовательной отчетности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -102,7 +102,51 @@ otherformats: XLSM XLS SXC XLTX XLSX DIF EXCEL CSV MHTML FODS ODS XLAM TSV XLTM 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת PPSM ל־Markdown מאפשרת להמיר תוכן מצגת למסמך טקסט קל משקל עם עיצוב. אידיאלי עבור תיעוד, בלוגים, ספריות של GitHub, או שיתוף פעולה של מפתחים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* המרת שקפי שיעור או הדרכה להערות Markdown.
+
+* הכנת תיעוד קל משקל ממצגות תדמיתיות.
+
+* ייצוא שקפים לתוכן Markdown מוכן לבלוג.
+
+* שיתוף מצגות עם מפתחים באמצעות קבצי Markdown שנשמרים בגרסאות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה צפונית של שקפי PPSM ל־Markdown עבור מאגרי תוכן.
+
+* שילוב עם מחוללי אתרים סטטיים כמו Hugo או Jekyll.
+
+* ייצוא מתוזמן של מצגות חוזרות לתבנית Markdown.
+
+* יצירה מופעלת של תיעוד Markdown ממצגות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,51 @@ otherformats: MARKDOWN ODS XLSB SXC FODS XLTX XLT XLAM XLSM XLSX DIF XLS XLTM TS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل **PPSX إلى FODS** يسمح بتصدير جداول الشرائح إلى تنسيق جدول بيانات مفتوح المصدر، متوافق مع حزم المكاتب مفتوحة المصدر مثل LibreOffice و OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل شرائح أكاديمية لاستخدامها في أدوات جداول البيانات مفتوحة المصدر.
+
+* تقارير حكومية أو منظمات غير حكومية تتطلب دعم FODS.
+
+* تعاون البيانات عبر المنصات دون الحاجة إلى برمجيات خاصة.
+
+* أرشفة مقاييس العروض التقديمية في تنسيقات مفتوحة قابلة للتحرير.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* تصدير FODS دفعة واحدة لسير العمل في مكاتب مفتوحة المصدر.
+
+* تحديثات مُشغّلة عند تعديل مجموعات الشرائح.
+
+* دمج مع أنابيب تحليلات مفتوحة المصدر.
+
+* تحويل مجدول للتقارير المتكررة للتعاون في الفريق.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

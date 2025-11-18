@@ -61,7 +61,55 @@ PPSMファイルをXLSMに変換するときに、出力XLSMファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSMをXLSM（Excelマクロ有効ブック）に変換すると、スライドから数式、マクロ、チャートを保持して自動計算やデータ駆動レポートを可能にします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* ファイナンシャルモデルを持つプレゼンテーションをマクロ有効ワークブックに変換する。
+
+* スライドからマクロを使用したインタラクティブなプロジェクトダッシュボードを準備する。
+
+* 数式を含む学術スライドをXLSMに変換して自動採点を行う。
+
+* 営業スライドをXLSMに変換して自動レポート作成を行う。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* ワークフロー自動化のためのバッチPPSMからXLSMへの変換。
+
+* プレゼンテーションからスケジュールされたマクロ有効ワークブックの生成。
+
+* ビジネスインテリジェンスパイプラインとの統合。
+
+* 定期的なレポート自動化のためのトリガー変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

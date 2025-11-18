@@ -61,7 +61,51 @@ otherformats: DIF ODS XLS SXC XLSB EXCEL TSV XLAM XLSM XLT XLSX MHTML XLTM FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง PPSM เป็น TSV (Tab-Separated Values) ช่วยให้การสกัดข้อมูลโครงสร้างจากสไลด์เป็นรูปแบบสเปรดชีตข้อความธรรมดาที่สามารถอ่านได้ทั่วไป
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ส่งออกตารางข้อมูลที่มีบนสไลด์เข้าสู่ TSV เพื่อใช้ในการวิเคราะห์
+
+* แบ่งปันข้อมูลโครงการหรือประสิทธิภาพการขายในหลายแพลตฟอร์ม
+
+* แปลงตารางในงานนำเสนอให้พร้อมใช้งานกับท่อไปรข้อมูล CSV/TSV
+
+* เตรียมสไลด์ทางวิชาการสำหรับการวิเคราะห์การวิจัยโครงสร้าง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลงชุดข้อมูล PPSM เป็นไฟล์ TSV แบบกลุ่ม
+
+* สกัดข้อมูลโดยอัตโนมัติสำหรับการทำงาน ETL หรือ BI
+
+* สร้าง TSV ตามกำหนดเวลาจากสไลด์บริษัทที่เกิดซ้ำ
+
+* ผสานกับท่อไปรข้อมูลสำหรับการวิเคราะห์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

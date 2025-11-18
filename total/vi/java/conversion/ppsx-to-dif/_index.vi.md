@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPSX sang DIF, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi **PPSX thành DIF** xuất bảng trình chiếu sang Định dạng Trao đổi Dữ liệu, tạo điều kiện cho việc chia sẻ dữ liệu một cách liền mạch giữa các ứng dụng bảng tính, lý tưởng cho các hệ thống cũ hoặc môi trường đa nền tảng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển dữ liệu dựa trên slide sang các công cụ bảng tính cổ điển.
+
+* Xuất dữ liệu học thuật hoặc nghiên cứu từ bài thuyết trình.
+
+* Chuẩn bị bộ dữ liệu cho phần mềm thống kê hoặc phân tích khoa học.
+
+* Trao đổi dữ liệu chuẩn trên các nền tảng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Xuất lô bài thuyết trình định kỳ sang DIF cho quy trình làm việc nghiên cứu.
+
+* Tích hợp tự động với các đường ống xử lý dữ liệu.
+
+* Chuyển đổi dựa trên cơ chế kích hoạt cho các nhiệm vụ chuyển đổi slide thành cơ sở dữ liệu định kỳ.
+
+* Chuyển đổi hàng loạt của nhiều bài thuyết trình cho các nhóm phân tích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

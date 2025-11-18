@@ -53,7 +53,51 @@ otherformats: ODT OTTM DOTX OTTX TEXT DOT FLATOPC OTT WORDML DOTM WORD RTF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование PPSM в OTT (OpenDocument Template) позволяет пользователям создавать многоразовые шаблоны документов из презентаций в форматах с открытым исходным кодом, идеально подходит для стандартизированной корпоративной, академической или документации НПО.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Подготовка многоразовых шаблонов отчетов для пользователей LibreOffice.
+
+* Преобразование учебных слайд-дек в редактируемые шаблоны документов.
+
+* Академические слайды, преобразованные в шаблоны лекций или заданий.
+
+* Слайды проектов НПО, преобразованные в шаблоны отчетности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование слайд-деков в шаблоны OTT для повторного использования.
+
+* Интеграция в автоматизированные рабочие процессы для создания документов.
+
+* Плановое создание библиотек шаблонов из повторяющихся слайдов.
+
+* Автоматическое создание шаблонов OTT для документации проекта.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

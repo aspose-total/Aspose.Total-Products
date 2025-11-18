@@ -53,7 +53,51 @@ Med hjälp av API:t kan du också utföra PPSM-fil till OTT-konvertering med vat
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av PPSM till OTT (OpenDocument-mall) gör det möjligt för användare att skapa återanvändbara dokumentmallar från presentationer i öppna format, perfekt för standardiserad företags-, akademisk eller NGO-dokumentation.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* Förbereda återanvändbara rapportmallar för LibreOffice-användare.
+
+* Konvertera träningsbildspel till redigerbara dokumentmallar.
+
+* Akademiska bildspel återanvänds som föreläsnings- eller uppgiftsmallar.
+
+* NGO-projektbildspel omvandlas till rapportmallar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batchkonvertering av bildspel till OTT-mallar för upprepade användningar.
+
+* Integration i automatiserade arbetsflöden för dokumentskapande.
+
+* Schemalagd generering av mallbibliotek från återkommande bildspel.
+
+* Utlöst skapande av OTT-mallar för projekt-dokumentation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

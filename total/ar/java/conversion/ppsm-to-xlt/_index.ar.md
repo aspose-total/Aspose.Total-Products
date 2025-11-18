@@ -61,7 +61,51 @@ otherformats: XLS XLAM EXCEL ODS TSV DIF XLT XLTX XLSB FODS XLSX MHTML XLTM XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل PPSM إلى XLT (قالب Excel) يسمح بإنشاء قوالب جداول بيانات قابلة لإعادة الاستخدام من العروض التقديمية، مما يسهل عملية إعداد التقارير الشركية أو الأكاديمية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل جداول العروض التقديمية إلى قوالب Excel قابلة لإعادة الاستخدام.
+
+* إعداد قوالب للمشاريع أو البيانات المالية من الشرائح.
+
+* إعادة استخدام الشرائح الأكاديمية في قوالب تقييم أو مهام.
+
+* تحويل عروض التسويق إلى قوالب تقارير Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل دُفعة من PPSM إلى XLT للحصول على قوالب موحدة.
+
+* إنشاء مكتبات القوالب بشكل مجدول من الشرائح.
+
+* التكامل مع أنظمة التقارير التلقائية.
+
+* توليد القوالب بشكل تلقائي للمشاريع المتكررة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,51 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPSM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi PPSM sang RTF (Định dạng Văn bản Rich Text) cung cấp một cách nhẹ, tương thích mọi nơi để biến các slide thành tài liệu văn bản có thể chỉnh sửa. Lý tưởng cho việc chia sẻ qua email, phần mềm cũ, và cộng tác đa nền tảng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xuất nội dung bài thuyết trình sang RTF để phân phối qua email.
+
+* Tạo tài liệu nhẹ từ các slide cho mục đích lưu trữ.
+
+* Chuyển đổi slide thành định dạng văn bản có thể chỉnh sửa để sử dụng trên nhiều nền tảng.
+
+* Chuẩn bị tài liệu RTF từ các bài thuyết trình marketing hoặc đào tạo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt PPSM sang RTF cho phân phối trên toàn đội.
+
+* Xuất tự động các slide bài giảng thành tài liệu RTF có thể chỉnh sửa.
+
+* Tạo RTF theo lịch trình cho quy trình tuân thủ hoặc báo cáo.
+
+* Tích hợp với hệ thống quản lý tài liệu cũ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

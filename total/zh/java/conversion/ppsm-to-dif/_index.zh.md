@@ -61,7 +61,55 @@ otherformats: XLS XLT SXC XLSX XLTX FODS XLTM XLSM ODS XLSB TSV XLAM EXCEL MHTML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将PPSM转换为DIF（数据交换格式）有助于将幻灯片中的电子表格数据转换为兼容的格式，以供传输至传统或专业软件。非常适合用于存档和跨平台分析。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将演示文稿中的财务或运营表格导出为DIF格式。
+
+* 将项目进展幻灯片转换为适用于电子表格的DIF文件。
+
+* 与需要DIF输入的传统系统共享数据。
+
+* 为了监管或审计目的存档表格幻灯片内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将PPSM幻灯片转换为DIF以进行历史报告。
+
+* 从幻灯片中自动提取表格并转换为DIF文件。
+
+* 定期更新重复项目仪表板。
+
+* 与接受DIF导入的旧分析工具集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

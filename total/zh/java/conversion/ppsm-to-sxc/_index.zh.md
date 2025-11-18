@@ -61,7 +61,51 @@ otherformats: EXCEL ODS XLSX MARKDOWN TSV XLS MHTML XLSM FODS XLSB XLTM XLT SXC 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将PPSM转换为SXC（StarOffice Calc电子表格）可将旧演示幻灯片转换为兼容的电子表格，供传统的OpenOffice或StarOffice用户使用。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将销售或项目幻灯片转换为可编辑的SXC电子表格。
+
+* 与传统办公软件共享历史演示文稿。
+
+* 将学术或企业幻灯片重新用于电子表格报告。
+
+* 在轻量级SXC格式中存档幻灯片数据。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将PPSM转换为SXC，以供传统系统使用。
+
+* 定期将图表和表格提取到SXC文件中。
+
+* 与旧软件的自动报告管道集成。
+
+* 为定期演示文稿触发转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

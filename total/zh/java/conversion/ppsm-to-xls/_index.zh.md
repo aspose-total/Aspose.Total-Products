@@ -61,7 +61,51 @@ otherformats: FODS SXC EXCEL ODS DIF TSV MHTML XLSM XLTM XLT XLSX XLAM XLSB XLS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将PPSM转换为XLS（Excel 97-2003工作簿）可为旧版本的Microsoft Excel提供传统兼容性，同时保留幻灯片中的表格和图表。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将财务或项目幻灯片导出为XLS供传统用户使用。
+
+* 将公司指标转换为可编辑的Excel表格。
+
+* 将学术幻灯片转化为用于分析的电子表格。
+
+* 以旧版Excel兼容格式分享演示数据。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将PPSM转换为XLS以供团队广泛使用。
+
+* 将幻灯片定期提取为XLS以进行报告。
+
+* 集成到自动化归档工作流程中。
+
+* 从定期演示中触发XLS生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

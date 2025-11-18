@@ -61,7 +61,37 @@ Al convertir un archivo PPSX a FODS, también puede agregar una marca de agua a 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir **PPSX a FODS** permite exportar tablas de diapositivas en formato de hoja de cálculo OpenDocument plano, compatible con suites de oficina de código abierto como LibreOffice y OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* Diapositivas académicas reutilizadas para herramientas de hojas de cálculo de código abierto.
+
+* Informes gubernamentales o de ONG que requieren soporte FODS.
+
+* Colaboración de datos multiplataforma sin software propietario.
+
+* Archivar métricas de presentación en formatos abiertos editables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* Exportación masiva de FODS para flujos de trabajo de oficina de código abierto.
+
+* Actualizaciones desencadenadas cuando se revisan las presentaciones.
+
+* Integración con canalizaciones de análisis de código abierto.
+
+* Conversión programada de informes recurrentes para colaboración en equipo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

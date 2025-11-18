@@ -61,7 +61,51 @@ PPSX 파일을 XLAM로 변환하는 동안 출력 XLAM 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSX를 XLAM으로 변환**하면 프레젠테이션 콘텐츠에서 매크로가 활성화된 엑셀 애드인 파일을 생성하여 고급 자동화 및 재사용 가능한 엑셀 도구를 만들 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 금융 또는 프로젝트 추적을 위한 엑셀 애드인 생성.
+
+* 슬라이드 데이터를 활용하여 반복적인 스프레드시트 작업 자동화.
+
+* 포함된 매크로로 대화식 대시보드 생성.
+
+* 슬라이드 테이블에서 파생된 매크로가 활성화된 도구 배포.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 워크플로 자동화를 위한 트리거 기반 엑셀 애드인 생성.
+
+* 재사용 가능한 XLAM 도구로의 슬라이드 일괄 변환.
+
+* 자동 보고를 위한 기업용 엑셀 템플릿 통합.
+
+* 매크로가 활성화된 엑셀 솔루션의 예약된 업데이트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

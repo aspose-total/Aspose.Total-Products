@@ -53,7 +53,51 @@ otherformats: DOTM OTT DOTX TEXT FLATOPC DOT WORDML RTF ODTM ODTX WORD ODT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง POTX เป็น ODT ช่วยให้สามารถส่งออกภาพนำเสนอเป็นรูปแบบข้อความ OpenDocument ที่เหมาะสำหรับ LibreOffice, OpenOffice, และสภาพแวดล้อม跨แพลตฟอร์ม
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การแปลงการนำเสนอเป็นเอกสารข้อความ OpenOffice หรือ LibreOffice ที่สามารถแก้ไขได้
+
+* แบ่งปันเนื้อหาสไลด์ในสภาพแวดล้อมที่ไม่ใช่ Microsoft
+
+* สร้างรายงานจากสไลด์การนำเสนอสำหรับผู้ใช้โปรแกรมสำนักงานโอเพนซอร์ส
+
+* เตรียมเนื้อหาการศึกษาที่เข้ากันได้กับชุดโปรแกรมสำนักงานหลายระบบ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง ODT แบบกลุ่มสำหรับการทำงานในสภาพแวดล้อมสำนักงาน跨แพลตฟอร์ม
+
+* การรวมเข้ากับแพลตฟอร์มการทำงานร่วมกันในการสนับสนุน ODT
+
+* การส่งออกอัตโนมัติสำหรับการรายงานโครงการโอเพนซอร์ส
+
+* การแปลงโดยเรียกใช้สำหรับการเข้าถึงเนื้อหาในแพลตฟอร์มต่าง ๆ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

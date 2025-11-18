@@ -61,7 +61,51 @@ Beim Konvertieren der PPSX-Datei in SXC können Sie Ihrem Ausgabe-SXC-Dateiforma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von **PPSX in SXC** erstellt StarOffice-Tabellendateien, die es älteren Benutzern von Bürosoftware ermöglichen, Daten aus Folien zu bearbeiten und in SXC-kompatiblen Apps zu teilen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Kompatibilität mit Legacy-Büro-Workflows.
+
+* Archivierung von Präsentationstabellen für langfristigen Zugriff.
+
+* Datenaustausch zwischen Organisationen, die StarOffice oder OpenOffice verwenden.
+
+* Umwandlung von Folienmetriken zur Analyse in Tabellenkalkulationswerkzeugen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelkonvertierung von SXC für die Integration in Legacy-Systeme.
+
+* Geplante Exporte von wiederkehrenden Präsentationsfolien.
+
+* Automatische Generierung von Tabellenkalkulationen für die Zusammenarbeit mehrerer Benutzer.
+
+* Ausgelöste Updates bei Hinzufügen neuer Präsentationsdaten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

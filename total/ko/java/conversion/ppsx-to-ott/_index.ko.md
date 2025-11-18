@@ -53,7 +53,51 @@ API를 사용하여 워터마크를 사용하여 PPSX 파일을 OTT로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSX를 OTT로 변환**하면 매크로가 없는 오픈 문서 템플릿이 생성되어 매크로 위험이 없는 재사용 가능한 표준화된 템플릿이 가능해집니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LibreOffice/OpenOffice에서 교육이나 워크샵 템플릿 생성.
+
+* 표준화된 비정부기구 또는 학술 문서 템플릿.
+
+* 팀 협업용 재사용 가능한 슬라이드 기반 템플릿.
+
+* 다양한 플랫폼 형식의 고객용 보고서.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 주기적 보고를 위한 OTT 템플릿 일괄 생성.
+
+* 템플릿 배포를 위한 오픈 소스 워크플로 시스템 통합.
+
+* 새로운 슬라이드 덱에서 표준화된 템플릿으로의 예약 업데이트.
+
+* 매크로가 없는 슬라이드로부터 협업 문서의 자동 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

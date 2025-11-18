@@ -99,7 +99,51 @@ otherformats: ODT DOCM DOTX DOCX TEXT DOT FLATOPC DOC WORDML DOTM WORD RTF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת PPSM ל-OTT (תבנית OpenDocument) מאפשרת למשתמשים ליצור תבניות מסמכים ניתנות לשימוש ממצגות בפורמטים מקור פתוח, אידיאלי עבור תיעוד תקני לחברות, אקדמיה או עמותות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* הכנת תבניות דוחות ניתנות לשימוש חוזר עבור משתמשי LibreOffice.
+
+* המרת מצגות של הדרכה לתבניות מסמך שניתנות לעריכה.
+
+* מצגות אקדמיות שמומרות לתבניות שיעור או מטלות.
+
+* המרת מצגות פרויקטים של עמותות לתבניות דיווח.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רציפה של מצגות לתבניות OTT לשימוש חוזר.
+
+* שילוב בצינורות עבודה אוטומטיות ליצירת מסמכים.
+
+* יצירה מתוזמנת של ספריות תבניות ממצגות חוזרות.
+
+* יצירת תבנית OTT כתגובה לתיעוד פרויקט מופעל.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

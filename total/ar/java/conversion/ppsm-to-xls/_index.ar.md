@@ -61,7 +61,55 @@ otherformats: FODS SXC EXCEL ODS DIF TSV MHTML XLSM XLTM XLT XLSX XLAM XLSB XLS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل PPSM إلى XLS (Excel 97-2003 Workbook) يوفر التوافق مع الإصدارات القديمة من Microsoft Excel، مع الاحتفاظ بالجداول والرسوم البيانية من الشرائح.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير الشرائح المالية أو المشروعية إلى XLS لمستخدمي الإصدارات القديمة.
+
+* تحويل المقاييس الشركية إلى أوراق عمل Excel قابلة للتحرير.
+
+* تحويل الشرائح الأكاديمية إلى جداول بيانات للتحليل.
+
+* مشاركة بيانات العرض التقديمي في تنسيق متوافق مع إصدارات Excel القديمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل PPSM إلى XLS بشكل دفعي لاستخدام الإرث على مستوى الفريق.
+
+* استخراج الشرائح بشكل مجدول إلى XLS للتقارير.
+
+* دمجه في سير العمل الأرشيفية التلقائية.
+
+* توليد XLS مُحفز من العروض التقديمية المتكررة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

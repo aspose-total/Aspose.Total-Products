@@ -61,7 +61,51 @@ Podczas konwertowania pliku PPSX do SXC możesz również dodać znak wodny do w
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie **PPSX na SXC** generuje pliki StarOffice Spreadsheet, umożliwiając starszym użytkownikom pakietu biurowego edycję i udostępnianie danych pochodzących ze slajdów w aplikacjach kompatybilnych z SXC.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Kompatybilność z przestarzałym przepływem pracy biurowej.
+
+* Archiwizowanie tabel prezentacji dla długoterminowego dostępu.
+
+* Udostępnianie danych między organizacjami za pomocą StarOffice lub OpenOffice.
+
+* Konwertowanie metryk slajdów do analizy w narzędziach arkusza kalkulacyjnego.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa SXC dla integracji ze starszym systemem.
+
+* Zaplanowane eksporty z powtarzających się slajdów prezentacji.
+
+* Automatyczne generowanie arkuszy kalkulacyjnych do współpracy wielu użytkowników.
+
+* Wywoływanie aktualizacji po dodaniu nowych danych prezentacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

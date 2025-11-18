@@ -61,7 +61,51 @@ Podczas konwertowania pliku PPSM do XLTM możesz również dodać znak wodny do 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie PPSM na XLTM (Szablon programowany makrami w Excelu) zapewnia szablony do wielokrotnego użytku z makrami, idealne do automatycznych raportów lub cyklicznych prac arkuszowych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Tworzenie szablonów finansowych z makrami na podstawie slajdów.
+
+* Konwertowanie slajdów projektowych na zautomatyzowane szablony raportów w Excelu.
+
+* Tablice sprzedażowe lub marketingowe przekształcone w szablony z makrami.
+
+* Slajdy akademickie przekształcone w interaktywne szablony oceniania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa PPSM na XLTM dla powtarzających się prac.
+
+* Zaplanowane tworzenie szablonów z makrami dla automatyzacji raportowania.
+
+* Integracja z potokami BI dla analityki opartej na szablonach.
+
+* Wywoływane generowanie szablonów z makrami na podstawie prezentacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

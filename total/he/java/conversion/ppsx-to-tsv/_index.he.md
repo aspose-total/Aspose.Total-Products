@@ -102,7 +102,51 @@ otherformats: XLTX DIF CSV SXC MHTML XLSB XLSX ODS XLAM EXCEL XLT XLSM XLTM MARK
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **PPSX ל־TSV** ייצוא שקופיות כערכים מופרדים בטאב, אידיאלי עבור ניתוח נתונים, אלטרנטיבות ל־CSV, וזרימות נתונים מבוססות טקסט.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* חילוץ טבלאות משקפים לצורך ניתוח או דגמי AI.
+
+* הכנת קבצי TSV עבור צינורות למידת מכונה.
+
+* ייבוא מדדי הצגה לכלים סטטיסטיים.
+
+* שיתוף נתוני שקפים מובנים עם מפתחי פיתוח או אנליסטים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה מתוזמנת של הצגות ל־TSV עבור צוותי ניתוח.
+
+* ייצוא צפיפות של מספר שקפים לקבצי נתונים מובנים.
+
+* עדכונים אוטומטיים של קבצי TSV עם שינויים בשקופיות.
+
+* שילוב עם צינורות ETL לאוטומציה של דיווחים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

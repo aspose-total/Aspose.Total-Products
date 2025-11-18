@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPSM sang DIF, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi PPSM sang DIF (Định dạng Trao đổi Dữ liệu) giúp việc chuyển dữ liệu bảng tính từ các slide sang các định dạng tương thích với phần mềm cũ hoặc chuyên biệt. Hoàn hảo cho việc lưu trữ và phân tích đa nền tảng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xuất bảng tài chính hoặc hoạt động từ bài thuyết trình sang định dạng DIF.
+
+* Chuyển đổi các slide tiến độ dự án thành các tệp DIF sẵn sàng cho bảng tính.
+
+* Chia sẻ dữ liệu với các hệ thống cũ yêu cầu đầu vào DIF.
+
+* Lưu trữ nội dung bảng trượt theo dạng bảng cho mục đích quy định hoặc kiểm toán.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt các slide PPSM thành DIF cho báo cáo lịch sử.
+
+* Trích xuất tự động các bảng từ các bộ slide sang các tệp DIF.
+
+* Cập nhật theo lịch trình cho bảng điều khiển dự án định kỳ.
+
+* Tích hợp với các công cụ phân tích cũ hơn chấp nhận nhập DIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

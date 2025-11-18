@@ -61,7 +61,51 @@ otherformats: MARKDOWN ODS XLSB SXC FODS XLTX XLT XLAM XLSM XLSX DIF XLS XLTM TS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **PPSX в FODS** позволяет экспортировать таблицы слайдов в плоский формат электронных таблиц OpenDocument, совместимый с офисными пакетами с открытым исходным кодом, такими как LibreOffice и OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Академические слайды, преобразованные для использования в электронных таблицах с открытым исходным кодом.
+
+* Отчеты правительственных организаций или НПО, требующие поддержки FODS.
+
+* Межплатформенное сотрудничество по данным без использования собственного программного обеспечения.
+
+* Архивирование метрик презентаций в редактируемых открытых форматах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетный экспорт FODS для рабочих процессов с открытым исходным кодом.
+
+* Автоматическое обновление при изменении наборов слайдов.
+
+* Интеграция с аналитическими конвейерами с открытым исходным кодом.
+
+* Плановое преобразование повторяющихся отчетов для совместной работы команд.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

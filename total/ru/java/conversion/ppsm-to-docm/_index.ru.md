@@ -53,7 +53,51 @@ otherformats: DOTM WORD ODT WORDML DOCM DOTX FLATOPC DOCMX TEXT OTT RTF DOT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование PPSM в DOCM (документ Word с поддержкой макросов) позволяет преобразовать презентации в редактируемые документы Word с сохранением функциональности макросов. Идеально подходит для корпоративных рабочих процессов, где автоматизация или встроенные сценарии повышают производительность.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Интерактивные отчеты, требующие макросов для автоматического обновления диаграмм.
+
+* Учебные пособия с встроенными сценариями VBA для симуляции сценариев.
+
+* Автоматизация внутренней документации, созданной из слайдов.
+
+* Преобразование для динамичных клиентских предложений с макросами, запускаемыми действиями.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетная обработка наборов слайдов PPSM в шаблоны DOCM с макросами.
+
+* Плановое обновление финансовых презентаций в макрос-включенные отчеты Word.
+
+* Интеграция с инструментами автоматизации рабочего процесса для преобразования слайдов в документы.
+
+* Автоматическое создание внутренних отчетов по аудиту из слайдов PPSM с макросами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

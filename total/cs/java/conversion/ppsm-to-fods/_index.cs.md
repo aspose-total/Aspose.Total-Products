@@ -61,7 +61,51 @@ Při převodu souboru PPSM na FODS můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod formátu PPSM na FODS (Flat OpenDocument Spreadsheet) poskytuje lehký, upravitelný tabulkový formát kompatibilní s LibreOffice a OpenOffice, užitečný pro spolupracovní projekty a pracovní postupy open-source.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Export tabulek snímků do formátu FODS pro aplikace tabulek open-source.
+
+* Příprava akademických nebo výzkumných snímků pro analýzu na více platformách.
+
+* Převod provozních metrik z balíčků PPSM do formátu FODS.
+
+* Sdílení finančních nebo prodejních dat bez závislosti na proprietárním softwaru.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod PPSM na FODS pro týmy spolupracující na open-source projektech.
+
+* Plánované extrakce dat ze snímků do upravitelných šablon tabulek.
+
+* Integrace do automatizovaných pracovních postupů pro projektové hlášení.
+
+* Spouštěný převod pro sdílení mezi různými platformami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

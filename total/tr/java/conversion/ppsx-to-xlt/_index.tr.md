@@ -61,7 +61,55 @@ PPSX dosyasını XLT'ye dönüştürürken, çıktı XLT dosya biçiminize de fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSX dosyalarını XLT'ye dönüştürmek**, slaytlardan Excel şablon dosyaları oluşturarak, tekrarlayan raporlama veya yapılandırılmış elektronik tablo iş akışları için standart belge düzenlemelerini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Sunum tablolarından kurumsal şablon oluşturma.
+
+* İç kullanım için standartlaştırılmış raporlama elektronik tabloları.
+
+* Slaytlardan türetilen eğitim veya akademik elektronik tablolar.
+
+* Tutarlı müşteri teslim şablonları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Sunumlardan Excel şablonlarının otomatik oluşturulması.
+
+* Tekrar eden rapor formatları için toplu dönüşüm.
+
+* Slayt paketleri güncellendiğinde zamanlanmış güncellemeler.
+
+* Şablon tutarlılığını sağlamak için iş akış sistemleriyle entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

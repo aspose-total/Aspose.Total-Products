@@ -61,7 +61,51 @@ Při převodu souboru PPSM na XLT můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod PPSM na XLT (Excel šablona) umožňuje vytváření opakovaně použitelných šablon tabulek z prezentací, usnadňuje firemní nebo akademické reportování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převádění tabulek z prezentací do opakovaně použitelných Excel šablon.
+
+* Příprava projektových nebo finančních šablon ze slidů.
+
+* Akademické slidů převedeny na šablony pro hodnocení nebo úkoly.
+
+* Marketingové prezentace převedeny do Excel reportovacích šablon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod PPSM na XLT pro standardizované šablony.
+
+* Plánované vytváření knihoven šablon ze slidů.
+
+* Integrace s automatizovanými systémy reportování.
+
+* Spouštěná generace šablon pro opakující se projekty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

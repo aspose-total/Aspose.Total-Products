@@ -61,7 +61,51 @@ otherformats: XLSM XLT XLTM XLSB ODS XLSX XLTX TSV MARKDOWN MHTML XLS XLAM DIF S
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将PPSM转换为XLTM（启用宏的Excel模板）可提供带有宏的可重复使用模板，非常适合自动报告或经常性电子表格工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从幻灯片创建启用宏的财务模板。
+
+* 将项目幻灯片转换为自动化的Excel报告模板。
+
+* 将销售或营销仪表板转换为启用宏的模板。
+
+* 将学术幻灯片重新用作互动评分模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将PPSM转换为XLTM，用于重复工作流程。
+
+* 定时创建启用宏的模板，用于报告自动化。
+
+* 与BI管道集成，用于基于模板的分析。
+
+* 从演示文稿触发生成启用宏的模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

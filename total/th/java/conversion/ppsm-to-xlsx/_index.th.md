@@ -61,7 +61,55 @@ otherformats: XLSM TSV EXCEL ODS XLT SXC XLTX XLTM FODS XLS XLSB MHTML XLAM XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง PPSM เป็น XLSX (Excel Open XML Workbook) จะให้ความเข้ากันได้เต็มรูปแบบกับ Excel เวอร์ชันที่ทันสมัย โดยรักษาการจัดรูปแบบ แผนภูมิ และตารางจากสไลด์ดีกส์
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* ส่งออกตัวชี้วัดขององค์กรเข้าสู่สเปรดชีต Excel ที่ทันสมัย
+
+* แปลงสไลด์ทางการศึกษาหรือวิจัยเป็นชุดข้อมูล XLSX
+
+* เตรียมการทำแผนการขายหรือการตลาดจากงานนำเสนอ
+
+* แบ่งปันรายงาน Excel ที่สามารถแก้ไขได้กับผู้ร่วมงาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง PPSM เป็น XLSX จำนวนมากสำหรับการทำงานร่วมกันของทีม
+
+* การสร้างรายงาน Excel ที่ทันสมัยตามกำหนดเวลาจากสไลด์
+
+* การรวมกับเครื่องมือรายงานและการวิเคราะห์อัตโนมัติ
+
+* การสร้าง XLSX ตามที่กำหนดสำหรับงานนำเสนอที่เกิดซ้ำ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

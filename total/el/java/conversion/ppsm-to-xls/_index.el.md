@@ -61,7 +61,51 @@ otherformats: FODS SXC EXCEL ODS DIF TSV MHTML XLSM XLTM XLT XLSX XLAM XLSB XLS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του PPSM σε XLS (Excel 97-2003 Workbook) παρέχει συμβατότητα με τις παλαιότερες εκδόσεις του Microsoft Excel, διατηρώντας τα πίνακες και τα διαγράμματα από τις διαφάνειες.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Εξαγωγή οικονομικών ή εργασιακών διαφανειών σε XLS για τους χρήστες των παλαιότερων εκδόσεων.
+
+* Μετατροπή εταιρικών μετρήσεων σε επεξεργάσιμα φύλλα Excel.
+
+* Μετατροπή ακαδημαϊκών διαφανειών σε υπολογιστικά φύλλα για ανάλυση.
+
+* Διαμοιρασμός δεδομένων παρουσίασης σε παλαιότερη μορφή συμβατή με το Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή PPSM σε XLS για χρήση σε ολόκληρη την ομάδα.
+
+* Προγραμματισμένη εξαγωγή διαφανειών σε XLS για αναφορές.
+
+* Ενσωμάτωση σε αυτοματοποιημένες ροές εργασίας αρχειοθέτησης.
+
+* Παραγωγή XLS από επαναλαμβανόμενες παρουσιάσεις.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,51 @@ otherformats: DOTX DOTM WORDML DOT ODT WORD TEXT RTF FLATOPC OTT WORDM WORDX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование POTX в формат Word (общий) обеспечивает широкую совместимость и создает редактируемые документы из шаблонов презентаций, подходящих для всех версий Microsoft Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование слайдов в отчеты Word для широкого доступа.
+
+* Преобразование учебных или тренировочных материалов в редактируемые документы Word.
+
+* Экспорт клиентских презентаций в текстовые резюме для распространения.
+
+* Создание редактируемых бизнес-отчетов на основе визуального содержимого слайдов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Массовое преобразование Word из нескольких шаблонов для корпоративной отчетности.
+
+* Интеграция в рабочие процессы управления документами для обеспечения однородного результата.
+
+* Автоматическое преобразование для быстрой подготовки текстовой документации.
+
+* Автоматизированное извлечение контента из презентаций для создания отчетов на основе Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

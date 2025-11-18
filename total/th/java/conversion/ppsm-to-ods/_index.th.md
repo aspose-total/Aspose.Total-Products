@@ -61,7 +61,55 @@ otherformats: MARKDOWN XLAM XLTX TSV ODS FODS SXC MHTML EXCEL XLS XLSB XLSX XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง PPSM เป็น ODS (OpenDocument Spreadsheet) ช่วยให้มีความเข้ากันได้อย่างเต็มที่กับ LibreOffice, OpenOffice, และ Google Sheets พร้อมรักษาแผนภูมิและตารางจากสไลด์ไว้ได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* ส่งออกข้อมูลเชิงสถิติจากการนำเสนอไปเป็น ODS เพื่อการวิเคราะห์ร่วมกัน
+
+* แปลงแผนภูมิโครงการเป็นสเปรดชีต ODS ที่สามารถแก้ไขได้
+
+* สไลด์ทางการศึกษาที่ถูกแปลงเป็นรูปแบบสเปรดชีตที่เหมาะสำหรับนักเรียน
+
+* แปลงสไลด์ PPSM ด้านการตลาดและขายสู่ไฟล์ ODS ที่สามารถแบ่งปันได้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* การอัตโนมัติการแปลงสไลด์เป็น ODS สำหรับรายงานที่เกิดซ้ำๆ
+
+* การสกัดตารางและแผนภูมิเป็นรูปแบบ ODS จำนวนมาก
+
+* การสร้างสเปรดชีตตามกำหนดเวลาจากสไลด์เอกซ์ของบริษัท
+
+* การรวมกับแพลตฟอร์มการทำงานเพื่ออัพเดตสเปรดชีตได้โดยไดนามิก
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ otherformats: XLTX DIF TSV SXC MHTML XLSB XLSX ODS XLAM EXCEL XLT XLSM XLTM MARK
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **PPSX 转换为 TSV** 将幻灯片导出为制表符分隔的数值，非常适合数据分析、CSV 替代方案和基于文本的数据工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 为分析或 AI 模型提取幻灯片表格。
+
+* 为机器学习流程准备 TSV 数据集。
+
+* 将演示文稿指标导入统计工具。
+
+* 与开发人员或分析师共享结构化幻灯片数据。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将演示文稿定期转换为 TSV 以供分析团队使用。
+
+* 批量将多个幻灯片导出为结构化数据集。
+
+* 随着幻灯片演示内容的更改自动更新 TSV 文件。
+
+* 与用于报告自动化的 ETL 流程集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

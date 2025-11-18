@@ -53,7 +53,51 @@ APIを使用して、透かしを使用してPOTXファイルからOTTへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTXをOTTに変換することで、クロスプラットフォームのワードプロセッシングアプリケーション用のOpenDocumentテンプレートが作成され、再利用可能なドキュメントフレームワークが容易になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 企業のスライドをOpenOffice用の編集可能なテンプレートフレームワークに変換する。
+
+* マーケティングや人事プレゼンテーションから標準化されたドキュメントテンプレートを作成する。
+
+* 学生の課題や教育モジュール用の再利用可能なテンプレートを準備する。
+
+* ビジュアルスライドデザインからブランド付きのドキュメントレイアウトを生成する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* プレゼンテーションファイルを再利用可能なOTTテンプレートにバッチ変換する。
+
+* 一貫したテンプレート更新のためのワークフロー自動化への統合。
+
+* 繰り返しのドキュメントテンプレートニーズのためのトリガーされたOTT生成。
+
+* オープンソースオフィス環境全体に自動化されたテンプレートエクスポート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

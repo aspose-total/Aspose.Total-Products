@@ -53,7 +53,51 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPSX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi **PPSX sang OTT** tạo ra các mẫu tài liệu mở không có macro, cho phép sử dụng lại các mẫu chuẩn mà không có rủi ro macro.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tạo mẫu đào tạo hoặc hội thảo trong LibreOffice/OpenOffice.
+
+* Mẫu tài liệu chuẩn cho tổ chức phi chính phủ hoặc học thuật.
+
+* Mẫu trang trình bày có thể tái sử dụng cho cộng tác nhóm.
+
+* Báo cáo dành cho khách hàng trong các định dạng đa nền tảng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo ra hàng loạt các mẫu OTT cho báo cáo định kỳ.
+
+* Tích hợp với hệ thống quy trình làm việc mã nguồn mở để triển khai mẫu.
+
+* Cập nhật định kỳ cho các mẫu chuẩn từ các bộ trình chiếu mới.
+
+* Tự động tạo ra tài liệu cộng tác từ các trang trình bày không có macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

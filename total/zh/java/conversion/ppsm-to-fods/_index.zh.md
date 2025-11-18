@@ -61,7 +61,51 @@ otherformats: TSV XLS XLSB XLAM XLSX EXCEL XLT SXC XLTX MARKDOWN XLSM XLTM FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将PPSM转换为FODS（Flat OpenDocument Spreadsheet）可提供与LibreOffice和OpenOffice兼容的轻量级、可编辑的电子表格格式，适用于协作项目和开源工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将幻灯片表格导出为FODS，以供开源电子表格应用程序使用。
+
+* 为多平台分析准备学术或研究幻灯片。
+
+* 将PPSM幻灯片中的运营指标转换为FODS格式。
+
+* 在无需专有软件依赖的情况下共享财务或销售数据。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将PPSM转换为FODS，供开源协作团队使用。
+
+* 定期将幻灯片数据提取到可编辑的电子表格模板中。
+
+* 集成到自动化项目报告工作流程中。
+
+* 触发跨平台共享的转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

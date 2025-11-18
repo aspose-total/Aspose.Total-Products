@@ -61,7 +61,51 @@ PPSX 파일을 TSV로 변환하는 동안 출력 TSV 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSX를 TSV로 변환**하면 데이터 분석, CSV 대안 및 텍스트 기반 데이터 워크플로에 이상적인 탭으로 구분된 값으로 슬라이드가 내보내집니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 분석이나 AI 모델을 위한 슬라이드 테이블 추출.
+
+* 기계 학습 파이프라인을 위한 TSV 데이터 세트 준비.
+
+* 통계 도구로 프레젠테이션 지표 가져오기.
+
+* 개발자나 분석가와 구조화된 슬라이드 데이터 공유.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 분석 팀을 위한 프레젠테이션을 TSV로 일정에 따라 변환.
+
+* 여러 슬라이드를 구조화된 데이터 세트로 일괄 내보내기.
+
+* 슬라이드 덱이 변경될 때 TSV 파일 자동 업데이트.
+
+* 보고 자동화를 위한 ETL 파이프라인 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

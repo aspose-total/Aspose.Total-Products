@@ -61,7 +61,51 @@ otherformats: XLS XLTX XLSB XLSX SXC FODS DIF XLAM MHTML EXCEL XLT TSV MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **PPSX в SXC** приводит к созданию файлов электронных таблиц StarOffice Spreadsheet, что позволяет пользователям старых офисных пакетов редактировать и обмениваться данными, полученными из слайдов, в приложениях, совместимых с SXC.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Совместимость с рабочим процессом офиса старого образца.
+
+* Архивирование таблиц презентаций для долгосрочного доступа.
+
+* Обмен данными между организациями с использованием StarOffice или OpenOffice.
+
+* Преобразование метрик слайдов для анализа в инструментах электронных таблиц.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование SXC для интеграции с системами старого образца.
+
+* Запланированные экспорты из повторяющихся слайдов презентаций.
+
+* Автоматическое создание электронных таблиц для совместной работы нескольких пользователей.
+
+* Автоматическое обновление при добавлении новых данных презентации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,51 @@ Usando a API, você também pode realizar a conversão de arquivo POTX para ODT 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A conversão de POTX para ODT permite exportar slides de apresentação para o formato de Texto do OpenDocument, adequado para o LibreOffice, OpenOffice e ambientes multiplataforma.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Converter apresentações em documentos de texto editáveis do OpenOffice ou LibreOffice.
+
+* Compartilhar conteúdo de slides em ambientes não-Microsoft.
+
+* Gerar relatórios a partir de decks de apresentação para usuários de escritórios de código aberto.
+
+* Preparar conteúdo educacional compatível com várias suítes de escritório.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de ODT para fluxos de trabalho de escritório multiplataforma.
+
+* Integração em plataformas de colaboração de documentos que suportam ODT.
+
+* Exportação automatizada para relatórios de projetos de código aberto.
+
+* Conversão acionada para acessibilidade de conteúdo em várias plataformas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

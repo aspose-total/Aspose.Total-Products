@@ -61,7 +61,31 @@ PPSMファイルをCSVに変換するときに、出力CSVファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PPSM（PowerPoint Slide Show）ファイルをCSV（Comma-Separated Values）に変換すると、プレゼンテーションからの表形式データを軽量で普遍的に互換性のあるスプレッドシート形式にエクスポートできます。データ分析、レポーティング、BIツールとの統合に最適です。
+
+## {{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+- ExcelやGoogle Sheets用にスライドベースのチャートをCSVにエクスポートする。
+- 分析用にプレゼンテーションの表を編集可能なデータファイルに変換する。
+- スライドからの数値レポートを普遍的に読み取れるCSV形式で共有する。
+- PPSMデッキからのセールスやマーケティングメトリクスを分析ツール用に準備する。
+
+## {{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+- 複数のスライドデッキをCSVファイルに一括変換する。
+- ダッシュボード用に表形式データを自動抽出する。
+- 定期的な企業プレゼンテーションからのCSV生成をスケジュールする。
+- ビジネスインテリジェンスプラットフォーム向けのETLパイプラインに統合する。
+
+## {{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPSM sang SXC, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi PPSM sang SXC (Bảng tính StarOffice Calc) cho phép các slide trình bày cũ được chuyển đổi thành bảng tính tương thích cho người dùng OpenOffice hoặc StarOffice cũ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi các slide bán hàng hoặc dự án thành bảng tính SXC có thể chỉnh sửa.
+
+* Chia sẻ các bài thuyết trình lịch sử với phần mềm văn phòng cũ.
+
+* Các slide học thuật hoặc doanh nghiệp được tái sử dụng cho báo cáo bảng tính.
+
+* Lưu trữ dữ liệu slide dưới dạng SXC nhẹ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ PPSM sang SXC cho các hệ thống cũ.
+
+* Trích xuất đồ thị và bảng theo lịch trình vào các tệp SXC.
+
+* Tích hợp với đường ống báo cáo tự động cho phần mềm cũ.
+
+* Chuyển đổi kích hoạt cho các bài thuyết trình định kỳ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

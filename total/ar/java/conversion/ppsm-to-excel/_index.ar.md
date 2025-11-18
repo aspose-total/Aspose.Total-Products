@@ -61,7 +61,55 @@ otherformats: DIF FODS XLSX EXCEL MHTML XLTM XLS XLT XLTX MARKDOWN TSV XLSM XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات PPSM إلى EXCEL يسمح بنقل كامل للرسوم البيانية والجداول والبيانات العددية من العروض التقديمية إلى تنسيق Microsoft Excel، مما يتيح لك التلاعب بالبيانات وتحليلها بشكل متقدم.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل عروض المبيعات إلى لوحات تحكم مبنية على Excel.
+
+* تحويل العروض المالية إلى أوراق Excel قابلة للتحرير.
+
+* إعداد شرائح إدارة المشاريع لتقارير Excel.
+
+* تحويل الشرائح الأكاديمية أو البحثية إلى مجموعات بيانات Excel للتحليل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+
+
+* معالجة دفعية للشرائح إلى سجلات عمل Excel للوصول العرضي للفريق.
+
+* التكامل مع خطوط الأنابيب للإبلاغ عن التحويل التلقائي من الشرائح إلى Excel.
+
+* استخراج مجدول للجداول والرسوم البيانية من العروض التقديمية.
+
+* تحويل مُشغّل للتقارير الإدارية المتكررة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

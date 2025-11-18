@@ -61,7 +61,51 @@ otherformats: TSV ODS DIF XLTM XLSB XLTX MHTML SXC XLSX EXCEL XLS MARKDOWN FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **PPSX เป็น MHTML** จะสร้างไฟล์ HTML เดียวที่รวมเนื้อหางานนำเสนอเข้าด้วยกัน รวมถึงภาพนิ่งและการจัดรูปแบบเข้าไว้ในไฟล์ที่เป็นเว็บไซต์เอง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การเผยแพร่สไลด์เป็นเอกสารเว็บสำหรับการแชร์ออนไลน์
+
+* การส่งอีเมลเอกสารนำเสนอทั้งหมดในไฟล์เดียวโดยไม่มีไฟล์แนบ
+
+* การสร้างเวอร์ชัน HTML แบบออฟไลน์ของสไลด์การอบรมหรือเวบินาร์
+
+* การเก็บสไลด์เด็กสำหรับการอ้างอิงผ่านเว็บไซต์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงงานนำเสนอที่เกิดซ้ำให้เป็น MHTML เพื่อกระจายทางเว็บตามกำหนด
+
+* การส่งออกเป็นชุดสไลด์หลายชุดเป็นเอกสาร HTML เป็นเว็บไซต์เอง
+
+* การรวมระบบอินทราเน็ตหรือระบบ LMS เพื่อการเผยแพร่สไลด์โดยอัตโนมัติ
+
+* การอัปเดตตามเงื่อนไขเมื่อสไลด์เด็กถูกแก้ไขสำหรับเว็บอาร์กีฟ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

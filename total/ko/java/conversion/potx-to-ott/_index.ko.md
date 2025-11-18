@@ -53,7 +53,51 @@ API를 사용하여 워터마크를 사용하여 POTX 파일을 OTT로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX를 OTT로 변환하여 교차 플랫폼 워드 프로세싱 애플리케이션용 OpenDocument 템플릿을 생성하여 재사용 가능한 문서 프레임워크를 용이하게 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 기업 슬라이드를 OpenOffice용 편집 가능한 템플릿 프레임워크로 변환합니다.
+
+* 마케팅 또는 인사 프레젠테이션에서 표준 문서 템플릿을 작성합니다.
+
+* 학생 과제 또는 교육 모듈용 재사용 가능한 템플릿을 준비합니다.
+
+* 시각적 슬라이드 디자인에서 브랜드화된 문서 레이아웃을 생성합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 프레젠테이션 파일을 재사용 가능한 OTT 템플릿으로 일괄 변환합니다.
+
+* 일관된 템플릿 업데이트를 위한 워크플로 자동화에 통합합니다.
+
+* 반복되는 문서 템플릿 요구 사항에 대한 트리거된 OTT 생성을 준비합니다.
+
+* 오픈 소스 오피스 환경 전체에 대한 자동화된 템플릿 내보내기를 수행합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

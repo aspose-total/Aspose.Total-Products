@@ -61,7 +61,51 @@ Podczas konwertowania pliku PPSX do XLSM możesz również dodać znak wodny do 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie **PPSX na XLSM** generuje skoroszyty Excel z makrami z zachowaniem automatyzacji i zaawansowanej funkcjonalności do profesjonalnego raportowania.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Osadzanie makr do automatycznych raportów projektowych.
+
+* Modelowanie finansowe z automatycznymi obliczeniami pochodzącymi ze slajdów.
+
+* Interaktywne pulpity nawigacyjne z metrykami sterowanymi przez slajdy.
+
+* Generowanie powtarzalnych skoroszytów Excel z dynamiczną zawartością.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana generacja wsadowa raportów z makrami.
+
+* Integracja z narzędziami automatyzacji procesów do Excela.
+
+* Automatyczne aktualizacje przy zmianie treści slajdów.
+
+* Wywoływane tworzenie pulpitów nawigacyjnych XLSM do inteligencji biznesowej.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

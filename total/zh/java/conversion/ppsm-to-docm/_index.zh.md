@@ -52,7 +52,51 @@ otherformats: DOTM WORD ODT WORDML DOCM DOTX FLATOPC DOCMX TEXT OTT RTF DOT
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将PPSM转换为DOCM（Word宏启用文档）可将演示文稿转换为可编辑的Word文档，同时保留宏功能。非常适合企业工作流程，其中自动化或嵌入式脚本可提高生产力。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 需要宏以实现自动图表更新的交互式报告。
+
+* 带有嵌入式VBA脚本以进行场景模拟的培训指南。
+
+* 自幻灯片生成的内部文档自动化。
+
+* 用于具有动作触发宏的动态客户提案的转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量处理PPSM演示文稿，转换为带有宏的DOCM模板。
+
+* 将财务演示文稿定期更新为支持宏的Word报告。
+
+* 与工作流自动化工具集成，实现幻灯片到文档的转换。
+
+* 从带有宏的PPSM幻灯片自动生成内部审计报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

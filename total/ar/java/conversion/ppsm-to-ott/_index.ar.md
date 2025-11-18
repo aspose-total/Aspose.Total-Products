@@ -53,7 +53,51 @@ otherformats: ODT OTTM DOTX OTTX TEXT DOT FLATOPC OTT WORDML DOTM WORD RTF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل PPSM إلى OTT (قالب OpenDocument) يتيح للمستخدمين إنشاء قوالب وثائق قابلة لإعادة الاستخدام من العروض التقديمية في تنسيقات مفتوحة المصدر، مثالية للوثائق الموحدة في الشركات والمؤسسات الأكاديمية أو غير الحكومية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إعداد قوالب تقارير قابلة لإعادة الاستخدام لمستخدمي LibreOffice.
+
+* تحويل عروض الشرائح التدريبية إلى قوالب وثائق قابلة للتحرير.
+
+* إعادة استخدام شرائح أكاديمية كقوالب محاضرات أو مهام.
+
+* تحويل شرائح مشروعات غير حكومية إلى قوالب تقارير.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعات من عروض الشرائح إلى قوالب OTT للاستخدام المتكرر.
+
+* دمجها في أنابيب العمل الآلي لإنشاء الوثائق.
+
+* إنشاء مكتبات القوالب بشكل مجدول من الشرائح المتكررة.
+
+* إنشاء قوالب OTT بناءً على مستندات المشروع.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

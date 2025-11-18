@@ -53,7 +53,51 @@ otherformats: WORDML RTF DOT OTT DOTM TEXT WORD OTTM FLATOPC ODT DOTX OTTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل **PPSX إلى OTT** يولد قوالب مستندات مفتوحة بدون ماكرو، مما يتيح استخدام قوالب موحدة قابلة لإعادة الاستخدام بدون مخاطر الماكرو.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء قوالب تدريب أو ورش عمل في LibreOffice/OpenOffice.
+
+* قوالب مستندات موحدة للمنظمات غير الحكومية أو الأكاديمية.
+
+* قوالب قائمة على الشرائح قابلة لإعادة الاستخدام للتعاون في الفريق.
+
+* تقارير تواجه العميل بتنسيقات متعددة المنصات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* توليد دُفعي لقوالب OTT للتقارير المتكررة.
+
+* دمج مع أنظمة سير العمل مفتوحة المصدر لنشر القوالب.
+
+* تحديثات مجدولة للقوالب الموحدة من عروض الشرائح الجديدة.
+
+* توليد تلقائي للمستندات التعاونية من الشرائح بدون ماكرو.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

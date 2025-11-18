@@ -61,7 +61,55 @@ Při převodu souboru PPSX na XLS můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod **PPSX na XLS** produkuje tradiční tabulky Excelu ze snímků, zajistí širokou kompatibilitu napříč staršími verzemi Microsoft Office a zachová tabulky a formátování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Archivace metrik prezentace ve formátu XLS.
+
+* Generování upravitelných tabulek pro zastaralé Office systémy.
+
+* Interní reportování a dokumentace pomocí dat ze snímků.
+
+* Sdílení obsahu snímků připraveného pro tabulky se týmy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod XLS pro firemní knihovny snímků.
+
+* Plánované exporty tabulek prezentace pro auditní reportování.
+
+* Integrace s systémy správy dokumentů.
+
+* Automatické aktualizace souborů XLS při revizi snímků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

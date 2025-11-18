@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPSX sang XLS, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi **PPSX sang XLS** tạo ra các bảng tính Excel truyền thống từ các slide, đảm bảo tính tương thích rộng rãi trên các phiên bản Microsoft Office cũ hơn trong khi giữ lại bảng và định dạng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Lưu trữ các chỉ số trình bày dưới dạng XLS.
+
+* Tạo bảng tính có thể chỉnh sửa cho các hệ thống Office cũ.
+
+* Báo cáo nội bộ và tài liệu sử dụng dữ liệu từ slide.
+
+* Chia sẻ nội dung slide sẵn sàng cho bảng tính với các nhóm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi XLS hàng loạt cho thư viện slide doanh nghiệp.
+
+* Xuất bảng trình bày theo lịch trình cho báo cáo kiểm toán.
+
+* Tích hợp với hệ thống quản lý tài liệu.
+
+* Tự động cập nhật các tệp XLS khi slide được sửa đổi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

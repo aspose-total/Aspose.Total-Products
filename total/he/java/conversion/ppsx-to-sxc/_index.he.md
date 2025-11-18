@@ -102,7 +102,51 @@ otherformats: XLS XLTX XLSB XLSX CSV FODS DIF XLAM MHTML EXCEL XLT TSV MARKDOWN 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **PPSX ל-SXC** מייצרת קבצי StarOffice Spreadsheet, מאפשרת למשתמשים של חבילת המשרד הישנה לערוך ולשתף נתונים שנגזרו משקפים ביישומים התומכים ב-SXC.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* תאימות לזרימת עבודה במשרדים מוקדמים.
+
+* ארכיבה של טבלאות מצגת לגישה לטווח ארוך.
+
+* שיתוף נתונים בין ארגונים באמצעות StarOffice או OpenOffice.
+
+* המרת מדדי שקפים לניתוח בכלי גיליון נתונים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת SXC בצורה צפופה לאינטגרציה עם מערכת מורשית.
+
+* ייצואים מתוזמנים משקפים חוזרים.
+
+* יצירה אוטומטית של גיליונות אלקטרוניים לשיתוף פעולה מרובה משתמשים.
+
+* עדכונים מופעלים כאשר נתוני מצגת חדשים מתווספים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

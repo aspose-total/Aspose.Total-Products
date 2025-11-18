@@ -53,7 +53,51 @@ API'yi kullanarak, filigranlı PPSM dosyasını OTT'ye dönüştürme işlemini 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM'yi OTT'ye (OpenDocument Şablonu) dönüştürmek, kullanıcıların açık kaynak formatlarındaki sunumlardan tekrar kullanılabilir belge şablonları oluşturmalarına olanak tanır, standartlaştırılmış kurumsal, akademik veya STK belgeleri için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* LibreOffice kullanıcıları için tekrar kullanılabilir rapor şablonları hazırlama.
+
+* Eğitim slayt destelerini düzenlenebilir belge şablonlarına dönüştürme.
+
+* Akademik slaytların ders veya ödev şablonları olarak yeniden kullanılması.
+
+* STK proje slaytlarının raporlama şablonlarına dönüştürülmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Slayt destelerinin tekrar kullanım için OTT şablonlarına toplu dönüşümü.
+
+* Belge oluşturma için otomatik iş akışı boru hatlarına entegrasyon.
+
+* Tekrar eden slaytlardan şablon kütüphanelerinin zamanlanmış oluşturulması.
+
+* Proje belgeleri için tetiklenen OTT şablonu oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

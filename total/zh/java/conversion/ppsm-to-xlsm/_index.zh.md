@@ -61,7 +61,51 @@ otherformats: XLTM XLSX MHTML SXC XLSB DIF ODS EXCEL XLAM FODS TSV XLSM MARKDOWN
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 PPSM 转换为 XLSM（Excel 宏启用工作簿）可保留幻灯片中的公式、宏和图表，实现自动计算和数据驱动报告。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将带有财务模型的演示文稿转换为宏启用工作簿。
+
+* 利用幻灯片中的宏准备交互式项目仪表板。
+
+* 将带有公式的学术幻灯片转换为 XLSM 以实现自动评分。
+
+* 将销售幻灯片转换为 XLSM 以实现自动报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将 PPSM 转换为 XLSM 以进行工作流自动化。
+
+* 从演示文稿生成定时的宏启用工作簿。
+
+* 与商业智能管道集成。
+
+* 触发式转换以实现定期报告自动化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -102,7 +102,51 @@ otherformats: EXCEL ODS XLTM MHTML XLAM XLSM SXC XLSX XLT TSV DIF FODS XLSB XLTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POTX ל־Markdown מאפשרת ייצוא של תוכן השקפים לקבצי סימון קריאים וקלים המתאימים לתיעוד, למאגרי GitHub וליצירת אתרים סטטיים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* המרת מצגות להערות Markdown לתיעוד מפתחים.
+
+* הכנת מדריכי סליידים או מדריכים במאגרי GitHub.
+
+* ייצוא תוכן לייצוגי אתרים סטטיים כמו Hugo או Jekyll.
+
+* המרת מצגות הדרכה ל־Markdown לבקרת גרסאות קלה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת Markdown בצורה צפופה לספריות תיעוד.
+
+* ייצוא מופעל מהשקפים ל־Markdown לצרכי תיעוד CI/CD.
+
+* שילוב עם מחוללי אתרים סטטיים לעדכונים אוטומטיים של האתר.
+
+* חילוץ אוטומטי של שקפים ל־Markdown לעריכה שיתופית.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

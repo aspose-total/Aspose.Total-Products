@@ -102,7 +102,51 @@ otherformats: TSV XLS XLSB XLAM XLSX EXCEL XLT SXC XLTX MARKDOWN XLSM XLTM CSV M
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת PPSM ל־FODS (גיליון נתון פתוח קל) מספקת פורמט גיליון נתון קל, ניתן לעריכה ומתאים ל־LibreOffice ו־OpenOffice, שימושי לפרויקטים שיתופיים ולתהליכי עבודה בקוד פתוח.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* ייצוא טבלאות שקופיות ל־FODS ליישומי גיליון נתון בקוד פתוח.
+
+* הכנת שקופיות אקדמיות או מחקר לניתוח מרובה פלטפורמות.
+
+* המרת מדדים תפעוליים ממצגות PPSM לפורמט FODS.
+
+* שיתוף נתונים פיננסיים או מכירות ללא תלות בתוכנה בבעלות פטורה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת רצף PPSM ל־FODS לצוותים שיתופיים בקוד פתוח.
+
+* חילוץ מתוזמן של נתוני שקופיות לתבניות גיליון נתון שניתנות לעריכה.
+
+* שילוב בתהליכי דיווח פרויקטים אוטומטיים.
+
+* המרה מופעלת לשיתוף חוצת פלטפורמות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

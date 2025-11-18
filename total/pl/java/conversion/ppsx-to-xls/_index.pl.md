@@ -61,7 +61,51 @@ Podczas konwertowania pliku PPSX do XLS możesz również dodać znak wodny do w
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie **PPSX na XLS** generuje tradycyjne arkusze kalkulacyjne Excela z slajdów, zapewniając szeroką kompatybilność z starszymi wersjami pakietu Microsoft Office, jednocześnie zachowując tabele i formatowanie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Archiwizacja metryk prezentacji w formacie XLS.
+
+* Generowanie edytowalnych arkuszy kalkulacyjnych dla starszych systemów Office.
+
+* Wewnętrzne raportowanie i dokumentowanie przy użyciu danych ze slajdów.
+
+* Udostępnianie treści slajdów gotowych do umieszczenia w arkuszu kalkulacyjnym zespołom.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja na XLS dla korporacyjnych bibliotek slajdów.
+
+* Zaplanowane eksportowanie tabel prezentacji do raportowania audytowego.
+
+* Integracja z systemami zarządzania dokumentami.
+
+* Automatyczne aktualizacje plików XLS po zmianach w slajdach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

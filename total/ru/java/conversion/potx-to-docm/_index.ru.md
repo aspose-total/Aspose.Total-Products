@@ -53,7 +53,51 @@ otherformats: TEXT ODT DOCM WORD RTF FLATOPC DOTM DOCMX WORDML DOTX DOT OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование шаблонов POTX в формат DOCM позволяет пользователям сохранить функциональность с поддержкой макросов в их документах Word. Идеально подходит для бизнеса или разработчиков, нуждающихся в динамической манипуляции содержимым после конвертации.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт содержимого презентации в макро-включенные отчеты для автоматизированных вычислений.
+
+* Создание редактируемых шаблонов с встроенными скриптами VBA для автоматизации офисных процессов.
+
+* Создание интерактивных учебных документов с кнопками или макросами из слайдов.
+
+* Автоматизация генерации отчетов для дашбордов управления проектами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетная обработка шаблонов POTX в формат DOCM для повторяющихся отчетных задач.
+
+* Интеграция в системы автоматизации рабочих процессов на основе макросов.
+
+* Автоматическое преобразование, запускаемое системами управления контентом.
+
+* Экспорт динамических презентаций в интерактивные шаблоны Word для использования клиентами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

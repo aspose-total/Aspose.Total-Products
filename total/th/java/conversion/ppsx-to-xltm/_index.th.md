@@ -61,7 +61,51 @@ otherformats: EXCEL MHTML ODS XLS SXC MARKDOWN XLTX TSV XLT FODS XLSX XLTM DIF X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **PPSX เป็น XLTM** จะสร้างเทมเพลต Excel ที่เปิดใช้งานมาโคร ทำให้สามารถทำออโตเมชันขั้นสูงและรายงานเชิงไดนามิกสำหรับงานทางธุรกิจหรืองานทางวิชาการที่เกิดซ้ำๆ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* แดชบอร์ดที่ใช้เทมเพลตพร้อมมาโครภายใน
+
+* เทมเพลตของขั้นตอนการทำงานอัตโนมัติที่ได้มาจากการวัดสไลด์
+
+* โครงสร้างรายงาน Excel ที่ใช้ซ้ำได้สำหรับทีมการเงินหรือทีมทรัพยากรบุคคล
+
+* เทมเพลตสเปรดชีทที่เปิดใช้มาโครสำหรับงานทางวิชาการหรือธุรกิจ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การออโตเมชัน" %}}
+
+
+
+* การสร้าง XLTM จำนวนมากสำหรับรายงานที่เกิดซ้ำ
+
+* การอัปเดตตามกำหนดเวลาของเทมเพลตที่เปิดใช้มาโครจากงานนำเสนอ
+
+* การรวมกับแพลตฟอร์มการออโตเมชันสำหรับการทำงาน Excel
+
+* การสร้างเทมเพลตไดนามิกสำหรับการรายงานปริมาณมาก
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

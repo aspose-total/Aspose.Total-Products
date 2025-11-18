@@ -61,7 +61,51 @@ otherformats: TSV XLAM XLTM MHTML XLSM XLSB FODS ODS XLSX DIF XLTX XLT SXC XLS M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **PPSX 转换为 XLSB** 可以从幻灯片中导出二进制 Excel 文件，提高处理大型数据集和复杂计算的性能。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从演示幻灯片中进行高性能财务报告。
+
+* 在 Excel 中管理大型数据集而无性能问题。
+
+* 以高效的二进制格式存档幻灯片表格。
+
+* 从幻灯片数据创建复杂的分析电子表格。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将大型幻灯片组转换为 XLSB 以供分析团队使用。
+
+* 与自动化报告系统集成，处理大量数据。
+
+* 定期更新来自重复演示的二进制电子表格。
+
+* 针对性能关键应用程序触发 XLSB 转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPSX sang XLAM, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi **PPSX thành XLAM** tạo ra các tệp Excel add-in hỗ trợ macro từ nội dung bài thuyết trình, lý tưởng cho việc tự động hóa tiên tiến và công cụ Excel có thể tái sử dụng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tạo các add-in Excel cho tài chính hoặc theo dõi dự án.
+
+* Tự động hóa các nhiệm vụ bảng tính lặp đi lặp lại bằng dữ liệu trang.
+
+* Tạo bảng điều khiển tương tác với macro nhúng.
+
+* Phân phối các công cụ hỗ trợ macro tạo ra từ bảng trang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo add-in Excel dựa trên cơ sở kích hoạt cho tự động hóa quy trình làm việc.
+
+* Chuyển đổi hàng loạt các trang trình diễn thành công cụ XLAM có thể tái sử dụng.
+
+* Tích hợp với các mẫu Excel doanh nghiệp để báo cáo tự động.
+
+* Cập nhật định kỳ các giải pháp Excel hỗ trợ macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

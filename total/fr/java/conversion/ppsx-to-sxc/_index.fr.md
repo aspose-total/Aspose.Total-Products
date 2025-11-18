@@ -61,7 +61,51 @@ Lors de la conversion du fichier PPSX en SXC, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de **PPSX en SXC** produit des fichiers StarOffice Spreadsheet, permettant aux utilisateurs d'anciennes suites bureautiques de modifier et partager des données dérivées de diapositives dans des applications compatibles avec SXC.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Compatibilité avec les flux de travail de bureau hérités.
+
+* Archivage des tableaux de présentation pour un accès à long terme.
+
+* Partage de données entre organisations utilisant StarOffice ou OpenOffice.
+
+* Conversion des métriques de diapositives pour analyse dans des outils de feuilles de calcul.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en masse de SXC pour l'intégration des systèmes hérités.
+
+* Exportations planifiées à partir de diapositives de présentation récurrentes.
+
+* Génération automatique de feuilles de calcul pour une collaboration multi-utilisateurs.
+
+* Mises à jour déclenchées lors de l'ajout de nouvelles données de présentation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

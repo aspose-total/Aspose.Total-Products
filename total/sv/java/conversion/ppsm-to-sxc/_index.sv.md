@@ -61,7 +61,51 @@ Medan du konverterar PPSM-fil till SXC kan du också lägga till vattenstämpel 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av PPSM till SXC (StarOffice Calc Spreadsheet) gör att äldre presentationsbilder kan omvandlas till kompatibla kalkylblad för användare av äldre OpenOffice eller StarOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* Konvertera försäljnings- eller projektbilder till redigerbara SXC-kalkylblad.
+
+* Dela historiska presentationer med äldre kontorsprogram.
+
+* Akademiska eller företagsbilder återanvänds för kalkylbladsrapportering.
+
+* Arkivering av bilddata i ett lätt SXC-format.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batchkonvertering av PPSM till SXC för äldre system.
+
+* Planerad extrahering av diagram och tabeller till SXC-filer.
+
+* Integration med automatiserade rapporteringspipeliner för äldre programvara.
+
+* Utlöst konvertering för återkommande presentationer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

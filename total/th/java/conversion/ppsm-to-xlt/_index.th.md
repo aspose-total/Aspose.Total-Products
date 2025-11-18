@@ -61,7 +61,51 @@ otherformats: XLS XLAM EXCEL ODS TSV DIF XLT XLTX XLSB FODS XLSX MHTML XLTM XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง PPSM เป็น XLT (Excel Template) ช่วยให้สามารถสร้างเทมเพลตสเปรดชีทที่ใช้ซ้ำจากงานนำเสนอ ซึ่งช่วยในการลดการทำรายงานในองค์กรหรือในสถาบันการศึกษา
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การแปลงตารางในงานนำเสนอเป็นเทมเพลต Excel ที่ใช้ซ้ำได้
+
+* เตรียมเทมเพลตโปรเจกต์หรือการเงินจากสไลด์
+
+* สไลด์ทางการศึกษาที่ใช้ใหม่เป็นเทมเพลตการตรวจเกรดหรือการมอบหมายงาน
+
+* การแปลงสไลด์ทางการตลาดเป็นเทมเพลตรายงาน Excel
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงจำนวนมากของ PPSM เป็น XLT สำหรับเทมเพลตมาตรฐาน
+
+* การสร้างไลบรารีเทมเพลตจากสไลด์ตามกำหนดเวลา
+
+* การรวมระบบรายงานอัตโนมัติ
+
+* การสร้างเทมเพลตตามเงื่อนไขสำหรับโครงการที่เกิดซ้ำ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

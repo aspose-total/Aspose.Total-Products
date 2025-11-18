@@ -61,7 +61,51 @@ Podczas konwertowania pliku PPSM do XLT możesz również dodać znak wodny do w
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie PPSM na XLT (szablon Excela) umożliwia tworzenie wielokrotnie używanych szablonów arkuszy kalkulacyjnych z prezentacji, usprawniając raportowanie korporacyjne lub akademickie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Konwertowanie tabel prezentacji na wielokrotnie używane szablony Excela.
+
+* Przygotowywanie szablonów projektów lub finansowych z slajdów.
+
+* Akademickie slajdy przekształcone w szablony oceniania lub zadań.
+
+* Prezentacje marketingowe przekształcone w szablony raportowania Excela.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa PPSM na XLT dla standaryzowanych szablonów.
+
+* Zaplanowane tworzenie bibliotek szablonów z slajdów.
+
+* Integracja z systemami automatycznego raportowania.
+
+* Generowanie szablonów na żądanie dla powtarzających się projektów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

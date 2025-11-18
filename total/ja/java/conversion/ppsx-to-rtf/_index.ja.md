@@ -53,7 +53,51 @@ APIを使用して、透かしを使用してPPSXファイルからRTFへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSXをRTFに変換**すると、スライドを普遍的に互換性のあるリッチテキスト形式のドキュメントに変換し、ソフトウェアの制約なしで広範なアクセシビリティを必要とする環境に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+
+
+* プレゼンテーションをテキスト重視のドキュメントに変換して簡単に共有する。
+
+* RTF形式でスライドコンテンツを普遍的に読み取れる形式でアーカイブする。
+
+* プレゼンテーションからの内部メモやレポートの作成。
+
+* 学術または企業利用向けのクロスプラットフォームで編集可能なコンテンツ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 複数のスライドデッキをRTFに自動バッチ変換。
+
+* アーカイブ目的で文書リポジトリとの統合。
+
+* プレゼンテーションスライドからの内部レポートの定期生成。
+
+* プレゼンテーションの編集後にRTFドキュメントをトリガー更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

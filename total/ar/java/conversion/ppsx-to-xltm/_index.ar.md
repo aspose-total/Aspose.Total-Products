@@ -61,7 +61,51 @@ otherformats: EXCEL MHTML ODS XLS SXC MARKDOWN XLTX TSV XLT FODS XLSX XLTM DIF X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل **PPSX إلى XLTM** ينتج قوالب Excel مع ماكرو، مما يسمح بالتشغيل التلقائي المتقدم والتقارير الديناميكية للمهام التجارية أو الأكاديمية المتكررة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* لوحات تحكم معتمدة على القوالب مع ماكرو مضمنة.
+
+* قوالب سير العمل التلقائية المستمدة من مقاييس الشرائح.
+
+* هياكل تقارير Excel قابلة لإعادة الاستخدام لفرق المالية أو الموارد البشرية.
+
+* قوالب جداول بيانات ممكنة للماكرو للأغراض الأكاديمية أو الشركات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* إنشاء دفعة من ملفات XLTM للتقارير المتكررة.
+
+* تحديثات مجدولة للقوالب الممكنة للماكرو من العروض التقديمية.
+
+* التكامل مع منصات التشغيل التلقائي لسير العمل في Excel.
+
+* إنشاء قوالب ديناميكية مفعلة بالماكرو بشكل مستند لتقارير بحجم كبير.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

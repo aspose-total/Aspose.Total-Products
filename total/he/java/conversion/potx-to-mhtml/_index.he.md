@@ -102,7 +102,51 @@ otherformats: EXCEL SXC CSV XLT XLTM XLSM XLAM XLSB DIF ODS XLTX XLSX MARKDOWN T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POTX ל-MHTML מציגה שקפים של המצגת לקובץ ארכיון רשת אחד, המשלב HTML, CSS ותמונות להפצה לאינטרנט או לשימוש לא מקוון.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* ייצוא שקפים כארכיונות רשת עצמאיים לצפייה ברשת.
+
+* שיתוף מצגות דרך דוא"ל ללא שבירת העיצוב.
+
+* ארכיבת מצגות תדמיתיות למאגרי רשת.
+
+* הכנת דוחות אינטראקטיביים לצריכה ברשת לא מקוונת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* ייצוא MHTML בצורת צפייה ברשת בצורה צפונית של מצגות תדמיתיות עסקיות.
+
+* יצירת MHTML מופעלת לגישה לא מקוונת בקבוצות מבוזרות.
+
+* שילוב עם מערכות לניהול תוכן לארכיבת רשת.
+
+* אריזת שקפים אוטומטית להפצה ללקוחות או צדדים עוסקיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

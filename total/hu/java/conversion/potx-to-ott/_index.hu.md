@@ -53,7 +53,51 @@ Az API segítségével POTX fájlból OTT-ba konvertálhat vízjellel. Ha vízje
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A POTX átalakítása OTT formátummá OpenDocument sablonokat hoz létre platformfüggetlen szövegszerkesztő alkalmazásokhoz, elősegítve a használható dokumentumkeretrendszereket.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Vállalati diák átalakítása szerkeszthető sablonkeretekké OpenOffice-hoz.
+
+* Szabványos dokumentumsablonok létrehozása marketing vagy HR prezentációkból.
+
+* Újrafelhasználható sablonok előkészítése hallgatói feladatokhoz vagy tanítási modulokhoz.
+
+* Márkás dokumentum elrendezések generálása vizuális diáktervezésekből.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Prezentációs fájlok tömeges átalakítása újrafelhasználható OTT sablonokká.
+
+* Integráció a munkafolyamat-automatizálásba a következetes sablonfrissítések érdekében.
+
+* Kiváltott OTT generálás ismétlődő dokumentumsablon igényekre.
+
+* Automatizált sablon export nyílt forráskódú irodai környezetekben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

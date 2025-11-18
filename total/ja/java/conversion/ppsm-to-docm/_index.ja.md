@@ -53,7 +53,51 @@ APIを使用して、透かしを使用してPPSMファイルからDOCMへの変
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSMをDOCXに変換すると、プレゼンテーションを編集可能なWord文書に変換でき、マクロ機能を保持します。自動化や埋め込みスクリプトが生産性を向上させる企業ワークフローに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 自動的なチャート更新のためにマクロが必要なインタラクティブレポート。
+
+* シナリオシミュレーション用のVBAスクリプトが埋め込まれたトレーニングガイド。
+
+* スライドから生成される内部文書の自動化。
+
+* アクションによってトリガーされるマクロを備えた動的なクライアント提案の変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* マクロを備えたDOCXテンプレートにPPSMデッキをバッチ処理。
+
+* ファイナンシャルプレゼンテーションをスケジュール更新してマクロを有効にしたWordレポートに変換。
+
+* ワークフロー自動化ツールと統合して、スライドから文書への変換。
+
+* PPSMスライドから内部監査レポートを自動生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

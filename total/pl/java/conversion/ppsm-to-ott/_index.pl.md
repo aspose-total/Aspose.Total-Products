@@ -53,7 +53,55 @@ Korzystając z API, możesz również wykonać konwersję pliku PPSM do OTT ze z
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja PPSM na OTT (OpenDocument Template) pozwala użytkownikom tworzyć wielokrotnie używane szablony dokumentów z prezentacji w formatach open-source, idealne do standaryzacji dokumentacji korporacyjnej, akademickiej lub NGO.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przygotowywanie wielokrotnie używanych szablonów raportów dla użytkowników LibreOffice.
+
+* Konwertowanie slajdów szkoleniowych na edytowalne szablony dokumentów.
+
+* Przekształcanie slajdów akademickich w szablony wykładów lub zadań.
+
+* Konwersja slajdów projektowych NGO na szablony raportów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja zestawów slajdów na szablony OTT do wielokrotnego użytku.
+
+* Integracja w zautomatyzowane potoki pracy dla tworzenia dokumentów.
+
+* Zaplanowane generowanie bibliotek szablonów z powtarzających się slajdów.
+
+* Wywoływane tworzenie szablonów OTT dla dokumentacji projektu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

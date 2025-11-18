@@ -61,7 +61,51 @@ otherformats: XLTX XLT TSV XLS MHTML XLAM FODS SXC MARKDOWN EXCEL ODS DIF XLSM X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **PPSX เป็น DIF** สามารถส่งออกตารางสไลด์เป็นรูปแบบการแลกเปลี่ยนข้อมูล (Data Interchange Format) ซึ่งเป็นการแบ่งข้อมูลอย่างราบรื่นระหว่างแอปพลิเคชันสเปรดชีต ทำให้เหมาะสำหรับระบบที่เก่าหรือสภาพแวดล้อมที่แตกต่างกัน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การโอนย้ายข้อมูลที่เป็นสไลด์ไปยังเครื่องมือสเปรดชีตรุ่นเก่า
+
+* การส่งออกข้อมูลทางวิชาการหรือวิจัยจากการนำเสนอ
+
+* เตรียมชุดข้อมูลสำหรับซอฟต์แวร์ทางสถิติหรือการวิเคราะห์ทางวิทยาศาสตร์
+
+* การแลกเปลี่ยนข้อมูลมาตรฐานระหว่างแพลตฟอร์ม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การส่งออกกลุ่มงานนำเสนอเป็น DIF ตามกำหนดเวลาสำหรับกระบวนการทำงานทางวิจัย
+
+* การผสานรวมโดยอัตโนมัติกับท่อประมวลผลข้อมูล
+
+* การแปลงโดยใช้การกระตุ้นสำหรับงานที่เกิดซ้ำซากจากสไลด์ไปยังฐานข้อมูล
+
+* การแปลงข้อมูลเป็นกลุ่มสำหรับทีมวิเคราะห์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -99,7 +99,51 @@ otherformats: DOCX DOCM TEXT OTT WORDML DOTX WORD DOC ODT FLATOPC DOTM DOT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת PPSM ל־RTF (פורמט טקסט עשיר) מציעה דרך קלה ואוניברסלית להפוך שקופיות למסמכי טקסט ניתנים לעריכה. אידיאלי עבור שיתוף באמצעות דואר אלקטרוני, תוכנה מורשית ושיתוף פעולה בין פלטפורמות שונות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייצוא תוכן מצגת ל־RTF להפצה באמצעות דואר אלקטרוני.
+
+* יצירת מסמך קל משקופיות לצורך ארכיבה.
+
+* המרת שקופיות לפורמט טקסט ניתן לעריכה לשימוש בין פלטפורמות.
+
+* הכנת חוברות RTF ממצגות שיווק או הדרכה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת רצף של PPSM ל־RTF להפצה בצוות.
+
+* ייצוא אוטומטי של שקופיות של הרצאות למסמכי RTF ניתנים לעריכה.
+
+* יצירת RTF מתוזמנת לצורכי תקינות או זריזות בעבודת דיווח.
+
+* שילוב עם מערכות ניהול מסמכים מורשים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

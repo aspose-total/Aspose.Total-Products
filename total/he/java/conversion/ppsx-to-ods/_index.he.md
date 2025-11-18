@@ -102,7 +102,55 @@ otherformats: XLTM MHTML MARKDOWN TSV XLS CSV FODS DIF XLSB XLT XLAM XLSM EXCEL 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **PPSX ל-ODS** יוצרת קבצי OpenDocument Spreadsheet ממצגות, מאפשרת עריכה ושיתוף ב־LibreOffice, OpenOffice או אפליקציות גליון נתונים צולבות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* הכנת נתוני פרויקט שיתופי משקפים.
+
+* דיווחי אקדמיה או תעשייתיים בפורמטים פתוחים.
+
+* שיתוף גליונות נתונים צולבי פלטפורמה לצוותות מרוחקות.
+
+* קבוצות נתונים ניתנים לעריכה לניתוחים או ללוחות בקרה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת ODS אוטומטית בצורת סדרת פעולות עבור נתוני מצגת חוזרים.
+
+* שילוב עם כלים לזרימת עבודה קוד פתוח לעריכה מרובה משתמשים.
+
+* ייצוא מבוסס טריגר של טבלאות משקפים לגליונות נתונים ODS.
+
+* עדכונים מתוזמנים לדו"חות ולדשבורדים חוזרים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

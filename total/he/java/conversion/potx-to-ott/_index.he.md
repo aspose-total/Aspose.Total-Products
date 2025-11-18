@@ -99,7 +99,55 @@ otherformats: FLATOPC RTF DOTX ODT WORD DOC DOT WORDML DOTM TEXT DOCX DOCM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת POTX ל-OTT יוצרת תבניות OpenDocument עבור יישומי עיבוד מילים צלמים, ומקלה על מסגרות מסמכים ניתנות לשימוש חוזר.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* המרת שקופיות תארגניות לתבניות ניתנות לעריכה עבור OpenOffice.
+
+* יצירת תבניות מסמכים תקניות ממצגות שיווק או משאבי אנוש.
+
+* הכנת תבניות ניתנות לשימוש חוזר למטלות סטודנטים או מודולים להוראה.
+
+* יצירת פריסות מסמכים ממותגות מעיצובי שקופיות חזותיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת קבצי מצגת בצורה צפופה לתבניות OTT ניתנות לשימוש חוזר.
+
+* שילוב באוטומציה של זרימת עבודה לעדכוני תבניות עקביים.
+
+* יצירת OTT מופעלת עבור צרכי תבניות מסמכים חוזרים.
+
+* ייצוא תבניות אוטומטי בישות סביבות משרד פתוחות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

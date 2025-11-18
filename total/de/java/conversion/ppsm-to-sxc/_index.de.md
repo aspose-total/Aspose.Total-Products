@@ -61,7 +61,51 @@ Beim Konvertieren der PPSM-Datei in SXC können Sie Ihrem Ausgabe-SXC-Dateiforma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von PPSM in SXC (StarOffice Calc Spreadsheet) ermöglicht es, ältere Präsentationsfolien in kompatible Tabellenkalkulationen für Benutzer von älteren OpenOffice- oder StarOffice-Versionen umzuwandeln.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Umwandlung von Verkaufs- oder Projektfolien in bearbeitbare SXC-Tabellenkalkulationen.
+
+* Teilen historischer Präsentationen mit älterer Bürosoftware.
+
+* Akademische oder Unternehmensfolien für die Berichterstellung in Tabellen umgewandelt.
+
+* Archivierung von Folieninhalten in einem platzsparenden SXC-Format.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelkonvertierung von PPSM in SXC für ältere Systeme.
+
+* Geplante Extraktion von Diagrammen und Tabellen in SXC-Dateien.
+
+* Integration in automatisierte Berichtspipelines für ältere Software.
+
+* Auslösen der Konvertierung für wiederkehrende Präsentationen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

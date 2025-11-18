@@ -61,7 +61,55 @@ otherformats: XLS XLT SXC XLSX XLTX FODS XLTM XLSM ODS XLSB TSV XLAM EXCEL MHTML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل PPSM إلى DIF (تنسيق تبادل البيانات) يسهل نقل بيانات جداول البيانات من الشرائح إلى تنسيقات متوافقة مع البرامج القديمة أو المتخصصة. مثالي للأرشفة وتحليلات متعددة المنصات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير الجداول المالية أو التشغيلية من العروض التقديمية إلى تنسيق DIF.
+
+* تحويل شرائح تقدم المشروع إلى ملفات DIF جاهزة لجداول البيانات.
+
+* مشاركة البيانات مع الأنظمة القديمة التي تتطلب إدخال DIF.
+
+* أرشفة محتوى الشرائح الجدولية لأغراض التنظيم أو التدقيق.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل دفعة من شرائح PPSM إلى DIF للإبلاغ التاريخي.
+
+* استخراج الجداول تلقائيًا من عروض الشرائح إلى ملفات DIF.
+
+* تحديثات مجدولة للوحات المشاريع المتكررة.
+
+* التكامل مع أدوات التحليل القديمة التي تقبل استيرادات DIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

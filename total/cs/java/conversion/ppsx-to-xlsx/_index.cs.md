@@ -61,7 +61,51 @@ Při převodu souboru PPSX na XLSX můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod **PPSX na XLSX** exportuje snímky do moderních souborů programu Excel s plnou podporou úprav, tabulek a vzorců, kompatibilních s Office 2007+ a cloudovými platformami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převádění prodejních, KPI nebo marketingových snímků do Excelových nástěnek.
+
+* Upravitelné tabulky pro interní reportování.
+
+* Prezentace založené na datech převedené do akčních souborů programu Excel.
+
+* Klientští zprávy odvozené z metrik prezentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod pro opakující se prezentace.
+
+* Naplánovaný export do Excelu pro automatizované reportování.
+
+* Integrace s nástroji pro BI pro aktualizace živých nástěnek.
+
+* Automatické generování Excelových tabulek z revizí snímků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

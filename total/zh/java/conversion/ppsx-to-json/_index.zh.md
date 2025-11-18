@@ -49,7 +49,51 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **PPSX 转换为 JSON** 将演示内容转换为可供机器阅读的 JSON 格式，非常适合开发人员、API 和数据驱动应用程序。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将幻灯片内容导出到 Web 或移动应用程序。
+
+* 集成到自定义仪表板或可视化工具中。
+
+* 为分析或 AI 模型准备基于幻灯片的数据。
+
+* 创建适用于 API 的演示数据集。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将幻灯片转换为 JSON 以便在 Web 中集成。
+
+* 当幻灯片被修改时，基于触发器更新 JSON。
+
+* 自动化管道将幻灯片数据馈送到商业智能工具中。
+
+* 定期导出以进行报告或内容提要。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

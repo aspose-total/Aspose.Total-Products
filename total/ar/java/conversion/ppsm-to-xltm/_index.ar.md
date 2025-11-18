@@ -61,7 +61,55 @@ otherformats: XLSM XLT XLTM XLSB ODS XLSX XLTX TSV MARKDOWN MHTML XLS XLAM DIF S
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل PPSM إلى XLTM (قالب إكسل مع ماكرو) يوفر قوالب قابلة لإعادة الاستخدام مع ماكرو، مثالية للتقارير الآلية أو سير العمل المتكررة في جداول البيانات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء قوالب مالية مع ماكرو من الشرائح.
+
+* تحويل شرائح المشروع إلى قوالب تقارير إكسل آلية.
+
+* تحويل لوحات المبيعات أو التسويق إلى قوالب مع ماكرو.
+
+* إعادة استخدام الشرائح الأكاديمية كقوالب تفاعلية للتقييم.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+
+
+* تحويل دُفعي من PPSM إلى XLTM لسير العمل المتكررة.
+
+* إنشاء قوالب مع ماكرو مجدولة لأتمتة التقارير.
+
+* التكامل مع أنابيب BI لتحليلات مدفوعة بالقوالب.
+
+* إنشاء قوالب مع ماكرو بناءً على العروض تلقائيًا.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

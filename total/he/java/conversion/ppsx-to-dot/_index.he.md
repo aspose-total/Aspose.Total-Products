@@ -99,7 +99,45 @@ otherformats: DOCX DOCM TEXT DOTM FLATOPC DOC ODT DOTX RTF WORD OTT WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **PPSX ל-DOT** יוצרת קבצי תבנית של Word משקפי המצגת, מספקת פורמט המשמש שוב עבור דוחות תקניים ופריסות מסמך מובנות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* עיצוב תבניות הצעה מותגות ממצגות שקופיות.
+* תקנות דיווחים פנימיים באמצעות תוכן המצגת כבסיס.
+* תבניות אקדמיות או תעסוקתיות לתיעוד חוזר.
+* יצירת פורמט עקבי עבור מסמכים מוכנים ללקוח.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת אוטומטית של תבניות Word עבור מחזורי דיווח חוזרים.
+* שילוב לספריות תבניות עסקיות לקיום המסמך.
+* יצירת מסמכים תקניים ממצגות חדשות על בסיס טריגר.
+* עדכוני צפיפות של תבניות על סמך תיקוני המצגת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

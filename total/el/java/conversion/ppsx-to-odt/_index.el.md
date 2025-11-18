@@ -53,7 +53,51 @@ otherformats: DOT ODT RTF TEXT DOTX WORD FLATOPC ODTM OTT DOTM ODTX WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή **PPSX σε ODT** παρέχει υποστήριξη για τη μορφή εγγράφου ανοιχτού κώδικα για μετατροπές από διαφάνειες σε έγγραφα Word, ιδανικό για το LibreOffice, το OpenOffice ή τη διασυνοριακή επεξεργασία.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+
+
+* Ακαδημαϊκές παρουσιάσεις διαφάνειας που επαναχρησιμοποιούνται σε μορφές εγγράφων ανοιχτού κώδικα.
+
+* Αναφορές κυβέρνησης ή ΜΚΟ που απαιτούν συμβατότητα με το ODT.
+
+* Αναφορές επεξεργάσιμες σε διαφορετικές πλατφόρμες που προέρχονται από διαφάνειες παρουσιάσεων.
+
+* Συνεργατική τεκμηρίωση σε περιβάλλοντα γραφείου ανοιχτού κώδικα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη μαζική μετατροπή παρουσιάσεων σε ODT για πολυπλατφορμική διανομή.
+
+* Ενσωμάτωση με ροές εργασίας εγγράφων ανοιχτού κώδικα για συνεργασία ομάδας.
+
+* Προγραμματισμένες μετατροπές για επαναλαμβανόμενες ακαδημαϊκές ή μη κερδοσκοπικές αναφορές.
+
+* Αυτόματη ενημέρωση αρχείων ODT από αναθεωρήσεις διαφανειών.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

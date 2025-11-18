@@ -102,7 +102,51 @@ otherformats: DIF ODS XLS SXC XLSB EXCEL CSV XLAM XLSM XLT XLSX MHTML XLTM FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת PPSM ל־TSV (ערכים מופרדים בטאב) מפשטת את תהליך חילוץ הנתונים המובנים משקפים לתוך פורמט גיליון נתונים טקסטואלי פשוט ונקרא באופן אוניברסלי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייצוא טבלאות נתונים בעקבות השקפים ל־TSV לצורכי ניתוח.
+
+* שיתוף מטרות פרויקט או מדדי מכירות בין מספר פלטפורמות.
+
+* המרת טבלאות ממצגת לצרוך בצינורות עבודה CSV/TSV.
+
+* הכנת שקפים אקדמיים לניתוח מחקר מובנה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רציפה של מקופות PPSM לקבצי TSV.
+
+* חילוץ אוטומטי לצורך זרימות עבודה ETL או BI.
+
+* יצירת TSV מתוזמנת משקפים תדמיתיים חוזרים.
+
+* שילוב עם צינורות עיבוד נתונים לצורך ניתוח.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

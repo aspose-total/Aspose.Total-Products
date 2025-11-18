@@ -102,7 +102,51 @@ otherformats: XLTX XLT TSV XLS MHTML XLAM FODS SXC MARKDOWN EXCEL ODS CSV XLSM X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **PPSX ל־DIF** מייצאת טבלאות שקופיות ל־Data Interchange Format, מקלה על שיתוף נתונים חלקי בין יישומי גיליון, אידיאלי עבור מערכות ישנות או סביבות צלעוניות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* העברת נתונים מבוססי שקופיות לכלים ישנים לעיבוד גיליון.
+
+* ייצוא נתוני אקדמיה או מחקר ממצגות.
+
+* הכנת קבוצות נתונים לתוכנות סטטיסטיות או ניתוח מדעי.
+
+* תמיכה בתהליכי תחלופת נתונים תקניים בין פלטפורמות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* ייצוא צפיתי מתוזמן של מצגות ל־DIF לצורכי זרימות עבודה במחקר.
+
+* שילוב אוטומטי עם צינורות עיבוד נתונים.
+
+* המרה בהתבסס על טריגר למשימות חוזרות של המרת שקופיות לבסיסי נתונים.
+
+* המרה בצמיחה של מצגות מרובות לצוותי ניתוח.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

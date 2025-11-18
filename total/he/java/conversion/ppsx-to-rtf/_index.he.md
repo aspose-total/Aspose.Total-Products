@@ -99,7 +99,51 @@ otherformats: DOTX DOC DOCM FLATOPC WORD ODT TEXT WORDML DOTM DOT DOCX OTT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **PPSX ל־RTF** ממירה שקופיות למסמכי טקסט בפורמט Rich Text Format הגלובלי, אידיאלי לסביבות שמחייבות נגישות רחבה ללא הגבלות תוכנה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת מצגות לתיעוד עם תוכן טקסט כבד לשיתוף קל.
+
+* ארכיבת תוכן שקופיות בפורמט RTF קריא לכולם.
+
+* הכנת ממו פנימיים או דוחות ממצגות.
+
+* תוכן ניתן לעריכה בכל הפלטפורמות לשימוש אקדמי או תעשייתי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת קופסאות שקופיות מרובות ל־RTF באופן אוטומטי.
+
+* שילוב עם איחסון מסמכים לצורך ארכיבה.
+
+* יצירה מתוזמנת של דוחות פנימיים משקופיות מצגת.
+
+* עדכונים מופעלים לתיעוד RTF לאחר עריכות במצגות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

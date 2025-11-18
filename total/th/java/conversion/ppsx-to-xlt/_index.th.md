@@ -61,7 +61,45 @@ otherformats: DIF XLS TSV MHTML XLSB ODS SXC XLAM EXCEL XLTX XLT XLSM XLSX MARKD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **PPSX เป็น XLT** จะสร้างไฟล์เทมเพลต Excel จากสไลด์ เพื่อให้ได้เค้าโครงเอกสารมาตรฐานสำหรับรายงานที่ทำซ้ำหรือการทำงานของสเปรดชีทที่มีโครงสร้าง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การสร้างเทมเพลตบริษัทจากตารางในงานนำเสนอ
+* สเปรดชีทสำหรับรายงานมาตรฐานสำหรับการใช้ภายใน
+* สเปรดชีทการฝึกอบรมหรือการศึกษาที่ได้มาจากสไลด์
+* เทมเพลตสำหรับการส่งมอบให้กับลูกค้าอย่างสม่ำเสมอ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างเทมเพลต Excel โดยอัตโนมัติจากงานนำเสนอ
+* การแปลงเป็นชุดเทมเพลตสำหรับรูปแบบรายงานที่เกิดซ้ำ
+* การอัปเดตตามกำหนดเวลาเมื่อสไลด์ถูกแก้ไข
+* การผสานรวมกับระบบการทำงานเพื่อให้มีความสอดคล้องกันในเทมเพลต
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

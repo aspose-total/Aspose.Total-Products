@@ -61,7 +61,51 @@ otherformats: MARKDOWN XLAM XLTX TSV ODS FODS SXC MHTML EXCEL XLS XLSB XLSX XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование PPSM в ODS (OpenDocument Spreadsheet) обеспечивает полную совместимость с LibreOffice, OpenOffice и Google Sheets, сохраняя при этом диаграммы и таблицы из слайдов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Экспорт метрик презентации в ODS для совместного анализа.
+
+* Преобразование панелей управления проекта в редактируемые таблицы ODS.
+
+* Академические слайды преобразуются в удобные для студентов форматы таблиц.
+
+* Преобразование маркетинговых и продажных досок PPSM в общедоступные файлы ODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизация преобразования слайдов в ODS для повторяющихся отчетов.
+
+* Пакетное извлечение таблиц и диаграмм в формат ODS.
+
+* Плановое создание таблиц из корпоративных слайд-досок.
+
+* Интеграция с платформами рабочего процесса для динамического обновления таблиц.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

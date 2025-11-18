@@ -102,7 +102,51 @@ otherformats: EXCEL ODS XLSX MARKDOWN TSV XLS MHTML XLSM FODS XLSB XLTM XLT CSV 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення PPSM на SXC (таблиця StarOffice Calc) дозволяє перетворити старі слайди презентацій на сумісні таблиці для користувачів застарілих версій OpenOffice або StarOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+
+
+
+* Перетворення продажів або проектних слайдів у редаговані таблиці SXC.
+
+* Обмін історичними презентаціями з застарілим офісним програмним забезпеченням.
+
+* Академічні або корпоративні слайди перетворені для звітності у вигляді таблиць.
+
+* Архівування даних слайдів у легкому форматі SXC.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетне перетворення PPSM на SXC для застарілих систем.
+
+* Заплановане видобування діаграм та таблиць у файли SXC.
+
+* Інтеграція з автоматизованими конвеєрами звітності для застарілого програмного забезпечення.
+
+* Тригерне перетворення для повторюваних презентацій.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

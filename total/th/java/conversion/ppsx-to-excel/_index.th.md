@@ -61,7 +61,51 @@ otherformats: XLS XLSX TSV DIF XLTM MHTML XLT MARKDOWN SXC XLTX XLSB XLAM EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **PPSX เป็น EXCEL** จะเปลี่ยนตารางในงานนำเสนอเป็นสเปรดชีต Microsoft Excel ที่สามารถแก้ไขได้แบบเต็มรูปแบบ โดยรักษาการจัดรูปแบบ สูตร และโครงสร้างเลยสำหรับการจัดการข้อมูลอย่างมืออาชีพ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การเปลี่ยนสไลด์ทางการเงินหรือประสิทธิภาพเป็นรายงาน Excel ที่สามารถดำเนินการได้.
+
+* แผงควบคุมข้อมูลสำหรับการตัดสินใจขององค์กร.
+
+* สเปรดชีตที่สามารถแก้ไขได้สำหรับการตรวจสอบหรือการปฏิบัติตามกฎระเบียบ.
+
+* รายงานระบบฟังก์ชันต่าง ๆ โดยใช้เทมเพลต Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงชุดสไลด์หลายชุดเป็น Excel สำหรับการรายงานขององค์กร.
+
+* การผสานเข้ากับการอัตโนมัติของกระบวนการทำงานสำหรับทีมการเงินหรือทีมขาย.
+
+* การอัปเดตตาราง Excel ตามรอบจากการนำเสนอที่เกิดซ้ำ.
+
+* การสร้างแผงควบคุม Excel โดยอัตโนมัติจาก KPI ที่เกิดจากสไลด์.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

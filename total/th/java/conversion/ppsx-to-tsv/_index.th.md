@@ -61,7 +61,45 @@ otherformats: XLTX DIF TSV SXC MHTML XLSB XLSX ODS XLAM EXCEL XLT XLSM XLTM MARK
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **PPSX เป็น TSV** จะส่งออกภาพนิพนธ์เป็นค่าที่แยกด้วยแท็บ ที่เหมาะสำหรับการวิเคราะห์ข้อมูล ทางเลือกของ CSV และการทำงานกับข้อมูลที่เป็นข้อความ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การสกัดตารางภาพนิพนธ์สำหรับการวิเคราะห์หรือโมเดล AI
+* เตรียมชุดข้อมูล TSV สำหรับท่องไปในการประมวลผลเรียนรู้ของเครื่อง
+* นำเข้าเมตริกการนำเสนอเข้าสู่เครื่องมือทางสถิติ
+* แบ่งปันข้อมูลภาพนิพนธ์โครงสร้างกับนักพัฒนาซอฟต์แวร์หรือนักวิเคราะห์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงนานาสิ่งของเป็น TSV ตามกำหนดเวลาสำหรับทีมวิเคราะห์
+* ส่งออกชุดข้อมูลโครงสร้างจากสไลด์หลายรายการ
+* อัปเดตอัตโนมัติของไฟล์ TSV เมื่อสไลด์เปลี่ยนแปลง
+* การผสานกับท่อนโอนข้อมูล ETL สำหรับอัตโนมัติการรายงาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

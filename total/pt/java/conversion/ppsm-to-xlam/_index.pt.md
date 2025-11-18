@@ -61,7 +61,55 @@ Ao converter o arquivo PPSM para XLAM, você também pode adicionar marca d'águ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter PPSM para XLAM (Suplemento Habilitado para Macros do Excel) permite a incorporação de cálculos e gráficos baseados em slides em suplementos do Excel, aprimorando as capacidades de automação e análise.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Transformar apresentações em suplementos do Excel para relatórios automatizados.
+
+* Exportar slides financeiros ou operacionais com suporte a macros.
+
+* Criar painéis interativos com base em slides PPSM.
+
+* Converter slides em macros do Excel reutilizáveis para tarefas recorrentes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de vários conjuntos de slides PPSM em suplementos XLAM.
+
+* Geração programada de modelos habilitados para macros para relatórios.
+
+* Integração com plataformas de automação de fluxo de trabalho.
+
+* Criação acionada de suplementos do Excel a partir de apresentações.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

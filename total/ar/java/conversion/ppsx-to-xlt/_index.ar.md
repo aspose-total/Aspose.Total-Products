@@ -61,7 +61,55 @@ otherformats: DIF XLS TSV MHTML XLSB ODS SXC XLAM EXCEL XLTX XLT XLSM XLSX MARKD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل **PPSX إلى XLT** ينشئ ملفات قوالب Excel من الشرائح، مما يمكن من توحيد تخطيطات المستندات للتقارير المتكررة أو سير العمل المنظم لجداول البيانات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء قوالب شركات من جداول العروض التقديمية.
+
+* جداول بيانات تقريرية موحدة للاستخدام الداخلي.
+
+* جداول بيانات تدريبية أو أكاديمية مستمدة من الشرائح.
+
+* قوالب تسليم موحدة للعملاء.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* إنشاء قوالب Excel تلقائيًا من العروض التقديمية.
+
+* تحويل دفعي لتنسيقات التقرير المتكررة.
+
+* تحديثات مجدولة عند تعديل عروض الشرائح.
+
+* التكامل مع أنظمة سير العمل لفرض توحيد القوالب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

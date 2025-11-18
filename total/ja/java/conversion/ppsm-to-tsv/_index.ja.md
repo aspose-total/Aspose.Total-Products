@@ -61,7 +61,55 @@ PPSMファイルをTSVに変換するときに、出力TSVファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSMをTSV（タブ区切り値）に変換すると、スライドから構造化されたデータをプレーンテキストで抽出し、普遍的に読み取れるスプレッドシート形式に簡略化できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* アナリティクス用にスライドベースのデータテーブルをTSVにエクスポートする。
+
+* 複数のプラットフォーム間でプロジェクトや販売メトリクスを共有する。
+
+* プレゼンテーションテーブルをCSV/TSV対応のパイプラインに変換する。
+
+* 構造化された研究分析のための学術スライドを準備する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* PPSMデッキをTSVファイルにバッチ変換する。
+
+* ETLやBIワークフロー用の自動抽出。
+
+* 定期的な企業スライドからのスケジュールされたTSV生成。
+
+* アナリティクス用のデータ処理パイプラインとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

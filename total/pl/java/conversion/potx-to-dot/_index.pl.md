@@ -53,7 +53,51 @@ Korzystając z API, możesz również wykonać konwersję pliku POTX do DOT ze z
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja POTX na DOT pozwala użytkownikom zamienić szablony prezentacji na pliki szablonów programu Word. Jest to niezbędne do tworzenia wielokrotnie używanych struktur dokumentów pochodzących z układów slajdów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Tworzenie standaryzowanych szablonów raportów na podstawie prezentacji marketingowych lub sprzedażowych.
+
+* Konwertowanie prezentacji szkoleniowych na edytowalne szablony instrukcyjne.
+
+* Generowanie szablonów identyfikacji wizualnej korporacji na podstawie projektów prezentacji.
+
+* Przygotowywanie szablonów dokumentów prawnych na podstawie wizualnych zarysów prezentacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Tworzenie zbiorcze szablonów dla standardyzacji dokumentów HR lub administracyjnych.
+
+* Automatyczna konwersja slajdów na wielokrotnie używane szablony DOT w potokach dokumentów.
+
+* Integracja z automatyzacją procesów do generowania raportów opartych na szablonach.
+
+* Wywoływanie generowania plików DOT do regularnych potrzeb dokumentacji korporacyjnej.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

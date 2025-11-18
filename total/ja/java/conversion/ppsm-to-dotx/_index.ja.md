@@ -53,7 +53,51 @@ APIを使用して、透かしを使用してPPSMファイルからDOTXへの変
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSMをDOTX（Word Open XMLテンプレート）に変換すると、マクロを使用せずにプレゼンテーションから再利用可能なWordテンプレートが作成されます。スライドデッキから派生した編集可能で標準化されたドキュメントを求める企業に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* マーケティングプレゼンテーションを編集可能な提案テンプレートに変換する。
+
+* 学術スライドを講義用資料テンプレートに変換する。
+
+* HRプレゼンテーションを方針書やオンボーディング文書のテンプレートに変換する。
+
+* 企業のデッキからプロジェクト文書のテンプレートを作成する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的なプレゼンテーション用のDOTXテンプレートの作成を自動化する。
+
+* 複数のチーム向けにスライドから派生したテンプレートの一括生成。
+
+* ナレッジ管理のためにスライドをドキュメントテンプレートに定期的に変換する。
+
+* 動的なテンプレート展開のためのコンテンツ管理システムとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

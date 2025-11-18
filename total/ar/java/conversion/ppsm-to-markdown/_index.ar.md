@@ -61,7 +61,51 @@ otherformats: XLSM XLS SXC XLTX XLSX DIF EXCEL MARKDOWN MHTML FODS ODS XLAM TSV 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل PPSM إلى Markdown يسمح بتحويل محتوى العروض التقديمية إلى وثائق نصية خفيفة مع تنسيق. مثالي للوثائق، والمدونات، ومستودعات GitHub، أو التعاون بين المطورين.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل شرائح المحاضرات أو التدريب إلى ملاحظات Markdown.
+
+* إعداد وثائق خفيفة من العروض التقديمية الشركات.
+
+* تصدير الشرائح إلى محتوى Markdown جاهز للمدونة.
+
+* مشاركة مجموعات الشرائح مع المطورين باستخدام ملفات Markdown تحت السيطرة الإصدار.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي لشرائح PPSM إلى Markdown لمستودعات المحتوى.
+
+* التكامل مع مولدات المواقع الثابتة مثل Hugo أو Jekyll.
+
+* تصدير مجدول للعروض المتكررة إلى تنسيق Markdown.
+
+* توليد Markdown تلقائي من مجموعات الشرائح.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ otherformats: MARKDOWN ODS XLTX XLT XLAM XLTM FODS MHTML DIF XLS XLSB SXC EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل **PPSX إلى XLAM** يولد ملفات إضافية لإكسل مع ماكرو، مما يجعلها مثالية للتحكم المتقدم وأدوات إكسل قابلة لإعادة الاستخدام.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء إضافات إكسل لتتبع التمويل أو المشاريع.
+
+* أتمتة المهام المتكررة في جداول البيانات باستخدام بيانات الشرائح.
+
+* إنشاء لوحات تحكم تفاعلية تحتوي على ماكرو مضمنة.
+
+* توزيع أدوات ممكنة للماكرو المستمدة من جداول الشرائح.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* توليد إضافات إكسل بناءً على المؤشرات لأتمتة سير العمل.
+
+* تحويل الشرائح بشكل دفعي إلى أدوات XLAM قابلة لإعادة الاستخدام.
+
+* التكامل مع قوالب إكسل الشركاتية لتقارير متكررة تلقائية.
+
+* تحديثات مجدولة لحلول إكسل ممكنة للماكرو.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

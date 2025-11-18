@@ -61,7 +61,55 @@ PPSXファイルをODSに変換するときに、出力ODSファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSXをODSに変換**すると、プレゼンテーションからOpenDocument Spreadsheetファイルが作成され、LibreOffice、OpenOffice、またはクロスプラットフォームのスプレッドシートアプリで編集や共有が可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* スライドから共同プロジェクトデータを準備する。
+
+* オープンフォーマットでの学術的または企業向けレポート。
+
+* リモートチーム向けのクロスプラットフォームスプレッドシート共有。
+
+* 分析やダッシュボード用の編集可能なデータセット。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的なプレゼンテーションデータの自動バッチODS変換。
+
+* 複数ユーザーが編集するためのオープンソースワークフローツールとの統合。
+
+* スライドテーブルをODSスプレッドシートにエクスポートするトリガーベースの処理。
+
+* 定期的なメトリクスやKPIレポートのスケジュール更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ otherformats: EXCEL XLTX XLSM SXC TSV XLTM MARKDOWN DIF XLSX XLSB XLAM FODS ODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง PPSM เป็น XLAM (Excel Macro-Enabled Add-In) ช่วยให้สามารถฝังการคำนวณและกราฟิกที่มีต้นฉบับจากสไลด์เข้าไปใน Excel add-ins ซึ่งเสริมความสามารถในการอัตโนมัติและการวิเคราะห์
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การแปลงงานนำเสนอเป็น Excel add-ins เพื่อรายงานโดยอัตโนมัติ
+
+* การส่งออกสไลด์ทางการเงินหรือดำเนินการพร้อมการสนับสนุนแมโคร
+
+* การสร้างแดชบอร์ดแบบอินเทอร์แอคทีฟจากสไลด์ PPSM
+
+* การแปลงสไลด์เป็นแมโคร Excel ที่ใช้ซ้ำสำหรับงานที่เกิดซ้ำ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การแปลงชุดงาน PPSM หลายชุดให้เป็น XLAM add-ins พร้อมกัน
+
+* การสร้างเทมเพลตที่มีแมโครเปิดใช้งานตามกำหนด
+
+* การผสานกับแพลตฟอร์มอัตโนมัติของกระบวนการ
+
+* การสร้าง Excel add-ins จากงานนำเสนอโดยเรียกใช้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

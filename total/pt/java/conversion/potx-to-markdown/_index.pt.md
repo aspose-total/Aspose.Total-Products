@@ -61,7 +61,51 @@ Ao converter o arquivo POTX para MARKDOWN, você também pode adicionar marca d'
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter POTX para Markdown permite exportar o conteúdo dos slides em arquivos de marcação leves e legíveis, adequados para documentação, repositórios do GitHub e geração de sites estáticos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Transformar apresentações em notas Markdown para documentação de desenvolvedores.
+
+* Preparar tutoriais ou guias baseados em slides em repositórios do GitHub.
+
+* Exportar conteúdo para geradores de sites estáticos como Hugo ou Jekyll.
+
+* Converter decks de treinamento em Markdown para fácil controle de versão.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de Markdown para bibliotecas de documentação.
+
+* Exportação acionada de slides para Markdown para pipelines de documentação de CI/CD.
+
+* Integração com geradores de sites estáticos para atualizações automáticas do site.
+
+* Extração automatizada de slides para Markdown para edição colaborativa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

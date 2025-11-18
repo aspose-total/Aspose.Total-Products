@@ -53,7 +53,51 @@ API'yi kullanarak, filigranlı PPSM dosyasını ODT'ye dönüştürme işlemini 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM'yi ODT (Açık Belge Metni) formatına dönüştürmek, slaytların LibreOffice ve OpenOffice gibi açık kaynaklı kelime işlemcileri için düzenlenebilir metin belgelerine dönüştürülmesine olanak tanır ve böylece platformlar arası uyumluluğu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* ODT formatında sunum slaytlarından ders notları hazırlama.
+
+* LibreOffice veya OpenOffice ortamları için dönüştürülen iş teklifleri.
+
+* İşbirliği için açık kaynak belge formatlarına slayt yığınlarını dönüştürme.
+
+* Çoklu platform erişimi için düzenlenebilir slaytları arşivleme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Dağıtılmış ekipler için PPSM sunumlarının ODT belgelerine toplu dönüşümü.
+
+* Otomatik güncellemeler için açık kaynak belge iş akışlarıyla entegrasyon.
+
+* Bilgi havuzları için slaytların ODT formatına zamanlanmış dışa aktarımı.
+
+* Platformlar arası paylaşım için sunumlardan tetiklenen ODT oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

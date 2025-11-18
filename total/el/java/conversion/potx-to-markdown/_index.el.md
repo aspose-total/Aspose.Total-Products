@@ -61,7 +61,51 @@ otherformats: EXCEL ODS XLTM MHTML XLAM XLSM SXC XLSX XLT TSV DIF FODS XLSB XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή από POTX σε Markdown επιτρέπει την εξαγωγή περιεχομένου διαφανιών σε ελαφρά, ευανάγνωστα αρχεία σήμανσης κατάλληλα για τεκμηρίωση, αποθετήρια GitHub και δημιουργία στατικών ιστότοπων.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Μετατροπή παρουσιάσεων σε σημειώσεις Markdown για τεκμηρίωση προγραμματιστών.
+
+* Δημιουργία εκπαιδευτικών οδηγών ή οδηγών βασισμένων σε διαφάνειες σε αποθετήρια GitHub.
+
+* Εξαγωγή περιεχομένου για γεννήτριες στατικών ιστότοπων όπως το Hugo ή το Jekyll.
+
+* Μετατροπή εκπαιδευτικών διαφανειών σε Markdown για εύκολο έλεγχο εκδόσεων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή Markdown για βιβλιοθήκες τεκμηρίωσης.
+
+* Εξαγωγή με εντολή από διαφάνειες σε Markdown για αγωγούς τεκμηρίωσης CI/CD.
+
+* Ενσωμάτωση με γεννήτριες στατικών ιστότοπων για αυτόματες ενημερώσεις ιστότοπου.
+
+* Αυτόματη εξαγωγή διαφανειών σε Markdown για συνεργατική επεξεργασία.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

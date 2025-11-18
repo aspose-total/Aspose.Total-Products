@@ -61,7 +61,55 @@ Tijdens het converteren van een PPSX-bestand naar FODS, kunt u ook een watermerk
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het converteren van **PPSX naar FODS** maakt het mogelijk om diatabels te exporteren naar een plat OpenDocument Spreadsheet-formaat, compatibel met open-source kantoorpakketten zoals LibreOffice en OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Academische dia's hergebruikt voor open-source spreadsheettools.
+
+* Overheids- of NGO-rapportage die FODS-ondersteuning vereist.
+
+* Cross-platform gegevenssamenwerking zonder eigen software.
+
+* Archivering van presentatiemetrics in bewerkbare open formaten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch FODS-export voor open-source kantoorworkflows.
+
+* Getriggerde updates wanneer dia-decks worden herzien.
+
+* Integratie met open-source analysepipelines.
+
+* Geplande conversie van terugkerende rapporten voor team samenwerking.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

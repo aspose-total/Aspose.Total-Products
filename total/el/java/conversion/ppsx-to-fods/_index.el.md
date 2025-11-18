@@ -61,7 +61,51 @@ otherformats: MARKDOWN ODS XLSB SXC FODS XLTX XLT XLAM XLSM XLSX DIF XLS XLTM TS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή **PPSX σε FODS** επιτρέπει τις πίνακες διαφανειών να εξάγονται σε επίπεδη μορφή φύλλου εργασίας OpenDocument, συμβατή με πακέτα γραφείου ανοικτού κώδικα όπως το LibreOffice και το OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Ακαδημαϊκές διαφάνειες επαναχρησιμοποιούνται για εργαλεία φύλλου εργασίας ανοικτού κώδικα.
+
+* Αναφορές κυβέρνησης ή ΜΚΟ που απαιτούν υποστήριξη FODS.
+
+* Συνεργασία δεδομένων διαφορετικών πλατφορμών χωρίς προγράμματα ιδιοκτησίας.
+
+* Αρχειοθέτηση μετρήσεων παρουσιάσεων σε επεξεργάσιμες ανοικτές μορφές.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική εξαγωγή FODS για ροές εργασίας γραφείου ανοικτού κώδικα.
+
+* Ενημερώσεις που ενεργοποιούνται όταν αναθεωρούνται οι σειρές διαφανειών.
+
+* Ενσωμάτωση με αναλυτικές αγωγές ανοικτού κώδικα.
+
+* Προγραμματισμένη μετατροπή επαναλαμβανόμενων αναφορών για συνεργασία ομάδας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

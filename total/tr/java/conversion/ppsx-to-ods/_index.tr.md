@@ -61,7 +61,55 @@ PPSX dosyasını ODS'ye dönüştürürken, çıktı ODS dosya biçiminize de fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSX dosyalarını ODS'ye dönüştürmek**, sunumlardan OpenDocument Elektronik Tablo dosyaları oluşturarak düzenleme ve paylaşım imkanı sağlar, LibreOffice, OpenOffice veya platformlar arası elektronik tablo uygulamalarında.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Slaytlardan işbirlikçi proje verileri hazırlama.
+
+* Açık formatlarda akademik veya kurumsal raporlama.
+
+* Uzaktaki ekipler için platformlar arası elektronik tablo paylaşımı.
+
+* Analiz veya panolar için düzenlenebilir veri kümeleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tekrarlanan sunum verileri için otomatik toplu ODS dönüşümü.
+
+* Çok kullanıcılı düzenleme için açık kaynak iş akışı araçlarıyla entegrasyon.
+
+* Slayt tablolarının ODS elektronik tablolarına tetikleyici tabanlı aktarımı.
+
+* Tekrar eden metrikler ve KPI raporları için zamanlanmış güncellemeler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -49,7 +49,55 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF TEXT WORD WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل **PPSX إلى JSON** يحول محتوى العرض إلى تنسيق JSON القابل للقراءة من قبل الآلة، مثالي للمطورين وواجهات برمجة التطبيقات والتطبيقات المدفوعة بالبيانات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير محتوى الشرائح لتطبيقات الويب أو الجوال.
+
+* دمجها في لوحات تحكم مخصصة أو أدوات التصور.
+
+* إعداد بيانات معتمدة على الشرائح لتحليلات أو نماذج الذكاء الاصطناعي.
+
+* إنشاء مجموعات بيانات العروض الجاهزة للواجهة البرمجية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* تحويل دفعي لعروض الشرائح إلى JSON للتكامل مع الويب.
+
+* تحديثات قائمة على المؤشرات لـ JSON عند تعديل الشرائح.
+
+* أنابيب آلية تغذية بيانات الشرائح إلى أدوات الذكاء التجاري.
+
+* تصدير مجدول للتقارير المتكررة أو تغذيات المحتوى.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

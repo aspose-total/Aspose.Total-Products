@@ -61,7 +61,55 @@ otherformats: XLS XLTX XLSB XLSX SXC FODS DIF XLAM MHTML EXCEL XLT TSV MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **PPSX เป็น SXC** จะสร้างไฟล์ StarOffice Spreadsheet ซึ่งช่วยให้ผู้ใช้ชุดโปรแกรมสำนักงานรุ่นเก่าสามารถแก้ไขและแบ่งปันข้อมูลที่ได้จากสไลด์ในแอปพลิเคชันที่เข้ากันได้กับ SXC
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* ความเข้ากันได้กับขั้นตอนการทำงานในสำนักงานรุ่นเก่า
+
+* การเก็บข้อมูลตารางการนำเสนอเพื่อเข้าถึงในระยะยาว
+
+* การแบ่งปันข้อมูลระหว่างองค์กรโดยใช้ StarOffice หรือ OpenOffice
+
+* การแปลงข้อมูลสไลด์เพื่อวิเคราะห์ในเครื่องมือสเปรดชีต
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง SXC จำนวนมากสำหรับการผสานระบบรุ่นเก่า
+
+* การส่งออกตามกำหนดจากสไลด์การนำเสนอที่เกิดซ้ำ
+
+* การสร้างสเปรดชีตโดยอัตโนมัติสำหรับการทำงานร่วมกันของผู้ใช้หลายคน
+
+* การอัปเดตเมื่อมีข้อมูลการนำเสนอใหม่เพิ่มเข้ามา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

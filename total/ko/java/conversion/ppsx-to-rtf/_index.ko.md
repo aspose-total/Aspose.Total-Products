@@ -53,7 +53,51 @@ API를 사용하여 워터마크를 사용하여 PPSX 파일을 RTF로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSX를 RTF로 변환**하면 슬라이드를 소프트웨어 제약 없이 넓은 접근성을 요구하는 환경에 이상적인 Rich Text Format 문서로 변환합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 프레젠테이션을 텍스트 중심의 문서로 변환하여 쉽게 공유합니다.
+
+* 슬라이드 콘텐츠를 보기 쉬운 RTF 형식으로 아카이빙합니다.
+
+* 프레젠테이션에서 내부 메모나 보고서를 준비합니다.
+
+* 학술 또는 기업용으로 크로스 플랫폼에서 편집 가능한 콘텐츠를 제공합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 여러 슬라이드 덱을 RTF로 자동 일괄 변환합니다.
+
+* 아카이브 목적을 위해 문서 저장소와 통합합니다.
+
+* 프레젠테이션 슬라이드에서 내부 보고서를 예약 생성합니다.
+
+* 프레젠테이션 편집 후 RTF 문서를 트리거하여 업데이트합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

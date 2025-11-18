@@ -99,7 +99,51 @@ otherformats: WORDML RTF DOT DOC DOTM TEXT WORD DOCM FLATOPC ODT DOTX DOCX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **PPSX ל-OTT** יוצרת תבניות מסמכים פתוחות ללא מקרו, שמאפשרות תבניות תקן הניתנות לשימוש מחדש ללא סיכון מקרו.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת תבניות להכשרה או סדנאות ב־LibreOffice/OpenOffice.
+
+* תבניות מסמכים תקן לארגונים לא ממשלתיים או אקדמיים.
+
+* תבניות עבור שיתוף צוות על בסיס שקופיות.
+
+* דוחות ללקוח בפורמטים צלב-פלטפורמה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת תבניות OTT בצורה צפופה עבור דיווחים חוזרים.
+
+* שילוב עם מערכות זריזות קוד פתוח להטמעת תבניות.
+
+* עדכונים מתוזמנים לתבניות תקן ממצגות חדשות.
+
+* יצירה אוטומטית של מסמכים שיתופיים ממצגות ללא מקרו.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

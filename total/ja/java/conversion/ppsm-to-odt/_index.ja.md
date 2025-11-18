@@ -53,7 +53,55 @@ APIを使用して、透かしを使用してPPSMファイルからODTへの変�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSMをODT（OpenDocument Text）に変換することで、スライドを編集可能なテキスト文書に変換し、LibreOfficeやOpenOfficeなどのオープンソースワードプロセッサでのクロスプラットフォーム互換性を確保します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* ODT形式でプレゼンテーションスライドから講義ノートを準備する。
+
+* LibreOfficeやOpenOffice環境向けにビジネス提案を変換する。
+
+* コラボレーションのためにスライドデッキをオープンソースの文書形式に変換する。
+
+* マルチプラットフォームでアクセス可能な編集可能なスライドをアーカイブする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 分散チーム向けにPPSMプレゼンテーションをODT文書に一括変換する。
+
+* 自動更新のためのオープンソースドキュメントワークフローとの統合。
+
+* ナレッジリポジトリ向けにスライドをODT形式で定期的にエクスポートする。
+
+* クロスプラットフォーム共有のためのプレゼンテーションからのODT生成をトリガーする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

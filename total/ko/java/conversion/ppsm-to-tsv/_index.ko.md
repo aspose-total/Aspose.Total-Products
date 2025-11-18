@@ -61,7 +61,51 @@ PPSM 파일을 TSV로 변환하는 동안 출력 TSV 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM을 TSV(탭으로 구분된 값)로 변환하면 슬라이드에서 구조화된 데이터를 일반 텍스트로 추출하여 보다 보편적으로 읽을 수 있는 스프레드시트 형식으로 만들 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 분석을 위해 슬라이드 기반 데이터 테이블을 TSV로 내보내기.
+
+* 여러 플랫폼 간에 프로젝트 또는 영업 지표 공유.
+
+* CSV/TSV용 파이프라인에 프레젠테이션 테이블 변환.
+
+* 구조화된 연구 분석을 위해 학술 슬라이드 준비.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* PPSM 덱을 TSV 파일로 일괄 변환.
+
+* ETL 또는 BI 워크플로우용 자동 추출.
+
+* 반복되는 기업 슬라이드로부터 예약된 TSV 생성.
+
+* 분석을 위한 데이터 처리 파이프라인 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ otherformats: TSV ODS DIF XLTM XLSB XLTX MHTML SXC XLSX EXCEL XLS MARKDOWN FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **PPSX в MHTML** создает один HTML-архив содержимого презентации, объединяя слайды, изображения и форматирование в самодостаточный файл, удобный для веба.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Публикация слайдов в виде архивов, готовых к публикации в Интернете.
+
+* Отправка полных презентаций в одном файле без вложений.
+
+* Создание офлайн-версий слайдов для тренингов или вебинаров.
+
+* Архивирование слайд-деков для доступа к ним в Интернете.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое преобразование повторяющихся презентаций в MHTML для веб-распространения.
+
+* Пакетная выгрузка нескольких слайд-деков в самодостаточные HTML-архивы.
+
+* Интеграция с интранетом или системами LMS для автоматизированной публикации слайдов.
+
+* Обновления на основе триггеров при внесении изменений в слайд-деки для онлайн-архивов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

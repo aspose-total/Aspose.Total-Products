@@ -61,7 +61,51 @@ otherformats: XLSM DIF FODS MARKDOWN XLSB XLAM MHTML XLTM XLT XLS TSV ODS SXC EX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **PPSX в XLTX** позволяет создавать макро-независимые шаблоны Excel из слайдов, идеально подходит для стандартизированной отчетности без проблем с безопасностью макросов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Многоразовые электронные таблицы для корпоративной отчетности.
+
+* Шаблоны для образовательных или тренировочных целей из таблиц презентаций.
+
+* Стандартизированные результаты для клиентов, полученные из слайдов.
+
+* Библиотеки шаблонов для совместной работы между командами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое пакетное преобразование слайдов в шаблоны XLTX.
+
+* Интеграция с управлением рабочим процессом для однородного форматирования электронных таблиц.
+
+* Обновления на основе триггеров при изменении содержания слайдов.
+
+* Массовое создание библиотек шаблонов для корпоративного использования.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

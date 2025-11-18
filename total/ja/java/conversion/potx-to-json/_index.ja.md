@@ -49,7 +49,53 @@ POTXをJSONに変換しているときに、範囲を出力JSON形式に設定�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTXをJSONに変換すると、スライドのコンテンツが構造化されたJavaScript Object Notationに変換され、Webアプリケーション、ダッシュボード、API駆動のデータ処理に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* Webダッシュボード用にプレゼンテーションの表やグラフをエクスポートする。
+
+* AIや機械学習データの取り込みのためにスライドをJSONに変換する。
+
+* プレゼンテーションデータからインタラクティブなレポートツールを準備する。
+
+* WebアプリケーションやSaaSプラットフォームとスライドベースのコンテンツを共有する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 分析およびレポートパイプライン向けのバッチJSON変換。
+
+* リアルタイムのスライドデータ消費のためのAPI駆動システムとの統合。
+
+* 動的なWebやモバイルダッシュボード向けのトリガー変換。
+
+* 構造化されたJSONへのスライドコンテンツの自動抽出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

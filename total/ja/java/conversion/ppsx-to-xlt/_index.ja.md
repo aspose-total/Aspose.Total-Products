@@ -61,7 +61,51 @@ PPSXファイルをXLTに変換するときに、出力XLTファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSXをXLTに変換**すると、スライドからExcelテンプレートファイルが作成され、繰り返し報告や構造化されたスプレッドシートワークフローのための標準化された文書レイアウトが可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* プレゼンテーションテーブルからの企業テンプレート作成。
+
+* 内部利用のための標準化された報告用スプレッドシート。
+
+* スライドから派生したトレーニングや学術スプレッドシート。
+
+* 一貫した顧客納品テンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* プレゼンテーションからのExcelテンプレートの自動生成。
+
+* 定期的なレポートフォーマットのバッチ変換。
+
+* スライドデッキが更新されたときのスケジュール更新。
+
+* テンプレートの一貫性を強制するワークフローシステムとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

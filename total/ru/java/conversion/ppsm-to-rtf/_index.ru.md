@@ -53,7 +53,55 @@ otherformats: RTFX RTFM TEXT OTT WORDML DOTX WORD RTF ODT FLATOPC DOTM DOT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование PPSM в RTF (Rich Text Format) предлагает легкий, универсально совместимый способ превратить слайды в редактируемые текстовые документы. Идеально подходит для обмена по электронной почте, использования устаревшего программного обеспечения и совместной работы на разных платформах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт содержимого презентации в RTF для распространения по электронной почте.
+
+* Создание легких документов из слайдов для архивирования.
+
+* Преобразование слайдов в редактируемый текстовый формат для использования на разных платформах.
+
+* Подготовка руководств в формате RTF на основе маркетинговых или тренинговых презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование PPSM в RTF для распространения в команде.
+
+* Автоматизированный экспорт лекционных слайдов в редактируемые документы RTF.
+
+* Запланированное создание RTF для соблюдения рабочих процессов или отчетности.
+
+* Интеграция с устаревшими системами управления документами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

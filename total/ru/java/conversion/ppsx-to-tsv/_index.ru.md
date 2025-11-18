@@ -61,7 +61,51 @@ otherformats: XLTX DIF TSV SXC MHTML XLSB XLSX ODS XLAM EXCEL XLT XLSM XLTM MARK
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **PPSX в TSV** экспортирует слайды в виде значений, разделенных табуляцией, идеально подходит для анализа данных, альтернатив CSV и рабочих процессов на основе текста.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Извлечение таблиц слайдов для аналитики или моделей искусственного интеллекта.
+
+* Подготовка наборов данных TSV для конвейеров машинного обучения.
+
+* Импорт метрик презентации в статистические инструменты.
+
+* Обмен структурированными данными слайдов с разработчиками или аналитиками.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое преобразование презентаций в TSV для аналитических команд.
+
+* Пакетная выгрузка нескольких слайдов в структурированные наборы данных.
+
+* Автообновление файлов TSV при изменении слайдов.
+
+* Интеграция с конвейерами ETL для автоматизации отчетности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

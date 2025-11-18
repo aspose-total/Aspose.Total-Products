@@ -53,7 +53,51 @@ API를 사용하여 워터마크를 사용하여 PPSM 파일을 DOCM로 변환�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM를 DOCM(Word Macro-Enabled Document)으로 변환하면 프레젠테이션을 편집 가능한 워드 문서로 변환할 수 있으며 매크로 기능을 보존합니다. 자동화나 포함된 스크립트가 생산성을 향상시키는 기업 워크플로에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 자동 차트 업데이트를 위해 매크로가 필요한 대화형 보고서.
+
+* 시나리오 시뮬레이션을 위한 포함된 VBA 스크립트가 있는 교육 안내서.
+
+* 슬라이드에서 생성된 내부 문서화 자동화.
+
+* 액션 트리거 매크로가 있는 동적 고객 제안서 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 매크로가 있는 DOCM 템플릿으로 PPSM 덱 일괄 처리.
+
+* 재정 프레젠테이션을 매크로가 활성화된 워드 보고서로 예약된 업데이트.
+
+* 슬라이드에서 문서로의 변환을 위한 워크플로 자동화 도구 통합.
+
+* 매크로가 있는 PPSM 슬라이드에서 내부 감사 보고서 자동 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

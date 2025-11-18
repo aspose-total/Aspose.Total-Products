@@ -61,7 +61,51 @@ Beim Konvertieren der PPSM-Datei in XLS können Sie Ihrem Ausgabe-XLS-Dateiforma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von PPSM in XLS (Excel 97-2003-Arbeitsmappe) bietet eine Legacy-Kompatibilität für ältere Versionen von Microsoft Excel und behält dabei Tabellen und Diagramme aus den Folien bei.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Export von Finanz- oder Projektfolien in XLS für Legacy-Benutzer.
+
+* Umwandlung von Unternehmenskennzahlen in bearbeitbare Excel-Tabellen.
+
+* Akademische Folien werden in Tabellenkalkulationen für Analysen umgewandelt.
+
+* Austausch von Präsentationsdaten in einem älteren Excel-kompatiblen Format.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelkonvertierung von PPSM in XLS für die Legacy-Nutzung im Team.
+
+* Geplante Extraktion von Folien in XLS für Berichterstattungszwecke.
+
+* Integration in automatisierte Archivierungsworkflows.
+
+* Auslösung der XLS-Erstellung aus wiederkehrenden Präsentationen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

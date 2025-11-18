@@ -61,7 +61,51 @@ otherformats: XLSM DIF FODS MARKDOWN XLSB XLAM MHTML XLTM XLT XLS TSV ODS SXC EX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **PPSX 转换为 XLTX** 可以从幻灯片生成无宏的 Excel 模板，非常适合标准化报告而无需担心宏安全性问题。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 用于企业报告的可重复使用的电子表格。
+
+* 从演示文稿表格创建的学术或培训模板。
+
+* 源自幻灯片的标准化客户交付成果。
+
+* 用于跨团队协作的模板库。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将幻灯片定时批量转换为 XLTX 模板。
+
+* 与工作流管理集成，实现一致的电子表格格式。
+
+* 当幻灯片内容更改时触发更新。
+
+* 批量生成用于企业使用的模板库。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

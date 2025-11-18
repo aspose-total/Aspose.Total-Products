@@ -61,7 +61,51 @@ otherformats: MARKDOWN ODS XLTX XLT XLAM XLTM FODS MHTML DIF XLS XLSB SXC EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **PPSX в XLAM** генерирует файлы надстроек Excel с макросами из содержимого презентации, идеально подходит для продвинутой автоматизации и повторно используемых инструментов Excel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание надстроек Excel для финансов или отслеживания проектов.
+
+* Автоматизация повторяющихся задач таблиц с использованием данных слайдов.
+
+* Создание интерактивных панелей управления с встроенными макросами.
+
+* Распространение инструментов с макросами, полученных из таблиц слайдов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Генерация надстроек Excel на основе триггеров для автоматизации рабочего процесса.
+
+* Пакетное преобразование слайдов в повторно используемые инструменты XLAM.
+
+* Интеграция с корпоративными шаблонами Excel для автоматизированной отчетности.
+
+* Плановое обновление макросов в решениях Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

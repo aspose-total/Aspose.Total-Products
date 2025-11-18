@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPSM sang ODS, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi PPSM sang ODS (OpenDocument Spreadsheet) đảm bảo tính tương thích hoàn toàn với LibreOffice, OpenOffice và Google Sheets trong khi vẫn giữ nguyên biểu đồ và bảng từ các slide.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xuất các chỉ số thuyết trình sang ODS để phân tích cộng tác.
+
+* Chuyển đổi bảng điều khiển dự án thành các bảng tính ODS có thể chỉnh sửa.
+
+* Các slide học thuật được chuyển đổi thành định dạng bảng tính thân thiện với sinh viên.
+
+* Chuyển đổi các bộ slide PPSM về mảng marketing và bán hàng thành các tệp ODS có thể chia sẻ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tự động hóa việc chuyển đổi slide sang ODS cho các báo cáo định kỳ.
+
+* Trích xuất hàng loạt bảng và biểu đồ sang định dạng ODS.
+
+* Tạo bảng tính theo lịch trình từ các bộ slide doanh nghiệp.
+
+* Tích hợp với các nền tảng quy trình làm việc để cập nhật bảng tính động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,55 @@ otherformats: DOTM DOTX WORD ODT DOTM TEXT DOT DOTX OTT FLATOPC WORDML RTF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование PPSM в DOT (шаблон Word) позволяет пользователям повторно использовать содержимое презентации в качестве шаблонов для документов. Это крайне важно для стандартизации бизнес-отчетов, предложений или документации по рабочим процессам.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание брендированных шаблонов Word на основе слайдов презентации.
+
+* Стандартизация отчетов в командах с использованием шаблонов на основе слайдов.
+
+* Преобразование учебных слайдов в многоразовые учебные шаблоны.
+
+* Создание шаблонов политик или руководящих принципов на основе внутренних презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизация преобразования PPSM в DOT для обеспечения единообразного брендинга документов.
+
+* Планирование создания библиотек шаблонов для корпоративных команд.
+
+* Интеграция с платформами автоматизации документооборота.
+
+* Автоматическое создание еженедельных шаблонов рабочих процессов на основе слайдов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

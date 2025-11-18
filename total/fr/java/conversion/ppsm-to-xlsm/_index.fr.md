@@ -61,7 +61,55 @@ Lors de la conversion du fichier PPSM en XLSM, vous pouvez également ajouter un
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de PPSM en XLSM (Classeur activé par macro Excel) préserve les formules, les macros et les graphiques des diapositives, permettant des calculs automatisés et des rapports basés sur les données.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Conversion de présentations avec des modèles financiers en classeurs activés par macro.
+
+* Préparation de tableaux de bord de projet interactifs avec des macros à partir des diapositives.
+
+* Diapositives académiques avec des formules converties en XLSM pour une notation automatisée.
+
+* Diapositives commerciales transformées en XLSM pour des rapports automatisés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de PPSM en XLSM pour l'automatisation des flux de travail.
+
+* Génération planifiée de classeurs activés par macro à partir de présentations.
+
+* Intégration avec les pipelines d'intelligence d'affaires.
+
+* Conversion déclenchée pour l'automatisation des rapports récurrents.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

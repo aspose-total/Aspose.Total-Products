@@ -61,7 +61,31 @@ Tijdens het converteren van een PPSM-bestand naar MARKDOWN, kunt u ook een water
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van PPSM naar Markdown maakt het mogelijk om presentatie-inhoud om te zetten in lichtgewicht, platte tekst documenten met opmaak. Ideaal voor documentatie, blogs, GitHub repositories, of samenwerking tussen ontwikkelaars.
+
+## {{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+- Het omzetten van les- of trainingsdia's naar Markdown notities.
+- Het voorbereiden van lichtgewicht documentatie van bedrijfspresentaties.
+- Het exporteren van dia's naar blog-klaar Markdown inhoud.
+- Het delen van dia-decks met ontwikkelaars door middel van Markdown bestanden die onder versiebeheer staan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+- Batchconversie van PPSM-dia's naar Markdown voor inhoudsrepositories.
+- Integratie met statische sitegeneratoren zoals Hugo of Jekyll.
+- Geplande export van terugkerende presentaties naar Markdown-formaat.
+- Getriggerde generatie van Markdown-documentatie vanuit dia-decks.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

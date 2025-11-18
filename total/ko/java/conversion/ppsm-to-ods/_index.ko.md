@@ -61,7 +61,51 @@ PPSM 파일을 ODS로 변환하는 동안 출력 ODS 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM을 ODS(OpenDocument Spreadsheet)로 변환하면 슬라이드에서 차트와 테이블을 유지하면서 LibreOffice, OpenOffice 및 Google Sheets와 완전히 호환됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 협업 분석을 위해 프레젠테이션 지표를 ODS로 내보내기.
+
+* 프로젝트 대시보드를 편집 가능한 ODS 스프레드시트로 변환하기.
+
+* 학술 슬라이드를 학생 친화적인 스프레드시트 형식으로 변환하기.
+
+* 마케팅 및 영업 PPSM 덱을 공유 가능한 ODS 파일로 변환하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 반복 보고서를 위한 슬라이드에서 ODS로 자동 변환.
+
+* 테이블과 차트를 일괄 ODS 형식으로 추출.
+
+* 기업 슬라이드 덱에서 스프레드시트를 예약 생성.
+
+* 동적 스프레드시트 업데이트를 위한 워크플로 플랫폼 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ Saat mengonversi file PPSX ke TSV, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi **PPSX ke TSV** mengekspor slide sebagai nilai yang dipisahkan tab, ideal untuk analisis data, alternatif CSV, dan alur kerja data berbasis teks.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengekstrak tabel slide untuk analitika atau model AI.
+
+* Menyiapkan dataset TSV untuk pipa machine learning.
+
+* Mengimpor metrik presentasi ke dalam alat statistik.
+
+* Berbagi data slide terstruktur dengan pengembang atau analis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi terjadwal presentasi ke TSV untuk tim analitika.
+
+* Ekspor batch beberapa slide ke dataset terstruktur.
+
+* Pembaruan otomatis file TSV saat slide berubah.
+
+* Integrasi dengan pipa ETL untuk otomatisasi pelaporan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

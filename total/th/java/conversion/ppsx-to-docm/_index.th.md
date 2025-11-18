@@ -53,7 +53,51 @@ otherformats: DOT WORD WORDML DOCM DOTX RTF ODT OTT FLATOPC DOTM TEXT DOCMX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **PPSX เป็น DOCM** ช่วยให้งานนำเสนอสามารถกลายเป็นไฟล์ Word ที่เปิดใช้งานแมโครได้ โดยรักษาองค์ประกอบการอัตโนมัติและองค์ประกอบแบบโต้ตอบที่ฝังอยู่ นี้เหมาะสำหรับผู้ใช้ที่ต้องการฟังก์ชันการทำงานที่ดีกว่าข้อความแบบสถิต.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* ฝังเนื้อหาสไลด์ด้วยตารางที่ใช้แมโครสำหรับรายงานการเงิน.
+
+* การอัตโนมัติแดชบอร์ดของลูกค้าใน Word จากสไลด์การนำเสนอ.
+
+* คู่มือการฝึกอบรมด้วยปุ่มแบบโต้ตอบหรือแบบฟอร์มที่มาจากสไลด์.
+
+* ข้อเสนอโครงการที่ต้องการองค์ประกอบที่เปลี่ยนไปสำหรับการผสานงาน.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงอัตโนมัติของการอัปเดตโครงการรายสัปดาห์เป็นรายงานที่เปิดใช้งานแมโคร.
+
+* การผสานเข้ากับเครื่องมือการทำงานที่แมโครเรียกใช้การประมวลผลเพิ่มเติม.
+
+* การเติมค่าในช่องฟอร์มโดยเนื้อหาสไลด์.
+
+* การสร้างรายงาน Word แบบโต้ตอบแบบเรียลไทม์จากการนำเสนอสด.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

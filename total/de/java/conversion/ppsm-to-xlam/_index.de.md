@@ -61,7 +61,51 @@ Beim Konvertieren der PPSM-Datei in XLAM können Sie Ihrem Ausgabe-XLAM-Dateifor
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von PPSM in XLAM (Excel Macro-Enabled Add-In) ermöglicht die Einbettung von Folien-basierten Berechnungen und Diagrammen in Excel-Add-Ins, wodurch Automatisierungs- und Analysefunktionen verbessert werden.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Umwandlung von Präsentationen in Excel-Add-Ins für automatisierte Berichterstattung.
+
+* Export von Finanz- oder Betriebssfolien mit Makro-Unterstützung.
+
+* Erstellung interaktiver Dashboards basierend auf PPSM-Folien.
+
+* Umwandlung von Folien in wiederverwendbare Excel-Makros für wiederkehrende Aufgaben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelkonvertierung mehrerer PPSM-Decks in XLAM-Add-Ins.
+
+* Geplante Erstellung von makrofähigen Vorlagen für Berichterstattung.
+
+* Integration mit Workflow-Automatisierungsplattformen.
+
+* Auslösen der Erstellung von Excel-Add-Ins aus Präsentationen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

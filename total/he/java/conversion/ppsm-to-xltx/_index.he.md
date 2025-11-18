@@ -102,7 +102,51 @@ otherformats: MARKDOWN SXC EXCEL XLAM FODS XLT ODS CSV TSV XLS XLTM XLSX MHTML D
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת PPSM ל-XLTX (תבנית Excel Open XML) יוצרת תבניות גיליון חדשניות וניתנות לשימוש מחדש בלי מקרו, אידיאליות לדיווח תקני עסקי, אקדמי או אישי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* הכנת תבניות דיווח ב-Excel ממצגות.
+
+* המרת שקפים אקדמיים או עסקיים לתבניות XLTX הניתנות לשימוש מחדש.
+
+* המרת שקפים שיווקיים ומכירות לתבניות גיליון תקניות.
+
+* לוחות מחוונים של פרויקטים המומרים לתבניות ניתנות לעריכה לשימוש בצוות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה מצפים PPSM ל-XLTX בצורה צפונית לתבניות דיווח תקניות.
+
+* יצירת תבניות ניתנות לשימוש מחדש משקפים חוזרים במתוזמנים.
+
+* שילוב עם צינורות תוכן אוטומטיים.
+
+* יצירת תבנית מופעלת לתקן תהליך עבודה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

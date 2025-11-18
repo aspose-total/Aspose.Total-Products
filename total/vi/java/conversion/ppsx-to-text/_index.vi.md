@@ -53,7 +53,51 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPSX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi **PPSX sang VĂN BẢN** trích xuất văn bản thuần túy từ các slide, cung cấp một định dạng nhẹ và có thể chỉnh sửa phù hợp cho việc ghi chú nhanh chóng, viết script hoặc phân tích nội dung.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Trích xuất ghi chú slide cho biên bản cuộc họp hoặc tài liệu.
+
+* Tạo lưu trữ văn bản có thể tìm kiếm của các bài thuyết trình.
+
+* Chuẩn bị đầu vào văn bản cho phân tích hoặc tóm tắt AI.
+
+* Tái sử dụng nội dung slide vào báo cáo hoặc bài viết viết.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Trích xuất hàng loạt văn bản từ nhiều bộ slide cho tài liệu.
+
+* Cập nhật định kỳ các tệp văn bản thuần túy khi slide được sửa đổi.
+
+* Tích hợp với đường ống phân tích văn bản cho cái nhìn dữ liệu.
+
+* Chuyển đổi dựa trên cơ sở kích hoạt cho quy trình trích xuất nội dung tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

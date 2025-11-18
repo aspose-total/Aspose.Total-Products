@@ -61,7 +61,55 @@ A PPSX fájl ODS formátumba konvertálásakor vízjelet is hozzáadhat a kimene
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az **PPSX átalakítása ODS formátumba** OpenDocument táblázatkezelő fájlokat hoz létre prezentációkból, lehetővé téve szerkesztésüket és megosztásukat a LibreOffice, OpenOffice vagy platformfüggetlen táblázatkezelő alkalmazásokban.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Együttműködési projektadatok előkészítése diákból.
+
+* Akadémiai vagy vállalati jelentések nyílt formátumban.
+
+* Távoli csapatok számára platformfüggetlen táblázatmegosztás.
+
+* Szerkeszthető adatkészletek elemzéshez vagy vezérlőpultokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ismétlődő prezentációs adatok automatizált tétel ODS formátumba konvertálása.
+
+* Integráció nyílt forráskódú munkafolyamat-kezelő eszközökkel több felhasználó számára történő szerkesztéshez.
+
+* Tételalapú exportálás diatáblázatokból ODS táblázatokba.
+
+* Ütemezett frissítések ismétlődő mutatókhoz és KPI jelentésekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

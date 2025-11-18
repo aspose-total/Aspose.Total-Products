@@ -61,7 +61,55 @@ otherformats: DIF XLS TSV MHTML XLSB ODS SXC XLAM EXCEL XLTX XLT XLSM XLSX MARKD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **PPSX 转换为 XLT** 可以从幻灯片创建 Excel 模板文件，实现重复报告或结构化电子表格工作流程的标准化文档布局。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从演示表格创建公司模板。
+
+* 用于内部使用的标准化报告电子表格。
+
+* 从幻灯片衍生的培训或学术电子表格。
+
+* 一致的客户交付模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从演示文稿自动生成 Excel 模板。
+
+* 批量转换以生成重复报告格式。
+
+* 在幻灯片演示更新时进行定期更新。
+
+* 与工作流系统集成以强制执行模板一致性。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

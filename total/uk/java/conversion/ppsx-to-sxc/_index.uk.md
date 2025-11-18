@@ -102,7 +102,51 @@ otherformats: XLS XLTX XLSB XLSX CSV FODS DIF XLAM MHTML EXCEL XLT TSV MARKDOWN 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Конвертація **PPSX у SXC** дозволяє створювати файли StarOffice Spreadsheet, що дозволяє користувачам старіших офісних пакетів редагувати та обмінюватися даними, отриманими з слайдів, у програмах, сумісних з SXC.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Сумісність зі старим офісним робочим процесом.
+
+* Архівування таблиць презентацій для довгострокового доступу.
+
+* Обмін даними між організаціями, які використовують StarOffice або OpenOffice.
+
+* Конвертація метрик слайдів для аналізу у засобах електронних таблиць.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетна конвертація у SXC для інтеграції зі старими системами.
+
+* Заплановані експорти з повторюваних слайдів презентацій.
+
+* Автоматичне створення електронних таблиць для спільної роботи кількох користувачів.
+
+* Спрацьовані оновлення при додаванні нових даних презентацій.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

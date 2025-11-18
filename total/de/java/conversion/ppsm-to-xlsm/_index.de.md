@@ -61,7 +61,55 @@ Beim Konvertieren der PPSM-Datei in XLSM können Sie Ihrem Ausgabe-XLSM-Dateifor
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von PPSM in XLSM (Excel-Makro-aktiviertes Arbeitsblatt) erhält Formeln, Makros und Diagramme aus den Folien, ermöglicht automatisierte Berechnungen und datengesteuerte Berichte.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Konvertierung von Präsentationen mit Finanzmodellen in makroaktivierte Arbeitsmappen.
+
+* Erstellung interaktiver Projekt-Dashboards mit Makros aus den Folien.
+
+* Akademische Folien mit Formeln, die in XLSM für automatische Bewertung umgewandelt werden.
+
+* Verkaufsfolien werden in XLSM für automatisierte Berichterstellung umgewandelt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelkonvertierung von PPSM in XLSM zur Workflow-Automatisierung.
+
+* Geplante Generierung von makroaktivierten Arbeitsmappen aus Präsentationen.
+
+* Integration in Business-Intelligence-Pipelines.
+
+* Auslösen der Konvertierung für die automatisierte Berichterstellung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

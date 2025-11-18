@@ -53,7 +53,51 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de **PPSX en RTF** transforme les diapositives en documents au format Rich Text universellement compatibles, idéaux pour les environnements nécessitant une large accessibilité sans contraintes logicielles.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Conversion de présentations en documentation textuelle pour un partage facile.
+
+* Archivage du contenu des diapositives au format RTF lisible universellement.
+
+* Préparation de mémos internes ou de rapports à partir de présentations.
+
+* Contenu éditable multiplateforme pour une utilisation académique ou professionnelle.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion automatisée par lot de plusieurs ensembles de diapositives en RTF.
+
+* Intégration avec des référentiels de documents à des fins d'archivage.
+
+* Génération planifiée de rapports internes à partir des diapositives de présentation.
+
+* Mises à jour déclenchées de la documentation RTF après des modifications de présentation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

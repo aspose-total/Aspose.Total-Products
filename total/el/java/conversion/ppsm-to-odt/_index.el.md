@@ -53,7 +53,51 @@ otherformats: RTF ODTM FLATOPC ODTX DOTM DOT TEXT WORD WORDML DOTX OTT ODT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του PPSM σε ODT (OpenDocument Text) εξασφαλίζει συμβατότητα μεταξύ πλατφορμών, επιτρέποντας στις διαφάνειες να μετατραπούν σε επεξεργάσιμα κείμενα έγγραφα για επεξεργαστές κειμένου ανοικτού κώδικα όπως το LibreOffice και το OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Προετοιμασία σημειώσεων διαλέξεων από διαφάνειες παρουσιάσεων σε μορφή ODT.
+
+* Επιχειρηματικές προτάσεις μετατραπείσει για περιβάλλοντα LibreOffice ή OpenOffice.
+
+* Μετατροπή συστημάτων διαφανειών σε μορφές εγγράφων ανοικτού κώδικα για συνεργασία.
+
+* Αρχειοθέτηση επεξεργάσιμων διαφανειών για πολυπλατφορμική πρόσβαση.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή παρουσιάσεων PPSM σε έγγραφα ODT για κατανεμημένες ομάδες.
+
+* Ενσωμάτωση με ροές εργασίας εγγράφων ανοικτού κώδικα για αυτόματες ενημερώσεις.
+
+* Προγραμματισμένη εξαγωγή διαφανειών σε μορφή ODT για αποθετήρια γνώσεων.
+
+* Ενεργοποίηση δημιουργίας ODT από παρουσιάσεις για κοινή χρήση μεταξύ πλατφορμών.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

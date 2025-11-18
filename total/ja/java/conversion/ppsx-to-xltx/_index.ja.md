@@ -61,7 +61,51 @@ PPSXファイルをXLTXに変換するときに、出力XLTXファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSXをXLTXに変換**すると、マクロが含まれていないExcelテンプレートがスライドから生成され、マクロセキュリティの懸念なしに標準化されたレポートが作成できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 企業レポート用の再利用可能なスプレッドシート。
+
+* プレゼンテーションテーブルからの学術またはトレーニング用テンプレート。
+
+* スライドから派生した標準化された顧客納品物。
+
+* クロスチームの共同作業用のテンプレートライブラリ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* スライドをXLTXテンプレートにバッチ変換のスケジュール設定。
+
+* 一貫したスプレッドシートの書式設定のためのワークフロー管理との統合。
+
+* スライドコンテンツが変更されたときのトリガーベースの更新。
+
+* 企業での使用のためのテンプレートライブラリの一括生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

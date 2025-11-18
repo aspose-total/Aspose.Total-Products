@@ -102,7 +102,51 @@ otherformats: MARKDOWN XLAM XLTX TSV CSV FODS SXC MHTML EXCEL XLS XLSB XLSX XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת PPSM ל-ODS (גיליון נתונים של OpenDocument) מבטיחה תאימות מלאה עם LibreOffice, OpenOffice ו-Google Sheets תוך שמירה על טבלאות ותרשימים מהשקפים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* ייצוא מדדי המצגת ל-ODS לצורך ניתוח שיתופי.
+
+* המרת לוחות בקרה של פרויקט לגרסת גיליון נתונים ניתנת לעריכה.
+
+* המרת שקפים אקדמיים לפורמטי גיליון נתונים ידידותיים לתלמידים.
+
+* המרת מצגות שיווק ומצגות מכירות PPSM לקבצי ODS שניתנים לשיתוף.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* אוטומציה של המרות משקפים ל-ODS עבור דוחות חוזרים.
+
+* חילוץ רצפים ותרשימים בצורת עצמאית לפורמט ODS.
+
+* יצירה מתוזמנת של גיליונות נתונים ממצגות עסקיות.
+
+* שילוב עם פלטפורמות זרימת עבודה לעדכונים דינמיים בגיליונות נתונים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,51 @@ PPSM 파일을 MARKDOWN로 변환하는 동안 출력 MARKDOWN 파일 형식에 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM을 Markdown으로 변환하면 서식이 있는 가벼운 일반 텍스트 문서로 프레젠테이션 콘텐츠를 변환할 수 있습니다. 문서, 블로그, GitHub 저장소 또는 개발자 협업에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 강의나 교육 슬라이드를 Markdown 노트로 변환하기.
+
+* 기업 프레젠테이션에서 가벼운 문서 작성하기.
+
+* 슬라이드를 블로그에 적합한 Markdown 콘텐츠로 내보내기.
+
+* 버전 관리된 Markdown 파일을 사용하여 개발자에게 슬라이드 덱 공유하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* PPSM 슬라이드를 Markdown으로 일괄 변환하여 콘텐츠 저장소에 저장하기.
+
+* Hugo 또는 Jekyll과 같은 정적 사이트 생성기와 통합하기.
+
+* 반복되는 프레젠테이션을 Markdown 형식으로 예약된 내보내기하기.
+
+* 슬라이드 덱에서 Markdown 문서를 생성하는 트리거 설정하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

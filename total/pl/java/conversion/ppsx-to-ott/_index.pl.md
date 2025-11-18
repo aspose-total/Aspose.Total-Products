@@ -53,7 +53,51 @@ Korzystając z API, możesz również wykonać konwersję pliku PPSX do OTT ze z
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie **PPSX na OTT** generuje szablony dokumentów otwartych bez makr, umożliwiając ponowne wykorzystywanie standaryzowanych szablonów bez ryzyka makr.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Tworzenie szablonów szkoleń lub warsztatów w LibreOffice/OpenOffice.
+
+* Standaryzowane szablony dokumentów dla NGO lub akademickich.
+
+* Ponownie wykorzystywane szablony oparte na slajdach do współpracy zespołowej.
+
+* Raporty dla klientów w formatach wieloplatformowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Generowanie zbiorcze szablonów OTT do cyklicznych raportów.
+
+* Integracja z systemami przepływu pracy typu open-source do wdrażania szablonów.
+
+* Zaplanowane aktualizacje standaryzowanych szablonów z nowych zestawów slajdów.
+
+* Automatyczne generowanie dokumentów współpracujących z makrami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

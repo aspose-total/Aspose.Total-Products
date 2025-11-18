@@ -61,7 +61,55 @@ PPSM dosyasını FODS'ye dönüştürürken, çıktı FODS dosya biçiminize de 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM'yi FODS'ye (Flat OpenDocument Spreadsheet) dönüştürmek, LibreOffice ve OpenOffice ile uyumlu hafif, düzenlenebilir bir elektronik tablo formatı sağlar; işbirlikçi projeler ve açık kaynaklı iş akışları için faydalıdır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Açık kaynaklı elektronik tablo uygulamaları için slayt tablolarını FODS'e dışa aktarma.
+
+* Çok platformlu analiz için akademik veya araştırma slaytlarını hazırlama.
+
+* PPSM destelerinden işletme metriklerini FODS formatına dönüştürme.
+
+* Mülkiyet yazılım bağımlılığı olmadan finansal veya satış verilerini paylaşma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Açık kaynaklı işbirlikçi ekipler için toplu PPSM'den FODS'e dönüştürme.
+
+* Slayt verilerinin düzenlenebilir elektronik tablo şablonlarına zamanlanmış çıkartılması.
+
+* Otomatik proje raporlama iş akışlarına entegrasyon.
+
+* Çok platformlu paylaşım için tetiklenen dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

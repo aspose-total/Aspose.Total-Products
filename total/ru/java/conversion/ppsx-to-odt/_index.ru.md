@@ -53,7 +53,51 @@ otherformats: DOT ODT RTF TEXT DOTX WORD FLATOPC ODTM OTT DOTM ODTX WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **PPSX в ODT** обеспечивает поддержку формата открытого документа для конвертации слайдов в Word, идеально подходит для LibreOffice, OpenOffice или редактирования на различных платформах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Академические презентации преобразуются в форматы документов с открытым исходным кодом.
+
+* Отчеты правительственных органов или НПО, требующие совместимости с ODT.
+
+* Редактируемые на различных платформах отчеты, полученные из презентационных слайдов.
+
+* Совместная документация в средах офисов с открытым исходным кодом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное пакетное преобразование презентаций в ODT для распространения на нескольких платформах.
+
+* Интеграция с рабочими процессами документов с открытым исходным кодом для совместной работы команды.
+
+* Запланированные преобразования для повторяющихся академических или некоммерческих отчетов.
+
+* Автоматическое обновление файлов ODT при изменениях в слайдах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

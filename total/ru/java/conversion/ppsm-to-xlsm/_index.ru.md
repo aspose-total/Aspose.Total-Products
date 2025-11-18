@@ -61,7 +61,55 @@ otherformats: XLTM XLSX MHTML SXC XLSB DIF ODS EXCEL XLAM FODS TSV XLSM MARKDOWN
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование PPSM в XLSM (Excel Macro-Enabled Workbook) сохраняет формулы, макросы и диаграммы слайдов, обеспечивая автоматизированные расчеты и отчеты на основе данных.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование презентаций с финансовыми моделями в макро-включенные книги Excel.
+
+* Подготовка интерактивных проектных панелей с макросами из слайдов.
+
+* Академические слайды с формулами преобразованы в XLSM для автоматизированной оценки.
+
+* Преобразование продажных слайдов в XLSM для автоматизированной отчетности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование PPSM в XLSM для автоматизации рабочего процесса.
+
+* Плановое создание макро-включенных книг Excel из презентаций.
+
+* Интеграция с конвейерами бизнес-аналитики.
+
+* Триггерное преобразование для автоматизации повторяющихся отчетов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

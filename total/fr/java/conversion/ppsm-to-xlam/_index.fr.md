@@ -61,7 +61,55 @@ Lors de la conversion du fichier PPSM en XLAM, vous pouvez également ajouter un
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de PPSM en XLAM (Complément Excel activé par macro) permet d'intégrer des calculs et des graphiques basés sur des diapositives dans des compléments Excel, améliorant ainsi les capacités d'automatisation et d'analyse.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Transformation des présentations en compléments Excel pour des rapports automatisés.
+
+* Exportation de diapositives financières ou opérationnelles avec prise en charge des macros.
+
+* Création de tableaux de bord interactifs basés sur des diapositives PPSM.
+
+* Conversion de diapositives en macros Excel réutilisables pour des tâches récurrentes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de plusieurs ensembles de diapositives PPSM en compléments XLAM.
+
+* Génération planifiée de modèles activés par macro pour les rapports.
+
+* Intégration avec des plateformes d'automatisation des flux de travail.
+
+* Création déclenchée de compléments Excel à partir de présentations.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

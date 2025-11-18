@@ -61,7 +61,45 @@ Trong khi chuyển đổi tệp POTX sang MARKDOWN, bạn cũng có thể thêm 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi POTX sang Markdown cho phép xuất nội dung slide thành các tệp markup nhẹ, dễ đọc phù hợp cho tài liệu, kho lưu trữ GitHub và tạo trang web tĩnh.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi bài thuyết trình thành ghi chú Markdown cho tài liệu của nhà phát triển.
+* Chuẩn bị hướng dẫn hoặc hướng dẫn dựa trên slide trong kho lưu trữ GitHub.
+* Xuất nội dung cho các trình tạo trang web tĩnh như Hugo hoặc Jekyll.
+* Chuyển đổi bộ slide đào tạo thành Markdown để dễ kiểm soát phiên bản.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi Markdown hàng loạt cho thư viện tài liệu.
+* Xuất slide sang Markdown theo yêu cầu cho các đường ống tài liệu CI/CD.
+* Tích hợp với trình tạo trang web tĩnh để cập nhật trang web tự động.
+* Trích xuất tự động slide thành Markdown để chỉnh sửa cộng tác.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

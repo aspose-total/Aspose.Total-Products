@@ -61,7 +61,51 @@ Podczas konwertowania pliku PPSM do SXC możesz również dodać znak wodny do w
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie PPSM na SXC (Arkusz kalkulacyjny StarOffice Calc) pozwala przekształcić starsze slajdy prezentacji w kompatybilne arkusze kalkulacyjne dla użytkowników starszych wersji OpenOffice lub StarOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Konwertowanie slajdów sprzedażowych lub projektowych na edytowalne arkusze kalkulacyjne SXC.
+
+* Udostępnianie historycznych prezentacji użytkownikom starszego oprogramowania biurowego.
+
+* Przekształcanie slajdów akademickich lub korporacyjnych w raporty arkuszowe.
+
+* Archiwizacja danych ze slajdów w lekkim formacie SXC.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja PPSM na SXC dla systemów starszych.
+
+* Zaplanowane wyodrębnianie wykresów i tabel do plików SXC.
+
+* Integracja z automatycznymi potokami raportowania dla starszego oprogramowania.
+
+* Wywoływana konwersja dla cyklicznych prezentacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPSM sang XLTM, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi PPSM sang XLTM (Mẫu Excel có Macro) cung cấp các mẫu có thể tái sử dụng với macro, hoàn hảo cho báo cáo tự động hoặc quy trình làm việc trên bảng tính định kỳ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tạo các mẫu tài chính có macro từ các slide.
+
+* Chuyển đổi các slide dự án thành các mẫu báo cáo Excel tự động.
+
+* Bảng điều khiển bán hàng hoặc tiếp thị được chuyển đổi thành các mẫu có macro.
+
+* Các slide học thuật được tái sử dụng thành các mẫu chấm điểm tương tác.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ PPSM sang XLTM cho các quy trình làm việc lặp đi lặp lại.
+
+* Tạo mẫu có macro theo lịch trình để tự động báo cáo.
+
+* Tích hợp với các đường ống BI cho phân tích dữ liệu dựa trên mẫu.
+
+* Kích hoạt tạo các mẫu có macro từ các bài thuyết trình.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

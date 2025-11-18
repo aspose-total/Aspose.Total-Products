@@ -53,7 +53,51 @@ APIを使用して、透かしを使用してPPSXファイルからDOTXへの変
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSXをDOTXに変換**すると、マクロのないWordテンプレートファイルが生成され、マクロセキュリティの問題を回避しながら標準化された文書レイアウトが実現できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* マーケティングスライドから標準化されたクライアント提案テンプレートを作成。
+
+* 繰り返しのフォーマットが必要なワークショップやトレーニングマニュアル。
+
+* 講義プレゼンテーションに基づく学術用資料。
+
+* 内部文書テンプレートの再利用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的なプレゼンテーションをDOTXテンプレートにバッチ変換するスケジュール設定。
+
+* テンプレート管理システムとの統合による簡単な再利用。
+
+* 新しいスライドバージョンに基づいてテンプレートを自動更新。
+
+* ブランド準拠の文書レイアウトの効率的な作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

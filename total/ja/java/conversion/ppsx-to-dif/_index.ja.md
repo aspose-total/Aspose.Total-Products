@@ -61,7 +61,55 @@ PPSXファイルをDIFに変換するときに、出力DIFファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSXをDIFに変換**すると、スライドテーブルがデータインターチェンジフォーマットにエクスポートされ、古いシステムやクロスプラットフォーム環境でのシームレスなデータ共有が可能となります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+
+
+* スライドベースのデータをレガシースプレッドシートツールに転送する。
+
+* プレゼンテーションからの学術または研究データのエクスポート。
+
+* 統計ソフトウェアや科学分析のためのデータセットの準備。
+
+* プラットフォーム間での標準化されたデータ交換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 研究ワークフロー向けにプレゼンテーションを定期的にDIFにバッチエクスポート。
+
+* データ処理パイプラインとの自動統合。
+
+* 定期的なスライドからデータベースへの変換のトリガー。
+
+* アナリティクスチーム向けの複数のプレゼンテーションの一括変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

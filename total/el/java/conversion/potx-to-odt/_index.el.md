@@ -53,7 +53,51 @@ otherformats: DOTM OTT DOTX TEXT FLATOPC DOT WORDML RTF ODTM ODTX WORD ODT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή από POTX σε ODT επιτρέπει την εξαγωγή διαφανειών παρουσίασης σε μορφή κειμένου OpenDocument, κατάλληλη για το LibreOffice, το OpenOffice και περιβάλλοντα πολλαπλών πλατφορμών.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Μετατροπή παρουσιάσεων σε επεξεργάσιμα κείμενα OpenOffice ή LibreOffice.
+
+* Κοινοποίηση περιεχομένου διαφανειών σε περιβάλλοντα εκτός Microsoft.
+
+* Δημιουργία αναφορών από τις διαφάνειες παρουσιάσεων για χρήστες ανοικτού κώδικα γραφείου.
+
+* Προετοιμασία εκπαιδευτικού περιεχομένου συμβατού με πολλά πακέτα γραφείου.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή σε ODT για ροές εργασίας γραφείου πολλαπλών πλατφορμών.
+
+* Ενσωμάτωση σε πλατφόρμες συνεργασίας εγγράφων που υποστηρίζουν το ODT.
+
+* Αυτοματοποιημένη εξαγωγή για αναφορές έργων ανοικτού κώδικα.
+
+* Μετατροπή με ενεργοποίηση για προσβασιμότητα περιεχομένου σε πολλές πλατφόρμες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

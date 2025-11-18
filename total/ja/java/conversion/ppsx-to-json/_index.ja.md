@@ -49,7 +49,51 @@ PPSXをJSONに変換しているときに、範囲を出力JSON形式に設定�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSXをJSONに変換**すると、プレゼンテーションコンテンツが機械可読なJSON形式に変換され、開発者、API、データ駆動アプリケーションに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* Webやモバイルアプリにスライドコンテンツをエクスポート。
+
+* カスタムダッシュボードや可視化ツールへの統合。
+
+* 分析やAIモデル用のスライドベースのデータの準備。
+
+* API用のプレゼンテーションデータセットの作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* スライドデッキのバッチ変換をJSONに行い、Web統合。
+
+* スライドが修正された際にJSONをトリガーベースで更新。
+
+* ビジネスインテリジェンスツールにスライドデータを供給する自動化パイプライン。
+
+* 定期的なレポートやコンテンツフィードのためのスケジュールエクスポート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

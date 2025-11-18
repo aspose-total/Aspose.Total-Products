@@ -53,7 +53,51 @@ otherformats: DOT FLATOPC DOTXX RTF WORDML ODT DOTXM TEXT DOTM WORD DOTX OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование PPSM в DOTX (шаблон Word Open XML) позволяет создавать многоразовые шаблоны Word из презентаций без макросов. Это идеально подходит для компаний, которые ищут редактируемые стандартизированные документы, созданные на основе слайд-деков.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование маркетинговых презентаций в редактируемые шаблоны предложений.
+
+* Превращение академических слайдов в шаблоны для лекционных материалов.
+
+* Преобразование HR-презентаций в шаблоны документов по политике или инструктажу новых сотрудников.
+
+* Создание шаблонов документации по проектам на основе корпоративных деков.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизация создания шаблонов DOTX для повторяющихся презентаций.
+
+* Пакетная генерация шаблонов на основе слайдов для нескольких команд.
+
+* Плановое преобразование слайдов в шаблоны документов для управления знаниями.
+
+* Интеграция с системами управления контентом для динамического развертывания шаблонов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

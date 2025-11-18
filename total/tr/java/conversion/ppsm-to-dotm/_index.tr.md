@@ -53,7 +53,55 @@ API'yi kullanarak, filigranlı PPSM dosyasını DOTM'ye dönüştürme işlemini
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM'yi DOTM'ye (Makro Etkin Word Şablonu) dönüştürmek, sunum içeriğini ve gömülü makroları koruyarak, kurumsal ve akademik iş akışları için otomatik şablonların oluşturulmasını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Finans veya İK departmanları için etkileşimli şablon raporları oluşturma.
+
+* Otomatik hesaplamalar için önceden tanımlanmış makrolara sahip eğitim modülleri.
+
+* Dinamik makrolara sahip düzenlenebilir proje şablonları oluşturma.
+
+* Sunumları tekrarlayan müşteri teklifi şablonlarına dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Slides'ların tekrarlayan kullanım için DOTM'ye zamanlanmış toplu dönüşümü.
+
+* İş akışı şablonlarında PPSM verilerinden otomatik güncelleme yapma.
+
+* Tekrarlayan rapor oluşturma için belge otomasyon platformlarıyla entegrasyon.
+
+* Denetim veya uyumluluk şablonlarının slaytlardan otomatik oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

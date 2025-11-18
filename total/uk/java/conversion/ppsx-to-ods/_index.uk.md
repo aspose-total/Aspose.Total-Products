@@ -102,7 +102,55 @@ otherformats: XLTM MHTML MARKDOWN TSV XLS CSV FODS DIF XLSB XLT XLAM XLSM EXCEL 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Конвертація **PPSX в ODS** створює файли OpenDocument Spreadsheet з презентацій, що дозволяє редагування та обмін у LibreOffice, OpenOffice або крос-платформених програмах для електронних таблиць.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* Підготовка спільних даних про проекти з слайдів.
+
+* Академічна або корпоративна звітність у відкритих форматах.
+
+* Обмін електронними таблицями між платформами для віддалених команд.
+
+* Редаговані набори даних для аналізу або інформаційних панелей.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Автоматизована пакетна конвертація в ODS для повторюваних даних презентацій.
+
+* Інтеграція з інструментами робочого процесу з відкритим вихідним кодом для редагування користувачами.
+
+* Експорт таблиць слайдів у електронні таблиці ODS на основі тригерів.
+
+* Заплановані оновлення для повторюваних метричних даних та звітів KPI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

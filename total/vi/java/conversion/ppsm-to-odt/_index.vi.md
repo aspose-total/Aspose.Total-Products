@@ -53,7 +53,51 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPSM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi PPSM sang ODT (OpenDocument Text) đảm bảo tính tương thích đa nền tảng, cho phép các slide được chuyển đổi thành tài liệu văn bản có thể chỉnh sửa cho các trình xử lý văn bản mã nguồn mở như LibreOffice và OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuẩn bị ghi chú bài giảng từ các slide trình bày trong định dạng ODT.
+
+* Đề xuất kinh doanh được chuyển đổi cho môi trường LibreOffice hoặc OpenOffice.
+
+* Biến đổi bộ slide thành định dạng tài liệu mã nguồn mở để hợp tác.
+
+* Lưu trữ các slide có thể chỉnh sửa để truy cập trên nhiều nền tảng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt các bài thuyết trình PPSM thành tài liệu ODT cho các nhóm phân phối.
+
+* Tích hợp với quy trình làm việc tài liệu mã nguồn mở để cập nhật tự động.
+
+* Xuất slide theo lịch trình vào định dạng ODT cho các kho tri thức.
+
+* Tạo ra ODT từ các bài thuyết trình để chia sẻ đa nền tảng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

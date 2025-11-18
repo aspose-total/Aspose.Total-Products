@@ -61,7 +61,55 @@ PPSXファイルをSXCに変換するときに、出力SXCファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSXをSXCに変換**すると、StarOffice Spreadsheetファイルが生成され、古いオフィススイートのユーザーがSXC互換のアプリでスライドから派生したデータを編集および共有できるようになります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* レガシーオフィスワークフローとの互換性。
+
+* 長期アクセス用にプレゼンテーションテーブルをアーカイブする。
+
+* StarOfficeまたはOpenOfficeを使用して組織間でデータを共有する。
+
+* スプレッドシートツールでの分析のためにスライドメトリクスを変換する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* レガシーシステム統合用のバッチSXC変換。
+
+* 定期的なプレゼンテーションスライドからのスケジュールされたエクスポート。
+
+* マルチユーザー協力のためのスプレッドシートの自動生成。
+
+* 新しいプレゼンテーションデータが追加されたときのトリガー更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

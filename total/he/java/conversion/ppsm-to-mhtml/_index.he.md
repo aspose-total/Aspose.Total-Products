@@ -102,7 +102,55 @@ otherformats: XLAM XLSM XLS XLSB MARKDOWN XLT FODS XLTM XLSX XLTX DIF CSV ODS TS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת PPSM ל-MHTML (MIME HTML Archive) מאפשרת יצירת קובץ HTML יחיד המכיל את כל המצגת. פורמט זה אידיאלי לשיתוף ברשת, צפייה לא מקוונת או ארכיבה של שקפים עם עיצוב מלא ומדיה מרובתית.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* שיתוף מצגות כקבצי HTML יחידים לצפייה לא מקוונת.
+
+* ארכיבת שקפים עם מדיה מוטבעת ואנימציות ב-MHTML.
+
+* פרסום תוכן שקפים אינטראקטיבי באינטרנטים או באתרים.
+
+* המרת הרצאות או מודולי הכשרה לארכיון HTML מוכן לרשת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת רצפי PPSM ל-MHTML בצורה צפופה לאתר אינטרנט או לבסיס ידע.
+
+* יצירת קבצי MHTML מתוזמנים למצגות חוזרות.
+
+* שילוב עם מערכות ניהול תוכן אינטרנטיות לפרסום אוטומטי.
+
+* המרת מופעלת לקבצי מצגת HTML מוכנים לארכיון.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

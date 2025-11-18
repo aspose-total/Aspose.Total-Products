@@ -53,7 +53,51 @@ API를 사용하여 워터마크를 사용하여 PPSM 파일을 RTF로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM을 RTF(리치 텍스트 형식)로 변환하면 슬라이드를 편집 가능한 텍스트 문서로 변환할 수 있는 가벼우면서 보편적으로 호환되는 방법을 제공합니다. 이메일 공유, 레거시 소프트웨어, 다중 플랫폼 협업에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 이메일 배포용으로 프레젠테이션 콘텐츠를 RTF로 내보내기.
+
+* 보존 목적으로 슬라이드에서 가벼운 문서 작성.
+
+* 다양한 플랫폼에서 사용할 수 있는 편집 가능한 텍스트 형식으로 슬라이드 변환.
+
+* 마케팅 또는 교육 프레젠테이션에서 RTF 핸드아웃 준비.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 팀 전체 배포를 위한 일괄 PPSM-to-RTF 변환.
+
+* 강의 슬라이드를 편집 가능한 RTF 문서로 자동 내보내기.
+
+* 규정 준수 또는 보고 워크플로우를 위한 예약된 RTF 생성.
+
+* 레거시 문서 관리 시스템과의 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

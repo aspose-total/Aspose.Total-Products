@@ -53,7 +53,55 @@ otherformats: DOTM WORD ODT WORDML DOCM DOTX FLATOPC DOCMX TEXT OTT RTF DOT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل PPSM إلى DOCM (مستند Word الممكّن للماكرو) يسمح بتحويل العروض التقديمية إلى مستندات Word قابلة للتحرير مع الحفاظ على وظائف الماكرو. مثالي لسير العمل الشركاتية حيث يعزز الأتمتة أو النصوص المضمنة الإنتاجية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تقارير تفاعلية تتطلب ماكروهات لتحديثات الرسوم البيانية التلقائية.
+
+* دلائل تدريبية تحتوي على نصوص VBA مضمنة لمحاكاة السيناريوهات.
+
+* أتمتة الوثائق الداخلية التي تم إنشاؤها من الشرائح.
+
+* تحويل العروض التقديمية الديناميكية للاقتراحات العملية للعملاء مع ماكروهات تُشغّل بواسطة إجراء.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* معالجة دفعية لشرائح PPSM في قوالب DOCM مع ماكروهات.
+
+* تحديثات مجدولة للعروض المالية إلى تقارير Word ممكّنة للماكرو.
+
+* التكامل مع أدوات الأتمتة في سير العمل لتحويل الشرائح إلى مستندات.
+
+* توليد تقارير تدقيق داخلية من شرائح PPSM مع ماكروهات بشكل تلقائي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

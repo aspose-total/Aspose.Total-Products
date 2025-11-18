@@ -102,7 +102,51 @@ otherformats: FODS SXC EXCEL ODS DIF TSV MHTML XLSM XLTM XLT XLSX XLAM XLSB CSV 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Конвертація PPSM в XLS (Excel 97-2003 Workbook) забезпечує сумісність зі старішими версіями Microsoft Excel, зберігаючи таблиці та діаграми з слайдів.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Експорт фінансових або проектних слайдів в XLS для користувачів зі старими версіями.
+
+* Конвертація корпоративних метрик у редаговані електронні таблиці Excel.
+
+* Академічні слайди перетворені в електронні таблиці для аналізу.
+
+* Обмін даними презентації у форматі, сумісному зі старими версіями Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетна конвертація PPSM в XLS для використання командою зі старими версіями.
+
+* Заплановане видобування слайдів в XLS для звітності.
+
+* Інтеграція в автоматизовані робочі процеси архівування.
+
+* Генерація XLS з повторюваних презентацій.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

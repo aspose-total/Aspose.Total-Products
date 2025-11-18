@@ -61,7 +61,51 @@ PPSM dosyasını XLAM'ye dönüştürürken, çıktı XLAM dosya biçiminize de 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM'yi XLAM'a (Excel Makro Etkin Eklenti) dönüştürmek, slayt tabanlı hesaplamaları ve grafikleri Excel eklentilerine gömme imkanı sağlar, otomasyon ve analitik yetenekleri artırır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Sunumları otomatik raporlama için Excel eklentilerine dönüştürme.
+
+* Makro desteği ile finansal veya operasyonel slaytları dışa aktarma.
+
+* PPSM slaytlarına dayalı etkileşimli gösterge panoları oluşturma.
+
+* Tekrar eden görevler için slaytları yeniden kullanılabilir Excel makrolarına dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Birden fazla PPSM desteğinin XLAM eklentilerine toplu dönüşümü.
+
+* Raporlama için makro etkin şablonların zamanlanmış oluşturulması.
+
+* İş akışı otomasyon platformlarıyla entegrasyon.
+
+* Sunumlardan Excel eklentilerinin tetiklenerek oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

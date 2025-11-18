@@ -53,7 +53,55 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de **PPSX en ODT** offre une prise en charge du format de document ouvert pour les conversions de diapositives en Word, idéale pour LibreOffice, OpenOffice ou l'édition multiplateforme.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Diaporamas académiques réutilisés pour les formats de document open source.
+
+* Rapports gouvernementaux ou d'ONG nécessitant une compatibilité ODT.
+
+* Rapports éditables multiplateformes dérivés de diapositives de présentation.
+
+* Documentation collaborative dans des environnements de bureau open source.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion automatisée en lot de présentations en ODT pour une distribution multiplateforme.
+
+* Intégration avec des flux de travail de documents open source pour la collaboration d'équipe.
+
+* Conversions planifiées pour des rapports académiques ou à but non lucratif récurrents.
+
+* Mise à jour automatique des fichiers ODT à partir des révisions de diapositives.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

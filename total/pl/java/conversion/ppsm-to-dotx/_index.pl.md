@@ -53,7 +53,51 @@ Korzystając z API, możesz również wykonać konwersję pliku PPSM do DOTX ze 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie PPSM na DOTX (szablon Word Open XML) pozwala na tworzenie wielokrotnie używanych szablonów Worda z prezentacji bez makr. Jest idealne dla firm poszukujących edytowalnych, standaryzowanych dokumentów pochodzących z prezentacji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Konwertowanie prezentacji marketingowych na edytowalne szablony propozycji.
+
+* Przekształcanie slajdów akademickich w szablony do wykładów.
+
+* Konwersja prezentacji HR na szablony dokumentów polityki lub wprowadzania pracowników.
+
+* Tworzenie szablonów dokumentacji projektowej na podstawie firmowych prezentacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyzacja tworzenia szablonów DOTX dla powtarzających się prezentacji.
+
+* Generowanie zbiorcze szablonów pochodzących ze slajdów dla wielu zespołów.
+
+* Zaplanowana konwersja slajdów na szablony dokumentów w celu zarządzania wiedzą.
+
+* Integracja z systemami zarządzania treścią dla dynamicznego wdrażania szablonów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

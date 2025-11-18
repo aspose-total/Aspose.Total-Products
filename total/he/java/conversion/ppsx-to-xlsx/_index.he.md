@@ -102,7 +102,51 @@ otherformats: MARKDOWN FODS EXCEL ODS SXC XLT XLSM XLSB XLS MHTML TSV XLTM DIF X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **PPSX ל-XLSX** מייצאת שקופיות לקבצי Excel מודרניים עם תמיכה מלאה בעריכה, טבלאות ונוסחאות, תואמת ל-Office 2007+ ולפלטפורמות ענן.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת שקופיות מצגות מכירות, KPI או שיווק ללוחות בקרה ב-Excel.
+
+* גיליונות נתונים שניתנים לעריכה לדיווח פנימי.
+
+* מצגות מבוססות נתונים הופכות לקבצי Excel פעילים.
+
+* דוחות לקוח מופקים ממדדי המצגת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רציפה עבור מצגות חוזרות.
+
+* ייצוא מתוזמן ל-Excel לדיווח אוטומטי.
+
+* שילוב עם כלים לניתוח עסקי לעדכוני לוחות בקרה חיים.
+
+* יצירה אוטומטית של גיליונות Excel מתיקוני שקופיות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

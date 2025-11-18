@@ -61,7 +61,51 @@ PPSMファイルをXLAMに変換するときに、出力XLAMファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSMをXLAM（Excel Macro-Enabled Add-In）に変換すると、スライドベースの計算とチャートをExcelアドインに埋め込むことができ、自動化および分析機能が向上します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* プレゼンテーションを自動レポート用のExcelアドインに変換する。
+
+* マクロサポート付きの財務または運用スライドをエクスポートする。
+
+* PPSMスライドに基づいたインタラクティブダッシュボードを作成する。
+
+* スライドを再利用可能なExcelマクロに変換して定期的なタスクを実行する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 複数のPPSMデッキをXLAMアドインに一括変換する。
+
+* レポート用のマクロ有効テンプレートの定期的な生成。
+
+* ワークフロー自動化プラットフォームとの統合。
+
+* プレゼンテーションからExcelアドインの作成をトリガーする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

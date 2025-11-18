@@ -61,7 +61,55 @@ otherformats: XLTM MHTML MARKDOWN TSV XLS ODS FODS DIF XLSB XLT XLAM XLSM EXCEL 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل **PPSX إلى ODS** ينشئ ملفات جداول بيانات OpenDocument من العروض التقديمية، مما يتيح التحرير والمشاركة في LibreOffice، OpenOffice، أو تطبيقات جداول بيانات متعددة المنصات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إعداد بيانات مشروع تعاونية من الشرائح.
+
+* تقارير أكاديمية أو تقارير شركات بتنسيقات مفتوحة.
+
+* مشاركة جداول البيانات عبر المنصات لفرق العمل عن بعد.
+
+* مجموعات بيانات قابلة للتحرير للتحليل أو لوحات المعلومات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأليف التلقائي" %}}
+
+
+
+* تحويل دفعي تلقائي لملفات ODS لبيانات العروض التقديمية المتكررة.
+
+* التكامل مع أدوات سير العمل مفتوحة المصدر لتحرير متعدد المستخدمين.
+
+* تصدير الجداول من الشرائح بناءً على المؤشرات إلى جداول ODS.
+
+* تحديثات مجدولة لتقارير المقاييس والمؤشرات الرئيسية المتكررة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

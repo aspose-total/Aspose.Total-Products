@@ -61,7 +61,51 @@ A PPSM fájl FODS formátumba konvertálásakor vízjelet is hozzáadhat a kimen
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM konvertálása FODS formátumra (Flat OpenDocument Spreadsheet) egy könnyű, szerkeszthető táblázatformátumot eredményez, amely kompatibilis a LibreOffice és az OpenOffice szoftverekkel, hasznos együttműködési projektekhez és nyílt forráskódú munkafolyamatokhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Diatáblázatok exportálása FODS formátumba nyílt forráskódú táblázatkezelő alkalmazásokhoz.
+
+* Akadémiai vagy kutatási diák előkészítése több platformon történő elemzéshez.
+
+* Üzemeltetési mutatók konvertálása PPSM prezentációkból FODS formátumba.
+
+* Pénzügyi vagy értékesítési adatok megosztása szoftverfüggőség nélkül.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Tömeges PPSM-FODS konverzió nyílt forráskódú együttműködő csapatok számára.
+
+* Diáadatok ütemezett kinyerése szerkeszthető táblázatsablonokba.
+
+* Integráció automatizált projektjelentési folyamatokba.
+
+* Kiváltott konverzió különböző platformok közötti megosztáshoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ Tijdens het converteren van een PPSM-bestand naar SXC, kunt u ook een watermerk 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van PPSM naar SXC (StarOffice Calc-spreadsheet) maakt het mogelijk om oudere presentaties om te zetten in compatibele spreadsheets voor gebruikers van legacy OpenOffice of StarOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het omzetten van verkoop- of projectpresentaties naar bewerkbare SXC-spreadsheets.
+
+* Historische presentaties delen met legacy kantoorsoftware.
+
+* Academische of zakelijke presentaties hergebruiken voor spreadsheet-rapportage.
+
+* Slidegegevens archiveren in een lichtgewicht SXC-formaat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchconversie van PPSM naar SXC voor legacy systemen.
+
+* Geplande extractie van grafieken en tabellen naar SXC-bestanden.
+
+* Integratie met geautomatiseerde rapportagepijplijnen voor oudere software.
+
+* Getriggerde conversie voor terugkerende presentaties.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

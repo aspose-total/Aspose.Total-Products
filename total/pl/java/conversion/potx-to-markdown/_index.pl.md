@@ -61,7 +61,51 @@ Podczas konwertowania pliku POTX do MARKDOWN możesz również dodać znak wodny
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie pliku POTX na Markdown pozwala na eksportowanie treści slajdów do lekkich, czytelnych plików znakowania odpowiednich do dokumentacji, repozytoriów GitHub oraz generowania statycznych stron.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przekształcanie prezentacji w notatki Markdown do dokumentacji dla programistów.
+
+* Przygotowywanie samouczków lub przewodników opartych na slajdach w repozytoriach GitHub.
+
+* Eksportowanie treści do generatorów statycznych stron, takich jak Hugo lub Jekyll.
+
+* Konwertowanie prezentacji szkoleniowych na Markdown dla łatwej kontroli wersji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja na Markdown dla bibliotek dokumentacji.
+
+* Wywołany eksport z slajdów do Markdown dla potoków dokumentacji CI/CD.
+
+* Integracja z generatorami statycznych stron dla automatycznej aktualizacji stron.
+
+* Automatyczne wyodrębnianie slajdów do Markdown dla wspólnej edycji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,51 @@ otherformats: RTF ODTM FLATOPC ODTX DOTM DOT TEXT WORD WORDML DOTX OTT ODT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง PPSM เป็น ODT (OpenDocument Text) ช่วยให้มีความเข้ากันได้กับแพลตฟอร์มต่าง ๆ ทำให้สไลด์สามารถกลายเป็นเอกสารข้อความที่สามารถแก้ไขได้สำหรับโปรแกรมประมวลผลคำแบบโอเพนซอร์ส เช่น LibreOffice และ OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* เตรียมบันทึกการบรรยายจากสไลด์การนำเสนอในรูปแบบ ODT.
+
+* การแปลงข้อเสนอธุรกิจเพื่อใช้ในสภาพแวดล้อม LibreOffice หรือ OpenOffice.
+
+* การแปลงสไลด์เป็นรูปแบบเอกสารโอเพนซอร์สเพื่อใช้ในการทำงานร่วมกัน.
+
+* การเก็บสไลด์ที่สามารถแก้ไขได้เพื่อการเข้าถึงบนหลายแพลตฟอร์ม.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงสไลด์ PPSM เป็นเอกสาร ODT จำนวนมากสำหรับทีมที่กระจายตัว.
+
+* การรวมเข้ากับขั้นตอนการทำงานของเอกสารโอเพนซอร์สเพื่ออัปเดตโดยอัตโนมัติ.
+
+* การส่งออกสไลด์ตามกำหนดเวลาเป็นรูปแบบ ODT เพื่อเก็บคลังความรู้.
+
+* การสร้าง ODT จากการนำเสนอเพื่อแชร์ในหลายแพลตฟอร์ม.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

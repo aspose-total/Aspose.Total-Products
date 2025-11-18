@@ -53,7 +53,51 @@ Menggunakan API, Anda juga dapat melakukan konversi file POTX ke OTT dengan tand
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengubah POTX menjadi OTT menciptakan template OpenDocument untuk aplikasi pengolah kata lintas platform, memfasilitasi kerangka dokumen yang dapat digunakan kembali.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengonversi slide perusahaan menjadi kerangka template yang dapat diedit untuk OpenOffice.
+
+* Membuat template dokumen standar dari presentasi pemasaran atau SDM.
+
+* Menyiapkan template yang dapat digunakan kembali untuk tugas mahasiswa atau modul pengajaran.
+
+* Menghasilkan tata letak dokumen merek dari desain slide visual.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch file presentasi menjadi template OTT yang dapat digunakan kembali.
+
+* Integrasi ke dalam otomatisasi alur kerja untuk pembaruan template yang konsisten.
+
+* Generasi OTT yang dipicu untuk kebutuhan template dokumen berulang.
+
+* Ekspor template otomatis di berbagai lingkungan kantor sumber terbuka.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

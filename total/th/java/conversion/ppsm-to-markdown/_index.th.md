@@ -61,7 +61,51 @@ otherformats: XLSM XLS SXC XLTX XLSX DIF EXCEL MARKDOWN MHTML FODS ODS XLAM TSV 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง PPSM เป็น Markdown ช่วยให้เนื้อหาของงานนำเสนอสามารถแปลงเป็นเอกสารข้อความที่เบา ๆ พร้อมกับการจัดรูปแบบ ที่เหมาะสำหรับงานเอกสาร เว็บบล็อก ที่เก็บรักษาใน GitHub หรือการทำงานร่วมกับนักพัฒนา
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การแปลงสไลด์การบรรยายหรือการอบรมเป็นบันทึก Markdown
+
+* เตรียมเอกสารเบา ๆ จากงานนำเสนอของบริษัท
+
+* ส่งออกสไลด์เป็นเนื้อหา Markdown พร้อมใช้งานบล็อก
+
+* แบ่งปันสไลด์ดีกส์กับนักพัฒนาโดยใช้ไฟล์ Markdown ที่ควบคุมเวอร์ชัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงสไลด์ PPSM เป็น Markdown จำนวนมากสำหรับเนื้อหาในคลังข้อมูล
+
+* การรวมระบบสร้างเว็บไซต์แบบสถิตเช่น Hugo หรือ Jekyll
+
+* การส่งออกงานนำเสนอที่เกิดซ้ำไปเป็นรูปแบบ Markdown ตามกำหนด
+
+* การสร้างเอกสาร Markdown จากสไลด์โดยการกระตุ้น
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

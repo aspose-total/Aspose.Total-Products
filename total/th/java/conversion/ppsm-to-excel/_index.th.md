@@ -61,7 +61,55 @@ otherformats: DIF FODS XLSX EXCEL MHTML XLTM XLS XLT XLTX MARKDOWN TSV XLSM XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง PPSM เป็น EXCEL ช่วยให้สามารถถ่ายโอนแผนภูมิ ตาราง และข้อมูลตัวเลขจากงานนำเสนอเข้าสู่รูปแบบ Microsoft Excel อย่างเต็มรูปแบบ ทำให้สามารถทำการจัดการข้อมูลและการวิเคราะห์ข้อมูลได้อย่างละเอียด
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* การแปลงสไลด์ขายเป็นแดชบอร์ดที่ใช้ Excel
+
+* การแปลงงานนำเสนอทางการเงินเป็นชีท Excel ที่สามารถแก้ไขได้
+
+* เตรียมสไลด์การจัดการโครงการสำหรับรายงาน Excel
+
+* สไลด์ทางวิชาการหรือวิจัยที่ถูกแปลงเป็นชุดข้อมูล Excel สำหรับการวิเคราะห์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* การประมวลผลสไลด์เป็นสมุดงาน Excel สำหรับการเข้าถึงทีมทั้งหมด
+
+* การรวมระบบกับท่อรายงานสำหรับการแปลงสไลด์เป็น Excel โดยอัตโนมัติ
+
+* การสร้างตารางและแผนภูมิจากงานนำเสนออย่างเป็นระบบ
+
+* การแปลงเป็นรูปแบบสำหรับรายงานการจัดการที่เกิดซ้ำ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ otherformats: MARKDOWN XLAM XLTX TSV ODS FODS SXC MHTML EXCEL XLS XLSB XLSX XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του PPSM σε ODS (OpenDocument Spreadsheet) εξασφαλίζει πλήρη συμβατότητα με το LibreOffice, το OpenOffice και το Google Sheets διατηρώντας παράλληλα γραφήματα και πίνακες από διαφάνειες.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+
+
+* Εξαγωγή μετρήσεων παρουσίασης σε ODS για συνεργατική ανάλυση.
+
+* Μετατροπή πινάκων έργων σε επεξεργάσιμα φύλλα εργασίας ODS.
+
+* Ακαδημαϊκές διαφάνειες μετατρέπονται σε μορφές φύλλων εργασίας φιλικές προς τους φοιτητές.
+
+* Μετατροπή παρουσιάσεων PPSM μάρκετινγκ και πωλήσεων σε αρχεία ODS που μπορούν να κοινοποιηθούν.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποίηση μετατροπής διαφανειών σε ODS για επαναλαμβανόμενες αναφορές.
+
+* Μαζική εξαγωγή πινάκων και γραφημάτων σε μορφή ODS.
+
+* Προγραμματισμένη δημιουργία φύλλων εργασίας από εταιρικές παρουσιάσεις.
+
+* Ενσωμάτωση με πλατφόρμες ροών εργασίας για δυναμικές ενημερώσεις φύλλων εργασίας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

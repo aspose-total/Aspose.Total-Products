@@ -61,7 +61,51 @@ otherformats: XLTX DIF TSV SXC MHTML XLSB XLSX ODS XLAM EXCEL XLT XLSM XLTM MARK
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή **PPSX σε TSV** εξάγει διαφάνειες ως τιμές που χωρίζονται με καρτελάκια, ιδανικό για ανάλυση δεδομένων, εναλλακτικές CSV και ροές εργασίας βασισμένες σε κείμενο.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Εξαγωγή πινάκων διαφανειών για αναλύσεις ή μοντέλα AI.
+
+* Προετοιμασία συνόλων δεδομένων TSV για αγωγούς μάθησης μηχανής.
+
+* Εισαγωγή μετρήσεων παρουσίασης σε στατιστικά εργαλεία.
+
+* Κοινοποίηση δομημένων δεδομένων διαφανειών σε προγραμματιστές ή αναλυτές.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένη μετατροπή παρουσιάσεων σε TSV για ομάδες αναλυτικών.
+
+* Μαζική εξαγωγή πολλαπλών διαφανειών σε δομημένα σύνολα δεδομένων.
+
+* Αυτόματες ενημερώσεις αρχείων TSV καθώς οι στοίβες διαφανειών αλλάζουν.
+
+* Ενσωμάτωση με αγωγούς ETL για αυτοματισμό αναφορών.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,55 @@ PPSX dosyasını SXC'ye dönüştürürken, çıktı SXC dosya biçiminize de fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSX dosyalarını SXC'ye dönüştürmek**, eski ofis paketi kullanıcılarının SXC uyumlu uygulamalarda slayt türetilmiş verileri düzenlemelerine ve paylaşmalarına olanak tanır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Eski ofis iş akışı uyumluluğu.
+
+* Uzun vadeli erişim için sunum tablolarını arşivleme.
+
+* StarOffice veya OpenOffice kullanarak kuruluşlar arasında veri paylaşımı.
+
+* Slayt metriklerini elektronik tablo araçlarında analiz için dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Eski sistem entegrasyonu için toplu SXC dönüşümü.
+
+* Tekrarlanan sunum slaytlarından zamanlanmış dışa aktarımlar.
+
+* Çok kullanıcılı işbirliği için elektronik tabloların otomatik oluşturulması.
+
+* Yeni sunum verileri eklendiğinde tetiklenen güncellemeler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

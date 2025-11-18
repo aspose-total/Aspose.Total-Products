@@ -61,7 +61,55 @@ Ao converter o arquivo POTX para MHTML, você também pode adicionar marca d'ág
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A conversão de POTX para MHTML empacota slides de apresentação em um único arquivo de arquivo da web, combinando HTML, CSS e imagens para distribuição offline ou na web.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Exportar slides como arquivos de visualização web autônomos.
+
+* Compartilhar apresentações por e-mail sem quebrar a formatação.
+
+* Arquivar decks corporativos para repositórios baseados na web.
+
+* Preparar relatórios interativos para consumo web offline.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Exportação em lote de MHTML para distribuição web de apresentações corporativas.
+
+* Geração de MHTML acionada para acesso offline em equipes distribuídas.
+
+* Integração com sistemas de gerenciamento de conteúdo para arquivamento web.
+
+* Empacotamento automatizado de slides para distribuição a clientes ou partes interessadas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

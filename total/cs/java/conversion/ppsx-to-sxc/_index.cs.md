@@ -61,7 +61,51 @@ Při převodu souboru PPSX na SXC můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod **PPSX na SXC** produkuje soubory StarOffice Spreadsheet, což umožňuje uživatelům starší kancelářské sady upravovat a sdílet data odvozená ze snímků v aplikacích kompatibilních se SXC.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Kompatibilita se starším pracovním postupem kanceláře.
+
+* Archivace tabulek prezentací pro dlouhodobý přístup.
+
+* Sdílení dat napříč organizacemi pomocí StarOffice nebo OpenOffice.
+
+* Převod metrik snímků pro analýzu ve nástrojích tabulkových kalkulací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkový převod SXC pro integraci se starým systémem.
+
+* Plánované exporty z opakujících se prezentací.
+
+* Automatické generování tabulek pro spolupráci více uživatelů.
+
+* Spuštěné aktualizace při přidání nových dat prezentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

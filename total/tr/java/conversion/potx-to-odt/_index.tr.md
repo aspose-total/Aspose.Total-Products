@@ -53,7 +53,51 @@ API'yi kullanarak, filigranlı POTX dosyasını ODT'ye dönüştürme işlemini 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX'ten ODT dönüşümü, sunum slaytlarının LibreOffice, OpenOffice ve çapraz platform ortamları için uygun olan OpenDocument Text formatına aktarılmasını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Sunumları düzenlenebilir OpenOffice veya LibreOffice metin belgelerine dönüştürme.
+
+* Slayt içeriğini Microsoft dışı ortamlarda paylaşma.
+
+* Açık kaynak ofis kullanıcıları için sunum dosyalarından rapor oluşturma.
+
+* Birden fazla ofis paketiyle uyumlu eğitim içeriği hazırlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Çapraz platform ofis iş akışları için toplu ODT dönüşümü.
+
+* ODT'yi destekleyen belge işbirliği platformlarına entegrasyon.
+
+* Açık kaynak proje raporlaması için otomatik ihracat.
+
+* Platformlar arası içerik erişilebilirliği için tetiklenen dönüşüm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

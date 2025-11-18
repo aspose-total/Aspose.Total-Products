@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPSM sang XLS, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi PPSM sang XLS (Excel 97-2003 Workbook) cung cấp tính tương thích với phiên bản cũ hơn của Microsoft Excel, đồng thời giữ lại bảng và biểu đồ từ các slide.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xuất các slide tài chính hoặc dự án sang XLS cho người dùng cũ.
+
+* Chuyển đổi các chỉ số doanh nghiệp thành bảng Excel có thể chỉnh sửa.
+
+* Các slide học thuật được biến đổi thành bảng tính để phân tích.
+
+* Chia sẻ dữ liệu trình bày trong định dạng tương thích với Excel cũ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ PPSM sang XLS cho việc sử dụng phiên bản cũ trên toàn đội.
+
+* Trích xuất slide theo lịch trình vào XLS cho báo cáo.
+
+* Tích hợp vào quy trình làm việc lưu trữ tự động.
+
+* Tạo ra XLS từ các bài thuyết trình định kỳ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ Lors de la conversion du fichier POTX en MARKDOWN, vous pouvez également ajoute
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de POTX en Markdown permet d'exporter le contenu des diapositives dans des fichiers de balisage légers et lisibles, adaptés à la documentation, aux dépôts GitHub et à la génération de sites statiques.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Transformer des présentations en notes Markdown pour la documentation des développeurs.
+
+* Préparer des tutoriels ou des guides basés sur des diapositives dans les dépôts GitHub.
+
+* Exporter du contenu pour les générateurs de sites statiques comme Hugo ou Jekyll.
+
+* Convertir des présentations de formation en Markdown pour un contrôle de version facile.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de Markdown pour les bibliothèques de documentation.
+
+* Exportation déclenchée des diapositives en Markdown pour les pipelines de documentation CI/CD.
+
+* Intégration avec les générateurs de sites statiques pour des mises à jour automatiques du site.
+
+* Extraction automatisée des diapositives en Markdown pour une édition collaborative.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ Beim Konvertieren der PPSM-Datei in XLT können Sie Ihrem Ausgabe-XLT-Dateiforma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von PPSM in XLT (Excel-Vorlage) ermöglicht die Erstellung wiederverwendbarer Tabellenvorlagen aus Präsentationen und vereinfacht die Unternehmens- oder akademische Berichterstattung.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Konvertierung von Präsentationstabellen in wiederverwendbare Excel-Vorlagen.
+
+* Erstellung von Projekt- oder Finanzvorlagen aus Folien.
+
+* Akademische Folien werden in Noten- oder Aufgabenvorlagen umgewandelt.
+
+* Marketing-Präsentationen werden in Excel-Berichtsvorlagen umgewandelt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelkonvertierung von PPSM in XLT für standardisierte Vorlagen.
+
+* Geplante Erstellung von Vorlagensammlungen aus Folien.
+
+* Integration in automatisierte Berichtssysteme.
+
+* Auslösen der Vorlagenerstellung für wiederkehrende Projekte.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

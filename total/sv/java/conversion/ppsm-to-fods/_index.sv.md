@@ -61,7 +61,51 @@ Medan du konverterar PPSM-fil till FODS kan du också lägga till vattenstämpel
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av PPSM till FODS (Flat OpenDocument Spreadsheet) ger ett lättviktigt, redigerbart kalkylarksformat som är kompatibelt med LibreOffice och OpenOffice, användbart för samarbetsprojekt och öppen källkodsarbete.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* Exportera tabeller från slides till FODS för kalkylarksapplikationer med öppen källkod.
+
+* Förbereda akademiska eller forskningsslides för analys på flera plattformar.
+
+* Konvertera operativa mätetal från PPSM-deck till FODS-format.
+
+* Dela finansiella eller försäljningsdata utan beroende av proprietär programvara.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batchkonvertering av PPSM till FODS för samarbetsgrupper med öppen källkod.
+
+* Schemalagd extrahering av sliddata till redigerbara kalkylarksmallar.
+
+* Integration i automatiserade projektredovisningsflöden.
+
+* Utlöst konvertering för delning på olika plattformar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

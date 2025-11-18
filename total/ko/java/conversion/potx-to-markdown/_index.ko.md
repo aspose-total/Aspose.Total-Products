@@ -61,7 +61,51 @@ POTX 파일을 MARKDOWN로 변환하는 동안 출력 MARKDOWN 파일 형식에 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX를 Markdown으로 변환하면 슬라이드 콘텐츠를 가벼운, 가독성 있는 마크업 파일로 내보낼 수 있어 문서, GitHub 저장소 및 정적 사이트 생성에 적합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 개발자 문서용 Markdown 노트로 프레젠테이션 변환.
+
+* GitHub 저장소에 슬라이드 기반 튜토리얼 또는 가이드 작성.
+
+* Hugo 또는 Jekyll과 같은 정적 사이트 생성기를 위한 콘텐츠 내보내기.
+
+* 버전 관리를 위해 교육 데크를 Markdown으로 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 문서 라이브러리를 위한 일괄적인 Markdown 변환.
+
+* CI/CD 문서 파이프라인을 위해 슬라이드에서 Markdown으로 트리거된 내보내기.
+
+* 정적 사이트 생성기와 통합하여 자동화된 사이트 업데이트.
+
+* 협업 편집을 위해 슬라이드를 Markdown으로 자동 추출.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

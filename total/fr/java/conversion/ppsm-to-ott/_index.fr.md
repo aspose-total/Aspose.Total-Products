@@ -53,7 +53,55 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de PPSM en OTT (modèle de document OpenDocument) permet aux utilisateurs de créer des modèles de document réutilisables à partir de présentations dans des formats open source, idéaux pour la documentation standardisée des entreprises, du monde académique ou des ONG.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Préparation de modèles de rapport réutilisables pour les utilisateurs de LibreOffice.
+
+* Conversion de diaporamas de formation en modèles de document modifiables.
+
+* Diapositives académiques réutilisées comme modèles de cours ou d'assignation.
+
+* Diapositives de projets d'ONG converties en modèles de rapport.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de diaporamas en modèles OTT pour une utilisation répétée.
+
+* Intégration dans des pipelines de flux de travail automatisés pour la création de documents.
+
+* Génération planifiée de bibliothèques de modèles à partir de diapositives récurrentes.
+
+* Création de modèles OTT déclenchée pour la documentation de projet.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

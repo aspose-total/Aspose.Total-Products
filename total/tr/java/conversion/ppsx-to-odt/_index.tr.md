@@ -53,7 +53,51 @@ API'yi kullanarak, filigranlı PPSX dosyasını ODT'ye dönüştürme işlemini 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPSX dosyalarını ODT'ye dönüştürmek**, LibreOffice, OpenOffice veya çapraz platform düzenlemeleri için ideal olan açık belge formatı desteği sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Açık kaynak belge formatları için akademik slayt sunumlarının yeniden kullanımı.
+
+* ODT uyumluluğu gerektiren hükümet veya STK raporları.
+
+* Sunum slaytlarından türetilen çapraz platformda düzenlenebilir raporlar.
+
+* Açık kaynak ofis ortamlarında işbirlikçi belgelendirme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Sunumların çoklu platformda dağıtımı için otomatik toplu dönüşüm.
+
+* Takım işbirliği için açık kaynak belge iş akışlarıyla entegrasyon.
+
+* Tekrarlanan akademik veya kar amacı gütmeyen raporlar için planlanmış dönüşümler.
+
+* Slayt revizyonlarından otomatik olarak güncellenen ODT dosyaları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
