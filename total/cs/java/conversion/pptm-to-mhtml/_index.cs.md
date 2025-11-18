@@ -61,7 +61,51 @@ Při převodu souboru PPTM na MHTML můžete také přidat vodoznak do výstupn�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Převod PPTM na MHTML** umožňuje uložení prezentací jako jednoho archivu webové stránky, který kombinuje obsah HTML a zdroje v jednom souboru. Toto je ideální pro sdílení, online archivaci a offline přístup na web.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Sdílení firemních prezentací jako archivů webových stránek ve formátu jednoho souboru.
+
+* Archivace snímků pro offline prohlížení nebo přístup z intranetu.
+
+* Převod výukových prezentací na přenosné zdroje založené na HTML.
+
+* Příprava prezentací pro distribuci e-mailem bez příloh.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod PPTM na MHTML pro interní dokumentační portály.
+
+* Spuštění generování archivů snímků připravených pro web pro e-learningové platformy.
+
+* Integrace do systémů správy obsahu pro obsah ve formátu jednoho souboru webového obsahu.
+
+* Plánovaný převod MHTML pro opakující se firemní prezentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

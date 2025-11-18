@@ -61,7 +61,51 @@ Tijdens het converteren van een PPTM-bestand naar SXC, kunt u ook een watermerk 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Het omzetten van PPTM naar SXC** produceert StarOffice Calc-spreadsheets van dia-tabellen en grafieken, die legacy open-source kantooromgevingen ondersteunen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Extraheren van op dia's gebaseerde numerieke gegevens voor historische kantoorpakketten.
+
+* Voorbereiden van zakelijke en onderzoeks-presentaties als SXC-spreadsheets.
+
+* Het omzetten van grafieken en tabellen naar herbruikbare spreadsheet-formaten.
+
+* Archiveren van presentatiegegevens in legacy open-source formaten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch PPTM-naar-SXC conversie voor archiveringsdoeleinden.
+
+* Getriggerde generatie van SXC-spreadsheets voor cross-platform gebruik.
+
+* Integratie in legacy kantoorautomatiseringsworkflows.
+
+* Geplande updates voor historische gegevensextractie van dia's.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

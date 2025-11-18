@@ -47,7 +47,51 @@ XML dosyasını FODS'ye dönüştürürken, çıktı FODS dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML'yi FODS'ye dönüştürmek, işbirlikçi ve çapraz platform projeleri için açık standart elektronik tabloların kullanımını sağlar. FODS, XML yapısını korurken LibreOffice, OpenOffice ve diğer açık kaynak paketlerinde elektronik tablo uyumluluğunu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* İşbirlikçi ekip düzenlemesi için XML tabanlı bütçe verilerini FODS'ye dönüştürme.
+
+* Tekrarlanabilir araştırmalar için bilimsel ölçüm XML dosyalarını FODS'ye dönüştürme.
+
+* XML öğrenci performans raporlarını açık kaynak elektronik tablo araçlarına taşıma.
+
+* Proje yönetimi uygulamalarından XML dışa aktarımını FODS analizi için hazırlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Açık kaynak raporlama sistemleri için otomatik geceleyin XML'den FODS'ye dönüşüm.
+
+* Bulut ERP çözümlerinden XML dışa aktarımların toplu işlenmesi için FODS.
+
+* XML proje günlüklerinin açık elektronik tablo arşivlerine dönüştürülmesi için tetiklenen dönüşüm.
+
+* Araştırma laboratuvarlarında XML'den FODS'e akış hattı kullanarak iş akışı entegrasyonu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

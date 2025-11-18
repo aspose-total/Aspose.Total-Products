@@ -54,7 +54,55 @@ API ยังช่วยให้คุณแปลงเอกสาร WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง WORDML (WordprocessingML) เป็น PPT ช่วยให้การแปลงเอกสาร Word โครงสร้างเป็นงานนำเสนอ PowerPoint (PPT) ได้อย่างราบรื่น รูปแบบที่เข้ากันได้กับรุ่นเก่านี้เป็นประโยชน์อย่างยิ่งสำหรับองค์กรที่ใช้รุ่นเก่าของ Microsoft Office หรือระบบที่ยังขึ้นอยู่กับไฟล์ PowerPoint รูปแบบไบนารี
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้างงานนำเสนอในห้องประชุมจากรายงานกลยุทธ์หรือการเงินที่เป็นเอกสาร Word
+
+* เตรียมงานนำเสนอการขายสำหรับสภาพแวดล้อมที่ใช้รุ่น PowerPoint เก่า
+
+* แปลงเอกสาร Word ที่จัดรูปแบบเป็นสไลด์ PPT ที่สามารถแก้ไขได้
+
+* สร้างเนื้อหาการสอนและสัมมนาจากเอกสาร Word ทางวิชาการ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* ส่งออกเนื้อหา Word จำนวนมากเป็นไฟล์ PPT สำหรับการทำงานร่วมกันในทีม
+
+* แปลงรายงาน Word ตามแม่แบบเป็นรูปแบบ PowerPoint เก่าตามกำหนดเวลา
+
+* ผสานเข้ากับระบบเก็บถาวรและการปฏิบัติตามกฎระเบียบที่ต้องการผลลัพธ์ PPT ในรูปแบบไบนารี
+
+* สร้างสไลด์โดยอัตโนมัติจากระบบการจัดการเนื้อหาโดยใช้เทมเพลต Word
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

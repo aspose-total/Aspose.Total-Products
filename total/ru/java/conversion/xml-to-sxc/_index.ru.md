@@ -47,7 +47,55 @@ otherformats: XLSB ODS FODS TXT XLSM XLT MD SXC EXCEL XLTX TSV DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XML в SXC обеспечивает совместимость с устаревшими приложениями StarOffice и старыми установками OpenOffice, позволяя обрабатывать табличные данные, экспортированные из XML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Миграция наборов данных инвентаризации XML в SXC для отчетов устаревших систем.
+
+* Преобразование экспортов продаж XML в SXC для исторической аналитики.
+
+* Преобразование результатов опросов XML в SXC для офлайн доступности.
+
+* Подготовка данных оценок студентов в формате XML для старых инструментов электронных таблиц.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запланированное преобразование XML в SXC для устаревших отчетных конвейеров.
+
+* Пакетная обработка XML каталогов продуктов для анализа SXC офлайн.
+
+* Автоматические триггеры, преобразующие экспорты XML в SXC для архивных целей.
+
+* Интеграция в конвейеры ETL для миграции исторических данных.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

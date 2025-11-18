@@ -47,7 +47,51 @@ A XML-fájl MD-vé konvertálásakor vízjelet is hozzáadhat a kimeneti MD-fáj
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XML átalakítása Markdown (MD) formátummá lehetővé teszi a strukturált XML tartalom könnyű, webbarát jelölőnyelvvé történő átalakítását. A Markdown ideális dokumentációhoz, blogokhoz, wikikhez és statikus weboldal generátorokhoz, mint például a Hugo, Jekyll vagy Gatsby.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Az XML API dokumentáció átalakítása Markdown formátummá fejlesztői portálokhoz.
+
+* Az XML termékspecifikációk olvasható Markdown útmutatókká történő átalakítása.
+
+* Az XML kutatási adatok vagy jelentések előkészítése GitHubon tárolt projektekhez.
+
+* Az XML technikai kézikönyvek Markdown formátummá történő migrálása online tudásbázisokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ütemezett XML-MD konverzió éjszakai dokumentációfrissítésekhez.
+
+* Markdown fájlok kiváltott generálása feltöltött XML termékkatalógusokból.
+
+* XML blogok batch-feldolgozása Markdown formátummá statikus webhelyek közzétételéhez.
+
+* Integráció CI/CD csővezetékekbe az XML kézikönyvek automatikus Markdown formátummá történő konverziójához.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

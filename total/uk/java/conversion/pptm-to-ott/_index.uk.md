@@ -99,7 +99,55 @@ otherformats: TEXT DOCX FLATOPC DOTX RTF DOTM DOCM WORD ODT DOT WORDML DOC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Конвертація PPTM в OTT** генерує шаблони текстових документів OpenDocument з слайдів презентації. Це дозволяє використовувати шаблони в середовищах з відкритим вихідним кодом без покладання на Microsoft Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Створення стандартизованих шаблонів документів для LibreOffice/OpenOffice.
+
+* Перевикористання дизайну слайдів для звітів на основі шаблонів.
+
+* Конвертація навчальних матеріалів в редаговані формати шаблонів.
+
+* Підготовка шаблонів для спільної роботи багатьох користувачів для платформ з відкритим вихідним кодом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Запланована конвертація PPTM в OTT для бібліотек шаблонів.
+
+* Інтеграція з робочими процесами підприємства в наборах з відкритим вихідним кодом.
+
+* Генерація шаблонів в реальному часі для співпраці між відділами.
+
+* Пакетне створення OTT для навчання та звітності на різних платформах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

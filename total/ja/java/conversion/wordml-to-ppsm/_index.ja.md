@@ -54,7 +54,51 @@ APIを使用すると、パスワードで保護されたWORDMLドキュメン�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDMLをPPSMに変換すると、マクロが有効化されたPowerPoint Showファイルが作成されます。埋め込まれたマクロにより、PPSMプレゼンテーションは、スライドショーを開いたときにインタラクティブなアクション、計算、フォーム処理、データ駆動型の自動化を実行できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* 自動採点やクリックベースのナビゲーションを備えたインタラクティブなトレーニングプレゼンテーション。
+
+* マクロ駆動型の営業プレゼンテーションでリアルタイムの価格更新を行う。
+
+* 自動化されたトランジションやロジックを使用した高度な製品紹介。
+
+* 埋め込み計算を使用したビジネスプロセスデモンストレーションスライド。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 構造化されたWordコンテンツからマクロ駆動型プレゼンテーションを自動生成する。
+
+* コンプライアンスや人事トレーニング資料のトリガーベースの変換。
+
+* オンボーディングワークフロー向けのインタラクティブなPPSMデッキの定期的な作成。
+
+* Wordデータソースから月次のマクロが有効化されたスライドショーの自動準備。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

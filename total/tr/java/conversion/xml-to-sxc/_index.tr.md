@@ -47,7 +47,51 @@ XML dosyasını SXC'ye dönüştürürken, çıktı SXC dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML'yi SXC'ye dönüştürmek, eski StarOffice uygulamaları ve daha eski OpenOffice kurulumları ile uyumluluk sağlar, XML kaynaklarından dışa aktarılan tablo verilerinin işlenmesini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* XML envanter veri setlerini SXC'ye taşıyarak eski sistem raporları için.
+
+* XML satış dışa aktarımlarını tarihsel analizler için SXC'ye dönüştürme.
+
+* XML anket sonuçlarını çevrimdışı erişilebilirlik için SXC'ye dönüştürme.
+
+* XML öğrenci not verilerini eski elektronik tablo araçları için hazırlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Zamanlanmış XML'den SXC'ye dönüşüm eski raporlama boru hatları için.
+
+* Çevrimdışı SXC analizi için toplu iş XML ürün kataloglarının işlenmesi.
+
+* XML dışa aktarımlarını arşivleme amaçları için SXC'ye dönüştüren otomatik tetikleyiciler.
+
+* Tarihsel veri göçü için ETL boru hatlarına entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

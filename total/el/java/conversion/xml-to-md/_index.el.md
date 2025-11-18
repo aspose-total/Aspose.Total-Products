@@ -47,7 +47,51 @@ otherformats: XLTM XLTX DIF XLSM XLSB TXT ODS MD XLAM XLT TSV FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή XML σε Markdown (MD) επιτρέπει τη μετατροπή δομημένου περιεχομένου XML σε ελαφρύ, φιλικό προς τον ιστό σήμα. Το Markdown είναι ιδανικό για τεκμηρίωση, ιστολόγια, wikis και γεννήτριες στατικών ιστότοπων όπως το Hugo, το Jekyll ή το Gatsby.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Μετατροπή τεκμηρίωσης XML API σε Markdown για πύλες προγραμματιστών.
+
+* Μετατροπή προδιαγραφών προϊόντων XML σε ευανάγνωστους οδηγούς Markdown.
+
+* Προετοιμασία δεδομένων έρευνας ή αναφορών XML για έργα που φιλοξενούνται στο GitHub.
+
+* Μεταφορά τεχνικών εγχειριδίων XML σε Markdown για online βάσεις γνώσεων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένη μετατροπή XML σε MD για καθημερινές ενημερώσεις τεκμηρίωσης.
+
+* Ενεργοποιημένη δημιουργία αρχείων Markdown από ανεβασμένους καταλόγους προϊόντων XML.
+
+* Μαζική επεξεργασία ιστολογίων XML σε Markdown για δημοσίευση στατικών ιστότοπων.
+
+* Ενσωμάτωση σε αγωγούς CI/CD για αυτόματη μετατροπή τεχνικών εγχειριδίων XML σε Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

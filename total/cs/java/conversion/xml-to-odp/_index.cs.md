@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění XML souborů do formátu ODP umožňuje transformaci strukturovaného obsahu do plně upravitelných prezentací ve formátu open-source, kompatibilních s LibreOffice Impress a OpenOffice. Tento formát je ideální pro spolupracující nebo multiplatformní prezentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Transformace XML založených školení do prezentací ve formátu ODP.
+
+* Převod strukturovaných XML katalogů produktů na interaktivní prezentace.
+
+* Příprava XML akademických výzkumných dat pro konferenční prezentace.
+
+* Migrace XML plánů událostí do vizuálně atraktivních snímků ODP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatická noční konverze XML do ODP pro firemní školicí programy.
+
+* Hromadné zpracování XML prodejních reportů do šablon prezentací ODP.
+
+* Spuštěná konverze nahraného obsahu XML do připravených snímků pro klienty.
+
+* Integrace s ETL potrubími pro generování ODP prezentací ze strukturovaných dat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XMLをPPSに変換すると、プレゼンテーションモードで直接開かれるスライドショーが作成され、キオスク、自動レポート、または配布用クライアントデッキに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* XMLマーケティングレポートを自動スライドショーに変換する。
+
+* XMLイベントスケジュールを無人プレゼンテーションディスプレイ用に準備する。
+
+* XMLトレーニングコンテンツを即座に表示可能なスライドに変換する。
+
+* XML製品デモをクライアント用のPPSプレゼンテーションに移行する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 日次ダッシュボード表示用のスケジュールされたXMLからPPSへの変換。
+
+* XMLアップロードのトリガー処理による自動実行スライドショー。
+
+* イベントプレゼンテーションの準備のためのバッチXMLからPPSへの変換。
+
+* 無人スライド展開のためのレポートパイプラインへの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

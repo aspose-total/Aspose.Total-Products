@@ -102,7 +102,55 @@ otherformats: CSV XLSX XLSB XLT FODS XLAM XLSM XLTM DIF XLTX TSV EXCEL XLS ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת WORDML (WordprocessingML) ל-SXC (גיליון חישובי של StarOffice Calc) מאפשרת שילוב חלק ונעים של טבלאות Word מובנות לתהליכי עבודה בגיליון OpenOffice/StarOffice המותאמים לקרנל. פורמט זה עדיין משמש בסביבות רגולציה, היסטוריות וארכיוניות בהן חשובה התאמה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* העברת נתונים מבוססי Word למערכות גיליון החישובים המותאמות ל-StarOffice הישנות.
+
+* ייצוא דוחות סטטיסטיים מ-Word ל-SXC לצורכי תאימות.
+
+* שיתוף טבלאות כלכליות מובנות בסביבות עסקיות ישנות.
+
+* תמיכה בתהליכי עבודה בגיליונות חישובים שלא מסוגלים ל-Microsoft במוסדות ממשלתיים או אקדמיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רציפה של מסמכי Word מאורכונים ל-SXC לצורך ניתוח היסטורי.
+
+* יצירה אוטומטית של גיליונות חישובי SXC לצורך דיווח תאימות לאחור.
+
+* ייצוא מבוסס טריגר מתוך מערכות ניהול תוכן וארכיון ל-SXC.
+
+* צינורות ETL שמקשרים בין מערכות גיליון ישנות למקורות נתונים מודרניים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

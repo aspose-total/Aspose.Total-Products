@@ -61,7 +61,51 @@ WORDMLをFODSに変換した後、[Aspose.Cells for Java](https://products.aspos
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDMLをFODS（Flat OpenDocument Spreadsheet）に変換すると、LibreOffice、OpenOffice、および他のオープンソースプラットフォームとの互換性のあるオープン標準スプレッドシートが可能になります。クロスプラットフォームの文書ワークフローが必要なユーザーに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* 共同オープンソーススプレッドシートプロジェクト用の構造化されたWordテーブルのエクスポート。
+
+* 研究および学術分析用のWordベースのデータの準備。
+
+* プロジェクトの費用内訳を普遍的に互換性のある形式で共有。
+
+* 埋め込まれたテーブルを持つWord会議議事録を編集可能なスプレッドシートに変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的なWord文書からの一括FODS生成。
+
+* オープンソースのレポーティングプラットフォームとの自動統合。
+
+* 共同学術プロジェクト向けのトリガーされたFODSエクスポート。
+
+* 研究分析用に構造化されたWordフォームを変換するETLパイプライン。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

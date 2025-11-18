@@ -61,6 +61,29 @@ otherformats: EXCEL XLAM DIF XLTM FODS XLT XLSM XLTX XLSX SXC ODS XLS TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
+{{% blocks/products/pf/feature-page-section %}}
+## Создание файлов XLAM из WORDML позволяет преобразовывать документы Word в формат надстроек Excel, что позволяет данным подавать настраиваемые функции, сценарии автоматизации и расширенную логику электронных таблиц. Это идеально подходит для команд, использующих расширения Excel, работающие на VBA.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+* Преобразование моделей расчетов на основе Word в надстройки Excel.
+* Развертывание повторно используемой бизнес-логики через XLAM, созданные из Word.
+* Финансовые и аудиторские команды, использующие автоматизированные надстройки Excel вместо статических таблиц.
+* Создание интерактивных инструментов для прогнозирования, ценообразования или моделирования.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+* Пакетное создание Word-to-XLAM для развертывания обновленных надстроек по всей компании.
+* Автоматическое создание макрос-управляемых надстроек на основе правил и формул Word.
+* Автоматическое упаковывание XLAM для бизнес-логики, хранящейся в шаблонах Word.
+* Интеграция рабочих процессов на основе искусственного интеллекта, преобразующих бизнес-требования в надстройки Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

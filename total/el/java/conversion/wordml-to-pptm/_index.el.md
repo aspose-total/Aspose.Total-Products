@@ -54,7 +54,51 @@ otherformats: PPTX POT POTM PPSX POWERPOINT PPTM PPSM PPS POTX PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή εγγράφων WORDML (WordprocessingML) σε μορφή PPTM επιτρέπει τη δημιουργία παρουσιάσεων PowerPoint με δυνατότητα μακροενεργοποίησης. Αυτό επιτρέπει την προχωρημένη αυτοματοποίηση, τα διαδραστικά πίνακες ελέγχου και την ενσωμάτωση μακρών ενώ παράλληλα διατηρεί δομημένο περιεχόμενο Word όπως πίνακες, γραφήματα και σημειώσεις.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Διαδραστικοί οικονομικοί πίνακες ελέγχου που παράγονται από αναφορές βασισμένες σε Word.
+
+* Εκπαιδευτικά μοντούλα με αυτοματοποιημένους υπολογισμούς και δυναμικά στοιχεία διαφανειών.
+
+* Παρουσιάσεις διαχείρισης έργων με μακροενεργοποιήσιμα μακρόγραμμα για παρακολούθηση κατάστασης.
+
+* Εκπαιδευτικές διαλέξεις με διαδραστικά παραδείγματα επίλυσης προβλημάτων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Μαζική μετατροπή επαναλαμβανόμενων αναφορών Word σε διαφάνειες PPTM με δυνατότητα μακροενεργοποίησης.
+
+* Ενεργοποιημένη δημιουργία διαδραστικών παρουσιάσεων έργων για αναθεωρήσεις διοίκησης.
+
+* Ενσωμάτωση με συστήματα LMS για αυτόματες παρουσιάσεις ηλεκτρονικής μάθησης.
+
+* Αυτοματοποιημένη ενσωμάτωση μακρών ενεργειών για επιχειρησιακούς πίνακες απόδοσης και KPI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

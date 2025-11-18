@@ -61,7 +61,51 @@ PPTM dosyasını XLS'ye dönüştürürken, çıktı XLS dosya biçiminize de fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTM'yi XLS'ye Dönüştürme**, tabloları, grafikleri ve sayısal içeriği koruyarak sunumları eski Excel elektronik tablo dosyalarına dönüştürür.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Eski sistemler için XLS'te slayt tablolarını ve grafiklerini arşivleme.
+
+* Kurumsal sunumları finansal analiz için yeniden kullanma.
+
+* Eğitim slaytlarını düzenlenebilir elektronik tablolara hazırlama.
+
+* Raporlama için proje panolarını XLS dosyalarına dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Eski raporlama sistemleri için toplu PPTM'den XLS'ye dönüştürme.
+
+* Periyodik proje güncellemeleri için zamanlanmış XLS oluşturma.
+
+* Finans ve analiz akışları için tetiklenmiş elektronik tablo oluşturma.
+
+* Otomatik raporlama iş akışlarına entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

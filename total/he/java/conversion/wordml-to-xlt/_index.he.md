@@ -102,7 +102,11 @@ otherformats: TSV ODS EXCEL XLSM XLAM CSV XLTM XLTX DIF XLS XLSB SXC XLSX FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```html
+<h2></h2>
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

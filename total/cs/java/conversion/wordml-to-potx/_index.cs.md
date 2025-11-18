@@ -54,7 +54,51 @@ API také umožňuje převádět dokumenty WORDML chráněné heslem na POTX. Po
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod formátu WORDML na formát POTX umožňuje vytváření šablon pro PowerPoint založených na XML, které jsou lehké, standardizované a snadno upravitelné pro firemní nebo vzdělávací prezentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Návrh lehkých šablon snímků z Wordových zpráv.
+
+* Převod návrhů založených na Wordu na editovatelné prezentace.
+
+* Akademické šablony přednášek pro konzistentní výuku ve třídě.
+
+* Marketingové a prodejní šablony prezentací s využitím strukturovaného obsahu z Wordu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný převod šablon z Wordu na snímky POTX založené na XML.
+
+* Automatizované pracovní postupy pro standardizaci firemních prezentací.
+
+* Spouštěný vytvoření více šablon POTX pro opakující se zprávy.
+
+* Integrace s platformami pro správu prezentací pro aktualizace šablon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

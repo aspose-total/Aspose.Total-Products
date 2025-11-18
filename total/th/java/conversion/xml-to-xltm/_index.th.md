@@ -47,7 +47,51 @@ otherformats: XLAM XLT XLSB EXCEL XLTX SXC XLTM TXT TSV XLSM MD DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XML เป็น XLTM รวมความสามารถของเทมเพลตพร้อมกับความสามารถของแมโคร ทำให้ได้เอกซ์เซลชีทที่ใช้งานได้แบบไดนามิกและสามารถ reuse ซึ่งช่วยในการอัตโนมัติงานการจัดการข้อมูล XML ที่ซ้ำซาก
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* เตรียมเทมเพลตเอ็กเซลที่มีการคำนวณอัตโนมัติสำหรับการเงินที่มี XML สนับสนุน
+
+* แปลงบันทึกโครงการ XML เป็นเทมเพลตที่สามารถใช้แมโครได้ซ้ำได้
+
+* สร้างเทมเพลตการพยากรณ์ยอดขายที่ใช้ XML สำหรับรายงานที่ซ้ำซาก
+
+* ออกแบบเทมเพลต XLSM ที่ใช้ XML เพื่ออัตโนมัติกระบวนการทีมทั้งหมด
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XML เป็น XLTM ตามกำหนดเวลาสำหรับกระบวนการธุรกิจที่เกิดซ้ำซาก
+
+* สร้างเทมเพลตที่ใช้แมโครจาก XML ที่อัปโหลดโดยเรียกเกิด
+
+* การแปลง XML เป็น XLTM แบบกลุ่มสำหรับอัตโนมัติของหลายแผนก
+
+* การผสานเข้ากับกระบวนการทำงานขององค์กรสำหรับการสร้างท่อเทมเพลต XML มาตรฐาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

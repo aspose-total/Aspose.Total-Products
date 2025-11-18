@@ -61,7 +61,55 @@ Ao converter o arquivo PPTM para SXC, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Convertendo PPTM para SXC** produz planilhas StarOffice Calc a partir de tabelas e gráficos de slides, suportando ambientes de escritório de código aberto legados.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Extração de dados numéricos baseados em slides para suítes de escritório históricas.
+
+* Preparação de apresentações comerciais e de pesquisa como planilhas SXC.
+
+* Conversão de gráficos e tabelas em formatos de planilhas reutilizáveis.
+
+* Arquivamento de dados de apresentação em formatos de código aberto legados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de PPTM para SXC para fins de arquivamento.
+
+* Geração acionada de planilhas SXC para uso multiplataforma.
+
+* Integração em fluxos de trabalho de automação de escritório legados.
+
+* Atualizações programadas para extração de dados históricos de slides.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

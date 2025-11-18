@@ -54,7 +54,51 @@ API také umožňuje převádět dokumenty WORDML chráněné heslem na POT. Pok
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů WORDML do formátu POT umožňuje firmám vytvářet opakovaně použitelné šablony pro PowerPoint z strukturovaného obsahu Wordu, což umožňuje konzistentní design snímků a branding přes prezentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Generování firemních šablon prezentací z dokumentů Word.
+
+* Vytváření vzdělávacích šablon přednášek z poznámek založených na Wordu.
+
+* Opakovaně použitelné marketingové prezentace odvozené z návrhů v Wordu.
+
+* Konzistentní výukové materiály a pracovní snímky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná konverze obsahu Wordu do knihoven šablon.
+
+* Automatizované generování šablon pro aktualizace firemního branding.
+
+* Spouštěná tvorba POT pro opakující se materiály workshopů a seminářů.
+
+* Integrace s systémy pro správu prezentací pro šablonové snímky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XMLを標準のPowerPointプレゼンテーションに変換することで、構造化されたコンテンツを瞬時に編集可能なスライドに変換し、ビジネス、教育、マーケティング向けのチャート、表、画像をサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* XML製品カタログを完全に編集可能なPPTデッキに移行する。
+
+* XML財務レポートを視覚的に豊かなスライドに変換する。
+
+* XMLトレーニングコンテンツを従業員オンボーディングプレゼンテーションに変換する。
+
+* 学会や講義向けのXMLベースの学術プレゼンテーションを生成する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 日次ビジネスレポート向けの自動化されたXMLからPPTへの変換。
+
+* アップロードされたXMLマーケティングブリーフからトリガーされたスライド生成。
+
+* バッチ処理によるXMLデータのプレゼンテーション用スライドへの変換。
+
+* 動的なXMLからPPTへのワークフローにETLパイプラインを統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

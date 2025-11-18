@@ -47,7 +47,55 @@ Saat mengonversi file XML ke XLAM, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XML ke XLAM memungkinkan pengemasan data XML dan makro ke dalam add-in Excel yang dapat digunakan kembali, memungkinkan solusi spreadsheet otomatis, perhitungan kompleks, dan alur kerja kustom dalam Excel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengemas perhitungan KPI berbasis XML sebagai add-in Excel untuk manajer.
+
+* Membuat dasbor yang dapat digunakan kembali dari dataset penjualan atau inventaris XML.
+
+* Mengembangkan alat pelaporan XML yang diaktifkan makro untuk tim keuangan.
+
+* Mengotomatisasi alur kerja transformasi data XML di Excel melalui XLAM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi XML ke XLAM yang dijadwalkan untuk laporan bisnis berulang.
+
+* Memproses kelompok feed XML ke dalam add-in yang diaktifkan makro untuk otomatisasi.
+
+* Generasi XLAM yang dipicu dari XML yang diunggah untuk alur kerja Excel dinamis.
+
+* Integrasi dengan skrip VBA untuk pipa XML ke XLAM berbasis cloud.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

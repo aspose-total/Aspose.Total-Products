@@ -135,7 +135,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML转换为XAML允许在Microsoft WPF、UWP或Xamarin应用程序中使用结构化的XML数据，实现动态UI渲染、交互式组件和数据驱动的应用程序布局。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将XML UI规范转换为XAML，用于桌面和移动应用程序。
+
+* 将XML数据模型转换为XAML绑定，用于交互式仪表板。
+
+* 为动态用户界面生成准备XML配置文件。
+
+* 将XML设计模型迁移为WPF或UWP应用程序的XAML。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时将XML转换为XAML，持续更新应用程序的UI。
+
+* 批处理XML数据集转换为XAML，用于动态仪表板。
+
+* 从上传的XML文件触发XAML生成，用于快速原型设计。
+
+* 集成到CI/CD流水线中，从XML源自动更新应用程序界面。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XML na PPS vytváří prezentace, které se otevírají přímo v režimu prezentace, ideální pro kiosky, automatizované reporty nebo distribuované klienty.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Transformace XML marketingových zpráv na automatizované prezentace.
+
+* Příprava XML plánů událostí pro neobslužné zobrazení prezentací.
+
+* Převod obsahu XML školení na připravené snímky.
+
+* Migrace XML produktových ukázek do prezentací PPS připravených pro klienty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný převod XML na PPS pro denní zobrazení na nástěnkách.
+
+* Spuštěné zpracování nahrávek XML do automaticky spouštěných prezentací.
+
+* Hromadný převod XML na PPS pro připravenost prezentace událostí.
+
+* Integrace do sestavovacích potrubí pro neobslužné nasazení snímků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

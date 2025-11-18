@@ -135,7 +135,55 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML转换为PPSM可实现宏启用的PowerPoint演示，用于动态内容、自动图表更新或交互式客户演示。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将XML销售报告自动化转换为PPSM幻灯片，用于执行仪表板。
+
+* 将XML项目更新转换为交互式幻灯片展示。
+
+* 将XML财务预测转换为宏启用的PPSM幻灯片组。
+
+* 为自动化演示体验准备XML培训模块。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时将XML转换为PPSM，用于宏启用报告。
+
+* 批处理XML数据，生成交互式PPSM幻灯片展示。
+
+* 为具有动态宏的上传XML文件触发转换。
+
+* 与VBA和工作流工具集成，实现幻灯片的自动更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,55 @@ XML 파일을 DIF로 변환하는 동안 출력 DIF 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML을 DIF로 변환하면 레거시 스프레드시트 시스템과 현대 XML 기반 애플리케이션 간의 원활한 데이터 공유가 가능해집니다. DIF는 숫자 및 표 형식의 데이터에 특히 유용하며 구조화된 데이터 워크플로를 지원하면서 이전 소프트웨어와의 호환성을 유지합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* DIF를 사용하여 XML에서 레거시 회계 도구로 재무 예측을 가져오기.
+
+* XML에서 통계 소프트웨어로 과학 실험 데이터 세트 전송.
+
+* 아카이브 및 규정 준수 목적으로 XML 설문 결과를 DIF로 변환.
+
+* DIF를 사용하여 ERP XML 내보내기와 이전 스프레드시트 애플리케이션 간의 연결.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 일일 예약된 XML을 DIF로 변환하여 일괄 보고.
+
+* 연구 데이터 집계를 위한 ETL 파이프라인 통합.
+
+* XML 기반 ERP 출력물을 역사적 DIF 스프레드시트로 자동 이관.
+
+* 업로드된 XML을 분석을 위해 DIF로 변환하는 스크립트 트리거.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

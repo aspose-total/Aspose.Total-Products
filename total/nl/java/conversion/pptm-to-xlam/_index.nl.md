@@ -61,7 +61,51 @@ Tijdens het converteren van een PPTM-bestand naar XLAM, kunt u ook een watermerk
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Het omzetten van PPTM naar XLAM** zet dia's om naar Excel Add-In formaat, met behoud van automatisering en macrofunctionaliteit voor geavanceerde gegevensverwerking.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het maken van aangepaste Excel Add-Ins van presentatiegebaseerde sjablonen.
+
+* Het omzetten van op gegevens gebaseerde dia's in met macro's ingeschakelde analysetools.
+
+* Het delen van dia-automatiseringsscripts met Excel-gebruikers.
+
+* Het ontwikkelen van herbruikbare zakelijke workflowtools vanuit dia-decks.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geplande generatie van XLAM-bestanden voor terugkerende taken.
+
+* Getriggerde dia-naar-add-in conversie voor geautomatiseerde workflows.
+
+* Integratie in bedrijfsbrede Excel-automatiseringspijplijnen.
+
+* Batchverwerking van dia's tot met macro's ingeschakelde add-ins.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

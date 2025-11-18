@@ -61,7 +61,45 @@ otherformats: XLSX XLSM ODS XLSB XLTX FODS XLT XLS TSV XLTM MARKDOWN MHTML EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**การแปลง PPTM เป็น XLTM** สร้างเทมเพลต Excel ที่เปิดใช้งานมาโครจากเนื้อหาสไลด์ ที่เหมาะสำหรับรายงานที่ขับเคลื่อนด้วยอัตโนมัติและเทมเพลตบริษัทที่ใช้ซ้ำ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* สร้างเทมเพลตที่เปิดใช้งานมาโครจากแผงควบคุมการนำเสนอ
+* มาตรฐานของการทำงานทางการเงิน การดำเนินงาน และการส่งมอบผลงานโครงการ
+* แปลงสไลด์แบบโต้ตอบเป็นเทมเพลต Excel ที่ใช้ซ้ำ
+* เก็บถาวรเวิร์กฟลอว์การรายงานอัตโนมัติเป็นไฟล์ XLTM
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลงกลุ่ม PPTM เป็น XLTM สำหรับไลบรารีเทมเพลตขององค์กร
+* อัพเดตที่เรียกใช้งานสำหรับเทมเพลตที่เปิดใช้งานมาโครอัตโนมัติ
+* การรวมระบบอัตโนมัติกระบวนการธุรกิจ
+* การสร้างเทมเพลตตามกำหนดเวลาสำหรับการรายงานบริษัทที่เกิดซ้ำ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

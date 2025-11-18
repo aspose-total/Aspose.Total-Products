@@ -61,7 +61,55 @@ otherformats: XLTX XLSX XLSB MARKDOWN DIF XLS MHTML XLAM XLTM XLSM EXCEL SXC TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**将PPTM转换为MHTML**可将演示文稿幻灯片保存为单个网页存档，将HTML内容和资源合并到一个文件中。这对于共享、在线存档和离线网页访问非常理想。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将企业演示文稿共享为单个文件的网页存档。
+
+* 为离线浏览或内部网访问存档幻灯片。
+
+* 将培训幻灯片转换为便携的基于HTML的资源。
+
+* 为电子邮件分发演示文稿做准备，无需附件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将PPTM转换为MHTML，用于内部文档门户。
+
+* 触发生成适用于电子学习平台的网页就绪幻灯片存档。
+
+* 集成到内容管理系统中，用于单个文件的网页内容。
+
+* 定时的MHTML转换，用于定期的企业演示文稿。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,55 @@ WORDML'yi TSV'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://prod
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDML'yi TSV'ye (Tablo Ayırıcılı Değerler) dönüştürmek, yapılandırılmış verilerin temiz bir şekilde çıkarılmasına olanak tanır ve sütunlar arasındaki boşluğu ve hassasiyeti korur. TSV, şema dostu yapısı nedeniyle veritabanlarında, analiz platformlarında ve makine öğrenimi ortamlarında yaygın olarak kullanılmaktadır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Veritabanı içe aktarması için Word tabanlı günlüklerden veya raporlardan tabloları dışa aktarma.
+
+* Python veya R istatistiksel iş akışları için Word tarafından oluşturulan veri kümelerini hazırlama.
+
+* Yapılandırılmış içeriği Word'den CRM veya ERP ortamlarına taşıma.
+
+* Temiz AI model eğitim girişleri için biçimlendirilmiş tabloları TSV'ye dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Analiz panoları için Word raporlarını TSV'ye zamanlanmış dönüştürme.
+
+* Makine öğrenimi veri ön işleme boru hatları için tetikleyici tabanlı TSV dışa aktarma.
+
+* ETL işlemleri için Word şablonlarından TSV verilerinin toplu işlenmesi.
+
+* Raporlama veya görselleştirme için otomatik büyük veri iş akışlarına entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

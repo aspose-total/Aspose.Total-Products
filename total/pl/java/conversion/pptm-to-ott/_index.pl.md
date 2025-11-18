@@ -53,7 +53,51 @@ Korzystając z API, możesz również wykonać konwersję pliku PPTM do OTT ze z
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Konwertowanie PPTM na OTT** generuje szablony dokumentów tekstowych OpenDocument z slajdów prezentacji. Umożliwia to używanie szablonów w środowiskach biurowych typu open-source bez konieczności korzystania z programu Microsoft Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Tworzenie standaryzowanych szablonów dokumentów dla LibreOffice/OpenOffice.
+
+* Ponowne wykorzystanie projektów slajdów do raportowania opartego na szablonach.
+
+* Konwertowanie materiałów szkoleniowych na edytowalne formaty szablonów.
+
+* Przygotowywanie szablonów do współpracy wielu użytkowników na platformach open-source.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja PPTM na OTT dla bibliotek szablonów.
+
+* Integracja z przepływami pracy treści w przedsiębiorstwie w pakietach open-source.
+
+* Generowanie szablonów w czasie rzeczywistym dla współpracy między działami.
+
+* Tworzenie partii plików OTT do celów szkoleniowych i raportowania na różnych platformach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

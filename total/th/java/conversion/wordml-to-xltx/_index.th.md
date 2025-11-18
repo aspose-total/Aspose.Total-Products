@@ -61,7 +61,55 @@ otherformats: XLAM XLSB XLTM XLTX ODS EXCEL XLSM TSV DIF XLSX FODS SXC XLS XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง WORDML เป็น XLTX จะให้รูปแบบเทมเพลต Excel ที่สะอาดและไม่มีแมโคร ที่เหมาะสำหรับองค์กรที่กำลังเปลี่ยนโครงสร้างเนื้อหา Word ให้กลายเป็นเลย์เอาท์สเปรดชีทที่สามารถนำกลับมาใช้ซ้ำสำหรับการป้อนข้อมูล รายงาน และการวิเคราะห์ โดยไม่มีโค้ดฝังอยู่
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้างเทมเพลตสเปรดชีทในส่วนของแผนกจากเอกสาร Word ที่กระจายออกไป
+
+* สร้างแบบฟอร์มธุรกิจที่สะอาดและสามารถนำกลับมาใช้ซ้ำสำหรับการทำงานแบบดำเนินการด้วยมือหรืออัตโนมัติ
+
+* เทมเพลตด้านบุคคลทรัพยากรบุคคล การขาย และความเป็นไปตามกฎระเบียบที่สร้างขึ้นโดยตรงจากแหล่งข้อมูล Word
+
+* ย้ายตารางที่จัดรูปแบบเข้าสู่ XLTX เพื่อโครงสร้างรายงานที่สม่ำเสมอ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงเป็นกลุ่มเทมเพลต Word ขององค์กรเป็นรูปแบบ XLTX มาตรฐาน
+
+* การส่งออกตามกำหนดเวลาสำหรับไลบรารีเทมเพลตและศูนย์เอกสารที่ใช้ร่วมกัน
+
+* สร้างไฟล์ XLTX โดยอัตโนมัติสำหรับกระบวนการเข้าทำงาน การจัดซื้อ หรือการตรวจสอบ
+
+* การรวมเข้ากับท่อการส่งออกเอกสารสำหรับการใช้เทมเพลต Excel
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

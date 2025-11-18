@@ -47,7 +47,55 @@ otherformats: XLTM XLTX DIF XLSM XLSB TXT ODS MD XLAM XLT TSV FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XML إلى Markdown (MD) يمكن أن يحول المحتوى الهيكلي XML إلى علامات تنسيق خفيفة وصديقة للويب. يعتبر Markdown مثاليًا للوثائق، والمدونات، والويكي، ومُنشئي المواقع الثابتة مثل Hugo، Jekyll، أو Gatsby.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل وثائق واجهة برمجة التطبيقات XML إلى Markdown لبوابات المطورين.
+
+* تحويل مواصفات المنتجات XML إلى دلائل Markdown قابلة للقراءة.
+
+* تحضير بيانات أبحاث XML أو تقارير لمشاريع مستضافة على GitHub.
+
+* ترحيل الدلائل التقنية XML إلى Markdown لقواعد المعرفة عبر الإنترنت.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل XML إلى MD بشكل مجدول لتحديثات الوثائق الليلية.
+
+* توليد ملفات Markdown بناءً على XML مرفوعة لكتالوجات المنتجات.
+
+* معالجة دفعية للمدونات XML إلى Markdown لنشر المواقع الثابتة.
+
+* دمجها في أنابيب CI/CD لتحويل الدلائل التقنية XML إلى Markdown تلقائيًا.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

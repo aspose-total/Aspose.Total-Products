@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPTM sang XLS, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Chuyển đổi PPTM thành XLS** biến đổi bài thuyết trình thành các tệp bảng tính Excel cổ điển trong khi bảo tồn bảng, biểu đồ và nội dung số.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Lưu trữ bảng và biểu đồ trình bày trong XLS cho các hệ thống cũ hơn.
+
+* Tái sử dụng bài thuyết trình doanh nghiệp cho phân tích tài chính.
+
+* Chuẩn bị các slide giáo dục dưới dạng bảng tính có thể chỉnh sửa.
+
+* Chuyển đổi bảng điều khiển dự án thành các tệp XLS để báo cáo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ PPTM sang XLS cho các hệ thống báo cáo cổ điển.
+
+* Tạo XLS theo lịch trình cho cập nhật dự án định kỳ.
+
+* Tạo bảng tính theo yêu cầu cho các đường ống tài chính và phân tích.
+
+* Tích hợp vào các luồng công việc báo cáo tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

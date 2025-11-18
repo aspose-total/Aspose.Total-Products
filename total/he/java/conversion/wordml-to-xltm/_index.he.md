@@ -102,7 +102,45 @@ otherformats: XLSM XLT FODS XLSB XLS ODS XLAM XLTX CSV SXC TSV DIF XLSX EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת WORDML ל-XLTM יוצרת תבניות Excel המופעלות באמצעות מקרו, מאפשרת לארגונים להמיר מסמכי Word מובנים למסמכי גליון עבודה ניתנים לשימוש, הכוללים בלופטים לוגיית אוטומציה ופריסות מוגדרות מראש.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת תבניות Excel ברמת עסקים מתוך דוחות תאימות או בדיקות ב-Word.
+* יצירת טפסים מובנים במקרו למשאבי אנוש, פיננסים או ייצור.
+* הטמעת תבניות גליון עבודה תקניות במחלקות.
+* המרת טבלאות תכנון פרויקט מ-Word לזרימי עבודה ב-Excel באופן מובנה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* זרימי עבודה אחרי-מסמך שיוצרים באופן אוטומטי תבניות XLTM מ-Word.
+* יצירה על בסיס תזמון לגירסאות חוזרות של גליונות עבודה בתהליכי עסקים.
+* שילוב עם מערכות ERP הדורשות תבניות המופעלות באמצעות מקרו.
+* שכפול תבניות המופעל בהפעלת המסמך או יצירת פרויקט.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

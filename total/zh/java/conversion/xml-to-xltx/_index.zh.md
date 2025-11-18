@@ -49,7 +49,55 @@ otherformats: XLSB DIF FODS XLT XLAM XLSM XLTM TXT MD EXCEL TSV SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML转换为XLTX会生成标准的Excel模板，不含宏，非常适合数据共享、报告和团队内重复使用，而不会存在宏安全风险。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将XML财务导出转换为XLTX，用于团队可重复使用的模板。
+
+* 准备XML项目仪表板，用于协作报告。
+
+* 创建基于XML的库存模板，用于重复数据输入。
+
+* 将XML调查结果导出为XLTX，以保持一致的格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时将XML转换为XLTX，实现模板标准化。
+
+* 从XML上传触发模板生成，用于定期报告。
+
+* 用于企业数据管理的批量XML到XLTX工作流程。
+
+* 与安全无宏的模板集成到自动化报告流程中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

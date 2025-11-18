@@ -47,7 +47,55 @@ otherformats: SXC DIF EXCEL TXT TSV XLT XLSM XLSB XLTM MD ODS FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XML إلى XLAM يسمح بتجميع بيانات XML والماكروهات في إضافات Excel قابلة لإعادة الاستخدام، مما يتيح حلول جداول بيانات مؤتمتة، وحسابات معقدة، وسير عمل مخصصة داخل Excel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تعبئة حسابات KPI القائمة على XML كإضافات Excel للمديرين.
+
+* إنشاء لوحات قابلة لإعادة الاستخدام من مجموعات بيانات مبيعات أو جرد XML.
+
+* تطوير أدوات تقارير XML مع ماكرو لفرق الشؤون المالية.
+
+* أتمتة سير العمل لتحويل بيانات XML في Excel عبر XLAM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأليف التلقائي" %}}
+
+
+
+* تحويل XML إلى XLAM بشكل مجدول لتقارير الأعمال المتكررة.
+
+* معالجة دفعة من تغذيات XML إلى إضافات ماكرو للأتمتة.
+
+* إنشاء XLAM مُحفز من XML مُرفوعة لسير عمل Excel ديناميكية.
+
+* التكامل مع سكربتات VBA لأنابيب عمل XML إلى XLAM مستندة إلى السحاب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

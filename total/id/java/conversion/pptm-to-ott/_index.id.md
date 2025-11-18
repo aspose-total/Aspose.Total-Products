@@ -53,7 +53,55 @@ Menggunakan API, Anda juga dapat melakukan konversi file PPTM ke OTT dengan tand
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Mengonversi PPTM ke OTT** menghasilkan template OpenDocument Text dari slide presentasi. Ini memungkinkan penggunaan kembali template dalam lingkungan kantor sumber terbuka tanpa bergantung pada Microsoft Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Membuat template dokumen standar untuk LibreOffice/OpenOffice.
+
+* Memanfaatkan desain slide untuk pelaporan berbasis template.
+
+* Mengonversi materi pelatihan ke dalam format template yang dapat diedit.
+
+* Menyiapkan template kolaborasi multi-pengguna untuk platform sumber terbuka.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi PPTM-ke-OTT terjadwal untuk perpustakaan template.
+
+* Integrasi dengan alur kerja konten perusahaan dalam paket sumber terbuka.
+
+* Generasi template real-time untuk kolaborasi multi-departemen.
+
+* Pembuatan OTT batch untuk tujuan pelatihan dan pelaporan lintas platform.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

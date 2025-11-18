@@ -61,7 +61,51 @@ Saat mengonversi file PPTM ke SXC, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Mengonversi PPTM ke SXC** menghasilkan lembar kerja StarOffice Calc dari tabel dan grafik slide, mendukung lingkungan kantor open-source warisan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengekstrak data numerik berbasis slide untuk paket kantor historis.
+
+* Menyiapkan presentasi bisnis dan riset sebagai lembar kerja SXC.
+
+* Mengonversi grafik dan tabel ke dalam format lembar kerja yang dapat digunakan kembali.
+
+* Mengarsipkan data presentasi dalam format open-source warisan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch PPTM ke SXC untuk tujuan arsip.
+
+* Generasi SXC lembar kerja yang dipicu untuk penggunaan lintas platform.
+
+* Integrasi ke dalam alur kerja otomatisasi kantor warisan.
+
+* Pembaruan terjadwal untuk ekstraksi data historis dari slide.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

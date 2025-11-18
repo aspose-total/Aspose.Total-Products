@@ -54,7 +54,55 @@ API를 사용하면 암호로 보호된 WORDML 문서를 PPTM로 변환할 수�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDML (WordprocessingML) 문서를 PPTM 형식으로 변환하면 매크로가 활성화된 PowerPoint 프레젠테이션을 만들 수 있습니다. 이를 통해 테이블, 차트, 노트와 같은 구조화된 Word 콘텐츠를 유지하면서 고급 자동화, 대화형 대시보드, 그리고 포함된 매크로를 사용할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Word 기반 보고서에서 생성된 대화형 금융 대시보드.
+
+* 자동 계산 및 동적 슬라이드 요소를 갖춘 교육 모듈.
+
+* 상태 추적을 위한 트리거 가능한 매크로가 포함된 프로젝트 관리 프레젠테이션.
+
+* 대화형 문제 해결 예제를 포함한 교육 강의.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 반복되는 Word 보고서를 매크로가 활성화된 PPTM 슬라이드로 일괄 변환.
+
+* 관리자 검토를 위한 대화형 프로젝트 덱의 트리거 생성.
+
+* 자동화된 e러닝 프레젠테이션을 위한 LMS 시스템 통합.
+
+* 기업 성과 및 KPI 대시보드를 위한 자동화된 매크로 포함.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

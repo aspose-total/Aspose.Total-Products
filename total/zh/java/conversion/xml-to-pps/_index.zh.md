@@ -135,7 +135,51 @@ presentation.save("output.pps", SaveFormat.Pps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML转换为PPS会创建幻灯片展示，直接在演示模式中打开，非常适合用于信息亭、自动报告或分发给客户的演示文稿。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将XML营销报告转换为自动化幻灯片展示。
+
+* 为无人看守的演示屏幕准备XML活动日程安排。
+
+* 将XML培训内容转换为即时展示幻灯片。
+
+* 将XML产品演示迁移到准备好的客户PPS演示文稿。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 每日仪表板显示的定时XML到PPS转换。
+
+* 将XML上传触发处理，转换为自动运行的幻灯片展示。
+
+* 为活动演示准备批量XML到PPS转换。
+
+* 集成到报告管道中，用于无人看守的幻灯片部署。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

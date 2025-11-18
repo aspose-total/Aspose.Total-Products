@@ -61,7 +61,51 @@ otherformats: ODS XLS TSV XLSM XLSX EXCEL SXC XLAM XLTM XLT XLSB XLTX FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του WORDML σε FODS (Flat OpenDocument Spreadsheet) επιτρέπει τη συμβατότητα φύλλου εργασίας με ανοικτό πρότυπο με το LibreOffice, το OpenOffice και άλλες πλατφόρμες ανοικτού κώδικα. Ιδανικό για χρήστες που χρειάζονται ροές εργασίας εγγράφων διασυνοριακά.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Εξαγωγή δομημένων πινάκων Word για συνεργατικά έργα φύλλων εργασίας ανοικτού κώδικα.
+
+* Προετοιμασία δεδομένων βασισμένων σε Word για έρευνα και ακαδημαϊκή ανάλυση.
+
+* Κοινοποίηση αναλύσεων κόστους έργων σε καθολικά συμβατά μορφές.
+
+* Μετατροπή πρακτικών συναντήσεων Word με ενσωματωμένους πίνακες σε επεξεργάσιμα φύλλα εργασίας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Δημιουργία πακέτων FODS από επαναλαμβανόμενα τεκμηριώματα Word.
+
+* Αυτοματοποιημένη ενσωμάτωση με πλατφόρμες αναφοράς ανοικτού κώδικα.
+
+* Εξαγωγές FODS που ενεργοποιούνται για συνεργατικά ακαδημαϊκά έργα.
+
+* Αγωγοί ETL που μετατρέπουν δομημένες φόρμες Word για αναλύσεις έρευνας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

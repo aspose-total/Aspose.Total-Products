@@ -61,7 +61,51 @@ Lors de la conversion du fichier PPTM en ODS, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Conversion de PPTM en ODS** transforme les présentations en fichiers de feuille de calcul OpenDocument, largement compatibles avec LibreOffice, Google Sheets et d'autres applications de feuille de calcul.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Réutilisation des données numériques de présentation pour une utilisation multiplateforme.
+
+* Conversion des tableaux de bord des ventes et des projets en feuilles de calcul ODS modifiables.
+
+* Partage de données avec des clients ou des équipes à l'aide d'outils open source.
+
+* Archivage des diapositives sous forme de documents de feuille de calcul pour les rapports.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion planifiée en lot de PPTM en ODS pour des projets récurrents.
+
+* Intégration dans des flux de travail collaboratifs basés sur le cloud.
+
+* Création déclenchée d'ODS pour les tableaux de bord d'analyse.
+
+* Archivage automatisé des diapositives dans des fichiers ODS normalisés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XMLをPPTに変換することで、従来のPowerPointユーザーが構造化されたコンテンツを編集可能なスライドとしてインポートできるようになり、ビジネス、教育、マーケティング向けのチャート、表、グラフィックをサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 企業利用のためにXMLトレーニング資料をPPTスライドに変換する。
+
+* 編集可能なプレゼンテーションデッキにXML製品カタログを変換する。
+
+* 管理レビュー用にXMLプロジェクトレポートを準備する。
+
+* XML財務諸表を従来のPPTプレゼンテーションに移行する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期レポートのためのスケジュールされたXMLからPPTへの変換。
+
+* アップロードされたXMLファイルからスライド作成をトリガーする。
+
+* 編集可能なPPTデッキにバッチ処理されたXMLデータセット。
+
+* 従来のサポートのための自動化されたレポートパイプラインへの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

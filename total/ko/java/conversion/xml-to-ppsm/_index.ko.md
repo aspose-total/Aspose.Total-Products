@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML을 PPSM으로 변환하면 동적 콘텐츠, 자동화된 차트 업데이트 또는 대화식 클라이언트 프레젠테이션을 위한 매크로가 활성화된 PowerPoint 쇼를 만들 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* PPSM 슬라이드로 XML 판매 보고서를 자동화하여 경영진 대시보드에 표시합니다.
+
+* XML 프로젝트 업데이트를 대화식 슬라이드 쇼로 변환합니다.
+
+* XML 재무 예측을 매크로가 활성화된 PPSM 덱으로 변환합니다.
+
+* 자동화된 프레젠테이션 경험을 위해 XML 교육 모듈을 준비합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 매크로가 활성화된 보고를 위한 예약된 XML-to-PPSM 변환.
+
+* 대화식 PPSM 슬라이드 쇼로 일괄 처리되는 XML 데이터.
+
+* 동적 매크로가 포함된 업로드된 XML 파일을 위한 트리거 변환.
+
+* 자동화된 슬라이드 업데이트를 위한 VBA 및 워크플로우 도구 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

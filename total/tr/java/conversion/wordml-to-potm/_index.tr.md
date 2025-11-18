@@ -54,7 +54,55 @@ API ayrıca parola korumalı WORDML belgelerini POTM'ye dönüştürmenize olana
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDML formatını POTM formatına dönüştürmek, yapılandırılmış Word verilerini otomatik slayt işlevselliği ile birleştirerek etkileşimli sunumlar için makro destekli PowerPoint şablonlarının oluşturulmasını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Gömülü makrolara sahip etkileşimli eğitim modülleri oluşturma.
+
+* Word tablolarından türetilmiş makro destekli kurumsal gösterge panoları.
+
+* Otomatik hesaplamalarla finansal modelleme slaytları.
+
+* E-öğrenme için etkileşimli unsurlara sahip eğitim slaytları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Word raporlarından makro destekli şablonların otomatik oluşturulması.
+
+* Tekrarlanan proje güncelleme slaytları için tetiklenen POTM oluşturma.
+
+* Otomatik eğitim slaytları için LMS sistemleriyle entegrasyon.
+
+* Word içeriğinin etkileşimli PowerPoint makrolarına toplu dönüşümü.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,31 @@ otherformats: EXCEL XLAM DIF XLTM FODS XLT XLSM XLTX XLSX SXC ODS XLS TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}} إنشاء ملفات XLAM من WORDML يمكن تحويل مستندات Word إلى تنسيق إضافة Excel، مما يسمح بتغذية البيانات إلى الوظائف المخصصة والنصوص الآلية والمنطق المتقدم لجداول البيانات. هذا مثالي للفرق التي تستخدم امتدادات Excel المدعومة بـ VBA.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* تحويل نماذج الحسابات المعتمدة على Word إلى إضافات Excel.
+* نشر منطق الأعمال القابل لإعادة الاستخدام من خلال XLAM التي تم إنشاؤها من Word.
+* يستخدم فرق المالية والتدقيق إضافات Excel الآلية بدلاً من الأوراق الثابتة.
+* إنشاء أدوات تفاعلية للتنبؤ والتسعير أو النمذجة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+* إنشاء دفعة من Word إلى XLAM لنشر الإضافات المحدثة على مستوى الشركة.
+* إنشاء إضافات مدعومة بالماكرو تلقائيًا من خلال قواعد وصيغ معتمدة على Word.
+* تعبئة XLAM المُشغّلة لمنطق الأعمال المخزن في قوالب Word.
+* دمج سير العمل القائمة على الذكاء الاصطناعي التي تحول متطلبات الأعمال إلى إضافات Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,51 @@ otherformats: XLSX XLSM ODS XLSB XLTX FODS XLT XLS TSV CSV MARKDOWN MHTML EXCEL 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**המרת PPTM ל-XLTM** מייצרת תבניות Excel המופעלות במקרו מתוכן השקפים, אידיאליות לדיווח מופעל באופן אוטומטי ולתבניות תבניות תקפות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת תבניות המופעלות במקרו מלוחות מחוונות.
+
+* תהליכי דיווח בתחום הפיננסים, הפעולות והפרויקטים באופן סטנדרטי.
+
+* המרת שקפים אינטראקטיביים לתבניות Excel הניתנות לשימוש חוזר.
+
+* ארכיבת תהליכי דיווח ממוכנים באופן אוטומטי כקבצי XLTM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת רצף המרות PPTM ל-XLTM לספריות תבניות עסקיות.
+
+* עדכונים מופעלים לתבניות המופעלות במקרו באופן מופעל.
+
+* שילוב עם מערכות אוטומציה של תהליכי עסקים.
+
+* יצירת תבניות מתוזמנת לדיווח תדיר בחברה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

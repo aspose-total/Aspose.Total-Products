@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML'yi PPS'ye dönüştürmek, sunum modunda doğrudan açılan slayt gösterileri oluşturur, kiosklar, otomatik raporlama veya dağıtılan istemci destekleri için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* XML pazarlama raporlarını otomatik slayt gösterilerine dönüştürmek.
+
+* XML etkinlik programlarını denetimsiz sunum ekranları için hazırlamak.
+
+* XML eğitim içeriğini gösterime hazır slaytlara dönüştürmek.
+
+* XML ürün tanıtımlarını istemciye hazır PPS sunumlarına taşımak.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Günlük paneller için zamanlanmış XML'den PPS'ye dönüşüm.
+
+* XML yüklemelerinin tetiklenerek otomatik çalışan slayt gösterilere dönüştürülmesi.
+
+* Etkinlik sunumları için toplu XML'den PPS'ye dönüşüm.
+
+* Denetimsiz slayt dağıtımları için raporlama borularına entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

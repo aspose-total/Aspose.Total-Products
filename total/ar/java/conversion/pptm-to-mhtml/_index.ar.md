@@ -61,7 +61,51 @@ otherformats: XLTX XLSX XLSB MARKDOWN DIF XLS MHTML XLAM XLTM XLSM EXCEL SXC TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**تحويل PPTM إلى MHTML** يسمح بحفظ شرائح العرض كملف ويب واحد، يجمع محتوى HTML والموارد في ملف واحد. هذا مثالي للمشاركة، والأرشفة عبر الإنترنت، والوصول إلى الويب دون اتصال.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* مشاركة العروض التقديمية الشركية كأرشيفات ويب ملف واحد.
+
+* أرشفة الشرائح للاستعراض دون اتصال أو الوصول عبر الشبكة الداخلية.
+
+* تحويل عروض التدريب إلى موارد قائمة على HTML قابلة للنقل.
+
+* إعداد العروض التقديمية لتوزيعها عبر البريد الإلكتروني دون مرفقات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعة من PPTM إلى MHTML لبوابات الوثائق الداخلية.
+
+* توليد ملفات شرائح جاهزة للويب بشكل مؤقت لمنصات التعلم الإلكتروني.
+
+* دمجه في أنظمة إدارة المحتوى لمحتوى ويب ملف واحد.
+
+* تحويل MHTML المجدول للعروض التقديمية الشركية المتكررة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

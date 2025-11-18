@@ -61,7 +61,51 @@ otherformats: XLSX XLSM ODS XLSB XLTX FODS XLT XLS TSV XLTM MARKDOWN MHTML EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**将PPTM转换为XLTM** 从幻灯片内容生成宏启用的Excel模板，非常适合自动化驱动的报告和可重复使用的公司模板。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 从演示仪表板生成宏启用的模板。
+
+* 标准化财务、运营和项目报告工作流程。
+
+* 将交互式幻灯片转换为可重复使用的Excel模板。
+
+* 将自动化报告工作流程存档为XLTM文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将PPTM转换为XLTM，用于企业模板库。
+
+* 用于自动宏启用模板的触发更新。
+
+* 与业务流程自动化系统集成。
+
+* 定期生成模板，用于企业报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

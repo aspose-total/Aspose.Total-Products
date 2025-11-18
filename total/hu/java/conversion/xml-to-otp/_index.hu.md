@@ -135,7 +135,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XML átalakítása OTP formátummá újrafelhasználható, makrómentes bemutató sablonokat eredményez. Az OTP tökéletes választás standardizált diák létrehozásához vállalati arculathoz, akadémiai kurzusokhoz vagy ismétlődő eseményekhez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* XML-alapú vállalati jelentési sablonok generálása OTP formátumban.
+
+* XML tantervek átalakítása oktatók számára prezentációs sablonokká.
+
+* XML marketingkampány adatainak előkészítése újrafelhasználható diákcsomagokká.
+
+* XML projektfrissítések átalakítása OTP sablonokká következetes jelentéskészítéshez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ütemezett XML-OTP átalakítás sablonkészítéshez csapatok számára.
+
+* XML jelentések tömeges feldolgozása OTP sablonokba ismételt prezentációkhoz.
+
+* Kiváltott XML átalakítás feltöltött tartalomhoz arculathű diákba.
+
+* Integráció munkafolyamat-automatizálási eszközökkel dinamikus sablonkészítéshez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

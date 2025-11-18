@@ -61,7 +61,51 @@ Podczas konwertowania pliku PPTM do XLSM możesz również dodać znak wodny do 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Konwertowanie PPTM na XLSM** generuje skoroszyty Excel z obsługą makr, zachowując zaawansowaną funkcjonalność slajdów do automatyzacji i przetwarzania danych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Eksport interaktywnych wykresów slajdów do skoroszytów XLSM obsługujących makra.
+
+* Konwertowanie szablonów opartych na prezentacjach na pliki automatyzacji w Excelu.
+
+* Dzielenie się slajdami z wbudowanymi makrami do finansów i operacji.
+
+* Tworzenie wielokrotnie używanych pulpitów szkoleniowych z wbudowaną automatyzacją.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa PPTM na XLSM dla cyklicznych raportów automatycznych.
+
+* Zaplanowane aktualizacje skoroszytów obsługujących makra ze slajdów.
+
+* Wywoływane generowanie plików XLSM dla przepływów pracy przedsiębiorstwa.
+
+* Integracja z systemami automatyzacji procesów biznesowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

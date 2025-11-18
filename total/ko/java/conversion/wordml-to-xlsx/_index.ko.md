@@ -61,7 +61,17 @@ WORDML를 XLSX로 변환한 후 [Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+### 안내
+
+{< blocks/products/pf/agp/feature-section >}
+
+- 제품 사양
+- 기능
+- 가격
+
+{< /blocks/products/pf/agp/feature-section >}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

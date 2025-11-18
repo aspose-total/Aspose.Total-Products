@@ -54,7 +54,55 @@ API ยังช่วยให้คุณแปลงเอกสาร WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงเอกสาร WORDML (WordprocessingML) เป็นรูปแบบ PPTM ช่วยให้สามารถสร้างงานนำเสนอ PowerPoint ที่เปิดใช้งานแมโครได้ ซึ่งสามารถใช้การอัตโนมัติขั้นสูง แผงควบคุมแบบอินเทอร์แอคทีฟ และแมโครที่ฝังอยู่ พร้อมทั้งยังรักษาเนื้อหา Word โครงสร้าง เช่น ตาราง กราฟ และบันทึก
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* แผงควบคุมการเงินแบบอินเทอรแอคทีฟที่สร้างจากรายงานที่มีต้นฉบับจาก Word
+
+* โมดูลการฝึกอบรมที่มีการคำนวณอัตโนมัติและองค์ประกอบของสไลด์ที่เปลี่ยนไป
+
+* งานนำเสนอการจัดการโครงการพร้อมแมโครที่สามารถเรียกใช้ได้สำหรับการติดตามสถานะ
+
+* บรรยายการเรียนการสอนที่มีตัวอย่างการแก้ปัญหาแบบอินเทอรแอคทีฟ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงเป็นชุดงานนำเสนอ PPTM ที่มีแมโครจากรายงาน Word ที่เกิดซ้ำๆ
+
+* การสร้างสไลด์โครงการแบบอินเทอรแอคทีฟโดยเรียกใช้เมื่อต้องการตรวจสอบจากผู้จัดการ
+
+* การรวมระบบ LMS สำหรับงานนำเสนอการเรียนออนไลน์ที่อัตโนมัติ
+
+* การฝังแมโครอัตโนมัติสำหรับแผงควบคุมประสิทธิภาพขององค์กรและ KPI
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

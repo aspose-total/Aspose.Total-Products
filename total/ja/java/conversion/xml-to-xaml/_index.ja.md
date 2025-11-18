@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XMLをXAMLに変換することで、構造化されたXMLデータをMicrosoft WPF、UWP、またはXamarinアプリケーションで使用し、動的なUIレンダリング、インタラクティブなコンポーネント、データ駆動型のアプリケーションレイアウトを実現できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* デスクトップおよびモバイルアプリケーション向けのXML UI仕様をXAMLに変換する。
+
+* インタラクティブなダッシュボード用のXMLデータモデルをXAMLバインディングに変換する。
+
+* 動的なユーザーインターフェース生成のためのXML構成ファイルを準備する。
+
+* WPFまたはUWPアプリケーション向けにXMLデザインモックアップをXAMLに移行する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* アプリ内の連続的なUI更新のためのスケジュールされたXMLからXAMLへの変換。
+
+* ダイナミックなダッシュボード用にXMLデータセットを一括処理してXAMLに変換する。
+
+* アップロードされたXMLファイルからのトリガー付きXAML生成による迅速なプロトタイピング。
+
+* CI/CDパイプラインへの統合によるXMLソースからの自動化されたアプリケーションインターフェースの更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

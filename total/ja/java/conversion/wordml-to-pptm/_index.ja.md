@@ -54,7 +54,55 @@ APIを使用すると、パスワードで保護されたWORDMLドキュメン�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDML（WordprocessingML）ドキュメントをPPTM形式に変換すると、マクロを有効にしたPowerPointプレゼンテーションの作成が可能になります。これにより、高度な自動化、インタラクティブなダッシュボード、埋め込みマクロが実現され、表、グラフ、ノートなどの構造化されたWordコンテンツが保持されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* Wordベースのレポートから生成されたインタラクティブな財務ダッシュボード。
+
+* 自動計算とダイナミックなスライド要素を備えたトレーニングモジュール。
+
+* ステータス追跡用のトリガーマクロを備えたプロジェクト管理プレゼンテーション。
+
+* 問題解決の例を交えた教育講義。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的なWordレポートのバッチ変換をマクロを有効にしたPPTMスライドに変換。
+
+* 管理レビュー用のインタラクティブなプロジェクトデッキのトリガー生成。
+
+* 自動化されたeラーニングプレゼンテーションのLMSシステムへの統合。
+
+* 企業パフォーマンスとKPIダッシュボードのための自動マクロ埋め込み。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

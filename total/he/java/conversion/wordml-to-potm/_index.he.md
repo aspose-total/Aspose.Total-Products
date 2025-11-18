@@ -100,7 +100,55 @@ otherformats: POWERPOINT POTX PPT PPSM PPTM POT ODP PPSX PPTX PPS CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת פורמט WORDML לפורמט POTM מאפשרת יצירת תבניות למצגות בפורמט מאקרו, המשלבות נתוני Word מובנים עם פונקציות שקולות לשקול למצגות אינטראקטיביות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* בניית מודולי הכשרה אינטראקטיביים עם מאקרוס מוטמעים.
+
+* לוחות מחוונים בפורמט מאקרו המופקים מטבלאות Word.
+
+* שקופיות למודלים פיננסיים עם חישובים אוטומטיים.
+
+* שקופיות ללמידה עם רכיבים אינטראקטיביים ללמידה אלקטרונית.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירה אוטומטית של תבניות בעלות מאקרוס מוטמעים מדוחות Word.
+
+* יצירת POTM מופעלת על ידי טריגר למצגות עדכון פרויקט חוזרות.
+
+* שילוב עם מערכות LMS למצגות הכשרה אוטומטיות.
+
+* המרה רציפה של תוכן Word למאקרוס PowerPoint אינטראקטיביים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

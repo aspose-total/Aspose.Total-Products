@@ -61,7 +61,49 @@ otherformats: XLT DIF MARKDOWN XLAM XLSX XLSM TSV MHTML EXCEL FODS XLS SXC XLSB 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**การแปลง PPTM เป็น XLAM** จะแปลงสไลด์เป็นรูปแบบ Excel Add-In โดยรักษาความสามารถในการอัตโนมัติและมาโครสำหรับการประมวลผลข้อมูลขั้นสูง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้าง Excel Add-Ins ที่กำหนดเองจากเทมเพลตที่มีพื้นฐานจากงานนำเสนอ
+* แปลงสไลด์ที่ขับเคลื่อนด้วยข้อมูลเป็นเครื่องมือวิเคราะห์ที่เปิดใช้มาโคร
+* แบ่งปันสคริปต์อัตโนมัติของสไลด์กับผู้ใช้ Excel
+* พัฒนาเครื่องมือการทำงานของธุรกิจที่สามารถใช้ซ้ำจากสไลด์เด็ก
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างไฟล์ XLAM ตามกำหนดเวลาสำหรับงานที่เกิดซ้ำ
+* การเปลี่ยนสไลด์เป็น Add-In โดยอัตโนมัติตามกระบวนการทำงานอัตโนมัติ
+* การรวมเข้ากับท่อการทำงานอัตโนมัติ Excel ขององค์กร
+* การประมวลผลสไลด์เป็น Add-Ins ที่เปิดใช้มาโครเป็นชุด
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

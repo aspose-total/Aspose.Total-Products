@@ -47,7 +47,51 @@ XMLファイルをXLSMに変換するときに、出力XLSMファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XMLをXLSMに変換することで、Excel内で複雑な自動化ワークフロー、数式、マクロを可能にし、構造化されたXMLデータを保持しながらインタラクティブで動的なスプレッドシートアプリケーションを実現します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* XML財務レポートをXLSMにインポートし、自動計算を行う。
+
+* XML在庫データセットをマクロ有効なExcelダッシュボードに変換する。
+
+* XLSMを使用した自動化されたXMLベースのワークフロートラッカーの開発。
+
+* XML調査および研究データをインタラクティブなXLSMシートに変換する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 自動報告サイクルのためのスケジュールされたXMLからXLSMへの変換。
+
+* アップロードされたXMLからマクロ有効なワークブックの生成をトリガー。
+
+* ETLパイプラインがXML出力をXLSMダッシュボードに供給。
+
+* チーム向けの繰り返しのXMLからXLSMへのデータ変換の自動化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

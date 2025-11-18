@@ -47,7 +47,55 @@ otherformats: TXT MD XLT FODS XLTX EXCEL XLSB XLAM XLSM TSV XLTM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XML เป็น FODS ช่วยให้สามารถใช้สเปรดชีตมาตรฐานเปิดสำหรับโครงการที่ทำงานร่วมกันและ跨แพลตฟอร์ม FODS รักษาโครงสร้าง XML ในขณะเดียวกันทำให้สามารถใช้สเปรดชีตได้ใน LibreOffice, OpenOffice และชุดโปรแกรมโอเพนซอร์สอื่น ๆ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การแปลงข้อมูลงบประมาณที่ใช้ XML เป็น FODS เพื่อทีมที่ทำงานร่วมกันแก้ไข
+
+* การแปลงไฟล์ XML ที่ใช้วัดทางวิทยาศาสตร์เป็น FODS เพื่อการวิจัยที่สามารถทำซ้ำได้
+
+* การย้ายรายงานผลการเรียนของนักเรียนที่ใช้ XML เข้าสู่เครื่องมือสเปรดชีตโอเพนซอร์ส
+
+* การเตรียมการส่งออก XML จากแอปพลิเคชันการจัดการโครงการสำหรับการวิเคราะห์ FODS
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XML เป็น FODS อัตโนมัติทุกคืนสำหรับระบบรายงานโอเพนซอร์ส
+
+* การประมวลผลชุดข้อมูล XML จากระบบ ERP บนคลาวด์เป็น FODS
+
+* การแปลงไฟล์บันทึกโครงการที่ใช้ XML เป็นสเปรดชีตโอเพนอาร์กิฟ
+
+* การผสานการทำงานในห้องปฏิบัติการวิจัยโดยใช้ท่อส่ง XML เป็น FODS
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

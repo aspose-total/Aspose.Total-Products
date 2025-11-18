@@ -100,7 +100,51 @@ otherformats: POWERPOINT POT PPTX PPS PPT PPSM PPSX PPTM POTX POTM CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення документів WORDML (WordprocessingML) в ODP (OpenDocument Presentation) дозволяє легко перетворити структурований вміст Word в слайди відкритого стандарту, ідеально підходить для LibreOffice Impress та інших відкритих засобів презентацій.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* Перетворення звітів Word у інтерактивні презентації для зустрічей.
+
+* Трансформація даних досліджень на основі Word у візуальні академічні слайди.
+
+* Створення корпоративних брифінгів зі структурованих таблиць Word з відкритим кодом.
+
+* Поширення оновлень проекту та пропозицій за допомогою універсальних слайдів ODP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетне перетворення щотижневих звітів Word в ODP для розподілу команді.
+
+* Створення слайдів ODP за допомогою систем управління документами.
+
+* Автоматизований робочий процес для створення презентацій з шаблонів Word.
+
+* Інтеграція з колаборативними презентаційними конвеєрами з відкритим кодом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

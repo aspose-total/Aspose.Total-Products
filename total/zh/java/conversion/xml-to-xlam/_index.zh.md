@@ -49,7 +49,51 @@ otherformats: SXC DIF EXCEL TXT TSV XLT XLSM XLSB XLTM MD ODS FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML转换为XLAM允许将XML数据和宏封装到可重用的Excel加载项中，从而实现自动化电子表格解决方案、复杂计算和自定义工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将基于XML的KPI计算打包为Excel加载项，供管理人员使用。
+
+* 从XML销售或库存数据集创建可重用的仪表板。
+
+* 为财务团队开发支持宏的XML报告工具。
+
+* 通过XLAM在Excel中自动化XML数据转换工作流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定期业务报告的预定XML到XLAM转换。
+
+* 将XML feeds批量处理为支持宏的加载项以实现自动化。
+
+* 从上传的XML触发XLAM生成，用于动态Excel工作流程。
+
+* 与VBA脚本集成，用于基于云的XML到XLAM管道。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

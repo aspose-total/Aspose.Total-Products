@@ -61,7 +61,51 @@ otherformats: FODS XLSM TSV SXC DIF EXCEL ODS XLTX XLSB XLAM XLS XLSX XLTM XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将WORDML转换为XLSM可使结构化的Word数据成为支持宏的电子表格，非常适合需要交互式自动化、VBA逻辑或高级Excel计算的工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 具有预先编程宏和公式的财务模板。
+
+* 基于从Word内容提取的数据的自动报告仪表板。
+
+* 需要验证脚本和基于宏的逻辑的合规工作流程。
+
+* 用于预算、预测和规划的交互式工具。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从定期Word模板创建支持宏的表格。
+
+* 从基于Word的数据模型自动生成XLSM表单。
+
+* 基于Word报告提交触发的宏。
+
+* 将AI生成的电子表格集成到传统宏工作流程中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

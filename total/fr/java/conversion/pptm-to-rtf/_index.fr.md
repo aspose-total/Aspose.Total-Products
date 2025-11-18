@@ -53,7 +53,51 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Conversion de PPTM en RTF** transforme les diapositives en documents au format Rich Text, assurant une large compatibilité entre les systèmes d'exploitation et les traitements de texte tout en préservant la mise en forme de base.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Archivage du contenu de présentation dans des formats universellement accessibles.
+
+* Partage des diapositives en tant que documents modifiables sans restrictions logicielles.
+
+* Conversion de rapports d'entreprise pour une lisibilité multiplateforme.
+
+* Préparation de guides de formation dans des formats légers et portables.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de PPTM en RTF pour l'intégration aux systèmes hérités.
+
+* Workflows déclenchés pour exporter les diapositives dans des formats texte universels.
+
+* Archivage planifié des présentations en RTF à des fins de conformité.
+
+* Intégration avec des pipelines d'automatisation de documents pour une sortie accessible.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

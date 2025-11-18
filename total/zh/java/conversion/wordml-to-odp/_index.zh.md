@@ -54,7 +54,51 @@ otherformats: POWERPOINT POT PPTX PPS PPT PPSM PPSX PPTM POTX POTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将WORDML（WordprocessingML）文档转换为ODP（OpenDocument Presentation）可将结构化的Word内容轻松转换为开放标准幻灯片，非常适合LibreOffice Impress和其他开源演示工具。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将Word报告转换为互动会议演示文稿。
+
+* 将基于Word的研究数据转换为视觉学术幻灯片。
+
+* 从结构化的Word表格创建开源企业简报。
+
+* 使用通用ODP幻灯片分享项目更新和提案。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将每周的Word报告转换为ODP以供团队分发。
+
+* 从文档管理系统触发创建ODP幻灯片。
+
+* 从Word模板生成演示文稿的自动化工作流程。
+
+* 与协作开源演示文稿流水线集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

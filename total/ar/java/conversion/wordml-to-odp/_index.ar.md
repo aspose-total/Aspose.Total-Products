@@ -54,7 +54,55 @@ otherformats: POWERPOINT POT PPTX PPS PPT PPSM PPSX PPTM POTX POTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل مستندات WORDML (WordprocessingML) إلى ODP (OpenDocument Presentation) يسمح بتحويل محتوى Word المهيكل بسهولة إلى شرائح مفتوحة المعايير، مثالية لـ LibreOffice Impress وأدوات العروض مفتوحة المصدر الأخرى.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل تقارير Word إلى عروض اجتماعية تفاعلية.
+
+* تحويل بيانات البحث القائمة على Word إلى شرائح أكاديمية بصرية.
+
+* إنشاء ملخصات شركات مفتوحة المصدر من جداول Word المهيكلة.
+
+* مشاركة تحديثات المشروع والمقترحات باستخدام شرائح ODP العالمية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي لتقارير Word الأسبوعية إلى ODP لتوزيعها على الفريق.
+
+* إنشاء شرائح ODP بناءً على نظم إدارة المستندات.
+
+* سير عمل آلي لإنشاء عروض من قوالب Word.
+
+* التكامل مع أنابيب العروض التقديمية مفتوحة المصدر والتعاونية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp XML sang MD, bạn cũng có thể thêm hình m
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XML sang Markdown (MD) cho phép nội dung XML có cấu trúc được chuyển đổi thành đánh dấu nhẹ, thân thiện với web. Markdown lý tưởng cho tài liệu, blog, wiki và các trình tạo trang tĩnh như Hugo, Jekyll hoặc Gatsby.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi tài liệu API XML thành Markdown cho cổng thông tin cho nhà phát triển.
+
+* Chuyển đổi các thông số sản phẩm XML thành hướng dẫn Markdown dễ đọc.
+
+* Chuẩn bị dữ liệu nghiên cứu hoặc báo cáo XML cho các dự án được lưu trữ trên GitHub.
+
+* Di dời các tài liệu kỹ thuật XML sang Markdown cho cơ sở kiến thức trực tuyến.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi XML sang MD theo lịch trình cho việc cập nhật tài liệu hàng đêm.
+
+* Kích hoạt tạo ra các tệp Markdown từ các danh mục sản phẩm XML được tải lên.
+
+* Xử lý hàng loạt các blog XML thành Markdown để xuất bản trang web tĩnh.
+
+* Tích hợp vào các đường ống CI/CD để tự động chuyển đổi các tài liệu kỹ thuật XML sang Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

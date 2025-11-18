@@ -53,7 +53,51 @@ otherformats: FLATOPC ODT DOTM TEXT DOTM DOTX OTT DOT WORDML DOTX WORD RTF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**การแปลง PPTM เป็น DOT** ช่วยให้สามารถเปลี่ยนเนื้อหาในงานนำเสนอเป็นเทมเพลต Word ที่สามารถนำมาใช้ซ้ำได้ การใช้ DOT templates ช่วยรักษาสไตล์ที่เหมือนกันที่เหมาะสำหรับการสื่อสารในองค์กรและรายงานที่มีมาตรฐาน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้างรายงานที่ใช้เทมเพลตจากงานนำเสนอที่เกิดซ้ำๆ
+
+* มาตรฐานเอกสารภายในสำหรับฝ่ายทรัพยากรบุคคล การเงิน และการดำเนินงาน
+
+* นำเสนอสไลด์การฝึกอบรมให้กลายเป็นเทมเพลต Word ที่ใช้ซ้ำได้
+
+* สร้างเทมเพลตเอกสารทางกฎหมายหรือขั้นตอนการทำงานจากงานนำเสนอ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างไลบรารีเทมเพลตโดยอัตโนมัติจาก PPTM decks
+
+* การผสมผสานกับระบบการจัดการเทมเพลตเพื่อความสอดคล้อง
+
+* การแปลงเป็นเทมเพลตเป็นชุดเป็นชุดตามกำหนดเวลาสำหรับการสร้างเทมเพลตที่เกิดซ้ำ
+
+* การอัพเดตเทมเพลตตามที่เกิดขึ้นจากงานนำเสนอขององค์กรที่เปลี่ยนแปลง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

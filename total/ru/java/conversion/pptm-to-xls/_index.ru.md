@@ -61,7 +61,51 @@ otherformats: MHTML FODS XLSX DIF XLTX EXCEL XLAM XLSB XLSM XLTM MARKDOWN TSV XL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Преобразование PPTM в XLS** преобразует презентации в файлы электронных таблиц Excel старого формата, сохраняя таблицы, графики и числовое содержимое.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Архивирование таблиц и графиков слайдов в XLS для старых систем.
+
+* Переиспользование корпоративных презентаций для финансового анализа.
+
+* Подготовка образовательных слайдов в виде редактируемых электронных таблиц.
+
+* Преобразование панелей управления проектами в файлы XLS для отчетности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование PPTM в XLS для систем отчетности старого формата.
+
+* Плановое создание XLS для периодических обновлений проектов.
+
+* Создание таблиц для финансовых и аналитических потоков по триггеру.
+
+* Интеграция в автоматизированные рабочие процессы отчетности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

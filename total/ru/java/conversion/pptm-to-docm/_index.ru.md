@@ -53,7 +53,55 @@ otherformats: DOTM DOCM RTF OTT DOT WORD FLATOPC TEXT ODT DOTX DOCMX WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Преобразование PPTM в DOCM** позволяет сохранить макросы, встроенные в слайды PowerPoint, при переходе контента в документы Word с поддержкой макросов. Это идеально подходит для бизнеса и образовательных учреждений, использующих сценарии автоматизации в своих документах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Автоматизация создания отчетов с помощью документов Word с поддержкой макросов.
+
+* Преобразование интерактивных учебных слайдов в редактируемые руководства с макросами.
+
+* Сохранение расширенных функций слайдов для корпоративных рабочих процессов.
+
+* Создание динамических шаблонов документации на основе содержимого презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запланированное преобразование для повторяющихся задач по отчетности в предприятиях.
+
+* Интеграция в автоматизацию рабочих процессов с поддержкой макросов в MS Office.
+
+* Запуск преобразования PPTM в DOCM в реальном времени для модулей живого обучения.
+
+* Генерация автоматических предложений клиентам с заранее созданными макросами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

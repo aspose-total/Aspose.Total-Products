@@ -47,7 +47,55 @@ otherformats: XLTX XLSM XLSB FODS XLT TXT SXC DIF XLTM MD ODS EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XML เป็น XLT ช่วยให้สามารถสร้างเทมเพลต Excel มาตรฐาน ทำให้ข้อมูล XML สามารถนำมาใช้ซ้ำในรายงานที่เกิดซ้ำ การวิเคราะห์ทางการเงิน และสเปรดชีทมาตรฐานของทีม
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การแปลงรายงานรายเดือนจาก XML เป็นเทมเพลต XLT ที่สามารถนำกลับมาใช้ในทีมการเงิน
+
+* เตรียมเทมเพลตการขายหรือสต็อกสินค้าจาก XML สำหรับการส่งออกเป็นรายการที่เกิดซ้ำ
+
+* แปลงข้อมูลโครงการจาก XML เป็นเทมเพลตรายงานมาตรฐาน
+
+* สร้างเทมเพลต Excel ที่สนับสนุนด้วย XML สำหรับการทำงบประมาณโดยอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XML เป็น XLT ตามกำหนดเวลาสำหรับการสร้างเทมเพลตที่เกิดซ้ำ
+
+* ประมวลผลชุดข้อมูล XML เป็นเทมเพลต Excel สำหรับแผนกหลายแผนก
+
+* การสร้าง XLT จาก XML ที่อัปโหลดเพื่อรายงานที่สม่ำเสมอ
+
+* การผสานเข้ากับท่อไซต์อัตโนมัติสำหรับการจัดการเทมเพลต XML
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

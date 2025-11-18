@@ -99,7 +99,51 @@ otherformats: TEXT DOCX FLATOPC DOTX RTF DOTM DOCM WORD ODT DOT WORDML DOC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**המרת PPTM ל-OTT** יוצרת תבניות טקסט של OpenDocument משקפי מצגת. זה מאפשר תבניות ניתנות לשימוש בסביבות משרד קוד פתוח בלי לסמוך על Microsoft Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* יצירת תבניות מסמכים תקניות עבור LibreOffice/OpenOffice.
+
+* שימוש מחדש בעיצובי שקפים לדיווח מבוסס תבנית.
+
+* המרת חומרי הדרכה לפורמטי תבניות ניתנים לעריכה.
+
+* הכנת תבניות לשיתוף פעולה של משתמשים מרובים עבור פלטפורמות קוד פתוח.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת PPTM ל-OTT מתוזמנת עבור ספריות תבניות.
+
+* שילוב עם זרימות עבודת תוכן עסקיות באוספי קוד פתוח.
+
+* יצירת תבנית בזמן אמת לשיתוף פעולה בין מחלקות מרובות.
+
+* יצירת OTT בצורה צפופה עבור מטרות הדרכה ודיווח צורף פלטפורמות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

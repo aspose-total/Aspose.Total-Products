@@ -54,7 +54,55 @@ APIを使用すると、パスワードで保護されたWORDMLドキュメン�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDMLファイルをPPS（PowerPoint Show）形式に変換すると、静的なWord文書が即座に再生されるスライドショープレゼンテーションに変わります。PPSファイルはスライドショーモードで直接開き、キオスク、トレーニングループ、および自動再生ビジネスプレゼンテーションに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* デジタルスクリーンでWordベースの企業アナウンスを自動再生する。
+
+* 展示会、小売環境、ロビー向けのキオスクスタイルプレゼンテーション。
+
+* Wordのノートから生成された自動再生の講義や教室の要約。
+
+* Wordでフォーマットされた製品シートから作成されたマーケティングスライドショー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* WordレポートからPPSへのバッチ変換を内部コミュニケーション用に。
+
+* デジタルサイネージシステム向けのスケジュールされたスライドショーエクスポート。
+
+* イベントや会議ディスプレイ向けのトリガー付きPPS生成。
+
+* DMSプラットフォームとの統合によるWord文書の自動パブリッシュとスライドショーループ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

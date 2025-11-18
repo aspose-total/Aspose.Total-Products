@@ -135,7 +135,55 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XML thành PPS tạo ra các trình diễn mở trực tiếp ở chế độ trình bày, lý tưởng cho các kiosk, báo cáo tự động hoặc bộ slide phân phối.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi báo cáo tiếp thị XML thành các trình diễn slide tự động.
+
+* Chuẩn bị lịch sự kiện XML cho hiển thị trình bày không cần người điều khiển.
+
+* Chuyển đổi nội dung đào tạo XML thành các slide sẵn sàng hiển thị.
+
+* Di dời các bản demo sản phẩm XML thành các bộ trình bày PPS sẵn sàng cho khách hàng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi XML thành PPS theo lịch trình cho hiển thị bảng điều khiển hàng ngày.
+
+* Xử lý kích hoạt các tải lên XML thành các trình diễn slide tự chạy.
+
+* Chuyển đổi XML thành PPS hàng loạt để chuẩn bị cho việc trình bày sự kiện.
+
+* Tích hợp vào đường ống báo cáo để triển khai slide không cần người điều khiển.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

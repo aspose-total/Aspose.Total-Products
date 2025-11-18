@@ -47,7 +47,55 @@ otherformats: XLTX XLSM XLSB FODS XLT TXT SXC DIF XLTM MD ODS EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XML إلى XLT يسمح بإنشاء قوالب Excel موحدة، مما يجعل بيانات XML قابلة لإعادة الاستخدام في التقارير المتكررة، والتحليل المالي، وجداول البيانات الموحدة على مستوى الفريق.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل تقارير XML الشهرية إلى قوالب XLT قابلة لإعادة الاستخدام لفرق الشؤون المالية.
+
+* إعداد قوالب XML للمبيعات أو المخزون للتصدير المتكرر.
+
+* تحويل بيانات مشروع XML إلى قوالب تقارير موحدة.
+
+* إنشاء قوالب Excel مدعومة بـ XML لسير العمل التلقائي للميزانيات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل XML إلى XLT بشكل مجدول لإنشاء قوالب متكررة.
+
+* معالجة دفعات من مجموعات بيانات XML إلى قوالب Excel لعدة أقسام.
+
+* توليد XLT بناءً على XMLs المرفوعة لتقارير متسقة.
+
+* دمجه في خطوط الأتمتة لإدارة قوالب XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

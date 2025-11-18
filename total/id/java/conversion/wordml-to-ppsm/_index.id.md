@@ -54,7 +54,55 @@ API juga memungkinkan Anda untuk mengonversi dokumen WORDML yang dilindungi kata
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi WORDML ke PPSM memungkinkan pembuatan file PowerPoint Show yang mendukung makro. Dengan makro yang disematkan, presentasi PPSM dapat menjalankan tindakan interaktif, perhitungan, penanganan formulir, dan otomatisasi berbasis data saat tayangan slide dibuka.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Presentasi pelatihan interaktif dengan penilaian otomatis dan navigasi berbasis klik.
+
+* Presentasi penjualan berbasis makro dengan pembaruan harga real-time.
+
+* Panduan produk lanjutan menggunakan transisi otomatis dan logika.
+
+* Slaid demonstrasi proses bisnis dengan perhitungan yang disematkan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Menghasilkan presentasi berbasis makro secara otomatis dari konten Word terstruktur.
+
+* Konversi berbasis pemicu untuk materi pelatihan kepatuhan atau SDM.
+
+* Pembuatan jadwal dek PPSM interaktif untuk alur kerja pengenalan.
+
+* Persiapan otomatis tayangan slide berbasis makro bulanan dari sumber data Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -102,7 +102,51 @@ otherformats: XLSM FODS XLTX TSV SXC XLSB XLS XLAM XLTM EXCEL CSV DIF XLSX XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення формату WORDML на ODS (OpenDocument Spreadsheet) забезпечує повну взаємодію з редакторами електронних таблиц відкритого коду, зберігаючи структуроване вміст Word, включаючи складні таблиці та формули.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Спільне планування проектів з використанням таблиць, створених у Word, імпортованих до електронних таблиць ODS.
+
+* Агрегація академічних або дослідницьких даних з Word-звітів.
+
+* Експорт бюджетних шаблонів та фінансових таблиць з Word в ODS.
+
+* Робочі процеси документів з відкритим кодом для НУО та урядових організацій.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Автоматизоване перетворення шаблонів Word в ODS для спільної роботи в хмарі.
+
+* Запланований експорт результатів опитувань з документів Word.
+
+* Інтеграція ETL для звітності НУО з використанням стандартних електронних таблиць.
+
+* Спровоковане перетворення звітів про відповідність з Word в ODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

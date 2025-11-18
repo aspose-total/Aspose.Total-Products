@@ -61,7 +61,55 @@ Ao converter o arquivo PPTM para XLT, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Convertendo PPTM para XLT** converte dados de apresentação em modelos de Excel legados para formatação consistente e relatórios reutilizáveis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Criando modelos de Excel reutilizáveis a partir de slides de projeto.
+
+* Padronizando relatórios financeiros com formatação consistente.
+
+* Arquivando dados de apresentação corporativos como modelos XLT.
+
+* Preparando slides educacionais ou de pesquisa como modelos reutilizáveis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão programada de PPTM para XLT para bibliotecas de modelos.
+
+* Geração em lote de modelos de relatórios padronizados.
+
+* Atualizações acionadas para criação de modelos recorrentes.
+
+* Integração com fluxos de trabalho automatizados de documentos e planilhas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

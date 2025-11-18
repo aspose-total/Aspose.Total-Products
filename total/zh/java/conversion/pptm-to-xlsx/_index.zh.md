@@ -61,7 +61,51 @@ otherformats: XLTM TSV MARKDOWN EXCEL XLSM XLSB XLAM XLTX FODS SXC XLT MHTML DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**将PPTM转换为XLSX** 将幻灯片转换为现代的Excel工作簿，完全可编辑，并与基于云的协作工具兼容。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将演示文稿中的表格和图表转换为协作电子表格。
+
+* 将幻灯片中的财务仪表板转换为可用于分析的Excel。
+
+* 将项目或营销演示文稿共享为XLSX，供远程团队使用。
+
+* 在可编辑的工作簿中存档数字和文本幻灯片内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于基于云的报告的批量自动PPTM到XLSX转换。
+
+* 从动态幻灯片内容实时触发工作簿生成。
+
+* 集成到企业工作流程和BI仪表板中。
+
+* 为定期分析报告安排XLSX生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,55 @@ otherformats: XLT DIF MARKDOWN XLAM XLSX XLSM TSV MHTML EXCEL FODS XLS SXC XLSB 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**تحويل PPTM إلى XLAM** يحول الشرائح إلى تنسيق إضافة Excel، محافظاً على الأتمتة ووظائف الماكرو لمعالجة البيانات المتقدمة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء إضافات Excel مخصصة من قوالب مستندات العرض.
+
+* تحويل الشرائح القائمة على البيانات إلى أدوات تحليلية ممكنة للماكرو.
+
+* مشاركة سكربتات أتمتة الشرائح مع مستخدمي Excel.
+
+* تطوير أدوات سير العمل التجارية قابلة لإعادة الاستخدام من مجموعات الشرائح.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* إنشاء ملفات XLAM بشكل مجدول للمهام المتكررة.
+
+* تحويل الشرائح إلى إضافة بشكل مؤقت لسير العمل التلقائية.
+
+* دمجها في أنابيب الأتمتة الخاصة بـ Excel في الشركات.
+
+* معالجة الشرائح بشكل دفعي إلى إضافات ممكنة للماكرو.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

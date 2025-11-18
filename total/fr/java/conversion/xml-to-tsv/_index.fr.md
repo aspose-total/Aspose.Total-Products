@@ -47,7 +47,51 @@ Lors de la conversion du fichier XML en TSV, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de XML en TSV fournit un format de feuille de calcul léger basé sur des délimiteurs, adapté à l'analyse, aux scripts et aux pipelines d'apprentissage automatique. Le TSV est plus facile à analyser dans les environnements Unix/Linux et évite les conflits de virgules.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Transformation des journaux de trafic web XML en TSV pour les scripts d'analyse.
+
+* Conversion des XML de catalogue de produits en TSV pour les importations en masse de bases de données.
+
+* Préparation des données d'enquête XML en tant que TSV pour l'ingestion de modèles IA/ML.
+
+* Exportation des XML de transactions financières en TSV pour les pipelines de données.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion automatisée de XML en TSV pour les flux de travail ETL nocturnes.
+
+* Génération de TSV déclenchée à partir de fichiers XML téléchargés dans le stockage cloud.
+
+* Traitement par lots des journaux de serveur XML en TSV pour les tableaux de bord d'analyse.
+
+* Intégration de la conversion XML en TSV dans les pipelines de données CI/CD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -54,7 +54,55 @@ otherformats: POWERPOINT POT PPTX PPS PPT PPSM PPSX PPTM POTX POTM CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή εγγράφων WORDML (WordprocessingML) σε ODP (OpenDocument Presentation) επιτρέπει την εύκολη μετατροπή δομημένου περιεχομένου Word σε διαφάνειες που ακολουθούν ανοιχτά πρότυπα, ιδανικές για το LibreOffice Impress και άλλα εργαλεία παρουσιάσεων ανοικτού κώδικα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+
+
+* Μετατροπή αναφορών Word σε διαδραστικές παρουσιάσεις συναντήσεων.
+
+* Μετατροπή δεδομένων έρευνας βασισμένων σε Word σε οπτικές ακαδημαϊκές διαφάνειες.
+
+* Δημιουργία εταιρικών ενημερώσεων από δομημένους πίνακες Word ανοικτού κώδικα.
+
+* Διαμοιρασμός ενημερώσεων έργων και προτάσεων χρησιμοποιώντας διαφάνειες ODP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή εβδομαδιαίων αναφορών Word σε ODP για διανομή στην ομάδα.
+
+* Ενεργοποίηση δημιουργίας διαφανειών ODP από συστήματα διαχείρισης εγγράφων.
+
+* Αυτοματοποιημένη ροή εργασίας για τη δημιουργία παρουσιάσεων από πρότυπα Word.
+
+* Ενσωμάτωση με συνεργατικές ανοικτού κώδικα αγωγούς παρουσιάσεων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ otherformats: XLT XLS TSV MHTML XLSX DIF ODS XLSM XLAM XLTM EXCEL MARKDOWN XLTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**将PPTM转换为ODS** 将演示文稿转换为OpenDocument电子表格文件，与LibreOffice、Google Sheets和其他电子表格应用程序广泛兼容。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将数字演示数据重新用于多平台使用。
+
+* 将销售和项目仪表板转换为可编辑的ODS电子表格。
+
+* 使用开源工具与客户或团队共享数据。
+
+* 将幻灯片存档为报告的电子表格文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定期项目的批量PPTM到ODS转换。
+
+* 集成到协作云端电子表格工作流程中。
+
+* 为分析仪表板触发ODS创建。
+
+* 将幻灯片自动归档为标准化的ODS文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

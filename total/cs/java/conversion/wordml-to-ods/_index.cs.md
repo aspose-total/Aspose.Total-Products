@@ -61,7 +61,51 @@ Po převodu WORDML do ODS vám [Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod formátu WORDML na formát ODS (OpenDocument Spreadsheet) poskytuje plnou interoperabilitu s editory open-source tabulek a zachovává strukturovaný obsah Wordu, včetně složitých tabulek a vzorců.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Spolupracující plánování projektů s tabulkami generovanými v Wordu importovanými do tabulek ODS.
+
+* Shromažďování akademických nebo výzkumných dat z Wordových zpráv.
+
+* Exportování rozpočtových šablon a finančních tabulek z Wordu do ODS.
+
+* Pracovní postupy s otevřeným zdrojovým kódem pro neziskové organizace a vládní organizace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaný převod šablon Wordu do ODS pro spolupráci v cloudu.
+
+* Plánovaný export výsledků průzkumu z dokumentů Word.
+
+* Integrace ETL pro reportování neziskových organizací pomocí standardních otevřených tabulek.
+
+* Spuštěný převod zpráv o souladu z Wordu do ODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

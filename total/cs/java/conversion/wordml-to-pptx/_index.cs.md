@@ -54,7 +54,55 @@ API také umožňuje převádět dokumenty WORDML chráněné heslem na PPTX. Po
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod formátu WORDML na PPTX transformuje strukturované dokumenty Wordu do standardních prezentací PowerPoint kompatibilních se všemi moderními verzemi Microsoft Office. PPTX umožňuje snadné úpravy, spolupráci a vizuální zlepšení textového obsahu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převádění výročních zpráv, návrhů a bílých knih do vizuálně atraktivních snímků.
+
+* Marketingové a prodejní prezentace odvozené přímo z šablon Wordu.
+
+* Akademické a výzkumné přednášky prezentované ve formátu profesionálních snímků.
+
+* Prezentační balíčky obchodní strategie a aktualizace projektů pro týmovou spolupráci.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný převod šablon Wordu na PPTX pro opakující se reportování.
+
+* Spouštěná generace prezentací ze zápisů z jednání vytvořených v programu Word.
+
+* Integrace s platformami pro generování obsahu pomocí umělé inteligence pro automatizované vytváření snímků.
+
+* Hromadný export PPTX pro školení, semináře a webináře.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

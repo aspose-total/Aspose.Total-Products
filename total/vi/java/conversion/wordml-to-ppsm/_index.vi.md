@@ -54,7 +54,51 @@ API cũng cho phép bạn chuyển đổi các tài liệu WORDML được bảo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi WORDML sang PPSM cho phép tạo ra các tệp PowerPoint Show hỗ trợ macro. Với các macro được nhúng, các bản trình bày PPSM có thể thực thi các hành động tương tác, tính toán, xử lý biểu mẫu và tự động hóa dữ liệu ngay khi bản trình diễn mở.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Bài thuyết trình đào tạo tương tác với chấm điểm tự động và điều hướng dựa trên click.
+
+* Bài thuyết trình bán hàng dựa trên macro với cập nhật giá thời gian thực.
+
+* Hướng dẫn sản phẩm tiên tiến sử dụng các chuyển đổi và logic tự động.
+
+* Slide thuyết trình về quy trình kinh doanh với các tính toán được nhúng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tự động tạo ra các bản trình bày dựa trên macro từ nội dung Word có cấu trúc.
+
+* Chuyển đổi dựa trên trigger cho tài liệu tuân thủ hoặc đào tạo nhân sự.
+
+* Tạo ra các bộ bài trình PPSM tương tác theo lịch trình cho quy trình tiếp nhận.
+
+* Tự động chuẩn bị các bài trình tháng macro từ nguồn dữ liệu Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

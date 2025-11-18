@@ -47,7 +47,55 @@ XMLファイルをSXCに変換するときに、出力SXCファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XMLをSXCに変換することで、従来のStarOfficeアプリケーションや古いOpenOfficeインストールとの互換性が提供され、XMLソースからエクスポートされた表形式のデータの処理が可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* XML在庫データセットをSXCに移行して、従来のシステムレポートに使用します。
+
+* XML販売データをSXCに変換して、過去の分析に使用します。
+
+* XML調査結果をSXCに変換して、オフラインでアクセス可能にします。
+
+* 古いスプレッドシートツール向けにXML学生の成績データを準備します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 予定されたXMLからSXCへの変換を行い、従来のレポートパイプラインに使用します。
+
+* オフラインSXC分析のためにXML製品カタログをバッチ処理します。
+
+* アーカイブ目的でXMLエクスポートをSXCに変換する自動トリガーを設定します。
+
+* 歴史的データ移行のためのETLパイプラインへの統合を行います。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

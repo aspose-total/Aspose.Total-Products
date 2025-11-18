@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění XML na POTX produkuje standardní šablony PowerPointu bez maker pro snadné sdílení, branding a opakované použití bez varování o bezpečnosti.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převádění XML klientů do opakovaně použitelných prezentací.
+
+* Transformace XML výukového obsahu do značkových šablon PPTX.
+
+* Příprava XML prodejních dat do vizuálních, ne-makro slidů.
+
+* Generování XML založených projektových šablon pro konzistentní týmové reportování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná konverze XML na POTX pro opakující se prezentace.
+
+* Hromadná generace XML šablon pro využití v různých odděleních.
+
+* Spouštěná konverze nahrávaných XML souborů do značkových prezentací.
+
+* Integrace s nástroji pro automatizaci pracovních postupů pro standardizaci XML založených šablon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

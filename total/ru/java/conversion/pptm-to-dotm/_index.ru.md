@@ -53,7 +53,51 @@ otherformats: DOTMX DOTMM FLATOPC DOTM TEXT WORDML OTT DOT WORD ODT RTF DOTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Преобразование PPTM в DOTM** сохраняет макросы при создании шаблонов Word, объединяя автоматизацию с повторно используемым форматированием. Это идеально подходит для организаций, использующих процессы с макросами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Автоматизация шаблонов клиентских предложений с макросами.
+
+* Стандартизация генерации отчетов с помощью макросов в различных отделах.
+
+* Преобразование динамических учебных слайдов в повторно используемые шаблоны Word.
+
+* Создание интерактивных форм из содержимого презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Генерация шаблонов с макросами в реальном времени для управления проектами.
+
+* Пакетное преобразование PPTM в DOTM для автоматизированных офисных рабочих процессов.
+
+* Интеграция в корпоративные потоки автоматизации с макросами.
+
+* Плановое обновление макро-шаблонов при изменении слайдов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

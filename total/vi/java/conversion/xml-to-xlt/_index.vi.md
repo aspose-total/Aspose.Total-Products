@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp XML sang XLT, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XML sang XLT cho phép tạo các mẫu Excel chuẩn, giúp dữ liệu XML có thể tái sử dụng cho các báo cáo định kỳ, phân tích tài chính và bảng tính chuẩn hóa trên toàn đội.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi báo cáo hàng tháng từ XML thành các mẫu XLT có thể tái sử dụng cho các nhóm tài chính.
+
+* Chuẩn bị các mẫu XML về doanh số hoặc tồn kho cho việc xuất khẩu định kỳ.
+
+* Chuyển đổi dữ liệu dự án XML thành các mẫu báo cáo chuẩn hóa.
+
+* Tạo các mẫu Excel được hỗ trợ bởi XML cho các luồng làm ngân sách tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi XML thành XLT theo lịch trình để tạo các mẫu định kỳ.
+
+* Xử lý hàng loạt các bộ dữ liệu XML thành các mẫu Excel cho nhiều bộ phận.
+
+* Kích hoạt việc tạo ra XLT từ các tệp XML được tải lên để báo cáo nhất quán.
+
+* Tích hợp vào các đường ống tự động hóa cho quản lý mẫu XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

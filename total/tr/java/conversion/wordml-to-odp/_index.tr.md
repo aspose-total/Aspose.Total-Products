@@ -54,7 +54,51 @@ API ayrıca parola korumalı WORDML belgelerini ODP'ye dönüştürmenize olanak
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDML (WordprocessingML) belgelerini ODP (OpenDocument Presentation) formatına dönüştürmek, yapılandırılmış Word içeriğini açık standart slaytlara kolayca dönüştürmeyi sağlar, LibreOffice Impress ve diğer açık kaynak sunum araçları için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Word raporlarını etkileşimli toplantı sunumlarına dönüştürme.
+
+* Word tabanlı araştırma verilerini görsel akademik slaytlara dönüştürme.
+
+* Yapılandırılmış Word tablolarından açık kaynak kurumsal brifingler oluşturma.
+
+* Evrensel ODP slaytlarını kullanarak proje güncellemelerini ve teklifleri paylaşma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Haftalık Word raporlarının takım dağıtımı için ODP'ye toplu dönüşümü.
+
+* Belge yönetim sistemlerinden ODP slaytlarının tetiklenerek oluşturulması.
+
+* Word şablonlarından sunum oluşturmak için otomatik iş akışı.
+
+* İşbirlikçi açık kaynak sunum boru hatlarıyla entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

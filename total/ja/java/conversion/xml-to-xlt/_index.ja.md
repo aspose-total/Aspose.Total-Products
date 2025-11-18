@@ -47,7 +47,51 @@ XMLファイルをXLTに変換するときに、出力XLTファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XMLをXLTに変換することで、標準化されたExcelテンプレートを作成し、XMLデータを繰り返し利用して定期レポート、財務分析、チーム全体の標準化されたスプレッドシートを作成できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 財務チーム向けに、XML月次レポートを再利用可能なXLTテンプレートに変換する。
+
+* 定期的なエクスポート用にXML販売または在庫テンプレートを準備する。
+
+* XMLプロジェクトデータを標準化されたレポートテンプレートに変換する。
+
+* 自動化された予算編成ワークフロー用のXMLベースのExcelテンプレートを作成する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的なテンプレート作成のためのスケジュールされたXMLからXLTへの変換。
+
+* 複数の部署向けにXMLデータセットをExcelテンプレートに一括処理する。
+
+* 一貫したレポート作成のためにアップロードされたXMLからXLTの生成をトリガーする。
+
+* XMLテンプレート管理のための自動化パイプラインへの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

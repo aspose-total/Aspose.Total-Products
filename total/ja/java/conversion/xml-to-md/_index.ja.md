@@ -47,7 +47,55 @@ XMLファイルをMDに変換するときに、出力MDファイル形式に透�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XMLをMarkdown（MD）に変換することで、構造化されたXMLコンテンツを軽量でウェブフレンドリーなマークアップに変換できます。Markdownは、ドキュメント、ブログ、ウィキ、およびHugo、Jekyll、またはGatsbyなどの静的サイトジェネレーターに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* XML APIドキュメントをMarkdownに変換して開発者ポータルに適用する。
+
+* XML製品仕様を読みやすいMarkdownガイドに変換する。
+
+* GitHubでホストされるプロジェクト向けにXML研究データやレポートを準備する。
+
+* オンラインナレッジベース向けにXML技術マニュアルをMarkdownに移行する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 夜間のドキュメント更新のためのスケジュールされたXMLからMDへの変換。
+
+* アップロードされたXML製品カタログからMarkdownファイルを生成するトリガー。
+
+* 静的サイト公開のためにXMLブログを一括処理してMarkdownに変換する。
+
+* CI/CDパイプラインに統合して、XMLマニュアルを自動的にMarkdownに変換する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

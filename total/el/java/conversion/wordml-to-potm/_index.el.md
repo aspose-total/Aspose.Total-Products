@@ -54,7 +54,51 @@ otherformats: POWERPOINT POTX PPT PPSM PPTM POT POTM PPSX PPTX PPS CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του WORDML σε μορφή POTM επιτρέπει τη δημιουργία προτύπων PowerPoint με macros, συνδυάζοντας δομημένα δεδομένα Word με αυτόματη λειτουργικότητα διαφανιών για διαδραστικές παρουσιάσεις.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+
+
+* Δημιουργία διαδραστικών εκπαιδευτικών ενοτήτων με ενσωματωμένες macros.
+
+* Εταιρικά πίνακες ελέγχου με macros που προέρχονται από πίνακες Word.
+
+* Διαφάνειες μοντελοποίησης οικονομικών με αυτόματους υπολογισμούς.
+
+* Εκπαιδευτικές διαφάνειες με διαδραστικά στοιχεία για e-learning.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτόματη δημιουργία προτύπων με macros από αναφορές Word.
+
+* Δημιουργία POTM με ενεργοποίηση για επαναλαμβανόμενες ενημερώσεις έργων.
+
+* Ενσωμάτωση με συστήματα LMS για αυτόματες εκπαιδευτικές διαφάνειες.
+
+* Μαζική μετατροπή περιεχομένου Word σε διαδραστικές macros PowerPoint.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -135,7 +135,55 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de XML en SWF permet de transformer le contenu XML structuré en animations Flash interactives. Bien que le SWF soit une technologie obsolète, il reste utile pour les modules d'apprentissage électronique hérités, les infographies interactives et les présentations multimédias riches.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Transformation de manuels de formation XML en tutoriels SWF interactifs.
+
+* Conversion de catalogues de produits XML en présentations animées et cliquables.
+
+* Migration de questionnaires ou évaluations basés sur XML en modules d'apprentissage Flash.
+
+* Préparation d'horaires d'événements ou de chronologies XML pour des affichages interactifs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion planifiée de XML en SWF pour les mises à jour de contenu d'apprentissage électronique.
+
+* Traitement par lots de données produits XML en catalogues SWF interactifs.
+
+* Génération déclenchée de diapositives SWF à partir du matériel de cours XML téléchargé.
+
+* Intégration avec les plateformes LMS pour une livraison automatique de contenu XML en SWF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

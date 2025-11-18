@@ -47,7 +47,55 @@ XMLファイルをXLAMに変換するときに、出力XLAMファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XMLをXLAMに変換することで、XMLデータとマクロを再利用可能なExcelアドインにカプセル化し、Excel内での自動化されたスプレッドシートソリューション、複雑な計算、カスタムワークフローを可能にします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* マネージャー向けにExcelアドインとしてXMLベースのKPI計算をパッケージ化する。
+
+* XML販売データや在庫データセットから再利用可能なダッシュボードを作成する。
+
+* ファイナンスチーム向けにマクロ対応のXMLレポーティングツールを開発する。
+
+* XLAMを介してExcelでのXMLデータ変換ワークフローを自動化する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的なビジネスレポート用のスケジュールされたXMLからXLAMへの変換。
+
+* マクロ対応アドインへのXMLフィードのバッチ処理による自動化。
+
+* 動的なExcelワークフロー用にアップロードされたXMLからのXLAM生成のトリガー。
+
+* クラウドベースのXMLからXLAMへのパイプラインにVBAスクリプトを統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

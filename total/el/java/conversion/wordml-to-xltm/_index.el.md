@@ -61,7 +61,51 @@ otherformats: XLSM XLT FODS XLSB XLS ODS XLAM XLTX XLTM SXC TSV DIF XLSX EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του WORDML σε XLTM δημιουργεί πρότυπα Excel με macros, επιτρέποντας σε οργανισμούς να μετατρέπουν δομημένα έγγραφα Word σε επαναχρησιμοποιήσιμα πρότυπα υπολογιστικών φύλλων με λογική αυτοματισμού και προκαθορισμένες διατάξεις.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Δημιουργία προτύπων Excel υψηλής ποιότητας από εκθέσεις συμμόρφωσης ή ελέγχου στο Word.
+
+* Δημιουργία επαναχρησιμοποιήσιμων φορμών με macros για τον τομέα ανθρώπινου δυναμικού, οικονομικά ή κατασκευές.
+
+* Εφαρμογή προτύπων υπολογιστικών φύλλων με τυποποιημένες διατάξεις σε όλα τα τμήματα.
+
+* Μετατροπή πινάκων σχεδιασμού έργων από το Word σε προτυποποιημένες ροές εργασίας στο Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Ροές εργασίας μετά το έγγραφο που δημιουργούν αυτόματα πρότυπα XLTM από το Word.
+
+* Δημιουργία βάσει προγράμματος για επαναλαμβανόμενες επιχειρηματικές διαδικασίες σε φύλλα εργασίας.
+
+* Ενσωμάτωση με συστήματα ERP που απαιτούν πρότυπα με macros.
+
+* Αντιγραφή προτύπων που ενεργοποιείται με τη μεταφόρτωση εγγράφων ή τη δημιουργία έργων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

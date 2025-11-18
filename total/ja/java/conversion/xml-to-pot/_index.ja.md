@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XMLをPOTに変換することで、構造化されたコンテンツを従来のPowerPointテンプレートに変換できます。この形式は、古いMicrosoft Officeワークフローを維持するユーザーや標準化されたプレゼンテーションレイアウトを配布するユーザーに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* XMLの年次報告書を従来のPowerPointテンプレートに変換する。
+
+* XMLマーケティング資産を一貫したスライドデッキ作成のために準備する。
+
+* XMLトレーニングモジュールを編集可能なPOTテンプレートに変換する。
+
+* XML製品カタログデータを標準化されたスライドレイアウトに移行する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的な企業プレゼンテーションのためのバッチXMLからPOTへの変換。
+
+* XMLマーケティングブリーフをスライドテンプレートにスケジュール変換。
+
+* アップロードされたXMLファイルをPOTスライドにトリガー処理。
+
+* 従来のPowerPointサポートを備えた自動化されたレポートパイプラインへの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

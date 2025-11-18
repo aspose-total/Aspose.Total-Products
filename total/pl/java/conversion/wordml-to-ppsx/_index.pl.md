@@ -54,7 +54,51 @@ Interfejs API umożliwia również konwersję dokumentów WORDML chronionych has
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie formatu WORDML na PPSX dostarcza pokaz slajdów oparty na XML, który otwiera się bezpośrednio w trybie pokazu slajdów i jest zoptymalizowany dla nowoczesnych środowisk PowerPoint. Pliki PPSX oferują lekką przenośność i zwiększoną kompatybilność wizualną bez konieczności stosowania makr.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Dostarczanie nowoczesnych pokazów slajdów do celów szkoleniowych, prezentacji i komunikacji wewnętrznej.
+
+* Automatyczne odtwarzanie prezentacji na wydarzeniach, targach i ekranach w poczekalniach.
+
+* Konwertowanie propozycji z Worda na gotowe do prezentacji pokazy slajdów.
+
+* Dzielenie się streszczeniami wykładów i seminariów w formacie do natychmiastowego odtwarzania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja powtarzających się raportów z Worda na PPSX do dystrybucji w zespole.
+
+* Automatyczne generowanie pokazów slajdów na wydarzenia korporacyjne i akademickie.
+
+* Wywołana konwersja z szablonów Worda na prezentacje gotowe do udostępnienia.
+
+* Integracja z systemami LMS lub intranetowymi do automatycznego wyświetlania treści z Worda.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

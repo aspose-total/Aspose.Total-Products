@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XMLファイルをODPに変換することで、構造化されたコンテンツを完全に編集可能なオープンソースプレゼンテーションに変換できます。これはLibreOffice ImpressやOpenOfficeと互換性があり、共同作業やクロスプラットフォームのスライドデッキに最適な形式です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* XMLベースのトレーニングマニュアルをODPプレゼンテーションに変換する。
+
+* 構造化されたXML製品カタログをインタラクティブなスライドデッキに変換する。
+
+* XML学術研究データを会議プレゼンテーション用に準備する。
+
+* XMLイベントスケジュールをビジュアルに魅力的なODPスライドに移行する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 企業のトレーニングプログラム向けの自動夜間XMLからODPへの変換。
+
+* XMLセールスレポートをODPプレゼンテーションテンプレートにバッチ処理する。
+
+* アップロードされたXMLコンテンツをクライアント用のスライドに変換するトリガー変換。
+
+* 構造化データからODPデッキを生成するためのETLパイプラインとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

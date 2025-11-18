@@ -135,7 +135,55 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja XML na POT pozwala na przekształcenie strukturalnej zawartości w zdezaktualizowane szablony PowerPoint. Ten format jest idealny dla użytkowników utrzymujących starsze przepływy pracy w programach Microsoft Office lub rozpowszechniających standaryzowane układy prezentacji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Konwersja rocznych raportów XML na zdezaktualizowane szablony PowerPoint.
+
+* Przygotowanie aktywów marketingowych XML do tworzenia spójnych zestawów slajdów.
+
+* Przekształcenie modułów szkoleniowych XML w edytowalne szablony POT.
+
+* Migracja danych katalogu produktów XML do standaryzowanych układów slajdów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja XML na POT dla powtarzających się prezentacji korporacyjnych.
+
+* Zaplanowana konwersja krótkich informacji marketingowych XML na szablony slajdów.
+
+* Wywoływane przetwarzanie przesłanych plików XML na slajdy POT.
+
+* Integracja z automatyzowanymi potokami raportowania z obsługą zdezaktualizowanego PowerPoint.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,51 @@ otherformats: XLT XLS TSV MHTML XLSX DIF CSV XLSM XLAM XLTM EXCEL MARKDOWN XLTX 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**המרת PPTM ל-ODS** ממירה מצגות לקבצי גיליון OpenDocument, המתאימים בצורה רחבה ל- LibreOffice, Google Sheets וליישומי גיליון נתונים אחרים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* שימוש מחודש בנתוני מצגת נומריים לשימוש רב-פלטפורמות.
+
+* המרת לוחות מחוות מכירות ופרויקטים לגיליונות נתונים ניתנים לעריכה ב-ODS.
+
+* שיתוף נתונים עם לקוחות או צוותים באמצעות כלים קוד פתוח.
+
+* ארכיבת שקופיות כמסמכי גיליון לדיווח.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת PPTM ל-ODS בצורה צפופה מתוזמנת עבור פרויקטים חוזרים.
+
+* שילוב בזרם עבודה שותפת בענן עבור גיליונות נתונים.
+
+* יצירת ODS מופעלת ללוחות מחוות נתונים.
+
+* ארכיבה אוטומטית של שקופיות לקבצי ODS תקניים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

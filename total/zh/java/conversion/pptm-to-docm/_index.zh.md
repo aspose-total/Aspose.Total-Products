@@ -52,7 +52,51 @@ otherformats: DOTM DOCM RTF OTT DOT WORD FLATOPC TEXT ODT DOTX DOCMX WORDML
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**将PPTM转换为DOCM** 可以在将内容转换为支持宏的Word文档时保留嵌入在PowerPoint幻灯片中的宏。这对于在其文档中使用自动化脚本的企业和教育工作者来说非常理想。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 使用支持宏的Word文档自动化报告生成。
+
+* 将交互式培训幻灯片转换为可编辑的宏驱动指南。
+
+* 为企业工作流程保留高级幻灯片功能。
+
+* 从演示内容创建动态文档模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为企业定期报告任务进行定时转换。
+
+* 集成到MS Office中支持宏的工作流自动化中。
+
+* 触发实时的PPTM到DOCM转换以用于实时培训模块。
+
+* 使用预先构建的宏生成自动化客户提案。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
@@ -102,6 +146,6 @@ otherformats: DOTM DOCM RTF OTT DOT WORD FLATOPC TEXT ODT DOTX DOCMX WORDML
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
-{{< /blocks/products/pf/main-wrap-class >}}-section >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -54,7 +54,55 @@ API ยังช่วยให้คุณแปลงเอกสาร WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง WORDML เป็น PPSM ช่วยให้สามารถสร้างไฟล์ PowerPoint Show ที่มีแมโครเปิดใช้งานได้ ด้วยแมโครที่ฝังอยู่ การนำเสนอ PPSM สามารถดำเนินการกระทำแบบโต้ตอบ การคำนวณ การจัดการแบบฟอร์ม และอัตโนมัติที่ใช้ข้อมูลเมื่อสไลด์โชว์เปิด
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การนำเสนอการฝึกอบรมแบบโต้ตอบพร้อมระบบการตรวจคะแนนอัตโนมัติและการนำทางด้วยการคลิก
+
+* การนำเสนอการขายที่ใช้แมโครเป็นตัวขับเคลื่อนพร้อมการอัปเดตราคาแบบเรียลไทม์
+
+* การชี้แนะผลิตภัณฑ์ขั้นสูงโดยใช้การเปลี่ยนทางและตรรกะอัตโนมัติ
+
+* สไลด์การสาธิตกระบวนการธุรกิจพร้อมการคำนวณที่ฝังอยู่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างการนำเสนอที่ใช้แมโครเป็นตัวขับเคลื่อนโดยอัตโนมัติจากเนื้อหา Word โครงสร้าง
+
+* การแปลงตามเงื่อนไขเพื่อการปฏิบัติตามหรือวัสดุการฝึกอบรมด้านทรัพยากรบุคคล
+
+* การสร้างสไลด์ PPSM แบบโต้ตอบตามตารางเวลาสำหรับกระบวนการเริ่มต้นการทำงาน
+
+* การเตรียมสไลด์โชว์ที่ใช้แมโครเป็นตัวขับเคลื่อนรายเดือนโดยอัตโนมัติจากแหล่งข้อมูล Word
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

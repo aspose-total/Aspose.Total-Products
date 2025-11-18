@@ -53,7 +53,55 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Conversion de PPTM en OTT** génère des modèles de texte OpenDocument à partir des diapositives de présentation. Cela permet d'avoir des modèles réutilisables dans des environnements de bureautique open-source sans dépendre de Microsoft Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Création de modèles de documents standardisés pour LibreOffice/OpenOffice.
+
+* Réutilisation des designs de diapositives pour des rapports basés sur des modèles.
+
+* Conversion de supports de formation en formats de modèles modifiables.
+
+* Préparation de modèles de collaboration multi-utilisateurs pour des plateformes open-source.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion planifiée de PPTM en OTT pour les bibliothèques de modèles.
+
+* Intégration avec les flux de contenu d'entreprise dans les suites open-source.
+
+* Génération de modèles en temps réel pour la collaboration entre plusieurs services.
+
+* Création en lot d'OTT pour des formations et des rapports multiplateformes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

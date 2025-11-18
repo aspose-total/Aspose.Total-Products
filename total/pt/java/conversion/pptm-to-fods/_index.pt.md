@@ -61,7 +61,55 @@ Ao converter o arquivo PPTM para FODS, você também pode adicionar marca d'águ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Convertendo PPTM para FODS** gera arquivos Flat OpenDocument Spreadsheet, ideais para compartilhar conteúdo de planilhas editáveis entre os ambientes do LibreOffice e OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Converter slides financeiros e de projetos em FODS para suites de escritório de código aberto.
+
+* Compartilhar planilhas editáveis com equipes de plataformas cruzadas.
+
+* Repurposing de tabelas de apresentação em formatos colaborativos de código aberto.
+
+* Preparar slides acadêmicos e empresariais como FODS para edição.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de PPTM para FODS para projetos colaborativos.
+
+* Atualizações programadas de dados de apresentação em planilhas de código aberto.
+
+* Geração acionada de arquivos FODS a partir de tabelas de slides dinâmicas.
+
+* Integração em sistemas de gerenciamento de conteúdo de código aberto empresarial.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

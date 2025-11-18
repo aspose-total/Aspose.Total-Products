@@ -61,7 +61,51 @@ otherformats: XLT DIF MARKDOWN XLAM XLSX XLSM TSV MHTML EXCEL FODS XLS SXC XLSB 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Преобразование PPTM в XLAM** преобразует слайды в формат Excel Add-In, сохраняя автоматизацию и функциональность макросов для расширенной обработки данных.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание пользовательских надстроек Excel из шаблонов на основе презентаций.
+
+* Преобразование слайдов, основанных на данных, в макро-включенные аналитические инструменты.
+
+* Обмен скриптами автоматизации слайдов с пользователями Excel.
+
+* Разработка повторно используемых бизнес-инструментов для рабочих процессов из слайд-дек.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое создание файлов XLAM для повторяющихся задач.
+
+* Запуск преобразования слайда в надстройку для автоматизированных рабочих процессов.
+
+* Интеграция в корпоративные конвейеры автоматизации Excel.
+
+* Пакетная обработка слайдов в макро-включенные надстройки.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

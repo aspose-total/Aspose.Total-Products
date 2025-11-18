@@ -47,7 +47,51 @@ XML dosyasını XLT'ye dönüştürürken, çıktı XLT dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML'yi XLT'ye dönüştürmek, XML verilerini tekrarlayan raporlar, finansal analizler ve ekip genelinde standartlaştırılmış elektronik tablolar için yeniden kullanılabilir hale getirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Finans ekipleri için tekrar kullanılabilir XLT şablonlarına dönüştürülen aylık XML raporları.
+
+* Tekrarlayan ihracatlar için XML satış veya envanter şablonları hazırlama.
+
+* Standartlaştırılmış raporlama şablonlarına dönüştürülen XML proje verileri.
+
+* Otomatik bütçeleme iş akışları için XML destekli Excel şablonları oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tekrar eden şablon oluşturma için zamanlanmış XML'den XLT'ye dönüşümler.
+
+* Birden fazla departman için Excel şablonlarına XML veri kümeleri toplu işleme.
+
+* Düzenli raporlama için yüklenen XML'lerden tetiklenen XLT oluşturma.
+
+* XML şablon yönetimi için otomasyon boru hatlarına entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

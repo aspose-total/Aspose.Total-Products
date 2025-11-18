@@ -47,7 +47,55 @@ otherformats: TXT MD XLT FODS XLTX EXCEL XLSB XLAM XLSM TSV XLTM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή XML σε FODS επιτρέπει τη χρήση φύλλων εργασίας που υιοθετούν ανοικτά πρότυπα για συνεργατικά και διασυνοριακά έργα. Το FODS διατηρεί τη δομή XML ενώ επιτρέπει τη συμβατότητα με φύλλα εργασίας σε LibreOffice, OpenOffice και άλλα πακέτα λογισμικού ανοικτού κώδικα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Μετατροπή XML δεδομένων προϋπολογισμού σε FODS για συλλογική επεξεργασία από ομάδα.
+
+* Μετατροπή XML αρχείων μέτρησης επιστημονικών δεδομένων σε FODS για αναπαραγώμενη έρευνα.
+
+* Μεταφορά αναφορών απόδοσης μαθητών σε XML σε εργαλεία φύλλων εργασίας ανοικτού κώδικα.
+
+* Προετοιμασία εξαγωγής XML από εφαρμογές διαχείρισης έργων για ανάλυση σε FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτόματη μετατροπή XML σε FODS καθημερινά για συστήματα αναφοράς ανοικτού κώδικα.
+
+* Μαζική επεξεργασία εξαγωγών XML από λύσεις cloud ERP σε FODS.
+
+* Μετατροπή με ενεργοποίηση για αρχεία καταγραφής έργων σε XML σε αρχεία φύλλων εργασίας ανοικτού κώδικα.
+
+* Ενσωμάτωση ροών εργασίας σε ερευνητικά εργαστήρια χρησιμοποιώντας αγωγούς XML-to-FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

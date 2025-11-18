@@ -61,7 +61,51 @@ otherformats: MHTML FODS XLSX DIF XLTX EXCEL XLAM XLSB XLSM XLTM MARKDOWN TSV XL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Μετατροπή PPTM σε XLS** μετατρέπει παρουσιάσεις σε παλαιότερα αρχεία υπολογιστικού φύλλου Excel διατηρώντας πίνακες, γραφήματα και αριθμητικό περιεχόμενο.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Αρχειοθέτηση πινάκων και γραφημάτων διαφανειών σε XLS για παλαιότερα συστήματα.
+
+* Επαναχρησιμοποίηση εταιρικών παρουσιάσεων για οικονομική ανάλυση.
+
+* Προετοιμασία εκπαιδευτικών διαφανειών ως επεξεργάσιμα φύλλα εργασίας.
+
+* Μετατροπή πινάκων ελέγχου έργων σε αρχεία XLS για αναφορές.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή PPTM σε XLS για παλαιά συστήματα αναφορών.
+
+* Προγραμματισμένη δημιουργία XLS για περιοδικές ενημερώσεις έργων.
+
+* Ενεργοποίηση δημιουργίας φύλλων εργασίας για χρηματοοικονομικές και αναλυτικές αγωγές.
+
+* Ενσωμάτωση σε αυτοματοποιημένες ροές εργασίας αναφορών.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

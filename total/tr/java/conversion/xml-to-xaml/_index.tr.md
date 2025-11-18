@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML'yi XAML'e dönüştürmek, yapılandırılmış XML verilerinin Microsoft WPF, UWP veya Xamarin uygulamalarında kullanılmasını sağlar, dinamik UI oluşturma, etkileşimli bileşenler ve veri odaklı uygulama düzenleri sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Masaüstü ve mobil uygulamalar için XML UI spesifikasyonlarını XAML'e dönüştürme.
+
+* Etkileşimli gösterge panoları için XML veri modellerini XAML bağlamalarına dönüştürme.
+
+* Dinamik kullanıcı arayüzü oluşturmak için XML yapılandırma dosyalarını hazırlama.
+
+* XML tasarım mockup'larını WPF veya UWP uygulamaları için XAML'e taşıma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Uygulamalardaki sürekli UI güncellemeleri için zamanlanmış XML'den XAML'e dönüştürme.
+
+* Dinamik gösterge panoları için XML veri setlerinin toplu işlenmesi.
+
+* Hızlı prototipleme için yüklenen XML dosyalarından tetiklenen XAML oluşturma.
+
+* XML kaynaklarından otomatik uygulama arayüzü güncellemeleri için CI/CD boru hatlarına entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

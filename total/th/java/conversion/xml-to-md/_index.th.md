@@ -47,7 +47,55 @@ otherformats: XLTM XLTX DIF XLSM XLSB TXT ODS MD XLAM XLT TSV FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XML เป็น Markdown (MD) ช่วยให้เนื้อหา XML ที่มีโครงสร้างสามารถถูกแปลงเป็น markup ที่เบา ที่เหมาะสำหรับเอกสาร บล็อก วิกิ และเครื่องมือสร้างเว็บแบบสถิตเช่น Hugo, Jekyll, หรือ Gatsby.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การแปลงเอกสาร API แบบ XML เป็น Markdown สำหรับพอร์ทัลนักพัฒนา.
+
+* การแปลงข้อมูลผลิตภัณฑ์แบบ XML เป็นคู่มือ Markdown ที่อ่านง่าย.
+
+* เตรียมข้อมูลวิจัยหรือรายงาน XML สำหรับโครงการที่โฮสต์บน GitHub.
+
+* การย้ายคู่มือเทคนิคแบบ XML เป็น Markdown สำหรับฐานความรู้ออนไลน์.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XML เป็น MD ตามกำหนดเวลาสำหรับการอัปเดตเอกสารรายวัน.
+
+* การสร้างไฟล์ Markdown จากแคตตาล็อกผลิตภัณฑ์ XML ที่อัปโหลด.
+
+* การประมวลผลกลุ่มบล็อก XML เป็น Markdown สำหรับการเผยแพร่เว็บไซต์แบบสถิต.
+
+* การรวมเข้ากับท่อ CI/CD เพื่อแปลงคู่มือ XML เป็น Markdown โดยอัตโนมัติ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

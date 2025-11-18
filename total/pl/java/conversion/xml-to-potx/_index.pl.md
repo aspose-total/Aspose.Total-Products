@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja XML na POTX generuje standardowe, pozbawione makr szablony PowerPoint do łatwego udostępniania, brandingowania i wielokrotnego użytku bez ostrzeżeń dotyczących bezpieczeństwa.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Konwersja raportów klientów XML na wielokrotnie używalne szablony prezentacji.
+
+* Przekształcanie treści szkoleniowych XML w markowe szablony PPTX.
+
+* Przygotowanie danych sprzedażowych XML na wizualne, nie-makrowe slajdy.
+
+* Generowanie szablonów projektów opartych na XML dla spójnego raportowania zespołu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja XML na POTX dla cyklicznych prezentacji.
+
+* Generowanie wsadowe szablonów XML do użytku w wielu działach.
+
+* Wywołana konwersja przesłanych plików XML na markowe prezentacje.
+
+* Integracja z narzędziami automatyzacji workflow w celu standaryzacji szablonów opartych na XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

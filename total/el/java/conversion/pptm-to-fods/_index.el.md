@@ -61,7 +61,51 @@ otherformats: XLSB EXCEL DIF ODS XLSM SXC MHTML XLAM XLSX MARKDOWN XLTX TSV XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Μετατροπή PPTM σε FODS** δημιουργεί επίπεδα αρχεία Φύλλου Εργασίας OpenDocument, ιδανικά για την κοινοποίηση επεξεργάσιμου περιεχομένου φύλλου εργασίας σε περιβάλλοντα LibreOffice και OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Μετατροπή διαφανειών οικονομικών και έργων σε FODS για πακέτα γραφείου ανοικτού κώδικα.
+
+* Κοινοποίηση επεξεργάσιμων φύλλων εργασίας σε ομάδες πολλαπλών πλατφορμών.
+
+* Επαναχρησιμοποίηση πινάκων παρουσίασης σε συνεργατικά μορφές ανοικτού κώδικα.
+
+* Προετοιμασία ακαδημαϊκών και επιχειρηματικών διαφανειών ως FODS για επεξεργασία.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή PPTM σε FODS για συνεργατικά έργα.
+
+* Προγραμματισμένες ενημερώσεις δεδομένων παρουσίασης σε φύλλα εργασίας ανοικτού κώδικα.
+
+* Ενεργοποιημένη δημιουργία αρχείων FODS από δυναμικούς πίνακες διαφανειών.
+
+* Ενσωμάτωση σε συστήματα διαχείρισης περιεχομένου ανοικτού κώδικα επιχειρηματικών επιχειρήσεων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

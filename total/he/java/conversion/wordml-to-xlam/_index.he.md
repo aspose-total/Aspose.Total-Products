@@ -102,7 +102,51 @@ otherformats: EXCEL CSV DIF XLTM FODS XLT XLSM XLTX XLSX SXC ODS XLS TSV XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+יצירת קבצי XLAM מ-WORDML מאפשרת המרת מסמכי Word לתבנית Excel Add-In, מאפשרת לנתונים להזין פונקציות מותאמות, סקריפטים לאוטומציה ולוגיקת גיליון מתקדמת. זה אידיאלי עבור צוותים שמשתמשים בהרחבות Excel המופעלות על ידי VBA.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת דגמי חישוב מבוססי Word להרחבות Excel.
+
+* פרסום לוגיקת עסקים ניתנת לשימוש דרך XLAM שנוצר מ-Word.
+
+* צוותי פיננסים וביקורת המשתמשים בהרחבות Excel אוטומטיות במקום גליונות סטטיים.
+
+* יצירת כלים אינטראקטיביים לצורכי תחזיות, תמחור או דגמים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת מסמכי Word-to-XLAM בצורה צפופה לפרסום הרחבות מעודכנות בכל הארגון.
+
+* יצירת הרחבות מופעלות באופן אוטומטי מכללי כללי ונוסחאות מבוססי Word.
+
+* אריזת XLAM מופעלת באופן אוטומטי עבור לוגיקת עסקים המאוחסנת בתבניות Word.
+
+* שילוב של זרימות עבודה מבוססות AI הממירות דרישות עסקיות להרחבות Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

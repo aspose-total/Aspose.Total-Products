@@ -47,7 +47,51 @@ XML 파일을 XLTM로 변환하는 동안 출력 XLTM 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML을 XLTM으로 변환하면 템플릿 기능과 매크로 기능이 결합되어 XML 데이터 처리 작업을 자동화하는 동적이고 재사용 가능한 Excel 시트가 가능해집니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 재무를 위한 자동 계산이 포함된 XML 지원 Excel 템플릿 준비.
+
+* XML 프로젝트 로그를 재사용 가능한 매크로 기능이 있는 템플릿으로 변환.
+
+* 반복적인 보고를 위한 XML 기반의 영업 예측 템플릿 생성.
+
+* 팀 전체 프로세스 자동화를 위한 XML 기반 XLSM 템플릿 설계.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 반복되는 비즈니스 프로세스를 위한 예약된 XML-to-XLTM 변환.
+
+* 업로드된 XML에서 트리거된 매크로 기능이 있는 템플릿 생성.
+
+* 다부서 자동화를 위한 일괄 XML-to-XLTM 변환.
+
+* 표준화된 XML 템플릿 파이프라인을 위한 기업 워크플로 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

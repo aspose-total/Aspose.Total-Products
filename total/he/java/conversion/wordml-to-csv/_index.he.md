@@ -102,7 +102,51 @@ otherformats: DIF XLTX XLTM TSV XLSX XLSM ODS FODS XLSB EXCEL SXC XLS XLT XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת מסמכי WORDML (WordprocessingML) ל-CSV (ערכים מופרדים בפסיק) מאפשרת חילוץ חלקי של טקסט מובנה, טבלאות ונתונים לצורך ניתוח גיליונות אלקטרוניים. פורמט CSV הוא קל, תואם בצורה נרחבה, ואידיאלי לייבוא לכלים לניתוח עסקי או CRM.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייצוא נתוני חשבונית או חיוב מדוחות Word לתוכנות גיליון נתונים.
+
+* שילוב תוצאות סקרים מבוססי Word בלוחות מחוונים לניתוח נתונים.
+
+* פשוט רשימות אנשי קשר וספרי טלפונים עבור אוטומציה שיווקית.
+
+* העברה מהירה של דוחות Word טבלאריים לפלטפורמות גיליון בענן.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* חילוץ צפוי בצפיפות של דוחות כספיים מ-WORDML ל-CSV.
+
+* צינון ETL אוטומטי עבור נתוני משאבי אנוש מתבניות Word.
+
+* עיבוד קדם של טפסים שנוצרו ב-Word עבור מודלי למידת מכונה.
+
+* המרות מופעלות ממערכות לניהול מסמכים ל-CSV לצורך דיווח.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

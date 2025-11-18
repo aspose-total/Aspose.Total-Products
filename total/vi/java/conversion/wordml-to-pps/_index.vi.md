@@ -54,7 +54,55 @@ API cũng cho phép bạn chuyển đổi các tài liệu WORDML được bảo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp WORDML sang định dạng PPS (PowerPoint Show) biến tài liệu Word tĩnh thành bài thuyết trình trình chiếu tức thời. Các tệp PPS mở trực tiếp ở chế độ trình chiếu, làm cho chúng lý tưởng cho các kiosks, vòng lặp đào tạo và bài thuyết trình tự chạy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tự động phát các thông báo doanh nghiệp dựa trên Word trên màn hình kỹ thuật số.
+
+* Bài thuyết trình kiểu kiosk cho triển lãm, môi trường bán lẻ hoặc sảnh.
+
+* Bài giảng tự động và tóm tắt lớp học được tạo từ ghi chú Word.
+
+* Bài thuyết trình tiếp thị được tạo từ các tờ sản phẩm được định dạng trong Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ báo cáo Word sang PPS cho giao tiếp nội bộ.
+
+* Xuất bản bài thuyết trình theo lịch trình cho hệ thống biển quảng cáo kỹ thuật số.
+
+* Tạo ra PPS theo sự kích hoạt cho hiển thị sự kiện hoặc hội nghị.
+
+* Tích hợp với các nền tảng DMS để tự động xuất bản tài liệu Word dưới dạng vòng lặp trình chiếu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

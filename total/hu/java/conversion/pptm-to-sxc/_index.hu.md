@@ -61,7 +61,51 @@ A PPTM fájl SXC formátumba konvertálásakor vízjelet is hozzáadhat a kimene
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTM átalakítása SXC formátumba** StarOffice Calc táblázatokat hoz létre diavetítés táblázataiból és diagramjaiból, támogatva a régi nyílt forráskódú irodai környezeteket.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcs felhasználási esetek" %}}
+
+
+
+* Diavetítés alapú numerikus adatok kinyerése történelmi irodai csomagok számára.
+
+* Üzleti és kutatási prezentációk előkészítése SXC táblázatokká.
+
+* Diagramok és táblázatok átalakítása újrafelhasználható táblázatformátumokká.
+
+* Prezentációs adatok archiválása régi nyílt forráskódú formátumokban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges PPTM-SXC átalakítás archiválási célokra.
+
+* SXC táblázatok kiváltott generálása platformfüggetlen használathoz.
+
+* Integráció a régi irodai automatizálási folyamatokba.
+
+* Ütemezett frissítések a történelmi adatok kinyeréséhez a diákból.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

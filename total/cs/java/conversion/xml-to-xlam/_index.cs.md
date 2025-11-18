@@ -47,7 +47,55 @@ Při převodu souboru XML na XLAM můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění XML na XLAM umožňuje zapouzdření XML dat a maker do opakovaně použitelných doplňků pro Excel, což umožňuje automatizovaná řešení tabulek, složitých výpočtů a vlastních pracovních postupů v rámci Excelu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Balení XML založených KPI výpočtů jako doplňků pro Excel pro manažery.
+
+* Vytváření opakovaně použitelných nástěnek z XML datových sad pro prodeje nebo inventář.
+
+* Vývoj nástrojů pro hlášení založených na makrech XML pro finanční týmy.
+
+* Automatizace pracovních postupů transformace XML dat v Excelu pomocí XLAM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná konverze XML na XLAM pro opakující se obchodní zprávy.
+
+* Hromadné zpracování XML datových toků do makerem podporovaných doplňků pro automatizaci.
+
+* Spuštění generování XLAM z nahrávaných XML pro dynamické pracovní postupy v Excelu.
+
+* Integrace s VBA skripty pro cloudové XML na XLAM potrubí.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ otherformats: XLSB DIF FODS XLT XLAM XLSM XLTM TXT MD EXCEL TSV SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XML เป็น XLTX จะสร้างเทมเพลต Excel มาตรฐานโดยไม่มีแมโคร ที่เหมาะสำหรับการแบ่งปันข้อมูล รายงาน และการใช้ซ้ำในทีมโดยไม่มีความเสี่ยงด้านความปลอดภัยของแมโคร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การแปลงข้อมูลการเงินจาก XML เป็น XLTX เพื่อใช้เป็นเทมเพลตทีมที่สามารถใช้ซ้ำ
+
+* เตรียมแผงควบคุมโครงการ XML สำหรับการรายงานร่วมกัน
+
+* สร้างเทมเพลตสินค้าคงคลังที่ใช้ซ้ำจาก XML สำหรับการป้อนข้อมูล
+
+* ส่งออกผลการสำรวจ XML เป็น XLTX เพื่อการจัดรูปแบบที่เหมือนกัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XML เป็น XLTX ตามกำหนดเวลาสำหรับมาตรฐานเทมเพลต
+
+* การสร้างเทมเพลตจากการอัปโหลด XML ตiggered สำหรับการรายงานที่เกิดซ้ำ
+
+* การทำงานเป็นชุดของ XML เป็น XLTX สำหรับการจัดการข้อมูลขององค์กร
+
+* การรวมเข้ากับท่อรายงานอัตโนมัติด้วยเทมเพลตที่ปลอดจากแมโคร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

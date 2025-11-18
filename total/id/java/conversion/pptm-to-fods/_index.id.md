@@ -61,7 +61,51 @@ Saat mengonversi file PPTM ke FODS, Anda juga dapat menambahkan tanda air ke for
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Mengonversi PPTM ke FODS** menghasilkan file Flat OpenDocument Spreadsheet, ideal untuk berbagi konten spreadsheet yang dapat diedit di berbagai lingkungan LibreOffice dan OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengonversi slide keuangan dan proyek ke FODS untuk suite kantor sumber terbuka.
+
+* Berbagi spreadsheet yang dapat diedit dengan tim lintas platform.
+
+* Mengubah tabel presentasi ke dalam format sumber terbuka kolaboratif.
+
+* Menyiapkan slide akademis dan bisnis sebagai FODS untuk diedit.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch PPTM ke FODS untuk proyek kolaboratif.
+
+* Pembaruan terjadwal data presentasi ke spreadsheet sumber terbuka.
+
+* Pembuatan file FODS yang dipicu dari tabel slide dinamis.
+
+* Integrasi ke dalam sistem manajemen konten sumber terbuka perusahaan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

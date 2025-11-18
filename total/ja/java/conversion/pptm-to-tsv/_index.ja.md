@@ -61,7 +61,55 @@ PPTMファイルをTSVに変換するときに、出力TSVファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTMをTSVに変換** は、スライドデータをタブ区切り値形式に変換し、データベースや分析ツールへの迅速なインポート/エクスポートを容易にします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* データベースへの表形式のプレゼンテーションコンテンツのエクスポート。
+
+* 調査や実験データスライドをTSVファイルに変換。
+
+* データアナリストとの構造化処理のためのスライド共有。
+
+* AIパワードアナリティクスのための数値スライドコンテンツの準備。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 自動化されたワークフローのためのスケジュールされたバッチPPTMからTSVへの変換。
+
+* 分析とレポートパイプラインのためのトリガーされたTSVエクスポート。
+
+* ETLプラットフォームとの統合によるスライドからデータへの変換。
+
+* コラボレーションツールへのリアルタイムスライドデータ抽出によるTSVへの変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

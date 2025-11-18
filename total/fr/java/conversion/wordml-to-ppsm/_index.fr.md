@@ -54,7 +54,55 @@ L'API vous permet également de convertir des documents WORDML protégés par mo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de WORDML en PPSM permet de créer des fichiers de diaporama PowerPoint avec macros. Avec des macros intégrées, les présentations PPSM peuvent exécuter des actions interactives, des calculs, la gestion de formulaires et l'automatisation des données dès l'ouverture du diaporama.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Présentations de formation interactives avec évaluation automatique et navigation basée sur les clics.
+
+* Présentations de vente pilotées par macro avec mises à jour de prix en temps réel.
+
+* Parcours avancés de produits utilisant des transitions et une logique automatisées.
+
+* Diapositives de démonstration de processus métier avec des calculs intégrés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Génération automatique de présentations pilotées par macro à partir de contenu structuré de Word.
+
+* Conversion basée sur des déclencheurs pour des documents de conformité ou de formation en RH.
+
+* Création planifiée de decks PPSM interactifs pour les flux de travail d'intégration.
+
+* Préparation automatique de diaporamas mensuels avec macros à partir de sources de données Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

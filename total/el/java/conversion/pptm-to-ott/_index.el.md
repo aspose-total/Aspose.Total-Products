@@ -53,7 +53,51 @@ otherformats: TEXT OTTX FLATOPC DOTX RTF DOTM OTTM WORD ODT DOT WORDML OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Μετατροπή PPTM σε OTT** δημιουργεί πρότυπα κειμένου OpenDocument από διαφάνειες παρουσιάσεων. Αυτό επιτρέπει τη χρήση επαναχρησιμοποιήσιμων προτύπων σε περιβάλλοντα γραφείου ανοικτού κώδικα χωρίς να βασίζεται στο Microsoft Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Δημιουργία τυποποιημένων προτύπων εγγράφων για το LibreOffice/OpenOffice.
+
+* Επαναχρησιμοποίηση σχεδίων διαφανειών για αναφορές με βάση πρότυπα.
+
+* Μετατροπή υλικού εκπαίδευσης σε επεξεργάσιμα μορφές προτύπων.
+
+* Προετοιμασία προτύπων συνεργασίας πολλαπλών χρηστών για πλατφόρμες ανοικτού κώδικα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένη μετατροπή PPTM σε OTT για βιβλιοθήκες προτύπων.
+
+* Ενσωμάτωση με ροές περιεχομένου επιχείρησης σε σουίτες ανοικτού κώδικα.
+
+* Πραγματικού χρόνου δημιουργία προτύπων για συνεργασία πολλαπλών τμημάτων.
+
+* Δημιουργία πακέτου OTT για εκπαιδευτικούς και αναφορικούς σκοπούς σε πολλαπλές πλατφόρμες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,51 @@ API를 사용하여 워터마크를 사용하여 PPTM 파일을 WORDML로 변환
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTM를 WordML로 변환**은 프레젠테이션 슬라이드로부터 XML 기반의 워드 문서를 생성합니다. WordML은 구조화된 문서 마크업을 보장하여 프로그래밍적 액세스와 콘텐츠 자동화를 가능하게 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 자동 문서 생성을 위해 슬라이드를 XML로 내보내기.
+
+* 프로그래밍적 워크플로우를 위해 교육 및 프레젠테이션 콘텐츠 재활용.
+
+* 데이터 주도 프로젝트를 위한 구조화된 보고서 생성.
+
+* CMS 및 DMS 플랫폼과 통합되는 문서 작성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* XML 기반 게시를 위한 일괄 PPTM-to-WordML 변환.
+
+* 구조화된 문서 워크플로우를 위한 콘텐츠 자동화 시스템 통합.
+
+* 웹 기반 문서 응용 프로그램을 위한 실시간 WordML 생성.
+
+* 프레젠테이션으로부터 XML 문서로의 자동 데이터 추출 및 재활용.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ Při převodu souboru PPTM na XLSM můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Převod PPTM na XLSM** vytváří makro-povolené sešity v Excelu, zachovávající pokročilou funkcionalitu ze snímků pro automatizaci a zpracování dat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Export interaktivních grafů ze snímků do makro-povolených sešitů v Excelu.
+
+* Převod šablon pracovního postupu z prezentace do souborů automatizace v Excelu.
+
+* Sdílení snímků s předpřipravenými makry pro finance a operace.
+
+* Vytváření opakovaně použitelných školicích nástěnek s vestavěnou automatizací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* Hromadný převod PPTM na XLSM pro opakující se automatizované zprávy.
+
+* Plánované aktualizace makro-povolených sešitů ze snímků.
+
+* Spouštění generování souborů XLSM pro podnikové pracovní postupy.
+
+* Integrace s systémy automatizace obchodních procesů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

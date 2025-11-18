@@ -61,7 +61,55 @@ WORDML를 ODS로 변환한 후 [Aspose.Cells for Java](https://products.aspose.c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDML을 ODS(OpenDocument Spreadsheet) 형식으로 변환하면 복잡한 테이블과 수식을 포함한 구조화된 Word 콘텐츠를 보존하면서 오픈 소스 스프레드시트 편집기와 완전한 상호 운용성을 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Word에서 생성된 테이블을 ODS 스프레드시트로 가져와 협업 프로젝트 계획 수립.
+
+* Word 보고서로부터 학술 또는 연구 데이터 집계.
+
+* Word에서 ODS로 예산 템플릿 및 재무 테이블 내보내기.
+
+* NGO 및 정부 기관을 위한 오픈 소스 문서 워크플로.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 클라우드 기반 협업을 위해 Word 템플릿을 ODS로 자동 변환.
+
+* Word 문서에서 설문 결과를 예약된 내보내기.
+
+* 오픈 표준 스프레드시트를 사용한 NGO 보고서용 ETL 통합.
+
+* Word에서 ODS로의 규정 준수 보고서 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

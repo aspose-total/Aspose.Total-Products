@@ -61,7 +61,23 @@ A WORDML XLS-vé konvertálása után az [Aspose.Cells for Java](https://product
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```html
+<h2>Feature Section</h2>
+
+## Key Features:
+
+- Easy to use
+- Fast performance
+- Secure data encryption
+
+<h2>Product Specifications</h2>
+
+## Color: Black
+## Size: Medium
+## Weight: 200g
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,51 @@ Saat mengonversi file PPTM ke XLT, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Mengonversi PPTM ke XLT** mengubah data presentasi menjadi template Excel warisan untuk format yang konsisten dan pelaporan yang dapat digunakan kembali.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Membuat template Excel yang dapat digunakan kembali dari slide proyek.
+
+* Standarisasi laporan keuangan dengan format yang konsisten.
+
+* Mengarsipkan data presentasi perusahaan sebagai template XLT.
+
+* Menyiapkan slide pendidikan atau penelitian sebagai template yang dapat digunakan kembali.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi PPTM ke XLT yang dijadwalkan untuk perpustakaan template.
+
+* Generasi batch template pelaporan yang distandarisasi.
+
+* Pembaruan yang dipicu untuk pembuatan template berulang.
+
+* Integrasi dengan alur kerja dokumen dan spreadsheet otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

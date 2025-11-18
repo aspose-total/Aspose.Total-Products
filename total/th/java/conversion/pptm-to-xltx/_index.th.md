@@ -61,7 +61,51 @@ otherformats: XLSX XLTX XLT SXC XLSB EXCEL ODS TSV MARKDOWN XLTM MHTML XLS XLAM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**การแปลง PPTM เป็น XLTX** ทำให้สไลด์กลายเป็นเทมเพลต Excel มาตรฐานที่เข้ากันได้กับ Office และแพลตฟอร์มบนคลาวด์ที่ทันสมัย โดยรักษาการจัดรูปแบบที่ใช้ซ้ำได้โดยไม่มีแมโคร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้างเทมเพลตโปรเจกต์หรือการเงินที่ใช้ซ้ำจากสไลด์
+
+* แปลงสไลด์การฝึกอบรมและการศึกษาเป็นเทมเพลตสเปรดชีทที่สามารถแก้ไขได้
+
+* มาตรฐานเนื้อหาการนำเสนอให้กลายเป็นรูปแบบเทมเพลต Excel
+
+* เก็บถาวรแดชบอร์ดขององค์กรเป็นเทมเพลต XLSX ทันสมัย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง PPTM เป็น XLTX แบบกลุ่มตามกำหนดเวลาสำหรับการจัดการเทมเพลต
+
+* การอัปเดตที่เรียกใช้งานสำหรับการสร้างเทมเพลตโดยอัตโนมัติ
+
+* การผสานกับการทำงานร่วมกับคลาวด์และไร้ขั้นตอนการทำงานเอกสารขององค์กร
+
+* การสร้างเทมเพลตสเปรดชีทที่ใช้ซ้ำเป็นกลุ่มสำหรับทีมระยะไกล
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

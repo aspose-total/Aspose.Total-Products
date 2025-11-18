@@ -61,7 +61,51 @@ otherformats: ODS SXC XLS MHTML XLTX XLAM FODS TSV DIF XLTM XLT XLSB XLSM XLSX M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Преобразование PPTM в TSV** выводит данные слайда в формат значений, разделенных табуляцией, облегчая быстрый импорт/экспорт в базы данных и аналитические инструменты.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт содержимого табличной презентации для загрузки в базу данных.
+
+* Преобразование слайдов с опросами или экспериментальными данными в файлы TSV.
+
+* Обмен слайдами с аналитиками данных для структурированной обработки.
+
+* Подготовка числового содержимого слайдов для аналитики на основе ИИ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое преобразование PPTM в TSV для автоматизированных рабочих процессов.
+
+* Триггерный экспорт TSV для аналитики и отчетности.
+
+* Интеграция с платформами ETL для преобразования слайдов в данные.
+
+* Извлечение данных слайдов в реальном времени в формат TSV для совместных инструментов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

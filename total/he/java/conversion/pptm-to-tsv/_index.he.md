@@ -102,7 +102,51 @@ otherformats: ODS SXC XLS MHTML XLTX XLAM FODS CSV DIF XLTM XLT XLSB XLSM XLSX M
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**המרת PPTM ל־TSV** ממירה נתוני שקפים לתבנית של ערכים מופרדים בטאב, ומקלה על ייבוא/ייצוא מהיר למסדי נתונים וכלים לניתוח.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייצוא תוכן מצגת טבלאי לצורך קליטה במסדי נתונים.
+
+* המרת שקפי נתוני סקר או ניסוי לקבצי TSV.
+
+* שיתוף שקפים עם ניתוחנים נתונים לצורך עיבוד מובנה.
+
+* הכנת תוכן שקפים מספרי לניתוח מופעל באמצעות AI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת PPTM ל־TSV בצורה מופעלת בצורה מתוזמנת לצורך זרימות עבודה אוטומטיות.
+
+* ייצוא TSV מופעל בצורה מפעילה לצרכי ניתוח ודיווח.
+
+* שילוב עם פלטפורמות ETL להמרת שקפים לנתונים.
+
+* חילוץ נתוני שקפים בזמן אמת לתבנית של ערכים מופרדים בטאב לצורך כלים שיתופיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

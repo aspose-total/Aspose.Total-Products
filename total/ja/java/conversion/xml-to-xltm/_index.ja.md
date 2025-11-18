@@ -47,7 +47,51 @@ XMLファイルをXLTMに変換するときに、出力XLTMファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XMLをXLTMに変換すると、テンプレート機能とマクロ機能が組み合わさり、繰り返しのXMLデータ処理タスクを自動化する動的で再利用可能なExcelシートが作成されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* 財務用に自動計算されたXMLベースのExcelテンプレートの準備。
+
+* XMLプロジェクトログを再利用可能なマクロ有効なテンプレートに変換。
+
+* 繰り返しのレポート作成のためのXMLベースの販売予測テンプレートの作成。
+
+* チーム全体のプロセス自動化のためのXMLパワードXLSMテンプレートの設計。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的なビジネスプロセスのためのスケジュールされたXMLからXLTMへの変換。
+
+* アップロードされたXMLからトリガーされたマクロ有効なテンプレートの作成。
+
+* 複数部門の自動化のためのバッチXMLからXLTMへの変換。
+
+* 標準化されたXMLテンプレートパイプラインのための企業ワークフローへの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

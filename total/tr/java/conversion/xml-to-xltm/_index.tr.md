@@ -47,7 +47,55 @@ XML dosyasını XLTM'ye dönüştürürken, çıktı XLTM dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML'yi XLTM'ye dönüştürmek, şablon işlevselliğini makro yetenekleriyle birleştirerek tekrarlayan XML veri işleme görevlerini otomatikleştiren dinamik, yeniden kullanılabilir Excel tablolarını mümkün kılar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Finans için otomatik hesaplamalarla desteklenen XML destekli Excel şablonları hazırlama.
+
+* XML proje günlüklerini yeniden kullanılabilir makro etkin şablonlara dönüştürme.
+
+* Tekrarlayan raporlama için XML tabanlı satış tahmin şablonları oluşturma.
+
+* Takım genelinde süreç otomasyonu için XML destekli XLSM şablonları tasarlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tekrar eden iş süreçleri için zamanlanmış XML'den XLTM'ye dönüştürmeler.
+
+* Yüklenen XML'lerden tetiklenen makro etkin şablon oluşturma.
+
+* Çok departmanlı otomasyon için toplu XML'den XLTM'ye dönüştürme.
+
+* Standartlaştırılmış XML şablonu boru hatları için kurumsal iş akışlarına entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

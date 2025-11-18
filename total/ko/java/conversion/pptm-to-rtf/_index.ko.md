@@ -53,7 +53,51 @@ API를 사용하여 워터마크를 사용하여 PPTM 파일을 RTF로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTM를 RTF로 변환**은 슬라이드를 리치 텍스트 형식 문서로 변환하여 기본 형식을 유지하면서 운영 체제 및 워드 프로세서 간의 넓은 호환성을 보장합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 프레젠테이션 콘텐츠를 보다 보편적으로 접근 가능한 형식으로 아카이빙.
+
+* 소프트웨어 제한 없이 편집 가능한 문서로 슬라이드 공유.
+
+* 기업 보고서를 크로스 플랫폼에서 읽을 수 있는 형식으로 변환.
+
+* 가벼우고 휴대 가능한 형식의 교육 안내서 작성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 레거시 시스템 통합을 위한 일괄 PPTM-to-RTF 변환.
+
+* 슬라이드를 보다 보편적인 텍스트 형식으로 내보내는 트리거된 워크플로우.
+
+* 규정 준수 목적을 위해 RTF로 프레젠테이션을 예약 아카이빙.
+
+* 접근 가능한 출력을 위한 문서 자동화 파이프라인 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

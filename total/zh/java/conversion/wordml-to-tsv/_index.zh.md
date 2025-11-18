@@ -61,7 +61,55 @@ otherformats: XLSB FODS XLS XLT SXC XLSM ODS XLTM XLSX EXCEL DIF XLTX XLAM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将WORDML转换为TSV（制表符分隔值）可以清晰提取结构化数据，保持跨列的间距和精度。TSV广泛用于数据库、分析平台和机器学习环境，因为它具有友好的模式结构。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 从基于Word的日志或报告中导出表格以进行数据库导入。
+
+* 为Python或R统计工作流程准备Word生成的数据集。
+
+* 将来自Word的结构化内容迁移到CRM或ERP环境中。
+
+* 将格式化表格转换为TSV，用于干净的AI模型训练输入。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将Word报告定期转换为TSV，用于分析仪表板。
+
+* 基于触发器的TSV导出，用于机器学习数据预处理管道。
+
+* 从Word模板批处理TSV数据，用于ETL操作。
+
+* 集成到自动化的大数据工作流程中，用于报告或可视化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

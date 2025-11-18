@@ -61,7 +61,51 @@ Lors de la conversion du fichier PPTM en SXC, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Conversion de PPTM en SXC** produit des feuilles de calcul StarOffice Calc à partir des tableaux et graphiques des diapositives, prenant en charge les environnements de bureau open source hérités.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Extraction de données numériques basées sur les diapositives pour les suites bureautiques historiques.
+
+* Préparation de présentations commerciales et de recherche sous forme de feuilles de calcul SXC.
+
+* Conversion de graphiques et tableaux en formats de feuilles de calcul réutilisables.
+
+* Archivage des données de présentation dans des formats open source hérités.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de PPTM en SXC à des fins d'archivage.
+
+* Génération déclenchée de feuilles de calcul SXC pour une utilisation multiplateforme.
+
+* Intégration dans les flux de travail d'automatisation de bureau hérités.
+
+* Mises à jour planifiées pour l'extraction de données historiques à partir des diapositives.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

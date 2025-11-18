@@ -47,7 +47,55 @@ XMLファイルをODSに変換するときに、出力ODSファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XMLをODSに変換することで、構造化されたデータを保持しつつ、オープンソースのスプレッドシートプラットフォームとの互換性を確保します。ODSはクロスプラットフォームのワークフローや共同分析に適しています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* 協力的なレビューのためにXMLベースの財務諸表をODSに変換する。
+
+* 従業員のパフォーマンス分析のためにHR XMLデータをODSに変換する。
+
+* KPIダッシュボードのためにXML電子商取引売上レポートをODSにインポートする。
+
+* 学術研究のためにXML実験データセットをODSに移行する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 週次レポート用にXMLエクスポートをODSに定期的に変換する。
+
+* ETLパイプラインがXML調査データを自動的にODSに変換する。
+
+* クラウドベースの共同作業プラットフォームでトリガーされたXMLからODSへの変換。
+
+* コンプライアンス目的でXMLログをODS形式で自動アーカイブする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

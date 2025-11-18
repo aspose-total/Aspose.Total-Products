@@ -61,7 +61,31 @@ Al convertir un archivo PPTM a XLSX, también puede agregar una marca de agua a 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+**Convertir PPTM a XLSX** convierte diapositivas en libros de Excel modernos, completamente editables y compatibles con herramientas de colaboración en la nube.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* Transformar tablas y gráficos de presentación en hojas de cálculo colaborativas.
+* Convertir paneles financieros de diapositivas a Excel para análisis.
+* Compartir presentaciones de proyectos o marketing como XLSX para equipos remotos.
+* Archivar contenido numérico y textual de diapositivas en libros de trabajo editables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* Conversión automatizada por lotes de PPTM a XLSX para informes en la nube.
+* Generación de libros de trabajo en tiempo real a partir de contenido dinámico de diapositivas.
+* Integración en flujos de trabajo empresariales y paneles de BI.
+* Generación programada de XLSX para informes analíticos recurrentes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

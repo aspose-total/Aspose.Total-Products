@@ -53,7 +53,51 @@ Pomocí API můžete také provést převod PPTM souboru na ODT s vodoznakem. Ch
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Převod PPTM na ODT** umožňuje prezentacím v PowerPointu stát se soubory OpenDocument Text, které jsou široce používány v LibreOffice, Google Docs a v prostředích pro více platforem.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Sdílení obsahu prezentace s uživateli OpenOffice nebo LibreOffice.
+
+* Převádění snímků do editovatelných textových dokumentů pro spolupracovní úpravy.
+
+* Předělávání firemních prezentací pro platformy mimo Microsoft.
+
+* Příprava zpráv a průvodců pro více platforem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaná hromadná konverze pro kancelářské balíky s otevřeným zdrojovým kódem.
+
+* Integrace do platform pro spolupráci na dokumentech jako Nextcloud nebo Google Docs.
+
+* Spouštění generování ODT pro přístupnost na více platforem.
+
+* Automatické archivování snímků jako editovatelných dokumentů pro více platforem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

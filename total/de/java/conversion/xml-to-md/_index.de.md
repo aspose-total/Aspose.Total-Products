@@ -47,7 +47,33 @@ Während Sie eine XML-Datei in MD konvertieren, können Sie Ihrem Ausgabe-MD-Dat
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## XML in Markdown umwandeln
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+Die Umwandlung von XML in Markdown (MD) ermöglicht es, strukturierte XML-Inhalte in leichtgewichtige, webfreundliche Markup-Sprache zu transformieren. Markdown eignet sich ideal für Dokumentationen, Blogs, Wikis und statische Website-Generatoren wie Hugo, Jekyll oder Gatsby.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+- Umwandlung von XML-API-Dokumentationen in Markdown für Entwicklerportale.
+- Konvertierung von XML-Produktspezifikationen in lesbare Markdown-Anleitungen.
+- Vorbereitung von XML-Forschungsdaten oder Berichten für GitHub-gehostete Projekte.
+- Migration von XML-Technikhandbüchern in Markdown für Online-Wissensdatenbanken.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+- Geplante XML-zu-MD-Konvertierung für nächtliche Dokumentationsaktualisierungen.
+- Ausgelöste Generierung von Markdown-Dateien aus hochgeladenen XML-Produktkatalogen.
+- Stapelverarbeitung von XML-Blogs in Markdown für die Veröffentlichung auf statischen Websites.
+- Integration in CI/CD-Pipelines zur automatischen Konvertierung von XML-Handbüchern in Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

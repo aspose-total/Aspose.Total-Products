@@ -47,7 +47,51 @@ XML dosyasını XLAM'ye dönüştürürken, çıktı XLAM dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML'yi XLAM'ye dönüştürmek, XML verilerini ve makroları yeniden kullanılabilir Excel eklentilerine kapsüllemeyi sağlar, böylece Excel içinde otomatik tablo çözümleri, karmaşık hesaplamalar ve özel iş akışları mümkün olur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Yöneticiler için Excel eklentileri olarak XML tabanlı KPI hesaplamalarını paketleme.
+
+* XML satış veya envanter veri kümelerinden yeniden kullanılabilir gösterge panoları oluşturma.
+
+* Finans ekipleri için makro etkin XML raporlama araçları geliştirme.
+
+* XLAM aracılığıyla Excel'de XML veri dönüşüm iş akışlarını otomatikleştirme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tekrar eden iş raporları için zamanlanmış XML'den XLAM'e dönüştürme.
+
+* Otomasyon için makro etkin eklentilere XML beslemelerinin toplu işlenmesi.
+
+* Dinamik Excel iş akışları için yüklenen XML'lerden tetiklenen XLAM oluşturma.
+
+* Bulut tabanlı XML'den XLAM boru hatları için VBA betikleriyle entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

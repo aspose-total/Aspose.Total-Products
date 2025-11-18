@@ -102,7 +102,51 @@ otherformats: XLAM XLT XLSB EXCEL XLTX SXC CSV TXT TSV XLSM MD DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XML ל-XLTM משלבת פונקציות של תבנית עם יכולות מאקרו, מאפשרת גיליון אקסל דינמי וכפוף לשימוש חוזר שמאפשר אוטומציה של משימות עיבוד נתוני XML חוזרות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* הכנת תבניות אקסל עם חישובים אוטומטיים לצורכי פיננסים.
+
+* המרת לוגי פרויקט XML לתבניות חוזרות המאפשרות מאקרו.
+
+* יצירת תבניות תחזיות מכירות מבוססות XML לדיווחים חוזרים.
+
+* עיצוב תבניות XLSM מבוססות XML לאוטומציה של תהליכים בצוות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרות XML ל-XLTM מתוזמנות עבור תהליכי עסקיים חוזרים.
+
+* יצירת תבניות עם מאקרו מופעל מהעלאת קבצי XML.
+
+* המרת קבצי XML ל-XLTM בצורה צפופה לאוטומציה במחלקות מרובות.
+
+* שילוב לתהליכי עבודה בארגון לצורך צינורות תבניות XML תקניים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

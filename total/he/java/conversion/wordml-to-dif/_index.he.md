@@ -102,7 +102,55 @@ otherformats: SXC CSV TSV XLSB XLTX ODS XLSM XLTM XLAM XLT XLS XLSX EXCEL FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת WORDML ל־DIF (תבנית התעבורה של נתונים) מקלה על תאימות עם יישומי גליון נתונים מורשים ומבטיחה ייבוא נקי של טבלאות טקסטואליות ותוכן מובנה. DIF היא אופטימלית לארכיבה, דיווח צלחת-פלטפורמה וזרימות נתונים של עסקים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* העברת ספריית כספים בתבנית Word לתוכנת גליון נתונים מורשית.
+
+* המרת טבלאות מובנות בתבנית Word לפורמטים שניתנים לאינטרופרציה עבור כלי חשבונאות.
+
+* ארכיבת דוחות פרויקט שנוצרו ב־Word לצורך שמירה על נתונים לטווח ארוך.
+
+* הכנת תוכן טבלאי עבור פלטפורמות ERP או ניתוחי עסקים לעסקים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת DIF בצורת צפיפות מדומה מדוחות פרויקט ב־Word החוזרים.
+
+* שילוב בצינורות העברת נתונים היסטוריים לפינות כספים ומשאבי אנוש.
+
+* ייצוא מבוסס טריגר לפתרונות ארכיבה אוטומטיים למסמכים.
+
+* המרה אוטומטית בזרימות עבודה של דיווחי תאימות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

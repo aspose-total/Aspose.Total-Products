@@ -135,7 +135,55 @@ Cualquier sistema operativo que pueda ejecutar Java Runtime Environment (JRE) pu
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversión de XML a XAML permite utilizar datos estructurados en XML en aplicaciones de Microsoft WPF, UWP o Xamarin, lo que posibilita la representación dinámica de la interfaz de usuario, componentes interactivos y diseños de aplicaciones basados en datos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Transformar especificaciones de interfaz de usuario en XML a XAML para aplicaciones de escritorio y móviles.
+
+* Convertir modelos de datos en XML a enlaces XAML para paneles interactivos.
+
+* Preparar archivos de configuración en XML para la generación dinámica de interfaces de usuario.
+
+* Migrar maquetas de diseño en XML a XAML para aplicaciones WPF o UWP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Conversión programada de XML a XAML para actualizaciones continuas de la interfaz de usuario en aplicaciones.
+
+* Procesamiento por lotes de conjuntos de datos en XML a XAML para paneles dinámicos.
+
+* Generación de XAML desencadenada a partir de archivos XML cargados para prototipos rápidos.
+
+* Integración en pipelines de CI/CD para actualizaciones automatizadas de la interfaz de la aplicación a partir de fuentes XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

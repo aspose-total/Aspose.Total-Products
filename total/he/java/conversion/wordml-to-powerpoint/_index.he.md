@@ -100,7 +100,55 @@ otherformats: POTX PPSM POT PPTM PPS PPT POTM PPTX ODP PPSX CSV DIF FODS ODS SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת WORDML לפורמטים סטנדרטיים של PowerPoint (PPT או PPTX) מאפשרת העברת תוכן מובנה מילים - טבלאות, תרשימים והערות - לשקפים דינמיים המתאימים ל-Microsoft PowerPoint.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת דוחות שנתיים מבוססי-Word למצגות מקצועיות.
+
+* הצעות מכירות ומצגות פיצ' מיוצרות ישירות ממסמכי Word.
+
+* הרצאות חינוכיות וחומרי הדרכה בפורמט PowerPoint.
+
+* אסטרטגיות עסקיות ומצגות לניהול פרויקטים מנתוני Word מובנים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת קבצי Word בצורה צפויה לשקפים PPTX לפגישות מנהליות מתוזמנות.
+
+* שילוב במערכות זרימה ליצירת מצגות אוטומטיות מדוחות.
+
+* יצירת שקפים מופעלת לסדנאות והרצאות הדרכה חוזרות.
+
+* יצירת מצגות אוטומטיות לפלטפורמות עסקיות מודרניות המבוססות על AI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

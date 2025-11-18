@@ -102,7 +102,27 @@ otherformats: TSV XLTX XLS XLSB XLT SXC DIF XLSM XLTM CSV FODS ODS XLAM EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Quick Start Guide
+
+<h2>Welcome to our new product!</h2>
+
+- Unpack the product carefully.
+- Connect the cables as shown in the manual.
+- Turn on the power and follow the on-screen instructions.
+
+## Troubleshooting
+
+If you encounter any issues, please try the following:
+
+1. Check all cable connections.
+2. Restart the product.
+3. Refer to the troubleshooting section in the manual.
+
+## Contact Us
+
+If the problem persists, don't hesitate to contact our customer support team at support@company.com.
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

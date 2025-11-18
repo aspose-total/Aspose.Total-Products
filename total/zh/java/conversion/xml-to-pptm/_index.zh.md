@@ -135,7 +135,51 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML转换为PPTM可创建支持宏的PowerPoint演示文稿，为专业工作流程提供动态图表、自动化幻灯片和互动内容。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将XML KPI仪表板自动化转换为PPTM幻灯片。
+
+* 将XML财务或项目报告转换为互动演示文稿。
+
+* 将XML培训内容转换为支持宏的教育幻灯片。
+
+* 准备具有动态图表和宏的XML产品演示。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时将XML转换为PPTM以进行自动报告。
+
+* 将XML文件批量处理为支持宏的幻灯片组。
+
+* 从上传的XML触发PPTM生成以用于团队仪表板。
+
+* 与VBA和工作流工具集成，实现动态演示自动化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

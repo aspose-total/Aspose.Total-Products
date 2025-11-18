@@ -61,7 +61,55 @@ otherformats: XLT XLS TSV MHTML XLSX DIF ODS XLSM XLAM XLTM EXCEL MARKDOWN XLTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**تحويل PPTM إلى ODS** يحول العروض التقديمية إلى ملفات جداول بيانات OpenDocument، متوافقة بشكل واسع مع LibreOffice وGoogle Sheets وتطبيقات جداول البيانات الأخرى.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إعادة استخدام بيانات العروض التقديمية الرقمية للاستخدام عبر منصات متعددة.
+
+* تحويل لوحات المبيعات والمشاريع إلى جداول بيانات قابلة للتحرير بتنسيق ODS.
+
+* مشاركة البيانات مع العملاء أو الفرق باستخدام أدوات مفتوحة المصدر.
+
+* أرشفة الشرائح كمستندات جداول بيانات للتقارير.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعات مجدولة من PPTM إلى ODS للمشاريع المتكررة.
+
+* دمجها في سير العمل التعاونية القائمة على السحابة لجداول البيانات.
+
+* إنشاء ODS مُحفّز لوحات تحليلية.
+
+* أرشفة تلقائية للشرائح في ملفات ODS موحدة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

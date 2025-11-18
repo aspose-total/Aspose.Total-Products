@@ -53,7 +53,51 @@ otherformats: ODTM ODT FLATOPC WORD ODTX DOT TEXT DOTM DOTX RTF WORDML OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Преобразование PPTM в ODT** позволяет презентациям PowerPoint стать файлами OpenDocument Text, широко используемыми в LibreOffice, Google Docs и межплатформенных средах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Обмен контентом презентации с пользователями OpenOffice или LibreOffice.
+
+* Преобразование слайдов в редактируемые текстовые документы для совместного редактирования.
+
+* Переиспользование корпоративных досок для платформ, не связанных с Microsoft.
+
+* Подготовка отчетов и руководств для межплатформенного использования.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное пакетное преобразование для офисных пакетов с открытым исходным кодом.
+
+* Интеграция в совместные платформы документов, такие как Nextcloud или Google Docs.
+
+* Генерация ODT по запросу для доступности на разных платформах.
+
+* Автоматическое архивирование слайдов в виде редактируемых документов для разных платформ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

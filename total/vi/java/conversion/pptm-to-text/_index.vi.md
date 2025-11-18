@@ -53,7 +53,51 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPTM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Chuyển đổi PPTM sang VĂN BẢN** cho phép trích xuất toàn bộ nội dung văn bản từ các slide trình bày vào các tệp văn bản thuần. Định dạng này lý tưởng cho phân tích nội dung, lưu trữ và tích hợp với các hệ thống phần mềm khác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Trích xuất ghi chú slide để tạo báo cáo hoặc biên bản cuộc họp.
+
+* Chuyển đổi bài thuyết trình thành kịch bản cho các mô-đun học trực tuyến.
+
+* Lưu trữ bài thuyết trình doanh nghiệp dưới dạng tệp văn bản có thể tìm kiếm.
+
+* Chuẩn bị nội dung slide cho phân tích AI dựa trên văn bản hoặc lập chỉ mục.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt PPTM sang VĂN BẢN cho các kho lưu trữ nội dung.
+
+* Trích xuất văn bản slide theo yêu cầu cho quy trình làm tài liệu tự động.
+
+* Tích hợp vào các đường ống xử lý NLP cho phân tích nội dung AI.
+
+* Chuyển đổi định kỳ của nhiều bài thuyết trình thành lưu trữ văn bản thuần.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ otherformats: XLSB EXCEL DIF ODS XLSM SXC MHTML XLAM XLSX MARKDOWN XLTX TSV XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**将PPTM转换为FODS** 生成平面OpenDocument电子表格文件，非常适合在LibreOffice和OpenOffice环境中共享可编辑的电子表格内容。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将财务和项目幻灯片转换为FODS，以供开源办公套件使用。
+
+* 与跨平台团队共享可编辑的电子表格。
+
+* 将演示文稿中的表格重新用于协作的开源格式。
+
+* 为编辑准备学术和商业幻灯片作为FODS。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量进行PPTM到FODS的转换，用于协作项目。
+
+* 定期更新演示数据到开源电子表格中。
+
+* 从动态幻灯片表格触发生成FODS文件。
+
+* 集成到企业开源内容管理系统中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

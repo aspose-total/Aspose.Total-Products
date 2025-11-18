@@ -54,7 +54,55 @@ APIを使用すると、パスワードで保護されたWORDMLドキュメン�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDMLをPPSX形式に変換すると、スライドショー形式で直接開かれ、最適化されたXMLベースのPowerPoint Showが現代のPowerPoint環境に適しています。PPSXファイルは、マクロを必要とせずに軽量で持ち運びやすく、視覚的な互換性が向上しています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+
+
+* トレーニング、プレゼンテーション、社内コミュニケーション向けの現代的なスライドショー配信。
+
+* イベント、見本市、待合室のスクリーン向けの自動再生プレゼンテーション。
+
+* Wordの提案書をプレゼンテーション用のスライドショーに変換。
+
+* 講義やセミナーの要約を即時再生形式で共有。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* チーム配布用に定期的なWordレポートをPPSXにスケジュール変換。
+
+* 企業や学術イベント向けの自動スライドショー生成。
+
+* Wordテンプレートから共有可能なプレゼンテーションへのトリガー変換。
+
+* Wordコンテンツの自動表示のためのLMSやイントラネットシステムとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

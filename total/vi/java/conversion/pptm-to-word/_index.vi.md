@@ -53,7 +53,51 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPTM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Chuyển đổi PPTM sang Word** cung cấp một quá trình chuyển đổi trực tiếp của bài thuyết trình thành tài liệu Word có thể chỉnh sửa để sử dụng ngay lập tức và hợp tác. Lý tưởng cho việc tạo báo cáo văn bản từ các slide.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi slide họp thành biên bản và báo cáo.
+
+* Tái sử dụng các bộ slide đào tạo thành tài liệu hướng dẫn hoặc hướng dẫn.
+
+* Tạo đề xuất dành cho khách hàng từ các bài thuyết trình.
+
+* Biến đổi bài thuyết trình trực quan thành tài liệu chứa nhiều văn bản.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi theo lô theo lịch trình cho báo cáo hàng tuần hoặc hàng tháng.
+
+* Tạo tài liệu theo thời gian thực cho hợp tác từ xa.
+
+* Tích hợp vào các nền tảng tự động hóa quy trình làm việc của doanh nghiệp.
+
+* Tạo tài liệu dựa trên mẫu tự động từ các bộ slide.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

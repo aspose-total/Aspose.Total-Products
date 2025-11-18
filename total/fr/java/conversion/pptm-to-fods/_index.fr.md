@@ -61,7 +61,51 @@ Lors de la conversion du fichier PPTM en FODS, vous pouvez également ajouter un
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Conversion de PPTM en FODS** génère des fichiers de feuille de calcul OpenDocument plats, idéaux pour partager du contenu de feuille de calcul modifiable entre les environnements LibreOffice et OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Conversion de diapositives financières et de projet en FODS pour les suites bureautiques open source.
+
+* Partage de feuilles de calcul modifiables avec des équipes multiplateformes.
+
+* Réutilisation de tableaux de présentation dans des formats open source collaboratifs.
+
+* Préparation de diapositives académiques et commerciales en FODS pour l'édition.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de PPTM en FODS pour des projets collaboratifs.
+
+* Mises à jour planifiées des données de présentation dans des feuilles de calcul open source.
+
+* Génération déclenchée de fichiers FODS à partir de tableaux de diapositives dynamiques.
+
+* Intégration dans des systèmes de gestion de contenu open source d'entreprise.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

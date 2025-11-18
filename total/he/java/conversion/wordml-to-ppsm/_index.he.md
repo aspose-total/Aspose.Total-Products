@@ -100,7 +100,55 @@ otherformats: PPTM PPTX POTX POT PPT ODP PPSX PPS POTM POWERPOINT CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת WORDML ל-PPSM מאפשרת יצירת קבצי מצגת PowerPoint Show עם מאקרוים מופעלים. עם מאקרוים מוטבעים, מצגות PPSM יכולות לבצע פעולות אינטראקטיביות, חישובים, טיפול בטפסים ואוטומציה מבוססת נתונים בדיוק כאשר המצגת מתחילה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* מצגות אימונים אינטראקטיביות עם ציון אוטומטי וניווט בהתבסס על לחיצה.
+
+* מצגות מכירות מופעלות על ידי מאקרוים עם עדכוני מחיר בזמן אמת.
+
+* הדרכות מוצר מתקדמות באמצעות מעברים ולוגיקה אוטומטיים.
+
+* שקופיות להדגמת תהליכי עסקים עם חישובים מוטבעים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת מצגות מופעלות מאקרו באופן אוטומטי מתוך תוכן מובנה ב-Word.
+
+* המרה בהתבסס על טריגרים לחומרי הדרכה או הכשרה במערכת התקנים או במשאבי אנוש.
+
+* יצירה מתוזמנת של מצגות PPSM אינטראקטיביות לתהליכי קליטה.
+
+* הכנת מצגות חודשיות מופעלות מאקרו ממקורות נתונים ב-Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

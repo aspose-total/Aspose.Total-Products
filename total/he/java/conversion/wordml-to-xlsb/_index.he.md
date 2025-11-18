@@ -102,7 +102,51 @@ otherformats: FODS SXC CSV ODS XLSX XLT TSV XLTX DIF EXCEL XLTM XLAM XLS XLSM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת WORDML ל-XLSB יוצרת גיליון אלקטרוני של Excel בינארי שטוען במהירות יותר, צורך פחות מקום בדיסק, ומתמודד ביעילות עם קבצי נתונים גדולים. XLSB מושלם עבור עסקים שמנהלים פעולות גיליון אלקטרוני בנפח גבוה או מחשבי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* ייצוא טבלאות פיננסיות או עסקיות מבוססות על Word לגיליונות XLSB ביצועים גבוהים.
+
+* טיפול בקבצי נתונים בפורמט CSV גדולים בתוך Excel באמצעות דחיסה בינארית.
+
+* זרימות עבודה של עסקים הדורשות פתיחה וחישוב מהירים יותר מ-XLSX או CSV.
+
+* דוחות מעבדה מובנים, יומני ביקורת, או נתוני עמיתות בפורמט גיליון אלקטרוני בינארי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה מתוזמנת מ-Word ל-XLSB עבור לוחות מחוונים של BI.
+
+* ייצוא קבצי Word בנפח גבוה ל-XLSB בינארי לביצועים.
+
+* יצירת XLSB מופעלת עבור איסופים רגולטוריים או ביקורות אוטומטיות.
+
+* אינטגרציה לצינורות ETL הדורשים סידור רציף ל-XLSB בינארי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

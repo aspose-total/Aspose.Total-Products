@@ -47,7 +47,55 @@ otherformats: XLAM EXCEL SXC XLT XLSM XLTX ODS TSV MD XLSB TXT XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή XML σε DIF επιτρέπει την άνετη κοινοποίηση δεδομένων μεταξύ παλαιών συστημάτων υπολογιστικών φύλλων και μοντέρνων εφαρμογών βασισμένων σε XML. Το DIF είναι ιδιαίτερα χρήσιμο για αριθμητικά και πίνακα δεδομένων, διατηρώντας συμβατότητα με παλαιότερο λογισμικό ενώ υποστηρίζει δομημένες ροές εργασίας.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Εισαγωγή προβλέψεων οικονομικών από XML σε παλαιά εργαλεία λογιστικής χρησιμοποιώντας DIF.
+
+* Μεταφορά συνόλων δεδομένων επιστημονικών πειραμάτων από XML σε στατιστικό λογισμικό.
+
+* Μετατροπή αποτελεσμάτων έρευνας από XML σε DIF για αρχειοθέτηση και σκοπούς συμμόρφωσης.
+
+* Χρήση του DIF για τη γέφυρα μεταξύ εξαγωγών XML ERP και παλαιότερων εφαρμογών υπολογιστικών φύλλων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Προγραμματισμένη καθημερινή μετατροπή XML σε DIF για δέσμη αναφορών.
+
+* Ενσωμάτωση αγωγού ETL για συγκέντρωση δεδομένων έρευνας.
+
+* Αυτοματοποιημένη μεταφορά εξόδων ERP βασισμένων σε XML σε ιστορικά φύλλα εργασίας DIF.
+
+* Σεναριοποιημένα σήματα για μετατροπή ανεβασμένου XML σε DIF για ανάλυση.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

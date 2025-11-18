@@ -61,7 +61,51 @@ PPTM 파일을 FODS로 변환하는 동안 출력 FODS 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTM를 FODS로 변환**은 플랫 오픈 문서 스프레드시트 파일을 생성하여, LibreOffice 및 OpenOffice 환경에서 편집 가능한 스프레드시트 콘텐츠를 공유하는 데 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 금융 및 프로젝트 슬라이드를 오픈 소스 오피스 스위트용 FODS로 변환.
+
+* 크로스 플랫폼 팀과 편집 가능한 스프레드시트 공유.
+
+* 협업 가능한 오픈 소스 형식으로 프레젠테이션 테이블 재활용.
+
+* 편집을 위해 학술 및 비즈니스 슬라이드를 FODS로 준비.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 협업 프로젝트를 위한 일괄 PPTM-to-FODS 변환.
+
+* 프레젠테이션 데이터를 오픈 소스 스프레드시트로 예약된 업데이트.
+
+* 동적 슬라이드 테이블에서 FODS 파일 생성을 트리거.
+
+* 기업용 오픈 소스 콘텐츠 관리 시스템 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,55 @@ otherformats: XLSM XLT FODS XLSB XLS ODS XLAM XLTX XLTM SXC TSV DIF XLSX EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง WORDML เป็น XLTM จะสร้างเทมเพลต Excel ที่เปิดใช้งานแมโคร ทำให้องค์กรสามารถแปลงเอกสาร Word โครงสร้างเป็นแม่แบบสเปรดชีตที่สามารถนำกลับมาใช้ได้พร้อมกับตรรกะอัตโนมัติและเลย์เอาท์ที่กำหนดไว้ล่วงหน้า
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้างเทมเพลต Excel ระดับองค์กรจากรายงานการปฏิบัติตามหรือการตรวจสอบใน Word
+
+* สร้างแบบฟอร์มที่ใช้ซ้ำโดยใช้แมโครสำหรับฝ่ายทรัพยากรบุคคล การเงิน หรือการผลิต
+
+* การใช้เทมเพลตสเปรดชีตมาตรฐานในแผนกต่างๆ
+
+* การแปลงตารางวางแผนโครงการจาก Word เป็นไวร์เฟรม Excel ที่เป็นแม่แบบ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การทำงานหลังเอกสารที่สร้างเทมเพลต XLTM โดยอัตโนมัติจาก Word
+
+* การสร้างตามกำหนดเวลาสำหรับสเปรดชีตกระบวนการธุรกิจที่เกิดซ้ำ
+
+* การผสานกับระบบ ERP ที่ต้องการเทมเพลตที่เปิดใช้งานแมโคร
+
+* การโคลนเทมเพลตที่เริ่มต้นจากการอัปโหลดเอกสารหรือการสร้างโปรเจกต์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

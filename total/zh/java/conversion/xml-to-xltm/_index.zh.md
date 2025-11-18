@@ -49,7 +49,55 @@ otherformats: XLAM XLT XLSB EXCEL XLTX SXC XLTM TXT TSV XLSM MD DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML转换为XLTM结合了模板功能和宏功能，实现了动态、可重用的Excel表格，自动化处理重复的XML数据处理任务。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 为财务准备带有自动计算的基于XML的Excel模板。
+
+* 将XML项目日志转换为可重用的带宏的模板。
+
+* 为重复报告创建基于XML的销售预测模板。
+
+* 设计基于XML的XLSM模板，用于团队范围的流程自动化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时将XML转换为XLTM，用于重复的业务流程。
+
+* 从上传的XML触发带有宏功能的模板创建。
+
+* 批量将XML转换为XLTM，用于多部门自动化。
+
+* 集成到企业工作流程中，用于标准化的XML模板流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

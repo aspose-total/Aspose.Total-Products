@@ -47,7 +47,55 @@ A XML-fájl XLAM-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLAM-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XML átalakítása XLAM-mé lehetővé teszi az XML-adatok és makrók beágyazását újrafelhasználható Excel-kiegészítőkbe, automatizált táblázatkezelési megoldásokat, bonyolult számításokat és egyedi munkafolyamatokat az Excelben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* XML-alapú KPI-számítások csomagolása Excel-kiegészítőkké menedzserek számára.
+
+* Újrafelhasználható vezérlőpultok létrehozása XML értékesítési vagy készletadatokból.
+
+* Makróval ellátott XML-jelentési eszközök fejlesztése pénzügyi csapatok számára.
+
+* Az XML adatátalakítási munkafolyamatok automatizálása az Excelben XLAM segítségével.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ütemezett XML-XLAM átalakítás ismétlődő üzleti jelentésekhez.
+
+* Tömeges feldolgozás XML adatok makróval ellátott kiegészítőkké alakításához automatizáláshoz.
+
+* Kiváltott XLAM generálás feltöltött XML-ekből dinamikus Excel-munkafolyamatokhoz.
+
+* Integráció VBA scriptekkel felhőalapú XML-XLAM csővezetékekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

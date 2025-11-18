@@ -100,7 +100,51 @@ otherformats: PPSX POTM PPSM PPTM POWERPOINT ODP PPS PPTX PPT POTX CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי WORDML לפורמט POT מאפשרת לעסקים ליצור תבניות שקופיות חוזרות באמצעות תוכן מובנה ב-Word, מאפשרת עיצוב שקופיות עקבי ומיתוג במצגות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת תבניות מצגת עם המיתוג של החברה ממסמכי Word.
+
+* יצירת תבניות להרצאות חינוכיות מהערות ב-Word.
+
+* מצגות שקופיות שניתן להשתמש בהן בשיווק, המפורטות ממסמכי Word.
+
+* חומרי הדרכה עקביים ושקופיות לסדנאות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת תוכן מ-Word לספריות תבניות במועדים קבועים.
+
+* יצירת תבניות באופן אוטומטי לעדכוני מיתוג תאגידיים.
+
+* יצירת POT בתגובה לפעולות חוזרות של חומרי הדרכה וסמינרים.
+
+* שילוב עם מערכות ניהול מצגות לשקופיות מוכנות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

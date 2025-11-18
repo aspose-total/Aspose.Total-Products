@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML'yi PPT'ye dönüştürmek, eski PowerPoint kullanıcılarının yapılandırılmış içeriği düzenlenebilir slaytlar olarak içe aktarmasına olanak tanır; iş, eğitim veya pazarlama için grafikler, tablolar ve grafikleri destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* XML eğitim materyallerini şirket içi kullanım için PPT slaytlarına dönüştürme.
+
+* XML ürün kataloglarını düzenlenebilir sunum desteklerine dönüştürme.
+
+* Yönetim incelemesi için XML proje raporlarını hazırlama.
+
+* XML finansal tablolarını eski PPT sunumlarına taşıma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tekrarlayan raporlar için zamanlanmış XML'den PPT'ye dönüşüm.
+
+* Yüklenen XML dosyalarından slayt oluşturma tetikleme.
+
+* Düzenlenebilir PPT desteklerine XML veri kümelerini toplu işleme.
+
+* Otomatik raporlama boru hatlarına entegrasyon için eski desteği.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

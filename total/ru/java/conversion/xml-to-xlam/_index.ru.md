@@ -47,7 +47,55 @@ otherformats: SXC DIF EXCEL TXT TSV XLT XLSM XLSB XLTM MD ODS FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XML в XLAM позволяет инкапсулировать данные XML и макросы в повторно используемые надстройки Excel, обеспечивая автоматизированные решения для электронных таблиц, сложные вычисления и настраиваемые рабочие процессы в Excel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Упаковка расчетов KPI на основе XML в виде надстроек Excel для менеджеров.
+
+* Создание повторно используемых панелей инструментов из наборов данных по продажам или запасам в формате XML.
+
+* Разработка инструментов отчетности на основе макросов и XML для финансовых команд.
+
+* Автоматизация рабочих процессов преобразования данных XML в Excel с помощью XLAM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запланированное преобразование XML в XLAM для повторяющихся бизнес-отчетов.
+
+* Пакетная обработка XML-потоков в макрос-включенные надстройки для автоматизации.
+
+* Генерация XLAM из загруженных XML для динамических рабочих процессов Excel.
+
+* Интеграция с сценариями VBA для облачных конвейеров XML в XLAM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

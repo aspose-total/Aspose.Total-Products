@@ -135,7 +135,51 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XML в OTP позволяет создавать многоразовые шаблоны презентаций без макросов. OTP идеально подходит для создания стандартизированных слайдов для корпоративного брендинга, академических курсов или повторяющихся мероприятий.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание корпоративных отчетных шаблонов на основе XML в формате OTP.
+
+* Преобразование учебных планов XML в шаблоны презентаций для педагогов.
+
+* Подготовка данных маркетинговой кампании XML в многоразовые слайд-деки.
+
+* Преобразование обновлений проекта XML в шаблоны OTP для последующей отчетности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запланированное преобразование XML в OTP для создания шаблонов в различных командах.
+
+* Пакетная обработка отчетов XML в шаблоны OTP для повторных презентаций.
+
+* Автоматическое преобразование XML загруженного контента в слайды, соответствующие бренду.
+
+* Интеграция с инструментами автоматизации рабочего процесса для динамического создания шаблонов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

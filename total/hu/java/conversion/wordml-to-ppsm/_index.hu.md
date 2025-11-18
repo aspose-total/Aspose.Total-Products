@@ -54,7 +54,55 @@ Az API azt is lehetővé teszi, hogy jelszóval védett WORDML dokumentumokat ko
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A WORDML átalakítása PPSM-mé lehetővé teszi a makróval ellátott PowerPoint bemutatófájlok létrehozását. A beágyazott makrókkal rendelkező PPSM bemutatók interaktív műveleteket, számításokat, űrlapkezelést és adatalapú automatizálást hajthatnak végre éppen a diavetítés megnyitásakor.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Interaktív oktatási bemutatók automatikus értékeléssel és kattintás alapú navigációval.
+
+* Makróvezérelt értékesítési bemutatók valós idejű árfrissítésekkel.
+
+* Speciális termékáttekintések automatizált átmenetekkel és logikával.
+
+* Üzleti folyamatbemutató diák beágyazott számításokkal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Makróvezérelt bemutatók automatikus generálása strukturált Word tartalomból.
+
+* Kiváltás alapú átalakítás a szabályozási vagy HR-oktatási anyagokhoz.
+
+* Interaktív PPSM csomagok ütemezett létrehozása beillesztési folyamatokhoz.
+
+* Havi makróval ellátott bemutatók automatikus előkészítése Word adatforrásokból.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,55 @@ otherformats: XLAM TXT FODS XLSM ODS EXCEL XLTM TSV XLSB DIF MD XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XML إلى Excel (.XLS) يسمح بتحرير مباشر وتصفية وتحليل البيانات المهيكلة XML داخل Excel. هذا النهج مثالي للفرق التي تدير مجموعات بيانات مثل المبيعات والمخزون وسجلات المالية في واجهات جداول بيانات مألوفة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل طلبات الشراء بتنسيق XML إلى XLS لمراجعة فريق المالية.
+
+* استيراد بيانات CRM المعتمدة على XML إلى Excel لتحليل التسويق.
+
+* إنشاء تقارير XLS من تغذيات المنتجات بتنسيق XML لتحليل التجارة الإلكترونية.
+
+* تحضير بيانات الاستشعار بتنسيق XML لتحليل الاتجاهات في Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل XML إلى XLS بشكل مجدول لتقارير الإدارة الأسبوعية.
+
+* لوحات تحكم آلية تنشئ XLS من تدفقات البيانات XML في الوقت الحقيقي.
+
+* دمج تحويل XML إلى Excel في خطوط أنابيب الأتمتة المحاسبية.
+
+* تحفيزات مستندة على السحابة تحول XML المرفوعة إلى أوراق عمل XLS قابلة للتحرير.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

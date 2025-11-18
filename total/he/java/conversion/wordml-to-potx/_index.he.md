@@ -100,7 +100,51 @@ otherformats: PPS POT PPTM POWERPOINT PPSX PPT ODP PPTX PPSM POTM CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת WORDML לפורמט POTX מאפשרת יצירת תבניות למצגות בפורמט XML המבוססות, קלות משקל, מתקנות וקלות לעריכה למצגות תדמיתיות או להרצאות חינוכיות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* עיצוב תבניות קלות מדיוק מדווחות ב-Word.
+
+* המרת הצעות מבוססות על Word למסגרות הצגה ניתנות לעריכה.
+
+* תבניות להרצאות אקדמיות למסירה עקבית בכיתה.
+
+* תבניות למצגות שיווק ומכירות בשימוש בתוכן מובנה מ-Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת מתוזמנת של תבניות Word לשקופיות POTX מבוססות XML.
+
+* זרימות עבודה אוטומטיות לתקנות הצגה תדמיתיות עסקיות.
+
+* יצירה מופעלת של מספר תבניות POTX לדוחות חוזרים.
+
+* שילוב עם פלטפורמות ניהול הצגות לעדכוני תבניות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

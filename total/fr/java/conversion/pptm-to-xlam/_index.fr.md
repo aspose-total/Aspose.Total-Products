@@ -61,7 +61,51 @@ Lors de la conversion du fichier PPTM en XLAM, vous pouvez également ajouter un
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Conversion de PPTM en XLAM** convertit les diapositives au format Excel Add-In, préservant l'automatisation et la fonctionnalité des macros pour un traitement avancé des données.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Création de compléments Excel personnalisés à partir de modèles basés sur des présentations.
+
+* Transformation des diapositives basées sur les données en outils d'analyse activés par macro.
+
+* Partage de scripts d'automatisation de diapositives avec les utilisateurs Excel.
+
+* Développement d'outils de flux de travail métier réutilisables à partir de diapositives.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Génération planifiée de fichiers XLAM pour les tâches récurrentes.
+
+* Conversion de diapositives en compléments automatisés pour des flux de travail automatisés.
+
+* Intégration dans les pipelines d'automatisation Excel d'entreprise.
+
+* Traitement par lots des diapositives en compléments activés par macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

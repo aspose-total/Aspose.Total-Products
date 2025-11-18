@@ -53,7 +53,51 @@ otherformats: DOTM TEXTM RTF WORDML DOTX TEXTX TEXT FLATOPC WORD DOT OTT ODT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Μετατροπή PPTM σε ΚΕΙΜΕΝΟ** επιτρέπει την εξαγωγή ολόκληρου του κειμένου από τις διαφάνειες παρουσιάσεων σε αρχεία απλού κειμένου. Αυτή η μορφή είναι ιδανική για ανάλυση περιεχομένου, αρχειοθέτηση και ενσωμάτωση με άλλα συστήματα λογισμικού.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Εξαγωγή σημειώσεων διαφανειών για τη δημιουργία αναφορών ή πρακτικών συνεδριάσεων.
+
+* Μετατροπή παρουσιάσεων σε σενάρια για εκπαιδευτικά μέτρα e-learning.
+
+* Αρχειοθέτηση εταιρικών παρουσιάσεων ως αναζήτησης αρχείων κειμένου.
+
+* Προετοιμασία περιεχομένου διαφανειών για ανάλυση ΤΑΙ βασισμένη σε κείμενο ή ευρετηριοποίηση.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή PPTM σε ΚΕΙΜΕΝΟ για αποθετήρια περιεχομένου.
+
+* Ενεργοποιημένη εξαγωγή κειμένου διαφανειών για αυτοματοποιημένες ροές εργασίας τεκμηρίωσης.
+
+* Ενσωμάτωση σε αγωγούς NLP για ανάλυση περιεχομένου ΤΑΙ.
+
+* Προγραμματισμένη μετατροπή πολλαπλών παρουσιάσεων σε αρχεία απλού κειμένου.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

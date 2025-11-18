@@ -54,7 +54,51 @@ API také umožňuje převádět dokumenty WORDML chráněné heslem na PPSX. Po
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod formátu WORDML na formát PPSX poskytuje prezentaci PowerPoint založenou na XML, která se otevírá přímo v režimu prezentace a je optimalizována pro moderní prostředí PowerPointu. Soubory PPSX nabízejí lehkou přenositelnost a zlepšenou vizuální kompatibilitu bez potřeby maker.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Moderní dodání prezentace pro školení, prezentace a interní komunikaci.
+
+* Automatické přehrávání prezentací pro události, veletrhy a obrazovky v čekárnách.
+
+* Převod návrhů ve Wordu na připravené prezentace.
+
+* Sdílení shrnutí přednášek a seminářů ve formátu okamžitého přehrávání.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný převod opakujících se zpráv ve Wordu do formátu PPSX pro distribuci týmu.
+
+* Automatické generování prezentací pro firemní a akademické události.
+
+* Spouštěný převod z šablon ve Wordu do prezentací připravených k sdílení.
+
+* Integrace s LMS nebo intranetovými systémy pro automatické zobrazení obsahu ve Wordu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

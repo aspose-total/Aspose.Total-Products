@@ -61,7 +61,55 @@ PPTM 파일을 DIF로 변환하는 동안 출력 DIF 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTM를 DIF로 변환**은 슬라이드 기반의 숫자 및 표 데이터를 데이터 교환 형식으로 변환하여 교차 응용 프로그램 호환성을 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 레거시 스프레드시트 애플리케이션을 위한 통계 데이터가 포함된 슬라이드 내보내기.
+
+* 연구 프레젠테이션을 DIF 호환 데이터 세트로 변환.
+
+* 마이크로소프트 소프트웨어가 아닌 소프트웨어와 숫자 슬라이드 콘텐츠 공유.
+
+* 학술 또는 기업용 교차 플랫폼 데이터 보고서 작성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 주기적 데이터 보고를 위한 자동화된 PPTM-to-DIF 변환.
+
+* 레거시 데이터 시스템을 위한 ETL 워크플로에 통합.
+
+* 표준화된 DIF 파일로 숫자 슬라이드의 일괄 변환.
+
+* 프레젠테이션에서 분석 플랫폼으로 데이터 내보내기를 트리거.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

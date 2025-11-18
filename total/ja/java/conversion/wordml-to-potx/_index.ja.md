@@ -54,7 +54,51 @@ APIを使用すると、パスワードで保護されたWORDMLドキュメン�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDMLをPOTX形式に変換することで、XMLベースのPowerPointテンプレートを作成でき、軽量化され、標準化され、企業や教育プレゼンテーションの編集が容易になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* Wordレポートから軽量なスライドテンプレートをデザインする。
+
+* Wordベースの提案を編集可能なプレゼンテーションフレームワークに変換する。
+
+* 一貫した教室での授業配信のための学術講義テンプレート。
+
+* 構造化されたWordコンテンツを使用したマーケティングおよび営業プレゼンテーションテンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* Wordテンプレートを定期的にXMLベースのPOTXスライドに変換する。
+
+* 企業プレゼンテーションの標準化のための自動化されたワークフロー。
+
+* 定期的なレポートのための複数のPOTXテンプレートの作成をトリガーする。
+
+* テンプレートの更新のためのプレゼンテーション管理プラットフォームとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

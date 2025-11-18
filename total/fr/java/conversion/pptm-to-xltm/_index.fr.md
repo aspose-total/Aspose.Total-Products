@@ -61,7 +61,55 @@ Lors de la conversion du fichier PPTM en XLTM, vous pouvez également ajouter un
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Conversion de PPTM en XLTM** produit des modèles Excel activés par macro à partir du contenu des diapositives, idéal pour les rapports pilotés par l'automatisation et les modèles d'entreprise réutilisables.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Génération de modèles activés par macro à partir de tableaux de bord de présentation.
+
+* Normalisation des flux de travail de finance, d'opérations et de projets.
+
+* Conversion des diapositives interactives en modèles Excel réutilisables.
+
+* Archivage des flux de travail de reporting automatisés en tant que fichiers XLTM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de PPTM en XLTM pour les bibliothèques de modèles d'entreprise.
+
+* Mises à jour déclenchées pour les modèles activés par macro automatisés.
+
+* Intégration avec les systèmes d'automatisation des processus métier.
+
+* Génération planifiée de modèles pour les rapports d'entreprise récurrents.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

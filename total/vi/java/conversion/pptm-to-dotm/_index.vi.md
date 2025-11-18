@@ -53,7 +53,51 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPTM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Chuyển đổi PPTM sang DOTM** bảo toàn các macro trong khi tạo các mẫu Word, kết hợp tự động hóa với định dạng có thể tái sử dụng. Điều này rất lý tưởng cho các tổ chức tận dụng các quy trình hỗ trợ macro.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tự động hóa các mẫu đề xuất cho khách hàng với macro.
+
+* Chuẩn hóa việc tạo báo cáo dựa trên macro trên các bộ phận.
+
+* Chuyển đổi các slide đào tạo động thành các mẫu Word có thể tái sử dụng.
+
+* Tạo các biểu mẫu tương tác từ nội dung trình bày.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo mẫu có macro thời gian thực cho quản lý dự án.
+
+* Chuyển đổi hàng loạt từ PPTM sang DOTM cho các luồng làm việc văn phòng tự động hóa.
+
+* Tích hợp vào các đường ống tự động hóa doanh nghiệp với macro.
+
+* Cập nhật định kỳ các mẫu có macro từ các bộ slide thay đổi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,51 @@ otherformats: XLSB ODS FODS TXT XLSM XLT MD SXC EXCEL XLTX TSV DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή XML σε SXC παρέχει συμβατότητα με εφαρμογές StarOffice παλαιότερων εκδόσεων και παλαιότερες εγκαταστάσεις OpenOffice, επιτρέποντας την χειρισμό πινάκων δεδομένων που εξάγονται από πηγές XML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Μεταφορά συνόλων δεδομένων αποθεμάτων XML σε SXC για αναφορές συστήματος παλαιότερων εκδόσεων.
+
+* Μετατροπή εξαγωγών πωλήσεων XML σε SXC για ιστορική αναλυτική αξιολόγηση.
+
+* Μετασχηματισμός αποτελεσμάτων έρευνας XML σε SXC για αποκλειστική πρόσβαση.
+
+* Προετοιμασία δεδομένων βαθμολογίας φοιτητών XML για παλαιότερα εργαλεία φύλλων εργασίας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένη μετατροπή XML σε SXC για παλαιά συστήματα αναφορών.
+
+* Επεξεργασία πακέτων καταλόγων προϊόντων XML για ανάλυση SXC εκτός σύνδεσης.
+
+* Αυτοματοποιημένες ενέργειες μετατροπής εξαγωγών XML σε SXC για αρχειοθετικούς σκοπούς.
+
+* Ενσωμάτωση σε αγωγούς ETL για μετανάστευση ιστορικών δεδομένων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

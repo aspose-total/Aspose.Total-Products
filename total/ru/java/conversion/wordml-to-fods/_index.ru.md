@@ -61,7 +61,51 @@ otherformats: ODS XLS TSV XLSM XLSX EXCEL SXC XLAM XLTM XLT XLSB XLTX FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование WORDML в FODS (Flat OpenDocument Spreadsheet) обеспечивает совместимость с электронными таблицами стандарта открытого исходного кода с LibreOffice, OpenOffice и другими платформами с открытым исходным кодом. Идеально подходит для пользователей, нуждающихся в рабочих процессах документов на различных платформах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт структурированных таблиц Word для совместных проектов электронных таблиц с открытым исходным кодом.
+
+* Подготовка данных на основе Word для исследований и академического анализа.
+
+* Обмен структурированными данными о стоимости проекта в универсальных форматах.
+
+* Преобразование протоколов совещаний Word с встроенными таблицами в редактируемые электронные таблицы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетная генерация FODS из повторяющейся документации Word.
+
+* Автоматизированная интеграция с платформами отчетности с открытым исходным кодом.
+
+* Автоматический экспорт FODS для совместных академических проектов.
+
+* ETL-конвейеры для преобразования структурированных форм Word для аналитики исследований.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,51 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή XML σε SWF επιτρέπει τη μετατροπή δομημένου περιεχομένου XML σε διαδραστικές κινούμενες εικόνες Flash. Παρόλο που το SWF είναι τεχνολογία παλαιού τύπου, εξακολουθεί να είναι χρήσιμο για παλαιά μοντέλα e-learning, διαδραστικές γραφικές αναπαραστάσεις και πλούσιες πολυμεσικές παρουσιάσεις.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Μετατροπή εγχειριδίων εκπαίδευσης XML σε διαδραστικά μαθήματα SWF.
+
+* Μετατροπή καταλόγων προϊόντων XML σε κινούμενες, κλικαριστές παρουσιάσεις.
+
+* Μεταφορά κουίζ ή αξιολογήσεων βασισμένων σε XML σε μονάδες μάθησης Flash.
+
+* Προετοιμασία προγραμμάτων εκδηλώσεων ή χρονοδιαγραμμάτων XML για διαδραστικές εμφανίσεις.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένη μετατροπή XML σε SWF για ενημερώσεις περιεχομένου e-learning.
+
+* Μαζική επεξεργασία δεδομένων προϊόντων XML σε διαδραστικούς καταλόγους SWF.
+
+* Ενεργοποιημένη δημιουργία διαφανειών SWF από ανεβασμένο υλικό μαθήματος XML.
+
+* Ενσωμάτωση με πλατφόρμες LMS για αυτόματη παράδοση περιεχομένου XML σε SWF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

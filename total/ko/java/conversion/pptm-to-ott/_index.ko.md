@@ -53,7 +53,51 @@ API를 사용하여 워터마크를 사용하여 PPTM 파일을 OTT로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTM을 OTT로 변환**은 프레젠테이션 슬라이드에서 OpenDocument Text 템플릿을 생성합니다. 이를 통해 Microsoft Word에 의존하지 않고 오픈 소스 오피스 환경에서 재사용 가능한 템플릿을 만들 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LibreOffice/OpenOffice를 위한 표준 문서 템플릿 생성.
+
+* 템플릿 기반 보고서 작성을 위한 슬라이드 디자인 재활용.
+
+* 편집 가능한 템플릿 형식으로 교육 자료 변환.
+
+* 오픈 소스 플랫폼을 위한 다중 사용자 협업 템플릿 준비.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 템플릿 라이브러리를 위한 예약된 PPTM-to-OTT 변환.
+
+* 오픈 소스 스위트의 기업 콘텐츠 워크플로와의 통합.
+
+* 다부서 협업을 위한 실시간 템플릿 생성.
+
+* 크로스 플랫폼 교육 및 보고 목적을 위한 일괄 OTT 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

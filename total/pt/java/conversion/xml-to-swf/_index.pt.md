@@ -135,7 +135,51 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter XML para SWF permite que o conteúdo estruturado em XML seja transformado em animações interativas em Flash. Embora o SWF seja uma tecnologia legada, ainda é útil para módulos de e-learning legados, infográficos interativos e apresentações multimídia ricas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Transformar manuais de treinamento em XML em tutoriais interativos em SWF.
+
+* Converter catálogos de produtos em XML em apresentações animadas e clicáveis.
+
+* Migrar questionários ou avaliações baseados em XML para módulos de e-learning em Flash.
+
+* Preparar cronogramas ou horários de eventos em XML para exibições interativas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão programada de XML para SWF para atualizações de conteúdo de e-learning.
+
+* Processamento em lote de dados de produtos em XML para catálogos interativos em SWF.
+
+* Geração acionada de slides SWF a partir de material de curso em XML enviado.
+
+* Integração com plataformas LMS para entrega automática de conteúdo de XML para SWF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

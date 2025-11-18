@@ -100,7 +100,55 @@ otherformats: POTM ODP PPTX POT POWERPOINT POTX PPSX PPSM PPTM PPT CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי WORDML לתבנית PPS (PowerPoint Show) משנה מסמכי Word סטטיים למצגות תצוגה מיידית. קבצי PPS נפתחים ישירות במצב מצגת, ולכן הם אידיאליים לקיוסקים, לולאות הדרכה ומצגות עסקיות שרצות באופן אוטומטי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* הצגת הודעות תדמית עסקיות מבוססות Word באופן אוטומטי על מסכים דיגיטליים.
+
+* מצגות בסגנון קיוסק לתערוכות, סביבות קמעונאות או לובים.
+
+* הרצת הרצאות וסיכומי כיתה שנוצרו מהערות Word.
+
+* מצגות שיווקיות שנוצרו מגליונות מוצר מעוצבים ב-Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רציפה מדוחות Word ל-PPS לצורך תקשורת פנימית.
+
+* ייצוא של מצגות באופן מתוזמן למערכות תצוגה דיגיטליות.
+
+* יצירת PPS מופעלים באופן חיצוני לתצוגת אירועים או כנפים.
+
+* שילוב עם פלטפורמות DMS לפרסום אוטומטי של מסמכי Word כלולי מצגות תצוגה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

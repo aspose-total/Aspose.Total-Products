@@ -61,7 +61,55 @@ PPTM dosyasını TSV'ye dönüştürürken, çıktı TSV dosya biçiminize de fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTM'yi TSV'ye Dönüştürme**, slayt verilerini Sekmeyle Ayrılmış Değerler formatına dönüştürerek veritabanlarına ve analiz araçlarına hızlı bir şekilde aktarımını/veri çıkışını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Veritabanı alımı için tablo şeklinde sunum içeriğini dışa aktarma.
+
+* Anket veya deneysel veri slaytlarını TSV dosyalarına dönüştürme.
+
+* Veri analistleriyle yapılandırılmış işleme için slaytları paylaşma.
+
+* Yapay zeka destekli analizler için sayısal slayt içeriğini hazırlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Otomatik iş akışları için zamanlanmış toplu PPTM'den TSV'ye dönüştürme.
+
+* Analiz ve raporlama akışları için tetiklenmiş TSV dışa aktarımı.
+
+* Slaytı veriye dönüştürme için ETL platformlarıyla entegrasyon.
+
+* İşbirlikçi araçlar için TSV'ye gerçek zamanlı slayt verisi çıkarma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

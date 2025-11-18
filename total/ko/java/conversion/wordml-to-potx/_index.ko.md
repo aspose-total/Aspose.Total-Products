@@ -54,7 +54,51 @@ API를 사용하면 암호로 보호된 WORDML 문서를 POTX로 변환할 수�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDML을 POTX 형식으로 변환하면 경량화되고 표준화된 XML 기반 PowerPoint 템플릿을 만들어 기업 또는 교육용 프레젠테이션을 쉽게 편집할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Word 보고서에서 경량 슬라이드 템플릿 디자인.
+
+* Word 기반 제안서를 편집 가능한 프레젠테이션 프레임워크로 변환.
+
+* 일관된 강의 전달을 위한 학술 강의 템플릿.
+
+* 구조화된 Word 콘텐츠를 활용한 마케팅 및 영업 프레젠테이션 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* Word 템플릿을 XML 기반 POTX 슬라이드로 예약된 변환.
+
+* 기업 프레젠테이션 표준화를 위한 자동화된 워크플로우.
+
+* 반복 보고서를 위한 여러 POTX 템플릿의 트리거 생성.
+
+* 템플릿 업데이트를 위한 프레젠테이션 관리 플랫폼 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

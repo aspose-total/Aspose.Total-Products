@@ -47,7 +47,55 @@ otherformats: XLAM XLT XLSB EXCEL XLTX SXC XLTM TXT TSV XLSM MD DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XML в XLTM объединяет функциональность шаблонов с возможностями макросов, обеспечивая динамические, многократно используемые листы Excel, автоматизирующие повторяющиеся задачи обработки данных XML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Подготовка шаблонов Excel с автоматическими расчетами для финансов на основе XML.
+
+* Преобразование журналов проектов XML в многократно используемые шаблоны с поддержкой макросов.
+
+* Создание шаблонов прогнозирования продаж на основе XML для повторяющейся отчетности.
+
+* Разработка шаблонов XLSM на основе XML для автоматизации процессов на уровне команды.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запланированные преобразования XML в XLTM для повторяющихся бизнес-процессов.
+
+* Создание шаблонов с поддержкой макросов на основе XML при загрузке файлов XML.
+
+* Пакетное преобразование XML в XLTM для автоматизации работы нескольких отделов.
+
+* Интеграция в корпоративные рабочие процессы для стандартизированных потоков работы с шаблонами XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

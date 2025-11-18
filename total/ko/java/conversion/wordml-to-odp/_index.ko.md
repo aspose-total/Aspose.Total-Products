@@ -54,7 +54,51 @@ API를 사용하면 암호로 보호된 WORDML 문서를 ODP로 변환할 수도
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDML (WordprocessingML) 문서를 ODP (OpenDocument Presentation)로 변환하면 구조화된 Word 콘텐츠를 오픈 표준 슬라이드로 쉽게 변환할 수 있어서 LibreOffice Impress 및 기타 오픈 소스 프레젠테이션 도구에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Word 보고서를 대화식 회의 프레젠테이션으로 변환하기.
+
+* Word 기반의 연구 데이터를 시각적 학술 슬라이드로 변환하기.
+
+* 구조화된 Word 테이블에서 오픈 소스 기업 브리핑 작성하기.
+
+* 보편적인 ODP 슬라이드를 사용하여 프로젝트 업데이트 및 제안 공유하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 팀 배포를 위해 매주 Word 보고서를 ODP로 일괄 변환하기.
+
+* 문서 관리 시스템에서 ODP 슬라이드의 트리거 생성하기.
+
+* Word 템플릿에서 프레젠테이션 생성을 위한 자동화된 워크플로우.
+
+* 협업형 오픈 소스 프레젠테이션 파이프라인과 통합하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,55 @@ XML dosyasını TSV'ye dönüştürürken, çıktı TSV dosya biçiminize filigr
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML'yi TSV'ye dönüştürmek, analiz, betik ve makine öğrenimi boru hatları için uygun hafif, sınırlayıcı tablo biçemini sağlar. TSV, Unix/Linux ortamlarında ayrıştırması daha kolaydır ve virgül çakışmalarını önler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* XML web trafiği günlüklerini analiz betikleri için TSV'ye dönüştürme.
+
+* Ürün kataloğu XML'lerini toplu veritabanı içe aktarmaları için TSV'ye dönüştürme.
+
+* AI/ML modeli alımı için XML anket verilerini TSV olarak hazırlama.
+
+* Veri boru hatları için finansal işlem XML'lerini TSV'ye aktarma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Geceleyin ETL iş akışları için otomatik XML'ten TSV'ye dönüşüm.
+
+* Bulut depolamadaki yüklenen XML dosyalarından tetiklenen TSV oluşturma.
+
+* Analiz panoları için XML sunucu günlüklerinin toplu işlenmesi.
+
+* XML'den TSV'ye dönüşümü CI/CD veri boru hatlarına entegre etme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

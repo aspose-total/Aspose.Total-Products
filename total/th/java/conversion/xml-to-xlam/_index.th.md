@@ -47,7 +47,51 @@ otherformats: SXC DIF EXCEL TXT TSV XLT XLSM XLSB XLTM MD ODS FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XML เป็น XLAM ช่วยให้สามารถห่อหุ้มข้อมูล XML และแมโครลงใน Excel add-ins ที่สามารถนำมาใช้ซ้ำได้ ทำให้เป็นโซลูชันสำหรับสเปรดชีตที่อัตโนมัติ การคำนวณที่ซับซ้อน และการทำงานที่กำหนดเองภายใน Excel
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* การแพ็คเกจการคำนวณ KPI ที่ใช้ XML เป็น Excel add-ins สำหรับผู้จัดการ
+
+* การสร้างแดชบอร์ดที่ใช้ซ้ำจากชุดข้อมูลขายหรือสต็อก XML
+
+* การพัฒนาเครื่องมือรายงาน XML ที่เปิดใช้งานแมโครสำหรับทีมการเงิน
+
+* การอัตโนมัติการทำงานของข้อมูล XML ใน Excel ผ่าน XLAM
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* การแปลง XML เป็น XLAM ตามกำหนดเวลาสำหรับรายงานธุรกิจที่เกิดซ้ำ
+
+* การประมวลผลชุดข้อมูล XML เป็นแมโครที่เปิดใช้งานสำหรับการอัตโนมัติ
+
+* การสร้าง XLAM จาก XML ที่อัปโหลดเพื่อการทำงานของ Excel ที่เปลี่ยนไปตามเวลา
+
+* การรวมกับสคริปต์ VBA สำหรับท่อประมวลผล XML เป็น XLAM บนคลาวด์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

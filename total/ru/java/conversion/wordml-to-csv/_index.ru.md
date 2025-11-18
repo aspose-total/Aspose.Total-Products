@@ -61,7 +61,55 @@ otherformats: DIF XLTX XLTM TSV XLSX XLSM ODS FODS XLSB EXCEL SXC XLS XLT XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование документов WORDML (WordprocessingML) в CSV (значения, разделенные запятыми) обеспечивает безупречное извлечение структурированного текста, таблиц и данных для анализа в электронных таблицах. Формат CSV является легким, широко совместимым и идеально подходит для импорта в инструменты бизнес-аналитики или CRM.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт данных по счетам или выставлению счетов из отчетов Word в программное обеспечение электронных таблиц.
+
+* Интеграция результатов опросов на основе Word в панели аналитики данных.
+
+* Упрощение списков контактов и справочников для автоматизации маркетинга.
+
+* Быстрая миграция табличных отчетов Word на платформы электронных таблиц в облаке.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое пакетное извлечение финансовых отчетов из WORDML в CSV.
+
+* Автоматизированные конвейеры ETL для данных HR из шаблонов Word.
+
+* Предварительная обработка форм, созданных в Word, для моделей машинного обучения.
+
+* Запуск преобразований из систем управления документами в CSV для отчетности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

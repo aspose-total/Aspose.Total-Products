@@ -53,7 +53,51 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPTM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Chuyển đổi PPTM sang WordML** cho phép tạo tài liệu Word dựa trên XML từ các slide trình bày. WordML đảm bảo đánh dấu tài liệu có cấu trúc, cho phép truy cập theo chương trình và tự động hóa nội dung.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xuất các slide sang XML để tạo tài liệu tự động.
+
+* Tái sử dụng nội dung đào tạo và trình bày cho các luồng công việc theo chương trình.
+
+* Tạo báo cáo có cấu trúc cho các dự án dựa trên dữ liệu.
+
+* Chuẩn bị tài liệu tích hợp với các nền tảng CMS và DMS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi Batch PPTM sang WordML cho việc xuất bản dựa trên XML.
+
+* Tích hợp với hệ thống tự động hóa nội dung cho các luồng công việc tài liệu có cấu trúc.
+
+* Tạo WordML theo thời gian thực cho các ứng dụng tài liệu dựa trên web.
+
+* Trích xuất dữ liệu tự động và tái sử dụng từ các bài thuyết trình sang tài liệu XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

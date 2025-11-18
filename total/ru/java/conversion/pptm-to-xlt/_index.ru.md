@@ -61,7 +61,51 @@ otherformats: XLAM TSV ODS XLS XLTM XLTX MARKDOWN DIF EXCEL XLT XLSB XLSM FODS X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Преобразование PPTM в XLT** преобразует данные презентации в устаревшие шаблоны Excel для однородного форматирования и повторного использования в отчетах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание многоразовых шаблонов Excel из слайдов проекта.
+
+* Стандартизация финансовых отчетов с однородным форматированием.
+
+* Архивирование корпоративных данных презентаций в виде шаблонов XLT.
+
+* Подготовка образовательных или исследовательских слайдов в виде многоразовых шаблонов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запланированное преобразование PPTM в XLT для библиотек шаблонов.
+
+* Пакетная генерация стандартизированных шаблонов отчетов.
+
+* Автоматические обновления для повторного создания шаблонов.
+
+* Интеграция с автоматизированными документами и таблицами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,49 @@ otherformats: TEXT OTTX FLATOPC DOTX RTF DOTM OTTM WORD ODT DOT WORDML OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**การแปลง PPTM เป็น OTT** สร้างเทมเพลตข้อความ OpenDocument จากสไลด์งานนำเสนอ ซึ่งทำให้เทมเพลตที่ใช้ซ้ำในสภาพแวดล้อมสำนักงานโอเพนซอร์สได้โดยไม่ต้องพึ่งพา Microsoft Word
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* สร้างเทมเพลตเอกสารมาตรฐานสำหรับ LibreOffice/OpenOffice
+* ใช้การออกแบบสไลด์ใหม่เพื่อรายงานที่ใช้เทมเพลต
+* แปลงวัสดุการอบรมเป็นรูปแบบเทมเพลตที่สามารถแก้ไขได้
+* เตรียมเทมเพลตสำหรับการทำงานร่วมกันของผู้ใช้หลายคนสำหรับแพลตฟอร์มโอเพนซอร์ส
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง PPTM เป็น OTT ตามกำหนดเวลาสำหรับไลบรารีเทมเพลต
+* การผสานรวมกับขั้นตอนการทำงานของเนื้อหาองค์กรในชุดโอเพนซอร์ส
+* การสร้างเทมเพลตแบบเรียลไทมสำหรับการทำงานร่วมกันของหน่วยงานหลายหน่วยงาน
+* การสร้าง OTT แบบแบทช์สำหรับการอบรมและรายงานข้ามแพลตฟอร์ม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

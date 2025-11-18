@@ -135,7 +135,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XML átalakítása SWF-fé lehetővé teszi a strukturált XML tartalom interaktív Flash animációvá történő átalakítását. Bár az SWF elavult technológia, még mindig hasznos az elavult e-learning modulokhoz, interaktív infografikákhoz és gazdag multimédiás bemutatókhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Az XML oktatói kézikönyvek interaktív SWF útmutatókká történő átalakítása.
+
+* Az XML termékkatalógusok animált, kattintható bemutatókká történő átalakítása.
+
+* Az XML alapú kvízek vagy értékelések áthelyezése e-learning Flash modulokba.
+
+* Az XML eseménytervek vagy idővonalak interaktív megjelenítésre való előkészítése.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ütemezett XML-SWF átalakítás az e-learning tartalmak frissítéseihez.
+
+* Tömeges XML termékadatok interaktív SWF katalógusokba történő feldolgozása.
+
+* SWF diák kiváltott generálása feltöltött XML tananyagból.
+
+* Integráció LMS platformokkal az automatikus XML-SWF tartalomkiszállításért.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

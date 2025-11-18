@@ -47,7 +47,55 @@ otherformats: XLTX XLSM XLSB FODS XLT TXT SXC DIF XLTM MD ODS EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XML в XLT позволяет создавать стандартизированные шаблоны Excel, делая XML-данные многократно используемыми для повторяющихся отчетов, финансового анализа и стандартизированных электронных таблиц для всей команды.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование ежемесячных отчетов XML в многоразовые шаблоны XLT для финансовых команд.
+
+* Подготовка шаблонов XML для продаж или инвентаризации для повторяющихся экспортов.
+
+* Преобразование данных проекта XML в стандартизированные шаблоны отчетов.
+
+* Создание шаблонов Excel на основе XML для автоматизированных бюджетных рабочих процессов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запланированные преобразования XML в XLT для создания повторяющихся шаблонов.
+
+* Пакетная обработка наборов данных XML в шаблоны Excel для нескольких отделов.
+
+* Генерация XLT из загруженных XML для последовательной отчетности.
+
+* Интеграция в автоматизированные конвейеры для управления шаблонами XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

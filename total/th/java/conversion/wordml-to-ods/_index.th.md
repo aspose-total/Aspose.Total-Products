@@ -61,7 +61,55 @@ otherformats: XLSM FODS XLTX TSV SXC XLSB XLS XLAM XLTM EXCEL ODS DIF XLSX XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง WORDML เป็นรูปแบบ ODS (OpenDocument Spreadsheet) จะให้ความสามารถในการใช้ร่วมกันอย่างเต็มรูปแบบกับโปรแกรมสเปรดชีตโอเพนซอร์สพร้อมกับการรักษาเนื้อหา Word ที่มีโครงสร้างอย่างเช่นตารางและสูตรที่ซับซ้อน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* วางแผนโครงการร่วมกันด้วยตารางที่สร้างจาก Word ที่นำเข้าเข้าสู่สเปรดชีต ODS
+
+* การรวบรวมข้อมูลทางการศึกษาหรือวิจัยจากรายงาน Word
+
+* การส่งออกเทมเพลตงบประมาณและตารางทางการเงินจาก Word ไปยัง ODS
+
+* การทำงานของเอกสารโอเพนซอร์สสำหรับองค์กรอนุญาตและรัฐบาล
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงเทมเพลต Word เป็น ODS โดยอัตโนมัติสำหรับการร่วมงานในคลาวด์
+
+* การส่งออกผลการสำรวจตามกำหนดเวลาจากเอกสาร Word
+
+* การผสานข้อมูล ETL สำหรับรายงาน NGO โดยใช้สเปรดชีตมาตรฐานเปิด
+
+* การแปลงรายงานการปฏิบัติตามกฎระเบียบจาก Word เป็น ODS โดยเรียกใช้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

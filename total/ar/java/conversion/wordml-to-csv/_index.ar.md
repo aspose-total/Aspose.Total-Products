@@ -61,7 +61,51 @@ otherformats: DIF XLTX XLTM TSV XLSX XLSM ODS FODS XLSB EXCEL SXC XLS XLT XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل مستندات WORDML (WordprocessingML) إلى CSV (قيم مفصولة بفواصل) يمكن من استخراج سلس للنصوص المنظمة والجداول والبيانات لتحليل الجداول الإلكترونية. تتميز صيغة CSV بأنها خفيفة الوزن ومتوافقة على نطاق واسع، ومثالية للاستيراد إلى أدوات الذكاء الاصطناعي التجاري أو أنظمة إدارة علاقات العملاء.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير بيانات الفواتير أو الفوترة من تقارير Word إلى برامج جداول بيانات.
+
+* دمج نتائج الاستطلاعات المعتمدة على Word في لوحات تحليل البيانات.
+
+* تبسيط قوائم الاتصال والدلائل لأتمتة التسويق.
+
+* هجرة سريعة لتقارير Word الجدولية إلى منصات جداول بيانات مستندة إلى السحاب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* استخراج دفعات مجدولة من البيانات المالية من WORDML إلى CSV.
+
+* أنابيب ETL الآلية لبيانات الموارد البشرية من قوالب Word.
+
+* معالجة مسبقة للنماذج المولدة بواسطة Word لنماذج التعلم الآلي.
+
+* تحويلات مُشغّلة من أنظمة إدارة المستندات إلى CSV لأغراض التقارير.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

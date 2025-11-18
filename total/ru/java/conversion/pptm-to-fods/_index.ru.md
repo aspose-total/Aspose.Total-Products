@@ -61,7 +61,51 @@ otherformats: XLSB EXCEL DIF ODS XLSM SXC MHTML XLAM XLSX MARKDOWN XLTX TSV XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Преобразование PPTM в FODS** генерирует плоские файлы электронных таблиц OpenDocument, идеальные для обмена редактируемым содержимым электронных таблиц между средами LibreOffice и OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование финансовых и проектных слайдов в FODS для офисных пакетов с открытым исходным кодом.
+
+* Обмен редактируемыми электронными таблицами с командами на разных платформах.
+
+* Переиспользование таблиц презентаций в совместных форматах с открытым исходным кодом.
+
+* Подготовка академических и деловых слайдов в формате FODS для редактирования.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование PPTM в FODS для совместных проектов.
+
+* Плановое обновление данных презентаций в электронные таблицы с открытым исходным кодом.
+
+* Триггерное создание файлов FODS из динамических таблиц слайдов.
+
+* Интеграция в корпоративные системы управления контентом с открытым исходным кодом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

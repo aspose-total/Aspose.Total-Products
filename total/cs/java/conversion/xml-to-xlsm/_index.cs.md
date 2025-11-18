@@ -47,7 +47,51 @@ Při převodu souboru XML na XLSM můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XML na XLSM umožňuje složité automatizované pracovní postupy, vzorce a makra v Excelu, přičemž zachovává strukturovaná XML data pro interaktivní a dynamické aplikace tabulek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Importování XML finančních zpráv do XLSM s automatizovanými výpočty.
+
+* Transformace XML inventárních datových sad do makro-povolených Excelových nástěnek.
+
+* Vytváření automatizovaných XML založených sledovačů pracovních postupů pomocí XLSM.
+
+* Převod XML průzkumných a výzkumných dat do interaktivních listů XLSM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný převod XML na XLSM pro automatizované cykly reportování.
+
+* Spouštění generace makro-povolených sešitů z nahrávaných XML.
+
+* ETL potrubí, které přivádí výstupy XML do XLSM nástěnek.
+
+* Automatizace opakovaných transformací dat z XML do XLSM pro týmy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

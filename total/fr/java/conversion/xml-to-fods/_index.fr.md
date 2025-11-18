@@ -47,7 +47,55 @@ Lors de la conversion du fichier XML en FODS, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de XML en FODS permet l'utilisation de feuilles de calcul standard ouvertes pour des projets collaboratifs et multiplateformes. FODS conserve la structure XML tout en permettant la compatibilité des feuilles de calcul dans LibreOffice, OpenOffice et d'autres suites open source.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Transformation des données budgétaires basées sur XML en FODS pour une édition collaborative en équipe.
+
+* Conversion de fichiers XML de mesures scientifiques en FODS pour une recherche reproductible.
+
+* Migration des rapports de performance des étudiants en XML vers des outils de feuilles de calcul open source.
+
+* Préparation de l'exportation XML à partir d'applications de gestion de projet pour une analyse en FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion automatique nocturne de XML en FODS pour des systèmes de reporting open source.
+
+* Traitement par lots des exports XML à partir de solutions cloud ERP vers FODS.
+
+* Conversion déclenchée des journaux de projet XML en archives de feuilles de calcul ouvertes.
+
+* Intégration de flux de travail dans les laboratoires de recherche en utilisant des pipelines XML vers FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

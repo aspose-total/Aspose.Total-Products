@@ -61,7 +61,51 @@ otherformats: ODS FODS SXC XLSX EXCEL DIF XLAM XLSM XLTM MHTML XLT XLTX XLS XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Μετατροπή PPTM σε MARKDOWN** επιτρέπει τη μετατροπή περιεχομένου διαφανειών σε αρχεία Markdown, ιδανικά για τεκμηρίωση, blogging και συστήματα διαχείρισης γνώσεων. Το Markdown κρατά το κείμενο ευανάγνωστο υποστηρίζοντας ελαφριά μορφοποίηση.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Μετατροπή σημειώσεων παρουσίασης σε τεκμηρίωση φιλική προς τους προγραμματιστές.
+
+* Επαναχρησιμοποίηση διαφανειών εκπαίδευσης σε αναρτήσεις blog ή οδηγούς.
+
+* Αρχειοθέτηση εταιρικών παρουσιάσεων ως Markdown για βάσεις γνώσεων.
+
+* Προετοιμασία περιεχομένου διαφανειών για συνεργατικά αποθετήρια Git.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένη μετατροπή PPTM σε MARKDOWN για συστήματα διαχείρισης περιεχομένου.
+
+* Μαζική εξαγωγή διαφανειών σε Markdown για ροές εργασίας τεκμηρίωσης.
+
+* Ενεργοποιημένη δημιουργία Markdown για κοινή χρήση γνώσεων και έλεγχο εκδόσεων.
+
+* Ενσωμάτωση σε γεννήτριες στατικών ιστοτόπων όπως το Hugo ή το Jekyll για αυτόματη δημοσίευση.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

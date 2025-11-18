@@ -61,7 +61,55 @@ otherformats: FODS XLSM TSV SXC DIF EXCEL ODS XLTX XLSB XLAM XLS XLSX XLTM XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง WORDML เป็น XLSM ช่วยให้ข้อมูลที่มีโครงสร้างใน Word กลายเป็นสเปรดชีตที่สามารถใช้งานโมดูลและเหมาะสำหรับการทำงานที่ต้องการอัตโนมัติแบบโต้ตอบ ตรรกะ VBA หรือการคำนวณ Excel ขั้นสูง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* รูปแบบการเงินที่มีโมดูลและสูตรที่ถูกเขียนล่วงหน้า
+
+* แดชบอร์ดรายงานอัตโนมัติที่มีข้อมูลที่ถูกดึงออกจากเนื้อหาใน Word
+
+* กระบวนการทำงานที่ต้องการสคริปต์การตรวจสอบและตรรกะที่ใช้โมดูล
+
+* เครื่องมือที่สามารถใช้งานโดยการแบดเจ็ต การทำนาย และการวางแผน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การสร้างชีทที่มีโมดูลตามกำหนดเวลาจากเทมเพลต Word ที่เกิดซ้ำ
+
+* การสร้างแบบฟอร์ม XLSM โดยอัตโนมัติจากโมเดลข้อมูลที่มีพื้นฐานใน Word
+
+* การเรียกใช้โมดูลตามการส่งรายงานจาก Word
+
+* การรวมสเปรดชีตที่สร้างโดย AI เข้ากับกระบวนการทำงานโมดูลเก่า
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

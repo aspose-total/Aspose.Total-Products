@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML dosyalarını ODP'ye dönüştürmek, yapılandırılmış içeriğin tamamen düzenlenebilir, LibreOffice Impress ve OpenOffice ile uyumlu açık kaynak sunumlarına dönüşmesini sağlar. Bu format, işbirlikçi veya çok platformlu slayt takımları için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* XML tabanlı eğitim kılavuzlarını ODP sunumlarına dönüştürme.
+
+* Yapılandırılmış XML ürün kataloglarını etkileşimli slayt takımlarına dönüştürme.
+
+* XML akademik araştırma verilerini konferans sunumları için hazırlama.
+
+* XML etkinlik programlarını görsel olarak çekici ODP slaytlarına taşıma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Kurumsal eğitim programları için otomatik geceleyin XML'den ODP'ye dönüştürme.
+
+* XML satış raporlarını toplu olarak ODP sunum şablonlarına işleme.
+
+* Yüklenen XML içeriğinin müşteriye hazır slaytlara dönüştürülmesi için tetiklenen dönüşüm.
+
+* Yapılandırılmış verilerden ODP takımları oluşturmak için ETL borularıyla entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

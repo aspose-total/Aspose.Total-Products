@@ -61,7 +61,51 @@ PPTM 파일을 ODS로 변환하는 동안 출력 ODS 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTM을 ODS로 변환**하면 프레젠테이션을 LibreOffice, Google Sheets 및 기타 스프레드시트 앱과 널리 호환되는 OpenDocument 스프레드시트 파일로 변환합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 다중 플랫폼 사용을 위해 숫자 프레젠테이션 데이터 재활용.
+
+* 편집 가능한 ODS 스프레드시트로 판매 및 프로젝트 대시보드 변환.
+
+* 오픈 소스 도구를 사용하여 고객이나 팀과 데이터 공유.
+
+* 보고를 위해 슬라이드를 스프레드시트 문서로 보관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 반복 프로젝트를 위한 예약 일괄 PPTM-to-ODS 변환.
+
+* 협업 클라우드 기반 스프레드시트 워크플로에 통합.
+
+* 분석 대시보드를 위한 ODS 생성 트리거.
+
+* 표준화된 ODS 파일로 슬라이드 자동 보관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

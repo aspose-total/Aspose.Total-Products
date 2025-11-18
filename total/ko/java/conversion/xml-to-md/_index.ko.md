@@ -47,7 +47,51 @@ XML 파일을 MD로 변환하는 동안 출력 MD 파일 형식에 워터마크�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML을 Markdown(MD)으로 변환하면 구조화된 XML 콘텐츠를 가벼운 웹 친화적 마크업으로 변환할 수 있습니다. Markdown은 문서, 블로그, 위키, Hugo, Jekyll 또는 Gatsby와 같은 정적 사이트 생성기에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 개발자 포털을 위해 XML API 문서를 Markdown으로 변환하기.
+
+* 가독성 있는 Markdown 가이드로 XML 제품 사언을 변환하기.
+
+* GitHub에 호스팅된 프로젝트를 위해 XML 연구 데이터나 보고서를 준비하기.
+
+* 온라인 지식 베이스를 위해 XML 기술 매뉴얼을 Markdown으로 이관하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 매일 밤 문서 업데이트를 위한 예약된 XML-to-MD 변환.
+
+* 업로드된 XML 제품 카탈로그에서 Markdown 파일 생성을 트리거하기.
+
+* 정적 사이트 게시를 위해 XML 블로그 일괄 처리를 Markdown으로 변환하기.
+
+* XML 매뉴얼을 자동으로 Markdown으로 변환하기 위해 CI/CD 파이프라인에 통합하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

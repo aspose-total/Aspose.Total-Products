@@ -53,7 +53,51 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPTM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Chuyển đổi PPTM sang DOCM** giúp bảo tồn các macro được nhúng trong các slide PowerPoint khi chuyển nội dung thành tài liệu Word hỗ trợ macro. Điều này rất lý tưởng cho doanh nghiệp và giáo viên sử dụng kịch bản tự động trong tài liệu của họ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tự động hóa việc tạo báo cáo với tài liệu Word hỗ trợ macro.
+
+* Chuyển đổi các slide đào tạo tương tác thành hướng dẫn có macro có thể chỉnh sửa.
+
+* Bảo tồn các chức năng slide tiên tiến cho quy trình làm việc của doanh nghiệp.
+
+* Tạo các mẫu tài liệu động từ nội dung trình bày.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi theo lịch trình cho các nhiệm vụ báo cáo định kỳ trong doanh nghiệp.
+
+* Tích hợp vào quy trình tự động hóa công việc với macro trong MS Office.
+
+* Kích hoạt chuyển đổi PPTM sang DOCM theo thời gian thực cho các module đào tạo trực tiếp.
+
+* Tạo đề xuất khách hàng tự động với các macro được xây dựng sẵn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

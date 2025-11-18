@@ -54,7 +54,55 @@ La API también le permite convertir documentos WORDML protegidos con contraseñ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversión de WORDML a PPSM permite la creación de archivos de presentación de PowerPoint con macros habilitadas. Con macros incrustadas, las presentaciones PPSM pueden ejecutar acciones interactivas, cálculos, manejo de formularios y automatización basada en datos justo cuando se abre la presentación.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Presentaciones de entrenamiento interactivas con autoevaluación y navegación basada en clics.
+
+* Presentaciones de ventas impulsadas por macros con actualizaciones de precios en tiempo real.
+
+* Recorridos avanzados de productos utilizando transiciones y lógica automatizadas.
+
+* Diapositivas de demostración de procesos comerciales con cálculos incrustados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Generación automática de presentaciones impulsadas por macros a partir de contenido estructurado de Word.
+
+* Conversión basada en disparadores para materiales de cumplimiento o capacitación de recursos humanos.
+
+* Creación programada de barajas interactivas PPSM para flujos de incorporación.
+
+* Preparación automática de presentaciones mensuales con macros habilitadas a partir de fuentes de datos de Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

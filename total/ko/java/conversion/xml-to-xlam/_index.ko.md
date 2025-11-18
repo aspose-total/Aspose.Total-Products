@@ -47,7 +47,55 @@ XML 파일을 XLAM로 변환하는 동안 출력 XLAM 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML을 XLAM으로 변환하면 XML 데이터와 매크로를 재사용 가능한 Excel 애드인으로 캡슐화하여 Excel 내에서 자동화된 스프레드시트 솔루션, 복잡한 계산 및 사용자 정의 워크플로우를 가능하게 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 관리자를 위한 Excel 애드인으로 XML 기반 KPI 계산 패키징.
+
+* XML 판매 또는 재고 데이터셋에서 재사용 가능한 대시보드 생성.
+
+* 재무팀을 위한 매크로 활성화된 XML 보고 도구 개발.
+
+* XLAM을 통해 Excel에서 XML 데이터 변환 워크플로우 자동화.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 반복되는 비즈니스 보고서를 위한 예약된 XML-to-XLAM 변환.
+
+* 자동화를 위해 XML 피드를 매크로 활성화된 애드인으로 일괄 처리.
+
+* 업로드된 XML에서 동적 Excel 워크플로우를 위해 트리거된 XLAM 생성.
+
+* 클라우드 기반 XML에서 XLAM으로의 통합을 위한 VBA 스크립트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

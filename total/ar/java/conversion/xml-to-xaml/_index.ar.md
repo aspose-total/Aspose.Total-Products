@@ -135,7 +135,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XML إلى XAML يسمح باستخدام بيانات XML المهيكلة في تطبيقات Microsoft WPF، UWP، أو Xamarin، مما يتيح عرض واجهة مستخدم ديناميكية، ومكونات تفاعلية، وتخطيطات تطبيق مدفوعة بالبيانات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل مواصفات واجهة المستخدم بتنسيق XML إلى XAML لتطبيقات سطح المكتب والهواتف المحمولة.
+
+* تحويل نماذج البيانات بتنسيق XML إلى ربط XAML للوحات التحكم التفاعلية.
+
+* إعداد ملفات تكوين XML لتوليد واجهة مستخدم ديناميكية.
+
+* ترحيل نماذج التصميم بتنسيق XML إلى XAML لتطبيقات WPF أو UWP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل XML إلى XAML بشكل مجدول لتحديثات واجهة المستخدم المستمرة في التطبيقات.
+
+* معالجة مجموعات بيانات XML بشكل دفعي إلى XAML للوحات تحكم ديناميكية.
+
+* توليد XAML مُشغَّل من ملفات XML المُرفقة للنمذجة السريعة.
+
+* دمجه في أنابيب CI/CD لتحديثات واجهة التطبيق الآلي من مصادر XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

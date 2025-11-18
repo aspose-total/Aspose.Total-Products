@@ -61,7 +61,51 @@ otherformats: XLSB EXCEL DIF ODS XLSM SXC MHTML XLAM XLSX MARKDOWN XLTX TSV XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**تحويل PPTM إلى FODS** يولد ملفات جداول بيانات OpenDocument مسطحة، مثالية لمشاركة محتوى جداول البيانات القابلة للتحرير عبر بيئات LibreOffice وOpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل شرائح المالية والمشاريع إلى FODS لحلول مكاتب مفتوحة المصدر.
+
+* مشاركة جداول البيانات القابلة للتحرير مع فرق عبر منصات متعددة.
+
+* إعادة استخدام جداول العروض التقديمية في صيغ مشاركة مفتوحة المصدر.
+
+* تحضير شرائح أكاديمية وتجارية كـ FODS للتحرير.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دُفعي من PPTM إلى FODS لمشاريع تعاونية.
+
+* تحديثات مجدولة لبيانات العروض التقديمية في جداول بيانات مفتوحة المصدر.
+
+* إنشاء ملفات FODS مُحفزة من جداول الشرائح الديناميكية.
+
+* دمجها في أنظمة إدارة المحتوى مفتوحة المصدر للشركات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

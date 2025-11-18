@@ -54,7 +54,55 @@ Met de API kunt u ook met een wachtwoord beveiligde WORDML-documenten naar PPSM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van WORDML naar PPSM maakt de creatie van macro-enabled PowerPoint Show-bestanden mogelijk. Met ingesloten macro's kunnen PPSM-presentaties interactieve acties uitvoeren, berekeningen maken, formulieren verwerken en op gegevens gestuurde automatisering direct bij het openen van de diavoorstelling.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Interactieve trainingspresentaties met automatische beoordeling en klikgestuurde navigatie.
+
+* Macro-gestuurde verkooppresentaties met realtime prijsupdates.
+
+* Geavanceerde productdemonstraties met geautomatiseerde overgangen en logica.
+
+* Demonstraties van bedrijfsprocessen met ingebedde berekeningen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Automatisch genereren van macro-gestuurde presentaties van gestructureerde Word-inhoud.
+
+* Conversie op basis van triggers voor nalevings- of HR-trainingsmateriaal.
+
+* Geplande creatie van interactieve PPSM-decks voor onboarding-workflows.
+
+* Automatische voorbereiding van maandelijkse macro-enabled diavoorstellingen van Word-gegevensbronnen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

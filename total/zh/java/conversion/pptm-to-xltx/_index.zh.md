@@ -61,7 +61,51 @@ otherformats: XLSX XLTX XLT SXC XLSB EXCEL ODS TSV MARKDOWN XLTM MHTML XLS XLAM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**将PPTM转换为XLTX**可将幻灯片转换为与现代Office和云平台兼容的标准Excel模板，确保无需宏的可重复使用格式。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从幻灯片创建可重复使用的项目或财务模板。
+
+* 将培训和教育幻灯片转换为可编辑的电子表格模板。
+
+* 将演示内容标准化为Excel模板格式。
+
+* 将企业仪表板存档为现代XLSX模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时批量进行PPTM转换为XLTX以进行模板管理。
+
+* 触发更新以实现自动化模板创建。
+
+* 与云协作和企业文档工作流集成。
+
+* 为远程团队批量生成可重复使用的电子表格模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

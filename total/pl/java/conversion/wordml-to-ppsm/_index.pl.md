@@ -54,7 +54,55 @@ Interfejs API umożliwia również konwersję dokumentów WORDML chronionych has
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja WORDML na PPSM umożliwia tworzenie plików pokazów PowerPoint z makrami. Dzięki wbudowanym makrom, prezentacje PPSM mogą wykonywać interaktywne akcje, obliczenia, obsługę formularzy i automatyzację opartą na danych zaraz po otwarciu pokazu slajdów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Interaktywne prezentacje szkoleniowe z automatycznym ocenianiem i nawigacją opartą na kliknięciach.
+
+* Prezentacje sprzedażowe z makrami i aktualizacjami cen w czasie rzeczywistym.
+
+* Zaawansowane prezentacje produktów z użyciem automatycznych przejść i logiki.
+
+* Slajdy demonstracyjne procesów biznesowych z wbudowanymi obliczeniami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczne generowanie prezentacji z makrami na podstawie strukturalnej zawartości dokumentów Word.
+
+* Konwersja oparta na wyzwalaczach do materiałów szkoleniowych z zakresu zgodności lub zasobów ludzkich.
+
+* Zaplanowane tworzenie interaktywnych pokazów PPSM dla procesów adaptacyjnych.
+
+* Automatyczne przygotowywanie miesięcznych pokazów slajdów z makrami na podstawie danych z dokumentów Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

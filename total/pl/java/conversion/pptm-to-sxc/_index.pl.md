@@ -61,7 +61,51 @@ Podczas konwertowania pliku PPTM do SXC możesz również dodać znak wodny do w
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Konwertowanie PPTM na SXC** generuje arkusze kalkulacyjne StarOffice Calc z tabel i wykresów slajdów, wspierając dziedziczne środowiska biurowe typu open-source.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Wyodrębnianie danych liczbowych opartych na slajdach do historycznych pakietów biurowych.
+
+* Przygotowywanie prezentacji biznesowych i badawczych jako arkusze kalkulacyjne SXC.
+
+* Konwertowanie wykresów i tabel na formaty arkuszy kalkulacyjnych do ponownego wykorzystania.
+
+* Archiwizowanie danych prezentacji w dziedzicznych formatach open-source.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa PPTM na SXC w celach archiwizacyjnych.
+
+* Wywoływane generowanie arkuszy kalkulacyjnych SXC do użytku na różnych platformach.
+
+* Integracja z dziedzicznymi przepływami pracy biurowej.
+
+* Zaplanowane aktualizacje do wyodrębniania historycznych danych ze slajdów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

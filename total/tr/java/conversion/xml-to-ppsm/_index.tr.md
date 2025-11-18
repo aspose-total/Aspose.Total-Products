@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML'yi PPSM'ye dönüştürmek, dinamik içerik için makro etkin PowerPoint gösterilerini, otomatik grafik güncellemelerini veya etkileşimli istemci sunumlarını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Yönetici panoları için PPSM slaytlara XML satış raporlarını otomatikleştirme.
+
+* XML proje güncellemelerini etkileşimli slayt gösterilerine dönüştürme.
+
+* Makro etkin PPSM destelerine XML finansal projeksiyonları dönüştürme.
+
+* Otomatik sunum deneyimleri için XML eğitim modüllerini hazırlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Makro etkin raporlama için zamanlanmış XML'den PPSM'ye dönüştürme.
+
+* XML verilerini etkileşimli PPSM slayt gösterilerine toplu işleme.
+
+* Dinamik makrolara sahip yüklenmiş XML dosyaları için tetiklenen dönüşüm.
+
+* Otomatik slayt güncellemeleri için VBA ve iş akışı araçlarıyla entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,55 @@ otherformats: XLAM EXCEL SXC XLT XLSM XLTX ODS TSV MD XLSB TXT XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XML ל־DIF מאפשרת שיתוף נתונים חלקי בין מערכות גיליון מורשות למערכות מודרניות מבוססות XML. DIF שימושי במיוחד עבור נתונים נומריים וטבלאיים, שומר על תאימות עם תוכנות ישנות תוך תמיכה בזרימות עבודה של נתונים מובנים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יבוא שיאי תחזיות פיננסיות מ־XML לכלים חשבונאיים מורשים באמצעות DIF.
+
+* העברת קבוצות נתונים מניסויים מדעיים מ־XML לתוכנה סטטיסטית.
+
+* המרת תוצאות סקר XML ל־DIF לצורך ארכיבה והתאמה לדרישות התקפות.
+
+* שימוש ב־DIF לחיבור בין ייצואי XML של ERP ליישומי גיליון ישנים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת XML ל־DIF באופן קבוע בכל לילה לצורך דיווח צפוני.
+
+* אינטגרציה של צינור ETL לאיגוד נתוני מחקר.
+
+* העברת נתוני ייצוא מבוססי XML של ERP באופן אוטומטי לגיליונות DIF היסטוריים.
+
+* טריגרים מותונים להמרת קבצים XML המועלים ל־DIF לצורך ניתוח.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

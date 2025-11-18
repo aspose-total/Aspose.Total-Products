@@ -47,7 +47,55 @@ A XML-fájl XLT-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLT-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XML átalakítása XLT formátummá lehetővé teszi az egységesített Excel sablonok létrehozását, így az XML adatok újrafelhasználhatóvá válnak ismétlődő jelentések, pénzügyi elemzések és csapat-szintű egységesített táblázatok számára.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Az XML havi jelentések átalakítása újrafelhasználható XLT sablonokká a pénzügyi csapatok számára.
+
+* Az XML értékesítési vagy készlet sablonok előkészítése ismétlődő exportokhoz.
+
+* Az XML projektadatok átalakítása egységesített jelentési sablonokká.
+
+* XML-t támogató Excel sablonok létrehozása automatizált költségvetési folyamatokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ütemezett XML-XLT átalakítások ismétlődő sablon létrehozásához.
+
+* Tömeges feldolgozás XML adathalmazokból Excel sablonokba több osztály számára.
+
+* Kiváltott XLT generálás feltöltött XML-ekből az állandó jelentéshez.
+
+* Integráció automatizálási csövekbe XML sablonkezeléshez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

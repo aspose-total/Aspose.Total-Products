@@ -54,7 +54,55 @@ Interfejs API umożliwia również konwersję dokumentów WORDML chronionych has
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie WORDML na standardowe formaty PowerPoint (PPT lub PPTX) umożliwia bezproblemowy transfer strukturalnej zawartości z programu Word - tabele, wykresy i notatki - do dynamicznych slajdów prezentacji kompatybilnych z programem Microsoft PowerPoint.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przekształcanie rocznych raportów opartych na programie Word w profesjonalne slajdy prezentacji.
+
+* Propozycje handlowe i prezentacje sprzedażowe generowane bezpośrednio z dokumentów programu Word.
+
+* Wykłady edukacyjne i materiały szkoleniowe w formacie PowerPoint.
+
+* Prezentacje strategii biznesowych i zarządzania projektami na podstawie strukturalnych danych z programu Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja wsadowa dokumentów programu Word na slajdy PPTX na potrzeby spotkań zarządu.
+
+* Integracja z systemami przepływu pracy dla automatycznego generowania raportów na slajdy.
+
+* Wywoływane tworzenie slajdów na potrzeby powtarzających się sesji szkoleniowych i seminariów.
+
+* Automatyczne generowanie zestawów slajdów dla platform biznesowej inteligencji wspomaganej sztuczną inteligencją.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

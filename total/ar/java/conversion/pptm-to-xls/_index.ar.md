@@ -61,7 +61,55 @@ otherformats: MHTML FODS XLSX DIF XLTX EXCEL XLAM XLSB XLSM XLTM MARKDOWN TSV XL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**تحويل PPTM إلى XLS** يحول العروض التقديمية إلى ملفات جداول بيانات Excel القديمة مع الحفاظ على الجداول والرسوم البيانية والمحتوى الرقمي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* أرشفة جداول الشرائح والرسوم البيانية في XLS للأنظمة القديمة.
+
+* إعادة استخدام العروض التقديمية الشركاتية لتحليل البيانات المالية.
+
+* تحضير شرائح تعليمية كجداول بيانات قابلة للتحرير.
+
+* تحويل لوحات المشاريع إلى ملفات XLS للتقارير.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دُفعي من PPTM إلى XLS لأنظمة التقارير القديمة.
+
+* إنشاء XLS مجدول لتحديثات المشاريع الدورية.
+
+* إنشاء جداول بيانات مُشغّلة لأنابيب التمويل والتحليل.
+
+* دمجه في سير العمل الآلي للتقارير.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

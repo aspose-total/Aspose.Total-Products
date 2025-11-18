@@ -61,7 +61,55 @@ otherformats: XLAM XLSB XLTM XLTX ODS EXCEL XLSM TSV DIF XLSX FODS SXC XLS XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل WORDML إلى XLTX يوفر تنسيقًا نظيفًا لقالب Excel خالٍ من الماكرو، مثالي للمؤسسات التي تقوم بتحويل محتوى Word المهيكل إلى تخطيطات جداول بيانات قابلة لإعادة الاستخدام لإدخال البيانات وإعداد التقارير والتحليل - دون تضمين رموز مضمنة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء قوالب جداول بيانات للإدارة بأكملها من مستندات Word موزعة.
+
+* إنتاج نماذج أعمال قابلة لإعادة الاستخدام ونظيفة لسير العمل اليدوي أو التلقائي.
+
+* قوالب الموارد البشرية والمبيعات والامتثال التي تم إنشاؤها مباشرة من مصادر Word.
+
+* ترحيل الجداول المنسقة إلى XLTX لهياكل تقارير متسقة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعة من قوالب Word للشركات إلى تنسيقات XLTX موحدة.
+
+* تصدير مجدول لمكتبات القوالب ومحاور الوثائق المشتركة.
+
+* إنشاء ملفات XLTX تلقائيًا لسير العمل الخاصة بالتوظيف أو التوريد أو التدقيق.
+
+* دمجها في خطوط أنابيب الأتمتة الوثائقية لنشر قوالب Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

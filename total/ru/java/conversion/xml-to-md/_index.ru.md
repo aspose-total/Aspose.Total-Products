@@ -47,7 +47,51 @@ otherformats: XLTM XLTX DIF XLSM XLSB TXT ODS MD XLAM XLT TSV FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XML в Markdown (MD) позволяет преобразовать структурированный XML-контент в легкую, удобную для веба разметку. Markdown идеально подходит для документации, блогов, вики и статических генераторов сайтов, таких как Hugo, Jekyll или Gatsby.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование документации по XML API в Markdown для порталов разработчиков.
+
+* Преобразование спецификаций продуктов XML в читаемые руководства Markdown.
+
+* Подготовка исследовательских данных или отчетов XML для проектов, размещенных на GitHub.
+
+* Миграция технических руководств XML в Markdown для онлайн баз знаний.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запланированное преобразование XML в MD для ежедневного обновления документации.
+
+* Автоматическое создание файлов Markdown из загруженных каталогов продуктов XML.
+
+* Пакетная обработка блогов XML в Markdown для публикации на статических сайтах.
+
+* Интеграция в конвейеры CI/CD для автоматического преобразования технических руководств XML в Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

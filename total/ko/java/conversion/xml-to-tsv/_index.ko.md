@@ -47,7 +47,55 @@ XML 파일을 TSV로 변환하는 동안 출력 TSV 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML을 TSV로 변환하면 경량화된, 구분 기반의 스프레드시트 형식이 생성되어 분석, 스크립팅, 기계 학습 파이프라인에 적합해집니다. TSV는 Unix/Linux 환경에서 파싱하기 쉽고 쉼표 충돌을 피할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 분석 스크립트용으로 XML 웹 트래픽 로그를 TSV로 변환합니다.
+
+* 대량 데이터베이스 가져오기를 위해 제품 카탈로그 XML을 TSV로 변환합니다.
+
+* AI/ML 모델 투입을 위해 XML 설문 데이터를 TSV로 준비합니다.
+
+* 데이터 파이프라인을 위해 재무 거래 XML을 TSV로 내보냅니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 매일 밤 ETL 워크플로에 대한 자동화된 XML에서 TSV로 변환합니다.
+
+* 클라우드 저장소에 업로드된 XML 파일에서 트리거된 TSV 생성을 수행합니다.
+
+* 분석 대시보드를 위해 XML 서버 로그를 일괄 처리하여 TSV로 변환합니다.
+
+* CI/CD 데이터 파이프라인에 XML에서 TSV로 변환을 통합합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

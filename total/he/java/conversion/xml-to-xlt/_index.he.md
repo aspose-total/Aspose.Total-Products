@@ -102,7 +102,51 @@ otherformats: XLTX XLSM XLSB FODS CSV TXT SXC DIF XLTM MD ODS EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XML ל-XLT מאפשרת יצירת תבניות Excel תקניות, מה שמאפשר שימוש חוזר בנתוני XML לדוחות חוזרים, ניתוח פיננסי וגיליונות אלקטרוניים תקניים לצוות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת דוחות חודשיים בפורמט XML לתבניות XLT שניתן לשימוש חוזר עבור צוותי פיננסים.
+
+* הכנת תבניות מכירות או מלאי בפורמט XML ליצואים חוזרים.
+
+* המרת נתוני פרויקט בפורמט XML לתבניות דיווח תקניות.
+
+* יצירת תבניות Excel המבוססות על XML עבור זרימות עבודה אוטומטיות לתקציב.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרות XML ל-XLT מתוזמנות ליצירת תבניות חוזרות.
+
+* עיבוד קבצי נתונים בפורמט XML לתבניות Excel עבור מחלקות מרובות.
+
+* יצירת תבניות XLT מקבצי XML המועלים לדוחות עקביים.
+
+* שילוב בצינורות אוטומציה לניהול תבניות XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

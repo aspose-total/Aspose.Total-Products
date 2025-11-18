@@ -47,7 +47,55 @@ Saat mengonversi file XML ke SXC, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XML ke SXC memberikan kompatibilitas dengan aplikasi StarOffice warisan dan instalasi OpenOffice yang lebih lama, memungkinkan penanganan data tabular yang diekspor dari sumber XML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Migrasi set data inventaris XML ke SXC untuk laporan sistem warisan.
+
+* Mengonversi ekspor penjualan XML ke SXC untuk analitika historis.
+
+* Mengubah hasil survei XML ke SXC untuk aksesibilitas offline.
+
+* Menyiapkan data nilai mahasiswa XML untuk alat spreadsheet yang lebih lama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi XML ke SXC yang terjadwal untuk jalur pelaporan warisan.
+
+* Katalog produk XML diproses secara batch untuk analisis SXC offline.
+
+* Pemicu otomatis mengonversi ekspor XML ke SXC untuk tujuan arsip.
+
+* Integrasi ke dalam jalur ETL untuk migrasi data historis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

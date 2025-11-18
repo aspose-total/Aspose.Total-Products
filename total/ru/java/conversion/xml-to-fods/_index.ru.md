@@ -47,7 +47,55 @@ otherformats: TXT MD XLT FODS XLTX EXCEL XLSB XLAM XLSM TSV XLTM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XML в FODS позволяет использовать стандартные таблицы для совместной работы и кроссплатформенных проектов. FODS сохраняет структуру XML, обеспечивая совместимость с таблицами в LibreOffice, OpenOffice и других свободных офисных пакетах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование бюджетных данных на основе XML в FODS для коллективного редактирования командой.
+
+* Преобразование XML-файлов с научными измерениями в FODS для воспроизводимых исследований.
+
+* Миграция отчетов о успеваемости студентов на основе XML в инструменты таблиц для свободного использования.
+
+* Подготовка экспорта XML из приложений управления проектами для анализа в FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое еженощное преобразование XML в FODS для систем отчетности с открытым исходным кодом.
+
+* Пакетная обработка экспорта XML из облачных решений ERP в FODS.
+
+* Триггерное преобразование журналов проектов на основе XML в архивы таблиц.
+
+* Интеграция рабочего процесса в исследовательских лабораториях с использованием конвейеров XML в FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

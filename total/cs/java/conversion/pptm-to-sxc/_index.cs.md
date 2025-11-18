@@ -61,7 +61,51 @@ Při převodu souboru PPTM na SXC můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Převod PPTM na SXC** vytváří tabulky a grafy StarOffice Calc ze snímků, podporuje staré open-source kancelářské prostředí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Extrahování číselných dat ze snímků pro historické kancelářské balíky.
+
+* Příprava obchodních a výzkumných prezentací ve formátu SXC tabulek.
+
+* Převod grafů a tabulek do opakovaně použitelných formátů tabulek.
+
+* Archivace dat prezentace ve starých open-source formátech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod PPTM na SXC pro archivační účely.
+
+* Spouštění generování SXC tabulek pro meziplatforemní použití.
+
+* Integrace do pracovních postupů starých kancelářských automatizací.
+
+* Plánované aktualizace pro extrakci historických dat ze snímků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

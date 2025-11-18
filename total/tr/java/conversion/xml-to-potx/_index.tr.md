@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML'yi POTX'e dönüştürmek, güvenlik uyarıları olmadan kolay paylaşım, markalama ve tekrarlı kullanım için standart, makro içermeyen PowerPoint şablonları oluşturur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* XML istemci raporlarını yeniden kullanılabilir sunum şablonlarına dönüştürme.
+
+* XML eğitim içeriğini markalı PPTX şablonlarına dönüştürme.
+
+* XML satış verilerini görsel, makro içermeyen slaytlara hazırlama.
+
+* Tutarlı ekip raporlaması için XML tabanlı proje şablonları oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tekrar eden sunumlar için zamanlanmış XML-POTX dönüşümü.
+
+* Çok departmanlı kullanım için toplu XML şablon oluşturma.
+
+* Yüklenen XML dosyalarını markalı slayt desteklerine dönüştürmek için tetiklenen dönüşüm.
+
+* İş akışı otomasyon araçlarıyla entegrasyon, XML tabanlı şablonları standartlaştırma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

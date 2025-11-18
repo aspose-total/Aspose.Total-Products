@@ -53,7 +53,51 @@ otherformats: DOTX TEXT WORDML OTT ODT WORDMLX DOTM RTF FLATOPC WORD DOT WORDMLM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Преобразование PPTM в WordML** позволяет генерировать документы Word на основе XML из слайдов презентации. WordML обеспечивает структурированную разметку документа, обеспечивая программный доступ и автоматизацию контента.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт слайдов в XML для автоматизированной генерации документов.
+
+* Переиспользование учебного и презентационного контента для программных рабочих процессов.
+
+* Генерация структурированных отчетов для проектов, основанных на данных.
+
+* Подготовка документации, интегрируемой с платформами управления контентом и документами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование PPTM в WordML для публикации на основе XML.
+
+* Интеграция с системами автоматизации контента для структурированных рабочих процессов с документами.
+
+* Генерация WordML в реальном времени для веб-приложений с документами.
+
+* Автоматизированное извлечение данных и переиспользование из презентаций в документы XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

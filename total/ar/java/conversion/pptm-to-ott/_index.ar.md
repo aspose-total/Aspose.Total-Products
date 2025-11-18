@@ -53,7 +53,51 @@ otherformats: TEXT OTTX FLATOPC DOTX RTF DOTM OTTM WORD ODT DOT WORDML OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**تحويل PPTM إلى OTT** يولد قوالب OpenDocument Text من شرائح العرض. يتيح هذا القوالب قابلة لإعادة الاستخدام في بيئات المكاتب مفتوحة المصدر دون الاعتماد على Microsoft Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء قوالب وثائق موحدة لـ LibreOffice/OpenOffice.
+
+* إعادة استخدام تصاميم الشرائح لتقارير تعتمد على القوالب.
+
+* تحويل مواد التدريب إلى تنسيقات قوالب قابلة للتحرير.
+
+* إعداد قوالب للتعاون متعدد المستخدمين لمنصات مفتوحة المصدر.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* جدولة تحويل PPTM إلى OTT لمكتبات القوالب.
+
+* التكامل مع سير العمل لمحتوى المؤسسة في حزم البرامج مفتوحة المصدر.
+
+* إنشاء قوالب في الوقت الحقيقي للتعاون بين الإدارات المتعددة.
+
+* إنشاء OTT بالدُفعة لأغراض التدريب والتقارير عبر منصات متعددة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

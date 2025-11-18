@@ -47,7 +47,55 @@ otherformats: XLAM EXCEL SXC XLT XLSM XLTX ODS TSV MD XLSB TXT XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XML เป็น DIF ช่วยให้การแชร์ข้อมูลระหว่างระบบสเปรดชีตรุ่นเก่ากับแอปพลิเคชันระบบ XML ได้โดยไม่มีข้อขัดแย้ง  DIF เป็นประโยชน์อย่างมากสำหรับข้อมูลตัวเลขและตาราง โดยรักษาความเข้ากันได้กับซอฟต์แวร์รุ่นเก่าในขณะที่รองรับการทำงานข้อมูลโครงสร้าง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* นำเข้าการคาดการณ์การเงินจาก XML เข้าเครื่องมือบัญชีรุ่นเก่าโดยใช้ DIF
+
+* โอนข้อมูลชุดการทดลองทางวิทยาศาสตร์จาก XML เข้าซอฟต์แวร์สถิติ
+
+* แปลงผลการสำรวจ XML เป็น DIF เพื่อวัตถุประสงค์การเก็บถาวรและความเป็นไปตามกฎหมาย
+
+* ใช้ DIF เพื่อเชื่อมต่อการส่งออก XML จากระบบ ERP กับแอปพลิเคชันสเปรดชีตรุ่นเก่า
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XML เป็น DIF รายวันตามกำหนดเวลาสำหรับรายงานแบบกลุ่ม
+
+* การผสานข้อมูลการวิจัยในท่อ ETL
+
+* การย้ายข้อมูลอัตโนมัติจากระบบ ERP ที่ใช้ XML เข้าสู่สเปรดชีต DIF ในอดีต
+
+* การใช้สคริปต์เพื่อแปลง XML ที่อัปโหลดเข้าสู่ DIF เพื่อการวิเคราะห์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

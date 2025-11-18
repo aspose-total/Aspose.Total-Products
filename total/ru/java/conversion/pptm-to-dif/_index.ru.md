@@ -61,7 +61,51 @@ otherformats: XLSB MHTML XLSM SXC FODS TSV DIF XLS XLAM XLTM XLTX EXCEL XLSX MAR
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Преобразование PPTM в DIF** позволяет передавать числовые и табличные данные на основе слайдов в формат обмена данными для совместимости между приложениями.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт слайдов с числовыми данными для устаревших приложений электронных таблиц.
+
+* Преобразование исследовательских презентаций в наборы данных, совместимые с DIF.
+
+* Обмен числовым содержимым слайдов с программным обеспечением, не от Microsoft.
+
+* Подготовка отчетов о данных для использования в академических или корпоративных целях на различных платформах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное преобразование PPTM в DIF для повторяющейся отчетности по данным.
+
+* Интеграция в рабочие процессы ETL для устаревших систем управления данными.
+
+* Пакетное преобразование числовых слайдов в стандартизированные файлы DIF.
+
+* Автоматический экспорт данных из презентаций в аналитические платформы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -54,7 +54,55 @@ otherformats: PPTM PPTX POTX POT PPT PPSM PPSX PPS POTM POWERPOINT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将WORDML转换为PPSM可以创建支持宏的PowerPoint幻灯片文件。PPSM演示文稿中嵌入的宏可以在幻灯片播放时执行交互式操作、计算、表单处理和数据驱动的自动化。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 具有自动评分和基于点击导航的交互式培训演示文稿。
+
+* 具有实时价格更新的宏驱动销售演示文稿。
+
+* 使用自动化转换和逻辑的高级产品演示。
+
+* 嵌入计算的业务流程演示幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从结构化的Word内容自动生成支持宏的演示文稿。
+
+* 基于触发器的转换，用于合规性或人力资源培训材料。
+
+* 定时创建用于入职工作流程的交互式PPSM幻灯片组。
+
+* 从Word数据源自动准备每月支持宏的幻灯片展示。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

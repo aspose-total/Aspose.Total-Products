@@ -47,7 +47,51 @@ A XML-fájl FODS-vé konvertálásakor vízjelet is hozzáadhat a kimeneti FODS-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XML átalakítása FODS formátummá lehetővé teszi az open-standard táblázatok használatát együttműködési és többplatformos projektekhez. A FODS megőrzi az XML struktúrát, miközben lehetővé teszi a táblázatok kompatibilitását a LibreOffice, OpenOffice és más nyílt forráskódú szoftverekben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Az XML-alapú költségvetési adatok átalakítása FODS formátummá együttműködő csapatok szerkesztéséhez.
+
+* Tudományos mérési XML fájlok átalakítása FODS formátummá ismételhető kutatásokhoz.
+
+* Az XML diák teljesítményjelentéseinek migrálása nyílt forráskódú táblázatkezelő eszközökbe.
+
+* XML export előkészítése projektmenedzsment alkalmazásokból FODS elemzéshez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Automatikus éjszakai XML átalakítás FODS formátummá nyílt forráskódú jelentési rendszerekhez.
+
+* Tömeges XML exportok feldolgozása felhő alapú ERP megoldásokból FODS formátummá.
+
+* Kiváltott átalakítás XML projekt naplókból nyílt táblázat archívumokba.
+
+* Munkafolyamat integráció kutató laborokban XML-FODS csővezetékek használatával.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

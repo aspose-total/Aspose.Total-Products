@@ -61,7 +61,51 @@ otherformats: ODS SXC XLS MHTML XLTX XLAM FODS TSV DIF XLTM XLT XLSB XLSM XLSX M
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**将PPTM转换为TSV** 将幻灯片数据输出为制表符分隔值格式，便于快速导入/导出到数据库和分析工具。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 为数据库摄入导出表格演示内容。
+
+* 将调查或实验数据幻灯片转换为TSV文件。
+
+* 与数据分析师共享幻灯片以进行结构化处理。
+
+* 为基于人工智能的分析准备数字幻灯片内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时批量进行PPTM到TSV的转换，用于自动化工作流程。
+
+* 触发TSV导出以进行分析和报告流程。
+
+* 与ETL平台集成，实现幻灯片到数据的转换。
+
+* 实时将幻灯片数据提取为TSV，用于协作工具。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

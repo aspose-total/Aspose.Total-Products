@@ -102,7 +102,51 @@ otherformats: XLSB EXCEL DIF ODS XLSM SXC MHTML XLAM XLSX MARKDOWN XLTX TSV XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Конвертація PPTM в FODS** генерує плоскі файли OpenDocument Spreadsheet, ідеальні для обміну редагованим вмістом таблиць між середовищами LibreOffice та OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Конвертація фінансових та проектних слайдів в FODS для офісних пакетів з відкритим вихідним кодом.
+
+* Обмін редагованими таблицями з командами на різних платформах.
+
+* Перетворення таблиць презентацій у спільні формати з відкритим вихідним кодом.
+
+* Підготовка академічних та бізнес-слайдів у форматі FODS для редагування.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетна конвертація PPTM в FODS для спільних проектів.
+
+* Заплановані оновлення даних презентацій у таблиці з відкритим вихідним кодом.
+
+* Автоматичне створення файлів FODS з динамічних таблиць слайдів.
+
+* Інтеграція в корпоративні системи управління вмістом з відкритим вихідним кодом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

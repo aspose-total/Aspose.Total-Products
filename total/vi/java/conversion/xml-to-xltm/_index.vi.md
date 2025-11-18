@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp XML sang XLTM, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XML thành XLTM kết hợp chức năng mẫu với khả năng macro, cho phép tạo các bảng tính Excel động, có thể tái sử dụng, tự động hóa các nhiệm vụ xử lý dữ liệu XML lặp đi lặp lại.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuẩn bị các mẫu Excel được hỗ trợ bởi XML với tính toán tự động cho tài chính.
+
+* Chuyển đổi nhật ký dự án XML thành các mẫu có khả năng macro có thể tái sử dụng.
+
+* Tạo các mẫu dự báo doanh số bằng XML cho báo cáo lặp đi lặp lại.
+
+* Thiết kế các mẫu XLSM được hỗ trợ bởi XML cho tự động hóa quy trình trên toàn đội.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi định kỳ XML thành XLTM cho các quy trình kinh doanh định kỳ.
+
+* Tạo mẫu có khả năng macro từ XML được tải lên.
+
+* Chuyển đổi XML thành XLTM hàng loạt cho tự động hóa đa phòng ban.
+
+* Tích hợp vào quy trình làm việc doanh nghiệp cho các đường ống mẫu XML chuẩn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ XML 파일을 FODS로 변환하는 동안 출력 FODS 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML을 FODS로 변환하면 협업 및 크로스 플랫폼 프로젝트에 오픈 표준 스프레드시트를 사용할 수 있습니다. FODS는 XML 구조를 유지하면서 LibreOffice, OpenOffice 및 기타 오픈 소스 스위트에서 스프레드시트 호환성을 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 협업 팀 편집을 위해 XML 기반 예산 데이터를 FODS로 변환합니다.
+
+* 재현 가능한 연구를 위해 과학 측정 XML 파일을 FODS로 변환합니다.
+
+* 오픈 소스 스프레드시트 도구로 XML 학생 성적 보고서를 이관합니다.
+
+* 프로젝트 관리 앱에서 FODS 분석을 위해 XML 내보내기를 준비합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 오픈 소스 보고 시스템을 위한 자동 밤간 XML에서 FODS로 변환합니다.
+
+* 클라우드 ERP 솔루션에서 XML 내보내기를 일괄 처리하여 FODS로 변환합니다.
+
+* XML 프로젝트 로그를 오픈 스프레드시트 아카이브로 변환하기 위한 트리거 변환.
+
+* 연구소에서 XML-to-FODS 파이프라인을 사용한 워크플로 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

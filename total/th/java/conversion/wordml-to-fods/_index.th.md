@@ -61,7 +61,55 @@ otherformats: ODS XLS TSV XLSM XLSX EXCEL SXC XLAM XLTM XLT XLSB XLTX FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง WORDML เป็น FODS (Flat OpenDocument Spreadsheet) ช่วยให้สามารถใช้งานกับ LibreOffice, OpenOffice, และแพลตฟอร์มโอเพนซอร์สอื่น ๆ ได้อย่างเข้ากันได้ เหมาะสำหรับผู้ใช้ที่ต้องการการทำงานกับเอกสารข้ามแพลตฟอร์ม
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* ส่งออกตาราง Word โครงสร้างสำหรับโครงการสเปรดชีตโอเพนซอร์สที่มีการทำงานร่วมกัน
+
+* เตรียมข้อมูลที่เป็นตารางจาก Word สำหรับการวิจัยและการวิเคราะห์ทางวิชาการ
+
+* แบ่งปันการแยกประเมินต้นทุนโครงการในรูปแบบที่เข้ากันได้ทั่วไป
+
+* แปลงข้อมูลการประชุมจาก Word ที่มีตารางฝังอยู่เป็นสเปรดชีตที่สามารถแก้ไขได้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้าง FODS จาก Word ที่เกิดซ้ำซ้อน
+
+* การผสานข้อมูลโดยอัตโนมัติกับแพลตฟอร์มรายงานโอเพนซอร์ส
+
+* การส่งออก FODS ที่เกิดขึ้นโดยอัตโนมัติสำหรับโครงการวิจัยที่ทำงานร่วมกัน
+
+* ท่อ ETL ที่แปลงแบบฟอร์ม Word โครงสร้างสำหรับการวิเคราะห์ทางวิชาการ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

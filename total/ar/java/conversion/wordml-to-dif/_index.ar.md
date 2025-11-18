@@ -61,7 +61,55 @@ otherformats: SXC DIF TSV XLSB XLTX ODS XLSM XLTM XLAM XLT XLS XLSX EXCEL FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل WORDML إلى DIF (تنسيق تبادل البيانات) يسهل التوافق مع تطبيقات جداول البيانات التقليدية ويضمن استيراد نظيف للجداول النصية والمحتوى المهيكل. DIF هو الأمثل للأرشفة والتقارير عبر الأنظمة وسير العمل للبيانات في الشركات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل دفاتر الحسابات المالية القائمة على Word إلى برامج جداول بيانات تقليدية.
+
+* تحويل جداول Word المهيكلة إلى تنسيقات قابلة للتشغيل مع أدوات المحاسبة.
+
+* أرشفة تقارير المشاريع التي تم إنشاؤها بواسطة Word للاحتفاظ بالبيانات على المدى الطويل.
+
+* تحضير المحتوى الجدولي لمنصات تحليلات المؤسسات أو أنظمة تخطيط موارد المؤسسات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* توليد DIF دفعة واحدة من تقارير مشاريع Word المتكررة.
+
+* دمجها في خطوط أنابيب هجرة البيانات التاريخية للمالية والموارد البشرية.
+
+* تصدير قائم على المؤشرات لحلول أرشفة الوثائق التلقائية.
+
+* تحويل آلي في سير العمل لتقارير الامتثال.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

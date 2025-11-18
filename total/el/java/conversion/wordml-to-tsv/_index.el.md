@@ -61,7 +61,51 @@ otherformats: XLSB FODS XLS XLT SXC XLSM ODS XLTM XLSX EXCEL DIF XLTX XLAM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του WORDML σε TSV (Tab-Separated Values) επιτρέπει την καθαρή εξαγωγή δομημένων δεδομένων, διατηρώντας το διάστημα και την ακρίβεια σε ολόκληρες τις στήλες. Το TSV χρησιμοποιείται ευρέως σε βάσεις δεδομένων, πλατφόρμες αναλυτικών και περιβάλλοντα μηχανικής μάθησης λόγω της φιλικής προς το σχήμα δομής του.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Εξαγωγή πινάκων από αρχεία καταγραφής ή αναφορές βασισμένες σε Word για εισαγωγή στη βάση δεδομένων.
+
+* Προετοιμασία συνόλων δεδομένων που δημιουργήθηκαν στο Word για στατιστικές διαδικασίες σε Python ή R.
+
+* Μεταφορά δομημένου περιεχομένου από το Word σε περιβάλλοντα CRM ή ERP.
+
+* Μετατροπή μορφοποιημένων πινάκων σε TSV για καθαρή είσοδο εκπαίδευσης μοντέλων AI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένη μετατροπή αναφορών Word σε TSV για αναλυτικά πίνακες ελέγχου.
+
+* Εξαγωγή TSV με βάση την ενεργοποίηση για προεπεξεργασία δεδομένων μηχανικής μάθησης.
+
+* Επεξεργασία πακέτων δεδομένων TSV από πρότυπα Word για λειτουργίες ETL.
+
+* Ενσωμάτωση σε αυτοματοποιημένες ροές μεγάλων δεδομένων για αναφορές ή οπτικοποιήσεις.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

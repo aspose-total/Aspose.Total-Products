@@ -61,7 +61,51 @@ PPTM dosyasını FODS'ye dönüştürürken, çıktı FODS dosya biçiminize de 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTM'yi FODS'ye Dönüştürme**, düzenlenebilir elektronik tablo içeriğini LibreOffice ve OpenOffice ortamları arasında paylaşmak için ideal olan Düz OpenDocument Elektronik Tablo dosyaları oluşturur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Finans ve proje slaytlarını FODS'a dönüştürme, açık kaynak ofis paketleri için.
+
+* Çapraz platform takımlarla düzenlenebilir elektronik tabloları paylaşma.
+
+* Sunum tablolarını işbirlikçi açık kaynak formatlarına dönüştürme.
+
+* Düzenleme için akademik ve iş sunumlarını FODS olarak hazırlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* İşbirlikçi projeler için toplu PPTM'den FODS'a dönüştürme.
+
+* Sunum verilerinin zamanlanmış olarak açık kaynak elektronik tablolara güncellenmesi.
+
+* Dinamik slayt tablolarından FODS dosyalarının tetiklenerek oluşturulması.
+
+* Kurumsal açık kaynak içerik yönetim sistemlerine entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

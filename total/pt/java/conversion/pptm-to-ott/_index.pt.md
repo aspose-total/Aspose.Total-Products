@@ -53,7 +53,55 @@ Usando a API, você também pode realizar a conversão de arquivo PPTM para OTT 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Convertendo PPTM para OTT** gera modelos de texto do OpenDocument a partir de slides de apresentação. Isso possibilita a criação de modelos reutilizáveis em ambientes de escritório de código aberto sem depender do Microsoft Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Criando modelos de documentos padronizados para o LibreOffice/OpenOffice.
+
+* Repurposing designs de slides para relatórios baseados em modelos.
+
+* Convertendo materiais de treinamento em formatos de modelo editáveis.
+
+* Preparando modelos de colaboração multiusuário para plataformas de código aberto.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão programada de PPTM para OTT para bibliotecas de modelos.
+
+* Integração com fluxos de trabalho de conteúdo empresarial em suítes de código aberto.
+
+* Geração de modelos em tempo real para colaboração entre vários departamentos.
+
+* Criação em lote de OTT para fins de treinamento e relatórios multiplataforma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,55 @@ A PPTM fájl FODS formátumba konvertálásakor vízjelet is hozzáadhat a kimen
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTM átalakítása FODS formátumra** lapos OpenDocument táblázatfájlokat generál, ideális megosztható szerkeszthető táblázattartalomhoz LibreOffice és OpenOffice környezetek között.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Pénzügyi és projekt diák átalakítása FODS formátumra nyílt forráskódú irodai szoftverek számára.
+
+* Szerkeszthető táblázatok megosztása platformfüggetlen csapatokkal.
+
+* Prezentációs táblázatok újrahasznosítása együttműködő nyílt forráskódú formátumokba.
+
+* Akadémiai és üzleti diák előkészítése FODS formátumban történő szerkesztéshez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Tömeges PPTM-FODS átalakítás együttműködő projektekhez.
+
+* Ütemezett frissítések prezentációs adatokból nyílt forráskódú táblázatokba.
+
+* Dinamikus diátáblázatokból kiváltott FODS fájlok generálása.
+
+* Integráció vállalati nyílt forráskódú tartalomkezelő rendszerekbe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ WORDML'yi FODS'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://pro
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDML'yi FODS (Flat OpenDocument Spreadsheet) formatına dönüştürmek, LibreOffice, OpenOffice ve diğer açık kaynak platformlarla uyumlu açık standart elektronik tablo oluşturur. Çapraz platform belge iş akışına ihtiyaç duyan kullanıcılar için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* İşbirlikçi açık kaynak elektronik tablo projeleri için yapılandırılmış Word tablolarını dışa aktarma.
+
+* Araştırma ve akademik analiz için Word tabanlı verileri hazırlama.
+
+* Projelerin maliyet ayrıntılarını evrensel uyumlu formatlarda paylaşma.
+
+* Gömülü tabloları olan Word toplantı tutanaklarını düzenlenebilir elektronik tablolara dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tekrar eden Word belgelerinden yığın FODS oluşturma.
+
+* Açık kaynak raporlama platformlarıyla otomatik entegrasyon.
+
+* İşbirlikçi akademik projeler için tetiklenmiş FODS dışa aktarımları.
+
+* Araştırma analitiği için yapılandırılmış Word formlarını dönüştüren ETL boruları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

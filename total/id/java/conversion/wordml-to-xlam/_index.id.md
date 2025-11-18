@@ -61,7 +61,55 @@ Setelah mengonversi WORDML ke XLAM, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Membuat file XLAM dari WORDML memungkinkan konversi dokumen Word ke format Excel Add-In, memungkinkan data untuk memberi makan fungsi kustom, skrip otomatisasi, dan logika spreadsheet canggih. Ini ideal untuk tim yang menggunakan ekstensi Excel yang didukung VBA.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengubah model perhitungan berbasis Word menjadi add-in Excel.
+
+* Mendeploy logika bisnis yang dapat digunakan kembali melalui XLAM yang dihasilkan dari Word.
+
+* Tim keuangan dan audit menggunakan add-in Excel otomatisasi daripada lembar statis.
+
+* Menghasilkan alat interaktif untuk peramalan, penetapan harga, atau pemodelan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Pembuatan batch Word-to-XLAM untuk mendeploy add-in yang diperbarui di seluruh perusahaan.
+
+* Membuat add-in yang didorong oleh makro dari aturan dan rumus berbasis Word.
+
+* Paket XLAM yang dipicu untuk logika bisnis yang disimpan dalam templat Word.
+
+* Mengintegrasikan alur kerja berbasis AI yang mengonversi persyaratan bisnis menjadi add-in Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

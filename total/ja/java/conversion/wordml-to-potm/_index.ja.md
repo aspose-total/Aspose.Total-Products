@@ -54,7 +54,55 @@ APIを使用すると、パスワードで保護されたWORDMLドキュメン�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDMLをPOTM形式に変換することで、構造化されたWordデータと自動スライド機能を組み合わせたマクロ有効なPowerPointテンプレートの作成が可能になり、インタラクティブなプレゼンテーションを実現します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* マクロを埋め込んだインタラクティブなトレーニングモジュールの構築。
+
+* Wordテーブルから派生したマクロ有効な企業ダッシュボード。
+
+* 自動計算が組み込まれた財務モデリングスライド。
+
+* eラーニング向けのインタラクティブ要素を備えた教育スライド。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* Wordレポートからマクロ有効なテンプレートの自動生成。
+
+* 定期的なプロジェクト更新デッキのためのPOTM作成のトリガー。
+
+* 自動トレーニングスライドのLMSシステムとの統合。
+
+* Wordコンテンツのバッチ変換によるインタラクティブなPowerPointマクロ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

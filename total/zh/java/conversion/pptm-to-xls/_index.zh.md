@@ -61,7 +61,51 @@ otherformats: MHTML FODS XLSX DIF XLTX EXCEL XLAM XLSB XLSM XLTM MARKDOWN TSV XL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**将PPTM转换为XLS** 将演示文稿转换为传统的Excel电子表格文件，同时保留表格、图表和数字内容。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将幻灯片表格和图表存档为XLS，以供旧系统使用。
+
+* 将企业演示文稿重新用于财务分析。
+
+* 准备可编辑的电子表格作为教育幻灯片。
+
+* 将项目仪表板转换为XLS文件以供报告使用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将PPTM转换为XLS，用于传统报告系统。
+
+* 定期项目更新的预定XLS生成。
+
+* 为财务和分析流程触发电子表格创建。
+
+* 集成到自动化报告工作流程中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -54,7 +54,51 @@ Mit der API können Sie auch passwortgeschützte WORDML-Dokumente in ODP konvert
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von WORDML (WordprocessingML)-Dokumenten in ODP (OpenDocument Presentation) ermöglicht die einfache Umwandlung von strukturierten Word-Inhalten in Open-Standard-Folien, ideal für LibreOffice Impress und andere Open-Source-Präsentationstools.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Umwandlung von Word-Berichten in interaktive Besprechungspräsentationen.
+
+* Transformation von auf Word basierenden Forschungsdaten in visuelle akademische Folien.
+
+* Erstellung von Open-Source-Unternehmenspräsentationen aus strukturierten Word-Tabellen.
+
+* Austausch von Projektupdates und Vorschlägen mithilfe universeller ODP-Folien.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelkonvertierung wöchentlicher Word-Berichte in ODP zur Teamverteilung.
+
+* Auslösen der Erstellung von ODP-Folien aus Dokumentenverwaltungssystemen.
+
+* Automatisierter Workflow zur Generierung von Präsentationen aus Word-Vorlagen.
+
+* Integration in kollaborative Open-Source-Präsentations-Pipelines.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

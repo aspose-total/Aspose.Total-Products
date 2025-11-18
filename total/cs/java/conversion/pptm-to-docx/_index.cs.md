@@ -53,7 +53,51 @@ Pomocí API můžete také provést převod PPTM souboru na DOCX s vodoznakem. C
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Převod PPTM na DOCX** poskytuje moderní, plně upravitelný formát dokumentu Word z prezentací PowerPoint. DOCX zajišťuje kompatibilitu s nejnovějšími verzemi Microsoft Office a nástroji pro spolupráci v cloudu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Transformace prodejních prezentací na upravitelné návrhy.
+
+* Převod seminárních snímků na komplexní materiály.
+
+* Spolupracující dokumentace projektů v DOCX pro vzdálené týmy.
+
+* Převod vizuálních zpráv na textově bohaté dokumenty pro auditování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaná hromadná konverze pro digitální archivy.
+
+* Integrace do platforem pro správu obsahu podniku.
+
+* Transformace snímků na dokumenty v reálném čase pro virtuální třídy.
+
+* Skriptem řízené pracovní postupy pro vytváření verzí DOCX týdenních prezentací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

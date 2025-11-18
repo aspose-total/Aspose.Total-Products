@@ -61,7 +61,51 @@ Při převodu souboru PPTM na XLT můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Převod PPTM na XLT** převádí data prezentace do zastaralých šablon Excelu pro konzistentní formátování a opakované generování zpráv.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření opakovaně použitelných šablon Excelu z projektových snímků.
+
+* Standardizace finančních zpráv s konzistentním formátováním.
+
+* Archivace firemních dat prezentace jako šablon XLT.
+
+* Příprava vzdělávacích nebo výzkumných snímků jako opakovaně použitelných šablon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný převod PPTM na XLT pro knihovny šablon.
+
+* Hromadná generace standardizovaných šablon zpráv.
+
+* Spouštěné aktualizace pro opakované vytváření šablon.
+
+* Integrace s automatizovanými pracovními postupy dokumentů a tabulek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

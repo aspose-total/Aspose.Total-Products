@@ -47,7 +47,55 @@ otherformats: SXC FODS EXCEL TXT XLSM MD XLTX XLSB TSV XLT DIF XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XML เป็น XLSB ให้รูปแบบ Excel ที่เป็นไบนารีและมีประสิทธิภาพสูง ที่เหมาะสำหรับชุดข้อมูลขนาดใหญ่ เวลาโหลดเร็ว และการคำนวณสมุดงานที่ซับซ้อน ที่เหมาะสำหรับรายงานขององค์กรและการวิเคราะห์ข้อมูลขนาดใหญ่
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การแปลงบันทึกการขาย XML ขนาดใหญ่เป็น XLSB เพื่อรายงานอย่างรวดเร็ว
+
+* การย้ายข้อมูลส่งออก XML จากระบบ ERP เข้าสู่ XLSB สำหรับแดชบอร์ดการเงิน
+
+* การนำเข้าการอ่านเซ็นเซอร์ XML เข้าสู่ XLSB สำหรับการวิเคราะห์ข้อมูลที่มีการใช้งานข้อมูลมาก
+
+* การแปลงข้อมูลการจัดการโครงการ XML เป็น XLSB เพื่อการทำงานร่วมกับทีม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XML เป็น XLSB อัตโนมัติทุกคืนสำหรับแดชบอร์ดขององค์กร
+
+* การรวมกับ Power Query สำหรับการอัปเดตข้อมูล XML เป็น XLSB แบบเรียลไทม์
+
+* การแปลงรายงาน XML เป็นสมุดงานไบนารีตามกำหนดเวลา
+
+* การเริ่มต้นการทำงานของท่อการส่งข้อมูล XML เป็น XLSB สำหรับอัตโนมัติการวิเคราะห์ข้อมูลขนาดใหญ่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

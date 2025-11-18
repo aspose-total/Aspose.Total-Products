@@ -61,7 +61,51 @@ otherformats: XLSM XLT FODS XLSB XLS ODS XLAM XLTX XLTM SXC TSV DIF XLSX EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование WORDML в XLTM создает макрос-включенные шаблоны Excel, позволяя организациям преобразовывать структурированные документы Word в многоразовые таблицы Excel с логикой автоматизации и предопределенными макетами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание корпоративных шаблонов Excel из отчетов о соответствии или аудите в Word.
+
+* Генерация многоразовых форм с макросами для отделов кадров, финансов или производства.
+
+* Внедрение стандартизированных таблиц Excel в различные отделы.
+
+* Преобразование таблиц планирования проектов из Word в шаблонные рабочие процессы Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Рабочие процессы после документа, автоматически создающие шаблоны XLTM из Word.
+
+* Генерация на основе расписания для повторяющихся бизнес-процессов в таблицах Excel.
+
+* Интеграция с ERP-системами, требующими макрос-включенных шаблонов.
+
+* Клонирование шаблонов, запускаемое при загрузке документов или создании проектов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

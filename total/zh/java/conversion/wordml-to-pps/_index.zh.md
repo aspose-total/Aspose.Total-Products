@@ -54,7 +54,55 @@ otherformats: POTM PPS PPTX POT POWERPOINT POTX PPSX PPSM PPTM PPT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将WORDML文件转换为PPS（PowerPoint Show）格式可将静态Word文档转换为即时播放的幻灯片演示。PPS文件直接以幻灯片模式打开，非常适合用于信息亭、培训循环和自动运行的商业演示。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 在数字屏幕上自动播放基于Word的企业公告。
+
+* 用于展览、零售环境或大堂的信息亭式演示。
+
+* 从Word笔记生成的自动运行讲座和课堂总结。
+
+* 从Word中格式化的产品资料表创建的营销幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从Word报告批量转换为PPS以进行内部沟通。
+
+* 为数字标牌系统安排的定时幻灯片导出。
+
+* 为活动或会议展示触发PPS生成。
+
+* 与文档管理系统平台集成，将Word文档自动发布为幻灯片循环。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

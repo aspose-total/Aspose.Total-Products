@@ -47,7 +47,51 @@ Při převodu souboru XML na MD můžete také přidat vodoznak do výstupního 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XML na Markdown (MD) umožňuje transformaci strukturovaného obsahu XML do lehkého, webem přívětivého značkování. Markdown je ideální pro dokumentaci, blogy, wiki a statické generátory webů jako Hugo, Jekyll nebo Gatsby.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Přeměna XML dokumentace API na Markdown pro vývojářské portály.
+
+* Převod XML specifikací produktů na čitelné průvodce v Markdown.
+
+* Příprava výzkumných dat v XML nebo zpráv pro projekty hostované na GitHubu.
+
+* Migrace technických manuálů v XML do Markdown pro online znalostní báze.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný převod XML na MD pro noční aktualizace dokumentace.
+
+* Spuštění generování souborů Markdown z nahrávaných XML katalogů produktů.
+
+* Hromadné zpracování XML blogů do Markdown pro publikování statických stránek.
+
+* Integrace do CI/CD potrubí pro automatický převod XML manuálů do Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,51 @@ otherformats: XLT XLS TSV MHTML XLSX DIF ODS XLSM XLAM XLTM EXCEL MARKDOWN XLTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**การแปลง PPTM เป็น ODS** จะเปลี่ยนการนำเสนอเป็นไฟล์สเปรดชีต OpenDocument ที่เข้ากันได้กับ LibreOffice, Google Sheets, และแอปสเปรดชีตอื่น ๆ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การนำข้อมูลการนำเสนอที่เป็นตัวเลขมาใช้งานบนหลายแพลตฟอร์ม
+
+* การแปลงแผงควบคุมยอดขายและโครงการเป็นสเปรดชีต ODS ที่สามารถแก้ไขได้
+
+* การแบ่งปันข้อมูลกับลูกค้าหรือทีมใช้เครื่องมือโอเพนซอร์ส
+
+* การเก็บถาวรสไลด์เป็นเอกสารสเปรดชีตสำหรับรายงาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงจำนวนมากของ PPTM เป็น ODS ตามกำหนดเวลาสำหรับโครงการที่เกิดซ้ำซาก
+
+* การรวมเข้ากับการทำงานร่วมกันในการทำงานของสเปรดชีตบนคลาวด์
+
+* การสร้าง ODS ตามเงื่อนไขสำหรับแผงควบคุมการวิเคราะห์
+
+* การเก็บถาวรสไลด์อัตโนมัติเป็นไฟล์ ODS มาตรฐาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -54,7 +54,55 @@ L'API consente inoltre di convertire documenti WORDML protetti da password in PP
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversione di WORDML in PPSM consente la creazione di file di presentazione di PowerPoint abilitati per macro. Con le macro incorporate, le presentazioni PPSM possono eseguire azioni interattive, calcoli, gestione dei moduli e automazione basata sui dati proprio quando si apre la presentazione.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* Presentazioni interattive per la formazione con valutazione automatica e navigazione basata sui clic.
+
+* Presentazioni di vendita basate su macro con aggiornamenti dei prezzi in tempo reale.
+
+* Percorsi avanzati dei prodotti utilizzando transizioni e logica automatizzate.
+
+* Slides dimostrative dei processi aziendali con calcoli incorporati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* Generazione automatica di presentazioni basate su macro da contenuti strutturati in Word.
+
+* Conversione basata su trigger per materiali di formazione sulla conformità o sul personale.
+
+* Creazione programmata di mazzi interattivi PPSM per i flussi di inserimento.
+
+* Preparazione automatica di presentazioni mensili abilitate per macro da fonti di dati di Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

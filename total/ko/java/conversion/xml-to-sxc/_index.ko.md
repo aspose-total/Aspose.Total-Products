@@ -47,7 +47,51 @@ XML 파일을 SXC로 변환하는 동안 출력 SXC 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML을 SXC로 변환하면 기존 StarOffice 응용 프로그램 및 이전 OpenOffice 설치와의 호환성을 제공하여 XML 소스에서 내보낸 표 형식 데이터를 처리할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* XML 재고 데이터 세트를 SXC로 이관하여 기존 시스템 보고서에 사용합니다.
+
+* XML 판매 내보내기를 SXC로 변환하여 역사적 분석에 활용합니다.
+
+* XML 설문 결과를 SXC로 변환하여 오프라인에서 접근할 수 있도록 합니다.
+
+* 이전 스프레드시트 도구용 XML 학생 성적 데이터를 준비합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 예약된 XML을 SXC로 변환하여 기존 보고 파이프라인에 사용합니다.
+
+* 오프라인 SXC 분석을 위해 일괄 처리하는 XML 제품 카탈로그를 처리합니다.
+
+* 자동 트리거를 사용하여 XML 내보내기를 SXC로 변환하여 보관 목적으로 사용합니다.
+
+* 역사적 데이터 이괼을 위해 ETL 파이프라인에 통합합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

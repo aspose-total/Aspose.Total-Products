@@ -53,7 +53,51 @@ Med hjälp av API:t kan du också utföra PPTM-fil till ODT-konvertering med vat
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Konvertera PPTM till ODT** gör att PowerPoint-presentationer blir OpenDocument Text-filer, som är mycket använda i LibreOffice, Google Docs och tvärsnittsmiljöer.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* Dela presentationsinnehåll med användare av OpenOffice eller LibreOffice.
+
+* Konvertera slides till redigerbara textdokument för samarbetsredigering.
+
+* Återanvänd företagspresentationer för plattformar som inte är från Microsoft.
+
+* Förbereda tvärsnittsrapporter och guider.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Automatisk batchkonvertering för öppen källkods kontorspaket.
+
+* Integration i samarbetsdokumentplattformar som Nextcloud eller Google Docs.
+
+* Utlös ODT-generering för tillgänglighet på flera plattformar.
+
+* Automatisk arkivering av slides som redigerbara tvärsnittsdokument.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

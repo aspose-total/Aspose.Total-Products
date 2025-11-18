@@ -54,7 +54,51 @@ Interfejs API umożliwia również konwersję dokumentów WORDML chronionych has
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja formatu WORDML na POTX umożliwia tworzenie szablonów prezentacji opartych na XML, które są lekkie, znormalizowane i łatwe do edycji w prezentacjach korporacyjnych lub edukacyjnych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Projektowanie lekkich szablonów slajdów na podstawie raportów Word.
+
+* Konwertowanie propozycji opartych na Wordzie na edytowalne ramy prezentacji.
+
+* Szablony wykładów akademickich dla spójnego prowadzenia zajęć.
+
+* Szablony prezentacji marketingowych i sprzedażowych z ustrukturyzowaną zawartością Worda.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja szablonów Worda na slajdy POTX oparte na XML.
+
+* Zautomatyzowane procesy dla standaryzacji prezentacji korporacyjnych.
+
+* Wywoływane tworzenie wielu szablonów POTX dla powtarzających się raportów.
+
+* Integracja z platformami zarządzania prezentacjami w celu aktualizacji szablonów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ otherformats: XLSM XLT FODS XLSB XLS ODS XLAM XLTX XLTM SXC TSV DIF XLSX EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将WORDML转换为XLTM可创建带有宏的Excel模板，使组织能够将结构化的Word文档转换为可重复使用的电子表格蓝图，其中包含自动化逻辑和预定义布局。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 从Word中的合规性或审计报告创建企业级Excel模板。
+
+* 为人力资源、财务或制造业生成可重复使用的宏驱动表单。
+
+* 在部门间部署标准化的电子表格模板。
+
+* 将Word中的项目计划表转换为模板化的Excel工作流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从Word自动生成XLTM模板的文档后工作流程。
+
+* 基于时间表生成重复业务流程电子表格。
+
+* 与需要宏启用模板的ERP系统集成。
+
+* 根据文档上传或项目创建触发的模板克隆。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

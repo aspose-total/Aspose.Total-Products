@@ -54,7 +54,55 @@ otherformats: POTX PPSM POT PPTM PPS PPT POTM PPTX POWERPOINT PPSX CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του WORDML σε πρότυπα μορφής PowerPoint (PPT ή PPTX) επιτρέπει την άνετη μεταφορά δομημένου περιεχομένου Word - πίνακες, γραφήματα και σημειώσεις - σε δυναμικές διαφάνειες παρουσιάσεων συμβατές με το Microsoft PowerPoint.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Μετατροπή ετήσιων εκθέσεων βασισμένων σε Word σε επαγγελματικές διαφάνειες.
+
+* Προτάσεις πώλησης και παρουσιάσεις πώλησης που δημιουργούνται απευθείας από έγγραφα Word.
+
+* Εκπαιδευτικές διαλέξεις και εκπαιδευτικό υλικό σε μορφή PowerPoint.
+
+* Παρουσιάσεις επιχειρηματικής στρατηγικής και διαχείρισης έργων από δομημένα δεδομένα Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Προγραμματισμένη μαζική μετατροπή εγγράφων Word σε διαφάνειες PPTX για εκτελεστικές συναντήσεις.
+
+* Ενσωμάτωση σε συστήματα ροών εργασίας για αυτόματη δημιουργία αναφορών σε διαφάνειες.
+
+* Δημιουργία διαφανειών με ενεργοποίηση για επαναλαμβανόμενες εκπαιδευτικές συνεδρίες και σεμινάρια.
+
+* Αυτόματη δημιουργία συλλογής διαφανειών για πλατφόρμες επιχειρηματικής νοημοσύνης με υποστήριξη τεχνητής νοημοσύνης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

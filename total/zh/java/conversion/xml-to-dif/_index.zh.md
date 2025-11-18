@@ -49,7 +49,55 @@ otherformats: XLAM EXCEL SXC XLT XLSM XLTX ODS TSV MD XLSB TXT XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML转换为DIF可实现传统电子表格系统与现代基于XML的应用程序之间的无缝数据共享。DIF特别适用于数字和表格数据，保持与旧软件的兼容性，同时支持结构化数据工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 使用DIF将财务预测从XML导入到传统会计工具。
+
+* 将科学实验数据集从XML转移到统计软件。
+
+* 将XML调查结果转换为DIF以进行存档和合规目的。
+
+* 使用DIF将ERP XML导出与旧电子表格应用程序连接。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时每夜将XML转换为DIF以进行批量报告。
+
+* 用于研究数据聚合的ETL管道集成。
+
+* 将基于XML的ERP输出自动迁移到历史DIF电子表格。
+
+* 编写脚本触发器，将上传的XML转换为DIF以进行分析。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

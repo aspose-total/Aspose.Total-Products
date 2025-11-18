@@ -102,7 +102,55 @@ otherformats: FODS CSV TSV SXC DIF EXCEL ODS XLTX XLSB XLAM XLS XLSX XLTM XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת WORDML ל-XLSM מאפשרת לנתוני Word מובנים להפוך לגיליונות אלקטרוניים עם קישורים מאקרו, אידיאליים לתהליכי עבודה שדורשים אוטומציה אינטראקטיבית, לוגיקת VBA או חישובים מתקדמים ב-Excel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* תבניות פיננסיות עם מאקרוס ונוסחאות מוקדמות.
+
+* לוחות מחוונים לדיווחים אוטומטיים המבוססים על נתונים שנגזרים מתוך תוכן Word.
+
+* תהליכי עמיתות הדורשים סקריפטים לאימות ולוגיקה מבוססת מאקרו.
+
+* כלים אינטראקטיביים לתקציבון, תחזוק ותכנון.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת גיליונות עם מאקרו מתוזמן מתבניות Word חוזרות.
+
+* יצירה אוטומטית של טפסים XLSM ממודלי נתונים המבוססים על Word.
+
+* מאקרוס שמופעלים על סמכות מסמכי Word.
+
+* שילוב של גיליונות אלקטרוניים שנוצרו על ידי AI לתהליכי עבודה מאקרו מורשים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

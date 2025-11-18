@@ -102,7 +102,55 @@ otherformats: XLSM FODS XLTX TSV SXC XLSB XLS XLAM XLTM EXCEL CSV DIF XLSX XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת WORDML לתבנית ODS (גיליון עבודה בפורמט OpenDocument) מספקת שיתוף פעולה מלא עם עורכי גיליון עבודה קוד פתוח תוך שמירה על תוכן מובנה מתוך Word, כולל טבלאות מורכבות ונוסחאות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* תכנון פרויקטים בשיתוף עם טבלאות הנוצרות ב-Word שמיובאות לגיליונות עבודה בפורמט ODS.
+
+* איסוף נתונים אקדמיים או מחקריים מדוחות Word.
+
+* ייצוא תבניות תקציב וטבלאות פיננסיות מ-Word ל-ODS.
+
+* זרימות עבודה של מסמכים בקוד פתוח עבור ארגוני עמותות וממשלה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה אוטומטית של תבניות Word ל-ODS לצורך שיתוף ענן.
+
+* ייצוא מתוזמן של תוצאות סקרים ממסמכי Word.
+
+* אינטגרציה של ETL לדיווחים של עמותות באמצעות גיליונות עבודה בתקן פתוח.
+
+* המרה מופעלת של דוחות עמיתות מ-Word ל-ODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

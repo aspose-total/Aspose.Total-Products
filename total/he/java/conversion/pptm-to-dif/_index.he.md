@@ -102,7 +102,51 @@ otherformats: XLSB MHTML XLSM SXC FODS TSV CSV XLS XLAM XLTM XLTX EXCEL XLSX MAR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**המרת PPTM ל־DIF** מאפשרת העברת נתונים מספריים וטבלאיים במבנה שקופיות ממצגת לתבנית המעבר של נתונים לצורך תאימות בין יישומים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייצוא שקופיות עם נתונים סטטיסטיים ליישומי גיליון נתונים מורשים.
+
+* המרת מצגות מחקר לקבצי נתונים התואמים את תבנית ה־DIF.
+
+* שיתוף תוכן סקרים מספריים בשקופיות עם תוכנות שלא מקור Microsoft.
+
+* הכנת דוחות נתונים צלפים לשימוש אקדמי או עסקי צולב פלטפורמות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת PPTM ל־DIF באופן אוטומטי לצורך דיווח נתונים חוזר.
+
+* שילוב בזרימות עבודה של ETL למערכות נתונים מורשות.
+
+* המרה בצורת סדרות של שקופיות מספריות לקבצי DIF תקניים.
+
+* ייצוא נתונים מופעל ממצגות לפלטפורמות אנליטיות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

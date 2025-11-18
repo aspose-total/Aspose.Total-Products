@@ -135,7 +135,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XML ke SWF memungkinkan konten XML terstruktur diubah menjadi animasi Flash interaktif. Meskipun SWF adalah teknologi lama, masih berguna untuk modul e-learning lama, infografis interaktif, dan presentasi multimedia kaya.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengubah manual pelatihan XML menjadi tutorial SWF interaktif.
+
+* Mengonversi katalog produk XML menjadi presentasi animasi yang dapat diklik.
+
+* Migrasi kuis atau penilaian berbasis XML ke modul Flash e-learning.
+
+* Menyiapkan jadwal acara atau timeline berbasis XML untuk tampilan interaktif.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi XML ke SWF yang terjadwal untuk pembaruan konten e-learning.
+
+* Pengolahan batch data produk XML menjadi katalog SWF interaktif.
+
+* Generasi slide SWF yang dipicu dari materi kursus XML yang diunggah.
+
+* Integrasi dengan platform LMS untuk pengiriman konten XML ke SWF secara otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

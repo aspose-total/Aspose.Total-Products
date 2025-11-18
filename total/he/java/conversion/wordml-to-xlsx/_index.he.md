@@ -102,7 +102,21 @@ otherformats: TSV XLTX XLS XLSB XLT SXC DIF XLSM XLTM CSV FODS ODS XLAM EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```html
+<h2>Featured Products</h2>
+
+{< blocks/products/pf/agp/feature-section >}
+
+## Best Sellers
+
+- Product 1
+- Product 2
+- Product 3
+
+{< /blocks/products/pf/agp/feature-section >}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

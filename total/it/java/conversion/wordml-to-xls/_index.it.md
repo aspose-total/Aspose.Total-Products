@@ -61,7 +61,24 @@ Dopo aver convertito WORDML in XLS, [Aspose.Cells for Java](https://products.asp
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```html
+<h2>Benvenuti alla nostra offerta speciale!</h2>
+
+<p>Esplora i nostri prodotti in vetrina e approfitta delle promozioni esclusive.</p>
+
+## Caratteristiche principali:
+- Ampia selezione di prodotti
+- Qualità garantita
+- Spedizione veloce
+
+{< blocks/products/pf/agp/feature-section >}
+
+<h2>Scopri le nostre offerte!</h2>
+
+<p>Non perdere l'occasione di acquistare i migliori prodotti a prezzi vantaggiosi.</p>
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

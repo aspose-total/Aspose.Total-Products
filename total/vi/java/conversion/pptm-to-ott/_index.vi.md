@@ -53,7 +53,51 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPTM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Chuyển đổi PPTM sang OTT** tạo ra các mẫu văn bản OpenDocument từ các slide trình bày. Điều này cho phép sử dụng lại các mẫu trong môi trường văn phòng mã nguồn mở mà không phụ thuộc vào Microsoft Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tạo các mẫu văn bản chuẩn cho LibreOffice/OpenOffice.
+
+* Tái sử dụng thiết kế slide cho báo cáo dựa trên mẫu.
+
+* Chuyển đổi tài liệu đào tạo thành định dạng mẫu có thể chỉnh sửa.
+
+* Chuẩn bị các mẫu hợp tác đa người dùng cho các nền tảng mã nguồn mở.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi PPTM sang OTT theo lịch trình cho thư viện mẫu.
+
+* Tích hợp với quy trình nội dung doanh nghiệp trong các bộ công cụ mã nguồn mở.
+
+* Tạo mẫu theo thời gian thực cho hợp tác giữa nhiều bộ phận.
+
+* Tạo OTT hàng loạt cho mục đích đào tạo và báo cáo trên nhiều nền tảng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

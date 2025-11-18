@@ -61,7 +61,22 @@ Efter att ha konverterat WORDML till XLSX, gör [Aspose.Cells for Java](https://
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Välkommen till vår webbutik
+
+<h2>Specialerbjudande denna vecka</h2>
+
+- Gratis frakt på alla beställningar över 500 kr
+- 20% rabatt på utvalda varor
+
+<h2>Nya produkter</h2>
+
+{< blocks/products/pf/agp/feature-section >}
+
+<h2>Kundrecensioner</h2>
+
+{< blocks/reviews >}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML을 PPS로 변환하면 프레젠테이션 모드에서 직접 열리는 슬라이드 쇼가 생성되어 키오스크, 자동 보고 또는 분산된 클라이언트 덱에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* XML 마케팅 보고서를 자동 슬라이드 쇼로 변환하기.
+
+* XML 이벤트 일정을 무인 프레젠테이션 디스플레이용으로 준비하기.
+
+* XML 교육 콘텐츠를 즉시 보여줄 수 있는 슬라이드로 변환하기.
+
+* XML 제품 데모를 클라이언트용 PPS 프레젠테이션으로 이관하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 매일 대시보드 디스플레이용으로 예약된 XML을 PPS로 변환하기.
+
+* XML 업로드의 트리거 처리로 자동 실행 슬라이드 쇼로 변환하기.
+
+* 이벤트 프레젠테이션 준비를 위한 일괄 XML을 PPS로 변환하기.
+
+* 무인 슬라이드 배포를 위한 보고 파이프라인 통합하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

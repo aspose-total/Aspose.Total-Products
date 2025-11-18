@@ -61,7 +61,55 @@ Beim Konvertieren der PPTM-Datei in ODS können Sie Ihrem Ausgabe-ODS-Dateiforma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Konvertierung von PPTM zu ODS** wandelt Präsentationen in OpenDocument Spreadsheet-Dateien um, die weitgehend kompatibel mit LibreOffice, Google Sheets und anderen Tabellenkalkulations-Apps sind.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Umnutzung numerischer Präsentationsdaten für den plattformübergreifenden Gebrauch.
+
+* Umwandlung von Verkaufs- und Projekt-Dashboards in bearbeitbare ODS-Tabellenkalkulationen.
+
+* Datenaustausch mit Kunden oder Teams mithilfe von Open-Source-Tools.
+
+* Archivierung von Folien als Tabellendokumente für Berichterstattungszwecke.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Geplante Stapel-Konvertierung von PPTM zu ODS für wiederkehrende Projekte.
+
+* Integration in kollaborative cloudbasierte Tabellenkalkulations-Workflows.
+
+* Auslösung der ODS-Erstellung für Analyse-Dashboards.
+
+* Automatisierte Archivierung von Folien in standardisierten ODS-Dateien.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

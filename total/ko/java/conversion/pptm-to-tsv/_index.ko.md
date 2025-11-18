@@ -61,7 +61,51 @@ PPTM 파일을 TSV로 변환하는 동안 출력 TSV 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTM를 TSV로 변환**은 슬라이드 데이터를 탭으로 구분된 값 형식으로 출력하여 데이터베이스 및 분석 도구로 빠르게 가져오고 내보내는 것을 용이하게 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 데이터베이스 흡수를 위한 표 형태의 프레젠테이션 콘텐츠 내보내기.
+
+* 설문 또는 실험 데이터 슬라이드를 TSV 파일로 변환하기.
+
+* 구조화된 처리를 위해 데이터 분석가와 슬라이드 공유.
+
+* AI 기반 분석을 위해 숫자 슬라이드 콘텐츠 준비.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 자동화된 워크플로에 대한 일정 배치 PPTM-to-TSV 변환.
+
+* 분석 및 보고 파이프라인을 위한 트리거된 TSV 내보내기.
+
+* ETL 플랫폼과의 통합을 통한 슬라이드에서 데이터로의 변환.
+
+* 협업 도구를 위한 TSV로 실시간 슬라이드 데이터 추출.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

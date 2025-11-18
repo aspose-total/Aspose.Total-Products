@@ -61,7 +61,51 @@ otherformats: XLSB MHTML XLSM SXC FODS TSV DIF XLS XLAM XLTM XLTX EXCEL XLSX MAR
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**将PPTM转换为DIF** 可以将基于幻灯片的数字和表格数据转换为数据交换格式，实现跨应用程序兼容性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将带有统计数据的幻灯片导出到传统电子表格应用程序。
+
+* 将研究演示文稿转换为兼容DIF的数据集。
+
+* 与非Microsoft软件共享数字幻灯片内容。
+
+* 为学术或企业使用准备跨平台数据报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于定期数据报告的自动化PPTM到DIF转换。
+
+* 集成到传统数据系统的ETL工作流程中。
+
+* 将数字幻灯片批量转换为标准化的DIF文件。
+
+* 从演示文稿触发数据导出到分析平台。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ Po převodu WORDML do FODS vám [Aspose.Cells for Java](https://products.aspose.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod WORDML na FODS (Flat OpenDocument Spreadsheet) umožňuje kompatibilitu se standardními tabulkami s LibreOffice, OpenOffice a dalšími platformami s otevřeným zdrojovým kódem. Ideální pro uživatele potřebující pracovní postupy s dokumenty napříč platformami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Export strukturovaných tabulek Word pro spolupráci na projektech tabulek s otevřeným zdrojovým kódem.
+
+* Příprava dat založených na Wordu pro výzkum a akademickou analýzu.
+
+* Sdílení rozpadu nákladů na projektech ve formátech univerzálně kompatibilních.
+
+* Převod zápisů z jednání ve Wordu s vloženými tabulkami do editovatelných tabulek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná generace FODS z opakujících se dokumentů ve Wordu.
+
+* Automatická integrace s platformami pro otevřené zprávy.
+
+* Spouštěné exporty FODS pro spolupracující akademické projekty.
+
+* ETL potrubí pro převod strukturovaných formulářů ve Wordu pro výzkumnou analytiku.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

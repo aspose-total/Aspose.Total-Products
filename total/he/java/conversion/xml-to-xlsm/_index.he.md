@@ -102,7 +102,45 @@ otherformats: CSV XLTM ODS MD FODS EXCEL DIF XLT TSV XLSB XLTX SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XML ל-XLSM מאפשרת זרימות עבודה ממוחשבות מורכבות, נוסחאות ומאקרוס בתוך Excel, תוך שמירה על נתוני XML מובנים ליישומי גיליון דינמיים ואינטראקטיביים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייבוא דוחות פיננסיים בפורמט XML ל-XLSM עם חישובים אוטומטיים.
+* המרת סטים של נתוני מלאי בפורמט XML לדשבורדים ב-Excel עם מאקרוס.
+* פיתוח מעקבי עבודה מבוססי XML באמצעות XLSM.
+* המרת נתוני סקר ומחקר בפורמט XML לגיליונות XLSM אינטראקטיביים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת XML ל-XLSM מתוזמנת למחזורי דיווח אוטומטיים.
+* יצירת חוברות עבודה בעלות מאקרוס מפועלים מקבצי XML שהועלו.
+* צינורות ETL שמזינים פלטים בפורמט XML לדשבורדים ב-XLSM.
+* אוטומציה של המרות נתונים חוזרות מ-XML ל-XLSM עבור צוותים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

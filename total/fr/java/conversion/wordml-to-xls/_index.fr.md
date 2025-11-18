@@ -61,7 +61,29 @@ Après avoir converti WORDML en XLS, [Aspose.Cells for Java](https://products.as
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```markdown
+## Welcome to our website!
+
+<p>Discover our wide range of products:</p>
+
+- Computers
+- Laptops
+- Printers
+- Accessories
+
+{< blocks/products/pf/agp/feature-section >}
+
+## Contact us
+
+<p>For any inquiries, please contact us at:</p>
+
+- Email: info@example.com
+- Phone: 123-456-7890
+
+{< blocks/contact-form >}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -100,7 +100,51 @@ otherformats: POWERPOINT POT PPTX PPS PPT PPSM PPSX PPTM POTX POTM CSV DIF FODS 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת מסמכי WORDML (WordprocessingML) ל-ODP (OpenDocument Presentation) מאפשרת המרה קלה של תוכן מובנה ב-Word לשקפים בתקן פתוח, אידיאלי עבור LibreOffice Impress וכלים אחרים להצגת קוד פתוח.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת דוחות Word למצגות פגישות אינטראקטיביות.
+
+* המרת נתוני מחקר מבוססי Word לשקפים אקדמיים חזותיים.
+
+* יצירת תקצירי חברות עם קוד פתוח מטבלאות מובנות ב-Word.
+
+* שיתוף עדכוני פרויקטים והצעות באמצעות שקפים אוניברסליים בתקן ODP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רציפה של דוחות שבועיים ב-Word ל-ODP להפצת צוות.
+
+* יצירת שקפים ב-ODP ממערכות ניהול מסמכים באופן מופעל.
+
+* זרימת עבודה אוטומטית ליצירת מצגות מתבניות Word.
+
+* שילוב עם צינורות עבודה קולבורטיביים בתקן פתוח.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

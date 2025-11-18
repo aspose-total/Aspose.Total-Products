@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XML na SWF umožňuje strukturovaný obsah XML transformovat do interaktivních animací ve formátu Flash. I když je SWF technologie minulosti, stále je užitečná pro starší moduly e-learningu, interaktivní infografiky a bohaté multimediální prezentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Přeměna XML manuálů o tréninku na interaktivní SWF tutoriály.
+
+* Konverze XML produktových katalogů do animovaných, klikatelných prezentací.
+
+* Migrace XML založených kvízů nebo hodnocení do e-learningových Flash modulů.
+
+* Příprava XML plánů událostí nebo časových os pro interaktivní zobrazení.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný převod XML na SWF pro aktualizace obsahu e-learningu.
+
+* Hromadné zpracování XML produktových dat do interaktivních SWF katalogů.
+
+* Spouštěná generace SWF snímků z nahrávaného XML studijního materiálu.
+
+* Integrace s platformami LMS pro automatické doručování obsahu XML do SWF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

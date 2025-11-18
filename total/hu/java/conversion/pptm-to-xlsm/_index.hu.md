@@ -61,7 +61,51 @@ A PPTM fájl XLSM formátumba konvertálásakor vízjelet is hozzáadhat a kimen
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTM átalakítása XLSM-mé** makróval ellátott Excel munkafüzetek létrehozása, az előadásokból származó fejlett funkcionalitás megőrzése az automatizáláshoz és adatfeldolgozáshoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+
+
+* Interaktív dia diagramok exportálása makróval ellátott XLSM munkafüzetekbe.
+
+* Prezentáció alapú munkafolyamatsablonok átalakítása Excel automatizálási fájlokká.
+
+* Slide-ok megosztása előre elkészített makrókkal pénzügyekhez és műveletekhez.
+
+* Újrafelhasználható képzési vezérlőpultok létrehozása beágyazott automatizálással.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ismétlődő automatizált jelentésekhez történő tétel PPTM-XLSM konverzió.
+
+* Ütemezett frissítések makróval ellátott táblázatokhoz a slide-okból.
+
+* XLSM fájlok kiváltott generálása vállalati munkafolyamatokhoz.
+
+* Integráció üzleti folyamatautomatizálási rendszerekkel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

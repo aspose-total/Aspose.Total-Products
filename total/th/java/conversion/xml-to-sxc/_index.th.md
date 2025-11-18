@@ -47,7 +47,55 @@ otherformats: XLSB ODS FODS TXT XLSM XLT MD SXC EXCEL XLTX TSV DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XML เป็น SXC ช่วยให้เกิดความเข้ากันได้กับแอปพลิเคชัน StarOffice เวอร์ชันเก่าและติดตั้ง OpenOffice เวอร์ชันเก่า ทำให้สามารถจัดการข้อมูลตารางที่ส่งออกมาจากแหล่งข้อมูล XML ได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การย้ายชุดข้อมูลสินค้า XML เข้าสู่ SXC เพื่อรายงานระบบเก่า
+
+* การแปลงการส่งออกข้อมูลการขาย XML เป็น SXC เพื่อการวิเคราะห์ทางประวัติศาสตร์
+
+* การแปลงผลการสำรวจ XML เป็น SXC เพื่อการเข้าถึงแบบออฟไลน์
+
+* เตรียมข้อมูลเกรดนักเรียน XML สำหรับเครื่องมือสเปรดชีตเก่า
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XML เป็น SXC ตามกำหนดเวลาสำหรับท่อรายงานเก่า
+
+* การประมวลผลชุดข้อมูลผลิตภัณฑ์ XML แบบจำนวนมากสำหรับการวิเคราะห์ SXC แบบออฟไลน์
+
+* การเรียกใช้ตัวกระตุ้นอัตโนมัติในการแปลงการส่งออก XML เป็น SXC เพื่อวัตถุประสงค์การเก็บถาวร
+
+* การผสานเข้ากับท่อ ETL สำหรับการย้ายข้อมูลทางประวัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

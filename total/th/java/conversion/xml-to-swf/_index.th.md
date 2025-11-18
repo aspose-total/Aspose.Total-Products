@@ -135,7 +135,55 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XML เป็น SWF ช่วยให้เนื้อหา XML ที่มีโครงสร้างถูกแปลงเป็นภาพเคลื่อนไหว Flash ที่สามารถทำให้เกิดการกระทำแบบอินเทอร์แอคทีฟได้ แม้ว่า SWF เป็นเทคโนโลยีที่เก่าแก่แล้ว แต่ยังคงมีประโยชน์สำหรับโมดูลการเรียนรู้เก่า ๆ อิน๏โกราฟิกแบบอินเทอรแอคทีฟ และการนำเสนอมัลติมีเดียที่มีความหลากหลาย
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การแปลงคู่มือการอบรมแบบ XML เป็นบทแนะนำ SWF ที่สามารถทำให้เกิดการกระทำได้
+
+* การแปลงแคตตาล็อกสินค้าแบบ XML เป็นการนำเสนอที่สามารถคลิกได้และมีการเคลื่อนไหว
+
+* การย้ายข้อสอบหรือการประเมินที่ใช้ XML เข้าสู่โมดูลการเรียนรู้แบบ Flash
+
+* เตรียมตารางเวลาหรือไทม์ไลน์เหตุการณ์แบบ XML สำหรับการแสดงผลแบบอินเทอรแอคทีฟ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XML เป็น SWF ตามกำหนดเวลาสำหรับการอัปเดตเนื้อหาการเรียนรู้
+
+* การประมวลผลข้อมูลสินค้าแบบ XML ในแคตตาล็อก SWF ที่สามารถทำให้เกิดการกระทำได้
+
+* การสร้างสไลด์ SWF จากเนื้อหาคอร์ส XML ที่อัปโหลดโดยเรียกใช้
+
+* การผสานรวมกับแพลตฟอร์ม LMS เพื่อส่งเนื้อหา XML เป็น SWF โดยอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

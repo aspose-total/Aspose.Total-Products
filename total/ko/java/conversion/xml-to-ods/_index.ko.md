@@ -47,7 +47,51 @@ XML 파일을 ODS로 변환하는 동안 출력 ODS 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML을 ODS로 변환하면 구조화된 데이터를 유지하면서 오픈 소스 스프레드시트 플랫폼과 호환되며 고급 계산 및 시각화를 위한 데이터를 보존합니다. ODS는 크로스 플랫폼 워크플로 및 협업 분석에 선호됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 협업 리뷰를 위해 XML 기반 재무 보고서를 ODS로 변환합니다.
+
+* 직원 성과 분석을 위해 HR XML 데이터를 ODS로 변환합니다.
+
+* KPI 대시 보드를 위해 XML 전자 상거래 판매 보고서를 ODS로 가져옵니다.
+
+* 학술 연구를 위해 XML 실험 데이터 세트를 ODS로 이관합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 주간 보고를 위해 XML 내보내기를 ODS로 예약 변환합니다.
+
+* ETL 파이프라인을 사용하여 XML 설문 데이터를 자동으로 ODS로 변환합니다.
+
+* 클라우드 기반 협업 플랫폼에서 트리거된 XML을 ODS로 변환합니다.
+
+* 규정 준수 목적으로 XML 로그를 ODS 형식으로 자동으로 보관합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -49,7 +49,55 @@ otherformats: XLTM XLT XLAM SXC TXT XLSM DIF EXCEL XLTX TSV MD XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML转换为ODS可确保与开源电子表格平台兼容，同时保留结构化数据以进行高级计算和可视化。ODS适用于跨平台工作流和协作分析。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将基于XML的财务报表转换为ODS，以便进行协作审阅。
+
+* 将HR XML数据转换为ODS，用于员工绩效分析。
+
+* 将XML电子商务销售报告导入ODS，用于KPI仪表板。
+
+* 将XML实验数据集迁移到ODS，用于学术研究。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将XML导出定期转换为ODS，用于每周报告。
+
+* ETL管道自动将XML调查数据转换为ODS。
+
+* 在基于云的协作平台中触发XML到ODS的转换。
+
+* 自动将XML日志存档为ODS格式，以满足合规要求。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

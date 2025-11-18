@@ -61,7 +61,55 @@ WORDMLをSXCに変換した後、[Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDML（WordprocessingML）をSXC（StarOffice Calc Spreadsheet）に変換すると、構造化されたWordテーブルを従来のOpenOffice/StarOfficeスプレッドシートワークフローにシームレスに統合できます。この形式は、互換性が重要な規制された、歴史的な、およびアーカイブ環境でまだ使用されています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+
+
+* Wordベースのデータを従来のStarOffice互換のスプレッドシートシステムに移行する。
+
+* WordからSXCに統計レポートをエクスポートしてコンプライアンス環境に対応する。
+
+* 古いエンタープライズエコシステムで構造化された財務表を共有する。
+
+* 政府機関や学術機関での非Microsoftスプレッドシートワークフローのサポート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* アーカイブされたWord文書の一括変換を行い、歴史的分析のためにSXCに変換する。
+
+* 互換性のあるレポート作成のためにSXCスプレッドシートを自動生成する。
+
+* コンテンツ管理およびアーカイブシステムからのトリガーベースのSXCへのエクスポート。
+
+* レガシースプレッドシートシステムと現代のデータソースを結ぶETLパイプライン。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

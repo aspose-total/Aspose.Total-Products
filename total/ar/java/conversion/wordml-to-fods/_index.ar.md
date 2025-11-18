@@ -61,7 +61,51 @@ otherformats: ODS XLS TSV XLSM XLSX EXCEL SXC XLAM XLTM XLT XLSB XLTX FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل WORDML إلى FODS (جدول بيانات OpenDocument المسطح) يمكن أن يوفر التوافق مع جداول البيانات القياسية المفتوحة مثل LibreOffice و OpenOffice وغيرها من المنصات مفتوحة المصدر. مثالي للمستخدمين الذين يحتاجون إلى سير عمل للمستندات عبر المنصات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير جداول Word المهيكلة لمشاريع جداول بيانات مفتوحة المصدر للتعاون.
+
+* تحضير البيانات القائمة على Word للبحوث والتحليل الأكاديمي.
+
+* مشاركة تفاصيل تكلفة المشروع في تنسيقات متوافقة عالميًا.
+
+* تحويل محاضر الاجتماع في Word التي تحتوي على جداول مضمنة إلى جداول بيانات قابلة للتحرير.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+
+
+* إنشاء FODS بالدُفعات من وثائق Word المتكررة.
+
+* التكامل التلقائي مع منصات التقارير مفتوحة المصدر.
+
+* تصدير FODS المُشغّل لمشاريع أكاديمية تعاونية.
+
+* أنابيب ETL تحويل النماذج المهيكلة في Word لتحليلات البحوث.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

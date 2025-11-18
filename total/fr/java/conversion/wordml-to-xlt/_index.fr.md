@@ -61,7 +61,21 @@ Après avoir converti WORDML en XLT, [Aspose.Cells for Java](https://products.as
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```html
+<h2>Discover Our New Collection</h2>
+
+## Welcome to our latest collection of products. We are excited to present our newest items, carefully designed to meet your needs and preferences.
+
+- Trendy designs to elevate your style
+- High-quality materials for durability
+- Affordable prices for budget-friendly shopping
+
+{< blocks/products/pf/agp/feature-section >}
+
+## Don't miss out on these amazing products! Browse our catalog now and find the perfect items for you.
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

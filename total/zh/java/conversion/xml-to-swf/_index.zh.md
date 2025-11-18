@@ -135,7 +135,51 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML转换为SWF可以将结构化的XML内容转换为交互式Flash动画。虽然SWF是传统技术，但仍然适用于传统的电子学习模块、交互式信息图表和丰富的多媒体演示文稿。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将XML培训手册转换为交互式SWF教程。
+
+* 将XML产品目录转换为动画、可点击的演示文稿。
+
+* 将基于XML的测验或评估转换为电子学习Flash模块。
+
+* 为交互式显示准备XML事件日程表或时间轴。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时将XML转换为SWF，用于更新电子学习内容。
+
+* 批量处理XML产品数据，制作交互式SWF目录。
+
+* 从上传的XML课程材料触发生成SWF幻灯片。
+
+* 与LMS平台集成，实现自动的XML到SWF内容交付。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

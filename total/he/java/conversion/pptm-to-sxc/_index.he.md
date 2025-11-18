@@ -102,7 +102,51 @@ otherformats: XLSX XLTX MARKDOWN XLS XLTM XLAM DIF XLT CSV XLSM ODS XLSB EXCEL T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**המרת PPTM ל-SXC** יוצר גיליונות StarOffice Calc מטבלאות ותרשימים בשקפים, תומך בסביבות משרד קוד פתוח מורשות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* חילוץ נתונים ספרתיים מבוססי שקפים עבור חבילות משרד היסטוריות.
+
+* הכנת מצגות עסקיות ומחקר כגיליונות SXC.
+
+* המרת תרשימים וטבלאות לפורמטים גיליוניים הניתנים לשימוש חוזר.
+
+* ארכוב נתוני מצגת בפורמטים משרד קוד פתוח מורשים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת רצף PPTM ל-SXC לצורך ארכיבה.
+
+* יצירת גיליונות SXC באופן מופעל לשימוש צלחות-מערכת.
+
+* שילוב בזרזות משרד קוד פתוח מורשים.
+
+* עדכונים מתוזמנים לחילוץ נתונים היסטוריים משקפים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

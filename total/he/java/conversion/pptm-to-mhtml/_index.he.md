@@ -102,7 +102,51 @@ otherformats: XLTX XLSX XLSB MARKDOWN DIF XLS CSV XLAM XLTM XLSM EXCEL SXC TSV F
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**המרת PPTM ל-MHTML** מאפשרת לשמור שקפי מצגת כארכיון של דף אינטרנט אחד, המשלב תוכן HTML ומשאבים בקובץ אחד. זה אידיאלי לשיתוף, לארכיבה מקוונת ולגישה לאינטרנט לא מקוונת.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* שיתוף מצגות תדמית עסקיות כארכיונות דפי אינטרנט בקובץ אחד.
+
+* ארכיבת שקפים לצפייה לא מקוונת או גישה לאינטרנט הפנימי.
+
+* המרת מצגות הדרכה למשאבים ניידים מבוססי HTML.
+
+* הכנת מצגות להפצה באמצעות דואר אלקטרוני ללא קבצים מצורפים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת קובצים מסוג PPTM ל-MHTML בצורה צפופה לפורטלי תיעוד פנימיים.
+
+* יצירת ארכיונים של מצגות מוכנים לרשת לפלטפורמות למידה מקוונות.
+
+* שילוב במערכות לניהול תוכן לתוכן דפי אינטרנט בקובץ אחד.
+
+* המרת MHTML מתוזמנת למצגות תדמית חוזרות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

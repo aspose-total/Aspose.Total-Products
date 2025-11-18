@@ -61,7 +61,55 @@ otherformats: SXC XLSX XLSB XLT FODS XLAM XLSM XLTM DIF XLTX TSV EXCEL XLS ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование WORDML (WordprocessingML) в SXC (таблица StarOffice Calc) обеспечивает беспрепятственную интеграцию структурированных таблиц Word в рабочие процессы устаревших таблиц OpenOffice/StarOffice. Этот формат все еще используется в регулируемых, исторических и архивных средах, где важна совместимость.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Миграция данных на основе Word в устаревшие системы таблиц, совместимые со StarOffice.
+
+* Экспорт статистических отчетов из Word в SXC для соблюдения требований среды.
+
+* Обмен структурированными финансовыми таблицами в старых корпоративных экосистемах.
+
+* Поддержка рабочих процессов по таблицам не-Microsoft в государственных или учебных учреждениях.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование архивированных документов Word в SXC для исторического анализа.
+
+* Автоматическое создание таблиц SXC для обратной совместимой отчетности.
+
+* Экспорт в SXC на основе триггеров из систем управления контентом и архивных систем.
+
+* ETL-конвейеры, соединяющие устаревшие системы таблиц современными источниками данных.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

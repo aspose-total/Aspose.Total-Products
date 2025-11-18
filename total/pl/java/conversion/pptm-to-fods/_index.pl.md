@@ -61,7 +61,51 @@ Podczas konwertowania pliku PPTM do FODS możesz również dodać znak wodny do 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Konwertowanie PPTM na FODS** generuje płaskie pliki arkusza kalkulacyjnego OpenDocument, idealne do udostępniania edytowalnych treści arkusza kalkulacyjnego w środowiskach LibreOffice i OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Konwertowanie slajdów finansowych i projektowych na FODS do pakietów biurowych typu open-source.
+
+* Udostępnianie edytowalnych arkuszy kalkulacyjnych zespołom wieloplatformowym.
+
+* Przekształcanie tabel prezentacji w współpracujące formaty open-source.
+
+* Przygotowywanie slajdów akademickich i biznesowych jako FODS do edycji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa PPTM na FODS dla projektów współpracy.
+
+* Zaplanowane aktualizacje danych prezentacji do arkuszy kalkulacyjnych typu open-source.
+
+* Wywoływane generowanie plików FODS z dynamicznych tabel slajdów.
+
+* Integracja z systemami zarządzania treścią open-source dla przedsiębiorstw.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

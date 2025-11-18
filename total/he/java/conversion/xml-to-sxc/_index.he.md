@@ -102,7 +102,55 @@ otherformats: XLSB ODS FODS TXT XLSM XLT MD CSV EXCEL XLTX TSV DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XML ל-SXC מספקת תאימות עם יישומי StarOffice מורשים והתקנות ישנות יותר של OpenOffice, שמאפשרת עיבוד של נתוני טבלה שיוצאים ממקורות XML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* העברת סטים של נתוני מלאי XML ל-SXC לצורך דוחות מערכת ישנים.
+
+* המרת ייצואי מכירות XML ל-SXC לצורך ניתוח היסטורי.
+
+* שינוי תוצאות סקר XML ל-SXC לנגישות לא מקוונת.
+
+* הכנת נתוני ציוני תלמידים XML לכלים גיליון עבודה ישנים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת XML מתוזמנת ל-SXC לצורך צינורות דיווח ישנים.
+
+* עיבוד ספקי מוצרים XML בצורה צפופה לניתוח SXC לא מקוון.
+
+* טריגרים אוטומטיים שממירים ייצואי XML ל-SXC לצורך ארכיון.
+
+* אינטגרציה לתוך צינורות ETL להעברת נתונים היסטוריים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

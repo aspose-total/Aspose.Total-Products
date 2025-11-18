@@ -47,7 +47,55 @@ XMLファイルをTSVに変換するときに、出力TSVファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XMLをTSVに変換すると、アナリティクス、スクリプティング、機械学習パイプラインに適した、軽量で区切り記号ベースのスプレッドシート形式が提供されます。TSVはUnix/Linux環境で解析しやすく、カンマの競合を回避できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* XMLウェブトラフィックログをアナリティクススクリプト用のTSVに変換する。
+
+* 製品カタログXMLを大量のデータベースインポート用のTSVに変換する。
+
+* AI/MLモデルへのXML調査データの準備をTSVとして行う。
+
+* データパイプライン用に財務取引XMLをTSVにエクスポートする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 夜間のETLワークフロー用の自動XMLからTSVへの変換。
+
+* クラウドストレージにアップロードされたXMLファイルからトリガーされたTSV生成。
+
+* アナリティクスダッシュボード用にXMLサーバーログをバッチ処理してTSVに変換。
+
+* CI/CDデータパイプラインにXMLからTSVへの変換を統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

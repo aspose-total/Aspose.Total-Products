@@ -54,7 +54,55 @@ Az API azt is lehetővé teszi, hogy jelszóval védett WORDML dokumentumokat ko
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A WORDML átalakítása PPTX formátummá átalakítja a strukturált Word dokumentumokat az összes modern Microsoft Office verzióval kompatibilis standard PowerPoint prezentációkká. A PPTX lehetővé teszi a szöveges tartalom könnyű szerkesztését, együttműködést és vizuális javítását.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+
+
+* Éves jelentések, javaslatok és fehér könyvek átalakítása vizuálisan vonzó diaanyaggá.
+
+* Marketing- és értékesítési prezentációk közvetlenül Word sablonokból.
+
+* Akadémiai és kutatási előadások professzionális diavetítés formátumban.
+
+* Üzleti stratégiai csomagok és projektfrissítések a csapatmunkához.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Word sablonok időzített átalakítása PPTX formátummá ismétlődő jelentésekhez.
+
+* Dialejek kiváltott generálása Word alapú megbeszélési jegyzőkönyvekből.
+
+* Integráció mesterséges intelligenciával működő tartalomgeneráló platformokkal az automatizált diaalkotáshoz.
+
+* Tömeges PPTX exportok tréningekhez, szemináriumokhoz és webináriumokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

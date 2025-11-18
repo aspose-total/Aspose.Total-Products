@@ -54,7 +54,55 @@ Interfejs API umożliwia również konwersję dokumentów WORDML chronionych has
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików WORDML na format PPS (PowerPoint Show) zamienia statyczne dokumenty Worda w prezentację slajdów do odtwarzania natychmiastowego. Pliki PPS otwierają się bezpośrednio w trybie prezentacji, co sprawia, że są idealne do kiosków, petli szkoleniowych i automatycznych prezentacji biznesowych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Automatyczne odtwarzanie korporacyjnych ogłoszeń opartych na Wordzie na ekranach cyfrowych.
+
+* Prezentacje w stylu kiosku na wystawach, w środowiskach handlowych lub holach.
+
+* Automatyczne odtwarzanie wykładów i podsumowań lekcyjnych generowanych z notatek w Wordzie.
+
+* Prezentacje marketingowe tworzone z sformatowanych arkuszy produktowych w Wordzie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa raportów z Worda na PPS do komunikacji wewnętrznej.
+
+* Zaplanowane eksporty prezentacji slajdów dla systemów znaków cyfrowych.
+
+* Wywoływane generowanie PPS dla wydarzeń lub pokazów konferencyjnych.
+
+* Integracja z platformami DMS do automatycznego publikowania dokumentów Worda jako petli prezentacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

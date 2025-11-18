@@ -54,7 +54,51 @@ API také umožňuje převádět dokumenty WORDML chráněné heslem na POTM. Po
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod formátu WORDML na formát POTM umožňuje vytváření makro-povolených šablon pro PowerPoint, kombinující strukturovaná data z Wordu s automatizovanou funkcionalitou snímků pro interaktivní prezentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření interaktivních výukových modulů s vestavěnými makry.
+
+* Makro-povolené firemní řídící panely odvozené z tabulek Wordu.
+
+* Finanční modelovací snímky s automatizovanými výpočty.
+
+* Vzdělávací snímky s interaktivními prvky pro e-learning.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované generování makro-povolených šablon z Wordových zpráv.
+
+* Spouštěný vytváření POTM pro opakující se aktualizační prezentace projektů.
+
+* Integrace s LMS systémy pro automatizované výukové snímky.
+
+* Hromadný převod obsahu z Wordu do interaktivních PowerPointových maker.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

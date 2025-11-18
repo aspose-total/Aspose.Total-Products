@@ -54,7 +54,55 @@ API také umožňuje převádět dokumenty WORDML chráněné heslem na PPS. Pok
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů WORDML do formátu PPS (PowerPoint Show) proměňuje statické dokumenty Wordu na okamžité prezentace ve formě diashow. Soubory PPS se otevírají přímo v režimu diashow, což je ideální pro informační pulty, školení a automatické firemní prezentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Automatické přehrávání firemních oznámení založených na Wordu na digitálních obrazovkách.
+
+* Prezentace ve stylu informačního pultu pro výstavy, maloobchodní prostředí nebo vstupní prostory.
+
+* Automatické přehrávání přednášek a shrnutí z hodin vytvořených z poznámek v Wordu.
+
+* Marketingové diashowy vytvořené z formátovaných produktových listů v Wordu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná konverze zpráv z Wordu do formátu PPS pro interní komunikaci.
+
+* Plánované exporty diashow pro systémy digitálního označování.
+
+* Spouštěná generace PPS pro události nebo konferenční obrazovky.
+
+* Integrace s platformami DMS pro automatické publikování dokumentů Wordu jako smyček diashow.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

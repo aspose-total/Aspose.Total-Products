@@ -53,7 +53,51 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Conversion de PPTM en WordML** permet de générer des documents Word basés sur XML à partir des diapositives de présentation. WordML garantit un balisage structuré du document, permettant un accès programmatique et une automatisation du contenu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Exportation des diapositives en XML pour la génération automatique de documents.
+
+* Réutilisation du contenu de formation et de présentation pour des flux de travail programmatiques.
+
+* Génération de rapports structurés pour des projets basés sur les données.
+
+* Préparation de la documentation intégrée aux plateformes CMS et DMS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de PPTM en WordML pour une publication basée sur XML.
+
+* Intégration avec des systèmes d'automatisation de contenu pour des flux de travail de documents structurés.
+
+* Génération en temps réel de WordML pour des applications de documents basées sur le web.
+
+* Extraction automatique de données et réutilisation à partir de présentations vers des documents XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,51 @@ otherformats: EXCEL DIF XLTM MHTML XLSM XLSX XLS FODS XLTX TSV XLAM ODS SXC XLT 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**تحويل PPTM إلى XLSM** ينتج عنه سجلات عمل Excel ممكنة للماكرو، محافظًا على الوظائف المتقدمة من الشرائح للتشغيل التلقائي ومعالجة البيانات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير رسوم بيانية تفاعلية من الشرائح إلى سجلات عمل XLSM ممكنة للماكرو.
+
+* تحويل قوالب سير العمل القائمة على العروض التقديمية إلى ملفات Excel للتشغيل التلقائي.
+
+* مشاركة الشرائح مع ماكروهات مُبنية مسبقًا للمالية والعمليات.
+
+* إنشاء لوحات تدريب قابلة لإعادة الاستخدام مع تضمين التشغيل التلقائي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل دُفعي من PPTM إلى XLSM لتقارير متكررة تلقائية.
+
+* تحديثات مجدولة للجداول الممكنة للماكرو من الشرائح.
+
+* إنشاء ملفات XLSM بناءً على طلب لسير العمل المؤسسية.
+
+* التكامل مع أنظمة أتمتة عمليات الأعمال.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

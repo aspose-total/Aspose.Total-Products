@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPTM sang FODS, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Chuyển đổi PPTM thành FODS** tạo ra các tệp Bảng tính OpenDocument phẳng, lý tưởng để chia sẻ nội dung bảng tính có thể chỉnh sửa trên môi trường LibreOffice và OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi các trang tài chính và dự án thành FODS cho các bộ ứng dụng văn phòng mã nguồn mở.
+
+* Chia sẻ bảng tính có thể chỉnh sửa với các nhóm đa nền tảng.
+
+* Tái sử dụng các bảng trình bày thành các định dạng mã nguồn mở hợp tác.
+
+* Chuẩn bị các trang trình bày học thuật và kinh doanh dưới dạng FODS để chỉnh sửa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ PPTM sang FODS cho các dự án hợp tác.
+
+* Cập nhật định kỳ dữ liệu trình bày vào các bảng tính mã nguồn mở.
+
+* Tạo ra các tệp FODS từ các bảng trình bày động.
+
+* Tích hợp vào các hệ thống quản lý nội dung mã nguồn mở doanh nghiệp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -49,7 +49,51 @@ otherformats: XLTX XLSM XLSB FODS XLT TXT SXC DIF XLTM MD ODS EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 XML 转换为 XLT 可以创建标准化的 Excel 模板，使 XML 数据可重复使用于定期报告、财务分析和团队范围内的标准化电子表格。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将 XML 月度报告转换为可重复使用的 XLT 模板，供财务团队使用。
+
+* 为定期导出准备 XML 销售或库存模板。
+
+* 将 XML 项目数据转换为标准化报告模板。
+
+* 为自动化预算工作流创建基于 XML 的 Excel 模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时将 XML 转换为 XLT，用于定期模板创建。
+
+* 批量处理 XML 数据集，生成适用于多个部门的 Excel 模板。
+
+* 从上传的 XML 触发 XLT 生成，以进行一致的报告。
+
+* 集成到自动化流程中，用于 XML 模板管理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

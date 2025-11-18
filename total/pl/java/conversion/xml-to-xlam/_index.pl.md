@@ -47,7 +47,55 @@ Konwertując plik XML na XLAM, możesz także dodać znak wodny do wyjściowego 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie XML na XLAM pozwala na zamknięcie danych XML i makr w wielokrotnie używane dodatki do Excela, umożliwiając zautomatyzowane rozwiązania arkuszy kalkulacyjnych, skomplikowane obliczenia i niestandardowe przepływy pracy w Excelu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Pakowanie obliczeń KPI opartych na XML jako dodatki do Excela dla menedżerów.
+
+* Tworzenie wielokrotnie używanych pulpitów nawigacyjnych z zestawów danych sprzedażowych lub inwentarzowych w formacie XML.
+
+* Tworzenie narzędzi raportowania opartych na makrach XML dla zespołów finansowych.
+
+* Automatyzacja przepływów pracy transformacji danych XML w Excelu za pomocą XLAM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja XML na XLAM dla powtarzających się raportów biznesowych.
+
+* Przetwarzanie wsadowe danych XML w makroaktywowane dodatki dla automatyzacji.
+
+* Generowanie XLAM na żądanie z przesłanych plików XML dla dynamicznych przepływów pracy w Excelu.
+
+* Integracja z skryptami VBA dla chmurowych potoków danych XML do XLAM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

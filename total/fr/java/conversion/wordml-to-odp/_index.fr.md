@@ -54,7 +54,51 @@ L'API vous permet également de convertir des documents WORDML protégés par mo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de documents WORDML (WordprocessingML) en ODP (OpenDocument Presentation) permet de transformer facilement le contenu structuré de Word en diapositives au format ouvert, idéal pour LibreOffice Impress et d'autres outils de présentation open-source.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Conversion de rapports Word en présentations interactives pour les réunions.
+
+* Transformation des données de recherche basées sur Word en diapositives académiques visuelles.
+
+* Création de briefings d'entreprise open-source à partir de tableaux Word structurés.
+
+* Partage des mises à jour de projets et des propositions à l'aide de diapositives ODP universelles.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de rapports Word hebdomadaires en ODP pour distribution à l'équipe.
+
+* Création déclenchée de diapositives ODP à partir de systèmes de gestion de documents.
+
+* Workflow automatisé pour générer des présentations à partir de modèles Word.
+
+* Intégration avec des pipelines de présentation open-source collaboratifs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,55 @@ Při převodu souboru XML na SXC můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XML na SXC zajišťuje kompatibilitu s aplikacemi starších verzí StarOffice a staršími instalacemi OpenOffice, umožňuje zpracování tabulkových dat exportovaných ze zdrojů XML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Migrace inventárních dat XML do SXC pro sestavy starých systémů.
+
+* Převod XML exportů prodejů do SXC pro historickou analytiku.
+
+* Transformace výsledků průzkumu XML do SXC pro offline přístupnost.
+
+* Příprava dat o studentských známkách v XML pro starší tabulkové nástroje.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný převod XML na SXC pro zpracování dat v legacy reportovacích potrubích.
+
+* Dávkové zpracování XML katalogů produktů pro offline analýzu v SXC.
+
+* Automatické spouštěče pro převod XML exportů do SXC pro archivační účely.
+
+* Integrace do ETL potrubí pro migraci historických dat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,51 @@ otherformats: XLAM TSV ODS XLS XLTM XLTX MARKDOWN DIF EXCEL XLT XLSB XLSM FODS X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Μετατροπή PPTM σε XLT** μετατρέπει τα δεδομένα παρουσίασης σε παλιά πρότυπα Excel για συνεπή μορφοποίηση και επαναχρησιμοποίηση αναφορών.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Δημιουργία επαναχρησιμοποιήσιμων προτύπων Excel από διαφάνειες έργων.
+
+* Τυποποίηση οικονομικών αναφορών με συνεπή μορφοποίηση.
+
+* Αρχειοθέτηση δεδομένων εταιρικών παρουσιάσεων ως πρότυπα XLT.
+
+* Προετοιμασία εκπαιδευτικών ή ερευνητικών διαφανειών ως επαναχρησιμοποιήσιμα πρότυπα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένη μετατροπή PPTM σε XLT για βιβλιοθήκες προτύπων.
+
+* Μαζική δημιουργία τυποποιημένων προτύπων αναφορών.
+
+* Ενημερώσεις με εκκίνηση για την επαναλαμβανόμενη δημιουργία προτύπων.
+
+* Ενσωμάτωση με αυτοματοποιημένες ροές εγγράφων και υπολογιστικών φύλλων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

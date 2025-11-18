@@ -54,7 +54,55 @@ API ยังช่วยให้คุณแปลงเอกสาร WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง WORDML เป็นรูปแบบ PPSX จะสร้าง PowerPoint Show ที่ใช้ XML ซึ่งเปิดโดยตรงในโหมดสไลด์โชว์และถูกปรับOptimize สำหรับสภาพแวดล้อม PowerPoint ที่ทันสมัย PPSX มีความสามารถในการพกพาที่เบา และมีความเข้ากันได้ทางด้านภาพโดยไม่ต้องใช้ macros.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การส่งมอบสไลด์โชว์ที่ทันสมัยสำหรับการฝึกอบรม การนำเสนอ และการสื่อสารภายใน.
+
+* การเล่นอัตโนมัติสำหรับงานแสดงสินค้า งานแสดงสินค้า และหน้าจอห้องรอ.
+
+* การแปลงเสนอข้อเสนอจาก Word เป็นสไลด์โชว์พร้อมใช้งาน.
+
+* การแบ่งปันสรุปการบรรยายและสัมมนาในรูปแบบการเล่นทันที.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงรายงาน Word ที่เกิดซ้ำซากเป็น PPSX ตามกำหนดเวลาสำหรับการกระจายทีม.
+
+* การสร้างสไลด์โชว์โดยอัตโนมัติสำหรับกิจกรรมของบริษัทและสถาบันการศึกษา.
+
+* การแปลงจากเทมเพลต Word เป็นการนำเสนอพร้อมใช้งาน.
+
+* การผสานกับระบบ LMS หรือระบบอินทราเน็ตสำหรับการแสดงเนื้อหา Word โดยอัตโนมัติ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

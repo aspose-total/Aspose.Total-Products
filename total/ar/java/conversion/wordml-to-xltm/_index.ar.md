@@ -61,7 +61,51 @@ otherformats: XLSM XLT FODS XLSB XLS ODS XLAM XLTX XLTM SXC TSV DIF XLSX EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل WORDML إلى XLTM يخلق قوالب إكسل محملة بالماكرو، مما يسمح للمؤسسات بتحويل مستندات Word المهيكلة إلى نماذج جداول بيانات قابلة لإعادة الاستخدام مع منطق الأتمتة والتخطيطات المحددة مسبقًا.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء قوالب إكسل عالية المستوى من تقارير الامتثال أو التدقيق في Word.
+
+* إنشاء نماذج قابلة لإعادة الاستخدام مدعومة بالماكرو لإدارة الموارد البشرية أو المالية أو التصنيع.
+
+* نشر قوالب جداول بيانات موحدة عبر الإدارات.
+
+* تحويل جداول تخطيط المشاريع من Word إلى سير عمل إكسل مقتنن.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* سيناريوهات ما بعد الوثيقة التي تنشئ تلقائيًا قوالب XLTM من Word.
+
+* إنشاء مجدول لجداول العمل العملية التجارية المتكررة.
+
+* التكامل مع أنظمة تخطيط موارد المؤسسات التي تتطلب قوالب محملة بالماكرو.
+
+* تكرار نموذج القالب الذي يتم تشغيله عند تحميل المستندات أو إنشاء المشروع.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

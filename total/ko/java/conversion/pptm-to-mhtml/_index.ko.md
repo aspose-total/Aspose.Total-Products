@@ -61,7 +61,55 @@ PPTM 파일을 MHTML로 변환하는 동안 출력 MHTML 파일 형식에 워터
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTM를 MHTML로 변환**하면 프레젠테이션 슬라이드를 HTML 콘텐츠와 리소스를 하나의 파일로 결합한 웹 페이지 아카이브로 저장할 수 있습니다. 이는 공유, 온라인 아카이빙 및 오프라인 웹 액세스에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 기업 프레젠테이션을 단일 파일 웹 아카이브로 공유하기.
+
+* 오프라인 브라우징이나 인트라넷 액세스를 위해 슬라이드 아카이브 보관하기.
+
+* 휴대용 HTML 기반 리소스로 교육 덱 변환하기.
+
+* 첨부 파일 없이 이메일 배포용 프레젠테이션 준비하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 내부 문서 포털을 위한 일괄 PPTM-to-MHTML 변환.
+
+* e-러닝 플랫폼을 위한 웹용 슬라이드 아카이브 생성 트리거.
+
+* 단일 파일 웹 콘텐츠를 위한 콘텐츠 관리 시스템 통합.
+
+* 반복되는 기업 프레젠테이션을 위한 예약된 MHTML 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

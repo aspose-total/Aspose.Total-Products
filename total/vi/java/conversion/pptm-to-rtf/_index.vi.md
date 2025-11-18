@@ -53,7 +53,51 @@ Sử dụng API, bạn cũng có thể thực hiện chuyển đổi tệp PPTM 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Chuyển đổi PPTM sang RTF** biến các slide thành tài liệu định dạng Rich Text, đảm bảo khả năng tương thích rộng trên các hệ điều hành và trình xử lý văn bản trong khi giữ nguyên định dạng cơ bản.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Lưu trữ nội dung bài thuyết trình dưới dạng định dạng mà mọi người có thể truy cập.
+
+* Chia sẻ slide dưới dạng tài liệu có thể chỉnh sửa mà không bị ràng buộc bởi phần mềm.
+
+* Chuyển đổi báo cáo doanh nghiệp để đọc trên nhiều nền tảng.
+
+* Chuẩn bị hướng dẫn đào tạo trong các định dạng nhẹ, dễ mang theo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt PPTM sang RTF để tích hợp vào hệ thống cũ.
+
+* Quy trình làm việc kích hoạt để xuất slide sang định dạng văn bản chung.
+
+* Lưu trữ định kỳ bài thuyết trình dưới dạng RTF cho mục đích tuân thủ.
+
+* Tích hợp với đường ống tự động hóa tài liệu để tạo ra đầu ra dễ truy cập.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

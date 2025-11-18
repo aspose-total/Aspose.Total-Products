@@ -47,7 +47,55 @@ Lors de la conversion du fichier XML en SXC, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de XML en SXC assure la compatibilité avec les anciennes applications StarOffice et les anciennes installations d'OpenOffice, permettant ainsi de traiter les données tabulaires exportées à partir de sources XML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Migration des ensembles de données d'inventaire XML en SXC pour les rapports des systèmes hérités.
+
+* Conversion des exportations de ventes XML en SXC pour l'analyse historique.
+
+* Transformation des résultats d'enquêtes XML en SXC pour une accessibilité hors ligne.
+
+* Préparation des données de notes des étudiants en XML pour les anciens outils de tableur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion planifiée de XML en SXC pour les pipelines de reporting hérités.
+
+* Traitement par lots des catalogues de produits XML pour une analyse SXC hors ligne.
+
+* Déclencheurs automatisés convertissant les exportations XML en SXC à des fins d'archivage.
+
+* Intégration dans les pipelines ETL pour la migration des données historiques.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

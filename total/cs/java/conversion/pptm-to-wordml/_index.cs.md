@@ -53,7 +53,51 @@ Pomocí API můžete také provést převod PPTM souboru na WORDML s vodoznakem.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Převod PPTM na WordML** umožňuje generování dokumentů ve formátu XML z prezentací. WordML zajišťuje strukturované značkování dokumentů, umožňuje programový přístup a automatizaci obsahu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Exportování snímků do XML pro automatizovanou generaci dokumentů.
+
+* Přetvoření školení a prezentací pro programové pracovní postupy.
+
+* Generování strukturovaných zpráv pro projekty řízené daty.
+
+* Příprava dokumentace, která integruje s platformami CMS a DMS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod PPTM na WordML pro publikování založené na XML.
+
+* Integrace s systémy pro automatizaci obsahu pro strukturované pracovní postupy s dokumenty.
+
+* Generování WordML v reálném čase pro webové aplikace s dokumenty.
+
+* Automatizované extrahování dat a přetvoření z prezentací do dokumentů ve formátu XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

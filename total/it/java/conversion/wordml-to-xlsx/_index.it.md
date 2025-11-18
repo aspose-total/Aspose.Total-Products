@@ -61,7 +61,22 @@ Dopo aver convertito WORDML in XLSX, [Aspose.Cells for Java](https://products.as
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```html
+<h2>Benvenuti nel nostro negozio online!</h2>
+
+<p>Esplora la nostra vasta selezione di prodotti di alta qualità e trova tutto ciò di cui hai bisogno per la tua casa.</p>
+
+<h3>Cosa offriamo:</h3>
+<ul>
+<li>Elettrodomestici per la cucina</li>
+<li>Arredamento moderno e di design</li>
+<li>Accessori per la casa</li>
+</ul>
+
+<h2>Approfitta delle nostre offerte speciali!</h2>
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

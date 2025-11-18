@@ -47,7 +47,55 @@ otherformats: TXT MD XLT FODS XLTX EXCEL XLSB XLAM XLSM TSV XLTM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XML إلى FODS يسمح باستخدام جداول بيانات مفتوحة المعايير للمشاريع التعاونية وعبر الأنظمة. يحتفظ FODS بالهيكل الخاص بـ XML مع تمكين التوافق مع جداول البيانات في LibreOffice و OpenOffice وغيرها من حزم البرامج مفتوحة المصدر.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل بيانات الميزانية القائمة على XML إلى FODS لتحرير الفريق بشكل تعاوني.
+
+* تحويل ملفات XML لقياسات علمية إلى FODS للأبحاث القابلة لإعادة الإنتاج.
+
+* نقل تقارير أداء الطلاب القائمة على XML إلى أدوات جداول البيانات مفتوحة المصدر.
+
+* إعداد تصدير XML من تطبيقات إدارة المشاريع لتحليلها في FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتأة" %}}
+
+
+
+* تحويل تلقائي ليلاً من XML إلى FODS لأنظمة التقارير مفتوحة المصدر.
+
+* معالجة دفعية لتصديرات XML من حلول سحابية لنظم تخزين البيانات إلى FODS.
+
+* تحويل مُشغّل لسجلات المشاريع القائمة على XML إلى أرشيف جداول البيانات المفتوحة.
+
+* تكامل سير العمل في المختبرات البحثية باستخدام أنابيب XML-to-FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

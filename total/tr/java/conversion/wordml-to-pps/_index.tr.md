@@ -54,7 +54,55 @@ API ayrıca parola korumalı WORDML belgelerini PPS'ye dönüştürmenize olanak
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDML dosyalarını PPS (PowerPoint Gösterisi) formatına dönüştürmek, statik Word belgelerini anında oynatılabilen slayt gösterisi sunumlarına dönüştürür. PPS dosyaları doğrudan slayt gösterisi modunda açılır, bu nedenle kiosklar, eğitim döngüleri ve otomatik çalıştırma iş sunumları için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Dijital ekranlarda Word tabanlı kurumsal duyuruların otomatik olarak oynatılması.
+
+* Sergiler, perakende ortamları veya lobiler için kiosk tarzı sunumlar.
+
+* Word notlarından oluşturulan otomatik çalışan dersler ve sınıf özetleri.
+
+* Word'de biçimlendirilmiş ürün tablolarından oluşturulan pazarlama slaytları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Word raporlarından PPS'ye toplu dönüşüm, iç iletişim için.
+
+* Dijital işaret sistemleri için zamanlanmış slayt gösterisi dışa aktarımları.
+
+* Etkinlik veya konferans ekranları için tetiklenmiş PPS oluşturma.
+
+* DMS platformlarıyla entegrasyon, Word belgelerini slayt döngüleri olarak otomatik yayınlamak için.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

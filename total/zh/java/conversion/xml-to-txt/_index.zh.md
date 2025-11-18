@@ -49,7 +49,51 @@ otherformats: SXC XLTX XLAM TSV XLT MD TXT ODS XLTM DIF XLSB XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML转换为TXT会从结构化的XML内容中提取原始文本，生成简单、通用的文件，与任何平台、编辑器或脚本管道兼容。TXT格式非常适合快速访问数据、日志记录，或者用于分析前的预处理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将XML日志提取为TXT以进行监控和审计。
+
+* 将XML报告或数据集转换为纯文本以进行文本分析。
+
+* 将XML调查结果迁移到TXT以进行人工智能或自然语言处理。
+
+* 将XML文档准备为TXT以进行归档或轻量级分发。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于日志聚合和监控的自动化XML到TXT转换。
+
+* 从上传的XML文件生成TXT以用于分析管道。
+
+* 批处理XML报告为TXT以进行归档。
+
+* 与脚本和工作流自动化集成，实现持续的XML到TXT转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ otherformats: FODS XLAM XLSB EXCEL TXT SXC XLTM XLSM XLTX MD TSV DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XML เป็น TSV ให้รูปแบบสเปรดชีตที่เบา ที่ใช้ตัวคั่นเป็นตัวกำหนดเหมาะสำหรับการวิเคราะห์ สคริปต์ และไปไลน์เรียนของเครื่อง  TSV ง่ายต่อการวิเคราะห์ในสภาพแวดล้อม Unix/Linux และหลีกเลี่ยงข้อขัดแย้งที่เกิดขึ้นจากเครื่องหมายจุลภาค
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การแปลงบันทึกการเข้าชมเว็บ XML เป็น TSV สำหรับสคริปต์การวิเคราะห์
+
+* การแปลง XML แคตตาล็อกสินค้าเป็น TSV สำหรับการนำเข้าฐานข้อมูลเป็นกลุ่ม
+
+* เตรียมข้อมูลสำรวจ XML เป็น TSV สำหรับการรับเข้าโมเดล AI/ML
+
+* การส่งออก XML ธุรกรรมทางการเงินเป็น TSV สำหรับท่อข้อมูล
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XML เป็น TSV โดยอัตโนมัติสำหรับการทำงาน ETL รายวัน
+
+* การสร้าง TSV จากไฟล์ XML ที่อัปโหลดในที่เก็บข้อมูลบนคลาวด์โดยเรียกใช้
+
+* การประมวลผลเป็นชุดของบันทึกเซิร์ฟเวอร์ XML เป็น TSV สำหรับแดชบอร์ดการวิเคราะห์
+
+* การรวมการแปลง XML เป็น TSV เข้ากับท่อข้อมูล CI/CD
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

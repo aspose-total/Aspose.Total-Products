@@ -54,7 +54,55 @@ otherformats: PPSM PPS POTX POTM PPTM PPTX POWERPOINT PPSX PPT POT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将WORDML转换为PPSX格式会生成一个基于XML的PowerPoint幻灯片，可以直接以幻灯片模式打开，并针对现代PowerPoint环境进行了优化。PPSX文件具有轻便的可移植性和增强的视觉兼容性，无需使用宏。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 为培训、演示和内部沟通提供现代幻灯片交付。
+
+* 为活动、展会和候诊室屏幕提供自动播放演示文稿。
+
+* 将Word提案转换为准备好的幻灯片展示。
+
+* 以即时播放格式分享讲座和研讨会摘要。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将定期的Word报告定时转换为PPSX以供团队分发。
+
+* 为企业和学术活动生成自动化幻灯片。
+
+* 从Word模板触发转换为可共享的演示文稿。
+
+* 与LMS或内部网络系统集成，自动显示Word内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

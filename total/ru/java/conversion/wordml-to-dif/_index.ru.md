@@ -61,7 +61,55 @@ otherformats: SXC DIF TSV XLSB XLTX ODS XLSM XLTM XLAM XLT XLS XLSX EXCEL FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование WORDML в DIF (Data Interchange Format) облегчает совместимость с устаревшими приложениями для электронных таблиц и обеспечивает чистый импорт текстовых таблиц и структурированного контента. DIF оптимален для архивирования, отчетности между платформами и рабочих процессов предприятия.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Миграция финансовых бухгалтерских книг на основе Word в устаревшее программное обеспечение для электронных таблиц.
+
+* Преобразование структурированных таблиц Word в взаимодействующие форматы для инструментов бухгалтерского учета.
+
+* Архивирование отчетов по проектам, созданных в Word, для долгосрочного хранения данных.
+
+* Подготовка табличного контента для ERP или платформ аналитики предприятия.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное создание DIF из повторяющихся отчетов по проектам в Word.
+
+* Интеграция в исторические конвейеры миграции данных для финансов и кадров.
+
+* Экспорт на основе триггеров для автоматизированных решений по архивированию документов.
+
+* Автоматическое преобразование в рабочих процессах отчетности в соответствии с требованиями.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

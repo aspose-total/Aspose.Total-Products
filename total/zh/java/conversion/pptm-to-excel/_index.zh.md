@@ -61,7 +61,51 @@ otherformats: XLTX EXCEL XLT XLS XLTM TSV XLAM XLSM XLSB ODS MARKDOWN DIF MHTML 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**将PPTM转换为Excel**将演示数据转换为完全可编辑的电子表格，非常适用于财务报告、数据分析和表格内容重复使用。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 从幻灯片中导出图表和表格到Excel进行分析。
+
+* 将销售和营销演示文稿转换为可操作的电子表格。
+
+* 将带有数字数据的教育幻灯片转换为Excel工作簿。
+
+* 将项目演示文稿存档为以数据为中心的电子表格。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将PPTM转换为Excel，用于定期财务报告。
+
+* 与企业BI工具集成，自动化数据提取。
+
+* 从动态幻灯片实时生成Excel报告。
+
+* 为自动化仪表板触发电子表格创建。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

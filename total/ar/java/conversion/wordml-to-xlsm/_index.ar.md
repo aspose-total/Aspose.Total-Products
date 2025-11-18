@@ -61,7 +61,55 @@ otherformats: FODS XLSM TSV SXC DIF EXCEL ODS XLTX XLSB XLAM XLS XLSX XLTM XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل WORDML إلى XLSM يسمح بتحويل البيانات المهيكلة في Word إلى جداول بيانات تدعم التشغيل الماكرو، مما يجعلها مثالية لسير العمل التي تتطلب التشغيل التفاعلي، والمنطق VBA، أو الحساب المتقدم في Excel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* قوالب مالية مع ماكروهات وصيغ مبرمجة مسبقًا.
+
+* لوحات تحكم تقارير مؤتمتة تعتمد على البيانات المستخرجة من محتوى Word.
+
+* سير العمل المتوافقة التي تتطلب سكربتات التحقق والمنطق المبني على الماكرو.
+
+* أدوات تفاعلية للميزانية، والتنبؤ، والتخطيط.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* إنشاء صفحات جداول بيانات مدعومة بالماكرو بانتظام من قوالب Word المتكررة.
+
+* إنشاء نماذج XLSM تلقائيًا من نماذج البيانات المبنية على Word.
+
+* تشغيل الماكروهات بناءً على تقارير Word المقدمة.
+
+* دمج جداول بيانات تم إنشاؤها بواسطة الذكاء الاصطناعي في سير العمل الماكرو القديمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,55 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja XML na PPT umożliwia użytkownikom starszych wersji programu PowerPoint importowanie strukturalnej zawartości jako edytowalnych slajdów, obsługujących wykresy, tabele i grafiki do celów biznesowych, edukacyjnych lub marketingowych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przekształcanie materiałów szkoleniowych z XML na slajdy PPT do użytku korporacyjnego.
+
+* Konwertowanie katalogów produktów z XML na edytowalne prezentacje.
+
+* Przygotowywanie raportów z projektów z XML do przeglądu przez zarząd.
+
+* Migracja danych finansowych z XML do starszych prezentacji PPT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja z XML na PPT dla raportów cyklicznych.
+
+* Wywoływanie tworzenia slajdów z załadowanych plików XML.
+
+* Przetwarzanie wsadowe zbiorów danych XML na edytowalne prezentacje PPT.
+
+* Integracja z automatycznymi procesami raportowania dla wsparcia starszych wersji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

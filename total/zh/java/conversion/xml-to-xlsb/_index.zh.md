@@ -49,7 +49,51 @@ otherformats: SXC FODS EXCEL TXT XLSM MD XLTX XLSB TSV XLT DIF XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML转换为XLSB提供了一种高性能的二进制Excel格式，适用于大型数据集，更快的加载时间和复杂的工作簿计算。非常适合企业报告和大数据分析。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将大量的XML销售日志转换为XLSB以进行快速报告。
+
+* 将ERP XML导出转换为XLSB以用于财务仪表板。
+
+* 将XML传感器读数导入XLSB以进行数据密集型分析。
+
+* 将XML项目管理数据转换为XLSB以进行团队协作。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 企业仪表板的自动化夜间XML到XLSB转换。
+
+* 与Power Query集成，实现实时XML到XLSB数据更新。
+
+* 将XML报告定期批量转换为二进制工作簿。
+
+* 触发的XML到XLSB管道，用于大规模分析自动化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,51 @@ Podczas konwertowania pliku PPTM do XLAM możesz również dodać znak wodny do 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Konwertowanie PPTM na XLAM** przekształca slajdy w format Dodatku Excel, zachowując funkcjonalność automatyzacji i makr do zaawansowanej obróbki danych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Tworzenie niestandardowych Dodatków Excel na podstawie szablonów opartych na prezentacjach.
+
+* Przekształcanie slajdów opartych na danych w narzędzia analityczne obsługiwane przez makra.
+
+* Udostępnianie skryptów automatyzacji slajdów użytkownikom programu Excel.
+
+* Tworzenie wielokrotnego użytku narzędzi do przepływu pracy biznesowej na podstawie zestawów slajdów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowane generowanie plików XLAM do zadań cyklicznych.
+
+* Wywoływanie konwersji slajdu na dodatek w celu automatyzacji przepływów pracy.
+
+* Integracja z przedsiębiorczymi potokami automatyzacji Excela.
+
+* Przetwarzanie zbiorcze slajdów na dodatki obsługiwane przez makra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

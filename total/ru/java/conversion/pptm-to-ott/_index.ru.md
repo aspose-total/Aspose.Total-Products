@@ -53,7 +53,55 @@ otherformats: TEXT OTTX FLATOPC DOTX RTF DOTM OTTM WORD ODT DOT WORDML OTT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Преобразование PPTM в OTT** генерирует шаблоны текстовых документов OpenDocument из слайдов презентации. Это позволяет создавать многоразовые шаблоны в офисных средах с открытым исходным кодом без использования Microsoft Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание стандартизированных шаблонов документов для LibreOffice/OpenOffice.
+
+* Переиспользование дизайна слайдов для создания отчетов на основе шаблонов.
+
+* Преобразование учебных материалов в редактируемые форматы шаблонов.
+
+* Подготовка шаблонов для совместной работы нескольких пользователей для платформ с открытым исходным кодом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запланированное преобразование PPTM в OTT для библиотек шаблонов.
+
+* Интеграция с рабочими процессами предприятия в пакетах с открытым исходным кодом.
+
+* Генерация шаблонов в реальном времени для совместной работы нескольких отделов.
+
+* Пакетное создание OTT для обучения и составления отчетов на различных платформах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

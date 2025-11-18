@@ -135,7 +135,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi XML sang XAML cho phép dữ liệu XML có cấu trúc được sử dụng trong các ứng dụng Microsoft WPF, UWP hoặc Xamarin, cho phép hiển thị UI động, các thành phần tương tác và bố cục ứng dụng dựa trên dữ liệu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi các đặc tả UI XML thành XAML cho ứng dụng trên máy tính và di động.
+
+* Chuyển đổi các mô hình dữ liệu XML thành các ràng buộc XAML cho bảng điều khiển tương tác.
+
+* Chuẩn bị các tệp cấu hình XML cho việc tạo giao diện người dùng động.
+
+* Di dời các bản vẽ thiết kế XML sang XAML cho ứng dụng WPF hoặc UWP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi XML sang XAML theo lịch trình để cập nhật liên tục giao diện người dùng trong ứng dụng.
+
+* Xử lý hàng loạt các bộ dữ liệu XML thành XAML cho các bảng điều khiển động.
+
+* Kích hoạt việc tạo XAML từ các tệp XML được tải lên để tạo nguyên mẫu nhanh chóng.
+
+* Tích hợp vào các đường ống CI/CD để cập nhật giao diện ứng dụng tự động từ các nguồn XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

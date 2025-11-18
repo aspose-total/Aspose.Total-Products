@@ -54,7 +54,51 @@ Interfejs API umożliwia również konwersję dokumentów WORDML chronionych has
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie formatu WORDML na POTM umożliwia tworzenie szablonów PowerPoint z obsługą makr, łącząc strukturalne dane z programu Word z automatyczną funkcjonalnością slajdów dla interaktywnych prezentacji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Tworzenie interaktywnych modułów szkoleniowych z wbudowanymi makrami.
+
+* Makroobsługiwane pulpity nawigacyjne korporacyjne pochodzące z tabel w programie Word.
+
+* Slajdy modelowania finansowego z automatycznymi obliczeniami.
+
+* Slajdy edukacyjne z interaktywnymi elementami do e-learningu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczne generowanie szablonów z obsługą makr na podstawie raportów z programu Word.
+
+* Wywoływane tworzenie plików POTM dla cyklicznych aktualizacji projektów.
+
+* Integracja z systemami LMS dla automatycznych slajdów szkoleniowych.
+
+* Konwersja zbiorcza treści z programu Word na interaktywne makra w programie PowerPoint.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

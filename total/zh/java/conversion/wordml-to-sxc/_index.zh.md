@@ -61,7 +61,55 @@ otherformats: SXC XLSX XLSB XLT FODS XLAM XLSM XLTM DIF XLTX TSV EXCEL XLS ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将WORDML（WordprocessingML）转换为SXC（StarOffice Calc电子表格）可实现将结构化Word表格无缝集成到传统OpenOffice/StarOffice电子表格工作流中。这种格式仍然在需要兼容性的受监管、历史和档案环境中使用。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将基于Word的数据迁移到传统StarOffice兼容的电子表格系统中。
+
+* 从Word导出统计报告到SXC以符合环境要求。
+
+* 在旧企业生态系统中共享结构化的财务表格。
+
+* 在政府或学术机构支持非Microsoft电子表格工作流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将存档的Word文档转换为SXC进行历史分析。
+
+* 自动生成SXC电子表格以进行向后兼容的报告。
+
+* 基于触发器从内容管理和档案系统导出到SXC。
+
+* ETL管道连接传统电子表格系统与现代数据源。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

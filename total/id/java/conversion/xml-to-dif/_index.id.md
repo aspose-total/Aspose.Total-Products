@@ -47,7 +47,55 @@ Saat mengonversi file XML ke DIF, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi XML ke DIF memungkinkan berbagi data yang mulus antara sistem spreadsheet warisan dan aplikasi berbasis XML modern. DIF sangat berguna untuk data numerik dan tabular, menjaga kompatibilitas dengan perangkat lunak lama sambil mendukung alur kerja data terstruktur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengimpor proyeksi keuangan dari XML ke alat akuntansi warisan menggunakan DIF.
+
+* Mentransfer dataset eksperimen ilmiah dari XML ke perangkat lunak statistik.
+
+* Mengonversi hasil survei XML menjadi DIF untuk tujuan arsip dan kepatuhan.
+
+* Menggunakan DIF untuk menghubungkan ekspor XML ERP dengan aplikasi spreadsheet lama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi XML ke DIF secara terjadwal setiap malam untuk pelaporan kelompok.
+
+* Integrasi pipa ETL untuk agregasi data penelitian.
+
+* Migrasi otomatis output ERP berbasis XML ke spreadsheet DIF historis.
+
+* Pemicu terotomatisasi untuk mengubah XML yang diunggah menjadi DIF untuk analisis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

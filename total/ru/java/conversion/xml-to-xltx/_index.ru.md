@@ -47,7 +47,55 @@ otherformats: XLSB DIF FODS XLT XLAM XLSM XLTM TXT MD EXCEL TSV SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XML в XLTX позволяет создавать стандартные шаблоны Excel без макросов, идеально подходящие для обмена данными, отчетности и повторного использования в командах без рисков безопасности макросов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование финансовых экспортов XML в XLTX для многократного использования в командных шаблонах.
+
+* Подготовка XML-приборных панелей проекта для совместной отчетности.
+
+* Создание шаблонов инвентаризации на основе XML для повторного ввода данных.
+
+* Экспорт результатов опросов XML в XLTX для обеспечения однородного форматирования.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое преобразование XML в XLTX для стандартизации шаблонов.
+
+* Генерация шаблонов из XML-загрузок для повторяющейся отчетности.
+
+* Пакетные рабочие процессы XML в XLTX для управления данными предприятия.
+
+* Интеграция в автоматизированные конвейеры отчетности с безопасными шаблонами без макросов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

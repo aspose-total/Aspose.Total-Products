@@ -135,7 +135,51 @@ presentation.save("output.pot", SaveFormat.Pot);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML转换为POT允许将结构化内容转换为传统的PowerPoint模板。这种格式非常适合那些维护较旧Microsoft Office工作流程或分发标准化演示文稿布局的用户。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将XML年度报告转换为传统的PowerPoint模板。
+
+* 准备XML营销资产以便创建一致的幻灯片。
+
+* 将XML培训模块转换为可编辑的POT模板。
+
+* 将XML产品目录数据迁移到标准化的幻灯片布局。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将XML转换为POT，用于定期的企业演示文稿。
+
+* 将XML营销简报定期转换为幻灯片模板。
+
+* 为上传的XML文件触发处理，生成POT幻灯片。
+
+* 与传统PowerPoint支持集成到自动化报告流程中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

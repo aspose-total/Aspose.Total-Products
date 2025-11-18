@@ -61,7 +61,51 @@ otherformats: FODS SXC XLSB ODS XLSX XLT TSV XLTX DIF EXCEL XLTM XLAM XLS XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل WORDML إلى XLSB ينتج عنه جدول بيانات Excel ثنائي الرقمية يتحمل بسرعة أكبر، ويستهلك مساحة أقل على القرص، ويتعامل بكفاءة مع مجموعات بيانات كبيرة. XLSB مثالي للشركات التي تدير عمليات جداول بيانات ذات حجم كبير أو تستهلك الكثير من القوة الحسابية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير جداول مالية أو تحويلية معتمدة على Word إلى أوراق عمل XLSB عالية الأداء.
+
+* التعامل مع مجموعات بيانات كبيرة مشابهة لملفات CSV داخل Excel باستخدام ضغط ثنائي.
+
+* سير العمل الخاص بالشركات الذي يتطلب فتحًا وحسابًا أسرع من XLSX أو CSV.
+
+* تقارير مختبرية منظمة، سجلات تدقيق، أو بيانات الامتثال بشكل هيكلي في شكل جدول بيانات ثنائي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل مجدول من Word إلى XLSB بشكل مجدول للوحات البيانات الذكية.
+
+* تصدير تقارير Word ذات حجم كبير بشكل دفعي إلى Excel ثنائي الرقمية لتحسين الأداء.
+
+* إنشاء جداول Excel ثنائية بشكل مؤقت لجمعيات التنظيم أو التدقيق التلقائي.
+
+* دمجها في خطوط أنابيب ETL التي تتطلب تسلسلًا إلى Excel ثنائي الرقمية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

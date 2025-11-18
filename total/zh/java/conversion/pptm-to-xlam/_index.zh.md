@@ -61,7 +61,51 @@ otherformats: XLT DIF MARKDOWN XLAM XLSX XLSM TSV MHTML EXCEL FODS XLS SXC XLSB 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**将PPTM转换为XLAM** 将幻灯片转换为Excel Add-In格式，保留高级数据处理的自动化和宏功能。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 从基于演示文稿的模板创建自定义Excel Add-Ins。
+
+* 将数据驱动的幻灯片转换为带宏的分析工具。
+
+* 与Excel用户共享幻灯片自动化脚本。
+
+* 从幻灯片演示文稿开发可重用的业务工作流工具。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定期生成XLAM文件以执行重复任务。
+
+* 触发幻灯片转换为Add-In以进行自动化工作流。
+
+* 集成到企业Excel自动化流程中。
+
+* 批量处理幻灯片以生成带宏的Add-Ins。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

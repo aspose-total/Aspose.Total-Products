@@ -61,7 +61,51 @@ PPTMファイルをXLTに変換するときに、出力XLTファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTMをXLTに変換**は、プレゼンテーションデータをレガシーのExcelテンプレートに変換し、一貫したフォーマットと再利用可能なレポートを実現します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* プロジェクトスライドから再利用可能なExcelテンプレートを作成する。
+
+* 一貫したフォーマットで財務レポートを標準化する。
+
+* 企業プレゼンテーションデータをXLTテンプレートとしてアーカイブする。
+
+* 教育や研究のスライドを再利用可能なテンプレートとして準備する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* テンプレートライブラリの定期的なPPTMからXLTへの変換。
+
+* 標準化されたレポートテンプレートの一括生成。
+
+* 定期的なテンプレート作成のためのトリガー更新。
+
+* 自動化された文書やスプレッドシートのワークフローとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

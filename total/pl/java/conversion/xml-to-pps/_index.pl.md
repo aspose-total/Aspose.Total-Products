@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja XML na PPS tworzy pokazy slajdów, które otwierają się bezpośrednio w trybie prezentacji, idealne do kiosków, automatycznych raportów lub rozpowszechniania prezentacji klientów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przekształcanie raportów marketingowych XML w zautomatyzowane pokazy slajdów.
+
+* Przygotowywanie harmonogramów wydarzeń XML do wyświetlania na nieobsługowanych ekranach prezentacyjnych.
+
+* Konwertowanie treści szkoleniowych XML na gotowe do pokazania slajdy.
+
+* Migracja demonstracji produktów XML do prezentacji PPS gotowych do pokazania klientom.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja XML na PPS dla codziennych wyświetlaczy pulpitu.
+
+* Wywoływane przetwarzanie przesyłek XML w automatycznie uruchamiane pokazy slajdów.
+
+* Konwersja wsadowa XML na PPS dla gotowości prezentacji wydarzeń.
+
+* Integracja z potokami raportowania dla nieobsługowych wdrożeń slajdów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

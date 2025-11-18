@@ -102,7 +102,55 @@ otherformats: XLSB EXCEL DIF ODS XLSM SXC MHTML XLAM XLSX MARKDOWN XLTX TSV XLTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**המרת PPTM ל־FODS** יוצרת קבצי גיליון נתונים פשוטים שניתן לערוך, אשר מושלמים לשיתוף תוכן עריכתי בין סביבות LibreOffice ו־OpenOffice.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת שקפים פיננסיים ופרויקט ל־FODS עבור חבילות משרד קוד פתוח.
+
+* שיתוף גיליונות נתונים שניתן לערוך עם צוותים צולבי פלטפורמות.
+
+* שימוש מחדש בטבלאות ממצגת לתקנים פתוחים של שיתוף פעולה.
+
+* הכנת שקפים אקדמיים ועסקיים כ־FODS לעריכה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת קבצים מ־PPTM ל־FODS בצורה רצפית עבור פרויקטים שיתופיים.
+
+* עדכונים מתוזמנים של נתוני מצגת לגיליונות נתונים בקוד פתוח.
+
+* יצירה מופעלת של קבצי FODS מטבלאות שקפים דינמיות.
+
+* שילוב במערכות ניהול תוכן קוד פתוח לעסקים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

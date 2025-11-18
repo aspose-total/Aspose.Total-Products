@@ -61,7 +61,51 @@ Ao converter o arquivo PPTM para ODS, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Convertendo PPTM para ODS** transforma apresentações em arquivos de Planilha OpenDocument, amplamente compatíveis com o LibreOffice, Google Sheets e outros aplicativos de planilhas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Reprocessando dados de apresentação numéricos para uso multiplataforma.
+
+* Convertendo painéis de vendas e projetos em planilhas ODS editáveis.
+
+* Compartilhando dados com clientes ou equipes usando ferramentas de código aberto.
+
+* Arquivando slides como documentos de planilha para relatórios.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão programada em lote de PPTM para ODS para projetos recorrentes.
+
+* Integração em fluxos de trabalho colaborativos baseados em nuvem de planilhas.
+
+* Criação de ODS acionada para painéis de análise.
+
+* Arquivamento automatizado de slides em arquivos ODS padronizados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

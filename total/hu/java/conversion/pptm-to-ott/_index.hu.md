@@ -53,7 +53,51 @@ Az API segítségével PPTM fájlból OTT-ba konvertálhat vízjellel. Ha vízje
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTM átalakítása OTT formátumba** az előadásdiák alapján OpenDocument Text sablonokat hoz létre. Ez lehetővé teszi a felhasználható sablonok létrehozását nyílt forráskódú irodai környezetekben, anélkül, hogy a Microsoft Word-re támaszkodnánk.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Szabványos dokumentumsablonok létrehozása a LibreOffice/OpenOffice számára.
+
+* Dizájnok újrahasznosítása sablonvezérelt jelentéskészítéshez.
+
+* Oktatási anyagok átalakítása szerkeszthető sablonformátumokká.
+
+* Többfelhasználós együttműködési sablonok előkészítése nyílt forráskódú platformok számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ütemezett PPTM-OTT konverzió sablonkönyvtárakhoz.
+
+* Integráció vállalati tartalomkezelési munkafolyamatokkal nyílt forráskódú csomagokban.
+
+* Valós idejű sablonkészítés több részlegi együttműködéshez.
+
+* Tömeges OTT létrehozás keresztplatformos oktatási és jelentési célokra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

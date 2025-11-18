@@ -61,7 +61,51 @@ Po przekonwertowaniu WORDML na TSV [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie WORDML na TSV (wartości oddzielone tabulatorem) pozwala na czyste wyodrębnienie strukturalnych danych, zachowując odstępy i precyzję między kolumnami. TSV jest powszechnie stosowany w bazach danych, platformach analitycznych i środowiskach uczenia maszynowego ze względu na swoją przyjazną strukturę schematu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Eksportowanie tabel z dzienników lub raportów opartych na Wordzie do importu do bazy danych.
+
+* Przygotowywanie zestawów danych wygenerowanych w Wordzie do prac statystycznych w Pythonie lub R.
+
+* Migracja strukturalnych treści z Worda do środowisk CRM lub ERP.
+
+* Konwertowanie sformatowanych tabel na TSV dla czystego wejścia do szkolenia modeli AI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja raportów Worda na TSV dla pulpitów analitycznych.
+
+* Eksport TSV wywoływany przez wyzwalacz do przetwarzania wstępnego danych uczenia maszynowego.
+
+* Przetwarzanie wsadowe danych TSV z szablonów Worda dla operacji ETL.
+
+* Integracja w zautomatyzowane przepływy pracy big data do raportowania lub wizualizacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

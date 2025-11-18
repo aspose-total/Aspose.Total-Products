@@ -54,7 +54,55 @@ APIを使用すると、パスワードで保護されたWORDMLドキュメン�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDML（WordprocessingML）をPPTに変換すると、構造化されたWord文書をクラシックなPowerPoint（PPT）プレゼンテーションにシームレスに変換できます。このレガシー互換形式は、古いバージョンのMicrosoft Officeを実行している組織やバイナリ形式のPowerPointファイルに依存しているシステムに特に役立ちます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* Wordベースの戦略的または財務レポートから取締役会プレゼンテーションを生成する。
+
+* 古いPowerPointバージョンを使用している環境向けの営業プレゼンテーションを準備する。
+
+* 書式設定されたWord提案を編集可能なPPTスライドに変換する。
+
+* 学術的なWord文書から講義やセミナーのコンテンツを作成する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* チームベースのプレゼンテーションワークフロー用にWordコンテンツを一括でPPTファイルにエクスポートする。
+
+* テンプレート化されたWordレポートをレガシーPowerPoint形式に定期的に変換する。
+
+* バイナリPPT出力を必要とするアーカイブおよびコンプライアンスシステムに統合する。
+
+* Wordテンプレートを使用してコンテンツ管理システムから自動的にスライドを生成する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

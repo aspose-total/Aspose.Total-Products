@@ -61,7 +61,51 @@ otherformats: EXCEL DIF XLTM MHTML XLSM XLSX XLS FODS XLTX TSV XLAM ODS SXC XLT 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Преобразование PPTM в XLSM** создает книги Excel с поддержкой макросов, сохраняя расширенную функциональность слайдов для автоматизации и обработки данных.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт интерактивных диаграмм слайдов в книги Excel с поддержкой макросов.
+
+* Преобразование шаблонов рабочего процесса на основе презентации в файлы автоматизации Excel.
+
+* Обмен слайдами с предварительно созданными макросами для финансов и операций.
+
+* Создание многоразовых обучающих панелей с встроенной автоматизацией.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование PPTM в XLSM для повторяющихся автоматизированных отчетов.
+
+* Плановое обновление книг Excel с поддержкой макросов из слайдов.
+
+* Запуск генерации файлов XLSM для корпоративных рабочих процессов.
+
+* Интеграция с системами автоматизации бизнес-процессов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

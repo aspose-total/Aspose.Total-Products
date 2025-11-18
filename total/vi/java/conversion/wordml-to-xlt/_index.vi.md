@@ -61,7 +61,29 @@ Sau khi chuyển đổi WORDML sang XLT, [Aspose.Cells for Java](https://product
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```html
+<h2>Giới thiệu sản phẩm</h2>
+
+<p>Chúng tôi tự hào giới thiệu dòng sản phẩm mới của chúng tôi:</p>
+
+<ul>
+<li>Máy ảnh DSLR cao cấp</li>
+<li>Ống kính góc rộng</li>
+<li>Thẻ nhớ 64GB</li>
+</ul>
+
+<h2>Tính năng nổi bật</h2>
+
+<p>Đây là một số tính năng nổi bật của sản phẩm:</p>
+
+<ul>
+<li>Chất lượng hình ảnh sắc nét</li>
+<li>Chụp ảnh chuyên nghiệp</li>
+<li>Thiết kế nhỏ gọn, dễ sử dụng</li>
+</ul>
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

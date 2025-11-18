@@ -61,7 +61,51 @@ otherformats: ODS XLS TSV XLSM XLSX EXCEL SXC XLAM XLTM XLT XLSB XLTX FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将WORDML转换为FODS（Flat OpenDocument Spreadsheet）可实现与LibreOffice、OpenOffice和其他开源平台的开放标准电子表格兼容性。适用于需要跨平台文档工作流程的用户。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将结构化的Word表格导出到协作的开源电子表格项目中。
+
+* 为研究和学术分析准备基于Word的数据。
+
+* 在通用兼容格式中共享项目成本细分。
+
+* 将包含表格的Word会议记录转换为可编辑的电子表格。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从重复的Word文档批量生成FODS。
+
+* 与开源报告平台自动集成。
+
+* 触发FODS导出以用于协作的学术项目。
+
+* ETL管道将结构化的Word表单转换为研究分析。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,55 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML文件转换为ODP可将结构化内容转换为完全可编辑的开源演示文稿，与LibreOffice Impress和OpenOffice兼容。这种格式非常适合协作或跨平台幻灯片展示。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将基于XML的培训手册转换为ODP演示文稿。
+
+* 将结构化的XML产品目录转换为交互式幻灯片。
+
+* 为会议演示准备XML学术研究数据。
+
+* 将XML事件日程迁移到视觉吸引人的ODP幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为企业培训计划实现每晚自动化的XML到ODP转换。
+
+* 批处理XML销售报告，生成ODP演示文稿模板。
+
+* 将上传的XML内容触发转换为客户就绪的幻灯片。
+
+* 与ETL管道集成，从结构化数据生成ODP幻灯片组。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

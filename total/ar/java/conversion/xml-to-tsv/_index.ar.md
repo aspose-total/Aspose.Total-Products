@@ -47,7 +47,45 @@ otherformats: FODS XLAM XLSB EXCEL TXT SXC XLTM XLSM XLTX MD TSV DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XML إلى TSV يوفر تنسيق جدول بناء على فاصلة خفيف الوزن مناسب للتحليلات والبرمجة النصية وأنابيب تعلم الآلة. TSV أسهل في التحليل في بيئات Unix/Linux ويتجنب تعارض الفواصل.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل سجلات حركة مرور الويب XML إلى TSV لنصوص التحليل.
+
+* تحويل كتالوج المنتجات XML إلى TSV لاستيرادات قاعدة بيانات بالجملة.
+
+* تحضير بيانات استطلاع XML كـ TSV لاستيعاب نماذج الذكاء الاصطناعي/تعلم الآلة.
+
+* تصدير معاملات مالية XML إلى TSV لأنابيب البيانات.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل XML إلى TSV تلقائيًا لسير العمل ETL الليلي.
+
+* توليد TSV مُشغّل من ملفات XML مُرفوعة في تخزين السحابة.
+
+* معالجة دفعية لسجلات خوادم XML إلى TSV للوحات التحليلية.
+
+* دمج تحويل XML إلى TSV في أنابيب بيانات CI/CD.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

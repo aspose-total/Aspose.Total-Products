@@ -49,7 +49,55 @@ otherformats: XLSM XLTM ODS MD FODS EXCEL DIF XLT TSV XLSB XLTX SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML转换为XLSM可实现在Excel内进行复杂的自动化工作流程、公式和宏，同时保留结构化的XML数据，用于交互式和动态的电子表格应用。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将XML财务报告导入XLSM并进行自动计算。
+
+* 将XML库存数据集转换为带宏的Excel仪表板。
+
+* 使用XLSM开发基于XML的自动化工作流跟踪器。
+
+* 将XML调查和研究数据转换为交互式XLSM表格。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时将XML转换为XLSM，用于自动报告周期。
+
+* 从上传的XML触发生成带宏的工作簿。
+
+* ETL管道将XML输出馈送到XLSM仪表板。
+
+* 为团队自动化重复的XML到XLSM数据转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

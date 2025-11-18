@@ -53,7 +53,51 @@ Pomocí API můžete také provést převod PPTM souboru na RTF s vodoznakem. Ch
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Převod PPTM na RTF** převádí snímky do dokumentů ve formátu Rich Text, zajistí širokou kompatibilitu napříč operačními systémy a textovými procesory a zachová základní formátování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Archivace obsahu prezentace ve všeobecně přístupných formátech.
+
+* Sdílení snímků jako editovatelných dokumentů bez omezení softwaru.
+
+* Převod firemních zpráv pro čtení na různých platformách.
+
+* Příprava školicích průvodců ve formátech lehkých a přenosných.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatické scénáře" %}}
+
+
+
+* Hromadný převod PPTM na RTF pro integraci se systémy staršími verzemi.
+
+* Spouštěné pracovní postupy pro export snímků do univerzálních textových formátů.
+
+* Plánovaná archivace prezentací ve formátu RTF pro účely dodržování předpisů.
+
+* Integrace s potrubími pro automatizaci dokumentů pro přístupný výstup.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

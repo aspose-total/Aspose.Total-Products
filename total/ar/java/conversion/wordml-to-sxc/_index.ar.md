@@ -61,7 +61,55 @@ otherformats: SXC XLSX XLSB XLT FODS XLAM XLSM XLTM DIF XLTX TSV EXCEL XLS ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل WORDML (WordprocessingML) إلى SXC (جدول بيانات StarOffice Calc) يمكن من دمج سلس للجداول المهيكلة في Word إلى سير العمل القديمة لجداول العمل في OpenOffice/StarOffice. هذا التنسيق لا يزال يستخدم في بيئات تنظيمية وتاريخية وأرشيفية حيث يهم التوافق.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل البيانات المعتمدة على Word إلى أنظمة جداول العمل المتوافقة مع StarOffice القديمة.
+
+* تصدير التقارير الإحصائية من Word إلى SXC لبيئات الامتثال.
+
+* مشاركة الجداول المالية المهيكلة في النظم الأساسية القديمة للشركات.
+
+* دعم سير العمل لجداول البيانات غير الخاضعة لشركة Microsoft في المؤسسات الحكومية أو الأكاديمية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل دفعي للمستندات المؤرشفة من Word إلى SXC للتحليل التاريخي.
+
+* إنشاء تلقائي لجداول SXC لتقارير متوافقة مع الإصدارات السابقة.
+
+* تصدير قائم على المؤشر إلى SXC من أنظمة إدارة المحتوى والأرشيف.
+
+* أنابيب ETL تربط أنظمة جداول العمل القديمة بمصادر البيانات الحديثة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

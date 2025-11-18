@@ -61,7 +61,45 @@ otherformats: XLSM FODS XLTX TSV SXC XLSB XLS XLAM XLTM EXCEL ODS DIF XLSX XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του WORDML σε μορφή ODS (OpenDocument Spreadsheet) παρέχει πλήρη αλληλεπιδραστικότητα με επεξεργαστές υπολογιστών ανοικτού κώδικα διατηρώντας το δομημένο περιεχόμενο Word, συμπεριλαμβανομένων πολύπλοκων πινάκων και τύπων.
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Συνεργατικός σχεδιασμός έργων με πίνακες που δημιουργήθηκαν στο Word και εισήχθησαν σε φύλλα εργασίας ODS.
+
+* Συγκέντρωση ακαδημαϊκών ή ερευνητικών δεδομένων από αναφορές Word.
+
+* Εξαγωγή προτύπων προϋπολογισμού και οικονομικών πινάκων από το Word στο ODS.
+
+* Ροές εργασίας εγγράφων ανοικτού κώδικα για ΜΚΟ και οργανισμούς του δημόσιου τομέα.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη μετατροπή προτύπων Word σε ODS για συνεργασία στο cloud.
+
+* Προγραμματισμένη εξαγωγή αποτελεσμάτων έρευνας από έγγραφα Word.
+
+* Ενσωμάτωση ETL για αναφορές ΜΚΟ χρησιμοποιώντας φύλλα εργασίας ανοικτών προτύπων.
+
+* Ενεργοποιημένη μετατροπή αναφορών συμμόρφωσης από το Word σε ODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

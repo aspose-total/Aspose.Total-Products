@@ -61,7 +61,55 @@ otherformats: SXC XLSX XLSB XLT FODS XLAM XLSM XLTM DIF XLTX TSV EXCEL XLS ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง WORDML (WordprocessingML) เป็น SXC (สเตอร์ออฟฟิศ Calc Spreadsheet) ช่วยให้การผสานข้อมูลตาราง Word โครงสร้างเข้ากับการทำงานของสเปรดชีต OpenOffice/StarOffice โดยไม่มีข้อขัดแย้ง รูปแบบนี้ยังคงใช้งานในสภาพแวดล้อมที่ได้รับการควบคุม ประวัติศาสตร์ และสภาพแวดล้อมเก็บถาวรที่สำคัญ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การย้ายข้อมูลที่ใช้ Word เข้าสู่ระบบสเปรดชีตที่เข้ากันได้กับ StarOffice เวอร์ชันเก่า
+
+* การส่งออกรายงานทางสถิติจาก Word เข้าสู่ SXC สำหรับสภาพแวดล้อมที่เกี่ยวข้องกฎระเบียบ
+
+* การแบ่งปันตารางการเงินโครงสร้างในระบบนิเวศองค์กรที่เก่า
+
+* การสนับสนุนการทำงานของสเปรดชีตที่ไม่ใช่ของ Microsoft ในหน่วยงานรัฐบาลหรือสถาบันการศึกษา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงข้อมูลจากเอกสาร Word ที่ถูกเก็บถาวรเข้าสู่ SXC เพื่อการวิเคราะห์ทางประวัติศาสตร์
+
+* การสร้างสเปรดชีต SXC โดยอัตโนมัติสำหรับการรายงานที่เข้ากันได้กับเวอร์ชันเก่า
+
+* การส่งออกไปยัง SXC ตามเงื่อนไขจากระบบการจัดการเนื้อหาและเก็บถาวร
+
+* ท่อ ETL ที่เชื่อมโยงระบบสเปรดชีตเวอร์ชันเก่ากับแหล่งข้อมูลที่ทันสมัย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

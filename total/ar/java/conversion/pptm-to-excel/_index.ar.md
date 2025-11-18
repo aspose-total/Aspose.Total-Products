@@ -61,7 +61,45 @@ otherformats: XLTX EXCEL XLT XLS XLTM TSV XLAM XLSM XLSB ODS MARKDOWN DIF MHTML 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**تحويل ملفات PPTM إلى Excel** يحول بيانات العرض التقديمي إلى جداول بيانات قابلة للتحرير بالكامل، مما يجعله مثاليًا لتقارير المالية وتحليل البيانات وإعادة استخدام المحتوى الجدولي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير الرسوم البيانية والجداول من الشرائح إلى Excel للتحليل.
+* تحويل العروض التقديمية للمبيعات والتسويق إلى جداول بيانات يمكن التنفيذ عليها.
+* تحويل الشرائح التعليمية التي تحتوي على بيانات عددية إلى دفاتر عمل Excel.
+* أرشفة العروض التقديمية للمشاريع كجداول بيانات تركز على البيانات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل دفعة من ملفات PPTM إلى Excel لتقارير مالية دورية.
+* التكامل مع أدوات BI الشركات لتلقيم البيانات تلقائيًا.
+* إنشاء تقارير Excel في الوقت الحقيقي من الشرائح الديناميكية.
+* إنشاء جداول بيانات مُشغّلة للوحات التحكم التلقائية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

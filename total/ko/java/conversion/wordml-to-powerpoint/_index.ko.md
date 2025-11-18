@@ -54,7 +54,55 @@ API를 사용하면 암호로 보호된 WORDML 문서를 POWERPOINT로 변환할
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDML을 표준 PowerPoint (PPT 또는 PPTX) 형식으로 변환하면 Microsoft PowerPoint와 호환되는 동적 프레젠테이션 슬라이드로 구조화된 Word 콘텐츠(표, 차트, 노트)를 원활하게 전송할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Word 기반 연례 보고서를 전문적인 슬라이드 덱으로 변환합니다.
+
+* Word 문서에서 직접 생성된 영업 제안서 및 피칭 덱.
+
+* PowerPoint 형식의 교육 강의 및 교육 자료.
+
+* 구조화된 Word 데이터로부터 비즈니스 전략 및 프로젝트 관리 프레젠테이션.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* Word 문서를 PPTX 슬라이드로 일괄 변환하여 임원 회의용으로 예약합니다.
+
+* 보고서를 슬라이드로 자동 생성하기 위한 워크플로 시스템 통합.
+
+* 반복되는 교육 세션 및 세미나용 트리거된 슬라이드 생성.
+
+* AI 지원 비즈니스 인텔리전스 플랫폼을 위한 자동 슬라이드 덱 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

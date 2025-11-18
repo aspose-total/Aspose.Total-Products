@@ -54,7 +54,55 @@ L'API consente inoltre di convertire documenti WORDML protetti da password in PP
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+"""
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversione dei file WORDML in formato PPS (PowerPoint Show) trasforma i documenti Word statici in presentazioni di diapositive a riproduzione istantanea. I file PPS si aprono direttamente in modalità presentazione, rendendoli ideali per chioschi, cicli di formazione e presentazioni aziendali in esecuzione automatica.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* Annunci aziendali basati su Word che vengono riprodotti automaticamente su schermi digitali.
+
+* Presentazioni in stile chiosco per mostre, ambienti commerciali o hall.
+
+* Lezioni in esecuzione automatica e riassunti delle lezioni generate da appunti Word.
+
+* Presentazioni di marketing create da schede prodotto formattate in Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* Conversione batch da report Word a PPS per comunicazioni interne.
+
+* Esportazioni programmate di presentazioni per sistemi di segnaletica digitale.
+
+* Generazione PPS attivata per display di eventi o conferenze.
+
+* Integrazione con piattaforme DMS per pubblicare automaticamente documenti Word come cicli di presentazioni.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+"""
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

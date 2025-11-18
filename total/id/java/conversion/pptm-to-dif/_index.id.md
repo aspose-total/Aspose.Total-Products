@@ -61,7 +61,51 @@ Saat mengonversi file PPTM ke DIF, Anda juga dapat menambahkan tanda air ke form
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Mengonversi PPTM ke DIF** memungkinkan transfer data numerik dan tabular berbasis slide ke Format Pertukaran Data untuk kompatibilitas lintas aplikasi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengekspor slide dengan data statistik untuk aplikasi spreadsheet warisan.
+
+* Mengubah presentasi penelitian menjadi dataset yang kompatibel dengan DIF.
+
+* Berbagi konten slide numerik dengan perangkat lunak non-Microsoft.
+
+* Menyiapkan laporan data lintas platform untuk penggunaan akademis atau perusahaan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi PPTM ke DIF otomatis untuk pelaporan data berulang.
+
+* Integrasi ke alur kerja ETL untuk sistem data warisan.
+
+* Konversi batch slide numerik ke file DIF standar.
+
+* Ekspor data yang dipicu dari presentasi ke platform analitik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

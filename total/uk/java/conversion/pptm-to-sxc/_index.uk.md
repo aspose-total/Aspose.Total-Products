@@ -102,7 +102,51 @@ otherformats: XLSX XLTX MARKDOWN XLS XLTM XLAM DIF XLT CSV XLSM ODS XLSB EXCEL T
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Перетворення PPTM у SXC** дозволяє створювати електронні таблиці StarOffice Calc з таблиць та діаграм слайдів, що підтримують спадщинні відкриті офісні середовища.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Вилучення числових даних на основі слайдів для історичних офісних пакетів.
+
+* Підготовка бізнесу та дослідницьких презентацій у вигляді електронних таблиць SXC.
+
+* Перетворення діаграм та таблиць у повторно використовувані формати електронних таблиць.
+
+* Архівування даних презентацій у спадкових відкритих форматах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетне перетворення PPTM у SXC для архівування.
+
+* Автоматизоване створення електронних таблиць SXC для використання на різних платформах.
+
+* Інтеграція в робочі процеси спадкових офісних автоматизації.
+
+* Заплановані оновлення для вилучення історичних даних зі слайдів.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

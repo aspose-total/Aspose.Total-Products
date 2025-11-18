@@ -53,7 +53,55 @@ Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://r
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Conversion de PPTM en ODT** permet aux présentations PowerPoint de devenir des fichiers OpenDocument Text, largement utilisés dans LibreOffice, Google Docs et les environnements multiplateformes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Partager le contenu de la présentation avec les utilisateurs d'OpenOffice ou LibreOffice.
+
+* Convertir des diapositives en documents texte modifiables pour une édition collaborative.
+
+* Réutiliser des présentations d'entreprise pour des plateformes non-Microsoft.
+
+* Préparer des rapports et des guides multiplateformes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot automatisée pour les suites bureautiques open source.
+
+* Intégration dans des plateformes de documents collaboratifs comme Nextcloud ou Google Docs.
+
+* Génération d'ODT déclenchée pour une accessibilité multiplateforme.
+
+* Archivage automatique des diapositives en tant que documents modifiables multiplateformes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

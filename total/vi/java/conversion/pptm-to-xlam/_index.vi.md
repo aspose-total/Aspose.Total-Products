@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPTM sang XLAM, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Chuyển đổi PPTM thành XLAM** chuyển đổi các slide thành định dạng Excel Add-In, bảo tồn tính năng tự động hóa và macro cho xử lý dữ liệu tiên tiến.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tạo Excel Add-Ins tùy chỉnh từ các mẫu dựa trên bài thuyết trình.
+
+* Chuyển đổi các slide dựa trên dữ liệu thành các công cụ phân tích có kích hoạt macro.
+
+* Chia sẻ các kịch bản tự động hóa slide với người dùng Excel.
+
+* Phát triển các công cụ luồng công việc doanh nghiệp có thể tái sử dụng từ các bộ slide.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo tập tin XLAM theo lịch trình cho các nhiệm vụ định kỳ.
+
+* Kích hoạt chuyển đổi từ slide thành Add-In cho các luồng công việc tự động hóa.
+
+* Tích hợp vào các đường ống tự động hóa Excel doanh nghiệp.
+
+* Xử lý hàng loạt các slide thành các Add-In có kích hoạt macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

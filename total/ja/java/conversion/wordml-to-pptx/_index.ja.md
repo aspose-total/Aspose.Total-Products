@@ -54,7 +54,55 @@ APIを使用すると、パスワードで保護されたWORDMLドキュメン�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDMLをPPTX形式に変換すると、構造化されたWord文書がすべての最新のMicrosoft Officeバージョンと互換性のある標準のPowerPointプレゼンテーションに変換されます。PPTX形式を使用すると、テキストコンテンツの簡単な編集、共同作業、視覚的な強化が可能です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 年次報告書、提案書、ホワイトペーパーを視覚的に魅力的なスライドに変換する。
+
+* Wordテンプレートから直接派生したマーケティングおよび営業プレゼンテーション。
+
+* プロフェッショナルなスライド形式で提示される学術および研究講義。
+
+* チーム共同作業用のビジネス戦略デッキおよびプロジェクト更新情報。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的なレポート作成のためのWordテンプレートをPPTXにスケジュール変換。
+
+* Wordベースの会議議事録からスライドデッキをトリガー生成。
+
+* AIコンテンツ生成プラットフォームとの統合による自動スライド作成。
+
+* トレーニングセッション、セミナー、ウェビナー向けのバッチPPTXエクスポート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

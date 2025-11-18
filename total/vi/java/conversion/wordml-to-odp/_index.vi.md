@@ -54,7 +54,51 @@ API cũng cho phép bạn chuyển đổi các tài liệu WORDML được bảo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi tài liệu WORDML (WordprocessingML) sang ODP (OpenDocument Presentation) cho phép biến đổi nội dung Word có cấu trúc thành các slide chuẩn mở, lý tưởng cho LibreOffice Impress và các công cụ trình bày mã nguồn mở khác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi báo cáo Word thành các bản trình bày tương tác trong cuộc họp.
+
+* Biến dữ liệu nghiên cứu dựa trên Word thành các slide học thuật trực quan.
+
+* Tạo bản trình bày doanh nghiệp mã nguồn mở từ các bảng Word có cấu trúc.
+
+* Chia sẻ cập nhật dự án và đề xuất sử dụng các slide ODP phổ biến.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt báo cáo Word hàng tuần sang ODP để phân phối cho nhóm.
+
+* Tạo các slide ODP từ các hệ thống quản lý tài liệu được kích hoạt.
+
+* Luồng làm việc tự động để tạo bản trình bày từ các mẫu Word.
+
+* Tích hợp với các đường ống trình bày mã nguồn mở hợp tác.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

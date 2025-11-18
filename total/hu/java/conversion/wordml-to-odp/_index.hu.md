@@ -54,7 +54,51 @@ Az API azt is lehetővé teszi, hogy jelszóval védett WORDML dokumentumokat ko
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A WORDML (WordprocessingML) dokumentumok átalakítása ODP (OpenDocument Presentation) formátumra lehetővé teszi a strukturált Word tartalom egyszerű átalakítását nyílt szabványú diákra, ideális a LibreOffice Impress és más nyílt forráskódú prezentációs eszközök számára.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Word jelentések átalakítása interaktív értekezleti prezentációkká.
+
+* Word alapú kutatási adatok átalakítása vizuális akadémiai diákká.
+
+* Nyílt forráskódú vállalati tájékoztatók létrehozása strukturált Word táblázatokból.
+
+* Projektfelülvizsgálatok és javaslatok megosztása univerzális ODP diákkal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Heti Word jelentések tömeges átalakítása ODP formátumra csapatok számára.
+
+* ODP diák kiváltott létrehozása dokumentumkezelő rendszerekből.
+
+* Automatizált munkafolyamat a prezentációk generálásához Word sablonokból.
+
+* Integráció együttműködő nyílt forráskódú prezentációs csatornákkal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

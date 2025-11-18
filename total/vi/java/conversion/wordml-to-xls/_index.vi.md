@@ -61,7 +61,18 @@ Sau khi chuyển đổi WORDML sang XLS, [Aspose.Cells for Java](https://product
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```html
+<h2>Chào mừng bạn đến với trang web của chúng tôi!</h2>
+<p>Hãy xem các sản phẩm mới nhất và ưu đãi hấp dẫn dưới đây:</p>
+<ul>
+<li>Sản phẩm giảm giá 50%</li>
+<li>Giao hàng miễn phí cho đơn hàng trên 500.000 VND</li>
+<li>Chương trình khuyến mãi hấp dẫn cho thành viên VIP</li>
+</ul>
+```
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 

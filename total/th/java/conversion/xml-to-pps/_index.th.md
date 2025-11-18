@@ -135,7 +135,51 @@ presentation.save("output.pps", SaveFormat.Pps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XML เป็น PPS สร้างสไลด์โชว์ที่เปิดโดยตรงในโหมดการนำเสนอ ที่เหมาะสำหรับการใช้ในกิจกรรมที่ไม่ต้องการควบคุม รายงานอัตโนมัติ หรือสไลด์เพื่อลูกค้า
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การแปลงรายงานการตลาด XML เป็นสไลด์โชว์อัตโนมัติ
+
+* เตรียมตารางเวลากิจกรรม XML สำหรับการแสดงผลที่ไม่ต้องการควบคุม
+
+* การแปลงเนื้อหาการฝึกอบรม XML เป็นสไลด์พร้อมแสดง
+
+* การย้ายสาธารณะสินค้า XML เข้าสู่การนำเสนอ PPS พร้อมลูกค้า
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XML เป็น PPS ตามกำหนดเวลาสำหรับการแสดงแผงควบคุมประจำวัน
+
+* การประมวลผล XML ที่เรียกใช้เพื่อสร้างสไลด์โชว์อัตโนมัติ
+
+* การแปลง XML เป็น PPS จำนวนมากสำหรับการเตรียมการแสดงผลกิจกรรม
+
+* การรวมเข้ากับท่อรายงานสำหรับการนำเสนอสไลด์ที่ไม่ต้องการควบคุม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

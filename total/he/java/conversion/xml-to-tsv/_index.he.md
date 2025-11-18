@@ -102,7 +102,33 @@ otherformats: FODS XLAM XLSB EXCEL TXT SXC XLTM XLSM XLTX MD CSV DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}} 
+
+ממיר XML ל־TSV מספק פורמט גיליון נתונים מבוסס גבולות קל משקל המתאים לניתוח, כתיבת סקריפטים וצינון למערכות למידת מכונה. TSV קל יותר לניתוח בסביבות Unix/Linux ומניח סכסוך פסיקים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}} 
+
+* המרת לוגי תעבורת אינטרנט מסוג XML ל־TSV עבור סקריפטים לניתוח.
+* המרת קטלוגי מוצרים מסוג XML ל־TSV לצורך יבואים מסד נתונים בכמות.
+* הכנת נתוני סקר מסוג XML כ־TSV לצורך עיבוד דגמים של למידת מכונה/בינה מלאכותית.
+* ייצוא נתוני עסקיים פיננסיים מסוג XML ל־TSV לצורך צינוני נתונים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}} 
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}} 
+
+* המרת XML ל־TSV באופן אוטומטי עבור זרימות עבודה ערביות שוטפות (ETL).
+* יצירת TSV מקבצי XML שהועלו באחסון עננים באופן מופעל.
+* עיבוד קבצי לוג שרת מסוג XML באופן צפוני ל־TSV לצורך לוחות מחוונים לניתוח.
+* שילוב המרת XML ל־TSV לתוך צינוני נתונים CI/CD.
+
+{{% /blocks/products/pf/agp/feature-section-col %}} 
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

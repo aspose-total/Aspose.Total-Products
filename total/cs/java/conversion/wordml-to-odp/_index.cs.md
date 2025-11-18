@@ -54,7 +54,51 @@ API také umožňuje převádět dokumenty WORDML chráněné heslem na ODP. Pok
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění dokumentů WORDML (WordprocessingML) do formátu ODP (OpenDocument Presentation) umožňuje snadnou transformaci strukturovaného obsahu Wordu do otevřených standardních snímků, ideální pro LibreOffice Impress a další prezentní nástroje s otevřeným zdrojovým kódem.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převádění zpráv z Wordu do interaktivních prezentací pro schůzky.
+
+* Transformace výzkumných dat založených na Wordu do vizuálních akademických snímků.
+
+* Vytváření firemních briefingu z tabulek Wordu s otevřeným zdrojovým kódem.
+
+* Sdílení aktualizací projektů a návrhů pomocí univerzálních snímků ODP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná konverze týdenních zpráv z Wordu do formátu ODP pro distribuci týmu.
+
+* Spouštění vytváření snímků ODP z systémů pro správu dokumentů.
+
+* Automatizovaný pracovní postup pro generování prezentací z šablon Wordu.
+
+* Integrace s kolaborativními prezentními potrubími s otevřeným zdrojovým kódem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

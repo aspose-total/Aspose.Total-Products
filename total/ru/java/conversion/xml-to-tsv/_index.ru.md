@@ -47,7 +47,55 @@ otherformats: FODS XLAM XLSB EXCEL TXT SXC XLTM XLSM XLTX MD TSV DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XML в TSV обеспечивает легкий формат таблицы на основе разделителей, подходящий для аналитики, сценариев и конвейеров машинного обучения. TSV легче обрабатывать в среде Unix/Linux и избегает конфликтов с запятыми.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование журналов веб-трафика XML в TSV для аналитических сценариев.
+
+* Преобразование XML-каталогов продуктов в TSV для массового импорта в базу данных.
+
+* Подготовка данных опросов в формате XML в TSV для внедрения моделей ИИ/МО.
+
+* Экспорт XML финансовых транзакций в TSV для конвейеров данных.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое преобразование XML в TSV для ежедневных рабочих процессов ETL.
+
+* Генерация TSV по запросу из загруженных XML-файлов в облачном хранилище.
+
+* Пакетная обработка журналов сервера XML в TSV для аналитических панелей управления.
+
+* Интеграция преобразования XML в TSV в конвейеры данных CI/CD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

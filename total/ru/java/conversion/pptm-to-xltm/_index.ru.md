@@ -61,7 +61,51 @@ otherformats: XLSX XLSM ODS XLSB XLTX FODS XLT XLS TSV XLTM MARKDOWN MHTML EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Преобразование PPTM в XLTM** позволяет создавать макросодержащие шаблоны Excel из содержимого слайдов, идеально подходит для автоматизированной отчетности и многократного использования корпоративных шаблонов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание макросодержащих шаблонов из дашбордов презентаций.
+
+* Стандартизация финансовой, операционной и проектной отчетности.
+
+* Преобразование интерактивных слайдов в многократно используемые шаблоны Excel.
+
+* Архивирование автоматизированных рабочих процессов отчетности в виде файлов XLTM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование PPTM в XLTM для библиотек предприятия.
+
+* Автоматическое обновление макросодержащих шаблонов.
+
+* Интеграция с системами автоматизации бизнес-процессов.
+
+* Планирование генерации шаблонов для повторяющейся корпоративной отчетности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

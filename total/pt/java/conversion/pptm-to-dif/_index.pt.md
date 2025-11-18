@@ -61,7 +61,51 @@ Ao converter o arquivo PPTM para DIF, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Convertendo PPTM para DIF** permite a transferência de dados numéricos e tabulares baseados em slides para o Formato de Intercâmbio de Dados para compatibilidade entre aplicativos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Exportar slides com dados estatísticos para aplicativos de planilhas legados.
+
+* Transformar apresentações de pesquisa em conjuntos de dados compatíveis com DIF.
+
+* Compartilhar conteúdo numérico de slides com software não-Microsoft.
+
+* Preparar relatórios de dados multiplataforma para uso acadêmico ou empresarial.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão automatizada de PPTM para DIF para relatórios de dados recorrentes.
+
+* Integração em fluxos de trabalho ETL para sistemas de dados legados.
+
+* Conversão em lote de slides numéricos em arquivos DIF padronizados.
+
+* Exportações de dados acionadas de apresentações para plataformas analíticas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

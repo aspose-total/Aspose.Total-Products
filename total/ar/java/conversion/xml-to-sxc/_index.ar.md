@@ -47,7 +47,55 @@ otherformats: XLSB ODS FODS TXT XLSM XLT MD SXC EXCEL XLTX TSV DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XML إلى SXC يوفر التوافق مع تطبيقات StarOffice القديمة وتثبيتات OpenOffice الأقدم، مما يمكن من التعامل مع البيانات الجدولية المصدرة من مصادر XML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل مجموعات بيانات المخزون XML إلى SXC لتقارير نظام الإرث.
+
+* تحويل تصديرات المبيعات XML إلى SXC للتحليلات التاريخية.
+
+* تحويل نتائج استطلاع XML إلى SXC للوصول غير المتصل.
+
+* تحضير بيانات درجات الطلاب XML لأدوات جداول البيانات القديمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل XML المجدول إلى SXC لأنابيب الإبلاغ القديمة.
+
+* معالجة دفعية لفهارس المنتجات XML لتحليل SXC غير المتصل.
+
+* مشغلات آلية تحويل تصديرات XML إلى SXC لأغراض الأرشفة.
+
+* دمج في أنابيب ETL لهجرة البيانات التاريخية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

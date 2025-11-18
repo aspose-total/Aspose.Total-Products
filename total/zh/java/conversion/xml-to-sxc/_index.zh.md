@@ -49,7 +49,55 @@ otherformats: XLSB ODS FODS TXT XLSM XLT MD SXC EXCEL XLTX TSV DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML转换为SXC可与传统StarOffice应用程序和较旧的OpenOffice安装兼容，从而使得能够处理从XML源导出的表格数据。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将XML库存数据集迁移到SXC以供传统系统报告使用。
+
+* 将XML销售导出转换为SXC以供历史分析使用。
+
+* 将XML调查结果转换为SXC以供离线访问。
+
+* 为较旧的电子表格工具准备XML学生成绩数据。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时将XML转换为SXC以供传统报告流水线使用。
+
+* 批处理XML产品目录以供离线SXC分析。
+
+* 自动触发器将XML导出转换为SXC以供归档目的。
+
+* 集成到用于历史数据迁移的ETL流水线中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

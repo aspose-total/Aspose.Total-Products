@@ -53,7 +53,45 @@ otherformats: DOTX TEXT WORDML OTT ODT WORDMLX DOTM RTF FLATOPC WORD DOT WORDMLM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**การแปลง PPTM เป็น WordML** ช่วยให้เกิดเอกสาร Word ที่ใช้ XML จากภาพนำเสนอ โดย WordML ช่วยให้มีการมาร์กอัพเอกสารโครงสร้าง เพื่อเข้าถึงโปรแกรมและอัตโนมัติเนื้อหาได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ส่งออกภาพนำเสนอเป็น XML เพื่อสร้างเอกสารโดยอัตโนมัติ
+* ใช้เนื้อหาการฝึกอบรมและนำเสนอใหม่สำหรับการทำงานโปรแกรม
+* สร้างรายงานโครงสร้างสำหรับโครงการขับเคลื่อนด้วยข้อมูล
+* เตรียมเอกสารที่ผนวกกับแพลตฟอร์ม CMS และ DMS
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลง Batch PPTM เป็น WordML สำหรับการเผยแพร่ที่ใช้ XML
+* ผสานกับระบบอัตโนมัติเนื้อหาสำหรับการทำงานเอกสารโครงสร้าง
+* สร้าง WordML แบบ real-time สำหรับแอปพลิเคชันเอกสารบนเว็บ
+* สกัดข้อมูลและใช้ใหม่จากการนำเสนอเป็นเอกสาร XML โดยอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

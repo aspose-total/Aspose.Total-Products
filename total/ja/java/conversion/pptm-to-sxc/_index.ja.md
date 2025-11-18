@@ -61,7 +61,51 @@ PPTMファイルをSXCに変換するときに、出力SXCファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTMをSXCに変換**すると、スライドの表やチャートからStarOffice Calcスプレッドシートが作成され、レガシーオープンソースオフィス環境をサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 歴史的なオフィススイート用のスライドベースの数値データの抽出。
+
+* SXCスプレッドシートとしてビジネスおよび研究プレゼンテーションの準備。
+
+* チャートや表を再利用可能なスプレッドシート形式に変換。
+
+* レガシーオープンソース形式でのプレゼンテーションデータのアーカイブ化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* アーカイブ目的のバッチPPTMからSXCへの変換。
+
+* クロスプラットフォームでの使用のためのSXCスプレッドシートのトリガー生成。
+
+* レガシーオフィス自動化ワークフローへの統合。
+
+* スライドからの歴史データ抽出のための定期更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

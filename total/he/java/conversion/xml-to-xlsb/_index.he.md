@@ -102,7 +102,45 @@ otherformats: SXC FODS EXCEL TXT XLSM MD XLTX CSV TSV XLT DIF XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XML ל-XLSB מספקת פורמט Excel בינארי ביצועים גבוהים, המתאים לקבצי נתונים גדולים, זמני טעינה מהירים יותר וחישובי חוברת מורכבים. אידיאלי עבור דיווחים עסקיים וניתוח נתונים גדולים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת לוגיות מכירות XML עצומות ל-XLSB לדיווח מהיר.
+* העברת ייצואי XML של ERP ל-XLSB ללוחות מחוות כספים.
+* יבוא קריאות חיישנים XML ל-XLSB לניתוחי נתונים מרוביים.
+* המרת נתוני ניהול פרויקטים XML ל-XLSB לשיתוף צוות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת XML ל-XLSB באופן אוטומטי בלילה עבור לוחות מחוות עסקיים.
+* שילוב עם Power Query לעדכוני נתונים בזמן אמת מ-XML ל-XLSB.
+* המרת דוחות XML בצפיפות לקבצי עבודה בינאריים במהלך הלילה.
+* צינון צינונים מ-XML ל-XLSB לאוטומציה במדדים בגדל גדול.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

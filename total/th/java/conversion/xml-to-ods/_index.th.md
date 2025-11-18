@@ -47,7 +47,51 @@ otherformats: XLTM XLT XLAM SXC TXT XLSM DIF EXCEL XLTX TSV MD XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XML เป็น ODS ช่วยให้เข้ากันได้กับแพลตฟอร์มสเปรดชีตโอเพนซอร์ส พร้อมรักษาข้อมูลโครงสร้างสำหรับการคำนวณและการแสดงผลขั้นสูง  ODS เป็นที่ต้องการสำหรับการทำงานข้ามแพลตฟอร์มและการวิเคราะห์ร่วมกัน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การแปลงรายงานการเงินที่ใช้ XML เข้าสู่ ODS เพื่อการทบทวนร่วมกัน
+
+* การแปลงข้อมูล XML ด้านบุคคลทรัพยากรมนุษย์เข้าสู่ ODS เพื่อการวิเคราะห์ผลการทำงานของพนักงาน
+
+* การนำเข้ารายงานการขายออนไลน์แบบ XML เข้าสู่ ODS เพื่อแผงควบคุม KPI
+
+* การย้ายข้อมูลการทดลองแบบ XML เข้าสู่ ODS เพื่อการวิจัยทางวิชาการ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XML ที่ส่งออกอย่างตรงเวลาเป็น ODS เพื่อรายงานรายสัปดาห์
+
+* ท่อ ETL ที่แปลงข้อมูลสำรวจแบบ XML เป็น ODS โดยอัตโนมัติ
+
+* การเริ่มต้นแปลง XML เป็น ODS ในแพลตฟอร์มการทำงานร่วมบนคลาวด์
+
+* การเก็บข้อมูลบันทึก XML อัตโนมัติในรูปแบบ ODS เพื่อวัตถุประสงค์การปฏิบัติตามข้อบังคับ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

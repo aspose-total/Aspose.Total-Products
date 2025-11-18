@@ -54,7 +54,55 @@ Met de API kunt u ook met een wachtwoord beveiligde WORDML-documenten naar ODP c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van WORDML (WordprocessingML)-documenten naar ODP (OpenDocument Presentation) maakt het mogelijk om gestructureerde Word-inhoud eenvoudig om te zetten in open-standaard dia's, ideaal voor LibreOffice Impress en andere open-source presentatietools.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het omzetten van Word-rapporten naar interactieve vergaderpresentaties.
+
+* Het transformeren van op Word gebaseerde onderzoeksgegevens naar visuele academische dia's.
+
+* Het maken van open-source bedrijfspresentaties van gestructureerde Word-tabellen.
+
+* Het delen van projectupdates en voorstellen met universele ODP-dia's.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchconversie van wekelijkse Word-rapporten naar ODP voor teamverspreiding.
+
+* Getriggerde creatie van ODP-dia's vanuit documentbeheersystemen.
+
+* Geautomatiseerde workflow voor het genereren van presentaties vanuit Word-sjablonen.
+
+* Integratie met collaboratieve open-source presentatiepijplijnen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -54,7 +54,51 @@ otherformats: POWERPOINT POTX PPT PPSM PPTM POT POTM PPSX PPTX PPS CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل WORDML إلى تنسيق POTM يمكن إنشاء قوالب باوربوينت معتمدة على الماكرو، مما يجمع بين بيانات Word المنظمة مع وظائف الشرائح الآلية لعروض تقديمية تفاعلية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* بناء وحدات تدريب تفاعلية مع ماكرو مضمنة.
+
+* لوحات تحكم للشركات مع ماكرو ممكنة من الجداول في Word.
+
+* شرائح النمذجة المالية مع حسابات آلية.
+
+* شرائح تعليمية مع عناصر تفاعلية للتعلم الإلكتروني.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* إنشاء قوالب ماكرو ممكنة تلقائيًا من تقارير Word.
+
+* إنشاء POTM مُحفز لتحديثات المشاريع المتكررة.
+
+* التكامل مع أنظمة إدارة التعلم لشرائح تدريبية آلية.
+
+* تحويل دفعي لمحتوى Word إلى ماكرو باوربوينت تفاعلية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

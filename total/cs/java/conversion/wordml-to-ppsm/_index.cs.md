@@ -54,7 +54,51 @@ API také umožňuje převádět dokumenty WORDML chráněné heslem na PPSM. Po
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod WORDML na PPSM umožňuje vytváření prezentací PowerPoint Show s makry. S vestavěnými makry mohou prezentace PPSM provádět interaktivní akce, výpočty, zpracování formulářů a automatizaci řízenou daty přímo při otevření prezentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Interaktivní školení s automatickým hodnocením a navigací pomocí kliknutí.
+
+* Prezentace prodeje řízené makry s aktualizacemi cen v reálném čase.
+
+* Pokročilé průchody produktem s použitím automatizovaných přechodů a logiky.
+
+* Prezentační snímky demonstrující obchodní procesy s vestavěnými výpočty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* Automatické generování prezentací řízených makry ze strukturovaného obsahu Wordu.
+
+* Konverze řízená spouštěním pro materiály pro dodržování předpisů nebo školení personálu v oblasti lidských zdrojů.
+
+* Plánované vytváření interaktivních souborů PPSM pro procesy začleňování nových zaměstnanců.
+
+* Automatická příprava měsíčních prezentací s makry z datových zdrojů Wordu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

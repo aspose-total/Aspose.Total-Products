@@ -102,7 +102,55 @@ otherformats: SXC DIF EXCEL TXT TSV XLT XLSM XLSB XLTM MD ODS FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XML ל-XLAM מאפשרת לאחסן נתוני XML ומאקרוס בתוך התוסף של Excel, מאפשרת פתרונות גיליון אוטומטיים, חישובים מורכבים וזרימות עבודה מותאמות אישית בתוך Excel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* אריזת חישובי KPI מבוססי XML כתוספות Excel עבור מנהלים.
+
+* יצירת לוחות מחזוריים ניתנים לשימוש מנתוני מכירות או מלאי בפורמט XML.
+
+* פיתוח כלים לדיווח בפורמט XML המאפשרים מאקרוס לצוותי פיננסים.
+
+* אוטומציה של זרימות עבודה להמרת נתוני XML ב-Excel דרך XLAM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת XML ל-XLAM מתוזמנת לדוחות עסקיים חוזרים.
+
+* עיבוד רצפי של נתוני XML לתוספות עם מאקרוס לאוטומציה.
+
+* יצירת XLAM מופעלת מהעלאת קבצי XML לזרימות עבודה דינמיות ב-Excel.
+
+* שילוב עם סקריפטים של VBA לצינורות עבודה מבוססי XML ל-XLAM בענן.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

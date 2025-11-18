@@ -54,7 +54,51 @@ API ยังช่วยให้คุณแปลงเอกสาร WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงเอกสาร WORDML (WordprocessingML) เป็น ODP (OpenDocument Presentation) ช่วยให้สามารถแปลงเนื้อหา Word โครงสร้างเป็นสไลด์มาตรฐานเปิด ที่เหมาะสำหรับ LibreOffice Impress และเครื่องมือนำเสนอแบบ open-source อื่น ๆ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การแปลงรายงาน Word เป็นการนำเสนอการประชุมแบบโต้ตอบ
+
+* การแปลงข้อมูลการวิจัยที่มีพื้นฐานจาก Word เป็นสไลด์วิชวลทางการศึกษา
+
+* การสร้างการนำเสนอสำหรับองค์กรจากตาราง Word โครงสร้าง
+
+* การแบ่งปันการอัปเดตโครงการและข้อเสนอโดยใช้สไลด์ ODP มาตรฐาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงกลุ่มรายงาน Word รายสัปดาห์เป็น ODP สำหรับการกระจายทีม
+
+* การสร้างสไลด์ ODP จากระบบจัดการเอกสารโดยเรียกใช้
+
+* การทำงานอัตโนมัติสำหรับสร้างการนำเสนอจากเทมเพลต Word
+
+* การรวมเข้ากับกระบวนการทำงานของท่อนำเสนอ open-source ที่มีการทำงานร่วมกัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

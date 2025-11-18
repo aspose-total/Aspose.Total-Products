@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XML na XAML umožňuje použití strukturovaných XML dat v aplikacích Microsoft WPF, UWP nebo Xamarin, což umožňuje dynamické vykreslování uživatelského rozhraní, interaktivní komponenty a daty řízené rozložení aplikace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Přeměna XML specifikací uživatelského rozhraní na XAML pro desktopové a mobilní aplikace.
+
+* Převod XML datových modelů na XAML vazby pro interaktivní ovládací panely.
+
+* Příprava XML konfiguračních souborů pro generování dynamického uživatelského rozhraní.
+
+* Migrace XML návrhových maket na XAML pro aplikace WPF nebo UWP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný převod XML na XAML pro průběžné aktualizace uživatelského rozhraní v aplikacích.
+
+* Hromadné zpracování XML datových sad do XAML pro dynamické ovládací panely.
+
+* Spuštění generování XAML z nahrávaných XML souborů pro rychlé prototypování.
+
+* Integrace do CI/CD potrubí pro automatizované aktualizace uživatelského rozhraní aplikace z XML zdrojů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XMLをPPTMに変換すると、マクロが有効化されたPowerPointプレゼンテーションが作成され、プロのワークフロー向けにダイナミックなチャート、自動スライド、インタラクティブなコンテンツが可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* XML KPIダッシュボードをPPTMスライドに自動化。
+
+* XML財務またはプロジェクトレポートをインタラクティブなプレゼンテーションに変換。
+
+* XMLトレーニングコンテンツをマクロが有効化された教育用スライドに変換。
+
+* ダイナミックなチャートとマクロを使用したXML製品デモの準備。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 自動レポート用のスケジュールされたXMLからPPTMへの変換。
+
+* マクロが有効化されたスライドデッキにXMLファイルを一括処理。
+
+* チームダッシュボード用にアップロードされたXMLからトリガーされたPPTM生成。
+
+* 動的なプレゼンテーション自動化のためのVBAおよびワークフローツールとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

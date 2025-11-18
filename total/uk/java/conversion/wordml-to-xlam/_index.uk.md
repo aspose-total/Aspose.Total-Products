@@ -102,7 +102,55 @@ otherformats: EXCEL CSV DIF XLTM FODS XLT XLSM XLTX XLSX SXC ODS XLS TSV XLSB
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Створення файлів XLAM з WORDML дозволяє конвертувати документи Word у формат додатків Excel Add-In, що дозволяє дані живити власні функції, автоматизаційні скрипти та розширену логіку електронних таблиць. Це ідеально підходить для команд, які використовують розширення Excel, що працюють на VBA.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* Перетворення моделей обчислень на основі Word у додатки Excel.
+
+* Розгортання повторно використовуваної бізнес-логіки через XLAM, створені з Word.
+
+* Фінансові та аудиторські команди використовують автоматизовані додатки Excel замість статичних аркушів.
+
+* Створення інтерактивних інструментів для прогнозування, ціноутворення або моделювання.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетне створення Word-to-XLAM для розгортання оновлених додатків у всій підприємстві.
+
+* Автоматичне створення макро-драйверних додатків з правил і формул, що базуються на Word.
+
+* Тригерне упакування XLAM для бізнес-логіки, збереженої у шаблонах Word.
+
+* Інтеграція робочих процесів на основі штучного інтелекту, які перетворюють бізнес-вимоги на додатки Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

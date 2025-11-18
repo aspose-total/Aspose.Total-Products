@@ -61,7 +61,51 @@ Lors de la conversion du fichier PPTM en XLT, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Conversion de PPTM en XLT** convertit les données de présentation en modèles Excel hérités pour une mise en forme cohérente et des rapports réutilisables.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Création de modèles Excel réutilisables à partir des diapositives de projet.
+
+* Normalisation des rapports financiers avec une mise en forme cohérente.
+
+* Archivage des données de présentation d'entreprise sous forme de modèles XLT.
+
+* Préparation de diapositives éducatives ou de recherche sous forme de modèles réutilisables.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion planifiée de PPTM en XLT pour les bibliothèques de modèles.
+
+* Génération en lot de modèles de rapports normalisés.
+
+* Mises à jour déclenchées pour la création récurrente de modèles.
+
+* Intégration avec des flux de travail automatisés de documents et de feuilles de calcul.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

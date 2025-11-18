@@ -61,7 +61,55 @@ otherformats: EXCEL XLAM DIF XLTM FODS XLT XLSM XLTX XLSX SXC ODS XLS TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การสร้างไฟล์ XLAM จาก WORDML ช่วยให้เอกสาร Word สามารถแปลงเป็นรูปแบบ Excel Add-In ซึ่งช่วยให้ข้อมูลสามารถใช้เป็นอาหารให้กับฟังก์ชันที่กำหนดเอง สคริปต์การอัตโนมัติ และตรรกะสเปรดชีตขั้นสูง นี้เหมาะสำหรับทีมที่ใช้ส่วนขยาย Excel ที่ขับเคลื่อนโดย VBA
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* แปลงโมเดลการคำนวณที่ใช้ Word เป็น Excel add-ins
+
+* การใช้โลจิกธุรกิจที่สามารถนำไปใช้ซ้ำได้ผ่าน XLAM ที่สร้างจาก Word
+
+* ทีมการเงินและการตรวจสอบใช้ Excel add-ins อัตโนมัติแทนการใช้ชีทแบบคงที่
+
+* สร้างเครื่องมือที่สามารถใช้งานได้สำหรับการทำนาย การกำหนดราคา หรือการจำลอง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างไฟล์ XLAM จาก Word แบบจำนวนมากสำหรับการใช้งานทั่วบริษัท
+
+* การสร้าง Excel add-ins ที่ใช้มาโครจากกฎและสูตรที่ใช้ Word โดยอัตโนมัติ
+
+* การบรรจุ XLAM ที่เรียกใช้โลจิกธุรกิจที่เก็บไว้ในเทมเพลต Word
+
+* การรวมเทคโนโลยี AI ที่แปลงความต้องการทางธุรกิจเป็น Excel add-ins
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

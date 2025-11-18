@@ -54,7 +54,51 @@ API를 사용하면 암호로 보호된 WORDML 문서를 PPTX로 변환할 수�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDML을 PPTX 형식으로 변환하면 모든 최신 Microsoft Office 버전과 호환되는 표준 PowerPoint 프레젠테이션으로 구조화된 Word 문서를 변환할 수 있습니다. PPTX를 사용하면 텍스트 콘텐츠를 쉽게 편집하고 협업하며 시각적으로 향상시킬 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 연차 보고서, 제안서 및 백서를 시각적으로 매력적인 슬라이드로 변환합니다.
+
+* Word 템플릿에서 직접 파생된 마케팅 및 영업 프레젠테이션입니다.
+
+* 전문적인 슬라이드 형식으로 제공되는 학술 및 연구 강의입니다.
+
+* 팀 협업을 위한 비즈니스 전략 덱 및 프로젝트 업데이트입니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 주기적 보고를 위한 Word 템플릿을 PPTX로 예약된 변환합니다.
+
+* Word 기반 회의록에서 슬라이드 덱을 생성합니다.
+
+* 자동화된 슬라이드 생성을 위한 AI 콘텐츠 생성 플랫폼과 통합합니다.
+
+* 교육 세션, 세미나 및 웨비나를 위한 일괄 PPTX 내보내기입니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

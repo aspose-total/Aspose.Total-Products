@@ -49,8 +49,56 @@ otherformats: XLAM TXT FODS XLSM ODS EXCEL XLTM TSV XLSB DIF MD XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML转换为Excel（.XLS）可在Excel中直接编辑、过滤和分析结构化的XML数据。这种方法非常适合团队在熟悉的电子表格界面中管理销售、库存或财务记录等数据集。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将XML采购订单转换为XLS供财务团队审阅。
+
+* 将基于XML的CRM数据导入Excel进行营销分析。
+
+* 从XML产品数据源生成用于电子商务分析的XLS报告。
+
+* 准备XML传感器数据以进行基于Excel的趋势分析。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定期将XML转换为XLS，用于每周管理报告。
+
+* 自动仪表板从实时XML数据流生成XLS。
+
+* 将XML转换为Excel集成到会计自动化流程中。
+
+* 基于云的触发器将上传的XML转换为可编辑的XLS表格。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

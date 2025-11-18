@@ -47,7 +47,55 @@ Konwertując plik XML na XLTM, możesz także dodać znak wodny do wyjściowego 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie XML na XLTM łączy funkcjonalność szablonów z możliwościami makr, umożliwiając dynamiczne, wielokrotnego użytku arkusze Excel automatyzujące powtarzalne zadania związane z obsługą danych XML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przygotowywanie szablonów Excel wspieranych przez XML z automatycznymi obliczeniami dla finansów.
+
+* Konwertowanie dzienników projektów XML na wielokrotnego użytku szablony z makrami.
+
+* Tworzenie szablonów prognoz sprzedaży opartych na XML dla powtarzającego się raportowania.
+
+* Projektowanie szablonów XLSM zasilanych przez XML do automatyzacji procesów na szeroką skalę w zespole.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowane konwersje XML na XLTM dla powtarzających się procesów biznesowych.
+
+* Wywoływanie tworzenia szablonów z makrami na podstawie przesłanych plików XML.
+
+* Konwersja wsadowa XML na XLTM dla automatyzacji w wielu działach.
+
+* Integracja w standardowe przepływy pracy przedsiębiorstwa dla standaryzowanych szablonów XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

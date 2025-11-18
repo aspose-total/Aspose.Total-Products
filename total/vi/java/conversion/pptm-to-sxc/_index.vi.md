@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPTM sang SXC, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Chuyển đổi PPTM sang SXC** tạo ra bảng tính StarOffice Calc từ bảng và biểu đồ trên slide, hỗ trợ môi trường văn phòng mã nguồn mở cũ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Trích xuất dữ liệu số dựa trên slide cho các bộ văn phòng cũ.
+
+* Chuẩn bị bài thuyết trình kinh doanh và nghiên cứu dưới dạng bảng tính SXC.
+
+* Chuyển đổi biểu đồ và bảng thành định dạng bảng tính có thể tái sử dụng.
+
+* Lưu trữ dữ liệu bài thuyết trình dưới định dạng mã nguồn mở cũ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt từ PPTM sang SXC cho mục đích lưu trữ.
+
+* Tạo bảng tính SXC theo yêu cầu để sử dụng trên nhiều nền tảng.
+
+* Tích hợp vào quy trình làm việc tự động của văn phòng cũ.
+
+* Cập nhật định kỳ để trích xuất dữ liệu lịch sử từ slide.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -135,7 +135,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XML átalakítása PPS formátummá olyan diavetítéseket hoz létre, amelyek közvetlenül bemutató módban nyílnak meg, ideálisak kioszkokhoz, automatizált jelentésekhez vagy elosztott ügyfélbemutatókhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Az XML marketingjelentések automatizált diavetítéssé alakítása.
+
+* Az XML eseménytervek előkészítése felügyelet nélküli bemutatókhoz.
+
+* Az XML oktatási tartalom átalakítása bemutatásra kész diákká.
+
+* Az XML termékdemók áttelepítése ügyfélkész PPS bemutatókká.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ütemezett XML-PPS átalakítás napi irányítópultokhoz.
+
+* Az XML feltöltések kiváltotta feldolgozás automatikusan futó diavetítéssé alakítása.
+
+* Tömeges XML-PPS átalakítás eseménybemutatókra való felkészüléshez.
+
+* Integráció a jelentési csatornákba felügyelet nélküli diavetítések telepítéséhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

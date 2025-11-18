@@ -135,7 +135,55 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja XML do XAML pozwala na wykorzystanie strukturalnych danych XML w aplikacjach Microsoft WPF, UWP lub Xamarin, umożliwiając dynamiczne renderowanie interaktywnych komponentów interfejsu użytkownika oraz układy aplikacji oparte na danych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przekształcanie specyfikacji interfejsu użytkownika XML na XAML dla aplikacji desktopowych i mobilnych.
+
+* Konwertowanie modeli danych XML na powiązania XAML dla interaktywnych pulpitów nawigacyjnych.
+
+* Przygotowywanie plików konfiguracyjnych XML do generowania dynamicznego interfejsu użytkownika.
+
+* Migracja makiety projektu XML na XAML dla aplikacji WPF lub UWP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja XML na XAML dla ciągłej aktualizacji interfejsu użytkownika w aplikacjach.
+
+* Przetwarzanie wsadowe zestawów danych XML na XAML dla dynamicznych pulpitów nawigacyjnych.
+
+* Generowanie XAML na żądanie z załadowanych plików XML dla szybkiego prototypowania.
+
+* Integracja z potokami CI/CD dla automatycznej aktualizacji interfejsu aplikacji z źródeł XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

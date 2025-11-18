@@ -61,7 +61,45 @@ otherformats: XLAM TSV ODS XLS XLTM XLTX MARKDOWN DIF EXCEL XLT XLSB XLSM FODS X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**تحويل PPTM إلى XLT** يحول بيانات العرض إلى قوالب Excel القديمة لتنسيق متسق وتقارير قابلة لإعادة الاستخدام.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء قوالب Excel قابلة لإعادة الاستخدام من شرائح المشروع.
+* توحيد التقارير المالية بتنسيق متسق.
+* أرشفة بيانات العروض التقديمية الشركات كقوالب XLT.
+* إعداد شرائح تعليمية أو بحثية كقوالب قابلة لإعادة الاستخدام.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل PPTM إلى XLT بشكل مجدول لمكتبات القوالب.
+* إنشاء دفعة من القوالب الموحدة للتقارير.
+* تحديثات مُشغّلة لإنشاء القوالب المتكررة.
+* دمج مع سير العمل التلقائي للمستندات وجداول البيانات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

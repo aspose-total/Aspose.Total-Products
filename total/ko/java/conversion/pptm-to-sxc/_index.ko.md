@@ -61,7 +61,51 @@ PPTM 파일을 SXC로 변환하는 동안 출력 SXC 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTM를 SXC로 변환**은 슬라이드 테이블과 차트에서 StarOffice Calc 스프레드시트를 생성하여 레거시 오픈 소스 오피스 환경을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 역사적 오피스 스위트를 위한 슬라이드 기반 숫자 데이터 추출.
+
+* SXC 스프레드시트로 비즈니스 및 연구 프레젠테이션 준비.
+
+* 차트와 테이블을 재사용 가능한 스프레드시트 형식으로 변환.
+
+* 레거시 오픈 소스 형식으로 프레젠테이션 데이터 보관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 아카이브 목적을 위한 일괄 PPTM-to-SXC 변환.
+
+* 플랫폼 간 사용을 위한 SXC 스프레드시트의 트리거 생성.
+
+* 레거시 오피스 자동화 워크플로에 통합.
+
+* 슬라이드에서 역사적 데이터 추출을 위한 예약 업데이트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

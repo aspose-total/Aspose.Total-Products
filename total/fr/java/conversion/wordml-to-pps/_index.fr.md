@@ -54,7 +54,55 @@ L'API vous permet également de convertir des documents WORDML protégés par mo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+"""
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion des fichiers WORDML en format PPS (PowerPoint Show) transforme les documents Word statiques en présentations diaporama prêtes à l'emploi. Les fichiers PPS s'ouvrent directement en mode diaporama, ce qui les rend idéaux pour les kiosques, les boucles de formation et les présentations commerciales en lecture automatique.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Diffusion automatique d'annonces d'entreprise basées sur Word sur des écrans numériques.
+
+* Présentations de style kiosque pour les expositions, les environnements de vente au détail ou les halls d'accueil.
+
+* Conférences et résumés de cours en lecture automatique générés à partir de notes Word.
+
+* Diaporamas marketing créés à partir de fiches produits formatées dans Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion par lot de rapports Word en PPS pour les communications internes.
+
+* Exportations planifiées de diaporamas pour les systèmes de signalisation numérique.
+
+* Génération de PPS déclenchée pour des affichages d'événements ou de conférences.
+
+* Intégration avec des plateformes de GED pour publier automatiquement des documents Word sous forme de boucles de diaporama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+"""
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

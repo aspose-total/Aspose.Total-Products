@@ -61,7 +61,55 @@ WORDML'yi CSV'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://prod
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDML (WordprocessingML) belgelerini CSV (Virgülle Ayrılmış Değerler) formatına dönüştürmek, yapılandırılmış metin, tablolar ve verilerin sorunsuz bir şekilde elek alınmasını, elek analizi için ideal olan hafif ve geniş uyumlu CSV formatına aktarılmasını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Fatura veya faturalama verilerini Word raporlarından elek tablo yazılımlarına aktarma.
+
+* Word tabanlı anket sonuçlarını veri analitiği panolarına entegre etme.
+
+* Pazarlama otomasyonu için iletişim listelerini ve dizinleri basitleştirme.
+
+* Tablo şeklindeki Word raporlarını bulut tabanlı elek tablo platformlarına hızlı göç etme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* WORDML'den CSV'ye finansal tabloların zamanlanmış toplu çıkartılması.
+
+* Word şablonlarından İK verileri için otomatik ETL boru hatları.
+
+* Makine öğrenme modelleri için Word tarafından oluşturulan formların ön işlemesi.
+
+* Raporlama için belge yönetim sistemlerinden CSV'ye tetiklenen dönüşümler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

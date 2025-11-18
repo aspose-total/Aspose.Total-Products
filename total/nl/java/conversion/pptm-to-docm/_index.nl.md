@@ -53,7 +53,51 @@ Met behulp van de API kunt u ook een PPTM-bestand naar DOCM-conversie met waterm
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Het omzetten van PPTM naar DOCM** maakt het mogelijk om macro's die zijn ingebed in PowerPoint dia's te behouden terwijl de inhoud wordt overgezet naar macro-enabled Word-documenten. Dit is perfect voor bedrijven en docenten die automatiseringsscripts gebruiken in hun documenten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Automatiseren van rapportgeneratie met macro-enabled Word-documenten.
+
+* Het omzetten van interactieve trainingsdia's in bewerkbare macrogestuurde handleidingen.
+
+* Behoud van geavanceerde diafunctionaliteiten voor bedrijfsworkflows.
+
+* Het maken van dynamische documentatiesjablonen van presentatie-inhoud.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geplande conversie voor terugkerende rapportagetaken in bedrijven.
+
+* Integratie in macro-enabled workflowautomatisering in MS Office.
+
+* Het activeren van real-time PPTM-naar-DOCM-conversie voor live trainingsmodules.
+
+* Genereren van geautomatiseerde klantvoorstellen met vooraf gebouwde macro's.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

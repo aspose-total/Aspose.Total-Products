@@ -53,7 +53,51 @@ Pomocí API můžete také provést převod PPTM souboru na OTT s vodoznakem. Ch
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Konverze PPTM na OTT** generuje šablony textu ve formátu OpenDocument Text z prezentací. Tím umožňuje vytváření opakovaně použitelných šablon v prostředích s otevřeným zdrojovým kódem bez závislosti na Microsoft Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření standardizovaných šablon dokumentů pro LibreOffice/OpenOffice.
+
+* Přetváření designů snímků pro šablonově řízené reportování.
+
+* Konverze výukových materiálů do editovatelných šablonových formátů.
+
+* Příprava šablon pro spolupráci více uživatelů pro platformy s otevřeným zdrojovým kódem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná konverze PPTM na OTT pro knihovny šablon.
+
+* Integrace s pracovními postupy pro obsah ve firmách v rámci open-source balíků.
+
+* Generování šablon v reálném čase pro spolupráci mezi odděleními.
+
+* Hromadné vytváření OTT pro účely vzdělávání a reportování na různých platformách.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

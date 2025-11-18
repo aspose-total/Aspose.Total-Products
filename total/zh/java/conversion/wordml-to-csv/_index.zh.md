@@ -61,7 +61,55 @@ otherformats: DIF XLTX XLTM TSV XLSX XLSM ODS FODS XLSB EXCEL SXC XLS XLT XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将WORDML（WordprocessingML）文档转换为CSV（逗号分隔值）可实现对结构化文本、表格和数据的无缝提取，以便进行电子表格分析。CSV格式轻巧、兼容性广泛，非常适合导入到商业智能或CRM工具中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 从Word报告中将发票或账单数据导出到电子表格软件。
+
+* 将基于Word的调查结果集成到数据分析仪表板中。
+
+* 简化营销自动化的联系人列表和目录。
+
+* 将表格化的Word报告快速迁移到基于云的电子表格平台。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定期批量从WORDML提取财务报表到CSV。
+
+* 从Word模板自动化ETL管道的人力资源数据。
+
+* 为机器学习模型预处理Word生成的表单。
+
+* 从文档管理系统触发转换为CSV以进行报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

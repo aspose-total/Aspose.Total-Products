@@ -135,7 +135,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XML na POT umožňuje transformaci strukturovaného obsahu do zastaralých šablon programu PowerPoint. Tento formát je ideální pro uživatele, kteří udržují starší pracovní postupy v programu Microsoft Office nebo distribuují standardizované prezentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převod XML výročních zpráv do zastaralých šablon programu PowerPoint.
+
+* Příprava XML marketingových prostředků pro konzistentní tvorbu snímkových prezentací.
+
+* Transformace XML školicích modulů do editovatelných šablon POT.
+
+* Migrace dat XML katalogu produktů do standardizovaných rozložení snímků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkový převod XML na POT pro opakující se firemní prezentace.
+
+* Plánovaný převod XML marketingových briefů do šablon snímků.
+
+* Spouštěný proces pro nahrávané soubory XML do snímků POT.
+
+* Integrace do automatizovaných sestavovacích linek s podporou zastaralého PowerPointu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

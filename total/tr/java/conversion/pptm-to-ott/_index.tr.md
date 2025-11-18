@@ -53,7 +53,51 @@ API'yi kullanarak, filigranlı PPTM dosyasını OTT'ye dönüştürme işlemini 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTM'yi OTT'ye Dönüştürme**, sunum slaytlarından OpenDocument Metin şablonları oluşturur. Bu, Microsoft Word'e bağımlı olmadan açık kaynak ofis ortamlarında yeniden kullanılabilir şablonları mümkün kılar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* LibreOffice/OpenOffice için standart belge şablonları oluşturma.
+
+* Şablon odaklı raporlama için slayt tasarımlarını yeniden kullanma.
+
+* Eğitim materyallerini düzenlenebilir şablon formatlarına dönüştürme.
+
+* Açık kaynak platformlar için çok kullanıcılı işbirliği şablonları hazırlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Şablon kütüphaneleri için zamanlanmış PPTM'den OTT'ye dönüştürme.
+
+* Açık kaynak paketlerinde kurumsal içerik iş akışlarıyla entegrasyon.
+
+* Çok departmanlı işbirliği için gerçek zamanlı şablon oluşturma.
+
+* Çapraz platform eğitim ve raporlama amaçları için toplu OTT oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

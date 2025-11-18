@@ -61,7 +61,51 @@ otherformats: XLSX XLTX MARKDOWN XLS XLTM XLAM DIF XLT SXC XLSM ODS XLSB EXCEL T
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**การแปลง PPTM เป็น SXC** สร้างสเปรดชีต StarOffice Calc จากตารางและแผนภูมิในสไลด์ รองรับสภาพแวดล้อมของสำนักงานโอเพนซอร์สรุ่นเก่า
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สกัดข้อมูลตัวเลขจากสไลด์สำหรับชุดโปรแกรมสำนักงานเวอร์ชันเก่า
+
+* เตรียมการนำเสนอธุรกิจและวิจัยในรูปแบบสเปรดชีต SXC
+
+* แปลงแผนภูมิและตารางเป็นรูปแบบสเปรดชีตที่สามารถนำกลับมาใช้ได้
+
+* เก็บข้อมูลการนำเสนอในรูปแบบสำนักงานโอเพนซอร์สรุ่นเก่า
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลงไฟล์ PPTM เป็น SXC จำนวนมากสำหรับวัตถุประสงค์การเก็บถาวร
+
+* สร้างสเปรดชีต SXC โดยเรียกใช้เมื่อมีการกระจายใช้บนหลายแพลตฟอร์ม
+
+* ผสานเข้ากับกระบวนการทำงานอัตโนมัติของสำนักงานเวอร์ชันเก่า
+
+* ตั้งเวลาอัพเดตสำหรับการสกัดข้อมูลที่เกี่ยวข้องกับประวัติจากสไลด์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

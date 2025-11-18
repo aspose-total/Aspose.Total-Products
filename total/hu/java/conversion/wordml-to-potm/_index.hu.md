@@ -54,7 +54,51 @@ Az API azt is lehetővé teszi, hogy jelszóval védett WORDML dokumentumokat ko
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A WORDML átalakítása POTM formátumra lehetővé teszi makróval ellátott PowerPoint sablonok létrehozását, strukturált Word adatok kombinálásával automatizált dia funkciókkal interaktív prezentációkhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Interaktív képzési modulok építése beágyazott makrókkal.
+
+* Makróval ellátott vállalati vezérlőpultok Word táblákból származtatva.
+
+* Pénzügyi modellezési diák automatizált számításokkal.
+
+* Oktatási diák interaktív elemekkel az e-learninghez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Makróval ellátott sablonok automatizált generálása Word jelentésekből.
+
+* Ismétlődő projektfelülvizsgálati csomagokhoz kiváltott POTM létrehozása.
+
+* Integráció LMS rendszerekkel automatizált képzési diákhoz.
+
+* Word tartalom tömeges átalakítása interaktív PowerPoint makrókká.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

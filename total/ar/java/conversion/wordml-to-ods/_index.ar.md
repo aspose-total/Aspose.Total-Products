@@ -61,7 +61,55 @@ otherformats: XLSM FODS XLTX TSV SXC XLSB XLS XLAM XLTM EXCEL ODS DIF XLSX XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل WORDML إلى تنسيق ODS (جدول بيانات مفتوح) يوفر توافقًا كاملاً مع محررات جداول البيانات مفتوحة المصدر مع الحفاظ على محتوى Word المهيكل، بما في ذلك الجداول المعقدة والصيغ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تخطيط مشترك للمشاريع باستخدام الجداول المولدة بواسطة Word المستوردة إلى جداول بيانات ODS.
+
+* تجميع البيانات الأكاديمية أو البحثية من تقارير Word.
+
+* تصدير قوالب الميزانيات والجداول المالية من Word إلى ODS.
+
+* سير العمل للمستندات مفتوحة المصدر للمنظمات غير الحكومية والحكومية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+
+
+* تحويل آلي لقوالب Word إلى ODS للتعاون عبر السحابة.
+
+* تصدير نتائج الاستطلاع بشكل مجدول من وثائق Word.
+
+* تكامل ETL لتقارير المنظمات غير الحكومية باستخدام جداول بيانات مفتوحة المعايير.
+
+* تحويل مشغل لتقارير الامتثال من Word إلى ODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

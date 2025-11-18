@@ -49,7 +49,55 @@ otherformats: FODS XLTX SXC TSV TXT XLSM ODS EXCEL XLTM XLT XLAM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML文件转换为CSV（逗号分隔值）简化了从结构化XML层次结构到与Excel、Google表格和数据分析平台兼容的表格数据集的过渡。这种格式非常适合需要轻量级、可读性强的数据用于报告或自动化的用户。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 从电子商务XML源中导出产品目录到CSV，用于价格比较工具。
+
+* 将财务交易XML日志转换为CSV，用于会计软件导入。
+
+* 将库存XML数据迁移到Excel仪表板，用于销售报告。
+
+* 从结构化XML数据集准备CSV文件用于机器学习模型。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将来自ERP系统的XML报告定期转换为CSV。
+
+* 集成到自动化的商业智能管道中。
+
+* 为CRM和营销分析实时生成XML到CSV。
+
+* 基于云的触发器将上传的XML转换为CSV，用于团队协作。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

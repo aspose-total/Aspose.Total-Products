@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPTM sang ODS, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Chuyển đổi PPTM sang ODS** biến các bài thuyết trình thành các tệp OpenDocument Spreadsheet, tương thích rộng rãi với LibreOffice, Google Sheets và các ứng dụng bảng tính khác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tái sử dụng dữ liệu bài thuyết trình số hóa cho việc sử dụng đa nền tảng.
+
+* Chuyển đổi bảng điều khiển bán hàng và dự án thành bảng tính ODS có thể chỉnh sửa.
+
+* Chia sẻ dữ liệu với khách hàng hoặc nhóm sử dụng các công cụ mã nguồn mở.
+
+* Lưu trữ các slide dưới dạng tài liệu bảng tính để báo cáo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi lô PPTM sang ODS theo lịch trình cho các dự án định kỳ.
+
+* Tích hợp vào quy trình làm việc dựa trên đám mây của bảng tính.
+
+* Tạo ODS theo yêu cầu cho bảng điều khiển phân tích.
+
+* Lưu trữ tự động các slide dưới dạng tệp ODS chuẩn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

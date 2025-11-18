@@ -61,7 +61,51 @@ Beim Konvertieren der PPTM-Datei in FODS können Sie Ihrem Ausgabe-FODS-Dateifor
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTM in FODS umwandeln** generiert Flat OpenDocument Spreadsheet-Dateien, ideal zum Teilen von bearbeitbarem Tabelleninhalt zwischen LibreOffice- und OpenOffice-Umgebungen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Finanz- und Projektfolien in FODS für Open-Source-Office-Suiten umwandeln.
+
+* Bearbeitbare Tabellen mit plattformübergreifenden Teams teilen.
+
+* Präsentationstabellen in kollaborative Open-Source-Formate umwandeln.
+
+* Akademische und geschäftliche Folien als FODS zur Bearbeitung vorbereiten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelkonvertierung von PPTM in FODS für kollaborative Projekte.
+
+* Zeitgesteuerte Aktualisierungen von Präsentationsdaten in Open-Source-Tabellen.
+
+* Ausgelöste Generierung von FODS-Dateien aus dynamischen Tabellen.
+
+* Integration in unternehmensweite Open-Source-Content-Management-Systeme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

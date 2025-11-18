@@ -61,7 +61,51 @@ otherformats: FODS XLSM TSV SXC DIF EXCEL ODS XLTX XLSB XLAM XLS XLSX XLTM XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование WORDML в XLSM позволяет структурированным данным Word стать макро-включенными электронными таблицами, идеальными для рабочих процессов, требующих интерактивной автоматизации, логики VBA или продвинутых вычислений Excel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Финансовые шаблоны с предварительно запрограммированными макросами и формулами.
+
+* Автоматизированные отчетные панели на основе данных, извлеченных из содержимого Word.
+
+* Процессы соответствия, требующие скриптов проверки и логики на основе макросов.
+
+* Интерактивные инструменты для бюджетирования, прогнозирования и планирования.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Создание макро-включенных листов по расписанию из повторяющихся шаблонов Word.
+
+* Автоматическое создание форм XLSM на основе моделей данных, основанных на Word.
+
+* Запуск макросов на основе представления отчетов Word.
+
+* Интеграция созданных с помощью ИИ электронных таблиц в устаревшие макро-процессы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

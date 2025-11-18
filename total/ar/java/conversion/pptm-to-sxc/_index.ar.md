@@ -61,7 +61,51 @@ otherformats: XLSX XLTX MARKDOWN XLS XLTM XLAM DIF XLT SXC XLSM ODS XLSB EXCEL T
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**تحويل PPTM إلى SXC** ينتج جداول بيانات StarOffice Calc من جداول الشرائح والرسوم البيانية، ويدعم بيئات مكتبية مفتوحة المصدر القديمة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* استخراج البيانات الرقمية القائمة على الشرائح لحزم المكاتب التاريخية.
+
+* إعداد العروض التقديمية للأعمال والأبحاث كجداول بيانات SXC.
+
+* تحويل الرسوم البيانية والجداول إلى تنسيقات جداول بيانات قابلة لإعادة الاستخدام.
+
+* أرشفة بيانات العروض التقديمية في تنسيقات مفتوحة المصدر القديمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي من PPTM إلى SXC لأغراض الأرشفة.
+
+* توليد جداول بيانات SXC بناءً على الطلب للاستخدام عبر المنصات.
+
+* دمجه في سير العمل القديمة للمكاتب.
+
+* تحديثات مجدولة لاستخراج البيانات التاريخية من الشرائح.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

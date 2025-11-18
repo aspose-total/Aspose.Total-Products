@@ -102,7 +102,51 @@ otherformats: EXCEL DIF XLTM MHTML CSV XLSX XLS FODS XLTX TSV XLAM ODS SXC XLT X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**המרת PPTM ל-XLSM** יוצרת חוברות עבודה של Excel המאפשרות מאפיינים מתקדמים מהשקפים לאוטומציה ועיבוד נתונים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייצוא גרפים אינטראקטיביים מהשקפים לחוברות עבודה של Excel עם תמיכה במקרו.
+
+* המרת תבניות עבודה מבוססות הצגה לקבצי אוטומציה של Excel.
+
+* שיתוף שקפים עם מקרו מובנה לצורכי פיננסים ותפעול.
+
+* יצירת לוחות מחוונים להכשרה חוזרת עם אוטומציה מוטבעת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת קבצים רבים מ-PPTM ל-XLSM לדוחות אוטומטיים חוזרים.
+
+* עדכונים מתוזמנים של גיליונות עבודה עם מקרו מהשקפים.
+
+* יצירה מופעלת של קבצי XLSM לתהליכי עבודה בארגון.
+
+* שילוב עם מערכות אוטומציה של תהליכי עסקים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,55 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de XML en PPSM permet de créer des diaporamas PowerPoint avec macros pour un contenu dynamique, des mises à jour automatiques de graphiques ou des présentations clients interactives.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Automatisation des rapports de ventes XML en diapositives PPSM pour les tableaux de bord des cadres.
+
+* Transformation des mises à jour de projets XML en diaporamas interactifs.
+
+* Conversion des projections financières XML en decks PPSM avec macros.
+
+* Préparation de modules de formation XML pour des expériences de présentation automatisées.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion planifiée de XML en PPSM pour des rapports avec macros.
+
+* Traitement par lots de données XML en diaporamas PPSM interactifs.
+
+* Conversion déclenchée pour les fichiers XML téléchargés avec des macros dynamiques.
+
+* Intégration avec VBA et des outils de flux de travail pour des mises à jour automatiques des diapositives.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

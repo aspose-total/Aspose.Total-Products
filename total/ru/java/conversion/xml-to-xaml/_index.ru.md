@@ -135,7 +135,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XML в XAML позволяет использовать структурированные данные XML в приложениях Microsoft WPF, UWP или Xamarin, обеспечивая динамическое отображение пользовательского интерфейса, интерактивные компоненты и макеты приложений, основанные на данных.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование спецификаций пользовательского интерфейса XML в XAML для настольных и мобильных приложений.
+
+* Преобразование моделей данных XML в привязки XAML для интерактивных панелей управления.
+
+* Подготовка конфигурационных файлов XML для генерации динамического пользовательского интерфейса.
+
+* Миграция макетов дизайна XML в XAML для приложений WPF или UWP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запланированное преобразование XML в XAML для непрерывного обновления пользовательского интерфейса в приложениях.
+
+* Пакетная обработка наборов данных XML в XAML для динамических панелей управления.
+
+* Генерация XAML из загруженных файлов XML для быстрого прототипирования.
+
+* Интеграция в конвейеры CI/CD для автоматического обновления интерфейса приложения из источников XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

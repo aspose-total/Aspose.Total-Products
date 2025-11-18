@@ -61,7 +61,55 @@ WORDMLをODSに変換した後、[Aspose.Cells for Java](https://products.aspose
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDMLをODS（OpenDocument Spreadsheet）形式に変換すると、複雑な表や数式を含む構造化されたWordコンテンツを保持しながら、オープンソースのスプレッドシートエディタと完全な相互運用性が実現されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* Wordで生成された表をODSスプレッドシートにインポートして共同プロジェクト計画を行う。
+
+* Wordレポートからの学術または研究データの集約。
+
+* WordからODSへの予算テンプレートや財務表のエクスポート。
+
+* NGOや政府機関向けのオープンソース文書ワークフロー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* クラウドベースの共同作業のためにWordテンプレートをODSに自動変換。
+
+* Word文書からの調査結果の定期的なエクスポート。
+
+* オープン標準スプレッドシートを使用したNGOレポートのETL統合。
+
+* WordからODSへのコンプライアンスレポートの変換のトリガー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

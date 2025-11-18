@@ -135,7 +135,55 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XML fájlok átalakítása ODP formátummá lehetővé teszi a strukturált tartalom teljes szerkeszthető, nyílt forráskódú bemutatóvá alakítását, amely kompatibilis a LibreOffice Impress és az OpenOffice programokkal. Ez a formátum ideális a közös vagy több platformon használható diavetítésekhez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* XML-alapú kézikönyvek átalakítása ODP bemutatókká.
+
+* Strukturált XML termékkatalógusok interaktív diavetítésekké alakítása.
+
+* XML tudományos kutatási adatok előkészítése konferenciabemutatókhoz.
+
+* XML eseménytervek áthelyezése vizuálisan vonzó ODP diákra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Vállalati képzési programok automatizált éjszakai XML-ODP átalakítása.
+
+* XML értékesítési jelentések batch-feldolgozása ODP bemutatósablonokká.
+
+* Kiváltott átalakítás a feltöltött XML tartalomról ügyfélkész diákra.
+
+* Integráció ETL csatornákkal ODP bemutatók generálásához strukturált adatokból.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

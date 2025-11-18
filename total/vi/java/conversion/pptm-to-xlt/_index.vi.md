@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp PPTM sang XLT, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Chuyển đổi PPTM sang XLT** chuyển đổi dữ liệu trình bày thành các mẫu Excel cũ để định dạng nhất quán và báo cáo có thể tái sử dụng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tạo các mẫu Excel có thể tái sử dụng từ các slide dự án.
+
+* Chuẩn hóa báo cáo tài chính với định dạng nhất quán.
+
+* Lưu trữ dữ liệu trình bày doanh nghiệp dưới dạng các mẫu XLT.
+
+* Chuẩn bị các slide giáo dục hoặc nghiên cứu dưới dạng các mẫu có thể tái sử dụng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi PPTM sang XLT theo lịch trình cho thư viện mẫu.
+
+* Tạo hàng loạt các mẫu báo cáo chuẩn hóa.
+
+* Cập nhật kích hoạt cho việc tạo mẫu lặp lại.
+
+* Tích hợp với các luồng công việc tài liệu và bảng tính tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

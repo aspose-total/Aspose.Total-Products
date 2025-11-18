@@ -47,7 +47,55 @@ Při převodu souboru XML na FODS můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XML na FODS umožňuje použití standardních tabulek pro spolupráci a projekty kompatibilní s různými platformami. FODS udržuje strukturu XML a zároveň umožňuje kompatibilitu s tabulkami v LibreOffice, OpenOffice a dalších open-source balíčcích.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Přeměna dat rozpočtu založených na XML do FODS pro týmovou spolupráci při úpravách.
+
+* Převod XML souborů s vědeckými měřeními do FODS pro reprodukovatelný výzkum.
+
+* Migrace XML zpráv o výkonnosti studentů do nástrojů s otevřeným zdrojovým kódem pro tabulkové procesory.
+
+* Příprava exportu XML z aplikací pro řízení projektů pro analýzu v FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatický noční převod XML na FODS pro systémy open-source reportování.
+
+* Hromadné zpracování exportů XML z cloudových řešení ERP do FODS.
+
+* Spouštěný převod pro XML projektové záznamy do archivů otevřených tabulek.
+
+* Integrace pracovního postupu v výzkumných laboratořích pomocí potrubí XML-to-FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

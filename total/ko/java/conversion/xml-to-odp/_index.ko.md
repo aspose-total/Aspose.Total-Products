@@ -135,7 +135,55 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML 파일을 ODP로 변환하면 구조화된 콘텐츠를 완전히 편집 가능한 오픈 소스 프레젠테이션으로 변환할 수 있습니다. 이는 LibreOffice Impress 및 OpenOffice와 호환되며 협업이나 크로스 플랫폼 슬라이드 덱에 이상적인 형식입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* XML 기반 교육 매뉴얼을 ODP 프레젠테이션으로 변환하기.
+
+* 구조화된 XML 제품 카탈로그를 대화식 슬라이드 덱으로 변환하기.
+
+* XML 학술 연구 데이터를 회의 발표용으로 준비하기.
+
+* 시각적으로 매력적인 ODP 슬라이드로 XML 이벤트 일정 이관하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 기업 교육 프로그램을 위한 자동화된 매일 밤 XML에서 ODP로 변환.
+
+* XML 판매 보고서를 ODP 프레젠테이션 템플릿으로 일괄 처리.
+
+* 업로드된 XML 콘텐츠를 클라이언트용 슬라이드로 변환하기 위한 트리거 변환.
+
+* 구조화된 데이터로부터 ODP 덱을 생성하기 위한 ETL 파이프라인 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,55 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML을 SWF로 변환하면 구조화된 XML 콘텐츠를 인터랙티브한 Flash 애니메이션으로 변환할 수 있습니다. SWF는 레거시 기술이지만 레거시 e러닝 모듈, 인터랙티브 인포그래픽 및 풍부한 멀티미디어 프레젠테이션에 여전히 유용합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* XML 교육 매뉴얼을 인터랙티브 SWF 튜토리얼로 변환하기.
+
+* XML 제품 카탈로그를 애니메이션화된 클릭 가능한 프레젠테이션으로 변환하기.
+
+* XML 기반 퀴즈나 평가를 e러닝 Flash 모듈로 이관하기.
+
+* XML 이벤트 일정이나 타임라인을 인터랙티브 디스플레이용으로 준비하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* e러닝 콘텐츠 업데이트를 위한 예약된 XML-to-SWF 변환.
+
+* XML 제품 데이터를 인터랙티브 SWF 카탈로그로 일괄 처리.
+
+* 업로드된 XML 코스 자료에서 SWF 슬라이드를 트리거하여 생성.
+
+* LMS 플랫폼과 통합하여 자동 XML-to-SWF 콘텐츠 전달하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

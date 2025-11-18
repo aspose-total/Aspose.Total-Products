@@ -47,7 +47,51 @@ A XML-fájl SXC-vé konvertálásakor vízjelet is hozzáadhat a kimeneti SXC-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XML átalakítása SXC formátummá kompatibilitást biztosít a régi StarOffice alkalmazásokkal és régebbi OpenOffice telepítésekkel, lehetővé téve a táblázatos adatok kezelését, amelyek XML forrásokból lettek exportálva.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* XML készletadatok migrálása SXC formátumba a régi rendszerjelentésekhez.
+
+* XML értékesítési exportok átalakítása SXC formátumba történelmi elemzésekhez.
+
+* XML felmérési eredmények átalakítása SXC formátumba offline hozzáférhetőség érdekében.
+
+* XML diákjegyadatok előkészítése régebbi táblázatkezelő eszközökhöz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ütemezett XML-SXC konverzió a régi jelentési csövekhez.
+
+* Tömeges XML termékkatalógusok feldolgozása offline SXC elemzéshez.
+
+* Automatizált kiváltók XML exportok átalakításához SXC formátumba archiválási célokra.
+
+* Integráció az ETL csövekbe történelmi adatmigrációhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

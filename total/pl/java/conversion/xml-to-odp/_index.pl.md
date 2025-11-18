@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików XML na format ODP pozwala na przekształcenie zawartości strukturalnej w w pełni edytowalne prezentacje typu open-source, kompatybilne z LibreOffice Impress i OpenOffice. Ten format jest idealny do współpracy lub tworzenia prezentacji na różnych platformach.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przekształcanie podręczników szkoleniowych opartych na XML w prezentacje ODP.
+
+* Konwertowanie strukturalnych katalogów produktów XML na interaktywne zestawy slajdów.
+
+* Przygotowywanie danych badawczych akademickich w formacie XML do prezentacji konferencyjnych.
+
+* Migracja harmonogramów wydarzeń XML na wizualnie atrakcyjne slajdy ODP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna konwersja XML na ODP dla programów szkoleniowych w firmie.
+
+* Przetwarzanie zbiorcze raportów sprzedażowych XML na szablony prezentacji ODP.
+
+* Wywołana konwersja dla przesłanych treści XML na gotowe do klienta slajdy.
+
+* Integracja z potokami ETL w celu generowania zestawów slajdów ODP z danych strukturalnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

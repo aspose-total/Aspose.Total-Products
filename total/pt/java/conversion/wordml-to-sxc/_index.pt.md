@@ -61,7 +61,55 @@ Depois de converter WORDML para SXC, o [Aspose.Cells for Java](https://products.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter WORDML (WordprocessingML) para SXC (Planilha StarOffice Calc) permite a integração perfeita de tabelas estruturadas do Word em fluxos de trabalho de planilhas legados do OpenOffice/StarOffice. Este formato ainda é usado em ambientes regulamentados, históricos e de arquivo onde a compatibilidade é importante.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Migrar dados baseados em Word para sistemas de planilhas compatíveis com StarOffice legados.
+
+* Exportar relatórios estatísticos do Word para SXC em ambientes de conformidade.
+
+* Compartilhar tabelas financeiras estruturadas em ecossistemas empresariais mais antigos.
+
+* Apoiar fluxos de trabalho de planilhas não-Microsoft em instituições governamentais ou acadêmicas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de documentos do Word arquivados em SXC para análise histórica.
+
+* Geração automática de planilhas SXC para relatórios compatíveis com versões anteriores.
+
+* Exportação acionada por gatilho para SXC a partir de sistemas de gerenciamento de conteúdo e arquivamento.
+
+* Pipelines ETL conectando sistemas de planilhas legados com fontes de dados modernas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -53,7 +53,55 @@ Med hjälp av API:t kan du också utföra PPTM-fil till OTT-konvertering med vat
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Konvertera PPTM till OTT** genererar OpenDocument Text-mallar från presentationsbilder. Detta möjliggör återanvändbara mallar i öppen källkods-kontorsmiljöer utan att förlita sig på Microsoft Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* Skapa standardiserade dokumentmallar för LibreOffice/OpenOffice.
+
+* Återanvända bildesigner för mallstyrda rapporter.
+
+* Konvertera utbildningsmaterial till redigerbara mallformat.
+
+* Förbereda mallar för samarbete mellan flera användare för plattformar med öppen källkod.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Schemalagd konvertering av PPTM till OTT för mallbibliotek.
+
+* Integration med företagets innehållsflöden i öppen källkods-sviter.
+
+* Realtidsmallgenerering för samarbete mellan flera avdelningar.
+
+* Batch-OTT-skapande för tvärplattformsutbildning och rapportändamål.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

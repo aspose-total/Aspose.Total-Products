@@ -61,7 +61,51 @@ Po przekonwertowaniu WORDML na ODS [Aspose.Cells for Java](https://products.aspo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie formatu WORDML na format ODS (OpenDocument Spreadsheet) zapewnia pełną interoperacyjność z edytorami arkuszy kalkulacyjnych typu open-source, jednocześnie zachowując strukturalną zawartość z programu Word, w tym złożone tabele i formuły.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Planowanie projektów w trybie współpracy z tabelami wygenerowanymi w programie Word importowanymi do arkuszy kalkulacyjnych ODS.
+
+* Gromadzenie danych akademickich lub badawczych z raportów w programie Word.
+
+* Eksportowanie szablonów budżetowych i tabel finansowych z programu Word do formatu ODS.
+
+* Przepływy dokumentów typu open-source dla organizacji pozarządowych i rządowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna konwersja szablonów Word do formatu ODS dla współpracy w chmurze.
+
+* Zaplanowany eksport wyników ankiet z dokumentów Word.
+
+* Integracja ETL do raportowania organizacji pozarządowych przy użyciu standardowych arkuszy kalkulacyjnych.
+
+* Wywołana konwersja raportów zgodności z programu Word do formatu ODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

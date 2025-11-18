@@ -61,7 +61,55 @@ otherformats: EXCEL XLAM DIF XLTM FODS XLT XLSM XLTX XLSX SXC ODS XLS TSV XLSB
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+从WORDML创建XLAM文件使Word文档转换为Excel Add-In格式，允许数据供应自定义函数、自动化脚本和高级电子表格逻辑。这对使用基于VBA的Excel扩展的团队非常理想。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将基于Word的计算模型转换为Excel插件。
+
+* 通过从Word生成的XLAM部署可重用的业务逻辑。
+
+* 财务和审计团队使用自动化的Excel插件而不是静态表格。
+
+* 生成用于预测、定价或建模的交互式工具。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量从Word创建XLAM以在整个企业部署更新的插件。
+
+* 从基于Word的规则和公式自动生成宏驱动的插件。
+
+* 触发的XLAM打包，用于存储在Word模板中的业务逻辑。
+
+* 集成基于AI的工作流程，将业务需求转换为Excel插件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

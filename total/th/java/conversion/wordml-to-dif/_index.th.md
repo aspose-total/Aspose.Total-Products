@@ -61,7 +61,55 @@ otherformats: SXC DIF TSV XLSB XLTX ODS XLSM XLTM XLAM XLT XLS XLSX EXCEL FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง WORDML เป็น DIF (Data Interchange Format) ช่วยให้เข้ากันได้กับแอปพลิเคชันสเปรดชีตรุ่นเก่าและให้การนำเข้าตารางข้อความและเนื้อหาที่มีโครงสร้างได้อย่างสะอาด  DIF เหมาะสำหรับการเก็บถาวร รายงานข้ามแพลตฟอร์ม และการทำงานของข้อมูลในองค์กร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การย้ายสมุดบัญชีการเงินที่ใช้ Word เข้าสู่ซอฟต์แวร์สเปรดชีตรุ่นเก่า
+
+* การแปลงตาราง Word ที่มีโครงสร้างเข้าสู่รูปแบบที่สามารถใช้งานร่วมกับเครื่องมือบัญชี
+
+* การเก็บถาวรรายงานโครงการที่สร้างจาก Word เพื่อการเก็บรักษาข้อมูลระยะยาว
+
+* การเตรียมเนื้อหาตารางสำหรับระบบ ERP หรือแพลตฟอร์มการวิเคราะห์ข้อมูลในองค์กร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้าง DIF จำนวนมากจากรายงานโครงการ Word ที่เกิดซ้ำๆ
+
+* การรวมเข้ากับท่อการโยกย้ายข้อมูลประวัติสำหรับการเงินและทรัพยากรบุคคล
+
+* การส่งเริ่มต้นตามเหตุการณ์สำหรับการส่งออกโดยอัตโนมัติสำหรับโซลูชันเก็บถาวรเอกสาร
+
+* การแปลงอัตโนมัติในกระบวนการทำงานของการรายงานตามข้อกำหนด
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

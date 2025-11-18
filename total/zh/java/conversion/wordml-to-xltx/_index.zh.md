@@ -61,7 +61,55 @@ otherformats: XLAM XLSB XLTM XLTX ODS EXCEL XLSM TSV DIF XLSX FODS SXC XLS XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将WORDML转换为XLTX提供了一个干净、无宏代码的Excel模板格式，非常适合组织将结构化的Word内容转换为可重复使用的电子表格布局，用于数据录入、报告和分析，而不包含嵌入式代码。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 从分布的Word文档中创建部门范围的电子表格模板。
+
+* 为手动或自动化工作流程生成干净、可重复使用的业务表单。
+
+* 直接从Word来源生成的人力资源、销售和合规模板。
+
+* 将格式化的表格迁移到XLTX以实现一致的报告结构。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将企业Word模板转换为标准化的XLTX格式。
+
+* 为模板库和共享文档中心安排导出计划。
+
+* 为入职、采购或审计工作流程自动创建XLTX文件。
+
+* 集成到文档自动化流程中，用于部署Excel模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

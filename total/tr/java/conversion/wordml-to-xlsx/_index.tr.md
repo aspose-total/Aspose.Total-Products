@@ -61,7 +61,27 @@ WORDML'yi XLSX'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://pro
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```html
+<h2>Welcome to our website!</h2>
+
+<p>Here you can find a variety of products for your needs. Check out our featured products below:</p>
+
+{< blocks/products/pf/agp/feature-section >}
+
+## Special Offers
+
+- Free shipping on orders over $50
+- Buy one, get one 50% off
+- Limited time offer
+
+{< blocks/products/pf/agp/feature-section >}
+
+<h2>Stay connected</h2>
+
+<p>Follow us on social media for the latest updates and promotions.</p>
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

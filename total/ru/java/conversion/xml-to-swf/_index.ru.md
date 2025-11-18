@@ -135,7 +135,55 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XML в SWF позволяет преобразовывать структурированный XML-контент в интерактивные анимации Flash. Хотя SWF является устаревшей технологией, она все еще полезна для устаревших электронных обучающих модулей, интерактивной информационной графики и богатых мультимедийных презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование XML-руководств по обучению в интерактивные учебные пособия SWF.
+
+* Преобразование XML-каталогов продуктов в анимированные, кликабельные презентации.
+
+* Миграция XML-тестов или оценок в электронные обучающие модули Flash.
+
+* Подготовка XML-расписаний мероприятий или временных линий для интерактивных дисплеев.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запланированное преобразование XML в SWF для обновления контента обучения.
+
+* Пакетная обработка XML-данных продуктов в интерактивные каталоги SWF.
+
+* Автоматическое создание слайдов SWF из загруженного XML-материала курса.
+
+* Интеграция с платформами LMS для автоматической доставки контента XML в SWF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

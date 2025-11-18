@@ -47,7 +47,55 @@ XML dosyasını XLSB'ye dönüştürürken, çıktı XLSB dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML'yi XLSB'ye dönüştürmek, büyük veri kümeleri için uygun, daha hızlı yükleme süreleri ve karmaşık çalışma kitabı hesaplamaları için yüksek performanslı bir ikili Excel formatı sağlar. Kurumsal raporlama ve büyük veri analizi için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Hızlı raporlama için büyük XML satış günlüklerini XLSB'ye dönüştürme.
+
+* Finans panoları için ERP XML dışa aktarımlarını XLSB'ye taşıma.
+
+* Veri yoğun analizler için XML sensör okumalarını XLSB'ye aktarma.
+
+* Takım işbirliği için XML proje yönetimi verilerini XLSB'ye dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Kurumsal panolar için otomatik geceleyin XML'den XLSB'ye dönüştürme.
+
+* Gerçek zamanlı XML'den XLSB'ye veri güncellemeleri için Power Query ile entegrasyon.
+
+* XML raporlarının ikili çalışma kitaplarına zamanlanmış toplu dönüşümü.
+
+* Büyük ölçekli analitik otomasyonu için tetiklenmiş XML'den XLSB'ye boru hatları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

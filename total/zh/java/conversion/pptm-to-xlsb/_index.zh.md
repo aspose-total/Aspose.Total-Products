@@ -61,7 +61,51 @@ otherformats: MHTML DIF XLSM XLAM XLS FODS SXC TSV XLTM XLSX EXCEL XLTX MARKDOWN
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**将PPTM转换为XLSB** 可以输出二进制的Excel工作簿，加快处理速度并减小文件大小，非常适合数据密集型演示文稿。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将大型幻灯片表格和图表转换为高性能的XLSB工作簿。
+
+* 存档数据密集型演示文稿以便快速访问。
+
+* 以紧凑的二进制格式准备财务和运营仪表板。
+
+* 共享数值演示内容以进行实时分析。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为企业报告批量进行PPTM到XLSB转换。
+
+* 与基于Excel的BI管道集成，实现自动化仪表板。
+
+* 定期生成XLSB文件以用于重复项目。
+
+* 从动态幻灯片触发创建二进制工作簿。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

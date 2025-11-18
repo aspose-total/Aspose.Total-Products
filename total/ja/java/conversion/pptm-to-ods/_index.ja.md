@@ -61,7 +61,55 @@ PPTMファイルをODSに変換するときに、出力ODSファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTMをODSに変換**は、プレゼンテーションをOpenDocument Spreadsheetファイルに変換し、LibreOffice、Google Sheets、および他のスプレッドシートアプリと広く互換性があります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* マルチプラットフォームでの数値プレゼンテーションデータの再利用。
+
+* 編集可能なODSスプレッドシートにセールスおよびプロジェクトダッシュボードを変換。
+
+* オープンソースツールを使用してクライアントやチームとデータを共有。
+
+* 報告用にスライドをスプレッドシートドキュメントとしてアーカイブ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的なプロジェクトのためのスケジュールされたバッチPPTMからODSへの変換。
+
+* 協力的なクラウドベースのスプレッドシートワークフローへの統合。
+
+* 分析ダッシュボードのためのODS作成のトリガー。
+
+* スライドを標準化されたODSファイルに自動的にアーカイブ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

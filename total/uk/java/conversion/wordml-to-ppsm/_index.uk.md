@@ -100,7 +100,55 @@ otherformats: PPTM PPTX POTX POT PPT ODP PPSX PPS POTM POWERPOINT CSV DIF FODS O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення WORDML на PPSM дозволяє створювати файли PowerPoint Show з макросами. З вбудованими макросами презентації PPSM можуть виконувати інтерактивні дії, обчислення, обробку форм та автоматизацію на основі даних відразу після відкриття слайдшоу.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Інтерактивні навчальні презентації з автоматичним оцінюванням та навігацією за допомогою кліків.
+
+* Презентації з продажу, що працюють на макросах, з оновленнями цін у реальному часі.
+
+* Розширені огляди продуктів з використанням автоматизованих переходів та логіки.
+
+* Слайди демонстрації бізнес-процесів з вбудованими обчисленнями.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Автоматичне створення макроприводних презентацій зі структурованим вмістом Word.
+
+* Конвертація на основі тригерів для матеріалів з вимогами в області відповідності або навчання персоналу.
+
+* Заплановане створення інтерактивних дек PPSM для процесів введення в штат.
+
+* Автоматична підготовка щомісячних макроприводних слайд-шоу з джерел даних Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

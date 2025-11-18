@@ -47,7 +47,55 @@ XML 파일을 XLT로 변환하는 동안 출력 XLT 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML을 XLT로 변환하면 표준화된 Excel 템플릿을 생성할 수 있어 XML 데이터를 반복 보고서, 재무 분석 및 팀 전체의 표준화된 스프레드시트에 재사용할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 재무팀을 위한 XML 월간 보고서를 재사용 가능한 XLT 템플릿으로 변환합니다.
+
+* 반복적인 내보내기를 위해 XML 판매 또는 재고 템플릿을 준비합니다.
+
+* 표준화된 보고서 템플릿으로 XML 프로젝트 데이터를 변환합니다.
+
+* 자동 예산 작업 흐름을 위한 XML을 지원하는 Excel 템플릿을 생성합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 반복되는 템플릿 생성을 위한 예약된 XML-to-XLT 변환.
+
+* 여러 부서를 위한 Excel 템플릿으로 일괄 처리되는 XML 데이터 세트.
+
+* 일관된 보고를 위해 업로드된 XML에서 트리거된 XLT 생성.
+
+* XML 템플릿 관리를 위한 자동화 파이프라인 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

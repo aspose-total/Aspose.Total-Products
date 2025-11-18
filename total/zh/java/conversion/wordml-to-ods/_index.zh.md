@@ -61,7 +61,51 @@ otherformats: XLSM FODS XLTX TSV SXC XLSB XLS XLAM XLTM EXCEL ODS DIF XLSX XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将WORDML转换为ODS（OpenDocument Spreadsheet）格式可实现与开源电子表格编辑器的完全互操作性，同时保留结构化的Word内容，包括复杂的表格和公式。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 与从Word生成的表格一起进行协作项目规划，导入到ODS电子表格中。
+
+* 从Word报告中汇总学术或研究数据。
+
+* 将来自Word的预算模板和财务表导出到ODS。
+
+* 用于NGO和政府组织的开源文档工作流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将Word模板自动转换为ODS，用于基于云的协作。
+
+* 定期从Word文档中导出调查结果。
+
+* 为NGO报告使用开放标准电子表格进行ETL集成。
+
+* 触发将合规报告从Word转换为ODS。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

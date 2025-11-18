@@ -61,7 +61,51 @@ PPTMファイルをFODSに変換するときに、出力FODSファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTMをFODSに変換**すると、編集可能なスプレッドシートコンテンツをLibreOfficeやOpenOffice環境で共有するのに最適なフラットなOpenDocumentスプレッドシートファイルが生成されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* ファイナンスやプロジェクトスライドをFODSに変換してオープンソースオフィススイートで使用する。
+
+* クロスプラットフォームのチームと編集可能なスプレッドシートを共有する。
+
+* プレゼンテーションテーブルを共同作業可能なオープンソース形式に再利用する。
+
+* 編集用に学術およびビジネススライドをFODSとして準備する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 共同プロジェクトのためのバッチPPTMからFODSへの変換。
+
+* プレゼンテーションデータの定期的な更新をオープンソーススプレッドシートにスケジュールする。
+
+* 動的スライドテーブルからFODSファイルのトリガー生成。
+
+* 企業向けオープンソースコンテンツ管理システムへの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

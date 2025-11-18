@@ -135,7 +135,55 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file XML ke ODP memungkinkan transformasi konten terstruktur menjadi presentasi open-source yang sepenuhnya dapat diedit, kompatibel dengan LibreOffice Impress dan OpenOffice. Format ini ideal untuk slide deck kolaboratif atau lintas platform.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengubah manual pelatihan berbasis XML menjadi presentasi ODP.
+
+* Mengonversi katalog produk XML terstruktur menjadi slide deck interaktif.
+
+* Menyiapkan data penelitian akademis XML untuk presentasi konferensi.
+
+* Memigrasikan jadwal acara XML menjadi slide ODP yang menarik secara visual.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi otomatis XML-to-ODP setiap malam untuk program pelatihan perusahaan.
+
+* Memproses secara batch laporan penjualan XML menjadi template presentasi ODP.
+
+* Konversi yang dipicu untuk konten XML yang diunggah menjadi slide siap klien.
+
+* Integrasi dengan pipa ETL untuk menghasilkan deck ODP dari data terstruktur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

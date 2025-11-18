@@ -61,7 +61,51 @@ otherformats: XLSX XLTX MARKDOWN XLS XLTM XLAM DIF XLT SXC XLSM ODS XLSB EXCEL T
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Преобразование PPTM в SXC** позволяет создавать электронные таблицы StarOffice Calc из таблиц и диаграмм слайдов, поддерживая устаревшие среды с открытым исходным кодом.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Извлечение числовых данных на основе слайдов для исторических офисных пакетов.
+
+* Подготовка бизнес- и исследовательских презентаций в виде электронных таблиц SXC.
+
+* Преобразование диаграмм и таблиц в многократно используемые форматы электронных таблиц.
+
+* Архивирование данных презентаций в устаревших форматах с открытым исходным кодом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование PPTM в SXC для архивирования.
+
+* Автоматическое создание электронных таблиц SXC для использования на разных платформах.
+
+* Интеграция в устаревшие рабочие процессы офиса.
+
+* Плановое обновление для извлечения исторических данных из слайдов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,55 @@ Mit der API können Sie auch eine PPTM-Datei in eine OTT-Konvertierung mit Wasse
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Konvertierung von PPTM zu OTT** generiert OpenDocument-Textvorlagen aus Präsentationsfolien. Dies ermöglicht wiederverwendbare Vorlagen in Open-Source-Office-Umgebungen, ohne auf Microsoft Word angewiesen zu sein.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Erstellung standardisierter Dokumentenvorlagen für LibreOffice/OpenOffice.
+
+* Wiederverwendung von Folienlayouts für berichtsgesteuerte Vorlagen.
+
+* Konvertierung von Schulungsmaterialien in bearbeitbare Vorlagenformate.
+
+* Erstellung von Vorlagen für die Zusammenarbeit mehrerer Benutzer auf Open-Source-Plattformen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Geplante Konvertierung von PPTM zu OTT für Vorlagenbibliotheken.
+
+* Integration in unternehmensweite Inhalts-Workflows in Open-Source-Suiten.
+
+* Echtzeit-Vorlagengenerierung für die Zusammenarbeit mehrerer Abteilungen.
+
+* Stapelverarbeitung von OTT für plattformübergreifende Schulungs- und Berichtszwecke.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

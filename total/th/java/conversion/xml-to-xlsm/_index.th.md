@@ -47,7 +47,55 @@ otherformats: XLSM XLTM ODS MD FODS EXCEL DIF XLT TSV XLSB XLTX SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง XML เป็น XLSM ช่วยให้สามารถสร้างกระบวนการทำงานอัตโนมัติที่ซับซ้อน สูตร และแมโครภายใน Excel ได้อย่างง่ายดาย พร้อมทั้งรักษาข้อมูล XML โครงสร้างไว้สำหรับแอปพลิเคชันสเปรดชีตที่เชื่อมต่อและเคลื่อนไหวได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* นำเข้ารายงานการเงิน XML เข้าสู่ XLSM พร้อมการคำนวณโดยอัตโนมัติ
+
+* แปลงชุดข้อมูลสินค้าคงคลัง XML เป็นแดชบอร์ด Excel ที่สามารถใช้แมโคร
+
+* พัฒนาตัวติดตามกระบวนการทำงานที่ใช้ XML อัตโนมัติโดยใช้ XLSM
+
+* แปลงข้อมูลการสำรวจและวิจัย XML เป็นแผ่นงาน XLSM ที่สามารถใช้งานได้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XML เป็น XLSM ตามกำหนดเวลาสำหรับวงจรรายงานอัตโนมัติ
+
+* การสร้างสมุดงานที่ใช้แมโครจาก XML ที่อัปโหลดโดยเร่งการทำงาน
+
+* ท่อ ETL ที่ให้ข้อมูล XML เข้าสู่แดชบอร์ด XLSM โดยอัตโนมัติ
+
+* อัตโนมัติการแปลงข้อมูลจาก XML เป็น XLSM ที่ซ้ำซากสำหรับทีมงาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

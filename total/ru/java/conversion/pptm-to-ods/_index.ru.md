@@ -61,7 +61,51 @@ otherformats: XLT XLS TSV MHTML XLSX DIF ODS XLSM XLAM XLTM EXCEL MARKDOWN XLTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Преобразование PPTM в ODS** превращает презентации в файлы электронных таблиц OpenDocument, широко совместимые с LibreOffice, Google Sheets и другими приложениями электронных таблиц.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Переиспользование числовых данных презентаций для использования на различных платформах.
+
+* Преобразование дашбордов по продажам и проектам в редактируемые таблицы ODS.
+
+* Обмен данными с клиентами или командами с использованием инструментов с открытым исходным кодом.
+
+* Архивирование слайдов в виде документов электронных таблиц для отчетности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое пакетное преобразование PPTM в ODS для повторяющихся проектов.
+
+* Интеграция в совместные облачные рабочие процессы с электронными таблицами.
+
+* Создание ODS по триггеру для дашбордов аналитики.
+
+* Автоматическое архивирование слайдов в стандартизированные файлы ODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

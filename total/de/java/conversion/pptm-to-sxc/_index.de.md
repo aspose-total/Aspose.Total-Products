@@ -61,7 +61,51 @@ Beim Konvertieren der PPTM-Datei in SXC können Sie Ihrem Ausgabe-SXC-Dateiforma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Konvertierung von PPTM zu SXC** erstellt StarOffice Calc-Tabellen und Diagramme aus Folientabellen und -diagrammen und unterstützt ältere Open-Source-Office-Umgebungen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Extrahieren von Zahlenmaterial aus Folien für historische Office-Suiten.
+
+* Vorbereiten von Geschäfts- und Forschungspräsentationen als SXC-Tabellenkalkulationen.
+
+* Umwandeln von Diagrammen und Tabellen in wiederverwendbare Tabellenkalkulationsformate.
+
+* Archivieren von Präsentationsdaten in älteren Open-Source-Formaten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelkonvertierung von PPTM zu SXC für Archivzwecke.
+
+* Auslösen der Erstellung von SXC-Tabellenkalkulationen für plattformübergreifende Nutzung.
+
+* Integration in ältere Büroautomatisierungs-Workflows.
+
+* Geplante Aktualisierungen für die Extraktion historischer Daten aus Folien.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

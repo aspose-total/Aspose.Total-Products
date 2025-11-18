@@ -61,7 +61,45 @@ otherformats: XLSB FODS XLS XLT SXC XLSM ODS XLTM XLSX EXCEL DIF XLTX XLAM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل WORDML إلى TSV (قيم مفصولة بواسطة علامة التبويب) يسمح بالحصول على استخراج نظيف للبيانات المهيكلة، مع الحفاظ على التباعد والدقة عبر الأعمدة. يُستخدم TSV على نطاق واسع في قواعد البيانات ومنصات التحليلات وبيئات تعلم الآلة بسبب هيكله الودي.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير الجداول من سجلات أو تقارير قائمة على Word لاستيرادها إلى قاعدة بيانات.
+
+* تحضير مجموعات بيانات تم إنشاؤها بواسطة Word لسير العمل الإحصائية بلغة Python أو R.
+
+* نقل المحتوى المهيكل من Word إلى بيئات إدارة العلاقات مع العملاء أو نظم تخطيط موارد المؤسسة.
+
+* تحويل الجداول المنسقة إلى TSV لإدخالات تدريب نماذج الذكاء الاصطناعي بشكل نظيف.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* تحويل مجدول لتقارير Word إلى TSV للوحات تحليلية.
+
+* تصدير TSV بناءً على المؤشرات لأنابيب معالجة بيانات التعلم الآلي.
+
+* معالجة دفعية لبيانات TSV من قوالب Word لعمليات ETL.
+
+* دمجه في سير العمل التلقائي للبيانات الكبيرة للتقارير أو التصور.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

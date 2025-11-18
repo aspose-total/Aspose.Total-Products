@@ -61,7 +61,51 @@ PPTM dosyasını ODS'ye dönüştürürken, çıktı ODS dosya biçiminize de fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**PPTM'yi ODS'ye Dönüştürme**, sunumları LibreOffice, Google Sheets ve diğer elektronik tablo uygulamalarıyla geniş bir şekilde uyumlu olan OpenDocument Elektronik Tablo dosyalarına dönüştürür.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Sayısal sunum verilerini çoklu platform kullanımı için yeniden amaçlama.
+
+* Satış ve proje panolarını düzenlenebilir ODS elektronik tablolarına dönüştürme.
+
+* Müşteriler veya ekiplerle veri paylaşımı için açık kaynak araçları kullanma.
+
+* Raporlama için slaytları elektronik tablo belgeleri olarak arşivleme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tekrarlayan projeler için zamanlanmış toplu PPTM'den ODS'ye dönüştürme.
+
+* İşbirlikçi bulut tabanlı elektronik tablo iş akışlarına entegrasyon.
+
+* Analitik panolar için tetiklenmiş ODS oluşturma.
+
+* Standartlaştırılmış ODS dosyalarına slaytların otomatik arşivlenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

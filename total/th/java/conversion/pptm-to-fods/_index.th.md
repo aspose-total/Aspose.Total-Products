@@ -61,7 +61,55 @@ otherformats: XLSB EXCEL DIF ODS XLSM SXC MHTML XLAM XLSX MARKDOWN XLTX TSV XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**การแปลง PPTM เป็น FODS** สร้างไฟล์ Flat OpenDocument Spreadsheet ซึ่งเหมาะสำหรับแบ่งปันเนื้อหาสเปรดชีทที่สามารถแก้ไขได้ในระบบ LibreOffice และ OpenOffice
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การแปลงสไลด์ทางการเงินและโครงการเป็น FODS สำหรับชุดโปรแกรมสำนักงานโอเพนซอร์ส
+
+* แบ่งปันสเปรดชีทที่สามารถแก้ไขได้กับทีม跨แพลตฟอร์ม
+
+* ใช้ใหม่ตารางนำเสนอเป็นรูปแบบโอเพนซอร์สที่สามารถทำงานร่วมกัน
+
+* เตรียมสไลด์ทางวิชาการและธุรกิจเป็น FODS เพื่อแก้ไข
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงจำนวนมากของ PPTM เป็น FODS สำหรับโครงการร่วมกัน
+
+* อัปเดตตารางข้อมูลการนำเสนอตามกำหนดเวลาเข้าสู่สเปรดชีทโอเพนซอร์ส
+
+* สร้างไฟล์ FODS จากตารางสไลด์ไดนามิกโดยเรียกใช้
+
+* ผสานเข้ากับระบบการจัดการเนื้อหาโอเพนซอร์สขององค์กร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

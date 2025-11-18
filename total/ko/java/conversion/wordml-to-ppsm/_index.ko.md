@@ -54,7 +54,51 @@ API를 사용하면 암호로 보호된 WORDML 문서를 PPSM로 변환할 수�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDML을 PPSM으로 변환하면 매크로가 포함된 PowerPoint Show 파일을 만들 수 있습니다. 포함된 매크로로 PPSM 프레젠테이션은 슬라이드 쇼가 열릴 때 상호 작용하는 작업, 계산, 양식 처리 및 데이터 기반 자동화를 실행할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 자동 채점 및 클릭 기반 탐색이 가능한 대화식 교육 프레젠테이션.
+
+* 실시간 가격 업데이트가 가능한 매크로 기반 판매 프레젠테이션.
+
+* 자동 전환 및 논리를 활용한 고급 제품 안내서.
+
+* 포함된 계산을 사용한 비즈니스 프로세스 데모 슬라이드.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 구조화된 Word 콘텐츠에서 매크로 기반 프레젠테이션을 자동으로 생성.
+
+* 규정 준수 또는 인사 교육 자료용 트리거 기반 변환.
+
+* 입사 절차 워크플로를 위한 상호 작용 가능한 PPSM 덱의 예약 생성.
+
+* Word 데이터 소스로 매월 매크로가 활성화된 슬라이드 쇼를 자동으로 준비.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

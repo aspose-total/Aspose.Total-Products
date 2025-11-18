@@ -102,7 +102,51 @@ otherformats: XLAM TSV ODS XLS XLTM XLTX MARKDOWN DIF EXCEL CSV XLSB XLSM FODS X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**המרת PPTM ל-XLT** ממירה נתוני מצגת לתבניות Excel מורשות לפורמט מתואם ולדיווחים ניתנים לשימוש מחדש.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* יצירת תבניות Excel ניתנות לשימוש מחדש משקפי פרויקט.
+
+* תקנון דוחות כלכליים עם פורמט מתואם.
+
+* ארכיבת נתוני מצגות תדמיתיים כתבניות XLT.
+
+* הכנת שקופיות לימוד או מחקר כתבניות ניתנות לשימוש מחדש.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת PPTM ל-XLT מתוזמנת עבור ספריות תבניות.
+
+* יצירה רציפה של תבניות דיווח מתוקנות.
+
+* עדכונים מופעלים עבור יצירת תבניות חוזרות.
+
+* שילוב עם זרימות עבודה אוטומטיות של מסמכים וגיליונות אלקטרוניים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

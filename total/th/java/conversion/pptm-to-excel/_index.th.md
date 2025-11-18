@@ -61,7 +61,51 @@ otherformats: XLTX EXCEL XLT XLS XLTM TSV XLAM XLSM XLSB ODS MARKDOWN DIF MHTML 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**การแปลง PPTM เป็น Excel** จะแปลงข้อมูลในงานนำเสนอเป็นสเปรดชีตที่สามารถแก้ไขได้แบบเต็มรูปแบบ ทำให้เหมาะสำหรับรายงานทางการเงิน การวิเคราะห์ข้อมูล และการนำเนื้อหาตารางไปใช้ซ้ำ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* ส่งออกแผนภูมิและตารางจากสไลด์เข้า Excel เพื่อการวิเคราะห์
+
+* แปลงงานนำเสนอทางการขายและการตลาดเป็นสเปรดชีตที่ใช้ได้
+
+* แปลงสไลด์ทางการศึกษาที่มีข้อมูลตัวเลขเข้าสู่สมุดงาน Excel
+
+* เก็บข้อมูลงานนำเสนอโครงการเป็นสเปรดชีตที่มุ่งเน้นที่ข้อมูล
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงจำนวนมากของ PPTM เป็น Excel สำหรับรายงานทางการเงินที่เกิดซ้ำ
+
+* การรวมระบบ BI ขององค์กรเพื่ออัตโนมัติการสกัดข้อมูล
+
+* การสร้างรายงาน Excel แบบเรียลไทม์จากสไลด์ที่เปลี่ยนไป
+
+* การสร้างสเปรดชีตตามที่เรียกดูสำหรับแดชบอร์ดอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

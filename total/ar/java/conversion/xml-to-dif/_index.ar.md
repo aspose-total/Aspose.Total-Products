@@ -47,7 +47,55 @@ otherformats: XLAM EXCEL SXC XLT XLSM XLTX ODS TSV MD XLSB TXT XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XML إلى DIF يمكن أن يسهل مشاركة البيانات بين أنظمة جداول البيانات التقليدية وتطبيقات XML الحديثة. DIF مفيد بشكل خاص للبيانات الرقمية والجدولية، مع الحفاظ على التوافق مع البرمجيات القديمة مع دعم سير العمل للبيانات المهيكلة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* استيراد توقعات مالية من XML إلى أدوات المحاسبة التقليدية باستخدام DIF.
+
+* نقل مجموعات بيانات التجارب العلمية من XML إلى البرمجيات الإحصائية.
+
+* تحويل نتائج استطلاع XML إلى DIF لأغراض الأرشفة والامتثال.
+
+* استخدام DIF لربط صادرات ERP XML مع تطبيقات جداول البيانات القديمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل XML إلى DIF بشكل دوري مجدول لتقارير الدفعة.
+
+* تكامل خط أنابيب ETL لتجميع بيانات البحث.
+
+* ترحيل آلي لمخرجات ERP القائمة على XML إلى جداول بيانات DIF تاريخية.
+
+* مشغلات مكتوبة لتحويل XML المحمّلة إلى DIF للتحليل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

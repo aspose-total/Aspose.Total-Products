@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML'yi SWF'ye dönüştürmek yapılandırılmış XML içeriğinin etkileşimli Flash animasyonlarına dönüştürülmesini sağlar. SWF eski teknoloji olsa da, hala eski e-öğrenme modülleri, etkileşimli infografi ve zengin multimedya sunumları için kullanışlıdır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* XML eğitim kılavuzlarını etkileşimli SWF öğreticilere dönüştürme.
+
+* XML ürün kataloglarını animasyonlu, tıklanabilir sunumlara dönüştürme.
+
+* XML tabanlı sınavları veya değerlendirmeleri e-öğrenme Flash modüllerine taşıma.
+
+* Etkileşimli ekranlar için XML etkinlik programları veya zaman çizelgeleri hazırlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* E-öğrenme içerik güncellemeleri için zamanlanmış XML'den SWF'ye dönüştürme.
+
+* XML ürün verilerini etkileşimli SWF kataloglarına toplu işleme.
+
+* Yüklenen XML ders materyalinden SWF slaytlarının tetiklenmiş olarak oluşturulması.
+
+* Otomatik XML'den SWF içerik dağıtımı için LMS platformlarıyla entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

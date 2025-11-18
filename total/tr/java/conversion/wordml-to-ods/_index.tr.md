@@ -61,7 +61,55 @@ WORDML'yi ODS'ye dönüştürdükten sonra, [Aspose.Cells for Java](https://prod
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDML'in ODS (Açık Belge Hesap Tablosu) formatına dönüştürülmesi, yapılandırılmış Word içeriğini korurken karmaşık tablolar ve formülleri içeren Word içeriğini koruyarak açık kaynaklı hesap tablosu düzenleyicileriyle tam etkileşim sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Word tarafından oluşturulan tabloların ODS hesap tablolarına aktarılmasıyla işbirlikçi proje planlaması.
+
+* Word raporlarından akademik veya araştırma verilerinin toplanması.
+
+* Bütçe şablonlarının ve finansal tabloların Word'den ODS'ye aktarılması.
+
+* NGO ve hükümet kuruluşları için açık kaynaklı belge iş akışları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Bulut tabanlı işbirliği için Word şablonlarının ODS'ye otomatik dönüştürülmesi.
+
+* Anket sonuçlarının zamanlanmış olarak Word belgelerinden dışa aktarılması.
+
+* Açık standart hesap tablolarını kullanarak NGO raporlama için ETL entegrasyonu.
+
+* Uyumluluk raporlarının Word'den ODS'ye tetiklenen dönüşümü.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

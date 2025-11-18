@@ -47,7 +47,55 @@ XMLファイルをFODSに変換するときに、出力FODSファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XMLをFODSに変換することで、オープン標準のスプレッドシートを使用して共同作業やクロスプラットフォームプロジェクトを行うことができます。FODSはXML構造を維持しながら、LibreOffice、OpenOffice、およびその他のオープンソーススイートでスプレッドシートとの互換性を実現します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+
+
+* XMLベースの予算データをFODSに変換して共同編集用に使用。
+
+* 科学的測定XMLファイルを再現可能な研究のためにFODSに変換。
+
+* XML学生パフォーマンスレポートをオープンソースのスプレッドシートツールに移行。
+
+* プロジェクト管理アプリからのXMLエクスポートをFODS分析用に準備。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* オープンソースのレポーティングシステム向けの自動夜間XMLからFODSへの変換。
+
+* クラウドERPソリューションからのXMLエクスポートのバッチ処理をFODSに変換。
+
+* XMLプロジェクトログのトリガー変換をオープンスプレッドシートアーカイブに。
+
+* 研究室でのワークフロー統合におけるXMLからFODSへのパイプライン。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,51 @@ otherformats: XLSB FODS XLS XLT SXC XLSM ODS XLTM XLSX EXCEL DIF XLTX XLAM CSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת WORDML ל־TSV (ערכים מופרדים בטאב) מאפשרת חילוץ נקי של נתונים מובנים, שמתקיים בהם רווחים ודיוק בין העמודות. TSV משמש בצורה נרחבת במסדי נתונים, פלטפורמות ניתוח וסביבות למידת מכונה בגלל מבנה הסכמה שלו.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* ייצוא טבלאות מלוגים או דוחות מבוססי Word ליבוא למסד נתונים.
+
+* הכנת קבצי נתונים שנוצרו ב-Word עבור זרימות עבודה סטטיסטיות ב-Python או R.
+
+* העברת תוכן מובנה מ-Word לסביבות CRM או ERP.
+
+* המרת טבלאות בעיצוב ל־TSV לקליטת קלטים נקיים לאימוני מודלי AI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת דוחות Word ל־TSV במתון לצורך לוחות מחוונים לניתוחים.
+
+* ייצוא TSV בהתבסס על טריגר לצורך צנזורת נתונים לפני עיבוד בצינורות של למידת מכונה.
+
+* עיבוד צפיפות גדולה של נתוני TSV מתבניות Word לצורך פעולות ETL.
+
+* שילוב בתהליכי עבודה אוטומטיים של נתונים גדולים לדיווח או ויזואליזציה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

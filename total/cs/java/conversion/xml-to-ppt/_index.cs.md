@@ -135,7 +135,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XML na PPT umožňuje uživatelům starší verze PowerPointu importovat strukturovaný obsah jako upravitelné snímky, podporující grafy, tabulky a grafiku pro podnikání, vzdělávání nebo marketing.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Přeměna XML výukových materiálů na snímky PPT pro firemní použití.
+
+* Převod XML katalogů produktů na upravitelné prezentace.
+
+* Příprava XML projektových zpráv k posouzení managementem.
+
+* Migrace XML finančních výkazů do starších prezentací PPT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný převod XML na PPT pro opakující se zprávy.
+
+* Spouštění tvorby snímků z nahrávaných souborů XML.
+
+* Hromadné zpracování XML datových sad do upravitelných PPT prezentací.
+
+* Integrace do automatizovaných reportingových potrubí pro podporu starších verzí.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

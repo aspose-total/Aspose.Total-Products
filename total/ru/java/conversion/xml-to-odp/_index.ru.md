@@ -135,7 +135,55 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XML-файлов в ODP позволяет преобразовать структурированный контент в полностью редактируемые презентации с открытым исходным кодом, совместимые с LibreOffice Impress и OpenOffice. Этот формат идеально подходит для коллективных или кроссплатформенных слайд-деков.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование XML-руководств по обучению в презентации ODP.
+
+* Преобразование структурированных XML-каталогов продукции в интерактивные слайд-деки.
+
+* Подготовка XML-данных академических исследований для конференционных презентаций.
+
+* Миграция XML-расписаний мероприятий в визуально привлекательные слайды ODP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное еженощное преобразование XML в ODP для корпоративных программ обучения.
+
+* Пакетная обработка XML-отчетов о продажах в шаблоны презентаций ODP.
+
+* Автоматическое преобразование загруженного XML-контента в готовые к использованию слайды для клиентов.
+
+* Интеграция с конвейерами ETL для создания слайдов ODP из структурированных данных.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

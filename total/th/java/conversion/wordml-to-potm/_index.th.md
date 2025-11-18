@@ -54,7 +54,55 @@ API ยังช่วยให้คุณแปลงเอกสาร WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง WORDML เป็นรูปแบบ POTM ช่วยให้สามารถสร้างเทมเพลต PowerPoint ที่เปิดใช้งานแมโคร โดยรวมข้อมูลจาก Word ที่มีโครงสร้างกับฟังก์ชันสไลด์อัตโนมัติสำหรับการนำเสนอแบบโต้ตอบ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* สร้างโมดูลการฝึกอบรมแบบโต้ตอบพร้อมมาโครที่ฝังอยู่
+
+* แดชบอร์ดขององค์กรที่เปิดใช้งานแมโครที่ได้มาจากตาราง Word
+
+* สไลด์การจำลองการเงินพร้อมการคำนวณอัตโนมัติ
+
+* สไลด์การศึกษาที่มีองค์ประกอบโต้ตอบสำหรับ e-learning
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างเทมเพลตที่เปิดใช้งานแมโครโดยอัตโนมัติจากรายงาน Word
+
+* การสร้าง POTM ตามที่เกิดขึ้นสำหรับการอัพเดตโปรเจกต์เป็นระยะ
+
+* การรวมระบบ LMS สำหรับสไลด์การฝึกอบมอัตโนมัติ
+
+* การแปลงเนื้อหาจาก Word เป็นมาโคร PowerPoint แบบโต้ตอบเป็นชุด
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -49,7 +49,55 @@ otherformats: XLTM XLTX DIF XLSM XLSB TXT ODS MD XLAM XLT TSV FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML转换为Markdown（MD）可以将结构化的XML内容转换为轻量级、适合网络的标记。Markdown非常适用于文档、博客、维基和静态站点生成器，如Hugo、Jekyll或Gatsby。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将XML API文档转换为Markdown，用于开发者门户网站。
+
+* 将XML产品规格转换为易读的Markdown指南。
+
+* 准备XML研究数据或报告，用于GitHub托管的项目。
+
+* 将XML技术手册迁移到Markdown，用于在线知识库。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时将XML转换为MD，用于每晚的文档更新。
+
+* 从上传的XML产品目录生成Markdown文件。
+
+* 批量处理XML博客，转换为Markdown以发布静态站点。
+
+* 集成到CI/CD流水线中，自动将XML手册转换为Markdown。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

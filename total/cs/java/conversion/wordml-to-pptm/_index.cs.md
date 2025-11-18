@@ -54,7 +54,55 @@ API také umožňuje převádět dokumenty WORDML chráněné heslem na PPTM. Po
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod dokumentů WORDML (WordprocessingML) do formátu PPTM umožňuje vytváření prezentací PowerPoint s makry. To umožňuje pokročilou automatizaci, interaktivní ovládací panely a vložená makra při zachování strukturovaného obsahu Wordu, jako jsou tabulky, grafy a poznámky.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Interaktivní finanční ovládací panely generované z reportů založených na Wordu.
+
+* Výukové moduly s automatizovanými výpočty a dynamickými prvky snímku.
+
+* Prezentace řízení projektů s vyvolatelnými makry pro sledování stavu.
+
+* Vzdělávací přednášky s interaktivními příklady řešení problémů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod opakujících se Wordových reportů do makro-povolených snímků PPTM.
+
+* Vyvolané generování interaktivních projektových balíčků pro kontrolu řízení.
+
+* Integrace s LMS systémy pro automatizované e-learningové prezentace.
+
+* Automatické vložení maker pro firemní výkonnostní a KPI ovládací panely.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

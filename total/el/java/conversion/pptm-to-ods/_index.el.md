@@ -61,7 +61,51 @@ otherformats: XLT XLS TSV MHTML XLSX DIF ODS XLSM XLAM XLTM EXCEL MARKDOWN XLTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Μετατροπή PPTM σε ODS** μετατρέπει παρουσιάσεις σε αρχεία υπολογιστικού φύλλου OpenDocument, ευρέως συμβατά με το LibreOffice, το Google Sheets και άλλες εφαρμογές υπολογιστικών φύλλων.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Επαναχρησιμοποίηση δεδομένων παρουσίασης για πολυπλατφορμική χρήση.
+
+* Μετατροπή πινάκων πωλήσεων και έργων σε επεξεργάσιμα φύλλα ODS.
+
+* Κοινοποίηση δεδομένων με πελάτες ή ομάδες χρησιμοποιώντας εργαλεία ανοικτού κώδικα.
+
+* Αρχειοθέτηση διαφανειών ως έγγραφα υπολογιστικών φύλλων για αναφορές.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένη μαζική μετατροπή PPTM σε ODS για επαναλαμβανόμενα έργα.
+
+* Ενσωμάτωση σε συνεργατικές ροές εργασίας υπολογιστικών φύλλων βασισμένες στο cloud.
+
+* Ενεργοποίηση δημιουργίας ODS για πίνακες ελέγχου αναλυτικών δεδομένων.
+
+* Αυτοματοποιημένη αρχειοθέτηση διαφανειών σε κανονικοποιημένα αρχεία ODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

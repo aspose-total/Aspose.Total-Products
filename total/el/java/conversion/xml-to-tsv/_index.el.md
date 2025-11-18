@@ -47,7 +47,51 @@ otherformats: FODS XLAM XLSB EXCEL TXT SXC XLTM XLSM XLTX MD TSV DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή XML σε TSV παρέχει ένα ελαφρύ, βασισμένο σε διαχωτές μορφότυπο υπολογιστικού φύλλου κατάλληλο για αναλύσεις, σενάρια εντολών και αγωγούς μάθησης μηχανών. Το TSV είναι πιο εύκολο να αναλυθεί σε περιβάλλοντα Unix/Linux και αποφεύγει τυχόν συγκρούσεις με κόμματα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Μετατροπή καταγραφών κίνησης στον ιστό XML σε TSV για σενάρια αναλύσεων.
+
+* Μετατροπή XML καταλόγων προϊόντων σε TSV για μαζικές εισαγωγές στη βάση δεδομένων.
+
+* Προετοιμασία δεδομένων έρευνας XML ως TSV για την εισαγωγή μοντέλων AI/ML.
+
+* Εξαγωγή χρηματοοικονομικών συναλλαγών XML σε TSV για αγωγούς δεδομένων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη μετατροπή XML σε TSV για καθημερινές ροές εργασιών ETL.
+
+* Ενεργοποίηση δημιουργίας TSV από ανεβασμένα αρχεία XML σε αποθήκευση στο cloud.
+
+* Επεξεργασία πακέτων καταγραφών εξυπηρετητή XML σε TSV για πίνακες ελέγχου αναλύσεων.
+
+* Ενσωμάτωση μετατροπής XML σε TSV στους αγωγούς δεδομένων CI/CD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

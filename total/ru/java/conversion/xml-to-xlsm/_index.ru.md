@@ -47,7 +47,55 @@ otherformats: XLSM XLTM ODS MD FODS EXCEL DIF XLT TSV XLSB XLTX SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование XML в XLSM позволяет создавать сложные автоматизированные рабочие процессы, формулы и макросы в Excel, сохраняя структурированные данные XML для интерактивных и динамических приложений электронных таблиц.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Импорт финансовых отчетов в формате XML в XLSM с автоматическими расчетами.
+
+* Преобразование наборов данных о запасах в формате XML в макро-возможные панели инструментов Excel.
+
+* Разработка автоматизированных отслеживающих рабочих процессов на основе XML с использованием XLSM.
+
+* Преобразование данных из опросов и исследований в формате XML в интерактивные листы XLSM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запланированное преобразование XML в XLSM для автоматизированных циклов отчетности.
+
+* Генерация макро-возможных рабочих книг на основе загруженных XML.
+
+* ETL-потоки, подающие выходные данные XML в панели инструментов XLSM.
+
+* Автоматизация повторяющихся преобразований данных из XML в XLSM для команд.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

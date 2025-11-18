@@ -61,7 +61,51 @@ otherformats: XLSB FODS XLS XLT SXC XLSM ODS XLTM XLSX EXCEL DIF XLTX XLAM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование WORDML в TSV (значения, разделенные табуляцией) позволяет чисто извлекать структурированные данные, сохраняя пространство и точность по столбцам. TSV широко используется в базах данных, аналитических платформах и средах машинного обучения из-за своей структуры, удобной для схемы.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт таблиц из журналов или отчетов на основе Word для импорта в базу данных.
+
+* Подготовка наборов данных, сгенерированных в Word, для статистических рабочих процессов на Python или R.
+
+* Миграция структурированного контента из Word в среды CRM или ERP.
+
+* Преобразование форматированных таблиц в TSV для чистого ввода в обучение модели искусственного интеллекта.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое преобразование отчетов Word в TSV для аналитических панелей управления.
+
+* Экспорт TSV по триггеру для предварительной обработки данных машинного обучения.
+
+* Пакетная обработка данных TSV из шаблонов Word для операций ETL.
+
+* Интеграция в автоматизированные рабочие процессы обработки больших данных для отчетности или визуализации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

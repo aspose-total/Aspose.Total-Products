@@ -102,7 +102,55 @@ otherformats: XLT DIF MARKDOWN CSV XLSX XLSM TSV MHTML EXCEL FODS XLS SXC XLSB O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**המרת PPTM ל-XLAM** ממירה שקפים לתבנית Excel Add-In, שומרת על פונקציות אוטומציה ומאקרו לעיבוד נתונים מתקדם.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת Add-Ins מותאמים אישית ב-Excel מתבניות המבוססות על מצגות.
+
+* המרת שקפים המבוססים על נתונים לכלי ניתוב מאקרו.
+
+* שיתוף סקריפטים לאוטומציה של שקפים עם משתמשי Excel.
+
+* פיתוח כלים זריזים לתהליכי עבודה חוזרים ממצגות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת קבצי XLAM מתוזמנים למשימות חוזרות.
+
+* הפעלת המרת שקפים ל-Add-In לזרימות עבודה אוטומטיות.
+
+* שילוב בצינורות אוטומציה של Excel בארגונים.
+
+* עיבוד רצפים של שקפים לתוסף מאקרו.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

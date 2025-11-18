@@ -61,7 +61,51 @@ otherformats: XLSX XLTX MARKDOWN XLS XLTM XLAM DIF XLT SXC XLSM ODS XLSB EXCEL T
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**Μετατροπή PPTM σε SXC** παράγει υπολογιστικού φύλλου StarOffice Calc από πίνακες και γραφήματα διαφανιών, υποστηρίζοντας περιβάλλοντα γραφείου ανοικτού κώδικα παλαιάς τεχνολογίας.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Εξαγωγή δεδομένων με αριθμητική βάση από διαφάνειες για ιστορικά πακέτα γραφείου.
+
+* Προετοιμασία επιχειρηματικών και ερευνητικών παρουσιάσεων ως φύλλα εργασίας SXC.
+
+* Μετατροπή γραφημάτων και πινάκων σε επαναχρησιμοποιήσιμες μορφές φύλλων εργασίας.
+
+* Αρχειοθέτηση δεδομένων παρουσίασης σε μορφές ανοικτού κώδικα παλαιάς τεχνολογίας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή PPTM σε SXC για λόγους αρχειοθέτησης.
+
+* Ενεργοποίηση δημιουργίας φύλλων εργασίας SXC για πολυπλατφορμική χρήση.
+
+* Ενσωμάτωση σε ροές εργασίας αυτοματισμού γραφείου παλαιάς τεχνολογίας.
+
+* Προγραμματισμένες ενημερώσεις για εξαγωγή ιστορικών δεδομένων από διαφάνειες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

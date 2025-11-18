@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XMLをPOTXに変換すると、標準のマクロ非使用PowerPointテンプレートが生成され、セキュリティ警告なしで簡単に共有、ブランディング、繰り返し使用できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* XMLクライアントレポートを再利用可能なプレゼンテーションテンプレートに変換する。
+
+* XMLトレーニングコンテンツをブランド付きのPPTXテンプレートに変換する。
+
+* XMLセールスデータをマクロ非使用のスライドに準備する。
+
+* 一貫したチームレポートのためのXMLベースのプロジェクトテンプレートを生成する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的なプレゼンテーションのためのスケジュールされたXMLからPOTXへの変換。
+
+* 複数部門で使用するためのバッチXMLテンプレートの生成。
+
+* アップロードされたXMLファイルをブランド付きのスライドデッキに変換するトリガー。
+
+* ワークフロー自動化ツールとの統合により、XMLベースのテンプレートを標準化する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

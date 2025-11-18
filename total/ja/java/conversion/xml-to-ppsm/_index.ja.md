@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XMLをPPSMに変換することで、動的コンテンツ、自動化されたチャートの更新、またはインタラクティブなクライアントプレゼンテーション用のマクロが有効化されたPowerPointスライドが作成されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* エグゼクティブダッシュボード用にXMLセールスレポートをPPSMスライドに自動化。
+
+* XMLプロジェクトの更新をインタラクティブなスライドショーに変換。
+
+* マクロが有効化されたPPSMデッキにXML財務予測を変換。
+
+* 自動化されたプレゼンテーション体験のためのXMLトレーニングモジュールの準備。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* マクロが有効化されたレポート用にスケジュールされたXMLからPPSMへの変換。
+
+* インタラクティブなPPSMスライドショーへのバッチ処理XMLデータ。
+
+* 動的なマクロを持つアップロードされたXMLファイルの変換をトリガー。
+
+* 自動化されたスライド更新のためのVBAおよびワークフローツールとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

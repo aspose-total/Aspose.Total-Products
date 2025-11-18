@@ -49,7 +49,51 @@ otherformats: FODS XLAM XLSB EXCEL TXT SXC XLTM XLSM XLTX MD TSV DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML转换为TSV提供了一种轻量级的、基于分隔符的电子表格格式，适用于分析、脚本编写和机器学习流程。TSV在Unix/Linux环境中更容易解析，并避免了逗号冲突。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将XML网站流量日志转换为TSV以供分析脚本使用。
+
+* 将产品目录的XML转换为TSV以进行批量数据库导入。
+
+* 将XML调查数据准备为TSV以供AI/ML模型摄入。
+
+* 将财务交易的XML导出为TSV以供数据流程使用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 自动化的XML转换为TSV，用于每晚的ETL工作流程。
+
+* 从云存储中上传的XML文件触发TSV生成。
+
+* 批处理XML服务器日志，转换为TSV以供分析仪表板使用。
+
+* 将XML转换为TSV集成到CI/CD数据流程中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

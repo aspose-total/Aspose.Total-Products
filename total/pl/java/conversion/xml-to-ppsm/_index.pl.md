@@ -135,7 +135,55 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja XML na PPSM umożliwia tworzenie pokazów slajdów w programie PowerPoint z obsługą makr dla dynamicznych treści, zautomatyzowaną aktualizacją wykresów lub interaktywnymi prezentacjami dla klientów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Automatyzacja raportów sprzedażowych XML w slajdy PPSM dla paneli kierowniczych.
+
+* Przekształcanie aktualizacji projektów XML w interaktywne pokazy slajdów.
+
+* Konwersja prognoz finansowych XML na pokazy slajdów PPSM obsługujące makra.
+
+* Przygotowywanie modułów szkoleniowych XML dla zautomatyzowanych prezentacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja XML na PPSM dla raportowania z obsługą makr.
+
+* Przetwarzanie wsadowe danych XML w interaktywne pokazy slajdów PPSM.
+
+* Wywołana konwersja dla przesłanych plików XML z dynamicznymi makrami.
+
+* Integracja z VBA i narzędziami do zarządzania procesami dla zautomatyzowanych aktualizacji slajdów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

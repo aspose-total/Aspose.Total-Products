@@ -135,7 +135,49 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML을 PPTM으로 변환하면 매크로가 활성화된 PowerPoint 프레젠테이션을 만들어 전문적인 워크플로에 동적 차트, 자동화된 슬라이드 및 대화식 콘텐츠를 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* XML KPI 대시보드를 PPTM 슬라이드로 자동화합니다.
+* XML 재무 또는 프로젝트 보고서를 대화식 프레젠테이션으로 변환합니다.
+* XML 교육 콘텐츠를 매크로가 활성화된 교육용 슬라이드로 변환합니다.
+* 동적 차트와 매크로가 포함된 XML 제품 데모를 준비합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 자동 보고를 위한 예약된 XML-to-PPTM 변환.
+* 매크로가 활성화된 슬라이드 덱으로 XML 파일 일괄 처리.
+* 팀 대시보드를 위해 업로드된 XML로부터 PPTM 생성을 트리거합니다.
+* 동적 프레젠테이션 자동화를 위해 VBA 및 워크플로 도구와 통합합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

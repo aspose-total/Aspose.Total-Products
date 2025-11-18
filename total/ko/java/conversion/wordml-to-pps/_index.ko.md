@@ -54,7 +54,51 @@ API를 사용하면 암호로 보호된 WORDML 문서를 PPS로 변환할 수도
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORDML 파일을 PPS(PowerPoint Show) 형식으로 변환하면 정적 워드 문서를 즉시 재생되는 슬라이드 쇼 프레젠테이션으로 변환할 수 있습니다. PPS 파일은 슬라이드 쇼 모드로 직접 열리므로 키오스크, 교육 루프 및 자동 실행 비즈니스 프레젠테이션에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 디지털 화면에서 자동으로 재생되는 워드 기반 기업 공지 사항.
+
+* 전시회, 소매 환경 또는 로비용 키오스크 스타일 프레젠테이션.
+
+* 워드 노트에서 생성된 자동 실행 강의 및 교실 요약.
+
+* 워드에서 서식이 지정된 제품 시트로 생성된 마케팅 슬라이드쇼.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 내부 커뮤니케이션용 워드 보고서를 PPS로 일괄 변환.
+
+* 디지털 사이니지 시스템을 위한 예약된 슬라이드쇼 내보내기.
+
+* 이벤트 또는 회의 디스플레이용 트리거된 PPS 생성.
+
+* DMS 플랫폼과 통합하여 워드 문서를 슬라이드쇼 루프로 자동 게시.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

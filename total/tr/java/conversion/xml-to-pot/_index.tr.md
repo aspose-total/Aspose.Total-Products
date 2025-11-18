@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML'yi POT'a dönüştürmek yapılandırılmış içeriğin eski PowerPoint şablonlarına dönüştürülmesine olanak tanır. Bu format, eski Microsoft Office iş akışlarını sürdüren veya standart sunum düzenlemelerini dağıtan kullanıcılar için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* XML yıllık raporlarını eski PowerPoint şablonlarına dönüştürme.
+
+* XML pazarlama varlıklarını tutarlı slayt paketi oluşturmak için hazırlama.
+
+* XML eğitim modüllerini düzenlenebilir POT şablonlarına dönüştürme.
+
+* XML ürün katalog verilerini standart slayt düzenlerine taşıma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tekrar eden kurumsal sunumlar için toplu XML'den POT'a dönüştürme.
+
+* Zamanlanmış XML pazarlama özetlerinin slayt şablonlarına dönüştürülmesi.
+
+* Yüklenen XML dosyalarının POT slaytlarına işlenmesi için tetiklenen işlem.
+
+* Eski PowerPoint desteği ile otomatik raporlama boru hatlarına entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

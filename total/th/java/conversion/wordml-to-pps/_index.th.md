@@ -54,7 +54,55 @@ API ยังช่วยให้คุณแปลงเอกสาร WORDML
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ WORDML เป็นรูปแบบ PPS (PowerPoint Show) จะทำให้เอกสาร Word ที่เป็นแบบสถิตเป็นการนำเสนอสไลด์โชว์ทันที ไฟล์ PPS เปิดโดยตรงในโหมดสไลด์โชว์ ทำให้เหมาะสำหรับการใช้ในสถานที่สาธารณะ เช่น กิจกรรมแสดงสินค้า การฝึกอบรม และการนำเสนอธุรกิจที่เล่นอัตโนมัติ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การเล่นประกาศธุรกิจที่เกี่ยวข้องกับ Word โดยอัตโนมัติบนหน้าจอดิจิทัล
+
+* การนำเสนอแบบ Kiosk สำหรับงานแสดงสินค้า ร้านค้า หรือห้องรับแขก
+
+* การนำเสนอบทความและสรุปการเรียนการสอนที่สร้างจากบันทึก Word
+
+* การสร้างสไลด์โชว์ทางการตลาดจากแผ่นข้อมูลผลิตภัณฑ์ที่จัดรูปแบบใน Word
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงไฟล์จากรายงาน Word เป็น PPS สำหรับการสื่อสารภายใน
+
+* การส่งออกสไลด์โชว์ตามกำหนดเวลาสำหรับระบบป้ายดิจิทัล
+
+* การสร้าง PPS ตามเหตุการณ์หรือการแสดงงาน
+
+* การผสานร่วมกับแพลตฟอร์ม DMS เพื่อเผยแพร่เอกสาร Word ให้อัตโนมัติเป็นการนำเสนอสไลด์โชว์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

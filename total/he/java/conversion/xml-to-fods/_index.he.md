@@ -102,7 +102,51 @@ otherformats: TXT MD XLT CSV XLTX EXCEL XLSB XLAM XLSM TSV XLTM ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת XML ל־FODS מאפשרת את השימוש בגיליונות נתונים בפורמט פתוח לפרויקטים של שיתוף פעולה וציוד צלפון. FODS שומרת על מבנה ה־XML תוך שהיא מאפשרת תאימות לגיליונות הנתונים ב־LibreOffice, OpenOffice וסוויטות קוד פתוח אחרות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת נתוני תקציב מבוססי XML ל־FODS לצורך עריכת צוות במערכת שיתוף פעולה.
+
+* המרת קבצי XML של מדידות מדעיות ל־FODS למחקר שניתן לשחזר.
+
+* העברת דוחות ביצועים של סטודנטים ב־XML לכלים לעריכת גיליונות נתונים בקוד פתוח.
+
+* הכנת ייצוא XML מאפליקציות לניהול פרויקטים לניתוח ב־FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת XML ל־FODS באופן אוטומטי בכל לילה למערכות דיווח בקוד פתוח.
+
+* עיבוד רצפי של ייצואי XML מפתרונות ERP בענן ל־FODS.
+
+* המרת יומני פרויקט ב־XML לארכיונים של גיליונות נתונים בקוד פתוח.
+
+* שילוב תהליכי עבודה במעבדות מחקר באמצעות צינורות נתונים מ־XML ל־FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

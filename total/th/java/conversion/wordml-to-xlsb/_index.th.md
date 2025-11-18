@@ -61,7 +61,55 @@ otherformats: FODS SXC XLSB ODS XLSX XLT TSV XLTX DIF EXCEL XLTM XLAM XLS XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง WORDML เป็น XLSB จะสร้างสเปรดชีต Excel ในรูปแบบไบนารีซึ่งโหลดเร็วขึ้น ใช้พื้นที่ดิสก์น้อยลง และจัดการกับชุดข้อมูลขนาดใหญ่อย่างมีประสิทธิภาพ XLSB เหมาะสำหรับองค์กรที่จัดการกับการดำเนินการสเปรดชีตปริมาณมากหรือใช้ทรัพยากรคำนวณอย่างหนัก
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การส่งออกตารางการเงินหรือธุรกรรมจาก Word เข้าสู่ชีต Excel รูปแบบ XLSB ที่มีประสิทธิภาพสูง
+
+* การจัดการกับชุดข้อมูลแบบ CSV ขนาดใหญ่ใน Excel โดยใช้การบีนารีบีบอัด
+
+* ขั้นตอนการทำงานขององค์กรที่ต้องการเปิดและคำนวณเร็วกว่า XLSX หรือ CSV
+
+* รายงานห้องปฏิบัติการโครงสร้าง บันทึกการตรวจสอบ หรือข้อมูลการปฏิบัติตามกฎหมายในรูปแบบสเปรดชีตไบนารี
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงจาก Word เป็น XLSB ตามกำหนดเวลาสำหรับแดชบอร์ด BI
+
+* การส่งออกรายงาน Word ปริมาณมากไปยัง Excel ในรูปแบบไบนารีเพื่อประสิทธิภาพ
+
+* การสร้าง XLSB ตามเงื่อนไขสำหรับการรวบรวมข้อมูลทางกฎหมายหรือการตรวจสอบโดยอัตโนมัติ
+
+* การผสานเข้ากับท่อ ETL ที่ต้องการการเรียงลำดับเป็น Excel ในรูปแบบไบนารี
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

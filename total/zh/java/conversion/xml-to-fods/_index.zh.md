@@ -49,7 +49,55 @@ otherformats: TXT MD XLT FODS XLTX EXCEL XLSB XLAM XLSM TSV XLTM ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将XML转换为FODS可利用开放标准电子表格进行协作和跨平台项目。FODS保持XML结构的同时，在LibreOffice、OpenOffice和其他开源套件中实现电子表格兼容性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将基于XML的预算数据转换为FODS，以便团队协作编辑。
+
+* 将科学测量XML文件转换为FODS，用于可重复研究。
+
+* 将XML学生成绩报告迁移到开源电子表格工具。
+
+* 为FODS分析准备来自项目管理应用的XML导出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 每晚自动将XML转换为FODS，用于开源报告系统。
+
+* 批处理从云ERP解决方案导出的XML到FODS。
+
+* 将XML项目日志触发转换为开放电子表格存档。
+
+* 在研究实验室中使用XML到FODS管道进行工作流集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja XML na SWF pozwala przekształcić strukturalną zawartość XML w interaktywne animacje Flash. Chociaż SWF to technologia przestarzała, nadal jest przydatna do starszych modułów e-learningowych, interaktywnych infografik i prezentacji multimedialnych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przekształcanie XML-owych podręczników szkoleniowych w interaktywne samouczki SWF.
+
+* Konwertowanie XML-owych katalogów produktów w animowane, klikalne prezentacje.
+
+* Migracja quizów lub ocen opartych na XML do modułów e-learningowych Flash.
+
+* Przygotowywanie interaktywnych wyświetlaczy dla harmonogramów lub terminów wydarzeń opartych na XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja XML na SWF dla aktualizacji treści e-learningowych.
+
+* Przetwarzanie wsadowe danych produktowych XML w interaktywne katalogi SWF.
+
+* Wywoływane generowanie slajdów SWF z przesłanych materiałów kursowych XML.
+
+* Integracja z platformami LMS dla automatycznego dostarczania treści XML na SWF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

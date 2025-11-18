@@ -135,7 +135,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML'yi PPSX'e dönüştürmek, makro olmadan doğrudan sunum modunda açılan modern slayt gösterileri oluşturur; bu, müşterilerle, paydaşlarla veya çevrimiçi platformlarla paylaşmak için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Anında sunum için PPSX olarak XML tabanlı istemci raporları oluşturma.
+
+* XML eğitim içeriğini modern slayt gösterilerine dönüştürme.
+
+* Paydaş sunumları için XML proje güncellemelerini dönüştürme.
+
+* Kolay paylaşım için PPSX olarak XML pazarlama sunumları hazırlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tekrarlayan sunumlar için otomatik XML'den PPSX'e dönüştürme.
+
+* Takım kullanımı için yüklenen XML dosyalarından tetiklenen oluşturma.
+
+* Departman genelinde raporlama için toplu XML'den PPSX'e işleme.
+
+* Sürekli XML slayt gösterisi güncellemeleri için iş akışı araçlarına entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

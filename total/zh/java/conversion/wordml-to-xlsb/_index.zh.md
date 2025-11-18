@@ -61,7 +61,51 @@ otherformats: FODS SXC XLSB ODS XLSX XLT TSV XLTX DIF EXCEL XLTM XLAM XLS XLSM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将WORDML转换为XLSB会生成一个二进制Excel电子表格，加载速度更快，占用更少的磁盘空间，并且能够高效处理大型数据集。XLSB非常适合管理高容量或计算密集型电子表格操作的企业。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将基于Word的财务或交易表导出为高性能的XLSB表格。
+
+* 在Excel中使用二进制压缩处理大型类似CSV的数据集。
+
+* 企业工作流需要比XLSX或CSV更快的打开和计算速度。
+
+* 以二进制电子表格形式呈现的结构化实验室报告、审计日志或合规数据。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定期将Word转换为XLSB用于BI仪表板。
+
+* 批量将大容量Word报告导出为二进制Excel以提高性能。
+
+* 触发XLSB生成以进行自动化的监管或审计收集。
+
+* 集成到需要序列化为二进制Excel的ETL管道中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

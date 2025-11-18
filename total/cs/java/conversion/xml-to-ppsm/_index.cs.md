@@ -135,7 +135,55 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XML na PPSM umožňuje prezentace PowerPoint s makry pro dynamický obsah, automatizované aktualizace grafů nebo interaktivní prezentace pro klienty.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Automatizace XML prodejních zpráv do snímků PPSM pro výkonnostní přehledy.
+
+* Transformace aktualizací projektů XML do interaktivních prezentací.
+
+* Převod finančních projekcí XML do makroaktivovaných sad PPSM.
+
+* Příprava modulů XML školení pro automatizované prezentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný převod XML na PPSM pro makroaktivované hlášení.
+
+* Zpracování dat XML do interaktivních prezentací PPSM ve várce.
+
+* Spuštěný převod pro nahrávané soubory XML s dynamickými makry.
+
+* Integrace s VBA a nástroji pro automatizované aktualizace snímků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

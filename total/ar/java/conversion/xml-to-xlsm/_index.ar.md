@@ -47,7 +47,55 @@ otherformats: XLSM XLTM ODS MD FODS EXCEL DIF XLT TSV XLSB XLTX SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل XML إلى XLSM يمكن أن يمكّن سير العمل الآلي المعقد، والصيغ، والماكرو داخل Excel، مع الحفاظ على بيانات XML المنظمة لتطبيقات جداول بيانات تفاعلية وديناميكية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* استيراد تقارير مالية XML إلى XLSM مع حسابات آلية.
+
+* تحويل مجموعات بيانات المخزون XML إلى لوحات تحكم Excel مع ماكرو.
+
+* تطوير متتبعات سير العمل الآلية القائمة على XML باستخدام XLSM.
+
+* تحويل بيانات استطلاع وأبحاث XML إلى أوراق عمل XLSM تفاعلية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل XML إلى XLSM بشكل مجدول لدورات التقارير الآلية.
+
+* توليد مصفوفات عمل مع ماكرو من XMLs المرفوعة.
+
+* أنابيب ETL تغذي مخرجات XML إلى لوحات تحكم XLSM.
+
+* أتمتة تحويلات البيانات المتكررة من XML إلى XLSM للفرق.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

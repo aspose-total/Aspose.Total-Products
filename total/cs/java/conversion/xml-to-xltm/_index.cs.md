@@ -47,7 +47,55 @@ Při převodu souboru XML na XLTM můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod XML na XLTM kombinuje funkčnost šablony s možnostmi makra, umožňuje vytváření dynamických, opakovaně použitelných excelových sešitů, které automatizují opakující se úkoly manipulace s daty XML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Příprava excelových šablon s automatickými výpočty pro finance založené na XML.
+
+* Převod XML projektových záznamů do opakovaně použitelných šablon s makry.
+
+* Vytváření XML založených šablon pro predikci prodejů pro opakované reportování.
+
+* Navrhování XML poháněných šablon XLSM pro automatizaci procesů pro celý tým.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánované převody XML na XLTM pro opakující se obchodní procesy.
+
+* Spouštění vytváření šablon s makry z nahrávaných XML.
+
+* Hromadný převod XML na XLTM pro automatizaci více oddělení.
+
+* Integrace do firemních pracovních postupů pro standardizované šablony XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

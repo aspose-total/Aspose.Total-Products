@@ -54,7 +54,51 @@ otherformats: PPTM PPTX POTX POT PPT PPSM PPSX PPS POTM POWERPOINT CSV DIF FODS 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل WORDML إلى PPSM يمكن أن يسمح بإنشاء ملفات عرض PowerPoint Show مع وظائف الماكرو. من خلال الماكرو المضمنة، يمكن لعروض PPSM تنفيذ إجراءات تفاعلية، حسابات، التعامل مع النماذج، والتشغيل التلقائي للبيانات عند فتح العرض التقديمي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* عروض تدريب تفاعلية مع تصنيف تلقائي وتنقل بنقرة واحدة.
+
+* عروض مبيعات تعتمد على الماكرو مع تحديثات الأسعار في الوقت الحقيقي.
+
+* جولات منتج متقدمة باستخدام انتقالات ومنطق آلي.
+
+* شرائح لعروض توضيحية لعمليات الأعمال مع حسابات مضمنة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* إنشاء عروض تقديمية تعتمد على الماكرو تلقائيًا من محتوى Word منظم.
+
+* تحويل قائم على المؤشر لمواد التدريب التنظيمية أو موارد البشر.
+
+* إنشاء مجدول للشرائح التفاعلية PPSM لسير العمل الاستقبالية.
+
+* إعداد تلقائي لعروض شهرية تعتمد على الماكرو من مصادر بيانات Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

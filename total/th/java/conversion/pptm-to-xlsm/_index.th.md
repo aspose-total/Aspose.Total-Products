@@ -61,7 +61,51 @@ otherformats: EXCEL DIF XLTM MHTML XLSM XLSX XLS FODS XLTX TSV XLAM ODS SXC XLT 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**การแปลง PPTM เป็น XLSM** สร้างสมุดงาน Excel ที่รองรับการทำงานขั้นสูงจากภาพนิ่งสำหรับอัตโนมัตและการประมวลผลข้อมูล
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ส่งออกกราฟสไลด์แบบโต้ตอบเข้าสู่สมุดงาน Excel ที่รองรับการทำงานของแมโคร
+
+* แปลงเทมเพลตของขั้นตอนการทำงานบนงานนำเข้าเป็นไฟล์ออโตเมชัน Excel
+
+* แบ่งปันสไลด์พร้อมแมโครที่สร้างไว้สำหรับการเงินและการดำเนินการ
+
+* สร้างแดชบอร์ดการฝึกอบรมที่สามารถนำเข้าอัตโนมัต
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัต" %}}
+
+
+
+* แปลงจำนวนมากของ PPTM เป็น XLSM สำหรับรายงานอัตโนมัตที่เกิดซ้ำ
+
+* อัปเดตตารางงานที่รองรับแมโครอัตโนมัตจากสไลด์ตามกำหนด
+
+* สร้างไฟล์ XLSM โดยการกระตุ้นสำหรับกระบวนการทำงานขององค์กร
+
+* ผสานกับระบบอัตโนมัตของกระบวนการธุรกิจ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
