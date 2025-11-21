@@ -1,7 +1,7 @@
 ---
 title: 通过 Java 将 PPTM 转换为 DOC 应用程序 或使用免费的在线转换器 
 description: 无需使用 Microsoft Word 或 PowerPoint 即可将 PPTM 导出为 DOC 的 Java API 或在线。在集成代码之前快速测试免费的 PPTM 到 DOC 在线转换器。 
-url_ignore: /zh/java/conversion/pptm-to-doc/
+url: /total/zh/java/conversion/pptm-to-doc/
 family: total
 platformtag: net
 feature: conversion
@@ -52,6 +52,7 @@ otherformats: DOT FLATOPC TEXT DOTM ODT OTT RTF WORD DOTX DOCX DOCM WORDML
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
 ```
 {{< blocks/products/pf/agp/feature-section >}}
 
@@ -95,7 +96,8 @@ otherformats: DOT FLATOPC TEXT DOTM ODT OTT RTF WORD DOTX DOCX DOCM WORDML
 
 {{< /blocks/products/pf/agp/feature-section >}}
 ```
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -146,6 +148,5 @@ otherformats: DOT FLATOPC TEXT DOTM ODT OTT RTF WORD DOTX DOCX DOCM WORDML
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
-{{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

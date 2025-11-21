@@ -52,6 +52,7 @@ otherformats: WORD DOT RTF DOTX ODT OTT WORDML DOTM TEXT FLATOPC DOTMX DOTMM
 {{< gist "aspose-com-gists" "e2391d73d26866486249478b88c2ad59" "convert-powerpoint-to-word-with-watermark.java" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
 ```
 {{< blocks/products/pf/agp/feature-section >}}
 
@@ -146,6 +147,6 @@ otherformats: WORD DOT RTF DOTX ODT OTT WORDML DOTM TEXT FLATOPC DOTMX DOTMM
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
-{{< /blocks/products/pf/main-wrap-class >}}-section >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}
