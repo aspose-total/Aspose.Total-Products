@@ -59,7 +59,55 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod formátu Markdown (MD) na formát ODP (OpenDocument Presentation) umožňuje týmům přeměnit jednoduchý textový obsah na prezentace ve formě snímků použitelné v LibreOffice Impress a dalších nástrojích pro prezentace s otevřeným zdrojovým kódem. ODP je ideální pro sdílení mezi různými platformami bez omezení vlastnických práv.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Přeměna poznámek z Markdown školení na snímky ODP.
+
+* Prezentace ve třídě vytvořené na základě plánů vyučování založených na MD.
+
+* Publikování konferenčních snímků s otevřeným zdrojovým kódem generovaných z Markdown.
+
+* Převod dokumentace MD do vizuálně strukturovaných snímků ODP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* ETL potrubí generující soubory ODP z repozitářů Markdown.
+
+* Hromadné vytváření vzdělávacích prezentací pro platformy LMS.
+
+* Automatizovaná produkce ODP v pracovních postupech dokumentace jako kódu.
+
+* Spuštěný převod MD na ODP pro vydání projektů s otevřeným zdrojovým kódem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

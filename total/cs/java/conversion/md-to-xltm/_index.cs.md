@@ -47,7 +47,55 @@ Při převodu souboru MD na XLTM můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění Markdown (MD) na XLTM (šablonu Excelu s povolenými makry) vytváří opakovaně použitelné šablony tabulek obohacené o automatizaci. Soubory XLTM podporují makra pro dynamickou inicializaci, automaticky vyplněná pole a pokročilé pracovní postupy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Obchodní šablony řízené makry získané z obsahu Markdownu.
+
+* Vytváření automatizovaných tabulek s předpověďmi z dat MD.
+
+* Konstrukce opakovaně použitelných výpočetních šablon pro týmy inženýrů.
+
+* Vytváření šablon pro onboarding nebo audit připravených na makra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* Automatické generování šablon XLTM pomocí konverze MD s podporou CI.
+
+* Hromadné vytváření šablon s makry pro distribuované kanceláře.
+
+* Plánované aktualizace souborů XLTM z repozitářů Markdown.
+
+* Dynamické skripty pracovního postupu vyplňující šablony XLTM daty z backendu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,51 @@ otherformats: MARKDOWN XLT TSV EXCEL MHTML XLSM FODS XLTM SXC XLSB XLS DIF XLTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **POTX 转换为 TSV** 会生成适用于基于文本的分析、数据流水线和机器学习预处理的制表符分隔值文件。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 为统计分析准备 POTX 幻灯片数据。
+
+* 将表格内容导入机器学习工作流程。
+
+* 为开发人员提取结构化模板内容。
+
+* 为 BI 报告工具创建 TSV 数据集。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将模板提取为 TSV，供分析团队使用。
+
+* 当模板被编辑时，基于触发器更新 TSV 格式。
+
+* 集成到 ETL 流水线中进行数据转换。
+
+* 定时生成 TSV，用于定期报告周期。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -102,7 +102,55 @@ otherformats: DIF XLAM MHTML XLSB XLTM XLSM EXCEL TSV SXC XLSX MARKDOWN ODS XLTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **POTX ל־CSV** ממירה נתוני תבנית PowerPoint לערכים מופרדים בפסיקים, מאפשרת חילוץ מהיר של טבלאות, מחזיקי מקום ונתוני פריסה למטרות ניתוח ודיווח.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייצוא טבלאות מוטבעות בתבנית ללוחות מחוונים לדיווחים.
+
+* הכנת נתוני CSV לאינטגרציות CRM או ERP.
+
+* חילוץ טקסט מחזיק מקום לבדיקות תוכן.
+
+* העברת מבני תבנית POTX לפורמטים המוכנים לגיליון אלקטרוני.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה צפופה של קבצי תבנית מרובים למערכות נתונים CSV.
+
+* חילוץ מתוזמן של תוכן POTX לצינורות נתונים לניתוח.
+
+* יצירת CSV בהתבסס על טריגרים בעת עדכון ספריות תבניות.
+
+* אינטגרציה של CSVs שנוצרו מ־POTX לתהליכי BI או אוטומציה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MD (Markdown) เป็น DOT (Word Template) ช่วยธุรกิจในการมาตรฐานเอกสารแบรนด์พร้อมทั้งรักษาเนื้อหาที่มีการควบคุมเวอร์ชันใน Markdown ได้ DOT templates ช่วยรักษาความสม่ำเสมอในการจัดรูปแบบและให้ทีมสามารถสร้างไฟล์ Word ใหม่ได้ทันทีจากโครงสร้างที่สะอาดและใช้ซ้ำได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* สร้างหัวกระดาษที่สม่ำเสมอจากเทมเพลตที่มาจาก Markdown
+
+* การเผยแพร่แผ่นข้อมูลทางการตลาดที่ได้รับการอนุมัติจากแบรนด์จากดราฟ MD
+
+* ทีมทรัพยากรบุคคลสร้างเทมเพลตเอกสารการบรรจุงานจากคู่มือ MD
+
+* แผนกกฎหมายมาตรฐานโครงสร้างสัญญาที่มาจาก Markdown
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* การสร้างเทมเพลต DOT อัตโนมัติในกระบวนการการเผยแพร่ CMS
+
+* การแปลงข้อมูลสำหรับทีมที่กระจายการอัปเดตทรัพยากรแบรนด์
+
+* การสร้างเทมเพลตหลักอัตโนมัติตามกำหนดเวลาที่เก็บไว้ใน Git
+
+* การสร้าง DOT โดยอัตโนมัติสำหรับความต้องการเอกสารของสาขาธุรกิจหรือสาขาธุรกิจหลายแห่ง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

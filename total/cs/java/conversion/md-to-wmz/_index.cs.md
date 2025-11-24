@@ -57,7 +57,55 @@ Pomocí API můžete také otočit výstupní obrázek WMZ podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod formátu Markdown (MD) na formát WMZ (komprimovaný Windows Metafile) umožňuje sdílení vektorové grafiky v kompaktním formátu. WMZ je ideální pro distribuci diagramů, grafů a ilustrací bez ztráty kvality.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření komprimovaných vektorových ilustrací z diagramů v Markdownu.
+
+* Sdílení grafiky kompatibilní s legacy v redukovaných velikostech souborů.
+
+* Vložení technických grafů do dokumentace nebo prezentací.
+
+* Distribuce organizačních schémat odvozených z Markdownu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaný převod MD na WMZ pro systémy dokumentace.
+
+* Hromadná generace komprimovaných vektorových diagramů z repozitářů Markdown.
+
+* Integrace s ETL potrubími produkujícími přenosné grafiky.
+
+* Plánované aktualizace souborů WMZ pro podnikovou distribuci.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

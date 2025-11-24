@@ -59,7 +59,55 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）をPPSM（マクロ有効なPowerPointスライドショー）に変換すると、自動再生スライドショー機能が自動化されます。PPSMは、タイミングコンテンツ、動的更新、インタラクティブな体験のためのVBAマクロをサポートしています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* マクロ駆動のPPSMスライドを使用した自動化されたキオスク。
+
+* MDコンテンツから設計されたインタラクティブなトレーニングループ。
+
+* Markdownの要約から自動タイミングされた製品ショーケース。
+
+* マクロ有効なスライドショーを使用した動的な小売店舗やイベントディスプレイ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* Markdownの変更によってトリガーされるワークフロー駆動のPPSM制作。
+
+* 企業用ディスプレイシステム向けのマクロ有効なスライドショーの生成。
+
+* MDリポジトリからのキオスクコンテンツの自動更新。
+
+* 小売店舗や展示会チェーン向けのバッチPPSM作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

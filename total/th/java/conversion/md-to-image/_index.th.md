@@ -57,7 +57,55 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็นรูปแบบภาพทั่วไป (PNG, JPG, BMP) ช่วยให้สามารถแสดงผลตาราง ไดอะแกรม และข้อความที่จัดรูปแบบได้ในรูปแบบพกพา ที่ไม่ขึ้นกับแพลตฟอร์ม รูปภาพสามารถฝังไว้ในงานนำเสนอ เว็บไซต์ หรือเอกสาร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ส่งออกแผนภาพ Markdown เป็นภาพนิ่งสำหรับสไลด์หรือรายงาน
+
+* แชร์แผนภาพที่ใช้ Markdown บนเว็บไซต์หรือบล็อก
+
+* สร้างภาพสำหรับคู่มือผู้ใช้หรือคู่มือเทคนิค
+
+* ภาพสรุปของตาราง Markdown สำหรับงานนำเสนอหรือ PDF
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงข้อมูล Markdown เป็นภาพเป็นชุดเป็นระยะเวลา
+
+* ท่อ ETL ที่สร้างสินทรัพย์ทางสายการเห็นจากไฟล์ Markdown
+
+* การสร้างแผนภาพอัตโนมัติสำหรับพอร์ทัลเอกสาร
+
+* ส่งออกภาพตามการกระตุ้นสำหรับแดชบอร์ดหรือระบบรายงาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

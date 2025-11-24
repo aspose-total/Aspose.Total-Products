@@ -47,7 +47,51 @@ otherformats: ODS XLT TSV XLTX XLSM MD XLTM FODS XLAM XLSB SXC DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MHTML เป็น SXC (StarOffice Spreadsheet) ช่วยให้ผู้ใช้ StarOffice เก่าสามารถรักษาข้อมูลเว็บในรูปแบบสเปรดชีตที่เข้ากันได้ มีประโยชน์สำหรับกระบวนการทำงานของชุดออฟฟิศเก่าและความต้องการในการเก็บข้อมูลประวัติ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* เก็บข้อมูลตารางที่สร้างจากเว็บสำหรับสภาพแวดล้อม StarOffice เก่า
+
+* แบ่งปันเทมเพลตสเปรดชีตระหว่างชุดออฟฟิศเก่าและใหม่
+
+* รายงานข้อมูลประวัติสำหรับการตรวจสอบข้อมูลของบริษัท
+
+* ย้ายผลการสำรวจออนไลน์เข้าสู่ SXC เพื่อการวิเคราะห์วิจัย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การตั้งเวลาสำหรับการแปลงข้อมูลเว็บเป็นรายงาน SXC ที่เกิดจากเว็บ
+
+* ประมวลผลเป็นชุดข้อมูลของตาราง MHTML เป็นรูปแบบสเปรดชีตเก่า
+
+* การเก็บข้อมูลโดยอัตโนมัติเพื่อปฏิบัติตามกฎระเบียบ
+
+* การรวมระบบออฟฟิศเก่าที่ต้องการข้อมูล SXC เข้าด้วยกัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

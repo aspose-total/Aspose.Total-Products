@@ -130,7 +130,51 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de MHTML en PS (PostScript) crée des documents vectoriels de haute qualité prêts pour l'impression à partir des archives web. PS est idéal pour les flux de travail d'impression professionnelle et de publication sur ordinateur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Conversion de rapports web en documents PostScript prêts pour l'impression.
+
+* Archivage d'illustrations techniques et de diagrammes pour l'impression.
+
+* Préparation de matériel marketing ou de brochures à partir de sources en ligne.
+
+* Génération de graphiques vectoriels haute résolution pour la publication sur ordinateur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion automatisée en lot de contenu web en fichiers PS.
+
+* Génération de PS déclenchée pour les pipelines de publication.
+
+* Intégration avec des systèmes d'impression à la demande.
+
+* Archivage programmé de graphiques prêts pour l'impression provenant du web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

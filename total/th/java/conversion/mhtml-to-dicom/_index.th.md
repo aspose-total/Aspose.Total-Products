@@ -57,7 +57,55 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ MHTML (เว็บอาร์กีฟ) เป็น DICOM (Digital Imaging and Communications in Medicine) ช่วยให้ภาพการแพทย์ที่อยู่บนเว็บ รายงาน หรือแผนภูมิ สามารถรวมเข้ากับขั้นตอนการทำงานของภาพการแพทย์ได้  DICOM  ช่วยให้เกิดความเข้ากันได้กับ PACS และซอฟต์แวร์ภาพการแพทย์
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* เก็บถาวรภาพการวินิจฉัยที่อยู่บนเว็บเป็นรูปแบบ DICOM
+
+* แปลงรายงานการแพทย์ออนไลน์สำหรับระบบ EMR ในโรงพยาบาล
+
+* แบ่งปันภาพรังสีหรืออัลตราซาวด์ที่ถูกดึงออกจากพอร์ทัลเว็บ
+
+* รวมแผงควบคุมเว็บที่เกี่ยวกับคลินิกเข้ากับขั้นตอนการทำงานของภาพ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงเป็นชุดข้อมูลเป็น DICOM อัตโนมัติตามกำหนดเวลาของเนื้อหาการแพทย์ที่อยู่บนเว็บ
+
+* การสร้างโดยเรียกใช้สำหรับการรวมกับ PACS และการอัพเดท EMR
+
+* การเก็บถาวรโดยอัตโนมัติสำหรับแพลตฟอร์มการแพทย์ from telemedicine
+
+* การรวมเข้ากับกระบวนการวินิจฉัยที่มีการช่วยด้วย AI
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

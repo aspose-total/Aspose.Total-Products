@@ -47,7 +47,51 @@ MHTML dosyasını TSV'ye dönüştürürken, çıktı TSV dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML'yi TSV'ye (Tablo Ayırıcılı Değerler) dönüştürmek, yapılandırılmış verileri web sayfalarından düz metin, ayraç dostu bir formatta çıkarmayı sağlar. TSV, veri bilimi, ETL boru hatları ve veritabanı içe aktarmaları için mükemmeldir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Analiz için e-ticaret ürün ve fiyat tablolarının çıkarılması.
+
+* Web formlarından çıkarılan anket sonuçlarının TSV'ye aktarılması.
+
+* Makine öğrenme modelleri için tablo şeklindeki web içeriğinin arşivlenmesi.
+
+* Geliştiriciler ve veri mühendisleriyle yapılandırılmış veri kümelerinin paylaşılması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* AI/ML boru hatları için toplu MHTML'den TSV'ye dönüşüm.
+
+* Analiz için otomatikleştirilmiş ETL iş akışlarına entegrasyon.
+
+* Periyodik web tabanlı raporlama için zamanlanmış TSV oluşturma.
+
+* Gerçek zamanlı panolar için tetiklenmiş TSV dışa aktarımı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

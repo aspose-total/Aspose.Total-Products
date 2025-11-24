@@ -47,7 +47,51 @@ MHTMLファイルをMDに変換するときに、出力MDファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLからMDへの変換は、Webアーカイブからクリーンで編集可能なMarkdown（.md）ファイルを作成することに焦点を当てています。MDファイルは、静的ウェブサイト、GitHubリポジトリ、ノートアプリ向けに理想的であり、携帯性とシンプルさを提供します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* WebコンテンツからGitHub READMEファイルを生成する。
+
+* テクニカルガイドやチュートリアルをMarkdownとしてアーカイブする。
+
+* オンラインのナレッジ記事を編集可能なMDノートに変換する。
+
+* Markdownベースのニュースレターやドキュメントを作成する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* ドキュメントプロジェクトのためのMHTMLファイルをMDに定期的にバッチ変換する。
+
+* HugoやJekyllのような静的サイトジェネレータとの統合。
+
+* Webコンテンツの自動アーカイブのためのトリガー変換。
+
+* Markdownベースのコンテンツ管理システム向けのパイプライン統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,55 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie MD (Markdown) na PPSM (Pakiet slajdów programu PowerPoint z obsługą makr) łączy funkcjonalność automatycznego odtwarzania pokazu slajdów z automatyzacją. PPSM obsługuje makra VBA do czasowego treści, dynamicznych aktualizacji i interaktywnych doświadczeń.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Automatyczne kioski z slajdami PPSM sterowanymi makrami.
+
+* Interaktywne pętle szkoleniowe zaprojektowane na podstawie treści MD.
+
+* Automatycznie synchronizowane prezentacje produktów pobrane z krótkich opisów w formacie Markdown.
+
+* Dynamiczne wyświetlacze detaliczne lub eventowe z użyciem pokazów slajdów obsługujących makra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Produkcja slajdów PPSM sterowana procesem wywołanym zmianami w plikach Markdown.
+
+* Generowanie pokazów slajdów obsługujących makra do systemów wyświetlania w przedsiębiorstwie.
+
+* Automatyczne aktualizacje treści w kioskach z repozytoriów MD.
+
+* Tworzenie zbiorcze pakietów slajdów PPSM dla sieci detalicznych lub wystawowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

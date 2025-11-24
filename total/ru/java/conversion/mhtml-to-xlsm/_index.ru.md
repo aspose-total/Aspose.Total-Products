@@ -47,7 +47,55 @@ otherformats: XLTX DIF TXT FODS XLAM XLTM XLSB MD SXC XLSM EXCEL TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MHTML в XLSM (книга Excel с поддержкой макросов) сохраняет веб-данные, обеспечивая расширенную автоматизацию, формулы и макросы для динамической отчетности. XLSM идеален для компаний, нуждающихся в программируемых электронных таблицах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Финансовые шаблоны с автоматизированными расчетами, полученными из веб-страниц.
+
+* Панели отслеживания проектов с обновлением данных с помощью макросов.
+
+* Интерактивные бизнес-отчеты в электронных таблицах.
+
+* Онлайн-опросы или панели ключевых показателей, экспортированные в Excel с макросами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запуск преобразования MHTML в XLSM для повторяющихся отчетов.
+
+* Автоматическое создание макросов из таблиц, полученных из веб-ресурсов.
+
+* Интеграция с системами ERP и BI для живой отчетности в Excel.
+
+* Пакетная обработка нескольких онлайн-панелей в XLSM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -121,7 +121,51 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MHTML в OTP (шаблон презентации OpenDocument) позволяет создавать многоразовые шаблоны презентаций из веб-контента. OTP идеален для бизнеса или образовательных учреждений, нуждающихся в однородных форматах слайдов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Стандартизированные корпоративные шаблоны презентаций, полученные из веб-данных.
+
+* Шаблоны учебных лекций, созданные на основе онлайн-ресурсов.
+
+* Шаблоны маркетинговых кампаний с брендингом на основе веб-ресурсов.
+
+* Многоразовые шаблоны обновления проекта или панели ключевых показателей.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное создание шаблонов OTP из архивированного содержимого MHTML.
+
+* Создание шаблонов по запросу для повторяющихся потребностей в презентациях.
+
+* Интеграция в инструменты рабочего процесса для стандартизированных слайд-деков.
+
+* Пакетная обработка веб-контента в многоразовые форматы презентаций.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

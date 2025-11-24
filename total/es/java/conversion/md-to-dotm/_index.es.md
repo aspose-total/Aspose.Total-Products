@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversión de MD (Markdown) a DOTM (Plantilla habilitada para macros) combina la edición de texto ligero con plantillas de Word mejoradas con macros integrados. Las plantillas DOTM permiten a los equipos automatizar tareas repetitivas de documentos e instantáneamente crear documentos estandarizados listos para macros.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Creación de plantillas de integración con macros a partir de guías de Markdown.
+
+* Creación de plantillas automatizadas de facturas o formularios a partir de contenido MD.
+
+* Marcos de documentos empresariales con campos insertados programáticamente.
+
+* Generación de plantillas reutilizables amigables con la automatización a partir de documentación técnica.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Creación automática de plantillas DOTM para ciclos de informes a gran escala.
+
+* Integración con motores de flujo de trabajo que activan la generación de MD a DOTM.
+
+* Creación con un clic de plantillas habilitadas para macros para departamentos distribuidos.
+
+* Inserción automática de contenido dinámico durante la regeneración de la plantilla.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

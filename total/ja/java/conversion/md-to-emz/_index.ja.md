@@ -57,7 +57,55 @@ APIを使用すると、必要に応じて出力EMZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）をEMZ（圧縮された拡張メタファイル）に変換すると、プレゼンテーション、ドキュメント、ウェブサイトに埋め込むのに適したコンパクトなベクターグラフィックスが作成されます。EMZは線ベースのイラストを保持し、品質を損なうことなくファイルサイズを削減します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* レポートに埋め込むためのMarkdownダイアグラムの圧縮。
+
+* スライドデッキやプレゼンテーションのためのEMZビジュアルの作成。
+
+* Markdownコンテンツから派生した技術イラストの共有。
+
+* スペース効率の良い形式でベクターダイアグラムをアーカイブ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* ドキュメントパイプライン向けの自動化されたMDからEMZへの変換。
+
+* 圧縮されたEMZファイルへのMarkdownベースのダイアグラムのバッチ処理。
+
+* 内部ナレッジベースのためのEMZビジュアルの定期的な生成。
+
+* 企業プレゼンテーションワークフロー向けのダイアグラムのトリガー付きエクスポート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

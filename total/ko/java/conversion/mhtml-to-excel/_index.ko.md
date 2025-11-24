@@ -47,7 +47,55 @@ MHTML 파일을 EXCEL로 변환하는 동안 출력 EXCEL 파일 형식에 워�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML을 Excel(XLS/XLSX)로 변환하면 웹 테이블을 수식, 서식 및 피벗 테이블 기능이 포함된 완전히 편집 가능한 스프레드시트로 변환됩니다. 기업 보고서, 재무 추적 및 분석에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 온라인 재무 보고서를 분석을 위해 Excel로 변환.
+
+* 웹 카탈로그에서 가져온 판매 및 재고 데이터를 Excel로 가져오기.
+
+* 웹 기반 양식에서 생성된 예산 추적 템플릿.
+
+* Excel 보고를 위해 웹에서 가져온 KPI 대시보드 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 매일 운영을 위해 MHTML 보고서를 Excel로 자동 변환하는 자동화된 파이프라인.
+
+* 실시간 웹 대시보드에서 Excel 파일을 생성하는 트리거.
+
+* 재무 통합을 위한 워크플로 시스템 통합.
+
+* 역사적 추세 분석을 위한 일괄 Excel 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

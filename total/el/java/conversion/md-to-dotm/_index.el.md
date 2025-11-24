@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή από MD (Markdown) σε DOTM (Macro-Enabled Template) συνδυάζει την ελαφριά επεξεργασία κειμένου με τα πρότυπα Word που ενισχύονται από ενσωματωμένα μακροεντολές. Τα πρότυπα DOTM επιτρέπουν στις ομάδες να αυτοματοποιήσουν επαναλαμβανόμενες εργασίες στα έγγραφα και να δημιουργούν αμέσως τυποποιημένα έγγραφα έτοιμα για μακροεντολές.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Δημιουργία προτύπων εκπαίδευσης με μακροενεργοποιημένα πρότυπα από Markdown εγχειρίδια.
+
+* Δημιουργία αυτοματοποιημένων προτύπων τιμολογίων ή φορμών από περιεχόμενο MD.
+
+* Πλαισία εγγράφων επιχειρήσεων με πεδία που εισάγονται προγραμματιστικά.
+
+* Δημιουργία επαναχρησιμοποιήσιμων προτύπων φιλικών προς την αυτοματοποίηση από τεκμηρίωση τεχνολογίας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Αυτόματη δημιουργία προτύπων DOTM για κύκλους μεγάλης κλίμακας αναφορών.
+
+* Ενσωμάτωση με μηχανές ροών εργασίας που ενεργοποιούν τη μετατροπή από MD σε DOTM.
+
+* Δημιουργία προτύπων με μακροεντολές με ένα κλικ για κατανεμημένα τμήματα.
+
+* Αυτοματοποιημένη εισαγωγή δυναμικού περιεχομένου κατά την αναγέννηση του προτύπου.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

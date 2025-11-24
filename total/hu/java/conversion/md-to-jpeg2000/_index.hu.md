@@ -57,7 +57,55 @@ Az API használatával igény szerint elforgathatja a kimeneti JPEG2000-képet i
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) átalakítása JPEG2000 formátumra lehetővé teszi a nagy felbontású, veszteségmentes képek exportálását. Ideális technikai ábrákhoz, nagy diagramokhoz vagy archiválási célokra, ahol a részletek megőrzése kritikus fontosságú.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Markdown diagramok átalakítása nagy felbontású technikai képekbe.
+
+* Bonyolult diagramok archiválása Markdownból minőségvesztés nélkül.
+
+* Nyomtatható dokumentáció készítése részletes vizuális elemekkel.
+
+* Tudományos ábrák létrehozása Markdown jegyzetekből.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Markdown diagramok automatizált átalakítása JPEG2000 formátumba magas minőségű tárolás érdekében.
+
+* Tömeges feldolgozás kutatási vagy mérnöki csapatok számára.
+
+* Integráció veszteségmentes képformátumokat igénylő kiadási folyamatokkal.
+
+* Időzített frissítések Markdownból származó vizuális elemekhez a JPEG2000 archívumokban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

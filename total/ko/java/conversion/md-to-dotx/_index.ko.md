@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 DOTX(매크로 없는 워드 템플릿)로 변환하는 것은 세련되고 일관된 재사용 가능한 레이아웃 템플릿을 생성하는 데 이상적입니다. DOTX는 디자인 요소를 보존하면서 팀이 버전 관리 환경에서 가벼운 Markdown 파일에서 콘텐츠를 업데이트할 수 있도록 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* MD 문서에서 가져온 기업 브랜딩 템플릿.
+
+* Markdown 문서에서 구축된 표준화된 교육 시트.
+
+* MD에서 최초로 작성된 템플릿 기반의 마케팅 브로셔.
+
+* Markdown 소스에서 생성된 구조화된 학술 논문 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 문서 팀을 위한 CI/CD를 통한 자동화된 DOTX 생성.
+
+* 저장소 MD 파일에서 표준화된 워드 템플릿 재생성.
+
+* Markdown 저장소를 일괄 처리하여 사용 준비가 된 DOTX 레이아웃으로 변환.
+
+* 다부문 조직을 위한 균일한 템플릿 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

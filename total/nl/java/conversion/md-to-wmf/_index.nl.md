@@ -57,7 +57,55 @@ Met behulp van de API kunt u ook de uitgevoerde WMF-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van Markdown (MD) naar WMF (Windows Metafile) produceert op vectoren gebaseerde afbeeldingen die compatibel zijn met oudere Windows-toepassingen. WMF-bestanden behouden precisie op basis van lijnen en zijn geschikt voor diagrammen, grafieken en schema's.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke Gebruiksscenario's" %}}
+
+
+
+* Markdown-stroomdiagrammen exporteren voor oudere Windows-toepassingen.
+
+* Technische tabellen omzetten in schaalbare WMF-diagrammen.
+
+* Diagrammen insluiten in oudere kantoorsoftware die WMF ondersteunt.
+
+* Lijngebaseerde illustraties behouden vanuit Markdown-inhoud.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde WMF-generatie voor archiverings- of compatibiliteitsdoeleinden.
+
+* Batchconversie van op Markdown gebaseerde visuals voor legacy-systemen.
+
+* Geplande updates van diagrammen voor documentatieportalen.
+
+* Integratie met pipelines die WMF-afbeeldingen produceren voor bedrijfsrapporten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

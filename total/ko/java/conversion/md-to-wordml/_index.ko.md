@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (마크다운)를 WordprocessingML (WordML)로 변환하면 기업 시스템, CMS 플랫폼 및 문서 엔지니어링 파이프라인에 이상적인 구조화된 XML 기반 워드 문서가 생성됩니다. WordML은 기계 생성 문서에 대한 레이아웃, 태그 및 데이터 바인딩에 대해 정확한 제어를 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Markdown 문서를 XML 기반 WordML 구조로 이관하는 작업.
+
+* 자동화된 문서 시스템을 위해 MD에서 생성된 구조화된 보고서.
+
+* Markdown 텍스트에서 직접 생성된 데이터 바인딩 가능한 기술 파일.
+
+* 기업용 CMS 플랫폼이 MD 콘텐츠를 WordML 호환 템플릿으로 변환하는 작업.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 시스템에서 생성된 Word 파일을 위한 XML 파이프라인 생성.
+
+* API 기반 문서 엔진으로 이어지는 자동화된 Markdown 변환.
+
+* 리포지토리 Markdown에서 WordML 아카이브의 일괄 생성.
+
+* XML 기반 보고서를 위한 유효성 검사 워크플로 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

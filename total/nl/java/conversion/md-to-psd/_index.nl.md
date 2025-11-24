@@ -57,7 +57,49 @@ Met behulp van de API kunt u ook de uitgevoerde PSD-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van Markdown (MD) naar PSD (Photoshop-document) stelt ontwerpers in staat om tekstuele en gestructureerde inhoud in gelaagde, bewerkbare Photoshop-bestanden te importeren. PSD maakt het mogelijk om Markdown-gebaseerde diagrammen te combineren met professionele grafische bewerking.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het omzetten van Markdown-notities naar bewerkbare ontwerpvoorbeelden.
+* Het maken van gelaagde diagrammen voor infographics of marketinginhoud.
+* Het combineren van Markdown-gegenereerde visuals met branding-assets.
+* Het voorbereiden van ontwerpbestanden voor samenwerkende creatieve workflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde Markdown-naar-PSD conversie voor marketingteams.
+* Batch-creatie van gelaagde visuele assets uit Markdown-opslagplaatsen.
+* Integratie met grafische pipelines voor contentproductie.
+* Getriggerde PSD-generatie voor samenwerkende ontwerpprojecten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

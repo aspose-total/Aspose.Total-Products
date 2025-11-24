@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp MHTML sang MD, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MHTML sang MD tập trung vào tạo ra các tệp Markdown (.md) sạch, có thể chỉnh sửa từ các lưu trữ web. Các tệp MD lý tưởng cho các trang web tĩnh, kho lưu trữ GitHub và ứng dụng ghi chú, cung cấp tính di động và đơn giản.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tạo tệp README GitHub từ nội dung web.
+
+* Lưu trữ hướng dẫn kỹ thuật và hướng dẫn như Markdown.
+
+* Chuyển đổi bài viết kiến thức trực tuyến thành ghi chú MD có thể chỉnh sửa.
+
+* Tạo bản tin hoặc tài liệu dựa trên Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt định kỳ các tệp MHTML sang MD cho các dự án tài liệu.
+
+* Tích hợp với các công cụ tạo trang web tĩnh như Hugo hoặc Jekyll.
+
+* Chuyển đổi kích hoạt để lưu trữ tự động nội dung web.
+
+* Tích hợp đường ống cho các hệ thống quản lý nội dung dựa trên Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

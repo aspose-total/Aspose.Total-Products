@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为PCL（打印机命令语言）可生成与激光打印机和喷墨打印机兼容的打印就绪文件。PCL转换适用于在企业打印环境中生成技术文档、报告和工作流自动化。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 在支持PCL的打印机上打印基于Markdown的报告。
+
+* 为批量文档分发生成PCL输出。
+
+* 将Markdown文档转换为打印就绪格式。
+
+* 为办公室或制造业打印工作流准备技术说明书。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将Markdown文件定期批量转换为PCL以进行企业打印。
+
+* 与打印服务器集成，从Markdown文档自动生成PCL。
+
+* 自动化打印流水线将Markdown转换为PCL。
+
+* 基于触发器的高容量PCL打印机文档生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

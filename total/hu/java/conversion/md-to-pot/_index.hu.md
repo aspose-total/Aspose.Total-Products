@@ -59,7 +59,49 @@ presentation.save("output.pot", SaveFormat.Pot);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) átalakítása POT formátumra (PowerPoint sablon) lehetőséget ad a vállalkozásoknak arra, hogy egységes, márkanévvel ellátott diavetítési keretrendszereket hozzanak létre könnyű szöveges dokumentációkból. A POT fájlok biztosítják a tervezés egységességét több prezentáció esetén is.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Vállalati márkanévvel ellátott sablonok, amelyek Markdown stílusú dokumentumokból generálódnak.
+* Értékesítési prezentációs keretrendszerek, amelyeket MD termékleírásokból származtatnak.
+* Emberi erőforrás bevezetési sablonok, amelyek Markdown alapú utasításokból készülnek.
+* Szabványosított POT csomagok több üzletágú szervezetek számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* CI/CD munkafolyamatok, amelyek automatikusan POT sablonokat állítanak elő MD-ből.
+* POT fájlok tömeges generálása franchise-szerte történő felhasználásra.
+* Automatizált sablonfrissítések a Markdown-et igazságforrásként használva.
+* Vállalati rendszerek programozottan generálják a POT csomagokat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

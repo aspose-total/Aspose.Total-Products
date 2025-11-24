@@ -47,7 +47,55 @@ MD 파일을 FODS로 변환하는 동안 출력 FODS 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (마크다운)를 FODS (플랫 오픈문서 스프레드시트)로 변환하면 오픈 소스 오피스 스위트에 이상적인 편집 가능한 XML 기반 스프레드시트 파일이 생성됩니다. FODS는 셀 구조, 수식 및 서식을 완전한 텍스트 기반의 버전 호환성 레이아웃으로 유지합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 마크다운 데이터 세트를 오픈 소스 스프레드시트 형식으로 내보내기.
+
+* LibreOffice 사용자를 위한 구조화된 FODS 파일 생성.
+
+* 개발 팀을 위해 MD 테이블을 평면 XML 스프레드시트로 가져오기.
+
+* 스프레드시트 아카이브를 텍스트로 읽을 수 있는 형태로 유지.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 버전 관리 투명성을 위한 FODS로의 일괄 변환.
+
+* 오픈 소스 ETL 파이프라인 내부에 MD-to-FODS 통합.
+
+* 정부 또는 비정부 기관 문서 작성을 위한 자동화된 스프레드시트 생성.
+
+* 지속적인 문서화 워크플로우에서 트리거 기반 FODS 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

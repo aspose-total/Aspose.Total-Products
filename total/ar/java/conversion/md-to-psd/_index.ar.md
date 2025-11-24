@@ -57,7 +57,55 @@ otherformats: EMZ IMAGE DXF WMZ WMF PSD TGA JPEG2000 SVGZ  DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل Markdown (MD) إلى PSD (مستند Photoshop) يمكن للمصممين من استيراد المحتوى النصي والمنظم إلى ملفات Photoshop متعددة الطبقات وقابلة للتحرير. يسمح PSD بدمج الرسوم التخطيطية القائمة على Markdown مع تحرير الرسوم البيانية المحترف.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل ملاحظات Markdown إلى نماذج تصميم قابلة للتحرير.
+
+* إنشاء رسوم بيانية متعددة الطبقات للإنفوجرافيك أو محتوى التسويق.
+
+* دمج الرسوم البيانية التي تم إنشاؤها بواسطة Markdown مع أصول العلامة التجارية.
+
+* إعداد ملفات التصميم لسير العمل الإبداعي التعاوني.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+
+
+* تحويل Markdown إلى PSD بشكل آلي لفرق التسويق.
+
+* إنشاء دفعة من الأصول البصرية متعددة الطبقات من مستودعات Markdown.
+
+* التكامل مع خطوط الإنتاج الرسومية لإنتاج المحتوى.
+
+* توليد PSD بناءً على المؤثرات لمشاريع التصميم التعاوني.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

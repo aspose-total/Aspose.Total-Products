@@ -47,7 +47,55 @@ Konwertując plik MD na TSV, możesz także dodać znak wodny do wyjściowego fo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie Markdown (MD) na TSV (Tab-Separated Values) umożliwia czyste eksportowanie danych, które są bezpieczne dla separatorów, co jest idealne dla programistów, zespołów BI i potoków uczenia maszynowego. Pliki TSV zachowują odstępy i dobrze sprawdzają się w przypadku zbiorów danych zawierających przecinki.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Eksportowanie zbiorów danych Markdown do TSV w celu przetwarzania w ML.
+
+* Importowanie logów utworzonych w MD do przepływów pracy związanych z danymi.
+
+* Tworzenie ekstraktów danych opartych na TSV do rozwoju interfejsów API.
+
+* Zamiana list kontrolnych Markdown na zbiory danych zorganizowane w formie tabelarycznej.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Przekształcanie tabel MD za pomocą potoków w TSV.
+
+* Partiowe eksporty do systemów przetwarzania danych AI.
+
+* Regularne generowanie plików TSV do testów integracyjnych backendu.
+
+* Automatyczne dostarczanie danych TSV z treści Markdown z repozytorium.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

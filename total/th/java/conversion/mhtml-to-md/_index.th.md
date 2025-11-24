@@ -47,7 +47,51 @@ otherformats: XLTM XLSB XLTX XLSM TXT FODS XLAM EXCEL SXC XLT ODS MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MHTML เป็น MD เน้นการสร้างไฟล์ Markdown (.md) ที่สะอาดและสามารถแก้ไขได้จากเว็บอาร์กีฟ ไฟล์ MD เหมาะสำหรับเว็บไซต์แบบสแตติก ที่เก็บใน GitHub และแอปพลิเคชันสำหรับการจดจำ มีความเคลื่อนย้ายและความง่าย
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้างไฟล์ README ของ GitHub จากเนื้อหาเว็บ
+
+* เก็บเกี่ยวเอกสารเทคนิคและบทแนะนำเป็น Markdown
+
+* แปลงบทความความรู้ออนไลน์เป็นบันทึก MD ที่สามารถแก้ไขได้
+
+* สร้างจดหมายข่าวหรือเอกสารที่ใช้ Markdown
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงไฟล์ MHTML เป็น MD แบบจำนวนมากตามกำหนดเวลาสำหรับโครงการเอกสาร
+
+* การรวมระบบสร้างเว็บไซต์แบบสแตติก เช่น Hugo หรือ Jekyll
+
+* การเริ่มการแปลงเพื่อเก็บเกี่ยวเนื้อหาเว็บโดยอัตโนมัติ
+
+* การรวมท่อส่งข้อมูลสำหรับระบบจัดการเนื้อหาที่ใช้ Markdown
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

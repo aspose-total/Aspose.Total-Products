@@ -57,7 +57,55 @@ API를 사용하여 필요에 따라 출력 APNG 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) 파일을 APNG (Animated PNG)으로 변환하면 텍스트 기반 다이어그램, 차트 및 일러스트레이션을 애니메이션으로 변환할 수 있습니다. APNG는 벡터 품질을 유지하면서 동적 요소를 추가하여 발표 자료, 튜토리얼 및 대화형 문서에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 기술 문서용 애니메이션 프로세스 다이어그램.
+
+* Markdown 기반의 단계별 작업 흐름을 보여주는 대화형 튜토리얼.
+
+* Markdown 차트에서 변환된 동적 마케팅 시각화.
+
+* 온라인 학습 모듈용 애니메이션 교육 콘텐츠.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 자동화된 문서 포털을 위한 일괄 MD-to-APNG 변환.
+
+* Markdown에서 애니메이션 그래픽을 생성하기 위한 ETL 파이프라인 통합.
+
+* 학습 관리 시스템에서 자동 업데이트되는 대화형 시각화.
+
+* Markdown을 애니메이션으로 변환하는 AI 기반 대시보드용 트리거 렌더링.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

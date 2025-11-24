@@ -47,7 +47,51 @@ MHTMLファイルをXLTに変換するときに、出力XLTファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをXLT（Excelテンプレート）に変換することで、Webコンテンツを再利用可能なExcelテンプレートに変換し、レイアウトと構造を保持します。標準化されたレポーティングやワークフローの一貫性を保つのに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* オンラインダッシュボードから派生した標準化された財務テンプレート。
+
+* Webデータから作成された予算編成や請求書のテンプレート。
+
+* 再利用可能なKPIやパフォーマンストラッキングのスプレッドシート。
+
+* チーム全体での一貫したレポーティングのためのExcelテンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* WebコンテンツからXLTテンプレートを自動作成。
+
+* 定期的なレポーティングニーズのためのバッチ変換パイプライン。
+
+* プロジェクト管理ダッシュボードのためのトリガー付きテンプレート生成。
+
+* 一貫したスプレッドシートのフォーマットのためのワークフローツールとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

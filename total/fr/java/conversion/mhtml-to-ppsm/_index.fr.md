@@ -121,7 +121,51 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML en PPSM (Diaporama activé par macro) permet des présentations PowerPoint interactives et automatisées à partir de contenu web. PPSM est parfait pour les diapositives d'entreprise, éducatives ou de formation nécessitant une fonctionnalité macro.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Diaporamas de formation interactifs avec des exercices automatisés.
+
+* Présentations de rapports automatisées intégrant des tableaux de bord web.
+
+* Diaporamas marketing avec une interactivité pilotée par macro.
+
+* Modules éducatifs utilisant du contenu provenant du web et des macros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion planifiée de MHTML en PPSM pour des présentations dynamiques.
+
+* Traitement par lots de contenu web en diaporamas interactifs.
+
+* Intégration avec des plateformes d'automatisation d'entreprise pour des mises à jour en direct.
+
+* Création déclenchée de diapositives activées par macro à partir de tableaux de bord.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

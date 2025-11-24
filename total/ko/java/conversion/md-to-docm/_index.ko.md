@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (마크다운) 파일을 DOCM (워드 매크로 활성 문서)으로 변환하면 팀이 가벼운 텍스트 파일을 대화식 자동화 기능으로 향상시킬 수 있습니다. DOCM 파일은 포함된 매크로를 지원하여 워드 내에서 동적 작업이 필요한 워크플로우 주도 문서, 기업 템플릿 및 자동 생성 보고서에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 개발자 마크다운 노트를 매크로 기능이 있는 SOP로 변환.
+
+* 기업 워크플로우용 자동 작업 활성화 정책 문서.
+
+* Git에 저장된 MD 파일에서 작성된 대화식 제안 템플릿.
+
+* 마크다운 기반 변경 로그에서 생성된 매크로 주도 감사 로그.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 규정 준수 팀을 위한 예약된 MD에서 DOCM으로의 변환.
+
+* ETL 파이프라인을 통해 마크다운에서 매크로 활성 워드 보고서 생성.
+
+* 저장소 콘텐츠에서 DOCM 문서를 재생성하는 CI/CD 워크플로우.
+
+* 엔지니어링 부서를 위한 자동 매크로 트리거 문서화.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

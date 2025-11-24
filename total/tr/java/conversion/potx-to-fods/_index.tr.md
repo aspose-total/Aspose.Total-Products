@@ -61,7 +61,51 @@ POTX dosyasını FODS'ye dönüştürürken, çıktı FODS dosya biçiminize de 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**POTX'yi FODS'ye Dönüştürme**, şablon verilerini maksimum uyumluluk için Flat OpenDocument Elektronik Tablo dosyalarına dönüştürür.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LibreOffice ve OpenOffice'de POTX'den türetilen verileri düzenleme.
+
+* Hükümet standartlarında açık biçimli elektronik tablolar hazırlama.
+
+* Hafif, platformdan bağımsız veri tabloları oluşturma.
+
+* POTX şablon meta verilerini açık biçimlerde arşivleme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* FODS için POTX dosyalarını toplu işleme tabi tutma, çapraz platform takımları için.
+
+* Uyumluluk veya denetimler için zamanlanmış açık biçimli dışa aktarmalar.
+
+* Açık kaynak iş akışı otomasyonuyla entegrasyon.
+
+* Şablonlar güncellendiğinde tetiklemeli FODS dönüşümü.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

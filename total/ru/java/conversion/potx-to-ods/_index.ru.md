@@ -61,7 +61,51 @@ otherformats: XLTM TSV XLAM MARKDOWN XLTX FODS XLS XLT ODS MHTML SXC DIF XLSX EX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **POTX в ODS** создает файлы электронных таблиц OpenDocument, позволяя редактирование, открытые стандартные рабочие процессы, происходящие непосредственно из структур шаблонов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Совместный анализ данных на основе шаблонов в наборах программ с открытым исходным кодом.
+
+* Преобразование макетов POTX для документации или учебных ресурсов.
+
+* Подготовка взаимодействующих электронных таблиц для удаленных команд.
+
+* Переиспользование содержимого шаблона для отслеживания проектов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетный экспорт ODS из целых библиотек шаблонов.
+
+* Запланированное преобразование для циклов открытых стандартов отчетности.
+
+* Интеграция файлов ODS в утвержденные правительством рабочие процессы.
+
+* Автоматическая синхронизация обновлений POTX в электронные таблицы ODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

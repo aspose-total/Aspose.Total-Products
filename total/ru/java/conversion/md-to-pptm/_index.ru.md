@@ -59,7 +59,55 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MD (Markdown) в PPTM (макросовместимый PowerPoint) улучшает возможности презентации путем объединения контента, полученного из MD, с автоматизацией, управляемой макросами. Файлы PPTM поддерживают динамическое управление слайдами, привязку данных и сценарии взаимодействия.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Автоматизированные финансовые презентации, созданные на основе данных из MD.
+
+* Динамические панели управления с использованием макросов, созданных на основе отчетов в формате Markdown.
+
+* Интерактивные обучающие модули, созданные на основе документации в формате MD.
+
+* Презентации с макросами, созданные на основе файлов продуктов в формате Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пайплайны CI/CD, генерирующие презентации PPTM для отчетных команд.
+
+* Автоматическое обновление презентаций с поддержкой макросов на основе репозиториев.
+
+* Пакетное создание презентаций PPTM для корпоративных систем обучения.
+
+* Плановая генерация панелей управления на основе PPTM с использованием вводных данных в формате Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

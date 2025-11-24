@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (마크다운)를 RTF (리치 텍스트 형식)로 변환하면 크로스 플랫폼 호환성과 접근성을 보장합니다. RTF 파일은 거의 모든 운영 체제에서 스타일을 유지하므로 가벼운 배포, 아카이빙 및 오프라인 액세스에 적합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 마크다운 문서를 휴대용 RTF 매뉴얼로 변환하기.
+
+* MD 가이드에서 보다 보편적으로 호환되는 교육 시트 작성.
+
+* 레거시 시스템용으로 마크다운에서 가져온 RTF 기반 도움말 파일.
+
+* 소프트웨어 액세스가 제한된 팀을 위한 오프라인 친화적 텍스트 문서.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 디지털 아카이브를 위한 예약된 MD-to-RTF 생성.
+
+* 콘텐츠 저장소를 RTF 라이브러리로 내보내는 ETL 워크플로우.
+
+* 오프라인 고객 지원 키트를 위한 자동화된 RTF 생성.
+
+* 다중 플랫폼 호환 RTF 파일로의 마크다운 노트 일괄 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

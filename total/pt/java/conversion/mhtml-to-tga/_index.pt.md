@@ -57,7 +57,55 @@ Usando a API, você também pode girar a imagem TGA de saída conforme suas nece
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter MHTML para TGA (Targa) produz imagens raster de alta qualidade comumente usadas em modelagem 3D, jogos ou visualização científica. TGA preserva a profundidade de cor e os canais alfa para uso avançado.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Extrair texturas baseadas na web para modelos 3D ou simulações.
+
+* Arquivar visualizações científicas ou gráficos com transparência.
+
+* Converter ilustrações da web em TGA para pipelines de design.
+
+* Preparar gráficos raster para animação ou ativos de jogos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de TGA a partir de gráficos de arquivo da web.
+
+* Pipelines agendados para exportar texturas de painéis online.
+
+* Geração de TGA acionada para sistemas de gerenciamento de ativos digitais.
+
+* Integração com fluxos de trabalho de animação ou simulação.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

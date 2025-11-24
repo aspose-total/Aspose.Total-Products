@@ -129,7 +129,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ MHTML (เว็บอาร์กีฟ) เป็น MARKDOWN (.md) ช่วยให้เนื้อหาบนเว็บได้รับการแปลงเป็นข้อความที่เบา อ่านง่าย และพกพาได้ที่เหมาะสำหรับเว็บไซต์ บล็อก และเอกสารสำหรับนักพัฒนา  Markdown รักษาโครงสร้างเนื้อหา เช่น หัวข้อ ลิงก์ รายการ และโค้ดสั้นๆ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การแปลงบทแนะนำบนเว็บเป็น Markdown สำหรับเอกสารสำหรับนักพัฒนา
+
+* การเก็บถาวรเนื้อหาบล็อกจากหน้าเว็บในรูปแบบ Markdown
+
+* การสร้างบทความในฐานความรู้จากคู่มือออนไลน์
+
+* การแปลงรายงานบนเว็บเป็นบันทึก Markdown ที่พกพาได้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงกลุ่มหน้า MHTML เป็น Markdown สำหรับเครื่องสร้างเว็บแบบคงที่
+
+* การสร้าง Markdown โดยเรียกใช้งานอัตโนมัติสำหรับการอัปเดตเนื้อหาบนวิกิของนักพัฒนา
+
+* การผสานร่วมกับท่อ CI/CD เพื่อแปลงเนื้อหาบนเว็บเป็นเอกสาร
+
+* การสกัดเอกสารบนเว็บอัตโนมัติสำหรับฐานความรู้ที่ใช้ Markdown
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

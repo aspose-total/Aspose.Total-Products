@@ -47,7 +47,55 @@ Während Sie eine MD-Datei in EXCEL konvertieren, können Sie Ihrem Ausgabe-EXCE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Umwandlung von Markdown (MD) in Excel (XLS/XLSX) verwandelt einfache Textdateien in formatierte, formelbereite Tabellenkalkulationen. Excel-Ausgaben unterstützen Formatierungen, Diagramme, Datenvalidierung und Analysen, was sie für Geschäftsberichte und operative Workflows geeignet macht.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Umwandlung von Markdown-Feature-Listen in sortierbare Excel-Tabellen.
+
+* Erstellung von Finanzberichten aus MD-Dokumentationen.
+
+* Import von Markdown-Tabellen als Excel-Datentracker.
+
+* Vorbereitung von MD-basierten Produktkatalogen im Tabellenformat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Pipeline-gesteuerte Umwandlung von Markdown-Dokumenten in Excel-Arbeitsmappen.
+
+* Stapelweise Generierung von XLSX-Dateien für verschiedene Abteilungen.
+
+* Automatisches Aktualisieren von Excel-Berichten aus versionskontrollierten MD-Repositories.
+
+* Datenengineering-Workflows, die von MD → Excel-Transformationen gespeist werden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

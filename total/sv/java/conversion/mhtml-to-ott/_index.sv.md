@@ -129,7 +129,55 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av MHTML till OTT (OpenDocument-mall) möjliggör skapandet av återanvändbara mallar för öppen källkods kontorspaket, vilket bibehåller webbaserad stil och layoutkonsekvens.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* Företagsomfattande dokumentmallar för LibreOffice.
+
+* Återanvändbara lektionsplanmallar från webbaserat utbildningsmaterial.
+
+* Standardiserade öppen källkods förslags- och kontraktsmallar.
+
+* Arbetsflödesmallar för samarbetsinriktad innehållshantering.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Automatisk generering av OTT-mallar från flera MHTML-sidor.
+
+* Integration med LibreOffice-automatiseringsverktyg för batchdokumentskapande.
+
+* Utlösta malluppdateringar från förändringar i webbaserat innehåll.
+
+* Strömlinjeformad dokumentstandardisering över distribuerade team.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -49,7 +49,55 @@ otherformats: SXC TXT FODS XLTM ODS XLT XLTX XLSM DIF EXCEL XLSB XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MD（Markdown）转换为XLAM（Excel加载项）可以生成包含函数、自动化和可重用逻辑的宏启用扩展文件。这种格式支持需要可编程加载项的高级Excel用户。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从基于Markdown的公式库创建宏加载项。
+
+* 将MD源脚本打包成XLAM供财务团队使用。
+
+* 通过加载项生成自动化重复的分析任务。
+
+* 分发从Markdown注释中衍生的标准化宏包。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从CI/CD流水线中的MD自动构建XLAM。
+
+* 企业版本控制的宏加载项生成。
+
+* 为数据分析部门批量构建XLAM工具。
+
+* 从文档Markdown中获取自动更新的宏加载项。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

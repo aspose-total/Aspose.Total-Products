@@ -57,7 +57,55 @@ Az API használatával igény szerint elforgathatja a kimeneti TGA-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) átalakítása TGA (Targa Image) formátummá magas minőségű rácsgrafikát hoz létre, amelyet általában videógyártásban, játékokban vagy mérnöki diagramokban használnak. A TGA támogatja az alfa csatornákat és tömörítetlen kimenetet biztosít a pontos ábrázoláshoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Markdown alapú diagramok exportálása videó átfedésekre vagy játék eszközökre.
+
+* Nagy felbontású grafikák mérnöki dokumentációhoz.
+
+* Alfa-csatornás képek létrehozása Markdown vizualizációkból.
+
+* Tömörítetlen technikai diagramok generálása bemutató anyagokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* TGA automatizált generálása Markdown tárolókból kreatív folyamatokhoz.
+
+* Diagramok tömeges exportálása videógyártáshoz vagy műszaki dokumentációhoz.
+
+* Időzített átalakítás Markdown diagramokból szimulációs vagy játékprojektekhez.
+
+* Integráció tartalomkezelő rendszerekkel a TGA vizuális elemek automatikus kimeneteléhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

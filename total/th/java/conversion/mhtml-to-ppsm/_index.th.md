@@ -121,7 +121,55 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML เป็น PPSM (Macro-Enabled Slide Show) ทำให้งานนำเสนอ PowerPoint แบบโต้ตอบและอัตโนมัติจากเนื้อหาบนเว็บไซต์  PPSM เหมาะสำหรับงานนำเสนอในองค์กร การศึกษา หรือการฝึกอบรมที่ต้องการฟังก์ชันแมโคร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การนำเสนอสไลด์การฝึกอบรมที่มีการบริหารแบบอัตโนมัติ
+
+* การนำเสนองานนำเสนอการรายงานที่ผสมผสานแดชบอร์ดบนเว็บ
+
+* สไลด์การตลาดที่มีความสามารถในการโต้ตอบด้วยแมโคร
+
+* โมดูลการศึกษาโดยใช้เนื้อหาจากเว็บและแมโคร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง MHTML เป็น PPSM ตามกำหนดเวลาสำหรับงานนำเสนอแบบไดนามิก
+
+* การประมวลผลเป็นชุดของเนื้อหาบนเว็บเป็นสไลด์โชว์ที่สามารถโต้ตอบ
+
+* การรวมเข้ากับแพลตฟอร์มอัตโนมัติขององค์กรสำหรับการอัพเดตสด
+
+* การสร้างสไลด์ที่มีแมโครจากแดชบอร์ดโดยเรียกใช้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

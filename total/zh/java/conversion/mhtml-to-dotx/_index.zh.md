@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML文件转换为无宏的DOTX（Word模板）可实现安全、可重复使用的模板，同时保留网页内容布局。DOTX非常适用于限制宏以确保安全性的协作文档。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 内部文档的团队协作模板。
+
+* 格式一致的基于Web的新闻通讯。
+
+* 课件和教学计划的教育模板。
+
+* 没有宏的标准化合同和提案模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从MHTML存档生成DOTX模板的自动转换流水线。
+
+* 与内容管理系统集成，用于批量模板部署。
+
+* 用于企业通讯的预格式化Web数据模板。
+
+* 定期报告工作流程的触发生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

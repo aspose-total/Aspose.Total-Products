@@ -57,7 +57,55 @@ API также позволяет экспортировать файл MHTML в
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MHTML в ИЗОБРАЖЕНИЕ (JPEG, PNG, BMP и т. д.) извлекает статические визуальные элементы из веб-архивов для использования в презентациях, веб-сайтах или печатных изданиях. Преобразование ИЗОБРАЖЕНИЯ сохраняет макет и качество графики.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Извлечение изображений продуктов из онлайн-каталогов.
+
+* Архивирование веб-диаграмм и инфографики для отчетности.
+
+* Преобразование веб-схем в изображения высокого разрешения для презентаций.
+
+* Создание визуального контента для блогов и публикаций в социальных сетях.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное извлечение изображений из файлов MHTML для маркетинговых кампаний.
+
+* Интеграция в автоматизированные рабочие процессы от веба к печати.
+
+* Триггерное преобразование для динамических панелей управления или отчетов.
+
+* Плановое создание изображений для образовательного или учебного контента.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

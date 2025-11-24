@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengubah file MD (Markdown) menjadi file DOCM (Word Macro-Enabled Documents) memungkinkan tim untuk meningkatkan file teks ringan dengan fitur otomatisasi interaktif. File DOCM mendukung makro yang disematkan, menjadikannya ideal untuk dokumentasi yang didorong oleh alur kerja, templat perusahaan, dan laporan yang dihasilkan secara otomatis yang memerlukan tindakan dinamis dalam Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Utama" %}}
+
+
+
+* Mengonversi catatan Markdown pengembang menjadi SOP yang didukung makro.
+
+* Dokumen kebijakan yang diaktifkan oleh tindakan otomatis untuk alur kerja perusahaan.
+
+* Templat proposal interaktif yang dibangun dari file MD yang disimpan di Git.
+
+* Catatan audit yang didorong oleh makro yang dihasilkan dari catatan perubahan berbasis Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi MD-to-DOCM yang terjadwal untuk tim kepatuhan.
+
+* Pipa ETL yang menghasilkan laporan Word yang didukung makro dari Markdown.
+
+* Alur kerja CI/CD yang menghasilkan kembali dokumen DOCM dari konten repositori.
+
+* Dokumentasi yang dipicu oleh makro secara otomatis untuk departemen teknik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -121,7 +121,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MHTML (web archívum) fájlok átalakítása ODP (OpenDocument Presentation) formátumra lehetővé teszi a webes tartalom teljesen szerkeszthető diákká alakítását a LibreOffice vagy az OpenOffice számára. Az ODP biztosítja a platformfüggetlenséget és megőrzi az eredeti formázást.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Online marketing tartalmak átalakítása ODP diákcsomagokká.
+
+* Webes tantervekből létrehozott oktatási modulok.
+
+* Vállalati prezentációk archiválása eredetileg webportálokon.
+
+* Webes projektfrissítések professzionális diákká alakítása.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Több MHTML jelentés tömeges átalakítása ODP diákokká.
+
+* Ütemezett prezentációs diák generálása belső kommunikációkhoz.
+
+* Prezentációs tartalom automatikus frissítése élő webes vezérlőpultokról.
+
+* Integráció a közösségi nyílt forráskódú prezentációs munkafolyamatokba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -59,7 +59,55 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja MD (Markdown) na PPTM (PowerPoint z obsługą makr) zwiększa możliwości prezentacyjne poprzez połączenie treści źródłowych MD z automatyzacją opartą na makrach. Pliki PPTM obsługują dynamiczną manipulację slajdów, powiązania danych i skryptowane interakcje.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Zautomatyzowane prezentacje finansowe tworzone na podstawie danych źródłowych MD.
+
+* Dynamiczne pulpity nawigacyjne z użyciem makr stworzonych na podstawie raportów Markdown.
+
+* Interaktywne moduły szkoleniowe generowane na podstawie dokumentacji MD.
+
+* Prezentacje z obsługą makr tworzone na podstawie plików Markdown produktów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Potoki CI/CD generujące dekiel PPTM dla zespołów raportujących.
+
+* Automatycznie aktualizowane prezentacje z obsługą makr pobierane z repozytoriów.
+
+* Tworzenie wsadowe dekli PPTM dla systemów szkoleniowych korporacji.
+
+* Zaplanowane generowanie pulpitów nawigacyjnych opartych na PPTM z użyciem danych wejściowych Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

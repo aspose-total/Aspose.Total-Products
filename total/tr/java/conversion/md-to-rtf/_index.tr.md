@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) dosyalarını RTF (Zengin Metin Formatı) formatına dönüştürmek, platformlar arası uyumluluk ve erişilebilirlik sağlar. RTF dosyaları neredeyse tüm işletim sistemlerinde stilini korur, bu da onları hafif dağıtım, arşivleme ve çevrimdışı erişim için mükemmel hale getirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Taşınabilir RTF kılavuzlarına Markdown belgelerini dönüştürme.
+
+* MD rehberlerinden evrensel olarak uyumlu eğitim tabloları oluşturma.
+
+* Markdown'dan eski sistemler için RTF tabanlı yardım dosyaları oluşturma.
+
+* Sınırlı yazılım erişimine sahip ekipler için çevrimdışı dostu metin belgeleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Dijital arşivler için zamanlanmış MD'den RTF oluşturma.
+
+* İçerik depolarını RTF kütüphanelerine aktaran ETL iş akışları.
+
+* Çevrimdışı müşteri destek kitleri için otomatik RTF oluşturma.
+
+* Markdown notlarının çoklu platform uyumlu RTF dosyalarına toplu dönüştürülmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

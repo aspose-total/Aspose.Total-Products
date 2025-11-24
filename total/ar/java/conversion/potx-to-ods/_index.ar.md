@@ -61,7 +61,55 @@ otherformats: XLTM TSV XLAM MARKDOWN XLTX FODS XLS XLT ODS MHTML SXC DIF XLSX EX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل **POTX إلى ODS** ينشئ ملفات جداول بيانات OpenDocument، مما يسمح بسير عمل تقارير قابلة للتحرير وفقًا لهياكل القوالب مباشرة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحليل البيانات الجماعي بناءً على القوالب في مجموعات البرمجيات مفتوحة المصدر.
+
+* تحويل تخطيطات POTX لموارد التوثيق أو التدريب.
+
+* إعداد جداول بيانات قابلة للتبادل لفرق العمل عن بعد.
+
+* إعادة استخدام محتوى القوالب لتتبع المشاريع.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* تصدير ODS بالدُفعات من مكتبات القوالب بأكملها.
+
+* تحويل مجدول لدورات تقارير مفتوحة المعايير.
+
+* دمج ملفات ODS في سير العمل المعتمدة من قبل الحكومة.
+
+* مزامنة تحديثات POTX تلقائيًا في جداول بيانات ODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

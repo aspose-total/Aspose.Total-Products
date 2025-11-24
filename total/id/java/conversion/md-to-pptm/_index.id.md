@@ -59,7 +59,55 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konversi MD (Markdown) ke PPTM (Macro-Enabled PowerPoint) meningkatkan kemampuan presentasi dengan menggabungkan konten yang berasal dari MD dengan otomatisasi yang didukung oleh makro. File PPTM mendukung manipulasi slide dinamis, pengikatan data, dan interaksi yang terstruktur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Presentasi keuangan otomatis yang dibangun dari data sumber MD.
+
+* Dasbor dinamis menggunakan makro yang dibuat dari laporan Markdown.
+
+* Modul pelatihan interaktif yang dihasilkan dari dokumentasi MD.
+
+* Pitch deck yang didukung oleh makro yang berasal dari file Markdown produk.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Pipa CI/CD yang menghasilkan dek PPTM untuk tim pelaporan.
+
+* Presentasi yang didukung oleh makro yang diperbarui secara otomatis yang berasal dari repositori.
+
+* Pembuatan PPTM secara massal untuk sistem pelatihan perusahaan.
+
+* Generasi terjadwal dari dasbor berbasis PPTM menggunakan input Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

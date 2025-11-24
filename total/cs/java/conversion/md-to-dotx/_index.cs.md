@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění formátu Markdown (MD) do formátu DOTX (šablona Wordu bez maker) je ideální pro vytváření elegantních, konzistentních a opakovaně použitelných šablon rozložení. DOTX zachovává designové prvky a umožňuje týmům aktualizovat obsah z lehkých souborů Markdown ve verzích kontrolovaných prostředí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Firemní šablony s firemním designem získané z dokumentace MD.
+
+* Standardizované školicí materiály vytvořené z dokumentace Markdown.
+
+* Marketingové brožury založené na šablonách původně vytvořených v MD.
+
+* Strukturované šablony akademických prací generované z Markdown zdrojů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaná generace DOTX pomocí CI/CD pro týmy dokumentace.
+
+* Obnovení standardizovaných šablon Wordu z repozitářových souborů MD.
+
+* Zpracování dávkových repozitářů Markdown do připravených šablon DOTX.
+
+* Vytváření jednotných šablon pro organizace s více jednotkami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,31 @@ Usando la API, también puede rotar la imagen DICOM de salida según sus necesid
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Convertir archivos MHTML (archivo web) a DICOM (Comunicaciones en Imágenes Digitales y Medicina) permite integrar imágenes médicas, informes o gráficos basados en la web en flujos de trabajo de imágenes clínicas. DICOM garantiza la compatibilidad con PACS y software de imágenes médicas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+- Archivar imágenes de diagnóstico basadas en la web en formato DICOM.
+- Convertir informes médicos en línea para sistemas de registros médicos electrónicos hospitalarios.
+- Compartir imágenes de radiología o ultrasonido extraídas de portales web.
+- Integrar paneles clínicos basados en la web en flujos de trabajo de imágenes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+- Conversión programada por lotes de contenido médico basado en la web a DICOM.
+- Generación activada para integración con PACS y actualizaciones de registros médicos electrónicos.
+- Archivado automatizado para plataformas de telemedicina.
+- Integración en tuberías de diagnóstico asistidas por inteligencia artificial.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

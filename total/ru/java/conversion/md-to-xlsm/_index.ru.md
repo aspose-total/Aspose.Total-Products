@@ -47,7 +47,55 @@ otherformats: SXC XLTX XLAM FODS EXCEL ODS TSV XLSB XLTM XLSM XLT DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование Markdown (MD) в XLSM (Macro-Enabled Excel Workbook) разблокирует возможности автоматизации в рабочих процессах электронных таблиц. XLSM поддерживает макросы VBA, что делает его идеальным для динамической отчетности и автоматизированных расчетов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание дашбордов с макросами на основе входных таблиц Markdown.
+
+* Автоматизация расчетов затрат на основе таблиц продуктов MD.
+
+* Автоматизация рабочих процессов на основе XLSM, созданных из структур Markdown.
+
+* Создание инженерных листов с использованием макросов, созданных из заметок MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое создание XLSM из MD в рамках рабочих процессов CI.
+
+* Плановое создание макро-включенных электронных таблиц для операций.
+
+* Пайплайны трансформации, генерирующие динамические отчеты XLSM.
+
+* Интеграция источников Markdown в автоматизированные финансовые системы электронных таблиц.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

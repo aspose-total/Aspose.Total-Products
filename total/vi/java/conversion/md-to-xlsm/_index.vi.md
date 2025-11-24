@@ -47,7 +47,55 @@ Trong khi chuyển đổi tệp MD sang XLSM, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi Markdown (MD) sang XLSM (Macro-Enabled Excel Workbook) mở khóa khả năng tự động hóa trong quy trình làm việc của bảng tính. XLSM hỗ trợ các macro VBA, làm cho nó lý tưởng cho báo cáo động và tính toán tự động.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tạo bảng điều khiển được kích hoạt bởi macro từ các bảng nhập Markdown.
+
+* Tự động hóa bộ tính chi phí được lấy từ các bảng sản phẩm MD.
+
+* Tự động hóa quy trình làm việc dựa trên XLSM được xây dựng từ cấu trúc Markdown.
+
+* Tạo các bảng kỹ thuật sử dụng các macro được tạo từ ghi chú MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tự động hóa MD → XLSM trong quy trình CI.
+
+* Tạo lịch trình tạo bảng tính được kích hoạt bởi macro cho các hoạt động.
+
+* Các đường ống chuyển đổi tạo ra báo cáo XLSM một cách động.
+
+* Tích hợp nguồn Markdown vào các hệ thống bảng tính tài chính tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

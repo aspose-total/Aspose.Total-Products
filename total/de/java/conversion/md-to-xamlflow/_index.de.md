@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Umwandlung von Markdown (MD) in XAMLFLOW ermöglicht die Erstellung interaktiver, flussbasierter Diagramme und Anwendungslayouts mithilfe von XAML-Markup. Ideal für die Visualisierung von Software, das UI-Prototyping und die Workflow-Dokumentation.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Erstellung interaktiver Flussdiagramme aus Markdown-Dokumentation.
+
+* Prototyping von WPF-Anwendungsworkflows unter Verwendung von Markdown-Inhalten.
+
+* Übersetzung technischer Prozessnotizen in XAMLFlow-Visualisierungen.
+
+* Einbetten von aus Markdown generierten Workflows in interaktive App-Vorschauen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierte MD-zu-XAMLFLOW-Pipelines für Entwicklungsteams.
+
+* Stapelgenerierung interaktiver Flows aus Markdown-Notizen.
+
+* Geplante Aktualisierungen von Workflow-Diagrammen in der Software-Dokumentation.
+
+* Integration mit CI/CD zur Umwandlung von Markdown-Prozessübersichten in XAMLFLOW-Komponenten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

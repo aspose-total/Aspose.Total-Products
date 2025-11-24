@@ -59,7 +59,55 @@ presentation.save("output.pot", SaveFormat.Pot);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van Markdown (MD) naar POT (PowerPoint-sjabloon) biedt bedrijven een manier om consistente, gebrande diastructuren te creëren die afkomstig zijn van lichtgewicht tekstdocumentatie. POT-bestanden zorgen voor een uniform ontwerp over meerdere presentaties.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Bedrijfsbranding sjablonen gegenereerd uit Markdown-stijldocumenten.
+
+* Verkooppresentatiekaders afkomstig van MD-productoverzichten.
+
+* HR-inwerkingsprogramma sjablonen gemaakt op basis van Markdown-instructies.
+
+* Gestandaardiseerde POT-decks voor organisaties met meerdere vestigingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* CI/CD-workflows die POT-sjablonen automatisch produceren vanuit MD.
+
+* Batchgeneratie van POT-bestanden voor gebruik in de hele franchise.
+
+* Geautomatiseerde sjabloonupdates met behulp van Markdown als enige bron van waarheid.
+
+* Enterprise-systemen die POT-decks programmatisch genereren.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

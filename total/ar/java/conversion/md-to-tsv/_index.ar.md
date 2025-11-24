@@ -47,7 +47,55 @@ otherformats: XLT XLSB EXCEL XLAM TXT TSV SXC FODS XLSM DIF ODS XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل Markdown (MD) إلى TSV (قيم مفصولة بواسطة علامة تبويب) يمكن أن يسمح بتصدير بيانات نظيفة وآمنة من الفواصل مثالية للمطورين وفرق BI وأنابيب تعلم الآلة. تحتفظ ملفات TSV بالمسافات وتعمل بشكل جيد للمجموعات البيانات التي تحتوي على فواصل.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير مجموعات البيانات Markdown إلى TSV لتحضير ML.
+
+* استيراد سجلات التي تم إنشاؤها بواسطة MD إلى سير العمل الخاصة بعلم البيانات.
+
+* إنشاء استخراجات بيانات معتمدة على TSV لتطوير واجهات برمجة التطبيقات.
+
+* تحويل قوائم التحقق Markdown إلى مجموعات بيانات منظمة على شكل علامات تبويب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل الجداول MD بشكل مدفوع بواسطة الأنابيب إلى TSV.
+
+* تصدير دفعي لأنظمة استيعاب البيانات الذكاء الاصطناعي.
+
+* إنشاء توليفات TSV العادية لاختبار التكامل الخلفي.
+
+* تغذية TSV الآلية المبنية على محتوى Markdown في المستودع.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

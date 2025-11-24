@@ -57,7 +57,55 @@ Med hjälp av API:t kan du också rotera den utgående SVGZ-bilden enligt dina b
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertering av Markdown (MD) till SVGZ (komprimerad SVG) skapar skalbara vektorbilder i ett komprimerat format. Perfekt för webbgrafik, responsiva diagram och interaktiva visualiseringar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Generera komprimerade vektordiagram från Markdown-innehåll.
+
+* Skapa responsiva webbillustrationer från Markdown-tabeller.
+
+* Producera skalbara ikoner eller infografik.
+
+* Bädda in komprimerade vektorvisualiseringar i online-dokumentation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Batchkonvertering av Markdown till SVGZ för webbpublicering.
+
+* Pipelinetegration för automatiserad diagramgenerering.
+
+* Schemalagda SVGZ-uppdateringar för interaktiva instrumentpaneler.
+
+* Komprimera Markdown-diagram till optimerade format redo för webben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

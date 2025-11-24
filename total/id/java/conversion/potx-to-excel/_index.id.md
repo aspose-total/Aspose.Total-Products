@@ -61,7 +61,51 @@ Saat mengonversi file POTX ke EXCEL, Anda juga dapat menambahkan tanda air ke fo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi **POTX ke EXCEL** mengubah konten template PowerPoint menjadi buku kerja Excel asli, memungkinkan pengguna untuk menggunakan kembali data tata letak, struktur tabel, dan metadata di dalam lembar kerja.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengubah tabel template slide menjadi dokumen Excel yang dapat diedit.
+
+* Menyiapkan model data yang dapat digunakan kembali untuk pelaporan perusahaan.
+
+* Mengekstrak placeholder konten untuk lembar Excel terstruktur.
+
+* Menggunakan elemen template untuk dokumentasi proyek atau tim.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi EXCEL secara batch dari repositori template POTX besar.
+
+* Membuat laporan Excel berulang dari template slide standar.
+
+* Konversi berbasis pemicu saat template diperbarui.
+
+* Memberikan data Excel yang diekstrak ke dashboard BI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

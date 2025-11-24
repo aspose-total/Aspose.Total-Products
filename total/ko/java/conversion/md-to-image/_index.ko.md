@@ -57,7 +57,55 @@ API를 사용하여 필요에 따라 출력 IMAGE 이미지를 회전할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 일반 이미지 형식 (PNG, JPG, BMP)으로 변환하면 테이블, 다이어그램 및 서식이 있는 텍스트를 휴대용 플랫폼에 독립적인 형식으로 시각화할 수 있습니다. 이미지는 프레젠테이션, 웹사이트 또는 문서에 포함될 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 슬라이드나 보고서용으로 Markdown 다이어그램을 정적 이미지로 내보내기.
+
+* 웹사이트나 블로그에 기반한 Markdown 차트 공유.
+
+* 사용자 매뉴얼이나 기술 가이드용 이미지 생성.
+
+* 프레젠테이션이나 PDF용 Markdown 테이블의 시각적 스냅샷.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* Markdown 콘텐츠의 일괄 이미지 변환 일정화.
+
+* ETL 파이프라인이 Markdown 파일에서 시각적 자산 생성.
+
+* 문서 포털용 다이어그램의 자동 생성.
+
+* 대시보드나 보고 시스템용 트리거 기반 이미지 내보내기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ A MD-fájl XLT-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLT-fá
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MD (Markdown) to XLT (Excel Template) konverzió lehetővé teszi a csapatok számára, hogy újrafelhasználható Excel sablonokat hozzanak létre egységes formázással és elrendezéssel. Az XLT fájlok segítenek az szervezeteknek a dokumentum létrehozásának szabványosításában, miközben forrástartalmat tartanak Markdown formátumban.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Strukturált jelentési sablonok létrehozása MD irányelvekből.
+
+* Vállalati arculattal rendelkező táblázatsablonok készítése.
+
+* Markdown SOP-ok átalakítása használatra kész Excel sablonokká.
+
+* Sablon alapú adatbeviteli lapok forrása MD leírásokból.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* XLT sablonok automatikus újragenerálása verziókezelt MD-ből.
+
+* Tömeges sablon létrehozás vállalati osztályok számára.
+
+* ETL-vezérelt sablonépítés strukturált jelentési igényekhez.
+
+* Franchise vagy üzletág alapú sablonterjesztési munkafolyamatok.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

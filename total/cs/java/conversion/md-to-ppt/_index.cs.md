@@ -59,7 +59,55 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění Markdown (MD) na PPT (Legacy PowerPoint Format) podporuje kompatibilitu s staršími prostředími Microsoft Office a zároveň zachovává strukturu snímků a formátování. PPT je ideální pro instituce používající klasické verze PowerPointu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření snímků PPT pro staré pracovní stanice z MD skriptů.
+
+* Akademické instituce používající Markdown poznámky k vytváření starších souborů PPT.
+
+* Firemní archivy migrující obsah MD do klasického formátu PPT.
+
+* Vytváření snímků zaměřených na kompatibilitu pro zastaralá kancelářská nastavení.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované generování PPT pro podporu starých systémů.
+
+* Hromadná konverze archivů Markdown do PPT.
+
+* ETL procesy vytvářející klasické soubory PowerPoint.
+
+* Generování PPT pro vládní nebo průmyslové organizace stále používající starší balíky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

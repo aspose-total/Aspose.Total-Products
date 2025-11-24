@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات التنسيق البسيط (MD) إلى MHTML (Web Archive) يسمح بتعبئة المستند بأكمله، بما في ذلك التنسيق، الصور، والروابط، في ملف ويب واحد جاهز للنشر على الويب. ملفات MHTML مثالية لمشاركة محتوى التنسيق البسيط عبر المتصفحات، وأرشفة الوثائق، وتوزيع صفحات الويب المحمولة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* أرشفة وثائق التنسيق البسيط كصفحات ويب مستقلة.
+
+* إنشاء تقارير محمولة للقراءة دون اتصال في أي متصفح.
+
+* توزيع الدلائل الخاصة بالمستخدمين أو الدلائل التقنية كأرشيفات ويب ملف واحد.
+
+* الحفاظ على وثائق مشاريع التنسيق البسيط مع وسائط مضمنة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل تلقائي ليلي لمستودعات التنسيق البسيط إلى MHTML للتوزيع على الويب.
+
+* أرشفة دفعية لوثائق قاعدة المعرفة الداخلية بتنسيق MHTML.
+
+* التكامل مع أنابيب إدارة المحتوى لإنشاء ملفات MHTML من التنسيق البسيط.
+
+* تحويل مشغل في سير العمل CI/CD لإنشاء وثائق جاهزة للمتصفح.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

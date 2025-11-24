@@ -129,7 +129,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van MHTML-bestanden naar DOTX (Word-sjabloon zonder macro's) maakt veilige, herbruikbare sjablonen mogelijk terwijl de lay-out van webinhoud behouden blijft. DOTX is ideaal voor samenwerkingsdocumentatie waar macro's beperkt zijn vanwege beveiligingsredenen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Team-samenwerkingssjablonen voor interne documentatie.
+
+* Op web gebaseerde nieuwsbrieven opgemaakt in een consistente stijl.
+
+* Educatieve sjablonen voor cursusmateriaal en lesplanning.
+
+* Gestandaardiseerde contracten en voorstelsjablonen zonder macro's.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde conversiepijplijnen die DOTX-sjablonen genereren vanuit MHTML-archieven.
+
+* Integratie met contentmanagementsystemen voor grootschalige implementatie van sjablonen.
+
+* Vooraf opgemaakte webgegevenssjablonen voor bedrijfscommunicatie.
+
+* Getriggerde generatie voor periodieke rapportageworkflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

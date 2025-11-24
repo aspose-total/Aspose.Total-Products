@@ -59,7 +59,55 @@ presentation.save("output.swf", SaveFormat.Swf);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění formátu Markdown (MD) na SWF (Shockwave Flash) umožňuje přeměnu textu, diagramů a grafů na interaktivní animace ve formátu Flash. SWF je ideální pro starší vzdělávací obsah, tutoriály a animované webové prezentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Přeměna tutoriálů v Markdownu na interaktivní obsah ve formátu SWF.
+
+* Animované diagramy pro e-learningové moduly generované z Markdownu.
+
+* Starší prezentace ve formátu Flash pro webové distribuce.
+
+* Vkládání interaktivních vizuálů z Markdownu do vzdělávacích platforem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaný proces převodu z Markdownu do SWF pro online vzdělávací materiály.
+
+* Hromadný převod obsahu MD do interaktivních souborů ve formátu Flash.
+
+* Plánované aktualizace výukových modulů ve formátu SWF odvozené z Markdownu.
+
+* Spouštěná generace vizuálů ve formátu SWF pro webové platformy s dědictvím.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

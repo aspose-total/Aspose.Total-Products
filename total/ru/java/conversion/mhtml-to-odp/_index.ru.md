@@ -121,7 +121,55 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов MHTML (веб-архив) в ODP (презентация OpenDocument) позволяет преобразовать веб-контент в полностью редактируемые слайды для LibreOffice или OpenOffice. ODP обеспечивает совместимость между платформами и сохраняет исходное форматирование.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование контента онлайн-маркетинга в наборы слайдов ODP.
+
+* Образовательные модули, созданные на основе учебных планов, размещенных в Интернете.
+
+* Архивирование презентаций компании, изначально размещенных на веб-порталах.
+
+* Преобразование веб-обновлений проекта в профессиональные слайды.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование нескольких отчетов MHTML в наборы слайдов ODP.
+
+* Плановое создание слайдов презентации для внутренних коммуникаций.
+
+* Автоматическое обновление контента презентации из живых веб-панелей управления.
+
+* Интеграция в совместные рабочие процессы с открытым исходным кодом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

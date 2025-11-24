@@ -78,7 +78,55 @@ otherformats: TSV SXC XLTX FODS DIF XLSB ODS XLSM XLTM EXCEL TXT XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי MD (Markdown) ל־CSV מאפשרת לצוותים להפוך טקסט מובנה, טבלאות ורשימות לנתוני גיליון נתונים שגיאות. קבצי CSV הם אידיאליים לזרימי עבודה של ניתוח, יבואי מסד נתונים ותמיכה קלה בתהליכי תמיכה חוצת פלטפורמות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייצוא טבלאות Markdown לקבצי CSV לצורכי ניתוח.
+
+* יבוא גרסאות מבוססות MD של גיליונות מחירים לכלים לניהול חשבונות.
+
+* המרת יומנים של מפתחים ב־Markdown לקבצי CSV שניתנים למיון.
+
+* העברת טבלאות תיעוד למערכות CRM ו־ERP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* עבודות ETL שממירות Markdown של המאגר ל־CSV בכל לילה.
+
+* המרה אוטומטית ללוחות מחוונים שדורשים קלטי CSV.
+
+* ייצוא צפיפיות למערכות עיבוד של למידת מכונה.
+
+* מפעילי זרימת עבודה שיוצרים CSV מדוחות מבוססות Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

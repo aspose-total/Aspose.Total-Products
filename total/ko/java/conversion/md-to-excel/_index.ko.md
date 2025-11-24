@@ -47,7 +47,55 @@ MD 파일을 EXCEL로 변환하는 동안 출력 EXCEL 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 Excel (XLS/XLSX)로 변환하면 간단한 텍스트 파일이 서식이 있는 스프레드시트로 변환됩니다. Excel 출력물은 서식, 차트, 데이터 유효성 검사 및 분석을 지원하여 비즈니스 보고서 및 운영 워크플로에 적합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Markdown 기능 목록을 정렬 가능한 Excel 시트로 변환하기.
+
+* MD 문서에서 소스로 하는 재무 보고서 작성.
+
+* Markdown 테이블을 Excel 데이터 추적기로 가져오기.
+
+* 스프레드시트 형식의 MD 기반 제품 카탈로그 준비.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* Markdown 문서를 Excel 워크북으로 변환하는 파이프라인 주도형 변환.
+
+* 여러 부서를 위한 XLSX 파일 일괄 생성.
+
+* 버전 관리된 MD 저장소에서 자동으로 업데이트되는 Excel 보고서.
+
+* MD → Excel 변환에서 데이터 엔지니어링 워크플로 피드.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

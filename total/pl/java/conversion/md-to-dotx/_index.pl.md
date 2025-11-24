@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie Markdown (MD) na DOTX (szablon Worda bez makr) jest idealne do tworzenia eleganckich, spójnych i wielokrotnego użytku szablonów układu. DOTX zachowuje elementy projektowe, umożliwiając zespołom aktualizację treści z lekkich plików Markdown w środowiskach kontrolowanych wersjami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Szablony identyfikacji wizualnej korporacji pozyskiwane z dokumentacji MD.
+
+* Standaryzowane arkusze szkoleniowe tworzone na podstawie dokumentacji Markdown.
+
+* Broszury marketingowe oparte na szablonach pierwotnie opracowanych w MD.
+
+* Strukturalne szablony prac akademickich generowane z źródeł Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna generacja DOTX za pomocą CI/CD dla zespołów dokumentacyjnych.
+
+* Ponowne generowanie standaryzowanych szablonów Worda z plików MD w repozytorium.
+
+* Przetwarzanie wsadowe repozytoriów Markdown w gotowe do użycia układy DOTX.
+
+* Tworzenie jednolitych szablonów dla organizacji wielooddziałowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

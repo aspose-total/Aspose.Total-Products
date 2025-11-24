@@ -47,7 +47,51 @@ Lors de la conversion du fichier MHTML en TSV, vous pouvez également ajouter un
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de MHTML en TSV (valeurs séparées par des tabulations) extrait des données structurées des pages web dans un format convivial pour les délimiteurs en texte brut. Le TSV est parfait pour la science des données, les pipelines ETL et les imports de bases de données.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Extraction de produits de commerce électronique et de tableaux de tarification pour l'analyse.
+
+* Résultats d'enquêtes exportés à partir de formulaires web en TSV.
+
+* Archivage de contenus web tabulaires pour les modèles d'apprentissage automatique.
+
+* Partage de jeux de données structurées avec les développeurs et les ingénieurs de données.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de MHTML en TSV pour les pipelines IA/ML.
+
+* Intégration dans des workflows ETL automatisés pour l'analyse.
+
+* Génération planifiée de TSV pour des rapports web périodiques.
+
+* Exportation de TSV déclenchée pour des tableaux de bord en temps réel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

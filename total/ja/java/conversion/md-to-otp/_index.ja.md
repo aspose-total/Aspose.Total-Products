@@ -59,7 +59,55 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）からOTP（OpenDocument Presentation Template）への変換は、編集可能なコンテンツを保持しながら、一貫したブランディングに従う再利用可能なスライドテンプレートを構築するために組織を支援します。OTPファイルは軽量で柔軟性があり、オープンソース環境に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* Markdownコンテンツからブランド付きOTPテンプレートの作成。
+
+* MDレッスンのアウトラインからソースされた再利用可能な講義テンプレートの構築。
+
+* NGOや学術機関向けの一貫したスライド構造。
+
+* Markdownドキュメントを均一なプレゼンテーションテンプレートに変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* バージョン管理されたMDからの自動化されたOTPテンプレート生成。
+
+* オープンソースプレゼンテーションテンプレートの大量生産。
+
+* Markdownリポジトリから定期的にOTPファイルを更新。
+
+* 分散型組織向けのテンプレート中心のワークフロー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

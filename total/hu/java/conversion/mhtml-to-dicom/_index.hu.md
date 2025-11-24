@@ -57,7 +57,55 @@ Az API használatával igény szerint elforgathatja a kimeneti DICOM-képet is. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MHTML (webarchívum) fájlok átalakítása DICOM formátumra (Digitális Képalkotás és Kommunikáció az Orvostudományban) lehetővé teszi, hogy a webes alapú orvosi képek, jelentések vagy táblázatok integrálhatók legyenek a klinikai képalkotási folyamatokba. A DICOM kompatibilitást biztosít a PACS és az orvosi képalkotó szoftverekkel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Webes diagnosztikai képek archiválása DICOM formátumba.
+
+* Online orvosi jelentések átalakítása kórházi EMR rendszerek számára.
+
+* Radiológiai vagy ultrahangképek megosztása webes portálokról.
+
+* Klinikai webes irányítópultok integrálása a képalkotási folyamatokba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Webes orvosi tartalmak ütemezett tömeges átalakítása DICOM formátumba.
+
+* Kiváltott generálás a PACS integrációhoz és az EMR frissítésekhez.
+
+* Automatizált archiválás a távközlési orvoslási platformok számára.
+
+* Integráció az AI-asszisztált diagnosztikai folyamatokba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

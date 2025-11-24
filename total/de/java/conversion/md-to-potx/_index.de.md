@@ -59,7 +59,55 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Umwandlung von Markdown (MD) in POTX (PowerPoint-Vorlage ohne Makros) ermöglicht die Erstellung moderner, sauberer Präsentationsvorlagen auf der Grundlage leichter Textdateien. POTX gewährleistet Präsentationskonsistenz ohne Makroabhängigkeiten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Erstellung sauberer und gebrandeter POTX-Vorlagen aus MD-Übersichten.
+
+* Standardisierung von Unternehmensfolien in verschiedenen Abteilungen.
+
+* Erstellung von Marketing-Präsentationen aus Markdown-Entwürfen.
+
+* Design von akademischen Präsentationsvorlagen über MD-Inhalte.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierte POTX-Produktion in Dokumentationspipelines.
+
+* Regeneration von Vorlagen unter Verwendung von Markdown als Quellinhalt.
+
+* Stapelverteilung von POTX-Dateien für Unternehmens teams.
+
+* Geplante MD-zu-POTX-Aktualisierungen in Branding-Workflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

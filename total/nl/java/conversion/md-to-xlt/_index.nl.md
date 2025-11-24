@@ -47,7 +47,55 @@ Tijdens het converteren van het MD-bestand naar XLT, kunt u ook een watermerk to
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) naar XLT (Excel Template) conversie stelt teams in staat om herbruikbare Excel-sjablonen te genereren met consistente opmaak en lay-out. XLT-bestanden helpen organisaties bij het standaardiseren van het maken van documenten terwijl de brondocumentatie in Markdown wordt behouden.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Opbouwen van gestructureerde rapportagesjablonen op basis van MD-richtlijnen.
+
+* Produceren van bedrijfslogo-spreadsheetsjablonen.
+
+* Het omzetten van Markdown SOP's in kant-en-klare Excel-sjablonen.
+
+* Sjabloon-gebaseerde gegevensinvoervellen afkomstig van MD-playbooks.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde regeneratie van XLT-sjablonen vanuit MD met versiebeheer.
+
+* Batch-sjablooncreatie voor bedrijfsafdelingen.
+
+* ETL-gestuurde sjabloonopbouw voor gestructureerde rapportagebehoeften.
+
+* Distributieworkflows voor sjablonen op basis van franchise of vestiging.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

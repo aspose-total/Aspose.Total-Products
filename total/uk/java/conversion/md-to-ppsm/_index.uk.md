@@ -73,7 +73,55 @@ otherformats: PPSX POWERPOINT PPT PPTM POTX PPS POTM XAML OTP SWF ODP POT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення MD (Markdown) в PPSM (слайд-шоу PowerPoint з підтримкою макросів) поєднує функціональність автоматичного запуску слайд-шоу з автоматизацією. PPSM підтримує макроси VBA для вчасного вмісту, динамічних оновлень та інтерактивних вражень.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Автоматизовані кіоски з макро-керованими слайдами PPSM.
+
+* Інтерактивні навчальні цикли, створені на основі вмісту MD.
+
+* Автоматично витаймовані виставки продуктів, взяті з Markdown коротких описів.
+
+* Динамічні роздрібні або подійні дисплеї з використанням макро-дозволених слайд-шоу.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Виробництво PPSM, що працює за рахунок робочих процесів, спровокованих змінами в Markdown.
+
+* Генерація макро-дозволених слайд-шоу для корпоративних систем дисплеїв.
+
+* Автоматичні оновлення вмісту кіосків з репозиторіїв MD.
+
+* Пакетне створення PPSM для роздрібних або експозиційних мереж.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,55 @@ Při převodu souboru MD na ODS můžete také přidat vodoznak do výstupního 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod formátu Markdown (MD) do formátu ODS (OpenDocument Spreadsheet) poskytuje robustní, otevřenou alternativu k programu Excel. ODS je ideální pro týmy používající LibreOffice nebo OpenOffice a podporuje vzorce, grafy a strukturované formátování tabulek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Importování seznamů Markdown do ovládacích panelů ODS.
+
+* Vytváření analýzovacích listů pro kancelářská prostředí s otevřeným zdrojovým kódem.
+
+* Vytváření sledovačů rozpočtu ve formátu ODS z obsahu MD.
+
+* Převod technické dokumentace MD na data připravená pro tabulku.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná generace ODS pro týmy pracující s otevřenými daty.
+
+* Přenášení dat mezi platformami, které zpracovávají Markdown do tabulek ODS.
+
+* Hromadná transformace tabulek dokumentace do formátu ODS.
+
+* Automatické vytváření ODS pro distribuované týmy potřebující upravitelné tabulky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

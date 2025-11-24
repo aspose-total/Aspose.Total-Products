@@ -49,8 +49,56 @@ otherformats: ODS XLT XLTM XLSM TXT FODS XLTX XLSB DIF XLAM TSV EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）文件转换为TXT（纯文本）会生成一个干净、轻量级的版本，去除了格式和标记。TXT文件具有高度兼容性，非常适合文本处理、脚本编写以及与不支持Markdown格式的应用程序集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将Markdown文档导出为纯文本邮件进行分发。
+
+* 为基于文本的分析或机器学习工作流程生成原始内容。
+
+* 生成轻量级、便携的笔记和文档副本。
+
+* 在不支持丰富格式的环境中共享Markdown内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定期批量将Markdown存储库转换为TXT进行备份和归档。
+
+* ETL管道将Markdown文档转换为TXT，以供脚本或自动化工具处理。
+
+* 从基于Markdown的项目笔记自动生成纯文本日志。
+
+* 与内容管道集成，将Markdown导出为TXT以供下游系统使用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 {{< /blocks/products/pf/feature-page-wrap >}}

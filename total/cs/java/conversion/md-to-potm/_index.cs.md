@@ -59,7 +59,55 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod z MD (Markdown) na POTM (šablona PowerPoint s povolenými makry) umožňuje vytváření prezentčních šablon obohacených o automatizaci. POTM podporuje VBA makra pro automatické formátování, generování snímků a vkládání dynamického obsahu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Makrované šablony snímků vytvořené z Markdownových rámců.
+
+* Automatizované sady prezentací získané z dokumentace MD.
+
+* Vytváření interaktivní šablony pro školení s použitím obsahu MD.
+
+* Dynamické obchodní šablony přednačtené s VBA logikou.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované vytváření šablony POTM spuštěné aktualizacemi MD.
+
+* Hromadná generace šablon PowerPoint s povolenými makry.
+
+* Průběžné sestavování pracovních postupů CI/CD pro vytváření rámců POTM pro týmy pro tvorbu zpráv.
+
+* Průběhově řízená regenerace POTM pro firemní branding.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

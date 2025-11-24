@@ -57,7 +57,55 @@ Pomocí API můžete také otočit výstupní obrázek DXF podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod Markdown (MD) na DXF (Drawing Exchange Format) transformuje strukturované diagramy a organizační schémata do vektorových souborů kompatibilních s CAD. DXF je ideální pro pracovní postupy v oblasti inženýrství, architektury a výroby, které vyžadují přesné ilustrace založené na čárách.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Exportování diagramů v Markdownu do CAD-připravených výkresů ve formátu DXF.
+
+* Převádění organizačních schémat a schémat pro inženýrskou dokumentaci.
+
+* Příprava architektonických nebo mechanických ilustrací z poznámek v Markdownu.
+
+* Sdílení technických diagramů s spolupracovníky pomocí softwaru CAD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod MD na DXF pro inženýrské a designové týmy.
+
+* Integrace s automatizovanými návrhovými toky pro rychlé prototypování.
+
+* Plánované exporty DXF pro systémy technické dokumentace.
+
+* Spuštění generování ilustrací připravených pro CAD z repozitářů Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

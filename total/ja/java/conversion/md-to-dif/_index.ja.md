@@ -47,7 +47,55 @@ MDファイルをDIFに変換するときに、出力DIFファイル形式に透
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（マークダウン）からDIF（データ交換形式）への変換は、構造化された行ベースのテキストデータに依存するレガシーシステムやスプレッドシートワークフローに最適です。DIFファイルは、古い金融、科学、エンジニアリングソフトウェアとの互換性をサポートしています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* マークダウンレコードをクラシックな会計ソフトウェアにインポートする。
+
+* 古い統計アプリケーション用にMDテーブルをDIFに変換する。
+
+* マークダウンドキュメントからのレガシーデータベース移行。
+
+* 伝統的なスプレッドシートを使用するチームとの構造化されたDIFファイルの共有。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* アーカイブシステム用の自動化されたMarkdownからDIFへのパイプライン。
+
+* DIFデータを企業向けレポーティングツールに供給するバッチワークフロー。
+
+* MD在庫シートをDIF形式にスケジュール変換。
+
+* DIF入力を使用したレガシーソフトウェアエコシステム用のETLブリッジ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

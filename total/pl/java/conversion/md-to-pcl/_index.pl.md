@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja Markdown (MD) na PCL (Printer Command Language) generuje pliki gotowe do druku kompatybilne z drukarkami laserowymi i atramentowymi. Konwersja PCL jest odpowiednia do tworzenia dokumentów technicznych, raportów oraz automatyzacji przepływu pracy w środowiskach drukowania przedsiębiorstw.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Zastosowania kluczowe" %}}
+
+
+
+* Drukowanie raportów opartych na Markdown na drukarkach obsługujących PCL.
+
+* Generowanie wyników PCL do rozpowszechniania dokumentów wsadowych.
+
+* Konwersja dokumentacji Markdown na formaty gotowe do druku.
+
+* Przygotowywanie instrukcji technicznych dla biurowych lub produkcyjnych przepływów drukowania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana wsadowa konwersja plików Markdown na PCL do drukowania przedsiębiorstw.
+
+* Integracja z serwerami druku w celu automatycznego generowania PCL z dokumentacji Markdown.
+
+* Zautomatyzowane potoki drukowania konwertujące Markdown na PCL.
+
+* Produkcja dokumentów oparta na wyzwalaczach dla drukarek PCL o dużej pojemności.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

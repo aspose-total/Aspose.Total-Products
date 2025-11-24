@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter arquivos Markdown (MD) para MHTML (Arquivo da Web) permite que todo o documento, incluindo formatação, imagens e links, seja empacotado em um único arquivo pronto para a web. Arquivos MHTML são ideais para compartilhar conteúdo Markdown em navegadores, arquivar documentação e distribuir páginas web portáteis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Arquivar documentação Markdown como páginas web autocontidas.
+
+* Criar relatórios portáteis para leitura offline em qualquer navegador.
+
+* Distribuir manuais do usuário ou guias técnicos como arquivos web de único arquivo.
+
+* Preservar documentação de projetos baseada em Markdown com mídia incorporada.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão automatizada noturna de repositórios Markdown para MHTML para distribuição na web.
+
+* Arquivamento em lote de documentos de base de conhecimento interna no formato MHTML.
+
+* Integração com pipelines de gerenciamento de conteúdo para gerar arquivos MHTML a partir de Markdown.
+
+* Conversão acionada em fluxos de trabalho CI/CD para gerar documentação pronta para navegador.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

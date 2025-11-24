@@ -57,7 +57,55 @@ otherformats: PSD JPEG2000 WMZ SVGZ IMAGE EMZ TGA  WMF DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل Markdown (MD) إلى WMF (Windows Metafile) ينتج رسومات مستندة إلى الناقل متوافقة مع تطبيقات Windows القديمة. تحتفظ ملفات WMF بالدقة المعتمدة على الخطوط وهي مناسبة للرسوم التخطيطية والرسوم البيانية والمخططات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير رسوم بيانية Markdown لتطبيقات Windows القديمة.
+
+* تحويل الجداول التقنية إلى مخططات WMF قابلة للتوسيع.
+
+* تضمين الرسوم التخطيطية في برامج المكتب القديمة التي تدعم WMF.
+
+* الحفاظ على الرسوم التوضيحية المعتمدة على الخطوط من محتوى Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* إنشاء WMF تلقائيًا لأغراض الأرشفة أو التوافق.
+
+* تحويل دفعي للرسوم البيانية القائمة على Markdown للأنظمة القديمة.
+
+* تحديثات مجدولة للمخططات لبوابات الوثائق.
+
+* التكامل مع الأنابيب التي تنتج رسومات WMF لتقارير المؤسسات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -130,7 +130,55 @@ Tout système d’exploitation capable d’exécuter Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de MHTML en OTT (modèle OpenDocument) permet de créer des modèles réutilisables pour les suites bureautiques open source, en maintenant la mise en forme et la cohérence de la mise en page basées sur le web.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Modèles de documents pour toute l'entreprise pour LibreOffice.
+
+* Modèles de plans de cours réutilisables à partir de contenus éducatifs basés sur le web.
+
+* Modèles normalisés de propositions et de contrats open source.
+
+* Modèles de flux de travail pour la gestion collaborative de contenu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Génération automatisée de modèles OTT à partir de plusieurs pages MHTML.
+
+* Intégration avec les outils d'automatisation de LibreOffice pour la création de documents en lot.
+
+* Mises à jour de modèles déclenchées par des modifications de contenu basé sur le web.
+
+* Normalisation simplifiée des documents à travers des équipes distribuées.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

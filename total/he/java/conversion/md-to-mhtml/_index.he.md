@@ -72,7 +72,55 @@ otherformats: RTF XAMLFLOW DOCM ODT PCL DOTM DOT WORDML PS DOTX FLATOPC MARKDOWN
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי Markdown (MD) ל-MHTML (ארכיון רשת) מאפשרת אריזת המסמך במלואו, כולל עיצוב, תמונות וקישורים, לקובץ אחד מוכן לרשת. קבצי MHTML הם אידיאליים לשיתוף תוכן Markdown בין דפדפנים, לארכיבת תיעוד, ולהפצת עמודי רשת ניידים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ארכיבת תיעוד Markdown כעמודי רשת עצמאיים.
+
+* יצירת דוחות ניידים לקריאה לא מקוונת בכל דפדפן.
+
+* הפצת מדריכי משתמש או מדריכים טכניים כארכיונים רשת בקובץ אחד.
+
+* שמירת תיעוד פרויקטים בבסיס Markdown עם מדיה מוטמעת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה אוטומטית יומית של מאגרי Markdown ל-MHTML להפצה ברשת.
+
+* ארכיבת קבצי בסיס ידע פנימי בפורמט MHTML בצורה צפה.
+
+* שילוב עם צינורות ניהול תוכן ליצירת קבצי MHTML מתוך Markdown.
+
+* המרת מגבלות בתהליכי CI/CD ליצירת תיעוד מוכן לדפדפן.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

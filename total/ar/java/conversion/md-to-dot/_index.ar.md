@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل تنسيق MD (Markdown) إلى تنسيق DOT (قالب Word) يساعد الشركات على توحيد الوثائق ذات العلامات التجارية بينما يتم الاحتفاظ بالمحتوى الذي يتم التحكم فيه بالإصدارات في Markdown. تحافظ قوالب DOT على توحيد التنسيق وتضمن أن يتمكن الفرق من إنشاء ملفات Word جديدة على الفور من خلال هيكل نظيف وقابل لإعادة الاستخدام.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء رؤوس رسائل متسقة من القوالب القائمة على Markdown.
+
+* نشر أوراق تسويق معتمدة من العلامة التجارية من مسودات MD.
+
+* فرق الموارد البشرية توليد قوالب وثائق الانضمام من أدلة MD.
+
+* إدارات القانون توحيد هياكل العقود المستمدة من Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* إنشاء قوالب DOT تلقائيًا في سير العمل لنشر نظم إدارة المحتوى.
+
+* تحويل مركزي لفرق موزعة تقوم بتحديث أصول العلامة التجارية.
+
+* إعادة إنشاء مجدولة للقوالب الرئيسية المخزنة في Git.
+
+* إنشاء DOT تلقائيًا لاحتياجات الوثائق للفرنشايز أو الفروع المتعددة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

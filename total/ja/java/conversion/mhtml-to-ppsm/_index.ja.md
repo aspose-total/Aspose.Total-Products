@@ -121,7 +121,25 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+MHTMLからPPSM（マクロ有効スライドショー）に変換すると、Webコンテンツからのインタラクティブで自動化されたPowerPointプレゼンテーションが可能になります。PPSMは、マクロ機能が必要な企業、教育、またはトレーニング用スライドに最適です。
+
+## Key Use Cases
+
+- 自動化された演習を備えたインタラクティブなトレーニングスライドショー。
+- Webダッシュボードを統合した自動報告プレゼンテーション。
+- マクロ駆動のインタラクティブなマーケティングスライドデッキ。
+- Webソースのコンテンツとマクロを使用した教育モジュール。
+
+## Automation Scenarios
+
+- 動的プレゼンテーションのためのスケジュールされたMHTMLからPPSMへの変換。
+- Webコンテンツのバッチ処理を介したインタラクティブなスライドショー。
+- ライブアップデートのための企業用自動化プラットフォームとの統合。
+- ダッシュボードからのマクロ有効スライドのトリガー作成。
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

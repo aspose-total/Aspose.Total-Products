@@ -47,7 +47,55 @@ När du konverterar MD-fil till FODS, kan du också lägga till vattenstämpel t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) till FODS (Flat OpenDocument Spreadsheet)-konvertering producerar redigerbara XML-baserade kalkylbladfiler som är idealiska för öppen källkods kontorspaket. FODS behåller cellstrukturer, formler och formatering i en helt textbaserad, versionsvänlig layout.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* Exportera Markdown-dataset till öppna källkods kalkylbladsformat.
+
+* Skapa strukturerade FODS-filer för LibreOffice-användare.
+
+* Importera MD-tabeller till platta XML-kalkylblad för utvecklingsteam.
+
+* Underhålla kalkylbladsarkiv i textläsbar form.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batchkonvertering till FODS för versionskontrolltransparens.
+
+* Integrera MD-till-FODS inuti öppen källkods ETL-pipelines.
+
+* Automatisk kalkylbladsskapande för regerings- eller NGO-dokumentation.
+
+* Triggerbaserad FODS-generering i kontinuerliga dokumentationsflöden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

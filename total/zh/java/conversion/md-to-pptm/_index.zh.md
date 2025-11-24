@@ -59,7 +59,55 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）转PPTM（启用宏的PowerPoint）转换通过将MD来源的内容与宏驱动的自动化相结合，增强了演示功能。PPTM文件支持动态幻灯片操作、数据绑定和脚本交互。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从MD源数据构建的自动化财务演示文稿。
+
+* 使用从Markdown报告创建的宏的动态仪表板。
+
+* 从MD文档生成的交互式培训模块。
+
+* 从产品Markdown文件获取的启用宏的演示文稿。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* CI/CD流水线为报告团队生成PPTM演示文稿。
+
+* 从存储库获取的自动更新的启用宏演示文稿。
+
+* 为企业培训系统批量创建PPTM。
+
+* 使用Markdown输入定期生成基于PPTM的仪表板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

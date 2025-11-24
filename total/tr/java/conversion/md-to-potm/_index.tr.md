@@ -59,7 +59,55 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) to POTM (Macro-Enabled PowerPoint Template) dönüşümü, otomasyonla zenginleştirilmiş sunum şablonlarının oluşturulmasına olanak tanır. POTM, otomatik biçimlendirme, slayt oluşturma ve dinamik içerik ekleme için VBA makrolarını destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown çerçevelerinden oluşturulan makro destekli slayt şablonları.
+
+* MD belgelerinden alınan otomatik raporlama slaytları.
+
+* MD içeriği kullanılarak etkileşimli eğitim şablonu oluşturma.
+
+* VBA mantığıyla önceden yüklenmiş dinamik iş şablonları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* MD güncellemeleri tarafından tetiklenen otomatik POTM şablon oluşturma.
+
+* Makro destekli PowerPoint şablonlarının toplu üretilmesi.
+
+* Raporlama ekipleri için POTM çerçeveleri oluşturan CI/CD iş akışları.
+
+* Kurumsal markalaşma için iş akışı yönlü POTM yeniden oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

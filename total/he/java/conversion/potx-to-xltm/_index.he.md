@@ -102,7 +102,51 @@ otherformats: XLSB XLS XLT SXC XLTX MHTML DIF CSV XLSX XLSM TSV EXCEL MARKDOWN O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **POTX ל-XLTM** מייצרת תבניות אקסל עם מאקרו מופעלות המושלמות לדוחות עסקיים דינמיים וחוזרים שנבנו מתבניות עיצוב של מצגות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת תבניות דיווח מופעלות ממאגרי שקופיות.
+
+* אוטומציה של זרימות עבודה בצוות דרך פורמטים אקסל סטנדרטיים.
+
+* פיתוח גיליונות קלט נתונים אינטראקטיביים המבוססים על תוכן POTX.
+
+* יצירת תבניות גמישות למחלקות משאבי אנוש, פיננסים או תפעול.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת XLTM בצורה צפופה עבור דיווחים מרובי מחלקות.
+
+* רענון תבניות על פי עיצובי POTX המעודכנים.
+
+* שילוב עם כלים לאוטומציה של אקסל ברמה הארגונית.
+
+* ייצואים מתוזמנים למחזורי ביצועים חוזרים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

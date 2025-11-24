@@ -129,7 +129,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML naar PS (PostScript) conversie creëert hoogwaardige vectorafdrukbare documenten van webarchieven. PS is ideaal voor professionele afdruk- en desktoppublishingworkflows.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Webrapporten omzetten in afdrukbare PostScript-documenten.
+
+* Technische illustraties en diagrammen archiveren voor afdrukken.
+
+* Marketingmateriaal of brochures voorbereiden van online bronnen.
+
+* Genereren van vectorafbeeldingen met hoge resolutie voor desktoppublishing.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde batchconversie van webinhoud naar PS-bestanden.
+
+* Getriggerde PS-generatie voor publicatiepijplijnen.
+
+* Integratie met print-on-demand systemen.
+
+* Geplande archivering van web-gebaseerde afdrukbare afbeeldingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

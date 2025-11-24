@@ -61,7 +61,51 @@ otherformats: MARKDOWN XLT TSV EXCEL MHTML XLSM FODS XLTM SXC XLSB XLS DIF XLTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή **POTX σε TSV** δημιουργεί αρχεία τιμών που χωρίζονται με καρτελάκια, τα οποία είναι ιδανικά για ανάλυση βασισμένη σε κείμενο, ανύψωση δεδομένων και προεπεξεργασία μηχανικής μάθησης.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Προετοιμασία δεδομένων διαφανειών POTX για στατιστική ανάλυση.
+
+* Εισαγωγή περιεχομένου πινάκων στις ροές εργασίας μηχανικής μάθησης.
+
+* Εξαγωγή δομημένου περιεχομένου προτύπων για προγραμματιστές.
+
+* Δημιουργία συνόλων δεδομένων TSV για εργαλεία αναφοράς BI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Εξαγωγή προτύπων πακέτων σε TSV για ομάδες αναλυτικών.
+
+* Ενημερώσεις βάσει εκκίνησης στις μορφές TSV όταν τα πρότυπα επεξεργάζονται.
+
+* Ενσωμάτωση σε αγωγούς ETL για μετασχηματισμό δεδομένων.
+
+* Προγραμματισμένη δημιουργία TSV για κύκλους επαναλαμβανόμενων αναφορών.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

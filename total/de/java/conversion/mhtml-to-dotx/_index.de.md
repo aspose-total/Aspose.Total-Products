@@ -130,7 +130,55 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von MHTML-Dateien in DOTX (Word-Vorlage ohne Makros) ermöglicht sichere, wiederverwendbare Vorlagen und bewahrt das Layout des Webinhalts. DOTX eignet sich ideal für die gemeinsame Dokumentation, bei der Makros aus Sicherheitsgründen eingeschränkt sind.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Teamkollaborationsvorlagen für interne Dokumentation.
+
+* Aus dem Web abgeleitete Newsletter im einheitlichen Stil formatiert.
+
+* Bildungsvorlagen für Kursmaterial und Unterrichtsplanung.
+
+* Standardisierte Verträge und Vorschlagsvorlagen ohne Makros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierte Konvertierungspipelines zur Erstellung von DOTX-Vorlagen aus MHTML-Archiven.
+
+* Integration in Content-Management-Systeme für die massenhafte Bereitstellung von Vorlagen.
+
+* Vorformatierte Webdatenvorlagen für die Unternehmenskommunikation.
+
+* Ausgelöste Generierung für periodische Berichtsworkflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

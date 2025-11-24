@@ -59,7 +59,55 @@ presentation.save("output.swf", SaveFormat.Swf);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van Markdown (MD) naar SWF (Shockwave Flash) maakt het mogelijk om tekst, diagrammen en grafieken om te zetten in interactieve Flash-animaties. SWF is ideaal voor verouderde educatieve inhoud, tutorials en geanimeerde webpresentaties.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het omzetten van Markdown tutorials naar interactieve SWF-inhoud.
+
+* Geanimeerde diagrammen voor e-learning modules gegenereerd vanuit Markdown.
+
+* Verouderde Flash-gebaseerde presentaties voor weblevering.
+
+* Interactieve Markdown visuals insluiten in educatieve platforms.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde Markdown-naar-SWF-pijplijn voor online trainingsmateriaal.
+
+* Batchconversie van MD-inhoud naar interactieve Flash-bestanden.
+
+* Geplande updates voor SWF-leermodules afgeleid van Markdown.
+
+* Getriggerde generatie van SWF visuals voor op web gebaseerde verouderde platforms.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

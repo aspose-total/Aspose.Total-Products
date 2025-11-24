@@ -73,7 +73,55 @@ otherformats: PPSX PPSM PPT POT POTM POWERPOINT OTP ODP XAML PPTM POTX PPS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Конвертація Markdown (MD) в SWF (Shockwave Flash) дозволяє перетворити текст, діаграми та графіки в інтерактивні анімації Flash. SWF ідеально підходить для старих навчальних матеріалів, навчальних посібників та анімованих веб-презентацій.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Перетворення навчальних посібників Markdown в інтерактивний вміст SWF.
+
+* Анімовані діаграми для модулів електронного навчання, створених з Markdown.
+
+* Старі презентації на основі Flash для веб-доставки.
+
+* Вбудовування інтерактивних візуальних елементів Markdown в навчальні платформи.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Автоматизований конвеєр Markdown-to-SWF для онлайн-навчальних матеріалів.
+
+* Пакетне перетворення вмісту MD в інтерактивні Flash-файли.
+
+* Заплановані оновлення модулів навчання SWF, отриманих з Markdown.
+
+* Тригерне створення візуальних елементів SWF для веб-платформ на основі Flash.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

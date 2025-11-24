@@ -59,7 +59,55 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) dosyalarını PPSM (Makro Etkinleştirilmiş PowerPoint Slayt Gösterisi) formatına dönüştürmek, otomatik çalışan slayt gösterisi işlevselliğini otomasyonla birleştirir. PPSM, zamanlanmış içerikler, dinamik güncellemeler ve etkileşimli deneyimler için VBA makrolarını destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Makro destekli PPSM slaytlarıyla otomatik kiosklar.
+
+* MD içeriğinden tasarlanmış etkileşimli eğitim döngüleri.
+
+* Markdown özetlerinden kaynaklanan otomatik zamanlanmış ürün sergileri.
+
+* Makro etkin slayt gösterileri kullanarak dinamik perakende veya etkinlik ekranları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Markdown değişikliklerinden tetiklenen iş akışı odaklı PPSM üretimi.
+
+* Kurumsal ekran sistemleri için makro etkin slayt gösterisi oluşturma.
+
+* MD depolarından kiosk içeriğine otomatik güncellemeler.
+
+* Perakende veya fuar zincirleri için toplu PPSM oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

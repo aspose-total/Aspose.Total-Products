@@ -105,7 +105,51 @@ otherformats: IMAGE WMF SVGZ JPEG2000 APNG TGA DXF WMZ PSD DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML ל-EMZ (Compressed Windows Enhanced Metafile) שומר גרפיקה וקטורית מדפי אינטרנט בפורמט דחוס ונמתח המתאים למצגות ומסמכים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* ארכוב תרשימי זרימה ותרשימים מבוססי אינטרנט בפורמט EMZ קומפקטי.
+
+* הטמעת גרפיקה דחוסה במצגות של Microsoft Office.
+
+* שיתוף ציורים נמתחים בין צוותים ללא גודל קובץ גדול.
+
+* שמירת תרשימים וקטוריים לדוחות תאגידיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת EMZ בצורה צפופה מארכיוני MHTML עבור זרימות עבודה במסמכים.
+
+* צינון של צינוני דחיסה עבור מסילות מסירה של גרפיקה נמתחת.
+
+* שילוב עם מערכות ניהול תוכן לעדכונים אוטומטיים.
+
+* יצירה מתוזמנת לנכסים וקטוריים מוכנים למצגת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

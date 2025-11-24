@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（マークダウン）をRTF（リッチテキスト形式）に変換することで、クロスプラットフォームの互換性とアクセシビリティが確保されます。RTFファイルはほとんどすべてのオペレーティングシステムでスタイリングを保持し、軽量な配布、アーカイブ、オフラインアクセスに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+
+
+* マークダウンのドキュメントをポータブルなRTFマニュアルに変換する。
+
+* MDガイドから普遍的に互換性のあるトレーニングシートを作成する。
+
+* マークダウンからソースされたRTFベースのヘルプファイルをレガシーシステム向けに作成する。
+
+* ソフトウェアアクセスが制限されているチーム向けのオフライン対応テキストドキュメント。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* デジタルアーカイブ用にスケジュールされたMDからRTFへの変換。
+
+* ETLワークフローによるコンテンツリポジトリのRTFライブラリへのエクスポート。
+
+* オフラインカスタマーサポートキット用の自動生成されたRTFの作成。
+
+* マルチプラットフォーム互換のRTFファイルへのマークダウンノートの一括変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

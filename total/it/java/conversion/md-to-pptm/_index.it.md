@@ -59,7 +59,55 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+"""
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversione da MD (Markdown) a PPTM (PowerPoint abilitato per macro) potenzia le capacità di presentazione combinando contenuti provenienti da MD con l'automazione guidata da macro. I file PPTM supportano la manipolazione dinamica delle diapositive, il binding dei dati e le interazioni scriptate.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Chiave" %}}
+
+
+
+* Presentazioni finanziarie automatizzate costruite da dati di origine MD.
+
+* Cruscotti dinamici che utilizzano macro create da report Markdown.
+
+* Moduli di formazione interattivi generati da documentazione MD.
+
+* Pitch decks abilitati per macro provenienti da file Markdown di prodotto.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* Pipeline CI/CD che genera deck PPTM per team di reportistica.
+
+* Presentazioni abilitate per macro che si aggiornano automaticamente provenienti da repository.
+
+* Creazione batch di PPTM per sistemi di formazione aziendale.
+
+* Generazione programmata di cruscotti basati su PPTM utilizzando input Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+"""
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

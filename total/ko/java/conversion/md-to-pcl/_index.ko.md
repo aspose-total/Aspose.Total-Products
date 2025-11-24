@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 PCL (Printer Command Language)로 변환하면 레이저 및 잉크젯 프린터와 호환되는 인쇄용 파일이 생성됩니다. PCL 변환은 기술 문서, 보고서 및 기업 인쇄 환경에서의 워크플로 자동화를 생성하는 데 적합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* PCL을 지원하는 프린터에서 Markdown 기반 보고서 인쇄.
+
+* 일괄 문서 배포를 위한 PCL 출력 생성.
+
+* Markdown 문서를 인쇄용 형식으로 변환.
+
+* 사무실 또는 제조 인쇄 워크플로를 위한 기술 지침 작성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 기업 인쇄를 위해 Markdown 파일을 일정한 간격으로 PCL로 일괄 변환.
+
+* 프린트 서버와 통합하여 Markdown 문서로부터 자동으로 PCL 생성.
+
+* Markdown을 PCL로 변환하는 자동화된 인쇄 파이프라인.
+
+* 대량 PCL 프린터를 위한 트리거 기반 문서 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ Ao converter o arquivo MD para XLSM, você também pode adicionar marca d'água 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter Markdown (MD) para XLSM (Pasta de Trabalho do Excel Habilitada para Macro) desbloqueia capacidades de automação dentro de fluxos de trabalho de planilhas. XLSM suporta macros VBA, tornando-o ideal para relatórios dinâmicos e cálculos automatizados.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Criar painéis com macros a partir de tabelas de entrada Markdown.
+
+* Automatizar calculadoras de custos provenientes de folhas de produtos MD.
+
+* Automação de fluxo de trabalho baseado em XLSM construído a partir de estruturas Markdown.
+
+* Criar planilhas de engenharia usando macros criadas a partir de notas MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Geração automatizada de MD → XLSM em fluxos de CI.
+
+* Criação agendada de planilhas habilitadas para macro para operações.
+
+* Pipelines de transformação gerando relatórios XLSM dinamicamente.
+
+* Integrar fontes Markdown em sistemas automatizados de planilhas financeiras.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,51 @@ otherformats: CSV DIF XLSB XLS XLTX ODS XLSM MHTML MARKDOWN TSV XLAM EXCEL XLSX 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **POTX ל־FODS** מייצאת נתוני תבנית לקבצי גיליון Flat OpenDocument לסיוט מרבי בין כלי קוד פתוח.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* עריכת נתונים המגיעים מ־POTX ב־LibreOffice ו־OpenOffice.
+
+* הכנת גיליונות נתונים בתקן פתוח של ממשל.
+
+* יצירת גיליונות נתונים קלים, תלויי פלטפורמה.
+
+* ארכיבת מטא-נתונים של תבניות POTX בפורמטים פתוחים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* עיבוד קבצי POTX בצורה רצפית ל־FODS עבור צוותים צולבי פלטפורמות.
+
+* ייצואים בפורמט פתוח מתוזמנים לצורך תאימות או בדיקות.
+
+* שילוב עם אוטומציה של זרימת עבודה בקוד פתוח.
+
+* המרת FODS על בסיס טריגרים בעת עדכון של תבניות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

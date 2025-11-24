@@ -47,7 +47,51 @@ otherformats: SXC TXT EXCEL XLT XLTX XLTM MD XLAM XLSM ODS FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MHTML เป็น XLTM (แมโคร-เปิดใช้งานเทมเพลต Excel) ช่วยสร้างเทมเพลตที่ใช้ซ้ำได้พร้อมกับออโตเมชันที่ฝังอยู่ มาจากเนื้อหาบนเว็บไซต์ ใช้ได้ดีสำหรับการทำงานที่เกิดซ้ำๆ ที่ต้องการเทมเพลต Excel ที่สามารถโปรแกรมได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* เทมเพลตงบประมาณที่เปิดใช้งานแมโคร อัพเดตจากข้อมูลออนไลน์
+
+* เทมเพลตรายงานอัตโนมัติสำหรับทีมการเงิน ทรัพยากรบุคคล หรือการตลาด
+
+* แผงควบคุม KPI เป็นเทมเพลต Excel ที่ใช้ซ้ำและเปิดใช้งานแมโคร
+
+* เทมเพลตวางแผนและติดตามโครงการที่สร้างจากตารางบนเว็บ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์ออโตเมชัน" %}}
+
+
+
+* การแปลง MHTML เป็น XLTM ตามกำหนดเวลาสำหรับงานที่เกิดซ้ำ
+
+* การสร้างเทมเพลตที่เปิดใช้งานผ่านการเชื่อมต่อกับระบบออโตเมชันขององค์กร
+
+* ประมวลผลแบบจำนวนมากของแผงควบคุมที่มาจากเว็บเป็นเทมเพลตแมโครที่ใช้ซ้ำ
+
+* การผสานรวมกับสคริปต์ออโตเมชัน Excel สำหรับรายงานแบบไดนามิก
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

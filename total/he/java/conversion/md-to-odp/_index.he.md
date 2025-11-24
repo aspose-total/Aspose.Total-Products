@@ -72,7 +72,49 @@ otherformats: POTX XAML PPSM SWF POWERPOINT PPT POTM PPS POT PPSX OTP PPTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת Markdown (MD) ל-ODP (OpenDocument Presentation) מאפשרת לצוותים להמיר תוכן מבוסס טקסט פשוט למצגות בפורמט פתוח הניתן לשימוש ב־LibreOffice Impress ובכלים אחרים למצגות מקור פתוח. ODP הוא אידיאלי לשיתוף פעולה בין פלטפורמות ללא הגבלות פרופריטריות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* המרת פתקי הכשרה ב־Markdown לשקפים ב־ODP.
+* מצגות לכיתה שנוצרו מתוכניות שיעור מבוססות MD.
+* פרסום מצגות לכנס מקור פתוח שנוצרו מ־Markdown.
+* המרת תיעוד MD לשקפים מאורגנים חזותית ב־ODP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* צינורות ETL שיוצרים קבצי ODP ממאגרי Markdown.
+* יצירת מצגות למערכות למידה מרחוק באופן צפוי.
+* ייצור אוטומטי של ODP בתהליכי עבודת תיעוד כקוד.
+* המרת MD ל־ODP שמופעלת בשחרורי פרויקט מקור פתוח.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -129,7 +129,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML을 OTT(OpenDocument Template)으로 변환하면 오픈 소스 오피스 스위트를 위한 재사용 가능한 템플릿을 만들 수 있어 웹 기반의 스타일링과 레이아웃 일관성을 유지할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LibreOffice를 위한 회사 전체 문서 템플릿.
+
+* 웹 기반 교육 콘텐츠에서 재사용 가능한 수업 계획 템플릿.
+
+* 표준화된 오픈 소스 제안서 및 계약 템플릿.
+
+* 협업 콘텐츠 관리를 위한 워크플로우 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 여러 MHTML 페이지에서 OTT 템플릿의 자동 생성.
+
+* 일괄 문서 생성을 위한 LibreOffice 자동화 도구와의 통합.
+
+* 웹 기반 콘텐츠 변경 시 트리거된 템플릿 업데이트.
+
+* 분산된 팀 간의 문서 표준화 간소화.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

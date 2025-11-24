@@ -73,7 +73,55 @@ otherformats: POTX PPSX PPT XAML POT SWF PPSM ODP PPS POTM POWERPOINT OTP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Конвертація MD (Markdown) в PPTM (Macro-Enabled PowerPoint) покращує можливості презентації, поєднуючи вміст, отриманий з MD, з автоматизацією, що працює на макросах. Файли PPTM підтримують динамічне керування слайдами, зв'язування даних та сценарії взаємодії.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові використання" %}}
+
+
+
+* Автоматизовані фінансові презентації, побудовані на основі даних з MD.
+
+* Динамічні інформаційні панелі з використанням макросів, створених з звітів у форматі Markdown.
+
+* Інтерактивні навчальні модулі, створені на основі документації MD.
+
+* Презентації з макросами для підтримки продуктів, отриманих з файлів у форматі Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* CI/CD-конвеєри, що генерують PPTM-презентації для команд звітності.
+
+* Автоматичне оновлення презентацій з макросами, отриманих з репозиторіїв.
+
+* Пакетне створення PPTM для корпоративних систем навчання.
+
+* Запланована генерація інформаційних панелей на основі PPTM з використанням вхідних даних у форматі Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

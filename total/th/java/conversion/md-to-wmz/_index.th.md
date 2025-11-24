@@ -57,7 +57,55 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น WMZ (Compressed Windows Metafile) ช่วยให้สามารถแบ่งปันกราฟิกเวกเตอร์ในรูปแบบที่กระชับได้  WMZ เหมาะสำหรับการกระจายไดอะแกรม แผนภูมิ และภาพประกอบโดยไม่สูญเสียคุณภาพ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้างภาพประกอบเวกเตอร์ที่บีบอัดจากแผนภาพ Markdown
+
+* แบ่งปันกราฟิกที่เข้ากันได้กับเวอร์ชันเก่าในขนาดไฟล์ที่ลดลง
+
+* ฝังแผนภูมิเทคนิคลงในเอกสารหรืองานนำเสนอ
+
+* กระจายไดอะแกรมและแผนภาพระบบที่ได้มาจาก Markdown
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง MD เป็น WMZ โดยอัตโนมัติสำหรับระบบเอกสาร
+
+* การสร้างแผนภาพเวกเตอร์ที่บีบอัดจากคลังข้อมูล Markdown แบบจำนวนมาก
+
+* การรวมกับท่อ ETL ที่สร้างกราฟิกพกพาได้
+
+* การอัปเดตตารางเวลาของไฟล์ WMZ สำหรับการกระจายในองค์กร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

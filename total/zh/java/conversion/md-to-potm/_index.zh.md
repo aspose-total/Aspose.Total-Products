@@ -59,7 +59,55 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）转POTM（启用宏的PowerPoint模板）转换允许创建富有自动化功能的演示模板。POTM支持用于自动格式设置、幻灯片生成和动态内容插入的VBA宏。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从Markdown框架构建的宏驱动幻灯片模板。
+
+* 从MD文档中提取的自动化报告幻灯片组。
+
+* 使用MD内容创建交互式培训模板。
+
+* 预加载VBA逻辑的动态业务模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 由MD更新触发的自动POTM模板创建。
+
+* 批量生成启用宏的PowerPoint模板。
+
+* 为报告团队构建POTM框架的CI/CD工作流。
+
+* 为企业品牌重建而进行的基于工作流的POTM再生。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

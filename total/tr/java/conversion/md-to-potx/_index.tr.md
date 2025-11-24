@@ -59,7 +59,55 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını POTX (Makro olmayan PowerPoint Şablonu) formatına dönüştürmek, hafif metin dosyalarına dayalı modern, temiz sunum şablonlarının oluşturulmasını sağlar. POTX, makro bağımlılığı olmadan sunum tutarlılığını garanti eder.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* MD taslaklarından temiz ve markalı POTX şablonları oluşturma.
+
+* Birden fazla departman arasında kurumsal slaytları standartlaştırma.
+
+* Markdown özetlerinden kaynaklanan pazarlama slaytları oluşturma.
+
+* MD içeriği aracılığıyla akademik sunum şablonları tasarlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Belgelendirme süreçlerinde otomatik POTX üretimi.
+
+* Kaynak içerik olarak Markdown kullanarak şablon yeniden oluşturma.
+
+* Kurumsal ekipler için POTX dosyalarının toplu dağıtımı.
+
+* Marka çalışmalarında zamanlanmış MD'den POTX güncellemeleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

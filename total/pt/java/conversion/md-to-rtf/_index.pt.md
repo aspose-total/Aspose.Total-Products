@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter MD (Markdown) para RTF (Rich Text Format) garante compatibilidade e acessibilidade entre plataformas. Arquivos RTF mantêm o estilo em quase todos os sistemas operacionais, tornando-os perfeitos para distribuição leve, arquivamento e acesso offline.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Converter documentação Markdown em manuais RTF portáteis.
+
+* Criar folhas de treinamento universalmente compatíveis a partir de guias MD.
+
+* Arquivos de ajuda baseados em RTF originados do Markdown para sistemas legados.
+
+* Documentos de texto amigáveis para offline para equipes com acesso limitado a software.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Geração programada de MD para RTF para arquivos digitais.
+
+* Fluxos de trabalho ETL exportando repositórios de conteúdo para bibliotecas RTF.
+
+* Criação automatizada de RTF para kits de suporte ao cliente offline.
+
+* Conversão em lote de notas Markdown em arquivos RTF compatíveis com várias plataformas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

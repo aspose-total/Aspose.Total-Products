@@ -47,7 +47,49 @@ Tijdens het converteren van het MD-bestand naar ODS, kunt u ook een watermerk to
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van Markdown (MD) naar ODS (OpenDocument Spreadsheet) biedt een robuust, open-standaard alternatief voor Excel. ODS is ideaal voor teams die LibreOffice of OpenOffice gebruiken en ondersteunt formules, grafieken en gestructureerde tabelopmaak.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Markdown-lijsten importeren in ODS-dashboards.
+* Analysebladen maken voor open-source kantooromgevingen.
+* Budgettrackers in ODS-formaat maken op basis van MD-inhoud.
+* Technische MD-documentatie omzetten naar gegevens die gereed zijn voor spreadsheets.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geplande ODS-generatie voor open-source datateams.
+* Cross-platform pijplijnen die Markdown voeden naar ODS-spreadsheets.
+* Batchtransformatie van documentatietabellen naar ODS-formaat.
+* Geautomatiseerde ODS-builds voor gedistribueerde teams die bewerkbare spreadsheets nodig hebben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

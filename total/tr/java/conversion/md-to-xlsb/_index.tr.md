@@ -47,7 +47,55 @@ MD dosyasını XLSB'ye dönüştürürken, çıktı XLSB dosya biçiminize filig
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) ile XLSB (Excel Binary Workbook) dönüşümü, büyük veri kümelerini verimli bir şekilde işlemek için mükemmeldir. XLSB dosyaları daha hızlı yüklenir, daha iyi sıkıştırılır ve ağır XML ağırlığı olmadan karmaşık elektronik tabloları destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Büyük MD tabanlı veri kümelerini ikili Excel çalışma kitaplarına aktarma.
+
+* Belgelendirme günlüklerinden kompakt XLSB raporları oluşturma.
+
+* Markdown'dan oluşturulan XLSB ile finansal modelleme.
+
+* Markdown analiz tablolarından kaynaklanan yüksek performanslı elektronik tablolar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Hız optimizasyonu için Markdown → XLSB dönüşümü yapan ETL iş akışları.
+
+* Kurumsal analiz ekipleri için toplu XLSB oluşturma.
+
+* Veri yoğun raporlama için otomatik ikili çalışma kitabı oluşturma.
+
+* Sunucu tarafı işlemlerinden MD içeriğinden XLSB dosyaları çıkarma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,51 @@ otherformats: XLSB MHTML XLAM XLTM XLTX CSV TSV XLSX DIF XLS MARKDOWN XLT SXC XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **POTX ל-EXCEL** ממירה תוכן של תבנית PowerPoint לחוברת Excel טבעית, מאפשרת למשתמשים לשנות שימוש בנתוני פריסה, מבני טבלה ומטא-נתונים בתוך גיליונות נתונים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת טבלאות תבניות שקופיות למסמכי Excel ניתנים לעריכה.
+
+* הכנת דפוסי נתונים ניתנים לשימוש חוזר לדיווח תאגידי.
+
+* חילוץ מצייני מיקום תוכן לגיליונות Excel מובנים.
+
+* שימוש ברכיבי תבנית לתיעוד פרויקט או צוות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת גיליון Excel בצורה צפופה ממאגרי תבניות POTX גדולים.
+
+* יצירת דוחות Excel חוזרים מתבניות שקופיות תקניות.
+
+* המרה בהתבסס על טריגרים כאשר התבניות מתעדכנות.
+
+* הזנת נתוני Excel שחולצו לתוך לוחות מחוונים BI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

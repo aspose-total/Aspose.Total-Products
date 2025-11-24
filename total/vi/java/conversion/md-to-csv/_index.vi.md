@@ -47,7 +47,55 @@ Trong khi chuyển đổi tệp MD sang CSV, bạn cũng có thể thêm hình m
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp MD (Markdown) sang CSV cho phép các nhóm chuyển đổi văn bản có cấu trúc, bảng và danh sách thành dữ liệu bảng tính tương thích mọi nơi. Các tệp CSV lý tưởng cho quy trình làm việc phân tích, nhập dữ liệu cơ sở dữ liệu và trao đổi dữ liệu giữa các nền tảng nhẹ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xuất bảng Markdown thành các bộ dữ liệu CSV cho phân tích.
+
+* Nhập các bảng giá dựa trên MD vào các công cụ kế toán.
+
+* Chuyển đổi các nhật ký Markdown của nhà phát triển thành các tệp CSV có thể sắp xếp.
+
+* Di dời các bảng tài liệu vào hệ thống CRM và ERP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Công việc ETL biến đổi Markdown của kho lưu trữ thành CSV hàng đêm.
+
+* Tự động chuyển đổi cho các bảng điều khiển yêu cầu đầu vào CSV.
+
+* Xuất hàng loạt cho các đường ống tiền xử lý học máy.
+
+* Kích hoạt quy trình sản xuất CSV từ các báo cáo dựa trên Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

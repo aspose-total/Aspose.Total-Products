@@ -130,7 +130,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MHTML na ODT (OpenDocument Text) umožňuje úpravu webového obsahu na různých platformách v LibreOffice nebo OpenOffice. Tento formát je ideální pro pracovní postupy s otevřeným zdrojovým kódem a spolupráci při úpravě dokumentů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Webový obsah archivován jako editovatelné manuály a průvodci ve formátu ODT.
+
+* Dokumentace spolupracovních projektů v kancelářských balíčcích s otevřeným zdrojovým kódem.
+
+* Vzdělávací materiály a pracovní listy převedené z webových stránek.
+
+* Příprava vícejazyčných dokumentů pomocí formátu ODT pro globální týmy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod archivů založených na formátu MHTML do souborů ODT pro distribuované týmy.
+
+* Integrace s platformami správy obsahu s otevřeným zdrojovým kódem pro automatické generování dokumentů.
+
+* Plánovaný převod pro monitorování a reportování webového obsahu.
+
+* Automaticky aktualizované návody k použití z často se měnících webových zdrojů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,55 @@ otherformats: XLT XLSB EXCEL XLAM TXT TSV SXC FODS XLSM DIF ODS XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น TSV (Tab-Separated Values) ช่วยให้การส่งออกข้อมูลที่สะอาดและปลอดภัยจากตัวคั่นเหมาะสำหรับนักพัฒนาซอฟต์แวร์ ทีม BI และไปไลน์การเรียนรู้ของเครื่อง TSV files รักษาช่องว่างและเหมาะสำหรับชุดข้อมูลที่มีเครื่องหมายจุลภาค
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ส่งออกชุดข้อมูล Markdown เข้าสู่ TSV สำหรับการประมวลผล ML
+
+* นำเข้าบันทึกที่สร้างจาก MD เข้าสู่ขั้นตอนการทำงานด้านวิทยาการข้อมูล
+
+* สร้างการสรุปข้อมูลที่ใช้ TSV สำหรับการพัฒนา API
+
+* แปลงรายการตรวจสอบ Markdown เป็นชุดข้อมูลที่มีโครงสร้างแท็บ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงตาราง MD เป็น TSV ด้วยการขับเคลื่อนท่อ
+
+* ส่งออกเป็นชุดสำหรับระบบนำเข้าข้อมูล AI
+
+* การสร้าง TSV อย่างเป็นประจำสำหรับการทดสอบการรวมระบบ
+
+* การสร้างการส่งออก TSV โดยอัตโนมัติจากเนื้อหา Markdown ในคลังข้อมูล
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

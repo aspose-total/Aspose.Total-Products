@@ -57,7 +57,55 @@ API также позволяет экспортировать файл MD в EM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование Markdown (MD) в EMZ (сжатый улучшенный метафайл) создает компактную векторную графику, подходящую для встраивания в презентации, документы или веб-сайты. EMZ сохраняет линейные иллюстрации и уменьшает размер файла без потери качества.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Сжатие диаграмм Markdown для встраивания в отчеты.
+
+* Создание визуальных элементов EMZ для слайд-деков и презентаций.
+
+* Обмен техническими иллюстрациями, полученными из содержимого Markdown.
+
+* Архивирование векторных диаграмм в формате, экономящем место.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное преобразование MD в EMZ для документационных конвейеров.
+
+* Пакетная обработка диаграмм на основе Markdown в сжатые файлы EMZ.
+
+* Плановое создание визуальных элементов EMZ для внутренних баз знаний.
+
+* Выгрузка диаграмм для рабочих процессов представления в предприятии.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

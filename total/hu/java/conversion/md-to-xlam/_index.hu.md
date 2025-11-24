@@ -47,7 +47,55 @@ A MD-fájl XLAM-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLAM-f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MD (Markdown) átalakítása XLAM (Excel-kiegészítő) formátumra lehetővé teszi makróval bővített kiterjesztési fájlok létrehozását, amelyek funkciókat, automatizálást és újrafelhasználható logikát tartalmaznak. Ez a formátum a programozható kiegészítőket igénylő haladó Excel-felhasználók számára ideális.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Makró kiegészítők létrehozása Markdown-alapú formula-könyvtárakból.
+
+* MD forrású szkriptek csomagolása XLAM formátumba pénzügyi csapatok számára.
+
+* Ismétlődő elemzési feladatok automatizálása a kiegészítő generálásával.
+
+* Markdown jegyzetekből származó standardizált makrócsomagok terjesztése.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Automatizált XLAM építések MD-ből CI/CD csővezetékekben.
+
+* Változatkezelt makró kiegészítő generálás vállalatok számára.
+
+* Tömeges XLAM eszközök építése adatelemzési osztályok számára.
+
+* Dokumentációs Markdown-ből származó automatikusan frissülő makró kiegészítők.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

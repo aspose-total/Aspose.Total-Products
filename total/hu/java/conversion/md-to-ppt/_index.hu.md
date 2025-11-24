@@ -59,7 +59,55 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) konvertálása PPT (Legacy PowerPoint Formátum) támogatja a kompatibilitást az idősebb Microsoft Office környezetekkel, miközben megőrzi az oldalstruktúrát és formázást. A PPT ideális intézmények számára, amelyek klasszikus PowerPoint verziókat használnak.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* PPT diák létrehozása régi munkaállomásokhoz MD scriptekből.
+
+* Akadémiai intézmények, amelyek Markdown jegyzeteket használnak régebbi PPT csomagok létrehozásához.
+
+* Vállalati archívumok, amelyek MD tartalmat migrálnak klasszikus PPT formátumba.
+
+* Kompatibilitásra összpontosító diák létrehozása elavult irodai beállításokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Automatizált PPT generálás régi rendszer támogatásához.
+
+* Markdown archívumok tömeges konvertálása PPT formátumba.
+
+* ETL folyamatok, amelyek klasszikus PowerPoint fájlokat állítanak elő.
+
+* PPT generálás kormányzati vagy ipari szervezetek számára, amelyek még mindig régebbi csomagokat használnak.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

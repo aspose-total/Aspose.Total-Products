@@ -57,7 +57,55 @@ API'yi kullanarak, çıktı EMZ görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını EMZ (Sıkıştırılmış Geliştirilmiş Metafile) formatına dönüştürmek, sunumlar, belgeler veya web sitelerine gömülmek için uygun kompakt vektör grafikler oluşturur. EMZ, çizgi tabanlı görselleri korur ve kalite kaybı olmadan dosya boyutunu azaltır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Raporlara gömülmek üzere Markdown diyagramlarını sıkıştırma.
+
+* Slayt destekleri ve sunumlar için EMZ görseller oluşturma.
+
+* Markdown içeriğinden türetilen teknik görselleri paylaşma.
+
+* Vektör diyagramları yerden tasarruflu bir formatta arşivleme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Belgelendirme akışları için otomatik MD'den EMZ'ye dönüşüm.
+
+* Sıkıştırılmış EMZ dosyalarına dönüştürmek için toplu işleme tabanlı Markdown diyagramları oluşturma.
+
+* İç bilgi tabanları için EMZ görsellerinin zamanlanmış oluşturulması.
+
+* Kurumsal sunum akışları için diyagramların tetiklenmiş dışa aktarımı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja MD (Markdown) na DOTM (Szablon z makrami) łączy lekkie edytowanie tekstu z szablonami Worda wzbogaconymi o osadzone makra. Szablony DOTM pozwalają zespołom zautomatyzować powtarzalne zadania dokumentacyjne i natychmiast tworzyć standaryzowane dokumenty gotowe do użycia z makrami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Tworzenie szablonów onboardingowych z zastosowaniem makr z Markdown playbooków.
+
+* Tworzenie zautomatyzowanych szablonów faktur lub formularzy na podstawie treści MD.
+
+* Ramy dokumentów dla przedsiębiorstw z programowo wstawianymi polami.
+
+* Generowanie wielokrotnie użytecznych szablonów przyjaznych dla automatyzacji z dokumentacji technicznej.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczne tworzenie szablonów DOTM dla cykli raportowania na dużą skalę.
+
+* Integracja z silnikami workflow, które uruchamiają generację MD na DOTM.
+
+* Jednoklikowe tworzenie szablonów z makrami dla rozproszonych działów.
+
+* Automatyczne wstawianie dynamicznej treści podczas regeneracji szablonu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ otherformats: SXC TXT FODS XLTM ODS XLT XLTX XLSM DIF EXCEL XLSB XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل تنسيق MD (Markdown) إلى تنسيق XLAM (إضافة Excel) يمكن أن يسمح بإنشاء ملفات امتداد ممكّنة للماكرو تحتوي على وظائف وأتمتة ومنطق قابل لإعادة الاستخدام. يدعم هذا التنسيق المستخدمين المتقدمين في Excel الذين يحتاجون إلى إضافات قابلة للبرمجة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء إضافات ماكرو من مكتبات الصيغ القائمة على Markdown.
+
+* تغليف النصوص البرمجية القادمة من MD في ملفات XLAM لفرق العمل المالية.
+
+* أتمتة المهام التحليلية المتكررة من خلال إنشاء إضافات.
+
+* توزيع حزم الماكرو الموحدة المستمدة من ملاحظات Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* إنشاء XLAM بشكل آلي من MD في أنابيب CI/CD.
+
+* إنشاء إضافات ماكرو مُدارة بالإصدار للشركات.
+
+* بناء أدوات XLAM بشكل دفعي لأقسام تحليل البيانات.
+
+* تحديث إضافات الماكرو تلقائيًا من وثائق Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

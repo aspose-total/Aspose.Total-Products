@@ -59,7 +59,55 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) naar PPS (PowerPoint Slideshow) conversie is ideaal om lichtgewicht inhoud om te zetten in automatisch afspelende presentatiebestanden. PPS opent direct als diavoorstelling, waardoor het perfect is voor kiosken, displays en herhalende presentaties.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het maken van herhalende kioskpresentaties vanuit Markdown-notities.
+
+* Automatisch afspelen van productdisplays gegenereerd uit MD-beschrijvingen.
+
+* Diavoorstelling-gebaseerde evenementdisplays afkomstig van MD-schema's.
+
+* Museum-, winkel- of expodisplays direct gemaakt vanuit Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchgeneratie van PPS-diavoorstellingen voor digitale bewegwijzering.
+
+* Geautomatiseerde MD-naar-PPS-pijplijnen voor evenementenbeheerteams.
+
+* Geplande diavoorstellingcreatie vanuit Markdown-aankondigingen.
+
+* Dashboardgestuurde generatie van herhalende presentatiebestanden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -67,7 +67,49 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น XAMLFLOW ช่วยให้สามารถสร้างไดอะแกรมแบบไหลที่สามารถแอ็ปพลิเคชันและเค้าโครงการโดยใช้ XAML markup อย่างแบบอินเทอร์แอคทีฟ ที่เหมาะสำหรับการแสดงผลซอฟต์แวร์ การโปรโตไทป์ UI และเอกสารขั้นตอนการทำงาน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* สร้างไดอะแกรมแบบไหลแบบแอ็ปพลิเคชันจากเอกสาร Markdown
+* การโปรโตไทป์เวิร์กฟลูว์แอปพลิเคชัน WPF โดยใช้เนื้อหา Markdown
+* การแปลงบันทึกกระบวนการทางเทคนิคเป็นการแสดงผล XAMLFlow
+* ฝังไดอะแกรมที่สร้างจาก Markdown เข้าไปในการแสดงตัวอย่างแอปพลิเคชันแบบแอ็ป
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างกระแสแบบอัตโนมัติจาก MD ไปยัง XAMLFLOW สำหรับทีมพัฒนา
+* การสร้างกระแสแบบกลุ่มจากบันทึก Markdown
+* การอัพเดตไดอะแกรมของเวิร์กฟลูว์ตามกำหนดในเอกสารซอฟต์แวร์
+* การผสานรวมกับ CI/CD เพื่อแปลงเอกสารกระบวนการ Markdown เป็นส่วนประกอบ XAMLFLOW
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ otherformats: TXT XLT TSV ODS XLAM EXCEL XLTX DIF FODS SXC XLSB XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل Markdown (MD) إلى ODS (جدول بيانات OpenDocument) يوفر بديلاً قويًا ومفتوح المصدر لـ Excel. ODS مثالي للفرق التي تستخدم LibreOffice أو OpenOffice ويدعم الصيغ الرياضية والرسوم البيانية وتنسيق الجداول المُنظمة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* استيراد قوائم Markdown إلى لوحات تحكم ODS.
+
+* بناء أوراق تحليلية لبيئات المكاتب مفتوحة المصدر.
+
+* إنشاء متتبعات ميزانية بتنسيق ODS مستمدة من محتوى MD.
+
+* تحويل وثائق MD التقنية إلى بيانات جاهزة للجداول الإلكترونية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* توليد ODS المجدول لفرق البيانات مفتوحة المصدر.
+
+* أنابيب العمل عبر الأنظمة تغذي Markdown إلى جداول بيانات ODS.
+
+* تحويل دفعة من جداول الوثائق إلى تنسيق ODS.
+
+* بناء ODS تلقائي للفرق الموزعة التي تحتاج إلى جداول بيانات قابلة للتحرير.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

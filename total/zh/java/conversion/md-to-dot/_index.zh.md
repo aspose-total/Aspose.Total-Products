@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MD（Markdown）转换为DOT（Word模板）有助于企业标准化品牌文件，同时保持Markdown中的版本控制内容。DOT模板保持格式一致性，确保团队可以立即从干净、可重复使用的结构生成新的Word文件。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 从基于Markdown的模板创建一致的信头。
+
+* 从MD草稿发布经过品牌批准的营销资料。
+
+* HR团队从MD指南生成入职文档模板。
+
+* 法律部门标准化从Markdown获取的合同结构。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* CMS发布工作流程中自动生成DOT模板。
+
+* 为更新品牌资产的分布式团队进行集中转换。
+
+* 在Git中存储的主模板定期重新生成。
+
+* 为特许经营或多部门文档需求自动创建DOT。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование Markdown (MD) в OTT (OpenDocument Text Template) поддерживает создание масштабируемых шаблонов для офисных пакетов с открытым исходным кодом. Шаблоны OTT сохраняют согласованный форматирование, позволяя командам создавать несколько документов на основе стабильного стиля.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание шаблонов OTT для производства многоязычных документов.
+
+* Создание структурированных шаблонов отчетов на основе руководств на Markdown.
+
+* Стандартизация документации для офисных сред с открытым исходным кодом.
+
+* Создание многоразовых форматов документов ODT для НПО или государственных учреждений.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное создание OTT в рабочих процессах с открытым исходным кодом.
+
+* Синхронизация обновлений шаблонов из контроля версий Markdown.
+
+* Пакетное создание наборов шаблонов для распределенных команд с использованием LibreOffice.
+
+* Государственные или некоммерческие системы создают шаблоны OTT по расписанию.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

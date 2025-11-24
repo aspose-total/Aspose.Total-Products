@@ -57,7 +57,55 @@ Med hjälp av API:t kan du också rotera den utgående TGA-bilden enligt dina be
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera Markdown (MD) till TGA (Targa Image) skapar högkvalitativa rastergrafik som vanligtvis används inom videoproduktion, spel eller tekniska diagram. TGA stödjer alfakanaler och okomprimerad utdata för noggrann representation.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsområden" %}}
+
+
+
+* Exportera Markdown-baserade diagram för videoöverlägg eller spelresurser.
+
+* Högupplösta grafik för teknisk dokumentation.
+
+* Skapa alfakanalbilder från Markdown-visualiseringar.
+
+* Generera okomprimerade tekniska diagram för presentationsmaterial.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Automatisk TGA-generering från Markdown-repositorier för kreativa processer.
+
+* Batchexport av diagram för videoproduktion eller teknisk dokumentation.
+
+* Schemalagd konvertering av Markdown-diagram för simulering eller spelprojekt.
+
+* Integration med innehållshanteringssystem för automatisk utmatning av TGA-visuella element.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

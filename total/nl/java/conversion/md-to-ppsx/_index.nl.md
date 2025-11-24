@@ -59,7 +59,55 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) naar PPSX (PowerPoint Diavoorstelling) conversie produceert moderne diavoorstellingsbestanden die direct in de volledig schermmodus worden geopend. PPSX wordt veel gebruikt voor automatisch afspelende presentaties in zakelijke, retail- en evenementomgevingen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Automatisch afspelen van verkooppresentaties afkomstig van MD-notities.
+
+* Bedrijfslobby-schermen gemaakt van Markdown-inhoud.
+
+* Evenementdiavoorstellingen op basis van MD-schema's of agenda's.
+
+* Doorlopende productdemonstraties afgeleid van Markdown-beschrijvingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde PPSX-workflows voor bewegwijzering en displayborden.
+
+* Geplande diavoorstellinggeneratie van Markdown-evenementscripts.
+
+* Batch-PPSX-creatie voor gebruik in winkelvestigingen.
+
+* MD-naar-PPSX-conversies binnen digitale bewegwijzeringsplatforms.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ MDファイルをFODSに変換するときに、出力FODSファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）からFODS（Flat OpenDocument Spreadsheet）への変換により、オープンソースオフィススイート向けの編集可能なXMLベースのスプレッドシートファイルが生成されます。 FODSは、セル構造、数式、および書式を完全にテキストベースで、バージョンにやさしいレイアウトで保持します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* Markdownデータセットをオープンソースのスプレッドシート形式にエクスポートする。
+
+* LibreOfficeユーザー向けの構造化されたFODSファイルを作成する。
+
+* 開発チーム向けにMDテーブルをフラットなXMLスプレッドシートにインポートする。
+
+* テキストで読み取れる形式でスプレッドシートアーカイブを維持する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* バージョン管理の透明性のためのFODSへのバッチ変換。
+
+* オープンソースのETLパイプライン内でのMDからFODSへの統合。
+
+* 政府やNGOの文書作成のための自動化されたスプレッドシート作成。
+
+* 継続的なドキュメンテーションワークフローでのトリガーベースのFODS生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

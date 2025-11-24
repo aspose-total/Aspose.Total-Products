@@ -135,7 +135,51 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MHTML เป็น XAML (Extensible Application Markup Language) ช่วยให้กราฟิกเวกเตอร์และ UI บนเว็บสามารถถูกแปลงเป็นคอมโพเนนต์ UI ที่เข้ากันได้กับ Windows และภาพที่สามารถปรับขนาดได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การแปลงไดอะแกรมบนเว็บเป็น XAML สำหรับแอปพลิเคชัน WPF
+
+* การเก็บข้อมูลเค้าโครง UI บนเว็บสำหรับการพัฒนาซอฟต์แวร์
+
+* การเตรียมการทำแผงควบคุมแบบอินเทอร์แอคทีฟสำหรับแอปพลิเคชันบนเดสก์ท็อป
+
+* การสกัดกราฟิกเวกเตอร์สำหรับโครงการ UI บน Windows
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงเป็นชุดข้อมูล MHTML เป็น XAML สำหรับการพัฒนาแอปพลิเคชัน
+
+* การวางท่วงทางสำหรับการแปลงโปรโตไทป์ UI บนเว็บ
+
+* การสร้าง XAML โดยอัตโนมัติสำหรับการผสานแอปพลิเคชัน WPF
+
+* การเก็บข้อมูลเวกเตอร์บนเว็บอัตโนมัติสำหรับทีมซอฟต์แวร์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

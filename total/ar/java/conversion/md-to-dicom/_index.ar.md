@@ -57,7 +57,55 @@ otherformats: TGA PSD DXF WMF DICOM SVGZ JPEG2000 EMZ WMZ IMAGE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات التنسيق Markdown (MD) إلى تنسيق DICOM (Digital Imaging and Communications in Medicine) يمكن من دمج الوثائق النصية أو التعليقات في سير العمل الخاصة بالصور الطبية. يدعم DICOM البيانات الوصفية، والهياكل القياسية للصور، وهو مثالي لأنظمة المستشفيات والبيئات البحثية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تضمين ملاحظات سريرية قائمة على Markdown في أرشيف الصور الطبية.
+
+* إنشاء رسوم توضيحية هيكلية لتعليم المرضى باستخدام محتوى Markdown.
+
+* دمج وثائق البحث في مجموعات بيانات الصور المتوافقة مع DICOM.
+
+* تخزين التعليقات القائمة على النصوص بجانب صور الأشعة التشخيصية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* توليد MD-to-DICOM تلقائي لأنظمة توثيق المستشفيات.
+
+* معالجة دفعية لملفات Markdown السريرية لدمجها في سجلات الصحة الإلكترونية.
+
+* خطوط أنابيب التحويل المجدولة تغذي أرشيفات DICOM.
+
+* تقديم تقارير Markdown بجانب بيانات الصور لتشخيص مساعد بواسطة الذكاء الاصطناعي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

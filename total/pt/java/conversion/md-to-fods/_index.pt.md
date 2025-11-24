@@ -47,7 +47,55 @@ Ao converter o arquivo MD para FODS, você também pode adicionar marca d'água 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A conversão de MD (Markdown) para FODS (Flat OpenDocument Spreadsheet) produz arquivos de planilha baseados em XML editáveis, ideais para suítes de escritório de código aberto. O FODS mantém estruturas de células, fórmulas e formatação em um layout totalmente baseado em texto, amigável para versões.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Exportar conjuntos de dados Markdown para formatos de planilha de código aberto.
+
+* Criar arquivos FODS estruturados para usuários do LibreOffice.
+
+* Importar tabelas MD em planilhas XML planas para equipes de desenvolvimento.
+
+* Manter arquivos de planilha em forma legível por texto.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote para FODS para transparência de controle de versão.
+
+* Integrar MD-to-FODS dentro de pipelines de ETL de código aberto.
+
+* Criação automatizada de planilhas para documentação governamental ou de ONGs.
+
+* Geração de FODS baseada em gatilhos em fluxos de trabalho de documentação contínua.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

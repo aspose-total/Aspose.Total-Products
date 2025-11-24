@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů Markdown (MD) na MHTML (Web Archive) umožňuje zabalit celý dokument včetně formátování, obrázků a odkazů do jednoho souboru připraveného pro web. Soubory MHTML jsou ideální pro sdílení obsahu Markdown napříč prohlížeči, archivaci dokumentace a distribuci přenosných webových stránek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Archivace dokumentace Markdown jako samostatných webových stránek.
+
+* Vytváření přenosných zpráv pro offline čtení v libovolném prohlížeči.
+
+* Distribuce uživatelských příruček nebo technických průvodců jako jednoho souboru webových archivů.
+
+* Uchování dokumentace projektu založeného na Markdown s vloženými médii.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatická noční konverze repozitářů Markdown na MHTML pro webovou distribuci.
+
+* Hromadná archivace interních dokumentů znalostní báze ve formátu MHTML.
+
+* Integrace s potrubími správy obsahu pro generování souborů MHTML z Markdownu.
+
+* Spouštěná konverze v pracovních postupech CI/CD pro generování dokumentace připravené pro prohlížeč.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Přeměna souborů MD (Markdown) na soubory DOCM (Word s makry) umožňuje týmům vylepšit lehké textové soubory interaktivními automatizačními funkcemi. Soubory DOCM podporují vestavěné makra, což je činí ideálními pro dokumentaci řízenou pracovním postupem, firemní šablony a automaticky generované zprávy vyžadující dynamické akce v programu Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převádění vývojářských poznámek v Markdownu na SOPy s makry.
+
+* Dokumenty s politikami s povolenými automatickými akcemi pro podnikové pracovní postupy.
+
+* Interaktivní šablony návrhů vytvořené z MD souborů uložených v Gitu.
+
+* Makro-řízené auditní záznamy generované z Markdownových změnových záznamů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná konverze MD na DOCM pro týmy dodržování předpisů.
+
+* ETL potrubí produkující makro-povolené zprávy Wordu z Markdownu.
+
+* CI/CD pracovní postupy regenerující dokumenty DOCM z obsahu repozitáře.
+
+* Automatická dokumentace spouštěná makry pro inženýrské oddělení.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

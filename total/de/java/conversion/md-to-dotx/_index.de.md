@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Umwandlung von Markdown (MD) in DOTX (Word-Vorlage ohne Makros) ist ideal für die Erstellung schlanker, konsistenter und wiederverwendbarer Layout-Vorlagen. DOTX bewahrt Designelemente, während Teams den Inhalt aus leichten Markdown-Dateien in versionskontrollierten Umgebungen aktualisieren können.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Unternehmens-Branding-Vorlagen aus MD-Dokumentationen.
+
+* Standardisierte Schulungsunterlagen aus Markdown-Dokumentationen erstellt.
+
+* Vorlagenbasierte Marketingbroschüren ursprünglich in MD verfasst.
+
+* Strukturierte Vorlagen für wissenschaftliche Arbeiten aus Markdown-Quellen generiert.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierte DOTX-Erstellung über CI/CD für Dokumentationsteams.
+
+* Neuerstellung standardisierter Word-Vorlagen aus Repository-MD-Dateien.
+
+* Stapelverarbeitung von Markdown-Repositories in einsatzbereite DOTX-Layouts.
+
+* Einheitliche Vorlagenerstellung für Organisationen mit mehreren Einheiten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

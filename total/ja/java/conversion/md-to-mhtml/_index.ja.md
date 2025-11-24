@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）ファイルをMHTML（Web Archive）に変換すると、整形、画像、リンクを含むドキュメント全体を1つのWeb用ファイルにパッケージ化できます。MHTMLファイルは、Markdownコンテンツをブラウザ間で共有したり、ドキュメントをアーカイブしたり、ポータブルなWebページを配布するのに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* Markdownドキュメントを自己完結型のWebページとしてアーカイブする。
+
+* どんなブラウザでもオフラインで読むためのポータブルなレポートを作成する。
+
+* ユーザーマニュアルや技術ガイドを1つのファイルでWebアーカイブとして配布する。
+
+* 埋め込みメディアを含むMarkdownベースのプロジェクトドキュメントを保存する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* Markdownリポジトリを毎晩自動的にMHTMLに変換してWeb配布する。
+
+* 内部ナレッジベースドキュメントをMHTML形式で一括アーカイブする。
+
+* コンテンツ管理パイプラインと統合して、MarkdownからMHTMLファイルを生成する。
+
+* ブラウザ用のドキュメントを生成するためのCI/CDワークフローでトリガー変換を行う。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,55 @@ otherformats: EMZ WMF PSD IMAGE SVGZ WMZ JPEG2000 DXF TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل Markdown (MD) إلى SVGZ (SVG مضغوط) ينشئ صورًا نقطية قابلة للتوسيع بتنسيق مضغوط. مثالي للرسومات على الويب، والرسوم البيانية الاستجابية، والتصورات التفاعلية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء رسوم بيانية نقطية مضغوطة من محتوى Markdown.
+
+* إنشاء رسوم توضيحية على الويب استجابية من جداول Markdown.
+
+* إنتاج أيقونات أو رسوم بيانية قابلة للتوسيع.
+
+* تضمين رسوم بيانية نقطية مضغوطة في الوثائق على الإنترنت.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعة من Markdown إلى SVGZ لنشرها على الويب.
+
+* تكامل الأنابيب لتوليد الرسوم التخطيطية بشكل آلي.
+
+* تحديثات مجدولة لملفات SVGZ للوحات التفاعلية.
+
+* ضغط الرسوم التخطيطية من Markdown إلى تنسيقات جاهزة للويب محسنة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

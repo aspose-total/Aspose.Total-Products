@@ -59,7 +59,55 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod z MD (Markdown) do PPS (PowerPoint Slideshow) je ideální pro přeměnu lehkého obsahu na automaticky spouštěné prezentace. PPS se otevírá přímo jako prezentace, což je ideální pro kiosky, displeje a smyčkové prezentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření smyčkových kioskových prezentací z poznámek v Markdownu.
+
+* Automatické spouštění produktových displejů generovaných z popisů v MD.
+
+* Prezentace událostí získané ze plánů v MD.
+
+* Muzea, maloobchod nebo expozice vytvořené přímo z Markdownu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná generace prezentací PPS pro digitální značení.
+
+* Automatizované potrubí MD-to-PPS pro týmy správy událostí.
+
+* Plánované vytváření prezentací ze sdělení v Markdownu.
+
+* Generování smyčkových prezentací řízené dashboardem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,55 @@ L'API vous permet également d'exporter le fichier MD vers PSD dans un seul fich
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de Markdown (MD) en PSD (Document Photoshop) permet aux designers d'importer du contenu textuel et structuré dans des fichiers Photoshop en couches et modifiables. Le PSD permet de combiner des diagrammes basés sur Markdown avec une édition graphique professionnelle.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Transformation des notes Markdown en maquettes de design modifiables.
+
+* Création de diagrammes en couches pour des infographies ou du contenu marketing.
+
+* Combinaison de visuels générés par Markdown avec des éléments de branding.
+
+* Préparation de fichiers de design pour des flux de travail créatifs collaboratifs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion automatisée de Markdown en PSD pour les équipes marketing.
+
+* Création en lot d'actifs visuels en couches à partir de référentiels Markdown.
+
+* Intégration avec des pipelines graphiques pour la production de contenu.
+
+* Génération de PSD déclenchée pour des projets de design collaboratifs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

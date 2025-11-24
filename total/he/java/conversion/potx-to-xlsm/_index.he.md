@@ -102,7 +102,51 @@ otherformats: CSV TSV SXC XLS FODS EXCEL MHTML XLTM XLT DIF MARKDOWN XLAM XLSB O
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **POTX ל-XLSM** יוצרת חוברות עבודה של Excel המאופשרות מקרוים, מושלמות לאוטומציה של משימות דיווח חוזרות בהתבסס על תבנית תוכן.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת דוחות Excel דינמיים עם מקרוים מוטבעים.
+
+* אוטומציה של משימות חוזרות באמצעות תוכן המקור מתבנית.
+
+* בניית לוחות בקרה אינטראקטיביים מתבניות עיצוב.
+
+* הכנת כליעסקיים מאופשרי מקרו.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת XLSM בצורה צפופה לזרימות עבודה בארגון.
+
+* עדכונים בהתבסס על טריגרים לגיליון האלקטרוני עם מקרו.
+
+* שילוב במחזורי דיווח אוטומטיים.
+
+* יצירת חוברת עבודה מאופשרת מאקרו במתוזמנת למשימות חוזרות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

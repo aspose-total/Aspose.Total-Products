@@ -47,7 +47,55 @@ otherformats: XLSB DIF XLT EXCEL XLTM TSV TXT FODS XLTX SXC XLAM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MHTML إلى XLAM (إضافة Excel) يسمح بتضمين وظائف أو أدوات آلية مستمدة من محتوى الويب في Excel. XLAM مثالي للحسابات المخصصة والماكروات الإبلاغية والنصوص الآلية القابلة لإعادة الاستخدام.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* الإضافات المخصصة لـ Excel التي تم إنشاؤها من قوالب الحسابات عبر الإنترنت.
+
+* أدوات تنبؤ مالي تم بناؤها من مجموعات بيانات عبر الويب.
+
+* لوحات تفاعلية تحتوي على ماكروات من مصادر الويب.
+
+* أدوات آلية قابلة لإعادة الاستخدام لإعداد التقارير الشركية في Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* إنشاء آلي للإضافات XLAM من لوحات MHTML.
+
+* دمجها في خطوط الأتمتة في Excel.
+
+* توليد XLAM بناءً على الحاجة لمهام التقارير المتكررة.
+
+* معالجة دفعية لقوالب الحسابات عبر الإنترنت لتحويلها إلى إضافات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

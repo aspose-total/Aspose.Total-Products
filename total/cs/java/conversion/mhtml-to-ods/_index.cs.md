@@ -47,7 +47,51 @@ Při převodu souboru MHTML na ODS můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MHTML na ODS (OpenDocument Spreadsheet) umožňuje robustní úpravu tabulek napříč platformami a zachování formátování tabulek z webu. ODS je ideální pro spolupracující prostředí a pracovní postupy s otevřeným zdrojovým kódem.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Výkonnostní dashboardy společnosti archivované jako soubory ODS.
+
+* Spolupracující šablony pro sledování rozpočtu odvozené z webových dat.
+
+* Vzdělávací tabulky z online materiálů kurzů.
+
+* Statistické sady dat importované do editorů tabulek s otevřeným zdrojovým kódem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované potrubí MHTML-to-ODS pro sdílení dat mezi odděleními.
+
+* Spuštění generování ODS pro pravidelné finanční a prodejní zprávy.
+
+* Integrace s kancelářskými balíky s otevřeným zdrojovým kódem pro aktualizace živých dat.
+
+* Hromadný převod archivovaných tabulek z webu do ODS pro historickou analýzu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

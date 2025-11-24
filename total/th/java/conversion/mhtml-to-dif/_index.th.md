@@ -47,7 +47,55 @@ otherformats: XLT TSV EXCEL ODS MD XLSB XLTM DIF XLSM TXT XLTX SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML เป็น DIF (Data Interchange Format) ทำให้ข้อมูลตารางบนเว็บสามารถนำเข้าสู่แอปพลิเคชันสเปรดชีตเก่าและเครื่องมือสถิติที่เฉพาะเจาะจงได้ DIF ช่วยให้มีชุดข้อมูลที่มีโครงสร้างและสามารถพกพาได้ที่แพลตฟอร์มต่าง ๆ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* นำเข้าข้อมูลเว็บย้อนหลังเข้าสู่ซอฟต์แวร์วิเคราะห์สถิติ
+
+* แบ่งปันเนื้อหาตารางบนเว็บระหว่างชุดออฟฟิศที่ไม่สามารถทำงานร่วมกัน
+
+* แปลงข้อมูลสำรวจออนไลน์เป็น DIF สำหรับการวิจัยทางวิชาการ
+
+* เก็บถาวรแดชบอร์ดบนเว็บขององค์กรเพื่อปฏิบัติตามกฎระเบียบ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง DIF ตามกำหนดเวลาสำหรับระบบรายงานเก่า
+
+* การแปลงชุดข้อมูลตารางบนเว็บเป็นชุดข้อมูลเวิร์กโฟลว์跨แพลตฟอร์ม
+
+* การสกัด DIF โดยอัตโนมัติสำหรับการอัพเดตข้อมูลสำรวจเป็นระยะ
+
+* การสร้าง DIF ตามเหตุการณ์สำหรับวัตถุประสงค์ในการเก็บถาวรและตรวจสอบ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

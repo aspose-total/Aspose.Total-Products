@@ -49,7 +49,51 @@ otherformats: ODS XLT TSV XLTX XLSM MD XLTM FODS XLAM XLSB SXC DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML转SXC（StarOffice电子表格）转换允许传统StarOffice用户将网络数据保留在兼容的电子表格格式中。非常适合旧办公套件工作流程和历史存档需求。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 为传统StarOffice环境存档生成的网络表格。
+
+* 在旧版和现代办公套件之间共享电子表格模板。
+
+* 用于公司审计的历史数据报告。
+
+* 将在线调查结果迁移到SXC以进行研究分析。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于基于网络的SXC报告的定期转换管道。
+
+* 将MHTML表格批量处理为传统电子表格格式。
+
+* 自动存档以符合监管要求。
+
+* 与需要SXC输入的传统办公系统集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

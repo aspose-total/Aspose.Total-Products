@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) WordprocessingML (WordML)’e dönüştürülerek, yapılandırılmış XML tabanlı Word belgeleri elverişli hale getirilir, bu da kurumsal sistemler, CMS platformları ve belge mühendisliği boru hatları için idealdir. WordML, makine tarafından üretilen belgeler için düzen, etiketler ve veri bağlama konusunda hassas kontrol sunar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Markdown belgelerinin XML tabanlı WordML yapılarına dönüştürülmesi.
+
+* Otomatik belge sistemleri için MD'den oluşturulan yapılandırılmış raporlar.
+
+* Markdown metninden doğrudan oluşturulan veri bağlama için hazır teknik dosyalar.
+
+* Kurumsal CMS platformları, MD içeriğini WordML uyumlu şablonlara dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Sistem tarafından oluşturulan Word dosyaları için XML boru hattı oluşturma.
+
+* API tabanlı belge motorlarına beslenen otomatik Markdown dönüşümleri.
+
+* Depo Markdown'dan WordML arşivlerinin toplu oluşturulması.
+
+* XML tabanlı raporlama için doğrulama iş akışlarıyla entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

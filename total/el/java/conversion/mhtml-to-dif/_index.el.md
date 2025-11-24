@@ -47,7 +47,51 @@ otherformats: XLT TSV EXCEL ODS MD XLSB XLTM DIF XLSM TXT XLTX SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή MHTML σε DIF (Data Interchange Format) επιτρέπει την εισαγωγή δεδομένων πίνακα που βρίσκονται στο web σε εφαρμογές υπολογιστικών φύλλων και εξειδικευμένα εργαλεία στατιστικής. Το DIF εξασφαλίζει δομημένα, φορητά σύνολα δεδομένων σε διαφορετικές πλατφόρμες.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+
+
+* Εισαγωγή ιστορικών δεδομένων από το web σε λογισμικό ανάλυσης στατιστικών.
+
+* Διαμοιρασμός πίνακα περιεχομένου από το web σε μη συμβατές σουίτες γραφείου.
+
+* Μετατροπή δεδομένων από online έρευνες σε DIF για ακαδημαϊκές έρευνες.
+
+* Αρχειοθέτηση εταιρικών πινάκων ελέγχου βασισμένων στο web για συμμόρφωση.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένη μετατροπή DIF για συστήματα αναφοράς κληρονομιάς.
+
+* Μαζική μετατροπή πινάκων από το web για ροές εργασίας διαφορετικών πλατφορμών.
+
+* Αυτοματοποιημένη εξαγωγή DIF για επαναλαμβανόμενες ενημερώσεις δεδομένων από έρευνες.
+
+* Ενεργοποιημένη δημιουργία DIF για αρχειοθέτηση και ελεγκτικούς σκοπούς.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

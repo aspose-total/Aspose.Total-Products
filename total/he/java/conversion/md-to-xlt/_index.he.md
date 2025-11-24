@@ -78,7 +78,49 @@ otherformats: CSV SXC ODS XLTM XLTX FODS XLSM DIF XLSB XLAM EXCEL TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MD (Markdown) ל-XLT (תבנית Excel) מאפשרת לצוותים ליצור תבניות Excel הניתנות לשימוש חוזר עם עיצוב ופריסה עקביים. קבצי XLT עוזרים לארגונים לתקן את יצירת המסמכים בעודם שומרים על תוכן המקור ב־Markdown.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* בניית תבניות דיווח מובנות מהנחיות MD.
+* יצירת תבניות גיליון אלקטרוניות בעיצוב החברה.
+* המרת SOPs ב־Markdown לתבניות Excel מוכנות לשימוש.
+* גיליונות קלט נתונים בהתבסס על תיקי MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* התחדשות אוטומטית של תבניות XLT מ־MD בשליטת גרסאות.
+* יצירת תבניות בצורה צפונית עבור מחלקות עסקיות.
+* בניית תבניות באמצעות ETL לצרכי דיווח מובנים.
+* זרימות עבודה להפצת תבניות בהתבסס על רשת סניפים או סניפים עצמאיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

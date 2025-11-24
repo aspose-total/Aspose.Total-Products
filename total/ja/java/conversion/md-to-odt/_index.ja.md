@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）からODT（OpenDocument Text）への変換により、オープンソースに対応したドキュメンテーションワークフローが可能になります。ODTファイルは、LibreOfficeやOpenOfficeを使用するチームにとって、プロプライエタリなWord形式の柔軟で軽量な代替手段を提供しつつ、豊富な書式設定を可能にします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* オープンソースのドキュメンテーションを専門的な書式設定されたODTファイルとして公開する。
+
+* Markdownガイドを編集可能なLibreOfficeドキュメントに変換する。
+
+* プロプライエタリな形式を避ける組織向けのクロスプラットフォームドキュメントを作成する。
+
+* MDコンテンツからのローカライズされたODTマニュアルの作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* Markdownリポジトリの一括変換を行い、ODTによる公開配布を実現する。
+
+* オープンソースプロジェクトでの自動化されたODTドキュメンテーション生成。
+
+* 政府やNGO向けにODTを出力するクロスプラットフォームETLワークフロー。
+
+* ローカライゼーションや翻訳パイプラインでのトリガーベースのODT作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

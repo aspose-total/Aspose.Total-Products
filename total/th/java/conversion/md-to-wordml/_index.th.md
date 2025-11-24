@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MD (Markdown) เป็น WordprocessingML (WordML) ช่วยให้ได้เอกสาร Word ที่มีโครงสร้างเป็น XML ที่เหมาะสำหรับระบบองค์กร แพลตฟอร์ม CMS และท่องไปของวิศวกรรมเอกสาร WordML มีการควบคุมที่แม่นยำเกี่ยวกับเค้าโครง แท็ก และการผูกข้อมูลสำหรับเอกสารที่สร้างขึ้นโดยเครื่อง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การย้ายเอกสาร Markdown เป็นโครงสร้าง WordML ที่ขับเคลื่อนด้วย XML
+
+* รายงานโครงสร้างที่สร้างจาก MD สำหรับระบบเอกสารอัตโนมัติ
+
+* ไฟล์เทคนิคที่พร้อมผูกข้อมูล สร้างโดยตรงจากข้อความ Markdown
+
+* แพลตฟอร์ม CMS ขององค์กรที่แปลงเนื้อหา MD เป็นเทมเพลตที่เข้ากันได้กับ WordML
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างท่องไปของ XML สำหรับไฟล์ Word ที่สร้างขึ้นโดยระบบ
+
+* การแปลง Markdown อัตโนมัติที่ใช้ API เข้ากับเครื่องยนต์เอกสาร
+
+* การสร้างไฟล์ WordML จาก Markdown ในคลังข้อมูลเป็นชุด
+
+* การผสานกับกระบวนการทำงานที่ใช้สำหรับรายงานที่ใช้ XML
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

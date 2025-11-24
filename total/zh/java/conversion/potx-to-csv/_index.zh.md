@@ -61,7 +61,55 @@ otherformats: DIF XLAM MHTML XLSB XLTM XLSM EXCEL TSV SXC XLSX MARKDOWN ODS XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将**POTX转换为CSV**将PowerPoint模板数据转换为逗号分隔值，从而快速提取表格、占位符和基于布局的数据，用于分析和报告应用程序。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 导出嵌入模板的表格以用于报告仪表板。
+
+* 为CRM或ERP集成准备CSV数据。
+
+* 提取占位符文本以进行内容审计。
+
+* 将POTX模板结构迁移至电子表格准备格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将多个模板文件转换为CSV数据集。
+
+* 定期将POTX内容提取到分析管道中。
+
+* 当模板库更新时基于触发器生成CSV。
+
+* 将基于POTX的CSV集成到BI或自动化工作流程中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

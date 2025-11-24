@@ -129,7 +129,55 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML'yi OTT'ye (OpenDocument Şablonu) dönüştürmek, açık kaynak ofis paketleri için yeniden kullanılabilir şablonların oluşturulmasına olanak tanır, web tabanlı stil ve düzen tutarlılığını korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* LibreOffice için şirket genelinde belge şablonları.
+
+* Web tabanlı eğitim içeriğinden yeniden kullanılabilir ders planı şablonları.
+
+* Standartlaştırılmış açık kaynak teklif ve sözleşme şablonları.
+
+* İşbirlikçi içerik yönetimi için iş akışı şablonları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Birden fazla MHTML sayfasından OTT şablonlarının otomatik oluşturulması.
+
+* Toplu belge oluşturma için LibreOffice otomasyon araçlarıyla entegrasyon.
+
+* Değişen web tabanlı içerikten tetiklenen şablon güncellemeleri.
+
+* Dağıtılmış ekipler arasında belge standardizasyonunun basitleştirilmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

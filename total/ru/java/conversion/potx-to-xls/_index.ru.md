@@ -61,7 +61,51 @@ otherformats: FODS XLTX DIF XLTM XLSM MARKDOWN XLSB SXC XLT XLAM XLSX EXCEL MHTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **POTX в XLS** экспортирует содержимое шаблона в классические электронные таблицы Excel, обеспечивая совместимость с более старыми версиями Office.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Переиспользование таблиц шаблона для устаревших рабочих процессов Excel.
+
+* Создание электронных таблиц в старом формате для тестирования совместимости.
+
+* Извлечение структурированного содержимого шаблона для внутренней отчетности.
+
+* Поддержка обмена данными между отделами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Конвертация XLS в больших масштабах для архивирования предприятия.
+
+* Генерация устаревших электронных таблиц по расписанию из стандартных шаблонов.
+
+* Обновления XLS на основе триггеров для систем соблюдения требований.
+
+* Интеграция с документами, требующими старые стандарты файлов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）文件转换为MHTML（Web存档）可将整个文档（包括格式、图像和链接）打包成一个单个的适用于Web的文件。MHTML文件非常适合在各种浏览器之间共享Markdown内容、存档文档以及分发便携式网页。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将Markdown文档存档为独立的网页。
+
+* 创建便携式报告，可在任何浏览器中离线阅读。
+
+* 将用户手册或技术指南分发为单个文件的Web存档。
+
+* 保留包含媒体的基于Markdown的项目文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 自动化将Markdown存储库每晚转换为MHTML以进行Web分发。
+
+* 批量将内部知识库文档存档为MHTML格式。
+
+* 与内容管理流水线集成，从Markdown生成MHTML文件。
+
+* 在CI/CD工作流中触发转换以生成适用于浏览器的文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

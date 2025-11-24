@@ -59,7 +59,55 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MD (Markdown) sang POTM (Mẫu PowerPoint có Macro) cho phép tạo các mẫu trình bày được làm giàu bằng tự động hóa. POTM hỗ trợ các macro VBA cho tự định dạng, tạo slide và chèn nội dung động.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Mẫu slide được kích hoạt bởi macro được xây dựng từ các khung Markdown.
+
+* Bộ mẫu báo cáo tự động được lấy từ tài liệu MD.
+
+* Tạo mẫu đào tạo tương tác bằng cách sử dụng nội dung MD.
+
+* Mẫu doanh nghiệp động được tải trước với logic VBA.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo mẫu POTM tự động được kích hoạt bởi cập nhật MD.
+
+* Tạo hàng loạt các mẫu PowerPoint có macro.
+
+* Luồng làm việc CI/CD xây dựng các khung POTM cho các nhóm báo cáo.
+
+* Tái tạo POTM theo luồng làm việc cho việc xây dựng thương hiệu doanh nghiệp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

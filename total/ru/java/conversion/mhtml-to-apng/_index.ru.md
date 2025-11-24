@@ -57,7 +57,51 @@ API также позволяет экспортировать файл MHTML в
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов MHTML (веб-архив) в APNG (анимированный PNG) сохраняет веб-изображения и анимацию в современном формате высокого качества. APNG поддерживает прозрачность и анимацию, что делает его идеальным для веб-графики и интерактивной визуализации.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание анимированных веб-иллюстраций из архивированных веб-страниц.
+
+* Инфографика, адаптированная для мобильных устройств, для образовательного контента.
+
+* Интерактивные панели с анимированными диаграммами.
+
+* Преобразование веб-баннеров в формате GIF в высококачественные APNG.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование нескольких изображений MHTML в APNG для веб-развертывания.
+
+* Автоматизированная интеграция в статические веб-сайты и мобильные приложения.
+
+* Автоматизированные конвейеры преобразования для визуальных элементов маркетинговых кампаний.
+
+* Планирование генерации анимации из динамических веб-панелей.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

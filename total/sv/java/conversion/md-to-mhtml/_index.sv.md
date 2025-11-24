@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera Markdown (MD)-filer till MHTML (Webbarkiv) gör att hela dokumentet, inklusive formatering, bilder och länkar, kan paketeras i en enda webbklar fil. MHTML-filer är idealiska för att dela Markdown-innehåll över webbläsare, arkivera dokumentation och distribuera bärbara webbsidor.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsområden" %}}
+
+
+
+* Arkivering av Markdown-dokumentation som självständiga webbsidor.
+
+* Skapa bärbara rapporter för offline-läsning i valfri webbläsare.
+
+* Distribuera användarmanualer eller tekniska guider som enskilda webbarkivsfiler.
+
+* Bevara Markdown-baserad projektdokumentation med inbäddade medier.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Automatisk nattlig konvertering av Markdown-repositorier till MHTML för webbdistribution.
+
+* Batcharkivering av interna kunskapsbasdokument i MHTML-format.
+
+* Integration med innehållshanteringssystem för att generera MHTML-filer från Markdown.
+
+* Utlöst konvertering i CI/CD-arbetsflöden för att generera webbläsarklar dokumentation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

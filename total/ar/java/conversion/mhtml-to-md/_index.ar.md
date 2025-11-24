@@ -47,7 +47,55 @@ otherformats: XLTM XLSB XLTX XLSM TXT FODS XLAM EXCEL SXC XLT ODS MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MHTML إلى MD يركز على إنشاء ملفات Markdown (.md) نظيفة وقابلة للتحرير من أرشيفات الويب. ملفات MD مثالية للمواقع الثابتة، ومستودعات GitHub، وتطبيقات الملاحظات، مما يوفر قابلية النقل والبساطة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء ملفات README على GitHub من محتوى الويب.
+
+* أرشفة الأدلة التقنية والبرامج التعليمية كـ Markdown.
+
+* تحويل المقالات المعرفية على الإنترنت إلى ملاحظات MD قابلة للتحرير.
+
+* إنشاء نشرات إخبارية أو وثائق مستندة إلى Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+
+
+* تحويل دفعي مجدول لملفات MHTML إلى MD لمشاريع الوثائق.
+
+* التكامل مع مولدات المواقع الثابتة مثل Hugo أو Jekyll.
+
+* تحويل مُشغل لأرشفة تلقائية لمحتوى الويب.
+
+* تكامل الأنابيب لأنظمة إدارة المحتوى المستندة إلى Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

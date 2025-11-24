@@ -59,7 +59,55 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MD (Markdown) sang PPS (PowerPoint Slideshow) là lựa chọn lý tưởng để biến nội dung nhẹ thành các tập tin trình diễn tự chạy. PPS mở trực tiếp dưới dạng trình diễn, làm cho nó hoàn hảo cho các kiosks, hiển thị và trình diễn lặp đi lặp lại.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tạo trình diễn kiosk lặp đi lặp lại từ ghi chú Markdown.
+
+* Hiển thị sản phẩm tự chạy được tạo ra từ các mô tả MD.
+
+* Hiển thị sự kiện dựa trên lịch trình MD.
+
+* Hiển thị bảo tàng, bán lẻ hoặc triển lãm được tạo trực tiếp từ Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo hàng loạt trình diễn PPS cho biển quảng cáo kỹ thuật số.
+
+* Các đường ống MD-to-PPS tự động cho các nhóm quản lý sự kiện.
+
+* Tạo trình diễn theo lịch trình từ các thông báo Markdown.
+
+* Tạo tập tin trình diễn lặp đi lặp lại dựa trên bảng điều khiển.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

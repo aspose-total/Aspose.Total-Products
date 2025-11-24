@@ -59,7 +59,55 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Umwandlung von MD (Markdown) in PPSM (Makrofähige PowerPoint-Präsentation) kombiniert die Funktionen der automatischen Diashow mit Automatisierung. PPSM unterstützt VBA-Makros für zeitgesteuerte Inhalte, dynamische Aktualisierungen und interaktive Erlebnisse.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Automatisierte Kiosks mit makrogesteuerten PPSM-Folien.
+
+* Interaktive Schulungsschleifen, die aus MD-Inhalten erstellt wurden.
+
+* Automatisch zeitgesteuerte Produktpräsentationen, die aus Markdown-Kurzbeschreibungen stammen.
+
+* Dynamische Einzelhandels- oder Event-Displays mit makrofähigen Diashows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Workflow-gesteuerte PPSM-Produktion, ausgelöst durch Markdown-Änderungen.
+
+* Generierung von makrofähigen Diashows für Unternehmensanzeigesysteme.
+
+* Automatische Aktualisierungen des Kioskinhalts aus MD-Repositories.
+
+* Stapelweise PPSM-Erstellung für Einzelhandels- oder Messeketten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

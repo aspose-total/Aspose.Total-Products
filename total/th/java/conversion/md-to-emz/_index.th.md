@@ -57,7 +57,40 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น EMZ (Compressed Enhanced Metafile) สร้างกราฟิกเวกเตอร์ที่กระชับที่เหมาะสำหรับฝังในงานนำเสนอ เอกสาร หรือเว็บไซต์ EMZ รักษาภาพประกอบที่ใช้เส้นและลดขนาดไฟล์โดยไม่สูญเสียคุณภาพ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* บีบอัดไดอะแกรม Markdown เพื่อฝังในรายงาน
+
+* สร้างภาพ EMZ สำหรับสไลด์เดคและงานนำเสนอ
+
+* แบ่งปันภาพเทคนิคที่ได้มาจากเนื้อหา Markdown
+
+* เก็บสำรองไดอะแกรมเวกเตอร์ในรูปแบบที่ประหยัดพื้นที่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง MD เป็น EMZ โดยอัตโนมัติสำหรับท่องไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไปไ
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

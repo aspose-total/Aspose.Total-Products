@@ -47,7 +47,51 @@ otherformats: XLSB DIF XLT EXCEL XLTM TSV TXT FODS XLTX SXC XLAM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MHTML เป็น XLAM (Excel Add-In) ช่วยให้สามารถฝังฟังก์ชันหรือเครื่องมืออัตโนมัติที่ได้มาจากเนื้อหาเว็บลงใน Excel ได้ XLAM เหมาะสำหรับการคำนวณแบบกำหนดเอง แมโครสำหรับรายงาน และสคริปต์อัตโนมัติที่ใช้ซ้ำได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้าง Excel add-ins แบบกำหนดเองจากเทมเพลตการคำนวณออนไลน์
+
+* เครื่องมือทำนายการเงินที่สร้างจากชุดข้อมูลออนไลน์
+
+* แดชบอร์ดแบบโต้ตอบด้วยแมโครที่มาจากเว็บ
+
+* เครื่องมืออัตโนมัติที่ใช้ซ้ำได้สำหรับรายงานธุรกิจใน Excel
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* สร้าง XLAM add-ins อัตโนมัติจากแดชบอร์ด MHTML
+
+* การผสานเข้ากับไปไลน์ออโตเมชันของ Excel
+
+* การสร้าง XLAM ตามเงื่อนไขสำหรับงานรายงานที่เกิดซ้ำ
+
+* ประมวลผลเป็นชุดของเทมเพลตการคำนวณออนไลน์เป็น add-ins
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

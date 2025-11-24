@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp Markdown (MD) sang MHTML (Web Archive) cho phép toàn bộ tài liệu, bao gồm định dạng, hình ảnh và liên kết, được đóng gói vào một tệp sẵn sàng trên web. Các tệp MHTML lý tưởng để chia sẻ nội dung Markdown trên các trình duyệt, lưu trữ tài liệu và phân phối trang web di động.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Lưu trữ tài liệu Markdown dưới dạng trang web tự chứa.
+
+* Tạo báo cáo di động để đọc ngoại tuyến trên bất kỳ trình duyệt nào.
+
+* Phân phối hướng dẫn sử dụng hoặc hướng dẫn kỹ thuật dưới dạng lưu trữ web đơn tệp.
+
+* Bảo tồn tài liệu dự án dựa trên Markdown với phương tiện nhúng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi tự động hàng đêm các kho lưu trữ Markdown sang MHTML để phân phối trên web.
+
+* Lưu trữ hàng loạt tài liệu cơ sở kiến thức nội bộ dưới dạng MHTML.
+
+* Tích hợp với đường ống quản lý nội dung để tạo ra các tệp MHTML từ Markdown.
+
+* Chuyển đổi kích hoạt trong quy trình làm việc CI/CD để tạo tài liệu sẵn sàng trên trình duyệt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

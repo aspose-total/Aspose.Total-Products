@@ -79,7 +79,55 @@ otherformats: SXC TXT FODS XLTM ODS XLT XLTX XLSM DIF EXCEL XLSB CSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення MD (Markdown) на XLAM (додаток Excel) дозволяє створювати макро-включені файли розширення, що містять функції, автоматизацію та повторно використовувану логіку. Цей формат підтримує досвідчених користувачів Excel, які потребують програмованих додатків.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Створення макро-додатків з бібліотек формул на основі Markdown.
+
+* Упакування скриптів, отриманих з MD, в XLAM для фінансових команд.
+
+* Автоматизація повторюваних завдань з аналітики за допомогою створення додатків.
+
+* Розповсюдження стандартизованих пакетів макро, отриманих з приміток Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Автоматизовані побудови XLAM з MD в конвеєрах CI/CD.
+
+* Генерація макро-додатків з контролем версій для підприємств.
+
+* Пакетне створення інструментів XLAM для відділів аналізу даних.
+
+* Автоматичне оновлення макро-додатків, отриманих з документації Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

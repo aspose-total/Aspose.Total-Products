@@ -70,7 +70,55 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) to PPSX (PowerPoint Slideshow) conversion produces modern slideshow files that open directly into full-screen mode. PPSX is widely used for auto-running presentations in corporate, retail, and event environments.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* Auto-playing sales presentations sourced from MD notes.
+
+* Corporate lobby screens created from Markdown content.
+
+* Event slide loops built from MD-based schedules or agendas.
+
+* Continuous product demos derived from Markdown descriptions.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* Automated PPSX workflows for signage and display boards.
+
+* Scheduled slideshow generation from Markdown event scripts.
+
+* Batch PPSX creation for use across retail outlets.
+
+* MD-to-PPSX conversions within digital signage platforms.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

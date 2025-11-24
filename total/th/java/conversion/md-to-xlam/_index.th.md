@@ -47,7 +47,55 @@ otherformats: SXC TXT FODS XLTM ODS XLT XLTX XLSM DIF EXCEL XLSB XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MD (Markdown) เป็น XLAM (Excel Add-in) ช่วยให้เกิดไฟล์ส่วนเสริมที่มีแมโครที่สามารถใช้งานได้ ซึ่งประกอบด้วยฟังก์ชัน อัตโนมัติ และตรรกะที่สามารถนำมาใช้ซ้ำได้ รูปแบบนี้สนับสนุนผู้ใช้ Excel ระดับสูงที่ต้องการส่วนเสริมที่สามารถโปรแกรมได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้างส่วนเสริมแมโครจากไลบรารีสูตรที่มาจาก Markdown
+
+* แพ็คเกจสคริปต์ที่มาจาก MD เข้าสู่ XLAM สำหรับทีมทางการเงิน
+
+* อัตโนมัติงานวิเคราะห์ที่ซ้ำซากผ่านการสร้างส่วนเสริม
+
+* การกระจายแพ็คส่วนเสริมแมโครที่มีมาจากบันทึก Markdown ในรูปแบบมาตรฐาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* สร้าง XLAM อัตโนมัติจาก MD ในท่อ CI/CD
+
+* การสร้างส่วนเสริมแมโครที่ควบคุมเวอร์ชันสำหรับองค์กร
+
+* การสร้างเครื่องมือ XLAM แบบกลุ่มสำหรับแผนกวิเคราะห์ข้อมูล
+
+* การอัพเดทอัตโนมัติส่วนเสริมแมโครที่มาจากเอกสาร Markdown
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

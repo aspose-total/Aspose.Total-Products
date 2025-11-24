@@ -47,7 +47,55 @@ otherformats: XLT SXC ODS XLTM XLTX FODS XLSM DIF XLSB XLAM EXCEL TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MD (Markdown) إلى XLT (Excel Template) يسمح للفرق بإنشاء قوالب Excel قابلة لإعادة الاستخدام بتنسيق وتخطيط متسقين. تساعد ملفات XLT المؤسسات في توحيد إنشاء الوثائق مع الحفاظ على محتوى المصدر في Markdown.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* بناء قوالب تقارير منظمة من إرشادات MD.
+
+* إنتاج قوالب جداول بيانات تحمل علامة الشركة.
+
+* تحويل إجراءات التشغيل القياسية في Markdown إلى قوالب Excel جاهزة للاستخدام.
+
+* أوراق إدخال البيانات القائمة على القوالب المستمدة من دليل MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* إعادة توليد تلقائية لقوالب XLT من MD الموجودة في الإصدارات المُسيطر عليها.
+
+* إنشاء دفعة من القوالب لأقسام المؤسسة.
+
+* بناء قوالب مدفوعة بـ ETL لاحتياجات التقارير المنظمة.
+
+* سير العمل لتوزيع القوالب استنادًا إلى الفرنشايز أو الفروع.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

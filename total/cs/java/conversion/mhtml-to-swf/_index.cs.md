@@ -121,7 +121,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MHTML na SWF (Shockwave Flash) převádí webové animace a interaktivní obsah do formátu Flash pro použití v multimédiích nebo prezentacích z minulosti.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Archivace interaktivních webových návodů a animací.
+
+* Převod online prezentací nebo demo verzí do souborů SWF.
+
+* Vzdělávací moduly s animacemi exportovanými pro offline použití.
+
+* Marketingový obsah s interaktivními vizuály zachovanými z webových stránek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná hromadná konverze webových animací do formátu SWF.
+
+* Spuštěný export pro offline vzdělávací nebo školicí obsah.
+
+* Integrace s legacy prezentčním softwarem vyžadujícím formát SWF.
+
+* Automatizovaná archivace interaktivních webových grafik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,55 @@ otherformats: JPEG2000 PSD WMF DXF IMAGE WMZ SVGZ EMZ TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل Markdown (MD) إلى DXF (Drawing Exchange Format) يحول الرسوم التخطيطية المنظمة والمخططات إلى ملفات نقطية متوافقة مع CAD. يعتبر DXF مثاليًا لسير العمل في الهندسة والعمارة والتصنيع التي تتطلب رسوم توضيحية دقيقة معتمدة على الخطوط.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير الرسوم التخطيطية من Markdown إلى رسوم DXF جاهزة لل CAD.
+
+* تحويل المخططات والمخططات البيانية لتوثيق الهندسة.
+
+* إعداد رسوم العمارة أو الرسوم التوضيحية الميكانيكية من ملاحظات Markdown.
+
+* مشاركة الرسوم التخطيطية التقنية مع المتعاونين باستخدام برامج CAD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي من MD إلى DXF لفرق الهندسة والتصميم.
+
+* التكامل مع خطوط أنابيب التصميم الآلي للنمذجة السريعة.
+
+* تصديرات DXF المجدولة لأنظمة الوثائق التقنية.
+
+* توليد مُحفز للرسوم التوضيحية جاهزة لل CAD من مستودعات Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

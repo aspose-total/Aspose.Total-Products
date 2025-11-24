@@ -105,7 +105,51 @@ otherformats: PSD  APNG EMZ WMZ JPEG2000 SVGZ IMAGE WMF DXF DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MHTML ל-TGA (Targa) מייצרת תמונות רסטר באיכות גבוהה שנהוג לשימוש בדוגמאות תלת-ממד, משחקים או ויזואליזציה מדעית. TGA שומרת עומק צבע וערוצי אלפא לשימוש מתקדם.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* חילוץ טקסטורות מבוססות אינטרנט עבור דוגמאות תלת-ממד או סימולציות.
+
+* ארכוב ויזואליזציות מדעיות או תרשימים עם שקיפות.
+
+* המרת איורים מבוססי אינטרנט ל-TGA עבור צינורות עיצוב.
+
+* הכנת גרפיקה רסטר לאנימציה או נכסי משחק.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת TGA בצורה צפופה מגרפיקה בארכיון אינטרנט.
+
+* צינורות מתוזמנים לייצוא טקסטורות מלוחות מחומרים מקוונים.
+
+* יצירת TGA מופעלת עבור מערכות ניהול נכסים דיגיטליים.
+
+* שילוב עם זרימות עבודה של אנימציה או סימולציה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

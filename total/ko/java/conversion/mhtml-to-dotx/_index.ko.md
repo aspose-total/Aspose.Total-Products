@@ -129,7 +129,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML 파일을 DOTX로 변환하면(매크로가 없는 워드 템플릿) 안전하고 재사용 가능한 템플릿을 유지하면서 웹 콘텐츠 레이아웃을 보존할 수 있습니다. DOTX는 매크로가 보안상 제한되는 협업 문서 작성에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 내부 문서 작성을 위한 팀 협업 템플릿.
+
+* 일관된 스타일로 서식이 지정된 웹 기반 뉴스레터.
+
+* 강의 자료 및 수업 계획을 위한 교육용 템플릿.
+
+* 매크로가 없는 표준 계약서 및 제안서 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* MHTML 아카이브에서 DOTX 템플릿을 생성하는 자동화된 변환 파이프라인.
+
+* 대량 템플릿 배포를 위한 콘텐츠 관리 시스템 통합.
+
+* 기업 커뮤니케이션을 위한 미리 서식이 지정된 웹 데이터 템플릿.
+
+* 주기적 보고 업무를 위한 트리거 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

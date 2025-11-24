@@ -47,7 +47,51 @@ otherformats: XLTX DIF TXT FODS XLAM XLTM XLSB MD SXC XLSM EXCEL TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MHTML إلى XLSM (مصنف إكسل مع ماكرو) يحافظ على البيانات الويب مع تمكين الأتمتة المتقدمة والصيغ والماكرو لتقارير ديناميكية. XLSM مثالي للشركات التي تحتاج إلى جداول برمجية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* قوالب مالية مع حسابات آلية مستمدة من صفحات الويب.
+
+* لوحات تتبع المشاريع مع تحديثات بيانات تعتمد على الماكرو.
+
+* جداول تقارير الأعمال التفاعلية.
+
+* لوحات استطلاع عبر الإنترنت أو لوحات مؤشرات الأداء الرئيسية المصدرة إلى ماكرو إكسل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل MHTML إلى XLSM مُشغّل لتقارير دورية.
+
+* إنشاء ماكرو آلي من جداول مصدرها الويب.
+
+* التكامل مع أنظمة ERP وBI لتقارير إكسل مباشرة.
+
+* معالجة دفعية لعدة لوحات تحكم عبر الإنترنت إلى XLSM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

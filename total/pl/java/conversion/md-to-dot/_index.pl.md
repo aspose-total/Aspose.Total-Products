@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie MD (Markdown) na DOT (szablon Worda) pomaga firmom standaryzować markowe dokumenty, jednocześnie zachowując kontrolę wersji treści w Markdown. Szablony DOT zachowują spójność formatowania i zapewniają, że zespoły mogą natychmiast generować nowe pliki Worda z czystej, wielokrotnego użytku struktury.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Tworzenie spójnych nagłówków listów z szablonów opartych na Markdown.
+
+* Publikowanie arkuszy marketingowych zatwierdzonych przez markę na podstawie szkiców MD.
+
+* Zespoły HR generujące szablony dokumentów wprowadzających nowych pracowników na podstawie przewodników MD.
+
+* Działy prawne standaryzujące struktury umów pozyskanych z Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna generacja szablonów DOT w przepływach publikacji CMS.
+
+* Skoncentrowana konwersja dla zespołów rozproszonych aktualizujących zasoby związane z marką.
+
+* Zaplanowana regeneracja szablonów głównych przechowywanych w systemie Git.
+
+* Automatyczne tworzenie DOT dla potrzeb dokumentacji franczyzowej lub wielooddziałowej.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

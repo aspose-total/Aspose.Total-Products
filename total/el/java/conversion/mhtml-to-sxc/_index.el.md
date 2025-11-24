@@ -47,7 +47,51 @@ otherformats: ODS XLT TSV XLTX XLSM MD XLTM FODS XLAM XLSB SXC DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή MHTML σε SXC (StarOffice Spreadsheet) επιτρέπει στους χρήστες του παλαιού StarOffice να διατηρήσουν δεδομένα από τον ιστό σε συμβατές μορφές υπολογιστικών φύλλων. Ιδανική για παλαιότερες ροές εργασίας γραφείου και ιστορικές ανάγκες αρχειοθέτησης.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Αρχειοθέτηση πινάκων που δημιουργήθηκαν από τον ιστό για περιβάλλοντα του παλαιού StarOffice.
+
+* Κοινή χρήση προτύπων υπολογιστικών φύλλων μεταξύ παλαιότερων και σύγχρονων σουιτών γραφείου.
+
+* Αναφορά ιστορικών δεδομένων για εταιρικούς ελέγχους.
+
+* Μεταφορά αποτελεσμάτων διαδικτυακών δημοσκοπήσεων σε SXC για ανάλυση έρευνας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένες διαδικασίες μετατροπής για αναφορές SXC βασισμένες στον ιστό.
+
+* Παρτίδες επεξεργασίας πινάκων MHTML σε παλαιές μορφές υπολογιστικών φύλλων.
+
+* Αυτοματοποιημένη αρχειοθέτηση για τη συμμόρφωση με τη νομοθεσία.
+
+* Ενσωμάτωση με παλαιά συστήματα γραφείου που απαιτούν είσοδο SXC.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

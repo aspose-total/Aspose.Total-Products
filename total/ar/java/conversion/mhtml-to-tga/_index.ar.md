@@ -57,7 +57,55 @@ otherformats: PSD  TGA EMZ WMZ JPEG2000 SVGZ IMAGE WMF DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MHTML إلى TGA (Targa) ينتج صور نقطية عالية الجودة تستخدم عادة في نمذجة ثلاثية الأبعاد، الألعاب، أو التصوير العلمي. يحافظ TGA على عمق الألوان وقنوات ألفا للاستخدام المتقدم.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* استخراج القوام القائمة على الويب لنماذج ثلاثية الأبعاد أو المحاكاة.
+
+* أرشفة التصورات العلمية أو الرسوم البيانية بالشفافية.
+
+* تحويل الرسوم التوضيحية على الويب إلى TGA لأنابيب التصميم.
+
+* تحضير الرسومات النقطية للرسوم المتحركة أو أصول الألعاب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دُفعي لـ TGA من رسومات أرشيف الويب.
+
+* أنابيب مجدولة لتصدير القوام من لوحات التحكم عبر الإنترنت.
+
+* توليد TGA مُحفز لأنظمة إدارة الأصول الرقمية.
+
+* التكامل مع سير العمل للرسوم المتحركة أو المحاكاة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

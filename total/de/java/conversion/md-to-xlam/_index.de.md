@@ -47,7 +47,55 @@ Während Sie eine MD-Datei in XLAM konvertieren, können Sie Ihrem Ausgabe-XLAM-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Umwandlung von MD (Markdown) in XLAM (Excel-Add-In) ermöglicht die Erstellung von makrofähigen Erweiterungsdateien mit Funktionen, Automatisierung und wiederverwendbarer Logik. Dieses Format richtet sich an fortgeschrittene Excel-Benutzer, die programmierbare Add-Ins benötigen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Erstellung von Makro-Add-Ins aus Markdown-basierten Formelbibliotheken.
+
+* Verpackung von MD-Quellskripten in XLAM für Finanzteams.
+
+* Automatisierung wiederkehrender Analyseaufgaben durch die Erzeugung von Add-Ins.
+
+* Verteilung standardisierter Makro-Pakete, die aus Markdown-Notizen abgeleitet sind.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierte XLAM-Builds aus MD in CI/CD-Pipelines.
+
+* Versionskontrollierte Erzeugung von Makro-Add-Ins für Unternehmen.
+
+* Stapelweise Erstellung von XLAM-Tools für Datenanalyseabteilungen.
+
+* Automatisches Aktualisieren von Makro-Add-Ins, die aus Dokumentations-Markdown stammen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

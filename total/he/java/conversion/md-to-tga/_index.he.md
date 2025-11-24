@@ -81,7 +81,49 @@ otherformats: IMAGE WMF APNG WMZ SVGZ EMZ  PSD DXF JPEG2000 DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת Markdown (MD) ל־TGA (Targa Image) יוצרת גרפיקה רסטרית באיכות גבוהה שנהוגה בפקודות וידאו, משחקים או תרשימי הנדסה. TGA תומך בערוצי אלפא ובפלט לא דחוס לייצוג מדויק.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* ייצוא תרשימים מבוססי Markdown לשכבות וידאו או נכסים של משחקים.
+* גרפיקה ברזולוציה גבוהה לתיעוד הנדסי.
+* יצירת תמונות עם ערוץ אלפא מתוך ויזואליזציות ב־Markdown.
+* יצירת תרשימים טכניים לא דחוסים לחומרי הצגה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת TGA באופן אוטומטי ממאגרי Markdown לצרכי יצירתיים.
+* ייצוא רצפי תרשימים בצורה גורמת לייצור וידאו או תיעוד טכני.
+* המרה מתוזמנת של תרשימי Markdown לפרויקטים של סימולציה או משחקים.
+* שילוב עם מערכות ניהול תוכן ליצוא ויזואלים של TGA באופן אוטומטי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

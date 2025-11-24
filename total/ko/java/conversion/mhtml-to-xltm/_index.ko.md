@@ -47,7 +47,51 @@ MHTML 파일을 XLTM로 변환하는 동안 출력 XLTM 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML을 XLTM(매크로 활성화된 엑셀 템플릿)으로 변환하면 웹 콘텐츠에서 파생된 재사용 가능한 템플릿을 만들 수 있습니다. 프로그래밍 가능한 엑셀 템플릿이 필요한 반복 작업에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 온라인 데이터에서 업데이트된 매크로 활성화된 예산 템플릿.
+
+* 재무, 인사 또는 마케팅 팀을 위한 자동화된 보고서 템플릿.
+
+* 재사용 가능한 매크로 활성화된 엑셀 템플릿으로서의 KPI 대시보드.
+
+* 웹 테이블에서 생성된 프로젝트 계획 및 추적 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 반복 작업을 위한 예약된 MHTML-to-XLTM 변환.
+
+* 기업 자동화 시스템에 통합된 트리거된 템플릿 생성.
+
+* 웹 소스 대시보드의 일괄 처리를 통한 재사용 가능한 매크로 템플릿.
+
+* 동적 보고를 위한 엑셀 자동화 스크립트 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

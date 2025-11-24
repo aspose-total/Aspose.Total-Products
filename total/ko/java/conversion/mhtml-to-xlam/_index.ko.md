@@ -47,7 +47,51 @@ MHTML 파일을 XLAM로 변환하는 동안 출력 XLAM 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML를 XLAM(Excel Add-In)으로 변환하면 웹 콘텐츠에서 파생된 자동화된 기능이나 도구를 Excel에 임베드할 수 있습니다. XLAM은 사용자 정의 계산, 보고 매크로, 재사용 가능한 자동화 스크립트에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 온라인 계산 템플릿에서 생성된 사용자 정의 Excel 추가 기능.
+
+* 웹 기반 데이터셋에서 구축된 재무 예측 도구.
+
+* 웹 소스 매크로를 사용한 대화형 대시보드.
+
+* Excel에서 기업 보고용 재사용 가능한 자동화 도구.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* MHTML 대시보드에서 XLAM 추가 기능의 자동 생성.
+
+* Excel 자동화 파이프라인 통합.
+
+* 반복되는 보고 작업을 위한 XLAM 생성 트리거.
+
+* 온라인 계산 템플릿을 추가 기능으로 일괄 처리.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

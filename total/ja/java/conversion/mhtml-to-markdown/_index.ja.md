@@ -130,7 +130,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML（Webアーカイブ）ファイルをMARKDOWN（.md）に変換すると、Webコンテンツを軽量で読みやすく、ウェブサイト、ブログ、開発者向けドキュメントに適したポータブルなテキストに変換できます。Markdownは見出し、リンク、リスト、コードスニペットなどのコンテンツ構造を保持します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* 開発者向けドキュメント用にWebチュートリアルをMarkdownに変換する。
+
+* WebページからブログコンテンツをMarkdown形式でアーカイブする。
+
+* オンラインマニュアルからナレッジベース記事を作成する。
+
+* WebベースのレポートをポータブルなMarkdownノートに変換する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 複数のMHTMLページをMarkdownに一括変換して静的サイトジェネレータに使用する。
+
+* 開発者向けWikiの自動コンテンツ更新のためのトリガー付きMarkdown生成。
+
+* CI/CDパイプラインと統合してWebコンテンツをドキュメントに変換する。
+
+* Markdownベースのナレッジベース用にWebベースのレポートを自動抽出する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

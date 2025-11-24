@@ -47,7 +47,55 @@ Konwertując plik MD na XLTM, możesz także dodać znak wodny do wyjściowego f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie Markdown (MD) na XLTM (Szablon Excela z obsługą makr) tworzy wielokrotnego użytku szablony arkuszy kalkulacyjnych wzbogacone o automatyzację. Pliki XLTM obsługują makra do dynamicznej inicjalizacji, automatycznie wypełnianych pól i zaawansowanych działań w toku pracy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Szablony biznesowe sterowane makrami pozyskiwane z treści Markdown.
+
+* Tworzenie zautomatyzowanych arkuszy prognozowania na podstawie danych MD.
+
+* Konstruowanie wielokrotnego użytku szablonów obliczeniowych dla zespołów inżynieryjnych.
+
+* Tworzenie gotowych do użycia szablonów onboardingowych lub audytowych z obsługą makr.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczne generowanie szablonów XLTM za pomocą konwersji MD zasilanej przez CI.
+
+* Tworzenie zbiorczych makroobsługiwanych szablonów dla rozproszonych biur.
+
+* Zaplanowane aktualizacje plików XLTM z repozytoriów Markdown.
+
+* Dynamiczne skrypty przepływu pracy wypełniające szablony XLTM danymi z backendu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

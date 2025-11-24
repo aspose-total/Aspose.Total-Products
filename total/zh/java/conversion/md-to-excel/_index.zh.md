@@ -49,7 +49,55 @@ otherformats: XLTX XLAM DIF TXT XLT TSV ODS SXC FODS XLSB XLTM EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为Excel（XLS/XLSX）可将简单文本文件转换为丰富、准备好公式的电子表格。Excel 输出支持格式设置、图表、数据验证和分析，使其适用于业务报告和运营工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将Markdown特性列表转换为可排序的Excel表格。
+
+* 创建源自MD文档的财务报告。
+
+* 将Markdown表格导入为Excel数据跟踪器。
+
+* 以电子表格格式准备基于MD的产品目录。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将Markdown文档流水线驱动转换为Excel工作簿。
+
+* 批量为多个部门生成XLSX文件。
+
+* 从版本控制的MD存储库自动更新Excel报告。
+
+* 数据工程工作流程从MD → Excel 转换中获取数据。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

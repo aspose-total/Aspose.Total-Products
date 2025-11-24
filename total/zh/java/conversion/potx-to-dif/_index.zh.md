@@ -61,7 +61,51 @@ otherformats: MHTML SXC XLTM FODS XLSM MARKDOWN XLT EXCEL ODS XLTX XLS XLSB XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **POTX 转换为 DIF** 会生成适用于旧电子表格系统和科学平台的数据交换格式文件，这些系统需要从演示模板中导入标准化数据。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 与传统电子表格工具共享 POTX 模板数据。
+
+* 需要 DIF 兼容性的科学或学术工作流程。
+
+* 分析用于教学或培训系统的模板结构。
+
+* 在跨平台办公应用程序之间进行数据迁移。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量 POTX → DIF 转换以进行长期归档。
+
+* 将 DIF 导出集成到文档管理系统中。
+
+* 当演示模板更改时进行定期更新。
+
+* 基于触发器的 DIF 提取用于 ETL 处理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

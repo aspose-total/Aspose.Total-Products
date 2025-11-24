@@ -57,7 +57,55 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น TGA (Targa Image) สร้างกราฟิกเรสเตอร์คุณภาพสูงที่ใช้กันอย่างแพร่หลายในการผลิตวิดีโอ เกม หรือแผนภูมิวิศวกรรม TGA รองรับช่องอัลฟาและการส่งออกแบบไม่บีบอัดเพื่อการแสดงผลที่แม่นยำ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ส่งออกแผนภาพที่ใช้ Markdown สำหรับการซ้อนทับวิดีโอหรือทรัพยากรเกม
+
+* กราฟิกความละเอียดสูงสำหรับเอกสารวิศวกรรม
+
+* สร้างภาพที่มีช่องอัลฟาจากการแสดงผล Markdown
+
+* สร้างแผนภาพเทคนิคที่ไม่บีบอัดสำหรับวัสดุนำเสนอ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้าง TGA โดยอัตโนมัติจากคลังข้อมูล Markdown สำหรับกระบวนการสร้างสรรค์
+
+* ส่งออกแผนภาพเป็นชุดสำหรับการผลิตวิดีโอหรือเอกสารเทคนิค
+
+* การแปลงแผนภาพ Markdown ตามกำหนดเวลาสำหรับโครงการจำลองหรือเกม
+
+* การผสานระบบการจัดการเนื้อหาเพื่อส่งออกภาพ TGA โดยอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

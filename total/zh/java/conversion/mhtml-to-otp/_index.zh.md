@@ -121,7 +121,51 @@ presentation.save("output.otp", SaveFormat.Otp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML转换为OTP（OpenDocument Presentation Template）可从Web内容创建可重用的演示文稿模板。OTP非常适合需要保持幻灯片格式一致的企业或教育工作者。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 源自Web数据的标准化企业演示文稿模板。
+
+* 从在线资源生成的教育讲座模板。
+
+* 基于Web品牌的营销活动模板。
+
+* 可重用的项目更新或KPI仪表板模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从存档的MHTML内容自动生成OTP模板。
+
+* 针对重复演示需求触发模板创建。
+
+* 集成到工作流工具中，用于标准化幻灯片演示。
+
+* 批处理Web内容，转换为可重用的演示文稿格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

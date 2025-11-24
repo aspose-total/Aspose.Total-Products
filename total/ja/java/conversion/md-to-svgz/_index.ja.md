@@ -57,7 +57,55 @@ APIを使用すると、必要に応じて出力SVGZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）をSVGZ（圧縮されたSVG）に変換すると、圧縮された形式でスケーラブルなベクター画像が作成されます。Webグラフィックス、レスポンシブダイアグラム、インタラクティブな可視化に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* Markdownコンテンツから圧縮されたベクターダイアグラムを生成する。
+
+* MarkdownテーブルからレスポンシブなWebイラストを作成する。
+
+* スケーラブルなアイコンやインフォグラフィックを作成する。
+
+* オンラインドキュメントに圧縮されたベクタービジュアルを埋め込む。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* Web公開用のバッチMarkdownからSVGZへの変換。
+
+* 自動化されたダイアグラム生成のためのパイプライン統合。
+
+* インタラクティブダッシュボード用の定期的なSVGZ更新。
+
+* Markdownダイアグラムを最適化されたWeb用形式に圧縮する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

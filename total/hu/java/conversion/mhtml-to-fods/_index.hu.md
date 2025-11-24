@@ -47,7 +47,55 @@ A MHTML-fájl FODS-vé konvertálásakor vízjelet is hozzáadhat a kimeneti FOD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MHTML-FODS (Flat OpenDocument Spreadsheet) konverzió nyitott, XML-alapú táblázatfájlokat hoz létre, amelyek alkalmasak a LibreOffice vagy az OpenOffice számára. A FODS ideális könnyű, hordozható adattároláshoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Webes táblázatjelentések archiválása keresztplatformos szerkesztéshez.
+
+* Nyílt forráskódú táblázatsablonok előkészítése együttműködő csapatok számára.
+
+* Online pénzügyi vezérlőpultok konvertálása hordozható FODS fájlokká.
+
+* Strukturált webes adatok megosztása nem-Excel felhasználókkal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ütemezett MHTML-FODS konverzió nyílt forráskódú irodai munkafolyamatokhoz.
+
+* Tömeges feldolgozás online táblázatokból szerkeszthető FODS fájlok létrehozásához.
+
+* Kiváltott automatizált konverzió webfigyelő rendszerekhez.
+
+* Integráció olyan együttműködési platformokba, amelyek FODS sablonokat igényelnek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,55 @@ Met behulp van de API kunt u ook de uitgevoerde TGA-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van MHTML naar TGA (Targa) levert hoogwaardige rasterafbeeldingen op die veel worden gebruikt in 3D-modellering, gaming of wetenschappelijke visualisatie. TGA behoudt kleurdiepte en alfakanalen voor geavanceerd gebruik.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Extraheren van op web gebaseerde texturen voor 3D-modellen of -simulaties.
+
+* Archiveren van wetenschappelijke visualisaties of grafieken met transparantie.
+
+* Omzetten van webillustraties naar TGA voor ontwerppipelines.
+
+* Voorbereiden van rasterafbeeldingen voor animatie of game-assets.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch TGA-conversie van webarchiefafbeeldingen.
+
+* Geplande pipelines voor het exporteren van texturen van online dashboards.
+
+* Getriggerde TGA-generatie voor systemen voor digitaal assetbeheer.
+
+* Integratie met animatie- of simulatieworkflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

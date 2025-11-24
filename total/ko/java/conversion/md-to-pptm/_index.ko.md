@@ -59,7 +59,55 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (마크다운)를 PPTM (매크로 활성화된 PowerPoint)으로 변환하면 MD 소스 콘텐츠와 매크로 기반 자동화를 결합하여 프레젠테이션 기능을 향상시킵니다. PPTM 파일은 동적 슬라이드 조작, 데이터 바인딩 및 스크립트 상호작용을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* MD 소스 데이터로 구축된 자동화된 금융 프레젠테이션.
+
+* 마크다운 보고서에서 생성된 매크로를 사용한 동적 대시보드.
+
+* MD 문서에서 생성된 대화식 교육 모듈.
+
+* 제품 마크다운 파일에서 가져온 매크로 활성화된 피치 덱.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 보고팀을 위해 PPTM 덱을 생성하는 CI/CD 파이프라인.
+
+* 저장소에서 가져온 매크로 활성화된 프레젠테이션 자동 업데이트.
+
+* 기업 교육 시스템을 위한 일괄 PPTM 생성.
+
+* 마크다운 입력을 사용하여 PPTM 기반 대시보드의 예약 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ MD dosyasını XLTM'ye dönüştürürken, çıktı XLTM dosya biçiminize filig
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını XLTM (Makro Etkin Excel Şablonu) formatına dönüştürmek, otomasyonla zenginleştirilmiş tekrar kullanılabilir elektronik tablo şablonları oluşturur. XLTM dosyaları, dinamik başlatma, otomatik doldurulan alanlar ve gelişmiş iş akışı işlemleri için makroları destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown içeriğinden alınan makro destekli iş şablonları.
+
+* MD verilerinden otomatik tahmin tabloları oluşturma.
+
+* Mühendislik ekipleri için tekrar kullanılabilir hesaplama şablonları oluşturma.
+
+* Makro hazır onboarding veya denetim şablonları oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* CI destekli MD dönüşümü ile XLTM şablonlarının otomatik oluşturulması.
+
+* Dağıtılmış ofisler için makro etkin şablonların toplu oluşturulması.
+
+* Markdown depolarından XLTM dosyalarının zamanlanmış güncellenmesi.
+
+* Arka uç verilerinden XLTM şablonlarına dinamik iş akışı betiklerinin uygulanması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

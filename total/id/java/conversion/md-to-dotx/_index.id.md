@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi Markdown (MD) menjadi DOTX (Template Word tanpa Macros) adalah ideal untuk menghasilkan template tata letak yang rapi, konsisten, dan dapat digunakan kembali. DOTX mempertahankan elemen desain sambil memungkinkan tim memperbarui konten dari file Markdown ringan di lingkungan yang terkontrol versinya.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Template branding perusahaan yang berasal dari dokumentasi MD.
+
+* Lembar pelatihan yang distandarisasi dibangun dari dokumentasi Markdown.
+
+* Brosur pemasaran berbasis template yang awalnya disusun dalam MD.
+
+* Template kertas akademik terstruktur yang dihasilkan dari sumber Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi DOTX otomatis melalui CI/CD untuk tim dokumentasi.
+
+* Regenerasi template Word standar dari file MD repositori.
+
+* Pengolahan batch repositori Markdown menjadi tata letak DOTX siap pakai.
+
+* Pembuatan template seragam untuk organisasi multi-unit.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

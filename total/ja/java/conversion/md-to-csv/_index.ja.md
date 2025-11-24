@@ -47,7 +47,55 @@ MDファイルをCSVに変換するときに、出力CSVファイル形式に透
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）ファイルをCSVに変換することで、チームは構造化されたテキスト、表、リストを普遍的に互換性のあるスプレッドシートデータに変換できます。CSVファイルは、分析ワークフロー、データベースのインポート、軽量なクロスプラットフォームデータ交換に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* 分析用にMarkdownテーブルをCSVデータセットにエクスポートする。
+
+* MDベースの価格表を会計ツールにインポートする。
+
+* 開発者のMarkdownログをソート可能なCSVファイルに変換する。
+
+* ドキュメントテーブルをCRMやERPシステムに移行する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* ETLジョブによるリポジトリMarkdownからCSVへの変換（毎晩）。
+
+* CSV入力を必要とするダッシュボードのための自動変換。
+
+* 機械学習前処理パイプライン向けのバッチエクスポート。
+
+* MarkdownベースのレポートからCSVを生成するワークフロートリガー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

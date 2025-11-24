@@ -102,7 +102,51 @@ otherformats: MHTML SXC XLTM FODS XLSM MARKDOWN XLT EXCEL ODS XLTX XLS XLSB XLAM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **POTX ל־DIF** יוצרת קבצי פורמט החלפת נתונים המושלמים עבור מערכות גיליון ישנות ופלטפורמות מדעיות הדורשות ייבוא נתונים מתבניות מצגת בפורמט תקני.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* שיתוף נתוני תבנית POTX עם כלי גיליון מורשים.
+
+* זרימות עבודה מדעיות או אקדמיות הדורשות תאימות ל־DIF.
+
+* ניתוח מבני תבניות למערכות הדרכה או הכשרה.
+
+* העברת נתונים בין יישומי משרד צלפות מרובים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת רצף של POTX ל־DIF לארכיון לטווח ארוך.
+
+* שילוב ייצוא DIF למערכות ניהול מסמכים.
+
+* עדכונים מתוזמנים כאשר תבניות המצגת משתנות.
+
+* חילוץ DIF מבוסס טריגר לעיבוד ETL.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

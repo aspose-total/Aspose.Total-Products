@@ -57,7 +57,55 @@ API также позволяет экспортировать файл MD в JP
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование Markdown (MD) в JPEG2000 позволяет экспортировать изображения высокого разрешения без потерь. Идеально подходит для технических иллюстраций, больших диаграмм или архивного хранения, где сохранение деталей критично.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные области применения" %}}
+
+
+
+* Преобразование графиков Markdown в высокоразрешенные технические изображения.
+
+* Архивирование сложных диаграмм из Markdown без потери качества.
+
+* Подготовка печатной документации с детальными визуальными элементами.
+
+* Научные иллюстрации, созданные на основе заметок в Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное преобразование диаграмм Markdown в JPEG2000 для хранения высокого качества.
+
+* Пакетная обработка для исследовательских или инженерных команд.
+
+* Интеграция с рабочими процессами публикации, требующими форматов изображений без потерь.
+
+* Плановое обновление визуальных элементов, полученных из Markdown, в архивах JPEG2000.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

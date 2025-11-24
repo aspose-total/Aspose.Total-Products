@@ -47,7 +47,55 @@ Saat mengonversi file MD ke TSV, Anda juga dapat menambahkan tanda air ke format
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi Markdown (MD) ke TSV (Tab-Separated Values) memungkinkan ekspor data yang bersih dan aman dari delimiter yang ideal untuk pengembang, tim BI, dan jalur pembelajaran mesin. File TSV mempertahankan spasi dan cocok untuk dataset yang mengandung koma.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengexport dataset Markdown ke TSV untuk pra-pemrosesan ML.
+
+* Mengimpor log yang dibuat dengan MD ke alur kerja ilmu data.
+
+* Membuat ekstrak data berbasis TSV untuk pengembangan API.
+
+* Mengubah checklist Markdown menjadi dataset berstruktur tab.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Transformasi berbasis pipeline dari tabel MD menjadi TSV.
+
+* Ekspor batch untuk sistem ingest data AI.
+
+* Generasi TSV reguler untuk pengujian integrasi backend.
+
+* Feed TSV otomatis yang dibangun dari konten Markdown repositori.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

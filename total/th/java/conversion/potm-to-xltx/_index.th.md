@@ -61,7 +61,55 @@ otherformats: ODS MHTML XLSM FODS XLT XLSX DIF XLS MARKDOWN XLTM SXC EXCEL XLSB 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **POTM เป็น XLTX** ช่วยให้สามารถสร้างเทมเพลต Excel ที่ไม่มีแมโคร โดยใช้องค์ประกอบในการออกแบบและเนื้อหาที่ถูกดึงมาจากเทมเพลต PowerPoint ได้ XLTX เป็นเทมเพลตที่เหมาะสำหรับการกระจายทีมโดยไม่มีข้อจำกัดในเรื่องความปลอดภัยของแมโคร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การสร้างเทมเพลต Excel ที่ไม่มีแมโครจากโครงสร้างเลย์เอาท์ของสไลด์
+
+* การสร้างแบบฟอร์มธุรกิจที่สามารถนำกลับมาใช้ได้ตรงกับการจัดแบรนด์ในการนำเสนอ
+
+* การพัฒนาเทมเพลตที่มีความสม่ำเสมอสำหรับทีมงานทรัพยากรบุคคล การเงิน และโครงการ
+
+* การเปลี่ยนสไลด์การฝึกอบรมเป็นเทมเพลตงานที่ง่ายต่อการกรอกข้อมูล
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงการออกแบบ POTM ใหม่เป็นเทมเพลต XLTX อัตโนมัติสำหรับการกระจาย
+
+* การรวมการสร้าง XLTX เข้ากับขั้นตอนการทำงานมาตรฐานในสำนักงาน
+
+* การแปลงเป็นกลุ่มสำหรับการเปิดตัวเทมเพลตในหลายแผนก
+
+* การส่งออก XLTX โดยอัตโนมัติสำหรับไลบรารีเทมเพลต SaaS หรือคลาวด์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

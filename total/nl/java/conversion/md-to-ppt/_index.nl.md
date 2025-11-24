@@ -59,7 +59,55 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van Markdown (MD) naar PPT (Legacy PowerPoint-indeling) ondersteunt compatibiliteit met oudere Microsoft Office-omgevingen terwijl de diastructuur en opmaak behouden blijven. PPT is ideaal voor instellingen die klassieke versies van PowerPoint gebruiken.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het maken van PPT-dia's voor legacy werkstations vanuit MD-scripts.
+
+* Academische instellingen die Markdown-notities gebruiken om oudere PPT-decks te genereren.
+
+* Bedrijfsarchieven die MD-inhoud migreren naar de klassieke PPT-indeling.
+
+* Dia-creatie gericht op compatibiliteit voor verouderde kantooromgevingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde PPT-generatie voor ondersteuning van legacy systemen.
+
+* Batchconversie van Markdown-archieven naar PPT.
+
+* ETL-processen die klassieke PowerPoint-bestanden produceren.
+
+* PPT-generatie voor overheids- of industriële organisaties die nog steeds oudere suites gebruiken.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

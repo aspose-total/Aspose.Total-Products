@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）转换为DOTM（启用宏的模板）将轻量级文本编辑与嵌入宏增强的Word模板相结合。DOTM模板使团队能够自动化重复的文档任务，并立即创建标准化的、准备好宏的文档。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从Markdown手册构建带宏的入职模板。
+
+* 创建从MD内容获取的自动化发票或表单模板。
+
+* 具有以编程方式插入字段的企业文档框架。
+
+* 从技术文档生成可重复使用的自动化友好模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为大规模报告周期自动构建DOTM模板。
+
+* 与触发MD到DOTM生成的工作流引擎集成。
+
+* 一键创建分布式部门的启用宏模板。
+
+* 在模板重新生成期间自动插入动态内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

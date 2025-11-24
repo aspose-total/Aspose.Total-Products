@@ -59,7 +59,55 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) till PPSX (PowerPoint Slideshow)-konvertering producerar moderna bildspelsfiler som öppnas direkt i fullskärmsläge. PPSX används allmänt för automatiska presentationer inom företag, detaljhandel och evenemangsmiljöer.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Automatiska försäljningspresentationer från MD-anteckningar.
+
+* Företagets lobbybildskärmar skapade från Markdown-innehåll.
+
+* Evenemangsbildloopar skapade från MD-baserade scheman eller dagordningar.
+
+* Kontinuerliga produktvisningar härledda från Markdown-beskrivningar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Automatiserade PPSX-arbetsflöden för skyltar och skärmar.
+
+* Schemalagd bildspelsgenerering från Markdown-evenemangsskript.
+
+* Batch-PPSX-skapande för användning i detaljhandelsbutiker.
+
+* MD-till-PPSX-konverteringar inom digitala skyltplattformar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML เป็น EMZ (Compressed Windows Enhanced Metafile) ที่รักษากราฟิกเวกเตอร์จากหน้าเว็บในรูปแบบที่บีบอัดและสามารถปรับขนาดได้เหมาะสำหรับงานนำเสนอและเอกสาร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* เก็บถาพกราฟิกแบบเว็บแผนภูมิและแผนภาพไว้ในรูปแบบ EMZ ที่กระทบกระแทก
+
+* ฝังกราฟิกที่ถูกบีบอัดลงในงานนำเสนอของ Microsoft Office
+
+* แบ่งปันภาพประกอบที่สามารถปรับขนาดได้ในทีมโดยไม่มีขนาดไฟล์ใหญ่
+
+* รักษาแผนภูมิเวกเตอร์สำหรับรายงานขององค์กร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลง EMZ จาก MHTML ได้เป็นกลุ่มสำหรับการทำงานของเอกสาร
+
+* ท่องไปท่องมาของการบีบอัดสำหรับการส่งกราฟิกที่สามารถปรับขนาดได้
+
+* การรวมกับระบบการจัดการเนื้อหาสำหรับการอัปเดตโดยอัตโนมัติ
+
+* การสร้างตามกำหนดเวลาสำหรับทรัพยากรเวกเตอร์พร้อมใช้งาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

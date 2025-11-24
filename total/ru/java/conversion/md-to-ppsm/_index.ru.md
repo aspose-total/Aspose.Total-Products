@@ -59,7 +59,55 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MD (Markdown) в PPSM (слайд-шоу PowerPoint с поддержкой макросов) сочетает в себе функциональность автоматического запуска слайд-шоу с автоматизацией. PPSM поддерживает макросы VBA для синхронизации контента, динамических обновлений и интерактивных впечатлений.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Автоматизированные киоски с макро-управляемыми слайдами PPSM.
+
+* Интерактивные циклы обучения, созданные на основе контента MD.
+
+* Автоматически синхронизированные во времени демонстрации продуктов на основе кратких описаний в Markdown.
+
+* Динамические розничные или мероприятийные дисплеи с использованием слайд-шоу с поддержкой макросов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Производство PPSM, управляемое рабочим процессом, запускаемое изменениями в Markdown.
+
+* Генерация слайд-шоу с поддержкой макросов для корпоративных систем дисплеев.
+
+* Автоматические обновления контента киосков из репозиториев MD.
+
+* Пакетное создание PPSM для розничных сетей или экспо.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

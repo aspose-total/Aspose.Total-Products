@@ -49,7 +49,55 @@ otherformats: XLT XLSB EXCEL XLAM TXT TSV SXC FODS XLSM DIF ODS XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为TSV（制表符分隔值）可生成干净、分隔符安全的数据导出，非常适合开发人员、BI团队和机器学习流程。TSV文件保留间距，适用于包含逗号的数据集。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将Markdown数据集导出为TSV，用于机器学习预处理。
+
+* 将MD创建的日志导入数据科学工作流程。
+
+* 为API开发创建基于TSV的数据提取。
+
+* 将Markdown清单转换为制表符结构化数据集。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将MD表格进行管道驱动转换为TSV。
+
+* 用于AI数据摄入系统的批量导出。
+
+* 用于后端集成测试的定期TSV生成。
+
+* 从存储库Markdown内容构建的自动化TSV提要。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

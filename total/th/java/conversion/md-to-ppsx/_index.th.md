@@ -59,7 +59,55 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MD (Markdown) เป็น PPSX (PowerPoint Slideshow) จะสร้างไฟล์สไลด์โชว์ที่ทันสมัยซึ่งเปิดโดยตรงเข้าสู่โหมดเต็มหน้าจอ  PPSX ใช้กันอย่างแพร่หลายสำหรับการนำเสนอที่เล่นอัตโนมัติในสถานการณ์บริษัท ร้านค้า และงานอีเว้นท์
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การนำเสนอการขายที่เล่นอัตโนมัติที่มาจากบันทึก MD
+
+* หน้าจอโถงบริษัทที่สร้างจากเนื้อหา Markdown
+
+* การวนซ้ำสไลด์งานที่สร้างจากตารางเวลาหรือกำหนดการที่มาจาก MD
+
+* การนำเสนอสินค้าอย่างต่อเนื่องที่ได้มาจากคำอธิบาย Markdown
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* กระบวนการทำงาน PPSX อัตโนมัติสำหรับป้ายโฆษณาและกระดานแสดง
+
+* การสร้างสไลด์ตามกำหนดเวลาจากสคริปต์เหตุการณ์ Markdown
+
+* การสร้าง PPSX แบบกลุ่มสำหรับการใช้งานในร้านค้า
+
+* การแปลง MD เป็น PPSX ภายในแพลตฟอร์มการแสดงสัญญาณดิจิทัล
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ otherformats: TXT XLSM XLSB ODS SXC XLTX MD XLT XLAM EXCEL TSV XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MHTML إلى Excel (XLS/XLSX) يحول جداول الويب إلى جداول بيانات قابلة للتحرير بالكامل مع الصيغ والتنسيقات وإمكانيات جدول البيانات المحورية. مثالي للتقارير الشركية وتتبع البيانات المالية والتحليلات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل البيانات المالية عبر الإنترنت إلى Excel للتحليل.
+
+* بيانات المبيعات والمخزون من كتالوجات الويب المستوردة إلى Excel.
+
+* قوالب تتبع الميزانية التي تم إنشاؤها من النماذج المستندة إلى الويب.
+
+* لوحات مفاتيح الأداء الرئيسية المستمدة من الويب تم تحويلها لتقارير Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* خط أنابيب مؤتمت يحول تقارير MHTML إلى Excel للعمليات اليومية.
+
+* إنشاء ملفات Excel بناءً على لوحات القيادة الويب الحية.
+
+* دمجها في أنظمة العمل للتوحيد المالي.
+
+* إنشاء Excel دفعة واحدة لتحليل الاتجاهات التاريخية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

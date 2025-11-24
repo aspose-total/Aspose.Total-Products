@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) ile ODT (OpenDocument Text) dönüşümü, açık kaynak dostu belgeleme iş akışlarını sağlar. ODT dosyaları, LibreOffice veya OpenOffice kullanan ekipler için esnek, hafif bir seçenek sunar ve zengin biçimlendirmeyi sağlarken özel Word formatlarına alternatif oluşturur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Açık kaynak belgelerini profesyonel olarak biçimlendirilmiş ODT dosyaları olarak yayınlama.
+
+* Markdown kılavuzlarını düzenlenebilir LibreOffice belgelerine dönüştürme.
+
+* Özel formatlardan kaçınan kuruluşlar için çok platformlu belgeler oluşturma.
+
+* MD içeriğinden kaynaklanan yerelleştirilmiş ODT kılavuzları üretme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Markdown depolarının toplu olarak ODT'ye dönüştürülmesi ve genel dağıtımı.
+
+* Açık kaynak projelerinde otomatik ODT belge oluşturma.
+
+* Hükümet veya STK'lar için ODT çıktısı üreten çok platformlu ETL iş akışları.
+
+* Yerelleştirme ve çeviri iş akışlarında tetikleyici tabanlı ODT oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

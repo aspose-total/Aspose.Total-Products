@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konvertera Markdown (MD) till OTT (OpenDocument Text Template) stödjer skalbar mallskapande för öppen källkods kontorspaket. OTT-mallar bibehåller konsekvent formatering samtidigt som de tillåter team att generera flera dokument från en stabil stilgrund.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsfall" %}}
+
+
+
+* Skapa OTT-mallar för produktion av flerspråkiga dokument.
+
+* Bygga strukturerade rapportmallar från Markdown-baserade riktlinjer.
+
+* Standardisera kontorsdokumentation för öppen källkods miljöer.
+
+* Generera återanvändbara ODT-dokumentformat för NGO:er eller offentliga institutioner.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Automatisk OTT-generering i arbetsflöden för öppen källkodspublikation.
+
+* Rullande malluppdateringar synkroniserade från Markdown-versionkontroll.
+
+* Batchproduktion av malluppsättningar för distribuerade team med LibreOffice.
+
+* Regerings- eller ideella system som genererar OTT-mallar enligt schema.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

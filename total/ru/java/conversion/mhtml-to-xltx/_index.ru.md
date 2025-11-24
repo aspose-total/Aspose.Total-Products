@@ -47,7 +47,51 @@ otherformats: EXCEL XLSM TXT XLSB DIF XLT TSV ODS XLTM FODS XLAM SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML в XLTX (шаблон Excel без макросов) преобразует веб-контент в безопасные, многократно используемые шаблоны электронных таблиц. XLTX обеспечивает согласованность и сотрудничество без опасений по поводу безопасности макросов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Стандартизированные шаблоны отчетности для корпоративных команд.
+
+* Финансовые и показатели ключевых показателей сохранены в многократно используемых форматах.
+
+* Шаблоны отслеживания проектов без зависимости от макросов.
+
+* Готовые к сотрудничеству шаблоны Excel, полученные из веб-данных.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное создание шаблонов XLTX из архивированных таблиц MHTML.
+
+* Интеграция в корпоративные системы управления шаблонами.
+
+* Запуск обновлений шаблонов для повторяющихся циклов отчетности.
+
+* Автоматическое преобразование для безопасных рабочих процессов без макросов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

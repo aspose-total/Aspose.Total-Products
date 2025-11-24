@@ -47,7 +47,55 @@ Trong khi chuyển đổi tệp MD sang ODS, bạn cũng có thể thêm hình m
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi Markdown (MD) sang ODS (OpenDocument Spreadsheet) cung cấp một lựa chọn mạnh mẽ, chuẩn mở thay thế cho Excel. ODS lý tưởng cho các nhóm sử dụng LibreOffice hoặc OpenOffice và hỗ trợ các công thức, biểu đồ và định dạng bảng có cấu trúc.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Nhập danh sách Markdown vào bảng điều khiển ODS.
+
+* Xây dựng các bảng phân tích cho môi trường văn phòng mã nguồn mở.
+
+* Tạo các bộ theo dõi ngân sách định dạng ODS được lấy từ nội dung MD.
+
+* Chuyển đổi tài liệu kỹ thuật MD thành dữ liệu sẵn sàng cho bảng tính.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo ra ODS theo lịch trình cho các nhóm dữ liệu mã nguồn mở.
+
+* Các đường ống đa nền tảng cung cấp dữ liệu Markdown vào bảng tính ODS.
+
+* Chuyển đổi hàng loạt các bảng tài liệu thành định dạng ODS.
+
+* Xây dựng ODS tự động cho các nhóm phân phối cần bảng tính có thể chỉnh sửa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

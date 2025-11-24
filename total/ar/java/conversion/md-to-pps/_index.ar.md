@@ -59,7 +59,55 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MD (Markdown) إلى PPS (عرض تقديمي بوربوينت) مثالي لتحويل المحتوى الخفيف إلى ملفات عرض تلقائية. يتم فتح PPS مباشرة كعرض شرائح، مما يجعله مثاليًا لأجهزة الكيوسك، والعروض، والعروض التقديمية المتكررة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء عروض عرض تكرارية لأجهزة الكيوسك من ملاحظات Markdown.
+
+* عروض منتجات تعمل تلقائيًا تم إنشاؤها من وصفيات MD.
+
+* عروض أحداث مستندة إلى الجداول الزمنية MD.
+
+* عروض متاحف أو تجزئة أو معارض تم إنشاؤها مباشرة من Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* توليد دفعة من عروض PPS للعرض الرقمي.
+
+* أنابيب عملية MD-to-PPS الآلية لفرق إدارة الأحداث.
+
+* إنشاء عروض تقديمية مجدولة من إعلانات Markdown.
+
+* توليد ملفات عرض تكرارية بناءً على لوحة التحكم.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

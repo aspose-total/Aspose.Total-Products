@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του Markdown (MD) σε PS (PostScript) δημιουργεί αρχεία εκτύπωσης υψηλής ποιότητας κατάλληλα για επαγγελματικές εκδόσεις. Το PS υποστηρίζει κλιμάκωση διαγραμμάτων, μορφοποίηση κειμένου και χρησιμοποιείται ευρέως σε περιβάλλοντα παραγωγής εκτύπωσης.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Παραγωγή διαγραμμάτων έτοιμων για εκτύπωση από περιεχόμενο Markdown.
+
+* Δημιουργία κλιμάκωσιμων εικόνων PostScript για επαγγελματικές εκδόσεις.
+
+* Μετατροπή αναφορών βασισμένων σε Markdown για εξαγωγή εκτύπωσης υψηλής ανάλυσης.
+
+* Αρχειοθέτηση τεχνικών εγγράφων σε μορφή PS για αναπαραγωγιμότητα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη μετατροπή Markdown σε PS για επιχειρηματικές διαδικασίες εκδόσεων.
+
+* Παραγωγή πακέτων PS από αποθετήρια Markdown για τεκμηρίωση έτοιμη για εκτύπωση.
+
+* Προγραμματισμένες εξαγωγές PostScript για αναφορές υψηλής ποιότητας.
+
+* Ενσωμάτωση με ροές αυτοματισμού εκτύπωσης μετατρέποντας Markdown σε PS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

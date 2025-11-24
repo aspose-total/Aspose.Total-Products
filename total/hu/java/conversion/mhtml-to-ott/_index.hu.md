@@ -130,7 +130,55 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MHTML átalakítása OTT (OpenDocument Template) formátummá lehetővé teszi újrafelhasználható sablonok létrehozását nyílt forráskódú irodai csomagokhoz, fenntartva a webes stílust és elrendezési egységet.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Vállalati szintű dokumentumsablonok a LibreOffice-hoz.
+
+* Újrafelhasználható tanterv-sablonok webes oktatási tartalmakból.
+
+* Szabványosított nyílt forráskódú ajánlati és szerződési sablonok.
+
+* Munkafolyamat-sablonok együttműködési tartalomkezeléshez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* OTT sablonok automatikus generálása több MHTML oldalból.
+
+* Integráció a LibreOffice automatizálási eszközeivel a dokumentumtömeg létrehozásához.
+
+* Kiváltott sablonfrissítések a változó webes tartalom alapján.
+
+* Zökkenőmentes dokumentumszabványosítás elosztott csapatok között.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

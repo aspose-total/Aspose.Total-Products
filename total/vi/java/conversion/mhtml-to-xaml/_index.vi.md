@@ -135,7 +135,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MHTML sang XAML (Ngôn ngữ đánh dấu ứng dụng mở rộng) cho phép đồ họa vector và giao diện người dùng dựa trên web được chuyển đổi thành các thành phần giao diện người dùng tương thích với Windows và hình ảnh có thể co giãn.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi sơ đồ web thành XAML cho ứng dụng WPF.
+
+* Lưu trữ bố cục giao diện người dùng dựa trên web cho phát triển phần mềm.
+
+* Chuẩn bị bảng điều khiển tương tác cho ứng dụng desktop.
+
+* Trích xuất đồ họa vector cho các dự án giao diện người dùng Windows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt nội dung MHTML thành XAML cho việc phát triển ứng dụng.
+
+* Lập lịch cho việc chuyển đổi các mẫu giao diện người dùng web.
+
+* Kích hoạt việc tạo ra XAML cho tích hợp ứng dụng WPF.
+
+* Lưu trữ tự động nội dung vector web cho các nhóm phần mềm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

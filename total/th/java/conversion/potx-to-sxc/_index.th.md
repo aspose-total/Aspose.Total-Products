@@ -61,7 +61,51 @@ otherformats: DIF MARKDOWN XLAM MHTML XLS TSV SXC XLTM XLSM XLT ODS EXCEL FODS X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **POTX เป็น SXC** จะสร้างไฟล์สเปรดชีตที่เข้ากันได้กับ StarOffice ที่เหมาะสำหรับองค์กรที่ใช้ชุดโปรแกรมเก่าหรือเบา
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การย้ายตารางที่ใช้เทมเพลตเข้าสู่สเปรดชีตเก่า
+
+* การเก็บถาวรเนื้อหา POTX สำหรับการเก็บรักษาองค์กรในระยะยาว
+
+* การสนับสนุนความเข้ากันได้กับสภาพแวดล้อมสำนักงานเก่า
+
+* การสร้างข้อมูลจากเทมเพลตสำหรับการวิเคราะห์โครงสร้าง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงเป็น SXC แบบกลุ่มสำหรับเก็บข้อมูลสถาบันขนาดใหญ่
+
+* การส่งออก SXC โดยอัตโนมัติเมื่อมีการแก้ไขเทมเพลต
+
+* การทำงานอัตโนมัติสำหรับการประมวลผลข้อมูลเก่า
+
+* การแปลงเป็นตามกำหนดเวลาสำหรับกระบวนการเก็บถาวรภายใน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

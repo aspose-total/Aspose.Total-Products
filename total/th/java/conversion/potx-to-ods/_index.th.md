@@ -61,7 +61,51 @@ otherformats: XLTM TSV XLAM MARKDOWN XLTX FODS XLS XLT ODS MHTML SXC DIF XLSX EX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **POTX เป็น ODS** จะสร้างไฟล์ OpenDocument Spreadsheet ซึ่งช่วยให้สามารถแก้ไขได้ และใช้ในกระบวนการรายงานมาตรฐานที่เปิดเผยโดยตรงจากโครงสร้างเทมเพลต
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การวิเคราะห์ข้อมูลตามเทมเพลตแบบร่วมกันในชุดโปรแกรมโอเพนซอร์ส
+
+* การแปลงเลย์เอาท์ POTX เพื่อใช้ในงานเอกสารหรือทรานนิ่ง
+
+* เตรียมสเปรดชีทที่สามารถใช้งานร่วมกันสำหรับทีมระยะไกล
+
+* นำเนื้อหาเทมเพลตมาใช้ในการติดตามโครงการ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* ส่งออก ODS จำนวนมากจากไลบรารีเทมเพลต
+
+* การแปลงตารางเวลาสำหรับกระบวนการรายงานมาตรฐานที่เปิดเผย
+
+* การรวมไฟล์ ODS เข้ากับกระบวนการทำงานที่ได้รับการอนุมัติจากหน่วยงานราชการ
+
+* การซิงค์อัตโนมัติการอัปเดต POTX เข้ากับสเปรดชีท ODS
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

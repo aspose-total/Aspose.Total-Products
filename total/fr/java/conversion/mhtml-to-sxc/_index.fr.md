@@ -47,7 +47,55 @@ Lors de la conversion du fichier MHTML en SXC, vous pouvez également ajouter un
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de MHTML en SXC (StarOffice Spreadsheet) permet aux utilisateurs de StarOffice de conserver les données web dans des formats de feuille de calcul compatibles. Idéal pour les flux de travail des anciens suites bureautiques et les besoins d'archivage historique.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Archivage des tableaux générés sur le web pour les environnements StarOffice hérités.
+
+* Partage de modèles de feuilles de calcul entre les anciennes et les nouvelles suites bureautiques.
+
+* Rapports de données historiques pour les audits d'entreprise.
+
+* Migration des résultats d'enquêtes en ligne en SXC pour l'analyse de recherche.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Pipelines de conversion planifiés pour les rapports SXC basés sur le web.
+
+* Traitement par lots des tableaux MHTML vers les formats de feuille de calcul hérités.
+
+* Archivage automatisé pour la conformité réglementaire.
+
+* Intégration avec les systèmes bureautiques hérités nécessitant une entrée SXC.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

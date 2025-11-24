@@ -47,7 +47,55 @@ otherformats: MD SXC FODS TSV XLT TXT XLSB XLSM EXCEL DIF XLAM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MHTML เป็น FODS (Flat OpenDocument Spreadsheet) สร้างไฟล์สเปรดชีตที่เปิดเผยและใช้ XML ที่เหมาะสำหรับ LibreOffice หรือ OpenOffice  FODS เหมาะสำหรับการเก็บข้อมูลแบบเบา และพกพาได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* เก็บข้อมูลรายงานแบบตารางบนเว็บสำหรับการแก้ไขในหลายแพลตฟอร์ม
+
+* เตรียมเทมเพลตสเปรดชีตโอเพนซอร์สสำหรับทีมที่ทำงานร่วมกัน
+
+* แปลงแดชบอร์ดการเงินออนไลน์เป็นไฟล์ FODS ที่สามารถพกพาได้
+
+* แชร์ข้อมูลเว็บโครงสร้างกับผู้ใช้ที่ไม่ใช้ Excel
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง MHTML เป็น FODS ตามกำหนดเวลาสำหรับการทำงานของสำนักงานโอเพนซอร์ส
+
+* ประมวลผลเป็นชุดของตารางออนไลน์เพื่อสร้างไฟล์ FODS ที่สามารถแก้ไขได้
+
+* การแปลงอัตโนมัติที่เรียกใช้งานสำหรับระบบตรวจสอบเว็บ
+
+* การรวมเข้ากับแพลตฟอร์มที่ต้องการเทมเพลต FODS สำหรับการทำงานร่วมกัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

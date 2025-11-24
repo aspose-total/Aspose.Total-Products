@@ -129,7 +129,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML를 ODT(OpenDocument Text)로 변환하면 LibreOffice나 OpenOffice에서 웹 콘텐츠를 크로스 플랫폼으로 편집할 수 있습니다. 이 형식은 오픈 소스 워크플로 및 협업 문서 편집에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 편집 가능한 ODT 매뉴얼 및 가이드로 아카이브된 웹 콘텐츠.
+
+* 오픈 소스 오피스 스위트에서의 협업 프로젝트 문서화.
+
+* 웹 페이지에서 변환된 교육 자료 및 워크시트.
+
+* 글로벌 팀을 위한 ODT를 사용한 다국어 문서 작성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 분산 팀을 위한 MHTML 기반 아카이브를 ODT 파일로 대량 변환.
+
+* 자동 문서 생성을 위한 오픈 소스 CMS 플랫폼 통합.
+
+* 웹 콘텐츠 모니터링 및 보고를 위한 예약 변환.
+
+* 자주 변경되는 웹 리소스에서 자동 업데이트되는 설명서.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

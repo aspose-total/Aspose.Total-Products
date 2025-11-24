@@ -57,7 +57,55 @@ APIを使用すると、必要に応じて出力DICOM画像を回転させるこ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）ファイルをDICOM（Digital Imaging and Communications in Medicine）形式に変換することで、医用画像ワークフローにテキストの文書化や注釈を統合することが可能になります。DICOMはメタデータや標準画像構造をサポートし、病院システムや研究環境に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* Markdownベースの臨床ノートを医用画像アーカイブに埋め込む。
+
+* Markdownコンテンツを使用した構造化された患者教育ビジュアルを生成する。
+
+* DICOM準拠の画像データセットに研究文書を統合する。
+
+* 放射線画像と一緒にテキストベースの注釈を保存する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 病院の文書化システム向けの自動MDからDICOMへの変換。
+
+* 電子健康記録統合のための臨床Markdownファイルのバッチ処理。
+
+* DICOMアーカイブにフィードする定期的な変換パイプライン。
+
+* AI支援診断のために画像データと一緒にMarkdownレポートをトリガーでレンダリング。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

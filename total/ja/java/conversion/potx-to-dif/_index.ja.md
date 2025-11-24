@@ -61,7 +61,55 @@ POTXファイルをDIFに変換するときに、出力DIFファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**POTXをDIFに変換**すると、古いスプレッドシートシステムや標準化されたデータのインポートを必要とする科学プラットフォーム向けに最適なデータ交換形式ファイルが生成されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* POTXテンプレートデータをレガシースプレッドシートツールと共有する。
+
+* DIF互換性を必要とする科学または学術ワークフロー。
+
+* 指導やトレーニングシステム向けのテンプレート構造の分析。
+
+* クロスプラットフォームオフィスアプリケーション間のデータ移行。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 長期アーカイブ用のバッチPOTX → DIF変換。
+
+* DIFエクスポートを文書管理システムに統合。
+
+* プレゼンテーションテンプレートが変更されたときの定期更新。
+
+* ETL処理用のトリガーベースのDIF抽出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

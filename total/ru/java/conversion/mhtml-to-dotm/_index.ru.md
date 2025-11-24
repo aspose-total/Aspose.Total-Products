@@ -129,7 +129,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MHTML в DOTM (Шаблон Word с поддержкой макросов) объединяет повторное использование шаблонов с автоматизацией макросов. Это идеально подходит для предприятий, нуждающихся в стандартизированных документах с интерактивными функциями и автоматизацией рабочего процесса.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Автоматизированные шаблоны отслеживания проектов с встроенными макросами.
+
+* Интерактивные обучающие и адаптационные шаблоны для отделов кадров.
+
+* Шаблоны маркетингового контента, интегрированные с данными из сети.
+
+* Шаблоны отчетности для клиентов, автоматически заполняемые из веб-панелей управления.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запланированные конвейеры преобразования для шаблонов MHTML в DOTM.
+
+* Генерация документов с помощью макросов для повторяющихся бизнес-процессов.
+
+* Интеграция с системами управления взаимоотношениями с клиентами для автоматического заполнения клиентоориентированных шаблонов.
+
+* Создание шаблонов по событиям для инструментов автоматизации рабочего процесса.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

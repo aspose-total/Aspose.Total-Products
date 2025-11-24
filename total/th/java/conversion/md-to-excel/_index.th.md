@@ -47,7 +47,55 @@ otherformats: XLTX XLAM DIF TXT XLT TSV ODS SXC FODS XLSB XLTM EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น Excel (XLS/XLSX) ทำให้ไฟล์ข้อความทั่วไปกลายเป็นสเปรดชีตที่มีสูตรพร้อมใช้งาน ผลลัพธ์ Excel รองรับการจัดรูปแบบ กราฟ การตรวจสอบข้อมูล และการวิเคราะห์ข้อมูล ทำให้เหมาะสำหรับรายงานธุรกิจและการทำงานของกระบวนการ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การเปลี่ยนรายการคุณสมบัติ Markdown เป็นสเปรดชีตที่สามารถเรียงลำดับได้
+
+* สร้างรายงานการเงินที่มาจากเอกสาร MD
+
+* นำเข้าตาราง Markdown เป็นตัวติดตามข้อมูล Excel
+
+* เตรียมแคตตาล็อกผลิตภัณฑ์ที่มีพื้นฐานจาก MD ในรูปแบบสเปรดชีต
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงเอกสาร Markdown เป็นสเปรดชีต Excel ตามกระบวนการทำงานของท่อ
+
+* การสร้างไฟล์ XLSX จำนวนมากสำหรับแผนกต่าง ๆ
+
+* อัพเดทรายงาน Excel โดยอัตโนมัติจากที่เก็บรักษาเอกสาร MD
+
+* กระบวนการเชื่อมโยงข้อมูลจาก MD → การแปลงเป็น Excel
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) átalakítása OTT (OpenDocument Text Template) formátummá skálázható sablon létrehozást támogat az open-source irodai szoftverek számára. Az OTT sablonok állandó formázást biztosítanak, miközben lehetővé teszik csapatok számára, hogy több dokumentumot hozzanak létre egy stabil stílus alapján.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* OTT sablonok létrehozása többnyelvű dokumentumgyártáshoz.
+
+* Strukturált jelentési sablonok építése Markdown alapú irányelvekből.
+
+* Irodai dokumentációk szabványosítása open-source környezetekben.
+
+* Újrafelhasználható ODT dokumentumformátumok generálása NGO-k vagy közintézmények számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Automatizált OTT generálás open-source kiadási folyamatokban.
+
+* Sablonfrissítések gördülékeny szinkronizálása a Markdown verziókezelésből.
+
+* Sablonkészletek tömeges előállítása elosztott csapatok számára a LibreOffice használatával.
+
+* Kormányzati vagy nonprofit rendszerek időzített módon generálják az OTT sablonokat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

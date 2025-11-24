@@ -78,7 +78,55 @@ otherformats: TXT XLTM FODS XLT XLSM EXCEL SXC ODS CSV XLAM XLTX DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MD (Markdown) ל-XLSB (Excel Binary Workbook) היא מושלמת לטיפול בקבצי נתונים גדולים ביעילות. קבצי XLSB טוענים במהירות יותר, דוחסים טוב יותר, ותומכים בגיליונות אלקטרוניים מורכבים ללא עומס XML כבד.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יבוא של קבצי נתונים גדולים מבוססי MD לקבצי עבודה בינאריים של Excel.
+
+* יצירת דוחות XLSB קומפקטיים מיומנויות תיעוד.
+
+* דגם פיננסי בשימוש ב-XLSB שנוצר מ-Markdown.
+
+* גיליונות אלקטרוניים ביצוע גבוה ממקורות של טבלאות Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* זרימות עבודה של ETL שממירות Markdown → XLSB לאופטימיזציה של מהירות.
+
+* יצירת XLSB בצורה מרובה לצוותי ניתוח עסקיים בארגונים.
+
+* יצירת קבצי עבודה בינאריים אוטומטית לדיווחים עם המון נתונים.
+
+* תהליכי צד שרת שמייצרים קבצי XLSB מתוכן של MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

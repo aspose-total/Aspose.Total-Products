@@ -121,7 +121,51 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML转换为PPTM（启用宏的PowerPoint）可实现从网页内容生成交互式、自动化演示文稿。PPTM适用于需要宏的培训、分析或营销幻灯片。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 具有自动化内容更新的交互式培训幻灯片。
+
+* 作为启用宏的演示文稿的KPI和项目仪表板。
+
+* 具有动态宏的营销幻灯片。
+
+* 包含来自网页来源的嵌入式练习的教育模块。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于定期幻灯片的自动化MHTML到PPTM管道。
+
+* 用于动态、启用宏演示文稿的定时转换。
+
+* 从实时网络仪表板触发的PPTM生成。
+
+* 集成到企业工作流自动化系统中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

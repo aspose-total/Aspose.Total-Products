@@ -47,7 +47,55 @@ Während Sie eine MD-Datei in XLTM konvertieren, können Sie Ihrem Ausgabe-XLTM-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Umwandlung von Markdown (MD) in XLTM (Makrofähige Excel-Vorlage) erstellt wiederverwendbare Tabellenvorlagen, die mit Automatisierung angereichert sind. XLTM-Dateien unterstützen Makros für die dynamische Initialisierung, automatisch ausgefüllte Felder und erweiterte Workflow-Aktionen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Makrogesteuerte Geschäftsvorlagen aus Markdown-Inhalten.
+
+* Erstellung automatisierter Prognoseblätter aus MD-Daten.
+
+* Erstellung wiederverwendbarer Berechnungsvorlagen für Ingenieurteams.
+
+* Erstellung von makrobereiten Einarbeitungs- oder Prüfvorlagen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisches Generieren von XLTM-Vorlagen über CI-gestützte MD-Konvertierung.
+
+* Stapelweise Erstellung von makrofähigen Vorlagen für verteilte Büros.
+
+* Geplante Aktualisierungen von XLTM-Dateien aus Markdown-Repositories.
+
+* Dynamische Workflowskripte, die XLTM-Vorlagen mit Daten aus dem Backend befüllen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

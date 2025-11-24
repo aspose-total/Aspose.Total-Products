@@ -61,7 +61,51 @@ POTX dosyasını ODS'ye dönüştürürken, çıktı ODS dosya biçiminize de fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**POTX'yi ODS'ye dönüştürmek**, şablon yapılarından doğrudan türetilen düzenlenebilir, açık standart raporlama iş akışları oluşturarak OpenDocument Elektronik Tablo dosyaları oluşturur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Açık kaynak paketlerinde işbirlikçi şablon tabanlı veri analizi.
+
+* Belgeleme veya eğitim kaynakları için POTX düzenlerini dönüştürme.
+
+* Uzaktaki ekipler için etkileşimli elektronik tablolar hazırlama.
+
+* Proje takibi için şablon içeriğini yeniden kullanma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tüm şablon kütüphanelerinden toplu ODS dışa aktarımı.
+
+* Açık standart raporlama döngüleri için zamanlanmış dönüşüm.
+
+* ODS dosyalarını hükümet onaylı iş akışlarına entegre etme.
+
+* POTX güncellemelerini ODS elektronik tablolarına otomatik senkronize etme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -59,7 +59,55 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MD (Markdown) เป็น PPTM (Macro-Enabled PowerPoint) ช่วยเสริมความสามารถในการนำเสนอโดยรวมเนื้อหาที่มาจาก MD กับการอัตโนมัติที่ใช้มาโคร ไฟล์ PPTM สนับสนุนการจัดการสไลด์แบบไดนามิก การผูกข้อมูล และการกระทำตามสคริปต์
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การนำเสนอทางการเงินอัตโนมัติที่สร้างจากข้อมูลต้นฉบับ MD
+
+* แดชบอร์ดไดนามิกโดยใช้มาโครที่สร้างจากรายงาน Markdown
+
+* โมดูลการฝึกอบรมแบบโต้ตอบที่สร้างจากเอกสาร MD
+
+* เด็กสไลด์ที่ใช้มาโครจากไฟล์ผลิตภัณฑ์ Markdown
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* ท่อ CI/CD ที่สร้างเด็ก PPTM สำหรับทีมรายงาน
+
+* การนำเสนออัตโนมัติที่สามารถอัปเดตโดยอัตโนมัติที่มาจาก repos
+
+* การสร้าง PPTM แบบกลุ่มสำหรับระบบการฝึกอบรมของบริษัท
+
+* การสร้างแผงควบคุมที่ใช้ PPTM ตามกำหนดเวลาโดยใช้ข้อมูลนำเข้าจาก Markdown
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

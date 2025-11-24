@@ -47,7 +47,55 @@ otherformats: ODS SXC TSV XLSB TXT XLT EXCEL XLTM XLAM XLTX XLSM FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MD (Markdown) เป็น XLTX (Excel Template โดยไม่มีแมโคร) เหมาะสำหรับทีมที่ให้ความสำคัญกับการสร้างเทมเพลตอย่างสะอาด สม่ำเสมอ และไม่มีแมโคร  XLTX ให้โครงสร้างที่สามารถนำมาใช้ซ้ำได้พร้อมรักษาการจัดรูปแบบที่เชื่อถือได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การแปลงรายงานที่ใช้ Markdown เป็นเทมเพลตมาตรฐาน
+
+* การสร้างเทมเพลต XLTX ที่ดูดีสำหรับการใช้งานในองค์กร
+
+* การแปลงแนวทางการออกแบบ MD เป็นกรอบงานสำหรับสเปรดชีต
+
+* การสร้างเทมเพลตที่สามารถแก้ไขได้สำหรับฝ่ายทรัพยากรบุคคล การเงิน และดำเนินการ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างเทมเพลต XLTX โดยอัตโนมัติจาก MD ในขั้นตอนการทำงาน
+
+* การผลิตเทมเพลตที่สม่ำเสมอในองค์กร
+
+* การรีเฟรชเทมเพลต XLTX โดยใช้กระบวนการ ETL สำหรับการใช้งานในหลายแผนก
+
+* การอัปเดตเทมเพลตโดยใช้ MD สำหรับระบบเอกสารบนคลาวด์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

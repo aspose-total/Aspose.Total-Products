@@ -57,7 +57,55 @@ API также позволяет экспортировать файл MHTML в
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MHTML в TGA (Targa) создает высококачественные растровые изображения, обычно используемые в 3D-моделировании, играх или научной визуализации. TGA сохраняет глубину цвета и альфа-каналы для продвинутого использования.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные области применения" %}}
+
+
+
+* Извлечение веб-текстур для 3D-моделей или симуляций.
+
+* Архивирование научных визуализаций или диаграмм с прозрачностью.
+
+* Преобразование веб-иллюстраций в TGA для дизайнерских процессов.
+
+* Подготовка растровой графики для анимации или игровых ресурсов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование в TGA из графики веб-архива.
+
+* Запланированные процессы для экспорта текстур из онлайн-панелей управления.
+
+* Генерация TGA по запросу для систем управления цифровыми активами.
+
+* Интеграция с анимационными или симуляционными рабочими процессами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

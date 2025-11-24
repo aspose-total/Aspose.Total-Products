@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek TGA podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MHTML na TGA (Targa) produkuje vysoce kvalitní rastrové obrázky běžně používané v 3D modelování, hrách nebo vědecké vizualizaci. TGA zachovává hloubku barev a alfa kanály pro pokročilé použití.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Extrahování textur z webu pro 3D modely nebo simulace.
+
+* Archivace vědeckých vizualizací nebo grafů s průhledností.
+
+* Převod webových ilustrací do formátu TGA pro návrhové procesy.
+
+* Příprava rastrových grafik pro animace nebo herní prvky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod TGA z grafiky webových archivů.
+
+* Plánované procesy pro export textur z online nástěnek.
+
+* Spouštěná generace TGA pro systémy správy digitálních aktiv.
+
+* Integrace s animačními nebo simulačními pracovními postupy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

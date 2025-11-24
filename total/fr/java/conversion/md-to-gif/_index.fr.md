@@ -68,7 +68,53 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de Markdown (MD) en GIF permet de transformer le contenu textuel, les diagrammes ou les organigrammes en animations en boucle. Les GIF sont largement pris en charge, ce qui les rend adaptés aux tutoriels, au contenu des médias sociaux et aux visuels interactifs légers.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Conversion des organigrammes Markdown en GIFs pédagogiques.
+
+* Fiches de triche animées pour le codage ou les flux de documentation.
+
+* Visualisations conviviales pour les médias sociaux issues de notes Markdown.
+
+* Illustrations en boucle pour les guides techniques ou les démonstrations de logiciels.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Génération automatisée de GIF à partir des mises à jour de la documentation Markdown.
+
+* Traitement par lots de plusieurs diagrammes Markdown en GIF.
+
+* Intégration avec les pipelines de contenu pour produire des GIFs pour les portails en ligne.
+
+* Conversion planifiée de Markdown en GIF pour les plateformes marketing ou éducatives.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

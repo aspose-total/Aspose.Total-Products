@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek IMAGE podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MHTML na OBRÁZEK (JPEG, PNG, BMP atd.) extrahuje statické vizuály z webových archivů pro použití v prezentacích, webových stránkách nebo tištěných médiích. Převod OBRÁZKU zachovává rozvržení a grafickou kvalitu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Extrahování obrázků produktů z online katalogů.
+
+* Archivace webových grafů a infografik pro reporting.
+
+* Převod webových diagramů na obrázky vysokého rozlišení pro prezentace.
+
+* Vytváření vizuálního obsahu pro blogy a příspěvky na sociálních médiích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadné extrahování obrázků z MHTML souborů pro marketingové kampaně.
+
+* Integrace do automatizovaných pracovních postupů web-to-print.
+
+* Spouštěný převod pro dynamické dashboardy nebo reporty.
+
+* Plánovaná generace obrázků pro vzdělávací nebo tutoriální obsah.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ otherformats: TSV SXC XLTX FODS DIF XLSB ODS XLSM XLTM EXCEL TXT XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ MD (Markdown) เป็น CSV ช่วยให้ทีมสามารถแปลงข้อความโครงสร้าง ตาราง และรายการเป็นข้อมูลสเปรดชีทที่เข้ากันได้ทั่วไป CSV เหมาะสำหรับการทำงานทางวิเคราะห์ การนำเข้าฐานข้อมูล และการแลกเปลี่ยนข้อมูลระหว่างแพลตฟอร์มอย่างเบา
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ส่งออกตาราง Markdown เป็นชุดข้อมูล CSV สำหรับการวิเคราะห์
+
+* นำเข้าแผ่นราคาที่ใช้ MD เข้าเครื่องมือบัญชี
+
+* แปลงบันทึก Markdown ของนักพัฒนาเป็นไฟล์ CSV ที่สามารถเรียงลำดับได้
+
+* ย้ายตารางเอกสารเข้าสู่ระบบ CRM และ ERP
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* งาน ETL ที่แปลง Markdown จากเครื่องเก็บข้อมูลเป็น CSV ทุกคืน
+
+* การแปลงอัตโนมัติสำหรับแดชบอร์ดที่ต้องการข้อมูล CSV เป็นข้อมูลนำเข้า
+
+* ส่งออกแบบชุดข้อมูลสำหรับการประมวลผลเรียนรู้ของเครื่อง
+
+* การกระตุ้นการทำงานที่สร้าง CSV จากรายงานที่ใช้ Markdown
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

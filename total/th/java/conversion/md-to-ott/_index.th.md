@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น OTT (OpenDocument Text Template) สนับสนุนการสร้างเทมเพลตที่มีความยืดหยุ่นสำหรับชุดโปรแกรมสำนักงานโอเพนซอร์ส การใช้เทมเพลต OTT ช่วยรักษาการจัดรูปแบบอย่างสม่ำเสมอในขณะที่ทีมสามารถสร้างเอกสารหลายรายการจากรูปแบบสไตล์ที่มั่นคง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้างเทมเพลต OTT สำหรับการผลิตเอกสารหลายภาษา
+
+* สร้างเทมเพลตรายงานโครงสร้างจากคู่มือที่ใช้ Markdown
+
+* มาตรฐานเอกสารสำนักงานสำหรับสภาพแวดล้อมโอเพนซอร์ส
+
+* สร้างรูปแบบเอกสาร ODT ที่ใช้ซ้ำได้สำหรับองค์กรไม่แสวงหาผลกำไรหรือหน่วยงานของรัฐ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้าง OTT โดยอัตโนมัติในกระบวนการทำงานการพิมพ์โอเพนซอร์ส
+
+* การอัพเดทเทมเพลตอย่างอัตโนมัติจากการควบคุมเวอร์ชันของ Markdown
+
+* การสร้างชุดเทมเพลตเป็นกลุ่มสำหรับทีมที่กระจายใช้ LibreOffice
+
+* ระบบของรัฐหรือองค์กรไม่แสวงหาผลกำไรที่สร้างเทมเพลต OTT ตามกำหนดเวลา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

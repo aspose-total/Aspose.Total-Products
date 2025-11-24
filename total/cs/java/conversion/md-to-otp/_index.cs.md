@@ -59,7 +59,55 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MD (Markdown) na OTP (OpenDocument Presentation Template) pomáhá organizacím vytvářet opakovaně použitelné šablonové snímky, které dodržují konzistentní značení, zatímco udržují upravitelný obsah uložený v Markdownu. Soubory OTP jsou lehké, flexibilní a ideální pro prostředí s otevřeným zdrojovým kódem.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření značkových šablon OTP z obsahu Markdownu.
+
+* Vytváření opakovaně použitelných šablon přednášek z MD struktury lekcí.
+
+* Konzistentní struktury snímků pro neziskové organizace a akademické instituce.
+
+* Převádění dokumentace Markdownu do jednotných prezentčních šablon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované generování šablon OTP z verzí řízených MD.
+
+* Hromadná výroba šablon prezentací s otevřeným zdrojovým kódem.
+
+* Pravidelné aktualizace souborů OTP z repozitářů Markdown.
+
+* Pracovní postupy zaměřené na šablony pro distribuované organizace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

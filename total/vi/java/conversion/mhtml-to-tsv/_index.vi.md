@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp MHTML sang TSV, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MHTML sang TSV (Tab-Separated Values) trích xuất dữ liệu cấu trúc từ trang web trong định dạng văn bản thuần, thân thiện với dấu phân cách. TSV hoàn hảo cho khoa học dữ liệu, đường ống ETL và nhập dữ liệu vào cơ sở dữ liệu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Trích xuất bảng sản phẩm và giá cả thương mại điện tử để phân tích.
+
+* Kết quả khảo sát được xuất từ biểu mẫu web sang TSV.
+
+* Lưu trữ nội dung web bảng cho các mô hình học máy.
+
+* Chia sẻ tập dữ liệu có cấu trúc với các nhà phát triển và kỹ sư dữ liệu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi MHTML sang TSV theo lô cho các đường ống AI/ML.
+
+* Tích hợp vào các luồng công việc ETL tự động cho phân tích.
+
+* Tạo TSV theo lịch trình cho báo cáo dựa trên web định kỳ.
+
+* Xuất TSV kích hoạt cho bảng điều khiển thời gian thực.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

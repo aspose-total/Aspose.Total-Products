@@ -47,7 +47,55 @@ otherformats: TSV SXC XLTX FODS DIF XLSB ODS XLSM XLTM EXCEL TXT XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات MD (Markdown) إلى CSV يسمح للفرق بتحويل النصوص المنظمة والجداول والقوائم إلى بيانات جدولية متوافقة عالميًا. ملفات CSV مثالية لسير العمل التحليلية، واستيراد قواعد البيانات، وتبادل البيانات عبر المنصات بشكل خفيف.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير جداول Markdown إلى مجموعات بيانات CSV للتحليل.
+
+* استيراد أوراق الأسعار القائمة على MD إلى أدوات المحاسبة.
+
+* تحويل سجلات Markdown للمطورين إلى ملفات CSV قابلة للفرز.
+
+* نقل جداول الوثائق إلى أنظمة CRM وERP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* وظائف ETL تحويل مستودع Markdown إلى CSV يوميًا.
+
+* تحويل تلقائي للوحات المعلومات التي تتطلب مدخلات CSV.
+
+* تصدير دفعات لأنابيب معالجة التعلم الآلي.
+
+* مشغلات سير العمل تنتج CSV من تقارير تعتمد على Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

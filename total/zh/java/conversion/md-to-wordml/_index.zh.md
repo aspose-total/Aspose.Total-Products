@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MD（Markdown）转换为WordprocessingML（WordML）可生成结构化的基于XML的Word文档，非常适合企业系统、CMS平台和文档工程流程。WordML为机器生成的文档提供了对布局、标记和数据绑定的精确控制。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将Markdown文档迁移到基于XML的WordML结构。
+
+* 从MD生成结构化报告，用于自动化文档系统。
+
+* 直接从Markdown文本创建准备好数据绑定的技术文件。
+
+* 企业CMS平台将MD内容转换为与WordML兼容的模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为系统生成的Word文件生成XML流水线。
+
+* 自动化Markdown转换，用于API驱动的文档引擎。
+
+* 从存储库Markdown批量创建WordML存档。
+
+* 与基于XML的报告验证工作流集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

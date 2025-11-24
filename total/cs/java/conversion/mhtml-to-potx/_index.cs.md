@@ -121,7 +121,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MHTML na POTX (šablona PowerPointu bez maker) zajišťuje opakovaně použitelné šablony při zachování bezpečnosti a kompatibility. POTX je ideální pro spolupracující nebo prostředí s omezenými makry.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Zabezpečené firemní šablony snímků pro interní použití.
+
+* Standardizované vzdělávací prezentace.
+
+* Marketingové šablony odvozené od webových kampaní bez maker.
+
+* Klientské návrhové šablony zajišťující bezpečné použití bez maker.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod obsahu webu do šablon POTX.
+
+* Spuštěné generování prezentací bez maker.
+
+* Integrace do spolupracujících platforem pro správu šablon.
+
+* Automatické aktualizace šablon z online nástěnek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

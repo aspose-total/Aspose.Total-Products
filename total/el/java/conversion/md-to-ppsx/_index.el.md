@@ -59,7 +59,55 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή MD (Markdown) σε PPSX (PowerPoint Slideshow) παράγει μοντέρνα αρχεία παρουσιάσεων που ανοίγουν απευθείας σε πλήρη οθόνη. Το PPSX χρησιμοποιείται ευρέως για παρουσιάσεις που τρέχουν αυτόματα σε εταιρικά, λιανικά και εκδηλώσεις.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Αυτόματες πωλήσεις παρουσιάσεων που προέρχονται από σημειώσεις MD.
+
+* Οθόνες υποδοχής εταιρικών διαδρόμων που δημιουργήθηκαν από περιεχόμενο Markdown.
+
+* Βρόχοι διαφάνειας εκδηλώσεων που δημιουργήθηκαν από προγράμματα ή ατζέντες βασισμένα σε MD.
+
+* Συνεχείς επίδειξη προϊόντων που προέρχονται από περιγραφές Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένες ροές εργασίας PPSX για πινακίδες και πίνακες εμφάνισης.
+
+* Προγραμματισμένη δημιουργία παρουσιάσεων από σενάρια εκδηλώσεων Markdown.
+
+* Δημιουργία παρουσιάσεων σε παρτίδες για χρήση σε καταστήματα λιανικής.
+
+* Μετατροπές MD σε PPSX εντός πλατφορμών ψηφιακών πινακίδων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

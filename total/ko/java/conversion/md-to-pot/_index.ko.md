@@ -59,7 +59,55 @@ presentation.save("output.pot", SaveFormat.Pot);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 POT(PowerPoint Template)으로 변환하면 경량 텍스트 문서에서 가져온 일관된 브랜드 슬라이드 프레임워크를 만들 수 있어 기업에게 일관된 디자인을 제공합니다. POT 파일은 여러 프레젠테이션에서 디자인 일관성을 보장합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Markdown 스타일 문서에서 생성된 기업 브랜딩 템플릿.
+
+* MD 제품 개요에서 가져온 판매 프레젠테이션 프레임워크.
+
+* Markdown 기반 지침서에서 생성된 HR 입사 템플릿.
+
+* 다국적 기업을 위한 표준화된 POT 덱.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* CI/CD 워크플로우를 통해 MD에서 자동으로 POT 템플릿 생성.
+
+* 프랜차이즈 전체에서 POT 파일 일괄 생성.
+
+* Markdown을 단일 진실의 원천으로 사용하여 자동화된 템플릿 업데이트.
+
+* 기업 시스템이 프로그래밍 방식으로 POT 덱 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

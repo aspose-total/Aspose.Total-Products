@@ -57,7 +57,55 @@ APIを使用すると、必要に応じて出力WMZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）をWMZ（圧縮されたWindowsメタファイル）に変換すると、ベクターグラフィックスをコンパクトな形式で共有できます。WMZは、品質を損なうことなく図表やイラストを配布するのに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* Markdown図表から圧縮されたベクターイラストを作成する。
+
+* レガシー互換のグラフィックスをファイルサイズを削減して共有する。
+
+* テクニカルチャートをドキュメントやプレゼンテーションに埋め込む。
+
+* Markdownから派生したフローチャートや図式を配布する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* ドキュメントシステム向けの自動化されたMDからWMZへの変換。
+
+* Markdownリポジトリから圧縮されたベクターダイアグラムを一括生成。
+
+* ポータブルグラフィックスを生成するETLパイプラインとの統合。
+
+* 企業向け配布のためのWMZファイルの定期的な更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

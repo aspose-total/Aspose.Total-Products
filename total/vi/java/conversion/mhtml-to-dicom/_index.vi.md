@@ -57,7 +57,51 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh DICOM đầu ra theo nhu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp MHTML (lưu trữ web) sang DICOM (Hình ảnh kỹ thuật số và Liên lạc trong Y học) cho phép hình ảnh y học, báo cáo hoặc biểu đồ trên web được tích hợp vào quy trình làm việc hình ảnh lâm sàng. DICOM đảm bảo tính tương thích với PACS và phần mềm hình ảnh y học.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Lưu trữ hình ảnh chẩn đoán trên web dưới dạng DICOM.
+
+* Chuyển đổi báo cáo y tế trực tuyến cho hệ thống EMR của bệnh viện.
+
+* Chia sẻ hình ảnh chụp X quang hoặc siêu âm được trích xuất từ cổng thông tin trên web.
+
+* Tích hợp bảng điều khiển web lâm sàng vào quy trình làm việc hình ảnh.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt theo lịch trình nội dung y tế trên web sang DICOM.
+
+* Kích hoạt tạo ra để tích hợp vào PACS và cập nhật EMR.
+
+* Lưu trữ tự động cho các nền tảng y tế từ xa.
+
+* Tích hợp vào các đường ống chẩn đoán hỗ trợ bởi trí tuệ nhân tạo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

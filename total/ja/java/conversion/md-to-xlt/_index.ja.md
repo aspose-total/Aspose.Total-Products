@@ -47,7 +47,55 @@ MDファイルをXLTに変換するときに、出力XLTファイル形式に透
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）からXLT（Excelテンプレート）への変換により、チームは一貫したスタイリングとレイアウトを持つ再利用可能なExcelテンプレートを生成できます。XLTファイルは、ソースコンテンツをMarkdown形式で保持しながら、組織が文書作成を標準化するのに役立ちます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* MDガイドラインから構造化されたレポートテンプレートの構築。
+
+* 企業ブランドのスプレッドシートテンプレートの作成。
+
+* Markdown SOPを使用可能なExcelテンプレートに変換。
+
+* MDプレイブックからソースされたテンプレートベースのデータ入力シート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* バージョン管理されたMDからXLTテンプレートの自動再生成。
+
+* 企業部門向けの一括テンプレート作成。
+
+* 構造化されたレポートニーズのためのETL駆動型テンプレート構築。
+
+* フランチャイズまたは支店ベースのテンプレート配布ワークフロー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

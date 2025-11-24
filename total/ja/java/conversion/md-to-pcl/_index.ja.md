@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）をPCL（プリンターコマンド言語）に変換すると、レーザープリンターやインクジェットプリンターと互換性のある印刷用ファイルが生成されます。PCL変換は、技術文書、レポート、およびエンタープライズ印刷環境におけるワークフロー自動化の作成に適しています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* PCL対応プリンターでMarkdownベースのレポートを印刷する。
+
+* バッチドキュメント配布用のPCL出力を生成する。
+
+* Markdownドキュメントを印刷可能な形式に変換する。
+
+* オフィスや製造プリントワークフロー向けの技術的な手順書を準備する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* エンタープライズ印刷用にMarkdownファイルをPCLにスケジュールされたバッチ変換。
+
+* MarkdownドキュメントからPCLを自動生成するためのプリントサーバーとの統合。
+
+* MarkdownからPCLへの自動印刷パイプライン。
+
+* 高容量のPCLプリンター向けのトリガーベースのドキュメント生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

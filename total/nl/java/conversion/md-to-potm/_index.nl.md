@@ -59,7 +59,55 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) naar POTM (Macro-Enabled PowerPoint Template) conversie maakt het mogelijk om presentatiesjablonen te maken die verrijkt zijn met automatisering. POTM ondersteunt VBA-macro's voor automatische opmaak, dia-generatie en dynamische inhoudsinvoeging.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Met macro's aangedreven dia-sjablonen gebouwd vanuit Markdown-frameworks.
+
+* Geautomatiseerde rapportagesets afkomstig van MD-documentatie.
+
+* Interactieve trainingsjablooncreatie met behulp van MD-inhoud.
+
+* Dynamische zakelijke sjablonen vooraf geladen met VBA-logica.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde creatie van POTM-sjablonen geactiveerd door MD-updates.
+
+* Batchgeneratie van met macro's ingeschakelde PowerPoint-sjablonen.
+
+* CI/CD-workflows voor het bouwen van POTM-frameworks voor rapportageteams.
+
+* Workflow-gestuurde POTM-regeneratie voor bedrijfsbranding.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,55 @@ presentation.save("output.pot", SaveFormat.Pot);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为POT（PowerPoint模板）为企业提供了一种从轻量级文档中创建一致的品牌幻灯片框架的方式。POT文件确保设计在多个演示文稿中的一致性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从Markdown样式文档生成的企业品牌模板。
+
+* 从MD产品概述中获取的销售演示框架。
+
+* 从基于Markdown的说明书创建的人力资源入职模板。
+
+* 多分支组织的标准化POT幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* CI/CD工作流自动从MD生成POT模板。
+
+* 批量生成用于全国范围使用的POT文件。
+
+* 使用Markdown作为唯一真相源的自动化模板更新。
+
+* 企业系统以编程方式生成POT幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

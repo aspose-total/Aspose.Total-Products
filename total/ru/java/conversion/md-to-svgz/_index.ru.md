@@ -57,7 +57,55 @@ API также позволяет экспортировать файл MD в SV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование Markdown (MD) в SVGZ (сжатый SVG) создает масштабируемые векторные изображения в сжатом формате. Идеально подходит для веб-графики, адаптивных диаграмм и интерактивных визуализаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание сжатых векторных диаграмм из содержимого Markdown.
+
+* Создание адаптивных веб-иллюстраций из таблиц Markdown.
+
+* Создание масштабируемых значков или инфографики.
+
+* Встраивание сжатых векторных визуалов в онлайн-документацию.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование Markdown в SVGZ для веб-публикаций.
+
+* Интеграция в поток для автоматического создания диаграмм.
+
+* Плановое обновление SVGZ для интерактивных панелей управления.
+
+* Сжатие диаграмм Markdown в оптимизированные форматы для веба.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

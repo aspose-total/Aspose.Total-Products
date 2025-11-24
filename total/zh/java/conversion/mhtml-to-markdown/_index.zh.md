@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML（Web存档）文件转换为MARKDOWN（.md）可将Web内容转换为适用于网站、博客和开发者文档的轻量级、可读且便携的文本。Markdown保留内容结构，如标题、链接、列表和代码片段。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将Web教程转换为Markdown，用于开发者文档。
+
+* 将网页博客内容存档为Markdown格式。
+
+* 从在线手册创建知识库文章。
+
+* 将基于Web的报告转换为便携的Markdown笔记。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将多个MHTML页面转换为Markdown，用于静态站点生成器。
+
+* 触发Markdown生成，以便在开发者维基上自动更新内容。
+
+* 与CI/CD流水线集成，将Web内容转换为文档。
+
+* 自动提取基于Web的报告，用于基于Markdown的知识库。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

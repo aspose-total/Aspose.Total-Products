@@ -121,7 +121,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML을 PPSX(매크로 없는 슬라이드 쇼)로 변환하면 협업 및 매크로 제한 환경에 안전한 실행 가능한 슬라이드 쇼가 생성됩니다. PPSX는 여러 이해관계자에게 배포되는 프레젠테이션에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 매크로 없는 고객용 프레젠테이션 덱.
+
+* 안전한 배포를 위한 교육용 또는 훈련용 슬라이드 쇼.
+
+* 외부 이해관계자를 위한 마케팅 캠페인 프레젠테이션.
+
+* 팀 공유를 위한 프로젝트 업데이트 및 KPI 덱.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 웹 콘텐츠를 PPSX 슬라이드로 자동 일괄 변환.
+
+* 반복되는 슬라이드 쇼를 위한 예약된 업데이트.
+
+* 회의를 위한 실시간 웹 대시보드에서 생성된 트리거.
+
+* 프레젠테이션 관리 플랫폼 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

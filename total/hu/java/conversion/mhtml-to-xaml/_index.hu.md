@@ -135,7 +135,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MHTML XAML (Extensible Application Markup Language) konverzió lehetővé teszi, hogy a webes vektorgrafikákat és UI grafikákat Windows-kompatibilis UI komponensekké és skálázható vizuálissá alakítsák át.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Webes diagramok átalakítása XAML formátumba WPF alkalmazásokhoz.
+
+* Webes UI elrendezések archiválása szoftverfejlesztéshez.
+
+* Interaktív vezérlőpultok készítése asztali alkalmazásokhoz.
+
+* Vektorgrafikák kinyerése Windows UI projektekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* MHTML tartalom tömeges átalakítása XAML formátumba alkalmazásfejlesztéshez.
+
+* Ütemezett csővezetékek a webes UI prototípusok átalakításához.
+
+* Kiváltott XAML generálás WPF alkalmazásintegrációhoz.
+
+* Webes vektor tartalom automatizált archiválása szoftvercsapatok számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

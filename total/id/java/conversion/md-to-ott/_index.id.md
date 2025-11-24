@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi Markdown (MD) menjadi OTT (OpenDocument Text Template) mendukung penciptaan template yang dapat diskalakan untuk suite kantor sumber terbuka. Template OTT menjaga format yang konsisten sambil memungkinkan tim untuk menghasilkan beberapa dokumen dari dasar gaya yang stabil.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Membuat template OTT untuk produksi dokumen multibahasa.
+
+* Membangun template laporan terstruktur dari panduan berbasis Markdown.
+
+* Standarisasi dokumentasi kantor untuk lingkungan sumber terbuka.
+
+* Menghasilkan format dokumen ODT yang dapat digunakan ulang untuk NGO atau lembaga publik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi OTT otomatis dalam alur kerja penerbitan sumber terbuka.
+
+* Pembaruan template yang disinkronkan dari kontrol versi Markdown.
+
+* Memproduksi set template secara massal untuk tim yang tersebar menggunakan LibreOffice.
+
+* Sistem pemerintah atau nirlaba menghasilkan template OTT secara terjadwal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

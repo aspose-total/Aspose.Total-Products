@@ -61,7 +61,51 @@ Při převodu souboru POTX na EXCEL můžete také přidat vodoznak do výstupn�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod **POTX na EXCEL** přeměňuje obsah šablony PowerPointu na nativní sešit Excelu, což uživatelům umožňuje znovu využít údaje o rozvržení, struktury tabulek a metadata uvnitř tabulek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Přeměna tabulek šablon snímků na editovatelné dokumenty Excelu.
+
+* Příprava opakovaně použitelných datových modelů pro firemní reporting.
+
+* Extrahování zástupných prvků obsahu pro strukturované listy Excelu.
+
+* Použití prvků šablony pro dokumentaci projektů nebo týmů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná generace EXCEL z velkých repozitářů šablon POTX.
+
+* Vytváření opakujících se excelových reportů ze standardizovaných šablon snímků.
+
+* Konverze na základě spouštěče při aktualizaci šablon.
+
+* Vkládání extrahovaných dat Excelu do BI dashboardů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

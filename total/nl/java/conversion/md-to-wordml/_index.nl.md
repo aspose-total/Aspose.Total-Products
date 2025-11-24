@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van MD (Markdown) naar WordprocessingML (WordML) maakt gestructureerde op XML gebaseerde Word-documenten mogelijk, ideaal voor bedrijfssystemen, CMS-platforms en document-engineering pipelines. WordML biedt nauwkeurige controle over lay-out, tags en gegevensbinding voor machinaal gegenereerde documenten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Migreren van Markdown-documentatie naar op XML gebaseerde WordML-structuren.
+
+* Gestructureerde rapporten gegenereerd uit MD voor geautomatiseerde documentatiesystemen.
+
+* Technische bestanden gereed voor gegevensbinding direct gemaakt vanuit Markdown-tekst.
+
+* Bedrijfs-CMS-platforms transformeren MD-inhoud naar WordML-compatibele sjablonen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Generatie van XML-pijplijn voor systeem gegenereerde Word-bestanden.
+
+* Geautomatiseerde Markdown-conversies die worden ingevoerd in op API gebaseerde documentmotoren.
+
+* Batchcreatie van WordML-archieven vanuit repository Markdown.
+
+* Integratie met validatieworkflows voor op XML gebaseerde rapportage.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

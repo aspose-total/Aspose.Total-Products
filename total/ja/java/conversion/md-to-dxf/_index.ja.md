@@ -57,7 +57,55 @@ APIを使用すると、必要に応じて出力DXF画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）をDXF（Drawing Exchange Format）に変換すると、構造化された図表やフローチャートがCAD互換のベクトルファイルに変換されます。DXFは、精密な線に基づくイラストが必要なエンジニアリング、建築、製造ワークフローに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* Markdown図をCAD用のDXF図面にエクスポートする。
+
+* エンジニアリング文書のためのフローチャートや図式を変換する。
+
+* Markdownのノートから建築や機械のイラストを準備する。
+
+* CADソフトウェアを使用して共同作業者と技術図を共有する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* エンジニアリングおよび設計チーム向けのバッチMDからDXFへの変換。
+
+* 迅速なプロトタイピングのための自動化設計パイプラインとの統合。
+
+* 技術文書システム向けのスケジュールされたDXFエクスポート。
+
+* MarkdownリポジトリからCAD用のイラストを生成するトリガー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ MHTML 파일을 TSV로 변환하는 동안 출력 TSV 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML을 TSV(탭으로 구분된 값)로 변환하면 웹 페이지에서 구조화된 데이터를 일반 텍스트, 구분자 친화적 형식으로 추출할 수 있습니다. TSV는 데이터 과학, ETL 파이프라인 및 데이터베이스 가져오기에 완벽합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 분석을 위한 전자 상거래 제품 및 가격 테이블 추출.
+
+* 웹 양식에서 내보낸 설문 결과를 TSV로 변환.
+
+* 기계 학습 모델을 위한 테이블 형식의 웹 콘텐츠 보관.
+
+* 개발자 및 데이터 엔지니어들과 구조화된 데이터 세트 공유.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* AI/ML 파이프라인을 위한 일괄 MHTML-to-TSV 변환.
+
+* 분석을 위한 자동화된 ETL 워크플로에 통합.
+
+* 주기적인 웹 기반 보고서를 위한 예약된 TSV 생성.
+
+* 실시간 대시보드를 위한 트리거된 TSV 내보내기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

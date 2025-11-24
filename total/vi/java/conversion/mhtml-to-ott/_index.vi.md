@@ -129,7 +129,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MHTML sang OTT (OpenDocument Template) cho phép tạo các mẫu có thể tái sử dụng cho các bộ văn phòng mã nguồn mở, duy trì kiểu dáng và bố cục dựa trên web một cách nhất quán.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Mẫu tài liệu toàn công ty cho LibreOffice.
+
+* Mẫu kế hoạch học tập có thể tái sử dụng từ nội dung giáo dục dựa trên web.
+
+* Mẫu đề xuất và hợp đồng mã nguồn mở chuẩn hóa.
+
+* Mẫu luồng công việc cho quản lý nội dung cộng tác.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tự động tạo ra các mẫu OTT từ nhiều trang MHTML.
+
+* Tích hợp với các công cụ tự động hóa LibreOffice để tạo tài liệu theo lô.
+
+* Cập nhật mẫu khi có thay đổi từ nội dung dựa trên web.
+
+* Chuẩn hóa tài liệu một cách hiệu quả trên các nhóm phân tán.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

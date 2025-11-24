@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti WMF-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML to WMF (Windows Metafile) konvertálja a webes vektorgrafikákat szerkeszthető Windows vektorfájlokká. A WMF ideális régi rendszerekhez és irodai alkalmazásokhoz, amelyek skálázható vektorgrafikákat igényelnek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Webes diagramok archiválása irodai dokumentumok integrálásához.
+
+* Folyamatábrák és illusztrációk konvertálása prezentációkhoz.
+
+* Vektorgrafikai eszközök előkészítése nyomtatáshoz vagy dokumentáláshoz.
+
+* Webes grafikák kinyerése vállalati jelentésekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges WMF generálás webes tartalomból.
+
+* Ütemezett kinyerés automatizált jelentési rendszerekhez.
+
+* Integráció az irodai automatizálási folyamatokba.
+
+* Webes vektorgrafikák kiváltott konvertálása prezentációkhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

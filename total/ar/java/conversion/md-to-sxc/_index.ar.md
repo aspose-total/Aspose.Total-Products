@@ -47,7 +47,55 @@ otherformats: DIF EXCEL TXT XLTM SXC XLT XLTX XLSM XLSB FODS XLAM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MD (Markdown) إلى SXC (StarOffice Calc) يعود بالفائدة على المؤسسات التي لا تزال تستخدم بيئات جداول البيانات القديمة StarOffice/OpenOffice. يدعم SXC الصيغ وهياكل الجداول وتنسيق الخلايا المتوافقة مع البيئات المكتبية القديمة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل جداول Markdown إلى جداول بيانات SXC القديمة.
+
+* تحديث أنظمة المؤسسات القديمة باستخدام البيانات القائمة على MD.
+
+* إنشاء ملفات SXC لمنصات قديمة ولكن لا تزال تعمل.
+
+* إعداد سجلات الهندسة من Markdown إلى تنسيقات جداول البيانات الكلاسيكية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* تحويل دُفعي من MD إلى SXC لأدوات الأعمال الأرشيفية.
+
+* اتصالات ETL للبرامج الحكومية أو الصناعية القديمة.
+
+* إنتاج SXC الليلي من مستودعات Markdown.
+
+* إنشاء SXC مُحفز لسير العمل المتوافقة مع الإصدارات السابقة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น PS (PostScript) สร้างไฟล์พิมพ์เวกเตอร์คุณภาพสูงที่เหมาะสำหรับการเผยแพร่อย่างมืออาชีพ PS รองรับไดอะแกรมที่สามารถปรับขนาดได้การจัดรูปแบบข้อความและใช้กันอย่างแพร่หลายในสภาพแวดล้อมการผลิตพิมพ์
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้างไดอะแกรมพร้อมพิมพ์จากเนื้อหา Markdown
+
+* สร้างภาพประกอบ PostScript ที่สามารถปรับขนาดได้สำหรับการเผยแพร่อย่างมืออาชีพ
+
+* แปลงรายงานที่ใช้ Markdown เป็นผลลัพธ์พิมพ์ความละเอียดสูง
+
+* เก็บเอกสารเทคนิคในรูปแบบ PS เพื่อการทำซ้ำ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง Markdown เป็น PS โดยอัตโนมัติสำหรับท่องไปรขององค์กร
+
+* สร้าง PS จำนวนมากจากคลังข้อมูล Markdown สำหรับเอกสารพร้อมพิมพ์
+
+* ส่งออก PostScript ตามกำหนดเวลาสำหรับรายงานคุณภาพสูง
+
+* ผสานกับการทำงานของไฟล์เวิร์กโฟลว์การพิมพ์โดยแปลง Markdown เป็น PS
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -62,7 +62,51 @@ Using the API, you can also rotate the output DXF image as per your needs. The I
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converting MHTML to DXF (Drawing Exchange Format) transforms web-based diagrams into CAD-compatible vector files. DXF is ideal for architects, engineers, and designers requiring precision and editability.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* Extracting engineering diagrams or schematics from web archives.
+
+* Transforming web-based floor plans into editable CAD drawings.
+
+* Converting technical illustrations for architectural projects.
+
+* Preparing vector diagrams for manufacturing or prototyping.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* Batch conversion of online CAD-ready diagrams into DXF.
+
+* Triggered DXF generation for collaborative engineering workflows.
+
+* Integration into design and simulation software pipelines.
+
+* Scheduled archival of web-sourced schematics.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

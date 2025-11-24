@@ -65,7 +65,55 @@ Using the API, you can also rotate the output PSD image as per your needs. The I
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converting Markdown (MD) to PSD (Photoshop Document) enables designers to import textual and structured content into layered, editable Photoshop files. PSD allows combining Markdown-based diagrams with professional graphic editing.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* Transforming Markdown notes into editable design mockups.
+
+* Creating layered diagrams for infographics or marketing content.
+
+* Combining Markdown-generated visuals with branding assets.
+
+* Preparing design files for collaborative creative workflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* Automated Markdown-to-PSD conversion for marketing teams.
+
+* Batch creation of layered visual assets from Markdown repositories.
+
+* Integration with graphic pipelines for content production.
+
+* Triggered PSD generation for collaborative design projects.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

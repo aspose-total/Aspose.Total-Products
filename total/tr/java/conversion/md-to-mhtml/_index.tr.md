@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını MHTML (Web Arşivi) formatına dönüştürmek, biçimlendirme, resimler ve bağlantılar dahil olmak üzere tüm belgenin tek bir web'e hazır dosyada paketlenmesine olanak tanır. MHTML dosyaları, Markdown içeriğini tarayıcılar arasında paylaşmak, belgeleri arşivlemek ve taşınabilir web sayfalarını dağıtmak için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown belgelerini kendi içinde barındıran web sayfaları olarak arşivleme.
+
+* Herhangi bir tarayıcıda çevrimdışı okuma için taşınabilir raporlar oluşturma.
+
+* Kullanıcı kılavuzlarını veya teknik rehberleri tek dosya web arşivleri olarak dağıtma.
+
+* Gömülü medya içeren Markdown tabanlı proje belgelerini koruma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Markdown depolarının geceleyin MHTML'ye otomatik dönüştürülmesi ve web dağıtımı.
+
+* Dahili bilgi tabanı belgelerinin MHTML formatında toplu arşivlenmesi.
+
+* İçerik yönetimi borularıyla Markdown'tan MHTML dosyaları oluşturma entegrasyonu.
+
+* Tarayıcıya hazır belgeler oluşturmak için CI/CD iş akışlarında tetiklenen dönüşüm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

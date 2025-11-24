@@ -47,7 +47,51 @@ MHTMLファイルをTSVに変換するときに、出力TSVファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをTSV（Tab-Separated Values）に変換すると、ウェブページから構造化されたデータをプレーンテキストで取り出し、区切り文字に適した形式にします。TSVはデータサイエンス、ETLパイプライン、およびデータベースのインポートに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* 分析用のeコマース製品と価格表の抽出。
+
+* ウェブフォームからエクスポートされた調査結果をTSV形式に変換。
+
+* 機械学習モデル向けに表形式のウェブコンテンツをアーカイブ。
+
+* 開発者やデータエンジニアとの構造化されたデータセットの共有。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* AI/MLパイプライン向けのバッチMHTMLからTSVへの変換。
+
+* 分析用の自動化されたETLワークフローへの統合。
+
+* 定期的なウェブベースのレポーティング用のスケジュールされたTSV生成。
+
+* リアルタイムダッシュボード用のトリガーされたTSVエクスポート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

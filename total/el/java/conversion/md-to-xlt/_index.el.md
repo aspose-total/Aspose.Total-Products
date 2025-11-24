@@ -47,7 +47,55 @@ otherformats: XLT SXC ODS XLTM XLTX FODS XLSM DIF XLSB XLAM EXCEL TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή από MD (Markdown) σε XLT (Excel Template) επιτρέπει στις ομάδες να δημιουργούν επαναχρησιμοποιήσιμα πρότυπα Excel με συνεπή στυλ και διάταξη. Τα αρχεία XLT βοηθούν τις οργανώσεις να τυποποιήσουν τη δημιουργία εγγράφων κρατώντας το περιεχόμενο πηγής στο Markdown.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Δημιουργία δομημένων προτύπων αναφοράς από οδηγίες MD.
+
+* Παραγωγή προτύπων φύλλων υπολογιστικού φύλλου με το λογότυπο της εταιρείας.
+
+* Μετατροπή των Markdown SOPs σε έτοιμα πρότυπα Excel.
+
+* Φύλλα εισαγωγής δεδομένων βασισμένα σε πρότυπα από τα MD playbooks.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτόματη ανανέωση προτύπων XLT από τον έλεγχο εκδόσεων MD.
+
+* Δημιουργία προτύπων πακέτων για τμήματα επιχειρήσεων.
+
+* Δημιουργία προτύπων με ETL για τις ανάγκες δομημένης αναφοράς.
+
+* Ροές διανομής προτύπων βασισμένες σε franchise ή υποκαταστήματα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

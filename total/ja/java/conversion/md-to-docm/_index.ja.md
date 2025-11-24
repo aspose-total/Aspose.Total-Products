@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）ファイルをDOCX（Word Macro-Enabled Documents）に変換することで、チームは軽量なテキストファイルをインタラクティブな自動化機能で強化できます。 DOCMファイルは埋め込みマクロをサポートしており、ワークフロー駆動のドキュメント、企業テンプレート、Word内で動的なアクションが必要な自動生成レポートに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* 開発者のMarkdownノートをマクロパワーのSOPに変換する。
+
+* 企業ワークフロー向けの自動アクション対応ポリシードキュメント。
+
+* Gitに保存されたMDファイルから構築されたインタラクティブな提案テンプレート。
+
+* Markdownベースの変更履歴から生成されたマクロ駆動の監査ログ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* コンプライアンスチーム向けの定期的なMDからDOCMへの変換。
+
+* Markdownからマクロ対応のWordレポートを生成するETLパイプライン。
+
+* リポジトリコンテンツからDOCMドキュメントを再生成するCI/CDワークフロー。
+
+* エンジニアリング部門向けの自動マクロトリガードドキュメンテーション。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

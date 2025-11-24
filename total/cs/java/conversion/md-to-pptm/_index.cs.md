@@ -59,7 +59,55 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MD (Markdown) na PPTM (makro-povolené PowerPoint) zvyšuje prezentace tím, že kombinuje obsah zdrojů MD s automatizací řízenou makry. Soubory PPTM podporují dynamickou manipulaci snímků, vázání dat a skriptované interakce.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Automatizované finanční prezentace postavené z dat zdroje MD.
+
+* Dynamické informační panely s makry vytvořené z hlášení Markdown.
+
+* Interaktivní výukové moduly generované z dokumentace MD.
+
+* Makro-povolené prezentace produktů získané z Markdown souborů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* CI/CD potrubí generující PPTM prezentace pro týmy reportů.
+
+* Automaticky aktualizované makro-povolené prezentace získané z repozitářů.
+
+* Hromadné vytváření PPTM pro firemní vzdělávací systémy.
+
+* Plánované generování informačních panelů založených na PPTM pomocí vstupů Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

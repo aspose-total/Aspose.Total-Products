@@ -47,7 +47,55 @@ MD dosyasını XLAM'ye dönüştürürken, çıktı XLAM dosya biçiminize filig
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) dosyalarını XLAM (Excel Eklentisi) formatına dönüştürmek, fonksiyonlar, otomasyon ve tekrar kullanılabilir mantığı içeren makro etkin dosyaların oluşturulmasını sağlar. Bu format, programlanabilir eklentilere ihtiyaç duyan ileri düzey Excel kullanıcılarını destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Markdown tabanlı formül kütaplıklarından makro eklentiler oluşturma.
+
+* Finans ekipleri için MD kaynaklı betikleri XLAM'e paketleme.
+
+* Eklenti oluşturarak tekrarlayan analitik görevleri otomatikleştirme.
+
+* Markdown notlarından türetilen standart makro paketlerinin dağıtımı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* CI/CD boru hatlarında MD'den otomatik XLAM oluşturma.
+
+* Kurumsal için sürüm kontrollü makro eklentisi oluşturma.
+
+* Veri analizi departmanları için toplu XLAM araçları oluşturma.
+
+* Belgelendirme Markdown'dan kaynaklanan makro eklentilerin otomatik güncellenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

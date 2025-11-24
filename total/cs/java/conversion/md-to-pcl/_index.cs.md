@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění formátu Markdown (MD) na formát PCL (Printer Command Language) generuje soubory připravené k tisku kompatibilní s laserovými a inkoustovými tiskárnami. Konverze PCL je vhodná pro vytváření technických dokumentů, zpráv a automatizaci pracovních postupů v podnikovém prostředí tisku.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Tisk zpráv založených na formátu Markdown na tiskárnách podporujících formát PCL.
+
+* Generování výstupu ve formátu PCL pro dávkové distribuce dokumentů.
+
+* Převádění dokumentace z formátu Markdown do tisknutelných formátů.
+
+* Příprava technických instrukcí pro kancelářské nebo výrobní tiskové postupy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná dávková konverze souborů z formátu Markdown do formátu PCL pro podnikový tisk.
+
+* Integrace s tiskovými servery pro automatické generování formátu PCL z dokumentace v Markdownu.
+
+* Automatizované tiskové toky převádějící Markdown na formát PCL.
+
+* Produkce dokumentů spouštěná událostmi pro tiskárny s vysokým objemem tisku ve formátu PCL.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

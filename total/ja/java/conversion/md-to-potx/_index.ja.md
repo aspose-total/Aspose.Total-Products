@@ -59,7 +59,55 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）をPOTX（マクロなしのPowerPointテンプレート）に変換すると、軽量テキストファイルに基づいたモダンでクリーンなプレゼンテーションテンプレートの作成が可能になります。POTXはマクロに依存せず、プレゼンテーションの一貫性を確保します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* MDのアウトラインからクリーンでブランド化されたPOTXテンプレートを作成する。
+
+* 複数の部門間で企業のスライドを標準化する。
+
+* Markdownの要約から取得したマーケティングデッキを構築する。
+
+* MDコンテンツを使用して学術プレゼンテーションテンプレートをデザインする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* ドキュメントパイプラインでの自動化されたPOTXの生成。
+
+* Markdownをソースコンテンツとして使用したテンプレートの再生成。
+
+* 企業チーム向けのPOTXファイルの一括配布。
+
+* ブランディングワークフローでの定期的なMDからPOTXへの更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

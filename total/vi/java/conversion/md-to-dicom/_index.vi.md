@@ -57,7 +57,55 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh DICOM đầu ra theo nhu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp Markdown (MD) sang định dạng DICOM (Digital Imaging and Communications in Medicine) cho phép tích hợp tài liệu văn bản hoặc chú thích vào quy trình làm việc hình ảnh y tế. DICOM hỗ trợ siêu dữ liệu, cấu trúc hình ảnh tiêu chuẩn, và lý tưởng cho hệ thống bệnh viện và môi trường nghiên cứu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Nhúng ghi chú lâm sàng dựa trên Markdown vào các lưu trữ hình ảnh y tế.
+
+* Tạo hình ảnh giáo dục cấu trúc cho bệnh nhân với nội dung Markdown.
+
+* Tích hợp tài liệu nghiên cứu vào các bộ dữ liệu hình ảnh tuân thủ DICOM.
+
+* Lưu trữ chú thích dựa trên văn bản cùng với hình ảnh chụp cắt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tự động hóa việc chuyển đổi MD sang DICOM cho các hệ thống tài liệu bệnh viện.
+
+* Xử lý hàng loạt các tệp Markdown lâm sàng cho tích hợp hồ sơ sức khỏe điện tử.
+
+* Các đường ống chuyển đổi được lên lịch cung cấp cho các lưu trữ DICOM.
+
+* Kích hoạt việc hiển thị báo cáo Markdown cùng với dữ liệu hình ảnh cho chẩn đoán hỗ trợ bằng trí tuệ nhân tạo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

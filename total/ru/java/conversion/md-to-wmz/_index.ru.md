@@ -57,7 +57,55 @@ API также позволяет экспортировать файл MD в WM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование Markdown (MD) в WMZ (сжатый файл метафайла Windows) позволяет обмениваться векторной графикой в компактном формате. WMZ идеально подходит для распространения диаграмм, графиков и иллюстраций без потери качества.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные области применения" %}}
+
+
+
+* Создание сжатых векторных иллюстраций из диаграмм Markdown.
+
+* Обмен графикой, совместимой со старыми версиями, в уменьшенных размерах файлов.
+
+* Встраивание технических графиков в документацию или презентации.
+
+* Распространение блок-схем и схем, полученных из Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное преобразование MD в WMZ для систем документации.
+
+* Пакетная генерация сжатых векторных диаграмм из репозиториев Markdown.
+
+* Интеграция с ETL-конвейерами, производящими портативную графику.
+
+* Плановое обновление файлов WMZ для корпоративного распространения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

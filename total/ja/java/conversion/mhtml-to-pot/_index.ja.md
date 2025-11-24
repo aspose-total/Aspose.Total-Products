@@ -121,7 +121,31 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+MHTMLをPOT（PowerPointテンプレート）に変換することで、WebコンテンツをMicrosoft PowerPointで編集可能なスライドテンプレートとして再利用できます。POTファイルは、複数のプレゼンテーションで一貫したブランディングとレイアウトを維持するために不可欠です。
+
+## {{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+- 社内報告用の企業スライドテンプレート。
+- Webソースから派生したマーケティングキャンペーンスライド。
+- eラーニングプラットフォーム向けの教育用スライドテンプレート。
+- クライアントプレゼンテーション用の提案テンプレート。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- 複数のMHTMLページからPOTテンプレートの一括作成。
+- 定期的に使用するための企業テンプレートリポジトリへの統合。
+- 定期的なコンテンツ更新のためのトリガー変換パイプライン。
+- オンラインダッシュボードからの自動スライド書式設定。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

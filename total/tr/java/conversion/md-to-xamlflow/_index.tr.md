@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)’yi XAMLFLOW’a dönüştürmek, XAML işaretleme kullanarak etkileşimli, akış tabanlı diyagramlar ve uygulama düzenleri oluşturmayı sağlar. Yazılım görselleştirmesi, UI prototipleme ve iş akışı belgeleri için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown belgelerinden etkileşimli akış diyagramları oluşturma.
+
+* Markdown içeriğini kullanarak WPF uygulama iş akışlarını prototipleme.
+
+* Teknik süreç notlarını XAMLFlow görselleştirmelerine çevirme.
+
+* Markdown ile oluşturulan iş akışlarını etkileşimli uygulama önizlemelerine gömme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Geliştirme ekipleri için otomatik MD'den XAMLFLOW boru hatları oluşturma.
+
+* Markdown notlardan etkileşimli akışların toplu olarak oluşturulması.
+
+* Yazılım belgelerindeki iş akışı diyagramlarının zamanlanmış olarak güncellenmesi.
+
+* Markdown işlem taslaklarını XAMLFLOW bileşenlerine dönüştürmek için CI/CD ile entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

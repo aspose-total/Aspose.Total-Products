@@ -78,7 +78,55 @@ otherformats: SXC XLTX XLAM FODS EXCEL ODS TSV XLSB XLTM CSV XLT DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת Markdown (MD) ל-XLSM (גיליון אלקטרוני של Excel המאופשר מאקרו) משחררת יכולות אוטומציה בתהליכי גיליון האלקטרוני. XLSM תומך במאקרוס VBA, מה שהופך אותו לאידיאלי לדיווח דינמי ולחישובים אוטומטיים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת לוחות מחוונים מופעלים במאקרו מטבלאות קלט Markdown.
+
+* אוטומציה של מחשבוני עלויות המופקים מגיליונות מוצרים ב-MD.
+
+* אוטומציה של תהליכי עבודה ב-XLSM המבוססים על מבנים Markdown.
+
+* יצירת גיליונות תעשייתיים בעזרת מאקרוס שנוצרו מהערות MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת MD מאוטומטית → XLSM בתהליכי CI.
+
+* יצירה מתוזמנת של גיליונות אלקטרוניים מאופשרי מאקרו לצורכי תפעול.
+
+* צינורות המרה שיוצרים דו"חות XLSM באופן דינמי.
+
+* שילוב מקורות Markdown לתוך מערכות גיליון אלקטרוני פיננסיות מאוטומטיות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,55 @@ Während Sie eine MD-Datei in ODS konvertieren, können Sie Ihrem Ausgabe-ODS-Da
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Umwandlung von Markdown (MD) in ODS (OpenDocument Spreadsheet) bietet eine robuste, offene Standardalternative zu Excel. ODS eignet sich ideal für Teams, die LibreOffice oder OpenOffice verwenden, und unterstützt Formeln, Diagramme und strukturierte Tabellenformatierungen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Import von Markdown-Listen in ODS-Dashboards.
+
+* Erstellung von Analyseblättern für Open-Source-Büroumgebungen.
+
+* Erstellung von ODS-Format-Budgetverfolgern, die aus MD-Inhalten stammen.
+
+* Umwandlung technischer MD-Dokumentation in für Tabellenkalkulationen geeignete Daten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Geplante ODS-Erstellung für Open-Source-Datenteams.
+
+* Cross-Plattform-Pipelines, die Markdown in ODS-Tabellenkalkulationen einspeisen.
+
+* Stapeltransformation von Dokumentationstabellen in ODS-Format.
+
+* Automatisierte ODS-Erstellung für verteilte Teams, die editierbare Tabellenkalkulationen benötigen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

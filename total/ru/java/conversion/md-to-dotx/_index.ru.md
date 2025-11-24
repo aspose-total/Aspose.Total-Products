@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование Markdown (MD) в DOTX (Шаблон Word без макросов) идеально подходит для создания элегантных, последовательных и многократно используемых макетов. DOTX сохраняет элементы дизайна, позволяя командам обновлять контент из легких файлов Markdown в средах контроля версий.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Корпоративные шаблоны брендинга, полученные из документации MD.
+
+* Стандартизированные обучающие материалы, созданные на основе документации Markdown.
+
+* Шаблоны маркетинговых брошюр, изначально разработанные в MD.
+
+* Структурированные шаблоны академических статей, созданные из исходных источников Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное создание DOTX через CI/CD для команд документации.
+
+* Повторное создание стандартизированных шаблонов Word из файлов MD в репозитории.
+
+* Пакетная обработка репозиториев Markdown в готовые к использованию макеты DOTX.
+
+* Создание единообразных шаблонов для организаций с несколькими подразделениями.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

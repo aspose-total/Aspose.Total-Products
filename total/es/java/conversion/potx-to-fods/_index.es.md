@@ -61,7 +61,51 @@ Al convertir un archivo POTX a FODS, también puede agregar una marca de agua a 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir **POTX a FODS** exporta datos de plantilla en archivos de hojas de cálculo Flat OpenDocument para una máxima compatibilidad entre herramientas de código abierto.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Edición de datos derivados de POTX en LibreOffice y OpenOffice.
+
+* Preparación de hojas de cálculo en formato abierto estándar gubernamental.
+
+* Creación de hojas de datos ligeras y agnósticas a la plataforma.
+
+* Archivar metadatos de plantillas POTX en formatos abiertos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Procesamiento por lotes de archivos POTX en FODS para equipos multiplataforma.
+
+* Exportaciones programadas en formato abierto para cumplimiento o auditorías.
+
+* Integración con automatización de flujos de trabajo de código abierto.
+
+* Conversión de FODS basada en disparadores cuando se actualizan las plantillas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

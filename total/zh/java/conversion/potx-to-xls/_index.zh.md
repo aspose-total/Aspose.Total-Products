@@ -61,7 +61,51 @@ otherformats: FODS XLTX DIF XLTM XLSM MARKDOWN XLSB SXC XLT XLAM XLSX EXCEL MHTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **POTX 转换为 XLS**，将模板内容导出到经典的 Excel 电子表格中，确保与较旧的 Office 系统兼容。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将模板表格重新用于传统的 Excel 工作流程。
+
+* 为兼容性测试创建旧格式的电子表格。
+
+* 提取结构化的模板内容用于内部报告。
+
+* 支持跨部门数据交换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于企业存档的大规模 XLS 转换。
+
+* 从标准模板生成定期的旧版电子表格。
+
+* 基于触发器的 XLS 更新，用于合规系统。
+
+* 与需要较旧文件标准的文档集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

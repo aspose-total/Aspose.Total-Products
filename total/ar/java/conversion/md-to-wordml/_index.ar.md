@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل تنسيق MD (Markdown) إلى WordprocessingML (WordML) يمكن أن ينتج وثائق Word المبنية على XML مُهيكلة مثالية لأنظمة المؤسسات ومنصات إدارة نظم إدارة المحتوى وأنابيب هندسة الوثائق. يوفر WordML تحكمًا دقيقًا في التخطيط والعلامات وربط البيانات للوثائق التي تم إنشاؤها بواسطة الآلة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل وثائق Markdown إلى هياكل WordML مدعومة بـ XML.
+
+* تقارير مُهيكلة تُنشأ من MD لأنظمة الوثائق الآلية.
+
+* ملفات تقنية جاهزة لربط البيانات تم إنشاؤها مباشرة من نص Markdown.
+
+* منصات إدارة نظم إدارة المحتوى الشركية تحويل محتوى MD إلى قوالب قابلة للتوافق مع WordML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتأة" %}}
+
+
+
+* إنشاء أنابيب XML لملفات Word التي تم إنشاؤها بواسطة النظام.
+
+* تحويل Markdown تلقائي يُغذي محركات الوثائق التي تعتمد على واجهة برمجة التطبيقات.
+
+* إنشاء دفعي لأرشيفات WordML من Markdown في المستودع.
+
+* التكامل مع سير العمل للتحقق من الصحة لتقارير تعتمد على XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

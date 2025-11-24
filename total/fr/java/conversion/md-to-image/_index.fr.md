@@ -57,7 +57,55 @@ L'API vous permet également d'exporter le fichier MD vers IMAGE dans un seul fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion du Markdown (MD) en formats d'image génériques (PNG, JPG, BMP) permet de visualiser des tableaux, des diagrammes et du texte formaté dans un format portable et indépendant de la plateforme. Les images peuvent être intégrées dans des présentations, des sites web ou des documents.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Exportation de diagrammes Markdown en tant qu'images statiques pour des diapositives ou des rapports.
+
+* Partage de graphiques basés sur Markdown sur des sites web ou des blogs.
+
+* Création d'images pour des manuels d'utilisation ou des guides techniques.
+
+* Instantanés visuels de tableaux Markdown pour des présentations ou des PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot planifiée du contenu Markdown en images.
+
+* Pipelines ETL produisant des ressources visuelles à partir de fichiers Markdown.
+
+* Génération automatique de diagrammes pour des portails de documentation.
+
+* Exportations d'images déclenchées par des événements pour des tableaux de bord ou des systèmes de reporting.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,55 @@ POTXファイルをTSVに変換するときに、出力TSVファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**POTXをTSVに変換**すると、テキストベースの分析、データパイプライン、機械学習の前処理に最適なタブ区切り値ファイルが生成されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 統計分析のためのPOTXスライドデータの準備。
+
+* 機械学習ワークフローへの表形式コンテンツのインポート。
+
+* 開発者向けの構造化されたテンプレートコンテンツの抽出。
+
+* BIレポーティングツール向けのTSVデータセットの作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 分析チーム向けのバッチテンプレート抽出をTSVに。
+
+* テンプレートが編集されたときのTSV形式へのトリガーベースの更新。
+
+* データ変換のためのETLパイプラインへの統合。
+
+* 定期的なレポートサイクルのための予定されたTSV生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

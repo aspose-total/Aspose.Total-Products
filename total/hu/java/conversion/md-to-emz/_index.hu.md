@@ -57,7 +57,55 @@ Az API használatával igény szerint elforgathatja a kimeneti EMZ-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) átalakítása EMZ (Tömörített Kiemelt Metafájl) formátumba kompakt vektorgrafikát eredményez, amely alkalmas bemutatókba, dokumentumokba vagy webhelyekbe való beágyazásra. Az EMZ megőrzi a vonalakon alapuló ábrákat, és csökkenti a fájlméretet anélkül, hogy minőséget veszítene.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Markdown diagramok tömörítése jelentésekbe való beágyazáshoz.
+
+* EMZ vizuális elemek létrehozása diavetítésekhez és bemutatókhoz.
+
+* Műszaki ábrák megosztása, amelyeket a Markdown tartalomból származtatnak.
+
+* Vektorábrák archiválása helytakarékos formátumban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Automatizált MD-EMZ konverzió dokumentációs csatornákhoz.
+
+* Markdown alapú diagramok tömörített EMZ fájlokká történő csoportos feldolgozása.
+
+* Ütemezett EMZ vizuális elemek generálása belső tudásbázisokhoz.
+
+* Diagramok kiváltása vállalati bemutató munkafolyamatokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,55 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）からPOTM（マクロ有効なPowerPointテンプレート）への変換により、自動化が施されたプレゼンテーションテンプレートの作成が可能となります。POTMは、VBAマクロをサポートしており、自動書式設定、スライド生成、動的コンテンツ挿入が可能です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* Markdownフレームワークから構築されたマクロパワードスライドテンプレート。
+
+* MDドキュメントから自動生成されたレポートデッキ。
+
+* MDコンテンツを使用したインタラクティブなトレーニングテンプレートの作成。
+
+* VBAロジックを事前にロードした動的なビジネステンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* MDの更新によってトリガーされる自動POTMテンプレートの作成。
+
+* マクロ有効なPowerPointテンプレートの一括生成。
+
+* レポートチーム向けのPOTMフレームワークを構築するCI/CDワークフロー。
+
+* 企業ブランディングのためのワークフロー駆動型POTM再生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

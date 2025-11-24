@@ -47,7 +47,55 @@ otherformats: SXC TXT FODS XLTM ODS XLT XLTX XLSM DIF EXCEL XLSB XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή από MD (Markdown) σε XLAM (Excel Add-in) επιτρέπει τη δημιουργία αρχείων επέκτασης που υποστηρίζουν μακροενεργοποιημένες λειτουργίες, αυτοματισμό και επαναχρησιμοποιήσιμη λογική. Αυτή η μορφή υποστηρίζει προχωρημένους χρήστες του Excel που χρειάζονται προγραμματιζόμενα πρόσθετα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Δημιουργία μακροενεργοποιημένων προσθέτων από βιβλιοθήκες φορμουλών βασισμένες σε Markdown.
+
+* Συσκευασία σε XLAM των σεναρίων που προέρχονται από MD για οικονομικές ομάδες.
+
+* Αυτοματοποίηση επαναλαμβανόμενων αναλυτικών εργασιών μέσω της δημιουργίας προσθέτων.
+
+* Διανομή προτύπων πακέτων μακροενεργοποιημένων προσθέτων που προέρχονται από σημειώσεις Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη δημιουργία XLAM από MD σε CI/CD pipelines.
+
+* Έκδοση ελεγχόμενων εκδόσεων μακροενεργοποιημένων προσθέτων για επιχειρήσεις.
+
+* Δημιουργία πακέτων εργαλείων XLAM για τμήματα ανάλυσης δεδομένων.
+
+* Αυτόματη ενημέρωση μακροενεργοποιημένων προσθέτων που προέρχονται από τεκμηρίωση Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

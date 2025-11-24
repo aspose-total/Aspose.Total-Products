@@ -57,7 +57,55 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh PSD đầu ra theo nhu c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi Markdown (MD) sang PSD (Tài liệu Photoshop) cho phép các nhà thiết kế nhập nội dung văn bản và cấu trúc vào các tệp Photoshop có lớp, có thể chỉnh sửa. PSD cho phép kết hợp sơ đồ dựa trên Markdown với việc chỉnh sửa đồ họa chuyên nghiệp.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi ghi chú Markdown thành các mẫu thiết kế có thể chỉnh sửa.
+
+* Tạo sơ đồ có lớp cho thông tin đồ họa hoặc nội dung tiếp thị.
+
+* Kết hợp hình ảnh được tạo bởi Markdown với tài sản thương hiệu.
+
+* Chuẩn bị tệp thiết kế cho quy trình làm việc sáng tạo cộng tác.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi Markdown sang PSD tự động cho các nhóm tiếp thị.
+
+* Tạo hàng loạt tài sản hình ảnh có lớp từ các kho lưu trữ Markdown.
+
+* Tích hợp với đường ống đồ họa cho sản xuất nội dung.
+
+* Kích hoạt việc tạo PSD cho các dự án thiết kế cộng tác.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

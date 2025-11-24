@@ -57,7 +57,55 @@ API를 사용하여 필요에 따라 출력 PSD 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 PSD(Photoshop 문서)로 변환하면 디자이너들이 텍스트와 구조화된 콘텐츠를 레이어로 구성되고 편집 가능한 Photoshop 파일로 가져올 수 있습니다. PSD를 사용하면 Markdown 기반 다이어그램을 전문적인 그래픽 편집과 결합할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Markdown 메모를 편집 가능한 디자인 모형으로 변환하기.
+
+* 인포그래픽이나 마케팅 콘텐츠용 레이어 다이어그램 작성하기.
+
+* Markdown으로 생성된 시각 자료를 브랜딩 자산과 결합하기.
+
+* 협업적인 창의적인 워크플로우를 위해 디자인 파일 준비하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 마케팅 팀을 위한 자동화된 Markdown-to-PSD 변환.
+
+* Markdown 저장소에서 레이어로 구성된 시각 자산 일괄 생성.
+
+* 콘텐츠 제작을 위한 그래픽 파이프라인 통합.
+
+* 협업적인 디자인 프로젝트를 위한 트리거된 PSD 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

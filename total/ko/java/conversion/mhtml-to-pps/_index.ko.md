@@ -121,7 +121,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML을 PPS(파워포인트 슬라이드 쇼)로 변환하면 웹 콘텐츠에서 실행 가능한 프레젠테이션 파일을 만들 수 있습니다. PPS 파일은 편집 없이 즉시 보기에 최적화되어 있어 회의나 시연에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 웹 기반 프로젝트 업데이트의 즉각적인 프레젠테이션 제공.
+
+* 팀 브리핑을 위한 마케팅 캠페인 슬라이드쇼.
+
+* 교실이나 웨비나 전달용 교육 콘텐츠.
+
+* 웹 기반 자료를 활용한 제품 데모.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 반복적인 슬라이드쇼 생성을 위한 일괄 변환.
+
+* 실시간 웹 대시보드로부터 트리거된 PPS 생성.
+
+* 자동화된 전달을 위한 회의 관리 시스템 통합.
+
+* 제품이나 KPI 프레젠테이션의 예약 업데이트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

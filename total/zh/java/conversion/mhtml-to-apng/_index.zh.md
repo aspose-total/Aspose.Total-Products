@@ -57,7 +57,51 @@ otherformats: DXF WMF JPEG2000 SVGZ WMZ EMZ IMAGE  PSD TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML（Web存档）文件转换为APNG（动态PNG）可保留Web图像和动画以现代、高质量的格式呈现。APNG支持透明度和动画，非常适合Web图形和互动视觉。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从存档的网页创建动画Web插图。
+
+* 用于教育内容的移动友好信息图表动画。
+
+* 具有动画图表的互动仪表板。
+
+* 将类似GIF的Web横幅转换为高质量的APNG。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将多个MHTML图像转换为APNG以用于Web部署。
+
+* 自动集成到静态网站和移动应用程序中。
+
+* 触发式转换管道用于营销活动视觉效果。
+
+* 从动态Web仪表板生成定时动画。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

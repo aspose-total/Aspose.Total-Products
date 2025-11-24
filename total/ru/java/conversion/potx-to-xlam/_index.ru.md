@@ -61,7 +61,51 @@ otherformats: ODS XLSM TSV XLSX FODS MARKDOWN XLSB DIF SXC XLT XLS EXCEL XLAM XL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **POTX в XLAM** позволяет создавать макросодержащие надстрои Excel, которые позволяют встраивать содержимое, основанное на шаблонах, в автоматизированные решения Excel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание многоразовых надстроек Excel на основе данных шаблонов.
+
+* Разработка автоматизированных рабочих процессов с использованием содержимого на основе POTX.
+
+* Создание динамических бизнес-калькуляторов или инструментов для отчетности.
+
+* Встраивание продвинутой логики из шаблонов слайдов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетная генерация инструментов XLAM из согласованных библиотек шаблонов.
+
+* Обновление надстроек на основе триггеров для динамической отчетности.
+
+* Запланированное развертывание макросодержащих электронных таблиц.
+
+* Интеграция с корпоративными фреймворками автоматизации Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

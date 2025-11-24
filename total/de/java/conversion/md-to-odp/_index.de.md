@@ -59,7 +59,55 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Umwandlung von Markdown (MD) in ODP (OpenDocument Presentation) ermöglicht es Teams, einfache textbasierte Inhalte in Open-Format-Folien umzuwandeln, die in LibreOffice Impress und anderen Open-Source-Präsentationstools verwendet werden können. ODP eignet sich ideal für plattformübergreifendes Teilen ohne proprietäre Einschränkungen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Umwandlung von Markdown-Trainingsnotizen in ODP-Folien.
+
+* Klassenzimmerpräsentationen, die aus MD-basierten Lehrplänen erstellt wurden.
+
+* Veröffentlichung von Open-Source-Konferenzfolien, die aus Markdown generiert wurden.
+
+* Umwandlung von MD-Dokumentation in visuell strukturierte ODP-Folien.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* ETL-Pipelines, die ODP-Dateien aus Markdown-Repositories generieren.
+
+* Stapelerstellung von Bildungspräsentationen für LMS-Plattformen.
+
+* Automatisierte ODP-Produktion in Dokumentation-als-Code-Workflows.
+
+* Ausgelöste MD-zu-ODP-Konvertierung für Veröffentlichungen von Open-Source-Projekten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

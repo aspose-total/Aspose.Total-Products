@@ -47,7 +47,55 @@ MD dosyasını FODS'ye dönüştürürken, çıktı FODS dosya biçiminize filig
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) to FODS (Flat OpenDocument Spreadsheet) dönüşümü, açık kaynak ofis paketleri için ideal olan düzenlenebilir XML tabanlı elektronik tablo dosyaları oluşturur. FODS, hücre yapılarını, formülleri ve biçimlendirmeyi tamamen metin tabanlı, sürüm dostu bir düzen içinde korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown veri kümelerini açık kaynak elektronik tablo formatlarına dışa aktarma.
+
+* LibreOffice kullanıcıları için yapılandırılmış FODS dosyaları oluşturma.
+
+* Geliştirme ekipleri için düz XML elektronik tablolarına MD tablolarını içe aktarma.
+
+* Elektronik tablo arşivlerini metin okunabilir biçimde koruma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Sürüm kontrolü şeffaflığı için FODS'e toplu dönüşüm.
+
+* Açık kaynak ETL boru hatları içinde MD'den FODS'e entegrasyon.
+
+* Hükümet veya STK belgeleri için otomatik elektronik tablo oluşturma.
+
+* Sürekli belgeleme iş akışlarında tetikleyici tabanlı FODS oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -129,7 +129,55 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter arquivos MHTML (arquivo da web) para MARKDOWN (.md) permite que o conteúdo da web seja transformado em texto leve, legível e portátil adequado para sites, blogs e documentação de desenvolvedores. O Markdown preserva a estrutura do conteúdo, como cabeçalhos, links, listas e trechos de código.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Converter tutoriais da web em Markdown para documentação de desenvolvedores.
+
+* Arquivar conteúdo de blog de páginas da web em formato Markdown.
+
+* Criar artigos de base de conhecimento a partir de manuais online.
+
+* Transformar relatórios baseados na web em notas Markdown portáteis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de várias páginas MHTML em Markdown para geradores de sites estáticos.
+
+* Geração de Markdown acionada para atualizações automáticas de conteúdo em wikis de desenvolvedores.
+
+* Integração com pipelines CI/CD para converter conteúdo da web em documentação.
+
+* Extração automatizada de relatórios baseados na web para bases de conhecimento em Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

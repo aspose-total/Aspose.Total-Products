@@ -47,7 +47,55 @@ otherformats: XLAM TSV SXC XLTX ODS FODS DIF XLSM XLTM XLSB TXT EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MD (Markdown) в FODS (Flat OpenDocument Spreadsheet) создает редактируемые таблицы на основе XML, идеальные для офисных пакетов с открытым исходным кодом. FODS сохраняет структуру ячеек, формулы и форматирование в полностью текстовом формате, удобном для версионного контроля.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт наборов данных Markdown в форматы таблиц с открытым исходным кодом.
+
+* Создание структурированных файлов FODS для пользователей LibreOffice.
+
+* Импорт таблиц MD в плоские XML-таблицы для команд разработки.
+
+* Поддержание архивов таблиц в форме, доступной для чтения текста.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование в FODS для обеспечения прозрачности контроля версий.
+
+* Интеграция MD в FODS внутри пайплайнов ETL с открытым исходным кодом.
+
+* Автоматическое создание таблиц для документации правительственных организаций или НПО.
+
+* Генерация FODS на основе триггеров в непрерывных рабочих процессах документирования.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

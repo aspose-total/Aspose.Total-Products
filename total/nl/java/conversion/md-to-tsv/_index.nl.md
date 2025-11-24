@@ -47,7 +47,55 @@ Tijdens het converteren van het MD-bestand naar TSV, kunt u ook een watermerk to
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van Markdown (MD) naar TSV (Tabgescheiden waarden) maakt schone, delimiter-veilige gegevensexport mogelijk, ideaal voor ontwikkelaars, BI-teams en machine learning-pipelines. TSV-bestanden behouden de opmaak en werken goed voor datasets die komma's bevatten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Markdown-datasets exporteren naar TSV voor ML-voorverwerking.
+
+* MD-aangemaakte logs importeren in data science-workflows.
+
+* TSV-gebaseerde gegevensextracties maken voor API-ontwikkeling.
+
+* Markdown-checklists omzetten in op tabbladen gestructureerde datasets.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Door pipelines gedreven transformatie van MD-tabellen naar TSV.
+
+* Batchexports voor AI-gegevensinvoersystemen.
+
+* Regelmatige TSV-generatie voor integratietesten aan de backend.
+
+* Geautomatiseerde TSV-feeds opgebouwd uit inhoud van repository Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

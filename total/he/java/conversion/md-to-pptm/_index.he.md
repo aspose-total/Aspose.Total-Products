@@ -72,7 +72,55 @@ otherformats: POTX PPSX PPT XAML POT SWF PPSM ODP PPS POTM POWERPOINT OTP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MD (Markdown) ל-PPTM (PowerPoint עם מאקרו) משפרת את יכולות ההצגה על ידי שילוב תוכן מקורי מ-MD עם אוטומציה המופעלת על ידי מאקרו. קבצי PPTM תומכים בטיפול דינמי בשקופיות, קישור נתונים, ואינטראקציות מסוקרנות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* מצגות פיננסיות אוטומטיות בנויות מנתוני מקור ב-MD.
+
+* לוחות מחוונים דינמיים באמצעות מאקרוים שנוצרו מדיווחים ב-Markdown.
+
+* מודולי הכשרה אינטראקטיביים שנוצרו מתיעוד ב-MD.
+
+* מצגות עם מאקרוים מופעלים מקבצי Markdown של מוצר.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* צינורות CI/CD שיוצרים מצגות PPTM עבור צוותי דיווח.
+
+* מצגות עם מאקרוים שמתעדכנות אוטומטית ממאגרים.
+
+* יצירת PPTM בצורה צפופה עבור מערכות הכשרה תאגידיות.
+
+* יצירה מתוזמנת של לוחות מחוונים במבוסס PPTM באמצעות קלטים ב-Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

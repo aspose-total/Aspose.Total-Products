@@ -81,7 +81,55 @@ otherformats: PSD JPEG2000 WMZ SVGZ IMAGE EMZ TGA  APNG DXF DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת Markdown (MD) ל- WMF (Windows Metafile) יוצרת גרפיקה מבוססת וקטורית המתאימה ליישומים ישנים במערכת ההפעלה Windows. קבצי WMF שומרים על דיוק מבוסס קווים ומתאימים לתרשימים, טבלאות וסכמים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייצוא של תרשימי זרימה מ- Markdown ליישומי Windows ישנים.
+
+* המרת טבלאות טכניות לתרשימי WMF הניתנים להתאמה.
+
+* הטמעת תרשימים בתוך תוכנות משרד ישנות התומכות ב- WMF.
+
+* שמירה על איורים מבוססי קווים מתוך תוכן Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת WMF אוטומטית לצורכי ארכיון או תאימות.
+
+* המרה בצורת סדרה של תרשימים מבוססי Markdown למערכות ישנות.
+
+* עדכונים מתוזמנים של תרשימים לפורטלי תיעוד.
+
+* שילוב עם צינורות ייצור המייצרים גרפיקות WMF לדוחות עסקיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

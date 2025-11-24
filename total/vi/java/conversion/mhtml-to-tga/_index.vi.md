@@ -57,7 +57,51 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh TGA đầu ra theo nhu c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MHTML sang TGA (Targa) tạo ra hình ảnh raster chất lượng cao thường được sử dụng trong mô hình 3D, trò chơi hoặc trực quan hóa khoa học. TGA bảo toàn độ sâu màu và kênh alpha cho việc sử dụng tiên tiến.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Trích xuất các hình ảnh từ web cho mô hình 3D hoặc mô phỏng.
+
+* Lưu trữ các trực quan hóa khoa học hoặc biểu đồ có độ trong suốt.
+
+* Chuyển đổi các minh họa web thành TGA cho các đường ống thiết kế.
+
+* Chuẩn bị đồ họa raster cho hoạt ảnh hoặc tài sản trò chơi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi TGA hàng loạt từ đồ họa lưu trữ web.
+
+* Lập lịch cho việc xuất hình ảnh từ bảng điều khiển trực tuyến.
+
+* Kích hoạt việc tạo TGA cho hệ thống quản lý tài sản số.
+
+* Tích hợp với quy trình làm hoạt ảnh hoặc mô phỏng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

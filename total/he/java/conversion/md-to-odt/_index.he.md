@@ -72,7 +72,55 @@ otherformats: RTF MHTML DOTM WORDML DOT OTT FLATOPC PCL MARKDOWN XAMLFLOW PS DOT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MD (Markdown) ל-ODT (OpenDocument Text) מאפשרת זרימות עבודה ידידותיות לקוד פתוח. קבצי ODT הם אידיאליים עבור צוותים שמשתמשים ב-LibreOffice או OpenOffice, נותנים להם אלטרנטיבה גמישה וקלה לפורמטים פרופריטריים של Word תוך שמירה על יכולת לעיצוב עשיר.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* פרסום תיעוד קוד פתוח בפורמטים מקצועיים של קבצי ODT.
+
+* המרת מדריכי Markdown למסמכי LibreOffice שניתנים לעריכה.
+
+* יצירת מסמכים צלב-פלטפורמה עבור ארגונים שממנעים פורמטים פרופריטריים.
+
+* יצירת מדריכי ODT מתורגמים מתוך תוכן MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רציפה של ספריות Markdown ל-ODT להפצה ציבורית.
+
+* יצירת תיעוד ODT אוטומטי בפרויקטי קוד פתוח.
+
+* זרימות עבודה ETL צלב-פלטפורמה שמייצרות ODT עבור ממשלה או ארגונים לא ממשלתיים.
+
+* יצירת ODT על בסיס טריגרים בצינורות התרגום והלוקליזציה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

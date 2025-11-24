@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti IMAGE-képet is. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MHTML átalakítása KÉP (JPEG, PNG, BMP stb.) formátumba statikus vizuális elemeket nyer ki webes archívumokból prezentációkhoz, weboldalakhoz vagy nyomtatott médiához való felhasználásra. A KÉP konverzió megőrzi a elrendezést és a grafikai minőséget.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Termékképek kinyerése online katalógusokból.
+
+* Webes diagramok és infografikák archiválása jelentésekhez.
+
+* Webes diagramok magas felbontású képekké alakítása prezentációkhoz.
+
+* Vizuális tartalom létrehozása blogokhoz és közösségi média bejegyzésekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges kép kinyerése MHTML fájlokból marketing kampányokhoz.
+
+* Integráció automatizált web-to-print munkafolyamatokba.
+
+* Kiváltott konverzió dinamikus vezérlőpultokhoz vagy jelentésekhez.
+
+* Ütemezett kép létrehozása oktatási vagy bemutató tartalmakhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MD (Markdown) ODT (OpenDocument Text) konverzió lehetővé teszi az open-source barát dokumentációs folyamatokat. Az ODT fájlok ideálisak olyan csapatok számára, akik a LibreOffice vagy az OpenOffice használatával rugalmas, könnyű alternatívát keresnek a szabadalmaztatott Word formátumokhoz képest, miközben gazdag formázást tesznek lehetővé.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Nyílt forráskódú dokumentációk közzététele professzionálisan formázott ODT fájlokban.
+
+* Markdown útmutatók konvertálása szerkeszthető LibreOffice dokumentumokká.
+
+* Keresztplatformos dokumentumok létrehozása olyan szervezetek számára, amelyek kerülik a szabadalmaztatott formátumokat.
+
+* Lokalizált ODT kézikönyvek előállítása MD tartalomból.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Markdown tárolók tömeges konvertálása ODT fájlokká nyilvános terjesztéshez.
+
+* Automatizált ODT dokumentáció generálása open-source projektekben.
+
+* Keresztplatformos ETL folyamatok kimenete ODT fájlok kormányzati vagy NGO projektekhez.
+
+* Trigger-alapú ODT létrehozás lokalizációs és fordítási folyamatokban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ Při převodu souboru MD na TXT můžete také přidat vodoznak do výstupního 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů ve formátu Markdown (MD) na TXT (čistý text) vytváří čistou a lehkou verzi vašeho obsahu zbavenou formátování a značkování. Soubory TXT jsou vysoce kompatibilní, ideální pro zpracování textu, skriptování a integraci s aplikacemi, které nepodporují formátování Markdown.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Exportování dokumentace ve formátu Markdown pro distribuci pomocí čistého textového e-mailu.
+
+* Generování surového obsahu pro analýzu založenou na textu nebo pro pracovní postupy strojového učení.
+
+* Vytváření lehkých, přenosných kopií poznámek a dokumentace.
+
+* Sdílení obsahu ve formátu Markdown v prostředích, kde není podporováno bohaté formátování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná hromadná konverze repozitářů Markdown do formátu TXT pro zálohování a archivaci.
+
+* ETL potrubí transformující dokumentaci ve formátu Markdown do TXT pro zpracování skripty nebo nástroji pro automatizaci.
+
+* Automatizované generování čistých textových protokolů z poznámek k projektům založeným na Markdown.
+
+* Integrace s potrubími obsahu pro exportování Markdownu do formátu TXT pro následné systémy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

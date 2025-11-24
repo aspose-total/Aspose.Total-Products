@@ -59,7 +59,55 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von MD (Markdown) in PPS (PowerPoint Slideshow) eignet sich ideal, um leichte Inhalte in automatisch ablaufende Präsentationsdateien umzuwandeln. PPS öffnet sich direkt als Diashow, was es perfekt für Kioske, Displays und Endlosschleifenpräsentationen macht.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Erstellen von Endlosschleifen-Kioskpräsentationen aus Markdown-Notizen.
+
+* Automatische Produktanzeigen, die aus MD-Beschreibungen generiert werden.
+
+* Diashow-basierte Eventanzeigen, die aus MD-Zeitplänen stammen.
+
+* Museums-, Einzelhandels- oder Messeanzeigen, die direkt aus Markdown erstellt wurden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelweise Erstellung von PPS-Diashows für digitale Beschilderungen.
+
+* Automatisierte MD-zu-PPS-Pipelines für Eventmanagement-Teams.
+
+* Geplante Erstellung von Diashows aus Markdown-Ankündigungen.
+
+* Dashboard-gesteuerte Generierung von Endlosschleifenpräsentationsdateien.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

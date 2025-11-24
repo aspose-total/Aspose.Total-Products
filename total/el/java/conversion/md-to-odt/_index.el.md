@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή MD (Markdown) σε ODT (OpenDocument Text) επιτρέπει φιλικές προς το ανοικτό κώδικα ροές εργασίας τεκμηρίωσης. Τα αρχεία ODT είναι ιδανικά για ομάδες που χρησιμοποιούν το LibreOffice ή το OpenOffice, παρέχοντάς τους μια ευέλικτη, ελαφριά εναλλακτική λύση στα προτιεραιόμενα μορφές του Word ενώ εξακολουθούν να επιτρέπουν πλούσια μορφοποίηση.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Δημοσίευση τεκμηρίωσης ανοικτού κώδικα ως επαγγελματικά μορφοποιημένα αρχεία ODT.
+
+* Μετατροπή οδηγών Markdown σε επεξεργάσιμα έγγραφα LibreOffice.
+
+* Δημιουργία εγγράφων διασυνδεδεμένων πλατφορμών για οργανισμούς που αποφεύγουν τις προτιεραιόμενες μορφές.
+
+* Παραγωγή τοπικοποιημένων εγχειριδίων ODT που προέρχονται από περιεχόμενο MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή αποθετηρίων Markdown σε ODT για δημόσια διανομή.
+
+* Αυτοματοποιημένη δημιουργία τεκμηρίωσης ODT σε έργα ανοικτού κώδικα.
+
+* Διασυνδεδεμένες ροές εργασίας ETL που παράγουν ODT για κυβερνητικούς φορείς ή ΜΚΟ.
+
+* Δημιουργία ODT με βάση την ενεργοποίηση σε διαδικασίες τοπικοποίησης και μετάφρασης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

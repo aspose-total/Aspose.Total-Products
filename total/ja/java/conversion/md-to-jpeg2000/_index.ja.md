@@ -57,7 +57,55 @@ APIを使用すると、必要に応じて出力JPEG2000画像を回転させる
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）をJPEG2000に変換すると、高解像度でロスレスな画像エクスポートが可能です。技術イラストや大規模な図面、または詳細の保存が重要なアーカイブ用途に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* Markdownチャートを高解像度の技術画像に変換する。
+
+* クオリティを損なうことなくMarkdownから複雑な図面をアーカイブする。
+
+* 詳細なビジュアルを備えた印刷可能なドキュメントの準備。
+
+* Markdownのノートから生成された科学イラスト。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 高品質な保存のためにMarkdown図をJPEG2000に自動変換。
+
+* 研究チームやエンジニアリングチーム向けのバッチ処理。
+
+* ロスレス画像形式を必要とする公開ワークフローとの統合。
+
+* JPEG2000アーカイブ内のMarkdownから派生したビジュアルの定期的な更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

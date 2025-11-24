@@ -57,7 +57,55 @@ otherformats: PSD JPEG2000 WMF EMZ SVGZ DXF TGA IMAGE WMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل Markdown (MD) إلى صيغ صور عامة (PNG، JPG، BMP) يمكن تصور الجداول والرسوم البيانية والنصوص المنسقة بتنسيق محمول ومستقل عن النظام. يمكن تضمين الصور في العروض التقديمية والمواقع الإلكترونية أو المستندات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير الرسوم البيانية من Markdown كصور ثابتة للشرائح أو التقارير.
+
+* مشاركة الرسوم البيانية القائمة على Markdown على مواقع الويب أو البلوقات.
+
+* إنشاء صور لدليل المستخدم أو الدلائل التقنية.
+
+* لقطات بصرية لجداول Markdown للعروض التقديمية أو ملفات PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعات مجدولة لمحتوى Markdown إلى صور.
+
+* خطوط أنابيب ETL تنتج أصولًا بصرية من ملفات Markdown.
+
+* إنشاء تلقائي للرسوم البيانية لبوابات الوثائق.
+
+* تصدير الصور بناءً على المؤشرات للوحات التحكم أو أنظمة التقارير.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

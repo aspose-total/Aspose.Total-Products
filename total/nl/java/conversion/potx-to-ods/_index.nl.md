@@ -61,7 +61,51 @@ Tijdens het converteren van een POTX-bestand naar ODS, kunt u ook een watermerk 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van **POTX naar ODS** maakt OpenDocument Spreadsheet-bestanden, waardoor bewerkbare, open-standaard rapportageworkflows rechtstreeks afgeleid worden van sjabloonstructuren.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Samenwerkende sjabloon-gebaseerde gegevensanalyse in open-source suites.
+
+* Het omzetten van POTX-indelingen voor documentatie of trainingsmiddelen.
+
+* Het voorbereiden van interoperabele spreadsheets voor externe teams.
+
+* Het hergebruiken van sjablooninhoud voor projecttracking.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch ODS-export van hele sjabloonbibliotheken.
+
+* Geplande conversie voor open-standaard rapportagecycli.
+
+* Integratie van ODS-bestanden in door de overheid goedgekeurde workflows.
+
+* Automatisch synchroniseren van POTX-updates in ODS-spreadsheets.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

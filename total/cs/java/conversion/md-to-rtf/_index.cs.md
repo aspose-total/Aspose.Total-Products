@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MD (Markdown) na RTF (Rich Text Format) zajišťuje kompatibilitu a přístupnost napříč různými platformami. Soubory RTF zachovávají formátování na téměř všech operačních systémech, což je činí ideální pro snadné distribuování, archivaci a offline přístup.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převádění dokumentace v Markdownu do přenosných manuálů ve formátu RTF.
+
+* Vytváření univerzálně kompatibilních školicích materiálů z průvodců v MD.
+
+* Soubory nápovědy ve formátu RTF z Markdownu pro zastaralé systémy.
+
+* Textové dokumenty vhodné pro offline použití pro týmy s omezeným přístupem k software.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná generace MD do RTF pro digitální archivy.
+
+* ETL worklowy exportující obsahové repozitáře do knihoven RTF.
+
+* Automatické vytváření RTF pro offline podporu zákazníků.
+
+* Hromadný převod poznámek v Markdownu do souborů RTF kompatibilních s více platformami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

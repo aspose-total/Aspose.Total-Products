@@ -59,7 +59,55 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) to PPSX (PowerPoint Slideshow) konverzió modern diavetítés fájlokat eredményez, amelyek közvetlenül teljes képernyős módban nyílnak meg. A PPSX széles körben használt az automatikusan futó bemutatókhoz vállalati, kiskereskedelmi és esemény környezetekben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Automatikusan lejátszott értékesítési bemutatók MD jegyzetekből.
+
+* Vállalati előcsarnok képernyők Markdown tartalomból létrehozva.
+
+* Eseménydiák hurokok MD alapú időbeosztásokból vagy napirendekből.
+
+* Folyamatos termékbemutatók származtatva Markdown leírásokból.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Automatizált PPSX munkafolyamatok jelzőtáblákhoz és kijelzőtáblákhoz.
+
+* Ütemezett diavetítés generálása Markdown eseményszkriptekből.
+
+* Tömeges PPSX létrehozása kiskereskedelmi egységekben történő használatra.
+
+* MD-to-PPSX konverziók digitális jelzőtábla platformokon belül.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

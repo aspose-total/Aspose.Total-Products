@@ -57,7 +57,55 @@ APIを使用すると、必要に応じて出力PSD画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをPSD（Adobe Photoshop）に変換すると、Webグラフィックスが完全に編集可能なレイヤー画像に変換されます。PSDは、高度な編集機能を必要とするデザイナーやマーケターに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* PhotoshopでWebベースのバナーやヘッダー、UIグラフィックスを編集する。
+
+* マーケティングキャンペーン向けのレイヤー化されたインフォグラフィックの抽出。
+
+* アーカイブされたコンテンツから編集可能なWebテンプレートを作成する。
+
+* オリジナルのWebビジュアルが必要なグラフィックデザインプロジェクト。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* デザインチーム向けにMHTML Webページからバッチ処理でPSDを作成する。
+
+* 定期的なマーケティング資料の更新のためのトリガー変換。
+
+* Photoshop自動化のためのデザインアセットパイプラインへの統合。
+
+* Web-to-printワークフロー用にスケジュールされたPSD生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

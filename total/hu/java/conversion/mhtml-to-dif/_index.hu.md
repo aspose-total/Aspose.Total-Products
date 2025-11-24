@@ -47,7 +47,51 @@ A MHTML-fájl DIF-vé konvertálásakor vízjelet is hozzáadhat a kimeneti DIF-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML DIF-re (Adatcsere formátum) lehetővé teszi a webes táblázatos adatok importálását örökölt táblázatkezelő alkalmazásokba és szakosodott statisztikai eszközökbe. A DIF biztosítja a strukturált, hordozható adatkészleteket platformok között.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Történeti webes adatok importálása statisztikai elemző szoftverekbe.
+
+* Táblázatos webes tartalom megosztása inkompatibilis irodai csomagok között.
+
+* Online felmérési adatok átalakítása DIF formátumra tudományos kutatásokhoz.
+
+* Vállalati webes irányítópultok archiválása szabályozási célokra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ütemezett DIF konverzió az örökölt jelentési rendszerekhez.
+
+* Webes táblázatok tömeges átalakítása platformok közötti munkafolyamatokhoz.
+
+* Automatizált DIF kinyerés ismétlődő felmérési adatfrissítésekhez.
+
+* Kiváltott DIF generálás archiválási és ellenőrzési célokra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

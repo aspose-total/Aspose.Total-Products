@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力DXF画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをDXF（Drawing Exchange Format）に変換すると、Webベースの図面をCAD互換のベクターファイルに変換します。DXFは、精度と編集可能性を必要とする建築家、エンジニア、デザイナーに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* Webアーカイブからエンジニアリング図面や図式を抽出する。
+
+* Webベースの間取り図を編集可能なCAD図面に変換する。
+
+* 建築プロジェクト向けの技術イラストを変換する。
+
+* 製造やプロトタイピングのためのベクター図を準備する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* オンラインCAD用の図面を一括変換してDXFにする。
+
+* 共同エンジニアリングワークフロー用にトリガーされたDXF生成。
+
+* 設計およびシミュレーションソフトウェアパイプラインへの統合。
+
+* Webソースの図式の定期的なアーカイブ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

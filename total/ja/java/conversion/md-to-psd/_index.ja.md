@@ -57,7 +57,55 @@ APIを使用すると、必要に応じて出力PSD画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）をPSD（Photoshopドキュメント）に変換することで、デザイナーはテキストと構造化されたコンテンツをレイヤー化して編集可能なPhotoshopファイルにインポートできます。PSDを使用すると、Markdownベースの図をプロフェッショナルなグラフィック編集と組み合わせることができます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* Markdownのノートを編集可能なデザインモックアップに変換する。
+
+* インフォグラフィックやマーケティングコンテンツ用のレイヤー化された図を作成する。
+
+* Markdownで生成したビジュアルをブランディング資産と組み合わせる。
+
+* 共同作業型のクリエイティブワークフロー用にデザインファイルを準備する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* マーケティングチーム向けの自動化されたMarkdownからPSDへの変換。
+
+* Markdownリポジトリからのレイヤー化されたビジュアルアセットの一括作成。
+
+* コンテンツ制作のためのグラフィックパイプラインとの統合。
+
+* 共同デザインプロジェクト向けのトリガーされたPSD生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

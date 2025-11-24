@@ -57,7 +57,55 @@ Met behulp van de API kunt u ook de uitgevoerde SVGZ-afbeelding roteren volgens 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van Markdown (MD) naar SVGZ (Gecomprimeerd SVG) creëert schaalbare vectorafbeeldingen in een gecomprimeerd formaat. Ideaal voor webafbeeldingen, responsieve diagrammen en interactieve visualisaties.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Genereren van gecomprimeerde vector diagrammen uit Markdown inhoud.
+
+* Maken van responsieve webillustraties uit Markdown tabellen.
+
+* Produceren van schaalbare pictogrammen of infographics.
+
+* Inbedden van gecomprimeerde vector visuals in online documentatie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch Markdown-naar-SVGZ conversie voor webpublicatie.
+
+* Pipeline-integratie voor geautomatiseerde diagramgeneratie.
+
+* Geplande SVGZ-updates voor interactieve dashboards.
+
+* Comprimeren van Markdown diagrammen naar geoptimaliseerde webklare formaten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

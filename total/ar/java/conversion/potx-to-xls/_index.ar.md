@@ -61,7 +61,51 @@ otherformats: FODS XLTX DIF XLTM XLSM MARKDOWN XLSB SXC XLT XLAM XLSX EXCEL MHTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل **POTX إلى XLS** يصدر محتوى القالب إلى جداول بيانات Excel الكلاسيكية، مضمنًا التوافق مع أنظمة Office القديمة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إعادة استخدام جداول القوالب لسير العمل القديمة في Excel.
+
+* إنشاء جداول بيانات بتنسيقات قديمة لاختبار التوافق.
+
+* استخراج محتوى القالب المهيكل للتقارير الداخلية.
+
+* دعم تبادل البيانات بين الأقسام.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* تحويل XLS بمقياس كبير لأرشفة المؤسسات.
+
+* إنشاء جداول بيانات بتنسيقات قديمة بانتظام من القوالب القياسية.
+
+* تحديثات XLS بناءً على المؤشرات لأنظمة الامتثال.
+
+* دمج مع المستندات التي تتطلب معايير ملفات قديمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

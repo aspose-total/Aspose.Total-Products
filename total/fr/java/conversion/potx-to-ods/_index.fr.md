@@ -61,7 +61,51 @@ Lors de la conversion du fichier POTX en ODS, vous pouvez également ajouter un 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de **POTX en ODS** crée des fichiers de feuille de calcul OpenDocument, permettant des flux de travail de reporting modifiables et conformes aux normes ouvertes, dérivés directement des structures de modèle.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Analyse collaborative des données basée sur des modèles dans des suites open-source.
+
+* Conversion de mises en page POTX pour la documentation ou les ressources de formation.
+
+* Préparation de feuilles de calcul interopérables pour les équipes à distance.
+
+* Réutilisation du contenu du modèle pour le suivi de projet.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Exportation en masse d'ODS à partir de bibliothèques de modèles entières.
+
+* Conversion planifiée pour des cycles de reporting conformes aux normes ouvertes.
+
+* Intégration des fichiers ODS dans des flux de travail approuvés par le gouvernement.
+
+* Mise à jour automatique des mises en page POTX dans les feuilles de calcul ODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -61,7 +61,55 @@ otherformats: MHTML SXC TSV XLSX XLTM XLTX EXCEL XLSM FODS ODS MARKDOWN XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **POTM เป็น XLTM** จะสร้างไฟล์เทมเพลต Excel ที่มีแมโคโรให้ใช้งานได้ ซึ่งช่วยให้โครงสร้างหรือเลย์เอาต์ที่ใช้งานบนสไลด์สามารถถูกย้ายไปยังเทมเพลตสเปรดชีตที่เป็นไดนามิกได้ สิ่งนี้มีประโยชน์มากโดยเฉพาะเมื่อองค์กรพึ่งพาการอัตโนมัติใน Excel แต่เริ่มต้นด้วยโครงสร้างที่ใช้งานบน PowerPoint
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การแปลงการทำงานที่ใช้งานจากงานนำเสนอเป็นเทมเพลต Excel ที่มีแมโคโร
+
+* การสร้างแบบฟอร์มในการป้อนข้อมูลโดยใช้โครงสร้างเทมเพลตที่ถูกแปลง
+
+* การออกแบบเทมเพลต XLTM สำหรับแผนการทำนายหรือการตรวจสอบของแผนก
+
+* การนำโครงสร้าง POTM มาใช้เป็นพื้นฐานของการอัตโนมัติในสเปรดชีต
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การสร้างเทมเพลต XLTM จำนวนมากจากไลบรารี POTM ของบริษัท
+
+* การตั้งเวลาในการใช้งานเทมเพลต Excel ที่มีแมโคโรที่อัพเดท
+
+* การรวมการสร้าง XLTM เข้ากับระบบรายงานและวางแผนขั้นสูง
+
+* การแปลงอัตโนมัติที่ถูกเรียกใช้เมื่อมีการแก้ไขเทมเพลตนำเสนอ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

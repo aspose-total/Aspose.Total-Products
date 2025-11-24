@@ -61,7 +61,55 @@ otherformats: MHTML SXC TSV XLSX XLTM XLTX EXCEL XLSM FODS ODS MARKDOWN XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل **POTM إلى XLTM** ينتج عنه ملفات قوالب Excel ممكنة للماكرو، مما يسمح بنقل منطق أو تخطيط الشرائح إلى قوالب جداول بيانات ديناميكية. يكون هذا مفيدًا بشكل خاص عندما تعتمد المؤسسات على التشغيل التلقائي لبرامج Excel ولكن تبدأ بالهياكل المعتمدة على PowerPoint.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل سير العمل القائمة على العروض التقديمية إلى قوالب Excel ممكنة للماكرو.
+
+* إنشاء نماذج إدخال بيانات تلقائية باستخدام هياكل القوالب المحولة.
+
+* تصميم قوالب XLTM قسمية للتنبؤ أو التدقيق.
+
+* إعادة استخدام منطق POTM كأساس للتشغيل التلقائي لجداول البيانات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* إنشاء دفعة من قوالب XLTM من مكتبات POTM الشركات.
+
+* جدولة نشر القوالب المحدثة لـ Excel ممكنة للماكرو.
+
+* دمج إنشاء XLTM في أنظمة تقارير وتخطيط متقدمة.
+
+* تحويل تلقائي مُشغّل عند تعديل قوالب العروض التقديمية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

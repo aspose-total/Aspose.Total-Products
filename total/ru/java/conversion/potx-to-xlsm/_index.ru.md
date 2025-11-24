@@ -61,7 +61,51 @@ otherformats: XLSM TSV SXC XLS FODS EXCEL MHTML XLTM XLT DIF MARKDOWN XLAM XLSB 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **POTX в XLSM** создает макрос-включенные книги Excel, идеальные для автоматизации повторяющихся задач по отчетности на основе содержимого шаблона.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание динамических отчетов Excel с встроенными макросами.
+
+* Автоматизация повторяющихся задач с использованием содержимого, полученного из шаблона.
+
+* Создание интерактивных панелей управления на основе дизайн-шаблонов.
+
+* Подготовка стандартизированных макрос-включенных бизнес-инструментов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное создание файлов XLSM для корпоративных рабочих процессов.
+
+* Обновление макрос-включенных таблиц на основе триггеров.
+
+* Интеграция в автоматизированные циклы отчетности.
+
+* Планирование генерации макрос-включенных книг Excel для повторяющихся задач.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

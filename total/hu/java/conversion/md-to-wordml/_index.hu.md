@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MD (Markdown) átalakítása WordprocessingML (WordML) formátumra strukturált XML-alapú Word dokumentumokat eredményez, melyek ideálisak vállalati rendszerekhez, CMS platformokhoz és dokumentumkezelési csövekhez. A WordML precíz irányítást biztosít elrendezés, címkék és adatkötés tekintetében gép által generált dokumentumokhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Markdown dokumentáció áttelepítése XML-alapú WordML struktúrákba.
+
+* Strukturált jelentések generálása MD-ből automatizált dokumentumrendszerek számára.
+
+* Adatkötésre kész technikai fájlok közvetlen létrehozása Markdown szövegből.
+
+* Vállalati CMS platformok, amelyek MD tartalmat alakítanak WordML-kompatibilis sablonokká.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* XML csővezeték generálása rendszer által generált Word fájlokhoz.
+
+* Automatizált Markdown konverziók API-vezérelt dokumentummotorokba történő beolvasztása.
+
+* WordML archívumok tömeges létrehozása tároló Markdown fájlokból.
+
+* Integráció validálási munkafolyamatokkal XML-alapú jelentésekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,55 @@ API를 사용하여 필요에 따라 출력 WMF 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 WMF (Windows Metafile)로 변환하면 이전 Windows 애플리케이션과 호환되는 벡터 기반 그래픽이 생성됩니다. WMF 파일은 선 기반 정밀도를 유지하며 다이어그램, 차트 및 도표에 적합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 레거시 Windows 애플리케이션을 위한 Markdown 플로차트 내보내기.
+
+* 확장 가능한 WMF 다이어그램으로 기술적 테이블 변환.
+
+* WMF를 지원하는 이전 오피스 소프트웨어에 다이어그램 임베딩.
+
+* Markdown 콘텐츠에서 선 기반 일러스트레이션 보존.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 보관이나 호환성 목적을 위한 자동화된 WMF 생성.
+
+* 레거시 시스템을 위한 Markdown 기반 시각 자료 일괄 변환.
+
+* 문서 포털을 위한 다이어그램 예약 업데이트.
+
+* 기업 보고서를 위해 WMF 그래픽을 생성하는 파이프라인 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

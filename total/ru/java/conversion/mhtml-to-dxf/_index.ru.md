@@ -57,7 +57,51 @@ API также позволяет экспортировать файл MHTML в
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MHTML в DXF (Drawing Exchange Format) превращает веб-диаграммы в векторные файлы, совместимые с CAD. DXF идеально подходит для архитекторов, инженеров и дизайнеров, нуждающихся в точности и возможности редактирования.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Извлечение инженерных диаграмм или схем из веб-архивов.
+
+* Преобразование веб-планов этажей в редактируемые чертежи CAD.
+
+* Преобразование технических иллюстраций для архитектурных проектов.
+
+* Подготовка векторных диаграмм для производства или прототипирования.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование онлайн-диаграмм, готовых к использованию в CAD, в формат DXF.
+
+* Генерация DXF по запросу для совместных инженерных рабочих процессов.
+
+* Интеграция в конвейеры программного обеспечения для проектирования и моделирования.
+
+* Планирование архивирования веб-схематических данных.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,55 @@ POTX 파일을 CSV로 변환하는 동안 출력 CSV 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**POTX를 CSV로 변환**하면 PowerPoint 템플릿 데이터를 쉼표로 구분된 값으로 변환하여 테이블, 자리 표시자 및 레이아웃 기반 데이터를 신속하게 추출하여 분석 및 보고 애플리케이션에 활용할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 보고 대시보드용으로 템플릿에 포함된 테이블 내보내기.
+
+* CRM 또는 ERP 통합을 위한 CSV 데이터 준비.
+
+* 콘텐츠 감사를 위해 자리 표시자 텍스트 추출.
+
+* POTX 템플릿 구조를 스프레드시트용 형식으로 이관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 여러 템플릿 파일을 CSV 데이터 세트로 일괄 변환.
+
+* POTX 콘텐츠를 분석 파이프라인으로 예약된 추출.
+
+* 템플릿 라이브러리 업데이트 시 트리거 기반 CSV 생성.
+
+* BI 또는 자동화 워크플로에 POTX에서 파생된 CSV 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

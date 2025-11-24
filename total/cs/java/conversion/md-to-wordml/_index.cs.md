@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MD (Markdown) na WordprocessingML (WordML) umožňuje strukturované XML založené dokumenty ve formátu Word ideální pro podnikové systémy, platformy CMS a inženýrství dokumentů. WordML nabízí přesnou kontrolu nad rozložením, značkami a vázáním dat pro strojově generované dokumenty.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Migrace dokumentace Markdown do struktur řízených XML ve formátu WordML.
+
+* Strukturované zprávy generované z MD pro automatizované systémy dokumentů.
+
+* Technické soubory připravené k vázání dat vytvořené přímo z textu Markdown.
+
+* Platformy Enterprise CMS transformující obsah MD do šablon kompatibilních s WordML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Generování XML potrubí pro systémově generované soubory Word.
+
+* Automatizované konverze Markdownu napájející API-řízené dokumentační motory.
+
+* Hromadné vytváření archivů WordML z repozitáře Markdown.
+
+* Integrace s validačními pracovními postupy pro XML založené reporty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

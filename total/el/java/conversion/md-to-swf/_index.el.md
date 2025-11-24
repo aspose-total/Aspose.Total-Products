@@ -59,7 +59,55 @@ presentation.save("output.swf", SaveFormat.Swf);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του Markdown (MD) σε SWF (Shockwave Flash) επιτρέπει τη μετατροπή κειμένου, διαγραμμάτων και γραφημάτων σε διαδραστικές Flash animations. Το SWF είναι ιδανικό για παλαιότερο εκπαιδευτικό περιεχόμενο, οδηγίες και κινούμενες παρουσιάσεις στον ιστό.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Μετατροπή των οδηγιών Markdown σε διαδραστικό περιεχόμενο SWF.
+
+* Κινούμενα διαγράμματα για εκπαιδευτικά μέτρα που προέρχονται από το Markdown.
+
+* Παλαιότερες παρουσιάσεις βασισμένες σε Flash για παράδοση στον ιστό.
+
+* Ενσωμάτωση διαδραστικών οπτικών Markdown σε εκπαιδευτικές πλατφόρμες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη διαδικασία μετατροπής Markdown σε SWF για υλικό εκπαίδευσης στο διαδίκτυο.
+
+* Μαζική μετατροπή περιεχομένου MD σε διαδραστικά αρχεία Flash.
+
+* Προγραμματισμένες ενημερώσεις σε μονάδες μάθησης SWF που προέρχονται από το Markdown.
+
+* Ενεργοποιημένη δημιουργία οπτικών SWF για πλατφόρμες παλαιού τύπου στον ιστό.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

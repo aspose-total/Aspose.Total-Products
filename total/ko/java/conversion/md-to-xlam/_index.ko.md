@@ -47,7 +47,55 @@ MD 파일을 XLAM로 변환하는 동안 출력 XLAM 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (마크다운)를 XLAM (Excel Add-in)으로 변환하면 함수, 자동화 및 재사용 가능한 로직을 포함하는 매크로 활성화 확장 파일을 생성할 수 있습니다. 이 형식은 프로그래밍 가능한 애드인이 필요한 고급 Excel 사용자를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 마크다운 기반의 공식 라이브러리에서 매크로 애드인 생성.
+
+* 금융팀을 위해 MD 소스 스크립트를 XLAM으로 패키징.
+
+* 애드인 생성을 통한 반복적인 분석 작업 자동화.
+
+* Markdown 노트에서 파생된 표준화된 매크로 팩 배포.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* CI/CD 파이프라인에서 MD에서 자동화된 XLAM 빌드.
+
+* 기업을 위한 버전 관리된 매크로 애드인 생성.
+
+* 데이터 분석 부서를 위한 XLAM 도구 일괄 빌드.
+
+* 문서화된 Markdown에서 소스로 하는 매크로 애드인 자동 업데이트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

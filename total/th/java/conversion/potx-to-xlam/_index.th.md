@@ -61,7 +61,51 @@ otherformats: ODS XLSM TSV XLSX FODS MARKDOWN XLSB DIF SXC XLT XLS EXCEL XLAM XL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **POTX เป็น XLAM** จะสร้าง Excel add-ins ที่เป็นแมโคโรที่ช่วยให้เนื้อหาที่มาจากเทมเพลตสามารถฝังอยู่ในโซลูชัน Excel ที่อัตโนมัติ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้าง Excel add-ins ที่สามารถใช้ซ้ำจากข้อมูลเทมเพลต
+
+* พัฒนาการทำงานอัตโนมัติโดยใช้เนื้อหาที่มาจาก POTX
+
+* สร้างเครื่องคำนวณธุรกิจหรือเครื่องมือรายงานที่เป็นไดนามิก
+
+* ฝังตรรกะขั้นสูงที่มาจากเทมเพลตสไลด์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* สร้างเครื่องมือ XLAM จำนวนมากจากไลบรารีเทมเพลตที่สม่ำเสมอ
+
+* อัปเดต add-in ตามเหตุการณ์สำหรับรายงานที่เปลี่ยนไปอย่างไดนามิก
+
+* การติดตั้งตารางงานของสเปรดชีทที่เป็นแมโค
+
+* การผสานรวมกับกรอบการอัตโนมัติ Excel ขององค์กร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

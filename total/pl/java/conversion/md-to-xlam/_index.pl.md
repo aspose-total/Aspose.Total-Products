@@ -47,7 +47,55 @@ Konwertując plik MD na XLAM, możesz także dodać znak wodny do wyjściowego f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie MD (Markdown) na XLAM (Excel Add-in) umożliwia generowanie plików rozszerzeń obsługujących makra zawierające funkcje, automatyzację i wielokrotnie używane logiki. Ten format jest przeznaczony dla zaawansowanych użytkowników Excela, którzy potrzebują rozszerzeń możliwych do programowania.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Zastosowania kluczowe" %}}
+
+
+
+* Tworzenie dodatków makr z bibliotek formuł opartych na Markdown.
+
+* Pakowanie skryptów źródłowych MD do XLAM dla zespołów finansowych.
+
+* Automatyzacja powtarzalnych zadań analitycznych poprzez generowanie dodatków.
+
+* Dystrybucja standaryzowanych pakietów makr pochodzących z notatek Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczne budowanie XLAM z MD w potokach CI/CD.
+
+* Generowanie kontrolowanej wersji dodatków makr dla przedsiębiorstw.
+
+* Tworzenie narzędzi XLAM wsadowego budowania dla działów analizy danych.
+
+* Automatyczne aktualizowanie dodatków makr pochodzących z dokumentacji Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

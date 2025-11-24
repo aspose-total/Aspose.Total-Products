@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp MHTML sang XLSM, bạn cũng có thể thêm hì
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MHTML sang XLSM (Bảng tính Excel có Macro) giữ nguyên dữ liệu web và cho phép tự động hóa tiên tiến, công thức và macro để tạo báo cáo động. XLSM lý tưởng cho các doanh nghiệp cần bảng tính có thể lập trình.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Mẫu tài chính với các tính toán tự động dựa trên trang web.
+
+* Bảng điều khiển theo dõi dự án với cập nhật dữ liệu do macro điều khiển.
+
+* Bảng báo cáo kinh doanh tương tác.
+
+* Bảng điều tra trực tuyến hoặc bảng điều khiển KPI được xuất sang Excel với macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi MHTML sang XLSM được kích hoạt cho các báo cáo định kỳ.
+
+* Tạo macro tự động từ các bảng nguồn web.
+
+* Tích hợp với hệ thống ERP và BI để báo cáo Excel trực tiếp.
+
+* Xử lý hàng loạt cho nhiều bảng điều khiển trực tuyến vào XLSM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

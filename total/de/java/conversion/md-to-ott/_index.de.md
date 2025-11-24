@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Umwandlung von Markdown (MD) in OTT (OpenDocument Text Template) unterstützt die skalierbare Vorlagenerstellung für Open-Source-Bürosuiten. OTT-Vorlagen bewahren konsistente Formatierungen und ermöglichen es Teams, mehrere Dokumente auf der Grundlage einer stabilen Stilvorlage zu erstellen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Erstellung von OTT-Vorlagen für die mehrsprachige Dokumentenproduktion.
+
+* Aufbau strukturierter Berichtsvorlagen basierend auf Markdown-Richtlinien.
+
+* Standardisierung von Bürodokumentationen für Open-Source-Umgebungen.
+
+* Generierung wiederverwendbarer ODT-Dokumentenformate für NGOs oder öffentliche Einrichtungen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierte OTT-Erstellung in Open-Source-Publishing-Workflows.
+
+* Synchronisierte Aktualisierung von Vorlagen aus der Markdown-Versionierung.
+
+* Stapelweise Erstellung von Vorlagensätzen für verteilte Teams mit LibreOffice.
+
+* Regelmäßige Generierung von OTT-Vorlagen durch Regierungs- oder Non-Profit-Systeme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

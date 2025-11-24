@@ -59,7 +59,55 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MD (Markdown) sang PPSM (Trình chiếu PowerPoint có Macro) kết hợp chức năng trình chiếu tự động với tự động hóa. PPSM hỗ trợ macro VBA cho nội dung theo thời gian, cập nhật động và trải nghiệm tương tác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Các trạm tự động với các slide PPSM được điều khiển bằng macro.
+
+* Vòng lặp đào tạo tương tác được thiết kế từ nội dung MD.
+
+* Trình diễn sản phẩm tự động theo thời gian được lấy từ các tóm tắt Markdown.
+
+* Hiển thị bán lẻ hoặc sự kiện động bằng cách sử dụng trình chiếu có Macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Sản xuất PPSM dựa trên quy trình được kích hoạt bởi các thay đổi Markdown.
+
+* Tạo trình chiếu có Macro cho các hệ thống hiển thị doanh nghiệp.
+
+* Cập nhật tự động nội dung trạm từ các kho lưu trữ MD.
+
+* Tạo hàng loạt PPSM cho chuỗi bán lẻ hoặc triển lãm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

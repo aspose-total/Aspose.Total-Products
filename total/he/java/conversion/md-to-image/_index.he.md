@@ -81,7 +81,55 @@ otherformats: PSD JPEG2000 WMF EMZ SVGZ DXF TGA APNG WMZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת Markdown (MD) לתבניות תמונה גנריות (PNG, JPG, BMP) מאפשרת ויזואליזציה של טבלאות, תרשימים וטקסט מעוצב בפורמט נייד ולא תלוי בפלטפורמה. ניתן להטביע תמונות במצגות, באתרים או במסמכים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* ייצוא של תרשימי Markdown כתמונות סטטיות לשקפים או לדוחות.
+
+* שיתוף תרשימים מבוססי Markdown באתרים או בבלוגים.
+
+* יצירת תמונות למדריכי משתמש או למדריכים טכניים.
+
+* צילומי מסך של טבלאות Markdown למצגות או ל- PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת תוכן Markdown בצורה צפה לתמונות בצורה קבועה.
+
+* צינון ETL המייצר נכסים ויזואליים מקבצי Markdown.
+
+* יצירה אוטומטית של תרשימים לפורטלי תיעוד.
+
+* ייצוא תמונות מבוסס טריגר לדשבורדים או למערכות דיווח.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

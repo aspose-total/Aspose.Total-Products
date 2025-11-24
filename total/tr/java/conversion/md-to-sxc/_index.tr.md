@@ -47,7 +47,55 @@ MD dosyasını SXC'ye dönüştürürken, çıktı SXC dosya biçiminize filigra
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) ile SXC (StarOffice Calc) dönüşümü, hala eski StarOffice/OpenOffice elektronik tablo ortamlarını kullanan kuruluşlara fayda sağlar. SXC, eski ofis ekosistemlerine uyumlu formülleri, sayfa yapılarını ve hücre biçimlendirmelerini destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Markdown tablolarını eski SXC elektronik tablolarına taşımak.
+
+* MD tabanlı verilerle eski kurumsal sistemleri güncelleme.
+
+* Hala işlevsel olan ancak eski platformlar için SXC dosyaları oluşturma.
+
+* Mühendislik günlüklerini Markdown'tan klasik elektronik tablo formatlarına hazırlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Arşiv iş araçları için toplu MD'den SXC'ye dönüşüm.
+
+* Eski devlet veya endüstriyel yazılımlar için ETL bağlantıları.
+
+* Markdown depolarından geceleyin SXC üretimi.
+
+* Geriye dönük uyumlu iş akışları için tetiklenmiş SXC oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,55 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) naar PPTM (Macro-Enabled PowerPoint) conversie verbetert de presentatiemogelijkheden door MD-broninhoud te combineren met op macro's gebaseerde automatisering. PPTM-bestanden ondersteunen dynamische dia-manipulatie, gegevensbinding en scriptgestuurde interacties.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Geautomatiseerde financiële presentaties opgebouwd uit MD-brongegevens.
+
+* Dynamische dashboards met behulp van macro's gemaakt van Markdown-rapporten.
+
+* Interactieve trainingsmodules gegenereerd uit MD-documentatie.
+
+* Macro-ingeschakelde pitchdecks afkomstig van product Markdown-bestanden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* CI/CD-pipelines genereren PPTM-decks voor rapportageteams.
+
+* Automatisch bijgewerkte macro-ingeschakelde presentaties afkomstig van repositories.
+
+* Batch PPTM-creatie voor bedrijfstrainingssystemen.
+
+* Geplande generatie van op PPTM gebaseerde dashboards met behulp van Markdown-invoer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

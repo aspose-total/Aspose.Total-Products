@@ -59,7 +59,55 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını PPT (Eski PowerPoint Formatı) formatına dönüştürmek, slayt yapısını ve biçimlendirmeyi korurken eski Microsoft Office ortamlarıyla uyumluluğu destekler. PPT, klasik PowerPoint sürümlerini kullanan kurumlar için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* MD betiklerinden eski iş istasyonları için PPT slaytları oluşturma.
+
+* Markdown notlarını kullanarak eski PPT desteklerini oluşturan akademik kurumlar.
+
+* Kurumsal arşivlerin MD içeriğini klasik PPT formatına taşıması.
+
+* Eski ofis kurulumları için uyumluluk odaklı slayt oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Eski sistem desteği için otomatik PPT oluşturma.
+
+* Markdown arşivlerinin toplu dönüşümü PPT'ye.
+
+* Klasik PowerPoint dosyaları üreten ETL işlemleri.
+
+* Hala eski paketlerde olan hükümet veya endüstriyel kuruluşlar için PPT oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

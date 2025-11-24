@@ -144,7 +144,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MHTML إلى XAMLFLOW يمكن استخدام محتوى الويب والرسومات النقطية في سير العمل التفاعلي وأتمتة واجهة المستخدم باستخدام تطبيقات تدفق XAML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* دمج الرسوم التخطيطية والرسومات البيانية على الويب في سير عمل XAML المؤتمتة.
+
+* أرشفة محتوى الويب التفاعلي لأنظمة أتمتة Windows.
+
+* إعداد لوحات القيادة على أساس الويب لأتمتة عمليات التشغيل القائمة على واجهة المستخدم.
+
+* تحويل النماذج وعناصر التحكم على الويب لتطبيقات سطح المكتب القائمة على التدفق.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي من MHTML إلى XAMLFLOW لأنابيب أتمتة واجهة المستخدم.
+
+* تحديثات مُشغّلة للوحات القيادة والأصول التفاعلية على الويب.
+
+* دمج في سير العمل للعمليات الآلية الروبوتية.
+
+* استخراج مجدول لمكونات واجهة المستخدم على الويب لتطبيقات المؤسسات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

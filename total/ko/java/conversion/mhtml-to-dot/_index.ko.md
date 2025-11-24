@@ -129,7 +129,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML을 DOT(Word 템플릿)으로 변환하면 웹 콘텐츠를 일관된 문서 작성을 위한 재사용 가능한 템플릿으로 재사용할 수 있습니다. DOT 파일을 사용하면 기업 및 전문가들이 여러 보고서에서 표준화된 서식과 스타일을 유지할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 웹 기반 데이터에서 표준화된 고객 제안 템플릿.
+
+* 기업 팀을 위한 재사용 가능한 회의 안건 형식.
+
+* MHTML 카탈로그에서 생성된 템플릿 기반 송장.
+
+* 웹 아카이브의 사전 서식이 지정된 콘텐츠를 사용한 법적 문서 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 다중 MHTML 페이지에서 DOT 템플릿 대량 생성.
+
+* 자동화된 템플릿 업데이트를 위한 문서 관리 시스템 통합.
+
+* 콘텐츠 흡수 파이프라인에 의해 트리거된 동적 템플릿 생성.
+
+* 대규모 문서 작성을 위한 자동 서식 및 스타일 표준화.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

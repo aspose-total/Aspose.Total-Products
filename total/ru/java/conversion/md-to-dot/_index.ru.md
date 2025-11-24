@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MD (Markdown) в DOT (шаблон Word) помогает компаниям стандартизировать брендированные документы, сохраняя контент под управлением версий в Markdown. Шаблоны DOT сохраняют согласованность форматирования и обеспечивают возможность мгновенного создания новых файлов Word из чистой, многократно используемой структуры.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание согласованных бланков писем на основе шаблонов на Markdown.
+
+* Публикация утвержденных брендом маркетинговых листов из черновиков MD.
+
+* Команды по персоналу создают шаблоны документов по онбордингу на основе руководств MD.
+
+* Юридические отделы стандартизируют структуры контрактов, полученных из Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое создание шаблонов DOT в рабочих процессах публикации CMS.
+
+* Централизованное преобразование для распределенных команд, обновляющих брендовые активы.
+
+* Плановое восстановление основных шаблонов, хранящихся в Git.
+
+* Автоматическое создание DOT для потребностей франшизы или многоподразделений.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

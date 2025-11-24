@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات MD (Markdown) إلى ملفات DOCM (مستندات Word الممكنة بالتشغيل الماكرو) يمكن الفرق من تحسين ملفات النص الخفيفة بميزات التشغيل التفاعلي. تدعم ملفات DOCM الماكرو المضمنة، مما يجعلها مثالية للوثائق المدفوعة بسير العمل، والقوالب الشركية، والتقارير التي تتطلب إجراءات ديناميكية داخل Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل ملاحظات Markdown للمطورين إلى إجراءات تشغيلية مدعومة بالماكرو.
+
+* وثائق سياسية ممكنة للإجراءات التلقائية لسير العمل في المؤسسات.
+
+* قوالب اقتراح تفاعلية مبنية على ملفات MD المخزنة في Git.
+
+* سجلات تدقيق مدفوعة بالماكرو تم إنشاؤها من سجلات التغييرات القائمة على Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* تحويل MD إلى DOCM مجدول لفرق الامتثال.
+
+* خطوط أنابيب ETL تنتج تقارير Word ممكنة بالماكرو من Markdown.
+
+* سيناريوهات CI/CD تعيد إنشاء مستندات DOCM من محتوى المستودع.
+
+* وثائق مدفوعة بالماكرو تم إنشاؤها تلقائيًا لأقسام الهندسة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

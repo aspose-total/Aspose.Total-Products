@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 DXF 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML을 DXF(Drawing Exchange Format)로 변환하면 웹 기반 다이어그램을 CAD 호환 벡터 파일로 변환할 수 있습니다. DXF는 정밀도와 편집 가능성이 필요한 건축가, 엔지니어, 디자이너에게 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 웹 아카이브에서 공학 다이어그램이나 도면 추출.
+
+* 웹 기반 바닥 계획을 편집 가능한 CAD 도면으로 변환.
+
+* 건축 프로젝트를 위한 기술적인 삽화 변환.
+
+* 제조나 프로토타입 제작을 위한 벡터 다이어그램 준비.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 온라인 CAD용 다이어그램 일괄 변환을 DXF로.
+
+* 협업 엔지니어링 워크플로우를 위한 DXF 생성 트리거.
+
+* 설계 및 시뮬레이션 소프트웨어 파이프라인 통합.
+
+* 웹 소스 도면의 예약 보관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

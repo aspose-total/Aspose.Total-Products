@@ -47,7 +47,55 @@ otherformats: XLTX XLAM DIF TXT XLT TSV ODS SXC FODS XLSB XLTM EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل Markdown (MD) إلى Excel (XLS/XLSX) يحول الملفات النصية البسيطة إلى جداول بيانات غنية وجاهزة للاستخدام في الصيغ. تدعم مخرجات Excel التنسيق، والرسوم البيانية، والتحقق من البيانات، والتحليلات، مما يجعلها مناسبة لتقارير الأعمال وسير العمل التشغيلية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل قوائم الميزات في Markdown إلى جداول Excel قابلة للفرز.
+
+* إنشاء تقارير مالية مستمدة من وثائق MD.
+
+* استيراد جداول Markdown كمتتبعات بيانات Excel.
+
+* إعداد كتالوجات المنتجات القائمة على MD بتنسيق جدول بيانات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتأة" %}}
+
+
+
+* تحويل مستندات Markdown إلى كتب عمل Excel بدفعات.
+
+* إنشاء ملفات XLSX بدفعات لعدة أقسام.
+
+* تحديث تقارير Excel تلقائيًا من مستودعات MD تحت الرقابة الإصدارية.
+
+* سير العمل الهندسي للبيانات يتغذى من تحويلات MD → Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

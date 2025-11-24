@@ -57,7 +57,55 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML เป็น SVGZ (SVG ที่บีบอัด) ที่รักษากราฟิกเวกเตอร์จากเนื้อหาบนเว็บในขณะที่ลดขนาดไฟล์ มีประโยชน์สำหรับการใช้ในเว็บ อินเตอร์เฟซ และไอคอนที่ต้องการการยืดหดและไฟล์ที่มีน้ำหนักเบา
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การสกัดไดอะแกรมที่ยืดหดได้จากแดชบอร์ดออนไลน์
+
+* การบีบอัดโลโก้เวกเตอร์บนเว็บสำหรับเว็บไซต์
+
+* การแปลงแผนภูมิการไหลหรือสื่อสารกราฟิกเป็นรูปแบบเวกเตอร์
+
+* เตรียมไอคอนเว็บจากภาพสมบูรณ์ HTML/CSS
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลงกลุ่มของเนื้อหาเว็บที่ใช้เวกเตอร์เป็น SVGZ ได้เป็นจำนวนมาก
+
+* การรวมเข้ากับกระบวนการพัฒนาเว็บสำหรับกราฟิกที่ตอบสนอง
+
+* การสกัดเวกเตอร์ตามกำหนดเวลาจากเอกสาร MHTML
+
+* การบีบอัดและส่งมอบกราฟิกที่ยืดหดได้สำหรับเว็บไซต์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

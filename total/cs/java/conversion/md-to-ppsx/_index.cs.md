@@ -59,7 +59,55 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MD (Markdown) na PPSX (PowerPoint Slideshow) produkuje moderní prezentace, které se otevírají přímo v režimu celé obrazovky. PPSX je široce využíván pro automatické spouštění prezentací v korporátním, maloobchodním a eventovém prostředí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Automatické přehrávání prodejních prezentací získaných z poznámek MD.
+
+* Obrazovky v korporátních prostorách vytvořené z obsahu Markdown.
+
+* Smyčky s prezentacemi pro eventy vytvořené z plánů akcí nebo programů v MD.
+
+* Nepřetržité ukázky produktů odvozené z popisů v Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované pracovní postupy PPSX pro cedule a informační tabule.
+
+* Plánované generování prezentací z plánů akcí v Markdown.
+
+* Hromadné vytváření PPSX pro použití v maloobchodních prodejnách.
+
+* Konverze MD na PPSX v digitálních informačních systémech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

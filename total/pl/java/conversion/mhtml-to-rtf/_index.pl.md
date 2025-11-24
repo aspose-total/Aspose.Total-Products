@@ -130,7 +130,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja MHTML na RTF (Rich Text Format) zachowuje formatowanie tekstu, jednocześnie zapewniając szeroką kompatybilność między procesorami tekstu. RTF jest idealny do celów archiwizacyjnych, raportowania i edycji między platformami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Archiwizowanie raportów internetowych z zachowaniem formatowania.
+
+* Edycja treści internetowych między platformami w wielu edytorach tekstu.
+
+* Dzielenie sformatowanej dokumentacji internetowej bez problemów z kompatybilnością.
+
+* Przygotowywanie podręczników lub przewodników z stylizowanym tekstem z źródeł internetowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja wsadowa dla archiwizacji treści internetowych.
+
+* Integracja z systemami zarządzania dokumentami dla automatycznego generowania plików RTF.
+
+* Automatyczna konwersja dla systemów dziedziczących wymagających wejścia RTF.
+
+* Wywoływane tworzenie plików RTF dla paneli raportowych i automatycznej dokumentacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

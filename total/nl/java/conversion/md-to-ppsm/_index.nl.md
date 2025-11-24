@@ -59,7 +59,49 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van MD (Markdown) naar PPSM (Macro-Enabled PowerPoint Slideshow) combineert de functionaliteit van een automatisch afspelende diavoorstelling met automatisering. PPSM ondersteunt VBA-macro's voor getimede inhoud, dynamische updates en interactieve ervaringen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Geautomatiseerde kiosken met door macro's aangestuurde PPSM-dia's.
+* Interactieve trainingslussen ontworpen op basis van MD-inhoud.
+* Automatisch getimede productshowcases afkomstig van Markdown-briefings.
+* Dynamische winkel- of evenementdisplays met behulp van macro-enabled diavoorstellingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Workflow-gestuurde PPSM-productie geactiveerd door Markdown-wijzigingen.
+* Generatie van macro-enabled diavoorstellingen voor bedrijfsweergavesystemen.
+* Geautomatiseerde updates van kiosk-inhoud vanuit MD-opslagplaatsen.
+* Batch-creatie van PPSM voor winkel- of expoketens.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

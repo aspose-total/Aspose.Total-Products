@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp MHTML sang XLAM, bạn cũng có thể thêm hì
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MHTML sang XLAM (Excel Add-In) cho phép nhúng các chức năng tự động hoặc công cụ dẫn xuất từ nội dung web vào Excel. XLAM lý tưởng cho các tính toán tùy chỉnh, macro báo cáo và kịch bản tự động có thể tái sử dụng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Các tiện ích Excel tùy chỉnh được tạo từ các mẫu tính toán trực tuyến.
+
+* Các công cụ dự báo tài chính được xây dựng từ các bộ dữ liệu trên web.
+
+* Bảng điều khiển tương tác với các macro nguồn web.
+
+* Các công cụ tự động tái sử dụng cho báo cáo doanh nghiệp trong Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo tự động các tiện ích XLAM từ bảng điều khiển MHTML.
+
+* Tích hợp vào các đường ống tự động hóa Excel.
+
+* Kích hoạt việc tạo XLAM cho các nhiệm vụ báo cáo định kỳ.
+
+* Xử lý hàng loạt các mẫu tính toán trực tuyến thành các tiện ích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

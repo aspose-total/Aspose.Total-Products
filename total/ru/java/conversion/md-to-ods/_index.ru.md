@@ -47,7 +47,55 @@ otherformats: TXT XLT TSV ODS XLAM EXCEL XLTX DIF FODS SXC XLSB XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование Markdown (MD) в ODS (OpenDocument Spreadsheet) предоставляет надежную, открытую альтернативу Excel. ODS идеально подходит для команд, использующих LibreOffice или OpenOffice, и поддерживает формулы, диаграммы и структурированное форматирование таблиц.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Импорт списков Markdown в панели инструментов ODS.
+
+* Создание аналитических листов для офисных сред с открытым исходным кодом.
+
+* Создание бюджетных отслеживателей в формате ODS на основе содержимого MD.
+
+* Преобразование технической документации MD в данные, готовые к использованию в таблицах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Планирование генерации ODS для команд обработки данных с открытым исходным кодом.
+
+* Межплатформенные конвейеры, подающие Markdown в таблицы ODS.
+
+* Пакетное преобразование таблиц документации в формат ODS.
+
+* Автоматизированная сборка ODS для распределенных команд, нуждающихся в редактируемых таблицах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

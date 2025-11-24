@@ -61,7 +61,51 @@ Při převodu souboru POTX na FODS můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění **POTX na FODS** exportuje data šablony do souborů Flat OpenDocument Spreadsheet pro maximální kompatibilitu s open-source nástroji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Úprava dat odvozených z POTX v LibreOffice a OpenOffice.
+
+* Příprava vládních standardních tabulek ve formátu open.
+
+* Vytváření lehkých, platformně nezávislých datových tabulek.
+
+* Archivace metadat šablony POTX ve formátech open.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadné zpracování souborů POTX do FODS pro týmy s různými platformami.
+
+* Plánované exporty ve formátu open pro dodržování předpisů nebo auditů.
+
+* Integrace s open-source automatizací pracovních postupů.
+
+* Konverze do FODS na základě spouštění při aktualizaci šablon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

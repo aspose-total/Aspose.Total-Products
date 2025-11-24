@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MD (Markdown) sang ODT (OpenDocument Text) giúp tạo luồng công việc tài liệu thân thiện với mã nguồn mở. Tệp ODT rất lý tưởng cho các nhóm sử dụng LibreOffice hoặc OpenOffice, cung cấp một lựa chọn linh hoạt, nhẹ nhàng thay thế cho các định dạng Word độc quyền vẫn cho phép định dạng phong phú.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xuất bản tài liệu mã nguồn mở dưới dạng tệp ODT được định dạng chuyên nghiệp.
+
+* Chuyển đổi hướng dẫn Markdown thành tài liệu LibreOffice có thể chỉnh sửa.
+
+* Tạo tài liệu chéo nền tảng cho các tổ chức tránh các định dạng độc quyền.
+
+* Sản xuất các tài liệu hướng dẫn ODT địa phương được lấy từ nội dung MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt các kho lưu trữ Markdown thành ODT để phân phối công khai.
+
+* Tạo tài liệu ODT tự động trong các dự án mã nguồn mở.
+
+* Luồng công việc ETL đa nền tảng xuất ODT cho chính phủ hoặc các tổ chức phi chính phủ.
+
+* Tạo ODT dựa trên cơ sở kích hoạt trong các đường ống dịch và dịch.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

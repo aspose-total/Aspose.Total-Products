@@ -121,7 +121,51 @@ presentation.save("output.odp", SaveFormat.Odp);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή αρχείων MHTML (web archive) σε ODP (OpenDocument Presentation) επιτρέπει στο περιεχόμενο του διαδικτύου να μετατραπεί σε εντελώς επεξεργάσιμες διαφάνειες για το LibreOffice ή το OpenOffice. Το ODP εξασφαλίζει συμβατότητα μεταξύ πλατφορμών και διατηρεί την αρχική μορφοποίηση.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Μετατροπή περιεχομένου online μάρκετινγκ σε συλλογές διαφανειών ODP.
+
+* Εκπαιδευτικά μοντούλα που δημιουργήθηκαν από σχέδια μαθημάτων βασισμένα στο διαδίκτυο.
+
+* Αρχειοθέτηση παρουσιάσεων εταιρειών που αρχικά φιλοξενούνταν σε διαδικτυακές πύλες.
+
+* Μετατροπή ενημερώσεων έργων βασισμένων στο διαδίκτυο σε επαγγελματικές διαφάνειες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή πολλαπλών αναφορών MHTML σε συλλογές διαφανειών ODP.
+
+* Προγραμματισμένη δημιουργία διαφανειών παρουσιάσεων για εσωτερικές επικοινωνίες.
+
+* Αυτοματοποιημένες ενημερώσεις περιεχομένου παρουσιάσεων από ζωντανούς πίνακες ελέγχου στο διαδίκτυο.
+
+* Ενσωμάτωση σε συνεργατικές ροές εργασίας παρουσιάσεων ανοικτού κώδικα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

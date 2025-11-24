@@ -57,7 +57,55 @@ otherformats: PSD  TGA EMZ WMZ JPEG2000 SVGZ IMAGE WMF DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του MHTML σε TGA (Targa) παράγει υψηλής ποιότητας ραστερικές εικόνες που χρησιμοποιούνται συχνά στο μοντελοποίηση 3D, στα παιχνίδια ή στην επιστημονική απεικόνιση. Το TGA διατηρεί το βάθος χρώματος και τα κανάλια αλφα για προχωρημένη χρήση.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Εξαγωγή υφών βασισμένων στον ιστό για 3D μοντέλα ή προσομοιώσεις.
+
+* Αρχειοθέτηση επιστημονικών απεικονίσεων ή διαγραμμάτων με διαφάνεια.
+
+* Μετατροπή ιστογραμμών σε TGA για σχεδιαστικές διαδικασίες.
+
+* Προετοιμασία ραστερικών γραφικών για κινούμενα σχέδια ή περιουσιακά στοιχεία παιχνιδιών.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή TGA από γραφικά αρχεία αποθετηρίου ιστού.
+
+* Προγραμματισμένες διαδικασίες για εξαγωγή υφών από online πίνακες ελέγχου.
+
+* Ενεργοποιημένη δημιουργία TGA για συστήματα διαχείρισης ψηφιακών περιουσιακών στοιχείων.
+
+* Ενσωμάτωση με ροές εργασίας animation ή προσομοίωσης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

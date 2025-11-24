@@ -72,7 +72,55 @@ otherformats: DOCM ODT OTT MHTML DOTM MARKDOWN RTF FLATOPC WORDML DOT PS XAMLFLO
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת Markdown (MD) ל־PCL (שפת פקודות מדפסת) יוצרת קבצים מוכני הדפסה התואמים למדפסות לייזר ומדפסות דיו. המרת PCL מתאימה ליצירת מסמכים טכניים, דוחות ואוטומציה של תהליכי הדפסה בסביבות הדפסה עסקית.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* הדפסת דוחות מבוססות Markdown על מדפסות התומכות ב־PCL.
+
+* יצירת פלט PCL להפצת מסמכים בצורת צמיג.
+
+* המרת תיעוד Markdown לפורמטים מוכני הדפסה.
+
+* הכנת הוראות טכניות לתהליכי הדפסה במשרד או בייצור.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת קבצי Markdown ל־PCL בצורה צמיגה עבור הדפסה עסקית מתוזמנת.
+
+* שילוב עם שרתי הדפסה ליצירת PCL באופן אוטומטי מתיעוד Markdown.
+
+* צינורות הדפסה אוטומטיים הממירים Markdown ל־PCL.
+
+* ייצור מסמכים על בסיס טריגר למדפסות PCL בנפח גדול.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

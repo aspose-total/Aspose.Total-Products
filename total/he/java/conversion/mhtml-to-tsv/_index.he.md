@@ -102,7 +102,51 @@ otherformats: CSV TXT XLSB ODS DIF XLT FODS XLSM XLAM EXCEL MD SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MHTML ל־TSV (ערכים מופרדים בטאב) מחלץ נתונים מובנים מדפי אינטרנט בפורמט טקסט פשוט וידידותי לתווים-מפרידים. TSV הוא מושלם עבור מדע הנתונים, צינורות ETL ויבואים לבסיסי נתונים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* חילוץ טבלאות מוצרים ומחירים של מסחר אלקטרוני לצורך ניתוח.
+
+* תוצאות סקרים שיוצאות מטפסי אינטרנט ל־TSV.
+
+* ארכיבה של תוכן אינטרנטי טבלארי למודלי למידת מכונה.
+
+* שיתוף סטים מובנים עם מפתחים ומהנדסי נתונים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת MHTML ל־TSV בצורה צפופה עבור צינורות AI/ML.
+
+* שילוב בצורה אוטומטית לתהליכי ETL אוטומטיים לצורך ניתוח.
+
+* יצירת TSV מתוזמנת לדיווחים תקופתיים מבוססי אינטרנט.
+
+* ייצוא TSV מופעל לדפים תוצאה בזמן אמת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

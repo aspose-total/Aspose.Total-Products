@@ -121,7 +121,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML zu PPSM (Makrofähige Diashow) ermöglicht interaktive und automatisierte PowerPoint-Präsentationen aus Webinhalten. PPSM eignet sich perfekt für Unternehmens-, Bildungs- oder Schulungsfolien, die Makrofunktionalität erfordern.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Interaktive Schulungsdiashows mit automatisierten Übungen.
+
+* Automatisierte Berichtspräsentationen mit Integration von Web-Dashboards.
+
+* Marketing-Folien-Decks mit makrogesteuerter Interaktivität.
+
+* Bildungsmodule unter Verwendung von webbasierten Inhalten und Makros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Geplante MHTML-zu-PPSM-Konvertierung für dynamische Präsentationen.
+
+* Stapelverarbeitung von Webinhalten zu interaktiven Diashows.
+
+* Integration mit Unternehmensautomatisierungsplattformen für Live-Updates.
+
+* Ausgelöste Erstellung von makrofähigen Folien aus Dashboards.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

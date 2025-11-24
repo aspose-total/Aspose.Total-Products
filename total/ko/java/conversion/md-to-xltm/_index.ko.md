@@ -47,7 +47,55 @@ MD 파일을 XLTM로 변환하는 동안 출력 XLTM 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 XLTM(매크로 활성화된 Excel 템플릿)으로 변환하면 자동화가 풍부한 재사용 가능한 스프레드시트 템플릿이 생성됩니다. XLTM 파일은 동적 초기화, 자동으로 채워지는 필드, 그리고 고급 워크플로 작업을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Markdown 콘텐츠에서 가져온 매크로 기반 비즈니스 템플릿.
+
+* MD 데이터로부터 자동화된 예측 시트 작성.
+
+* 엔지니어링 팀을 위한 재사용 가능한 계산 템플릿 구축.
+
+* 매크로 준비된 온보딩 또는 감사 템플릿 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* CI 기반 MD 변환을 통해 XLTM 템플릿 자동 생성.
+
+* 분산된 사무실을 위한 매크로 활성화된 템플릿 일괄 작성.
+
+* Markdown 저장소로부터 XLTM 파일의 예약된 업데이트.
+
+* 백엔드 데이터에서 XLTM 템플릿을 채우는 동적 워크플로 스크립트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

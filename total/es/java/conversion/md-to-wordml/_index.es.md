@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversión de MD (Markdown) a WordprocessingML (WordML) permite crear documentos estructurados en Word basados en XML, ideales para sistemas empresariales, plataformas de CMS y tuberías de ingeniería de documentos. WordML ofrece un control preciso sobre el diseño, etiquetas y vinculación de datos para documentos generados por máquina.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Migración de documentación Markdown a estructuras WordML impulsadas por XML.
+
+* Informes estructurados generados a partir de MD para sistemas de documentos automatizados.
+
+* Archivos técnicos listos para la vinculación de datos creados directamente a partir de texto Markdown.
+
+* Plataformas de CMS empresariales transformando contenido MD en plantillas compatibles con WordML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Generación de canalización XML para archivos de Word generados por el sistema.
+
+* Conversiones automatizadas de Markdown alimentando motores de documentos impulsados por API.
+
+* Creación por lotes de archivos WordML a partir de Markdown de repositorio.
+
+* Integración con flujos de trabajo de validación para informes basados en XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

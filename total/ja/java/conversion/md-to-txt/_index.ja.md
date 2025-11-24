@@ -47,7 +47,55 @@ MDファイルをTXTに変換するときに、出力TXTファイル形式に透
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）ファイルをTXT（プレーンテキスト）に変換すると、フォーマットやマークアップが削除されたクリーンで軽量なコンテンツが生成されます。TXTファイルは高い互換性を持ち、テキスト処理、スクリプティング、Markdownフォーマットをサポートしていないアプリケーションとの統合に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* プレーンテキストの電子メール配信用にMarkdownドキュメントをエクスポートする。
+
+* テキストベースの分析や機械学習ワークフロー用の生データを生成する。
+
+* メモやドキュメントの軽量でポータブルなコピーを作成する。
+
+* リッチなフォーマットがサポートされていない環境でのMarkdownコンテンツの共有。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* MarkdownリポジトリをTXTにバックアップおよびアーカイブ用に定期的にバッチ変換する。
+
+* ETLパイプラインを使用してMarkdownドキュメントをTXTに変換し、スクリプトや自動化ツールで処理する。
+
+* Markdownベースのプロジェクトノートからプレーンテキストログを自動生成する。
+
+* MarkdownをTXTとしてエクスポートするためのコンテンツパイプラインとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

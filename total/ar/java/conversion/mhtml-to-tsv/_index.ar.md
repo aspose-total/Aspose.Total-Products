@@ -47,7 +47,51 @@ otherformats: TSV TXT XLSB ODS DIF XLT FODS XLSM XLAM EXCEL MD SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MHTML إلى TSV (قيم مفصولة بواسطة علامات تبويب) يستخرج البيانات المهيكلة من صفحات الويب في تنسيق نص عادي وداعم للفواصل. TSV مثالي لعلم البيانات، وأنابيب ETL، واستيرادات قواعد البيانات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* استخراج جداول المنتجات والأسعار للتحليل في مجال التجارة الإلكترونية.
+
+* نتائج الاستطلاع المصدرة من نماذج الويب إلى TSV.
+
+* أرشفة محتوى الويب الجدولي لنماذج التعلم الآلي.
+
+* مشاركة مجموعات البيانات المهيكلة مع المطورين ومهندسي البيانات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دُفعي من MHTML إلى TSV لأنابيب الذكاء الاصطناعي/التعلم الآلي.
+
+* دمجه في سير العمل الآلي لتحليلات ETL.
+
+* إنشاء TSV بشكل مجدول لتقارير الويب الدورية.
+
+* تصدير TSV المُشغّل لوحات القيادة في الوقت الحقيقي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

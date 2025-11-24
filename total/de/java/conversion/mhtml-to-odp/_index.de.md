@@ -121,7 +121,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von MHTML (Webarchiv) Dateien in ODP (OpenDocument Presentation) ermöglicht es, Webinhalte in vollständig bearbeitbare Folien für LibreOffice oder OpenOffice umzuwandeln. ODP gewährleistet plattformübergreifende Kompatibilität und erhält das ursprüngliche Format.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Umwandlung von Online-Marketinginhalten in ODP-Foliensätze.
+
+* Erstellung von Bildungsmodulen aus webbasierten Lehrplänen.
+
+* Archivierung von Unternehmenspräsentationen, die ursprünglich auf Webportalen gehostet wurden.
+
+* Umwandlung von webbasierten Projektaktualisierungen in professionelle Folien.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelkonvertierung mehrerer MHTML-Berichte in ODP-Folien.
+
+* Geplante Generierung von Präsentationsfolien für die interne Kommunikation.
+
+* Automatische Aktualisierungen des Präsentationsinhalts von Live-Web-Dashboards.
+
+* Integration in kollaborative Open-Source-Präsentationsworkflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

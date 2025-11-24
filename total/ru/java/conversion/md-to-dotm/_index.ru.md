@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MD (Markdown) в DOTM (Macro-Enabled Template) объединяет легкое редактирование текста с шаблонами Word, усовершенствованными встроенными макросами. Шаблоны DOTM позволяют командам автоматизировать повторяющиеся задачи по созданию стандартизированных документов, готовых к использованию макросов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Создание шаблонов для онбординга с использованием макросов из Markdown-руководств.
+
+* Создание автоматизированных шаблонов счетов или форм на основе содержимого MD.
+
+* Корпоративные документационные каркасы с программно вставляемыми полями.
+
+* Создание многоразовых шаблонов, дружественных к автоматизации, из технической документации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое создание шаблонов DOTM для крупных циклов отчетности.
+
+* Интеграция с рабочими процессами, запускающими процесс преобразования MD в DOTM.
+
+* Однократное создание макро-возможных шаблонов для распределенных отделов.
+
+* Автоматическая вставка динамического контента во время регенерации шаблона.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,55 @@ API를 사용하여 필요에 따라 출력 JPEG2000 이미지를 회전할 수�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 JPEG2000으로 변환하면 고해상도의 손실 없는 이미지 내보내기가 가능합니다. 기술적인 그림, 대형 다이어그램 또는 세부 정보 보존이 중요한 보관 목적으로 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Markdown 차트를 고해상도 기술 이미지로 변환하기.
+
+* 품질 손실 없이 Markdown의 복잡한 다이어그램을 아카이빙하기.
+
+* 자세한 시각 자료로 인쇄용 문서 준비하기.
+
+* Markdown 노트에서 생성된 과학적인 그림.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 고품질 저장을 위해 Markdown 다이어그램을 JPEG2000으로 자동 변환하기.
+
+* 연구팀이나 엔지니어링 팀을 위한 일괄 처리.
+
+* 손실 없는 이미지 형식이 필요한 게시 워크플로와 통합.
+
+* JPEG2000 아카이브에서 Markdown에서 파생된 시각 자료의 예약된 업데이트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MD (Markdown) fájlok átalakítása DOCM (Word Macro-Enabled Documents) formátummá lehetővé teszi a csapatok számára, hogy interaktív automatizálási funkciókkal bővítsék a könnyű szövegfájlokat. A DOCM fájlok beágyazott makrókat támogatnak, így ideálisak munkafolyamatvezérelt dokumentációhoz, vállalati sablonokhoz és dinamikus műveleteket igénylő automatikusan generált jelentésekhez a Word-ben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Fejlesztői Markdown jegyzetek átalakítása makróval ellátott SOP-okká.
+
+* Automatikusan aktivált irányelvek a vállalati munkafolyamatokhoz.
+
+* Interaktív ajánlati sablonok, amelyeket Git-ben tárolt MD fájlokból építenek.
+
+* Makróvezérelt ellenőrzési naplók, amelyeket Markdown alapú változásnaplókból generálnak.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Ütemezett MD-DOCM konverzió a megfelelőségi csapatok számára.
+
+* ETL csatornák, amelyek makróval ellátott Word jelentéseket állítanak elő Markdownból.
+
+* CI/CD munkafolyamatok, amelyek újra generálják a DOCM dokumentumokat a tároló tartalmából.
+
+* Automatizált makróval kiváltott dokumentáció a mérnöki osztályok számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

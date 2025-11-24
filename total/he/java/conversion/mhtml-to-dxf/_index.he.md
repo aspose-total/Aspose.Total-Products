@@ -105,7 +105,51 @@ otherformats: SVGZ EMZ  APNG WMF WMZ PSD IMAGE TGA JPEG2000 DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MHTML ל-DXF (Drawing Exchange Format) ממירה תרשימים מבוססי אינטרנט לקבצי וקטור שגיאתיים המתאימים ל- CAD. DXF הוא אידיאלי עבור אדריכלים, מהנדסים ומעצבים הדורשים דיוק ויכולת עריכה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* חילוץ תרשימי הנדסה או סכמים מארכיונים באינטרנט.
+
+* המרת תוכניות קומות מבוססות אינטרנט לשרטוטים עריכים ב- CAD.
+
+* המרת איורים טכניים לפרויקטים אדריכליים.
+
+* הכנת תרשימי וקטור לייצור או לייעוץ ראשוני.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת סדרות של תרשימי CAD מקוונים ל-DXF.
+
+* יצירת DXF בהפעלה עבור זרימות עבודה משותפות בהנדסה.
+
+* שילוב בצינורות תוכנה לעיצוב ולסימולציה.
+
+* ארכיבה מתוזמנת של סכמים ממקורות אינטרנט.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -67,7 +67,25 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Converting Markdown (MD) into OTT (OpenDocument Text Template)
+
+Het omzetten van Markdown (MD) naar OTT (OpenDocument Text Template) ondersteunt schaalbare sjabloonschepping voor open-source kantoorpakketten. OTT-sjablonen behouden consistente opmaak terwijl teams meerdere documenten kunnen genereren vanuit een stabiele stijlfundering.
+
+## Key Use Cases
+
+* Het maken van OTT-sjablonen voor meertalige documentproductie.
+* Het opbouwen van gestructureerde rapport-sjablonen op basis van Markdown-richtlijnen.
+* Het standaardiseren van kantoordocumentatie voor open-source omgevingen.
+* Het genereren van herbruikbare ODT-documentformaten voor NGO's of publieke instellingen.
+
+## Automation Scenarios
+
+* Geautomatiseerde OTT-generatie in open-source publicatieworkflows.
+* Het synchroniseren van sjabloonupdates vanuit Markdown-versiebeheer.
+* Het batchgewijs produceren van sjabloonsets voor gedistribueerde teams met behulp van LibreOffice.
+* Overheids- of non-profit systemen die op schema OTT-sjablonen genereren.
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

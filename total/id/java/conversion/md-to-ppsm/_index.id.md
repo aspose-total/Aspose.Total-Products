@@ -59,7 +59,55 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi MD (Markdown) ke PPSM (Slideshow PowerPoint yang Diaktifkan Makro) menggabungkan fungsionalitas tayangan otomatis dengan otomatisasi. PPSM mendukung makro VBA untuk konten berdasarkan waktu, pembaruan dinamis, dan pengalaman interaktif.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Kios otomatis dengan slide PPSM yang didorong oleh makro.
+
+* Loop pelatihan interaktif yang dirancang dari konten MD.
+
+* Showcase produk berdasarkan waktu yang diambil dari ringkasan Markdown.
+
+* Tampilan ritel atau acara dinamis menggunakan tayangan slid yang diaktifkan makro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Produksi PPSM yang didorong oleh alur kerja yang dipicu oleh perubahan Markdown.
+
+* Generasi tayangan slid yang diaktifkan makro untuk sistem tampilan perusahaan.
+
+* Pembaruan otomatis konten kios dari repositori MD.
+
+* Pembuatan PPSM secara massal untuk rantai ritel atau pameran.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,51 @@ POTX 파일을 SXC로 변환하는 동안 출력 SXC 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**POTX를 SXC로 변환**하면 StarOffice와 호환되는 스프레드시트 파일이 생성되어, 레거시나 가벼운 소프트웨어를 사용하는 기관에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 템플릿 기반 테이블을 레거시 스프레드시트로 이관.
+
+* 장기 기간 기관적 보존을 위한 POTX 콘텐츠 아카이빙.
+
+* 오래된 오피스 환경과의 호환성 지원.
+
+* 구조화된 분석을 위한 템플릿에서 데이터 추출.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 대규모 기관 리포지토리를 위한 일괄 SXC 변환.
+
+* 템플릿이 수정될 때 트리거된 SXC 내보내기.
+
+* 레거시 데이터 처리를 위한 자동화된 워크플로우.
+
+* 내부 아카이브 프로세스를 위한 예약 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

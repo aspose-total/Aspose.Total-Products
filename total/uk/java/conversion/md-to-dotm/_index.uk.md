@@ -73,7 +73,55 @@ otherformats: PS DOCM FLATOPC MHTML PCL MARKDOWN RTF DOT OTT ODT WORDML DOTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Конвертація MD (Markdown) в DOTM (шаблон з підтримкою макросів) поєднує легке редагування тексту з шаблонами Word, покращеними вбудованими макросами. Шаблони DOTM дозволяють командам автоматизувати повторювані завдання з документами та миттєво створювати стандартизовані документи, готові до макросів.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* Створення шаблонів для онбордингу з підтримкою макросів з Markdown плейбуків.
+
+* Створення автоматизованих шаблонів для рахунків або форм, отриманих з вмісту MD.
+
+* Корпоративні рамки документів з програмно вставленими полями.
+
+* Генерація повторно використовуваних шаблонів, дружніх до автоматизації, з технічної документації.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Автоматичне створення шаблонів DOTM для циклів великомасштабної звітності.
+
+* Інтеграція з рушіями робочого процесу, які викликають генерацію MD в DOTM.
+
+* Одноклікове створення шаблонів з підтримкою макросів для розподілених відділів.
+
+* Автоматичне вставлення динамічного вмісту під час регенерації шаблону.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

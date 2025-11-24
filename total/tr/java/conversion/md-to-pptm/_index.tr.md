@@ -59,7 +59,55 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) ile PPTM (Makro Etkinleştirilmiş PowerPoint) dönüşümü, MD kaynaklı içeriği makro destekli otomasyonla birleştirerek sunum olanaklarını artırır. PPTM dosyaları dinamik slayt manipülasyonunu, veri bağlama ve betimli etkileşimleri destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* MD kaynak verilerinden oluşturulan otomatik finansal sunumlar.
+
+* Markdown raporlarından oluşturulan makrolarla dinamik panolar.
+
+* MD belgelerinden oluşturulan etkileşimli eğitim modülleri.
+
+* Ürün Markdown dosyalarından elde edilen makro etkin sunumlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Raporlama ekipleri için PPTM sunumları oluşturan CI/CD boruları.
+
+* Depolardan elde edilen makro etkin sunumların otomatik güncellenmesi.
+
+* Kurumsal eğitim sistemleri için toplu PPTM oluşturma.
+
+* Markdown girdileri kullanılarak zamanlanmış PPTM tabanlı panoların oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

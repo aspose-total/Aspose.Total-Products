@@ -59,7 +59,55 @@ presentation.save("output.swf", SaveFormat.Swf);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi Markdown (MD) ke SWF (Shockwave Flash) memungkinkan teks, diagram, dan grafik diubah menjadi animasi Flash interaktif. SWF ideal untuk konten pendidikan lama, tutorial, dan presentasi web beranimasi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Kunci" %}}
+
+
+
+* Mengubah tutorial Markdown menjadi konten SWF interaktif.
+
+* Diagram animasi untuk modul e-learning yang dihasilkan dari Markdown.
+
+* Presentasi berbasis Flash lama untuk pengiriman web.
+
+* Menanamkan visual Markdown interaktif di platform pendidikan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Pipa kerja otomatis Markdown-to-SWF untuk materi pelatihan online.
+
+* Konversi batch konten MD menjadi file Flash interaktif.
+
+* Pembaruan terjadwal ke modul pembelajaran SWF yang berasal dari Markdown.
+
+* Generasi dipicu visual SWF untuk platform lama berbasis web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

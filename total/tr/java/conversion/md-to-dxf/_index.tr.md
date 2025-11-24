@@ -57,7 +57,55 @@ API'yi kullanarak, çıktı DXF görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını DXF (Drawing Exchange Format) formatına dönüştürmek, yapılandırılmış diyagramları ve akış şemalarını CAD uyumlu vektör dosyalarına dönüştürür. DXF, mühendislik, mimarlık ve hassas çizgi tabanlı görseller gerektiren imalat süreçleri için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown diyagramlarını CAD için hazır DXF çizimlerine dönüştürme.
+
+* Mühendislik belgeleri için akış şemalarını ve şematikleri dönüştürme.
+
+* Markdown notlarından mimari veya mekanik görseller hazırlama.
+
+* CAD yazılımını kullanan işbirlikçilerle teknik diyagramları paylaşma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Mühendislik ve tasarım ekipleri için toplu MD-DXF dönüşümü.
+
+* Hızlı prototipleme için otomatik tasarım akışlarıyla entegrasyon.
+
+* Teknik belgeleme sistemleri için zamanlanmış DXF dışa aktarımları.
+
+* Markdown depolarından CAD için hazır görsellerin tetiklenmiş oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

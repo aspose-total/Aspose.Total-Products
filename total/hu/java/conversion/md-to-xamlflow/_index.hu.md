@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) átalakítása XAMLFLOW formátummá lehetővé teszi interaktív, folyamatvezérelt diagramok és alkalmazás elrendezések létrehozását XAML jelölések felhasználásával. Ideális szoftverek vizualizációjához, UI prototípusokhoz és munkafolyamat dokumentációhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Interaktív folyamatdiagramok építése Markdown dokumentációból.
+
+* WPF alkalmazás munkafolyamatainak prototípezése Markdown tartalom felhasználásával.
+
+* Műszaki folyamatjegyzetek átalakítása XAMLFlow vizualizációkká.
+
+* Markdown által generált munkafolyamatok beágyazása interaktív alkalmazás-előnézetekbe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Automatizált MD-to-XAMLFLOW csővezetékek fejlesztői csapatok számára.
+
+* Interaktív folyamatok tömeges generálása Markdown jegyzetekből.
+
+* Munkafolyamat diagramok ütemezett frissítése szoftverdokumentációban.
+
+* Integráció a CI/CD-vel Markdown folyamatvázlatok XAMLFLOW komponensekké történő átalakításához.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

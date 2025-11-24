@@ -61,7 +61,51 @@ Podczas konwertowania pliku POTX do FODS możesz również dodać znak wodny do 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie **POTX na FODS** eksportuje dane szablonu do plików arkusza kalkulacyjnego Flat OpenDocument w celu zapewnienia maksymalnej kompatybilności z narzędziami typu open-source.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Edytowanie danych pochodzących z POTX w LibreOffice i OpenOffice.
+
+* Przygotowywanie arkuszy kalkulacyjnych zgodnych z rządowymi standardami otwartego formatu.
+
+* Tworzenie lekkich arkuszy danych niezależnych od platformy.
+
+* Archiwizowanie metadanych szablonu POTX w otwartych formatach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Przetwarzanie zbiorcze plików POTX na FODS dla zespołów wieloplatformowych.
+
+* Zaplanowane eksporty w otwartym formacie zgodnie z przepisami lub audytami.
+
+* Integracja z automatyzacją workflowu typu open-source.
+
+* Konwersja FODS wywoływana przez wyzwalacze po aktualizacji szablonów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

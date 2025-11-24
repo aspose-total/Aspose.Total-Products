@@ -59,7 +59,55 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น ODP (OpenDocument Presentation) ช่วยให้ทีมสามารถแปลงเนื้อหาที่เป็นข้อความเป็นสไลด์ดีกส์ในรูปแบบเปิดที่สามารถใช้งานใน LibreOffice Impress และเครื่องมือนำเสนอโอเพนซอร์สอื่น ๆ  ODP เหมาะสำหรับการแบ่งปันข้ามแพลตฟอร์มโดยไม่มีข้อจำกัดทางเซียนสมควร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* การเปลี่ยนบันทึกการอบรม Markdown เป็นสไลด์ ODP
+
+* การนำเสนอในห้องเรียนที่สร้างจากแผนการเรียนที่มี MD เป็นพื้นฐาน
+
+* การเผยแพร่สไลด์การประชุมโอเพนซอร์สที่สร้างจาก Markdown
+
+* การแปลงเอกสาร MD เป็นสไลด์ ODP โครงสร้างทางสายตา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* ท่อ ETL ที่สร้างไฟล์ ODP จากที่เก็บข้อมูล Markdown
+
+* การสร้างสไลด์การศึกษาเป็นชุดสำหรับแพลตฟอร์ม LMS อัตโนมัติ
+
+* การผลิต ODP อัตโนมัติในกระบวนการทำงานเอกสารเป็นรหัส
+
+* การแปลง MD เป็น ODP ที่เรียกใช้งานเมื่อมีการปล่อยโปรเจคโอเพนซอร์ส
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,55 @@ Pomocí API můžete také otočit výstupní obrázek IMAGE podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod formátu Markdown (MD) na obecné obrázkové formáty (PNG, JPG, BMP) umožňuje vizualizaci tabulek, diagramů a formátovaného textu v přenosném, platformně nezávislém formátu. Obrázky lze vkládat do prezentací, webových stránek nebo dokumentů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Exportování diagramů z Markdownu jako statických obrázků pro prezentace nebo zprávy.
+
+* Sdílení grafů založených na Markdownu na webových stránkách nebo blocích.
+
+* Vytváření obrázků pro uživatelské příručky nebo technické průvodce.
+
+* Vizuální snímky tabulek z Markdownu pro prezentace nebo PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná hromadná konverze obsahu z Markdownu na obrázky.
+
+* ETL potrubí produkující vizuální prostředky z Markdown souborů.
+
+* Automatické generování diagramů pro portály dokumentace.
+
+* Export obrázků na základě spouštěcích událostí pro dashboardy nebo systémy pro generování reportů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

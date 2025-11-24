@@ -57,7 +57,25 @@ L'API vous permet également d'exporter le fichier MD vers WMZ dans un seul fich
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Conversion de Markdown (MD) en WMZ (Windows Metafile compressé)
+
+La conversion de Markdown (MD) en WMZ (Windows Metafile compressé) permet de partager des graphiques vectoriels dans un format compact. Le WMZ est idéal pour distribuer des diagrammes, des graphiques et des illustrations sans perte de qualité.
+
+## Cas d'utilisation clés
+
+- Création d'illustrations vectorielles compressées à partir de diagrammes Markdown.
+- Partage de graphiques compatibles avec les anciennes versions dans des tailles de fichier réduites.
+- Intégration de graphiques techniques dans la documentation ou les présentations.
+- Distribution de diagrammes de flux et de schémas dérivés de Markdown.
+
+## Scénarios d'automatisation
+
+- Conversion automatisée de MD en WMZ pour les systèmes de documentation.
+- Génération en lot de diagrammes vectoriels compressés à partir de référentiels Markdown.
+- Intégration avec des pipelines ETL produisant des graphiques portables.
+- Mises à jour planifiées des fichiers WMZ pour une distribution en entreprise.
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

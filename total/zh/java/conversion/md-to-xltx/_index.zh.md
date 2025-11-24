@@ -49,7 +49,55 @@ otherformats: ODS SXC TSV XLSB TXT XLT EXCEL XLTM XLAM XLTX XLSM FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）转XLTX（无宏Excel模板）转换适合专注于创建干净、一致、无宏模板的团队。XLTX提供可重复使用的结构，同时保持可靠的格式。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将基于Markdown的报告转换为标准化模板。
+
+* 为企业使用制作精美的XLTX模板。
+
+* 将MD设计准则转换为电子表格框架。
+
+* 为人力资源、财务和运营创建可编辑模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从MD中构建工作流程自动生成XLTX模板。
+
+* 为组织大规模生产统一模板。
+
+* ETL管道刷新XLTX模板以供多部门使用。
+
+* 云端文档系统的MD驱动模板更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

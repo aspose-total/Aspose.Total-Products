@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MD (Markdown) to DOTM (Macro-Enabled Template) konverzió könnyű szövegszerkesztést ötvöz a beágyazott makrókkal kiegészített Word sablonokkal. A DOTM sablonok lehetővé teszik a csapatok számára, hogy automatizálják az ismétlődő dokumentumfeladatokat, és azonnal létrehozzanak szabványosított, makrókra kész dokumentumokat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Makróval megerősített bevezető sablonok létrehozása Markdown leírásokból.
+
+* Automatizált számla- vagy űrlap sablonok létrehozása MD tartalomból.
+
+* Vállalati dokumentumkeretek programozottan beillesztett mezőkkel.
+
+* Újrafelhasználható, automatizálásbarát sablonok generálása technikai dokumentációból.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* DOTM sablonok automatikus létrehozása nagy léptékű jelentési ciklusokhoz.
+
+* Integráció munkafolyamat-motorokkal, amelyek MD-ből DOTM generálást indítanak.
+
+* Egykattintásos makróval ellátott sablonok létrehozása elosztott osztályok számára.
+
+* Dinamikus tartalom automatikus beillesztése a sablon újragenerálásakor.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

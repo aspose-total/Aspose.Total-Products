@@ -59,7 +59,55 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MD (Markdown) to PPS (PowerPoint Slideshow) konverzió ideális könnyű tartalom átalakításához automatikusan futó bemutatófájlokká. A PPS közvetlenül diavetítésként nyílik meg, így tökéletes kioszkokhoz, kijelzőkhöz és ismétlődő bemutatókhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Ismétlődő kioszk bemutatók létrehozása Markdown jegyzetekből.
+
+* Automatikusan futó termékbemutatók MD leírásokból generálva.
+
+* Diavetítés-alapú eseménybemutatók forrása MD ütemtervekből.
+
+* Múzeumi, kiskereskedelmi vagy expó bemutatók közvetlenül Markdownból létrehozva.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* PPS diavetítések tömeges generálása digitális jelzőtáblákhoz.
+
+* Automatizált MD-to-PPS csővezetékek eseménykezelő csapatok számára.
+
+* Ütemezett diavetítés létrehozása Markdown bejelentésekből.
+
+* Vezérlőpult-alapú ismétlődő bemutatófájlok generálása.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

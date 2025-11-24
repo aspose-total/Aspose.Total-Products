@@ -57,7 +57,55 @@ otherformats: IMAGE WMZ WMF SVGZ  TGA JPEG2000 DXF EMZ PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）文件转换为APNG（动态PNG）可将基于文本的图表和插图转换为动画视觉。APNG保留矢量质量并添加动态效果，非常适合演示文稿、教程和交互式文档。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 用于技术文档的动画流程图。
+
+* 显示逐步Markdown工作流程的交互式教程。
+
+* 从Markdown图表转换而来的动态营销视觉。
+
+* 用于在线学习模块的动画教育内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于自动化文档门户的批量MD到APNG转换。
+
+* 与ETL管道集成，从Markdown生成动画图形。
+
+* 在学习管理系统中自动更新的交互式视觉。
+
+* 触发渲染，将Markdown转换为动画的AI驱动仪表板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

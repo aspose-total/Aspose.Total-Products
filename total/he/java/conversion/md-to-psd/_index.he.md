@@ -81,7 +81,55 @@ otherformats: EMZ IMAGE DXF WMZ WMF APNG TGA JPEG2000 SVGZ  DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת Markdown (MD) ל-PSD (מסמך פוטושופ) מאפשרת למעצבים לייבא תוכן טקסטואלי ומובנה לקבצי פוטושופ בשכבות ניתנות לעריכה. PSD מאפשרת לשלב דיאגרמות מבוססות Markdown עם עריכה גרפית מקצועית.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת הערות Markdown למוקאפים לעריכה.
+
+* יצירת דיאגרמות בשכבות לאינפוגרפיקה או תוכן שיווקי.
+
+* שילוב של תמונות שנוצרו ב-Markdown עם נכסי מיתוג.
+
+* הכנת קבצי עיצוב לזרימות עבודה יצירתיות משותפות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת Markdown ל-PSD באופן אוטומטי עבור צוותי שיווק.
+
+* יצירת נכסים חזותיים בשכבות בצורה צינורית ממאגרי Markdown.
+
+* שילוב עם צינורות גרפיים לייצור תוכן.
+
+* יצירת PSD מופעלת עבור פרויקטי עיצוב משותפים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

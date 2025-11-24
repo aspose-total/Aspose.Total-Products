@@ -129,7 +129,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML（MIME HTML）文件转换为DOCX（启用宏的Word文档）可保留网络内容以及用于自动化工作流程的交互式宏。 DOCM文件对于业务流程自动化、高级报告和动态文档生成至关重要。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从网络抓取的内容生成的自动化公司报告。
+
+* 带有嵌入式宏的互动培训模块，用于电子学习。
+
+* 集成实时网络数据的业务流程文档。
+
+* 带有可点击的宏驱动仪表板的项目管理模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将存档的MHTML报告转换为启用宏的DOCM文件。
+
+* 与ERP系统集成，实现实时文档更新。
+
+* 在网络内容转换后触发宏执行。
+
+* 从MHTML来源自动生成重复的业务模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

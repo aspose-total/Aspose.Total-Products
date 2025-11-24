@@ -47,7 +47,55 @@ MD dosyasını XLT'ye dönüştürürken, çıktı XLT dosya biçiminize filigra
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) ile XLT (Excel Şablonu) dönüşümü, ekiplerin tutarlı biçimlendirme ve düzenleme ile tekrar kullanılabilir Excel şablonları oluşturmasına olanak tanır. XLT dosyaları, kaynak içeriği Markdown'ta tutarken organizasyonların belge oluşturma süreçlerini standartlaştırmalarına yardımcı olur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* MD yönergelerinden yapılandırılmış raporlama şablonları oluşturma.
+
+* Şirket markalı elektronik tablo şablonları oluşturma.
+
+* Markdown SOP'ları Excel şablonlarına dönüştürme.
+
+* MD kılavuzlarından alınan şablona dayalı veri giriş tabloları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Sürüm kontrollü MD'den XLT şablonlarının otomatik olarak yeniden oluşturulması.
+
+* Kurumsal departmanlar için toplu şablon oluşturma.
+
+* Yapılandırılmış raporlama ihtiyaçları için ETL destekli şablon oluşturma.
+
+* Franchise veya şube tabanlı şablon dağıtım iş akışları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

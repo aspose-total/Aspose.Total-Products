@@ -47,7 +47,55 @@ MHTML 파일을 TXT로 변환하는 동안 출력 TXT 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML을 TXT(일반 텍스트)로 변환하면 웹 아카이브에서 모든 텍스트 콘텐츠를 추출하면서 서식을 제거합니다. TXT 파일은 가벼우며 널리 지원되며 검색 색인, 텍스트 분석 또는 보관 목적에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 오프라인에서 일반 텍스트로 웹 콘텐츠를 아카이빙하여 읽기.
+
+* MHTML 페이지에서 텍스트 보고서 추출하여 분석.
+
+* 온라인 기사 또는 자습서를 빠르게 참조하기 위해 TXT로 변환.
+
+* 텍스트 기반 처리, NLP 또는 AI 도구에 대비한 콘텐츠 준비.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 대규모 웹 아카이빙을 위한 일괄 MHTML에서 TXT로 변환.
+
+* 분석을 위해 웹 페이지에서 텍스트 데이터를 예약 추출.
+
+* 자동화된 텍스트 처리를 위한 AI/ML 파이프라인 통합.
+
+* 실시간 웹 콘텐츠 모니터링 및 보고를 위한 트리거 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

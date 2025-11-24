@@ -47,7 +47,55 @@ Ao converter o arquivo MD para SXC, você também pode adicionar marca d'água a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A conversão de MD (Markdown) para SXC (StarOffice Calc) beneficia organizações que ainda utilizam ambientes de planilhas legados do StarOffice/OpenOffice. O SXC suporta fórmulas, estruturas de planilhas e formatação de células compatíveis com ecossistemas de escritório mais antigos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Migrar tabelas Markdown para planilhas SXC legadas.
+
+* Atualizar sistemas empresariais mais antigos com dados baseados em MD.
+
+* Gerar arquivos SXC para plataformas desatualizadas, mas ainda operacionais.
+
+* Preparar registros de engenharia do Markdown em formatos de planilhas clássicas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de MD para SXC para ferramentas de negócios arquivadas.
+
+* Conexões ETL para software governamental ou industrial legado.
+
+* Produção noturna de SXC a partir de repositórios Markdown.
+
+* Geração de SXC acionada para fluxos de trabalho compatíveis com versões anteriores.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

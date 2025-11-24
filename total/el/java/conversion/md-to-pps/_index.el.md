@@ -59,7 +59,55 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή MD (Markdown) σε PPS (PowerPoint Slideshow) είναι ιδανική για τη μετατροπή ελαφριών περιεχομένων σε αρχεία παρουσιάσεων που αυτοεκτελούνται. Το PPS ανοίγει απευθείας ως παρουσίαση, κάνοντάς το ιδανικό για κιόσκια, εκθέσεις και επαναλαμβανόμενες παρουσιάσεις.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Δημιουργία επαναλαμβανόμενων παρουσιάσεων κιόσκια από σημειώσεις Markdown.
+
+* Αυτόματη εκτέλεση προϊόντων που προέρχονται από περιγραφές MD.
+
+* Παρουσιάσεις εκδηλώσεων βασισμένες σε προγράμματα MD.
+
+* Μουσεία, λιανικό εμπόριο ή εκθέσεις που δημιουργούνται απευθείας από Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Παραγωγή παρουσιάσεων PPS σε παρτίδες για ψηφιακή σήμανση.
+
+* Αυτοματοποιημένες αγωγές MD-to-PPS για ομάδες διαχείρισης εκδηλώσεων.
+
+* Προγραμματισμένη δημιουργία παρουσιάσεων από ανακοινώσεις Markdown.
+
+* Δημιουργία παρουσιάσεων που επαναλαμβάνονται με κίνητρο τον πίνακα ελέγχου.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,55 @@ Podczas konwertowania pliku POTX do EXCEL możesz również dodać znak wodny do
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie **POTX na EXCEL** przekształca treść szablonu PowerPointa w natywny skoroszyt Excela, umożliwiając użytkownikom ponowne wykorzystanie danych układu, struktur tabel i metadanych w arkuszach kalkulacyjnych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Zamiana tabel szablonów slajdów na edytowalne dokumenty Excela.
+
+* Przygotowywanie wielokrotnie używanych modeli danych do raportowania korporacyjnego.
+
+* Wyodrębnianie miejsc na treść do strukturyzowanych arkuszy Excela.
+
+* Wykorzystanie elementów szablonu do dokumentacji projektów lub zespołów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Generowanie wsadowe plików EXCEL z dużych repozytoriów szablonów POTX.
+
+* Tworzenie powtarzalnych raportów Excela z znormalizowanych szablonów slajdów.
+
+* Konwersja wyzwalana przez zmiany w szablonach.
+
+* Przekazywanie wyodrębnionych danych Excela do pulpitów zarządzania BI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

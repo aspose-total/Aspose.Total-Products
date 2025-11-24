@@ -59,7 +59,55 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (마크다운)를 POTM (매크로 활성화된 PowerPoint 템플릿)으로 변환하면 자동화가 풍부한 프레젠테이션 템플릿을 만들 수 있습니다. POTM은 VBA 매크로를 지원하여 자동 서식 지정, 슬라이드 생성 및 동적 콘텐츠 삽입이 가능합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 마크다운 프레임워크에서 구축된 매크로 기반 슬라이드 템플릿.
+
+* MD 문서에서 가져온 자동 보고서 덱.
+
+* MD 콘텐츠를 사용한 대화형 교육 템플릿 생성.
+
+* VBA 로직이 사전로드된 동적 비즈니스 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* MD 업데이트에 의해 트리거된 자동 POTM 템플릿 생성.
+
+* 매크로 활성화된 PowerPoint 템플릿의 일괄 생성.
+
+* 보고팀을 위한 POTM 프레임워크 구축을 위한 CI/CD 워크플로우.
+
+* 기업 브랜딩을 위한 워크플로우 중심의 POTM 재생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

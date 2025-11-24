@@ -143,7 +143,51 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter MHTML para XAMLFLOW permite que conteúdo da web e ativos vetoriais sejam usados em fluxos interativos e automação de interface do usuário usando aplicativos de fluxo baseados em XAML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Integrar diagramas e gráficos da web em fluxos XAML automatizados.
+
+* Arquivar conteúdo da web interativo para sistemas de automação do Windows.
+
+* Preparar painéis baseados na web para automação de processos orientada por interface do usuário.
+
+* Converter formulários e controles da web para aplicativos de desktop baseados em fluxo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de MHTML para XAMLFLOW para pipelines de automação de interface do usuário.
+
+* Atualizações acionadas para painéis e ativos da web interativos.
+
+* Integração em fluxos de RPA (Automação de Processos Robóticos).
+
+* Extração programada de componentes de interface do usuário da web para aplicativos empresariais.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

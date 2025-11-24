@@ -47,7 +47,51 @@ MHTMLファイルをODSに変換するときに、出力ODSファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをODS（OpenDocument Spreadsheet）に変換すると、ウェブテーブルの書式を保持しながら、堅牢でクロスプラットフォームのスプレッドシート編集が可能になります。ODSは共同作業環境やオープンソースのワークフローに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* ODSファイルとしてアーカイブされた企業のパフォーマンスダッシュボード。
+
+* ウェブデータから派生した共同予算追跡テンプレート。
+
+* オンラインコース教材からの教育用スプレッドシート。
+
+* オープンソースのスプレッドシートエディタにインポートされた統計データセット。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 複数部門間でデータ共有するための自動化されたMHTMLからODSへのパイプライン。
+
+* 定期的な財務および営業レポートのためのトリガーされたODS生成。
+
+* ライブデータの更新に対応するオープンソースオフィススイートとの統合。
+
+* 過去の分析のためにアーカイブされたウェブテーブルをODSに一括変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

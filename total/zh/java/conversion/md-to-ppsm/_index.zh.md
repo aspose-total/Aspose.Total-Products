@@ -59,7 +59,55 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MD（Markdown）转换为PPSM（宏启用的PowerPoint幻灯片放映）结合了自动运行幻灯片放映功能和自动化。PPSM支持用于定时内容、动态更新和交互体验的VBA宏。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 使用宏驱动的PPSM幻灯片的自动化亭台。
+
+* 从MD内容设计的交互式培训循环。
+
+* 从Markdown简报中获取的自动定时产品展示。
+
+* 使用宏启用的幻灯片放映的动态零售或活动展示。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 由Markdown更改触发的工作流驱动的PPSM制作。
+
+* 用于企业显示系统的宏启用幻灯片生成。
+
+* 从MD存储库自动更新亭台内容。
+
+* 针对零售或博览会连锁店的批量PPSM创建。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

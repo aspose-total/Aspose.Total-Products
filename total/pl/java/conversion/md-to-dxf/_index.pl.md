@@ -57,7 +57,55 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz DXF z
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja Markdown (MD) na DXF (Drawing Exchange Format) przekształca strukturalne diagramy i schematy w pliki wektorowe kompatybilne z CAD. DXF jest idealny dla przemysłu inżynieryjnego, architektonicznego i produkcji, które wymagają precyzyjnych ilustracji opartych na liniach.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Eksportowanie diagramów Markdown do gotowych do użycia w CAD rysunków DXF.
+
+* Konwertowanie schematów i schematów dla dokumentacji inżynieryjnej.
+
+* Przygotowywanie ilustracji architektonicznych lub mechanicznych z notatek Markdown.
+
+* Dzielenie się diagramami technicznymi z współpracownikami za pomocą oprogramowania CAD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja MD na DXF dla zespołów inżynieryjnych i projektowych.
+
+* Integracja z automatyzowanymi potokami projektowymi dla szybkiego prototypowania.
+
+* Zaplanowane eksporty DXF do systemów dokumentacji technicznej.
+
+* Wywoływane generowanie gotowych do użycia w CAD ilustracji z repozytoriów Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

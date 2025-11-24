@@ -59,7 +59,55 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MD (Markdown) إلى PPTM (Macro-Enabled PowerPoint) يعزز قدرات العرض التقديمي من خلال دمج المحتوى الذي تم الحصول عليه من MD مع التشغيل التلقائي الذي يعتمد على الماكرو. تدعم ملفات PPTM التلاعب الديناميكي بالشرائح، وربط البيانات، والتفاعلات المنصوص عليها بالسكربت.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* العروض المالية التلقائية التي تم إنشاؤها من بيانات المصدر MD.
+
+* لوحات القيادة الديناميكية باستخدام الماكرو التي تم إنشاؤها من تقارير Markdown.
+
+* وحدات التدريب التفاعلية التي تم إنشاؤها من وثائق MD.
+
+* عروض البيع التي تم تمكينها بالماكرو المستمدة من ملفات منتج Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* خطوط أنابيب CI/CD التي تولد مجموعات PPTM لفرق التقارير.
+
+* عروض تقديمية ممكنة بالماكرو تحديث تلقائياً المستمدة من مستودعات.
+
+* إنشاء PPTM دفعي لأنظمة التدريب الشركات.
+
+* توليد مجدول لوحات قائمة على PPTM باستخدام إدخالات Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

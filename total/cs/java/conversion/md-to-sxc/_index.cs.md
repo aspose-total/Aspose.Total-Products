@@ -47,7 +47,55 @@ Při převodu souboru MD na SXC můžete také přidat vodoznak do výstupního 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MD (Markdown) na SXC (StarOffice Calc) přináší výhody organizacím, které stále používají zastaralé prostředí tabulkových procesorů StarOffice/OpenOffice. SXC podporuje vzorce, struktury listů a formátování buněk kompatibilní s staršími kancelářskými ekosystémy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Migrace Markdown tabulek do zastaralých tabulek SXC.
+
+* Aktualizace starších podnikových systémů s daty z MD.
+
+* Generování souborů SXC pro zastaralé, ale stále funkční platformy.
+
+* Příprava inženýrských záznamů z Markdown do klasických tabulkových formátů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod MD na SXC pro archivační obchodní nástroje.
+
+* ETL propojení pro zastaralý vládní nebo průmyslový software.
+
+* Noční produkce SXC z repozitářů Markdown.
+
+* Spuštění generování SXC pro zpětně kompatibilní pracovní postupy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

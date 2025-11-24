@@ -47,7 +47,55 @@ Trong khi chuyển đổi tệp MD sang TSV, bạn cũng có thể thêm hình m
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi Markdown (MD) sang TSV (Tab-Separated Values) giúp tạo ra các bộ dữ liệu sạch, an toàn với dấu phân cách, lý tưởng cho các nhà phát triển, nhóm BI và các đường ống học máy. Các tệp TSV bảo toàn khoảng trắng và hoạt động tốt cho các bộ dữ liệu chứa dấu phẩy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xuất các bộ dữ liệu Markdown sang TSV để tiền xử lý ML.
+
+* Nhập các bản ghi được tạo bằng MD vào các luồng công việc khoa học dữ liệu.
+
+* Tạo các trích xuất dữ liệu dựa trên TSV cho việc phát triển API.
+
+* Biến các danh sách kiểm tra Markdown thành các bộ dữ liệu có cấu trúc tab.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi dữ liệu bảng MD theo đường ống thành TSV.
+
+* Xuất hàng loạt cho các hệ thống tiếp nhận dữ liệu AI.
+
+* Tạo ra các bộ dữ liệu TSV định kỳ cho việc kiểm thử tích hợp backend.
+
+* Tạo ra các luồng cấp dữ liệu TSV tự động từ nội dung Markdown trong kho lưu trữ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

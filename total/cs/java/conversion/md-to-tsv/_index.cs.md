@@ -47,7 +47,55 @@ Při převodu souboru MD na TSV můžete také přidat vodoznak do výstupního 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod Markdown (MD) na TSV (hodnoty oddělené tabulátorem) umožňuje čisté exporty dat bezpečné pro oddělovače, ideální pro vývojáře, týmy BI a potrubí strojového učení. Soubory TSV zachovávají mezerování a dobře fungují pro datasety obsahující čárky.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Exportování datových sad Markdown do TSV pro předzpracování ML.
+
+* Importování záznamů vytvořených v MD do pracovních postupů datové vědy.
+
+* Vytváření extraktů dat založených na TSV pro vývoj API.
+
+* Převádění kontrolních seznamů Markdownu na datové sady strukturované do tabulek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Transformace tabulek MD řízená potrubím do TSV.
+
+* Hromadné exporty pro systémy zpracování dat AI.
+
+* Pravidelná generace TSV pro testování integrace backendu.
+
+* Automatizované zdroje TSV vytvořené z obsahu repozitáře Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,33 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+تحويل MD (Markdown) إلى PPSM (عرض تقديمي لبرنامج PowerPoint ممكّن بالماكرو) يجمع بين وظيفة عرض تقديمي تلقائي مع التأتير. يدعم PPSM ماكرو VBA للمحتوى الموقت، والتحديثات الديناميكية، والتجارب التفاعلية.
+
+## {{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+* أجهزة الكيوسك التلقائية بشرائح PPSM مدعومة بالماكرو.
+
+* حلقات تدريب تفاعلية مصممة من محتوى MD.
+
+* عروض منتجات موقتة تلقائيًا مستمدة من ملخصات Markdown.
+
+* عروض تجارية أو فعاليات ديناميكية باستخدام عروض تقديمية ممكّنة بالماكرو.
+
+## {{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+* إنتاج PPSM مدفوع بسيناريو العمل ناتج عن تغييرات Markdown.
+
+* إنشاء عروض تقديمية ممكّنة بالماكرو لأنظمة العرض الشركية.
+
+* تحديثات تلقائية لمحتوى الكيوسك من مستودعات MD.
+
+* إنشاء دفعة من عروض PPSM لشبكات التجزئة أو المعارض.
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,55 @@ POTMファイルをXLTMに変換するときに、出力XLTMファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**POTMをXLTMに変換**すると、マクロが有効化されたExcelテンプレートファイルが生成され、スライドベースのロジックやレイアウトを動的なスプレッドシートテンプレートに移行できます。これは、Excelの自動化に依存する組織が、PowerPointベースの構造から始める場合に特に役立ちます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* プレゼンテーション駆動型のワークフローをマクロが有効化されたExcelテンプレートに変換する。
+
+* 変換されたテンプレート構造を使用して自動化されたデータ入力フォームを作成する。
+
+* 予測や監査のための部門ごとのXLTMテンプレートを設計する。
+
+* POTMロジックをスプレッドシートの自動化の基盤として再利用する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 企業のPOTMライブラリからXLTMテンプレートを一括生成する。
+
+* 更新されたマクロが有効化されたExcelテンプレートを定期的に展開する。
+
+* XLTMの作成を高度なレポーティングや計画システムに統合する。
+
+* プレゼンテーションテンプレートが修正されたときに自動的に変換をトリガーする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

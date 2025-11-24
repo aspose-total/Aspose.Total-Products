@@ -102,7 +102,55 @@ otherformats: ODS XLT TSV XLTX XLSM MD XLTM FODS XLAM XLSB CSV DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MHTML ל-SXC (גיליון עבודה של StarOffice) מאפשרת למשתמשים הישנים של StarOffice לשמור נתוני אינטרנט בפורמטי גיליון עבודה תואמים. אידיאלי עבור זרימות עבודה של חבילת המשרד הישנה וצרכי הארכיון ההיסטורי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ארכוב טבלאות שנוצרו באינטרנט עבור סביבות העבודה הישנות של StarOffice.
+
+* שיתוף תבניות גיליון עבודה בין חבילות המשרד הישנות והמודרניות.
+
+* דיווח על נתונים היסטוריים לצורכי ביקורת תקנית.
+
+* העברת תוצאות סקרים מקוונים ל-SXC לצורך ניתוח מחקר.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* צינורות המרה מתוזמנים עבור דיווחי SXC מבוססי אינטרנט.
+
+* עיבוד צורב של טבלאות MHTML לפורמטי גיליון עבודה ישנים.
+
+* ארכיבה אוטומטית לצורך תאימות רגולטיבית.
+
+* שילוב עם מערכות המשרד הישנות הדורשות קלט SXC.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

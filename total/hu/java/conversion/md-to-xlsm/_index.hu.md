@@ -47,7 +47,55 @@ A MD-fájl XLSM-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLSM-f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) átalakítása XLSM formátumra (Makróval bővített Excel Munkafüzet) automatizálási lehetőségeket nyit meg a táblázatkezelő munkafolyamatokban. Az XLSM támogatja a VBA makrókat, így ideális dinamikus jelentések és automatizált számítások készítésére.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Makróval meghajtott vezérlőpultok létrehozása Markdown bemeneti táblázatokból.
+
+* Az MD terméktáblázatokból származó költségkalkulátorok automatizálása.
+
+* Az XLSM-alapú munkafolyamat-automatizálás Markdown struktúrákból.
+
+* Mérnöki táblázatok készítése MD jegyzetekből létrehozott makrókkal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Az MD → XLSM automatizált generálása CI munkafolyamatokban.
+
+* Időzített makróval bővített táblázatok létrehozása műveletekhez.
+
+* Átalakítási csövek dinamikusan generált XLSM jelentésekkel.
+
+* Az automatizált pénzügyi táblázatrendszerekbe történő Markdown források integrálása.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

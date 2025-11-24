@@ -72,7 +72,49 @@ otherformats: PS ODT PCL DOTM DOT RTF MARKDOWN FLATOPC WORDML DOCM DOTX OTT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת Markdown (MD) ל-XAMLFLOW מאפשרת יצירת תרשימים אינטראקטיביים מבוססי זרימה ופריסות אפליקציות באמצעות סימון XAML. אידיאלי עבור ויזואליזציה של תוכנה, פרוטוטייפינג של ממשק משתמש ותיעוד של תהליכי עבודה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* בניית תרשימי זרימה אינטראקטיביים מתיעוד Markdown.
+* פרוטוטייפ של תהליכי עבודה של אפליקציות WPF באמצעות תוכן Markdown.
+* תרגום של הערות תהליכים טכניות לוויזואליזציות של XAMLFlow.
+* הטמעת תהליכי עבודה שנוצרו באמצעות Markdown בתצוגות אפליקציה אינטראקטיביות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* צינורות עבודה אוטומטיים מ-MD ל-XAMLFLOW עבור צוותי פיתוח.
+* יצירת זרימות אינטראקטיביות בצורה צפופה מהערות Markdown.
+* עדכונים מתוזמנים של תרשימי זרימה בתיעוד תוכנה.
+* שילוב עם CI/CD להמרת תקצירי תהליכי Markdown לרכיבי XAMLFLOW.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

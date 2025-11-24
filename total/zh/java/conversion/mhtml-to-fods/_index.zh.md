@@ -49,7 +49,55 @@ otherformats: MD SXC FODS TSV XLT TXT XLSB XLSM EXCEL DIF XLAM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML转换为FODS（Flat OpenDocument Spreadsheet）可创建适用于LibreOffice或OpenOffice的开放式基于XML的电子表格文件。FODS非常适合轻量级、便携式数据存档。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 存档基于Web的表格报告，以便跨平台编辑。
+
+* 为协作团队准备开源电子表格模板。
+
+* 将在线财务仪表板转换为便携式FODS文件。
+
+* 与非Excel用户共享结构化的Web数据。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时进行MHTML到FODS的转换，用于开源办公流程。
+
+* 批量处理在线表格，生成可编辑的FODS文件。
+
+* 触发自动转换以用于Web监控系统。
+
+* 集成到需要FODS模板的协作平台中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

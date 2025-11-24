@@ -57,7 +57,51 @@ L'API vous permet également d'exporter le fichier MHTML vers DXF dans un seul f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de MHTML en DXF (Drawing Exchange Format) transforme les diagrammes basés sur le web en fichiers vectoriels compatibles avec les logiciels de CAO. Le DXF est idéal pour les architectes, ingénieurs et designers nécessitant précision et éditabilité.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Extraction de diagrammes ou schémas d'ingénierie à partir d'archives web.
+
+* Transformation de plans d'étage basés sur le web en dessins CAO modifiables.
+
+* Conversion d'illustrations techniques pour des projets architecturaux.
+
+* Préparation de diagrammes vectoriels pour la fabrication ou le prototypage.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de diagrammes prêts pour la CAO en ligne en DXF.
+
+* Génération de DXF déclenchée pour des flux de travail d'ingénierie collaboratifs.
+
+* Intégration dans les pipelines de logiciels de conception et de simulation.
+
+* Archivage planifié de schémas provenant du web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

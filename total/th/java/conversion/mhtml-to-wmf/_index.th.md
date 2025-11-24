@@ -57,7 +57,55 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML เป็นไฟล์ WMF (Windows Metafile) ที่แปลงกราฟิกเวกเตอร์บนเว็บให้กลายเป็นไฟล์เวกเตอร์ของ Windows ที่สามารถแก้ไขได้ ไฟล์ WMF เหมาะสำหรับระบบเก่าและแอปพลิเคชันสำนักงานที่ต้องการภาพเวกเตอร์ที่สามารถปรับขนาดได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* เก็บถาพขั้นตอนการทำงานบนเว็บเพื่อนำไปใช้ในเอกสารสำนักงาน
+
+* แปลงแผนภาพกระแสและภาพประกอบสำหรับงานนำเสนอ
+
+* เตรียมสินทรัพย์เวกเตอร์สำหรับการพิมพ์หรือเอกสาร
+
+* สร้างกราฟิกเว็บสำหรับรายงานของบริษัท
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* สร้างไฟล์ WMF จำนวนมากจากเนื้อหาบนเว็บ
+
+* การสร้างเวลาเฉพาะเพื่อระบบรายงานอัตโนมัติ
+
+* การนำเข้าเข้าสู่กระบวนการทำงานอัตโนมัติในสำนักงาน
+
+* การแปลงกราฟิกเวกเตอร์บนเว็บเมื่อมีการเรียกใช้สำหรับงานนำเสนอ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

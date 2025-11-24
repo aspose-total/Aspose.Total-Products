@@ -102,7 +102,51 @@ otherformats: XLT TSV EXCEL ODS MD XLSB XLTM CSV XLSM TXT XLTX SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML ל־DIF (פורמט החלפת נתונים) מאפשר ייבוא של נתוני טבלה מבוססי אינטרנט ליישומי גיליון נתונים מורשים וכלים סטטיסטיים מתמחים. DIF מבטיח סט נתונים מובנה ונייד בין פלטפורמות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייבוא של נתוני אינטרנט היסטוריים לתוך תוכנות ניתוח סטטיסטי.
+
+* שיתוף תוכן טבלאי מבוסס אינטרנט בין חבילות משרד לא תואמות.
+
+* המרת נתוני סקר מקוונים ל־DIF לצורך מחקר אקדמי.
+
+* ארכיבת לוחות מחוות מבוססי אינטרנט של חברות לצורך תאימות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת DIF מתוזמנת למערכות דיווח מורשות.
+
+* המרה צמודה של טבלאות אינטרנט לזרימת עבודה צולבת פלטפורמות.
+
+* חילוץ DIF אוטומטי לעדכוני נתוני סקר חוזרים.
+
+* יצירת DIF בהפעלה עבור מטרות ארכיבה ובדיקה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

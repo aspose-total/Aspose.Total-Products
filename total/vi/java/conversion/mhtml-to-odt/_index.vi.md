@@ -129,7 +129,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MHTML sang ODT (Văn bản OpenDocument) cho phép chỉnh sửa trên nhiều nền tảng nội dung web trong LibreOffice hoặc OpenOffice. Định dạng này lý tưởng cho quy trình làm việc mã nguồn mở và chỉnh sửa tài liệu cộng tác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Nội dung web được lưu trữ dưới dạng hướng dẫn và hướng dẫn ODT có thể chỉnh sửa.
+
+* Tài liệu dự án cộng tác trong các bộ ứng dụng văn phòng mã nguồn mở.
+
+* Tài liệu giáo dục và bảng làm việc được chuyển đổi từ trang web.
+
+* Chuẩn bị tài liệu đa ngôn ngữ bằng cách sử dụng ODT cho các nhóm toàn cầu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt các bản lưu trữ dựa trên MHTML sang các tệp ODT cho các nhóm phân tán.
+
+* Tích hợp với các nền tảng CMS mã nguồn mở để tạo tài liệu tự động.
+
+* Chuyển đổi theo lịch trình để theo dõi và báo cáo nội dung web.
+
+* Cập nhật tự động hướng dẫn từ các nguồn web thay đổi thường xuyên.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

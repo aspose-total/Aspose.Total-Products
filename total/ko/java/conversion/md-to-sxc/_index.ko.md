@@ -47,7 +47,55 @@ MD 파일을 SXC로 변환하는 동안 출력 SXC 파일 형식에 워터마크
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (마크다운)를 SXC (StarOffice Calc)로 변환하면 여전히 레거시 StarOffice/OpenOffice 스프레드시트 환경을 사용하는 조직에 이점이 있습니다. SXC는 이전 오피스 생태계와 호환되는 수식, 시트 구조 및 셀 서식을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 마크다운 테이블을 레거시 SXC 스프레드시트로 이관하기.
+
+* MD 기반 데이터로 이전 엔터프라이즈 시스템 업데이트하기.
+
+* 사용 가능하지만 아직 작동 중인 플랫폼용 SXC 파일 생성하기.
+
+* 엔지니어링 로그를 마크다운에서 클래식 스프레드시트 형식으로 준비하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 보관용 비즈니스 도구를 위한 일괄적인 MD에서 SXC로 변환.
+
+* 레거시 정부 또는 산업 소프트웨어용 ETL 연결.
+
+* 매일 밤 마크다운 저장소에서 SXC 제작.
+
+* 하위 호환 워크플로우를 위한 트리거된 SXC 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

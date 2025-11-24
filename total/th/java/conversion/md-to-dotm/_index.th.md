@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MD (Markdown) เป็น DOTM (Macro-Enabled Template) ช่วยให้การแก้ไขข้อความเบาหนักรวมกับเทมเพลต Word ที่มีการปรับปรุงด้วยแมโครซ้อนอยู่ การใช้เทมเพลต DOTM ช่วยให้ทีมสามารถอัตโนมัติงานเอกสารที่ซ้ำซ้อนและสร้างเอกสารที่มีแมโครได้ทันที
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้างเทมเพลตการบรรจุแมโครจาก Markdown playbooks
+
+* สร้างเทมเพลตใบแจ้งหนี้หรือแบบฟอร์มโดยมีแหล่งที่มาจากเนื้อหา MD
+
+* กรอบเอกสารขององค์กรที่มีการแทรกฟิลด์โปรแกรมได้
+
+* สร้างเทมเพลตที่เป็นมาตรฐานสำหรับอัตโนมัติจากเอกสารเทคนิค
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* สร้างเทมเพลต DOTM อัตโนมัติสำหรับรอบการรายงานขนาดใหญ่
+
+* การผสานรวมกับเครื่องมือสร้างกระบวนการทำงานที่เรียกใช้การสร้าง MD เป็น DOTM
+
+* สร้างเทมเพลตที่มีแมโครสำหรับแผนกที่กระจายอย่างอัตโนมัติด้วยคลิกเดียว
+
+* การแทรกเนื้อหาแบบไดนามิกอัตโนมัติขณะการสร้างเทมเพลตใหม่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

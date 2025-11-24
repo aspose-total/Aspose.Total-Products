@@ -61,7 +61,51 @@ POTXファイルをXLSBに変換するときに、出力XLSBファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**POTXをXLSBに変換**すると、高性能な計算と大規模なデータ操作に最適化されたExcelバイナリワークブックファイルが出力されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* POTXから軽量なバイナリスプレッドシートを作成する。
+
+* 大規模なテンプレートから派生したデータセットを効率的に管理する。
+
+* アナリスト向けのパフォーマンス重視のExcelファイルを準備する。
+
+* POTXテーブルコンテンツをコンパクトなバイナリ形式でアーカイブする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 分析部門や財務部門向けのバッチXLSBエクスポート。
+
+* テンプレートが更新されたときにトリガーに基づいてバイナリファイルを作成。
+
+* 大量処理のためのスケジュール変換。
+
+* 計算用のExcelワークフローとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

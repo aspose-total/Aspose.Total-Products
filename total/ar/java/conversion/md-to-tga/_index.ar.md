@@ -57,7 +57,55 @@ otherformats: IMAGE WMF TGA WMZ SVGZ EMZ  PSD DXF JPEG2000 DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل Markdown (MD) إلى TGA (صورة Targa) ينشئ رسومات نقطية عالية الجودة تستخدم عمومًا في إنتاج الفيديو، الألعاب، أو الرسوم الهندسية. يدعم TGA قنوات ألفا وإخراج غير مضغوط لتمثيل دقيق.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير الرسوم البيانية القائمة على Markdown لتراكيب الفيديو أو أصول الألعاب.
+
+* رسومات عالية الدقة للوثائق الهندسية.
+
+* إنشاء صور ذات قناة ألفا من تصورات Markdown.
+
+* إنشاء رسوم توضيحية تقنية غير مضغوطة لمواد العرض.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* إنشاء TGA تلقائيًا من مستودعات Markdown لسلاسل الإنتاج الإبداعي.
+
+* تصدير دفعي للرسوم البيانية لإنتاج الفيديو أو الوثائق الفنية.
+
+* تحويل مجدول للرسوم البيانية من Markdown لمشاريع المحاكاة أو الألعاب.
+
+* دمج مع أنظمة إدارة المحتوى لإخراج الرسوم البيانية TGA تلقائيًا.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

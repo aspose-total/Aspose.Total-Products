@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）をWordprocessingML（WordML）に変換することで、企業システム、CMSプラットフォーム、および文書エンジニアリングパイプラインに最適な構造化されたXMLベースのWord文書が作成されます。WordMLは、機械生成された文書のレイアウト、タグ、およびデータバインディングに対して正確な制御を提供します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* MarkdownドキュメントをXML駆動のWordML構造に移行すること。
+
+* MDから生成された構造化されたレポートを自動化された文書システム用に作成すること。
+
+* Markdownテキストから直接作成されたデータバインディング対応の技術ファイルを作成すること。
+
+* 企業向けCMSプラットフォームがMDコンテンツをWordML互換のテンプレートに変換すること。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* システム生成のWordファイルのためのXMLパイプライン生成。
+
+* API駆動の文書エンジンにフィードされる自動化されたMarkdown変換。
+
+* リポジトリMarkdownからのWordMLアーカイブの一括作成。
+
+* XMLベースのレポーティングのための検証ワークフローとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

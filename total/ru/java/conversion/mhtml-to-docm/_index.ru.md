@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов MHTML (MIME HTML) в файлы DOCM (документы Word с поддержкой макросов) сохраняет веб-контент вместе с интерактивными макросами для автоматизированных рабочих процессов. Файлы DOCM необходимы для автоматизации бизнес-процессов, расширенной отчетности и динамического создания документов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Автоматическое создание отчетов компании на основе контента, полученного с веб-сайтов.
+
+* Интерактивные обучающие модули с встроенными макросами для обучения в режиме онлайн.
+
+* Документация бизнес-процессов с интеграцией живых веб-данных.
+
+* Шаблоны управления проектами с возможностью перехода по макросам на дашбордах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование архивированных отчетов MHTML в файлы DOCM с поддержкой макросов.
+
+* Интеграция с системами ERP для обновления документов в реальном времени.
+
+* Запуск макросов после преобразования веб-контента.
+
+* Автоматическое создание повторяющихся бизнес-шаблонов из источников MHTML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

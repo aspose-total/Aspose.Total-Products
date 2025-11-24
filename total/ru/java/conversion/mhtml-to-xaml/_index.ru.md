@@ -135,7 +135,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MHTML в XAML (Extensible Application Markup Language) позволяет преобразовывать веб-векторы и графику пользовательского интерфейса в компоненты пользовательского интерфейса, совместимые с Windows, а также масштабируемую визуализацию.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование веб-диаграмм в XAML для приложений WPF.
+
+* Архивирование веб-макетов пользовательского интерфейса для разработки программного обеспечения.
+
+* Подготовка интерактивных панелей управления для настольных приложений.
+
+* Извлечение векторной графики для проектов пользовательского интерфейса Windows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование содержимого MHTML в XAML для разработки приложений.
+
+* Запланированные конвейеры для преобразования веб-прототипов пользовательского интерфейса.
+
+* Автоматическое создание XAML для интеграции в приложения WPF.
+
+* Автоматическое архивирование веб-векторного контента для команд разработки программного обеспечения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

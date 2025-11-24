@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi Markdown (MD) thành OTT (OpenDocument Text Template) hỗ trợ tạo mẫu có thể mở rộng cho các bộ văn phòng mã nguồn mở. Các mẫu OTT duy trì định dạng nhất quán trong khi cho phép các nhóm tạo nhiều tài liệu từ một nền tảng kiểu ổn định.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tạo mẫu OTT cho sản xuất tài liệu đa ngôn ngữ.
+
+* Xây dựng mẫu báo cáo có cấu trúc từ hướng dẫn dựa trên Markdown.
+
+* Chuẩn hóa tài liệu văn phòng cho môi trường mã nguồn mở.
+
+* Tạo định dạng tài liệu ODT có thể tái sử dụng cho tổ chức phi chính phủ hoặc cơ quan công cộng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tự động hóa việc tạo ra OTT trong quy trình xuất bản mã nguồn mở.
+
+* Cập nhật mẫu đồng bộ từ kiểm soát phiên bản Markdown.
+
+* Sản xuất hàng loạt bộ mẫu cho các nhóm phân tán sử dụng LibreOffice.
+
+* Hệ thống chính phủ hoặc phi lợi nhuận tạo ra mẫu OTT theo lịch trình.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

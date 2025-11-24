@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek EMZ podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML na EMZ (Komprimovaný Windows Enhanced Metafile) zachovává vektorovou grafiku z webových stránek ve formátu vhodném pro prezentace a dokumenty.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Archivace webových organizačních schémat a diagramů ve formátu EMZ.
+
+* Vložení komprimované grafiky do prezentací v Microsoft Office.
+
+* Sdílení škálovatelných ilustrací mezi týmy bez velkých souborů.
+
+* Zachování vektorových grafů pro firemní zprávy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná konverze EMZ z archivů MHTML pro pracovní postupy s dokumenty.
+
+* Spouštěné kompresní potrubí pro doručování škálovatelné grafiky.
+
+* Integrace s systémy správy obsahu pro automatizované aktualizace.
+
+* Plánovaná generace pro prezentovatelná vektorová aktiva.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

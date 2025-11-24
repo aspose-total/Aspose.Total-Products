@@ -47,7 +47,55 @@ MD 파일을 CSV로 변환하는 동안 출력 CSV 파일 형식에 워터마크
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) 파일을 CSV로 변환하면 팀이 구조화된 텍스트, 표 및 목록을 보편적으로 호환되는 스프레드시트 데이터로 변환할 수 있습니다. CSV 파일은 분석 워크플로, 데이터베이스 가져오기 및 가벼운 크로스 플랫폼 데이터 교환에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 분석을 위해 Markdown 표를 CSV 데이터 세트로 내보내기.
+
+* MD 기반의 가격 시트를 회계 도구로 가져오기.
+
+* 개발자 Markdown 로그를 정렬 가능한 CSV 파일로 변환하기.
+
+* 문서 테이블을 CRM 및 ERP 시스템으로 이관하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* ETL 작업이 매일 Markdown을 CSV로 변환.
+
+* CSV 입력이 필요한 대시보드를 위한 자동 변환.
+
+* 기계 학습 전처리 파이프라인을 위한 일괄 내보내기.
+
+* Markdown 기반 보고서로부터 CSV 생성하는 워크플로 트리거.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

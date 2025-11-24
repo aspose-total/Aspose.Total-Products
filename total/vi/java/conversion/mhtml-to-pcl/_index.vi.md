@@ -129,7 +129,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MHTML sang PCL (Ngôn ngữ Lệnh Máy In) cho phép nội dung web được gửi trực tiếp đến máy in theo định dạng chuẩn, đảm bảo đầu ra tài liệu nhất quán trên các thiết bị.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* In các báo cáo web lưu trữ trên các hệ thống máy in doanh nghiệp.
+
+* Chuyển đổi các biểu mẫu và hóa đơn trực tuyến cho quy trình in trực tiếp.
+
+* In hàng loạt tài liệu tiếp thị từ trang web.
+
+* Đảm bảo bố cục nhất quán cho việc phân phối tài liệu doanh nghiệp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi MHTML sang PCL theo lịch trình cho các công việc in tự động.
+
+* Tích hợp in hàng loạt cho các hệ thống tài liệu doanh nghiệp.
+
+* Quy trình kích hoạt cho việc in hóa đơn trên web.
+
+* Tích hợp với các nền tảng tự động hóa văn phòng và in ấn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

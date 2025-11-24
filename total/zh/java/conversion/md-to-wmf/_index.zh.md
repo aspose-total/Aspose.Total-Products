@@ -57,7 +57,55 @@ otherformats: PSD JPEG2000 WMZ SVGZ IMAGE EMZ TGA  WMF DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为WMF（Windows Metafile）可生成与旧版Windows应用程序兼容的基于矢量的图形。WMF文件保持基于线条的精度，适用于图表、图表和框图。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 为旧版Windows应用程序导出Markdown流程图。
+
+* 将技术表格转换为可缩放的WMF图表。
+
+* 将图表嵌入支持WMF的旧版办公软件中。
+
+* 保留Markdown内容中基于线条的插图。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于存档或兼容性目的的自动化WMF生成。
+
+* 批量将基于Markdown的视觉元素转换为旧版系统。
+
+* 定期更新文档门户的图表。
+
+* 与生成企业报告的WMF图形的流水线集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

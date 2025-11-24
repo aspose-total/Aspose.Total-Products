@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti TGA-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MHTML átalakítása TGA (Targa) formátumba magas minőségű rácsképeket eredményez, amelyeket gyakran használnak 3D modellezéshez, játékokhoz vagy tudományos vizualizációhoz. A TGA megőrzi a színmélységet és az alfa csatornákat a fejlett felhasználás érdekében.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsszerepek" %}}
+
+
+
+* Webes textúrák kinyerése 3D modellekhez vagy szimulációkhoz.
+
+* Tudományos vizualizációk vagy átlátszósággal rendelkező diagramok archiválása.
+
+* Webes illusztrációk átalakítása TGA formátumba a tervezési folyamatokhoz.
+
+* Rasztergrafikák előkészítése animációhoz vagy játék eszközökhöz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges TGA konverzió webes archív grafikákból.
+
+* Ütemezett folyamatok a textúrák exportálásához online irányítópultokból.
+
+* Kiváltott TGA generálás digitális eszközkezelési rendszerekhez.
+
+* Integráció animációs vagy szimulációs munkafolyamatokkal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

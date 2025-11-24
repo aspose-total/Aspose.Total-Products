@@ -47,7 +47,51 @@ MHTML 파일을 XLSM로 변환하는 동안 출력 XLSM 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML를 XLSM(매크로 활성화 Excel 워크북)으로 변환하면 웹 데이터를 보존하면서 동적 보고를 위한 고급 자동화, 수식 및 매크로가 가능해집니다. XLSM은 프로그래밍 가능한 스프레드시트가 필요한 기업에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 웹 페이지에서 파생된 자동 계산을 갖춘 재무 템플릿.
+
+* 매크로로 구동되는 데이터 업데이트가 있는 프로젝트 추적 대시보드.
+
+* 대화식 비즈니스 보고용 스프레드시트.
+
+* 엑셀 매크로로 내보낸 온라인 설문 또는 KPI 대시보드.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 반복 보고서를 위한 트리거된 MHTML-to-XLSM 변환.
+
+* 웹 소스 테이블에서 자동으로 매크로 생성.
+
+* ERP 및 BI 시스템과 통합하여 라이브 엑셀 보고.
+
+* 여러 온라인 대시보드를 XLSM으로 일괄 처리.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

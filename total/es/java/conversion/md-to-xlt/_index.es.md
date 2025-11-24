@@ -47,7 +47,55 @@ Al convertir un archivo MD a XLT, también puede agregar una marca de agua a su 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversión de MD (Markdown) a XLT (plantilla de Excel) permite a los equipos generar plantillas de Excel reutilizables con un estilo y diseño consistentes. Los archivos XLT ayudan a las organizaciones a estandarizar la creación de documentos manteniendo el contenido fuente en Markdown.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Creación de plantillas de informes estructurados a partir de pautas de MD.
+
+* Producción de plantillas de hojas de cálculo con la marca de la empresa.
+
+* Conversión de procedimientos operativos estándar en Markdown en plantillas de Excel listas para usar.
+
+* Hojas de entrada de datos basadas en plantillas obtenidas de guías de MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Regeneración automatizada de plantillas XLT a partir de MD controlado por versiones.
+
+* Creación de plantillas por lotes para departamentos empresariales.
+
+* Creación de plantillas impulsada por ETL para necesidades de informes estructurados.
+
+* Flujos de trabajo de distribución de plantillas basados en franquicias o sucursales.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

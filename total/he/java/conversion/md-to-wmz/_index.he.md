@@ -81,7 +81,55 @@ otherformats: IMAGE  JPEG2000 TGA APNG SVGZ PSD DXF WMF EMZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת Markdown (MD) ל- WMZ (קובץ מטמון מטאפייל של Windows) מאפשרת שיתוף גרפיקה וקטורית בפורמט קומפקטי. WMZ הוא אידיאלי להפצת תרשימים, טבלאות ואיורים בלי לאבד איכות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת איורים וקטוריים דחוסים מתוך תרשימי Markdown.
+
+* שיתוף גרפיקה תואמת לגרסאות קודמות בגדלי קבצים מוקטנים.
+
+* הטמעת תרשימים טכניים בתיעוד או במצגות.
+
+* הפצת תרשימי זרימה ותכניות מוצקות המקורם ב-Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת MD ל-WMZ באופן אוטומטי עבור מערכות תיעוד.
+
+* יצירת סדרות של תרשימי וקטור מדוחסים ממאגרי Markdown.
+
+* שילוב עם צינורות ETL היוצרים גרפיקה ניידת.
+
+* עדכונים מתוזמנים של קבצי WMZ להפצה בארגונית.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

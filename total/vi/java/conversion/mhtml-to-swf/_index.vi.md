@@ -121,7 +121,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MHTML sang SWF (Shockwave Flash) biến đổi hoạt ảnh web và nội dung tương tác thành định dạng Flash để sử dụng trong đa phương tiện cũ hoặc trình bày.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Lưu trữ hướng dẫn web tương tác và hoạt ảnh.
+
+* Chuyển đổi bài thuyết trình hoặc bản demo trực tuyến thành tệp SWF.
+
+* Các mô-đun giáo dục với hoạt ảnh được xuất để sử dụng ngoại tuyến.
+
+* Nội dung tiếp thị với hình ảnh tương tác được bảo tồn từ các trang web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt định kỳ của hoạt ảnh web thành SWF.
+
+* Xuất kích hoạt cho nội dung giáo dục hoặc đào tạo ngoại tuyến.
+
+* Tích hợp với phần mềm trình bày cũ yêu cầu định dạng SWF.
+
+* Lưu trữ tự động đồ họa web tương tác.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

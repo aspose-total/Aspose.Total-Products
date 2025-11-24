@@ -121,7 +121,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをOTP（OpenDocument Presentation Template）に変換すると、ウェブコンテンツから再利用可能なプレゼンテーションテンプレートを作成できます。OTPは、一貫したスライド形式が必要なビジネスや教育機関に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* ウェブデータから派生した標準化された企業プレゼンテーションテンプレート。
+
+* オンラインリソースから生成された教育用講義テンプレート。
+
+* ウェブベースのブランディングを活用したマーケティングキャンペーンテンプレート。
+
+* 再利用可能なプロジェクト更新またはKPIダッシュボードテンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* アーカイブされたMHTMLコンテンツからOTPテンプレートを自動生成。
+
+* 定期的なプレゼンテーションニーズのためのトリガーされたテンプレート作成。
+
+* 標準化されたスライドデッキのワークフローツールへの統合。
+
+* ウェブコンテンツの一括処理による再利用可能なプレゼンテーション形式への変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

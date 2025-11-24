@@ -57,7 +57,51 @@ API также позволяет экспортировать файл MHTML в
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML в WMF (Windows Metafile) преобразует веб-векторную графику в редактируемые векторные файлы Windows. WMF идеально подходит для устаревших систем и офисных приложений, требующих масштабируемой векторной визуализации.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Архивирование веб-диаграмм для интеграции в офисные документы.
+
+* Преобразование блок-схем и иллюстраций для презентаций.
+
+* Подготовка векторных ресурсов для печати или документации.
+
+* Извлечение веб-графики для корпоративных отчетов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетная генерация WMF из веб-контента.
+
+* Запланированное извлечение для автоматизированных систем отчетности.
+
+* Интеграция в рабочие процессы офиса.
+
+* Триггерное преобразование веб-векторной графики для презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

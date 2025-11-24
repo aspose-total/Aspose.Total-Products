@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή MD (Markdown) σε WordprocessingML (WordML) επιτρέπει τη δημιουργία δομημένων εγγράφων Word βασισμένων σε XML ιδανικών για επιχειρηματικά συστήματα, πλατφόρμες CMS και διαδικασίες μηχανικής τεκμηρίωσης. Το WordML προσφέρει ακριβή έλεγχο επάνω στη διάταξη, τις ετικέτες και τη δέσμευση δεδομένων για έγγραφα που δημιουργούνται από μηχανές.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Μεταφορά τεκμηρίωσης Markdown σε δομημένες δομές WordML που τροφοδοτούνται από XML.
+
+* Δομημένες αναφορές που δημιουργούνται από MD για αυτοματοποιημένα συστήματα εγγράφων.
+
+* Τεχνικά αρχεία έτοιμα για δέσμευση δεδομένων που δημιουργούνται απευθείας από κείμενο Markdown.
+
+* Πλατφόρμες Enterprise CMS που μετατρέπουν το περιεχόμενο MD σε πρότυπα συμβατά με το WordML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Δημιουργία XML pipeline για αρχεία Word που δημιουργούνται από το σύστημα.
+
+* Αυτοματοποιημένες μετατροπές Markdown που τροφοδοτούν API-driven μηχανές εγγράφων.
+
+* Δημιουργία πακέτων WordML από αποθετήρια Markdown.
+
+* Ενσωμάτωση με ροές εργασίας επικύρωσης για αναφορές βασισμένες σε XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

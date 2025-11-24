@@ -49,7 +49,55 @@ otherformats: DIF EXCEL TXT XLTM SXC XLT XLTX XLSM XLSB FODS XLAM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）转换为SXC（StarOffice Calc）有助于仍在使用传统StarOffice/OpenOffice电子表格环境的组织。SXC支持与旧办公生态系统兼容的公式、工作表结构和单元格格式。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将Markdown表格迁移到传统SXC电子表格中。
+
+* 使用基于MD的数据更新旧企业系统。
+
+* 为已过时但仍在运行的平台生成SXC文件。
+
+* 将Markdown中的工程日志准备成经典电子表格格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将MD转换为SXC以用于存档业务工具。
+
+* 用于传统政府或工业软件的ETL连接。
+
+* 每晚从Markdown存储库生成SXC文件。
+
+* 为向后兼容工作流程触发SXC生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

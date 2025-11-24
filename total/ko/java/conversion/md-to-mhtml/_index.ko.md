@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) 파일을 MHTML(웹 아카이브)로 변환하면 포맷, 이미지 및 링크를 포함한 전체 문서를 하나의 웹용 파일로 패키징할 수 있습니다. MHTML 파일은 Markdown 콘텐츠를 브라우저 간에 공유하거나 문서를 아카이빙하고 휴대용 웹 페이지를 배포하는 데 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 자체 포함 웹 페이지로 Markdown 문서 아카이빙.
+
+* 모든 브라우저에서 오프라인으로 읽을 수 있는 휴대용 보고서 생성.
+
+* 단일 파일 웹 아카이브로 사용자 매뉴얼이나 기술 가이드 배포.
+
+* 포함된 미디어로 Markdown 기반 프로젝트 문서 보존.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* Markdown 저장소를 MHTML로 변환하여 웹 배포하는 자동화된 매일 밤 변환.
+
+* 내부 지식 베이스 문서를 MHTML 형식으로 일괄 아카이빙.
+
+* 콘텐츠 관리 파이프라인과 통합하여 Markdown에서 MHTML 파일 생성.
+
+* 브라우저용 문서 생성을 위한 CI/CD 워크플로에서 트리거된 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

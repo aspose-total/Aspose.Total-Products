@@ -47,7 +47,55 @@ A MD-fájl FODS-vé konvertálásakor vízjelet is hozzáadhat a kimeneti FODS-f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MD (Markdown) to FODS (Flat OpenDocument Spreadsheet) konverzió szerkeszthető XML-alapú táblázatfájlokat eredményez, melyek ideálisak az open-source irodai szoftverek számára. A FODS megőrzi a cellastruktúrákat, képleteket és formázást egy teljesen szövegalapú, verzióbarát elrendezésben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Markdown adatkészletek exportálása open-source táblázatformátumokba.
+
+* Strukturált FODS fájlok létrehozása a LibreOffice felhasználói számára.
+
+* MD táblázatok importálása lapos XML táblázatokba fejlesztőcsapatok számára.
+
+* Táblázatarchívumok fenntartása szövegalapú formában.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges konverzió FODS formátumba a verziókövetés átláthatóságáért.
+
+* MD-to-FODS integrálása open-source ETL csövekbe.
+
+* Automatizált táblázat létrehozás kormányzati vagy NGO dokumentációhoz.
+
+* Trigger-alapú FODS generálás folyamatos dokumentációs munkafolyamatokban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,55 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование Markdown (MD) в POTX (шаблон PowerPoint без макросов) позволяет создавать современные, чистые шаблоны презентаций на основе легких текстовых файлов. POTX обеспечивает единообразие презентаций без зависимости от макросов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание чистых и брендовых шаблонов POTX из MD-структур.
+
+* Стандартизация корпоративных слайдов в различных отделах.
+
+* Создание маркетинговых презентаций на основе Markdown-конспектов.
+
+* Разработка академических шаблонов презентаций с использованием содержимого MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное производство POTX в документационных конвейерах.
+
+* Регенерация шаблонов с использованием Markdown в качестве исходного контента.
+
+* Пакетное распространение файлов POTX для корпоративных команд.
+
+* Плановые обновления MD в POTX в рамках рабочих процессов по брендингу.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

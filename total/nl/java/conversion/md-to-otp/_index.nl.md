@@ -59,7 +59,55 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) naar OTP (OpenDocument Presentation Template) conversie helpt organisaties bij het bouwen van herbruikbare dia-templates die consistente branding volgen terwijl bewerkbare inhoud wordt opgeslagen in Markdown. OTP-bestanden zijn lichtgewicht, flexibel en ideaal voor open-source omgevingen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het maken van gebrande OTP-templates van Markdown-inhoud.
+
+* Het bouwen van herbruikbare les-templates afkomstig van MD-lesoverzichten.
+
+* Consistente diastructuren voor NGO's en academische instellingen.
+
+* Het omzetten van Markdown-documentatie in uniforme presentatietemplates.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde OTP-templategeneratie van versiegecontroleerde MD.
+
+* Massaproductie van open-source presentatietemplates.
+
+* Regelmatig bijwerken van OTP-bestanden vanuit Markdown-opslagplaatsen.
+
+* Template-gecentreerde workflows voor gedistribueerde organisaties.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

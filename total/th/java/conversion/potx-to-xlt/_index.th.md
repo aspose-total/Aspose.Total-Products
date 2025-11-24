@@ -61,7 +61,45 @@ otherformats: TSV XLAM EXCEL FODS ODS XLS DIF XLTM XLSX SXC MHTML MARKDOWN XLTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **POTX เป็น XLT** สร้างไฟล์เทมเพลต Excel จากการออกแบบงานนำเสนอ ที่เหมาะสำหรับเลย์เอาท์สเปรดชีทมาตรฐานที่ตรงกันข้ามทีม
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้างเทมเพลตสเปรดชีทบริษัทที่สม่ำเสมอ
+* แปลงการออกแบบสไลด์แบรนด์เป็นรูปแบบ Excel ที่สามารถใช้ซ้ำได้
+* สร้างไฟล์รายงานโครงสร้างจากตาราง POTX
+* เตรียมคลังเทมเพลตสำหรับการฝึกอบรมหรือการบริหาร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างเทมเพลตเป็นกลุ่มสำหรับเอกสารองค์กร
+* การอัปเดต XLT ตามการแก้ไขการออกแบบที่เกิดขึ้น
+* การส่งออกตามกำหนดเวลาสำหรับรายงานแผนกที่เกิดซ้ำ
+* การผสานกับระบบอัตโนมัติของกระบวนการ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -59,7 +59,55 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（マークダウン）からPPTM（マクロ有効なPowerPoint）への変換により、MDソースコンテンツとマクロ駆動の自動化を組み合わせることでプレゼンテーション機能が向上します。PPTMファイルは、動的なスライド操作、データバインディング、スクリプトによる相互作用をサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* MDソースデータから構築された自動化された財務プレゼンテーション。
+
+* マクロを使用したダイナミックダッシュボードは、マークダウンレポートから作成されます。
+
+* MDドキュメントから生成されたインタラクティブなトレーニングモジュール。
+
+* 製品のマークダウンファイルから取得したマクロ有効なピッチデッキ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* レポートチーム向けにPPTMデッキを生成するCI/CDパイプライン。
+
+* リポジトリから取得したマクロ有効なプレゼンテーションの自動更新。
+
+* 企業のトレーニングシステム向けのバッチPPTM作成。
+
+* マークダウン入力を使用してスケジュールされたPPTMベースのダッシュボードの生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

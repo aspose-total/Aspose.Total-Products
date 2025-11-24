@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) in DOTM (Makrofähige Vorlage) umwandeln vereint einfache Textbearbeitung mit Word-Vorlagen, die durch eingebettete Makros verbessert werden. DOTM-Vorlagen ermöglichen es Teams, wiederkehrende Dokumentenaufgaben zu automatisieren und sofort standardisierte, makrofähige Dokumente zu erstellen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Erstellung von Makro-gesteuerten Einarbeitungsvorlagen aus Markdown-Handbüchern.
+
+* Erstellung automatisierter Rechnungs- oder Formularvorlagen aus MD-Inhalten.
+
+* Unternehmensdokumentenrahmen mit programmgesteuerten eingefügten Feldern.
+
+* Generierung wiederverwendbarer, automatisierungsfreundlicher Vorlagen aus technischer Dokumentation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisches Erstellen von DOTM-Vorlagen für umfangreiche Berichtszyklen.
+
+* Integration mit Workflow-Engines, die die MD-in-DOTM-Generierung auslösen.
+
+* Ein-Klick-Erstellung von makrofähigen Vorlagen für verteilte Abteilungen.
+
+* Automatisches Einfügen dynamischer Inhalte während der Vorlagenerneuerung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

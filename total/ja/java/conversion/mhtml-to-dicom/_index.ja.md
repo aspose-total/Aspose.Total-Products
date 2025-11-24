@@ -57,7 +57,55 @@ APIを使用すると、必要に応じて出力DICOM画像を回転させるこ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML（ウェブアーカイブ）ファイルをDICOM（医学画像通信規格）に変換することで、ウェブベースの医療画像、レポート、またはチャートを臨床画像ワークフローに統合できます。DICOMはPACSや医用画像ソフトウェアとの互換性を確保します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* ウェブベースの診断画像をDICOM形式にアーカイブする。
+
+* 病院のEMRシステム向けにオンライン医療レポートを変換する。
+
+* ウェブポータルから抽出した放射線学や超音波画像を共有する。
+
+* 臨床のウェブベースダッシュボードを画像ワークフローに統合する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* ウェブベースの医療コンテンツをDICOMにスケジュールされた一括変換。
+
+* PACS統合およびEMR更新のトリガー生成。
+
+* テレメディスンプラットフォーム向けの自動アーカイブ。
+
+* AI支援診断パイプラインへの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

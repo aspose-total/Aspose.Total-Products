@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML'yi SWF'ye (Shockwave Flash) dönüştürmek, web animasyonlarını ve etkileşimli içeriği Flash formatına dönüştürerek eski çoklu ortam veya sunum amaçlı kullanım için uygundur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Etkileşimli web öğreticileri ve animasyonların arşivlenmesi.
+
+* Çevrimiçi sunumların veya demo videolarının SWF dosyalarına dönüştürülmesi.
+
+* Animasyonlu eğitim modülleri çevrimdışı kullanım için dışa aktarılması.
+
+* Web sitelerinden korunan etkileşimli görsellerle pazarlama içeriği.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Web animasyonlarının zamanlanmış toplu dönüşümü SWF formatına.
+
+* Çevrimdışı eğitim veya eğitim içeriği için tetiklenen dışa aktarım.
+
+* SWF gerektiren eski sunum yazılımlarıyla entegrasyon.
+
+* Etkileşimli web grafiklerinin otomatik olarak arşivlenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

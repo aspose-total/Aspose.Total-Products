@@ -61,7 +61,55 @@ otherformats: ODS MHTML XLSM FODS XLT XLSX DIF XLS MARKDOWN XLTM SXC EXCEL XLSB 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **POTM转换为XLTX** 可以基于设计元素和内容从PowerPoint模板中提取，创建无宏的Excel模板。XLTX模板非常适合在团队之间进行可扩展分发，而无需宏安全限制。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从幻灯片布局结构生成无宏的Excel模板。
+
+* 创建与演示文稿品牌一致的可重复使用的业务表单。
+
+* 为人力资源、财务和项目团队开发一致性驱动的模板。
+
+* 将培训幻灯片转换为易于填写的工作表模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将新的POTM设计自动转换为XLTX模板以进行分发。
+
+* 将XLTX创建集成到全公司标准化工作流程中。
+
+* 多部门模板批量转换推出。
+
+* 用于SaaS或云模板库的自动化XLTX导出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

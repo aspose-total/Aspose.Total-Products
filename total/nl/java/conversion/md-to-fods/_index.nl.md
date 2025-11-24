@@ -47,7 +47,55 @@ Tijdens het converteren van het MD-bestand naar FODS, kunt u ook een watermerk t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) naar FODS (Flat OpenDocument Spreadsheet) conversie produceert bewerkbare op XML gebaseerde spreadsheetbestanden die ideaal zijn voor open-source kantoorpakketten. FODS behoudt celstructuren, formules en opmaak in een volledig op tekst gebaseerde, versievriendelijke lay-out.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Exporteren van Markdown-datasets naar open-source spreadsheetformaten.
+
+* Het maken van gestructureerde FODS-bestanden voor LibreOffice-gebruikers.
+
+* Importeren van MD-tabellen in platte XML-spreadsheets voor ontwikkelingsteams.
+
+* Onderhouden van spreadsheetarchieven in tekstleesbare vorm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchconversie naar FODS voor transparantie van versiebeheer.
+
+* Integratie van MD-naar-FODS binnen open-source ETL-pipelines.
+
+* Geautomatiseerde spreadsheetcreatie voor overheids- of NGO-documentatie.
+
+* Trigger-gebaseerde FODS-generatie in continue documentatieworkflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

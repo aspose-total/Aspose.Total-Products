@@ -61,7 +61,51 @@ Podczas konwertowania pliku POTX do XLAM możesz również dodać znak wodny do 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja **POTX na XLAM** pozwala tworzyć makroaktywowane dodatki do Excela, które umożliwiają osadzanie treści pochodzących z szablonów w zautomatyzowanych rozwiązaniach Excela.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Tworzenie wielokrotnego użytku dodatków do Excela na podstawie danych szablonowych.
+
+* Opracowywanie zautomatyzowanych procesów przy użyciu treści opartych na POTX.
+
+* Tworzenie dynamicznych kalkulatorów biznesowych lub narzędzi raportowania.
+
+* Osadzanie zaawansowanej logiki pochodzącej z szablonów slajdów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Generowanie zbiorcze narzędzi XLAM z konsystentnych bibliotek szablonów.
+
+* Aktualizacje dodatków wywoływane przez zdarzenia dla dynamicznego raportowania.
+
+* Zaplanowane wdrożenie arkuszy kalkulacyjnych z makrami.
+
+* Integracja z korporacyjnymi ramami automatyzacji w Excelu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

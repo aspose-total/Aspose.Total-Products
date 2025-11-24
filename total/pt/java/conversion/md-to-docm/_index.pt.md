@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A transformação de arquivos MD (Markdown) em arquivos DOCM (Documentos Habilitados para Macro do Word) permite que equipes aprimorem arquivos de texto leves com recursos de automação interativa. Os arquivos DOCM suportam macros incorporadas, tornando-os ideais para documentação orientada por fluxo de trabalho, modelos corporativos e relatórios auto-gerados que exigem ações dinâmicas dentro do Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Conversão de notas de Markdown de desenvolvedores em SOPs com macros.
+
+* Documentos de políticas habilitados para ação automática para fluxos de trabalho empresariais.
+
+* Modelos de propostas interativos construídos a partir de arquivos MD armazenados no Git.
+
+* Registros de auditoria orientados por macros gerados a partir de changelogs baseados em Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão programada de MD para DOCM para equipes de conformidade.
+
+* Pipelines ETL produzindo relatórios do Word habilitados para macro a partir de Markdown.
+
+* Fluxos de trabalho CI/CD regenerando documentos DOCM a partir do conteúdo do repositório.
+
+* Documentação automatizada acionada por macros para departamentos de engenharia.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

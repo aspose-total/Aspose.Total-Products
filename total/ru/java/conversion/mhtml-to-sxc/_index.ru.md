@@ -47,7 +47,51 @@ otherformats: ODS XLT TSV XLTX XLSM MD XLTM FODS XLAM XLSB SXC DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MHTML в SXC (таблицы StarOffice) позволяет пользователям устаревшего StarOffice сохранить веб-данные в совместимых форматах таблиц. Идеально подходит для старых рабочих процессов офисных пакетов и архивных потребностей.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Архивирование таблиц, созданных веб-страницами, для устаревших сред StarOffice.
+
+* Обмен шаблонами таблиц между старыми и современными офисными пакетами.
+
+* Отчетность по историческим данным для корпоративных аудитов.
+
+* Миграция результатов онлайн-опросов в формат SXC для анализа исследований.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запланированные конвейеры преобразования для веб-отчетов в формате SXC.
+
+* Пакетная обработка таблиц MHTML в устаревшие форматы таблиц.
+
+* Автоматизированное архивирование для соблюдения регулятивных требований.
+
+* Интеграция с устаревшими офисными системами, требующими ввода в формате SXC.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

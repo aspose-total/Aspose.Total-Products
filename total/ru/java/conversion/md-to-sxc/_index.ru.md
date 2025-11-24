@@ -47,7 +47,55 @@ otherformats: DIF EXCEL TXT XLTM SXC XLT XLTX XLSM XLSB FODS XLAM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преимущества преобразования MD (Markdown) в SXC (StarOffice Calc) для организаций, которые до сих пор используют устаревшие среды электронных таблиц StarOffice/OpenOffice. SXC поддерживает формулы, структуры листов и форматирование ячеек, совместимые с более старыми офисными экосистемами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Миграция таблиц Markdown в устаревшие электронные таблицы SXC.
+
+* Обновление старых корпоративных систем на основе данных MD.
+
+* Создание файлов SXC для устаревших, но все еще функционирующих платформ.
+
+* Подготовка инженерных журналов из Markdown в классические форматы электронных таблиц.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование MD в SXC для архивных бизнес-инструментов.
+
+* Подключения ETL для устаревших государственных или промышленных программ.
+
+* Ежедневное создание файлов SXC из репозиториев Markdown.
+
+* Генерация SXC по триггеру для обратносовместимых рабочих процессов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

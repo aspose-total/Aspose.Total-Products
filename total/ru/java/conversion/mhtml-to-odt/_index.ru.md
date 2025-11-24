@@ -129,7 +129,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MHTML в ODT (OpenDocument Text) позволяет редактировать веб-контент на различных платформах в LibreOffice или OpenOffice. Этот формат идеально подходит для рабочих процессов с открытым исходным кодом и совместного редактирования документов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные области применения" %}}
+
+
+
+* Веб-контент архивируется в виде редактируемых руководств и инструкций в формате ODT.
+
+* Документация совместных проектов в офисных пакетах с открытым исходным кодом.
+
+* Образовательные материалы и рабочие листы преобразуются из веб-страниц.
+
+* Подготовка многоязычных документов с использованием ODT для глобальных команд.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Массовое преобразование архивов на основе MHTML в файлы ODT для распределенных команд.
+
+* Интеграция с платформами управления контентом с открытым исходным кодом для автоматического создания документов.
+
+* Плановое преобразование для мониторинга и отчетности веб-контента.
+
+* Автоматическое обновление инструкций из часто изменяющихся веб-ресурсов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

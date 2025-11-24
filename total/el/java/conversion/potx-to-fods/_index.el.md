@@ -61,7 +61,51 @@ otherformats: FODS DIF XLSB XLS XLTX ODS XLSM MHTML MARKDOWN TSV XLAM EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του **POTX σε FODS** εξάγει δεδομένα προτύπου σε αρχεία Flat OpenDocument Spreadsheet για μέγιστη συμβατότητα με εργαλεία ανοικτού κώδικα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Επεξεργασία δεδομένων που προέρχονται από POTX στο LibreOffice και OpenOffice.
+
+* Προετοιμασία υπολογιστικών φύλλων σε πρότυπα ανοικτού κώδικα που χρησιμοποιούνται από τον δημόσιο τομέα.
+
+* Δημιουργία ελαφρών, πλατφόρμα-ανεξάρτητων φύλλων δεδομένων.
+
+* Αρχειοθέτηση μεταδεδομένων προτύπου POTX σε ανοικτές μορφές.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική επεξεργασία αρχείων POTX σε FODS για ομάδες πολλαπλών πλατφορμών.
+
+* Προγραμματισμένες εξαγωγές σε ανοικτή μορφή για συμμόρφωση ή ελέγχους.
+
+* Ενσωμάτωση με αυτοματισμό ροών εργασίας ανοικτού κώδικα.
+
+* Μετατροπή σε FODS με βάση την ενεργοποίηση όταν ενημερώνονται τα πρότυπα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

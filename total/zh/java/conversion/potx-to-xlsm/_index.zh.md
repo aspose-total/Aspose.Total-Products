@@ -61,7 +61,51 @@ otherformats: XLSM TSV SXC XLS FODS EXCEL MHTML XLTM XLT DIF MARKDOWN XLAM XLSB 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **POTX 转换为 XLSM** 会生成支持宏的 Excel 工作簿，非常适合基于模板内容自动化重复报告任务。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 创建带有嵌入宏的动态 Excel 报告。
+
+* 使用基于模板内容的自动化重复任务。
+
+* 从设计模板构建交互式仪表板。
+
+* 准备标准化的支持宏的业务工具。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为企业工作流程批量创建 XLSM。
+
+* 基于触发器更新支持宏的电子表格。
+
+* 集成到自动化报告周期中。
+
+* 为定期任务生成支持宏的工作簿。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

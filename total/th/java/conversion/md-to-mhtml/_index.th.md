@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ Markdown (MD) เป็น MHTML (Web Archive) ช่วยให้เอกสารทั้งหมดรวมถึงการจัดรูปแบบ รูปภาพ และลิงก์ ถูกจัดแพ็คเข้าไปในไฟล์เดียวกันที่พร้อมใช้งานบนเว็บ ไฟล์ MHTML เหมาะสำหรับการแบ่งปันเนื้อหา Markdown ในเบราว์เซอร์ การเก็บถาวรเอกสาร และการกระจายหน้าเว็บแบบพกพา
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* เก็บถาวรเอกสาร Markdown เป็นหน้าเว็บที่มีอยู่เอง
+
+* สร้างรายงานพกพาสำหรับการอ่านแบบออฟไลน์ในเบราวเซอร์ใดก็ตาม
+
+* กระจายคู่มือผู้ใช้หรือคู่มือเทคนิคเป็นเอกสารเว็บแบบไฟล์เดียว
+
+* รักษาเอกสารโครงการที่ใช้ Markdown พร้อมสื่อภาพฝังอยู่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงไฟล์ Markdown ในคลังข้อมูลเป็น MHTML อัตโนมัติทุกคืนสำหรับการกระจายบนเว็บ
+
+* การเก็บถาวรเอกสารฐานความรู้ภายในเป็นรูปแบบ MHTML แบบกลุ่ม
+
+* การผสานกับกระบวนการจัดการเนื้อหาเพื่อสร้างไฟล์ MHTML จาก Markdown
+
+* การแปลงตiggered ในกระบวนการทำงาน CI/CD เพื่อสร้างเอกสารที่พร้อมใช้งานบนเบราวเซอร์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

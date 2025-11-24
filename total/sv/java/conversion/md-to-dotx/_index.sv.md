@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera Markdown (MD) till DOTX (Word-mall utan makron) är idealiskt för att producera eleganta, enhetliga och återanvändbara layoutmallar. DOTX bevarar designelement samtidigt som det låter team uppdatera innehåll från lätta Markdown-filer i versionskontrollerade miljöer.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Företagsvarumärkesmallar hämtade från MD-dokumentation.
+
+* Standardiserade utbildningsblad byggda från Markdown-dokumentation.
+
+* Mallbaserade marknadsföringsbroschyrer ursprungligen utarbetade i MD.
+
+* Strukturerade akademiska pappersmallar genererade från Markdown-källor.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Automatisk DOTX-generering genom CI/CD för dokumentationsteam.
+
+* Återskapande av standardiserade Word-mallar från MD-filer i repository.
+
+* Batchbehandling av Markdown-repositorier till färdiga DOTX-layouter.
+
+* Enhetlig mallskapande för organisationer med flera enheter.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ otherformats: MD SXC FODS TSV XLT TXT XLSB XLSM EXCEL DIF XLAM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MHTML إلى FODS (Flat OpenDocument Spreadsheet) ينشئ ملفات جداول بيانات مفتوحة، معتمدة على XML، مناسبة لـ LibreOffice أو OpenOffice. FODS مثالي لأرشفة البيانات الخفيفة والمحمولة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* أرشفة تقارير الجداول الويب للتحرير عبر منصات متعددة.
+
+* إعداد قوالب جداول بيانات مفتوحة المصدر لفرق العمل التعاونية.
+
+* تحويل لوحات البيانات المالية عبر الإنترنت إلى ملفات FODS قابلة للنقل.
+
+* مشاركة بيانات الويب المهيكلة مع مستخدمين غير مستخدمي Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل MHTML إلى FODS بشكل مجدول لسير العمل في مكاتب مفتوحة المصدر.
+
+* معالجة دفعية للجداول عبر الإنترنت لإنشاء ملفات FODS قابلة للتحرير.
+
+* تحويل آلي مُشغّل لأنظمة مراقبة الويب.
+
+* دمج في منصات تعاونية تتطلب قوالب FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

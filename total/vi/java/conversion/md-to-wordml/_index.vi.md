@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MD (Markdown) sang WordprocessingML (WordML) cho phép tạo tài liệu Word dựa trên XML có cấu trúc lý tưởng cho các hệ thống doanh nghiệp, nền tảng CMS và đường ống kỹ thuật tài liệu. WordML cung cấp kiểm soát chính xác về bố cục, thẻ và ràng buộc dữ liệu cho các tài liệu được tạo bởi máy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Di chuyển tài liệu Markdown sang cấu trúc WordML dựa trên XML.
+
+* Báo cáo có cấu trúc được tạo ra từ MD cho các hệ thống tài liệu tự động.
+
+* Tạo tệp kỹ thuật sẵn sàng ràng buộc dữ liệu trực tiếp từ văn bản Markdown.
+
+* Nền tảng CMS doanh nghiệp biến đổi nội dung MD thành các mẫu tương thích với WordML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo ra đường ống XML cho các tệp Word được tạo ra bởi hệ thống.
+
+* Chuyển đổi Markdown tự động cung cấp dữ liệu cho các hệ thống tài liệu dựa trên API.
+
+* Tạo lô tệp WordML từ Markdown trong kho lưu trữ.
+
+* Tích hợp với quy trình làm việc xác thực cho báo cáo dựa trên XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,55 @@ API также позволяет экспортировать файл MD в PS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование Markdown (MD) в PSD (Photoshop Document) позволяет дизайнерам импортировать текстовое и структурированное содержимое в слоистые, редактируемые файлы Photoshop. PSD позволяет объединять диаграммы на основе Markdown с профессиональным графическим редактированием.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование заметок Markdown в редактируемые макеты дизайна.
+
+* Создание слоистых диаграмм для инфографики или маркетингового контента.
+
+* Сочетание визуальных элементов, созданных на основе Markdown, с брендовыми активами.
+
+* Подготовка дизайнерских файлов для совместной творческой работы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное преобразование Markdown в PSD для маркетинговых команд.
+
+* Пакетное создание слоистых визуальных элементов из репозиториев Markdown.
+
+* Интеграция с графическими конвейерами для производства контента.
+
+* Генерация PSD по запросу для совместных дизайн-проектов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

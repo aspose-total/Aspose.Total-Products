@@ -57,7 +57,55 @@ otherformats: JPEG2000 DXF WMF PSD WMZ EMZ  TGA IMAGE SVGZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MHTML إلى WMF (Windows Metafile) يحول الرسومات الناقلة على الويب إلى ملفات ناقلة ويندوز قابلة للتحرير. WMF مثالي للأنظمة القديمة وتطبيقات المكتب التي تتطلب رسومات ناقلة قابلة للتوسيع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* أرشفة الرسوم التخطيطية على الويب لدمجها في مستندات المكتب.
+
+* تحويل الخرائط التدفقية والرسوم التوضيحية للاستخدام في العروض.
+
+* إعداد أصول الناقل الرسومي للطباعة أو التوثيق.
+
+* استخراج الرسومات على الويب لتقارير الشركات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* توليفة دفعية لإنشاء ملفات WMF من محتوى الويب.
+
+* استخراج مجدول لأنظمة التقارير التلقائية.
+
+* دمجه في سير العمل التلقائي في المكتب.
+
+* تحويل مُحفز للرسومات الناقلة على الويب للاستخدام في العروض.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

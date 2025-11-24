@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek WMF podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML na WMF (Windows Metafile) převádí webové vektorové grafiky do editovatelných vektorových souborů systému Windows. WMF je ideální pro zastaralé systémy a kancelářské aplikace vyžadující škálovatelné vektorové vizuály.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Archivace webových diagramů pro integraci do kancelářských dokumentů.
+
+* Převod organizačních schémat a ilustrací pro prezentace.
+
+* Příprava vektorových prvků pro tisk nebo dokumentaci.
+
+* Extrahování webové grafiky pro firemní zprávy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná generace WMF z obsahu webu.
+
+* Plánované extrakce pro automatizované systémy reportování.
+
+* Integrace do pracovních postupů kancelářské automatizace.
+
+* Spouštěný převod webových vektorových grafik pro prezentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

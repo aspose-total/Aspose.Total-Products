@@ -121,7 +121,55 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MHTML إلى PPTM (باوربوينت مع ماكرو) يسمح بعروض تفاعلية وآلية من محتوى الويب. PPTM مناسب للتدريب والتحليلات والشرائح التسويقية التي تتطلب ماكروهات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* شرائح تدريب تفاعلية مع تحديثات محتوى آلية.
+
+* لوحات مؤشرات الأداء الرئيسية والمشاريع كعروض مع ماكروهات.
+
+* عروض تسويقية مع ماكروهات ديناميكية.
+
+* وحدات تعليمية مع تمارين مضمنة من مصادر الويب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* أنابيب عمل MHTML-to-PPTM التلقائية للشرائح المتكررة.
+
+* تحويل مجدول لعروض ديناميكية مع ماكروهات.
+
+* إنشاء PPTM بناءً على لوحات القيادة الحية على الويب.
+
+* دمجه في أنظمة أتمتة سير العمل الشركات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

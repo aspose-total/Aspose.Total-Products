@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML转换为DOTM（启用宏的Word模板）结合了模板重用和宏自动化。这非常适合需要具有交互功能和工作流自动化的标准化文档的企业。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 带有嵌入式宏的自动化项目跟踪模板。
+
+* 人力资源部门的互动培训和入职模板。
+
+* 与网络数据集成的营销内容模板。
+
+* 从网络仪表板自动填充的客户报告模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于MHTML到DOTM模板的定时转换管道。
+
+* 用于重复业务流程的宏驱动文档生成。
+
+* 集成到CRM系统中，以自动填充特定于客户的模板。
+
+* 用于工作流自动化工具的事件触发模板创建。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

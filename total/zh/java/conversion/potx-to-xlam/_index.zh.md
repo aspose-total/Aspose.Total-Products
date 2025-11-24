@@ -61,7 +61,51 @@ otherformats: ODS XLSM TSV XLSX FODS MARKDOWN XLSB DIF SXC XLT XLS EXCEL XLAM XL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **POTX 转换为 XLAM** 会生成宏启用的 Excel 加载项，允许将基于模板的内容嵌入自动化的 Excel 解决方案中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 从模板数据构建可重用的 Excel 加载项。
+
+* 使用基于 POTX 的内容开发自动化工作流程。
+
+* 创建动态业务计算器或报告工具。
+
+* 嵌入源自幻灯片模板的高级逻辑。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从一致的模板库批量生成 XLAM 工具。
+
+* 基于触发器的加载项更新，用于动态报告。
+
+* 定时部署宏启用的电子表格。
+
+* 与企业 Excel 自动化框架集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

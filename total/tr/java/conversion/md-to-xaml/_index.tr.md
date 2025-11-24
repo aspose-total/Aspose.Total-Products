@@ -59,7 +59,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) XAML (Genişletilebilir Uygulama İşaretleme Dili)’na dönüştürülerek metin içeriği Windows uygulamaları için vektör tabanlı UI grafiklerine veya etkileşimli bileşenlere dönüştürülür. XAML, hassas düzenlemeleri, ölçeklenebilir görselleri ve modern uygulama çerçeveleriyle entegrasyonu destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* WPF uygulamalarında UI bileşenleri olarak Markdown diyagramlarının oluşturulması.
+
+* Masaüstü uygulamaları için etkileşimli vektör illüstrasyonlar oluşturma.
+
+* Belge tablolarının ve grafiklerinin XAML grafiklerine dönüştürülmesi.
+
+* Yazılım arayüzlerinde ölçeklenebilir görseller olarak Markdown içeriğinin gömülmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Yazılım UI boru hatları için otomatik MD'den XAML oluşturma.
+
+* Markdown notlarının XAML vektör bileşenlerine toplu işlem yapılması.
+
+* Belge-UI iş akışları için zamanlanmış dönüşüm.
+
+* Etkileşimli uygulamalar için Markdown diyagramlarının XAML'e tetiklenmiş olarak oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

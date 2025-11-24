@@ -81,7 +81,55 @@ otherformats: EMZ WMF PSD IMAGE APNG WMZ JPEG2000 DXF TGA DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת Markdown (MD) ל־SVGZ (SVG דחוס) יוצרת תמונות וקטוריות נפתחות בפורמט דחוס. אידיאלי עבור גרפיקה ברשת, דיאגרמות רספונסיביות ותצוגות חזותיות אינטראקטיביות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* יצירת דיאגרמות וקטוריות דחוסות מתוכן ב־Markdown.
+
+* יצירת איורים רספונסיביים לרשת מטבלאות Markdown.
+
+* יצירת סמלים או אינפוגרפיקות נפתחות.
+
+* הטמעת תמונות וקטוריות דחוסות במסמכי התיעוד ברשת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת Markdown ל־SVGZ בצורה צפופה לפרסום ברשת.
+
+* אינטגרציה בצינור ליצירת דיאגרמות אוטומטיות.
+
+* עדכוני SVGZ מתוזמנים ללוחות בקרה אינטראקטיביים.
+
+* דחיסת דיאגרמות Markdown לפורמטים מותאמים לרשת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

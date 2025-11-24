@@ -105,7 +105,51 @@ otherformats: JPEG2000 DXF APNG PSD WMZ EMZ  TGA IMAGE SVGZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML ל־WMF (Windows Metafile) ממיר גרפיקה וקטורית ברשת לקבצי וקטור ניתנים לעריכה בחלונות. WMF הוא אידיאלי עבור מערכות ישנות ויישומי משרד הדורשים תמונות וקטור נמתחות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* ארכובת דיאגרמות אינטרנט לאינטגרציה במסמכי משרד.
+
+* המרת תרשימי זרימה ואיורים למצגות.
+
+* הכנת נכסים וקטוריים להדפסה או לתיעוד.
+
+* חילוץ גרפיקה ברשת לדוחות עסקיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת WMF בצורת צפיפות מתוכן ברשת.
+
+* חילוץ מתוזמן למערכות דיווח אוטומטיות.
+
+* אינטגרציה בזרימות עבודה אוטומציה במשרד.
+
+* המרת גרפיקה וקטורית ברשת בתגובה להצגות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

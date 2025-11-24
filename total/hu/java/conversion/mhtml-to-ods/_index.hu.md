@@ -47,7 +47,51 @@ A MHTML-fájl ODS-vé konvertálásakor vízjelet is hozzáadhat a kimeneti ODS-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MHTML átalakítása ODS formátumra (OpenDocument Spreadsheet) lehetővé teszi a robosztus, platformfüggetlen táblázatszerkesztést, miközben megőrzi a webes táblázat formázását. Az ODS ideális a közös munkakörnyezetek és az nyílt forráskódú munkafolyamatok számára.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Vállalati teljesítmény irányítópultok archiválva ODS fájlok formájában.
+
+* Együttműködésen alapuló költségkövető sablonok, amelyek webes adatokból származnak.
+
+* Oktatási táblázatok online tananyagokból.
+
+* Statisztikai adathalmazok importálása nyílt forráskódú táblázatszerkesztőkbe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Automatizált MHTML-ODS csővezetékek több részleges adatmegosztáshoz.
+
+* Periodikus pénzügyi és értékesítési jelentésekhez kiváltott ODS generálás.
+
+* Integráció nyílt forráskódú irodai csomagokkal élő adatfrissítésekhez.
+
+* Archivált webes táblázatok tömeges átalakítása ODS formátumba történelmi elemzésekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (마크다운)를 ODT (OpenDocument Text)로 변환하면 오픈 소스 친화적인 문서 작업이 가능해집니다. ODT 파일은 LibreOffice나 OpenOffice를 사용하는 팀에 이상적이며, 전용 워드 형식에 대안이 되는 유연하고 가벼운 형식을 제공하면서도 풍부한 서식을 유지합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 오픈 소스 문서를 전문적으로 서식이 있는 ODT 파일로 게시합니다.
+
+* 마크다운 가이드를 편집 가능한 LibreOffice 문서로 변환합니다.
+
+* 전용 형식을 피하는 조직을 위해 크로스 플랫폼 문서를 작성합니다.
+
+* MD 콘텐츠에서 유래된 로컬라이즈된 ODT 매뉴얼을 생성합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* Markdown 저장소를 대량으로 ODT로 변환하여 공개 배포합니다.
+
+* 오픈 소스 프로젝트에서 자동화된 ODT 문서 생성합니다.
+
+* 정부나 비정부 기관을 위해 ODT를 출력하는 크로스 플랫폼 ETL 워크플로우를 생성합니다.
+
+* 로컬라이제이션 및 번역 파이프라인에서 트리거 기반 ODT 생성합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

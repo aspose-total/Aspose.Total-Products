@@ -49,7 +49,55 @@ otherformats: DIF XLSM XLTM TSV XLTX TXT XLT EXCEL XLSB FODS SXC ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）转DIF（数据交换格式）转换非常适合依赖结构化、基于行的文本数据的传统系统和电子表格工作流程。DIF文件支持与旧金融、科学和工程软件的兼容性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将Markdown记录导入经典会计软件。
+
+* 将MD表格转换为旧统计应用程序的DIF。
+
+* 源自Markdown文档的传统数据库迁移。
+
+* 与使用传统电子表格的团队共享结构化的DIF文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于存档系统的自动化Markdown到DIF管道。
+
+* 批处理工作流将DIF数据提供给企业报告工具。
+
+* 将MD库存表定期转换为DIF格式。
+
+* 用于使用DIF输入的传统软件生态系统的ETL桥接。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

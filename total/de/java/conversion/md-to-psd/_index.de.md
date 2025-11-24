@@ -57,7 +57,31 @@ Mit der API können Sie das ausgegebene PSD-Bild auch nach Ihren Bedürfnissen d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Die Umwandlung von Markdown (MD) in PSD (Photoshop-Dokument) ermöglicht es Designern, textuellen und strukturierten Inhalt in geschichtete, bearbeitbare Photoshop-Dateien zu importieren. PSD ermöglicht die Kombination von Markdown-basierten Diagrammen mit professioneller Grafikbearbeitung.
+
+## {{% blocks/products/pf/agp/feature-section-col title="Anwendungsfälle" %}}
+
+- Umwandlung von Markdown-Notizen in bearbeitbare Design-Mockups.
+- Erstellung von geschichteten Diagrammen für Infografiken oder Marketinginhalte.
+- Kombination von Markdown-generierten Visuals mit Branding-Assets.
+- Vorbereitung von Designdateien für kollaborative kreative Workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+- Automatisierte Umwandlung von Markdown in PSD für Marketingteams.
+- Stapelerstellung von geschichteten visuellen Assets aus Markdown-Repositories.
+- Integration in Grafik-Pipelines für die Inhaltsproduktion.
+- Ausgelöste PSD-Erstellung für kollaborative Designprojekte.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

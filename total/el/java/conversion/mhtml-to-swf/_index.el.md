@@ -121,7 +121,51 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του MHTML σε SWF (Shockwave Flash) μετατρέπει τις web animations και το περιεχόμενο που αλληλεπιδρά σε μορφή Flash για χρήση πολυμέσων ή παρουσιάσεων παλαιότερων εκδόσεων.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Αρχειοθέτηση διαδραστικών οδηγιών και animations στο web.
+
+* Μετατροπή online παρουσιάσεων ή demos σε αρχεία SWF.
+
+* Εκπαιδευτικά modules με animations που εξάγονται για offline χρήση.
+
+* Περιεχόμενο μάρκετινγκ με διαδραστικές οπτικές που διατηρούνται από ιστοσελίδες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένη μαζική μετατροπή διαδικτυακών animations σε SWF.
+
+* Εξαγωγή με ενεργοποίηση για εκπαιδευτικό ή εκπαιδευτικό περιεχόμενο εκτός σύνδεσης.
+
+* Ενσωμάτωση με λογισμικό παλαιότερων εκδόσεων παρουσιάσεων που απαιτεί SWF.
+
+* Αυτοματοποιημένη αρχειοθέτηση διαδραστικών γραφικών στο web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,55 @@ otherformats: TXT XLT TSV ODS XLAM EXCEL XLTX DIF FODS SXC XLSB XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น ODS (OpenDocument Spreadsheet) ให้ความแข็งแกร่งและเป็นทางเลือกที่เปิดเผยต่อ Excel  ODS เหมาะสำหรับทีมที่ใช้ LibreOffice หรือ OpenOffice และรองรับสูตรคำนวณ กราฟ และการจัดรูปแบบตารางที่มีโครงสร้าง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* นำเข้ารายการ Markdown เข้าสู่แดชบอร์ด ODS
+
+* สร้างแผ่นงานการวิเคราะห์สำหรับสภาพแวดล้อมสำนักงานโอเพนซอร์ส
+
+* สร้างตัวติดตามงบประมาณรูปแบบ ODS ที่มีข้อมูลจาก MD
+
+* แปลงเอกสารทางเทคนิค MD เป็นข้อมูลที่พร้อมใช้ในสเปรดชีต
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้าง ODS ตามกำหนดเวลาสำหรับทีมข้อมูลโอเพนซอร์ส
+
+* ท่อการส่งข้อมูล跨แพลตฟอร์มที่ให้ข้อมูล Markdown เข้าสู่สเปรดชีต ODS
+
+* การแปลงตารางเอกสารเป็นรูปแบบ ODS แบบจำนวนมาก
+
+* สร้างสเปรดชีต ODS โดยอัตโนมัติสำหรับทีมที่ต้องการสเปรดชีตที่สามารถแก้ไขได้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ Az API használatával igény szerint elforgathatja a kimeneti PSD-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MHTML átalakítása PSD formátumba (Adobe Photoshop) lehetővé teszi a webgrafikák teljesen szerkeszthető réteges képekbe való átalakítását. A PSD ideális tervezők és marketingesek számára, akik haladó szerkesztési lehetőségekre vágynak.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Webes banner, fejléc vagy UI grafikák szerkesztése Photoshopban.
+
+* Réteges infografika kinyerése marketingkampányokhoz.
+
+* Szerkeszthető webes sablonok létrehozása archivált tartalomból.
+
+* Grafikai tervezési projektek eredeti webes vizuálisokkal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges PSD létrehozása MHTML weboldalakból tervezőcsapatok számára.
+
+* Kiváltott átalakítás rendszeres marketinganyag-frissítésekhez.
+
+* Integráció a tervezési eszközök csővezetékébe a Photoshop automatizálásához.
+
+* Ütemezett PSD generálás web-to-print munkafolyamatokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,55 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh APNG đầu ra theo nhu 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp Markdown (MD) sang APNG (Animated PNG) cho phép biến đổi các biểu đồ, sơ đồ và minh họa dựa trên văn bản thành hình ảnh động. APNG bảo toàn chất lượng vector trong khi thêm chuyển động, lý tưởng cho bài thuyết trình, hướng dẫn và tài liệu tương tác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Biểu đồ quy trình động cho tài liệu kỹ thuật.
+
+* Hướng dẫn tương tác hiển thị các luồng làm việc dựa trên Markdown từng bước.
+
+* Hình ảnh tiếp thị động chuyển đổi từ biểu đồ Markdown.
+
+* Nội dung giáo dục động cho các mô-đun học trực tuyến.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi MD-sang-APNG hàng loạt cho các cổng thông tin tài liệu tự động.
+
+* Tích hợp với đường ống ETL để tạo đồ họa động từ Markdown.
+
+* Hình ảnh tương tác tự động cập nhật trong các hệ thống quản lý học tập.
+
+* Kích hoạt vẽ cho bảng điều khiển AI chuyển đổi Markdown thành hoạt ảnh.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,49 @@ otherformats: ODS MHTML XLSM FODS XLT XLSX DIF XLS MARKDOWN XLTM SXC EXCEL XLSB 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **POTM ל-XLTX** מאפשרת יצירת תבניות Excel ללא מקרו בהתבסס על אלמנטי עיצוב ותוכן המופקים מתבניות PowerPoint. תבניות XLTX הן אידיאליות להפצה נמוכה בצוותים ללא הגבלות אבטחת מקרו.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת תבניות Excel ללא מקרו ממבני פריסת השקופיות.
+* יצירת טפסי עסקים ניתנים לשימוש מחדש המיושרים עם סימון המצגות.
+* פיתוח תבניות המובנות על יציבות עבור צוותי משאבי אנוש, פיננסים ופרויקטים.
+* המרת שקופיות הדרכה לתבניות גיליון עבותות למילוי קל.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת עיצובים חדשים של POTM לתבניות XLTX להפצה אוטומטית.
+* שילוב יצירת XLTX לתהליכי תקנות בכל המשרד.
+* המרה בצמוד להפצה של תבניות מרובות מחלקות.
+* ייצואים אוטומטיים של XLTX לספריות תבניות SaaS או ענניות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

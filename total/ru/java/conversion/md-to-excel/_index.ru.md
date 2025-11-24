@@ -47,7 +47,55 @@ otherformats: XLTX XLAM DIF TXT XLT TSV ODS SXC FODS XLSB XLTM EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование Markdown (MD) в Excel (XLS/XLSX) превращает простые текстовые файлы в богатые электронные таблицы, готовые к использованию формул. Выходные данные Excel поддерживают форматирование, диаграммы, проверку данных и аналитику, что делает их подходящими для бизнес-отчетности и операционных рабочих процессов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Превращение списков функций Markdown в сортируемые листы Excel.
+
+* Создание финансовых отчетов на основе документации MD.
+
+* Импорт таблиц Markdown в качестве отслеживаемых данных Excel.
+
+* Подготовка каталогов продуктов на основе MD в формате электронных таблиц.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Конвертация документов Markdown в рабочие книги Excel на основе конвейера.
+
+* Пакетная генерация файлов XLSX для нескольких отделов.
+
+* Автоматическое обновление отчетов Excel из репозиториев MD с контролем версий.
+
+* Рабочие процессы по обработке данных, питающиеся от преобразований MD → Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

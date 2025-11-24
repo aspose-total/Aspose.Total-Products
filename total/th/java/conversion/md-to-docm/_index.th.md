@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ MD (Markdown) เป็นไฟล์ DOCM (Word Macro-Enabled Documents) ช่วยให้ทีมสามารถเพิ่มคุณลักษณะการอัตโนมัติที่สามารถปรับแต่งไฟล์ข้อความเบาๆ ได้ ไฟล์ DOCM รองรับมาโครที่ฝังอยู่ ทำให้เหมาะสำหรับเอกสารที่มีการทำงานตามขั้นตอนการทำงาน รูปแบบเอกสารขององค์กร และรายงานที่สร้างอัตโนมัติที่ต้องการการกระทำแบบไดนามิกภายใน Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การแปลงบันทึก Markdown ของนักพัฒนาเป็น SOPs ที่มีพลังงานมาโคร.
+
+* เอกสารนโยบายที่เปิดใช้งานการกระทำอัตโนมัติสำหรับกระบวนการทำงานขององค์กร.
+
+* รูปแบบเทมเพลตข้อเสนอที่สามารถปฏิบัติตามจากไฟล์ MD ที่เก็บไว้ใน Git.
+
+* บันทึกการตรวจสอบที่เปิดใช้งานด้วยมาโครที่สร้างจากบันทึกการเปลี่ยนแปลงที่เขียนด้วย Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การแปลง MD เป็น DOCM ตามกำหนดเวลาสำหรับทีมดูแลความปลอดภัย.
+
+* ท่อ ETL ที่สร้างรายงาน Word ที่เปิดใช้งานมาโครจาก Markdown.
+
+* กระบวนการทำงาน CI/CD ที่สร้างเอกสาร DOCM ใหม่จากเนื้อหาในคลังข้อมูล.
+
+* เอกสารที่สร้างอัตโนมัติด้วยมาโครสำหรับแผนกวิศวกรรม.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

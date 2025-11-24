@@ -57,7 +57,55 @@ Met behulp van de API kunt u ook de uitgevoerde DICOM-afbeelding roteren volgens
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van Markdown (MD) bestanden naar DICOM (Digital Imaging and Communications in Medicine) formaat maakt integratie van tekstuele documentatie of annotaties in medische beeldvormingsworkflows mogelijk. DICOM ondersteunt metadata, standaard beeldstructuren en is ideaal voor ziekenhuissystemen en onderzoeksomgevingen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Inbedden van op Markdown gebaseerde klinische aantekeningen in medische beeldarchieven.
+
+* Genereren van gestructureerde visuele educatie voor patiënten met Markdown-inhoud.
+
+* Integreren van onderzoeksdocumentatie in DICOM-compatibele beeldvormingsdatasets.
+
+* Opslaan van op tekst gebaseerde annotaties naast radiologiebeelden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde MD-naar-DICOM generatie voor ziekenhuisdocumentatiesystemen.
+
+* Batchverwerking van klinische Markdown-bestanden voor integratie in elektronische patiëntendossiers.
+
+* Geplande conversiepijplijnen die DICOM-archieven voeden.
+
+* Getriggerde weergave van Markdown-rapporten naast beeldgegevens voor door AI ondersteunde diagnose.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

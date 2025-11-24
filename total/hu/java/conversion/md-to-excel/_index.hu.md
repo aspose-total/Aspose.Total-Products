@@ -47,7 +47,55 @@ A MD-fájl EXCEL-vé konvertálásakor vízjelet is hozzáadhat a kimeneti EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) fájlok Excel (XLS/XLSX) formátumba való átalakítása gazdag, képlet-kész táblázatokká alakítja az egyszerű szövegfájlokat. Az Excel kimenetek támogatják a formázást, diagramokat, adatellenőrzést és analitikát, így alkalmasak vállalati jelentések és operatív munkafolyamatok számára.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Markdown jellemzőlisták átalakítása rendezhető Excel táblázatokká.
+
+* Pénzügyi jelentések létrehozása MD dokumentációkból.
+
+* Markdown táblázatok importálása Excel adatkövetőkként.
+
+* MD alapú termékkatalógusok előkészítése táblázatformátumban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Markdown dokumentumok csővezetékvezérelt átalakítása Excel munkafüzetekké.
+
+* XLSX fájlok tömeges generálása több osztály számára.
+
+* Excel jelentések automatikus frissítése verziókezelt MD tárolókból.
+
+* Adatmérnöki munkafolyamatok, amelyek MD → Excel átalakításokból táplálkoznak.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -129,7 +129,55 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML (MIME HTML) 파일을 DOCM (매크로 활성화 워드 문서)으로 변환하면 자동화된 워크플로우를 위한 상호작용 매크로와 함께 웹 콘텐츠가 보존됩니다. DOCM 파일은 비즈니스 프로세스 자동화, 고급 보고 및 동적 문서 생성에 필수적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 웹 스크랩 콘텐츠에서 생성된 자동화된 회사 보고서.
+
+* e-러닝을 위한 포함된 매크로가 있는 대화형 교육 모듈.
+
+* 실시간 웹 데이터를 통합하는 비즈니스 프로세스 문서화.
+
+* 매크로로 구동되는 대시보드를 클릭할 수 있는 프로젝트 관리 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 보관된 MHTML 보고서를 매크로 활성화 DOCM 파일로 일괄 변환.
+
+* 실시간 문서 업데이트를 위한 ERP 시스템 통합.
+
+* 웹 콘텐츠 변환 후 매크로 실행 트리거.
+
+* MHTML 소스에서 반복되는 비즈니스 템플릿의 자동 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

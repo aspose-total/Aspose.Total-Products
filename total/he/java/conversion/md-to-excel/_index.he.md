@@ -78,7 +78,55 @@ otherformats: XLTX XLAM DIF TXT XLT TSV ODS SXC FODS XLSB XLTM CSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת Markdown (MD) ל-Excel (XLS/XLSX) ממירה קבצי טקסט פשוטים לגיליונות אלקטרוניים עשירים, מוכנים לנוסחאות. פלטי Excel תומכים בעיצוב, תרשימים, אימות נתונים וניתוחים, מה שהופך אותם למתאימים לדיווחים עסקיים ולתהליכי עבודה תפעוליים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת רשימות תכונות Markdown לגיליונות Excel שניתפלו.
+
+* יצירת דוחות כספיים מתוך תיעוד MD.
+
+* יבוא טבלאות Markdown כמעקבי נתונים ב-Excel.
+
+* הכנת קטלוגי מוצרים מבוססי MD בפורמט גיליון אלקטרוני.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת מסמכי Markdown באמצעות צינורות לעבודות Excel.
+
+* יצירת קבצי XLSX בצורה צפופה עבור מחלקות מרובות.
+
+* עדכון אוטומטי של דוחות Excel ממאגרי MD בבקרת גרסאות.
+
+* תהליכי עבודה בנדלאות המתקבלים מהמרות MD → Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

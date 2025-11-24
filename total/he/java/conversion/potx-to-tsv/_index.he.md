@@ -102,7 +102,51 @@ otherformats: MARKDOWN XLT CSV EXCEL MHTML XLSM FODS XLTM SXC XLSB XLS DIF XLTX 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **POTX ל־TSV** יוצרת קבצי ערכים מופרדים בטאב שאילתה שמתאימים לניתוח טקסטואלי, צינורות נתונים, וטיפול מוקדם בלמידת מכונה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* הכנת נתוני שקופיות POTX לניתוח סטטיסטי.
+
+* ייבוא תוכן טבלאי לזרימות עבודה של למידת מכונה.
+
+* חילוץ תוכן מבנון מובנה עבור מפתחי פיתוח.
+
+* יצירת סטים של ערכים מופרדים בטאב לכלי דיווח BI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* חילוץ תבניות בצורה צפויה לקבצי ערכים מופרדים בטאב עבור צוותי ניתוח.
+
+* עדכונים מבוססי טריגר לפורמטי ערכים מופרדים בטאב כאשר תבניות נערכות.
+
+* שילוב בצינורות ETL להמרת נתונים.
+
+* יצירת ערכים מופרדים בטאב מתוזמנת למחזורי דיווח חוזרים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

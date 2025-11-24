@@ -61,7 +61,55 @@ POTXファイルをXLSに変換するときに、出力XLSファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**POTXをXLSに変換**すると、テンプレートのコンテンツが古典的なExcelスプレッドシートにエクスポートされ、古いOfficeシステムとの互換性が確保されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* レガシーExcelワークフロー向けにテンプレートのテーブルを再利用する。
+
+* 互換性テスト用に古い形式のスプレッドシートを作成する。
+
+* 内部レポート作成のために構造化されたテンプレートコンテンツを抽出する。
+
+* 部門間データ交換をサポートする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 企業のアーカイブ用に大規模なXLS変換。
+
+* 標準テンプレートからのレガシースプレッドシートの定期的な生成。
+
+* コンプライアンスシステム向けのトリガーベースのXLS更新。
+
+* 古いファイル規格を必要とするドキュメントとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,55 @@ Saat mengonversi file MD ke CSV, Anda juga dapat menambahkan tanda air ke format
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file MD (Markdown) ke CSV memungkinkan tim untuk mengubah teks terstruktur, tabel, dan daftar menjadi data spreadsheet yang kompatibel secara universal. File CSV ideal untuk alur kerja analitik, impor database, dan pertukaran data lintas platform yang ringan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengekspor tabel Markdown ke dataset CSV untuk analitik.
+
+* Mengimpor lembar harga berbasis MD ke dalam alat akuntansi.
+
+* Mengubah log Markdown pengembang menjadi file CSV yang dapat diurutkan.
+
+* Memigrasikan tabel dokumentasi ke dalam sistem CRM dan ERP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Pekerjaan ETL mengubah Markdown repositori menjadi CSV setiap malam.
+
+* Konversi otomatis untuk dashboard yang memerlukan input CSV.
+
+* Ekspor batch untuk pipa pra-pemrosesan pembelajaran mesin.
+
+* Pemicu alur kerja menghasilkan CSV dari laporan berbasis Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

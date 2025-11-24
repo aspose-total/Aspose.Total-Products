@@ -61,7 +61,51 @@ otherformats: XLTM TSV XLAM MARKDOWN XLTX FODS XLS XLT ODS MHTML SXC DIF XLSX EX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή **POTX σε ODS** δημιουργεί αρχεία υπολογιστικού φύλλου OpenDocument, επιτρέποντας επεξεργάσιμες, ανοικτές, πρότυπες ροές αναφοράς που προέρχονται απευθείας από δομές προτύπων.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Συνεργατική ανάλυση δεδομένων βασισμένη σε πρότυπα σε σουίτες ανοικτού κώδικα.
+
+* Μετατροπή διατάξεων POTX για τεκμηρίωση ή πόρους εκπαίδευσης.
+
+* Προετοιμασία διαλειτουργικών υπολογιστικών φύλλων για απομακρυσμένες ομάδες.
+
+* Επαναχρησιμοποίηση περιεχομένου προτύπου για παρακολούθηση έργων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική εξαγωγή ODS από ολόκληρες βιβλιοθήκες προτύπων.
+
+* Προγραμματισμένη μετατροπή για κύκλους αναφοράς ανοικτών προτύπων.
+
+* Ενσωμάτωση αρχείων ODS σε ροές εργασίας που έχουν εγκριθεί από την κυβέρνηση.
+
+* Αυτόματος συγχρονισμός ενημερώσεων POTX σε υπολογιστικά φύλλα ODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

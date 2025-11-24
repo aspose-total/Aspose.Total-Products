@@ -57,7 +57,55 @@ API를 사용하여 필요에 따라 출력 DICOM 이미지를 회전할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) 파일을 DICOM (Digital Imaging and Communications in Medicine) 형식으로 변환하면 의료 영상 워크플로에 텍스트 설명 또는 주석을 통합할 수 있습니다. DICOM은 메타데이터, 표준 이미징 구조를 지원하며 병원 시스템 및 연구 환경에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 의료 이미지 아카이브에 Markdown 기반의 임상 노트 포함.
+
+* Markdown 콘텐츠로 구조화된 환자 교육 시각 자료 생성.
+
+* DICOM 호환 이미징 데이터셋에 연구 문서 통합.
+
+* 방사선학 이미지 옆에 텍스트 기반 주석 저장.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 병원 문서 시스템을 위한 자동화된 MD-to-DICOM 생성.
+
+* 전자 건강 기록 통합을 위한 임상 Markdown 파일 일괄 처리.
+
+* DICOM 아카이브에 공급되는 예약된 변환 파이프라인.
+
+* AI 지원 진단을 위해 이미징 데이터 옆에 Markdown 보고서 렌더링을 트리거.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ Ao converter o arquivo MHTML para FODS, você também pode adicionar marca d'ág
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A conversão de MHTML para FODS (Flat OpenDocument Spreadsheet) cria arquivos de planilha abertos baseados em XML adequados para o LibreOffice ou OpenOffice. O FODS é ideal para arquivamento de dados leve e portátil.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Arquivar relatórios tabulares baseados na web para edição multiplataforma.
+
+* Preparar modelos de planilha de código aberto para equipes colaborativas.
+
+* Converter painéis financeiros online em arquivos FODS portáteis.
+
+* Compartilhar dados estruturados da web com usuários não-Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão programada de MHTML para FODS para fluxos de trabalho de escritório de código aberto.
+
+* Processamento em lote de tabelas online para gerar arquivos FODS editáveis.
+
+* Conversão automatizada acionada para sistemas de monitoramento da web.
+
+* Integração em plataformas colaborativas que requerem modelos FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

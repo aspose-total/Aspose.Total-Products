@@ -61,7 +61,51 @@ Ao converter o arquivo POTX para XLAM, você também pode adicionar marca d'águ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter **POTX para XLAM** produz complementos do Excel habilitados para macro que permitem que o conteúdo derivado do modelo seja incorporado em soluções automatizadas do Excel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Construir complementos reutilizáveis do Excel a partir de dados de modelo.
+
+* Desenvolver fluxos de trabalho automatizados usando conteúdo baseado em POTX.
+
+* Criar calculadoras de negócios dinâmicas ou ferramentas de relatório.
+
+* Incorporar lógica avançada proveniente de modelos de slides.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Geração em lote de ferramentas XLAM a partir de bibliotecas de modelos consistentes.
+
+* Atualizações de complementos acionadas por gatilhos para relatórios dinâmicos.
+
+* Implantação agendada de planilhas habilitadas para macro.
+
+* Integração com estruturas de automação do Excel corporativo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

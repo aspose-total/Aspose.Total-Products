@@ -82,7 +82,55 @@ otherformats: PSD JPEG2000 WMF EMZ SVGZ DXF TGA APNG WMZ DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення Markdown (MD) у загальні формати зображень (PNG, JPG, BMP) дозволяє візуалізувати таблиці, діаграми та форматований текст у переносному, платформонезалежному форматі. Зображення можуть бути вбудовані в презентації, веб-сайти або документи.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Експорт діаграм Markdown у вигляді статичних зображень для слайдів або звітів.
+
+* Поширення графіків на основі Markdown на веб-сайтах або блогах.
+
+* Створення зображень для посібників користувача або технічних керівництв.
+
+* Візуальні знімки таблиць Markdown для презентацій або PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Запланована пакетна конвертація вмісту Markdown у зображення.
+
+* ETL-канали, що виробляють візуальні ресурси з файлів Markdown.
+
+* Автоматичне створення діаграм для порталів документації.
+
+* Експорт зображень на підставі тригерів для інформаційних панелей або систем звітності.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

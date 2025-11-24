@@ -135,7 +135,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja MHTML na XAML (Extensible Application Markup Language) umożliwia przekształcenie wektorowej grafiki i interfejsów użytkownika opartych na sieci w komponenty interfejsu użytkownika zgodne z systemem Windows oraz skalowalne wizualizacje.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Konwertowanie diagramów internetowych na XAML do aplikacji WPF.
+
+* Archiwizowanie układów interfejsów użytkownika opartych na sieci do celów rozwoju oprogramowania.
+
+* Przygotowywanie interaktywnych pulpitów do aplikacji desktopowych.
+
+* Wyodrębnianie grafiki wektorowej do projektów interfejsu użytkownika systemu Windows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja zawartości MHTML na XAML do tworzenia aplikacji.
+
+* Zaplanowane procesy konwersji prototypów interfejsów użytkownika internetowych.
+
+* Wywoływane generowanie XAML do integracji z aplikacjami WPF.
+
+* Automatyczne archiwizowanie wektorowej zawartości internetowej dla zespołów programistycznych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

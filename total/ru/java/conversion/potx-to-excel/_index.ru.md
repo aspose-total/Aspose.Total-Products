@@ -61,7 +61,51 @@ otherformats: XLSB MHTML XLAM XLTM XLTX EXCEL TSV XLSX DIF XLS MARKDOWN XLT SXC 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **POTX в EXCEL** превращает содержимое шаблона PowerPoint в нативную книгу Excel, позволяя пользователям повторно использовать данные макета, структуры таблиц и метаданные внутри электронных таблиц.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование таблиц шаблона слайдов в редактируемые документы Excel.
+
+* Подготовка повторно используемых моделей данных для корпоративной отчетности.
+
+* Извлечение заполнителей контента для структурированных листов Excel.
+
+* Использование элементов шаблона для документации проектов или команд.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное создание EXCEL из больших репозиториев шаблонов POTX.
+
+* Создание повторяющихся отчетов Excel из стандартизированных шаблонов слайдов.
+
+* Конвертация на основе триггеров при обновлении шаблонов.
+
+* Подача извлеченных данных Excel в BI-панели управления.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

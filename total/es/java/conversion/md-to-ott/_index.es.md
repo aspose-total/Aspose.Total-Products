@@ -68,7 +68,31 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Convertir Markdown (MD) en OTT (Plantilla de Texto de Documento Abierto) admite la creación de plantillas escalables para suites de oficina de código abierto. Las plantillas OTT mantienen un formato consistente al permitir que los equipos generen múltiples documentos a partir de una base de estilo estable.
+
+## {{% blocks/products/pf/agp/feature-section-col title="Caso de Uso Clave" %}}
+
+- Crear plantillas OTT para la producción de documentos multilingües.
+- Construir plantillas de informes estructurados a partir de pautas basadas en Markdown.
+- Estandarizar la documentación de oficina para entornos de código abierto.
+- Generar formatos de documentos ODT reutilizables para ONG o instituciones públicas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+- Generación automatizada de OTT en flujos de trabajo de publicación de código abierto.
+- Actualizaciones de plantillas en rollo sincronizadas desde el control de versiones de Markdown.
+- Producción por lotes de conjuntos de plantillas para equipos distribuidos que utilizan LibreOffice.
+- Sistemas gubernamentales o sin fines de lucro que generan plantillas OTT según un horario.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

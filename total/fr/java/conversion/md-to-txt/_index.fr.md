@@ -47,7 +47,55 @@ Lors de la conversion du fichier MD en TXT, vous pouvez également ajouter un fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de fichiers Markdown (MD) en fichiers TXT (texte brut) produit une version propre et légère de votre contenu dépourvue de mise en forme et de balisage. Les fichiers TXT sont hautement compatibles, idéaux pour le traitement de texte, les scripts et l'intégration avec des applications qui ne prennent pas en charge la mise en forme Markdown.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Exportation de la documentation Markdown pour une distribution par e-mail en texte brut.
+
+* Génération de contenu brut pour des analyses textuelles ou des flux de travail d'apprentissage automatique.
+
+* Production de copies légères et portables de notes et de documentation.
+
+* Partage de contenu Markdown dans des environnements ne prenant pas en charge une mise en forme riche.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot planifiée de référentiels Markdown en fichiers TXT pour la sauvegarde et l'archivage.
+
+* Pipelines ETL transformant la documentation Markdown en fichiers TXT pour le traitement par des scripts ou des outils d'automatisation.
+
+* Génération automatisée de journaux en texte brut à partir de notes de projet basées sur Markdown.
+
+* Intégration avec des pipelines de contenu pour exporter du Markdown en tant que TXT vers des systèmes en aval.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

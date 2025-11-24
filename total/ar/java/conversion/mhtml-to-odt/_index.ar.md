@@ -130,7 +130,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MHTML إلى ODT (OpenDocument Text) يمكن التعديل على المحتوى عبر المنصات المختلفة في LibreOffice أو OpenOffice. هذا التنسيق مثالي لسير العمل مفتوحة المصدر وتحرير المستندات بشكل تعاوني.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* محتوى الويب المؤرشف كدليل ودليل ODT قابل للتحرير.
+
+* توثيق مشروع تعاوني في حزم مكتبية مفتوحة المصدر.
+
+* تحويل المواد التعليمية والورقات من صفحات الويب.
+
+* إعداد مستندات متعددة اللغات باستخدام ODT للفرق العالمية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل السائبة للأرشيفات القائمة على MHTML إلى ملفات ODT للفرق الموزعة.
+
+* التكامل مع منصات إدارة نظام إدارة المحتوى مفتوحة المصدر لتوليد المستندات تلقائيًا.
+
+* التحويل المجدول لرصد محتوى الويب وإعداد التقارير.
+
+* تحديث الدلائل التعليمية تلقائيًا من موارد الويب التي تتغير بانتظام.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

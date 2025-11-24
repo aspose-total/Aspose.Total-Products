@@ -47,7 +47,51 @@ Při převodu souboru MHTML na XLTM můžete také přidat vodoznak do výstupn�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MHTML na XLTM (šablona Excelu s makry) vytváří opakovaně použitelné šablony s vestavěnou automatizací odvozenou z obsahu webu. Ideální pro opakující se pracovní postupy vyžadující programovatelné šablony Excelu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Makro-povolené rozpočtové šablony aktualizované z online dat.
+
+* Automatizované šablony zpráv pro týmy financí, HR nebo marketingu.
+
+* KPI dashboardy jako opakovaně použitelné makro-povolené šablony Excelu.
+
+* Plánovací a sledovací šablony projektů generované z tabulek na webu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný převod MHTML na XLTM pro opakující se úkoly.
+
+* Spuštění tvorby šablony integrované do firemních automatizačních systémů.
+
+* Hromadné zpracování dashboardů z webu do opakovaně použitelných makro šablon.
+
+* Integrace s makro skripty Excelu pro dynamické reportování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

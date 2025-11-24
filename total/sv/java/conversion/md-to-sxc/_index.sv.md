@@ -47,7 +47,55 @@ När du konverterar MD-fil till SXC, kan du också lägga till vattenstämpel ti
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) till SXC (StarOffice Calc) konvertering fördelar organisationer som fortfarande använder äldre StarOffice/OpenOffice kalkylarks miljöer. SXC stöder formler, arkstrukturer och cellformatering som är kompatibla med äldre kontorsmiljöer.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* Migrera Markdown-tabeller till äldre SXC-kalkylblad.
+
+* Uppdatera äldre företagssystem med MD-baserade data.
+
+* Generera SXC-filer för föråldrade men fortfarande fungerande plattformar.
+
+* Förbereda ingenjörsloggar från Markdown till klassiska kalkylbladsformat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Batch MD-till-SXC-konvertering för arkiveringsverktyg för företag.
+
+* ETL-anslutningar för äldre regerings- eller industriprogram.
+
+* Nattlig SXC-produktion från Markdown-repositorier.
+
+* Utlöst SXC-generering för bakåtkompatibla arbetsflöden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

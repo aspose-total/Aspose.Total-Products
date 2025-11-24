@@ -61,7 +61,55 @@ Při převodu souboru POTM na XLT můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod **POTM na XLT** umožňuje využití šablon prezentací pro vytváření standardizovaných pracovních sešitů ve formátu Excel. Tento převod je cenný pro organizace, které dbají na konzistenci ve všech formátech reportů a dokumentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření Excel šablon s designem odvozeným od návrhů snímků.
+
+* Převádění struktury prezentací do opakovaně použitelných tabulkových formulářů.
+
+* Vytváření kancelářských faktur nebo plánovacích šablon.
+
+* Udržování designové konzistence napříč dokumentačními systémy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatické generování XLT šablon z často aktualizovaných souborů POTM.
+
+* Hromadný převod pro distribuční portály firemních šablon.
+
+* Generování verzí řízených Excel šablon pro týmy dodržování předpisů.
+
+* Automatické nasazení standardizovaných souborů XLT pro velké organizace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

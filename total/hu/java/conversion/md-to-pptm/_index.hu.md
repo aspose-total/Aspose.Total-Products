@@ -59,7 +59,55 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MD (Markdown) to PPTM (Macro-Enabled PowerPoint) konverzió növeli a prezentációs lehetőségeket azáltal, hogy az MD-forrású tartalmat összekapcsolja a makróvezérelt automatizálással. A PPTM fájlok támogatják a dinamikus diakezelést, az adatkötést és a szkriptelt interakciókat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Az MD forrásadatokból épített automatizált pénzügyi prezentációk.
+
+* Dinamikus vezérlőpultok makrók segítségével, amelyek Markdown jelentésekből készültek.
+
+* Az MD dokumentációból generált interaktív képzési modulok.
+
+* Makróval ellátott pitch deck-ek, amelyeket termék Markdown fájlokból származtatnak.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* CI/CD csővezetékek, amelyek PPTM deckeket generálnak a jelentéstevékenységek számára.
+
+* Automatikusan frissített makróval ellátott prezentációk forrásai a repókból.
+
+* Tömeges PPTM létrehozása vállalati képzési rendszerek számára.
+
+* Ütemezett PPTM-alapú vezérlőpultok generálása Markdown bemenetek felhasználásával.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

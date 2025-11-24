@@ -47,7 +47,55 @@ otherformats: XLAM TSV SXC XLTX ODS FODS DIF XLSM XLTM XLSB TXT EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MD (Markdown) เป็น FODS (Flat OpenDocument Spreadsheet) สร้างไฟล์สเปรดชีตที่ใช้ XML ที่สามารถแก้ไขได้ ที่เหมาะสำหรับโปรแกรมสำนักงานโอเพนซอร์ส FODS รักษาโครงสร้างเซลล์ สูตร และการจัดรูปแบบในเลย์เอาต์ที่เป็นข้อความอย่างเต็มรูปแบบที่เป็นเวอร์ชันได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* ส่งออกชุดข้อมูล Markdown เป็นรูปแบบสเปรดชีตโอเพนซอร์ส
+
+* สร้างไฟล์ FODS โครงสร้างสำหรับผู้ใช้ LibreOffice
+
+* นำเข้าตาราง MD เข้าสู่สเปรดชีต XML แบนสำหรับทีมพัฒนา
+
+* รักษาข้อมูลสเปรดชีตในรูปแบบที่สามารถอ่านได้ในรูปแบบข้อความ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลงเป็นชุดข้อมูล FODS แบบจำนวนมากเพื่อความ๏ําเนิดการควบคุมเวอร์ชัน
+
+* การรวม MD-to-FODS ภายในท่อ ETL โอเพนซอร์ส
+
+* สร้างสเปรดชีตโดยอัตโนมัติสำหรับเอกสารของรัฐบาลหรือองค์กรที่ไม่แสวงหาผลกำไร
+
+* การสร้าง FODS ตามเงื่อนไขในกระบวนการทำงานเอกสารต่อเนื่อง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

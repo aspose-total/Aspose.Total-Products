@@ -61,7 +61,51 @@ POTXファイルをSXCに変換するときに、出力SXCファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**POTXをSXCに変換**すると、レガシーまたは軽量スイートを使用している組織に最適なStarOffice互換のスプレッドシートファイルが出力されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* テンプレートベースのテーブルをレガシースプレッドシートに移行する。
+
+* 長期的な組織的保持のためにPOTXコンテンツをアーカイブする。
+
+* 古いオフィス環境との互換性のサポート。
+
+* 構造化された分析のためのテンプレートからのデータ抽出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 大規模な機関リポジトリ用にSXCへのバッチ変換。
+
+* テンプレートが修正されたときのSXCエクスポートのトリガー。
+
+* レガシーデータ処理のための自動化されたワークフロー。
+
+* 内部アーカイブプロセスのための定期的な変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

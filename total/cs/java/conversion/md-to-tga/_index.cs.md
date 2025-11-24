@@ -57,7 +57,55 @@ Pomocí API můžete také otočit výstupní obrázek TGA podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod formátu Markdown (MD) na TGA (obraz Targa) vytváří vysoce kvalitní rastrovou grafiku běžně používanou ve video produkci, hrách nebo inženýrských diagramech. TGA podporuje alfa kanály a nekomprimovaný výstup pro přesnou reprezentaci.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Exportování diagramů založených na Markdown pro video překryvy nebo herní prvky.
+
+* Grafika vysokého rozlišení pro inženýrskou dokumentaci.
+
+* Vytváření obrázků s alfa kanálem z vizualizací v Markdownu.
+
+* Generování nekomprimovaných technických diagramů pro prezentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatické generování TGA z repozitářů Markdown pro tvůrčí procesy.
+
+* Hromadný export diagramů pro video produkci nebo technickou dokumentaci.
+
+* Plánovaný převod diagramů z Markdownu pro simulační nebo herní projekty.
+
+* Integrace s systémy pro správu obsahu pro automatické vytváření vizuálů v TGA.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

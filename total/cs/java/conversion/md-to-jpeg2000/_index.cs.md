@@ -57,7 +57,55 @@ Pomocí API můžete také otočit výstupní obrázek JPEG2000 podle svých pot
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod formátu Markdown (MD) na JPEG2000 umožňuje export obrázků ve vysokém rozlišení a bez ztráty kvality. Ideální pro technické ilustrace, velké diagramy nebo archivační účely, kde je zachování detailů klíčové.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převod grafů z Markdownu na technické obrázky ve vysokém rozlišení.
+
+* Archivace složitých diagramů z Markdownu bez ztráty kvality.
+
+* Příprava tištěné dokumentace s podrobnými vizuály.
+
+* Vědecké ilustrace generované z poznámek v Markdownu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaný převod diagramů z Markdownu do formátu JPEG2000 pro ukládání ve vysoké kvalitě.
+
+* Hromadné zpracování pro výzkumné nebo inženýrské týmy.
+
+* Integrace s pracovními postupy pro publikování vyžadující formáty obrázků bez ztráty kvality.
+
+* Plánované aktualizace vizuálů odvozených z Markdownu v archívech ve formátu JPEG2000.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

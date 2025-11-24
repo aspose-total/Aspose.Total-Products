@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MD (Markdown) sang DOTM (Mẫu có Macro) kết hợp chỉnh sửa văn bản nhẹ với mẫu Word được tăng cường bởi các macro nhúng. Các mẫu DOTM cho phép các nhóm tự động hóa các nhiệm vụ tài liệu lặp đi lặp lại và tạo ngay lập tức các tài liệu chuẩn, sẵn sàng sử dụng macro.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xây dựng các mẫu onboarding được hỗ trợ bởi macro từ các playbook Markdown.
+
+* Tạo các mẫu hóa đơn hoặc biểu mẫu tự động được lấy từ nội dung MD.
+
+* Khung tài liệu doanh nghiệp với các trường được chèn theo cách lập trình.
+
+* Tạo các mẫu thân thiện với tự động hóa có thể tái sử dụng từ tài liệu kỹ thuật.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tự động xây dựng các mẫu DOTM cho các chu kỳ báo cáo quy mô lớn.
+
+* Tích hợp với các hệ thống kích hoạt MD-to-DOTM.
+
+* Tạo các mẫu có macro cho các bộ phận phân phối chỉ với một cú nhấp chuột.
+
+* Chèn nội dung động tự động trong quá trình tái tạo mẫu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

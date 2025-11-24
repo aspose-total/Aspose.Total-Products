@@ -47,7 +47,55 @@ Trong khi chuyển đổi tệp MD sang XLTM, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi Markdown (MD) sang XLTM (Mẫu Excel hỗ trợ Macro) tạo ra các mẫu bảng tính có thể tái sử dụng được làm giàu bằng tự động hóa. Các tệp XLTM hỗ trợ macro để khởi tạo động, các trường tự động điền và các hành động luồng công việc tiên tiến.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Mẫu doanh nghiệp dựa trên macro được lấy từ nội dung Markdown.
+
+* Xây dựng các bảng dự báo tự động từ dữ liệu MD.
+
+* Xây dựng các mẫu tính toán có thể tái sử dụng cho các nhóm kỹ sư.
+
+* Tạo các mẫu sẵn sàng với macro cho quy trình tuyển dụng hoặc kiểm toán.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tự động tạo các mẫu XLTM thông qua việc chuyển đổi MD được hỗ trợ bởi CI.
+
+* Xây dựng các mẫu có macro cho các văn phòng phân phối.
+
+* Cập nhật định kỳ các tệp XLTM từ các kho lưu trữ Markdown.
+
+* Kịch bản luồng công việc động điền các mẫu XLTM từ dữ liệu backend.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

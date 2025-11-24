@@ -47,7 +47,51 @@ MHTML 파일을 XLSB로 변환하는 동안 출력 XLSB 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+대규모 웹 소스 스프레드시트의 성능을 향상시키면서 수식, 서식 및 매크로를 보존하는 MHTML을 XLSB(Excel Binary Workbook)로 변환합니다. XLSB는 중대형 기업 또는 금융 데이터 세트에 적합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 엑셀 분석을 위해 변환된 대규모 온라인 판매 또는 재고 데이터 세트.
+
+* 웹 기반 보고서에서 파생된 금융 모델.
+
+* 웹 분석 플랫폼에서 내보낸 KPI 대시보드.
+
+* 컴팩트한 이진 형식으로 대규모 웹 테이블을 아카이빙.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 고성능 엑셀 작업을 위한 자동화된 MHTML-to-XLSB 파이프라인.
+
+* 실시간 보고 대시보드를 위한 예약 변환.
+
+* 웹 소스 테이블의 일괄 처리를 바이너리 워크북으로.
+
+* XLSB 입력이 필요한 기업 분석 시스템 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

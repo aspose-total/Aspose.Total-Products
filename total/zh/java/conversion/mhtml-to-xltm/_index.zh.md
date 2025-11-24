@@ -49,7 +49,51 @@ otherformats: SXC TXT EXCEL XLT XLTX XLTM MD XLAM XLSM ODS FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML转换为XLTM（启用宏的Excel模板）可创建具有嵌入式自动化的可重复使用模板，源自网络内容。非常适合需要可编程Excel模板的重复工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 从在线数据更新的启用宏的预算模板。
+
+* 为财务、人力资源或营销团队创建的自动化报告模板。
+
+* 作为可重复使用的启用宏的Excel模板的KPI仪表板。
+
+* 从网络表格生成的项目规划和跟踪模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定期任务的计划MHTML到XLTM转换。
+
+* 集成到企业自动化系统中的触发模板创建。
+
+* 将来自网络的仪表板批量处理为可重复使用的宏模板。
+
+* 与Excel自动化脚本集成，用于动态报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

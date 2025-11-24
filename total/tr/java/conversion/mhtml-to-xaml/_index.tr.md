@@ -135,7 +135,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML'den XAML (Genişletilebilir Uygulama İşaretleme Dili) dönüşümü, web tabanlı vektör ve UI grafiklerinin Windows uyumlu UI bileşenlerine ve ölçeklenebilir görsellere dönüştürülmesini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Web diyagramlarının WPF uygulamaları için XAML'e dönüştürülmesi.
+
+* Yazılım geliştirme için web tabanlı UI düzenlerinin arşivlenmesi.
+
+* Masaüstü uygulamalar için etkileşimli gösterge panellerinin hazırlanması.
+
+* Windows UI projeleri için vektör grafiklerin çıkarılması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* MHTML içeriğinin uygulama geliştirme için XAML'e toplu dönüşümü.
+
+* Web UI prototiplerinin dönüştürülmesi için zamanlanmış borular.
+
+* WPF uygulama entegrasyonu için tetiklenmiş XAML oluşturma.
+
+* Yazılım ekipleri için web vektör içeriğinin otomatik arşivlenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

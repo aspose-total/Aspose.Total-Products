@@ -61,7 +61,55 @@ POTX 파일을 XLT로 변환하는 동안 출력 XLT 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**POTX를 XLT로 변환**하면 프레젠테이션 디자인에서 엑셀 템플릿 파일을 생성하여 팀 간에 표준화된 스프레드시트 레이아웃을 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 일관된 기업 스프레드시트 템플릿 작성.
+
+* 브랜드화된 슬라이드 디자인을 재사용 가능한 엑셀 형식으로 변환.
+
+* POTX 테이블에서 구조화된 보고서 파일 작성.
+
+* 교육이나 온보딩을 위한 템플릿 라이브러리 준비.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 기업 문서 작성을 위한 일괄 템플릿 생성.
+
+* 디자인 수정으로부터 트리거 기반 XLT 업데이트.
+
+* 반복적인 부서 보고를 위한 예약된 내보내기.
+
+* 워크플로 자동화 시스템과의 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

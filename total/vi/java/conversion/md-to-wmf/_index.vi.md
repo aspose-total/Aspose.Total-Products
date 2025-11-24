@@ -57,7 +57,55 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh WMF đầu ra theo nhu c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi Markdown (MD) sang WMF (Windows Metafile) tạo ra đồ họa dựa trên vector tương thích với các ứng dụng Windows cũ hơn. Các tệp WMF duy trì độ chính xác dựa trên đường thẳng và thích hợp cho sơ đồ, biểu đồ và bản vẽ kỹ thuật.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xuất sơ đồ luồng Markdown cho các ứng dụng Windows cũ.
+
+* Chuyển đổi bảng kỹ thuật thành sơ đồ WMF có thể co giãn.
+
+* Nhúng sơ đồ vào phần mềm văn phòng cũ hơn hỗ trợ định dạng WMF.
+
+* Bảo tồn các hình minh họa dựa trên đường thẳng từ nội dung Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo ra WMF tự động cho mục đích lưu trữ hoặc tương thích.
+
+* Chuyển đổi hàng loạt hình ảnh dựa trên Markdown cho các hệ thống cũ.
+
+* Cập nhật định kỳ các sơ đồ cho cổng thông tin tài liệu.
+
+* Tích hợp với các đường ống sản xuất đồ họa WMF cho báo cáo doanh nghiệp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,55 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konversi MD (Markdown) ke OTP (OpenDocument Presentation Template) membantu organisasi membangun template slide yang dapat digunakan kembali yang mengikuti branding yang konsisten sambil mempertahankan konten yang dapat diedit yang disimpan dalam Markdown. File OTP ringan, fleksibel, dan ideal untuk lingkungan open-source.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Membuat template OTP bermerk dari konten Markdown.
+
+* Membangun template kuliah yang dapat digunakan kembali yang bersumber dari rangkuman pelajaran MD.
+
+* Struktur slide yang konsisten untuk LSM dan lembaga akademik.
+
+* Mengonversi dokumentasi Markdown menjadi template presentasi yang seragam.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi template OTP otomatis dari MD yang terkontrol versinya.
+
+* Produksi massal template presentasi open-source.
+
+* Rutin memperbarui file OTP dari repositori Markdown.
+
+* Alur kerja berpusat pada template untuk organisasi yang terdistribusi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

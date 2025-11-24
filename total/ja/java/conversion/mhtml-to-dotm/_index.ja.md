@@ -130,7 +130,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをDOTM（マクロ有効なWordテンプレート）に変換すると、テンプレートの再利用とマクロ自動化が組み合わさります。これは、インタラクティブな機能とワークフロー自動化を備えた標準化されたドキュメントが必要な企業に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* マクロが埋め込まれた自動プロジェクトトラッキングテンプレート。
+
+* 人事部門向けのインタラクティブなトレーニングおよびオンボーディングテンプレート。
+
+* ウェブソースのデータと統合されたマーケティングコンテンツテンプレート。
+
+* ウェブダッシュボードから自動的にポピュレートされるクライアントレポートテンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* MHTMLからDOTMテンプレートへの定期的な変換パイプライン。
+
+* 繰り返しのビジネスプロセス用のマクロ駆動型ドキュメント生成。
+
+* CRMシステムへの統合によるクライアント固有のテンプレートの自動入力。
+
+* ワークフロー自動化ツール用のイベントトリガー型テンプレート作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

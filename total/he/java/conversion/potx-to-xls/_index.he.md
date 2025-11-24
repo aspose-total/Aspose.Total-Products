@@ -102,7 +102,51 @@ otherformats: FODS XLTX DIF XLTM XLSM MARKDOWN XLSB SXC XLT XLAM XLSX EXCEL MHTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **POTX ל-XLS** מייצאת תוכן תבנית לגירסאות הקלאסיות של גיליונות האלקסל, מבטיחה תאימות עם מערכות אופיס ישנות יותר.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* שימוש מחדש בטבלאות תבנית לצורכי עבודה באלקסל ישנים.
+
+* יצירת גיליונות אלקסל בפורמטים ישנים לצורך בדיקת תאימות.
+
+* חילוץ תוכן מובנה מתבנית לצורך דיווח פנימי.
+
+* תמיכה בתחלופת נתונים בין מחלקות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת XLS בקניות גדולות לארכיון עסקי.
+
+* יצירת גיליונות אלקסל בפורמטים ישנים באופן מתוזמן מתבניות סטנדרטיות.
+
+* עדכוני XLS בהתבסס על טריגרים למערכות תקפות.
+
+* שילוב עם מסמכים הדורשים תקנים ישנים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

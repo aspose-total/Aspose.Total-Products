@@ -121,7 +121,51 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MHTML в SWF (Shockwave Flash) преобразует веб-анимации и интерактивный контент в формат Flash для использования в мультимедийных или презентационных целях.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Архивирование интерактивных веб-учебников и анимаций.
+
+* Преобразование онлайн-презентаций или демонстраций в файлы SWF.
+
+* Образовательные модули с анимациями для использования в офлайне.
+
+* Маркетинговый контент с интерактивными визуальными элементами, сохраненными с веб-сайтов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое пакетное преобразование веб-анимаций в формат SWF.
+
+* Автоматический экспорт для образовательного или тренировочного контента в офлайне.
+
+* Интеграция с устаревшим программным обеспечением для презентаций, требующим формат SWF.
+
+* Автоматическое архивирование интерактивной веб-графики.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

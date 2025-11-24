@@ -57,7 +57,55 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น DXF (Drawing Exchange Format) ช่วยให้ไดอะแกรมและแผนภาพโครงสร้างเป็นไฟล์เวกเตอร์ที่เข้ากันได้กับ CAD ได้  DXF เหมาะสำหรับการทำงานด้านวิศวกรรม สถาปัตยกรรม และการผลิตที่ต้องการภาพประกอบที่แม่นยำตามเส้น
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* ส่งออกไดอะแกรม Markdown เป็นภาพ DXF ที่พร้อมใช้งานใน CAD
+
+* แปลงแผนภาพการไหลและแผนภาพเทคนิคสำหรับเอกสารวิศวกรรม
+
+* เตรียมภาพสถาปัตยกรรมหรือเครื่องกลจากบันทึก Markdown
+
+* แบ่งปันไดอะแกรมเทคนิคกับผู้ร่วมงานโดยใช้ซอฟต์แวร์ CAD
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* การแปลง MD เป็น DXF แบบกลุ่มสำหรับทีมวิศวกรและออกแบบ
+
+* การผสานกับกระบวนการออกแบบอัตโนมัติสำหรับการจำลองพร็อตตี้ประการเร็ว
+
+* การส่งออก DXF ตามกำหนดเวลาสำหรับระบบเอกสารเทคนิค
+
+* การสร้างภาพประกอบที่พร้อมใช้งานใน CAD จากที่เก็บข้อมูล Markdown โดยเรียกใช้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -130,7 +130,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von MHTML in OTT (OpenDocument Template) ermöglicht die Erstellung von wiederverwendbaren Vorlagen für Open-Source-Office-Suiten und gewährleistet die Beibehaltung von webbasiertem Styling und Layout-Konsistenz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Unternehmensweite Dokumentenvorlagen für LibreOffice.
+
+* Wiederverwendbare Unterrichtsplanvorlagen aus webbasierten Bildungsinhalten.
+
+* Standardisierte Open-Source-Vorschlags- und Vertragsvorlagen.
+
+* Workflow-Vorlagen für die kollaborative Inhaltsverwaltung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierte Generierung von OTT-Vorlagen aus mehreren MHTML-Seiten.
+
+* Integration mit LibreOffice-Automatisierungstools für die Stapeldokumenterstellung.
+
+* Auslösen von Vorlagenaktualisierungen bei Änderungen von webbasierten Inhalten.
+
+* Vereinfachte Dokumentenstandardisierung in verteilten Teams.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

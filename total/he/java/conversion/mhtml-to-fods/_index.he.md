@@ -102,7 +102,51 @@ otherformats: MD SXC CSV TSV XLT TXT XLSB XLSM EXCEL DIF XLAM XLTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MHTML ל־FODS (Flat OpenDocument Spreadsheet) יוצרת קבצי גיליון נתונים פתוחים, מבוססי XML, המתאימים ל־LibreOffice או ל־OpenOffice. FODS הוא אידיאלי לארכיבת נתונים קלים וניידים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ארכיבת דוחות טבלאיים מבוססי אינטרנט לעריכה חוצת פלטפורמות.
+
+* הכנת תבניות גיליון נתונים תומכות לצוותים של תבניות קוד פתוח.
+
+* המרת לוחות מחוונים מקוונים לקבצי FODS ניידים.
+
+* שיתוף נתוני אינטרנט מובנים עם משתמשים שאינם משתמשים ב־Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת MHTML ל־FODS מתוזמנת לזרימות עבודה של משרד קוד פתוח.
+
+* עיבוד רצפי שולחנות מקוונים כדי ליצור קבצי FODS ניתנים לעריכה.
+
+* המרת אוטומטית מופעלת למערכות מעקב אחר רשת.
+
+* שילוב בפלטפורמות שיתופיות הדורשות תבניות FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

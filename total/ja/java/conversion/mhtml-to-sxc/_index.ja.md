@@ -47,7 +47,51 @@ MHTMLファイルをSXCに変換するときに、出力SXCファイル形式に
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをSXC（StarOffice Spreadsheet）に変換することで、従来のStarOfficeユーザーがウェブデータを互換性のあるスプレッドシート形式で保存できます。古いオフィススイートのワークフローや歴史的なアーカイブニーズに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* レガシーStarOffice環境向けにウェブ生成のテーブルをアーカイブする。
+
+* 古いおよび現代のオフィススイート間でスプレッドシートテンプレートを共有する。
+
+* 企業監査のための歴史データレポート。
+
+* 研究分析のためにオンライン調査結果をSXCに移行する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* ウェブベースのSXCレポートのための定期的な変換パイプライン。
+
+* MHTMLテーブルの一括処理をレガシースプレッドシート形式に。
+
+* 法令遵守のための自動アーカイブ。
+
+* SXC入力を必要とするレガシーオフィスシステムとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

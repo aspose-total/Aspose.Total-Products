@@ -61,7 +61,51 @@ otherformats: TSV XLAM EXCEL FODS ODS XLS DIF XLTM XLSX SXC MHTML MARKDOWN XLTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **POTX в XLT** создает файлы шаблонов Excel из дизайнов презентаций, идеально подходит для стандартизированных макетов электронных таблиц в командах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание согласованных корпоративных шаблонов электронных таблиц.
+
+* Преобразование брендированных дизайнов слайдов в многоразовые форматы Excel.
+
+* Создание структурированных файлов отчетности из таблиц POTX.
+
+* Подготовка библиотек шаблонов для обучения или адаптации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное создание шаблонов для документации предприятия.
+
+* Обновление XLT на основе триггеров при изменениях дизайна.
+
+* Запланированная экспортирование для повторяющейся отчетности департаментов.
+
+* Интеграция с системами автоматизации бизнес-процессов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

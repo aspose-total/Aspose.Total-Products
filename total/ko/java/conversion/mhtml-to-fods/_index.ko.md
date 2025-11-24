@@ -47,7 +47,55 @@ MHTML 파일을 FODS로 변환하는 동안 출력 FODS 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML를 FODS(Flat OpenDocument Spreadsheet)로 변환하면 LibreOffice나 OpenOffice에 적합한 오픈 XML 기반 스프레드시트 파일이 생성됩니다. FODS는 가벼우면서 휴대용 데이터 아카이빙에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 크로스 플랫폼 편집을 위해 웹 기반 표 형식 보고서 아카이빙.
+
+* 협업 팀을 위한 오픈 소스 스프레드시트 템플릿 준비.
+
+* 온라인 금융 대시보드를 휴대용 FODS 파일로 변환.
+
+* 비-Excel 사용자와 구조화된 웹 데이터 공유.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 오픈 소스 오피스 워크플로에 대한 예약된 MHTML-to-FODS 변환.
+
+* 온라인 테이블의 일괄 처리를 통해 편집 가능한 FODS 파일 생성.
+
+* 웹 모니터링 시스템을 위한 트리거된 자동 변환.
+
+* FODS 템플릿이 필요한 협업 플랫폼 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

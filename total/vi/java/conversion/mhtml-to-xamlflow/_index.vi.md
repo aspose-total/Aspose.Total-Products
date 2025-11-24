@@ -143,7 +143,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MHTML sang XAMLFLOW cho phép nội dung web và tài sản vector được sử dụng trong các luồng làm việc tương tác và tự động hóa giao diện người dùng bằng cách sử dụng ứng dụng luồng dựa trên XAML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tích hợp biểu đồ và đồ họa web vào các luồng làm việc XAML tự động hóa.
+
+* Lưu trữ nội dung web tương tác cho hệ thống tự động hóa Windows.
+
+* Chuẩn bị bảng điều khiển dựa trên web cho quy trình tự động hóa dựa trên giao diện người dùng.
+
+* Chuyển đổi các biểu mẫu và điều khiển web cho các ứng dụng máy tính để bàn dựa trên luồng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi Batch MHTML sang XAMLFLOW cho các đường ống tự động hóa giao diện người dùng.
+
+* Cập nhật kích hoạt cho bảng điều khiển và tài sản web tương tác.
+
+* Tích hợp vào các luồng làm việc RPA (Tự động hóa quy trình robot).
+
+* Trích xuất định kỳ các thành phần giao diện người dùng web cho các ứng dụng doanh nghiệp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

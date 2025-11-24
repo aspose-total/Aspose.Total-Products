@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) naar DOTM (Macro-Enabled Template) conversie combineert lichtgewicht tekstbewerking met Word-sjablonen verbeterd met ingesloten macro's. DOTM-sjablonen stellen teams in staat om repetitieve documenttaken te automatiseren en direct gestandaardiseerde, macro-klaar documenten te maken.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Op macro's gebaseerde onboarding-sjablonen bouwen vanuit Markdown-handleidingen.
+
+* Geautomatiseerde factuur- of formuliersjablonen maken op basis van MD-inhoud.
+
+* Ondernemingsdocumentkaders met programmatisch ingevoegde velden.
+
+* Herbruikbare, automatiseringsvriendelijke sjablonen genereren uit technische documentatie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Automatisch bouwen van DOTM-sjablonen voor grootschalige rapportagecycli.
+
+* Integratie met workflow-engines die MD-naar-DOTM-generatie activeren.
+
+* Met één klik macro-enabled sjablonen maken voor gedistribueerde afdelingen.
+
+* Geautomatiseerde invoeging van dynamische inhoud tijdens sjabloonregeneratie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

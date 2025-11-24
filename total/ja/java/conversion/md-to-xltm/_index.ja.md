@@ -47,7 +47,55 @@ MDファイルをXLTMに変換するときに、出力XLTMファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）をXLTM（マクロ有効Excelテンプレート）に変換すると、自動化された再利用可能なスプレッドシートテンプレートが作成されます。XLTMファイルは、動的初期化、自動入力フィールド、高度なワークフローアクションのためのマクロをサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+
+
+* Markdownコンテンツから取得したマクロ駆動のビジネステンプレート。
+
+* MDデータからの自動予測シートの構築。
+
+* エンジニアリングチーム向けの再利用可能な計算テンプレートの構築。
+
+* マクロ対応のオンボーディングや監査テンプレートの作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* CIパワードMD変換によるXLTMテンプレートの自動生成。
+
+* 分散オフィス向けのマクロ有効テンプレートの一括構築。
+
+* MarkdownリポジトリからのXLTMファイルの定期的な更新。
+
+* バックエンドデータからXLTMテンプレートを動的に作成するワークフロースクリプト。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

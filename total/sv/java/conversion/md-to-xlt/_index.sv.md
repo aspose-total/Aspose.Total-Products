@@ -47,7 +47,55 @@ När du konverterar MD-fil till XLT, kan du också lägga till vattenstämpel ti
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) till XLT (Excel-mall) konvertering möjliggör för team att generera återanvändbara Excel-mallar med konsekvent formatering och layout. XLT-filer hjälper organisationer att standardisera dokument skapande samtidigt som källinnehållet behålls i Markdown.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* Bygga strukturerade rapportmallar från MD-riktlinjer.
+
+* Skapa företagsanpassade kalkylmallar.
+
+* Konvertera Markdown SOP:er till färdiga Excel-mallar.
+
+* Mallbaserade dataregistreringsblad hämtade från MD-handböcker.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Automatisk återskapande av XLT-mallar från versionskontrollerad MD.
+
+* Batchmallskapande för företagsavdelningar.
+
+* ETL-drivet mallbyggande för strukturerade rapporteringsbehov.
+
+* Franchise- eller filialbaserade mallfördelningsflöden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

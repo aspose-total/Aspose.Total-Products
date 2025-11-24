@@ -59,7 +59,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) átalakítása XAML (Extensible Application Markup Language) formátumra szöveges tartalmat alakít át vektor alapú UI grafikává vagy interaktív komponensekké Windows alkalmazások számára. A XAML pontos elrendezést, skálázható vizuális elemeket és integrációt kínál a modern alkalmazás keretrendszerekkel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Markdown diagramok megjelenítése UI komponensekként WPF alkalmazásokban.
+
+* Interaktív vektorgrafikák létrehozása asztali alkalmazásokhoz.
+
+* Dokumentációs táblázatok és diagramok átalakítása XAML grafikává.
+
+* Markdown tartalom beágyazása skálázható vizuális elemekké az szoftverfelületeken.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Automatizált MD-XAML generálás szoftver UI csövekhez.
+
+* Markdown jegyzetek batch feldolgozása XAML vektor komponensekké.
+
+* Ütemezett átalakítás dokumentációból UI munkafolyamatokhoz.
+
+* Markdown diagramok kiváltott megjelenítése XAML-be interaktív alkalmazásokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

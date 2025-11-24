@@ -61,7 +61,51 @@ Při převodu souboru POTX na XLS můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění **POTX na XLS** exportuje obsah šablony do klasických tabulek programu Excel, zajistí kompatibilitu s staršími verzemi Office.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Předělání tabulek šablony pro starší pracovní postupy v Excelu.
+
+* Vytváření tabulek ve starším formátu pro testování kompatibility.
+
+* Extrahování strukturovaného obsahu šablony pro interní reportování.
+
+* Podpora výměny dat mezi odděleními.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Konverze XLS ve velkém měřítku pro archivaci v podnicích.
+
+* Plánované generování starších tabulek z standardních šablon.
+
+* Aktualizace XLS na základě spouštěcích událostí pro systémy dodržování předpisů.
+
+* Integrace s dokumenty vyžadujícími starší souborové standardy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

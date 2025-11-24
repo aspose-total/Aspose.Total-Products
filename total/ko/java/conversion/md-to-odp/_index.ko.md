@@ -59,7 +59,55 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 ODP (OpenDocument Presentation)로 변환하면 팀이 간단한 텍스트 기반 콘텐츠를 LibreOffice Impress 및 기타 오픈 소스 프레젠테이션 도구에서 사용할 수 있는 오픈 포맷 슬라이드 덱으로 변환할 수 있습니다. ODP는 소유권 제한 없이 크로스 플랫폼 공유에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Markdown 교육 노트를 ODP 슬라이드로 변환하기.
+
+* MD 기반 수업 계획에서 생성된 교실 프레젠테이션.
+
+* Markdown에서 생성된 오픈 소스 컨퍼런스 덱 발행.
+
+* 시각적으로 구조화된 ODP 슬라이드로 MD 문서 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* ETL 파이프라인에서 Markdown 저장소로부터 ODP 파일 생성.
+
+* LMS 플랫폼을 위한 교육용 프레젠테이션 일괄 생성.
+
+* 코드로 문서화된 워크플로에서 자동화된 ODP 제작.
+
+* 오픈 소스 프로젝트 릴리스를 위한 트리거된 MD에서 ODP로의 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

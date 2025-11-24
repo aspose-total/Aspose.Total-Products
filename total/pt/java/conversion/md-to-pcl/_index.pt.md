@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A conversão de Markdown (MD) para PCL (Linguagem de Comando de Impressora) gera arquivos prontos para impressão compatíveis com impressoras a laser e jato de tinta. A conversão para PCL é adequada para produzir documentos técnicos, relatórios e automação de fluxo de trabalho em ambientes de impressão empresarial.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Impressão de relatórios baseados em Markdown em impressoras compatíveis com PCL.
+
+* Geração de saída PCL para distribuição em lote de documentos.
+
+* Conversão de documentação Markdown em formatos prontos para impressão.
+
+* Preparação de instruções técnicas para fluxos de trabalho de impressão de escritório ou manufatura.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote agendada de arquivos Markdown para PCL para impressão empresarial.
+
+* Integração com servidores de impressão para gerar automaticamente PCL a partir de documentação Markdown.
+
+* Pipelines de impressão automatizados convertendo Markdown para PCL.
+
+* Produção de documentos com base em gatilhos para impressoras PCL de alto volume.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

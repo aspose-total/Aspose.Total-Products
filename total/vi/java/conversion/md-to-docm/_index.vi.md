@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp MD (Markdown) thành các tệp DOCM (Tài liệu có Macro được kích hoạt trong Word) giúp các nhóm cải thiện các tệp văn bản nhẹ bằng các tính năng tự động hóa tương tác. Các tệp DOCM hỗ trợ các macro nhúng, làm cho chúng lý tưởng cho tài liệu dựa trên quy trình, các mẫu doanh nghiệp và báo cáo tự động yêu cầu các hành động động trong Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi ghi chú Markdown của nhà phát triển thành các SOP được kích hoạt bởi macro.
+
+* Tài liệu chính sách có khả năng tự động hóa cho các quy trình làm việc doanh nghiệp.
+
+* Mẫu đề xuất tương tác được xây dựng từ các tệp MD được lưu trữ trên Git.
+
+* Nhật ký kiểm toán được kích hoạt bởi macro được tạo từ các nhật ký thay đổi dựa trên Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi MD thành DOCM theo lịch trình cho các nhóm tuân thủ quy định.
+
+* Các đường ống ETL tạo ra các báo cáo Word được kích hoạt bởi macro từ Markdown.
+
+* Các quy trình CI/CD tái tạo các tài liệu DOCM từ nội dung kho lưu trữ.
+
+* Tài liệu được kích hoạt bởi macro tự động cho các bộ phận kỹ thuật.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

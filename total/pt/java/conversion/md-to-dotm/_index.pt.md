@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A conversão de MD (Markdown) para DOTM (Modelo Habilitado para Macro) combina edição de texto leve com modelos do Word aprimorados por macros incorporadas. Os modelos DOTM permitem que equipes automatizem tarefas repetitivas de documentos e criem instantaneamente documentos padronizados prontos para macros.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Construção de modelos de integração com macros a partir de manuais Markdown.
+
+* Criação de modelos de fatura ou formulário automatizados originados a partir de conteúdo MD.
+
+* Estruturas de documentos corporativos com campos inseridos programaticamente.
+
+* Geração de modelos reutilizáveis e amigáveis à automação a partir de documentação técnica.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Construção automática de modelos DOTM para ciclos de relatórios em larga escala.
+
+* Integração com motores de fluxo de trabalho que acionam a geração de MD para DOTM.
+
+* Criação com um clique de modelos habilitados para macros para departamentos distribuídos.
+
+* Inserção automatizada de conteúdo dinâmico durante a regeneração do modelo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

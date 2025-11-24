@@ -57,7 +57,55 @@ Pomocí API můžete také otočit výstupní obrázek DICOM podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod souborů MHTML (webový archiv) do formátu DICOM (Digital Imaging and Communications in Medicine) umožňuje integrovat webové lékařské obrázky, zprávy nebo grafy do klinických obrázkových pracovních postupů. DICOM zajišťuje kompatibilitu s PACS a softwary pro lékařské zobrazování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Archivace diagnostických obrázků z webových stránek do formátu DICOM.
+
+* Převod online lékařských zpráv pro systémy nemocničních EMR.
+
+* Sdílení radiologických nebo ultrazvukových obrázků extrahovaných z webových portálů.
+
+* Integrování klinických webových nástěnek do obrázkových pracovních postupů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná hromadná konverze webového lékařského obsahu do formátu DICOM.
+
+* Spuštěné generování pro integraci s PACS a aktualizace EMR.
+
+* Automatická archivace pro telemedicínské platformy.
+
+* Integrace do diagnostických potrubí asistovaných umělou inteligencí.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van Markdown (MD)-bestanden naar MHTML (Webarchief) maakt het mogelijk om het volledige document, inclusief opmaak, afbeeldingen en links, te verpakken in één webklaar bestand. MHTML-bestanden zijn ideaal voor het delen van Markdown-inhoud tussen browsers, het archiveren van documentatie en het verspreiden van draagbare webpagina's.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Archiveren van Markdown-documentatie als zelfstandige webpagina's.
+
+* Maken van draagbare rapporten voor offline lezen in elke browser.
+
+* Verspreiden van gebruikershandleidingen of technische gidsen als webarchieven in één bestand.
+
+* Behouden van op Markdown gebaseerde projectdocumentatie met ingesloten media.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde nachtelijke conversie van Markdown-opslagplaatsen naar MHTML voor webdistributie.
+
+* Batcharchivering van interne kennisbankdocumenten in MHTML-indeling.
+
+* Integratie met contentbeheerpijplijnen om MHTML-bestanden te genereren vanuit Markdown.
+
+* Getriggerde conversie in CI/CD-workflows voor het genereren van browserklaar documentatie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

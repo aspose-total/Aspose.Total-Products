@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı DICOM görüntüsünü ihtiyaçlarınıza göre de d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML (web arşivi) dosyalarını DICOM (Tıpta Dijital Görüntüleme ve İletişim) formatına dönüştürmek, web tabanlı tıbbi görüntülerin, raporların veya grafiklerin klinik görüntüleme iş akışlarına entegre edilmesine olanak tanır. DICOM, PACS ve tıbbi görüntüleme yazılımları ile uyumluluğu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Web tabanlı tanısal görüntülerin DICOM formatına arşivlenmesi.
+
+* Hastane EMR sistemleri için çevrimiçi tıbbi raporların dönüştürülmesi.
+
+* Web portallardan çıkarılan radyoloji veya ultrason görüntülerinin paylaşılması.
+
+* Klinik web tabanlı panoların görüntüleme iş akışlarına entegre edilmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Web tabanlı tıbbi içeriğin DICOM formatına toplu dönüştürülmesinin zamanlanmış olması.
+
+* PACS entegrasyonu ve EMR güncellemeleri için tetiklenen oluşturma.
+
+* Tele-tıp platformları için otomatik arşivleme.
+
+* AI destekli tanısal akışlara entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,55 @@ POTXファイルをXLTに変換するときに、出力XLTファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**POTXをXLTに変換**すると、プレゼンテーションデザインからExcelテンプレートファイルが作成され、チーム全体で標準化されたスプレッドシートレイアウトが実現されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 一貫した企業スプレッドシートテンプレートの作成。
+
+* ブランド付きスライドデザインを再利用可能なExcel形式に変換。
+
+* POTXテーブルから構造化されたレポートファイルの作成。
+
+* トレーニングやオンボーディング用のテンプレートライブラリの準備。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 企業文書のバッチテンプレート生成。
+
+* デザインの修正からのXLT更新をトリガーとするスケジュールされたエクスポート。
+
+* 部門間の定期的なレポートのためのスケジュールされたエクスポート。
+
+* ワークフロー自動化システムとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

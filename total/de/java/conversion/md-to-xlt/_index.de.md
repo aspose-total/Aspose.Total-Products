@@ -47,7 +47,55 @@ Während Sie eine MD-Datei in XLT konvertieren, können Sie Ihrem Ausgabe-XLT-Da
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von MD (Markdown) in XLT (Excel Template) ermöglicht es Teams, wiederverwendbare Excel-Vorlagen mit konsistentem Styling und Layout zu erstellen. XLT-Dateien helfen Organisationen, die Dokumenterstellung zu standardisieren, während der Quellinhalt in Markdown beibehalten wird.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Erstellung strukturierter Berichtsvorlagen gemäß MD-Richtlinien.
+
+* Erstellung von Unternehmens-Branding-Tabellenvorlagen.
+
+* Umwandlung von Markdown-SOPs in sofort einsatzbereite Excel-Vorlagen.
+
+* Vorlagenbasierte Dateneingabeblätter aus MD-Playbooks.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierte Neugenerierung von XLT-Vorlagen aus versionskontrolliertem MD.
+
+* Stapelvorlagenerstellung für Unternehmensabteilungen.
+
+* ETL-gesteuerte Vorlagenerstellung für strukturierte Berichtsanforderungen.
+
+* Workflow für die verteilte Vorlagenerstellung basierend auf Franchise- oder Filialen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

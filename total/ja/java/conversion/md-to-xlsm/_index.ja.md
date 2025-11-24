@@ -47,7 +47,55 @@ MDファイルをXLSMに変換するときに、出力XLSMファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）をXLSM（マクロ有効なExcelワークブック）に変換すると、スプレッドシートワークフロー内での自動化機能が利用できます。XLSMはVBAマクロをサポートしており、動的なレポート作成や自動計算に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* Markdown入力テーブルからマクロパワードダッシュボードを作成する。
+
+* MD製品シートからのコスト計算機を自動化する。
+
+* Markdown構造から構築されたXLSMベースのワークフロー自動化。
+
+* MDノートから作成されたマクロを使用したエンジニアリングシート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* CIワークフローでの自動化されたMD → XLSM生成。
+
+* 操作用にマクロ有効なスプレッドシートの定期的な作成。
+
+* XLSMレポートを動的に生成する変換パイプライン。
+
+* Markdownソースを自動化された財務スプレッドシートシステムに統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

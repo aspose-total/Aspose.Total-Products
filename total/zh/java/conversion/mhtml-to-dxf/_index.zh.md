@@ -57,7 +57,45 @@ otherformats: SVGZ EMZ  DXF WMF WMZ PSD IMAGE TGA JPEG2000 DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML转换为DXF（绘图交换格式）可将基于Web的图表转换为CAD兼容的矢量文件。DXF非常适合需要精确性和可编辑性的建筑师、工程师和设计师。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从Web存档中提取工程图或原理图。
+* 将基于Web的平面图转换为可编辑的CAD图纸。
+* 将技术插图转换为建筑项目使用的图纸。
+* 为制造或原型制作准备矢量图。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将在线CAD准备好的图表批量转换为DXF。
+* 触发DXF生成以进行协作工程工作流程。
+* 集成到设计和仿真软件流程中。
+* 定期存档来自Web的原理图。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

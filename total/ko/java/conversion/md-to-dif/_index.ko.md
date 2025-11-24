@@ -47,7 +47,55 @@ MD 파일을 DIF로 변환하는 동안 출력 DIF 파일 형식에 워터마크
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (마크다운)를 DIF (데이터 교환 형식)으로 변환하는 것은 구조화된 행 기반 텍스트 데이터에 의존하는 레거시 시스템 및 스프레드시트 워크플로에 이상적입니다. DIF 파일은 오래된 금융, 과학 및 공학 소프트웨어와의 호환성을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 마크다운 레코드를 클래식 회계 소프트웨어로 가져오기.
+
+* 오래된 통계 응용 프로그램을 위해 MD 테이블을 DIF로 변환하기.
+
+* 마크다운 문서에서 유래된 레거시 데이터베이스 이관.
+
+* 전통적인 스프레드시트를 사용하는 팀과 구조화된 DIF 파일 공유.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 보관 시스템을 위한 자동화된 마크다운에서 DIF로의 파이프라인.
+
+* DIF 데이터를 기업 보고 도구로 공급하는 일괄 워크플로.
+
+* MD 재고 시트를 DIF 형식으로 예약된 변환.
+
+* DIF 입력을 사용하는 레거시 소프트웨어 생태계를 위한 ETL 브릿지.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

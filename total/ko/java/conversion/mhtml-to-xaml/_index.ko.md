@@ -135,7 +135,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML를 XAML(Extensible Application Markup Language)로 변환하면 웹 기반의 벡터 및 UI 그래픽을 Windows 호환 UI 구성 요소 및 확장 가능한 시각적 요소로 변환할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* WPF 애플리케이션용으로 웹 다이어그램을 XAML로 변환합니다.
+
+* 소프트웨어 개발을 위해 웹 기반 UI 레이아웃을 아카이빙합니다.
+
+* 데스크톱 애플리케이션용 대화형 대시보드를 준비합니다.
+
+* Windows UI 프로젝트용 벡터 그래픽을 추출합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 앱 개발을 위해 MHTML 콘텐츠를 XAML로 일괄 변환합니다.
+
+* 웹 UI 프로토타입을 변환하기 위한 예약된 파이프라인을 설정합니다.
+
+* WPF 애플리케이션 통합을 위해 트리거된 XAML 생성을 수행합니다.
+
+* 소프트웨어 팀을 위해 웹 벡터 콘텐츠를 자동으로 아카이빙합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

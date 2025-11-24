@@ -47,7 +47,55 @@ otherformats: XLSM XLAM XLT EXCEL ODS TXT XLTM FODS SXC TSV XLTX DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование Markdown (MD) в XLTM (Шаблон Excel с поддержкой макросов) создает многоразовые таблицы с автоматизацией. Файлы XLTM поддерживают макросы для динамической инициализации, автозаполнения полей и продвинутых действий рабочего процесса.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Бизнес-шаблоны на основе макросов, созданные из Markdown контента.
+
+* Создание автоматизированных таблиц прогнозирования на основе данных MD.
+
+* Создание многоразовых шаблонов расчетов для инженерных команд.
+
+* Создание готовых к использованию шаблонов для ввода в эксплуатацию или аудита.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое создание шаблонов XLTM с помощью преобразования MD с использованием CI.
+
+* Пакетное создание шаблонов с поддержкой макросов для распределенных офисов.
+
+* Плановое обновление файлов XLTM из репозиториев Markdown.
+
+* Динамические сценарии рабочего процесса, заполняющие шаблоны XLTM данными из backend.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

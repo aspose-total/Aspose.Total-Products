@@ -61,7 +61,55 @@ otherformats: MHTML SXC TSV XLSX XLTM XLTX EXCEL XLSM FODS ODS MARKDOWN XLSB XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **POTM 转换为 XLTM** 会生成支持宏的 Excel 模板文件，允许将基于幻灯片的逻辑或布局转移到动态电子表格模板中。当组织依赖于 Excel 自动化但起点是基于 PowerPoint 的结构时，这将特别有用。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将基于演示文稿的工作流转换为支持宏的 Excel 模板。
+
+* 使用转换后的模板结构创建自动化数据输入表单。
+
+* 为预测或审计设计部门级 XLTM 模板。
+
+* 将 POTM 逻辑重复利用作为电子表格自动化的基础。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从公司 POTM 库批量生成 XLTM 模板。
+
+* 定期部署更新的支持宏的 Excel 模板。
+
+* 将 XLTM 创建集成到高级报告和规划系统中。
+
+* 当演示文稿模板被修改时触发自动转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

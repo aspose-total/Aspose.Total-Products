@@ -130,7 +130,55 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie MHTML na OTT (OpenDocument Template) pozwala na tworzenie wielokrotnie używanych szablonów dla pakietów biurowych typu open-source, zachowując spójność stylizacji i układu opartego na stronach internetowych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Szablony dokumentów dla całej firmy w LibreOffice.
+
+* Wielokrotnie używane szablony planów lekcji z treści edukacyjnych dostępnych online.
+
+* Standaryzowane szablony propozycji i umów w otwartym oprogramowaniu.
+
+* Szablony przepływu pracy dla współpracy nad zarządzaniem treścią.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczne generowanie szablonów OTT z wielu stron MHTML.
+
+* Integracja z narzędziami automatyzacji w LibreOffice do wsadowego tworzenia dokumentów.
+
+* Wywoływanie aktualizacji szablonów po zmianach treści internetowych.
+
+* Usprawnione standaryzowanie dokumentów w zespołach rozproszonych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -130,7 +130,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MHTML PS (PostScript) konvertálása magas minőségű vektor nyomtatásra kész dokumentumokat hoz létre webarchívumokból. A PS ideális a professzionális nyomtatáshoz és asztali kiadási folyamatokhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Webes jelentések átalakítása nyomtatásra kész PostScript dokumentumokká.
+
+* Műszaki illusztrációk és diagramok archiválása nyomtatáshoz.
+
+* Marketing anyagok vagy brosúrák előkészítése online forrásokból.
+
+* Nagy felbontású vektorgrafikák generálása asztali kiadáshoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Webes tartalom automatizált tömeges átalakítása PS fájlokká.
+
+* Kiváltott PS generálás kiadási csövek számára.
+
+* Integráció nyomtatási igény szerinti rendszerekkel.
+
+* Ütemezett archiválás webes forrású nyomtatásra kész grafikákból.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

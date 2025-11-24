@@ -47,7 +47,55 @@ Saat mengonversi file MD ke DIF, Anda juga dapat menambahkan tanda air ke format
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konversi MD (Markdown) ke DIF (Data Interchange Format) ideal untuk sistem warisan dan alur kerja spreadsheet yang mengandalkan data teks terstruktur berbasis baris. File DIF mendukung kompatibilitas dengan perangkat lunak keuangan, ilmiah, dan rekayasa yang lebih lama.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengimpor catatan Markdown ke dalam perangkat lunak akuntansi klasik.
+
+* Mengonversi tabel MD ke DIF untuk aplikasi statistik yang lebih lama.
+
+* Migrasi database warisan yang bersumber dari dokumentasi Markdown.
+
+* Berbagi file DIF terstruktur dengan tim yang menggunakan spreadsheet tradisional.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Pipa kerja otomatis Markdown-to-DIF untuk sistem arsip.
+
+* Alur kerja batch yang memberikan data DIF ke alat pelaporan perusahaan.
+
+* Konversi terjadwal dari lembar inventaris MD ke format DIF.
+
+* Jembatan ETL untuk ekosistem perangkat lunak warisan yang menggunakan input DIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MHTML в OTT (OpenDocument Template) позволяет создавать многоразовые шаблоны для офисных пакетов с открытым исходным кодом, сохраняя стиль и макет на основе веб-страниц.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Шаблоны документов для всей компании в LibreOffice.
+
+* Многоразовые шаблоны уроков на основе веб-контента для образовательных целей.
+
+* Стандартизированные шаблоны предложений и контрактов с открытым исходным кодом.
+
+* Шаблоны рабочих процессов для совместного управления контентом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое создание шаблонов OTT из нескольких страниц MHTML.
+
+* Интеграция с инструментами автоматизации LibreOffice для пакетного создания документов.
+
+* Автоматическое обновление шаблонов при изменении веб-контента.
+
+* Оптимизированная стандартизация документов для распределенных команд.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

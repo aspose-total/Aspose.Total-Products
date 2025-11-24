@@ -61,7 +61,51 @@ otherformats: XLSM XLT ODS XLTX SXC DIF XLSX XLAM XLS TSV MARKDOWN XLSB FODS EXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **POTX 转换为 XLTX** 可提供基于演示版式的干净、无宏的 Excel 模板，方便进行一致的企业报告。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 源自 POTX 的宏安全可重复使用模板。
+
+* 用于文档的标准化电子表格格式。
+
+* 将演示蓝图重新用于 Excel 工作流程。
+
+* 从幻灯片设计创建适用于客户的模板集。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于企业范围报告的批量 XLTX 生成。
+
+* 基于触发器的无宏模板创建。
+
+* 用于模板版本控制系统的定时转换。
+
+* 与基于云的模板库集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

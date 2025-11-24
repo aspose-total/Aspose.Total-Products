@@ -57,7 +57,51 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh DXF đầu ra theo nhu c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MHTML sang DXF (Drawing Exchange Format) biến đổi các sơ đồ dựa trên web thành các tệp vector tương thích với CAD. DXF lý tưởng cho kiến trúc sư, kỹ sư và nhà thiết kế cần độ chính xác và khả năng chỉnh sửa.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Trích xuất sơ đồ kỹ thuật hoặc bản vẽ từ các lưu trữ web.
+
+* Chuyển đổi các kế hoạch tầng dựa trên web thành các bản vẽ CAD có thể chỉnh sửa.
+
+* Chuyển đổi các minh họa kỹ thuật cho các dự án kiến trúc.
+
+* Chuẩn bị sơ đồ vector cho sản xuất hoặc tạo mẫu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt các sơ đồ sẵn sàng cho CAD trực tuyến thành DXF.
+
+* Kích hoạt việc tạo ra DXF cho quy trình làm việc kỹ thuật hợp tác.
+
+* Tích hợp vào các đường ống phần mềm thiết kế và mô phỏng.
+
+* Lên lịch lưu trữ các bản vẽ kỹ thuật lấy từ web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

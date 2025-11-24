@@ -59,7 +59,55 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja MD (Markdown) na PPS (PowerPoint Slideshow) jest idealna do zamiany lekkiej treści na pliki prezentacji automatycznie uruchamiane. PPS otwiera się bezpośrednio jako pokaz slajdów, co sprawia, że jest idealny do kiosków, ekspozycji i prezentacji w pętli.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Tworzenie prezentacji w pętli dla kiosków na podstawie notatek w formacie Markdown.
+
+* Automatyczne wyświetlanie produktów generowanych z opisów w formacie MD.
+
+* Wyświetlanie wydarzeń w formie pokazu slajdów na podstawie harmonogramów w formacie MD.
+
+* Tworzenie ekspozycji muzealnych, handlowych lub wystaw bezpośrednio z plików w formacie Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Generowanie zbiorcze pokazów slajdów PPS do cyfrowych ekranów informacyjnych.
+
+* Automatyzacja przepływów pracy z MD do PPS dla zespołów zarządzających wydarzeniami.
+
+* Planowanie tworzenia pokazów slajdów na podstawie ogłoszeń w formacie Markdown.
+
+* Generowanie plików prezentacji w pętli sterowane pulpitem nawigacyjnym.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

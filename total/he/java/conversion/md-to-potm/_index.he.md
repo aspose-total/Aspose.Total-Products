@@ -72,7 +72,55 @@ otherformats: SWF POWERPOINT POT POTX ODP PPT PPSM OTP PPS XAML PPTM PPSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MD (Markdown) ל-POTM (Macro-Enabled PowerPoint Template) מאפשרת יצירת תבניות מצגות מועשרות באוטומציה. POTM תומך ב-VBA macros לעיצוב אוטומטי, יצירת שקופיות, והכנסת תוכן דינמי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* תבניות שקופיות המופעלות על ידי מאקרו בנויות מפריימוורקים של Markdown.
+
+* קריאת דוחות אוטומטית מתיעוד MD.
+
+* יצירת תבנית הדרכה אינטראקטיבית באמצעות תוכן MD.
+
+* תבניות עסקיות דינמיות מוכנות עם לוגיקת VBA מוטעמת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת תבנית POTM אוטומטית שמופעלת על ידי עדכונים ב-MD.
+
+* יצירת סדרות של תבניות מצגות בעלות מאקרו.
+
+* זרימות עבודה CI/CD שבונות מסגרות POTM עבור צוותי דיווח.
+
+* שיחזור של POTM המופעל על ידי זרימת עבודה עבור סימון תדמיתי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

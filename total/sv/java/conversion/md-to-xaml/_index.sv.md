@@ -59,7 +59,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera Markdown (MD) till XAML (Extensible Application Markup Language) omvandlar textinnehåll till vektorbaserade UI-grafik eller interaktiva komponenter för Windows-applikationer. XAML stödjer exakta layouter, skalbara visuella element och integration med moderna applikationsramverk.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Rendera Markdown-diagram som UI-komponenter i WPF-applikationer.
+
+* Skapa interaktiva vektorillustrationer för skrivbordsapplikationer.
+
+* Konvertera dokumentationstabeller och diagram till XAML-grafik.
+
+* Bädda in Markdown-innehåll som skalbara visuella element i programvarugränssnitt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Automatisk generering av MD till XAML för programvaru-UI-pipelines.
+
+* Batchbehandling av Markdown-anteckningar till XAML-vektorkomponenter.
+
+* Schemalagd konvertering för dokumentation-till-UI-arbetsflöden.
+
+* Utlöst rendering av Markdown-diagram till XAML för interaktiva appar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

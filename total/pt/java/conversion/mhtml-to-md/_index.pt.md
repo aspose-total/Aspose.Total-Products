@@ -47,7 +47,51 @@ Ao converter o arquivo MHTML para MD, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A conversão de MHTML para MD foca em criar arquivos Markdown (.md) limpos e editáveis a partir de arquivos da web. Arquivos MD são ideais para sites estáticos, repositórios do GitHub e aplicativos de anotações, oferecendo portabilidade e simplicidade.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Gerar arquivos README do GitHub a partir de conteúdo da web.
+
+* Arquivar guias técnicos e tutoriais como Markdown.
+
+* Converter artigos de conhecimento online em notas MD editáveis.
+
+* Criar newsletters ou documentação baseadas em Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote agendada de arquivos MHTML para MD em projetos de documentação.
+
+* Integração com geradores de sites estáticos como Hugo ou Jekyll.
+
+* Conversão acionada para arquivamento automatizado de conteúdo da web.
+
+* Integração de pipeline para sistemas de gerenciamento de conteúdo baseados em Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

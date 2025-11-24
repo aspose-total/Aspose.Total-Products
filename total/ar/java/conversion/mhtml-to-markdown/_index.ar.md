@@ -130,7 +130,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات MHTML (الأرشيف الويب) إلى MARKDOWN (.md) يسمح بتحويل محتوى الويب إلى نص خفيف الوزن وقابل للقراءة والنقل، مناسب للمواقع الإلكترونية والمدونات ووثائق المطورين. يحتفظ Markdown ببنية المحتوى مثل العناوين والروابط والقوائم ومقاطع الشفرة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل البرامج التعليمية على الويب إلى Markdown لوثائق المطورين.
+
+* أرشفة محتوى المدونة من صفحات الويب بتنسيق Markdown.
+
+* إنشاء مقالات قاعدة المعرفة من الدلائل على الإنترنت.
+
+* تحويل التقارير القائمة على الويب إلى ملاحظات Markdown قابلة للنقل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعة من صفحات MHTML إلى Markdown لمُنشئي مواقع ثابتة.
+
+* توليد Markdown بشكل مُشغّل لتحديثات المحتوى التلقائية على ويكي المطورين.
+
+* التكامل مع أنابيب CI/CD لتحويل محتوى الويب إلى وثائق.
+
+* استخراج تلقائي للتقارير القائمة على الويب لقواعد المعرفة القائمة على Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

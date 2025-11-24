@@ -102,7 +102,51 @@ otherformats: XLTM TSV XLAM MARKDOWN XLTX FODS XLS XLT CSV MHTML SXC DIF XLSX EX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **POTX ל-ODS** יוצרת קבצי OpenDocument Spreadsheet, המאפשרים זרימות עבודה ניתנות לעריכה ותקפות, המגיעות ישירות ממבני תבניות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ניתוח נתונים מבוסס תבניות באמצעות חבילות קוד פתוח.
+
+* המרת פריסות POTX למסמכי תיעוד או משאבי הכשרה.
+
+* הכנת גיליונות עבודה הניתנים לאינטרופרציה עבור צוותים מרוחקים.
+
+* שימוש מחודש בתוכן התבנית למעקב אחר פרויקטים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* ייצוא ODS בצורת צפיפות מספרית מספריות תבניות שלמות.
+
+* המרה מתוזמנת למחזורי דיווח תקפים בתקן פתוח.
+
+* שילוב קבצי ODS לתהליכי עבודה המאושרים על ידי ממשלה.
+
+* סנכרון אוטומטי של עדכוני POTX לתוך גיליונות עבודה של ODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,55 @@ otherformats: SVGZ WMF TGA JPEG2000  IMAGE DXF WMZ EMZ PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML إلى SVGZ (SVG مضغوط) يحافظ على الرسومات النقطية من محتوى الويب مع تقليل حجم الملف. مثالي لتطبيقات الويب وواجهة المستخدم والرموز التي تتطلب التوسعة وملفات خفيفة الوزن.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* استخراج الرسوم التخطيطية القابلة للتوسيع من لوحات القيادة عبر الإنترنت.
+
+* ضغط شعارات الرسومات النقطية على الويب لمواقع الويب.
+
+* تحويل الخرائط التدفقية أو الإنفوجرافيك إلى تنسيق نقطي.
+
+* إعداد رموز الويب من الرسوم البيانية والرموز البصرية المؤرشفة من HTML/CSS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعة من محتوى الويب القائم على النقاط إلى SVGZ.
+
+* دمجها في خطوط الأنابيب لتطوير الويب للرسومات الاستجابية.
+
+* استخراج الرسوم التخطيطية القابلة للتوسيع بانتظام من أرشيفات MHTML.
+
+* ضغط وتسليم الرسوم البيانية القابلة للتوسيع لمواقع الويب بشكل مؤقت.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

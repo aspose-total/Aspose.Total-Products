@@ -47,7 +47,55 @@ Saat mengonversi file MD ke ODS, Anda juga dapat menambahkan tanda air ke format
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi Markdown (MD) ke ODS (OpenDocument Spreadsheet) memberikan alternatif yang kuat dan berstandar terbuka untuk Excel. ODS ideal untuk tim yang menggunakan LibreOffice atau OpenOffice dan mendukung rumus, grafik, dan format tabel terstruktur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengimpor daftar Markdown ke dalam dasbor ODS.
+
+* Membangun lembar analisis untuk lingkungan kantor sumber terbuka.
+
+* Membuat pelacak anggaran format ODS yang bersumber dari konten MD.
+
+* Mengonversi dokumentasi MD teknis menjadi data siap lembar kerja.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi ODS terjadwal untuk tim data sumber terbuka.
+
+* Pipa lintas-platform yang memberi makan Markdown ke lembar kerja ODS.
+
+* Transformasi batch tabel dokumentasi ke format ODS.
+
+* Pembangunan ODS otomatis untuk tim terdistribusi yang membutuhkan lembar kerja yang dapat diedit.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

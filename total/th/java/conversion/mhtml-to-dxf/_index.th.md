@@ -57,7 +57,51 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MHTML เป็น DXF (Drawing Exchange Format) จะเปลี่ยนแผนภาพที่อยู่บนเว็บเป็นไฟล์เวกเตอร์ที่เข้ากันได้กับ CAD โดย DXF เหมาะสำหรับสถาปนิก วิศวกร และนักออกแบบที่ต้องการความแม่นยำและความสามารถในการแก้ไข.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การสกัดแผนภาพวิศวกรรมหรือแผนภาพต่าง ๆ จากเว็บอาร์กีฟ.
+
+* การแปลงแผนผังชั้นพื้นที่บนเว็บให้เป็นแผนภาพ CAD ที่สามารถแก้ไขได้.
+
+* การแปลงภาพประกอบทางเทคนิคสำหรับโครงการสถาปัตยกรรม.
+
+* เตรียมแผนภาพเวกเตอร์สำหรับการผลิตหรือจำลอง.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงเป็นชุดข้อมูลขนาดใหญ่ของแผนภาพที่พร้อมใช้งานใน CAD เป็น DXF.
+
+* การสร้าง DXF ตามที่กำหนดสำหรับกระบวนการทำงานของวิศวกรรมที่มีการทำงานร่วมกัน.
+
+* การรวมเข้ากับซอฟต์แวร์ออกแบบและจำลอง.
+
+* การเก็บถาวรแผนผังที่มาจากเว็บตามกำหนดเวลา.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

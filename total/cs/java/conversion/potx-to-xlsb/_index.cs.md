@@ -61,7 +61,51 @@ Při převodu souboru POTX na XLSB můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění **POTX na XLSB** vytváří soubory Excel Binary Workbook optimalizované pro výkonné výpočty a operace s velkými daty.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření lehkých binárních tabulek z POTX.
+
+* Efektivní správa velkých datových sad odvozených z šablon.
+
+* Příprava výkonnostně zaměřených souborů Excel pro analytiky.
+
+* Archivace obsahu tabulek POTX v kompaktním binárním formátu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkový export XLSB pro analytické a finanční oddělení.
+
+* Vytváření binárních souborů na základě spouštění při aktualizaci šablon.
+
+* Plánovaná konverze pro zpracování ve velkém množství.
+
+* Integrace s výpočetními pracovními postupy v Excelu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

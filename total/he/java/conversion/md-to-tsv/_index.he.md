@@ -78,7 +78,55 @@ otherformats: XLT XLSB EXCEL XLAM TXT CSV SXC FODS XLSM DIF ODS XLTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת Markdown (MD) ל־TSV (ערכים מופרדים באמצעות טאב) מאפשרת ייצוא נתונים נקיים ובטוחים ממפרידים המתאימים למפתחים, צוותי BI וצינורות למידת מכונה. קבצי TSV שומרים על רווחים ועובדים טוב עבור סטים שמכילים פסיקים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייצוא של סטי נתונים ב־Markdown ל־TSV לעיבוד מוקדם של למידת מכונה.
+
+* יבוא של לוגים שנוצרו ב־MD לתהליכי עבודה במדעי הנתונים.
+
+* יצירת נפחי נתונים מבוססי TSV לפיתוח API.
+
+* המרת רשימות מסומנות ב־Markdown לסטים מבוססי טאב.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת טבלאות MD באמצעות צינורות ל־TSV.
+
+* ייצוא צפיפיות למערכות עיבוד נתוני AI.
+
+* יצירת TSV רגיל לבדיקות אינטגרציה בצד השרת.
+
+* עיבוד צינורות אוטומטיים מתוכן ב־Markdown של המאגר.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

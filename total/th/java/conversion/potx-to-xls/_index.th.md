@@ -61,7 +61,51 @@ otherformats: FODS XLTX DIF XLTM XLSM MARKDOWN XLSB SXC XLT XLAM XLSX EXCEL MHTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **POTX เป็น XLS** ส่งออกเนื้อหาเทมเพลตเป็นสเปรดชีต Excel แบบคลาสสิก เพื่อให้เข้ากันได้กับระบบ Office เวอร์ชันเก่า
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การใช้งานตารางเทมเพลตใหม่ในกระบวนการทำงาน Excel เวอร์ชันเก่า
+
+* สร้างสเปรดชีตรูปแบบเก่าสำหรับการทดสอบความเข้ากันได้
+
+* สกัดเนื้อหาเทมเพลตโครงสร้างสำหรับรายงานภายใน
+
+* รองรับการแลกเปลี่ยนข้อมูลระหว่างแผนก
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง XLS ขนาดใหญ่สำหรับการเก็บถาวรขององค์กร
+
+* การสร้างสเปรดชีตเวอร์ชันเก่าตามเทมเพลตมาตรฐานตามกำหนด
+
+* การอัพเดต XLS ตามเงื่อนไขการปฏิบัติ
+
+* การรวมเอกสารที่ต้องการมาตรฐานไฟล์เก่า
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

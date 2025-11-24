@@ -57,7 +57,55 @@ otherformats: PSD JPEG2000 WMZ SVGZ IMAGE EMZ TGA  WMF DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του Markdown (MD) σε WMF (Windows Metafile) παράγει γραφικά με διανυσματική βάση συμβατά με παλαιότερες εφαρμογές Windows. Τα αρχεία WMF διατηρούν την ακρίβεια βάσει γραμμής και είναι κατάλληλα για διαγράμματα, γραφήματα και σχηματικά.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Εξαγωγή ροής Markdown σε διαγράμματα για παλαιότερες εφαρμογές Windows.
+
+* Μετατροπή τεχνικών πινάκων σε κλιμακούμενα διαγράμματα WMF.
+
+* Ενσωμάτωση διαγραμμάτων σε παλαιότερο λογισμικό γραφείου που υποστηρίζει το WMF.
+
+* Διατήρηση γραμμικών εικόνων από περιεχόμενο Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη δημιουργία WMF για αρχειοθετητικούς ή συμβατότητας σκοπούς.
+
+* Μαζική μετατροπή οπτικών στοιχείων βασισμένων σε Markdown για παλαιά συστήματα.
+
+* Προγραμματισμένες ενημερώσεις διαγραμμάτων για πύλες τεκμηρίωσης.
+
+* Ενσωμάτωση με αγωγούς παραγωγής γραφικών WMF για επιχειρηματικές αναφορές.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

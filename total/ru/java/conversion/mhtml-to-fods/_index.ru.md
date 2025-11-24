@@ -47,7 +47,51 @@ otherformats: MD SXC FODS TSV XLT TXT XLSB XLSM EXCEL DIF XLAM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MHTML в FODS (Flat OpenDocument Spreadsheet) создает открытые файлы электронных таблиц на основе XML, подходящие для LibreOffice или OpenOffice. FODS идеально подходит для легкого, портативного архивирования данных.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Архивирование веб-основанных табличных отчетов для редактирования на разных платформах.
+
+* Подготовка шаблонов электронных таблиц с открытым исходным кодом для коллективных команд.
+
+* Преобразование онлайн финансовых панелей управления в портативные файлы FODS.
+
+* Обмен структурированными веб-данными с пользователями, не использующими Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое преобразование MHTML в FODS для рабочих процессов с открытым исходным кодом.
+
+* Пакетная обработка онлайн таблиц для создания редактируемых файлов FODS.
+
+* Автоматическое запуск преобразования для систем мониторинга веб-ресурсов.
+
+* Интеграция в коллективные платформы, требующие шаблонов FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

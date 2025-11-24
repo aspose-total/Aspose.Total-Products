@@ -57,7 +57,55 @@ otherformats: JPEG2000 PSD WMF DXF IMAGE WMZ SVGZ EMZ TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为DXF（Drawing Exchange Format）可将结构化图表和流程图转换为CAD兼容的矢量文件。DXF非常适用于需要精确基于线条的工程、建筑和制造工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将Markdown图表导出为CAD准备的DXF图纸。
+
+* 将流程图和原理图转换为工程文档。
+
+* 从Markdown笔记准备建筑或机械插图。
+
+* 使用CAD软件与合作者共享技术图表。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为工程和设计团队批量进行MD到DXF转换。
+
+* 与自动化设计流程集成，用于快速原型制作。
+
+* 定时导出DXF以用于技术文档系统。
+
+* 从Markdown存储库触发生成CAD准备的插图。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ MD dosyasını DIF'ye dönüştürürken, çıktı DIF dosya biçiminize filigra
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) ile DIF (Veri Değişim Formatı) dönüşümü, yapılandırılmış, satır tabanlı metin verilerine dayanan eski sistemler ve elektronik tablo iş akışları için idealdir. DIF dosyaları, eski finansal, bilimsel ve mühendislik yazılımları ile uyumluluğu destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown kayıtlarının klasik muhasebe yazılımlarına aktarılması.
+
+* MD tablolarının eski istatistik uygulamaları için DIF'e dönüştürülmesi.
+
+* Markdown belgelerinden kaynaklanan eski veritabanı göçü.
+
+* Geleneksel elektronik tablolar kullanan ekiplerle yapılandırılmış DIF dosyalarının paylaşılması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Arşiv sistemleri için otomatik Markdown-DIF boru hatları.
+
+* DIF verilerini kurumsal raporlama araçlarına besleyen toplu iş akışları.
+
+* MD envanter tablolarının DIF formatlarına zamanlanmış dönüşümü.
+
+* DIF girdileri kullanan eski yazılım ekosistemleri için ETL köprüleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

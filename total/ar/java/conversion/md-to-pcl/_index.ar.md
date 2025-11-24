@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل Markdown (MD) إلى PCL (لغة أوامر الطابعة) يولد ملفات جاهزة للطباعة متوافقة مع الطابعات الليزرية والحبرية. تحويل PCL مناسب لإنتاج الوثائق التقنية والتقارير وأتمتة سير العمل في بيئات الطباعة الشركات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* طباعة التقارير القائمة على Markdown على الطابعات المدعومة بـ PCL.
+
+* إنشاء إخراج PCL لتوزيع الوثائق بالدُفعات.
+
+* تحويل وثائق Markdown إلى تنسيقات جاهزة للطباعة.
+
+* إعداد التعليمات التقنية لسير العمل في مكاتب أو مصانع الطباعة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دُفعي مجدول لملفات Markdown إلى PCL للطباعة الشركات.
+
+* دمج مع خوادم الطباعة لتوليد PCL تلقائيًا من وثائق Markdown.
+
+* خطوط إنتاج الطباعة الآلية تحويل Markdown إلى PCL.
+
+* إنتاج الوثائق بناءً على المُشغلات لطابعات PCL ذات الحجم الكبير.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

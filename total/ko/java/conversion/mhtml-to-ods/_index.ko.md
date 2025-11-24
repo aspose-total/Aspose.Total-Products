@@ -47,7 +47,55 @@ MHTML 파일을 ODS로 변환하는 동안 출력 ODS 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML을 ODS(OpenDocument Spreadsheet)로 변환하면 웹 테이블 형식을 보존하면서 견고하고 크로스 플랫폼 스프레드시트 편집이 가능해집니다. ODS는 협업 환경과 오픈 소스 워크플로에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* ODS 파일로 보관된 회사 성과 대시보드.
+
+* 웹 데이터에서 파생된 협업 예산 추적 템플릿.
+
+* 온라인 강좌 자료에서 파생된 교육용 스프레드시트.
+
+* 오픈 소스 스프레드시트 편집기로 가져온 통계 데이터 세트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 다부서 데이터 공유를 위한 자동화된 MHTML-to-ODS 파이프라인.
+
+* 주기적인 재무 및 영업 보고서를 위한 트리거된 ODS 생성.
+
+* 실시간 데이터 업데이트를 위해 오픈 소스 오피스 스위트와 통합.
+
+* 역사적 분석을 위해 보관된 웹 테이블을 ODS로 일괄 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

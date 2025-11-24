@@ -61,7 +61,51 @@ otherformats: XLSB XLS XLT SXC XLTX MHTML DIF XLTM XLSX XLSM TSV EXCEL MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **POTX เป็น XLTM** จะสร้างเทมเพลต Excel ที่เปิดใช้งานมาโครอย่างเหมาะสมสำหรับรายงานธุรกิจที่เปลี่ยนไปตลอดเวลาที่สร้างขึ้นจากโครงสร้างการออกแบบงานนำเสนอ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้างเทมเพลตรายงานที่ใช้มาโครจากเลย์เอาต์สไลด์.
+
+* อัตโนมัติการทำงานของทีมผ่านรูปแบบ Excel มาตรฐาน.
+
+* พัฒนาแผ่นกรอกข้อมูลแบบโต้ตอบจากเนื้อหา POTX.
+
+* สร้างเทมเพลตที่ยืดหยุ่นสำหรับฝ่ายทรัพยากรบุคคล, การเงิน, หรือ การดำเนินงาน.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้าง XLTM จำนวนมากสำหรับการรายงานของหลายแผนก.
+
+* การรีเฟรชเทมเพลตตามเงื่อนไขเมื่อมีการอัปเดตการออกแบบ POTX.
+
+* การผสานกับเครื่องมืออัตโนมัติ Excel ขององค์กร.
+
+* การส่งออกตามกำหนดเวลาสำหรับวงจรประสิทธิภาพที่เกิดซ้ำ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,31 @@ Al convertir un archivo MD a XLAM, también puede agregar una marca de agua a su
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Convertir MD (Markdown) a XLAM (Complemento de Excel) permite la generación de archivos de extensión habilitados para macro que contienen funciones, automatización y lógica reutilizable. Este formato es compatible con usuarios avanzados de Excel que requieren complementos programables.
+
+## {{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* Crear complementos de macro a partir de bibliotecas de fórmulas basadas en Markdown.
+* Empaquetar scripts fuente de MD en XLAM para equipos financieros.
+* Automatizar tareas analíticas repetitivas mediante la generación de complementos.
+* Distribuir paquetes de macros estandarizados derivados de notas de Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* Construcción automatizada de XLAM a partir de MD en canalizaciones de CI/CD.
+* Generación de complementos de macro controlados por versión para empresas.
+* Creación en lotes de herramientas XLAM para departamentos de análisis de datos.
+* Actualización automática de complementos de macro obtenidos de documentación de Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

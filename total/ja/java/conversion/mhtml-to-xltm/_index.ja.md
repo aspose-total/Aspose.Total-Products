@@ -47,7 +47,51 @@ MHTMLファイルをXLTMに変換するときに、出力XLTMファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをXLTM（マクロ有効Excelテンプレート）に変換すると、Webコンテンツから派生した埋め込み自動化を備えた再利用可能なテンプレートが作成されます。プログラマブルなExcelテンプレートが必要な定期的なワークフローに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* オンラインデータから更新されたマクロ有効な予算テンプレート。
+
+* ファイナンス、人事、マーケティングチーム向けの自動化されたレポートテンプレート。
+
+* 再利用可能なマクロ有効ExcelテンプレートとしてのKPIダッシュボード。
+
+* Webテーブルから生成されたプロジェクト計画と追跡テンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的なタスクのためのスケジュールされたMHTMLからXLTMへの変換。
+
+* 企業の自動化システムに統合されたトリガーされたテンプレート作成。
+
+* Webソースのダッシュボードのバッチ処理を再利用可能なマクロテンプレートに。
+
+* 動的レポート作成のためのExcel自動化スクリプトとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

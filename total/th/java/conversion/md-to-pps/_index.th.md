@@ -59,7 +59,55 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MD (Markdown) เป็น PPS (PowerPoint Slideshow) เหมาะสำหรับการเปลี่ยนเนื้อหาที่เบาเบาเป็นไฟล์งานนำเสนอที่เล่นอัตโนมัติ ไฟล์ PPS เปิดโดยตรงเป็นสไลด์โชว์ ทำให้เหมาะสำหรับการนำไปใช้ในกิอส์ การแสดงผล และการนำเสนอแบบวนเวียน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้างการนำเสนอกิอสแบบวนเวียนจากบันทึก Markdown
+
+* การแสดงผลสินค้าอัตโนมัติที่สร้างจากคำอธิบาย MD
+
+* การแสดงผลงานที่เกี่ยวกับเหตุการณ์จากตารางเวลา MD
+
+* การแสดงผลในพิพิธภัณฑ์ ร้านค้า หรืองานแสดงสร้างโดยตรงจาก Markdown
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างสไลด์โชว์ PPS แบบกลุ่มสำหรับป้ายดิจิทัล
+
+* ท่องไปทางอัตโนมัติจาก MD เป็น PPS สำหรับทีมงานจัดการเหตุการณ์
+
+* การสร้างสไลด์โชว์ตามกำหนดเวลาจากประกาศ Markdown
+
+* การสร้างไฟล์นำเสนอแบบวนเวียนจากการขับเคลื่อนด้วยแดชบอร์ด
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

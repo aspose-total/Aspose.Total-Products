@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek DXF podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MHTML na DXF (Drawing Exchange Format) transformuje webové diagramy do vektorových souborů kompatibilních s CAD. DXF je ideální pro architekty, inženýry a designéry, kteří potřebují přesnost a možnost úprav.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Extrahování inženýrských diagramů nebo schémat z webových archivů.
+
+* Transformace webových podlažních plánů do editovatelných CAD výkresů.
+
+* Převod technických ilustrací pro architektonické projekty.
+
+* Příprava vektorových diagramů pro výrobu nebo prototypování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod online diagramů připravených pro CAD do DXF.
+
+* Spuštění generování DXF pro spolupracující inženýrské pracovní postupy.
+
+* Integrace do softwarových potrubí pro design a simulace.
+
+* Plánované archivování webových schémat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

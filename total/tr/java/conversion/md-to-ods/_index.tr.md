@@ -47,7 +47,55 @@ MD dosyasını ODS'ye dönüştürürken, çıktı ODS dosya biçiminize filigra
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını ODS (OpenDocument Spreadsheet) formatına dönüştürmek, Excel'e karşı sağlam, açık standart bir alternatif sunar. ODS, LibreOffice veya OpenOffice kullanan ekipler için uygundur ve formülleri, grafikleri ve yapılandırılmış tablo biçimlendirmesini destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown listelerini ODS panolarına aktarma.
+
+* Açık kaynak ofis ortamları için analiz tabloları oluşturma.
+
+* MD içeriğinden alınan ODS formatında bütçe takipçileri oluşturma.
+
+* Teknik MD belgelerini elektronik tablo uygun veriye dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Açık kaynak veri ekipleri için zamanlanmış ODS oluşturma.
+
+* Markdown'in ODS elektronik tablolarına beslendiği çok platformlu borular.
+
+* Belge tablolarının ODS formatına toplu dönüşümü.
+
+* Düzenlenebilir elektronik tablolar gereken dağıtılmış ekipler için otomatik ODS oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -72,7 +72,55 @@ otherformats: DOT FLATOPC DOTX ODT XAMLFLOW PS WORDML PCL MHTML MARKDOWN DOTM DO
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת Markdown (MD) ל-OTT (תבנית טקסט של OpenDocument) תומכת ביצירת תבניות נפתחות למערכות משרד חופשיות. תבניות OTT שומרות עיצוב עקבי תוך מאפשרות לצוותים ליצור מסמכים מרובים מיסוד סגנון יציב.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת תבניות OTT לייצור מסמכים רבי שפות.
+
+* בניית תבניות מובנות לדוחות על פי הנחיות מבוססות Markdown.
+
+* תיעוד משרדי אחיד לסביבות קוד פתוח.
+
+* יצירת פורמטים ניתנים לשימוש חוזר בפורמט ODT עבור ארגונים ללא כוונת רווח או מוסדות ציבוריים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת OTT אוטומטית בתהליכי פרסום בקוד פתוח.
+
+* עדכוני תבניות מתקיימים בסנכרון מבקר גרסאות Markdown.
+
+* יצירת סטים של תבניות בצורה צמודה עבור צוותים מבוזרים באמצעות LibreOffice.
+
+* מערכות ממשלתיות או ללא כוונת רווח יוצרות תבניות OTT בקרון זמנים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

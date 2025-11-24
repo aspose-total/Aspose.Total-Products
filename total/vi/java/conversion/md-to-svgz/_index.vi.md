@@ -57,7 +57,55 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh SVGZ đầu ra theo nhu 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi Markdown (MD) sang SVGZ (SVG nén) tạo ra hình ảnh vector có thể co dãn trong định dạng nén. Lý tưởng cho đồ họa web, sơ đồ phản hồi và trực quan hóa tương tác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tạo sơ đồ vector nén từ nội dung Markdown.
+
+* Tạo hình minh họa web phản hồi từ bảng Markdown.
+
+* Tạo biểu tượng hoặc đồ họa có thể co dãn.
+
+* Nhúng hình ảnh vector nén vào tài liệu trực tuyến.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi Batch Markdown sang SVGZ cho xuất bản web.
+
+* Tích hợp Pipeline để tạo ra sơ đồ tự động.
+
+* Cập nhật SVGZ theo lịch trình cho bảng điều khiển tương tác.
+
+* Nén sơ đồ Markdown thành định dạng web tối ưu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

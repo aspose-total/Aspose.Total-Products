@@ -57,7 +57,55 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MHTML เป็น PSD (Adobe Photoshop) จะเปลี่ยนกราฟิกบนเว็บให้เป็นภาพชั้นที่สามารถแก้ไขได้อย่างเต็มรูปแบบ  PSD เหมาะสำหรับนักออกแบบและนักการตลาดที่ต้องการความสามารถในการแก้ไขระดับสูง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การแก้ไขแบนเนอร์บนเว็บ หัวเรื่อง หรือกราฟิก UI ใน Photoshop
+
+* การสกัดข้อมูลกราฟิกชั้นเรียงสำหรับแคมเปญการตลาด
+
+* การสร้างเทมเพลตเว็บที่สามารถแก้ไขได้จากเนื้อหาเก่า
+
+* โครงการออกแบบกราฟิกที่ต้องการภาพของเว็บต้นฉบับ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้าง PSD จากหน้าเว็บ MHTML จำนวนมากสำหรับทีมออกแบบ
+
+* การแปลงอัตโนมัติสำหรับการอัพเดทเนื้อหาการตลาดเป็นประจำ
+
+* การรวมเข้ากับกระบวนการทำงานของทรัพยากรออกแบบสำหรับการอัตโนมัติใน Photoshop
+
+* การสร้าง PSD ตามกำหนดเวลาสำหรับกระบวนการทำงานเพื่อพิมพ์บนเว็บ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

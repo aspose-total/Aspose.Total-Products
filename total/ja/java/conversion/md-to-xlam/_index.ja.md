@@ -47,7 +47,55 @@ MDファイルをXLAMに変換するときに、出力XLAMファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）をXLAM（Excel Add-in）に変換すると、関数、自動化、再利用可能なロジックを含むマクロ有効な拡張ファイルの生成が可能になります。この形式は、プログラム可能なアドインを必要とする上級Excelユーザーをサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* Markdownベースの式ライブラリからマクロアドインを作成する。
+
+* 金融チーム向けにMDソースのスクリプトをXLAMにパッケージ化する。
+
+* アドイン生成を通じて繰り返しの分析タスクを自動化する。
+
+* Markdownのノートから派生した標準化されたマクロパックを配布する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* CI/CDパイプラインでMDから自動化されたXLAMビルド。
+
+* 企業向けにバージョン管理されたマクロアドインの生成。
+
+* データ分析部門向けにXLAMツールの一括ビルド。
+
+* ドキュメントのMarkdownからソースを更新するマクロアドインの自動更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

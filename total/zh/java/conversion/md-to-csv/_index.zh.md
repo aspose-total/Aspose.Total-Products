@@ -49,7 +49,55 @@ otherformats: TSV SXC XLTX FODS DIF XLSB ODS XLSM XLTM EXCEL TXT XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MD（Markdown）文件转换为CSV使团队能够将结构化文本、表格和列表转换为通用兼容的电子表格数据。CSV文件非常适用于分析工作流程、数据库导入以及轻量级跨平台数据交换。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将Markdown表格导出为CSV数据集以供分析使用。
+
+* 将基于MD的定价表导入会计工具。
+
+* 将开发人员的Markdown日志转换为可排序的CSV文件。
+
+* 将文档表迁移到CRM和ERP系统。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* ETL作业每晚将存储库Markdown转换为CSV。
+
+* 自动转换为需要CSV输入的仪表板。
+
+* 用于机器学习预处理流水线的批量导出。
+
+* 工作流触发器从基于Markdown的报告生成CSV。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

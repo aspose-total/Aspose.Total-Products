@@ -59,7 +59,55 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod Markdown (MD) na POTX (PowerPoint šablona bez maker) umožňuje vytváření moderních, čistých šablon prezentací založených na lehkých textových souborech. POTX zajišťuje konzistenci prezentace bez závislostí na makrech.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření čistých a značkových šablon POTX z MD náčrtů.
+
+* Standardizace firemních snímků přes více oddělení.
+
+* Vytváření marketingových balíčků z Markdownových briefů.
+
+* Návrh akademických šablon prezentací pomocí obsahu MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaná produkce POTX v dokumentačních potrubích.
+
+* Obnova šablony pomocí Markdownu jako zdroje obsahu.
+
+* Hromadné distribuce souborů POTX pro firemní týmy.
+
+* Plánované aktualizace z MD na POTX v pracovních postupech značkování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

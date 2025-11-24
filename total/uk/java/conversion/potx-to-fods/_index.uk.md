@@ -102,7 +102,51 @@ otherformats: CSV DIF XLSB XLS XLTX ODS XLSM MHTML MARKDOWN TSV XLAM EXCEL XLSX 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Конвертація **POTX в FODS** експортує дані шаблону у файли Flat OpenDocument Spreadsheet для максимальної сумісності з відкритими інструментами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Редагування даних, похідних від POTX, в LibreOffice та OpenOffice.
+
+* Підготовка стандартних для уряду електронних таблиць у відкритому форматі.
+
+* Створення легких, платформонезалежних таблиць даних.
+
+* Архівування метаданих шаблону POTX у відкритих форматах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетна обробка файлів POTX у FODS для команд, які працюють на різних платформах.
+
+* Заплановані експорти у відкритому форматі для відповідності або аудитів.
+
+* Інтеграція з автоматизацією робочих процесів у відкритому вихідному коді.
+
+* Конвертація у FODS на основі тригерів при оновленні шаблонів.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

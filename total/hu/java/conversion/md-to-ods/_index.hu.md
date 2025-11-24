@@ -47,7 +47,55 @@ A MD-fájl ODS-vé konvertálásakor vízjelet is hozzáadhat a kimeneti ODS-fá
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) konvertálása ODS (OpenDocument Spreadsheet) formátumba egy erős, nyílt szabványú alternatívát nyújt az Excelhez. Az ODS ideális csapatok számára, akik a LibreOffice vagy az OpenOffice szoftvert használják, és támogatja a képleteket, diagramokat és strukturált táblázatformázást.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Markdown listák importálása ODS irányítópultokba.
+
+* Elemzési lapok készítése nyílt forráskódú irodai környezetekhez.
+
+* ODS-formátumú költségvetési nyomkövetők létrehozása MD tartalomból.
+
+* Műszaki MD dokumentáció konvertálása táblázatkész adattáblákká.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ütemezett ODS generálás nyílt forráskódú adatcsapatok számára.
+
+* Keresztplatformos csővezetékek, amelyek Markdown tartalmat táplálnak ODS táblázatokba.
+
+* Dokumentációs táblázatok batch átalakítása ODS formátumba.
+
+* Automatizált ODS építések elosztott csapatok számára, akiknek szerkeszthető táblázatokra van szükségük.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

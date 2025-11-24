@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MHTML в PS (PostScript) создает высококачественные векторные документы, готовые к печати, из веб-архивов. PS идеален для профессиональной печати и рабочих процессов издательской деятельности.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование веб-отчетов в готовые к печати документы PostScript.
+
+* Архивирование технических иллюстраций и диаграмм для печати.
+
+* Подготовка маркетингового материала или брошюр из онлайн-источников.
+
+* Создание высокоразрешенной векторной графики для издательской деятельности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное пакетное преобразование веб-контента в файлы PS.
+
+* Генерация PS по запросу для публикационных процессов.
+
+* Интеграция с системами печати по требованию.
+
+* Планирование архивирования графики, готовой к печати, из веб-источников.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

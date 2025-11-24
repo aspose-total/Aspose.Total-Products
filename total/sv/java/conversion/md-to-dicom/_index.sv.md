@@ -57,7 +57,55 @@ Med hjälp av API:t kan du också rotera den utgående DICOM-bilden enligt dina 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera Markdown (MD)-filer till DICOM (Digital Imaging and Communications in Medicine)-format möjliggör integration av textdokumentation eller anteckningar i medicinska bildflöden. DICOM stödjer metadata, standardbildstrukturer och är idealiskt för sjukhus- och forskningsmiljöer.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsområden" %}}
+
+
+
+* Bädda in Markdown-baserade kliniska anteckningar i medicinska bildarkiv.
+
+* Generera strukturerade visuella patientutbildningsmaterial med Markdown-innehåll.
+
+* Integrera forskningsdokumentation i DICOM-kompatibla bilduppsättningar.
+
+* Lagra textbaserade anteckningar bredvid radiologibilder.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Automatisk MD-till-DICOM-generering för sjukhusdokumentationssystem.
+
+* Batchbehandling av kliniska Markdown-filer för integration i elektroniska patientjournaler.
+
+* Schemalagda konverteringspipeliner som matar DICOM-arkiv.
+
+* Utlösad rendering av Markdown-rapporter bredvid bilddata för AI-assisterad diagnos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,51 @@ Tijdens het converteren van een POTX-bestand naar XLAM, kunt u ook een watermerk
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het converteren van **POTX naar XLAM** produceert door macro's ingeschakelde Excel-add-ins waarmee inhoud afgeleid van sjablonen kan worden ingebed in geautomatiseerde Excel-oplossingen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het bouwen van herbruikbare Excel-add-ins op basis van sjabloondata.
+
+* Het ontwikkelen van geautomatiseerde workflows met behulp van POTX-gebaseerde inhoud.
+
+* Het maken van dynamische zakelijke rekenmachines of rapportagetools.
+
+* Het inbedden van geavanceerde logica afkomstig van dia-sjablonen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchgeneratie van XLAM-tools van consistente sjabloonbibliotheken.
+
+* Op triggers gebaseerde add-in-updates voor dynamische rapportage.
+
+* Geplande implementatie van door macro's ingeschakelde spreadsheets.
+
+* Integratie met bedrijfsbrede Excel-automatiseringskaders.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

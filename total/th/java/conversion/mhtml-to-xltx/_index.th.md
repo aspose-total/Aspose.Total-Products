@@ -47,7 +47,55 @@ otherformats: EXCEL XLSM TXT XLSB DIF XLT TSV ODS XLTM FODS XLAM SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML เป็น XLTX (Excel Template โดยไม่มี macros) ทำให้เนื้อหาบนเว็บเป็นเทมเพลตสเปรดชีทที่ปลอดภัยและสามารถนำมาใช้ซ้ำได้ XLTX ช่วยให้มีความสม่ำเสมอและการทำงานร่วมกันโดยไม่ต้องกังวลเรื่องความปลอดภัยของ macros.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* เทมเพลตการรายงานมาตรฐานสำหรับทีมบริษัท
+
+* แผงควบคุมการเงินและ KPI ที่ถูกสงวนไว้ในรูปแบบที่ใช้ซ้ำได้
+
+* เทมเพลตการติดตามโครงการโดยไม่ต้องพึ่งพา macros
+
+* เทมเพลต Excel ที่พร้อมใช้งานร่วมกันที่ได้มาจากข้อมูลบนเว็บ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างเทมเพลต XLTX จำนวนมากจากตาราง MHTML ที่ถูกเก็บไว้
+
+* การรวมเข้ากับระบบการจัดการเทมเพลตของบริษัท
+
+* การอัปเดตเทมเพลตตาม trigger สำหรับวงจรการรายงานที่เกิดซ้ำ
+
+* การแปลงอัตโนมัติสำหรับการทำงานที่ปลอดภัยและไม่มี macros
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

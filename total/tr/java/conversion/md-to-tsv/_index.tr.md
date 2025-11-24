@@ -47,7 +47,55 @@ MD dosyasını TSV'ye dönüştürürken, çıktı TSV dosya biçiminize filigra
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını TSV (Tablo Ayırıcılı Değerler) formatına dönüştürmek, geliştiriciler, BI ekipleri ve makine öğrenimi akışları için uygun, ayraç güvenli veri dışa aktarmaları sağlar. TSV dosyaları boşlukları korur ve virgül içeren veri setleri için uygun çalışır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* ML ön işleme için Markdown veri setlerini TSV'ye dışa aktarma.
+
+* Veri bilimi iş akışlarına MD oluşturulan kayıtları içe aktarma.
+
+* API geliştirme için TSV tabanlı veri çıkartmaları oluşturma.
+
+* Markdown kontrol listelerini tablo yapılandırmalı veri setlerine dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* MD tablolarının TSV'ye pipeline ile dönüştürülmesi.
+
+* AI veri alım sistemleri için toplu dışa aktarmalar.
+
+* Backend entegrasyon testleri için düzenli TSV oluşturma.
+
+* Depo Markdown içeriğinden oluşturulan otomatik TSV beslemeleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

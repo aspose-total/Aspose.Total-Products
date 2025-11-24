@@ -47,7 +47,55 @@ otherformats: TSV SXC XLTX FODS DIF XLSB ODS XLSM XLTM EXCEL TXT XLT
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов MD (Markdown) в CSV позволяет командам преобразовывать структурированный текст, таблицы и списки в универсальные данные таблиц для электронных таблиц. Файлы CSV идеально подходят для аналитических рабочих процессов, импорта в базы данных и обмена данными между различными платформами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт таблиц Markdown в наборы данных CSV для аналитики.
+
+* Импорт таблиц с ценами на основе MD в инструменты учета.
+
+* Преобразование журналов разработчика Markdown в сортируемые файлы CSV.
+
+* Миграция таблиц документации в системы CRM и ERP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* ETL-задачи, преобразующие репозиторий Markdown в CSV еженочно.
+
+* Автоматическое преобразование для панелей управления, требующих ввода CSV.
+
+* Пакетные экспорты для предварительной обработки машинного обучения.
+
+* Триггеры рабочего процесса, создающие CSV из отчетов на основе Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi Markdown (MD) thành DOTX (Mẫu Word không có Macros) là lựa chọn lý tưởng để tạo ra các mẫu bố cục mượt mà, nhất quán và có thể tái sử dụng. DOTX bảo tồn các yếu tố thiết kế trong khi cho phép các nhóm cập nhật nội dung từ các tệp Markdown nhẹ trong môi trường kiểm soát phiên bản.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Mẫu branding doanh nghiệp được lấy từ tài liệu MD.
+
+* Bảng huấn luyện chuẩn được xây dựng từ tài liệu Markdown.
+
+* Tờ rơi tiếp thị dựa trên mẫu ban đầu trong MD.
+
+* Mẫu giấy nghiên cứu có cấu trúc được tạo ra từ nguồn Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tự động tạo ra DOTX thông qua CI/CD cho các nhóm tài liệu.
+
+* Tái tạo các mẫu Word chuẩn từ các tệp MD trong kho lưu trữ.
+
+* Xử lý hàng loạt các kho lưu trữ Markdown thành bố cục DOTX sẵn sàng sử dụng.
+
+* Tạo mẫu đồng nhất cho các tổ chức đa đơn vị.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

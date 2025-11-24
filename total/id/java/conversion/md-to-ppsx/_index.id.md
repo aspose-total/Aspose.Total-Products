@@ -59,7 +59,55 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konversi MD (Markdown) ke PPSX (PowerPoint Slideshow) menghasilkan file tayangan slide modern yang langsung terbuka dalam mode layar penuh. PPSX banyak digunakan untuk presentasi yang berjalan otomatis di lingkungan korporat, ritel, dan acara.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Presentasi penjualan otomatis yang diambil dari catatan MD.
+
+* Layar lobi korporat yang dibuat dari konten Markdown.
+
+* Loop slide acara yang dibangun dari jadwal atau agenda berbasis MD.
+
+* Demo produk yang kontinu yang berasal dari deskripsi Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Alur kerja PPSX otomatis untuk tanda dan papan display.
+
+* Generasi tayangan slide terjadwal dari skrip acara Markdown.
+
+* Pembuatan batch PPSX untuk digunakan di outlet ritel.
+
+* Konversi MD ke PPSX dalam platform tanda digital.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

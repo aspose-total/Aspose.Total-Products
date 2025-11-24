@@ -59,7 +59,55 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MD (Markdown) az OTP (OpenDocument Presentation Template) konverzió segít az szervezeteknek újrafelhasználható diavetítés sablonokat készíteni, amelyek követik a következetes arculatot, miközben az Markdown-ban tárolt szerkeszthető tartalmat megőrzik. Az OTP fájlok könnyűek, rugalmasak és ideálisak az open-source környezetek számára.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Branded OTP sablonok létrehozása Markdown tartalomból.
+
+* Újrafelhasználható előadási sablonok építése MD tananyag vázlataiból.
+
+* Következetes diastruktúrák az NGO-k és akadémiai intézmények számára.
+
+* Markdown dokumentáció átalakítása egységes bemutató sablonokká.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Az OTP sablonok automatizált generálása verziókezelt MD-ből.
+
+* Nagy mennyiségű open-source bemutató sablon tömeges előállítása.
+
+* Az OTP fájlok rendszeres frissítése Markdown tárolókból.
+
+* Sablonközpontú munkafolyamatok elosztott szervezetek számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

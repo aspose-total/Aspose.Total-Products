@@ -47,7 +47,55 @@ Während Sie eine MD-Datei in FODS konvertieren, können Sie Ihrem Ausgabe-FODS-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von MD (Markdown) in FODS (Flat OpenDocument Spreadsheet) erzeugt bearbeitbare XML-basierte Tabellendateien, die ideal für Open-Source-Office-Suiten geeignet sind. FODS behält Zellstrukturen, Formeln und Formatierungen in einem vollständig textbasierten, versionsfreundlichen Layout bei.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Export von Markdown-Datensätzen in Open-Source-Tabellenkalkulationsformate.
+
+* Erstellung strukturierter FODS-Dateien für LibreOffice-Benutzer.
+
+* Import von MD-Tabellen in flache XML-Tabellenkalkulationen für Entwicklungsteams.
+
+* Aufrechterhaltung von Tabellenarchiven in textlesbarer Form.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelkonvertierung in FODS für Transparenz bei der Versionskontrolle.
+
+* Integration von MD-zu-FODS in Open-Source-ETL-Pipelines.
+
+* Automatische Tabellenerstellung für Regierungs- oder NGO-Dokumentation.
+
+* Triggerbasierte FODS-Erzeugung in kontinuierlichen Dokumentationsworkflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

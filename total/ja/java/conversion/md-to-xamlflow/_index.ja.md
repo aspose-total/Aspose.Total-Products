@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）をXAMLFLOWに変換すると、XAMLマークアップを使用してインタラクティブなフローベースの図やアプリケーションレイアウトを作成できます。ソフトウェアの可視化、UIプロトタイピング、ワークフローのドキュメント作成に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* Markdownドキュメントからインタラクティブなフロー図を構築する。
+
+* Markdownコンテンツを使用してWPFアプリケーションのワークフローをプロトタイプ化する。
+
+* 技術的なプロセスノートをXAMLFlowの視覚化に変換する。
+
+* Markdownで生成されたワークフローをインタラクティブなアプリプレビューに埋め込む。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 開発チーム向けの自動化されたMD-to-XAMLFLOWパイプライン。
+
+* Markdownノートからインタラクティブなフローの一括生成。
+
+* ソフトウェアドキュメント内のワークフロー図の定期的な更新。
+
+* CI/CDと統合して、Markdownプロセスの概要をXAMLFLOWコンポーネントに変換する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

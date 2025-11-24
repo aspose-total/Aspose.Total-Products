@@ -121,7 +121,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML을 SWF(Shockwave Flash)로 변환하면 웹 애니메이션 및 상호 작용 콘텐츠를 플래시 형식으로 변환하여 레거시 멀티미디어 또는 프레젠테이션용으로 사용할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 상호 작용형 웹 튜토리얼 및 애니메이션 아카이빙.
+
+* 온라인 프레젠테이션 또는 데모를 SWF 파일로 변환.
+
+* 오프라인 사용을 위해 내보낸 애니메이션을 포함한 교육 모듈.
+
+* 웹사이트에서 보존된 상호 작용형 시각적 콘텐츠를 사용한 마케팅 콘텐츠.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 웹 애니메이션을 일괄적으로 SWF로 변환하는 예약 배치 변환.
+
+* 오프라인 교육 또는 훈련 콘텐츠를 내보내기하는 트리거된 내보내기.
+
+* SWF를 필요로 하는 레거시 프레젠테이션 소프트웨어와 통합.
+
+* 상호 작용형 웹 그래픽을 자동으로 아카이빙.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

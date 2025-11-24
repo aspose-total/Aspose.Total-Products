@@ -61,7 +61,51 @@ otherformats: MHTML SXC XLTM FODS XLSM MARKDOWN XLT EXCEL ODS XLTX XLS XLSB XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **POTX в DIF** создает файлы формата Data Interchange Format, идеальные для старых таблиц и научных платформ, требующих стандартизированного импорта данных из шаблонов презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Обмен данными шаблона POTX с устаревшими инструментами для работы с таблицами.
+
+* Научные или академические рабочие процессы, требующие совместимости с DIF.
+
+* Анализ структур шаблонов для образовательных или тренировочных систем.
+
+* Миграция данных между офисными приложениями различных платформ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование POTX → DIF для долгосрочного архивирования.
+
+* Интеграция экспорта DIF в системы управления документами.
+
+* Плановые обновления при изменении шаблонов презентаций.
+
+* Извлечение DIF на основе триггеров для обработки ETL.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

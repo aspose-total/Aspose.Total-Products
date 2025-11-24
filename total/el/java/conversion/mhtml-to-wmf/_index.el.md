@@ -57,7 +57,51 @@ otherformats: JPEG2000 DXF WMF PSD WMZ EMZ  TGA IMAGE SVGZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή MHTML σε WMF (Windows Metafile) μετατρέπει τα διανυσματικά γραφικά του web σε επεξεργάσιμα αρχεία διανυσμάτων Windows. Το WMF είναι ιδανικό για συστήματα παλαιότητας και εφαρμογές γραφείου που απαιτούν κλιμακούμενα διανυσματικά οπτικά στοιχεία.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Αρχειοθέτηση διαγραμμάτων του web για ολοκλήρωση σε εγγραφο γραφείου.
+
+* Μετατροπή διαγραμμάτων ροής και εικονογραφήσεων για παρουσιάσεις.
+
+* Προετοιμασία διανυσματικών στοιχείων για εκτύπωση ή τεκμηρίωση.
+
+* Εξαγωγή γραφικών του web για εταιρικές αναφορές.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Δημιουργία πακέτων WMF από περιεχόμενο του web.
+
+* Προγραμματισμένη εξαγωγή για αυτοματοποιημένα συστήματα αναφοράς.
+
+* Ενσωμάτωση σε ροές εργασίας αυτοματισμού γραφείου.
+
+* Ενεργοποίηση μετατροπής διανυσματικών γραφικών του web για παρουσιάσεις.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

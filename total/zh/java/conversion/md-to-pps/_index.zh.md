@@ -59,7 +59,55 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MD（Markdown）转换为PPS（PowerPoint幻灯片）是将轻量内容转换为自动运行演示文件的理想选择。PPS直接以幻灯片形式打开，非常适合用于信息亭、展示和循环演示。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从Markdown笔记创建循环信息亭演示。
+
+* 从MD描述生成的自动运行产品展示。
+
+* 从MD日程表获取的幻灯片式活动展示。
+
+* 直接从Markdown创建的博物馆、零售店或博览会展示。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量生成用于数字标牌的PPS幻灯片。
+
+* 为活动管理团队自动化的MD到PPS流程。
+
+* 从Markdown公告中定时创建幻灯片。
+
+* 通过仪表板驱动生成循环演示文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

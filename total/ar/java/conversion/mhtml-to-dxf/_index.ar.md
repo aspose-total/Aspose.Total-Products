@@ -57,7 +57,55 @@ otherformats: SVGZ EMZ  DXF WMF WMZ PSD IMAGE TGA JPEG2000 DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MHTML إلى DXF (Drawing Exchange Format) يحول الرسومات القائمة على الويب إلى ملفات نقطية متوافقة مع CAD. يعتبر DXF مثاليًا للمهندسين المعماريين والمهندسين والمصممين الذين يحتاجون إلى دقة وقابلية للتحرير.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* استخراج الرسومات الهندسية أو التخطيطات من أرشيفات الويب.
+
+* تحويل خطط الطوابق القائمة على الويب إلى رسومات CAD قابلة للتحرير.
+
+* تحويل الرسوم التوضيحية التقنية لمشاريع معمارية.
+
+* إعداد رسوم بيانية نقطية للتصنيع أو النمذجة الأولية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي للرسوم الهندسية عبر الإنترنت إلى صيغة DXF.
+
+* توليد DXF مُشغّل لسير العمل الهندسي التعاوني.
+
+* دمجه في أنابيب برامج التصميم والمحاكاة.
+
+* جدولة أرشفة التخطيطات المأخوذة من الويب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

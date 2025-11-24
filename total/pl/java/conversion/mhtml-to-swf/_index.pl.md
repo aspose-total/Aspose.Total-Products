@@ -121,7 +121,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie MHTML na SWF (Shockwave Flash) przekształca animacje internetowe i interaktywne treści w format Flash do użytku w starszych multimediach lub prezentacjach.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Archiwizacja interaktywnych samouczków i animacji internetowych.
+
+* Konwertowanie prezentacji lub demonstracji online na pliki SWF.
+
+* Moduły edukacyjne z animacjami eksportowane do użytku offline.
+
+* Treści marketingowe z interaktywnymi wizualizacjami zachowanymi z witryn internetowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja wsadowa animacji internetowych na SWF.
+
+* Wywołany eksport dla treści edukacyjnych lub szkoleniowych offline.
+
+* Integracja z oprogramowaniem do prezentacji wymagającym plików SWF.
+
+* Automatyczne archiwizowanie interaktywnych grafik internetowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

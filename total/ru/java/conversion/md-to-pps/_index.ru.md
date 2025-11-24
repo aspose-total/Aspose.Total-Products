@@ -59,7 +59,55 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MD (Markdown) в PPS (PowerPoint Slideshow) идеально подходит для превращения легкого контента в автоматически запускаемые презентационные файлы. PPS открывается непосредственно как слайд-шоу, что делает его идеальным для киосков, дисплеев и циклических презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание циклических презентаций для киосков из заметок Markdown.
+
+* Автоматический запуск демонстрации продуктов, сгенерированных из описаний MD.
+
+* Отображение событий на основе слайд-шоу, полученного из расписания MD.
+
+* Создание дисплеев для музеев, розничной торговли или выставок непосредственно из Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетная генерация слайд-шоу PPS для цифровых вывесок.
+
+* Автоматизированные конвейеры MD-to-PPS для команд управления событиями.
+
+* Создание запланированных слайд-шоу из объявлений Markdown.
+
+* Генерация циклических презентационных файлов на основе панели управления.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

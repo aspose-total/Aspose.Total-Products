@@ -61,7 +61,51 @@ otherformats: XLSM XLT ODS XLTX SXC DIF XLSX XLAM XLS TSV MARKDOWN XLSB FODS EXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **POTX в XLTX** обеспечивает чистые, без макросов шаблоны Excel на основе макетов презентаций, готовые для последовательной корпоративной отчетности.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Макросохраняемые многоразовые шаблоны, производные от POTX.
+
+* Стандартизированные форматы электронных таблиц для документирования.
+
+* Переиспользование макетов презентаций для рабочих процессов в Excel.
+
+* Создание наборов шаблонов, готовых для клиента, на основе дизайнов слайдов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное создание XLTX для корпоративной отчетности.
+
+* Создание шаблонов без макросов на основе триггеров.
+
+* Запланированное преобразование для систем версионирования шаблонов.
+
+* Интеграция с облачными библиотеками шаблонов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

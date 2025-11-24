@@ -57,7 +57,51 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz WMF z
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML na WMF (Windows Metafile) konwertuje wektorową grafikę internetową na edytowalne pliki wektorowe systemu Windows. Format WMF jest idealny dla systemów zastępczych i aplikacji biurowych wymagających skalowalnych wizualizacji wektorowych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Archiwizacja diagramów internetowych do integracji z dokumentami biurowymi.
+
+* Konwertowanie schematów i ilustracji do prezentacji.
+
+* Przygotowanie zasobów wektorowych do drukowania lub dokumentacji.
+
+* Wyodrębnianie grafiki internetowej do raportów korporacyjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Generowanie plików WMF wsadowo z treści internetowej.
+
+* Zaplanowane wyodrębnianie dla zautomatyzowanych systemów raportowania.
+
+* Integracja z przepływami pracy automatyzacji biurowej.
+
+* Wywoływana konwersja wektorowej grafiki internetowej do prezentacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

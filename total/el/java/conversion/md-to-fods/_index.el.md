@@ -47,7 +47,55 @@ otherformats: XLAM TSV SXC XLTX ODS FODS DIF XLSM XLTM XLSB TXT EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή MD (Markdown) σε FODS (Flat OpenDocument Spreadsheet) παράγει επεξεργάσιμα αρχεία υπολογιστικού φύλλου βασισμένα σε XML ιδανικά για προγράμματα γραφείου ανοικτού κώδικα. Το FODS διατηρεί τις δομές κελιών, τις τύπους και τη μορφοποίηση σε ένα διακριτικό διάταξης φιλική προς την έκδοση.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Εξαγωγή συνόλων δεδομένων Markdown σε μορφές υπολογιστικών φύλλων ανοικτού κώδικα.
+
+* Δημιουργία δομημένων αρχείων FODS για χρήστες του LibreOffice.
+
+* Εισαγωγή πινάκων MD σε επίπεδα XML υπολογιστικών φύλλων για ομάδες ανάπτυξης.
+
+* Διατήρηση αρχείων υπολογιστικών φύλλων σε μορφή κειμένου που μπορεί να διαβαστεί.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή σε FODS για διαφάνεια έλεγχου εκδόσεων.
+
+* Ενσωμάτωση MD-σε-FODS μέσα σε αγωγούς ETL ανοικτού κώδικα.
+
+* Αυτοματοποιημένη δημιουργία φύλλων υπολογιστικών για τεκμηρίωση κυβερνητικών οργανισμών ή ΜΚΟ.
+
+* Δημιουργία FODS βασισμένη σε εκκινητές εντολές σε συνεχείς ροές τεκμηρίωσης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

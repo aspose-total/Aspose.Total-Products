@@ -135,7 +135,51 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή MHTML σε XAML (Επεκτάσιμη Γλώσσα Σήμανσης Εφαρμογών) επιτρέπει σε διανυσματικά γραφικά και γραφικά διεπαφής βασισμένα στο web να μετατραπούν σε στοιχεία διεπαφής συμβατά με τα Windows και κλιμακούμενα οπτικά.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Μετατροπή διαγραμμάτων στο web σε XAML για εφαρμογές WPF.
+
+* Αρχειοθέτηση διατάξεων διεπαφής βασισμένων στο web για την ανάπτυξη λογισμικού.
+
+* Δημιουργία διαδραστικών πινάκων ελέγχου για εφαρμογές επιφάνειας εργασίας.
+
+* Εξαγωγή διανυσματικών γραφικών για έργα διεπαφής χρήστη Windows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή περιεχομένου MHTML σε XAML για την ανάπτυξη εφαρμογών.
+
+* Προγραμματισμένες διαδικασίες για τη μετατροπή πρωτοτύπων διεπαφής χρήστη στο web.
+
+* Ενεργοποιημένη δημιουργία XAML για την ολοκλήρωση εφαρμογών WPF.
+
+* Αυτοματοποιημένη αρχειοθέτηση διανυσματικού περιεχομένου στο web για ομάδες λογισμικού.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

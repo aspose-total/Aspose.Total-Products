@@ -47,7 +47,55 @@ MDファイルをTSVに変換するときに、出力TSVファイル形式に透
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）をTSV（Tab-Separated Values）に変換すると、デリミターに安全なクリーンなデータエクスポートが可能になり、開発者、BIチーム、機械学習パイプラインに最適です。TSVファイルはスペーシングを保持し、コンマを含むデータセットに適しています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* 機械学習の前処理のためにMarkdownデータセットをTSVにエクスポートする。
+
+* MDで作成されたログをデータサイエンスワークフローにインポートする。
+
+* API開発のためのTSVベースのデータ抽出を作成する。
+
+* Markdownのチェックリストをタブ構造化されたデータセットに変換する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* MDテーブルをTSVに変換するパイプライン駆動型の変換。
+
+* AIデータ取り込みシステム向けのバッチエクスポート。
+
+* バックエンド統合テストのための定期的なTSV生成。
+
+* リポジトリMarkdownコンテンツから構築された自動化されたTSVフィード。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

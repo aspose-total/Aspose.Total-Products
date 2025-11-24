@@ -57,7 +57,55 @@ API'yi kullanarak, çıktı APNG görüntüsünü ihtiyaçlarınıza göre de d�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını APNG (Animasyonlu PNG) formatına dönüştürmek, metin tabanlı diyagramları, grafikleri ve illüstrasyonları animasyonlu görsellere dönüştürmeyi sağlar. APNG, vektör kalitesini korurken hareket ekler ve sunumlar, öğreticiler ve etkileşimli belgeler için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Teknik belgeler için animasyonlu süreç diyagramları.
+
+* Adım adım Markdown tabanlı iş akışlarını gösteren etkileşimli öğreticiler.
+
+* Markdown grafiklerinden dönüştürülen dinamik pazarlama görselleri.
+
+* Çevrimiçi öğrenme modülleri için animasyonlu eğitim içeriği.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Otomatik belge portalları için toplu MD'den APNG'ye dönüşüm.
+
+* Markdown'dan animasyonlu grafikler oluşturmak için ETL borularıyla entegrasyon.
+
+* Öğrenme yönetim sistemlerinde otomatik olarak güncellenen etkileşimli görseller.
+
+* Markdown'i animasyonlara dönüştüren AI destekli panolar için tetiklenmiş renderleme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

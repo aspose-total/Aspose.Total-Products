@@ -129,7 +129,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML naar ODT (OpenDocument Text) conversie maakt cross-platform bewerking van webinhoud mogelijk in LibreOffice of OpenOffice. Dit formaat is ideaal voor open-source workflows en samenwerking bij het bewerken van documenten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Webinhoud gearchiveerd als bewerkbare ODT-handleidingen en gidsen.
+
+* Samenwerking bij projectdocumentatie in open-source kantoorpakketten.
+
+* Educatief materiaal en werkbladen omgezet van webpagina's.
+
+* Meertalige documentvoorbereiding met behulp van ODT voor wereldwijde teams.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Bulkconversie van op MHTML gebaseerde archieven naar ODT-bestanden voor gedistribueerde teams.
+
+* Integratie met open-source CMS-platforms voor automatische documentgeneratie.
+
+* Geplande conversie voor webinhoudsbewaking en rapportage.
+
+* Automatisch bijgewerkte handleidingen van vaak veranderende webbronnen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

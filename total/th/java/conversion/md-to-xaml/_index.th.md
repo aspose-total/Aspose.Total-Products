@@ -59,7 +59,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น XAML (Extensible Application Markup Language) จะแปลงเนื้อหาที่เป็นข้อความเป็นกราฟิก UI ที่ใช้เวกเตอร์หรือส่วนประสมที่สามารถแสดงผลให้เป็นส่วนประสมสำหรับแอปพลิเคชัน Windows  XAML รองรับเลยเอาท์ที่แม่นยำ การแสดงผลที่สามารถปรับขนาดได้ และการผสานรวมกับกรอบแอปพลิเคชันที่ทันสมัย
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* แสดงผลไดอะแกรม Markdown เป็นส่วนประสม UI ในแอปพลิเคชัน WPF
+
+* สร้างภาพเวกเตอร์แบบแอคทีฟสำหรับแอปพลิเคชันบนเดสก์ท็อป
+
+* แปลงตารางและแผนภูมิเอกสารเป็นกราฟิก XAML
+
+* ฝังเนื้อหา Markdown เป็นส่วนประสมที่สามารถปรับขนาดได้ในอินเทอร์เฟซซอฟต์แวร์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้าง XAML จาก MD โดยอัตโนมัติสำหรับกระบวนการ UI ของซอฟต์แวร์
+
+* ประมวลผลข้อมูล Markdown เป็นส่วนประสมเวกเตอร์ XAML แบบกลุ่ม
+
+* การแปลงเอกสารเป็นส่วนประสม UI ตามเวลาที่กำหนด
+
+* การแสดงผลไดอะแกรม Markdown เป็น XAML สำหรับแอปพลิเคชันแบบแอคทีฟ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -72,7 +72,49 @@ otherformats: PPT PPSX OTP POTX PPS PPSM SWF POWERPOINT POTM ODP PPTM POT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת Markdown (MD) ל-XAML (שפת סימון ליישומים הרחבים) ממירה תוכן טקסטואלי לגרפיקה מבוססת ורכיבים אינטראקטיביים עבור אפליקציות Windows. XAML תומך בפריסות מדויקות, ויזואלים נפחתים ואינטגרציה עם מסגרות אפליקציות מודרניות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* עיבוד דיאגרמות Markdown כרכיבי ממשק משתמש באפליקציות WPF.
+* יצירת איורים וקווים אינטראקטיביים לאפליקציות שולחניות.
+* המרת טבלאות תיעוד ותרשימים לגרפיקה XAML.
+* הטבעת תוכן Markdown כוויזואלים נפחתים בממשקי תוכנה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* הפקת MD-to-XAML אוטומטית עבור צינורות UI של תוכנות.
+* עיבוד רצפי של הערות Markdown לרכיבי וקטור XAML.
+* המרה מתוזמנת לזרימי עבודה מתיעוד ל-UI.
+* עיבוד מופעל של דיאגרמות Markdown ל-XAML לאפליקציות אינטראקטיביות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

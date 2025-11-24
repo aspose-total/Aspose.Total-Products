@@ -59,7 +59,55 @@ presentation.save("output.pot", SaveFormat.Pot);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění Markdown (MD) na POT (PowerPoint šablona) poskytuje firmám způsob vytváření konzistentních, značkových rámů snímků z lehké dokumentace textu. Soubory POT zajišťují jednotný design napříč různými prezentacemi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Firemní šablony založené na značce generované z Markdown stylu dokumentů.
+
+* Rámcové prezentace prodeje získané z MD popisů produktů.
+
+* Šablony pro úvod nových zaměstnanců vytvořené na základě Markdown instrukcí.
+
+* Standardizované POT balíčky pro organizace s více pobočkami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* CI/CD pracovní postupy produkující POT šablony automaticky z MD.
+
+* Hromadná generace souborů POT pro široké využití ve franšízách.
+
+* Automatické aktualizace šablon s využitím Markdown jako jediného zdroje pravdy.
+
+* Podnikové systémy generující POT balíčky programově.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

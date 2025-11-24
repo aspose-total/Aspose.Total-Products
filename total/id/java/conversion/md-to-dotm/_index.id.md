@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konversi MD (Markdown) ke DOTM (Macro-Enabled Template) menggabungkan pengeditan teks ringan dengan template Word yang ditingkatkan oleh makro yang tertanam. Template DOTM memungkinkan tim untuk mengotomatisasi tugas dokumen yang berulang dan segera membuat dokumen yang siap makro standar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Membangun template onboarding yang didukung makro dari buku panduan Markdown.
+
+* Membuat template faktur atau formulir otomatis yang bersumber dari konten MD.
+
+* Kerangka dokumen perusahaan dengan bidang yang dimasukkan secara programatis.
+
+* Menghasilkan template yang ramah otomatisasi yang dapat digunakan kembali dari dokumentasi teknis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Membangun template DOTM secara otomatis untuk siklus pelaporan dalam skala besar.
+
+* Integrasi dengan mesin alur kerja yang memicu generasi MD-to-DOTM.
+
+* Pembuatan template yang didukung makro dengan sekali klik untuk departemen yang tersebar.
+
+* Penyisipan konten dinamis secara otomatis saat regenerasi template.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

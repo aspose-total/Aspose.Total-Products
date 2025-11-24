@@ -57,7 +57,55 @@ Az API használatával igény szerint elforgathatja a kimeneti APNG-képet is. A
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) fájlok átalakítása APNG (Animált PNG) formátumba lehetővé teszi a szövegalapú diagramok, táblázatok és illusztrációk animált vizuálissá alakítását. Az APNG megőrzi a vektor minőségét, miközben mozgást ad hozzá, ideális prezentációkhoz, oktatóanyagokhoz és interaktív dokumentációkhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Animált folyamatdiagramok technikai dokumentációhoz.
+
+* Interaktív oktatóanyagok lépésről lépésre Markdown alapú munkafolyamatok bemutatásához.
+
+* Dinamikus marketing vizuális elemek átalakítva Markdown táblázatokból.
+
+* Animált oktatási tartalmak online tanulási modulokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges MD-to-APNG konverzió automatizált dokumentációs portálokhoz.
+
+* Integráció ETL csővezetékekkel animált grafikák generálásához Markdownból.
+
+* Automatikusan frissülő interaktív vizuális elemek tanulásmenedzsment rendszerekben.
+
+* Kiváltott renderelés AI-alapú vezérlőpultokhoz, amelyek Markdownből animációkat hoznak létre.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -129,7 +129,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов MHTML в DOTX (Шаблон Word без макросов) позволяет создавать безопасные, многократно используемые шаблоны, сохраняя макет веб-контента. DOTX идеален для коллективной документации, где макросы ограничены из соображений безопасности.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Шаблоны для совместной работы команды по внутренней документации.
+
+* Новостные бюллетени, созданные на основе веб-контента, оформленные в единообразном стиле.
+
+* Образовательные шаблоны для курсов и планирования уроков.
+
+* Стандартизированные контракты и шаблоны предложений без макросов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированные конвейеры преобразования, создающие шаблоны DOTX из архивов MHTML.
+
+* Интеграция с системами управления контентом для массового развертывания шаблонов.
+
+* Предварительно отформатированные веб-шаблоны для корпоративных коммуникаций.
+
+* Генерация по триггеру для периодических отчетных процессов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

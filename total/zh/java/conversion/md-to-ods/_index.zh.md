@@ -49,7 +49,55 @@ otherformats: TXT XLT TSV ODS XLAM EXCEL XLTX DIF FODS SXC XLSB XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为ODS（OpenDocument Spreadsheet）提供了一个强大的、开放标准的替代方案，适用于Excel。ODS非常适合使用LibreOffice或OpenOffice的团队，并支持公式、图表和结构化表格格式。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将Markdown列表导入ODS仪表板。
+
+* 为开源办公环境构建分析表。
+
+* 创建从MD内容中获取的ODS格式预算跟踪器。
+
+* 将技术MD文档转换为适用于电子表格的数据。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为开源数据团队安排定期生成ODS。
+
+* 跨平台管道将Markdown输入到ODS电子表格中。
+
+* 批量将文档表转换为ODS格式。
+
+* 为需要可编辑电子表格的分布式团队自动构建ODS。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

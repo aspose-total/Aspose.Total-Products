@@ -102,7 +102,55 @@ otherformats: MHTML SXC TSV XLSX CSV XLTX EXCEL XLSM FODS ODS MARKDOWN XLSB XLT 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **POTM ל-XLTM** יוצרת קבצי תבניות Excel עם קובצי מאקרו מופעלים, מאפשרת להעביר לוגיקה או מבנים מבוססי שקפים לתבניות גליונות דינמיים. זה מאוד שימושי כאשר ארגונים תלויים באוטומציה של Excel אך מתחילים עם מבנים מבוססי PowerPoint.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת זרימות עבודה המבוססות על מצגות לתבניות Excel עם מאקרו.
+
+* יצירת טפסי הזנת נתונים ממובני התבניות המומרות.
+
+* עיצוב תבניות XLTM מחלקתיות לצורכי תחזוק או ביקורת.
+
+* השימוש מחדש בלוגיקת POTM כבסיס לאוטומציה של גליונות האלקטרוניים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת תבניות XLTM בצורה צפופה מספריות POTM תאזוריות.
+
+* פרסום מתוזמן של תבניות Excel עם מאקרו מעודכנות.
+
+* שילוב יצירת XLTM לתוך מערכות דיווח ותכנון מתקדמות.
+
+* המרה אוטומטית המופעלת כאשר תבניות המצגת מתוחזקות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

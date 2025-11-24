@@ -61,7 +61,55 @@ POTMファイルをXLTXに変換するときに、出力XLTXファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**POTMをXLTXに変換**すると、PowerPointテンプレートから抽出したデザイン要素とコンテンツに基づいて、マクロを使用しないExcelテンプレートの作成が可能になります。XLTXテンプレートは、マクロセキュリティの制限なしにチーム全体にスケーラブルに配布するのに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* スライドレイアウト構造からマクロを使用しないExcelテンプレートを作成する。
+
+* プレゼンテーションのブランディングに沿った再利用可能なビジネスフォームを作成する。
+
+* 人事、財務、プロジェクトチーム向けの一貫性のあるテンプレートを開発する。
+
+* トレーニングスライドを記入しやすいワークシートテンプレートに変換する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 新しいPOTMデザインをXLTXテンプレートに自動変換して配布する。
+
+* XLTX作成をオフィス全体の標準化ワークフローに統合する。
+
+* 複数部門向けのテンプレート一斉展開のための一括変換。
+
+* SaaSやクラウドテンプレートライブラリ向けの自動XLTXエクスポート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

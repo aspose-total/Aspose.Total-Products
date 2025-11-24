@@ -135,7 +135,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MHTML na XAML (rozšiřitelný aplikační značkovací jazyk) umožňuje transformaci webových vektorových a UI grafik do kompatibilních UI komponent a škálovatelných vizuálů pro Windows.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převádění webových diagramů do XAML pro aplikace WPF.
+
+* Archivace webových UI rozložení pro vývoj softwaru.
+
+* Příprava interaktivních nástěnek pro desktopové aplikace.
+
+* Extrahování vektorových grafik pro projekty Windows UI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod obsahu MHTML do XAML pro vývoj aplikací.
+
+* Plánované postupy pro převádění webových UI prototypů.
+
+* Spouštěná generace XAML pro integraci do aplikace WPF.
+
+* Automatizovaná archivace webového vektorového obsahu pro týmy softwarového vývoje.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

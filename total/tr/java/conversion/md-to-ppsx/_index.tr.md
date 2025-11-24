@@ -59,7 +59,55 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) ile PPSX (PowerPoint Sunum) dönüşümü, doğrudan tam ekran modunda açılan modern slayt dosyaları oluşturur. PPSX, kurumsal, perakende ve etkinlik ortamlarında otomatik çalışan sunumlar için geniş bir şekilde kullanılmaktadır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* MD notlarından kaynaklanan otomatik oynatma satış sunumları.
+
+* Markdown içeriğinden oluşturulan kurumsal giriş ekranları.
+
+* MD tabanlı programlar veya gündemlerden oluşturulan etkinlik slayt döngüleri.
+
+* Markdown açıklamalardan türetilen sürekli ürün tanıtımları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* İşaret ve ekran panoları için otomatik PPSX iş akışları.
+
+* Markdown etkinlik betiklerinden zamanlanmış slayt oluşturma.
+
+* Perakende mağazalarında kullanılmak üzere toplu PPSX oluşturma.
+
+* Dijital işaret platformları içinde MD'den PPSX dönüşümleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

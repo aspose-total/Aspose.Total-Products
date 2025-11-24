@@ -59,7 +59,55 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为POTX（不带宏的PowerPoint模板）可以基于轻量级文本文件创建现代、干净的演示文稿模板。POTX确保演示文稿的一致性，无需宏依赖。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从MD大纲创建干净且品牌化的POTX模板。
+
+* 在多个部门之间标准化公司幻灯片。
+
+* 从Markdown简报中构建营销幻灯片。
+
+* 通过MD内容设计学术演示文稿模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 在文档流程中自动化生成POTX。
+
+* 使用Markdown作为源内容重新生成模板。
+
+* 批量分发POTX文件给企业团队。
+
+* 在品牌工作流程中定期进行MD到POTX的更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

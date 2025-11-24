@@ -57,7 +57,55 @@ Med hjälp av API:t kan du också rotera den utgående IMAGE-bilden enligt dina 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera Markdown (MD) till generiska bildformat (PNG, JPG, BMP) möjliggör visualisering av tabeller, diagram och formaterad text i ett portabelt, plattformsoberoende format. Bilder kan bäddas in i presentationer, webbplatser eller dokument.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Exportera Markdown-diagram som statiska bilder för presentationer eller rapporter.
+
+* Dela Markdown-baserade diagram på webbplatser eller bloggar.
+
+* Skapa bilder för användarmanualer eller tekniska guider.
+
+* Visuella ögonblicksbilder av Markdown-tabeller för presentationer eller PDF-filer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Schemalagd batchkonvertering av Markdown-innehåll till bilder.
+
+* ETL-pipelines som producerar visuella tillgångar från Markdown-filer.
+
+* Automatisk generering av diagram för dokumentationsportaler.
+
+* Utlösningsbaserade bildexporter för instrumentpaneler eller rapporteringssystem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

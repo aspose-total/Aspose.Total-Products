@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（マークダウン）をDOT（Word テンプレート）に変換することで、企業はバージョン管理されたコンテンツを保持しながら、ブランド化された文書を標準化することができます。DOT テンプレートは書式の一貫性を保ち、チームがクリーンで再利用可能な構造から新しい Word ファイルを即座に生成できることを保証します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* Markdown ベースのテンプレートから一貫したヘッダーを作成する。
+
+* MD ドラフトからブランド承認済みのマーケティング資料を公開する。
+
+* MD ガイドからのオンボーディング文書テンプレートを生成する HR チーム。
+
+* Markdown から取得した契約構造を標準化する法務部門。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* CMS パブリッシングワークフローでの自動 DOT テンプレート生成。
+
+* ブランディング資産を更新する分散チーム向けの中央集約型変換。
+
+* Git に保存されたマスターテンプレートの定期的な再生成。
+
+* フランチャイズや複数支店の文書化ニーズのための自動 DOT 作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

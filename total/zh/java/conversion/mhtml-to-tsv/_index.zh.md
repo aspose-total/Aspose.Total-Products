@@ -49,7 +49,55 @@ otherformats: TSV TXT XLSB ODS DIF XLT FODS XLSM XLAM EXCEL MD SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML转换为TSV（制表符分隔值）可从网页中提取结构化数据，以纯文本、分隔符友好的格式呈现。TSV非常适合数据科学、ETL流水线和数据库导入。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 提取电子商务产品和定价表以进行分析。
+
+* 从网络表单中导出的调查结果转换为TSV。
+
+* 存档表格化的网络内容以供机器学习模型使用。
+
+* 与开发人员和数据工程师共享结构化数据集。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于AI/ML流水线的批量MHTML到TSV转换。
+
+* 集成到自动化ETL工作流程以进行分析。
+
+* 定期基于网络的报告生成的定时TSV生成。
+
+* 实时仪表板的触发TSV导出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

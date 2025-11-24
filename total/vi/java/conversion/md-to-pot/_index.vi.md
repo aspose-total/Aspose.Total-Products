@@ -59,7 +59,55 @@ presentation.save("output.pot", SaveFormat.Pot);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi Markdown (MD) sang POT (PowerPoint Template) mang lại cho doanh nghiệp cách tạo ra các khung trang trình bày nhất quán, mang thương hiệu được lấy từ tài liệu văn bản nhẹ. Các tệp POT đảm bảo tính đồng nhất về thiết kế trên nhiều bài thuyết trình.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Mẫu branding doanh nghiệp được tạo ra từ tài liệu kiểu Markdown.
+
+* Khung trình bày bán hàng được lấy từ các đề cương sản phẩm MD.
+
+* Mẫu onboard nhân sự được tạo ra từ hướng dẫn dựa trên Markdown.
+
+* Bộ slide POT chuẩn hóa cho các tổ chức đa chi nhánh.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Luồng làm việc CI/CD tạo ra các mẫu POT tự động từ MD.
+
+* Tạo ra hàng loạt tệp POT cho việc sử dụng trên toàn hệ thống chi nhánh.
+
+* Cập nhật mẫu tự động bằng cách sử dụng Markdown làm nguồn thông tin duy nhất.
+
+* Hệ thống doanh nghiệp tạo ra các bộ slide POT theo chương trình.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

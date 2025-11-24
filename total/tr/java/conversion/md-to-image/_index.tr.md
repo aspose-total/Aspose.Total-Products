@@ -57,7 +57,55 @@ API'yi kullanarak, çıktı IMAGE görüntüsünü ihtiyaçlarınıza göre de d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını genel görüntü formatlarına (PNG, JPG, BMP) dönüştürmek, tabloların, diyagramların ve biçimlendirilmiş metnin taşınabilir, platformdan bağımsız bir formatta görselleştirilmesini sağlar. Görüntüler sunumlara, web sitelerine veya belgelere gömülebilir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown diyagramlarını slaytlar veya raporlar için statik görüntülere dönüştürme.
+
+* Markdown tabanlı grafiklerin web sitelerinde veya bloglarda paylaşılması.
+
+* Kullanıcı kılavuzları veya teknik rehberler için görüntüler oluşturma.
+
+* Sunumlar veya PDF'ler için Markdown tablolarının görsel anlık görüntüleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Markdown içeriğinin zamanlanmış toplu dönüşümü görüntülere.
+
+* ETL boruları Markdown dosyalarından görsel varlıklar üretiyor.
+
+* Belgelendirme portalı için diyagramların otomatik olarak oluşturulması.
+
+* Gösterge panoları veya raporlama sistemleri için tetiklemeye dayalı görüntü dışa aktarımları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

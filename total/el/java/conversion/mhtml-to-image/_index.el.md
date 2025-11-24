@@ -57,7 +57,51 @@ otherformats: WMF TGA JPEG2000 WMZ DXF SVGZ EMZ IMAGE PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή MHTML σε ΕΙΚΟΝΑ (JPEG, PNG, BMP, κλπ.) εξάγει στατικές οπτικές από αρχεία ιστού για χρήση σε παρουσιάσεις, ιστοσελίδες ή έντυπα μέσα. Η μετατροπή ΕΙΚΟΝΑΣ διατηρεί τη διάταξη και την ποιότητα των γραφικών.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Εξαγωγή εικόνων προϊόντων από online καταλόγους.
+
+* Αρχειοθέτηση γραφημάτων και πληροφογραφιών από τον ιστό για αναφορές.
+
+* Μετατροπή διαγραμμάτων του ιστού σε εικόνες υψηλής ανάλυσης για παρουσιάσεις.
+
+* Δημιουργία οπτικού περιεχομένου για blogs και αναρτήσεις σε κοινωνικά μέσα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Εξαγωγή πολλαπλών εικόνων από αρχεία MHTML για μάρκετινγκ καμπάνιες.
+
+* Ενσωμάτωση σε αυτοματοποιημένες ροές εργασίας web-to-print.
+
+* Μετατροπή κατόπιν ενεργοποίησης για δυναμικά πίνακες ελέγχου ή αναφορές.
+
+* Προγραμματισμένη δημιουργία εικόνων για εκπαιδευτικό ή εκπαιδευτικό περιεχόμενο.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

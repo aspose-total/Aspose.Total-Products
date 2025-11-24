@@ -47,7 +47,55 @@ MDファイルをEXCELに変換するときに、出力EXCELファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）をExcel（XLS/XLSX）に変換すると、シンプルなテキストファイルが豊富な、数式に対応したスプレッドシートに変換されます。Excelの出力は、フォーマット、チャート、データ検証、分析をサポートし、ビジネスレポートや業務ワークフローに適しています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* Markdownの機能リストをソート可能なExcelシートに変換する。
+
+* MDドキュメントからの財務レポートの作成。
+
+* MarkdownのテーブルをExcelのデータトラッカーとしてインポートする。
+
+* MDベースの製品カタログをスプレッドシート形式で準備する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* MarkdownドキュメントをExcelワークブックにパイプライン駆動で変換する。
+
+* 複数の部門向けにXLSXファイルを一括生成する。
+
+* バージョン管理されたMDリポジトリからExcelレポートを自動更新する。
+
+* MD → Excel変換からフィードされるデータエンジニアリングワークフロー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

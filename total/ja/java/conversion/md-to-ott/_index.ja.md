@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）をOTT（OpenDocument Text Template）に変換すると、オープンソースオフィススイート向けのスケーラブルなテンプレート作成がサポートされます。OTTテンプレートは一貫した書式を維持しながら、安定したスタイルの基盤から複数のドキュメントを生成することができます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* 多言語ドキュメント制作用のOTTテンプレートの作成。
+
+* Markdownベースのガイドラインから構造化されたレポートテンプレートの構築。
+
+* オープンソース環境向けのオフィス文書の標準化。
+
+* NGOや公共機関向けの再利用可能なODTドキュメント形式の生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* オープンソースのパブリッシングワークフローでの自動化されたOTT生成。
+
+* Markdownバージョン管理から同期されたテンプレートの更新の展開。
+
+* LibreOfficeを使用して分散チーム向けにテンプレートセットを一括生成。
+
+* スケジュールに基づいてOTTテンプレートを生成する政府機関や非営利団体のシステム。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

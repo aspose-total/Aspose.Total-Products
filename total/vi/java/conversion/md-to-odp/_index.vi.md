@@ -59,7 +59,55 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi Markdown (MD) sang ODP (OpenDocument Presentation) giúp các nhóm chuyển đổi nội dung dựa trên văn bản đơn giản thành bộ slide định dạng mở có thể sử dụng trong LibreOffice Impress và các công cụ trình bày mã nguồn mở khác. ODP lý tưởng cho việc chia sẻ đa nền tảng mà không bị ràng buộc bởi các hạn chế độc quyền.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi ghi chú đào tạo từ Markdown thành các slide ODP.
+
+* Trình bày lớp học được tạo từ các kế hoạch bài học dựa trên MD.
+
+* Xuất bản các bộ slide hội nghị mã nguồn mở được tạo từ Markdown.
+
+* Chuyển đổi tài liệu MD thành các slide ODP có cấu trúc hình ảnh.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Các đường ống ETL tạo ra các tệp ODP từ các kho lưu trữ Markdown.
+
+* Tạo ra các bài trình bày giáo dục hàng loạt cho các nền tảng LMS.
+
+* Sản xuất ODP tự động trong quy trình làm tài liệu dưới dạng mã.
+
+* Chuyển đổi MD sang ODP được kích hoạt cho các phiên bản dự án mã nguồn mở.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

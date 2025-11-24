@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为OTT（OpenDocument Text Template）支持可扩展模板创建，适用于开源办公套件。OTT模板保持一致的格式，同时允许团队从稳定的样式基础生成多个文档。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 为多语言文档生产创建OTT模板。
+
+* 根据Markdown指南构建结构化报告模板。
+
+* 为开源环境标准化办公文档。
+
+* 为NGO或公共机构生成可重用的ODT文档格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 在开源发布工作流中自动生成OTT。
+
+* 从Markdown版本控制同步滚动模板更新。
+
+* 使用LibreOffice为分布式团队批量生成模板集。
+
+* 政府或非营利系统按计划生成OTT模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

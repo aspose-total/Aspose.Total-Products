@@ -47,7 +47,55 @@ otherformats: SXC TXT FODS XLTM ODS XLT XLTX XLSM DIF EXCEL XLSB XLAM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MD (Markdown) в XLAM (надстройка Excel) позволяет создавать файлы с расширением, поддерживающим макросы, содержащие функции, автоматизацию и повторно используемую логику. Этот формат подходит для опытных пользователей Excel, которым требуются программные надстройки.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание макро-надстроек из библиотек формул на основе Markdown.
+
+* Упаковка скриптов, полученных из MD, в XLAM для финансовых команд.
+
+* Автоматизация повторяющихся задач аналитики с помощью создания надстроек.
+
+* Распространение стандартизированных пакетов макросов, полученных из заметок Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированные сборки XLAM из MD в CI/CD конвейерах.
+
+* Генерация макро-надстроек с контролем версий для предприятий.
+
+* Пакетная сборка инструментов XLAM для отделов анализа данных.
+
+* Автообновление макро-надстроек, полученных из документации Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

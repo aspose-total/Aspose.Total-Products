@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）转换为ODT（OpenDocument Text）可实现开源友好的文档工作流。ODT文件非常适合使用LibreOffice或OpenOffice的团队，为他们提供了一种灵活、轻量级的替代方案，同时仍然支持丰富的格式设置。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将开源文档发布为专业格式的ODT文件。
+
+* 将Markdown指南转换为可编辑的LibreOffice文档。
+
+* 为避免使用专有格式的组织创建跨平台文档。
+
+* 制作源自MD内容的本地化ODT手册。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将Markdown存储库批量转换为ODT以进行公开分发。
+
+* 在开源项目中自动生成ODT文档。
+
+* 为政府或非政府组织输出ODT的跨平台ETL工作流。
+
+* 在本地化和翻译流程中基于触发器创建ODT。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

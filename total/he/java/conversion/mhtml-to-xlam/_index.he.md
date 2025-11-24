@@ -102,7 +102,55 @@ otherformats: XLSB DIF XLT EXCEL XLTM TSV TXT FODS XLTX SXC CSV MD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MHTML ל-XLAM (תוסף Excel) מאפשרת הטמעת פונקציות אוטומטיות או כלים שנגזרים מתוכן באינטרנט לתוך Excel. XLAM אידיאלי עבור חישובים מותאמים אישית, מאקרוס לדיווחים ותסריטים לאוטומציה חוזרת.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* תוספי Excel מותאמים אישית שנוצרים מתבניות חישוב מקוונות.
+
+* כלים לתחזיות פיננסיות שנבנו ממערכות נתונים באינטרנט.
+
+* לוחות מחוונים עם מאקרוס ממקורות אינטרנט.
+
+* כלים לאוטומציה חוזרת לדיווח תאגידי ב-Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירה אוטומטית של תוספי XLAM מלוחות מחוונים ב-MHTML.
+
+* שילוב לצינורות אוטומציה ב-Excel.
+
+* יצירת XLAM מופעלת עבור משימות דוח חוזרות.
+
+* עיבוד ציבורי של תבניות חישוב מקוונות לתוספים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,31 @@ Menggunakan API, Anda juga dapat memutar gambar DXF keluaran sesuai kebutuhan An
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Mengonversi Markdown (MD) ke DXF (Drawing Exchange Format) mengubah diagram dan bagan terstruktur menjadi file vektor yang kompatibel dengan CAD. DXF ideal untuk alur kerja rekayasa, arsitektur, dan manufaktur yang membutuhkan ilustrasi berbasis garis yang tepat.
+
+## {{% blocks/products/pf/agp/feature-section-col title="Penggunaan Utama" %}}
+
+* Mengekspor diagram Markdown ke gambar DXF siap CAD.
+* Mengonversi bagan alur dan skematik untuk dokumentasi rekayasa.
+* Menyiapkan ilustrasi arsitektur atau mekanik dari catatan Markdown.
+* Berbagi diagram teknis dengan rekan kerja menggunakan perangkat lunak CAD.
+
+## {{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* Konversi MD-to-DXF dalam jumlah besar untuk tim rekayasa dan desain.
+* Integrasi dengan jalur desain otomatis untuk prototyping cepat.
+* Ekspor DXF terjadwal untuk sistem dokumentasi teknis.
+* Generasi ilustrasi siap CAD yang dipicu dari repositori Markdown.
+
+## {{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

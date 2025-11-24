@@ -144,7 +144,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja MHTML na XAMLFLOW umożliwia wykorzystanie treści internetowych i zasobów wektorowych w interaktywnych procesach roboczych oraz automatyzacji interfejsu użytkownika przy użyciu aplikacji przepływu opartych na XAML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Integracja diagramów i grafik internetowych w zautomatyzowane przepływy XAML.
+
+* Archiwizacja interaktywnej zawartości internetowej dla systemów automatyzacji Windows.
+
+* Przygotowanie pulpitów nawigacyjnych opartych na sieci dla automatyzacji procesów sterowanych interfejsem użytkownika.
+
+* Konwersja formularzy i kontrolek internetowych dla aplikacji desktopowych opartych na przepływie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Konwersja wsadowa MHTML na XAMLFLOW dla potoków automatyzacji interfejsu użytkownika.
+
+* Wywoływane aktualizacje dla pulpitów nawigacyjnych i interaktywnych zasobów internetowych.
+
+* Integracja z przepływami RPA (Automatyzacja Procesów Robotycznych).
+
+* Zaplanowane wyodrębnianie komponentów interfejsu użytkownika internetowego dla aplikacji korporacyjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

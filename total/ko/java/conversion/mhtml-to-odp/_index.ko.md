@@ -121,7 +121,55 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML(웹 아카이브) 파일을 ODP(OpenDocument Presentation)로 변환하면 웹 콘텐츠를 LibreOffice나 OpenOffice용으로 완전히 편집 가능한 슬라이드로 변환할 수 있습니다. ODP는 크로스 플랫폼 호환성을 제공하며 원본 서식을 보존합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 온라인 마케팅 콘텐츠를 ODP 슬라이드 덱으로 변환하기.
+
+* 웹 기반 수업 계획에서 생성된 교육 모듈.
+
+* 웹 포털에 원래 호스팅된 회사 프레젠테이션을 아카이빙하기.
+
+* 웹 기반 프로젝트 업데이트를 전문적인 슬라이드로 변환하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 여러 MHTML 보고서를 일괄적으로 ODP 덱으로 변환하기.
+
+* 내부 커뮤니케이션을 위한 프레젠테이션 슬라이드 일정 생성.
+
+* 라이브 웹 대시보드에서 프레젠테이션 콘텐츠 자동 업데이트.
+
+* 협업형 오픈 소스 프레젠테이션 워크플로에 통합하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

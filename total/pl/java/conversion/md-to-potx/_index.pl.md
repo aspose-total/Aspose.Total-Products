@@ -59,7 +59,55 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie Markdown (MD) na POTX (szablon PowerPoint bez makr) umożliwia tworzenie nowoczesnych, czytelnych szablonów prezentacji opartych na lekkich plikach tekstowych. POTX zapewnia spójność prezentacji bez zależności od makr.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Tworzenie czystych i markowych szablonów POTX na podstawie zarysowań MD.
+
+* Standaryzacja slajdów korporacyjnych w różnych działach.
+
+* Tworzenie decków marketingowych na podstawie skrótów Markdown.
+
+* Projektowanie szablonów prezentacji akademickich za pomocą treści MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna produkcja POTX w potokach dokumentacyjnych.
+
+* Regeneracja szablonów przy użyciu Markdown jako treści źródłowej.
+
+* Partiowa dystrybucja plików POTX dla zespołów przedsiębiorstw.
+
+* Zaplanowane aktualizacje z MD na POTX w procesach roboczych związanych z marką.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ Při převodu souboru MD na XLTX můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MD (Markdown) na XLTX (Excel šablona bez maker) je ideální pro týmy zaměřené na čisté, konzistentní tvorbu šablon bez maker. XLTX poskytuje opakovaně použitelnou strukturu a zároveň udržuje spolehlivé formátování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Transformace zpráv založených na Markdownu do standardizovaných šablon.
+
+* Vytváření vybroušených XLTX šablon pro firemní použití.
+
+* Převod designových směrnic MD do tabulkových rámců.
+
+* Vytváření upravitelných šablon pro personální oddělení, finance a provoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatické generování XLTX šablon z MD v pracovních postupech.
+
+* Hromadná výroba jednotných šablon pro organizace.
+
+* ETL potrubí obnovující XLTX šablony pro využití v různých odděleních.
+
+* Aktualizace šablon řízená MD pro systémy dokumentů v cloudu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

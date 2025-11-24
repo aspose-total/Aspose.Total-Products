@@ -57,7 +57,51 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz IMAGE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie MHTML na OBRAZ (JPEG, PNG, BMP, itp.) wyodrębnia statyczne wizualizacje z archiwów internetowych do użycia w prezentacjach, na stronach internetowych lub w mediach drukowanych. Konwersja OBRAZU zachowuje układ i jakość grafiki.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Wyodrębnianie zdjęć produktów z katalogów internetowych.
+
+* Archiwizowanie wykresów i infografik z internetu do raportowania.
+
+* Konwertowanie diagramów internetowych na obrazy o wysokiej rozdzielczości do prezentacji.
+
+* Tworzenie treści wizualnych do blogów i postów na mediach społecznościowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Wyodrębnianie obrazów wsadowo z plików MHTML do kampanii marketingowych.
+
+* Integracja z zautomatyzowanymi procesami internetowo-drukarskimi.
+
+* Wywoływana konwersja dla dynamicznych pulpitów nawigacyjnych lub raportów.
+
+* Zaplanowane generowanie obrazów do treści edukacyjnych lub tutoriali.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

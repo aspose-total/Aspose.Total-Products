@@ -61,7 +61,51 @@ Tijdens het converteren van een POTX-bestand naar FODS, kunt u ook een watermerk
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het converteren van **POTX naar FODS** exporteert sjabloongegevens naar platte OpenDocument-spreadsheetbestanden voor maximale compatibiliteit met open-source tools.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Bewerken van gegevens afgeleid van POTX in LibreOffice en OpenOffice.
+
+* Voorbereiden van open-formaat spreadsheets die voldoen aan overheidsstandaarden.
+
+* Maken van lichte, platformagnostische gegevensbladen.
+
+* Archiveren van POTX-sjabloonmetadata in open formaten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchverwerking van POTX-bestanden naar FODS voor teams op verschillende platforms.
+
+* Geplande exports in open formaat voor naleving of audits.
+
+* Integratie met open-source workflowautomatisering.
+
+* Op trigger gebaseerde FODS-conversie bij bijwerken van sjablonen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

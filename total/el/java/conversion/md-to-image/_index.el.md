@@ -57,7 +57,55 @@ otherformats: PSD JPEG2000 WMF EMZ SVGZ DXF TGA IMAGE WMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του Markdown (MD) σε γενικές μορφές εικόνας (PNG, JPG, BMP) επιτρέπει την οπτικοποίηση πινάκων, διαγραμμάτων και μορφοποιημένου κειμένου σε μια φορητή, ανεξάρτητη πλατφόρμας μορφή. Οι εικόνες μπορούν να ενσωματωθούν σε παρουσιάσεις, ιστότοπους ή έγγραφα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Εξαγωγή διαγραμμάτων Markdown ως στατικές εικόνες για διαφάνειες ή αναφορές.
+
+* Κοινοποίηση διαγραμμάτων βασισμένων σε Markdown σε ιστότοπους ή blogs.
+
+* Δημιουργία εικόνων για εγχειρίδια χρήστη ή τεχνικούς οδηγούς.
+
+* Οπτικές στιγμές πινάκων Markdown για παρουσιάσεις ή PDFs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένη μαζική μετατροπή περιεχομένου Markdown σε εικόνες.
+
+* Αγωγοί ETL που παράγουν οπτικά στοιχεία από αρχεία Markdown.
+
+* Αυτόματη δημιουργία διαγραμμάτων για πύλες τεκμηρίωσης.
+
+* Εξαγωγές εικόνων με βάση την ενεργοποίηση για πίνακες ελέγχου ή συστήματα αναφορών.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

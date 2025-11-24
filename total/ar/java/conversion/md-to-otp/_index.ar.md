@@ -59,7 +59,55 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MD (Markdown) إلى OTP (OpenDocument Presentation Template) يساعد المؤسسات في بناء قوالب شرائح قابلة لإعادة الاستخدام تتبع العلامة التجارية المتسقة مع الحفاظ على المحتوى القابل للتحرير المخزن في Markdown. ملفات OTP خفيفة الوزن ومرنة ومثالية للبيئات مفتوحة المصدر.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء قوالب OTP معتمدة على العلامة التجارية من محتوى Markdown.
+
+* بناء قوالب محاضرات قابلة لإعادة الاستخدام مستمدة من مخططات دروس MD.
+
+* هياكل شرائح متسقة للمنظمات غير الحكومية والمؤسسات الأكاديمية.
+
+* تحويل وثائق Markdown إلى قوالب عروض موحدة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* إنشاء قوالب OTP تلقائيًا من MD الموجود في الإصدارات.
+
+* إنتاج كتلي لقوالب العروض مفتوحة المصدر.
+
+* تحديث ملفات OTP بانتظام من مستودعات Markdown.
+
+* سير عمل مركزه حول القوالب للمنظمات الموزعة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

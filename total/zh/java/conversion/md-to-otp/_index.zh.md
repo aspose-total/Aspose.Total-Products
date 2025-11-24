@@ -59,7 +59,49 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）转换为OTP（OpenDocument Presentation Template）有助于组织构建符合一致品牌形象的可重用幻灯片模板，同时保持存储在Markdown中的可编辑内容。OTP文件轻巧灵活，非常适合开源环境。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 从Markdown内容创建品牌化OTP模板。
+* 从MD课程大纲构建可重用的讲座模板。
+* 为NGO和学术机构提供一致的幻灯片结构。
+* 将Markdown文档转换为统一的演示文稿模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从版本控制的MD自动生成OTP模板。
+* 大规模生产开源演示文稿模板。
+* 定期从Markdown存储库更新OTP文件。
+* 面向模板的工作流程适用于分布式组织。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

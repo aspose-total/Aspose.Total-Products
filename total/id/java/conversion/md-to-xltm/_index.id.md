@@ -47,7 +47,55 @@ Saat mengonversi file MD ke XLTM, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi Markdown (MD) ke XLTM (Template Excel yang Diaktifkan Makro) menciptakan template spreadsheet yang dapat digunakan kembali yang diperkaya dengan otomatisasi. File XLTM mendukung makro untuk inisialisasi dinamis, bidang yang diisi otomatis, dan tindakan alur kerja lanjutan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Template bisnis yang didorong oleh makro yang berasal dari konten Markdown.
+
+* Membangun lembaran peramalan otomatis dari data MD.
+
+* Membuat template perhitungan yang dapat digunakan kembali untuk tim rekayasa.
+
+* Membuat template onboarding atau audit yang siap makro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Menghasilkan template XLTM secara otomatis melalui konversi MD yang didukung CI.
+
+* Membangun template yang diaktifkan makro secara massal untuk kantor yang tersebar.
+
+* Pembaruan terjadwal file XLTM dari repositori Markdown.
+
+* Skrip alur kerja dinamis yang mengisi template XLTM dari data backend.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

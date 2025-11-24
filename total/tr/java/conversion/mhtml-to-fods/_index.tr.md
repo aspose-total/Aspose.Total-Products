@@ -47,7 +47,55 @@ MHTML dosyasını FODS'ye dönüştürürken, çıktı FODS dosya biçiminize fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML'den FODS (Flat OpenDocument Spreadsheet) dönüşümü, LibreOffice veya OpenOffice için uygun, açık, XML tabanlı elektronik tablo dosyaları oluşturur. FODS, hafif ve taşınabilir veri arşivleme için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Çapraz platform düzenleme için web tabanlı tablo raporlarının arşivlenmesi.
+
+* İşbirlikçi ekipler için açık kaynaklı elektronik tablo şablonlarının hazırlanması.
+
+* Çevrimiçi finansal panoların taşınabilir FODS dosyalarına dönüştürülmesi.
+
+* Yapılandırılmış web verilerinin Excel kullanmayanlarla paylaşılması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Açık kaynaklı ofis iş akışları için zamanlanmış MHTML'den FODS'a dönüşüm.
+
+* Çevrimiçi tabloların toplu işlenmesiyle düzenlenebilir FODS dosyalarının oluşturulması.
+
+* Web izleme sistemleri için tetiklenmiş otomatik dönüşüm.
+
+* FODS şablonları gerektiren işbirlikçi platformlara entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

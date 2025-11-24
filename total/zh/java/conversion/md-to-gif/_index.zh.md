@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为GIF允许将文本内容、图表或流程图转换为循环动画。GIF广泛受到支持，适用于教程、社交媒体内容和轻量级交互式视觉。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将Markdown流程图转换为指导性GIF。
+
+* 用于编码或文档工作流程的动画速查表。
+
+* 源自Markdown笔记的社交媒体友好可视化效果。
+
+* 用于技术指南或软件演示的循环插图。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从Markdown文档更新自动生成GIF。
+
+* 批量处理多个Markdown图表并转换为GIF。
+
+* 与内容流水线集成，为在线门户生成GIF。
+
+* 定时将Markdown转换为GIF，用于营销或教育平台。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

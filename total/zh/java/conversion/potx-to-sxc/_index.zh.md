@@ -61,7 +61,51 @@ otherformats: DIF MARKDOWN XLAM MHTML XLS TSV SXC XLTM XLSM XLT ODS EXCEL FODS X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **POTX 转换为 SXC** 可输出与 StarOffice 兼容的电子表格文件，非常适合使用传统或轻量级套件的组织。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将基于模板的表格迁移到传统电子表格中。
+
+* 将 POTX 内容存档以供长期保留。
+
+* 支持与旧办公环境的兼容性。
+
+* 从模板中提取数据以进行结构化分析。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将 SXC 转换为大型机构存储库。
+
+* 当模板被修改时触发 SXC 导出。
+
+* 用于传统数据处理的自动化工作流程。
+
+* 定期转换以进行内部存档处理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

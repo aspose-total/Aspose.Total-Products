@@ -47,7 +47,55 @@ otherformats: XLT XLSB EXCEL XLAM TXT TSV SXC FODS XLSM DIF ODS XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του Markdown (MD) σε TSV (Tab-Separated Values) επιτρέπει τη δημιουργία καθαρών εξαγωγών δεδομένων που είναι ασφαλείς από διαχωριστικά, ιδανικές για προγραμματιστές, ομάδες BI και αγωγούς μηχανικής μάθησης. Τα αρχεία TSV διατηρούν τα κενά και λειτουργούν καλά για σύνολα δεδομένων που περιέχουν κόμματα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Εξαγωγή συνόλων δεδομένων Markdown σε TSV για προεπεξεργασία ML.
+
+* Εισαγωγή καταγραφών που δημιουργήθηκαν με MD σε ροές εργασιών επιστήμης δεδομένων.
+
+* Δημιουργία εξαγωγών δεδομένων βασισμένων σε TSV για την ανάπτυξη API.
+
+* Μετατροπή λιστών ελέγχου Markdown σε σύνολα δεδομένων με δομή πίνακα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μετατροπή πινάκων MD με βάση αγωγούς σε TSV.
+
+* Παρτίδες εξαγωγών για συστήματα εισαγωγής δεδομένων AI.
+
+* Τακτική παραγωγή TSV για δοκιμές ολοκλήρωσης πίσω μέρους.
+
+* Αυτοματοποιημένη τροφοδοσία TSV που δημιουργείται από το περιεχόμενο Markdown του αποθετηρίου.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

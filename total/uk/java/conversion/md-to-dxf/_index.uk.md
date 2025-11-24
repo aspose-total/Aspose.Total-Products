@@ -82,7 +82,27 @@ otherformats:  JPEG2000 PSD WMF APNG IMAGE WMZ SVGZ EMZ TGA DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Перетворення Markdown (MD) у DXF (Drawing Exchange Format) перетворює структуровані діаграми та блок-схеми в векторні файли, сумісні з CAD. DXF ідеально підходить для інженерії, архітектури та виробничих процесів, які потребують точних лінійних ілюстрацій.
+
+## {{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+* Експорт діаграм Markdown у готові для CAD креслення у форматі DXF.
+* Конвертація блок-схем та схем для інженерної документації.
+* Підготовка архітектурних або механічних ілюстрацій з нотаток у Markdown.
+* Обмін технічними діаграмами з колегами за допомогою програмного забезпечення CAD.
+
+## {{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* Пакетне перетворення MD у DXF для інженерних та дизайнерських команд.
+* Інтеграція з автоматизованими конвеєрами для швидкого прототипування.
+* Заплановані експорти DXF для систем технічної документації.
+* Спровоковане створення готових до CAD ілюстрацій з репозиторіїв Markdown.
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

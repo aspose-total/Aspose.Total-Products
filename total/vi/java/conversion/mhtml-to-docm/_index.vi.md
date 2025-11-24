@@ -129,7 +129,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp MHTML (MIME HTML) sang các tệp DOCM (Tài liệu Word có Macro-Enabled) bảo tồn nội dung web cùng với các macro tương tác cho các quy trình làm việc tự động. Các tệp DOCM là cần thiết cho tự động hóa quy trình kinh doanh, báo cáo tiên tiến và tạo tài liệu động.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Báo cáo công ty tự động được tạo từ nội dung được lấy từ web.
+
+* Các mô-đun đào tạo tương tác với các macro nhúng cho việc học trực tuyến.
+
+* Tài liệu quy trình kinh doanh tích hợp dữ liệu web trực tiếp.
+
+* Mẫu quản lý dự án với bảng điều khiển được kích hoạt bằng macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt các báo cáo MHTML lưu trữ sang các tệp DOCM có macro.
+
+* Tích hợp với hệ thống ERP để cập nhật tài liệu theo thời gian thực.
+
+* Thực thi macro sau khi chuyển đổi nội dung web.
+
+* Tự động tạo các mẫu kinh doanh định kỳ từ nguồn MHTML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

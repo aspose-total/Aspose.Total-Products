@@ -47,7 +47,51 @@ MHTML dosyasını XLAM'ye dönüştürürken, çıktı XLAM dosya biçiminize fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML'den XLAM (Excel Eklentisi) dönüşümü, web içeriğinden türetilen otomatik işlevleri veya araçları Excel'e gömmeyi sağlar. XLAM, özel hesaplamalar, raporlama makroları ve yeniden kullanılabilir otomasyon betikleri için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Çevrimiçi hesaplama şablonlarından oluşturulan özel Excel eklentileri.
+
+* Web tabanlı veri kümelerinden oluşturulan finansal tahmin araçları.
+
+* Web kaynaklı makrolarla etkileşimli gösterge panoları.
+
+* Excel'de kurumsal raporlama için yeniden kullanılabilir otomasyon araçları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* MHTML gösterge panolarından XLAM eklentilerinin otomatik oluşturulması.
+
+* Excel otomasyon borularına entegrasyon.
+
+* Yineleyen rapor görevleri için tetiklenen XLAM oluşturma.
+
+* Çevrimiçi hesaplama şablonlarının eklentilere toplu işlenmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

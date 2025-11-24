@@ -129,7 +129,55 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp MHTML (web archive) sang MARKDOWN (.md) cho phép nội dung web được chuyển đổi thành văn bản nhẹ, dễ đọc và dễ mang theo phù hợp cho các trang web, blog và tài liệu phát triển. Markdown bảo toàn cấu trúc nội dung như tiêu đề, liên kết, danh sách và đoạn mã.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi hướng dẫn web thành Markdown cho tài liệu phát triển.
+
+* Lưu trữ nội dung blog từ các trang web dưới dạng Markdown.
+
+* Tạo bài viết cơ sở kiến thức từ các hướng dẫn trực tuyến.
+
+* Chuyển đổi báo cáo dựa trên web thành ghi chú Markdown dễ mang theo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt nhiều trang MHTML thành Markdown cho các trình tạo trang tĩnh.
+
+* Kích hoạt việc tạo ra Markdown để cập nhật nội dung tự động trên wiki của nhà phát triển.
+
+* Tích hợp với các đường ống CI/CD để chuyển đổi nội dung web thành tài liệu.
+
+* Trích xuất tự động các báo cáo dựa trên web cho cơ sở kiến thức dựa trên Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,55 @@ otherformats: XLTX DIF TXT FODS XLAM XLTM XLSB MD SXC XLSM EXCEL TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MHTML เป็น XLSM (สมุดงาน Excel ที่เปิดใช้งานแมโคร) ช่วยรักษาข้อมูลเว็บในขณะเดียวกันทำให้สามารถใช้การอัตโนมัติขั้นสูง สูตร และแมโครสำหรับรายงานแบบไดนามิก XLSM เหมาะสำหรับธุรกิจที่ต้องการสเปรดชีตที่สามารถโปรแกรมได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* แม่แบบทางการเงินที่มีการคำนวณโดยอัตโนมัติที่ได้มาจากหน้าเว็บ
+
+* แดชบอร์ดติดตามโครงการที่มีการอัพเดตข้อมูลด้วยแมโคร
+
+* สเปรดชีตรายงานธุรกิจที่สามารถโต้ตอบ
+
+* แดชบอร์ดสำรวจออนไลน์หรือ KPI ที่ส่งออกเป็นแมโคร Excel
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การเริ่มการแปลง MHTML เป็น XLSM ตามเหตุการณ์สำหรับรายงานที่เกิดซ้ำ
+
+* การสร้างแมโครโดยอัตโนมัติจากตารางที่มาจากเว็บ
+
+* การรวมระบบ ERP และ BI เพื่อรายงาน Excel สด
+
+* การประมวลผลเป็นชุดสำหรับแดชบอร์ดออนไลน์หลายรายการเข้าสู่ XLSM
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

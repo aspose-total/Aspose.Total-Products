@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力WMZ画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをWMZ（圧縮Windowsメタファイル）に変換すると、スケーラビリティを保持しながら、共有、アーカイブ、プレゼンテーションや文書に埋め込むのに適したコンパクトなベクターグラフィックスが生成されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 企業レポート用の圧縮されたベクターイラスト。
+
+* EメールやプレゼンテーションでのWebベースの図やフローチャートの共有。
+
+* クロスプラットフォームの文書互換性のためのグラフィックスのアーカイブ。
+
+* トレーニングやマーケティング資料にスケーラブルなビジュアルを埋め込む。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 複数のMHTMLアーカイブからの自動化されたWMZ生成。
+
+* 効率的なストレージと共有のためのスケジュールされたバッチ圧縮。
+
+* コンテンツ管理や文書ワークフローへの統合。
+
+* プレゼンテーションやレポートパイプラインのためのトリガー付きWMZ作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

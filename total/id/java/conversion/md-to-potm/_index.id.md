@@ -59,7 +59,55 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konversi MD (Markdown) ke POTM (Macro-Enabled PowerPoint Template) memungkinkan pembuatan template presentasi yang diperkaya dengan otomatisasi. POTM mendukung makro VBA untuk pemformatan otomatis, pembuatan slide, dan penyisipan konten dinamis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Template slide yang didukung makro dibangun dari kerangka kerja Markdown.
+
+* Deck laporan otomatis yang bersumber dari dokumentasi MD.
+
+* Pembuatan template pelatihan interaktif menggunakan konten MD.
+
+* Template bisnis dinamis yang telah dimuat dengan logika VBA.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Pembuatan template POTM otomatis yang dipicu oleh pembaruan MD.
+
+* Generasi batch template PowerPoint yang didukung makro.
+
+* Alur kerja CI/CD membangun kerangka kerja POTM untuk tim pelaporan.
+
+* Regenerasi POTM yang didorong oleh alur kerja untuk branding perusahaan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

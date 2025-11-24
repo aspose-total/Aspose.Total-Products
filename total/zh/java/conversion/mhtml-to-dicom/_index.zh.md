@@ -57,7 +57,55 @@ otherformats: EMZ TGA WMF IMAGE WMZ DICOM JPEG2000 DXF SVGZ PSD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML（Web存档）文件转换为DICOM（医学数字成像和通信）可将基于Web的医学图像、报告或图表集成到临床成像工作流程中。DICOM确保与PACS和医学成像软件兼容。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将基于Web的诊断图像存档为DICOM格式。
+
+* 将在线医学报告转换为医院EMR系统。
+
+* 共享从Web门户提取的放射学或超声波图像。
+
+* 将临床基于Web的仪表板集成到成像工作流程中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将基于Web的医学内容定期批量转换为DICOM。
+
+* 触发生成以进行PACS集成和EMR更新。
+
+* 为远程医疗平台自动存档。
+
+* 集成到AI辅助诊断管道中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

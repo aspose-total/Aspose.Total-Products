@@ -61,7 +61,51 @@ Při převodu souboru POTX na TSV můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod **POTX na TSV** generuje soubory s hodnotami oddělenými tabulátorem, které jsou ideální pro analýzu založenou na textu, datové toky a předzpracování strojového učení.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Příprava dat ze slidů POTX pro statistickou analýzu.
+
+* Import tabulkového obsahu do pracovních postupů strojového učení.
+
+* Extrahování strukturovaného obsahu šablony pro vývojáře.
+
+* Vytváření sad dat TSV pro nástroje pro BI reporting.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná extrakce šablon do TSV pro analytické týmy.
+
+* Spouštění aktualizací do formátů TSV na základě triggerů při úpravách šablon.
+
+* Integrace do ETL toků pro transformaci dat.
+
+* Plánovaná generace TSV pro opakující se cykly reportingu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

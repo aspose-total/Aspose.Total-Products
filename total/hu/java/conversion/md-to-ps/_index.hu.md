@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) átalakítása PS (PostScript) formátumba magas minőségű vektor nyomtatási fájlokat hoz létre, amelyek alkalmasak professzionális kiadásra. A PS támogatja a skálázható diagramokat, szövegformázást, és széles körben használatos a nyomtatási környezetekben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Nyomtatásra kész diagramok létrehozása Markdown tartalomból.
+
+* Skálázható PostScript illusztrációk generálása professzionális kiadáshoz.
+
+* Markdown alapú jelentések átalakítása nagy felbontású nyomtatási kimenetekhez.
+
+* Műszaki dokumentumok archiválása PS formátumban reprodukálhatósághoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Markdown automatikus átalakítása PS formátumba vállalati kiadási csatornákhoz.
+
+* Tömeges PS generálás Markdown tárolókból nyomtatásra kész dokumentációhoz.
+
+* Ütemezett PostScript exportok magas minőségű jelentésekhez.
+
+* Integráció nyomtatási automatizálási munkafolyamatokkal Markdown átalakításához PS formátumba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

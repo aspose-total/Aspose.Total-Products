@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van Markdown (MD) naar PCL (Printer Command Language) genereert afdrukbare bestanden die compatibel zijn met laser- en inkjetprinters. PCL-conversie is geschikt voor het produceren van technische documenten, rapporten en workflow-automatisering in bedrijfsafdrukken.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het afdrukken van op Markdown gebaseerde rapporten op PCL-ondersteunde printers.
+
+* Genereren van PCL-uitvoer voor batchdocumentdistributie.
+
+* Het omzetten van Markdown-documentatie naar afdrukbare formaten.
+
+* Het voorbereiden van technische instructies voor kantoor- of productieafdrukworkflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geplande batchconversie van Markdown-bestanden naar PCL voor bedrijfsafdrukken.
+
+* Integratie met printfuncties om automatisch PCL te genereren vanuit Markdown-documentatie.
+
+* Geautomatiseerde afdrukpijplijnen die Markdown naar PCL converteren.
+
+* Op trigger gebaseerde documentproductie voor PCL-printers met een hoog volume.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

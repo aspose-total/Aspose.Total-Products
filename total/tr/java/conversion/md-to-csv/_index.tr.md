@@ -47,7 +47,55 @@ MD dosyasını CSV'ye dönüştürürken, çıktı CSV dosya biçiminize filigra
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) dosyalarını CSV'ye dönüştürmek, yapılandırılmış metinleri, tabloları ve listeleri evrensel olarak uyumlu elektronik tablo verilerine dönüştürmeyi sağlar. CSV dosyaları, analitik iş akışları, veritabanı içe aktarmaları ve hafif çaplı çapraz platform veri alışverişi için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Analiz için Markdown tablolarını CSV veri kümelerine dönüştürme.
+
+* Muhasebe araçlarına MD tabanlı fiyat tablolarını içe aktarma.
+
+* Geliştirici Markdown günlüklerini sıralanabilir CSV dosyalarına dönüştürme.
+
+* Belgelendirme tablolarını CRM ve ERP sistemlerine taşıma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* ETL işleri, depo Markdown'ını her gece CSV'ye dönüştürme.
+
+* CSV girdiler gerektiren panolar için otomatik dönüşüm.
+
+* Makine öğrenimi ön işleme boru hatları için toplu dışa aktarmalar.
+
+* Markdown tabanlı raporlardan CSV üreten iş akışı tetikleyicileri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

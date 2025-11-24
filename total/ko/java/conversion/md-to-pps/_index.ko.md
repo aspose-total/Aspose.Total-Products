@@ -59,7 +59,55 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (마크다운)를 PPS (PowerPoint 슬라이드쇼)로 변환하는 것은 가벼운 콘텐츠를 자동 실행 프레젠테이션 파일로 변환하는 데 이상적입니다. PPS는 슬라이드쇼로 직접 열리므로 키오스크, 디스플레이 및 루핑 프레젠테이션에 완벽합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 마크다운 노트에서 루핑 키오스크 프레젠테이션 생성.
+
+* MD 설명에서 생성된 자동 실행 제품 디스플레이.
+
+* MD 일정에서 가져온 슬라이드쇼 기반 이벤트 디스플레이.
+
+* 마크다운에서 직접 생성된 박물관, 소매점 또는 전시 디스플레이.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 디지털 사이니지를 위한 PPS 슬라이드쇼 일괄 생성.
+
+* 이벤트 관리 팀을 위한 자동화된 MD-to-PPS 파이프라인.
+
+* 마크다운 공지사항으로부터 예약된 슬라이드쇼 생성.
+
+* 대시보드를 통한 루핑 프레젠테이션 파일 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

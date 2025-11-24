@@ -135,7 +135,51 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML转换为XAML（可扩展应用标记语言）可以将基于Web的矢量和UI图形转换为与Windows兼容的UI组件和可伸缩视觉效果。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将Web图表转换为WPF应用程序的XAML。
+
+* 为软件开发存档基于Web的UI布局。
+
+* 为桌面应用程序准备交互式仪表板。
+
+* 提取用于Windows UI项目的矢量图形。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将MHTML内容批量转换为XAML以进行应用程序开发。
+
+* 用于转换Web UI原型的定时管道。
+
+* 为WPF应用程序集成触发XAML生成。
+
+* 为软件团队自动存档Web矢量内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

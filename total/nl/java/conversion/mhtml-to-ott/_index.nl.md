@@ -129,7 +129,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van MHTML naar OTT (OpenDocument Template) maakt het mogelijk om herbruikbare sjablonen te maken voor open-source kantoorpakketten, met behoud van webgebaseerde opmaak- en lay-outconsistentie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Bedrijfsbrede documenttemplates voor LibreOffice.
+
+* Herbruikbare lesplan-sjablonen van webgebaseerde educatieve inhoud.
+
+* Gestandaardiseerde open-source voorstel- en contracttemplates.
+
+* Workflow-sjablonen voor samenwerking bij contentbeheer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde generatie van OTT-sjablonen van meerdere MHTML-pagina's.
+
+* Integratie met LibreOffice-automatiseringstools voor batchdocumentcreatie.
+
+* Getriggerde sjabloonupdates van veranderende webgebaseerde inhoud.
+
+* Gestroomlijnde standaardisatie van documenten over gedistribueerde teams.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

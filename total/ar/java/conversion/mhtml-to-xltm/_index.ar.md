@@ -47,7 +47,55 @@ otherformats: SXC TXT EXCEL XLT XLTX XLTM MD XLAM XLSM ODS FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MHTML إلى XLTM (قالب إكسل ممكّن بالماكرو) ينشئ قوالب قابلة لإعادة الاستخدام مع الأتمتة المضمنة، مستمدة من محتوى الويب. مثالية لسير العمل المتكررة التي تتطلب قوالب إكسل قابلة للبرمجة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* قوالب ميزانيات ممكّنة بالماكرو محدّثة من البيانات عبر الإنترنت.
+
+* قوالب تقارير مؤتمتة لفرق المالية، الموارد البشرية، أو التسويق.
+
+* لوحات مفاتيح الأداء كقوالب إكسل ممكّنة بالماكرو قابلة لإعادة الاستخدام.
+
+* قوالب تخطيط وتتبع المشاريع تم إنشاؤها من جداول الويب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل MHTML إلى XLTM مجدول للمهام المتكررة.
+
+* إنشاء قوالب مفعّلة بالماكرو مُدمجة في أنظمة الأتمتة الشركية.
+
+* معالجة دفعية لوحات القيادة المستمدة من الويب إلى قوالب ماكرو قابلة لإعادة الاستخدام.
+
+* التكامل مع سكربتات الأتمتة في إكسل لتقارير ديناميكية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

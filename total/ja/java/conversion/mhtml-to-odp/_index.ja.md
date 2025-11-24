@@ -121,7 +121,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML（Webアーカイブ）ファイルをODP（OpenDocument Presentation）に変換すると、WebコンテンツをLibreOfficeやOpenOffice用に完全に編集可能なスライドに変換できます。ODPはクロスプラットフォーム互換性を確保し、元の書式を保持します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* オンラインマーケティングコンテンツをODPスライドデッキに変換する。
+
+* Webベースのレッスンプランから作成された教育モジュール。
+
+* Webポータルに元々ホストされていた企業プレゼンテーションのアーカイブ。
+
+* Webベースのプロジェクトアップデートをプロフェッショナルなスライドに変換する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 複数のMHTMLレポートを一括変換してODPデッキにする。
+
+* 社内コミュニケーション用のプレゼンテーションスライドを定期的に生成する。
+
+* ライブWebダッシュボードからプレゼンテーションコンテンツを自動更新する。
+
+* 協力的なオープンソースプレゼンテーションワークフローに統合する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -72,7 +72,49 @@ otherformats: POWERPOINT PPSM POTX PPSX POTM POT PPTM PPT XAML SWF PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MD (Markdown) ל-OTP (תבנית מצגת של OpenDocument) עוזרת לארגונים לבנות תבניות שקופות של שקפים המתאימות לסגנון המותג, בעוד שהתוכן הניתן לעריכה מאוחסן ב־Markdown. קבצי OTP הם קלים, גמישים ואידיאליים לסביבות קוד פתוח.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* יצירת תבניות OTP מותגות מתוך תוכן Markdown.
+* בניית תבניות שקפים ניתנות לשימוש מתוך תכני שיעור MD.
+* מבני שקפים עקביים לארגונים לא ממשלתיים ומוסדות אקדמיים.
+* המרת תיעוד Markdown לתבניות מצגת אחידות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת תבניות OTP אוטומטיות מ־MD בשליטת גרסאות.
+* ייצור מוניטין של תבניות מצגת לקוד פתוח.
+* עדכון קבצי OTP באופן קבוע ממאגרי Markdown.
+* זרימות עבודה ממוקדות תבניות עבור ארגונים מבוזרים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

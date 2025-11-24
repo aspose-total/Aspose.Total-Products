@@ -121,7 +121,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML을 PPTM(매크로 활성화 PowerPoint)으로 변환하면 웹 콘텐츠에서 대화식으로 자동화된 프레젠테이션을 만들 수 있습니다. PPTM은 매크로가 필요한 교육, 분석 또는 마케팅 슬라이드에 적합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 자동 콘텐츠 업데이트가 가능한 대화식 교육 슬라이드.
+
+* 매크로가 활성화된 KPI 및 프로젝트 대시보드.
+
+* 동적 매크로가 있는 마케팅 슬라이드 덱.
+
+* 웹 소스에서의 포함된 연습 문제가 있는 교육 모듈.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 반복 슬라이드를 위한 자동 MHTML-to-PPTM 파이프라인.
+
+* 동적인 매크로가 활성화된 프레젠테이션을 위한 예약 변환.
+
+* 라이브 웹 대시보드에서 트리거된 PPTM 생성.
+
+* 기업 워크플로 자동화 시스템 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,55 @@ A MD-fájl XLTX-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLTX-f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MD (Markdown) to XLTX (Excel-minta sablon makrók nélkül) konverzió ideális választás azoknak a csapatoknak, akik tiszta, következetes, makrómentes sablon létrehozásra összpontosítanak. Az XLTX újrafelhasználható struktúrát biztosít, miközben megbízható formázást tart fenn.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Markdown-alapú jelentések standardizált sablonokká alakítása.
+
+* Polírozott XLTX sablonok létrehozása vállalati felhasználásra.
+
+* MD tervezési irányelvek átalakítása táblázatkeretekké.
+
+* Szerkeszthető sablonok létrehozása HR, pénzügy és működés területeken.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Automatizált XLTX sablon generálás az MD-ből épített munkafolyamatokban.
+
+* Egységes sablonok tömeges előállítása szervezetek számára.
+
+* ETL csővezetékek frissítik az XLTX sablonokat több részleges felhasználásra.
+
+* MD-vezérelt sablonfrissítések felhőalapú dokumentumrendszerekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

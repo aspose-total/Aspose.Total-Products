@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น PCL (Printer Command Language) จะสร้างไฟล์พร้อมพิมพ์ที่เข้ากันได้กับเครื่องพิมพ์เลเซอร์และเครื่องพิมพ์หมึก. การแปลง PCL เหมาะสำหรับการสร้างเอกสารทางเทคนิค, รายงาน, และการอัตโนมัติของกระบวนการในสภาพแวดล้อมการพิมพ์ขององค์กร.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* พิมพ์รายงานที่ใช้ Markdown บนเครื่องพิมพ์ที่รองรับ PCL.
+
+* สร้างเอกสาร PCL สำหรับกระจายเอกสารเป็นชุด.
+
+* แปลงเอกสาร Markdown เป็นรูปแบบพร้อมพิมพ์.
+
+* เตรียมคำแนะนำทางเทคนิคสำหรับกระบวนการพิมพ์ในสำนักงานหรือการผลิต.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลงไฟล์ Markdown เป็น PCL แบบกลุ่มตามกำหนดเวลาสำหรับการพิมพ์ขององค์กร.
+
+* การรวมกับเซิร์ฟเวอร์พิมพ์เพื่อสร้าง PCL โดยอัตโนมัติจากเอกสาร Markdown.
+
+* ท่อการพิมพ์อัตโนมัติที่แปลง Markdown เป็น PCL.
+
+* การผลิตเอกสารตามเงื่อนไขสำหรับเครื่องพิมพ์ PCL ปริมาณมาก.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

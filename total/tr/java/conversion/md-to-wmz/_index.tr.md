@@ -57,7 +57,55 @@ API'yi kullanarak, çıktı WMZ görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını WMZ (Sıkıştırılmış Windows Metafile) formatına dönüştürmek, vektör grafiklerin sıkıştırılmış bir formatta paylaşılmasını sağlar. WMZ, kalite kaybı olmadan diyagramlar, grafikler ve illüstrasyonların dağıtımı için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown diyagramlarından sıkıştırılmış vektör illüstrasyonlar oluşturma.
+
+* Dosya boyutları küçültülerek eski sürümlere uyumlu grafikler paylaşma.
+
+* Teknik grafikleri belgelere veya sunumlara gömme.
+
+* Markdown'dan türetilmiş akış şemaları ve şematikleri dağıtma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Belgelendirme sistemleri için otomatik MD-WMZ dönüşümü.
+
+* Markdown depolarından sıkıştırılmış vektör diyagramlarının toplu üretilmesi.
+
+* Taşınabilir grafikler üreten ETL borularıyla entegrasyon.
+
+* Kurumsal dağıtım için WMZ dosyalarının zamanlanmış güncellemeleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

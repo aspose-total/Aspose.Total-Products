@@ -79,7 +79,55 @@ otherformats: XLT XLSB EXCEL XLAM TXT CSV SXC FODS XLSM DIF ODS XLTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення Markdown (MD) в TSV (значення, розділені табуляцією) дозволяє створювати чисті, безпечні від роздільників експорти даних, ідеальні для розробників, команд BI та конвеєрів машинного навчання. Файли TSV зберігають пробіли і працюють добре для наборів даних, які містять коми.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Експорт даних Markdown в TSV для попередньої обробки ML.
+
+* Імпорт логів, створених у MD, в робочі процеси з науки про дані.
+
+* Створення витягів даних на основі TSV для розробки API.
+
+* Перетворення контрольних списків Markdown у набори даних у вигляді табуляції.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Трансформація таблиць MD у TSV за допомогою конвеєра.
+
+* Пакетний експорт для систем прийому даних штучного інтелекту.
+
+* Регулярне створення TSV для тестування інтеграції на бекенді.
+
+* Автоматизовані потоки TSV, побудовані на вмісті репозиторію Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

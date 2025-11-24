@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل Markdown (MD) إلى OTT (OpenDocument Text Template) يدعم إنشاء قوالب قابلة للتوسيع لحلول مكتبية مفتوحة المصدر. تحتفظ قوالب OTT بالتنسيق المتسق مع السماح للفرق بإنشاء عدة مستندات من أساس نمطي مستقر.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء قوالب OTT لإنتاج المستندات متعددة اللغات.
+
+* بناء قوالب تقارير منظمة استنادًا إلى إرشادات مبنية على Markdown.
+
+* توحيد وثائق المكتب لبيئات مفتوحة المصدر.
+
+* إنشاء تنسيقات مستندات ODT قابلة لإعادة الاستخدام للمنظمات غير الحكومية أو المؤسسات العامة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* توليد OTT تلقائي في سير العمل للنشر مفتوح المصدر.
+
+* تحديثات القوالب المتداولة متزامنة من مراقبة الإصدارات Markdown.
+
+* إنتاج مجموعات قوالب بشكل دفعي للفرق الموزعة باستخدام LibreOffice.
+
+* أنظمة الحكومة أو غير الربحية توليد قوالب OTT بجدول زمني.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ Usando la API, también puede rotar la imagen PSD de salida según sus necesidad
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir MHTML a PSD (Adobe Photoshop) transforma gráficos web en imágenes con capas totalmente editables. PSD es ideal para diseñadores y especialistas en marketing que necesitan capacidades avanzadas de edición.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Edición de banners, encabezados o gráficos de interfaz de usuario basados en web en Photoshop.
+
+* Extracción de infografías con capas para campañas de marketing.
+
+* Creación de plantillas web editables a partir de contenido archivado.
+
+* Proyectos de diseño gráfico que requieren visuales web originales.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Creación por lotes de PSD a partir de páginas web MHTML para equipos de diseño.
+
+* Conversión activada para actualizaciones regulares de material de marketing.
+
+* Integración en flujos de activos de diseño para automatización en Photoshop.
+
+* Generación programada de PSD para flujos de trabajo de web a impresión.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

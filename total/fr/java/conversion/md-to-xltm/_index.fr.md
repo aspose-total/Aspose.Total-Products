@@ -47,7 +47,55 @@ Lors de la conversion du fichier MD en XLTM, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de Markdown (MD) en XLTM (Modèle Excel activé par macro) crée des modèles de feuilles de calcul réutilisables enrichis d'automatisation. Les fichiers XLTM prennent en charge les macros pour une initialisation dynamique, des champs auto-remplis et des actions de flux de travail avancées.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Modèles commerciaux pilotés par macro provenant de contenu Markdown.
+
+* Construction de feuilles de prévision automatisées à partir de données MD.
+
+* Construction de modèles de calcul réutilisables pour les équipes d'ingénierie.
+
+* Création de modèles prêts pour macro pour l'intégration ou l'audit.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Génération automatique de modèles XLTM via la conversion MD alimentée par CI.
+
+* Construction en lot de modèles activés par macro pour les bureaux distribués.
+
+* Mises à jour planifiées des fichiers XLTM à partir des dépôts Markdown.
+
+* Scripts de flux de travail dynamiques remplissant les modèles XLTM à partir de données backend.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

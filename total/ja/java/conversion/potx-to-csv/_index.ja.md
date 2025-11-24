@@ -61,7 +61,55 @@ POTXファイルをCSVに変換するときに、出力CSVファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**POTXをCSVに変換**すると、PowerPointテンプレートデータがコンマ区切りの値に変換され、テーブル、プレースホルダー、およびレイアウトベースのデータを迅速に抽出して分析およびレポートアプリケーションに活用できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* レポートダッシュボード用にテンプレートに埋め込まれたテーブルをエクスポートする。
+
+* CRMやERP統合のためのCSVデータの準備。
+
+* コンテンツ監査のためのプレースホルダーテキストの抽出。
+
+* POTXテンプレート構造をスプレッドシート用の形式に移行する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 複数のテンプレートファイルをCSVデータセットに一括変換する。
+
+* POTXコンテンツを定期的に分析パイプラインに抽出する。
+
+* テンプレートライブラリが更新されたときにトリガーとなるCSV生成。
+
+* BIや自動化ワークフローにPOTXから派生したCSVを統合する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

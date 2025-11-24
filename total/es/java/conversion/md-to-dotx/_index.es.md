@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir Markdown (MD) en DOTX (Plantilla de Word sin Macros) es ideal para producir plantillas de diseño elegantes, consistentes y reutilizables. DOTX conserva los elementos de diseño y permite que los equipos actualicen el contenido a partir de archivos Markdown ligeros en entornos controlados por versiones.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Plantillas de marca corporativa obtenidas de documentación MD.
+
+* Hojas de entrenamiento estandarizadas construidas a partir de documentación Markdown.
+
+* Folletos de marketing basados en plantillas redactadas originalmente en MD.
+
+* Plantillas estructuradas de trabajos académicos generadas a partir de fuentes Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Generación automatizada de DOTX a través de CI/CD para equipos de documentación.
+
+* Regeneración de plantillas de Word estandarizadas a partir de archivos MD del repositorio.
+
+* Procesamiento por lotes de repositorios Markdown en diseños DOTX listos para usar.
+
+* Creación de plantillas uniformes para organizaciones multiunidad.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

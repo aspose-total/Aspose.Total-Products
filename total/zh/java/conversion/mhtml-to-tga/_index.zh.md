@@ -57,7 +57,55 @@ otherformats: PSD  TGA EMZ WMZ JPEG2000 SVGZ IMAGE WMF DXF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML转换为TGA（Targa）可生成高质量的光栅图像，常用于3D建模、游戏或科学可视化。TGA保留了颜色深度和alpha通道，适用于高级用途。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 为3D模型或模拟提取基于Web的纹理。
+
+* 存档具有透明度的科学可视化或图表。
+
+* 将Web插图转换为TGA以供设计流程使用。
+
+* 为动画或游戏资产准备光栅图形。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从Web存档图形批量转换为TGA。
+
+* 定时管道，从在线仪表板导出纹理。
+
+* 触发数字资产管理系统的TGA生成。
+
+* 与动画或模拟工作流集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

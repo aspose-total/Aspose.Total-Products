@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをPPS（PowerPointスライドショー）に変換すると、Webコンテンツから実行可能なプレゼンテーションファイルが作成されます。PPSファイルは編集せずにすぐに表示できるように最適化されており、会議やデモに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* Webベースのプロジェクトの即座のプレゼンテーション更新。
+
+* チームブリーフィング用のマーケティングキャンペーンスライドショー。
+
+* クラスルームやウェビナー配信用の教育コンテンツ。
+
+* Webベースのリソースから派生した製品デモ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的なスライドショー生成のためのバッチ変換。
+
+* ライブWebダッシュボードからのトリガーされたPPS作成。
+
+* 会議管理システムとの統合による自動配信。
+
+* 製品やKPIプレゼンテーションの定期的な更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

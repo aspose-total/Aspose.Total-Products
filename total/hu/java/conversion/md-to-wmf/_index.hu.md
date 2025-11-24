@@ -57,7 +57,55 @@ Az API használatával igény szerint elforgathatja a kimeneti WMF-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) átalakítása WMF (Windows Metafile) formátummá vektor alapú grafikákat eredményez, amelyek kompatibilisek az idősebb Windows alkalmazásokkal. A WMF fájlok vonal alapú pontosságot tartanak fenn, és alkalmasak diagramokhoz, táblázatokhoz és sémaekhez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Markdown folyamatábrák exportálása örökölt Windows alkalmazásokhoz.
+
+* Műszaki táblázatok átalakítása skálázható WMF diagrammákká.
+
+* Diagramok beágyazása olyan régebbi irodai szoftverekbe, amelyek támogatják a WMF-et.
+
+* Vonal alapú illusztrációk megőrzése a Markdown tartalomból.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Automatizált WMF generálás archiválási vagy kompatibilitási célokra.
+
+* Markdown alapú vizuális elemek tömeges átalakítása örökölt rendszerekhez.
+
+* Diagramok ütemezett frissítése dokumentációs portálokhoz.
+
+* Integráció olyan csővezetékekkel, amelyek WMF grafikákat állítanak elő vállalati jelentésekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

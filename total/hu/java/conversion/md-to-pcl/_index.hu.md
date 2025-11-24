@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) konvertálása PCL-re (Nyomtatóparancs-nyelv) nyomtatásra kész fájlokat eredményez, amelyek kompatibilisek a lézer- és tintasugaras nyomtatókkal. A PCL konverzió alkalmas műszaki dokumentumok, jelentések és munkafolyamat-automatizálás előállítására vállalati nyomtatási környezetekben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Markdown alapú jelentések nyomtatása PCL-t támogató nyomtatókon.
+
+* PCL kimenet generálása tétel dokumentumok terjesztéséhez.
+
+* Markdown dokumentáció konvertálása nyomtatásra kész formátumokká.
+
+* Műszaki utasítások előkészítése irodai vagy gyártási nyomtatási munkafolyamatokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Ütemezett tételkonverzió Markdown fájlokból PCL-be vállalati nyomtatáshoz.
+
+* Integráció nyomtatószerverekkel a PCL automatikus generálásához Markdown dokumentációból.
+
+* Automatizált nyomtatási csővezetékek, amelyek Markdown-et konvertálnak PCL-be.
+
+* Kiváltás-alapú dokumentumelőállítás nagy mennyiségű PCL nyomtatókhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

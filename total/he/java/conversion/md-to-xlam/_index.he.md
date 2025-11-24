@@ -78,7 +78,55 @@ otherformats: SXC TXT FODS XLTM ODS XLT XLTX XLSM DIF EXCEL XLSB CSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MD (Markdown) ל-XLAM (תוסף Excel) מאפשרת את יצירת קבצי הרחבה המאפשרים מאקרוים, אוטומציה ולוגיקה החוזרת. פורמט זה תומך במשתמשים מתקדמים ב-Excel שזקוקים לתוספות שניתנות לתכנות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת תוספות מאקרו מספריות נוסחאות מבוססות Markdown.
+
+* אריזת סקריפטים ממקור MD ל-XLAM עבור צוותי כספים.
+
+* אוטומציה של משימות אנליטיות חוזרות דרך יצירת תוספות.
+
+* הפצת חבילות מאקרו סטנדרטיות המקורצות מהערות Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* בניית XLAM אוטומטית מ-MD בצינורות CI/CD.
+
+* יצירת תוספות מאקרו בשליטת גרסאות לעסקים.
+
+* בניית כלי XLAM בצמיחה עבור מחלקות ניתוח נתונים.
+
+* עדכון אוטומטי של תוספות מאקרו ממסמכי הוראות Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

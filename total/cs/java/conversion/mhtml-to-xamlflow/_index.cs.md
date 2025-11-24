@@ -144,7 +144,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MHTML na XAMLFLOW umožňuje použití webového obsahu a vektorových prvků v interaktivních pracovních postupech a automatizaci uživatelského rozhraní pomocí aplikací založených na XAML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Integrace webových diagramů a grafiky do automatizovaných XAML pracovních postupů.
+
+* Archivace interaktivního webového obsahu pro systémy automatizace Windows.
+
+* Příprava webových informačních panelů pro automatizaci procesů řízených uživatelským rozhraním.
+
+* Převod webových formulářů a ovládacích prvků pro desktopové aplikace založené na proudu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkový převod MHTML na XAMLFLOW pro potrubí UI automatizace.
+
+* Spouštěné aktualizace pro informační panely a interaktivní webové prvky.
+
+* Integrace do pracovních postupů RPA (Robotic Process Automation).
+
+* Plánované extrakce webových komponent uživatelského rozhraní pro podnikové aplikace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

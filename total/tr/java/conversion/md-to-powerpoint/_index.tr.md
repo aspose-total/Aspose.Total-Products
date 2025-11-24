@@ -59,7 +59,55 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını PowerPoint (PPTX) dosyalarına dönüştürmek, düz metin içeriğini profesyonel, görsel olarak yapılandırılmış sunumlara dönüştürür. PPTX dosyaları animasyonları, medyayı, grafikleri ve marka unsurlarını destekler, bu da onları iş, eğitim ve pazarlama için mükemmel hale getirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown toplantı notlarından tam PowerPoint sunumları oluşturma.
+
+* MD belgelerini görsel olarak cilalanmış raporlara dönüştürme.
+
+* Markdown kaynakları üzerinden konferans veya webinar slaytları oluşturma.
+
+* Markdown ürün açıklamalarını müşteriye hazır PPTX dosyalarına dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Tekrarlayan sunumlar için otomatik PPTX oluşturma.
+
+* ETL boruları aracılığıyla Markdown'tan işe hazır PowerPoint'ler üretme.
+
+* Haftalık raporlama döngüleri için zamanlanmış slayt deck oluşturma.
+
+* Eğitim ve onboarding sistemlerinde kullanılan toplu PPTX dışa aktarımları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

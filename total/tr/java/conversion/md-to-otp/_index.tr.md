@@ -59,7 +59,55 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) dosyalarını OTP (OpenDocument Presentation Template) formatına dönüştürme, düzenlenebilir içeriği Markdown'ta saklayarak tutarlı marka kimliğini takip eden yeniden kullanılabilir slayt şablonları oluşturmak için organizasyonlara yardımcı olur. OTP dosyaları hafif, esnek ve açık kaynak ortamları için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown içeriğinden markalı OTP şablonları oluşturma.
+
+* MD ders taslaklarından alınan yeniden kullanılabilir ders şablonları oluşturma.
+
+* STK'lar ve akademik kurumlar için tutarlı slayt yapıları.
+
+* Markdown belgelerini standart sunum şablonlarına dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Sürüm kontrollü MD dosyalarından otomatik OTP şablonu oluşturma.
+
+* Açık kaynak sunum şablonlarının toplu üretimi.
+
+* Markdown depolarından düzenli olarak OTP dosyalarını güncelleme.
+
+* Dağıtılmış organizasyonlar için şablon merkezli iş akışları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

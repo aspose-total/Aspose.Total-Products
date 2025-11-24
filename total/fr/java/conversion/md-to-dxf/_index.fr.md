@@ -57,7 +57,25 @@ L'API vous permet également d'exporter le fichier MD vers DXF dans un seul fich
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Conversion de Markdown en DXF
+
+La conversion de Markdown (MD) en DXF (Drawing Exchange Format) transforme les diagrammes structurés et les organigrammes en fichiers vectoriels compatibles avec les logiciels de CAO. Le DXF est idéal pour les flux de travail en ingénierie, en architecture et en fabrication nécessitant des illustrations précises basées sur des lignes.
+
+## Cas d'utilisation clés
+
+- Exportation de diagrammes Markdown en dessins DXF prêts pour la CAO.
+- Conversion d'organigrammes et de schémas pour la documentation en ingénierie.
+- Préparation d'illustrations architecturales ou mécaniques à partir de notes Markdown.
+- Partage de diagrammes techniques avec des collaborateurs utilisant des logiciels de CAO.
+
+## Scénarios d'automatisation
+
+- Conversion en masse de MD en DXF pour les équipes d'ingénierie et de conception.
+- Intégration avec des pipelines de conception automatisés pour le prototypage rapide.
+- Exportations planifiées de DXF pour les systèmes de documentation technique.
+- Génération déclenchée d'illustrations prêtes pour la CAO à partir de référentiels Markdown.
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,51 @@ otherformats: MARKDOWN XLT CSV EXCEL MHTML XLSM FODS XLTM SXC XLSB XLS DIF XLTX 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Конвертація **POTX в TSV** генерує файли зі значеннями, розділеними табуляцією, які ідеально підходять для аналізу на основі тексту, потоків даних та попередньої обробки машинного навчання.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Підготовка даних слайдів POTX для статистичного аналізу.
+
+* Імпорт табличного вмісту до робочих процесів машинного навчання.
+
+* Видобуток структурованого вмісту шаблону для розробників.
+
+* Створення наборів даних TSV для засобів звітності BI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетне видобування шаблонів в TSV для аналітичних команд.
+
+* Оновлення форматів TSV на основі тригерів при редагуванні шаблонів.
+
+* Інтеграція в потоки ETL для трансформації даних.
+
+* Планове створення TSV для циклів повторної звітності.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

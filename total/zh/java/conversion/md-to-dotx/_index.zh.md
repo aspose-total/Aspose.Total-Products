@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为DOTX（不带宏的Word模板）非常适合生成流畅、一致且可重复使用的布局模板。DOTX保留设计元素，同时让团队能够在版本控制环境中从轻量级Markdown文件中更新内容。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从MD文档中获取的企业品牌模板。
+
+* 从Markdown文档构建的标准化培训资料。
+
+* 最初在MD中起草的基于模板的营销手册。
+
+* 从Markdown源生成的结构化学术论文模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 通过CI/CD自动化生成DOTX，用于文档团队。
+
+* 从存储库MD文件重新生成标准化的Word模板。
+
+* 批处理Markdown存储库，生成可立即使用的DOTX布局。
+
+* 为多单位组织创建统一模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

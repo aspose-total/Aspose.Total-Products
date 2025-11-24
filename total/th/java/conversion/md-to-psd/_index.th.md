@@ -57,7 +57,55 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น PSD (Photoshop Document) ช่วยให้นักออกแบบสามารถนำเนื้อหาที่มีโครงสร้างเข้าสู่ไฟล์ Photoshop ที่มีชั้นแก้ไขได้ PSD ช่วยให้สามารถรวมไดอะแกรมที่ใช้ Markdown กับการแก้ไขกราฟิกอย่างมืออาชีพ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การแปลงบันทึก Markdown เป็นโมคัพที่สามารถแก้ไขได้
+
+* สร้างไดอะแกรมที่มีชั้นสำหรับอินโฟกราฟิกหรือเนื้อหาทางการตลาด
+
+* รวมภาพที่สร้างจาก Markdown กับทรัพยากรสตรีมมิ่ง
+
+* เตรียมไฟล์ออกแบบสำหรับการทำงานร่วมกันในกระบวนการสร้างสรรค์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง Markdown เป็น PSD โดยอัตโนมัติสำหรับทีมการตลาด
+
+* สร้างสินทรัพย์ทางสื่อที่มีชั้นอัตโนมัติจากคลัง Markdown
+
+* การรวมระบบท่อสื่อกราฟิกสำหรับการผลิตเนื้อหา
+
+* การสร้าง PSD ตามที่กำหนดสำหรับโครงการออกแบบร่วมกัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MHTML เป็นภาพ (JPEG, PNG, BMP, เป็นต้น) ช่วยในการสกัดภาพนิ่งจากเว็บอาร์กีฟสำหรับใช้ในงานนำเสนอ เว็บไซต์ หรือสื่อพิมพ์ การแปลงภาพรักษาเลเอาท์และคุณภาพกราฟิกไว้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* สกัดภาพสินค้าจากแคตตาล็อกออนไลน์
+
+* จัดเก็บกราฟเว็บและอินโฟกราฟิกสำหรับรายงาน
+
+* แปลงไดอะแกรมเว็บเป็นภาพความละเอียดสูงสำหรับงานนำเสนอ
+
+* สร้างเนื้อหาทางภาพสำหรับบล็อกและโพสต์โซเชียลมีเดีย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* สกัดภาพเป็นชุดจากไฟล์ MHTML สำหรับแคมเปญทางการตลาด
+
+* การผสานเข้ากับกระบวนการทำงานเว็บไปพิมพ์อัตโนมัติ
+
+* การแปลงโดยเรียกใช้สำหรับแดชบอร์ดหรือรายงานที่เปลี่ยนไป
+
+* การสร้างภาพตามกำหนดเวลาสำหรับเนื้อหาการศึกษาหรือบทแนะนำ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

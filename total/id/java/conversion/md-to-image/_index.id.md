@@ -57,7 +57,55 @@ Menggunakan API, Anda juga dapat memutar gambar IMAGE keluaran sesuai kebutuhan 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi Markdown (MD) ke format gambar generik (PNG, JPG, BMP) memungkinkan visualisasi tabel, diagram, dan teks yang diformat dalam format yang portabel dan independen platform. Gambar dapat disematkan dalam presentasi, situs web, atau dokumen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengekspor diagram Markdown sebagai gambar statis untuk slide atau laporan.
+
+* Berbagi grafik berbasis Markdown di situs web atau blog.
+
+* Membuat gambar untuk manual pengguna atau panduan teknis.
+
+* Cuplikan visual dari tabel Markdown untuk presentasi atau PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch terjadwal konten Markdown menjadi gambar.
+
+* Pipa ETL menghasilkan aset visual dari file Markdown.
+
+* Generasi otomatis diagram untuk portal dokumentasi.
+
+* Ekspor gambar berbasis pemicu untuk dasbor atau sistem pelaporan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

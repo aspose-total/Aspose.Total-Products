@@ -47,7 +47,51 @@ otherformats: XLSB DIF XLT EXCEL XLTM TSV TXT FODS XLTX SXC XLAM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MHTML в XLAM (надстройка Excel) позволяет встраивать автоматизированные функции или инструменты, полученные из веб-контента, в Excel. XLAM идеально подходит для настраиваемых расчетов, макросов отчетности и многоразовых сценариев автоматизации.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Настраиваемые надстройки Excel, созданные на основе онлайн-шаблонов расчетов.
+
+* Инструменты финансового прогнозирования, построенные на веб-данных.
+
+* Интерактивные панели с веб-макросами.
+
+* Многоразовые инструменты автоматизации для корпоративной отчетности в Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое создание надстроек XLAM из дашбордов MHTML.
+
+* Интеграция в процессы автоматизации Excel.
+
+* Генерация XLAM по триггеру для повторяющихся задач по отчетности.
+
+* Пакетная обработка онлайн-шаблонов расчетов в надстройки.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

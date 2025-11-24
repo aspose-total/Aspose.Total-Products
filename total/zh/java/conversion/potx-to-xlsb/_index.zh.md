@@ -61,7 +61,51 @@ otherformats: XLAM XLT XLS XLSX SXC EXCEL DIF TSV XLTM XLSB MHTML FODS MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **POTX 转换为 XLSB** 可以输出针对高性能计算和大规模数据操作进行优化的 Excel 二进制工作簿文件。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从 POTX 创建轻量级二进制电子表格。
+
+* 高效管理大型基于模板的数据集。
+
+* 为分析师准备性能集中的 Excel 文件。
+
+* 将 POTX 表内容存档为紧凑的二进制格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于分析和财务部门的批量 XLSB 导出。
+
+* 模板更新时基于触发器的二进制文件创建。
+
+* 高容量处理的定时转换。
+
+* 与计算型 Excel 工作流程集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

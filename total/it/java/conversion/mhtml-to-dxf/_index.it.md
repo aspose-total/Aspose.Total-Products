@@ -57,7 +57,51 @@ Utilizzando l'API, puoi anche ruotare l'immagine DXF di output secondo le tue es
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversione di MHTML in DXF (Drawing Exchange Format) trasforma i diagrammi basati sul web in file vettoriali compatibili con CAD. DXF è ideale per architetti, ingegneri e designer che richiedono precisione e possibilità di modifica.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* Estrarre diagrammi o schemi di ingegneria dagli archivi web.
+
+* Trasformare piani di pavimento basati sul web in disegni CAD modificabili.
+
+* Convertire illustrazioni tecniche per progetti architettonici.
+
+* Preparare diagrammi vettoriali per la produzione o il prototipaggio.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* Conversione batch di diagrammi online pronti per CAD in DXF.
+
+* Generazione DXF attivata per flussi di lavoro di ingegneria collaborativa.
+
+* Integrazione nei flussi di lavoro di software di progettazione e simulazione.
+
+* Archiviazione programmata di schemi provenienti da web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

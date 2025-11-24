@@ -61,7 +61,55 @@ otherformats: DIF MHTML SXC TSV ODS XLTX EXCEL XLSM XLSB FODS XLSX XLS XLTM XLT 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将**POTM转换为XLT**可将演示模板重新用于创建用于创建标准化工作表的Excel模板文件。这种转换对于希望在所有报告和文档格式上保持一致性的组织非常有价值。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 使用从幻灯片设计中派生的品牌样式创建Excel模板。
+
+* 将演示大纲转换为可重复使用的电子表格形式。
+
+* 制作办公室就绪的发票或排班模板。
+
+* 在文档生态系统中保持设计一致性。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从频繁更新的POTM文件自动生成XLT模板。
+
+* 用于企业模板分发门户的批量转换。
+
+* 用于合规团队的版本控制Excel模板生成。
+
+* 为大型组织自动部署标准化XLT文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

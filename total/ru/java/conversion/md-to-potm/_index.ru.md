@@ -59,7 +59,55 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MD (Markdown) в POTM (Шаблон PowerPoint с включенными макросами) позволяет создавать шаблоны презентаций, обогащенные автоматизацией. POTM поддерживает макросы VBA для автоформатирования, генерации слайдов и вставки динамического контента.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Шаблоны слайдов с макросами, созданные на основе Markdown-фреймворков.
+
+* Автоматизированные отчетные презентации, созданные на основе документации MD.
+
+* Создание интерактивного обучающего шаблона с использованием контента MD.
+
+* Динамические бизнес-шаблоны, предварительно загруженные логикой VBA.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое создание шаблона POTM при обновлении MD.
+
+* Пакетная генерация шаблонов PowerPoint с включенными макросами.
+
+* Построение рабочих процессов CI/CD для создания фреймворков POTM для отчетных команд.
+
+* Регенерация шаблонов POTM, управляемая рабочим процессом, для корпоративного брендинга.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

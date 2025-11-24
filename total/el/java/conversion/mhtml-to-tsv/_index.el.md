@@ -47,7 +47,51 @@ otherformats: TSV TXT XLSB ODS DIF XLT FODS XLSM XLAM EXCEL MD SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του MHTML σε TSV (Tab-Separated Values) εξάγει δομημένα δεδομένα από ιστοσελίδες σε ένα μορφή φιλική προς διαχωριστικά κείμενο. Το TSV είναι ιδανικό για επιστήμη δεδομένων, αγωγούς ETL και εισαγωγές σε βάσεις δεδομένων.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Εξαγωγή προϊόντων και πινάκων τιμών ηλεκτρονικού εμπορίου για ανάλυση.
+
+* Αποτελέσματα έρευνας που εξάγονται από φόρμες ιστοσελίδων σε TSV.
+
+* Αρχειοθέτηση πίνακα περιεχομένου ιστοσελίδας για μοντέλα μηχανικής μάθησης.
+
+* Κοινοποίηση δομημένων συνόλων δεδομένων με προγραμματιστές και μηχανικούς δεδομένων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή από MHTML σε TSV για αγωγούς AI/ML.
+
+* Ενσωμάτωση σε αυτοματοποιημένους αγωγούς ETL για αναλύσεις.
+
+* Προγραμματισμένη δημιουργία TSV για περιοδική αναφορά βασισμένη σε ιστοσελίδες.
+
+* Εξαγωγή TSV με ενεργοποίηση για πίνακες ελέγχου πραγματικού χρόνου.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

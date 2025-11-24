@@ -130,7 +130,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML（MIME HTML）ファイルをDOCX（マクロ有効なWordドキュメント）に変換すると、自動化されたワークフローのためのインタラクティブなマクロとともにWebコンテンツが保存されます。 DOCMファイルは、ビジネスプロセスの自動化、高度なレポーティング、動的ドキュメント生成に不可欠です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* Webスクレイピングされたコンテンツから生成される自動化された企業レポート。
+
+* eラーニング用に埋め込まれたマクロを備えたインタラクティブなトレーニングモジュール。
+
+* ライブWebデータを統合したビジネスプロセスのドキュメント化。
+
+* クリッカブルなマクロ駆動のダッシュボードを備えたプロジェクト管理テンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* アーカイブされたMHTMLレポートの一括変換をマクロ有効なDOCMファイルに。
+
+* ERPシステムとの統合によるリアルタイムドキュメントの更新。
+
+* Webコンテンツ変換後のマクロ実行のトリガー。
+
+* MHTMLソースからの定期的なビジネステンプレートの自動生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

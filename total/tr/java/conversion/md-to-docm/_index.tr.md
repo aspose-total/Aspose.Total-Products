@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) dosyalarını DOCM (Word Macro-Enabled Belge) dosyalarına dönüştürmek, ekiplerin hafif metin dosyalarını etkileşimli otomasyon özellikleri ile geliştirmesine olanak tanır. DOCM dosyaları gömülü makroları destekler, bu da onları iş akışı odaklı belgeler, kurumsal şablonlar ve Word içinde dinamik eylemler gerektiren otomatik oluşturulan raporlar için ideal hale getirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Geliştirici Markdown notlarını makro destekli SOP'lara dönüştürme.
+
+* Kurumsal iş akışları için otomatik eylem destekli politika belgeleri.
+
+* Git'te depolanan MD dosyalarından oluşturulan etkileşimli teklif şablonları.
+
+* Markdown tabanlı değişiklik günlüklerinden oluşturulan makro destekli denetim günlükleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Uyumluluk ekipleri için zamanlanmış MD'den DOCM dönüşümü.
+
+* ETL boruları Markdown'dan makro destekli Word raporları üretiyor.
+
+* CI/CD iş akışları, depo içeriğinden DOCM belgelerini yeniden oluşturuyor.
+
+* Mühendislik departmanları için otomatik makro tetiklemeli belgelendirme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

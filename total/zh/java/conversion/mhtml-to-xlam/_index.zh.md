@@ -49,7 +49,55 @@ otherformats: XLSB DIF XLT EXCEL XLTM TSV TXT FODS XLTX SXC XLAM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML转XLAM（Excel Add-In）转换允许将从网页内容衍生的自动化函数或工具嵌入到Excel中。XLAM非常适合用于自定义计算、报告宏和可重复使用的自动化脚本。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从在线计算模板生成的自定义Excel加载项。
+
+* 基于网络数据集构建的财务预测工具。
+
+* 包含网络源宏的交互式仪表板。
+
+* 用于Excel中企业报告的可重复使用自动化工具。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从MHTML仪表板自动创建XLAM加载项。
+
+* 集成到Excel自动化流程中。
+
+* 为重复报告任务触发XLAM生成。
+
+* 将在线计算模板批量处理为加载项。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

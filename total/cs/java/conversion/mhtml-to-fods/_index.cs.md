@@ -47,7 +47,51 @@ Při převodu souboru MHTML na FODS můžete také přidat vodoznak do výstupn�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MHTML na FODS (Flat OpenDocument Spreadsheet) vytváří otevřené, XML založené tabulkové soubory vhodné pro LibreOffice nebo OpenOffice. FODS je ideální pro lehké, přenosné archivování dat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Archivace webových tabulkových reportů pro úpravy na různých platformách.
+
+* Příprava šablon tabulek pro spolupracující týmy v open-source tabulkovém procesoru.
+
+* Převod online finančních přehledů do přenosných souborů FODS.
+
+* Sdílení strukturovaných webových dat s uživateli mimo Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný převod MHTML na FODS pro pracovní postupy v open-source kancelářských balících.
+
+* Hromadné zpracování online tabulek pro generování upravitelných souborů FODS.
+
+* Spuštěný automatizovaný převod pro systémy monitorující webové stránky.
+
+* Integrace do spolupracujících platforem vyžadujících šablony FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

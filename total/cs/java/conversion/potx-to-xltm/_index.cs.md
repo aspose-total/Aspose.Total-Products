@@ -61,7 +61,51 @@ Při převodu souboru POTX na XLTM můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění **POTX na XLTM** vytváří makro-povolené šablony Excelu ideální pro dynamické, opakující se obchodní zprávy postavené na rámci návrhu prezentace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření makro-řízených šablon pro reportování z rozložení snímků.
+
+* Automatizace pracovních postupů týmu prostřednictvím standardizovaných formátů Excelu.
+
+* Vytváření interaktivních tabulek pro zadávání dat na základě obsahu POTX.
+
+* Vytváření flexibilních šablon pro personalistiku, finance nebo provoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Generování dávkových XLTM pro reportování více oddělení.
+
+* Obnovení šablony na základě spouštění při aktualizaci návrhů POTX.
+
+* Integrace s nástroji pro automatizaci Excelu ve firmě.
+
+* Plánované exporty pro opakující se výkonnostní cykly.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

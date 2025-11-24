@@ -47,7 +47,55 @@ otherformats: ODS XLT XLTM XLSM TXT FODS XLTX XLSB DIF XLAM TSV EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов Markdown (MD) в TXT (обычный текст) создает чистую, легкую версию вашего контента без форматирования и разметки. Файлы TXT обладают высокой совместимостью, идеальны для обработки текста, написания сценариев и интеграции с приложениями, которые не поддерживают форматирование Markdown.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт документации Markdown для распространения по электронной почте в виде обычного текста.
+
+* Генерация необработанного контента для текстовой аналитики или рабочих процессов машинного обучения.
+
+* Создание легких, портативных копий заметок и документации.
+
+* Обмен контентом Markdown в средах, где не поддерживается богатое форматирование.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое пакетное преобразование репозиториев Markdown в TXT для резервного копирования и архивирования.
+
+* ETL-пайплайны, преобразующие документацию Markdown в TXT для обработки сценариями или инструментами автоматизации.
+
+* Автоматическое создание текстовых журналов из заметок проекта на основе Markdown.
+
+* Интеграция с конвейерами контента для экспорта Markdown в TXT для последующих систем.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

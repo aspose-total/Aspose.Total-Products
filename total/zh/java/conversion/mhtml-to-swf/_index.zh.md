@@ -121,7 +121,51 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML转换为SWF（Shockwave Flash）将网络动画和交互内容转换为Flash格式，用于传统多媒体或演示用途。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 存档交互式网络教程和动画。
+
+* 将在线演示或演示转换为SWF文件。
+
+* 导出用于离线使用的带动画的教育模块。
+
+* 保留自网站中的交互式视觉的营销内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将网络动画定期批量转换为SWF。
+
+* 触发导出用于离线教育或培训内容。
+
+* 与需要SWF的传统演示软件集成。
+
+* 自动存档交互式网络图形。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

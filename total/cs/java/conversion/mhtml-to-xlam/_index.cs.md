@@ -47,7 +47,51 @@ Při převodu souboru MHTML na XLAM můžete také přidat vodoznak do výstupn�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MHTML na XLAM (Excel Add-In) umožňuje vložení automatizovaných funkcí nebo nástrojů odvozených z webového obsahu do aplikace Excel. XLAM je ideální pro vlastní výpočty, makra pro hlášení a opakovaně použitelné automatizační skripty.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vlastní Excel doplňky generované z online výpočetních šablon.
+
+* Nástroje pro finanční předpovědi postavené na webových datech.
+
+* Interaktivní řídící panely s makry z webových zdrojů.
+
+* Opakovaně použitelné automatizační nástroje pro firemní hlášení v Excelu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované vytváření XLAM doplňků z MHTML řídících panelů.
+
+* Integrace do automatizačních potrubí Excelu.
+
+* Spouštěný proces generování XLAM pro opakující se úkoly s reporty.
+
+* Hromadné zpracování online výpočetních šablon do doplňků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

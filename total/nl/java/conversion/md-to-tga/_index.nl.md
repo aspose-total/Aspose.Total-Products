@@ -57,7 +57,55 @@ Met behulp van de API kunt u ook de uitgevoerde TGA-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van Markdown (MD) naar TGA (Targa Image) creëert hoogwaardige rasterafbeeldingen die veel worden gebruikt in videoproductie, games of technische diagrammen. TGA ondersteunt alfakanalen en ongecomprimeerde output voor nauwkeurige weergave.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke Gebruiksscenario's" %}}
+
+
+
+* Exporteren van op Markdown gebaseerde diagrammen voor videolagen of game-assets.
+
+* Grafische afbeeldingen met hoge resolutie voor technische documentatie.
+
+* Het maken van afbeeldingen met alfakanalen vanuit Markdown visualisaties.
+
+* Genereren van ongecomprimeerde technische diagrammen voor presentatiemateriaal.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde TGA-generatie vanuit Markdown-opslagplaatsen voor creatieve workflows.
+
+* Batchexport van diagrammen voor videoproductie of technische documentatie.
+
+* Geplande conversie van Markdown-diagrammen voor simulatie- of gameprojecten.
+
+* Integratie met contentmanagementsystemen om TGA-visuals automatisch te genereren.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

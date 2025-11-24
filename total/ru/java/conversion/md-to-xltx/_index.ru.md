@@ -47,7 +47,55 @@ otherformats: ODS SXC TSV XLSB TXT XLT EXCEL XLTM XLAM XLTX XLSM FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MD (Markdown) в XLTX (Excel Template без макросов) идеально подходит для команд, сосредоточенных на создании чистых, последовательных шаблонов без макросов. XLTX обеспечивает многократное использование структуры при сохранении надежного форматирования.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Преобразование отчетов на основе Markdown в стандартизированные шаблоны.
+
+* Создание отшлифованных шаблонов XLTX для корпоративного использования.
+
+* Преобразование рекомендаций по дизайну MD в таблицы-фреймворки.
+
+* Создание редактируемых шаблонов для отделов кадров, финансов и операций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое создание шаблонов XLTX из MD в рамках рабочих процессов.
+
+* Массовое производство однородных шаблонов для организаций.
+
+* Обновление шаблонов XLTX через конвейеры ETL для использования в нескольких отделах.
+
+* Обновление шаблонов на основе MD для облачных документных систем.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -78,7 +78,55 @@ otherformats: ODS SXC TSV XLSB TXT XLT EXCEL XLTM XLAM CSV XLSM FODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MD (Markdown) ל-XLTX (תבנית Excel ללא מקרו) היא אידיאלית עבור צוותים שממוקדים ביצירת תבניות נקיות, עקביות וללא מקרו. XLTX מספקת מבנה הניתן לשימוש חוזר תוך שמירה על עיצוב תקני.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* המרת דוחות מבוססי Markdown לתבניות מתוקנות.
+
+* יצירת תבניות XLTX מסודרות לשימוש תאגידי.
+
+* המרת הנחיות עיצוב MD למסגרות גיליון.
+
+* יצירת תבניות ניתנות לעריכה עבור מחלקות המשאבי אנוש, הפיננסים והפעולות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת תבניות XLTX מאוטומטיות מ-MD בתהליכי בנייה.
+
+* ייצור מוצרים בכמות גדולה של תבניות אחידות עבור ארגונים.
+
+* רענון של תבניות XLTX באמצעות צינורות ETL לשימוש במחלקות מרובות.
+
+* עדכוני תבניות מבוססי MD עבור מערכות מסמכים בענן.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

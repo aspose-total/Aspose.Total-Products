@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) zu ODT (OpenDocument Text) Konvertierung ermöglicht Dokumentations-Workflows, die Open Source-freundlich sind. ODT-Dateien sind ideal für Teams, die LibreOffice oder OpenOffice verwenden, da sie eine flexible, leichtgewichtige Alternative zu proprietären Word-Formaten bieten und gleichzeitig eine umfangreiche Formatierung ermöglichen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Veröffentlichung von Open-Source-Dokumentationen als professionell formatierte ODT-Dateien.
+
+* Konvertierung von Markdown-Anleitungen in bearbeitbare LibreOffice-Dokumente.
+
+* Erstellung plattformübergreifender Dokumente für Organisationen, die proprietäre Formate vermeiden.
+
+* Erstellung lokalisierte ODT-Handbücher aus MD-Inhalten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelkonvertierung von Markdown-Repositories in ODT für die öffentliche Verteilung.
+
+* Automatisierte ODT-Dokumentenerstellung in Open-Source-Projekten.
+
+* Plattformübergreifende ETL-Workflows, die ODT für Regierungen oder NGOs ausgeben.
+
+* Triggerbasierte ODT-Erstellung in Lokalisierungs- und Übersetzungs-Pipelines.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

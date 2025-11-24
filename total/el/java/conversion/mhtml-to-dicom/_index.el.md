@@ -57,7 +57,45 @@ otherformats: EMZ TGA WMF IMAGE WMZ DICOM JPEG2000 DXF SVGZ PSD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή αρχείων MHTML (ιστορικό web) σε DICOM (Ψηφιακή Εικονογράφηση και Επικοινωνίες στην Ιατρική) επιτρέπει την ολοκλήρωση ιατρικών εικόνων, αναφορών ή γραφημάτων από το web στις κλινικές ροές εργασίας εικονογράφησης. Το DICOM εξασφαλίζει συμβατότητα με PACS και λογισμικό εικονογράφησης.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Αρχειοθέτηση διαγνωστικών εικόνων από το web σε μορφή DICOM.
+
+* Μετατροπή online ιατρικών αναφορών για τα συστήματα Ηλεκτρονικής Ιατρικής Εγγραφής των νοσοκομείων.
+
+* Διαμοιρασμός εικόνων ακτινολογίας ή υπερήχων που εξάγονται από ιστοσελίδες.
+
+* Ενσωμάτωση κλινικών πίνακων ελέγχου βασισμένων στο web στις ροές εργασίας εικονογράφησης.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Προγραμματισμένη μαζική μετατροπή ιατρικού περιεχομένου από το web σε μορφή DICOM.
+
+* Ενεργοποίηση για τη δημιουργία για την ολοκλήρωση με PACS και ενημερώσεις Ηλεκτρονικής Ιατρικής Εγγραφής.
+
+* Αυτοματοποιημένη αρχειοθέτηση για πλατφόρμες τηλεϊατρικής.
+
+* Ενσωμάτωση σε διαγνωστικές διαδικασίες που υποστηρίζονται από την τεχνητή νοημοσύνη.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

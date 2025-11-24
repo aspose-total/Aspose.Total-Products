@@ -47,7 +47,55 @@ otherformats: SXC XLTX XLAM FODS EXCEL ODS TSV XLSB XLTM XLSM XLT DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل Markdown (MD) إلى XLSM (مصنف إكسل ممكّن بالماكرو) يفتح إمكانيات التأليف داخل سير العمل في جداول البيانات. يدعم XLSM الماكروات VBA، مما يجعله مثاليًا لتقارير ديناميكية وحسابات آلية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء لوحات تحكم مدعومة بالماكرو من جداول إدخال Markdown.
+
+* أتمتة حاسبات التكلفة المستمدة من أوراق المنتجات بتنسيق MD.
+
+* أتمتة سير العمل القائم على XLSM المبني من هياكل Markdown.
+
+* إنشاء أوراق هندسية باستخدام الماكروات التي تم إنشاؤها من ملاحظات MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* إنشاء MD → XLSM تلقائيًا في سير العمل CI.
+
+* إنشاء مجدول للجداول الإكسل الممكّنة بالماكرو للعمليات.
+
+* أنابيب التحويل التي تولد تقارير XLSM بشكل ديناميكي.
+
+* دمج مصادر Markdown في أنظمة جداول البيانات المالية المؤتمتة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

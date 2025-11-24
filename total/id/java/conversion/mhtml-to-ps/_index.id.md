@@ -130,7 +130,51 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konversi MHTML ke PS (PostScript) menciptakan dokumen vektor berkualitas tinggi siap cetak dari arsip web. PS ideal untuk pencetakan profesional dan alur kerja penerbitan desktop.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengonversi laporan web menjadi dokumen PostScript siap cetak.
+
+* Mengarsipkan ilustrasi teknis dan diagram untuk dicetak.
+
+* Menyiapkan materi pemasaran atau brosur dari sumber online.
+
+* Menghasilkan grafis vektor resolusi tinggi untuk penerbitan desktop.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch otomatis konten web ke file PS.
+
+* Generasi PS yang dipicu untuk alur kerja penerbitan.
+
+* Integrasi dengan sistem cetak sesuai permintaan.
+
+* Penjadwalan arsip grafis siap cetak dari web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

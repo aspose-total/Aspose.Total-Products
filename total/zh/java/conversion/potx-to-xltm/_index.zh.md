@@ -61,7 +61,51 @@ otherformats: XLSB XLS XLT SXC XLTX MHTML DIF XLTM XLSX XLSM TSV EXCEL MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **POTX 转换为 XLTM**，输出适用于基于演示设计框架构建的动态、重复业务报告的宏启用的Excel模板。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 从幻灯片布局创建宏驱动的报告模板。
+
+* 通过标准化的Excel格式自动化团队工作流程。
+
+* 基于POTX内容开发交互式数据输入表。
+
+* 为人力资源、财务或运营制定灵活的模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量生成多部门报告的XLTM。
+
+* 当POTX设计更新时，基于触发器的模板刷新。
+
+* 与企业Excel自动化工具集成。
+
+* 定期导出以支持重复的绩效周期。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -47,7 +47,51 @@ A MHTML-fájl XLAM-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLA
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MHTML to XLAM (Excel Add-In) konverzió lehetővé teszi automatizált funkciók vagy eszközök beágyazását webes tartalomból származó Excelbe. Az XLAM ideális egyedi számításokhoz, jelentés makrókhoz és újrafelhasználható automatizálási szkriptekhez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Egyedi Excel bővítmények, amelyek online számítási sablonokból generálódnak.
+
+* Pénzügyi előrejelző eszközök, amelyek webes adatkészletekből épülnek fel.
+
+* Interaktív vezérlőpultok webes forrású makrókkal.
+
+* Újrafelhasználható automatizálási eszközök a vállalati jelentésekhez Excelben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* XLAM bővítmények automatikus létrehozása MHTML vezérlőpultokból.
+
+* Integráció az Excel automatizálási csövekbe.
+
+* Kiváltott XLAM generálás ismétlődő jelentési feladatokhoz.
+
+* Tömeges feldolgozás online számítási sablonokból bővítményekbe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,51 @@ otherformats: TSV TXT XLSB ODS DIF XLT FODS XLSM XLAM EXCEL MD SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MHTML เป็น TSV (ค่าที่แยกด้วยแท็บ) ช่วยในการสร้างข้อมูลโครงสร้างจากหน้าเว็บในรูปแบบข้อความธรรมดาที่เหมาะสำหรับตัวแยกข้อมูล  TSV เหมาะสำหรับวิทยาการข้อมูล กระบวนการถ่ายโอนข้อมูล (ETL) และการนำเข้าฐานข้อมูล.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* การสกัดตารางผลิตภัณฑ์และราคาอีคอมเมิร์ซเพื่อวิเคราะห์.
+
+* ผลการสำรวจที่ส่งออกจากแบบฟอร์มเว็บเป็น TSV.
+
+* การเก็บถาวรเนื้อหาเว็บแบบตารางสำหรับโมเดลการเรียนรู้ของเครื่อง.
+
+* การแบ่งปันชุดข้อมูลโครงสร้างกับนักพัฒนาและวิศวกรข้อมูล.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* การแปลง MHTML เป็น TSV แบบกลุ่มสำหรับท่อไอ/เอ็มเอล.
+
+* การผสานเข้ากับกระบวนการทำงาน ETL อัตโนมัติสำหรับการวิเคราะห์.
+
+* การสร้าง TSV ตามกำหนดเวลาสำหรับรายงานที่เกี่ยวกับเว็บเป็นระยะ.
+
+* การส่งออก TSV ตามเงื่อนไขสำหรับแดชบอร์ดแบบเรียลไทม์.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

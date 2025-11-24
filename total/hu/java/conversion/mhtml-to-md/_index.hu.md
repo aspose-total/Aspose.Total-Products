@@ -47,7 +47,51 @@ A MHTML-fájl MD-vé konvertálásakor vízjelet is hozzáadhat a kimeneti MD-f�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MHTML to MD konverzió arra összpontosít, hogy tiszta, szerkeszthető Markdown (.md) fájlokat hozzon létre webarchívumokból. Az MD fájlok ideálisak statikus webhelyekhez, GitHub tárolókhoz és jegyzetalkalmazásokhoz, hordozhatóságot és egyszerűséget kínálva.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* GitHub README fájlok generálása webes tartalomból.
+
+* Műszaki útmutatók és oktatóanyagok archiválása Markdown formátumban.
+
+* Online tudástartalmak szerkeszthető MD jegyzetekké alakítása.
+
+* Markdown alapú hírlevelek vagy dokumentációk létrehozása.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ütemezett tömeges MHTML fájlok konvertálása MD formátumba dokumentációs projektekhez.
+
+* Integráció statikus webhelygenerátorokkal, mint például a Hugo vagy a Jekyll.
+
+* Kiváltott konverzió az webes tartalom automatizált archiválásához.
+
+* Csővezeték integráció Markdown alapú tartalomkezelő rendszerekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

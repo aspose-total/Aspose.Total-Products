@@ -47,7 +47,55 @@ Trong khi chuyển đổi tệp MD sang TXT, bạn cũng có thể thêm hình m
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp Markdown (MD) thành tệp TXT (văn bản thuần) tạo ra một phiên bản sạch, nhẹ của nội dung của bạn được loại bỏ các định dạng và đánh dấu. Các tệp TXT rất tương thích, lý tưởng cho xử lý văn bản, viết kịch bản và tích hợp với các ứng dụng không hỗ trợ định dạng Markdown.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xuất tài liệu Markdown để phân phối qua email dạng văn bản thuần.
+
+* Tạo nội dung nguyên thô cho phân tích dựa trên văn bản hoặc quy trình làm việc máy học.
+
+* Tạo bản sao nhẹ, di động của ghi chú và tài liệu.
+
+* Chia sẻ nội dung Markdown trong môi trường không hỗ trợ định dạng phong phú.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt định kỳ của các kho lưu trữ Markdown thành tệp TXT để sao lưu và lưu trữ.
+
+* Đường ống ETL biến đổi tài liệu Markdown thành TXT để xử lý bằng kịch bản hoặc công cụ tự động hóa.
+
+* Tạo ra các bản ghi văn bản thuần tự động từ ghi chú dự án dựa trên Markdown.
+
+* Tích hợp với đường ống nội dung để xuất Markdown dưới dạng TXT cho các hệ thống phụ trợ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

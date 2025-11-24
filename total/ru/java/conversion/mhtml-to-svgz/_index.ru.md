@@ -57,7 +57,51 @@ API также позволяет экспортировать файл MHTML в
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML в SVGZ (сжатый SVG) сохраняет векторную графику из веб-контента, сокращая размер файла. Идеально подходит для веба, пользовательского интерфейса и иконографии, требующих масштабируемости и легких файлов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Извлечение масштабируемых диаграмм из онлайн-панелей управления.
+
+* Сжатие веб-векторных логотипов для веб-сайтов.
+
+* Преобразование блок-схем или инфографики в векторный формат.
+
+* Подготовка веб-иконок из архивных визуальных элементов HTML/CSS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование векторного веб-контента в SVGZ.
+
+* Интеграция в веб-разработку для адаптивной графики.
+
+* Запланированное извлечение векторов из архивов MHTML.
+
+* Запуск сжатия и доставки масштабируемой графики для веб-сайтов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

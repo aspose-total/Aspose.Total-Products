@@ -47,7 +47,55 @@ A MD-fájl TSV-vé konvertálásakor vízjelet is hozzáadhat a kimeneti TSV-fá
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) átalakítása TSV (Tabulátorral Elválasztott Értékek) formátumba tiszta, elválasztó-biztos adatexportot tesz lehetővé, amely ideális fejlesztők, BI csapatok és gépi tanulási csővezetékek számára. A TSV fájlok megőrzik a szóközöket, és jól működnek az olyan adatkészletek esetén, amelyek vesszőket tartalmaznak.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Markdown adatkészletek exportálása TSV formátumba ML előfeldolgozás céljából.
+
+* MD által létrehozott naplók importálása adattudományi munkafolyamatokba.
+
+* TSV-alapú adatkinyerések létrehozása API fejlesztéshez.
+
+* Markdown ellenőrzőlisták átalakítása tab-struktúrájú adatkészletekké.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* MD táblák pipeline-alapú átalakítása TSV formátumba.
+
+* Tömeges exportok AI adatbeviteli rendszerek számára.
+
+* Rendszeres TSV generálás backend integrációs teszteléshez.
+
+* Automatizált TSV adagok létrehozása a tároló Markdown tartalmából.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

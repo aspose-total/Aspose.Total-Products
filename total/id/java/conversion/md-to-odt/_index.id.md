@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konversi MD (Markdown) ke ODT (OpenDocument Text) memungkinkan alur kerja dokumentasi yang ramah open-source. File ODT ideal untuk tim yang menggunakan LibreOffice atau OpenOffice, memberikan alternatif ringan dan fleksibel untuk format Word berbayar sambil tetap memungkinkan pemformatan yang kaya.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Kunci" %}}
+
+
+
+* Menerbitkan dokumentasi open-source dalam format file ODT yang diformat secara profesional.
+
+* Mengonversi panduan Markdown menjadi dokumen LibreOffice yang dapat diedit.
+
+* Membuat dokumen lintas platform untuk organisasi yang menghindari format berbayar.
+
+* Menghasilkan manual ODT lokal yang bersumber dari konten MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch repositori Markdown menjadi ODT untuk distribusi publik.
+
+* Generasi dokumentasi ODT otomatis dalam proyek open-source.
+
+* Alur kerja ETL lintas platform menghasilkan ODT untuk pemerintah atau LSM.
+
+* Pembuatan ODT berbasis pemicu dalam alur kerja lokal dan terjemahan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

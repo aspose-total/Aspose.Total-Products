@@ -57,7 +57,55 @@ API'yi kullanarak, çıktı DICOM görüntüsünü ihtiyaçlarınıza göre de d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını DICOM (Digital Imaging and Communications in Medicine) formatına dönüştürmek, metin belgelerini veya açıklamaları tıbbi görüntüleme iş akışlarına entegre etmeyi sağlar. DICOM, meta verileri, standart görüntü yapılarını destekler ve hastane sistemleri ile araştırma ortamları için uygundur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Tıbbi görüntü arşivlerine Markdown tabanlı klinik notların gömülmesi.
+
+* Markdown içeriği ile yapılandırılmış hasta eğitim görsellerinin oluşturulması.
+
+* Araştırma belgelerinin DICOM uyumlu görüntü veri setlerine entegre edilmesi.
+
+* Radyoloji görüntüleriyle metin tabanlı açıklamaların birlikte saklanması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Hastane belgeleme sistemleri için Otomatik MD-DICOM dönüşümü.
+
+* Elektronik sağlık kaydı entegrasyonu için klinik Markdown dosyalarının toplu işlenmesi.
+
+* DICOM arşivlerine besleyen zamanlanmış dönüşüm boruları.
+
+* AI destekli teşhis için Markdown raporlarının görüntü verileriyle tetiklenen şekilde render edilmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

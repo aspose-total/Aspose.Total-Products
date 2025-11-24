@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La trasformazione dei file MD (Markdown) in file DOCM (Documenti abilitati ai macro di Word) consente ai team di arricchire i file di testo leggero con funzionalità di automazione interattive. I file DOCM supportano i macro incorporati, rendendoli ideali per la documentazione basata su flussi di lavoro, i modelli aziendali e i report generati automaticamente che richiedono azioni dinamiche all'interno di Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* Conversione delle note Markdown dei programmatori in SOP potenziate da macro.
+
+* Documenti di politica abilitati all'auto-azione per i flussi di lavoro aziendali.
+
+* Modelli di proposte interattivi creati da file MD archiviati su Git.
+
+* Registri di audit basati su macro generati da changelog basati su Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* Conversione pianificata da MD a DOCM per i team di conformità.
+
+* Pipeline ETL che producono report di Word abilitati ai macro da Markdown.
+
+* Flussi di lavoro CI/CD che rigenerano documenti DOCM dal contenuto del repository.
+
+* Documentazione automatizzata attivata da macro per i dipartimenti di ingegneria.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,55 @@ otherformats: XLSB DIF XLT EXCEL XLTM TSV TXT FODS XLTX SXC CSV MD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Конвертація MHTML в XLAM (додаток Excel) дозволяє вбудовувати автоматизовані функції або інструменти, отримані з веб-контенту, в Excel. XLAM ідеально підходить для налаштованих обчислень, макросів для звітності та повторно використовуваних сценаріїв автоматизації.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Налаштовані додатки Excel, створені на основі онлайн-шаблонів обчислень.
+
+* Інструменти фінансового прогнозування, побудовані на основі веб-даних.
+
+* Інтерактивні інформаційні панелі з макросами з веб-джерел.
+
+* Повторно використовувані інструменти автоматизації для корпоративної звітності в Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Автоматизоване створення додатків XLAM з інформаційних панелей MHTML.
+
+* Інтеграція в потоки автоматизації Excel.
+
+* Запуск генерації XLAM для повторюваних завдань звітності.
+
+* Пакетна обробка онлайн-шаблонів обчислень у додатки.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

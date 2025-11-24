@@ -81,7 +81,55 @@ otherformats:  JPEG2000 PSD WMF APNG IMAGE WMZ SVGZ EMZ TGA DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת Markdown (MD) ל־DXF (Drawing Exchange Format) ממירה תרשימים מובנים וזרימות עבודה לקבצי וקטוריים התואמים ל־CAD. DXF הוא אידיאלי עבור זרימות עבודה בתחום ההנדסה, האדריכלות והייצור שדורשות איורים מדויקים המבוססים על קווים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* ייצוא תרשימי Markdown לציורים DXF המוכנים ל־CAD.
+
+* המרת זרימות עבודה ותרשימים לתיעוד הנדסי.
+
+* הכנת איורים אדריכליים או מכאניים מהערות ב־Markdown.
+
+* שיתוף תרשימים טכניים עם שותפים באמצעות תוכנות CAD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת רצפי MD ל־DXF בצורה צפופה עבור צוותי הנדסה ועיצוב.
+
+* שילוב עם צינורות עיצוב אוטומטיים לצורך פרוטוטיפינג מהיר.
+
+* ייצואי DXF מתוזמנים עבור מערכות תיעוד טכני.
+
+* יצירת איורים מוכנים ל־CAD ממאגרי Markdown באופן מופעל.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

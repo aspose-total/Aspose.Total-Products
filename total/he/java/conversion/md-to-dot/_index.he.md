@@ -72,7 +72,55 @@ otherformats: WORDML RTF OTT DOTM PS DOCM FLATOPC XAMLFLOW MHTML MARKDOWN PCL OD
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MD (Markdown) ל-DOT (תבנית Word) עוזרת לעסקים לתקן מסמכים בעלי מותג סטנדרטי תוך שמירה על תוכן בקרת גרסאות ב-Markdown. תבניות DOT שומרות על עקביות בעיצוב ומבטיחות שצוותים יכולים ליצור מיידית קבצי Word חדשים ממבנה נקי וניתן לשימוש מחדש.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת כותרות מכתב עקביות מתבניות ב-Markdown.
+
+* פרסום גליונות שיווק מאושרי מותג מטיילים מטיוטות ב-MD.
+
+* צוותי משאבי אנוש יוצרים תבניות למסמכי קליטה ממדריכי MD.
+
+* מחלקות משפטים מסדרות מבני חוזים ממקורות ב-Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת תבנית DOT אוטומטית בתהליכי פרסום CMS.
+
+* המרה מרוכזת לצוותים מבצעים עדכון של נכסי מיתוג.
+
+* תחדיר מתוזמן של תבניות ראשיות שמאוחסנות ב-Git.
+
+* יצירת DOT אוטומטית לצרכי תיעוד של רשת סניפים או רשתות רב-סניפים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

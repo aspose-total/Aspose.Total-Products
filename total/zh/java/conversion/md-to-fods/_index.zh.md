@@ -49,7 +49,55 @@ otherformats: XLAM TSV SXC XLTX ODS FODS DIF XLSM XLTM XLSB TXT EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）转换为FODS（Flat OpenDocument Spreadsheet）可生成可编辑的基于XML的电子表格文件，非常适合开源办公套件使用。FODS保留单元格结构、公式和格式，以全文本方式呈现，易于版本管理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将Markdown数据集导出为开源电子表格格式。
+
+* 为LibreOffice用户创建结构化的FODS文件。
+
+* 将MD表格导入平面XML电子表格以供开发团队使用。
+
+* 以文本可读形式维护电子表格存档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量转换为FODS以实现版本控制透明度。
+
+* 将MD转换为FODS集成到开源ETL流水线中。
+
+* 为政府或非政府组织文档自动创建电子表格。
+
+* 基于触发器的FODS生成，适用于持续文档工作流程。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,51 @@ otherformats: XLTM TSV XLAM MARKDOWN XLTX FODS XLS XLT ODS MHTML SXC DIF XLSX EX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **POTX 转换为 ODS** 可以创建 OpenDocument 电子表格文件，从模板结构直接派生出可编辑、开放标准的报告工作流。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 在开源套件中进行基于模板的协作式数据分析。
+
+* 将 POTX 布局转换为文档或培训资源。
+
+* 为远程团队准备可互操作的电子表格。
+
+* 重新利用模板内容进行项目跟踪。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从整个模板库批量导出 ODS。
+
+* 定时转换以进行开放标准的报告周期。
+
+* 将 ODS 文件集成到经政府批准的工作流中。
+
+* 自动将 POTX 更新同步到 ODS 电子表格中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

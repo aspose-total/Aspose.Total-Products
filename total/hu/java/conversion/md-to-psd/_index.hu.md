@@ -57,7 +57,55 @@ Az API használatával igény szerint elforgathatja a kimeneti PSD-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) átalakítása PSD (Photoshop dokumentum) formátummá lehetővé teszi a tervezők számára, hogy szöveges és strukturált tartalmakat importáljanak rétegzett, szerkeszthető Photoshop fájlokba. A PSD lehetővé teszi a Markdown alapú diagramok kombinálását a professzionális grafikai szerkesztéssel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Markdown jegyzetek átalakítása szerkeszthető tervezési vázlattá.
+
+* Rétegzett diagramok létrehozása infografikákhoz vagy marketing tartalmakhoz.
+
+* Markdown által generált vizuális elemek kombinálása a márkaeszközökkel.
+
+* Tervezési fájlok előkészítése a közös kreatív munkafolyamatokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Automatizált Markdown-PSD konverzió marketing csapatok számára.
+
+* Rétegzett vizuális eszközök tömeges létrehozása Markdown tárolókból.
+
+* Integráció grafikai csővezetékekkel a tartalomgyártáshoz.
+
+* Kiváltott PSD generálás közös tervezési projektekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

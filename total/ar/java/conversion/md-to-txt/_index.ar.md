@@ -47,7 +47,55 @@ otherformats: ODS XLT XLTM XLSM TXT FODS XLTX XLSB DIF XLAM TSV EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات التنسيق البسيط (MD) إلى ملفات نصية (TXT) ينتج عنها نسخة نظيفة وخفيفة من محتواك بدون تنسيق وعلامات تنسيق. ملفات TXT متوافقة تمامًا، مثالية لمعالجة النصوص والبرمجة النصية والتكامل مع التطبيقات التي لا تدعم تنسيق MD.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير وثائق التنسيق البسيط لتوزيعها عبر البريد الإلكتروني بصيغة نصية.
+
+* إنشاء محتوى خام لتحليلات قائمة على النصوص أو سير العمل الخاصة بالتعلم الآلي.
+
+* إنتاج نسخ خفيفة وقابلة للنقل من الملاحظات والوثائق.
+
+* مشاركة محتوى MD في بيئات لا تدعم التنسيق الغني.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتأة" %}}
+
+
+
+* تحويل دفعات مجدولة من مستودعات التنسيق البسيط إلى ملفات نصية للنسخ الاحتياطي والأرشفة.
+
+* أنابيب ETL تحويل وثائق التنسيق البسيط إلى ملفات نصية لمعالجتها بواسطة البرامج النصية أو أدوات التأتأة.
+
+* إنشاء تلقائي لسجلات النص البسيط من ملاحظات المشروع القائمة على التنسيق البسيط.
+
+* التكامل مع أنابيب المحتوى لتصدير التنسيق البسيط كملف نصي لأنظمة التدفق الهابط.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

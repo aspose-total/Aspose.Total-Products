@@ -57,7 +57,55 @@ Korzystając z interfejsu API, możesz również obracać wyjściowy obraz IMAGE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie Markdown (MD) na ogólne formaty obrazów (PNG, JPG, BMP) umożliwia wizualizację tabel, diagramów i sformatowanego tekstu w przenośnym, niezależnym od platformy formacie. Obrazy można osadzać w prezentacjach, stronach internetowych lub dokumentach.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Eksportowanie diagramów Markdown jako statycznych obrazów do slajdów lub raportów.
+
+* Udostępnianie wykresów opartych na Markdown na stronach internetowych lub blogach.
+
+* Tworzenie obrazów do instrukcji obsługi użytkownika lub przewodników technicznych.
+
+* Wizualne migawki tabel Markdown do prezentacji lub plików PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana wsadowa konwersja treści Markdown na obrazy.
+
+* Potoki ETL generujące zasoby wizualne z plików Markdown.
+
+* Automatyczne generowanie diagramów dla portali dokumentacyjnych.
+
+* Eksport obrazów wywoływany przez wyzwalacze do pulpitów nawigacyjnych lub systemów raportowania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

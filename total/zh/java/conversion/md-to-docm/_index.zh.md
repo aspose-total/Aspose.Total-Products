@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MD（Markdown）文件转换为DOCM（启用宏的Word文档）可使团队通过交互式自动化功能增强轻量级文本文件。 DOCM文件支持嵌入式宏，使其成为适用于工作流驱动文档、公司模板和在Word中需要动态操作的自动生成报告的理想选择。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将开发人员的Markdown笔记转换为带宏的SOP。
+
+* 为企业工作流程启用自动操作的策略文件。
+
+* 从存储在Git中的MD文件构建的交互式提案模板。
+
+* 从基于Markdown的更改日志生成的基于宏的审计日志。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为合规团队安排的MD到DOCM转换。
+
+* 从Markdown生成支持宏的Word报告的ETL管道。
+
+* 从存储库内容重新生成DOCM文档的CI/CD工作流程。
+
+* 为工程部门生成自动化宏触发文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -73,7 +73,55 @@ otherformats: PS ODT PCL DOTM DOT RTF MARKDOWN FLATOPC WORDML DOCM DOTX OTT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення Markdown (MD) в XAMLFLOW дозволяє створювати інтерактивні діаграми на основі потоку та макети додатків за допомогою розмітки XAML. Ідеально підходить для візуалізації програмного забезпечення, прототипування користувацького інтерфейсу та документування робочих процесів.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Створення інтерактивних потокових діаграм з документації Markdown.
+
+* Прототипування робочих процесів додатків WPF за допомогою вмісту Markdown.
+
+* Переклад технічних нотаток процесу в візуалізації XAMLFlow.
+
+* Вбудовування потоків, створених за допомогою Markdown, в інтерактивні попередні перегляди додатків.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Автоматизовані конвеєри MD-to-XAMLFLOW для команд розробників.
+
+* Пакетне створення інтерактивних потоків з нотаток Markdown.
+
+* Планове оновлення діаграм робочих процесів у документації програмного забезпечення.
+
+* Інтеграція з CI/CD для перетворення накреслень процесу Markdown в компоненти XAMLFLOW.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

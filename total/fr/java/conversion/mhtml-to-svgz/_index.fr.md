@@ -57,7 +57,51 @@ L'API vous permet également d'exporter le fichier MHTML vers SVGZ dans un seul 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML en SVGZ (SVG compressé) préserve les graphiques vectoriels du contenu web tout en réduisant la taille du fichier. Idéal pour les applications web, UI et d'icônes nécessitant une mise à l'échelle et des fichiers légers.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Extraction de diagrammes évolutifs à partir de tableaux de bord en ligne.
+
+* Compression de logos vectoriels basés sur le web pour les sites web.
+
+* Conversion de diagrammes de flux ou d'infographies en format vectoriel.
+
+* Préparation d'icônes web à partir de visuels HTML/CSS archivés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Conversion en lot de contenu web basé sur des vecteurs en SVGZ.
+
+* Intégration dans les pipelines de développement web pour des graphiques réactifs.
+
+* Extraction de vecteurs planifiée à partir d'archives MHTML.
+
+* Compression déclenchée et livraison de graphiques évolutifs pour les sites web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل Markdown (MD) إلى XAML (Extensible Application Markup Language) يحول المحتوى النصي إلى رسومات واجهة مستخدم مبنية على الناقلات أو مكونات تفاعلية لتطبيقات Windows. يدعم XAML التخطيطات الدقيقة والرسومات قابلة للتوسيع والتكامل مع أطر تطبيقات حديثة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تقديم الرسوم التخطيطية Markdown كمكونات واجهة مستخدم في تطبيقات WPF.
+
+* إنشاء رسومات ناقلة تفاعلية لتطبيقات سطح المكتب.
+
+* تحويل جداول الوثائق والرسوم البيانية إلى رسومات XAML.
+
+* تضمين محتوى Markdown كرسومات قابلة للتوسيع في واجهات البرامج.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* توليد MD-to-XAML تلقائيًا لأنابيب واجهة المستخدم البرمجية.
+
+* معالجة دفعية لملاحظات Markdown إلى مكونات ناقلة XAML.
+
+* تحويل مجدول لسير العمل من الوثائق إلى واجهة مستخدم.
+
+* تقديم الرسوم التخطيطية Markdown إلى XAML بشكل مشغل لتطبيقات تفاعلية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

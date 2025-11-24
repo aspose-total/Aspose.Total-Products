@@ -57,7 +57,55 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh TGA đầu ra theo nhu c
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi Markdown (MD) sang TGA (Targa Image) tạo ra đồ họa raster chất lượng cao thường được sử dụng trong sản xuất video, trò chơi hoặc biểu đồ kỹ thuật. TGA hỗ trợ kênh alpha và đầu ra không nén để đại diện chính xác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xuất các biểu đồ dựa trên Markdown cho lớp phủ video hoặc tài sản trò chơi.
+
+* Đồ họa độ phân giải cao cho tài liệu kỹ thuật.
+
+* Tạo hình ảnh kênh alpha từ các hình ảnh hóa Markdown.
+
+* Tạo các biểu đồ kỹ thuật không nén cho tài liệu trình bày.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tạo TGA tự động từ các kho lưu trữ Markdown cho các đường ống sáng tạo.
+
+* Xuất hàng loạt các biểu đồ cho sản xuất video hoặc tài liệu kỹ thuật.
+
+* Chuyển đổi định kỳ các biểu đồ Markdown cho các dự án mô phỏng hoặc trò chơi.
+
+* Tích hợp với hệ thống quản lý nội dung để tự động xuất hình ảnh TGA.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

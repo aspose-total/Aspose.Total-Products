@@ -47,7 +47,55 @@ Trong khi chuyển đổi tệp MD sang XLT, bạn cũng có thể thêm hình m
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MD (Markdown) sang XLT (Excel Template) cho phép các nhóm tạo ra các mẫu Excel có thể tái sử dụng với kiểu dáng và bố cục nhất quán. Các tệp XLT giúp các tổ chức chuẩn hóa việc tạo tài liệu trong khi vẫn giữ nội dung nguồn trong Markdown.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xây dựng các mẫu báo cáo có cấu trúc từ hướng dẫn MD.
+
+* Tạo các mẫu bảng tính mang thương hiệu của công ty.
+
+* Chuyển đổi các SOP Markdown thành các mẫu Excel sẵn sàng sử dụng.
+
+* Bảng nhập dữ liệu dựa trên mẫu từ các playbook MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tái tạo tự động các mẫu XLT từ MD được kiểm soát phiên bản.
+
+* Tạo mẫu hàng loạt cho các bộ phận doanh nghiệp.
+
+* Xây dựng mẫu dựa trên ETL cho nhu cầu báo cáo có cấu trúc.
+
+* Quy trình phân phối mẫu dựa trên chi nhánh hoặc đại lý.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

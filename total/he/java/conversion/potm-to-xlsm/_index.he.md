@@ -102,7 +102,49 @@ otherformats: XLSX XLAM EXCEL XLT FODS TSV MARKDOWN XLTX XLSB XLS CSV XLTM MHTML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **POTM ל-XLSM** מאפשרת להמיר תבניות של פיילוט שמאפשרות מאקרו ב-PowerPoint לחוברות עבודה ב-Excel שתומכות באופן מלא באוטומציה מתקדמת של VBA. ההמרה הזו אידיאלית למשתמשים שצריכים להעביר זרימות עבודה מבוססות שקופיות לסביבות Excel שבהן מאקרוס משחקים תפקיד מרכזי בעיבוד נתונים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* העברת זרימות עבודה בהתבסס על תבניות ל-Excel עם אוטומציה של VBA.
+* יצירת גליונות תקציב דינמיים ממקומות מוצגים במצגות.
+* הכנת לוחות מחוונים של KPI המופעלים במאקרו מתבססים על תבניות שקופיות חוזרות.
+* שימוש מחדש בתוכן של שקופית לתבניות כלכליות או בדיקתיות ממומשות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה צפופה של תבניות של PowerPoint לקבצי XLSM המאפשרים מאקרו.
+* יצירת גליונות אוטומציה של Excel בהתבסס על טריגרים לצוותי דיווח.
+* שילוב יצירת XLSM לתוך צינורות ETL עסקיים.
+* הכנסת מאקרוס באופן אוטומטי למחשבות בזמן אמת ועדכוני נתונים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）をPS（PostScript）に変換すると、プロフェッショナルな出版向けに適した高品質のベクタープリントファイルが作成されます。PSはスケーラブルな図表やテキストのフォーマットをサポートし、印刷業界で広く使用されています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* Markdownコンテンツから印刷に適した図表を作成する。
+
+* プロフェッショナルな出版向けにスケーラブルなPostScriptイラストを生成する。
+
+* 高解像度の印刷出力用にMarkdownベースのレポートを変換する。
+
+* 再現性のためにPS形式で技術文書をアーカイブする。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 企業向け出版パイプラインでのMarkdownからPSへの自動変換。
+
+* 印刷に適したドキュメンテーションのためのMarkdownリポジトリからのバッチPS生成。
+
+* 高品質なレポート用のスケジュールされたPostScriptエクスポート。
+
+* MarkdownからPSへの変換を行う印刷自動化ワークフローとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

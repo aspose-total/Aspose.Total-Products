@@ -57,7 +57,51 @@ otherformats: SVGZ WMF TGA JPEG2000  IMAGE DXF WMZ EMZ PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML转SVGZ（压缩SVG）保留网络内容中的矢量图形，同时减小文件大小。适用于需要可伸缩性和轻量级文件的网络、UI和图标应用程序。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从在线仪表板中提取可伸缩的图表。
+
+* 为网站压缩基于Web的矢量标识。
+
+* 将流程图或信息图表转换为矢量格式。
+
+* 从存档的HTML/CSS可视化准备Web图标。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将基于矢量的网络内容转换为SVGZ。
+
+* 集成到Web开发流程中，用于响应式图形。
+
+* 从MHTML存档中定期提取矢量图形。
+
+* 触发压缩并交付可伸缩图形给网站。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

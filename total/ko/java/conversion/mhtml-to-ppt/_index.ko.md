@@ -121,7 +121,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML를 PPT(파워포인트 프레젠테이션)로 변환하면 웹 콘텐츠를 편집 가능한 파워포인트 슬라이드로 변환합니다. PPT 파일은 기업 보고서, 마케팅 덱 또는 교육 자료에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 파워포인트 슬라이드에 시각화된 회사 KPI.
+
+* 웹 기반 레슨에서 변환된 교육 모듈.
+
+* 온라인 캠페인에서 생성된 마케팅 프레젠테이션.
+
+* 슬라이드로 형식화된 프로젝트 업데이트 및 상태 보고.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 보관된 웹 대시보드에서 일괄 PPT 변환.
+
+* 기업 프레젠테이션을 위한 예약된 슬라이드 생성.
+
+* 자동 보고를 위한 트리거된 PPT 생성.
+
+* 일관된 형식으로 문서 관리 시스템과 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

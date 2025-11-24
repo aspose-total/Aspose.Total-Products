@@ -47,7 +47,51 @@ MHTML dosyasını ODS'ye dönüştürürken, çıktı ODS dosya biçiminize fili
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML'yi ODS'ye (Açık Belge Hesap Tablosu) dönüştürmek, web tablo biçimlendirmesini korurken güçlü, platformlar arası hesap tablosu düzenleme imkanı sağlar. ODS, işbirlikçi ortamlar ve açık kaynaklı iş akışları için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Şirket performans panoları ODS dosyaları olarak arşivlenir.
+
+* Web verilerinden türetilen işbirlikçi bütçe takip şablonları.
+
+* Çevrimiçi kurs materyallerinden eğitim hesap tabloları.
+
+* Açık kaynaklı hesap tablosu düzenleyicilere aktarılan istatistik veri kümeleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Çok departmanlı veri paylaşımı için otomatik MHTML'den ODS'ye boru hatları.
+
+* Periyodik finansal ve satış raporları için tetiklenen ODS oluşturma.
+
+* Canlı veri güncellemeleri için açık kaynaklı ofis paketleriyle entegrasyon.
+
+* Arşivlenmiş web tablolarının tarihsel analiz için ODS'ye toplu dönüşümü.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

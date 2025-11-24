@@ -47,7 +47,55 @@ MD 파일을 TXT로 변환하는 동안 출력 TXT 파일 형식에 워터마크
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) 파일을 TXT(일반 텍스트)로 변환하면 서식과 마크업이 제거된 깔끔하고 가벼운 콘텐츠가 생성됩니다. TXT 파일은 높은 호환성을 가지며, 텍스트 처리, 스크립팅, 그리고 Markdown 서식을 지원하지 않는 애플리케이션과의 통합에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 일반 텍스트 이메일 배포용 Markdown 문서 내보내기.
+
+* 텍스트 기반 분석이나 기계 학습 워크플로에 대한 원시 콘텐츠 생성.
+
+* 메모와 문서의 가벼운, 휴대용 사본 생성.
+
+* 서식이 풍부하지 않은 환경에서 Markdown 콘텐츠 공유.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* Markdown 저장소를 TXT로 일괄 변환하여 백업 및 보관하는 예약 작업.
+
+* ETL 파이프라인을 통해 Markdown 문서를 TXT로 변환하여 스크립트나 자동화 도구에서 처리.
+
+* Markdown 기반 프로젝트 노트로부터 일반 텍스트 로그를 자동으로 생성.
+
+* Markdown을 TXT로 내보내어 하위 시스템에서 사용하기 위한 콘텐츠 파이프라인 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

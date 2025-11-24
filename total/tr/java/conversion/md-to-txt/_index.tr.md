@@ -47,7 +47,55 @@ MD dosyasını TXT'ye dönüştürürken, çıktı TXT dosya biçiminize filigra
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını TXT (düz metin) formatına dönüştürmek, biçimlendirme ve işaretleme öğelerinden arındırılmış, temiz ve hafif bir içerik oluşturur. TXT dosyaları yüksek uyumluluğa sahiptir, metin işleme, betikleme ve Markdown biçimlendirmeyi desteklemeyen uygulamalarla entegrasyon için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown belgelerini düz metin e-posta dağıtımı için dışa aktarma.
+
+* Metin tabanlı analizler veya makine öğrenme iş akışları için ham içerik oluşturma.
+
+* Notlar ve belgelerin hafif, taşınabilir kopyalarını oluşturma.
+
+* Zengin biçimlendirmenin desteklenmediği ortamlarda Markdown içeriğini paylaşma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Yedekleme ve arşivleme için Markdown depolarının TXT formatına toplu dönüşümü.
+
+* ETL boruları, Markdown belgelerini işlemek için TXT'ye dönüştürerek betikler veya otomasyon araçları tarafından kullanılacak şekilde dönüştürme.
+
+* Markdown tabanlı proje notlarından düz metin günlüklerin otomatik olarak oluşturulması.
+
+* Aşağı akış sistemleri için Markdown'i TXT olarak dışa aktarmak için içerik borularıyla entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -130,7 +130,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MHTML na PS (PostScript) vytváří vysokokvalitní vektorové dokumenty připravené k tisku z webových archivů. PS je ideální pro profesionální tisk a pracovní postupy v desktopovém publikování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převádění webových zpráv na tiskové dokumenty ve formátu PostScript.
+
+* Archivace technických ilustrací a diagramů pro tisk.
+
+* Příprava marketingových materiálů nebo brožur z online zdrojů.
+
+* Generování vysokorozlišených vektorových grafik pro desktopové publikování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatická hromadná konverze obsahu webu do souborů PS.
+
+* Spouštěná generace PS pro publikovací toky.
+
+* Integrace s systémy tisku na vyžádání.
+
+* Plánovaná archivace tiskově připravených grafik z webových zdrojů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -78,7 +78,55 @@ otherformats: ODS XLT XLTM XLSM CSV FODS XLTX XLSB DIF XLAM TSV EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי Markdown (MD) לקבצי TXT (טקסט פשוט) מייצרת גרסה נקייה וקלה של התוכן שלך שנמצאת נטולת עיצוב וסימון. קבצי TXT תואמים בצורה גבוהה, אידיאליים לעיבוד טקסט, כתיבת תסריטים ואינטגרציה עם אפליקציות שאינן תומכות בעיצוב Markdown.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* ייצוא תיעוד Markdown להפצת דואר אלקטרוני בטקסט פשוט.
+
+* יצירת תוכן גולמי לניתוחי טקסט או זרימות עבודה בתחום למידת מכונה.
+
+* יצירת עותקים קלים וניידים של הערות ותיעוד.
+
+* שיתוף תוכן Markdown בסביבות שבהן אין תמיכה בעיצוב מתקדם.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת קבצי Markdown במסגרת סדריות מתוזמנות לקבצי TXT לצורך גיבוי וארכיון.
+
+* צינורות ETL שממירים תיעוד Markdown לקבצי TXT לעיבוד על ידי תסריטים או כלי אוטומציה.
+
+* יצירת יומנים בטקסט פשוט באופן אוטומטי מהערות פרויקט מבוססות Markdown.
+
+* אינטגרציה עם צינורות תוכן לייצוא של Markdown כקובץ TXT למערכות זרות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

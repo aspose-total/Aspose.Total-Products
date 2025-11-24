@@ -78,7 +78,49 @@ otherformats: XLSM XLAM XLT EXCEL ODS TXT CSV FODS SXC TSV XLTX DIF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת Markdown (MD) ל-XLTM (תבנית Excel המאפשרת מאקרו) יוצרת תבניות גיליון נתונים ניתנות לשימוש המעושרות באוטומציה. קבצי XLTM תומכים במאקרוס לאתחול דינמי, שדות שמולאים אוטומטית, ופעולות זריזות מתקדמות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* תבניות עסקיות המופעלות על ידי מאקרו שמקורן בתוכן Markdown.
+* בניית גיליונות תחזיות מאוטומטיים מנתוני MD.
+* בניית תבניות חישוב ניתנות לשימוש חוזר עבור צוותי הנדסה.
+* יצירת תבניות להפעלת מאקרו או לאימות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת תבניות XLTM באופן אוטומטי דרך המרת MD המופעלת על ידי CI.
+* בניית תבניות המאפשרות מאקרו בצורה צפופה עבור משרדים מבוזרים.
+* עדכונים מתוזמנים של קבצי XLTM ממאגרי Markdown.
+* סקריפטים דינמיים לזרימת עבודה הממלאים תבניות XLTM מנתונים מהשרת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

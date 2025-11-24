@@ -61,7 +61,55 @@ otherformats: ODS XLSM TSV XLSX FODS MARKDOWN XLSB DIF SXC XLT XLS EXCEL XLAM XL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل **POTX إلى XLAM** ينتج عنه إضافات Excel ممكنة للماكرو تسمح بتضمين محتوى مشتق من القوالب داخل حلول Excel المؤتمتة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* بناء إضافات Excel قابلة لإعادة الاستخدام من بيانات القوالب.
+
+* تطوير سير العمل المؤتمتة باستخدام محتوى مستند على POTX.
+
+* إنشاء حاسبات تجارية ديناميكية أو أدوات تقارير.
+
+* تضمين منطق متقدم مأخوذ من قوالب الشرائح.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+
+
+* توليد دفعي لأدوات XLAM من مكتبات قوالب متسقة.
+
+* تحديثات الإضافات بناءً على المؤشرات لتقارير ديناميكية.
+
+* نشر مجدول لجداول البيانات ذات الماكرو الممكنة.
+
+* التكامل مع أطر عمل الأتمتة الخاصة بـ Excel الشركية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

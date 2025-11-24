@@ -57,7 +57,51 @@ API также позволяет экспортировать файл MHTML в
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML в EMZ (сжатый файл метафайла Windows Enhanced) сохраняет векторную графику с веб-страниц в сжатом масштабируемом формате, подходящем для презентаций и документов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Архивирование веб-ориентированных блок-схем и диаграмм в компактном формате EMZ.
+
+* Встраивание сжатой графики в презентации Microsoft Office.
+
+* Обмен масштабируемыми иллюстрациями между командами без больших размеров файлов.
+
+* Сохранение векторных диаграмм для корпоративных отчетов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование EMZ из архивов MHTML для документальных рабочих процессов.
+
+* Запущенные конвейеры сжатия для доставки масштабируемой графики.
+
+* Интеграция с системами управления контентом для автоматических обновлений.
+
+* Планируемая генерация для векторных ресурсов, готовых к презентации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -121,7 +121,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML na PPSM (Pokaż slajdy z makrami) umożliwia interaktywne i zautomatyzowane prezentacje w programie PowerPoint z treści internetowych. PPSM doskonale nadaje się do prezentacji korporacyjnych, edukacyjnych lub szkoleniowych wymagających funkcji makr.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Interaktywne pokazy slajdów szkoleniowych z zautomatyzowanymi ćwiczeniami.
+
+* Zautomatyzowane prezentacje raportowe integrujące pulpity nawigacyjne internetowe.
+
+* Prezentacje marketingowe z interaktywnością sterowaną makrami.
+
+* Moduły edukacyjne wykorzystujące treści ze źródeł internetowych i makra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Zaplanowana konwersja MHTML na PPSM dla dynamicznych prezentacji.
+
+* Przetwarzanie zbiorcze treści internetowych na interaktywne pokazy slajdów.
+
+* Integracja z platformami automatyzacji korporacyjnej dla aktualizacji na żywo.
+
+* Wywołane tworzenie slajdów z makrami z pulpitów nawigacyjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

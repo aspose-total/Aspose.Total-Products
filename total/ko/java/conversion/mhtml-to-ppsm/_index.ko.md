@@ -121,7 +121,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML를 PPSM(매크로 활성화 슬라이드 쇼)으로 변환하면 웹 콘텐츠에서 대화식 및 자동화된 파워포인트 프레젠테이션을 만들 수 있습니다. PPSM은 기업, 교육 또는 매크로 기능이 필요한 교육용 슬라이드에 적합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 자동화된 연습 문제가 포함된 대화식 교육용 슬라이드쇼.
+
+* 웹 대시보드를 통합한 자동 보고서 프레젠테이션.
+
+* 매크로 기능을 활용한 마케팅 슬라이드 덱.
+
+* 웹 소스 콘텐츠와 매크로를 활용한 교육 모듈.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 동적 프레젠테이션을 위한 예약된 MHTML에서 PPSM으로의 변환.
+
+* 웹 콘텐츠를 대화식 슬라이드 쇼로 일괄 처리.
+
+* 라이브 업데이트를 위한 기업 자동화 플랫폼 통합.
+
+* 대시보드에서 매크로 활성화 슬라이드 생성 트리거.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

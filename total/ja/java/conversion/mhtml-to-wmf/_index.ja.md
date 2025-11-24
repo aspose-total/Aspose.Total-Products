@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力WMF画像を回転させるこ�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをWMF（Windows Metafile）に変換すると、Webベクターグラフィックスが編集可能なWindowsベクターファイルに変換されます。WMFは、スケーラブルなベクター画像が必要なレガシーシステムやオフィスアプリケーションに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* オフィス文書統合のためのWebダイアグラムのアーカイブ化。
+
+* プレゼンテーション用のフローチャートやイラストの変換。
+
+* 印刷や文書作成のためのベクターアセットの準備。
+
+* 企業レポート用のWebグラフィックスの抽出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* Webコンテンツからの一括WMF生成。
+
+* 自動レポーティングシステム用のスケジュール抽出。
+
+* オフィス自動化ワークフローへの統合。
+
+* プレゼンテーション用にWebベクターグラフィックスを変換するトリガー。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

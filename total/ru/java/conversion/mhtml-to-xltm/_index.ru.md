@@ -47,7 +47,55 @@ otherformats: SXC TXT EXCEL XLT XLTX XLTM MD XLAM XLSM ODS FODS DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MHTML в XLTM (Шаблон Excel с поддержкой макросов) создает многоразовые шаблоны с встроенной автоматизацией, полученные из веб-контента. Идеально подходит для повторяющихся рабочих процессов, требующих программных шаблонов Excel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Шаблоны бюджета с поддержкой макросов, обновляемые из онлайн-данных.
+
+* Автоматизированные шаблоны отчетов для финансовых, кадровых или маркетинговых команд.
+
+* Показатели ключевой производительности в виде многоразовых шаблонов Excel с поддержкой макросов.
+
+* Шаблоны для планирования и отслеживания проектов, созданные на основе веб-таблиц.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запланированное преобразование MHTML в XLTM для повторяющихся задач.
+
+* Интегрированное создание шаблонов по триггеру в корпоративные системы автоматизации.
+
+* Пакетная обработка веб-источников показателей в многоразовые макро-шаблоны.
+
+* Интеграция с сценариями автоматизации Excel для динамической отчетности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

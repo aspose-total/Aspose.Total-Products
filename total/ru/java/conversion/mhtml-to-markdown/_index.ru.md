@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов MHTML (веб-архив) в MARKDOWN (.md) позволяет преобразовать веб-контент в легкий, читаемый и портативный текст, подходящий для веб-сайтов, блогов и документации разработчика. Markdown сохраняет структуру контента, такую как заголовки, ссылки, списки и фрагменты кода.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Преобразование веб-учебников в Markdown для документации разработчика.
+
+* Архивирование контента блога с веб-страниц в формате Markdown.
+
+* Создание статей базы знаний из онлайн-руководств.
+
+* Преобразование веб-отчетов в портативные заметки Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование нескольких страниц MHTML в Markdown для генераторов статических сайтов.
+
+* Автоматическое создание Markdown для обновлений контента на вики разработчиков.
+
+* Интеграция с потоками CI/CD для преобразования веб-контента в документацию.
+
+* Автоматическое извлечение веб-отчетов для баз знаний на основе Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -143,7 +143,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MHTML เป็น XAMLFLOW ช่วยให้เนื้อหาเว็บและสินทรัพย์เวกเตอร์สามารถใช้ในการทำงานแบบโต้ตอบและออโตเมชันของ UI โดยใช้แอปพลิเคชันการไหลที่ใช้ XAML
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การผสานไดอะแกรมและกราฟิกเว็บเข้ากับกระบวนการทำงานแบบ XAML อัตโนมัติ
+
+* การเก็บถาวรเนื้อหาเว็บแบบโต้ตอบสำหรับระบบออโตเมชันของ Windows
+
+* การเตรียมการทำงานของแดชบอร์ดที่ใช้ UI เพื่อกระบวนการออโตเมชัน
+
+* การแปลงแบบฟอร์มและควบคุมเว็บสำหรับแอปพลิเคชันบนเดสก์ท็อปที่ใช้กระบวนการไหล
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การออโตเมชัน" %}}
+
+
+
+* การแปลงจำนวนมากของ MHTML เป็น XAMLFLOW สำหรับกระบวนการออโตเมชันของ UI
+
+* การอัพเดตที่เรียกใช้สำหรับแดชบอร์ดและสินทรัพย์เว็บแบบโต้ตอบ
+
+* การผสานเข้ากับกระบวนการการทำงานของ RPA (Robotic Process Automation)
+
+* การสร้างตารางเวลาสำหรับการสกัดออกส่วนประกอบของ UI เว็บสำหรับแอปพลิเคชันขององค์กร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

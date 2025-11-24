@@ -121,7 +121,51 @@ presentation.save("output.pps", SaveFormat.Pps);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML转换为PPS（PowerPoint幻灯片展示）可从Web内容创建立即可运行的演示文件。 PPS文件经过优化，无需编辑即可立即查看，非常适合会议和演示。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 即时展示基于Web的项目更新。
+
+* 团队简报的营销活动幻灯片展示。
+
+* 课堂或网络研讨会交付的教育内容。
+
+* 从基于Web的资源衍生的产品演示。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量转换以生成循环幻灯片展示。
+
+* 从实时Web仪表板触发PPS创建。
+
+* 与会议管理系统集成，实现自动交付。
+
+* 产品或KPI演示的定期更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

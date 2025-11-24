@@ -143,7 +143,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML'in XAMLFLOW'a dönüştürülmesi, web içeriği ve vektör varlıklarının XAML tabanlı akış uygulamaları kullanılarak etkileşimli iş akışları ve UI otomasyonunda kullanılmasını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Web diyagramlarını ve grafikleri otomatik XAML iş akışlarına entegre etme.
+
+* Windows otomasyon sistemleri için etkileşimli web içeriğini arşivleme.
+
+* UI tabanlı işlem otomasyonu için web tabanlı panoların hazırlanması.
+
+* Akış tabanlı masaüstü uygulamalar için web formlarını ve kontrollerini dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* UI otomasyonu boru hatları için toplu MHTML'den XAMLFLOW'a dönüştürme.
+
+* Panoların ve etkileşimli web varlıklarının tetiklenen güncellemeleri.
+
+* RPA (Robotik Süreç Otomasyonu) iş akışlarına entegrasyon.
+
+* Kurumsal uygulamalar için web UI bileşenlerinin zamanlanmış çıkarılması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

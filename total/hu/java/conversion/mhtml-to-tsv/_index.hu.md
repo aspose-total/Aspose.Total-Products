@@ -47,7 +47,51 @@ A MHTML-fájl TSV-vé konvertálásakor vízjelet is hozzáadhat a kimeneti TSV-
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MHTML átalakítása TSV-re (Tabulátorral elválasztott értékek) strukturált adatokat nyer ki weboldalakról egy egyszerű szöveg, elválasztóbarát formátumban. A TSV tökéletes adattudományhoz, ETL csővezetékekhez és adatbázis importáláshoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* E-kereskedelmi termék- és ártáblázatok kinyerése elemzéshez.
+
+* Felmérési eredmények exportálása webes űrlapokból TSV formátumba.
+
+* Táblázatos webes tartalom archiválása gépi tanulási modellekhez.
+
+* Strukturált adatkészletek megosztása fejlesztőkkel és adatmérnökökkel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges MHTML-TSV átalakítás AI/ML csővezetékekhez.
+
+* Integráció automatizált ETL munkafolyamatokba analitikához.
+
+* Ütemezett TSV generálás időszakos webes jelentésekhez.
+
+* Kiváltott TSV exportálás valós idejű vezérlőpulton való megjelenítéshez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

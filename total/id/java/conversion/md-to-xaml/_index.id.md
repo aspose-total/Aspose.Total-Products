@@ -59,7 +59,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi Markdown (MD) ke XAML (Extensible Application Markup Language) mengubah konten teks menjadi grafis UI berbasis vektor atau komponen interaktif untuk aplikasi Windows. XAML mendukung tata letak yang presisi, visual yang dapat diskalakan, dan integrasi dengan kerangka kerja aplikasi modern.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Merender diagram Markdown sebagai komponen UI dalam aplikasi WPF.
+
+* Membuat ilustrasi vektor interaktif untuk aplikasi desktop.
+
+* Mengonversi tabel dokumentasi dan grafik menjadi grafis XAML.
+
+* Menanamkan konten Markdown sebagai visual yang dapat diskalakan dalam antarmuka perangkat lunak.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi MD-to-XAML otomatis untuk pipa UI perangkat lunak.
+
+* Proses batch catatan Markdown menjadi komponen vektor XAML.
+
+* Konversi terjadwal untuk alur kerja dokumentasi-ke-UI.
+
+* Merender diagram Markdown menjadi XAML untuk aplikasi interaktif.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

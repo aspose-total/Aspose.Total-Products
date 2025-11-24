@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）からDOTM（マクロ有効テンプレート）への変換は、埋め込みマクロによって強化されたWordテンプレートと軽量テキスト編集を組み合わせます。DOTMテンプレートを使用すると、チームは繰り返しの文書タスクを自動化し、マクロ対応の標準化された文書を即座に作成できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* Markdownプレイブックからマクロパワードのオンボーディングテンプレートを構築する。
+
+* MDコンテンツから自動請求書やフォームテンプレートを作成する。
+
+* プログラム的に挿入されたフィールドを持つエンタープライズ文書フレームワーク。
+
+* 技術文書から再利用可能な自動化フレンドリーテンプレートを生成する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 大規模な報告サイクル用のDOTMテンプレートを自動構築する。
+
+* MDからDOTMへの変換をトリガーするワークフローエンジンとの統合。
+
+* 分散部門向けにマクロ有効テンプレートをワンクリックで作成する。
+
+* テンプレート再生成時に動的コンテンツを自動挿入する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

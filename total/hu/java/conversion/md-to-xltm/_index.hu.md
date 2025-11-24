@@ -47,7 +47,55 @@ A MD-fájl XLTM-vé konvertálásakor vízjelet is hozzáadhat a kimeneti XLTM-f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) átalakítása XLTM (Makróval Engedélyezett Excel Sablon) formátumra újrafelhasználható táblázatsablonok létrehozását eredményezi, amelyek automatizálással vannak gazdagítva. Az XLTM fájlok támogatják a makrókat dinamikus inicializáláshoz, automatikusan kitöltött mezőkhöz és fejlett munkafolyamat-műveletekhez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Makróvezérelt üzleti sablonok Markdown tartalomból.
+
+* Automatizált előrejelzési táblázatok építése MD adatokból.
+
+* Újrafelhasználható számítási sablonok készítése mérnöki csapatok számára.
+
+* Makróra kész bevezetési vagy ellenőrzési sablonok létrehozása.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* XLTM sablonok automatikus generálása CI-vel támogatott MD átalakítással.
+
+* Makróval engedélyezett sablonok tömeges létrehozása elosztott irodák számára.
+
+* Időzített frissítések az XLTM fájlokból Markdown tárolókból.
+
+* Dinamikus munkafolyamat-szkriptek, amelyek az XLTM sablonokat háttéradatakból kitöltik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -130,7 +130,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του MHTML σε OTT (OpenDocument Template) επιτρέπει τη δημιουργία επαναχρησιμοποιήσιμων προτύπων για πακέτα γραφείου ανοικτού κώδικα, διατηρώντας τη στυλιστική και διατάξεως συνέπεια βασισμένη στο web.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+
+
+* Πρότυπα εγγράφων για ολόκληρη την εταιρεία για το LibreOffice.
+
+* Επαναχρησιμοποιήσιμα πρότυπα σχεδίων μαθημάτων από περιεχόμενο εκπαιδευτικού υλικού βασισμένο στο web.
+
+* Τυποποιημένα πρότυπα προσφορών και συμβολαίων ανοικτού κώδικα.
+
+* Πρότυπα ροών εργασίας για συνεργατική διαχείριση περιεχομένου.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη δημιουργία προτύπων OTT από πολλαπλές σελίδες MHTML.
+
+* Ενσωμάτωση με εργαλεία αυτοματισμού του LibreOffice για τη δημιουργία εγγράφων παρτίδας.
+
+* Ενημερώσεις προτύπων που ενεργοποιούνται από την αλλαγή περιεχομένου βασισμένη στο web.
+
+* Ομαλοποιημένη τυποποίηση εγγράφων σε κατανεμημένες ομάδες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

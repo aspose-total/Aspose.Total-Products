@@ -49,7 +49,55 @@ otherformats: TXT XLTM FODS XLT XLSM EXCEL SXC ODS XLSB XLAM XLTX DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）转XLSB（Excel二进制工作簿）转换非常适合高效处理大型数据集。XLSB文件加载更快，压缩效果更好，并支持复杂的电子表格，而无需大量的XML开销。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将大型基于MD的数据集导入二进制Excel工作簿。
+
+* 从文档日志创建紧凑的XLSB报告。
+
+* 使用从Markdown生成的XLSB进行财务建模。
+
+* 源自Markdown分析表的高性能电子表格。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* ETL工作流将Markdown转换为XLSB以进行速度优化。
+
+* 为企业分析团队批量创建XLSB。
+
+* 为数据密集型报告自动生成二进制工作簿。
+
+* 服务器端流程从MD内容输出XLSB文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

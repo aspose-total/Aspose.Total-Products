@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MD (Markdown) إلى DOTM (قالب ممكّن بالماكرو) يجمع بين تحرير النصوص الخفيفة مع قوالب Word المحسّنة بواسطة الماكرو المضمنة. تسمح قوالب DOTM للفرق بتأتير المهام المكررة في المستندات وإنشاء فوري للمستندات المعيارية، جاهزة للماكرو.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* بناء قوالب التوظيف المدعومة بالماكرو من الدلائل التشغيلية بتنسيق Markdown.
+
+* إنشاء قوالب فواتير أو نماذج مؤتمتة مستمدة من محتوى MD.
+
+* إطارات وثائق المؤسسات مع حقول مدخلة برمجيًا.
+
+* إنشاء قوالب قابلة لإعادة الاستخدام وصديقة للتأتير من وثائق التوثيق التقني.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير التلقائي" %}}
+
+
+
+* بناء قوالب DOTM تلقائيًا لدورات التقارير بمقياس كبير.
+
+* التكامل مع محركات سير العمل التي تشغل إنتاج MD إلى DOTM.
+
+* إنشاء قوالب ممكّنة بالماكرو بنقرة واحدة للإدارات الموزعة.
+
+* إدراج محتوى ديناميكي تلقائيًا أثناء إعادة توليد القوالب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

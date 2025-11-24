@@ -57,7 +57,55 @@ otherformats: TGA PSD DXF WMF DICOM SVGZ JPEG2000 EMZ WMZ IMAGE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）文件转换为DICOM（数字影像和医学通信）格式，可以将文本文档或注释集成到医学影像工作流程中。DICOM支持元数据、标准影像结构，非常适合医院系统和研究环境。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将基于Markdown的临床笔记嵌入医学图像存档中。
+
+* 利用Markdown内容生成结构化的患者教育可视化资料。
+
+* 将研究文档集成到DICOM兼容的影像数据集中。
+
+* 在放射影像旁存储基于文本的注释。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于医院文档系统的自动化MD到DICOM生成。
+
+* 批量处理临床Markdown文件以便电子健康记录集成。
+
+* 定时转换管道向DICOM存档提供数据。
+
+* 触发Markdown报告的渲染，与影像数据一起用于AI辅助诊断。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

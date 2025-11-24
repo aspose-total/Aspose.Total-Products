@@ -61,7 +61,45 @@ otherformats: XLSM XLT ODS XLTX SXC DIF XLSX XLAM XLS TSV MARKDOWN XLSB FODS EXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **POTX เป็น XLTX** จะให้เทมเพลต Excel ที่สะอาดและไม่มีแมโคร โดยขึ้นอยู่กับเลยเอาท์ของงานนำเสนอ พร้อมสำหรับรายงานบริษัทที่สม่ำเสมอ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* เทมเพลตที่ปลอดภัยจากแมโครที่สามารถนำกลับมาใช้ได้จาก POTX
+* รูปแบบสเปรดชีทมาตรฐานสำหรับเอกสาร
+* การใช้แผนผังงานนำเสนอใหม่สำหรับการทำงานใน Excel
+* การสร้างเซ็ตเทมเพลตพร้อมให้ลูกค้าจากการออกแบบสไลด์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้าง XLTX จำนวนมากสำหรับรายงานในองค์กร
+* การสร้างเทมเพลตที่ปลอดจากแมโครโดยใช้ตigger
+* การแปลงตารางเวลาสำหรับระบบเวอร์ชันเทมเพลต
+* การผสมผสานกับไลบรารีเทมเพลตบนคลาวด์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

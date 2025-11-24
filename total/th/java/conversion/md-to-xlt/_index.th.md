@@ -47,7 +47,55 @@ otherformats: XLT SXC ODS XLTM XLTX FODS XLSM DIF XLSB XLAM EXCEL TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MD (Markdown) เป็น XLT (Excel Template) ช่วยให้ทีมสามารถสร้างเทมเพลต Excel ที่ใช้ซ้ำได้ด้วยการจัดรูปแบบและเค้าโครงที่เหมือนกัน ไฟล์ XLT ช่วยให้องค์กรมีมาตรฐานในการสร้างเอกสารพร้อมทั้งเก็บเนื้อหาต้นฉบับใน Markdown
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* สร้างเทมเพลตรายงานโครงสร้างจากแนวทาง MD
+
+* สร้างเทมเพลตสเปรดชีทที่มีตราสารบริษัท
+
+* แปลง Markdown SOPs เป็นเทมเพลต Excel ที่พร้อมใช้งาน
+
+* แผ่นข้อมูลที่ใช้เป็นเทมเพลตที่มีต้นฉบับจาก MD playbooks
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* การสร้างเทมเพลต XLT โดยอัตโนมัติจาก MD ที่ควบคุมเวอร์ชัน
+
+* การสร้างเทมเพลตเป็นชุดสำหรับแผนกองค์กร
+
+* การสร้างเทมเพลตที่ขับเคลื่อนด้วย ETL สำหรับความต้องการในการรายงานโครงสร้าง
+
+* การกระจายเทมเพลตตามแบบธุรกิจหรือสาขา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

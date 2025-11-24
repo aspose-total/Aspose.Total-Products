@@ -130,7 +130,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja MHTML na PS (PostScript) tworzy wysokiej jakości wektorowe dokumenty gotowe do druku z archiwów internetowych. PS jest idealny do profesjonalnych procesów drukowania i publikacji na pulpicie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Konwertowanie raportów internetowych na dokumenty PostScript gotowe do druku.
+
+* Archiwizacja ilustracji technicznych i diagramów do druku.
+
+* Przygotowywanie materiałów marketingowych lub broszur z źródeł internetowych.
+
+* Generowanie wektorowej grafiki o wysokiej rozdzielczości do publikacji na pulpicie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczna wsadowa konwersja treści internetowej na pliki PS.
+
+* Wywoływane generowanie PS dla procesów publikacji.
+
+* Integracja z systemami druku na żądanie.
+
+* Zaplanowana archiwizacja grafik gotowych do druku pozyskanych z internetu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,55 @@ Menggunakan API, Anda juga dapat memutar gambar SVGZ keluaran sesuai kebutuhan A
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi Markdown (MD) ke SVGZ (SVG Terkompresi) menciptakan gambar vektor yang dapat diskalakan dalam format terkompresi. Ideal untuk grafis web, diagram responsif, dan visualisasi interaktif.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Kunci" %}}
+
+
+
+* Menghasilkan diagram vektor terkompresi dari konten Markdown.
+
+* Membuat ilustrasi web responsif dari tabel Markdown.
+
+* Menghasilkan ikon atau infografis yang dapat diskalakan.
+
+* Menanamkan visual vektor terkompresi ke dalam dokumentasi online.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch Markdown-to-SVGZ untuk publikasi web.
+
+* Integrasi pipeline untuk pembuatan diagram otomatis.
+
+* Pembaruan SVGZ terjadwal untuk dasbor interaktif.
+
+* Mengompresi diagram Markdown ke dalam format siap web yang dioptimalkan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ Při převodu souboru MD na EXCEL můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění Markdown (MD) do Excelu (XLS/XLSX) transformuje jednoduché textové soubory do bohatých tabulek připravených na vzorce. Výstupy z Excelu podporují formátování, grafy, ověřování dat a analytiku, což je činí vhodnými pro podnikové hlášení a operační pracovní postupy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Přeměna seznamů funkcí v Markdownu na tříděné tabulky v Excelu.
+
+* Vytváření finančních zpráv získaných z dokumentace v MD.
+
+* Importování tabulek z Markdownu jako sledovačů dat v Excelu.
+
+* Příprava katalogů produktů založených na MD ve formátu tabulky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Převod dokumentů z Markdownu do Excelových sešitů řízených potrubím.
+
+* Hromadná generace souborů XLSX pro více oddělení.
+
+* Automatická aktualizace excelových zpráv z repozitářů verzí kontrolovaných MD.
+
+* Pracovní postupy pro zpracování dat z MD → transformace do Excelu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

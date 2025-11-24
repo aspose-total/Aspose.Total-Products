@@ -47,7 +47,55 @@ otherformats: DIF EXCEL TXT XLTM SXC XLT XLTX XLSM XLSB FODS XLAM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MD (Markdown) เป็น SXC (StarOffice Calc) มีประโยชน์ต่อองค์กรที่ยังใช้สภาพแวดล้อมสเปรดชีต StarOffice/OpenOffice เวอร์ชันเก่า ๆ  SXC รองรับสูตรคำนวณ โครงสร้างแผ่นงาน และการจัดรูปแบบเซลล์ที่เข้ากันได้กับระบบสำนักงานเก่า
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การย้ายตาราง Markdown เข้าสู่สเปรดชีต SXC เวอร์ชันเก่า
+
+* การอัปเดตระบบองค์กรที่เก่ากว่าด้วยข้อมูลที่มี MD-based
+
+* การสร้างไฟล์ SXC สำหรับแพลตฟอร์มที่เก่าแต่ยังใช้งานได้
+
+* เตรียมบันทึกวิศวกรรมจาก Markdown เป็นรูปแบบสเปรดชีตคลาสสิก
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง MD เป็น SXC แบบกลุ่มสำหรับเครื่องมือธุรกิจสำหรับการเก็บถาวร
+
+* การเชื่อมต่อ ETL สำหรับซอฟต์แวร์รัฐบาลหรืออุตสาหกรรมเก่า
+
+* การสร้าง SXC รายวันจากคลังข้อมูล Markdown
+
+* การสร้าง SXC ตามเงื่อนไขสำหรับขั้นตอนการทำงานที่เข้ากันได้ย้อนหลัง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

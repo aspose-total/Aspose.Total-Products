@@ -47,7 +47,55 @@ Tijdens het converteren van het MD-bestand naar TXT, kunt u ook een watermerk to
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van Markdown (MD) bestanden naar TXT (platte tekst) produceert een schone, lichtgewicht versie van uw inhoud zonder opmaak en markering. TXT-bestanden zijn zeer compatibel, ideaal voor tekstverwerking, scripting en integratie met toepassingen die Markdown-opmaak niet ondersteunen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Exporteren van Markdown-documentatie voor distributie via platte tekst e-mail.
+
+* Genereren van ruwe inhoud voor op tekst gebaseerde analyses of machine learning-workflows.
+
+* Produceren van lichte, draagbare kopieën van notities en documentatie.
+
+* Delen van Markdown-inhoud in omgevingen waar rijke opmaak niet wordt ondersteund.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geplande batchconversie van Markdown-opslagplaatsen naar TXT voor back-up en archivering.
+
+* ETL-pijplijnen die Markdown-documentatie omzetten in TXT voor verwerking door scripts of automatiseringstools.
+
+* Geautomatiseerde generatie van platte tekstlogs van op Markdown gebaseerde projectnotities.
+
+* Integratie met inhoudspijplijnen voor het exporteren van Markdown als TXT voor downstreamsystemen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

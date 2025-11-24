@@ -47,7 +47,55 @@ otherformats: DIF XLSM XLTM TSV XLTX TXT XLT EXCEL XLSB FODS SXC ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MD (Markdown) в DIF (Data Interchange Format) идеально подходит для устаревших систем и рабочих процессов с таблицами, основанными на структурированных текстовых данных по строкам. Файлы DIF поддерживают совместимость с более старым финансовым, научным и инженерным программным обеспечением.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Импорт записей Markdown в классическое бухгалтерское программное обеспечение.
+
+* Преобразование таблиц MD в DIF для старых статистических приложений.
+
+* Миграция устаревших баз данных на основе документации Markdown.
+
+* Обмен структурированными файлами DIF с командами, использующими традиционные электронные таблицы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированные конвейеры Markdown-to-DIF для архивных систем.
+
+* Пакетные рабочие процессы, подающие данные DIF в инструменты предприятий для отчетности.
+
+* Плановое преобразование инвентарных таблиц MD в форматы DIF.
+
+* Мосты ETL для устаревших программных экосистем, использующих входные данные DIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

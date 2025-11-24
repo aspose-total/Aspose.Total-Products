@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van MD (Markdown) naar RTF (Rich Text Format) zorgt voor cross-platform compatibiliteit en toegankelijkheid. RTF-bestanden behouden opmaak op bijna alle besturingssystemen, waardoor ze perfect zijn voor lichte distributie, archivering en offline toegang.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Markdown-documentatie omzetten naar draagbare RTF-handleidingen.
+
+* Universeel compatibele trainingsbladen maken van MD-gidsen.
+
+* RTF-gebaseerde helpbestanden afkomstig van Markdown voor legacy-systemen.
+
+* Offline-vriendelijke tekstbestanden voor teams met beperkte softwaretoegang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geplande MD-naar-RTF generatie voor digitale archieven.
+
+* ETL-workflows exporteren inhoudsrepositories naar RTF-bibliotheken.
+
+* Geautomatiseerde RTF-creatie voor offline klantenondersteuningskits.
+
+* Batchconversie van Markdown-notities naar multi-platform compatibele RTF-bestanden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -130,7 +130,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MHTML إلى OTT (OpenDocument Template) يسمح بإنشاء قوالب قابلة لإعادة الاستخدام لحلول مكتبية مفتوحة المصدر، مع الحفاظ على تنسيق وتوزيع الويب.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* قوالب وثائق للشركة لـ LibreOffice.
+
+* قوالب خطط دروس قابلة لإعادة الاستخدام من محتوى تعليمي على الويب.
+
+* قوالب اقتراحات وعقود موحدة مفتوحة المصدر.
+
+* قوالب سير العمل لإدارة المحتوى التعاوني.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* توليد آلي لقوالب OTT من صفحات MHTML متعددة.
+
+* دمج مع أدوات التلقائية في LibreOffice لإنشاء وثائق دفعية.
+
+* تحديثات قوالب مُشغَّلة من تغييرات في محتوى الويب.
+
+* توحيد تنسيق الوثائق عبر فرق العمل الموزعة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

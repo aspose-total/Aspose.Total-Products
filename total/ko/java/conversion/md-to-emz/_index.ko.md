@@ -57,7 +57,55 @@ API를 사용하여 필요에 따라 출력 EMZ 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 EMZ(압축된 향상된 메타파일)로 변환하면 프레젠테이션, 문서 또는 웹사이트에 삽입하기 적합한 간결한 벡터 그래픽이 생성됩니다. EMZ는 선 기반 일러스트레이션을 보존하고 품질을 유지한 채 파일 크기를 줄입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 보고서에 삽입하기 위해 Markdown 다이어그램을 압축하는 것.
+
+* 슬라이드 덱과 프레젠테이션을 위해 EMZ 시각 자료를 생성하는 것.
+
+* Markdown 콘텐츠에서 파생된 기술 일러스트레이션을 공유하는 것.
+
+* 공간을 효율적으로 활용하는 형식으로 벡터 다이어그램을 아카이빙하는 것.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 문서화 파이프라인을 위한 자동화된 MD-to-EMZ 변환.
+
+* 압축된 EMZ 파일로 Markdown 기반 다이어그램 일괄 처리.
+
+* 내부 지식 베이스를 위해 EMZ 시각 자료를 예약 생성.
+
+* 기업 프레젠테이션 워크플로에 대한 다이어그램의 트리거된 내보내기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

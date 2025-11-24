@@ -102,7 +102,51 @@ otherformats: DIF MARKDOWN XLAM MHTML XLS TSV CSV XLTM XLSM XLT ODS EXCEL FODS X
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **POTX ל-SXC** תוצאת קבצי גיליון נתונים המתאימים ל-StarOffice, אידיאליים עבור ארגונים המשתמשים בחבילות תוכנה מותאמות לסביבה ישנה או קלה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* העברת טבלאות מבוססות תבניות לגיליונות נתונים מותאמים לסביבת העבודה הישנה.
+
+* ארכיבת תוכן POTX לשמירה ארגונית לטווח ארוך.
+
+* תמיכה בתאימות עם סביבות משרד ישנות יותר.
+
+* חילוץ נתונים מתבניות לצורת ניתוח מובנית.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רציפה ל-SXC למאגרים מוסדיים גדולים.
+
+* ייצוא SXC מופעל בעת שינויים בתבניות.
+
+* זרימות עבודה אוטומטיות לעיבוד נתונים ישנים.
+
+* המרה מתוזמנת לתהליכי ארכיון פנימיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

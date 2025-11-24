@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 TGA 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML을 TGA (Targa)로 변환하면 3D 모델링, 게임 또는 과학 시각화에서 일반적으로 사용되는 고품질 래스터 이미지가 생성됩니다. TGA는 고급 사용을 위해 색상 깊이와 알파 채널을 보존합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 3D 모델이나 시뮬레이션용 웹 기반 텍스처 추출.
+
+* 투명도가 있는 과학 시각화나 차트 아카이빙.
+
+* 디자인 파이프라인을 위해 웹 일러스트레이션을 TGA로 변환.
+
+* 애니메이션이나 게임 자산을 위해 래스터 그래픽 준비.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 웹 아카이브 그래픽에서 일괄적인 TGA 변환.
+
+* 온라인 대시보드에서 텍스처를 내보내기하기 위한 예약된 파이프라인.
+
+* 디지털 자산 관리 시스템을 위한 트리거된 TGA 생성.
+
+* 애니메이션이나 시뮬레이션 워크플로우 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

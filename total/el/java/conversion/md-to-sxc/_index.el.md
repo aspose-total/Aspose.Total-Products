@@ -47,7 +47,55 @@ otherformats: DIF EXCEL TXT XLTM SXC XLT XLTX XLSM XLSB FODS XLAM TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Τα οφέλη μετατροπής MD (Markdown) σε SXC (StarOffice Calc) εξυπηρετούν οργανισμούς που εξακολουθούν να χρησιμοποιούν παλαιά περιβάλλοντα υπολογιστών StarOffice/OpenOffice. Το SXC υποστηρίζει τύπους, δομές φύλλων και μορφοποίηση κελιών συμβατά με παλαιότερα γραφεία.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Περιπτώσεις Χρήσης" %}}
+
+
+
+* Μεταφορά πινάκων Markdown σε παλαιά φύλλα εργασίας SXC.
+
+* Ενημέρωση παλαιών επιχειρηματικών συστημάτων με δεδομένα βασισμένα σε MD.
+
+* Δημιουργία αρχείων SXC για παλιές αλλά ακόμα λειτουργικές πλατφόρμες.
+
+* Προετοιμασία αρχείων καταγραφής μηχανικής από Markdown σε κλασικές μορφές φύλλων εργασίας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή MD σε SXC για αρχειοθετημένα εργαλεία επιχειρήσεων.
+
+* Συνδέσεις ETL για παλαιά κυβερνητικά ή βιομηχανικά λογισμικά.
+
+* Καθημερινή παραγωγή SXC από αποθετήρια Markdown.
+
+* Ενεργοποιημένη δημιουργία SXC για ροές εργασίας συμβατές προς τα πίσω.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

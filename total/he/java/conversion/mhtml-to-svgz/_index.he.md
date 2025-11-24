@@ -105,7 +105,45 @@ otherformats: APNG WMF TGA JPEG2000  IMAGE DXF WMZ EMZ PSD DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML ל־SVGZ (SVG דחוס) שומר על גרפיקה וקטורית מתוך תוכן אינטרנט תוך צמצום גודל הקובץ. אידיאלי ליישומים בתחום האינטרנט, ממשק משתמש ואייקונים הדורשים קידמה וקבצים קלים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* חילוץ תרשימים ניתנים להתאמה מלוחות בקרה מקוונים.
+
+* דחיסת לוגוים וקטוריים מבוססי אינטרנט לאתרים.
+
+* המרת תרשימי זרימה או אינפוגרפיקות לתבנית וקטורית.
+
+* הכנת אייקונים לאתרים מתוך תצוגות HTML/CSS מאורכות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה רציפה של תוכן אינטרנט בעל תלת-ממד ל־SVGZ.
+
+* שילוב בצינורות פיתוח אינטרנטיות לגרפיקה רספונסיבית.
+
+* חילוץ תמונה וקטורית מתוך ארכיונים של MHTML.
+
+* דחיסה ומסירה מופעלת של גרפיקה ניתנת להתאמה לאתרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -49,7 +49,55 @@ otherformats: XLT SXC ODS XLTM XLTX FODS XLSM DIF XLSB XLAM EXCEL TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）转XLT（Excel模板）转换使团队能够生成具有一致样式和布局的可重复使用的Excel模板。XLT文件帮助组织标准化文档创建，同时保持源内容在Markdown中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从MD指南构建结构化报告模板。
+
+* 制作公司品牌的电子表格模板。
+
+* 将Markdown SOP转换为可立即使用的Excel模板。
+
+* 基于MD手册的模板数据输入表。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从版本控制的MD自动重新生成XLT模板。
+
+* 为企业部门批量创建模板。
+
+* 为结构化报告需求进行ETL驱动的模板构建。
+
+* 基于特许经营或分支的模板分发工作流。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,55 @@ presentation.save("output.swf", SaveFormat.Swf);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi Markdown (MD) sang SWF (Shockwave Flash) cho phép văn bản, sơ đồ và biểu đồ được chuyển đổi thành các hoạt hình Flash tương tác. SWF lý tưởng cho nội dung giáo dục cũ, hướng dẫn và trình bày web động.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi hướng dẫn Markdown thành nội dung SWF tương tác.
+
+* Sơ đồ động cho các mô-đun học trực tuyến được tạo từ Markdown.
+
+* Trình bày Flash cũ cho việc phân phối trên web.
+
+* Nhúng hình ảnh tương tác Markdown vào các nền tảng giáo dục.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Quy trình tự động hóa Markdown-to-SWF cho tài liệu đào tạo trực tuyến.
+
+* Chuyển đổi hàng loạt nội dung MD thành các tệp Flash tương tác.
+
+* Cập nhật định kỳ cho các mô-đun học SWF được tạo từ Markdown.
+
+* Tạo ra hình ảnh SWF theo yêu cầu cho các nền tảng cũ trên web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

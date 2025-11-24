@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML'yi PPSX'e (makro olmadan Slayt Gösterisi) dönüştürmek, işbirlikçi ve makro kısıtlı ortamlar için güvenli çalışmaya hazır slayt gösterileri oluşturur. PPSX, birden fazla paydaşa dağıtılan sunumlar için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Makrosuz müşteriye hazır sunum desteleri.
+
+* Güvenli dağıtım için eğitim veya eğitim slayt gösterileri.
+
+* Harici paydaşlar için pazarlama kampanyası sunumları.
+
+* Takım paylaşımı için proje güncellemeleri ve KPI desteleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Web içeriğinin otomatik toplu dönüşümü PPSX slaytlarına.
+
+* Tekrarlayan slayt gösterileri için zamanlanmış güncellemeler.
+
+* Toplantılar için canlı web panolarından tetiklenen oluşturma.
+
+* Sunum yönetim platformlarına entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

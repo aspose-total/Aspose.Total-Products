@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie Markdown (MD) na OTT (OpenDocument Text Template) wspiera tworzenie skalowalnych szablonów do oprogramowania biurowego typu open-source. Szablony OTT zachowują spójne formatowanie, umożliwiając zespołom generowanie wielu dokumentów na stabilnej podstawie stylu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Tworzenie szablonów OTT do produkcji wielojęzycznych dokumentów.
+
+* Budowanie strukturalnych szablonów raportów na podstawie wytycznych opartych na Markdown.
+
+* Standaryzacja dokumentacji biurowej dla środowisk open-source.
+
+* Generowanie wielokrotnie używanych formatów dokumentów ODT dla NGO-ów lub instytucji publicznych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczne generowanie OTT w przepływach pracy publikacji open-source.
+
+* Aktualizacje szablonów synchronizowane z kontrolą wersji Markdown.
+
+* Produkcja zbiorów szablonów dla zespołów rozproszonych korzystających z LibreOffice.
+
+* Systemy rządowe lub non-profit generujące szablony OTT zgodnie z harmonogramem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

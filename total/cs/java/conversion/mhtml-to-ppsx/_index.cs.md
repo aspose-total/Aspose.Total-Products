@@ -121,7 +121,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MHTML na PPSX (prezentace bez maker) vytváří připravené prezentace bezpečné pro spolupráci a prostředí s omezenými makry. PPSX je ideální pro prezentace distribuované více zúčastněným stranám.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Prezentační balíčky připravené pro klienty bez maker.
+
+* Vzdělávací nebo školicí prezentace pro bezpečné distribuce.
+
+* Prezentace marketingových kampaní pro externí zúčastněné strany.
+
+* Aktualizace projektů a prezentace KPI pro sdílení v týmu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaná hromadná konverze obsahu webu do snímků PPSX.
+
+* Plánované aktualizace pro opakující se prezentace.
+
+* Spuštěné generování z živých webových nástěnek pro schůzky.
+
+* Integrace do platforem pro správu prezentací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

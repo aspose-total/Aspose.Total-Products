@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML转换为RTF（Rich Text Format）可保留文本格式，同时在各种文字处理软件中保持广泛兼容性。RTF非常适用于存档、报告和跨平台编辑。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 保留格式的存档网页报告。
+
+* 在多个文字处理软件中跨平台编辑网页内容。
+
+* 共享格式化的基于网页的文档，无兼容性问题。
+
+* 从在线来源准备带有样式文本的手册或指南。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时批量转换用于网页内容存档。
+
+* 集成到文档管理系统中，用于自动生成RTF。
+
+* 自动转换用于需要RTF输入的遗留系统。
+
+* 触发RTF创建，用于报告仪表板和自动化文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

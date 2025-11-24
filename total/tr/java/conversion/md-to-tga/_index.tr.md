@@ -57,7 +57,55 @@ API'yi kullanarak, çıktı TGA görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını TGA (Targa Image) formatına dönüştürmek, genellikle video prodüksiyonunda, oyunlarda veya mühendislik diyagramlarında kullanılan yüksek kaliteli raster grafikler oluşturur. TGA, doğru temsiliyet için alfa kanallarını ve sıkıştırılmamış çıktıyı destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Video üstü kaplamaları veya oyun varlıkları için Markdown tabanlı diyagramların dışa aktarılması.
+
+* Mühendislik belgeleri için yüksek çözünürlüklü grafikler.
+
+* Markdown görselleştirmelerinden alfa kanallı görüntüler oluşturma.
+
+* Sunum materyalleri için sıkıştırılmamış teknik diyagramlar oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Yaratıcı iş akışları için Markdown depolarından otomatik TGA oluşturma.
+
+* Video prodüksiyonu veya teknik belgeler için diyagramların toplu dışa aktarımı.
+
+* Simülasyon veya oyun projeleri için Markdown diyagramlarının zamanlanmış dönüşümü.
+
+* İçerik yönetim sistemleriyle entegrasyon yaparak TGA görsellerini otomatik olarak çıkarma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 PSD 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML을 PSD(Adobe Photoshop)로 변환하면 웹 그래픽을 완전히 편집 가능한 레이어 이미지로 변환합니다. PSD는 고급 편집 기능이 필요한 디자이너와 마케터에게 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Photoshop에서 웹 기반 배너, 헤더 또는 UI 그래픽 편집.
+
+* 마케팅 캠페인을 위한 레이어드 인포그래픽 추출.
+
+* 보관된 콘텐츠에서 편집 가능한 웹 템플릿 생성.
+
+* 원본 웹 비주얼이 필요한 그래픽 디자인 프로젝트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 디자인 팀을 위한 MHTML 웹 페이지에서 일괄 PSD 생성.
+
+* 정기적인 마케팅 자료 업데이트를 위한 트리거 변환.
+
+* Photoshop 자동화를 위한 디자인 에셋 파이프라인 통합.
+
+* 웹투프린트 워크플로우를 위한 예약된 PSD 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

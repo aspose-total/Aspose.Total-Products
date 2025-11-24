@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (마크다운)를 DOTM (매크로 활성화 템플릿)으로 변환하면 내장된 매크로로 강화된 워드 템플릿과 가벼운 텍스트 편집이 결합됩니다. DOTM 템플릿을 사용하면 팀이 반복적인 문서 작업을 자동화하고 즉시 표준화된, 매크로 준비 문서를 생성할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 마크다운 플레이북에서 매크로 기반의 온보딩 템플릿 구축.
+
+* MD 콘텐츠에서 소스로 하는 자동화된 송장이나 양식 템플릿 생성.
+
+* 프로그래밍 방식으로 삽입된 필드를 가진 기업 문서 프레임워크.
+
+* 기술 문서에서 재사용 가능한 자동화 친화적 템플릿 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 대규모 보고 주기용 DOTM 템플릿 자동 구축.
+
+* MD를 DOTM으로 변환하는 워크플로 엔진과의 통합.
+
+* 분산된 부서를 위한 매크로 활성화 템플릿의 원클릭 생성.
+
+* 템플릿 재생성 중 동적 콘텐츠의 자동 삽입.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

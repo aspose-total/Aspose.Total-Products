@@ -57,7 +57,55 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น SVGZ (Compressed SVG) ช่วยสร้างภาพเวกเตอร์ที่มีขนาดเปลี่ยนได้ในรูปแบบที่บีบอัด มีประโยชน์สำหรับกราฟิกบนเว็บ เดิมพันที่ตอบสนอง และการแสดงข้อมูลแบบอินเทอร์แอคทีฟ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สร้างไดอะแกรมเวกเตอร์ที่บีบอัดจากเนื้อหา Markdown
+
+* สร้างภาพประกอบบนเว็บที่ตอบสนองจากตาราง Markdown
+
+* สร้างไอคอนหรืออินโฟกราฟิกที่มีขนาดเปลี่ยนได้
+
+* ฝังภาพเวกเตอร์ที่บีบอัดลงในเอกสารออนไลน์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลง Markdown เป็น SVGZ แบบจำนวนมากสำหรับการเผยแพร่บนเว็บ
+
+* การผสานท่อสำหรับการสร้างไดอะแกรมโดยอัตโนมัติ
+
+* การอัปเดต SVGZ ตามกำหนดเวลาสำหรับแดชบอร์ดแบบอินเทอร์แอคทีฟ
+
+* บีบอัดไดอะแกรม Markdown เป็นรูปแบบที่พร้อมใช้งานบนเว็บอย่างเหมาะสม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

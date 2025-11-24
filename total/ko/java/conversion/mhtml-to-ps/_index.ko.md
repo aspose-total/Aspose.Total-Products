@@ -129,7 +129,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML를 PS (PostScript)로 변환하면 웹 아카이브에서 고품질의 벡터 인쇄용 문서가 생성됩니다. PS는 전문적인 인쇄 및 데스크톱 퍼블리싱 워크플로에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 웹 보고서를 인쇄용 PostScript 문서로 변환하기.
+
+* 인쇄용 기술적인 그림 및 다이어그램 아카이빙.
+
+* 온라인 소스로부터 마케팅 자료나 브로셔 준비.
+
+* 데스크톱 퍼블리싱용 고해상도 벡터 그래픽 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 웹 콘텐츠를 PS 파일로 자동 일괄 변환.
+
+* 출판 파이프라인을 위한 트리거된 PS 생성.
+
+* 온디맨드 인쇄 시스템과의 통합.
+
+* 웹 소스의 인쇄용 그래픽을 예약된 아카이빙.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,55 @@ otherformats: PSD JPEG2000 WMF EMZ SVGZ DXF TGA IMAGE WMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为通用图像格式（PNG、JPG、BMP）可实现表格、图表和格式化文本在便携、跨平台的格式中的可视化。图像可以嵌入到演示文稿、网站或文档中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将Markdown图表导出为静态图像，用于幻灯片或报告。
+
+* 在网站或博客上分享基于Markdown的图表。
+
+* 为用户手册或技术指南创建图像。
+
+* 为演示文稿或PDF制作Markdown表格的视觉快照。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将Markdown内容定期批量转换为图像。
+
+* 从Markdown文件生成可视化资产的ETL管道。
+
+* 为文档门户自动生成图表。
+
+* 基于触发器的图像导出，用于仪表板或报告系统。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

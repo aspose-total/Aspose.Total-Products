@@ -61,7 +61,51 @@ A POTX fájl FODS formátumba konvertálásakor vízjelet is hozzáadhat a kimen
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A **POTX to FODS** konvertálása sablonadatokat exportál lapos OpenDocument táblázatfájlokba a maximális kompatibilitás érdekében az nyílt forráskódú eszközök között.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* POTX-ből származó adatok szerkesztése a LibreOffice és az OpenOffice alkalmazásokban.
+
+* Kormányzati szabványú nyílt formátumú táblázatok előkészítése.
+
+* Könnyű, platformfüggetlen adattáblázatok létrehozása.
+
+* POTX sablon metaadatainak archiválása nyílt formátumokban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* POTX fájlok tömeges feldolgozása FODS formátumba a platformfüggetlen csapatok számára.
+
+* Ütemezett nyílt formátumú exportok a szabályozás vagy ellenőrzések érdekében.
+
+* Integráció nyílt forráskódú munkafolyamat-automatizálással.
+
+* Trigger-alapú FODS konvertálás sablonfrissítéskor.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

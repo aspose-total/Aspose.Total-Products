@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをPPTM（マクロ有効なPowerPoint）に変換すると、Webコンテンツからのインタラクティブで自動化されたプレゼンテーションが可能になります。PPTMは、マクロが必要なトレーニング、分析、またはマーケティングスライドに適しています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 自動コンテンツ更新が可能なインタラクティブなトレーニングスライド。
+
+* マクロが有効なプレゼンテーションとしてのKPIおよびプロジェクトダッシュボード。
+
+* 動的なマクロを備えたマーケティングスライドデッキ。
+
+* Webソースからの埋め込み演習を含む教育モジュール。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 定期的なスライド用の自動MHTMLからPPTMへのパイプライン。
+
+* 動的でマクロが有効なプレゼンテーションのためのスケジュール変換。
+
+* ライブWebダッシュボードからのトリガーされたPPTM生成。
+
+* 企業ワークフロー自動化システムへの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

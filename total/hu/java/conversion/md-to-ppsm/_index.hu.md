@@ -59,7 +59,55 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MD (Markdown) átalakítása PPSM (Makróval engedélyezett PowerPoint diavetítés) formátumba kombinálja az automatikus lejátszású diavetítés funkcionalitását az automatizálással. A PPSM támogatja a VBA makrókat az időzített tartalom, dinamikus frissítések és interaktív élmények számára.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Automatizált kioszkok makróvezérelt PPSM diavetítésekkel.
+
+* Interaktív tréninghurokok, amelyeket MD tartalomból terveztek.
+
+* Automatikusan időzített termékbemutatók Markdown rövidítésekből.
+
+* Dinamikus kiskereskedelmi vagy eseményesemények használata makróval engedélyezett diavetítésekkel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Munkafolyamatvezérelt PPSM gyártás Markdown változások által kiváltva.
+
+* Makróval engedélyezett diavetítések generálása vállalati kijelzőrendszerekhez.
+
+* Automatikus frissítések a kioszk tartalmához MD adattárolókból.
+
+* Tömeges PPSM létrehozása kiskereskedelmi vagy expó láncok számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

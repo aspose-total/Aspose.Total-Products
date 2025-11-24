@@ -57,7 +57,55 @@ Sử dụng API, bạn cũng có thể xoay hình ảnh IMAGE đầu ra theo nhu
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi Markdown (MD) sang các định dạng hình ảnh thông thường (PNG, JPG, BMP) cho phép hiển thị bảng, sơ đồ và văn bản được định dạng trong một định dạng di động, không phụ thuộc vào nền tảng. Hình ảnh có thể được nhúng trong bài thuyết trình, trang web hoặc tài liệu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xuất sơ đồ Markdown dưới dạng hình ảnh tĩnh cho slide hoặc báo cáo.
+
+* Chia sẻ biểu đồ dựa trên Markdown trên trang web hoặc blog.
+
+* Tạo hình ảnh cho hướng dẫn sử dụng người dùng hoặc hướng dẫn kỹ thuật.
+
+* Chụp ảnh chụp màn hình của bảng Markdown cho bài thuyết trình hoặc PDF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt định kỳ nội dung Markdown thành hình ảnh.
+
+* Các đường ống ETL tạo tài sản hình ảnh từ các tệp Markdown.
+
+* Tự động tạo sơ đồ cho các cổng thông tin tài liệu.
+
+* Xuất hình ảnh dựa trên cơ sở kích hoạt cho bảng điều khiển hoặc hệ thống báo cáo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

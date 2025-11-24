@@ -47,7 +47,55 @@ Trong khi chuyển đổi tệp MD sang XLAM, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MD (Markdown) sang XLAM (Excel Add-in) cho phép tạo ra các tệp mở rộng hỗ trợ macro chứa các hàm, tự động hóa và logic có thể tái sử dụng. Định dạng này hỗ trợ người dùng Excel nâng cao cần các add-in có thể lập trình.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Tạo các add-in macro từ thư viện công thức dựa trên Markdown.
+
+* Đóng gói các kịch bản nguồn MD thành XLAM cho các nhóm tài chính.
+
+* Tự động hóa các nhiệm vụ phân tích lặp đi lặp lại thông qua việc tạo add-in.
+
+* Phân phối các gói macro chuẩn tạo ra từ ghi chú Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Xây dựng XLAM tự động từ MD trong các đường ống CI/CD.
+
+* Tạo ra add-in macro được kiểm soát phiên bản cho doanh nghiệp.
+
+* Xây dựng các công cụ XLAM hàng loạt cho các bộ phận phân tích dữ liệu.
+
+* Tự động cập nhật các add-in macro từ tài liệu Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

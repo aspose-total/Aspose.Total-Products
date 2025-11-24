@@ -57,7 +57,55 @@ Usando la API, también puede rotar la imagen SVGZ de salida según sus necesida
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertir Markdown (MD) a SVGZ (SVG comprimido) crea imágenes vectoriales escalables en un formato comprimido. Ideal para gráficos web, diagramas responsivos y visualizaciones interactivas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Generar diagramas vectoriales comprimidos a partir de contenido Markdown.
+
+* Crear ilustraciones web responsivas a partir de tablas Markdown.
+
+* Producir iconos o infografías escalables.
+
+* Incrustar visuales vectoriales comprimidos en documentación en línea.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Conversión por lotes de Markdown a SVGZ para publicación web.
+
+* Integración en pipeline para generación automatizada de diagramas.
+
+* Actualizaciones programadas de SVGZ para paneles interactivos.
+
+* Comprimir diagramas Markdown en formatos optimizados listos para web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

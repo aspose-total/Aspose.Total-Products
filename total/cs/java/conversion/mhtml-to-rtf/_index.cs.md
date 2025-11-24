@@ -130,7 +130,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MHTML na RTF (Rich Text Format) zachovává formátování textu a zároveň poskytuje širokou kompatibilitu napříč textovými procesory. RTF je ideální pro archivační účely, reporting a úpravy napříč různými platformami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Archivace webových zpráv s zachovaným formátováním.
+
+* Úpravy obsahu webových stránek v různých textových procesorech napříč platformami.
+
+* Sdílení formátované dokumentace založené na webu bez problémů s kompatibilitou.
+
+* Příprava manuálů nebo průvodců se stylovým textem z online zdrojů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný hromadný převod pro archivaci webového obsahu.
+
+* Integrace do systémů pro správu dokumentů pro automatizovanou generaci RTF.
+
+* Automatický převod pro zastaralé systémy vyžadující vstup ve formátu RTF.
+
+* Spouštěný proces tvorby RTF pro reportingová rozhraní a automatizovanou dokumentaci.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

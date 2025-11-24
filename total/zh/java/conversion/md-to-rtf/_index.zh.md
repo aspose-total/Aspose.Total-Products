@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MD（Markdown）转换为RTF（富文本格式）可确保跨平台兼容性和可访问性。RTF文件在几乎所有操作系统上保留样式，非常适合轻量级分发、存档和离线访问。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将Markdown文档转换为便携的RTF手册。
+
+* 从MD指南创建普遍兼容的培训资料。
+
+* 源自Markdown的基于RTF的帮助文件，适用于传统系统。
+
+* 针对软件访问受限团队的离线友好文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为数字档案安排MD到RTF的生成。
+
+* ETL工作流将内容存储库导出为RTF库。
+
+* 为离线客户支持套件自动创建RTF。
+
+* 批量将Markdown笔记转换为多平台兼容的RTF文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

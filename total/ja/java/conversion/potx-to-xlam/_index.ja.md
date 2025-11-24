@@ -61,7 +61,51 @@ POTXファイルをXLAMに変換するときに、出力XLAMファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**POTXをXLAMに変換**すると、テンプレートから派生したコンテンツを自動化されたExcelソリューション内に埋め込むことができるマクロ有効なExcelアドインが生成されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* テンプレートデータから再利用可能なExcelアドインを構築する。
+
+* POTXベースのコンテンツを使用した自動化ワークフローを開発する。
+
+* 動的なビジネス計算機やレポートツールを作成する。
+
+* スライドテンプレートから取得した高度なロジックを埋め込む。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 一貫したテンプレートライブラリからXLAMツールを一括生成する。
+
+* 動的なレポート作成のためのトリガーベースのアドイン更新。
+
+* マクロ有効なスプレッドシートの定期的な展開。
+
+* 企業のExcel自動化フレームワークとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

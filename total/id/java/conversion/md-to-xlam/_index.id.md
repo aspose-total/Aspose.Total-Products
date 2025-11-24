@@ -47,7 +47,55 @@ Saat mengonversi file MD ke XLAM, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi MD (Markdown) ke XLAM (Excel Add-in) memungkinkan pembuatan file ekstensi yang berisi fungsi, otomatisasi, dan logika yang dapat digunakan ulang. Format ini mendukung pengguna Excel tingkat lanjut yang memerlukan add-in yang dapat diprogram.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Membuat add-in makro dari perpustakaan formula berbasis Markdown.
+
+* Mengemas skrip yang berasal dari MD ke dalam XLAM untuk tim keuangan.
+
+* Mengotomatisasi tugas analitik yang berulang melalui pembuatan add-in.
+
+* Mendistribusikan paket makro standar yang berasal dari catatan Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Pembangunan XLAM otomatis dari MD dalam pipeline CI/CD.
+
+* Generasi add-in makro yang terkendali versi untuk perusahaan.
+
+* Membangun alat XLAM secara massal untuk departemen analisis data.
+
+* Memperbarui otomatis add-in makro yang berasal dari dokumentasi Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

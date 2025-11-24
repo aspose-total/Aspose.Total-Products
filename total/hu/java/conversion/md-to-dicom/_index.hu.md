@@ -57,7 +57,55 @@ Az API használatával igény szerint elforgathatja a kimeneti DICOM-képet is. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) fájlok DICOM (Digital Imaging and Communications in Medicine) formátummá történő átalakítása lehetővé teszi a szöveges dokumentáció vagy megjegyzések integrálását az orvosi képfeldolgozási folyamatokba. A DICOM támogatja a metaadatokat, az standard képstruktúrákat, és ideális kórházi rendszerekhez és kutatási környezetekhez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Markdown alapú klinikai jegyzetek beágyazása az orvosi képtárába.
+
+* Strukturált páciensoktatási vizuális elemek generálása Markdown tartalommal.
+
+* Kutatási dokumentáció integrálása a DICOM-kompatibilis képfeldolgozási adathalmazokba.
+
+* Szöveges megjegyzések tárolása a radiológiai képek mellett.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Automatizált MD-DICOM generálás kórházi dokumentációs rendszerekhez.
+
+* Klinikai Markdown fájlok tömeges feldolgozása az elektronikus egészségügyi nyilvántartások integrálásához.
+
+* Ütemezett konverziós csatornák táplálása DICOM archívumokkal.
+
+* Markdown jelentések kiváltott megjelenítése az AI-asszisztált diagnózis mellett.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

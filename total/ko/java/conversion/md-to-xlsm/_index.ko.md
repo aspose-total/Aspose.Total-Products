@@ -47,7 +47,55 @@ MD 파일을 XLSM로 변환하는 동안 출력 XLSM 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 XLSM(매크로 활성화 엑셀 워크북)으로 변환하면 스프레드시트 워크플로우 내에서 자동화 기능을 활용할 수 있습니다. XLSM은 VBA 매크로를 지원하여 동적 보고 및 자동 계산에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Markdown 입력 테이블에서 매크로 기능이 있는 대시보드 생성.
+
+* MD 제품 시트에서 소스된 비용 계산기 자동화.
+
+* Markdown 구조로 구축된 XLSM 기반 워크플로우 자동화.
+
+* MD 노트에서 생성된 매크로를 사용한 엔지니어링 시트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* CI 워크플로우에서 자동화된 MD → XLSM 생성.
+
+* 운영을 위한 매크로 활성화 스프레드시트의 예약 생성.
+
+* XLSM 보고서를 동적으로 생성하는 변환 파이프라인.
+
+* 자동화된 금융 스프레드시트 시스템에 Markdown 소스 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

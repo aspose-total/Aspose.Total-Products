@@ -49,7 +49,55 @@ otherformats: XLSM XLAM XLT EXCEL ODS TXT XLTM FODS SXC TSV XLTX DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为XLTM（启用宏的Excel模板）可创建具有自动化功能的可重复使用的电子表格模板。 XLTM文件支持宏，用于动态初始化、自动填充字段和高级工作流操作。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从Markdown内容中提取驱动宏的业务模板。
+
+* 从MD数据构建自动化预测表。
+
+* 为工程团队构建可重复使用的计算模板。
+
+* 创建准备好使用宏的入职或审计模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 通过CI支持的MD转换自动生成XLTM模板。
+
+* 批量构建分布式办公室的启用宏模板。
+
+* 从Markdown存储库定期更新XLTM文件。
+
+* 动态工作流脚本从后端数据填充XLTM模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

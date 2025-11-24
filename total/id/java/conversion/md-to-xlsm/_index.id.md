@@ -47,7 +47,55 @@ Saat mengonversi file MD ke XLSM, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi Markdown (MD) ke XLSM (Macro-Enabled Excel Workbook) membuka kemampuan otomatisasi di dalam alur kerja spreadsheet. XLSM mendukung makro VBA, menjadikannya ideal untuk pelaporan dinamis dan perhitungan otomatis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Membuat dasbor yang didukung makro dari tabel input Markdown.
+
+* Mengotomatisasi kalkulator biaya yang bersumber dari lembar produk MD.
+
+* Otomatisasi alur kerja berbasis XLSM yang dibangun dari struktur Markdown.
+
+* Membuat lembar kerja menggunakan makro yang dibuat dari catatan MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi MD → XLSM otomatis dalam alur kerja CI.
+
+* Pembuatan jadwal spreadsheet yang didukung makro untuk operasi.
+
+* Pipa transformasi yang menghasilkan laporan XLSM secara dinamis.
+
+* Mengintegrasikan sumber Markdown ke dalam sistem spreadsheet keuangan otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

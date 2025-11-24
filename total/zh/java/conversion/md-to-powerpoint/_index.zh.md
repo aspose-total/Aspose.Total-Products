@@ -59,7 +59,55 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为PowerPoint（PPTX）可将普通文本内容转化为专业、视觉结构化的演示文稿。PPTX文件支持动画、媒体、图表和品牌元素，非常适用于商业、教育和营销领域。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从Markdown会议记录创建完整的PowerPoint演示文稿。
+
+* 将MD文档转换为视觉上精致的报告。
+
+* 通过Markdown来源构建会议或网络研讨会幻灯片。
+
+* 将Markdown产品描述转换为客户可用的PPTX演示文稿。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于定期演示的自动化PPTX生成。
+
+* 从Markdown生成商业就绪的PowerPoints的ETL管道。
+
+* 每周报告周期的定时幻灯片演示文稿创建。
+
+* 用于培训和入职系统的批量PPTX导出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

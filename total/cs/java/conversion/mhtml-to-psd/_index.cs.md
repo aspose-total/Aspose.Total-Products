@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek PSD podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MHTML na PSD (Adobe Photoshop) transformuje webové grafiky do plně upravitelných vrstevnatých obrázků. PSD je ideální pro designéry a marketéry, kteří potřebují pokročilé úpravy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Úprava webových bannerů, záhlaví nebo UI grafiky v programu Photoshop.
+
+* Extrahování vrstevnatých infografik pro marketingové kampaně.
+
+* Vytváření upravitelných webových šablon z archivovaného obsahu.
+
+* Grafické designové projekty vyžadující původní webové vizuály.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadné vytváření PSD z webových stránek MHTML pro designové týmy.
+
+* Spouštěný převod pro pravidelné aktualizace marketingového materiálu.
+
+* Integrace do potrubí designových prostředků pro automatizaci Photoshopu.
+
+* Plánované generování PSD pro pracovní postupy od webu k tisku.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

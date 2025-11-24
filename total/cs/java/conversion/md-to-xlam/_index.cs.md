@@ -47,7 +47,55 @@ Při převodu souboru MD na XLAM můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MD (Markdown) na XLAM (Excel Add-in) umožňuje generování souborů s příponou obsahujících funkce, automatizaci a znovupoužitelnou logiku. Tento formát podporuje pokročilé uživatele Excelu, kteří potřebují programovatelné doplňky.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření makro doplňků z knihoven vzorců založených na Markdownu.
+
+* Balení skriptů z MD do XLAM pro finanční týmy.
+
+* Automatizace opakujících se analytických úkolů prostřednictvím generování doplňků.
+
+* Distribuce standardizovaných makro balíčků odvozených z poznámek Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatické sestavování XLAM z MD v CI/CD potrubí.
+
+* Verzí řízená generace makro doplňků pro podniky.
+
+* Hromadné sestavování nástrojů XLAM pro oddělení analýzy dat.
+
+* Automatické aktualizace makro doplňků získaných z dokumentace Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

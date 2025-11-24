@@ -47,7 +47,55 @@ Při převodu souboru MD na FODS můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MD (Markdown) na FODS (Flat OpenDocument Spreadsheet) produkuje upravitelné soubory se sešitovými daty založené na XML, ideální pro kancelářské balíky s otevřeným zdrojovým kódem. FODS zachovává struktury buněk, vzorce a formátování v plně textovém, verzí přívětivém rozložení.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Exportování dat Markdown do formátů sešitů s otevřeným zdrojovým kódem.
+
+* Vytváření strukturovaných souborů FODS pro uživatele LibreOffice.
+
+* Importování tabulek MD do plochých XML sešitů pro vývojové týmy.
+
+* Udržování archivů sešitů ve formě čitelné pro text.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod do FODS pro transparentní kontrolu verzí.
+
+* Integrace MD-to-FODS do ETL potrubí s otevřeným zdrojovým kódem.
+
+* Automatické vytváření sešitů pro dokumentaci vládních institucí nebo nevládních organizací.
+
+* Generování FODS na základě spouštěcích událostí v kontinuálních pracovních postupech dokumentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

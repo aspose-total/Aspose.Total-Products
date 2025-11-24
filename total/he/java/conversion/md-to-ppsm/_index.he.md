@@ -72,7 +72,55 @@ otherformats: PPSX POWERPOINT PPT PPTM POTX PPS POTM XAML OTP SWF ODP POT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MD (Markdown) ל-PPSM (מצגת שקופיות של PowerPoint המופעלת באמצעות מקרו) משלבת פונקציות של מצגת אוטומטית עם אוטומציה. PPSM תומך במקרו VBA עבור תוכן בזמן מוגבל, עדכונים דינמיים וחוויות אינטראקטיביות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* קיוסקים אוטומטיים עם שקופיות PPSM המופעלות באמצעות מקרו.
+
+* לולאות הדרכה אינטראקטיביות המיועדות מתוך תוכן MD.
+
+* מצגות מוצרים בזמן מוגבל שנגזרות מתקצירי Markdown.
+
+* תצוגות קמעונאיות או אירועים דינמיות באמצעות מצגות שקופיות המופעלות באמצעות מקרו.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* ייצור PPSM המופעל באמצעות זרימת עבודה המופעלת על ידי שינויים ב- Markdown.
+
+* יצירת מצגת מופעלת באמצעות מקרו עבור מערכות תצוגה לעסקים.
+
+* עדכונים אוטומטיים לתוכן בקיוסק ממאגרי MD.
+
+* יצירת PPSM בצורה צפופה עבור רשתות קמעונאיות או תערוכות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

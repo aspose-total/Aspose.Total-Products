@@ -129,7 +129,51 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A conversão de MHTML para DOTM (Modelo do Word Habilitado para Macro) combina a reutilização de modelos com automação de macros. Isso é perfeito para empresas que precisam de documentos padronizados com recursos interativos e automação de fluxo de trabalho.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Modelos de rastreamento de projetos automatizados com macros incorporadas.
+
+* Modelos interativos de treinamento e integração para departamentos de RH.
+
+* Modelos de conteúdo de marketing integrados com dados obtidos na web.
+
+* Modelos de relatórios de clientes que são preenchidos automaticamente a partir de painéis da web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Pipelines de conversão agendados para modelos MHTML para DOTM.
+
+* Geração de documentos orientada por macros para processos de negócios recorrentes.
+
+* Integração em sistemas CRM para preencher automaticamente modelos específicos de clientes.
+
+* Criação de modelos acionados por eventos para ferramentas de automação de fluxo de trabalho.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertendo Markdown (MD) em OTT (OpenDocument Text Template) suporta a criação de modelos escaláveis para suítes de escritório de código aberto. Os modelos OTT mantêm a formatação consistente, permitindo que equipes gerem vários documentos a partir de uma base de estilo estável.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Criando modelos OTT para produção de documentos multilíngues.
+
+* Construindo modelos de relatórios estruturados a partir de diretrizes baseadas em Markdown.
+
+* Padronizando a documentação de escritório para ambientes de código aberto.
+
+* Gerando formatos de documentos ODT reutilizáveis para ONGs ou instituições públicas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Geração automatizada de OTT em fluxos de trabalho de publicação de código aberto.
+
+* Atualizações de modelo em lote sincronizadas a partir do controle de versão do Markdown.
+
+* Produzindo conjuntos de modelos em lote para equipes distribuídas usando o LibreOffice.
+
+* Sistemas governamentais ou sem fins lucrativos gerando modelos OTT conforme programado.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

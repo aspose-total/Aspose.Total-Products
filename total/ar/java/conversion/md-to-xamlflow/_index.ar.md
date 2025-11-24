@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل Markdown (MD) إلى XAMLFLOW يسمح بإنشاء رسوم بيانية تفاعلية قائمة على التدفق وتخطيطات تطبيق باستخدام علامات XAML. مثالي لتصور البرمجيات وإنشاء نماذج واجهة المستخدم ووثائق سير العمل.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* بناء رسوم بيانية تفاعلية للتدفق من وثائق Markdown.
+
+* إنشاء نماذج لسير العمل لتطبيقات WPF باستخدام محتوى Markdown.
+
+* ترجمة ملاحظات العمليات التقنية إلى تصورات XAMLFlow.
+
+* تضمين سير العمل الذي تم إنشاؤه بواسطة Markdown في معاينات تطبيق تفاعلية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* أنابيب عملية تلقائية من MD إلى XAMLFLOW لفرق التطوير.
+
+* توليفة دفعية لإنشاء تدفقات تفاعلية من ملاحظات Markdown.
+
+* تحديثات مجدولة لرسوم العمل في وثائق البرمجيات.
+
+* التكامل مع CI/CD لتحويل مخططات العمل من Markdown إلى مكونات XAMLFLOW.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

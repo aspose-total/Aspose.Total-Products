@@ -47,7 +47,55 @@ MD dosyasını EXCEL'ye dönüştürürken, çıktı EXCEL dosya biçiminize fil
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını Excel (XLS/XLSX) formatına dönüştürmek, basit metin dosyalarını zengin, formül hazır elektronik tablolara dönüştürür. Excel çıktıları, biçimlendirme, grafikler, veri doğrulama ve analitikleri destekler, bu da onları iş raporlaması ve operasyonel iş akışları için uygun hale getirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown özellik listelerini sıralanabilir Excel tablolarına dönüştürme.
+
+* MD belgelerinden kaynaklanan finansal raporlar oluşturma.
+
+* Markdown tablolarını Excel veri takipçileri olarak içe aktarma.
+
+* MD tabanlı ürün kataloglarını elektronik tablo formatında hazırlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Markdown belgelerinin Excel çalışma kitaplarına dönüştürülmesi için pipeline odaklı dönüşüm.
+
+* Birden fazla departman için XLSX dosyalarının toplu olarak oluşturulması.
+
+* Sürüm kontrollü MD depolarından otomatik olarak güncellenen Excel raporları.
+
+* MD → Excel dönüşümlerinden beslenen veri mühendisliği iş akışları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

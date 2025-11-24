@@ -59,7 +59,55 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MD (Markdown) в OTP (OpenDocument Presentation Template) помогает организациям создавать многоразовые шаблоны слайдов, которые следуют единому брендингу, сохраняя при этом редактируемое содержимое, хранящееся в Markdown. Файлы OTP легкие, гибкие и идеально подходят для сред с открытым исходным кодом.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание брендированных шаблонов OTP из содержимого Markdown.
+
+* Создание многоразовых шаблонов лекций на основе контуров уроков MD.
+
+* Единая структура слайдов для НПО и академических учреждений.
+
+* Преобразование документации Markdown в унифицированные шаблоны презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое создание шаблонов OTP из версионируемого MD.
+
+* Массовое производство шаблонов презентаций с открытым исходным кодом.
+
+* Регулярное обновление файлов OTP из репозиториев Markdown.
+
+* Шаблонные рабочие процессы для распределенных организаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

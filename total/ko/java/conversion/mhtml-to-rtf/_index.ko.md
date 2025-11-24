@@ -129,7 +129,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML를 RTF (Rich Text Format)로 변환하면 텍스트 서식을 보존하면서 워드 프로세서 간의 넓은 호환성을 유지합니다. RTF는 보관 목적, 보고 및 크로스 플랫폼 편집에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 서식이 보존된 웹 보고서 아카이빙.
+
+* 여러 워드 프로세서에서 웹 콘텐츠의 크로스 플랫폼 편집.
+
+* 호환성 문제없이 서식이 있는 웹 기반 문서 공유.
+
+* 온라인 소스에서 스타일이 적용된 텍스트로 매뉴얼이나 가이드 작성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 웹 콘텐츠 아카이빙을 위한 일정 배치 변환.
+
+* 자동화된 RTF 생성을 위한 문서 관리 시스템 통합.
+
+* RTF 입력이 필요한 레거시 시스템을 위한 자동 변환.
+
+* 보고 대시보드 및 자동화된 문서 작성을 위한 RTF 생성 트리거.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

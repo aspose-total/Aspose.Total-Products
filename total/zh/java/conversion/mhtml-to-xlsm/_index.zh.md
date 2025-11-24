@@ -49,7 +49,51 @@ otherformats: XLTX DIF TXT FODS XLAM XLTM XLSB MD SXC XLSM EXCEL TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML转换为XLSM（启用宏的Excel工作簿）可保留网络数据，同时实现高级自动化、公式和宏，用于动态报告。XLSM非常适合需要可编程电子表格的企业。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 从网页衍生的具有自动计算的财务模板。
+
+* 具有宏驱动数据更新的项目跟踪仪表板。
+
+* 交互式业务报告电子表格。
+
+* 导出到Excel宏的在线调查或KPI仪表板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为定期报告触发的MHTML到XLSM转换。
+
+* 从网络源表格自动生成宏。
+
+* 与ERP和BI系统集成，实现实时Excel报告。
+
+* 批处理多个在线仪表板到XLSM。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

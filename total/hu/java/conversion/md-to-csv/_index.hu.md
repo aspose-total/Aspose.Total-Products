@@ -47,7 +47,55 @@ A MD-fájl CSV-vé konvertálásakor vízjelet is hozzáadhat a kimeneti CSV-fá
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MD (Markdown) fájlok átalakítása CSV formátumba lehetővé teszi a csapatok számára, hogy strukturált szövegeket, táblázatokat és listákat univerzálisan kompatibilis táblázatadattá alakítsanak. A CSV fájlok ideálisak analitikai folyamatokhoz, adatbázis importokhoz és könnyűsúlyú platformfüggetlen adatcseréhez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Markdown táblázatok exportálása CSV adatkészletekké analitikához.
+
+* MD alapú árlisták importálása könyvelési eszközökbe.
+
+* Fejlesztői Markdown naplók rendezhető CSV fájlokká alakítása.
+
+* Dokumentációs táblázatok migrálása CRM és ERP rendszerekbe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* ETL feladatok, amelyek éjszakánként Markdown repository-t alakítanak át CSV formátumba.
+
+* Automatikus átalakítás a CSV bemeneteket igénylő vezérlőpultokhoz.
+
+* Tömeges exportok gépi tanulás előfeldolgozási csővezetékekhez.
+
+* Munkafolyamat-kiváltók, amelyek CSV-t állítanak elő Markdown alapú jelentésekből.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

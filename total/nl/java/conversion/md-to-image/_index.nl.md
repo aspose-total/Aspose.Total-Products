@@ -57,7 +57,55 @@ Met behulp van de API kunt u ook de uitgevoerde IMAGE-afbeelding roteren volgens
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van Markdown (MD) naar generieke afbeeldingsformaten (PNG, JPG, BMP) maakt visualisatie van tabellen, diagrammen en opgemaakte tekst mogelijk in een draagbaar, platformonafhankelijk formaat. Afbeeldingen kunnen worden ingesloten in presentaties, websites of documenten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Exporteren van Markdown-diagrammen als statische afbeeldingen voor presentaties of rapporten.
+
+* Delen van op Markdown gebaseerde grafieken op websites of blogs.
+
+* Het maken van afbeeldingen voor gebruikershandleidingen of technische gidsen.
+
+* Visuele momentopnames van Markdown-tabellen voor presentaties of PDF's.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geplande batchconversie van Markdown-inhoud naar afbeeldingen.
+
+* ETL-pipelines die visuele assets produceren uit Markdown-bestanden.
+
+* Automatische generatie van diagrammen voor documentatieportalen.
+
+* Op trigger gebaseerde afbeeldingsexport voor dashboards of rapportagesystemen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

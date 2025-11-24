@@ -47,7 +47,55 @@ otherformats: TXT XLTM FODS XLT XLSM EXCEL SXC ODS XLSB XLAM XLTX DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MD (Markdown) เป็น XLSB (Excel Binary Workbook) เหมาะสำหรับการจัดการชุดข้อมูลขนาดใหญ่อย่างมีประสิทธิภาพ ไฟล์ XLSB โหลดเร็วกว่า บีบอัดได้ดีกว่า และสนับสนุนสเปรดชีตที่ซับซ้อนโดยไม่มีภาระของ XML ที่หนักมาก
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* นำเข้าชุดข้อมูลที่ใช้ MD ขนาดใหญ่เข้าสู่สมุดงาน Excel แบบไบนารี
+
+* สร้างรายงาน XLSB ที่กระชับจากบันทึกเอกสาร
+
+* การจำลองการเงินโดยใช้ XLSB ที่สร้างจาก Markdown
+
+* สเปรดชีตที่มีประสิทธิภาพสูงที่มาจากตารางการวิเคราะห์ Markdown
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การทำงาน ETL ที่แปลง Markdown → XLSB เพื่อเพิ่มประสิทธิภาพในด้านความเร็ว
+
+* การสร้าง XLSB ขนาดใหญ่เป็นชุดสำหรับทีมวิเคราะห์ข้อมูลขององค์กร
+
+* การสร้างสมุดงานไบนารีโดยอัตโนมัติสำหรับรายงานที่มีข้อมูลมาก
+
+* กระบวนการด้านเซิร์ฟเวอร์ที่ส่งออกไฟล์ XLSB จากเนื้อหา MD
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

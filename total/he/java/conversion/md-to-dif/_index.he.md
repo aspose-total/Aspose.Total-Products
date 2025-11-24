@@ -78,7 +78,55 @@ otherformats: CSV XLSM XLTM TSV XLTX TXT XLT EXCEL XLSB FODS SXC ODS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MD (Markdown) ל־DIF (תבנית המרת נתונים) היא אידיאלית עבור מערכות ישנות וזריזות עבודה בגיליון האלקטרוני שמתבססות על נתוני טקסט מובנים בצורת שורות. קבצי DIF תומכים בתאימות עם תוכנות פיננסיות, מדעיות והנדסיות ישנות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייבוא רשומות Markdown לתוך תוכנות חשבונאות קלאסיות.
+
+* המרת טבלאות MD ל־DIF ליישומים סטטיסטיים ישנים.
+
+* העברת מסדי נתונים ישנים מתועדים ב־Markdown.
+
+* שיתוף קבצי DIF מובנים עם צוותים המשתמשים בגיליונות אלקטרוניים מסורתיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* צינורות עבודה אוטומטיים מ־Markdown ל־DIF עבור מערכות ארכיוניות.
+
+* זרימות עבודה צפופות שמזינות נתוני DIF לכלים לדיווח עסקיים עסקיים.
+
+* המרה מתוזמנת של גיליונות מלאי MD לפורמטים של DIF.
+
+* גשרי ETL עבור אקוסיסטמות תוכנה ישנות באמצעות קלטי DIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

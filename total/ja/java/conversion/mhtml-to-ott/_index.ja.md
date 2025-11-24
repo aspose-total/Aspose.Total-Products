@@ -130,7 +130,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをOTT（OpenDocument Template）に変換することで、オープンソースのオフィススイート用の再利用可能なテンプレートを作成し、Webベースのスタイリングとレイアウトの一貫性を維持できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* LibreOffice向けの企業全体の文書テンプレート。
+
+* Webベースの教育コンテンツから再利用可能な授業計画テンプレート。
+
+* 標準化されたオープンソースの提案書や契約書のテンプレート。
+
+* 協力的なコンテンツ管理のためのワークフローテンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 複数のMHTMLページからOTTテンプレートの自動生成。
+
+* LibreOfficeの自動化ツールとの統合による一括文書作成。
+
+* Webベースのコンテンツの変更からトリガーされるテンプレートの更新。
+
+* 分散チーム間での文書標準化の効率化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

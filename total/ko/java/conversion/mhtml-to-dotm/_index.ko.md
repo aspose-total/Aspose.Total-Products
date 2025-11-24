@@ -129,7 +129,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML를 DOTM(매크로 활성화 워드 템플릿)으로 변환하면 템플릿 재사용과 매크로 자동화를 결합할 수 있습니다. 이는 상호 작용 기능과 워크플로 자동화가 필요한 기업에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 포함된 매크로가 있는 자동 프로젝트 추적 템플릿.
+
+* 인사 부서를 위한 대화식 교육 및 입사 템플릿.
+
+* 웹에서 가져온 데이터와 통합된 마케팅 콘텐츠 템플릿.
+
+* 웹 대시보드에서 자동으로 채워지는 클라이언트 보고서 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* MHTML에서 DOTM 템플릿으로의 예약된 변환 파이프라인.
+
+* 반복 업무 프로세스를 위한 매크로 기반 문서 생성.
+
+* CRM 시스템 통합을 통해 고객별 템플릿 자동 채우기.
+
+* 워크플로 자동화 도구를 위한 이벤트 트리거 템플릿 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

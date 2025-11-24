@@ -47,7 +47,51 @@ otherformats: XLSB DIF XLT EXCEL XLTM TSV TXT FODS XLTX SXC XLAM MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή από MHTML σε XLAM (Excel Add-In) επιτρέπει την ενσωμάτωση αυτοματοποιημένων λειτουργιών ή εργαλείων που προέρχονται από περιεχόμενο ιστού στο Excel. Το XLAM είναι ιδανικό για προσαρμοσμένους υπολογισμούς, μακρόσκοπα αναφορές και επαναχρησιμοποιήσιμα σενάρια αυτοματοποίησης.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Προσαρμοσμένα πρόσθετα Excel που προέρχονται από διαδικτυακά πρότυπα υπολογισμών.
+
+* Εργαλεία οικονομικής πρόβλεψης που κατασκευάζονται από σύνολα δεδομένων που προέρχονται από τον ιστό.
+
+* Διαδραστικά πίνακες ελέγχου με μακρόσκοπα από τον ιστό.
+
+* Επαναχρησιμοποιήσιμα εργαλεία αυτοματοποίησης για εταιρικές αναφορές στο Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Αυτόματη δημιουργία προσθέτων XLAM από πίνακες ελέγχου MHTML.
+
+* Ενσωμάτωση σε αγωγούς αυτοματοποίησης του Excel.
+
+* Ενεργοποίηση δημιουργίας XLAM για επαναλαμβανόμενες εργασίες αναφοράς.
+
+* Παρτίδες επεξεργασίας διαδικτυακών προτύπων υπολογισμών σε πρόσθετα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

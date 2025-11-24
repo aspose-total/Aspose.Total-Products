@@ -49,7 +49,51 @@ otherformats: EXCEL XLSM TXT XLSB DIF XLT TSV ODS XLTM FODS XLAM SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML转XLTX（不带宏的Excel模板）将网页内容转换为安全、可重复使用的电子表格模板。XLTX确保一致性和协作，无需担心宏安全问题。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 企业团队的标准化报告模板。
+
+* 以可重复使用格式保存的财务和关键绩效指标仪表板。
+
+* 无需宏依赖的项目跟踪模板。
+
+* 源自网页数据的适用于协作的Excel模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从存档的MHTML表格批量生成XLTX模板。
+
+* 集成到企业模板管理系统中。
+
+* 触发模板更新以应对定期报告周期。
+
+* 用于安全、无宏工作流程的自动转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

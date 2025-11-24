@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MHTML เป็น PCL (Printer Command Language) ช่วยให้เนื้อหาบนเว็บสามารถส่งโดยตรงไปยังเครื่องพิมพ์ในรูปแบบมาตรฐาน ทำให้มั่นใจได้ว่าผลลัพธ์ของเอกสารจะสม่ำเสมอทั่วอุปกรณ์
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* พิมพ์รายงานเว็บที่ถูกเก็บถาวรบนเครื่องพิมพ์ขององค์กร
+
+* แปลงแบบฟอร์มออนไลน์และใบแจ้งหนี้เพื่อการพิมพ์โดยตรง
+
+* พิมพ์เป็นชุดของสิ่งพิมพ์การตลาดจากหน้าเว็บ
+
+* ให้ความมั่นใจในเค้าโครงเอกสารสำหรับการกระจายเอกสารขององค์กร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การแปลง MHTML เป็น PCL ตามกำหนดเวลาสำหรับงานพิมพ์อัตโนมัติ
+
+* การรวมการพิมพ์เป็นชุดสำหรับระบบเอกสารขององค์กร
+
+* การกระตุ้นเวิร์กโฟลว์สำหรับการพิมพ์ใบแจ้งหนี้ที่เชื่อมต่อกับเว็บ
+
+* การผสานกับแพลตฟอร์มอัตโนมัติในสำนักงานและเครื่องพิมพ์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,55 @@ otherformats: XLTM TSV ODS SXC TXT DIF XLAM MD XLT EXCEL XLSB XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MHTML إلى TXT (نص عادي) يستخرج جميع المحتويات النصية من الأرشيفات على الويب مع إزالة التنسيق. ملفات TXT خفيفة الوزن، مدعومة على نطاق واسع، ومثالية لفهرسة البحث، وتحليل النصوص، أو الأغراض الأرشيفية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* أرشفة محتوى الويب كنص عادي للقراءة دون اتصال.
+
+* استخراج تقارير نصية من صفحات MHTML للتحليل.
+
+* تحويل المقالات أو البرامج التعليمية عبر الإنترنت إلى TXT للرجوع السريع.
+
+* تحضير المحتوى لمعالجة النصوص، والتعلم الآلي، أو أدوات الذكاء الاصطناعي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعة MHTML إلى TXT لأرشفة الويب على نطاق واسع.
+
+* استخراج البيانات النصية من صفحات الويب بشكل مجدول للتحليل.
+
+* دمجها مع أنابيب الذكاء الاصطناعي/التعلم الآلي لمعالجة النصوص تلقائيًا.
+
+* تحويل مُشغّل لمراقبة وتقارير محتوى الويب في الوقت الحقيقي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

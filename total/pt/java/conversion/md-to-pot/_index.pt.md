@@ -59,7 +59,55 @@ presentation.save("output.pot", SaveFormat.Pot);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter Markdown (MD) para POT (Modelo do PowerPoint) oferece às empresas uma maneira de criar estruturas de slides consistentes e com a marca, provenientes de documentação de texto leve. Arquivos POT garantem uniformidade de design em várias apresentações.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Modelos de marca corporativa gerados a partir de documentos no estilo Markdown.
+
+* Estruturas de apresentação de vendas provenientes de esboços de produtos em MD.
+
+* Modelos de integração de RH criados a partir de instruções baseadas em Markdown.
+
+* Decks PAD padronizados para organizações com várias filiais.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Fluxos de trabalho CI/CD produzindo modelos POT automaticamente a partir de MD.
+
+* Geração em lote de arquivos POT para uso em toda a franquia.
+
+* Atualizações automáticas de modelos usando Markdown como única fonte de verdade.
+
+* Sistemas corporativos gerando decks POT programaticamente.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

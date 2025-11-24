@@ -57,7 +57,55 @@ Mit der API können Sie das ausgegebene TGA-Bild auch nach Ihren Bedürfnissen d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von Markdown (MD) in TGA (Targa-Bild) erstellt hochwertige Rastergrafiken, die häufig in der Videoproduktion, Spielen oder technischen Diagrammen verwendet werden. TGA unterstützt Alphakanäle und unkomprimierte Ausgabe für eine präzise Darstellung.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Export von Markdown-basierten Diagrammen für Video-Overlays oder Spielassets.
+
+* Hochauflösende Grafiken für technische Dokumentationen.
+
+* Erstellen von Alphakanal-Bildern aus Markdown-Visualisierungen.
+
+* Generierung unkomprimierter technischer Diagramme für Präsentationsmaterialien.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatische TGA-Erstellung aus Markdown-Repositories für kreative Workflows.
+
+* Stapelverarbeitung von Diagrammen für die Videoproduktion oder technische Dokumentation.
+
+* Geplante Konvertierung von Markdown-Diagrammen für Simulations- oder Spieleprojekte.
+
+* Integration mit Content-Management-Systemen zur automatischen Ausgabe von TGA-Visuals.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

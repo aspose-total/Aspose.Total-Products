@@ -81,7 +81,55 @@ otherformats: TGA PSD DXF WMF APNG SVGZ JPEG2000 EMZ WMZ IMAGE
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי Markdown (MD) לפורמט DICOM (תקשורת דיגיטלית בתמונות רפואיות) מאפשרת אינטגרציה של תיעוד טקסטואלי או הערות לתמונות רפואיות בזרימות עבודה. DICOM תומך במטא-נתונים, מבנים תקן לתמונות רפואיות, ומתאים במיוחד למערכות בתי חולים וסביבות מחקר.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* הטמעת הערות קליניות מבוססות Markdown בארכיונים של תמונות רפואיות.
+
+* יצירת תמונות חינוכיות מובנות עבור המטופל עם תוכן Markdown.
+
+* אינטגרציה של תיעוד מחקר למערכות תמונות DICOM-תקן.
+
+* אחסון הערות מבוססות טקסט לצד תמונות רדיולוגיה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת MD ל-DICOM אוטומטית עבור מערכות תיעוד בבתי חולים.
+
+* עיבוד רצף של קבצי Markdown קליניים לאינטגרציה עם רשומות בריאות אלקטרוניות.
+
+* צינורות המרה מתוזמנים שמזינים ארכיונים של DICOM.
+
+* עיבוד גרפי של דוחות Markdown לצד נתוני תמונה לסיוע באבחון מוסכם על ידי AI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -135,7 +135,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MHTML إلى XAML (لغة ترميز تطبيقات قابلة للتوسيع) يمكن أن يحول الرسومات الناقلة وواجهة المستخدم على الويب إلى مكونات واجهة مستخدم قابلة للتكبير متوافقة مع نظام التشغيل Windows.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل الرسوم التخطيطية على الويب إلى XAML لتطبيقات WPF.
+
+* أرشفة تخطيطات واجهة المستخدم على الويب لتطوير البرمجيات.
+
+* إعداد لوحات تحكم تفاعلية لتطبيقات سطح المكتب.
+
+* استخراج الرسومات الناقلة لمشاريع واجهة المستخدم على Windows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي لمحتوى MHTML إلى XAML لتطوير التطبيقات.
+
+* خطوط أنابيب مجدولة لتحويل نماذج واجهة المستخدم على الويب.
+
+* توليد XAML مُشغّل لتكامل تطبيقات WPF.
+
+* أرشفة آلية لمحتوى الرسومات الناقلة على الويب لفرق البرمجيات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

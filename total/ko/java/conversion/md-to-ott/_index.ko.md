@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 OTT (OpenDocument Text Template)으로 변환하면 오픈 소스 오피스 스위트를 위한 확장 가능한 템플릿 생성을 지원합니다. OTT 템플릿은 일관된 서식을 유지하면서 팀이 안정적인 스타일 기반에서 여러 문서를 생성할 수 있도록 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 다국어 문서 제작을 위한 OTT 템플릿 생성.
+
+* Markdown 기반 가이드라인에서 구조화된 보고서 템플릿 작성.
+
+* 오픈 소스 환경을 위한 사무 문서 표준화.
+
+* 비정부 기관이나 공공 기관을 위한 재사용 가능한 ODT 문서 형식 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 오픈 소스 게시 워크플로에서 자동화된 OTT 생성.
+
+* Markdown 버전 관리에서 동기화된 템플릿 업데이트 롤링.
+
+* LibreOffice를 사용하여 분산 팀을 위한 일괄 템플릿 세트 생성.
+
+* 일정에 따라 OTT 템플릿을 생성하는 정부 또는 비영리 시스템.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

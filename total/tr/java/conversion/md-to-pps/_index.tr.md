@@ -59,7 +59,55 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) ile PPS (PowerPoint Sunum) dönüşümü, hafif içeriği otomatik çalışan sunum dosyalarına dönüştürmek için idealdir. PPS doğrudan bir slayt gösterisi olarak açılır, bu da kiosklar, ekranlar ve döngüsel sunumlar için mükemmel hale getirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown notlardan döngüsel kiosk sunumları oluşturma.
+
+* MD açıklamalardan oluşturulan otomatik çalışan ürün ekranları.
+
+* MD programlarından kaynaklanan slayt tabanlı etkinlik ekranları.
+
+* Müze, perakende veya fuar ekranları doğrudan Markdown'tan oluşturulmuş.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Dijital işaretler için PPS slayt gösterilerinin toplu üretilmesi.
+
+* Etkinlik yönetimi ekipleri için Otomatik MD'den PPS'ye boru hatları.
+
+* Markdown duyurularından zamanlanmış slayt gösterisi oluşturma.
+
+* Döngüsel sunum dosyalarının panelden yönlendirilmiş üretilmesi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

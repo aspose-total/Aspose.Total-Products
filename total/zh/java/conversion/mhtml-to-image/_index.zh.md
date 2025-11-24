@@ -57,7 +57,51 @@ otherformats: WMF TGA JPEG2000 WMZ DXF SVGZ EMZ IMAGE PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML转换为图像（JPEG、PNG、BMP等），从Web存档中提取静态视觉内容，用于演示文稿、网站或印刷媒体。图像转换保留布局和图形质量。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从在线目录中提取产品图片。
+
+* 存档网页图表和信息图表以供报告使用。
+
+* 将网页图表转换为高分辨率图像，用于演示文稿。
+
+* 为博客和社交媒体帖子创建视觉内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从MHTML文件中批量提取图像，用于营销活动。
+
+* 集成到自动化的网络到印刷工作流程中。
+
+* 触发式转换，用于动态仪表板或报告。
+
+* 定时生成图像，用于教育或教程内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

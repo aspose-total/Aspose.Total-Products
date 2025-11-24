@@ -59,7 +59,55 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (마크다운)를 PPSX (PowerPoint 슬라이드 쇼)로 변환하면 전체 화면 모드로 직접 열리는 현대적인 슬라이드 쇼 파일이 생성됩니다. PPSX는 기업, 소매 및 이벤트 환경에서 자동 실행 프레젠테이션에 널리 사용됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* MD 노트에서 가져온 자동 재생 세일즈 프레젠테이션.
+
+* 마크다운 콘텐츠로 생성된 기업 로비 스크린.
+
+* MD 기반 일정 또는 안건에서 구축된 이벤트 슬라이드 루프.
+
+* 마크다운 설명에서 파생된 연속 제품 데모.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 간판 및 디스플레이 보드용 자동화된 PPSX 워크플로우.
+
+* 마크다운 이벤트 스크립트로부터 예약된 슬라이드쇼 생성.
+
+* 소매 매장 전체에서 사용하기 위한 일괄 PPSX 생성.
+
+* 디지털 간판 플랫폼 내 MD에서 PPSX로 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

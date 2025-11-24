@@ -59,7 +59,55 @@ presentation.save("output.pot", SaveFormat.Pot);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น POT (PowerPoint Template) ช่วยธุรกิจในการสร้างเทมเพลตสไลด์ที่สม่ำเสมอและมีแบรนด์จากเอกสารข้อความที่มีน้ำหนักเบา ไฟล์ POT ช่วยให้การออกแบบเป็นไปอย่างเป็นระเบียบทั่วการนำเสนอหลายรายการ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* เทมเพลตการจัดแบรนด์ขององค์กรที่สร้างจากเอกสารสไตล์ Markdown
+
+* เฟรมเวิร์กการนำเสนอการขายที่มาจากเอกสารผลิตภัณฑ์ MD
+
+* เทมเพลตการบริหารทรัพยากรบุคคลที่สร้างจากคำสั่งที่มีข้อความแบบ Markdown
+
+* เด็ก POT มาตรฐานสำหรับองค์กรที่มีสาขาหลายแห่ง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* กระบวนการทำ CI/CD ที่สร้างเทมเพลต POT โดยอัตโนมัติจาก MD
+
+* การสร้างไฟล์ POT จำนวนมากสำหรับการใช้ทั่วทั้งในฟรานไชส์
+
+* การอัพเดทเทมเพลตโดยอัตโนมัติโดยใช้ Markdown เป็นแหล่งข้อมูลที่ถูกต้อง
+
+* ระบบองค์กรที่สร้างเด็ก POT โดยโปรแกรมอย่างอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

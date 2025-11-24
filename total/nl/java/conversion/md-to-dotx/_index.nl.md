@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van Markdown (MD) naar DOTX (Word-sjabloon zonder macro's) is ideaal voor het produceren van strakke, consistente en herbruikbare lay-out sjablonen. DOTX behoudt ontwerpelementen terwijl teams inhoud kunnen bijwerken vanuit lichtgewicht Markdown-bestanden in versiebeheerde omgevingen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Bedrijfsbranding sjablonen afkomstig van MD-documentatie.
+
+* Gestandaardiseerde trainingsbladen gebouwd vanuit Markdown-documentatie.
+
+* Sjabloon-gebaseerde marketingbrochures oorspronkelijk opgesteld in MD.
+
+* Gestructureerde academische papiersjablonen gegenereerd uit Markdown-bronnen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde DOTX-generatie via CI/CD voor documentatieteams.
+
+* Opnieuw genereren van gestandaardiseerde Word-sjablonen uit repository MD-bestanden.
+
+* Batchverwerking van Markdown-repositories in kant-en-klare DOTX-indelingen.
+
+* Uniforme sjablooncreatie voor organisaties met meerdere eenheden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

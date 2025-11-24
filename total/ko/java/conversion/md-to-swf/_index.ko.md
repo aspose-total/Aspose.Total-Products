@@ -59,7 +59,55 @@ presentation.save("output.swf", SaveFormat.Swf);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 SWF (Shockwave Flash)로 변환하면 텍스트, 다이어그램 및 차트를 대화식 플래시 애니메이션으로 변환할 수 있습니다. SWF는 기존 교육 콘텐츠, 튜토리얼 및 애니메이션 웹 프레젠테이션에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Markdown 튜토리얼을 대화식 SWF 콘텐츠로 변환하기.
+
+* Markdown에서 생성된 e-러닝 모듈용 애니메이션 다이어그램.
+
+* 웹 전달용 기존 Flash 기반 프레젠테이션.
+
+* 교육 플랫폼에 대화식 Markdown 시각 자료 임베딩.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 온라인 교육 자료용 자동화된 Markdown-to-SWF 파이프라인.
+
+* MD 콘텐츠를 대화식 플래시 파일로 일괄 변환.
+
+* Markdown에서 파생된 SWF 학습 모듈에 대한 예약된 업데이트.
+
+* 웹 기반 기존 플랫폼용 SWF 시각 자료 생성 트리거.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

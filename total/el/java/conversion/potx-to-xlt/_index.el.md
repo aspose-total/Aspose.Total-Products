@@ -61,7 +61,51 @@ otherformats: TSV XLAM EXCEL FODS ODS XLS DIF XLTM XLSX SXC MHTML MARKDOWN XLTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή **POTX σε XLT** δημιουργεί αρχεία προτύπων Excel από σχέδια παρουσιάσεων, ιδανικά για τυποποιημένες διατάξεις φύλλων εργασίας σε ομάδες.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Δημιουργία συνεπών εταιρικών προτύπων φύλλων εργασίας.
+
+* Μετατροπή σχεδίων διαφανειών με εταιρικό λογότυπο σε επαναχρησιμοποιήσιμες μορφές Excel.
+
+* Δημιουργία δομημένων αρχείων αναφοράς από πίνακες POTX.
+
+* Προετοιμασία βιβλιοθηκών προτύπων για εκπαίδευση ή ενσωμάτωση.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Παραγωγή προτύπων πακέτων για τεκμηρίωση επιχειρήσεων.
+
+* Ενημερώσεις XLT με βάση την αναθεώρηση του σχεδιασμού.
+
+* Προγραμματισμένη εξαγωγή για επαναλαμβανόμενη τμηματική αναφορά.
+
+* Ενσωμάτωση με συστήματα αυτοματισμού ροών εργασίας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

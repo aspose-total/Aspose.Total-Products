@@ -57,7 +57,55 @@ API'yi kullanarak, çıktı JPEG2000 görüntüsünü ihtiyaçlarınıza göre d
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını JPEG2000'e dönüştürmek, yüksek çözünürlüklü, kayıpsız görüntü ihracatına olanak tanır. Teknik çizimler, büyük diyagramlar veya detay korumanın önemli olduğu arşiv amaçlı idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown grafiklerini yüksek çözünürlüklü teknik görüntülere dönüştürme.
+
+* Kalite kaybı olmadan Markdown'dan karmaşık diyagramları arşivleme.
+
+* Detaylı görseller içeren yazdırılabilir belgeler hazırlama.
+
+* Markdown notlarından oluşturulan bilimsel çizimler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Yüksek kaliteli depolama için Markdown diyagramlarının otomatik olarak JPEG2000'e dönüştürülmesi.
+
+* Araştırma veya mühendislik ekipleri için toplu işleme.
+
+* Kayıpsız görüntü formatlarını gerektiren yayınlama iş akışlarıyla entegrasyon.
+
+* JPEG2000 arşivlerinde Markdown'dan türetilen görsellerin zamanlanmış güncellemeleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

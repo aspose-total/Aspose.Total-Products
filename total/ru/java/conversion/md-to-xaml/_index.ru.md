@@ -59,7 +59,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование Markdown (MD) в XAML (Extensible Application Markup Language) преобразует текстовое содержимое в векторную графику пользовательского интерфейса или интерактивные компоненты для приложений Windows. XAML поддерживает точные макеты, масштабируемую визуализацию и интеграцию с современными фреймворками приложений.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Отображение диаграмм Markdown как компонентов пользовательского интерфейса в приложениях WPF.
+
+* Создание интерактивных векторных иллюстраций для настольных приложений.
+
+* Преобразование таблиц и диаграмм документации в графику XAML.
+
+* Встраивание содержимого Markdown в виде масштабируемой визуализации в программные интерфейсы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированное создание XAML из MD для программных конвейеров пользовательского интерфейса.
+
+* Пакетная обработка заметок Markdown в векторные компоненты XAML.
+
+* Плановое преобразование для рабочих процессов документации в пользовательский интерфейс.
+
+* Вызываемое отображение диаграмм Markdown в XAML для интерактивных приложений.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,55 @@ otherformats: IMAGE WMZ WMF SVGZ  TGA JPEG2000 DXF EMZ PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل ملفات التنسيق Markdown (MD) إلى APNG (PNG متحرك) يمكن أن يسمح بتحويل الرسوم التخطيطية والرسوم البيانية والرسوم التوضيحية القائمة على النص إلى رسوم متحركة. يحافظ APNG على جودة الرسوم المتجهة مع إضافة الحركة، مما يجعله مثاليًا للعروض التقديمية والبرامج التعليمية والوثائق التفاعلية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* رسوم توضيحية متحركة للوثائق التقنية.
+
+* برامج تعليمية تفاعلية تظهر سير العمل القائم على Markdown خطوة بخطوة.
+
+* رسوم تسويقية ديناميكية تم تحويلها من رسوم Markdown.
+
+* محتوى تعليمي متحرك لوحدات التعلم عبر الإنترنت.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* تحويل دفعي من MD إلى APNG لبوابات الوثائق التلقائية.
+
+* التكامل مع أنابيب ETL لإنشاء رسوم متحركة من Markdown.
+
+* رسوم بيانية تفاعلية تحدث تلقائيًا في أنظمة إدارة التعلم.
+
+* عملية التقديم المُشغَّلة للواجهات البيانية المدعومة بالذكاء الاصطناعي التي تحول Markdown إلى رسوم متحركة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

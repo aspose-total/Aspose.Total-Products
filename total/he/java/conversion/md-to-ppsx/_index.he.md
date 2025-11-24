@@ -72,7 +72,55 @@ otherformats: POTX PPSM POWERPOINT POT SWF PPS POTM PPT XAML ODP OTP PPTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MD (Markdown) ל-PPSX (PowerPoint Slideshow) יוצרת קבצי מצגת מודרניים שנפתחים ישירות במצב מסך מלא. PPSX משמש בצורה נרחבת למצגות שמתנהלות באופן אוטומטי בסביבות תעסוקתיות, מסחריות ואירועים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* מצגות מכירות שמתנגנות באופן אוטומטי מהערות MD.
+
+* מסכי קבלה תעשייתיים שנוצרים מתוך תוכן Markdown.
+
+* לולאות שקופיות לאירועים שנבנו מתוך סידורי זמנים או סדרי יום בעזרת MD.
+
+* הצגות מוצרים רציפות שנובעות מתיאורים ב-Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* זרימות עבודה אוטומטיות של PPSX ללוחות תצוגה ולוחות מודעות.
+
+* יצירת מצגות מתוזמנות מתוך סקריפטים של אירועים ב-Markdown.
+
+* יצירת PPSX בצורה ציקלית לשימוש ברשתות מזון.
+
+* המרות MD ל-PPSX בתוך פלטפורמות תצוגה דיגיטליות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

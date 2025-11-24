@@ -47,7 +47,55 @@ Ao converter o arquivo MD para XLT, você também pode adicionar marca d'água a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A conversão de MD (Markdown) para XLT (Excel Template) permite que as equipes gerem modelos de Excel reutilizáveis com formatação e layout consistentes. Os arquivos XLT ajudam as organizações a padronizar a criação de documentos mantendo o conteúdo de origem em Markdown.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Construção de modelos de relatórios estruturados a partir de diretrizes de MD.
+
+* Produção de modelos de planilhas com a marca da empresa.
+
+* Conversão de SOPs em Markdown em modelos de Excel prontos para uso.
+
+* Planilhas de entrada de dados baseadas em modelos provenientes de playbooks de MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Regeneração automatizada de modelos XLT a partir de MD controlado por versão.
+
+* Criação em lote de modelos para departamentos empresariais.
+
+* Construção de modelos orientada por ETL para necessidades de relatórios estruturados.
+
+* Fluxos de distribuição de modelos baseados em franquias ou filiais.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

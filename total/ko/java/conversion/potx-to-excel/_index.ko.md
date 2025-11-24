@@ -61,7 +61,55 @@ POTX 파일을 EXCEL로 변환하는 동안 출력 EXCEL 파일 형식에 워터
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**POTX를 EXCEL로 변환**하면 PowerPoint 템플릿 콘텐츠가 네이티브 Excel 워크북으로 변환되어 레이아웃 데이터, 테이블 구조 및 메타데이터를 스프레드시트 내에서 재활용할 수 있게 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 슬라이드 템플릿 테이블을 편집 가능한 Excel 문서로 변환하기.
+
+* 기업 보고용 재사용 가능한 데이터 모델 준비하기.
+
+* 구조화된 Excel 시트를 위한 콘텐츠 자리 표시자 추출하기.
+
+* 프로젝트 또는 팀 문서 작성을 위해 템플릿 요소 사용하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 대규모 POTX 템플릿 저장소에서 일괄 EXCEL 생성하기.
+
+* 표준화된 슬라이드 템플릿에서 반복적인 Excel 보고서 생성하기.
+
+* 템플릿이 업데이트될 때 트리거 기반 변환하기.
+
+* 추출된 Excel 데이터를 BI 대시보드에 공급하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

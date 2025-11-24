@@ -47,7 +47,51 @@ MHTML 파일을 SXC로 변환하는 동안 출력 SXC 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML를 SXC(StarOffice 스프레드시트)로 변환하면 레거시 StarOffice 사용자가 호환 가능한 스프레드시트 형식으로 웹 데이터를 보존할 수 있습니다. 오래된 오피스 스위트 워크플로 및 역사적 아카이브 요구에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 레거시 StarOffice 환경을 위한 웹 생성 테이블 아카이빙.
+
+* 오래된 및 현대적 오피스 스위트 간의 스프레드시트 템플릿 공유.
+
+* 기업 감사를 위한 역사적 데이터 보고.
+
+* 연구 분석을 위해 온라인 설문 결과를 SXC로 이관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 웹 기반 SXC 보고를 위한 예약된 변환 파이프라인.
+
+* MHTML 테이블의 레거시 스프레드시트 형식으로의 일괄 처리.
+
+* 규정 준수를 위한 자동 아카이빙.
+
+* SXC 입력이 필요한 레거시 오피스 시스템과의 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

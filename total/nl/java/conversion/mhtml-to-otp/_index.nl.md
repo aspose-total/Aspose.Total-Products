@@ -121,7 +121,51 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van MHTML naar OTP (OpenDocument Presentation Template) maakt het mogelijk om herbruikbare presentatiesjablonen te maken van webinhoud. OTP is ideaal voor bedrijven of docenten die consistente diaformaten nodig hebben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Gestandaardiseerde bedrijfspresentatiesjablonen afgeleid van webgegevens.
+
+* Educatieve collegesjablonen gegenereerd uit online bronnen.
+
+* Marketingcampagnesjablonen met op web gebaseerde branding.
+
+* Herbruikbare projectupdate- of KPI-dashboardsjablonen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde generatie van OTP-sjablonen uit gearchiveerde MHTML-inhoud.
+
+* Getriggerde sjablooncreatie voor terugkerende presentatiebehoeften.
+
+* Integratie in workflowtools voor gestandaardiseerde dia-decks.
+
+* Batchverwerking van webinhoud naar herbruikbare presentatieformaten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

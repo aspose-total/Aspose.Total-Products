@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MHTML в DOT (шаблон Word) позволяет повторно использовать веб-контент в качестве шаблонов для создания последующих документов. Файлы DOT позволяют бизнесу и специалистам поддерживать стандартизированный формат и стиль в нескольких отчетах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Стандартизированные шаблоны предложений для клиентов на основе веб-данных.
+
+* Многократно используемые форматы повесток дня для корпоративных команд.
+
+* Генерация счетов на основе каталогов MHTML с использованием шаблонов.
+
+* Шаблоны юридических документов с использованием предварительно отформатированного контента из веб-архивов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Массовое создание шаблонов DOT из нескольких страниц MHTML.
+
+* Интеграция в системы управления документами для автоматического обновления шаблонов.
+
+* Динамическое создание шаблонов, запускаемое потоками ввода контента.
+
+* Автоматизированное форматирование и стандартизация стиля для документации крупномасштабных проектов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

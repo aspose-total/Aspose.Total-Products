@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) fájlok MHTML (Web Archive) formátummá alakítása lehetővé teszi az egész dokumentumot, beleértve a formázást, képeket és linkeket, hogy egyetlen webre kész fájlba csomagolható legyen. Az MHTML fájlok ideálisak Markdown tartalom megosztásához böngészők között, dokumentáció archiválásához és hordozható weboldalak terjesztéséhez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Markdown dokumentáció archiválása önálló weboldalként.
+
+* Hordozható jelentések létrehozása offline olvasáshoz bármely böngészőben.
+
+* Felhasználói kézikönyvek vagy műszaki útmutatók terjesztése egyetlen fájlos webarchívumként.
+
+* Markdown alapú projekt dokumentáció megőrzése beágyazott médiával.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Markdown tárolók éjszakai automatizált átalakítása MHTML formátumba webes terjesztéshez.
+
+* Belső tudásbázis dokumentumainak tömeges archiválása MHTML formátumban.
+
+* Tartalomkezelési csővezetékek integrálása MHTML fájlok létrehozásához Markdownból.
+
+* Kiváltott átalakítás CI/CD munkafolyamatokban a böngészők számára kész dokumentáció generálásához.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

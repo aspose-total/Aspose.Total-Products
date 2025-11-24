@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование Markdown (MD) в PCL (Язык управления принтером) генерирует файлы, готовые к печати и совместимые с лазерными и струйными принтерами. Преобразование PCL подходит для создания технических документов, отчетов и автоматизации рабочих процессов в среде предприятий.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Печать отчетов на основе Markdown на принтерах с поддержкой PCL.
+
+* Генерация PCL для пакетного распространения документов.
+
+* Преобразование документации Markdown в форматы, готовые к печати.
+
+* Подготовка технических инструкций для офиса или производственных рабочих процессов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Плановое пакетное преобразование файлов Markdown в PCL для предприятий.
+
+* Интеграция с серверами печати для автоматической генерации PCL из документации Markdown.
+
+* Автоматизированные печатные конвейеры, преобразующие Markdown в PCL.
+
+* Производство документов по триггеру для принтеров PCL большого объема.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

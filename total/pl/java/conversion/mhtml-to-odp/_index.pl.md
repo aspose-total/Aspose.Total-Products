@@ -121,7 +121,55 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików MHTML (archiwum internetowe) na format ODP (OpenDocument Presentation) pozwala przekształcić zawartość internetową w w pełni edytowalne slajdy do programów LibreOffice lub OpenOffice. ODP zapewnia kompatybilność między platformami i zachowuje oryginalne formatowanie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Konwertowanie treści marketingowej online na prezentacje w formacie ODP.
+
+* Moduły edukacyjne stworzone na podstawie planów lekcji dostępnych online.
+
+* Archiwizacja prezentacji firmowych pierwotnie umieszczonych na portalach internetowych.
+
+* Przekształcanie aktualizacji projektów online w profesjonalne slajdy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja wielu raportów MHTML na prezentacje w formacie ODP.
+
+* Zaplanowane generowanie slajdów prezentacji do komunikacji wewnętrznej.
+
+* Automatyczne aktualizacje treści prezentacji z żywych pulpitów internetowych.
+
+* Integracja z kolaboracyjnymi, otwartoźródłowymi przepływami pracy w prezentacjach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

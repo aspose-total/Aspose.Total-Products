@@ -47,7 +47,55 @@ MDファイルをSXCに変換するときに、出力SXCファイル形式に透
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）からSXC（StarOffice Calc）への変換は、引き続きレガシーのStarOffice/OpenOfficeスプレッドシート環境を使用している組織に利益をもたらします。SXCは、古いオフィスエコシステムと互換性のある数式、シート構造、セルの書式をサポートしています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* MarkdownテーブルをレガシーのSXCスプレッドシートに移行する。
+
+* MDベースのデータで古いエンタープライズシステムを更新する。
+
+* 古いがまだ稼働しているプラットフォーム向けのSXCファイルを生成する。
+
+* Markdownからクラシックなスプレッドシート形式にエンジニアリングログを準備する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* アーカイブ用のビジネスツール向けのバッチMDからSXCへの変換。
+
+* レガシーの政府や産業用ソフトウェア向けのETL接続。
+
+* Markdownリポジトリからの夜間SXC生成。
+
+* 互換性のあるワークフロー向けのトリガー付きSXC生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

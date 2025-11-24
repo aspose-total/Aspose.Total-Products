@@ -59,7 +59,55 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为PPT（传统PowerPoint格式）支持与旧版Microsoft Office环境兼容，同时保留幻灯片结构和格式。PPT非常适合使用经典版本PowerPoint的机构。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从MD脚本为旧工作站创建PPT幻灯片。
+
+* 学术机构使用Markdown笔记生成旧版PPT幻灯片组。
+
+* 企业档案将MD内容迁移至经典PPT格式。
+
+* 针对过时办公设置的兼容性幻灯片创建。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为旧系统支持自动生成PPT。
+
+* 批量将Markdown存档转换为PPT。
+
+* ETL过程输出经典PowerPoint文件。
+
+* 为仍在使用旧套件的政府或工业组织生成PPT。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

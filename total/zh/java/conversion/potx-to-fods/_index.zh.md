@@ -61,7 +61,51 @@ otherformats: FODS DIF XLSB XLS XLTX ODS XLSM MHTML MARKDOWN TSV XLAM EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **POTX 转换为 FODS**，将模板数据导出为平面开放文档电子表格文件，以实现在开源工具之间的最大兼容性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 在 LibreOffice 和 OpenOffice 中编辑 POTX 派生数据。
+
+* 准备符合政府标准的开放格式电子表格。
+
+* 创建轻量级、平台无关的数据表。
+
+* 在开放格式中存档 POTX 模板元数据。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量处理 POTX 文件，将其转换为 FODS 以供跨平台团队使用。
+
+* 定期进行开放格式导出以符合合规性或审核要求。
+
+* 与开源工作流自动化集成。
+
+* 当模板更新时，基于触发器的 FODS 转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

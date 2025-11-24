@@ -59,7 +59,55 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversión de MD (Markdown) a PPS (Presentación de PowerPoint) es ideal para convertir contenido ligero en archivos de presentación que se ejecutan automáticamente. PPS se abre directamente como una presentación de diapositivas, lo que lo hace perfecto para quioscos, pantallas y presentaciones en bucle.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* Creación de presentaciones en bucle para quioscos a partir de notas de Markdown.
+
+* Exhibiciones de productos que se ejecutan automáticamente generadas a partir de descripciones de MD.
+
+* Exhibiciones de eventos basadas en presentaciones de diapositivas obtenidas de horarios de MD.
+
+* Exhibiciones de museos, tiendas o exposiciones creadas directamente desde Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* Generación por lotes de presentaciones de diapositivas PPS para señalización digital.
+
+* Tuberías automatizadas de MD a PPS para equipos de gestión de eventos.
+
+* Creación programada de presentaciones de diapositivas a partir de anuncios de Markdown.
+
+* Generación impulsada por paneles de archivos de presentación en bucle.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

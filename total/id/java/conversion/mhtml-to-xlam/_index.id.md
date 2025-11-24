@@ -47,7 +47,51 @@ Saat mengonversi file MHTML ke XLAM, Anda juga dapat menambahkan tanda air ke fo
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konversi MHTML ke XLAM (Excel Add-In) memungkinkan penyisipan fungsi otomatis atau alat yang berasal dari konten web ke dalam Excel. XLAM ideal untuk perhitungan kustom, makro pelaporan, dan skrip otomatisasi yang dapat digunakan ulang.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Add-in Excel kustom yang dihasilkan dari template perhitungan online.
+
+* Alat peramalan keuangan yang dibangun dari kumpulan data berbasis web.
+
+* Dashboard interaktif dengan makro yang bersumber dari web.
+
+* Alat otomatisasi yang dapat digunakan ulang untuk pelaporan perusahaan di Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Pembuatan otomatis add-in XLAM dari dashboard MHTML.
+
+* Integrasi ke dalam jalur otomatisasi Excel.
+
+* Generasi XLAM yang dipicu untuk tugas laporan berulang.
+
+* Pengolahan batch template perhitungan online menjadi add-in.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

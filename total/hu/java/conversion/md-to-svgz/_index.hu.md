@@ -57,7 +57,55 @@ Az API használatával igény szerint elforgathatja a kimeneti SVGZ-képet is. A
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) átalakítása SVGZ (Tömörített SVG) formátumba skálázható vektorgrafikákat hoz létre tömörített formátumban. Ideális webgrafikákhoz, reszponzív diagramokhoz és interaktív vizualizációkhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Tömörített vektor diagramok generálása Markdown tartalomból.
+
+* Reszponzív web illusztrációk létrehozása Markdown táblázatokból.
+
+* Skálázható ikonok vagy infografikák készítése.
+
+* Tömörített vektor vizuális elemek beágyazása online dokumentációkba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Markdown-to-SVGZ konverzió tömeges végrehajtása webes közzétételhez.
+
+* Csővezeték integráció automatizált diagram generáláshoz.
+
+* Ütemezett SVGZ frissítések interaktív vezérlőpultokhoz.
+
+* Markdown diagramok tömörítése optimalizált webes formátumokba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

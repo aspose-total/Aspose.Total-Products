@@ -47,7 +47,55 @@ otherformats: XLT TSV EXCEL ODS MD XLSB XLTM DIF XLSM TXT XLTX SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML в DIF (Data Interchange Format) позволяет импортировать табличные данные с веб-страниц в устаревшие приложения электронных таблиц и специализированные статистические инструменты. DIF обеспечивает структурированные, переносимые наборы данных между платформами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Импорт исторических веб-данных в программное обеспечение для статистического анализа.
+
+* Обмен табличным веб-контентом между несовместимыми офисными пакетами.
+
+* Преобразование данных онлайн-опросов в формат DIF для академических исследований.
+
+* Архивирование корпоративных веб-приборных панелей для соблюдения требований.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Запланированное преобразование в DIF для систем отчетности устаревшего образца.
+
+* Пакетное преобразование веб-таблиц для рабочего процесса между платформами.
+
+* Автоматизированное извлечение DIF для регулярного обновления данных опросов.
+
+* Запуск генерации DIF для архивирования и аудита.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

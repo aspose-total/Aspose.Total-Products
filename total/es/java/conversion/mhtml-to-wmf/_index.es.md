@@ -57,7 +57,31 @@ Usando la API, también puede rotar la imagen WMF de salida según sus necesidad
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MHTML a WMF (Windows Metafile) convierte gráficos vectoriales web en archivos vectoriales editables de Windows. WMF es ideal para sistemas heredados y aplicaciones de oficina que requieren visuales vectoriales escalables.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* Archivar diagramas web para integración en documentos de oficina.
+* Convertir diagramas de flujo e ilustraciones para presentaciones.
+* Preparar activos vectoriales para impresión o documentación.
+* Extracción de gráficos web para informes corporativos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* Generación por lotes de WMF a partir de contenido web.
+* Extracción programada para sistemas de informes automatizados.
+* Integración en flujos de trabajo de automatización de oficina.
+* Conversión activada de gráficos vectoriales web para presentaciones.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

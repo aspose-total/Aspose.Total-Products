@@ -47,7 +47,55 @@ otherformats: ODS XLT XLTM XLSM TXT FODS XLTX XLSB DIF XLAM TSV EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ Markdown (MD) เป็นไฟล์ TXT (ข้อความธรรมดา) จะสร้างเนื้อหาเวอร์ชันที่สะอาดและเบาของเนื้อหาของคุณโดยลบการจัดรูปแบบและเครื่องหมาย. ไฟล์ TXT เข้ากันได้มากและเหมาะสำหรับการประมวลผลข้อความ, สคริปต์, และการผสานรวมกับแอปพลิเคชันที่ไม่รองรับการจัดรูปแบบ Markdown.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ส่งออกเอกสาร Markdown สำหรับการกระจายอีเมลข้อความธรรมดา.
+
+* สร้างเนื้อหาดิบสำหรับการวิเคราะห์ข้อความหรือการทำงานด้านเครื่องจักรหรือการเรียนรู้ของเครื่อง.
+
+* สร้างสำเนาที่เบาและพกพาได้ของบันทึกและเอกสาร.
+
+* แบ่งปันเนื้อหา Markdown ในสภาพแวดล้อมที่ไม่รองรับการจัดรูปแบบที่มีคุณภาพ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การแปลงไฟล์ Markdown จากคลังข้อมูลเป็นไฟล์ TXT อย่างเป็นจำนวนเพื่อการสำรองข้อมูลและการเก็บถาวร.
+
+* ท่อ ETL ที่แปลงเอกสาร Markdown เป็นไฟล์ TXT เพื่อประมวลผลโดยสคริปต์หรือเครื่องมืออัตโนมัติ.
+
+* การสร้างบันทึกข้อความธรรมดาโดยอัตโนมัติจากบันทึกโครงการที่ใช้ Markdown.
+
+* การผสานรวมกับท่อการส่งออกเนื้อหาสำหรับการส่งออก Markdown เป็นไฟล์ TXT สำหรับระบบล่าง.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

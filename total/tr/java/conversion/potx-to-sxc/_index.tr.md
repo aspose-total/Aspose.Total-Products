@@ -61,7 +61,55 @@ POTX dosyasını SXC'ye dönüştürürken, çıktı SXC dosya biçiminize de fi
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**POTX** dosyalarını SXC'ye dönüştürmek, eski veya hafif ofis paketlerini kullanan kuruluşlar için uygun olan StarOffice uyumlu elektronik tablo dosyaları üretir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Şablon tabanlı tabloları eski elektronik tablolara taşımak.
+
+* POTX içeriğini uzun vadeli kurumsal saklama için arşivlemek.
+
+* Eski ofis ortamlarıyla uyumluluğu desteklemek.
+
+* Yapılandırılmış analiz için şablondan veri çıkarma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Büyük kurumsal depolarda SXC'ye toplu dönüşüm.
+
+* Şablonlar revize edildiğinde tetiklenen SXC dışa aktarımı.
+
+* Eski veri işleme için otomatik iş akışları.
+
+* İç arşiv süreçleri için zamanlanmış dönüşüm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

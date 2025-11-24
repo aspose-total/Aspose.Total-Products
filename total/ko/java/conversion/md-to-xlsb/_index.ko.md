@@ -47,7 +47,55 @@ MD 파일을 XLSB로 변환하는 동안 출력 XLSB 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (마크다운)를 XLSB (Excel 이진 통합 문서)로 변환하면 대규모 데이터 세트를 효율적으로 처리할 수 있습니다. XLSB 파일은 더 빠르게 로드되며 더 잘 압축되며 무겁지 않은 XML 오버헤드를 사용하여 복잡한 스프레드시트를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 이진 Excel 워크북으로 대규모 MD 기반 데이터 세트를 가져오기.
+
+* 문서 로그에서 XLSB 보고서를 작성하는 것.
+
+* 마크다운에서 생성된 XLSB를 사용한 재무 모델링.
+
+* 마크다운 분석 테이블에서 가져온 고성능 스프레드시트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 속도 최적화를 위해 마크다운 → XLSB로 변환하는 ETL 워크플로우.
+
+* 기업 분석 팀을 위한 대량 XLSB 생성.
+
+* 데이터 중심 보고서를 위한 자동화된 이진 워크북 생성.
+
+* 서버 측 프로세스가 MD 콘텐츠에서 XLSB 파일을 출력.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

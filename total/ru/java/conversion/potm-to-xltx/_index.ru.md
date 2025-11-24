@@ -61,7 +61,55 @@ otherformats: ODS MHTML XLSM FODS XLT XLSX DIF XLS MARKDOWN XLTM SXC EXCEL XLSB 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **POTM в XLTX** позволяет создавать макро-независимые шаблоны Excel на основе элементов дизайна и контента, извлеченных из шаблонов PowerPoint. Шаблоны XLTX идеально подходят для масштабного распространения среди команд без ограничений по безопасности макросов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание макро-независимых шаблонов Excel на основе структур слайдов.
+
+* Создание многоразовых бизнес-форм, соответствующих брендингу презентации.
+
+* Разработка шаблонов, ориентированных на обеспечение согласованности для команд HR, финансов и проектов.
+
+* Преобразование слайдов обучения в легко заполняемые шаблоны таблиц.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое преобразование новых дизайнов POTM в шаблоны XLTX для распространения.
+
+* Интеграция создания XLTX в рабочие процессы стандартизации в офисе.
+
+* Массовое преобразование для внедрения шаблонов в несколько отделов.
+
+* Автоматический экспорт XLTX для библиотек шаблонов SaaS или облачных сервисов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

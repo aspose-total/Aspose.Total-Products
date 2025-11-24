@@ -130,7 +130,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή αρχείων MHTML (web archive) σε MARKDOWN (.md) επιτρέπει στο περιεχόμενο του web να μετατραπεί σε ελαφρύ, ευανάγνωστο και φορητό κείμενο κατάλληλο για ιστοσελίδες, blogs και τεκμηρίωση προγραμματιστών. Το Markdown διατηρεί τη δομή του περιεχομένου όπως τίτλους, συνδέσμους, λίστες και αποσπάσματα κώδικα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Μετατροπή οδηγιών web σε Markdown για τεκμηρίωση προγραμματιστών.
+
+* Αρχειοθέτηση περιεχομένου blog από σελίδες web σε μορφή Markdown.
+
+* Δημιουργία άρθρων βάσης γνώσεων από online εγχειρίδια.
+
+* Μετατροπή web-based αναφορών σε φορητές σημειώσεις Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή πολλαπλών σελίδων MHTML σε Markdown για γεννητές στατικών ιστοσελίδων.
+
+* Ενεργοποιημένη δημιουργία Markdown για αυτόματες ενημερώσεις περιεχομένου σε wikis προγραμματιστών.
+
+* Ενσωμάτωση με αγωγούς CI/CD για μετατροπή περιεχομένου web σε τεκμηρίωση.
+
+* Αυτοματοποιημένη εξαγωγή web-based αναφορών για βάσεις γνώσεων βασισμένες σε Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

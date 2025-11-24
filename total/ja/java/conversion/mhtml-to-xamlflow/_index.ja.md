@@ -144,7 +144,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをXAMLFLOWに変換することで、Webコンテンツやベクターアセットを使用して、XAMLベースのフローアプリケーションを介してインタラクティブなワークフローやUIオートメーションに使用できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* Webダイアグラムやグラフィックを自動化されたXAMLワークフローに統合する。
+
+* Windowsオートメーションシステム向けのインタラクティブWebコンテンツのアーカイブ。
+
+* UI駆動型プロセス自動化のためのWebベースのダッシュボードの準備。
+
+* フローベースのデスクトップアプリケーション向けのWebフォームやコントロールの変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* UIオートメーションパイプライン用のバッチMHTMLからXAMLFLOWへの変換。
+
+* ダッシュボードやインタラクティブWebアセットのトリガー更新。
+
+* RPA（Robotic Process Automation）ワークフローへの統合。
+
+* 企業向けアプリケーション用のWeb UIコンポーネントの定期的な抽出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

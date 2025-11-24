@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi Markdown (MD) sang XAMLFLOW cho phép tạo ra các biểu đồ tương tác dựa trên luồng và bố cục ứng dụng bằng cách sử dụng đánh dấu XAML. Lý tưởng cho việc trực quan hóa phần mềm, tạo mẫu giao diện người dùng và tài liệu quy trình làm việc.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xây dựng biểu đồ luồng tương tác từ tài liệu Markdown.
+
+* Tạo mẫu quy trình ứng dụng WPF bằng nội dung Markdown.
+
+* Dịch ghi chú quy trình kỹ thuật thành hình ảnh XAMLFlow.
+
+* Nhúng các quy trình được tạo từ Markdown vào xem trước ứng dụng tương tác.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Các đường ống tự động MD-to-XAMLFLOW cho các nhóm phát triển.
+
+* Tạo ra hàng loạt các luồng tương tác từ ghi chú Markdown.
+
+* Cập nhật định kỳ biểu đồ quy trình trong tài liệu phần mềm.
+
+* Tích hợp với CI/CD để chuyển đổi các đề cương quy trình Markdown thành các thành phần XAMLFLOW.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

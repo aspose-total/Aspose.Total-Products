@@ -57,7 +57,55 @@ Usando a API, você também pode girar a imagem APNG de saída conforme suas nec
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converter arquivos Markdown (MD) para APNG (Animated PNG) permite a transformação de diagramas, gráficos e ilustrações baseados em texto em visuais animados. O APNG preserva a qualidade vetorial ao adicionar movimento, ideal para apresentações, tutoriais e documentação interativa.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Diagramas de processos animados para documentação técnica.
+
+* Tutoriais interativos mostrando fluxos de trabalho passo a passo baseados em Markdown.
+
+* Visuais de marketing dinâmicos convertidos de gráficos Markdown.
+
+* Conteúdo educacional animado para módulos de aprendizagem online.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de MD para APNG para portais de documentação automatizada.
+
+* Integração com pipelines ETL para gerar gráficos animados a partir de Markdown.
+
+* Visuais interativos atualizados automaticamente em sistemas de gerenciamento de aprendizagem.
+
+* Renderização acionada para painéis alimentados por IA convertendo Markdown em animações.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

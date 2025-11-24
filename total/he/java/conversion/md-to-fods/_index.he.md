@@ -78,7 +78,55 @@ otherformats: XLAM TSV SXC XLTX ODS CSV DIF XLSM XLTM XLSB TXT EXCEL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MD (Markdown) ל־FODS (Flat OpenDocument Spreadsheet) יוצרת קבצי גיליון עריכים באמצעות XML המושאלים לסוויטות משרד קוד פתוח. FODS שומר על מבני תאים, נוסחאות ועיצוב בפריסה טקסטואלית מלאה, ידידותית לגרסאות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* ייצוא קבוצות נתונים של Markdown לתבניות גיליון בקוד פתוח.
+
+* יצירת קבצי FODS מובנים עבור משתמשי LibreOffice.
+
+* יבוא טבלאות MD לגיליונות טקסט פשוטים ב־XML עבור צוותי פיתוח.
+
+* שמירה על ארכיוני גיליונות בפורמט שניתן לקריאה בטקסט.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרה בצורת צפיפות ל־FODS לשקיפות בבקרת גרסאות.
+
+* שילוב של MD-to-FODS בתוך צינורות ETL בקוד פתוח.
+
+* יצירת גיליונות עבור תיעוד של ממשל או עמותה באופן אוטומטי.
+
+* יצירת FODS על בסיס טריגרים בתהליכי תיעוד רציפים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

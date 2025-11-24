@@ -79,7 +79,55 @@ otherformats: CSV SXC ODS XLTM XLTX FODS XLSM DIF XLSB XLAM EXCEL TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Конвертація MD (Markdown) в XLT (Excel Template) дозволяє командам створювати шаблони Excel зі сталим оформленням та макетом. Файли XLT допомагають організаціям стандартизувати створення документів, зберігаючи вихідний вміст у Markdown.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Створення структурованих шаблонів звітності з директив MD.
+
+* Виготовлення шаблонів таблиць з логотипом компанії.
+
+* Конвертація Markdown SOPs в готові до використання шаблони Excel.
+
+* Шаблони для введення даних на основі плейбуків MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Автоматизоване відтворення шаблонів XLT з версійно-контрольованих MD.
+
+* Пакетне створення шаблонів для підрозділів підприємства.
+
+* Побудова шаблонів для структурованої звітності на основі ETL.
+
+* Розподіл шаблонів на основі франшиз або філій.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

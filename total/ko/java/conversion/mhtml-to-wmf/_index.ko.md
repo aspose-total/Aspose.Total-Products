@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 WMF 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML를 WMF(Windows Metafile)로 변환하면 웹 벡터 그래픽을 편집 가능한 Windows 벡터 파일로 변환할 수 있습니다. WMF는 확장 가능한 벡터 시각 자가 필요한 레거시 시스템 및 오피스 응용 프로그램에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 오피스 문서 통합을 위한 웹 다이어그램 아카이빙.
+
+* 프레젠테이션을 위한 플로차트 및 일러스트레이션 변환.
+
+* 인쇄 또는 문서 작성을 위한 벡터 자산 준비.
+
+* 기업 보고서를 위한 웹 그래픽 추출.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 웹 콘텐츠로부터 일괄 WMF 생성.
+
+* 자동 보고 시스템을 위한 예약된 추출.
+
+* 오피스 자동화 워크플로에 통합.
+
+* 프레젠테이션을 위한 웹 벡터 그래픽의 트리거 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

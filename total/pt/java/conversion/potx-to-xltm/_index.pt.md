@@ -61,7 +61,51 @@ Ao converter o arquivo POTX para XLTM, você também pode adicionar marca d'águ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Convertendo **POTX para XLTM** gera modelos de Excel habilitados para macro perfeitos para relatórios de negócios dinâmicos e recorrentes construídos a partir de estruturas de design de apresentações.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Criando modelos de relatórios com macro a partir de layouts de slides.
+
+* Automatizando fluxos de trabalho da equipe por meio de formatos padronizados do Excel.
+
+* Desenvolvendo planilhas interativas de entrada de dados com base no conteúdo do POTX.
+
+* Produzindo modelos flexíveis para RH, finanças ou operações.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Geração em lote de XLTM para relatórios de vários departamentos.
+
+* Atualizações de modelos acionadas por gatilhos quando os designs do POTX são atualizados.
+
+* Integração com ferramentas de automação do Excel corporativo.
+
+* Exportações programadas para ciclos de desempenho recorrentes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -73,7 +73,55 @@ otherformats: DOTM PS XAMLFLOW RTF MARKDOWN FLATOPC OTT PCL DOT WORDML ODT MHTML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення файлів MD (Markdown) у файли DOCM (Word Macro-Enabled Documents) дозволяє командам покращити легкі текстові файли інтерактивними функціями автоматизації. Файли DOCM підтримують вбудовані макроси, що робить їх ідеальними для документації, корпоративних шаблонів та автоматично генерованих звітів, які потребують динамічних дій у Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Конвертація розробницьких нотаток Markdown у макро-підтримані SOPs.
+
+* Документи з політикою з можливістю автоматичних дій для корпоративних робочих процесів.
+
+* Інтерактивні шаблони пропозицій, побудовані на основі MD файлів, збережених у Git.
+
+* Макро-підтримані журнали аудиту, згенеровані на основі змінних журналів Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Запланована конвертація MD у DOCM для команд відповідності.
+
+* ETL-канали, що виробляють макро-підтримані звіти Word з Markdown.
+
+* Робочі процеси CI/CD, що відновлюють документи DOCM з вмісту сховища.
+
+* Автоматизована документація, спровокована макросами, для інженерних відділів.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,55 @@ Saat mengonversi file MD ke XLT, Anda juga dapat menambahkan tanda air ke format
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konversi MD (Markdown) ke XLT (Excel Template) memungkinkan tim untuk menghasilkan template Excel yang dapat digunakan kembali dengan gaya dan tata letak yang konsisten. File XLT membantu organisasi untuk menstandardisasi pembuatan dokumen sambil tetap mempertahankan konten sumber dalam format Markdown.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Membangun template pelaporan terstruktur dari panduan MD.
+
+* Menghasilkan template spreadsheet bermerk perusahaan.
+
+* Mengonversi SOP Markdown menjadi template Excel siap pakai.
+
+* Lembar entri data berbasis template yang bersumber dari buku panduan MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Regenerasi otomatis template XLT dari MD yang terkontrol versinya.
+
+* Pembuatan template secara massal untuk departemen perusahaan.
+
+* Pembangunan template yang didorong oleh ETL untuk kebutuhan pelaporan terstruktur.
+
+* Alur kerja distribusi template berbasis waralaba atau cabang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

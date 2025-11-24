@@ -57,7 +57,51 @@ Met behulp van de API kunt u ook de uitgevoerde DICOM-afbeelding roteren volgens
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van MHTML (webarchief) bestanden naar DICOM (Digital Imaging and Communications in Medicine) maakt het mogelijk om webgebaseerde medische afbeeldingen, rapporten of grafieken te integreren in klinische beeldvormingsworkflows. DICOM zorgt voor compatibiliteit met PACS en medische beeldvormingssoftware.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Archiveren van webgebaseerde diagnostische afbeeldingen in DICOM-formaat.
+
+* Omzetten van online medische rapporten voor ziekenhuis-EMR-systemen.
+
+* Delen van radiologie- of echografiebeelden die zijn geëxtraheerd uit webportalen.
+
+* Integratie van klinische webgebaseerde dashboards in beeldvormingsworkflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geplande batchconversie van webgebaseerde medische inhoud naar DICOM.
+
+* Getriggerde generatie voor PACS-integratie en EMR-updates.
+
+* Geautomatiseerde archivering voor telemedicine platforms.
+
+* Integratie in door AI ondersteunde diagnostische pipelines.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

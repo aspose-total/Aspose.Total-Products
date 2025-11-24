@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 XAMLFLOW로 변환하면 XAML 마크업을 사용하여 대화형 플로우 다이어그램 및 응용 프로그램 레이아웃을 생성할 수 있습니다. 소프트웨어 시각화, UI 프로토타이핑 및 워크플로우 문서 작성에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Markdown 문서에서 대화형 플로우 다이어그램 작성.
+
+* Markdown 콘텐츠를 사용하여 WPF 응용 프로그램 워크플로우 프로토타이핑.
+
+* 기술적인 프로세스 노트를 XAMLFlow 시각화로 변환.
+
+* Markdown으로 생성된 워크플로우를 대화형 앱 미리보기에 삽입.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 개발팀을 위한 자동화된 MD-to-XAMLFLOW 파이프라인.
+
+* Markdown 노트에서 대화형 플로우 일괄 생성.
+
+* 소프트웨어 문서에서 워크플로우 다이어그램의 예약된 업데이트.
+
+* CI/CD와 통합하여 Markdown 프로세스 개요를 XAMLFLOW 구성 요소로 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

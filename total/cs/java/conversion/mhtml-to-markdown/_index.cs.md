@@ -130,7 +130,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů MHTML (webový archiv) do formátu MARKDOWN (.md) umožňuje transformaci webového obsahu do lehkého, čitelného a přenosného textu vhodného pro webové stránky, blogy a dokumentaci pro vývojáře. Markdown zachovává strukturu obsahu jako nadpisy, odkazy, seznamy a ukázky kódu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převádění webových tutoriálů do formátu Markdown pro dokumentaci pro vývojáře.
+
+* Archivace obsahu blogu z webových stránek ve formátu Markdown.
+
+* Vytváření článků v bázi znalostí z online manuálů.
+
+* Transformace webových reportů do přenosných poznámek v Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná konverze více stránek MHTML do formátu Markdown pro generátory statických stránek.
+
+* Spuštění generování Markdownu pro automatické aktualizace obsahu na vývojářských wiki.
+
+* Integrace s CI/CD potrubí pro převod webového obsahu do dokumentace.
+
+* Automatické extrahování webových reportů pro znalostní báze založené na Markdownu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

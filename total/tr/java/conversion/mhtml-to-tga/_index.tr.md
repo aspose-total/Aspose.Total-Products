@@ -57,7 +57,51 @@ API'yi kullanarak, çıktı TGA görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML'yi TGA (Targa) formatına dönüştürmek, genellikle 3D modellemede, oyunlarda veya bilimsel görselleştirmede kullanılan yüksek kaliteli raster görüntüler üretir. TGA, renk derinliğini ve alfa kanallarını gelişmiş kullanım için korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* 3D modeller veya simülasyonlar için web tabanlı dokuların çıkarılması.
+
+* Şeffaflıkla bilimsel görselleştirmelerin veya grafiklerin arşivlenmesi.
+
+* Tasarım süreçleri için web çizimlerinin TGA'ya dönüştürülmesi.
+
+* Animasyon veya oyun varlıkları için raster grafiklerin hazırlanması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Web arşiv grafiklerinden toplu TGA dönüşümü.
+
+* Çevrimiçi panolardan dokuların düzenli olarak dışa aktarılması için zamanlanmış süreçler.
+
+* Dijital varlık yönetim sistemleri için tetiklenmiş TGA oluşturma.
+
+* Animasyon veya simülasyon iş akışlarıyla entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

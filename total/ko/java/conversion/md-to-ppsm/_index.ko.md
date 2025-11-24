@@ -59,7 +59,55 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (마크다운)를 PPSM (매크로 활성화된 PowerPoint 슬라이드쇼)으로 변환하면 자동 실행 슬라이드쇼 기능과 자동화가 결합됩니다. PPSM은 시간별 콘텐츠, 동적 업데이트 및 대화형 경험을 위한 VBA 매크로를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 매크로로 구동되는 PPSM 슬라이드를 사용한 자동화된 키오스크.
+
+* MD 콘텐츠에서 설계된 대화형 훈련 루프.
+
+* 마크다운 간단 설명서에서 가져온 자동 타이밍 제품 쇼케이스.
+
+* 매크로 활성화된 슬라이드쇼를 사용한 동적 소매나 이벤트 디스플레이.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 마크다운 변경으로 트리거된 워크플로우 기반 PPSM 제작.
+
+* 기업 디스플레이 시스템을 위한 매크로 활성화된 슬라이드쇼 생성.
+
+* MD 저장소에서 키오스크 콘텐츠의 자동 업데이트.
+
+* 소매나 엑스포 체인을 위한 일괄 PPSM 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

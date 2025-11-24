@@ -72,7 +72,55 @@ otherformats: RTF OTT DOTX DOCM PS FLATOPC DOTM MARKDOWN XAMLFLOW PCL MHTML DOT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MD (Markdown) ל-WordprocessingML (WordML) מאפשרת יצירת מסמכי Word מבוססי XML מובנים המתאימים למערכות עסקיות, פלטפורמות CMS וצינורות הנדסת מסמכים. WordML מציע שליטה מדויקת על פריסת העמוד, תגי HTML וקישורי נתונים עבור מסמכים הנוצרים באופן אוטומטי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* העברת תיעוד Markdown למבנים WordML מבוססי XML.
+
+* דוחות מובנים הנוצרים מ-MD עבור מערכות מסמכים אוטומטיות.
+
+* יצירת קבצים טכניים מוכנים לקישור נתונים שנוצרו ישירות מטקסט Markdown.
+
+* פלטפורמות CMS עסקיות הממירות תוכן MD לתבניות התואמות ל-WordML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת צינור XML לקבצי Word הנוצרים על ידי המערכת.
+
+* המרות Markdown אוטומטיות המזינות למנועי מנועי מסמכים המופעלים ב-API.
+
+* יצירת ארכיונים WordML בצורה צינורית מ-Markdown במאגר.
+
+* שילוב עם זרימות עבודה לאימות לדיווחים מבוססי XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

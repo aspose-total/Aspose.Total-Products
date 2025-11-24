@@ -47,7 +47,55 @@ A MD-fájl DIF-vé konvertálásakor vízjelet is hozzáadhat a kimeneti DIF-fá
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MD (Markdown) to DIF (Data Interchange Format) konverzió ideális régi rendszerekhez és táblázatkezelő munkafolyamatokhoz, amelyek strukturált, soron alapuló szöveges adatokra támaszkodnak. A DIF fájlok támogatják a régebbi pénzügyi, tudományos és mérnöki szoftverekkel való kompatibilitást.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Markdown rekordok importálása klasszikus számviteli szoftverekbe.
+
+* MD táblázatok átalakítása DIF formátumba régebbi statisztikai alkalmazásokhoz.
+
+* Örökségi adatbázis migráció Markdown dokumentációból.
+
+* Strukturált DIF fájlok megosztása csapatokkal, akik hagyományos táblázatkezelőket használnak.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Automatizált Markdown-to-DIF csatornák archiválási rendszerekhez.
+
+* Tömeges munkafolyamatok, amelyek DIF adatokat táplálnak vállalati jelentési eszközökbe.
+
+* Ütemezett átalakítás az MD készletlapokról DIF formátumokba.
+
+* ETL hidak örökségi szoftverek ökoszisztémáihoz, DIF bemenetek használatával.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

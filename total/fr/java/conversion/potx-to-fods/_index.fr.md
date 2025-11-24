@@ -61,7 +61,51 @@ Lors de la conversion du fichier POTX en FODS, vous pouvez également ajouter un
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de **POTX en FODS** exporte les données du modèle dans des fichiers de feuille de calcul OpenDocument plats pour une compatibilité maximale avec les outils open source.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* Modification des données dérivées de POTX dans LibreOffice et OpenOffice.
+
+* Préparation de feuilles de calcul au format ouvert standard gouvernemental.
+
+* Création de feuilles de données légères et agnostiques à la plateforme.
+
+* Archivage des métadonnées du modèle POTX dans des formats ouverts.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Traitement par lots des fichiers POTX en FODS pour les équipes multiplateformes.
+
+* Exportations planifiées au format ouvert pour la conformité ou les audits.
+
+* Intégration avec l'automatisation des flux de travail open source.
+
+* Conversion FODS déclenchée par des modèles mis à jour.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

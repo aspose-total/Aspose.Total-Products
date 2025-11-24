@@ -47,7 +47,51 @@ otherformats: TSV TXT XLSB ODS DIF XLT FODS XLSM XLAM EXCEL MD SXC
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MHTML в TSV (значения, разделенные табуляцией) извлекает структурированные данные с веб-страниц в формате обычного текста, удобном для разделения. TSV идеально подходит для науки о данных, ETL-конвейеров и импорта в базы данных.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Извлечение электронной коммерции продуктов и таблиц цен для анализа.
+
+* Результаты опросов, экспортированные из веб-форм в TSV.
+
+* Архивирование табличного веб-контента для моделей машинного обучения.
+
+* Обмен структурированными наборами данных с разработчиками и инженерами данных.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование MHTML в TSV для конвейеров ИИ/МО.
+
+* Интеграция в автоматизированные рабочие процессы ETL для аналитики.
+
+* Плановое создание TSV для периодической веб-отчетности.
+
+* Триггерное экспортирование TSV для панелей управления в реальном времени.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

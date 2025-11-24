@@ -59,7 +59,55 @@ presentation.save("output.pot", SaveFormat.Pot);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование Markdown (MD) в POT (PowerPoint Template) дает бизнесу возможность создавать согласованные, брендированные слайдовые структуры, полученные из легкой текстовой документации. Файлы POT обеспечивают единообразие дизайна в нескольких презентациях.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Корпоративные шаблоны брендинга, созданные на основе документов в стиле Markdown.
+
+* Презентационные структуры для продаж, полученные из описаний продуктов в MD.
+
+* Шаблоны для ввода в должность сотрудников HR, созданные на основе инструкций в формате Markdown.
+
+* Стандартизированные наборы слайдов POT для организаций с несколькими филиалами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Рабочие процессы CI/CD, автоматически создающие шаблоны POT из MD.
+
+* Пакетная генерация файлов POT для использования на уровне франшизы.
+
+* Автоматическое обновление шаблонов с использованием Markdown в качестве единственного источника правды.
+
+* Корпоративные системы программно создающие наборы слайдов POT.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

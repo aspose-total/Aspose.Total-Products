@@ -73,7 +73,55 @@ otherformats: POTX XAML PPSM SWF POWERPOINT PPT POTM PPS POT PPSX OTP PPTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Перетворення Markdown (MD) в ODP (OpenDocument Presentation) дозволяє командам перетворити простий текстовий контент в презентації у відкритому форматі, які можна використовувати в LibreOffice Impress та інших відкритих презентаційних інструментах. ODP ідеально підходить для обміну між платформами без обмежень власності.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Перетворення навчальних записів Markdown у слайди ODP.
+
+* Презентації для класної кімнати, створені на основі планів уроків на MD.
+
+* Публікація конференційних доповідей з відкритим кодом, створених з Markdown.
+
+* Перетворення документації MD у візуально структуровані слайди ODP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* ETL-канали, що генерують файли ODP з репозиторіїв Markdown.
+
+* Пакетне створення навчальних презентацій для платформ управління навчанням.
+
+* Автоматизоване створення ODP у робочих процесах документації-як-коду.
+
+* Спровоковане перетворення MD в ODP для випусків проектів з відкритим кодом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

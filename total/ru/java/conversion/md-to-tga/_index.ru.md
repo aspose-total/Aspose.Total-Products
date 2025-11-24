@@ -57,7 +57,55 @@ API также позволяет экспортировать файл MD в TG
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование Markdown (MD) в TGA (изображение Targa) создает высококачественную растровую графику, обычно используемую в видеопроизводстве, играх или инженерных схемах. TGA поддерживает альфа-каналы и несжатый вывод для точного представления.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Экспорт диаграмм на основе Markdown для видео наложений или игровых ресурсов.
+
+* Графика высокого разрешения для инженерной документации.
+
+* Создание изображений с альфа-каналом из визуализаций Markdown.
+
+* Генерация несжатых технических диаграмм для материалов презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое создание TGA из репозиториев Markdown для творческих процессов.
+
+* Пакетный экспорт диаграмм для видеопроизводства или технической документации.
+
+* Плановое преобразование диаграмм Markdown для симуляционных или игровых проектов.
+
+* Интеграция с системами управления контентом для автоматического вывода визуальных TGA.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,55 @@ API를 사용하여 필요에 따라 출력 WMZ 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 WMZ(압축된 Windows Metafile)로 변환하면 벡터 그래픽을 소형 형식으로 공유할 수 있습니다. WMZ는 품질을 손상시키지 않고 다이어그램, 차트 및 일러스트레이션을 배포하는 데 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Markdown 다이어그램에서 압축된 벡터 일러스트레이션 생성.
+
+* 호환성 있는 그래픽을 줄인 파일 크기로 공유.
+
+* 기술 차트를 문서 또는 프레젠테이션에 포함.
+
+* Markdown에서 파생된 플로차트 및 도표 배포.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 문서 시스템을 위한 자동화된 MD-to-WMZ 변환.
+
+* Markdown 저장소에서 압축된 벡터 다이어그램 일괄 생성.
+
+* 이동 가능한 그래픽을 생성하는 ETL 파이프라인 통합.
+
+* 기업 배포를 위한 WMZ 파일의 예약된 업데이트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

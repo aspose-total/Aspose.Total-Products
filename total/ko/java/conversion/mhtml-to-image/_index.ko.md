@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 IMAGE 이미지를 회전할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML을 이미지 (JPEG, PNG, BMP 등)로 변환하여 정적 시각 자료를 웹 아카이브에서 추출하여 프레젠테이션, 웹사이트 또는 인쇄 매체에 사용합니다. 이미지 변환은 레이아웃과 그래픽 품질을 보존합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 온라인 카탈로그에서 제품 이미지 추출.
+
+* 리포팅을 위해 웹 차트 및 인포그래픽 아카이빙.
+
+* 프레젠테이션용 고해상도 이미지로 웹 다이어그램 변환.
+
+* 블로그 및 소셜 미디어 게시물을 위한 시각적 콘텐츠 작성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 마케팅 캠페인을 위한 MHTML 파일에서 일괄 이미지 추출.
+
+* 자동화된 웹투프린트 워크플로에 통합.
+
+* 동적 대시보드나 리포트용 트리거 변환.
+
+* 교육이나 튜토리얼 콘텐츠용 이미지 생성 일정화.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

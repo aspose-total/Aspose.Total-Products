@@ -57,7 +57,55 @@ Az API használatával igény szerint elforgathatja a kimeneti WMZ-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) átalakítása WMZ (Tömörített Windows Metafile) formátummá lehetővé teszi vektorgrafikák megosztását kompakt formátumban. A WMZ ideális diagramok, táblázatok és illusztrációk terjesztésére anélkül, hogy minőségüket elveszítenék.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Tömörített vektor illusztrációk létrehozása Markdown diagramokból.
+
+* Örökségkompatibilis grafikák megosztása csökkentett fájlméretekben.
+
+* Műszaki táblázatok beágyazása dokumentációkba vagy prezentációkba.
+
+* Markdownból származó folyamatábrák és sémaelképzelések terjesztése.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Automatizált MD-WMZ konverzió dokumentációs rendszerekhez.
+
+* Tömörített vektor diagramok tömeges generálása Markdown tárolókból.
+
+* Integráció ETL csövekkel, hordozható grafikákat előállítva.
+
+* Ütemezett frissítések WMZ fájlokhoz vállalati terjesztéshez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

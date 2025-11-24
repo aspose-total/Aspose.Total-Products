@@ -57,7 +57,55 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ Markdown (MD) เป็นรูปแบบ DICOM (Digital Imaging and Communications in Medicine) ช่วยให้สามารถรวมเอกสารข้อความหรือหมายเหตุลงในขั้นตอนการทำงานของระบบภาพการแพทย์ได้  DICOM รองรับเมตาดาต้า โครงสร้างการสร้างภาพมาตรฐาน และเหมาะสำหรับระบบโรงพยาบาลและสภาพแวดล้อมที่ใช้เพื่อการวิจัย
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* ฝังบันทึกคลินิกที่ใช้ Markdown เข้ากับเอกสารภาพการแพทย์
+
+* สร้างภาพการศึกษาที่มีโครงสร้างสำหรับการศึกษาผู้ป่วยด้วยเนื้อหา Markdown
+
+* รวมเอกสารการวิจัยเข้ากับชุดข้อมูลภาพที่เป็น DICOM-compliant
+
+* เก็บบันทึกที่มีข้อความเป็นข้อความพร้อมกับภาพรังสี
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การสร้าง MD-to-DICOM โดยอัตโนมัติสำหรับระบบเอกสารโรงพยาบาล
+
+* การประมวลผลเป็นชุดของไฟล์ Markdown ทางคลินิกเพื่อการรวมเข้ากับบันทึกสุขภาพอิเล็กทรอนิกส์
+
+* การสร้างท่อการแปลงตามกำหนดเวลาเพื่อเข้าสู่เอกสาร DICOM
+
+* การเรียกใช้งานการแสดงรายงาน Markdown พร้อมกับข้อมูลภาพสำหรับการวินิจฉัยที่มีการช่วยเหลือด้าน AI
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

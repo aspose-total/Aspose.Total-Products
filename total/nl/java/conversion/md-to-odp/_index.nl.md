@@ -59,7 +59,55 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van Markdown (MD) naar ODP (OpenDocument Presentation) stelt teams in staat om eenvoudige op tekst gebaseerde inhoud om te zetten in open-formaat presentatiedia's die bruikbaar zijn in LibreOffice Impress en andere open-source presentatietools. ODP is ideaal voor het delen tussen verschillende platforms zonder beperkingen van eigendomsrechten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het omzetten van Markdown-trainingsnotities in ODP-dia's.
+
+* Klassikale presentaties gemaakt van op MD gebaseerde lesplannen.
+
+* Publicatie van open-source conferentiedia's gegenereerd uit Markdown.
+
+* Het omzetten van MD-documentatie in visueel gestructureerde ODP-dia's.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* ETL-pipelines die ODP-bestanden genereren vanuit Markdown-opslagplaatsen.
+
+* Batchcreatie van educatieve presentaties voor LMS-platforms.
+
+* Geautomatiseerde ODP-productie in documentatie-als-code-workflows.
+
+* Getriggerde conversie van MD naar ODP voor releases van open-source projecten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

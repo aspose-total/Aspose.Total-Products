@@ -47,7 +47,25 @@ Lors de la conversion du fichier MD en FODS, vous pouvez également ajouter un f
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Conversion de MD (Markdown) en FODS (Feuille de calcul OpenDocument plate) 
+
+La conversion de MD (Markdown) en FODS (Feuille de calcul OpenDocument plate) produit des fichiers de feuille de calcul XML modifiables, idéaux pour les suites bureautiques open source. FODS conserve les structures de cellules, les formules et la mise en forme dans une présentation entièrement basée sur du texte, conviviale pour les différentes versions.
+
+## Cas d'utilisation clés
+
+- Exportation de jeux de données Markdown vers des formats de feuilles de calcul open source.
+- Création de fichiers FODS structurés pour les utilisateurs de LibreOffice.
+- Importation de tables MD dans des feuilles de calcul XML plates pour les équipes de développement.
+- Conservation des archives de feuilles de calcul sous forme lisible par du texte.
+
+## Scénarios d'automatisation
+
+- Conversion par lots en FODS pour une transparence de contrôle de version.
+- Intégration de MD-to-FODS dans des pipelines ETL open source.
+- Création automatisée de feuilles de calcul pour la documentation gouvernementale ou des ONG.
+- Génération de FODS basée sur des déclencheurs dans des flux de travail de documentation continus.
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

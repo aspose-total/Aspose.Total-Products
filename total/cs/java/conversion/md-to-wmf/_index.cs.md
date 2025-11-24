@@ -57,7 +57,55 @@ Pomocí API můžete také otočit výstupní obrázek WMF podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění formátu Markdown (MD) na formát WMF (Windows Metafile) produkuje vektorovou grafiku kompatibilní s staršími aplikacemi systému Windows. Soubory WMF zachovávají precizi založenou na čárách a jsou vhodné pro diagramy, grafy a schémata.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Exportování flowchartů z Markdownu pro starší aplikace systému Windows.
+
+* Převádění technických tabulek na škálovatelné diagramy ve formátu WMF.
+
+* Vkládání diagramů do starší kancelářského softwaru podporujícího formát WMF.
+
+* Zachování ilustrací založených na čárách z obsahu v Markdownu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaná generace souborů WMF pro archivační nebo kompatibilitní účely.
+
+* Hromadná konverze vizuálních prvků založených na Markdownu pro staré systémy.
+
+* Plánované aktualizace diagramů pro dokumentační portály.
+
+* Integrace s procesy produkujícími grafiku ve formátu WMF pro firemní zprávy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

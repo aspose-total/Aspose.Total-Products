@@ -57,7 +57,55 @@ API также позволяет экспортировать файл MD в DI
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование файлов Markdown (MD) в формат DICOM (Digital Imaging and Communications in Medicine) позволяет интегрировать текстовую документацию или аннотации в медицинские рабочие процессы изображений. DICOM поддерживает метаданные, стандартные структуры изображений и идеально подходит для больничных систем и исследовательских сред.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Встраивание клинических заметок на основе Markdown в медицинские архивы изображений.
+
+* Создание структурированных визуальных материалов для пациентов с использованием содержимого Markdown.
+
+* Интеграция документации исследований в наборы данных изображений, соответствующих стандарту DICOM.
+
+* Хранение текстовых аннотаций наряду с радиологическими изображениями.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое преобразование MD в DICOM для систем документации больниц.
+
+* Пакетная обработка клинических файлов Markdown для интеграции в электронные медицинские записи.
+
+* Запланированные конвертационные конвейеры, пополняющие архивы DICOM.
+
+* Активация рендеринга отчетов Markdown наряду с данными об изображениях для диагностики с помощью искусственного интеллекта.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

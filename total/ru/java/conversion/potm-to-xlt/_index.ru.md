@@ -61,7 +61,55 @@ otherformats: DIF MHTML SXC TSV ODS XLTX EXCEL XLSM XLSB FODS XLSX XLS XLTM XLT 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **POTM в XLT** позволяет использовать шаблоны презентаций для создания файлов шаблонов Excel, которые используются для создания стандартизированных рабочих листов. Это преобразование ценно для организаций, стремящихся поддерживать единообразие во всех форматах отчетности и документации.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание шаблонов Excel с брендовым стилем, основанным на дизайне слайдов.
+
+* Преобразование структуры презентаций в многоразовые формы электронных таблиц.
+
+* Создание готовых к использованию в офисе шаблонов счетов или расписаний.
+
+* Поддержание единообразия дизайна в документальных экосистемах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматическое создание шаблонов XLT из часто обновляемых файлов POTM.
+
+* Пакетное преобразование для порталов распространения корпоративных шаблонов.
+
+* Генерация шаблонов Excel с контролем версий для команд по соблюдению нормативов.
+
+* Автоматическое развертывание стандартизированных файлов XLT для крупных организаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

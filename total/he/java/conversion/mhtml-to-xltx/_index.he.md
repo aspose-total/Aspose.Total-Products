@@ -102,7 +102,51 @@ otherformats: EXCEL XLSM TXT XLSB DIF XLT TSV ODS XLTM FODS XLAM SXC
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML ל- XLTX (תבנית Excel ללא מקרו) ממיר תוכן אינטרנטי לתבניות גיליון חשבון מאובטחות וניתנות לשימוש חוזר. XLTX מבטיח עקביות ושיתוף פעולה ללא דאגות אבטחת מקרו.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים שימוש מרכזיים" %}}
+
+
+
+* תבניות דיווח תקניות לצוותים תאגידיים.
+
+* לוחות מחוונים פיננסיים ו-KPI שמורים בפורמטים ניתנים לשימוש חוזר.
+
+* תבניות מעקב פרויקטים ללא תלות במקרו.
+
+* תבניות Excel מוכנות לשיתוף פעולה המקורן בנתוני אינטרנט.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת תבניות XLTX בצורה צפופה מטבלאות MHTML מאורכות.
+
+* שילוב במערכות ניהול תבניות תאגידיות.
+
+* עדכוני תבניות מופעלים למחזורי דיווח חוזרים.
+
+* המרה אוטומטית לזרימות עבודה מאובטחות וללא מקרו.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

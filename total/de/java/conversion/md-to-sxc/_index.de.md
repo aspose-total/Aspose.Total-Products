@@ -47,7 +47,55 @@ Während Sie eine MD-Datei in SXC konvertieren, können Sie Ihrem Ausgabe-SXC-Da
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) in SXC (StarOffice Calc) umwandeln bietet Vorteile für Organisationen, die immer noch veraltete StarOffice/OpenOffice-Tabellenumgebungen verwenden. SXC unterstützt Formeln, Tabellenstrukturen und Zellformatierungen, die mit älteren Büro-Ökosystemen kompatibel sind.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Umwandlung von Markdown-Tabellen in veraltete SXC-Tabellen.
+
+* Aktualisierung älterer Unternehmenssysteme mit MD-basierten Daten.
+
+* Generierung von SXC-Dateien für veraltete, aber noch funktionierende Plattformen.
+
+* Vorbereitung von Ingenieur-Logs von Markdown in klassische Tabellenformatierungen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Stapelverarbeitung von MD zu SXC für archivierte Geschäftstools.
+
+* ETL-Verbindungen für veraltete Regierungs- oder Industriesoftware.
+
+* Nächtliche SXC-Produktion aus Markdown-Repositories.
+
+* Auslösen der SXC-Generierung für rückwärtskompatible Workflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

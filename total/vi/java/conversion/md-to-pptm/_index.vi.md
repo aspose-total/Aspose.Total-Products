@@ -59,7 +59,55 @@ presentation.save("output.pptm", SaveFormat.Pptm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MD (Markdown) sang PPTM (Macro-Enabled PowerPoint) nâng cao khả năng trình bày bằng cách kết hợp nội dung nguồn từ MD với tự động hóa dựa trên macro. Các tệp PPTM hỗ trợ việc điều chỉnh trang trình chiếu động, ràng buộc dữ liệu và tương tác theo kịch bản.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Trình bày tài chính tự động được xây dựng từ dữ liệu nguồn MD.
+
+* Bảng điều khiển động sử dụng macro được tạo từ báo cáo Markdown.
+
+* Các mô-đun đào tạo tương tác được tạo từ tài liệu MD.
+
+* Bộ bài trình chiếu kích hoạt macro được lấy từ các tệp Markdown sản phẩm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Các đường ống CI/CD tạo ra các bộ bài PPTM cho các nhóm báo cáo.
+
+* Cập nhật tự động các bài trình chiếu kích hoạt macro được lấy từ các kho.
+
+* Tạo ra hàng loạt PPTM cho các hệ thống đào tạo doanh nghiệp.
+
+* Tạo ra định kỳ bảng điều khiển dựa trên PPTM sử dụng đầu vào Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

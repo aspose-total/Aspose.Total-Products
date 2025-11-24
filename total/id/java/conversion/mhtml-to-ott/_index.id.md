@@ -130,7 +130,55 @@ Sistem Operasi apa pun yang dapat menjalankan Java Runtime Environment (JRE) dap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi MHTML ke OTT (OpenDocument Template) memungkinkan pembuatan template yang dapat digunakan kembali untuk paket aplikasi perkantoran sumber terbuka, menjaga konsistensi gaya dan tata letak berbasis web.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Template dokumen untuk seluruh perusahaan di LibreOffice.
+
+* Template rencana pelajaran yang dapat digunakan kembali dari konten pendidikan berbasis web.
+
+* Template proposal dan kontrak sumber terbuka yang terstandarisasi.
+
+* Template alur kerja untuk manajemen konten kolaboratif.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi otomatis template OTT dari beberapa halaman MHTML.
+
+* Integrasi dengan alat otomatisasi LibreOffice untuk pembuatan dokumen dalam jumlah besar.
+
+* Pembaruan template yang dipicu dari perubahan konten berbasis web.
+
+* Standarisasi dokumen yang efisien di seluruh tim yang terdistribusi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

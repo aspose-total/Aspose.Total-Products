@@ -121,7 +121,51 @@ Bất kỳ Hệ điều hành nào có thể chạy Java Runtime Environment (JR
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi các tệp MHTML (lưu trữ web) sang ODP (OpenDocument Presentation) cho phép nội dung web được chuyển đổi thành các slide có thể chỉnh sửa hoàn toàn cho LibreOffice hoặc OpenOffice. ODP đảm bảo tính tương thích trên nhiều nền tảng và bảo tồn định dạng ban đầu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi nội dung tiếp thị trực tuyến thành bộ slide ODP.
+
+* Các mô-đun giáo dục được tạo từ các kế hoạch học trực tuyến.
+
+* Lưu trữ các bản trình bày của công ty ban đầu được đặt trên cổng thông tin web.
+
+* Chuyển đổi cập nhật dự án trên web thành các slide chuyên nghiệp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt nhiều báo cáo MHTML thành các bộ slide ODP.
+
+* Tạo slide trình bày theo lịch trình cho giao tiếp nội bộ.
+
+* Cập nhật tự động nội dung trình bày từ bảng điều khiển web trực tiếp.
+
+* Tích hợp vào quy trình làm việc trình bày mã nguồn mở hợp tác.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

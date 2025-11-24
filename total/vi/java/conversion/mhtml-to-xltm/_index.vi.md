@@ -47,7 +47,51 @@ Trong khi chuyển đổi tệp MHTML sang XLTM, bạn cũng có thể thêm hì
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MHTML thành XLTM (Mẫu Excel có Macro) tạo ra các mẫu có thể tái sử dụng với tự động hóa nhúng, được tạo ra từ nội dung web. Lý tưởng cho quy trình làm việc định kỳ đòi hỏi các mẫu Excel có thể lập trình.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Mẫu ngân sách có Macro được cập nhật từ dữ liệu trực tuyến.
+
+* Mẫu báo cáo tự động cho các nhóm tài chính, nhân sự hoặc tiếp thị.
+
+* Bảng điều khiển KPI dưới dạng mẫu Excel có Macro có thể tái sử dụng.
+
+* Mẫu lập kế hoạch và theo dõi dự án được tạo ra từ bảng web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi MHTML thành XLTM theo lịch trình cho các nhiệm vụ định kỳ.
+
+* Tạo mẫu kích hoạt tích hợp vào hệ thống tự động hóa doanh nghiệp.
+
+* Xử lý hàng loạt bảng điều khiển nguồn web thành các mẫu Macro có thể tái sử dụng.
+
+* Tích hợp với các kịch bản tự động hóa Excel để báo cáo động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

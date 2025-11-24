@@ -47,7 +47,55 @@ otherformats: TXT XLT TSV ODS XLAM EXCEL XLTX DIF FODS SXC XLSB XLTM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του Markdown (MD) σε ODS (OpenDocument Spreadsheet) παρέχει μια αξιόπιστη, ανοικτού προτύπου εναλλακτική λύση στο Excel. Το ODS είναι ιδανικό για ομάδες που χρησιμοποιούν το LibreOffice ή το OpenOffice και υποστηρίζει τύπους, γραφήματα και δομημένη μορφοποίηση πινάκων.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Εισαγωγή λιστών Markdown σε πίνακες ελέγχου ODS.
+
+* Δημιουργία φύλλων ανάλυσης για περιβάλλοντα γραφείου ανοικτού κώδικα.
+
+* Δημιουργία παρακολούθησης προϋπολογισμού σε μορφή ODS από περιεχόμενο MD.
+
+* Μετατροπή τεχνικής τεκμηρίωσης MD σε δεδομένα έτοιμα για χρήση σε υπολογιστικούς πίνακες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένη δημιουργία ODS για ομάδες δεδομένων ανοικτού κώδικα.
+
+* Διασυνοριακές αγωγές που τροφοδοτούν το Markdown σε πίνακες ODS.
+
+* Μαζική μετατροπή πινάκων τεκμηρίωσης σε μορφή ODS.
+
+* Αυτοματοποιημένη δημιουργία ODS για ομάδες που χρειάζονται επεξεργάσιμους υπολογιστικούς πίνακες.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

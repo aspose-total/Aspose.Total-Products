@@ -130,7 +130,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLからRTF（リッチテキスト形式）への変換はテキストの書式を保持しつつ、Wordプロセッサー全般で広く互換性を維持します。RTFはアーカイブ用途やレポート作成、クロスプラットフォームでの編集に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 書式を保持したWebレポートのアーカイブ。
+
+* 複数のワードプロセッサーでのWebコンテンツのクロスプラットフォーム編集。
+
+* 互換性の問題なく書式付きのWebベースのドキュメントを共有。
+
+* オンラインソースからスタイル付きテキストを使用したマニュアルやガイドの作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* Webコンテンツのアーカイブ用の定期バッチ変換。
+
+* 文書管理システムへの統合によるRTF生成の自動化。
+
+* RTF入力を必要とするレガシーシステム向けの自動変換。
+
+* レポートダッシュボードや自動化されたドキュメント作成のためのトリガー付きRTF作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

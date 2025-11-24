@@ -59,7 +59,55 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversione da MD (Markdown) a PPS (PowerPoint Slideshow) è ideale per trasformare contenuti leggeri in file di presentazione che si avviano automaticamente. PPS si apre direttamente come presentazione, rendendolo perfetto per chioschi, display e presentazioni in loop.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* Creazione di presentazioni in loop per chioschi da note Markdown.
+
+* Visualizzazione automatica di prodotti generata da descrizioni MD.
+
+* Visualizzazione di eventi basata su presentazioni provenienti da programmi MD.
+
+* Display per musei, negozi o fiere creati direttamente da Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* Generazione batch di presentazioni PPS per segnaletica digitale.
+
+* Pipeline automatizzate da MD a PPS per team di gestione eventi.
+
+* Creazione programmata di presentazioni da annunci Markdown.
+
+* Generazione basata su dashboard di file di presentazione in loop.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

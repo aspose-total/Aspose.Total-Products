@@ -130,7 +130,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MHTML na OTT (OpenDocument šablona) umožňuje vytváření opakovaně použitelných šablon pro kancelářské balíky s otevřeným zdrojovým kódem a udržování konzistence stylování a rozložení založených na webu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Firemní šablony dokumentů pro LibreOffice.
+
+* Opakovaně použitelné šablony výukových plánů z webem založeného vzdělávacího obsahu.
+
+* Standardizované šablony návrhů a smluv s otevřeným zdrojovým kódem.
+
+* Šablony pracovních postupů pro spolupracující správu obsahu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované generování OTT šablon z více stránek MHTML.
+
+* Integrace s nástroji pro automatizaci LibreOffice pro hromadné vytváření dokumentů.
+
+* Spouštěné aktualizace šablon z měnícího se obsahu na webu.
+
+* Zjednodušená standardizace dokumentů napříč distribuovanými týmy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

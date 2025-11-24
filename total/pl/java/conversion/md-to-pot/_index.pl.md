@@ -59,7 +59,55 @@ presentation.save("output.pot", SaveFormat.Pot);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie Markdown (MD) na POT (PowerPoint Template) daje firmom możliwość tworzenia spójnych, opartych na lekkiej dokumentacji tekstowej szablonów slajdów zgodnych z marką. Pliki POT zapewniają jednolitość projektową w wielu prezentacjach.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Szablony identyfikacji wizualnej firm generowane z dokumentów stylu Markdown.
+
+* Ramy prezentacji sprzedażowych pozyskiwane z opisów produktów w formacie MD.
+
+* Szablony wprowadzania pracowników do firmy tworzone na podstawie instrukcji opartych na Markdown.
+
+* Standaryzowane zestawy slajdów POT dla organizacji wielooddziałowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Przepływy pracy CI/CD automatycznie generujące szablony POT z plików MD.
+
+* Generowanie zbiorcze plików POT do użytku na poziomie franczyzy.
+
+* Automatyczne aktualizacje szablonów przy użyciu Markdown jako jedynego źródła prawdy.
+
+* Systemy przedsiębiorstw generujące zestawy slajdów POT programowo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

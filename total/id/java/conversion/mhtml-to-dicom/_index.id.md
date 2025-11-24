@@ -57,7 +57,55 @@ Menggunakan API, Anda juga dapat memutar gambar DICOM keluaran sesuai kebutuhan 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file MHTML (arsip web) ke DICOM (Digital Imaging and Communications in Medicine) memungkinkan gambar medis berbasis web, laporan, atau grafik diintegrasikan ke dalam alur kerja pencitraan klinis. DICOM memastikan kompatibilitas dengan PACS dan perangkat lunak pencitraan medis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengarsipkan gambar diagnostik berbasis web ke format DICOM.
+
+* Mengonversi laporan medis online untuk sistem EMR rumah sakit.
+
+* Berbagi gambar radiologi atau ultrasonografi yang diekstrak dari portal web.
+
+* Mengintegrasikan dasbor berbasis web klinis ke dalam alur kerja pencitraan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch terjadwal konten medis berbasis web ke DICOM.
+
+* Generasi yang dipicu untuk integrasi PACS dan pembaruan EMR.
+
+* Pengarsipan otomatis untuk platform telemedicine.
+
+* Integrasi ke dalam alur kerja diagnostik yang dibantu AI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

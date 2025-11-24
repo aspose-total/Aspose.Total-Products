@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MD (Markdown) sang RTF (Rich Text Format) đảm bảo tính tương thích và khả năng truy cập trên nhiều nền tảng. Các tệp RTF giữ lại kiểu dáng trên gần như tất cả các hệ điều hành, làm cho chúng hoàn hảo cho việc phân phối nhẹ, lưu trữ và truy cập ngoại tuyến.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi tài liệu Markdown thành các hướng dẫn RTF di động.
+
+* Tạo các bảng hướng dẫn tương thích mọi nền tảng từ các hướng dẫn MD.
+
+* Tệp trợ giúp dựa trên RTF được lấy từ Markdown cho các hệ thống cũ.
+
+* Tài liệu văn bản thân thiện với việc sử dụng ngoại tuyến cho các nhóm có hạn chế truy cập phần mềm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Lên lịch tạo ra MD-to-RTF cho các bộ lưu trữ số.
+
+* Luồng công việc ETL xuất bản các kho lưu trữ nội dung thành thư viện RTF.
+
+* Tạo RTF tự động cho các bộ dụng cụ hỗ trợ khách hàng ngoại tuyến.
+
+* Chuyển đổi hàng loạt ghi chú Markdown thành các tệp RTF tương thích với nhiều nền tảng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

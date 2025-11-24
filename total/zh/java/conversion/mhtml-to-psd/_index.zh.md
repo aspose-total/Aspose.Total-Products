@@ -57,7 +57,51 @@ otherformats: WMF WMZ TGA DXF EMZ  IMAGE PSD SVGZ JPEG2000 DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML转换为PSD（Adobe Photoshop）可将Web图形转换为完全可编辑的分层图像。PSD非常适合需要高级编辑功能的设计师和营销人员。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 在Photoshop中编辑基于Web的横幅、页眉或UI图形。
+
+* 为营销活动提取分层信息图表。
+
+* 从存档内容创建可编辑的Web模板。
+
+* 需要原始Web视觉的图形设计项目。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从MHTML网页批量创建PSD供设计团队使用。
+
+* 定期更新营销材料时触发转换。
+
+* 集成到Photoshop自动化的设计资产流程中。
+
+* 为Web-to-print工作流程安排PSD生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ Trong khi chuyển đổi tệp MD sang XLTX, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MD (Markdown) sang XLTX (Mẫu Excel không có Macros) là lựa chọn lý tưởng cho các nhóm tập trung vào việc tạo mẫu sạch sẽ, nhất quán, không chứa macro. XLTX cung cấp một cấu trúc có thể tái sử dụng trong khi duy trì định dạng đáng tin cậy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển đổi báo cáo dựa trên Markdown thành các mẫu chuẩn.
+
+* Tạo ra các mẫu XLTX hoàn chỉnh để sử dụng trong doanh nghiệp.
+
+* Chuyển đổi hướng dẫn thiết kế MD thành các khung công việc bảng tính.
+
+* Tạo ra các mẫu có thể chỉnh sửa cho bộ phận nhân sự, tài chính và vận hành.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tự động tạo mẫu XLTX từ MD trong các luồng công việc.
+
+* Sản xuất hàng loạt các mẫu đồng nhất cho tổ chức.
+
+* Các đường ống ETL làm mới các mẫu XLTX để sử dụng đa bộ phận.
+
+* Cập nhật mẫu dựa trên MD cho các hệ thống tài liệu dựa trên đám mây.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

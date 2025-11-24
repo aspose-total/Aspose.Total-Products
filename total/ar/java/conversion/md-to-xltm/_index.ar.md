@@ -47,7 +47,55 @@ otherformats: XLSM XLAM XLT EXCEL ODS TXT XLTM FODS SXC TSV XLTX DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل Markdown (MD) إلى XLTM (قالب إكسل ممكّن بالماكرو) ينشئ قوالب جداول بيانات قابلة لإعادة الاستخدام مع إضافة الأتمتة. تدعم ملفات XLTM الماكروهات للبدء الديناميكي، وحقول التعبئة التلقائية، والإجراءات المتقدمة لسير العمل.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* قوالب الأعمال المدفوعة بالماكرو المستمدة من محتوى Markdown.
+
+* بناء أوراق تنبؤ آلية من بيانات MD.
+
+* إنشاء قوالب حسابية قابلة لإعادة الاستخدام لفرق الهندسة.
+
+* إنشاء قوالب جاهزة للماكرو لعمليات التوظيف أو التدقيق.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* إنشاء قوالب XLTM ذاتية التوليف عبر تحويل MD بقوة CI.
+
+* بناء قوالب ممكّنة بالماكرو بشكل دفعي للمكاتب الموزعة.
+
+* تحديثات مجدولة لملفات XLTM من مستودعات Markdown.
+
+* سكربتات سير العمل الديناميكية تعبئة قوالب XLTM من البيانات الخلفية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

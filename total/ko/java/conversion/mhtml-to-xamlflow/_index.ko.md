@@ -143,7 +143,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML을 XAMLFLOW로 변환하면 웹 콘텐츠와 벡터 에셋을 XAML 기반의 플로 애플리케이션을 사용하여 대화형 워크플로 및 UI 자동화에 사용할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 웹 다이어그램 및 그래픽을 자동화된 XAML 워크플로에 통합합니다.
+
+* Windows 자동화 시스템용 대화형 웹 콘텐츠를 아카이빙합니다.
+
+* UI 주도 프로세스 자동화를 위해 웹 기반 대시보드를 준비합니다.
+
+* 플로 기반 데스크톱 애플리케이션을 위해 웹 폼 및 컨트롤을 변환합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* UI 자동화 파이프라인을 위한 일괄 MHTML-to-XAMLFLOW 변환.
+
+* 대시보드 및 대화형 웹 에셋에 대한 트리거된 업데이트.
+
+* RPA(로봇 프로세스 자동화) 워크플로에 통합합니다.
+
+* 기업 애플리케이션을 위한 웹 UI 구성 요소의 예약된 추출.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

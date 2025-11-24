@@ -59,7 +59,55 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (마크다운)를 OTP (OpenDocument Presentation Template)으로 변환하면 조직이 일관된 브랜딩을 따르는 재사용 가능한 슬라이드 템플릿을 작성할 수 있으며 마크다운에 저장된 편집 가능한 콘텐츠를 유지할 수 있습니다. OTP 파일은 가벼우며 유연하며 오픈 소스 환경에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 마크다운 콘텐츠에서 브랜드화된 OTP 템플릿 생성.
+
+* MD 레슨 개요에서 가져온 재사용 가능한 강의 템플릿 작성.
+
+* 비정부 기구 및 학술 기관을 위한 일관된 슬라이드 구조.
+
+* 마크다운 문서를 균일한 프레젠테이션 템플릿으로 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 버전 관리된 MD에서 자동화된 OTP 템플릿 생성.
+
+* 오픈 소스 프레젠테이션 템플릿 대량 생산.
+
+* Markdown 저장소에서 정기적으로 OTP 파일 업데이트.
+
+* 분산 조직을 위한 템플릿 중심의 워크플로.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

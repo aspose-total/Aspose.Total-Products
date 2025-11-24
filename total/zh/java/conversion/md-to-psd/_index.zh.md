@@ -57,7 +57,55 @@ otherformats: EMZ IMAGE DXF WMZ WMF PSD TGA JPEG2000 SVGZ  DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为PSD（Photoshop文档）使设计师能够将文本和结构化内容导入到分层、可编辑的Photoshop文件中。PSD允许将基于Markdown的图表与专业的图形编辑相结合。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将Markdown笔记转换为可编辑的设计模型。
+
+* 为信息图表或营销内容创建分层图表。
+
+* 将Markdown生成的视觉元素与品牌资产结合。
+
+* 为协作创意工作流程准备设计文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为营销团队自动化Markdown到PSD的转换。
+
+* 从Markdown存储库批量创建分层视觉资产。
+
+* 与图形流程集成以进行内容生产。
+
+* 触发PSD生成以进行协作设计项目。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

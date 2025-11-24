@@ -47,7 +47,51 @@ otherformats: ODS XLT TSV XLTX XLSM MD XLTM FODS XLAM XLSB SXC DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MHTML إلى SXC (جدول بيانات StarOffice) يسمح لمستخدمي StarOffice القدامى بالاحتفاظ بالبيانات على الويب في تنسيقات جداول بيانات متوافقة. مثالي لسير العمل في حزم البرامج المكتبية القديمة واحتياجات الأرشيف التاريخي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* أرشفة جداول البيانات التي تم إنشاؤها على الويب لبيئات StarOffice القديمة.
+
+* مشاركة قوالب الجداول بين حزم البرامج المكتبية القديمة والحديثة.
+
+* تقارير البيانات التاريخية لتدقيقات الشركات.
+
+* تحويل نتائج الاستطلاع عبر الإنترنت إلى SXC لتحليل البحوث.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* خطوط أنابيب التحويل المجدولة لتقارير SXC على الويب.
+
+* معالجة دفعية لجداول MHTML إلى تنسيقات جداول بيانات قديمة.
+
+* أرشفة آلية للامتثال التنظيمي.
+
+* التكامل مع أنظمة المكتب القديمة التي تتطلب إدخال SXC.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

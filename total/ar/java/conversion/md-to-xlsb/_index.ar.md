@@ -47,7 +47,55 @@ otherformats: TXT XLTM FODS XLT XLSM EXCEL SXC ODS XLSB XLAM XLTX DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MD (Markdown) إلى XLSB (Excel Binary Workbook) مثالي للتعامل مع مجموعات بيانات كبيرة بكفاءة. تحميل ملفات XLSB بسرعة أكبر، وضغط أفضل، ودعم جداول بيانات معقدة دون تكلفة زائدة من XML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* استيراد مجموعات بيانات كبيرة معتمدة على MD إلى دفاتر عمل Excel ثنائية.
+
+* إنشاء تقارير XLSB مدمجة من سجلات التوثيق.
+
+* نمذجة مالية باستخدام XLSB تم إنشاؤها من Markdown.
+
+* جداول أداء عالي المصدر من جداول تحليلية Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* سير العمل ETL تحويل Markdown → XLSB لتحسين السرعة.
+
+* إنشاء XLSB بالجملة لفرق التحليلات الشركات.
+
+* إنشاء دفاتر عمل ثنائية تلقائيًا لتقارير ثقيلة بالبيانات.
+
+* عمليات على الخادم تخرج ملفات XLSB من محتوى MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

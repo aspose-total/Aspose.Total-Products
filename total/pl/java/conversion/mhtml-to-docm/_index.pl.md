@@ -129,7 +129,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików MHTML (MIME HTML) na pliki DOCM (Dokumenty programowane makrami) zachowuje zawartość internetową wraz z interaktywnymi makrami do zautomatyzowanych procesów. Pliki DOCM są niezbędne do automatyzacji procesów biznesowych, zaawansowanego raportowania i generowania dynamicznych dokumentów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Automatyczne raporty firmowe generowane na podstawie zawartości pozyskanej ze stron internetowych.
+
+* Interaktywne moduły szkoleniowe z wbudowanymi makrami do e-learningu.
+
+* Dokumentacja procesów biznesowych integrująca żywe dane z internetu.
+
+* Szablony zarządzania projektem z klikalnymi panelami sterowania z makrami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja zarchiwizowanych raportów MHTML na pliki DOCM z makrami.
+
+* Integracja z systemami ERP dla aktualizacji dokumentów w czasie rzeczywistym.
+
+* Wywołanie makr po konwersji zawartości internetowej.
+
+* Automatyczne generowanie powtarzalnych szablonów biznesowych z źródeł MHTML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

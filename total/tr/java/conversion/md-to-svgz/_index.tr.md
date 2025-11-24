@@ -57,7 +57,55 @@ API'yi kullanarak, çıktı SVGZ görüntüsünü ihtiyaçlarınıza göre de d�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını SVGZ (Sıkıştırılmış SVG) formatına dönüştürmek, sıkıştırılmış bir formatta ölçeklenebilir vektör görüntüler oluşturur. Web grafikleri, duyarlı diyagramlar ve etkileşimli görselleştirmeler için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown içeriğinden sıkıştırılmış vektör diyagramlar oluşturma.
+
+* Markdown tablolarından duyarlı web çizimleri oluşturma.
+
+* Ölçeklenebilir simgeler veya bilgi grafikleri oluşturma.
+
+* Çevrimiçi belgelere sıkıştırılmış vektör görseller gömme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Web yayıncılığı için toplu Markdown-to-SVGZ dönüşümü.
+
+* Otomatik diyagram oluşturma için pipeline entegrasyonu.
+
+* Etkileşimli panolar için zamanlanmış SVGZ güncellemeleri.
+
+* Markdown diyagramlarını optimize edilmiş web için hazır formatlara sıkıştırma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

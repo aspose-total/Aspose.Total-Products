@@ -47,7 +47,55 @@ A MD-fájl SXC-vé konvertálásakor vízjelet is hozzáadhat a kimeneti SXC-fá
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MD (Markdown) to SXC (StarOffice Calc) konverzió előnyei azoknak a szervezeteknek, amelyek még mindig régi StarOffice/OpenOffice táblázatkörnyezeteket használnak. Az SXC támogatja a képleteket, a táblastruktúrákat és a cellaformázást, amelyek kompatibilisek az idősebb irodai ökoszisztémákkal.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+
+
+* Markdown táblázatok migrálása régi SXC táblázatokba.
+
+* Régebbi vállalati rendszerek frissítése MD-alapú adatokkal.
+
+* SXC fájlok generálása elavult, de még mindig működő platformok számára.
+
+* Mérnöki naplók előkészítése Markdownból klasszikus táblázatformátumokba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges MD-SXC konverzió archiválási üzleti eszközök számára.
+
+* ETL kapcsolatok régi kormányzati vagy ipari szoftverekhez.
+
+* Éjszakai SXC termelés Markdown tárolókból.
+
+* Kiváltott SXC generálás visszafelé kompatibilis munkafolyamatokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

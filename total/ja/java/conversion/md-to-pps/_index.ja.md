@@ -59,7 +59,55 @@ presentation.save("output.pps", SaveFormat.Pps);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（マークダウン）からPPS（PowerPointスライドショー）への変換は、軽量コンテンツを自動再生プレゼンテーションファイルに変換するのに最適です。PPSはスライドショーとして直接開き、キオスク、ディスプレイ、ループプレゼンテーションに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* マークダウンノートからループキオスクプレゼンテーションを作成する。
+
+* MDの説明から生成された自動再生製品ディスプレイ。
+
+* MDスケジュールからのスライドショーベースのイベントディスプレイ。
+
+* マークダウンから直接作成された博物館、小売店、または展示会ディスプレイ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* デジタルサイネージ用のPPSスライドショーの一括生成。
+
+* イベント管理チーム向けの自動化されたMDからPPSへのパイプライン。
+
+* マークダウンアナウンスメントからのスケジュールされたスライドショー作成。
+
+* ダッシュボード駆動のループプレゼンテーションファイルの生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

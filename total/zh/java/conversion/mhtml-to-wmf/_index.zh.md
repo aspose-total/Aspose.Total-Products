@@ -57,7 +57,51 @@ otherformats: JPEG2000 DXF WMF PSD WMZ EMZ  TGA IMAGE SVGZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML转WMF（Windows Metafile）可将Web矢量图形转换为可编辑的Windows矢量文件。WMF非常适合需要可伸缩矢量视觉效果的传统系统和办公应用程序。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将Web图表存档以用于办公文档集成。
+
+* 将流程图和插图转换为演示文稿。
+
+* 为打印或文档准备矢量资产。
+
+* 从网页图形中提取内容以用于企业报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从网页内容批量生成WMF。
+
+* 定时提取以用于自动报告系统。
+
+* 集成到办公自动化工作流程中。
+
+* 触发将Web矢量图形转换为演示文稿。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

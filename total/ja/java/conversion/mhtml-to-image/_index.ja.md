@@ -57,7 +57,55 @@ APIを使用すると、必要に応じて出力IMAGE画像を回転させるこ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLを画像（JPEG、PNG、BMPなど）に変換すると、Webアーカイブから静的なビジュアルを取り出してプレゼンテーション、ウェブサイト、印刷媒体で使用できます。画像変換はレイアウトとグラフィックの品質を保持します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* オンラインカタログから製品画像を抽出する。
+
+* レポート用にWebチャートやインフォグラフィックをアーカイブする。
+
+* プレゼンテーション用にWebダイアグラムを高解像度画像に変換する。
+
+* ブログやソーシャルメディア投稿用のビジュアルコンテンツを作成する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* マーケティングキャンペーン向けのMHTMLファイルからの一括画像抽出。
+
+* 自動化されたWeb-to-Printワークフローへの統合。
+
+* ダイナミックダッシュボードやレポート用のトリガー変換。
+
+* 教育やチュートリアルコンテンツ用のスケジュールされた画像生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

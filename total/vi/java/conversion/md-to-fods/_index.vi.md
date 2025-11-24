@@ -47,7 +47,55 @@ Trong khi chuyển đổi tệp MD sang FODS, bạn cũng có thể thêm hình 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi MD (Markdown) sang FODS (Flat OpenDocument Spreadsheet) tạo ra các tệp bảng tính dựa trên XML có thể chỉnh sửa lý tưởng cho các bộ ứng dụng văn phòng mã nguồn mở. FODS giữ nguyên cấu trúc ô, công thức và định dạng trong một bố cục dựa trên văn bản, thân thiện với phiên bản.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Xuất các bộ dữ liệu Markdown sang các định dạng bảng tính mã nguồn mở.
+
+* Tạo các tệp FODS có cấu trúc cho người dùng LibreOffice.
+
+* Nhập các bảng MD vào các bảng tính XML phẳng cho các nhóm phát triển.
+
+* Duy trì các bản lưu trữ bảng tính dưới dạng có thể đọc được bằng văn bản.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi hàng loạt sang FODS để minh bạch kiểm soát phiên bản.
+
+* Tích hợp MD-to-FODS trong các đường ống ETL mã nguồn mở.
+
+* Tạo bảng tính tự động cho tài liệu chính phủ hoặc tổ chức phi chính phủ.
+
+* Tạo ra FODS dựa trên cơ sở kích hoạt trong các luồng công việc tài liệu liên tục.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

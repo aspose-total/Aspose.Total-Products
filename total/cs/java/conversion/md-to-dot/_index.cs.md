@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MD (Markdown) na DOT (šablonu Wordu) pomáhá firmám standardizovat firemní dokumenty a zároveň udržovat obsah pod kontrolou verzí v Markdownu. Šablony DOT zachovávají konzistenci formátování a zajistí, že týmy mohou okamžitě generovat nové soubory Word z čisté, opakovaně použitelné struktury.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření konzistentních záhlaví dopisů z šablon založených na Markdownu.
+
+* Publikování marketingových materiálů schválených značkou z konceptů MD.
+
+* Týmy HR generující šablony dokumentů pro začlenění nových zaměstnanců z průvodců MD.
+
+* Právní oddělení standardizuje struktury smluv získané z Markdownu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatické generování šablony DOT v pracovních postupech publikace CMS.
+
+* Centralizovaný převod pro distribuované týmy aktualizující firemní prvky.
+
+* Plánovaná regenerace hlavních šablon uložených v Gitu.
+
+* Automatické vytváření DOT pro potřeby dokumentace franšíz nebo více poboček.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -129,7 +129,55 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van MHTML (webarchief) bestanden naar MARKDOWN (.md) maakt het mogelijk om webinhoud om te zetten in lichtgewicht, leesbare en draagbare tekst die geschikt is voor websites, blogs en ontwikkelaarsdocumentatie. Markdown behoudt de structuur van de inhoud zoals koppen, links, lijsten en codefragmenten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het omzetten van webtutorials naar Markdown voor ontwikkelaarsdocumentatie.
+
+* Archiveren van bloginhoud van webpagina's in Markdown-indeling.
+
+* Het maken van kennisbankartikelen van online handleidingen.
+
+* Het omzetten van op web gebaseerde rapporten naar draagbare Markdown-notities.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchconversie van meerdere MHTML-pagina's naar Markdown voor statische sitegeneratoren.
+
+* Getriggerde Markdown-generatie voor automatische inhoudsupdates op ontwikkelaarswiki's.
+
+* Integratie met CI/CD-pipelines om webinhoud om te zetten in documentatie.
+
+* Geautomatiseerde extractie van op web gebaseerde rapporten voor op Markdown gebaseerde kennisbanken.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

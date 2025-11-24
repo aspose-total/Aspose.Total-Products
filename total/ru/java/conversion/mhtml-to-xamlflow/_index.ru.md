@@ -143,7 +143,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MHTML в XAMLFLOW позволяет использовать веб-контент и векторные ресурсы в интерактивных рабочих процессах и автоматизации пользовательского интерфейса с использованием приложений на основе XAML.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Интеграция веб-диаграмм и графики в автоматизированные рабочие процессы на XAML.
+
+* Архивирование интерактивного веб-контента для систем автоматизации Windows.
+
+* Подготовка веб-интерфейсов для автоматизации процессов с использованием пользовательского интерфейса.
+
+* Преобразование веб-форм и элементов управления для приложений на рабочем столе на основе потоков.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование MHTML в XAMLFLOW для конвейеров автоматизации пользовательского интерфейса.
+
+* Вызываемые обновления для панелей и интерактивных веб-ресурсов.
+
+* Интеграция в рабочие процессы RPA (Роботизированная автоматизация процессов).
+
+* Плановое извлечение веб-компонентов пользовательского интерфейса для корпоративных приложений.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -121,7 +121,51 @@ presentation.save("output.swf", SaveFormat.Swf);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MHTML เป็น SWF (Shockwave Flash) จะเปลี่ยนเนื้อหาและอนิเมชันบนเว็บให้กลายเป็นรูปแบบ Flash สำหรับการใช้งานในสื่อเก่าหรืองานนำเสนอ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การเก็บถาวรบทเรียนแบบอินเทอร์แอคทีฟและอนิเมชันบนเว็บ
+
+* การแปลงงานนำเสนอหรือการสาธิตออนไลน์เป็นไฟล์ SWF
+
+* โมดูลการเรียนการสอนที่มีอนิเมชันที่สามารถส่งออกไปใช้แบบออฟไลน์
+
+* เนื้อหาทางการตลาดที่มีสื่อการสื่อสารแบบอินเทอรแอคทีฟที่ถูกเก็บรักษาจากเว็บไซต์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* การแปลงกลุ่มงานอนิเมชันบนเว็บเป็นไฟล์ SWF ตามกำหนด
+
+* การส่งออกที่เรียกเกิดขึ้นอัตโนมัติสำหรับเนื้อหาการศึกษาหรือการอบรมแบบออฟไลน์
+
+* การรวมเข้ากับซอฟต์แวร์งานนำเสนอเก่าที่ต้องการไฟล์ SWF
+
+* การเก็บถาวรอัตโนมัติของกราฟิกบนเว็บที่สามารถโต้ตอบ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του Markdown (MD) σε OTT (OpenDocument Text Template) υποστηρίζει τη δημιουργία κλιμακούμενων προτύπων για ανοικτές σουίτες γραφείου. Τα πρότυπα OTT διατηρούν συνεπή μορφοποίηση ενώ επιτρέπουν στις ομάδες να δημιουργούν πολλαπλά έγγραφα από μια σταθερή βάση στυλ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Βασικές Χρήσεις" %}}
+
+
+
+* Δημιουργία προτύπων OTT για παραγωγή πολυγλωσσικών εγγράφων.
+
+* Δημιουργία δομημένων προτύπων αναφορών με βάση τις οδηγίες που βασίζονται σε Markdown.
+
+* Τυποποίηση της τεκμηρίωσης γραφείου για περιβάλλοντα ανοικτού κώδικα.
+
+* Δημιουργία επαναχρησιμοποιήσιμων μορφών εγγράφων ODT για ΜΚΟ ή δημόσια ιδρύματα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη δημιουργία OTT σε ροέ εργασίας δημοσίευσης ανοικτού κώδικα.
+
+* Ενημερώσεις προτύπων που συγχρονίζονται από τον έλεγχο εκδόσεων Markdown.
+
+* Παραγωγή πακέτων προτύπων για κατανεμημένες ομάδες που χρησιμοποιούν το LibreOffice.
+
+* Κυβερνητικά ή μη κερδοσκοπικά συστήματα που δημιουργούν πρότυπα OTT σύμφωνα με πρόγραμμα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

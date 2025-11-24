@@ -47,7 +47,55 @@ MD 파일을 TSV로 변환하는 동안 출력 TSV 파일 형식에 워터마크
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 TSV (Tab-Separated Values)로 변환하면 개발자, BI 팀 및 기계 학습 파이프라인에 이상적인 깨끗하고 구분자 안전한 데이터 내보내기가 가능해집니다. TSV 파일은 간격을 보존하며 쉼표를 포함하는 데이터 세트에 적합합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* ML 전처리를 위해 Markdown 데이터 세트를 TSV로 내보내기.
+
+* 데이터 과학 워크플로에 MD로 생성된 로그 가져오기.
+
+* API 개발을 위한 TSV 기반 데이터 추출 생성.
+
+* Markdown 체크리스트를 탭 구조 데이터 세트로 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* MD 테이블을 TSV로 변환하는 파이프라인 주도 변환.
+
+* AI 데이터 수집 시스템을 위한 일괄 내보내기.
+
+* 백엔드 통합 테스트를 위한 정기적인 TSV 생성.
+
+* 저장소 Markdown 콘텐츠에서 구축된 자동화된 TSV 피드.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

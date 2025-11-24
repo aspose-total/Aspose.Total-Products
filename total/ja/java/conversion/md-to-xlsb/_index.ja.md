@@ -47,7 +47,55 @@ MDファイルをXLSBに変換するときに、出力XLSBファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）からXLSB（Excelバイナリワークブック）への変換は、大規模なデータセットを効率的に処理するのに最適です。XLSBファイルは高速に読み込まれ、より効果的に圧縮され、重いXMLオーバーヘッドなしで複雑なスプレッドシートをサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* MDベースの大規模なデータセットをバイナリExcelワークブックにインポートする。
+
+* ドキュメントログからコンパクトなXLSBレポートを作成する。
+
+* Markdownから生成されたXLSBを使用した財務モデリング。
+
+* Markdownアナリティクステーブルからソースを取る高性能スプレッドシート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 速度最適化のためにMarkdown → XLSBに変換するETLワークフロー。
+
+* 企業の分析チーム向けの大量のXLSB作成。
+
+* データ重視のレポート作成のための自動化されたバイナリワークブック生成。
+
+* サーバーサイドプロセスがMDコンテンツからXLSBファイルを出力する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

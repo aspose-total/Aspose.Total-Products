@@ -57,7 +57,55 @@ API를 사용하여 필요에 따라 출력 DICOM 이미지를 회전할 수도 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML(웹 아카이브) 파일을 DICOM(의료용 디지털 영상 및 통신)으로 변환하면 웹 기반 의료 이미지, 보고서 또는 차트를 임상 영상 워크플로에 통합할 수 있습니다. DICOM은 PACS 및 의료 영상 소프트웨어와의 호환성을 보장합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 웹 기반 진단 이미지를 DICOM 형식으로 아카이빙합니다.
+
+* 병원 EMR 시스템용 온라인 의료 보고서를 변환합니다.
+
+* 웹 포털에서 추출한 영상학 또는 초음파 이미지를 공유합니다.
+
+* 임상 웹 기반 대시보드를 영상 워크플로에 통합합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 웹 기반 의료 콘텐츠를 DICOM으로 일괄 변환 예정입니다.
+
+* PACS 통합 및 EMR 업데이트를 위한 트리거 생성됩니다.
+
+* 원격 의료 플랫폼을 위한 자동 아카이빙이 이루어집니다.
+
+* AI 지원 진단 파이프라인에 통합됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

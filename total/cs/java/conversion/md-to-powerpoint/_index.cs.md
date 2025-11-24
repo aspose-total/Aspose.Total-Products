@@ -59,7 +59,55 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění Markdown (MD) na PowerPoint (PPTX) transformuje obsah jednoduchého textu do profesionálních, vizuálně strukturovaných prezentací. Soubory PPTX podporují animace, média, grafy a prvky firemní identity, což je činí ideálními pro podnikání, vzdělávání a marketing.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření kompletních sestav PowerPoint z poznámek z jednání v Markdownu.
+
+* Přeměna dokumentace v MD na vizuálně upravené zprávy.
+
+* Tvorba konferenčních nebo webinárních snímků pomocí zdrojů v Markdownu.
+
+* Převádění popisů produktů v Markdownu na prezentace PPTX připravené pro klienty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatická generace PPTX pro opakující se prezentace.
+
+* ETL potrubí produkující podnikově připravené prezentace z Markdownu.
+
+* Plánované vytváření sestav snímků pro týdenní reportingové cykly.
+
+* Hromadné exporty PPTX používané ve školeních a onboardingových systémech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

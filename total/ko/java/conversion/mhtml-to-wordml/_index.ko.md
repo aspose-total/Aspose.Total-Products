@@ -143,7 +143,51 @@ Java Runtime Environment(JRE)를 실행할 수 있는 모든 운영 체제는 As
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML를 WordML로 변환하면 구조화되고 기계가 읽을 수 있는 웹 콘텐츠를 보장하는 XML 기반 워드 문서가 생성됩니다. WordML은 프로그래밍 방식의 문서 처리 및 기업 자동화 시스템에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 웹 데이터에서 XML 기반 워드 보고서 생성.
+
+* 자동화된 콘텐츠 처리를 위한 구조화된 문서 저장.
+
+* 웹 콘텐츠를 WordML로 변환하여 콘텐츠 분석 및 추출.
+
+* 기업 워크플로 자동화를 위한 기계가 읽을 수 있는 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 기업 시스템을 위한 웹 콘텐츠의 대량 자동 변환을 위한 WordML.
+
+* 구조화된 문서 저장을 위한 ETL 파이프라인 통합.
+
+* 웹 콘텐츠 변경에 의한 프로그래밍 방식의 문서 업데이트.
+
+* AI 기반 보고 시스템을 위한 동적 문서 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

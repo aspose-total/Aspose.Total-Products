@@ -57,7 +57,55 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น WMF (Windows Metafile) จะสร้างกราฟิกเวกเตอร์ที่เข้ากันได้กับแอปพลิเคชัน Windows เวอร์ชันเก่า ไฟล์ WMF รักษาความแม่นยำของเส้นและเหมาะสำหรับแผนภาพ แผนภูมิ และแผนผัง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* ส่งออกแผนภาพตาม Markdown สำหรับแอปพลิเคชัน Windows เวอร์ชันเก่า
+
+* แปลงตารางทางเทคนิคเป็นแผนภาพ WMF ที่สามารถปรับขนาดได้
+
+* ฝังแผนภาพในซอฟต์แวร์สำนักงานเวอร์ชันเก่าที่รองรับ WMF
+
+* รักษาภาพประกอบที่เป็นเส้นจากเนื้อหา Markdown
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้าง WMF โดยอัตโนมัติสำหรับวัตถุประสงค์เก็บถาวรหรือเข้ากันได้
+
+* แปลงกลุ่มแผนภาพตาม Markdown ให้เข้ากันกับระบบเก่า
+
+* อัปเดตแผนภาพตามกำหนดเวลาสำหรับพอร์ทัลเอกสาร
+
+* ผสานรวมกับไปป์ไลน์ที่สร้างกราฟิก WMF สำหรับรายงานขององค์กร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

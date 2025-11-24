@@ -47,7 +47,55 @@ A MD-fájl TXT-vé konvertálásakor vízjelet is hozzáadhat a kimeneti TXT-fá
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) fájlok átalakítása TXT (egyszerű szöveg) formátumra tiszta, könnyű változatot eredményez a tartalmáról, amelyet a formázás és a jelölések nélkül tisztítottak meg. A TXT fájlok nagyon kompatibilisek, ideálisak szövegfeldolgozáshoz, szkripteléshez és alkalmazásokkal való integráláshoz, amelyek nem támogatják a Markdown formázást.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Markdown dokumentáció exportálása egyszerű szöveges e-mail terjesztéshez.
+
+* Nyers tartalom létrehozása szövegalapú analitikához vagy gépi tanulási munkafolyamatokhoz.
+
+* Könnyű, hordozható másolatok készítése jegyzetekről és dokumentációkról.
+
+* Markdown tartalom megosztása olyan környezetekben, ahol a gazdag formázás nem támogatott.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Ütemezett Markdown tárolók TXT formátumra történő konverziója biztonsági mentéshez és archiváláshoz.
+
+* ETL csővezetékek, amelyek Markdown dokumentációt alakítanak át TXT formátummá szkriptek vagy automatizálási eszközök feldolgozásához.
+
+* Automatizált egyszerű szöveg naplók generálása Markdown alapú projektjegyzetekből.
+
+* Tartalomcsatornák integrálása Markdown exportálásához TXT formátumban lefelé irányuló rendszerek számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

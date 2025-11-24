@@ -61,7 +61,51 @@ POTX 파일을 FODS로 변환하는 동안 출력 FODS 파일 형식에 워터�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+**POTX를 FODS로 변환**하면 템플릿 데이터가 최대 호환성을 갖는 Flat OpenDocument 스프레드시트 파일로 내보내어 오픈 소스 도구 간에 최대 호환성을 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* LibreOffice 및 OpenOffice에서 POTX에서 파생된 데이터 편집.
+
+* 정부 표준 오픈 형식 스프레드시트 준비.
+
+* 가벼운, 플랫폼에 중립적인 데이터 시트 생성.
+
+* 오픈 형식에서 POTX 템플릿 메타데이터 보관.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 다양한 플랫폼 팀을 위한 FODS로의 일괄 처리된 POTX 파일.
+
+* 규정 준수 또는 감사를 위한 예약된 오픈 형식 내보내기.
+
+* 오픈 소스 워크플로 자동화와의 통합.
+
+* 템플릿이 업데이트될 때 트리거 기반 FODS 변환.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

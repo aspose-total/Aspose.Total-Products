@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi MD (Markdown) ke WordprocessingML (WordML) memungkinkan dokumen Word berbasis XML terstruktur yang ideal untuk sistem perusahaan, platform CMS, dan alur kerja rekayasa dokumen. WordML menawarkan kontrol yang tepat atas tata letak, tag, dan pengikatan data untuk dokumen yang dihasilkan oleh mesin.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Kunci" %}}
+
+
+
+* Migrasi dokumentasi Markdown ke struktur WordML yang didorong oleh XML.
+
+* Laporan terstruktur yang dihasilkan dari MD untuk sistem dokumen otomatis.
+
+* File teknis yang siap diikatkan data dibuat langsung dari teks Markdown.
+
+* Platform CMS perusahaan yang mengubah konten MD menjadi templat yang kompatibel dengan WordML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi pipa XML untuk file Word yang dihasilkan oleh sistem.
+
+* Konversi Markdown otomatis yang memberi makan mesin dokumen yang didorong oleh API.
+
+* Pembuatan arsip WordML secara massal dari Markdown repositori.
+
+* Integrasi dengan alur kerja validasi untuk pelaporan berbasis XML.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

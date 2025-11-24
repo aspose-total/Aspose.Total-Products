@@ -59,7 +59,55 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）をPPT（レガシーPowerPointフォーマット）に変換すると、古いMicrosoft Office環境との互換性が確保されながら、スライドの構造と書式が保持されます。PPTは、古典的なPowerPointのバージョンを使用している機関に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* MDスクリプトからレガシーワークステーション用のPPTスライドを作成する。
+
+* 古いPPTデッキを生成するためにMarkdownノートを使用している学術機関。
+
+* MDコンテンツをクラシックなPPT形式に移行する企業アーカイブ。
+
+* 旧式のオフィス環境向けの互換性重視のスライド作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* レガシーシステムサポートのための自動化されたPPT生成。
+
+* MarkdownアーカイブをPPTに一括変換。
+
+* クラシックなPowerPointファイルを出力するETLプロセス。
+
+* まだ古いスイートを使用している政府機関や産業組織向けのPPT生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

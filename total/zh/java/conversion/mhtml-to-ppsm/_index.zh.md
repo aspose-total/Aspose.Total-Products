@@ -121,7 +121,51 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML转PPSM（启用宏的幻灯片放映）可从网络内容生成交互式和自动化的PowerPoint演示文稿。PPSM非常适用于需要宏功能的企业、教育或培训幻灯片。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 具有自动化练习的交互式培训幻灯片展示。
+
+* 将网络仪表板集成到自动化报告演示中。
+
+* 具有宏驱动交互性的营销幻灯片组。
+
+* 使用网络内容和宏的教育模块。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时将MHTML转换为PPSM，生成动态演示文稿。
+
+* 将网络内容批量处理为交互式幻灯片展示。
+
+* 与企业自动化平台集成，实现实时更新。
+
+* 从仪表板触发创建启用宏的幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

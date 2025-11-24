@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为XAMLFLOW可通过使用XAML标记创建交互式、基于流程的图表和应用程序布局。非常适用于软件可视化、UI原型设计和工作流程文档。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 从Markdown文档构建交互式流程图。
+
+* 使用Markdown内容原型化WPF应用程序工作流程。
+
+* 将技术流程说明转换为XAMLFlow可视化。
+
+* 将Markdown生成的工作流嵌入到交互式应用程序预览中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为开发团队自动化MD到XAMLFLOW的流程。
+
+* 从Markdown笔记批量生成交互式流程。
+
+* 定期更新软件文档中的工作流程图。
+
+* 与CI/CD集成，将Markdown流程大纲转换为XAMLFLOW组件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

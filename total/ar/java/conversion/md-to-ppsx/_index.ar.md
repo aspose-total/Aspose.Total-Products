@@ -59,7 +59,55 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MD (Markdown) إلى PPSX (عرض تقديمي بتنسيق PowerPoint) ينتج ملفات عرض تقديمي حديثة تفتح مباشرة في وضع ملء الشاشة. يُستخدم على نطاق واسع PPSX لعروض العرض التلقائي في بيئات الشركات والتجزئة والفعاليات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* عروض مبيعات تعمل تلقائيًا مستمدة من ملاحظات MD.
+
+* شاشات اللوبي الخاصة بالشركات التي تم إنشاؤها من محتوى Markdown.
+
+* حلقات شرائح الفعاليات التي تم بناؤها من جداول أو جداول زمنية قائمة على MD.
+
+* عروض توضيحية مستمرة للمنتجات مستمدة من وصفيات Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* سير العمل الآلي لملفات PPSX للإشارات ولوحات العرض.
+
+* إنشاء عروض تقديمية مجدولة من نصوص الفعاليات في Markdown.
+
+* إنشاء مجموعة من ملفات PPSX للاستخدام في نقاط البيع بالتجزئة.
+
+* تحويل MD إلى PPSX داخل منصات الإشارات الرقمية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,55 @@ presentation.save("output.pot", SaveFormat.Pot);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını POT (PowerPoint Şablonu) formatına dönüştürmek, işletmelere hafif metin belgelerinden alınan tutarlı, markalı slayt çerçeveleri oluşturma imkanı sunar. POT dosyaları, birden fazla sunumda tasarım birliğini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown stil belgelerinden oluşturulan kurumsal markalı şablonlar.
+
+* MD ürün taslaklarından alınan satış sunumu çerçeveleri.
+
+* Markdown tabanlı talimatlar kullanılarak oluşturulan İK entegrasyon şablonları.
+
+* Çok şubeli kuruluşlar için standartlaştırılmış POT desteleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* CI/CD iş akışları, MD dosyalarından otomatik olarak POT şablonları üretir.
+
+* Franchise genelinde kullanım için POT dosyalarının toplu olarak oluşturulması.
+
+* Markdown'ı tek doğru kaynak olarak kullanarak otomatik şablon güncellemeleri.
+
+* Kurumsal sistemler, POT destelerini programatik olarak oluşturur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

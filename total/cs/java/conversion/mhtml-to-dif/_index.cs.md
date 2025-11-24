@@ -47,7 +47,51 @@ Při převodu souboru MHTML na DIF můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML na DIF (Data Interchange Format) umožňuje importovat tabulková data z webu do zastaralých tabulkových aplikací a specializovaných statistických nástrojů. DIF zajišťuje strukturovaná, přenositelná datová soubory napříč platformami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Import historických webových dat do softwaru pro statistickou analýzu.
+
+* Sdílení tabulkového obsahu webu napříč nekompatibilními kancelářskými balíky.
+
+* Převod dat z online průzkumů do formátu DIF pro akademický výzkum.
+
+* Archivace firemních webových nástěnek pro účely dodržování předpisů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaný převod do formátu DIF pro zastaralé systémy pro reportování.
+
+* Hromadná transformace webových tabulek pro práci napříč platformami.
+
+* Automatické extrahování dat do formátu DIF pro opakující se aktualizace dat z průzkumů.
+
+* Spouštěná generace DIF pro účely archivace a auditu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

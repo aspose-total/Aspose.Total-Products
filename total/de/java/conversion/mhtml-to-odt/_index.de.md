@@ -130,7 +130,51 @@ Jedes Betriebssystem, das die Java Runtime Environment (JRE) ausführen kann, ka
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML zu ODT (OpenDocument Text) Konvertierung ermöglicht plattformübergreifendes Bearbeiten von Webinhalten in LibreOffice oder OpenOffice. Dieses Format eignet sich ideal für Open-Source-Workflows und die gemeinsame Bearbeitung von Dokumenten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Webinhalte archiviert als bearbeitbare ODT-Handbücher und Anleitungen.
+
+* Kollaborative Projektdokumentation in Open-Source-Office-Suiten.
+
+* Bildungsmaterialien und Arbeitsblätter, die von Webseiten konvertiert wurden.
+
+* Mehrsprachige Dokumentenvorbereitung mit ODT für globale Teams.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Massenkonvertierung von MHTML-basierten Archiven in ODT-Dateien für verteilte Teams.
+
+* Integration mit Open-Source-CMS-Plattformen für automatische Dokumentenerstellung.
+
+* Geplante Konvertierung für die Überwachung und Berichterstattung von Webinhalten.
+
+* Automatisch aktualisierte Anleitungen aus sich häufig ändernden Webressourcen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

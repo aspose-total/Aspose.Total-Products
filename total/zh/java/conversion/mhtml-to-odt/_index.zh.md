@@ -129,7 +129,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML转ODT（OpenDocument Text）转换可实现在LibreOffice或OpenOffice中跨平台编辑Web内容。这种格式非常适合开源工作流和协作文档编辑。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 将Web内容存档为可编辑的ODT手册和指南。
+
+* 在开源办公套件中进行协作项目文档编制。
+
+* 将Web页面转换为教育材料和工作表。
+
+* 利用ODT为全球团队准备多语言文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将基于MHTML的存档批量转换为ODT文件，以供分布式团队使用。
+
+* 与开源CMS平台集成，实现自动文档生成。
+
+* 定期转换以监控和报告Web内容。
+
+* 从经常变化的Web资源自动更新的说明手册。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -61,7 +61,51 @@ otherformats: XLSB XLS XLT SXC XLTX MHTML DIF XLTM XLSX XLSM TSV EXCEL MARKDOWN 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **POTX в XLTM** позволяет создавать макросохраненные шаблоны Excel, идеально подходящие для динамичных, повторяющихся бизнес-отчетов, созданных на основе дизайн-фреймворков презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Создание шаблонов отчетов с макросами на основе макетов слайдов.
+
+* Автоматизация рабочих процессов команды с помощью стандартизированных форматов Excel.
+
+* Разработка интерактивных листов для ввода данных на основе содержимого POTX.
+
+* Создание гибких шаблонов для отделов кадров, финансов или операций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетная генерация XLTM для отчетности нескольких отделов.
+
+* Обновление шаблонов по событиям при изменении дизайнов POTX.
+
+* Интеграция с средствами автоматизации Excel для предприятий.
+
+* Запланированные экспорты для повторяющихся циклов производительности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

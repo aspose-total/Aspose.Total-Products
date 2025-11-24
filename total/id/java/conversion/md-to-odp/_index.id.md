@@ -59,7 +59,55 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi Markdown (MD) ke ODP (OpenDocument Presentation) memungkinkan tim mengubah konten berbasis teks sederhana menjadi slide deck dalam format terbuka yang dapat digunakan di LibreOffice Impress dan alat presentasi open-source lainnya. ODP ideal untuk berbagi lintas platform tanpa batasan propietary.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengubah catatan pelatihan Markdown menjadi slide ODP.
+
+* Presentasi kelas yang dibuat dari rencana pelajaran berbasis MD.
+
+* Menerbitkan slide konferensi open-source yang dihasilkan dari Markdown.
+
+* Mengonversi dokumentasi MD menjadi slide ODP yang terstruktur secara visual.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Pipa ETL yang menghasilkan file ODP dari repositori Markdown.
+
+* Pembuatan presentasi pendidikan secara massal untuk platform LMS.
+
+* Produksi ODP otomatis dalam alur kerja dokumentasi sebagai kode.
+
+* Konversi MD ke ODP yang dipicu untuk rilis proyek open-source.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

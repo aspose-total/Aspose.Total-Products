@@ -73,7 +73,55 @@ otherformats: RTF MHTML DOTM WORDML DOT OTT FLATOPC PCL MARKDOWN XAMLFLOW PS DOT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Конвертація MD (Markdown) в ODT (OpenDocument Text) дозволяє використовувати документаційні робочі процеси, спрямовані на відкрите програмне забезпечення. Файли ODT ідеально підходять для команд, які використовують LibreOffice або OpenOffice, надаючи їм гнучку, легку альтернативу пропрієтарним форматам Word, при цьому забезпечуючи багатий форматування.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* Публікація документації відкритого коду у вигляді професійно оформлених файлів ODT.
+
+* Конвертація посібників Markdown у редаговані документи LibreOffice.
+
+* Створення документів для організацій, які уникають пропрієтарних форматів.
+
+* Створення локалізованих посібників ODT на основі вмісту MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* Пакетна конвертація репозиторіїв Markdown у ODT для публічного розповсюдження.
+
+* Автоматизоване створення документації ODT у проектах відкритого коду.
+
+* Крос-платформені робочі процеси ETL, що виводять ODT для урядових установ або НУО.
+
+* Створення ODT на основі тригерів у локалізаційних та перекладацьких потоках.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

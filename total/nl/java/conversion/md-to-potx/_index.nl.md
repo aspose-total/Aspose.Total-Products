@@ -59,7 +59,31 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Het omzetten van Markdown (MD) naar POTX (PowerPoint-sjabloon zonder macro's) maakt het mogelijk om moderne, schone presentatiesjablonen te maken op basis van lichtgewicht tekstbestanden. POTX zorgt voor consistentie in presentaties zonder afhankelijkheid van macro's.
+
+## {{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+- Het maken van schone en gebrande POTX-sjablonen vanuit MD-overzichten.
+- Standaardiseren van bedrijfsslides over meerdere afdelingen.
+- Het opbouwen van marketingdecks op basis van Markdown-samenvattingen.
+- Het ontwerpen van academische presentatiesjablonen via MD-inhoud.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+- Geautomatiseerde productie van POTX in documentatiepijplijnen.
+- Sjabloonregeneratie met behulp van Markdown als brondocument.
+- Batchdistributie van POTX-bestanden voor bedrijfsteams.
+- Geplande updates van MD naar POTX in brandingworkflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

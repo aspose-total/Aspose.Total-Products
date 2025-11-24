@@ -57,7 +57,51 @@ Pomocí API můžete také otočit výstupní obrázek SVGZ podle svých potřeb
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML na SVGZ (komprimovaný SVG) zachovává vektorovou grafiku z webového obsahu a zároveň snižuje velikost souboru. Ideální pro webové, uživatelské rozhraní a ikonografické aplikace, které vyžadují škálovatelnost a lehké soubory.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Extrahování škálovatelných diagramů z online nástěnek.
+
+* Komprese webových vektorových log pro webové stránky.
+
+* Převod organizačních schémat nebo infografik do vektorového formátu.
+
+* Příprava webových ikon z archivovaných vizuálů HTML/CSS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná konverze vektorového webového obsahu do SVGZ.
+
+* Integrace do vývojových linek pro webové stránky pro responzivní grafiku.
+
+* Plánované extrakce vektorů z archivů MHTML.
+
+* Spouštěná komprese a dodávka škálovatelné grafiky pro webové stránky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

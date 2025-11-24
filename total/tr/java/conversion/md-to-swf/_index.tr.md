@@ -59,7 +59,55 @@ presentation.save("output.swf", SaveFormat.Swf);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını SWF (Shockwave Flash) formatına dönüştürmek, metinleri, diyagramları ve grafikleri etkileşimli Flash animasyonlarına dönüştürmeyi sağlar. SWF, eski eğitim içerikleri, öğreticiler ve animasyonlu web sunumları için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown öğreticilerini etkileşimli SWF içeriğine dönüştürme.
+
+* Markdown'dan oluşturulan e-öğrenme modülleri için animasyonlu diyagramlar.
+
+* Web teslimatı için eski Flash tabanlı sunumlar.
+
+* Eğitim platformlarına etkileşimli Markdown görselleri gömme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Çevrimiçi eğitim materyalleri için Otomatik Markdown-SWF dönüşüm hattı.
+
+* MD içeriğinin etkileşimli Flash dosyalarına toplu dönüşümü.
+
+* Markdown'dan türetilen SWF öğrenme modülleri için zamanlanmış güncellemeler.
+
+* Web tabanlı eski platformlar için SWF görsellerinin tetiklenmiş oluşturulması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

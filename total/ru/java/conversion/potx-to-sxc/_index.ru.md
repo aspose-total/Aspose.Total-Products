@@ -61,7 +61,51 @@ otherformats: DIF MARKDOWN XLAM MHTML XLS TSV SXC XLTM XLSM XLT ODS EXCEL FODS X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **POTX в SXC** позволяет создавать файлы электронных таблиц, совместимые с StarOffice, идеально подходящие для организаций, использующих устаревшие или легкие офисные пакеты.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Миграция таблиц на основе шаблонов в устаревшие электронные таблицы.
+
+* Архивирование содержимого POTX для долгосрочного сохранения в организации.
+
+* Поддержка совместимости с более старыми офисными средами.
+
+* Извлечение данных из шаблонов для структурированного анализа.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное преобразование в SXC для крупных институциональных репозиториев.
+
+* Автоматический экспорт в SXC при изменении шаблонов.
+
+* Автоматизированные рабочие процессы для обработки устаревших данных.
+
+* Плановое преобразование для внутренних архивных процессов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

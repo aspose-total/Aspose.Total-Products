@@ -102,7 +102,51 @@ otherformats: XLTM XLSB XLTX XLSM TXT FODS XLAM EXCEL SXC XLT ODS CSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MHTML ל־MD מתמקדת ביצירת קבצי Markdown (.md) נקיים וניתנים לעריכה מארכיונים באינטרנט. קבצי MD הם אידיאליים לאתרים סטטיים, גיטהאב, ויישומי לקיחת פתקים, ומציעים ניידות ופשטות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת קבצי README בגיטהאב מתוכן אינטרנטי.
+
+* ארכיבת מדריכים טכניים ושיעורים כקבצי Markdown.
+
+* המרת מאמרי ידע מקוונים לפתקים ניתנים לעריכה ב־MD.
+
+* יצירת ידויות או תיעוד מבוססי Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת קבצי MHTML ל־MD בצורה צפונית לפרויקטי תיעוד.
+
+* שילוב עם מחוללי אתרים סטטיים כמו Hugo או Jekyll.
+
+* המרת מופעלים לארכיבה אוטומטית של תוכן אינטרנטי.
+
+* שילוב צינור למערכות ניהול תוכן מבוססות Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

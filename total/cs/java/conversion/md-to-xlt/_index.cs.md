@@ -47,7 +47,55 @@ Při převodu souboru MD na XLT můžete také přidat vodoznak do výstupního 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MD (Markdown) na XLT (Excel Template) umožňuje týmům generovat opakovaně použitelné šablony Excelu s konzistentním stylováním a rozložením. Soubory XLT pomáhají organizacím standardizovat tvorbu dokumentů a zároveň udržovat zdrojový obsah v Markdownu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření strukturovaných šablon pro reportování podle směrnic MD.
+
+* Vytváření firemně značených šablon tabulek.
+
+* Převod Markdown SOPs na připravené šablony Excelu k okamžitému použití.
+
+* Vytváření listů pro zadávání dat založených na šablonách z MD příruček.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaná regenerace šablon XLT z verzí kontrolovaných MD.
+
+* Hromadné vytváření šablon pro podnikové oddělení.
+
+* ETL-řízené vytváření šablon pro potřeby strukturovaného reportování.
+
+* Šablony distribuované podle franšíz nebo poboček.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

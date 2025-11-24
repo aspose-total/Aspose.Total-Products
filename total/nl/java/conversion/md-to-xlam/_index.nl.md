@@ -47,7 +47,55 @@ Tijdens het converteren van het MD-bestand naar XLAM, kunt u ook een watermerk t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van MD (Markdown) naar XLAM (Excel Add-in) maakt het mogelijk om macro-enabled extensiebestanden te genereren met functies, automatisering en herbruikbare logica. Dit formaat ondersteunt geavanceerde Excel-gebruikers die programmeerbare invoegtoepassingen nodig hebben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Het maken van macro-invoegtoepassingen van op Markdown gebaseerde formulebibliotheken.
+
+* Verpakken van MD-gebaseerde scripts in XLAM voor financiële teams.
+
+* Automatiseren van repetitieve analysetaken via de generatie van invoegtoepassingen.
+
+* Verspreiden van gestandaardiseerde macro-pakketten afgeleid van Markdown-notities.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Geautomatiseerde XLAM-builds van MD in CI/CD-pipelines.
+
+* Versiebeheerde generatie van macro-invoegtoepassingen voor bedrijven.
+
+* Batchopbouw van XLAM-tools voor data-analyseafdelingen.
+
+* Automatisch bijwerken van macro-invoegtoepassingen afkomstig van documentatie in Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

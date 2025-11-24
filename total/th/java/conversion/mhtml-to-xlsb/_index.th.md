@@ -47,7 +47,51 @@ otherformats: TXT ODS MD XLSM SXC XLT EXCEL DIF XLTX XLSB TSV FODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MHTML เป็น XLSB (Excel Binary Workbook) ช่วยให้การทำงานเร็วขึ้นสำหรับสเปรดชีตที่มาจากเว็บขนาดใหญ่พร้อมรักษาสูตร การจัดรูปแบบ และแมโครไว้  XLSB เหมาะสำหรับชุดข้อมูลทางธุรกิจหรือการเงินที่มีน้ำหนักมาก
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* ชุดข้อมูลการขายออนไลน์หรือสต็อกสินค้าที่ถูกแปลงเป็น Excel เพื่อการวิเคราะห์
+
+* โมเดลการเงินที่ได้มาจากรายงานที่มาจากเว็บ
+
+* แผงควบคุม KPI ที่ส่งออกมาจากแพลตฟอร์มวิเคราะข้อมูลเว็บ
+
+* การเก็บถาวรตารางเว็บขนาดใหญ่ในรูปแบบไบนารีที่กระชับ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* ท่อไปร MHTML เป็น XLSB อัตโนมัติสำหรับงาน Excel ที่มีประสิทธิภาพสูง
+
+* การแปลงตารางเว็บเป็นสมุดงานไบนารีตามกำหนดเวลาสำหรับแผงควบคุมรายงานแบบเรียลไทม์
+
+* การประมวลผลเป็นชุดข้อมูลของตารางที่มาจากเว็บเป็นสมุดงานไบนารี
+
+* การผสานเข้ากับระบบวิเคราะข้อมูลขององค์กรที่ต้องการข้อมูลนำเข้า XLSB
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

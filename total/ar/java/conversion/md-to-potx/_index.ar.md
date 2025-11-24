@@ -59,7 +59,33 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}} 
+
+تحويل Markdown (MD) إلى POTX (قالب PowerPoint بدون ماكرو) يمكن أن يسمح بإنشاء قوالب عروض تقديمية حديثة ونظيفة استنادًا إلى ملفات نصية خفيفة. يضمن POTX توحيد العروض التقديمية دون الاعتماد على الماكرو.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}} 
+
+* إنشاء قوالب POTX نظيفة ومميزة من النسق الرئيسي MD.
+* توحيد الشرائح الشركية عبر عدة أقسام.
+* بناء عروض تسويقية مستمدة من ملخصات Markdown.
+* تصميم قوالب العروض الأكاديمية عبر محتوى MD.
+
+{{% /blocks/products/pf/agp/feature-section-col %}} 
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}} 
+
+* إنتاج POTX تلقائي في خطوط الوثائق.
+* إعادة توليد القوالب باستخدام Markdown كمحتوى مصدري.
+* توزيع دفعة من ملفات POTX لفرق الشركات.
+* تحديثات MD-to-POTX المجدولة في سير العمل الخاصة بالعلامات التجارية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}} 
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

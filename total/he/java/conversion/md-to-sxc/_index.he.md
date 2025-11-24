@@ -78,7 +78,55 @@ otherformats: DIF EXCEL TXT XLTM CSV XLT XLTX XLSM XLSB FODS XLAM TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MD (Markdown) ל-SXC (StarOffice Calc) מביאה תועלות לארגונים שעדיין משתמשים בסביבות גיליון נתונים ישנות של StarOffice/OpenOffice. SXC תומך בנוסחאות, מבני גיליון, ועיצוב תאים המתאימים לסביבות משרד ישנות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* העברת טבלאות Markdown לגיליונות נתונים ישנים של SXC.
+
+* עדכון שיטות עבודה ישנות עם נתונים בבסיס של MD.
+
+* יצירת קבצי SXC עבור פלטפורמות ישנות אך עדיין פעילות.
+
+* הכנת יומני הנדסה מ- Markdown לתבניות גיליון נתונים קלאסיות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת רצפי MD ל-SXC בצורה גורמתית עבור כלים עסקיים לארכיון.
+
+* חיבורי ETL עבור תוכנות ממשלתיות או תעשייתיות ישנות.
+
+* יצירת קבצי SXC יומיים ממאגרי Markdown.
+
+* יצירת SXC מופעלת בהתאם לצורך עבודות תאימות לאחור.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -59,7 +59,55 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 PPT(레거시 PowerPoint 형식)으로 변환하면 이전 버전의 Microsoft Office 환경과 호환성을 유지하면서 슬라이드 구조와 서식을 보존할 수 있습니다. PPT는 클래식 버전의 PowerPoint를 사용하는 기관에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* MD 스크립트에서 레거시 워크스테이션용 PPT 슬라이드 생성.
+
+* Markdown 노트를 사용하여 이전 PPT 덱 생성하는 학술 기관.
+
+* 기업 아카이브가 MD 콘텐츠를 클래식 PPT 형식으로 이관.
+
+* 구식 오피스 설정에 대한 호환성 중심의 슬라이드 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 레거시 시스템 지원을 위한 자동화된 PPT 생성.
+
+* Markdown 아카이브를 PPT로 일괄 변환.
+
+* ETL 프로세스가 클래식 PowerPoint 파일을 출력.
+
+* 아직 구식 스위트를 사용하는 정부 또는 산업 기관을 위한 PPT 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

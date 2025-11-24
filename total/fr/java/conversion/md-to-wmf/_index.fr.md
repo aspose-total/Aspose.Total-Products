@@ -57,7 +57,55 @@ L'API vous permet également d'exporter le fichier MD vers WMF dans un seul fich
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversion de Markdown (MD) en WMF (Windows Metafile) produit des graphiques vectoriels compatibles avec les anciennes applications Windows. Les fichiers WMF conservent une précision basée sur les lignes et sont adaptés pour les diagrammes, les graphiques et les schémas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* Exportation de diagrammes de flux Markdown pour les anciennes applications Windows.
+
+* Conversion de tableaux techniques en diagrammes WMF évolutifs.
+
+* Intégration de diagrammes dans des anciens logiciels de bureau prenant en charge le format WMF.
+
+* Conservation d'illustrations basées sur des lignes à partir du contenu Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* Génération automatisée de WMF à des fins d'archivage ou de compatibilité.
+
+* Conversion en lot de visuels basés sur Markdown pour les systèmes hérités.
+
+* Mises à jour planifiées des diagrammes pour les portails de documentation.
+
+* Intégration avec des pipelines produisant des graphiques WMF pour les rapports d'entreprise.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

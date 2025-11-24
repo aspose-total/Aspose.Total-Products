@@ -47,7 +47,51 @@ Při převodu souboru MHTML na MD můžete také přidat vodoznak do výstupníh
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MHTML na MD se zaměřuje na vytváření čistých, upravitelných souborů Markdown (.md) z webových archivů. Soubory MD jsou ideální pro statické webové stránky, repozitáře na GitHubu a aplikace pro poznámky, nabízejí přenositelnost a jednoduchost.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Generování souborů README na GitHubu z obsahu webových stránek.
+
+* Archivace technických průvodců a tutoriálů jako Markdown.
+
+* Převod online znalostních článků do upravitelných poznámek MD.
+
+* Vytváření zpravodajů nebo dokumentace založené na Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Plánovaná hromadná konverze souborů MHTML na MD pro dokumentační projekty.
+
+* Integrace se statickými generátory webových stránek jako Hugo nebo Jekyll.
+
+* Spouštěný převod pro automatizovanou archivaci obsahu webových stránek.
+
+* Integrace do potrubí pro systémy správy obsahu založené na Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi Markdown (MD) sang XAML (Ngôn ngữ đánh dấu ứng dụng mở rộng) biến đổi nội dung văn bản thành đồ họa giao diện người dùng dựa trên vector hoặc các thành phần tương tác cho ứng dụng Windows. XAML hỗ trợ bố cục chính xác, hình ảnh có thể co giãn và tích hợp với các framework ứng dụng hiện đại.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Hiển thị biểu đồ Markdown dưới dạng các thành phần giao diện người dùng trong ứng dụng WPF.
+
+* Tạo hình minh họa vector tương tác cho ứng dụng desktop.
+
+* Chuyển đổi bảng và biểu đồ tài liệu thành đồ họa XAML.
+
+* Nhúng nội dung Markdown dưới dạng hình ảnh có thể co giãn vào giao diện phần mềm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Tự động tạo XAML từ MD cho các luồng công việc giao diện người dùng phần mềm.
+
+* Xử lý hàng loạt ghi chú Markdown thành các thành phần vector XAML.
+
+* Chuyển đổi theo lịch trình cho các luồng công việc từ tài liệu sang giao diện người dùng.
+
+* Kích hoạt hiển thị biểu đồ Markdown thành XAML cho các ứng dụng tương tác.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

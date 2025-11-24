@@ -57,7 +57,55 @@ otherformats: IMAGE  JPEG2000 TGA WMZ SVGZ PSD DXF WMF EMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل Markdown (MD) إلى WMZ (ملف تعريف رسومات Windows المضغوط) يسمح بمشاركة الرسومات البيانية الناقلة في تنسيق مدمج. WMZ مثالي لتوزيع الرسوم التخطيطية والرسوم البيانية والرسوم التوضيحية دون فقدان الجودة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* إنشاء رسوم توضيحية ناقلة مضغوطة من رسوم Markdown.
+
+* مشاركة الرسومات المتوافقة مع الإرث في أحجام ملفات مقلصة.
+
+* تضمين الرسوم البيانية التقنية في الوثائق أو العروض التقديمية.
+
+* توزيع الخرائط البيانية والمخططات المستمدة من Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل MD إلى WMZ تلقائيًا لأنظمة الوثائق.
+
+* توليد دفعي للرسوم التوضيحية الناقلة المضغوطة من مستودعات Markdown.
+
+* التكامل مع خطوط أنابيب ETL التي تنتج رسومات قابلة للنقل.
+
+* تحديثات مجدولة لملفات WMZ للتوزيع في الشركات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

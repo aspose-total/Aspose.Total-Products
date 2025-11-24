@@ -57,7 +57,55 @@ otherformats: WMF EMZ  DXF JPEG2000 WMZ TGA IMAGE SVGZ PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为JPEG2000可实现高分辨率、无损图像导出。非常适用于技术插图、大型图表或需要保留细节的档案用途。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将Markdown图表转换为高分辨率技术图像。
+
+* 在不损失质量的情况下存档Markdown中的复杂图表。
+
+* 准备包含详细视觉内容的可打印文档。
+
+* 从Markdown笔记生成科学插图。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将Markdown图表自动转换为JPEG2000以实现高质量存储。
+
+* 为研究或工程团队进行批量处理。
+
+* 与需要无损图像格式的发布工作流程集成。
+
+* 在JPEG2000存档中定期更新由Markdown生成的视觉内容。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

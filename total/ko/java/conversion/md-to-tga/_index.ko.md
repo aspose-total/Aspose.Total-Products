@@ -57,7 +57,55 @@ API를 사용하여 필요에 따라 출력 TGA 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 TGA (Targa Image)로 변환하면 비디오 제작, 게임 또는 공학 다이어그램에서 일반적으로 사용되는 고품질 래스터 그래픽이 생성됩니다. TGA는 알파 채널을 지원하며 정확한 표현을 위해 압축되지 않은 출력을 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 비디오 오버레이 또는 게임 자산을 위한 Markdown 기반 다이어그램 내보내기.
+
+* 공학 문서 작성을 위한 고해상도 그래픽.
+
+* Markdown 시각화에서 알파 채널 이미지 생성.
+
+* 발표 자료를 위한 압축되지 않은 기술 다이어그램 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 창의적인 파이프라인을 위한 Markdown 저장소에서 자동화된 TGA 생성.
+
+* 비디오 제작이나 기술 문서 작성을 위한 다이어그램 일괄 내보내기.
+
+* 시뮬레이션이나 게임 프로젝트를 위한 Markdown 다이어그램의 예약 된 변환.
+
+* 콘텐츠 관리 시스템과 통합하여 TGA 시각 자동 출력.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

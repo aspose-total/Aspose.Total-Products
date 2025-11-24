@@ -47,7 +47,55 @@ Durante la conversione del file MD in XLSM, puoi anche aggiungere una filigrana 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversione da Markdown (MD) a XLSM (Cartella di lavoro Excel abilitata per macro) sblocca le capacità di automazione all'interno dei flussi di lavoro dei fogli di calcolo. XLSM supporta le macro VBA, rendendolo ideale per la creazione di report dinamici e calcoli automatizzati.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* Creazione di cruscotti alimentati da macro da tabelle di input in Markdown.
+
+* Automazione di calcolatori di costi provenienti da fogli prodotto in MD.
+
+* Automazione dei flussi di lavoro basati su XLSM costruiti da strutture in Markdown.
+
+* Fogli di ingegneria utilizzando macro create da note in MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* Generazione automatizzata di MD → XLSM nei flussi di lavoro CI.
+
+* Creazione programmata di fogli di calcolo abilitati per macro per le operazioni.
+
+* Pipeline di trasformazione che genera dinamicamente report XLSM.
+
+* Integrazione di fonti Markdown nei sistemi di fogli di calcolo finanziari automatizzati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

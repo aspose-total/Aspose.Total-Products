@@ -59,7 +59,55 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění MD (Markdown) na PPSM (makro-povolená prezentace PowerPointu) kombinuje funkčnost automatického spuštění prezentace s automatizací. PPSM podporuje makra VBA pro časovaný obsah, dynamické aktualizace a interaktivní zážitky.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Automatizované informační stánky s makry řízenými PPSM snímky.
+
+* Interaktivní školicí smyčky navržené z obsahu MD.
+
+* Automaticky časované ukázky produktů získané z Markdownových briefů.
+
+* Dynamické obchodní nebo eventové displeje s makro-povolenými prezentacemi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Produkce PPSM řízená pracovním postupem spuštěná změnami v Markdownu.
+
+* Generování makro-povolených prezentací pro podnikové zobrazovací systémy.
+
+* Automatické aktualizace obsahu informačních stánků z repozitářů MD.
+
+* Hromadné vytváření PPSM pro obchodní řetězce nebo expozice.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

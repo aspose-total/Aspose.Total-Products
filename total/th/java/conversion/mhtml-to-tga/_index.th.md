@@ -57,7 +57,55 @@ API ยังอนุญาตให้คุณส่งออกไฟล์ 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MHTML เป็น TGA (Targa) สร้างภาพระเบิดคุณภาพสูงที่ใช้กันอย่างแพร่หลายในการจำลอง 3 มิติ เกม หรือการแสดงผลทางวิทยาศาสตร์ TGA สามารถรักษาความลึกของสีและช่องอัลฟาสำหรับการใช้งานขั้นสูง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* สกัดเอาเนื้อหาภาพจากเว็บสำหรับโมเดล 3 มิติ หรือการจำลอง
+
+* เก็บถาวรการแสดงผลทางวิทยาศาสตร์หรือแผนภูมิที่มีความโปร่งใส
+
+* แปลงภาพตกแต่งบนเว็บเป็น TGA สำหรับกระบวนการออกแบบ
+
+* เตรียมภาพกราฟิกแบบระเบิดสำหรับสินทรัพย์การเคลื่อนไหวหรือเกม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* แปลง TGA จำนวนมากจากกราฟิกเก็บถาวรบนเว็บ
+
+* วางแผนการทำงานสำหรับส่งออกเนื้อหาภาพจากแผงควบคุมออนไลน์
+
+* สร้าง TGA ตามที่กำหนดสำหรับระบบการจัดการสินทรัพย์ดิจิทัล
+
+* ผสานร่วมกับกระบวนการทำงานการจำลองหรือการจำลอง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

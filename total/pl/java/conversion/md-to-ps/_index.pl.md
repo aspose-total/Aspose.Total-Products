@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie Markdown (MD) na PS (PostScript) tworzy wysokiej jakości pliki drukowane wektorowo odpowiednie do profesjonalnego publikowania. PS obsługuje skalowalne diagramy, formatowanie tekstu i jest powszechnie używany w środowiskach produkcyjnych druku.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+
+
+
+* Tworzenie gotowych do druku diagramów z treści Markdown.
+
+* Generowanie skalowalnych ilustracji PostScript do profesjonalnego publikowania.
+
+* Konwertowanie raportów opartych na Markdown do wydruku o wysokiej rozdzielczości.
+
+* Archiwizowanie dokumentów technicznych w formacie PS dla reprodukowalności.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* Automatyczna konwersja Markdown na PS dla przedsiębiorczych potoków publikacyjnych.
+
+* Generowanie partii PS z repozytoriów Markdown dla dokumentacji gotowej do druku.
+
+* Zaplanowane eksporty PostScript dla raportów wysokiej jakości.
+
+* Integracja z automatyzacją druku, konwertując Markdown na PS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -61,7 +61,51 @@ otherformats: DIF MARKDOWN XLAM MHTML XLS TSV SXC XLTM XLSM XLT ODS EXCEL FODS X
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل **POTX إلى SXC** ينتج ملفات جداول بيانات متوافقة مع StarOffice، مثالية للمؤسسات التي تستخدم الحزم القديمة أو الخفيفة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل الجداول القائمة على القوالب إلى جداول بيانات قديمة.
+
+* أرشفة محتوى POTX للاحتفاظ بالمعلومات لفترة طويلة.
+
+* دعم التوافق مع بيئات المكاتب القديمة.
+
+* استخراج البيانات من القوالب للتحليل المنظم.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعة إلى SXC لمستودعات مؤسسية كبيرة.
+
+* تصدير SXC بشكل تلقائي عند تعديل القوالب.
+
+* سير العمل الآلي لمعالجة البيانات القديمة.
+
+* تحويل مجدول لعمليات الأرشفة الداخلية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

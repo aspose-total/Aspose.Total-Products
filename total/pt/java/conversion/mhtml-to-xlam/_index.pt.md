@@ -47,7 +47,55 @@ Ao converter o arquivo MHTML para XLAM, você também pode adicionar marca d'ág
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A conversão de MHTML para XLAM (Excel Add-In) permite a incorporação de funções automatizadas ou ferramentas derivadas de conteúdo da web no Excel. O XLAM é ideal para cálculos personalizados, macros de relatórios e scripts de automação reutilizáveis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Suplementos personalizados do Excel gerados a partir de modelos de cálculo online.
+
+* Ferramentas de previsão financeira construídas a partir de conjuntos de dados online.
+
+* Painéis interativos com macros provenientes da web.
+
+* Ferramentas de automação reutilizáveis para relatórios corporativos no Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Criação automatizada de suplementos XLAM a partir de painéis MHTML.
+
+* Integração em pipelines de automação do Excel.
+
+* Geração de XLAM acionada para tarefas de relatórios recorrentes.
+
+* Processamento em lote de modelos de cálculo online em suplementos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

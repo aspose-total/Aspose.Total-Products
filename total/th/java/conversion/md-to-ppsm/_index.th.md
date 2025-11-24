@@ -59,7 +59,55 @@ presentation.save("output.ppsm", SaveFormat.Ppsm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MD (Markdown) เป็น PPSM (Macro-Enabled PowerPoint Slideshow) รวมฟังก์ชันการแสดงภาพสไลด์อัตโนมัติพร้อมกับการอัตโนมัติ  PPSM รองรับ VBA macros สำหรับเนื้อหาที่มีเวลา, การอัพเดตแบบไดนามิก, และประสบการณ์ที่สามารถแสดงออกได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* การสร้างบูธอัตโนมัติด้วยสไลด์ PPSM ที่ได้รับการควบคุมด้วย macro.
+
+* การสร้างวงจรการฝึกอบรมแบบโต้ตอบจากเนื้อหา MD.
+
+* การนำเสนอสินค้าตามเวลาที่ตั้งไว้โดยใช้ข้อมูลย่อ Markdown.
+
+* การแสดงผลสินค้าหรือเหตุการณ์ที่เปลี่ยนแปลงได้โดยใช้สไลด์โชว์ที่มี macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การผลิต PPSM ตามกระบวนการทำงานที่เริ่มต้นจากการเปลี่ยนแปลงใน Markdown.
+
+* การสร้างสไลด์ที่มี macro อัตโนมัติสำหรับระบบการแสดงผลขององค์กร.
+
+* การอัพเดตเนื้อหาบูธโดยอัตโนมัติจากที่เก็บข้อมูล MD.
+
+* การสร้าง PPSM แบบกลุ่มสำหรับร้านค้าหรืองานแสดงสินค้า.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

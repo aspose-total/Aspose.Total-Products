@@ -47,7 +47,55 @@ När du konverterar MD-fil till XLAM, kan du också lägga till vattenstämpel t
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera MD (Markdown) till XLAM (Excel Add-in) möjliggör skapandet av makroaktiverade tilläggfiler som innehåller funktioner, automation och återanvändbar logik. Detta format stöder avancerade Excel-användare som behöver programmerbara tillägg.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Skapa makrotillägg från Markdown-baserade formellbibliotek.
+
+* Paketera MD-skript till XLAM för finansiella team.
+
+* Automatisera repetitiva analytiska uppgifter genom tilläggsskapande.
+
+* Distribuera standardiserade makropaket som härstammar från Markdown-anteckningar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Automatiserade XLAM-byggen från MD i CI/CD-pipelines.
+
+* Versionskontrollerad makrotilläggsskapande för företag.
+
+* Batchbyggande av XLAM-verktyg för dataanalysavdelningar.
+
+* Automatisk uppdatering av makrotillägg från dokumentations-Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

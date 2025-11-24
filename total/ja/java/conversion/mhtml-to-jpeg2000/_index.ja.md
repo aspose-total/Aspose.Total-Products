@@ -57,7 +57,51 @@ APIを使用すると、必要に応じて出力JPEG2000画像を回転させる
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをJPEG2000に変換すると、標準のJPEGよりも高品質の画像が生成され、圧縮率と解像度が向上します。JPEG2000は、優れた画像忠実度が必要なアーカイブ、印刷、またはWebアプリケーションに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 長期保存用にWebベースの図をアーカイブ化する。
+
+* 電子商取引プラットフォーム向けの高解像度製品画像。
+
+* 損失のない画質が必要な科学的なチャートや地図。
+
+* デジタル出版用にWebイラストを変換する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* MHTMLアーカイブからJPEG2000への自動バッチ変換。
+
+* デジタルアセット管理（DAM）システムへの統合。
+
+* 高解像度Webグラフィックス用のスケジュール変換パイプライン。
+
+* AIや分析ワークフロー用のトリガー画像抽出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

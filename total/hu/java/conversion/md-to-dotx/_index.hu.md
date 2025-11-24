@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) átalakítása DOTX formátumra (Makrók nélküli Word sablon) ideális a letisztult, következetes és újrafelhasználható elrendezési sablonok létrehozásához. A DOTX megőrzi a design elemeket, miközben lehetővé teszi a csapatok számára, hogy könnyű Markdown fájlokból frissítsék a tartalmat verziókezelt környezetekben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Vállalati arculati sablonok forrása MD dokumentációból.
+
+* Szabványosított képzési lapok Markdown dokumentáció alapján.
+
+* Sablon alapú marketing brosúrák eredetileg MD formátumban.
+
+* Strukturált tudományos papír sablonok Markdown forrásokból generálva.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* DOTX automatizált generálása CI/CD segítségével a dokumentációs csapatok számára.
+
+* Szabványosított Word sablonok újragenerálása a tároló MD fájlokból.
+
+* Markdown tárolók batch feldolgozása készenléti DOTX elrendezésekbe.
+
+* Egységes sablon létrehozása több egységű szervezetek számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

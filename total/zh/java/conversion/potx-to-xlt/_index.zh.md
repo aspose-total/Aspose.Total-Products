@@ -61,7 +61,51 @@ otherformats: TSV XLAM EXCEL FODS ODS XLS DIF XLTM XLSX SXC MHTML MARKDOWN XLTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **POTX 转换为 XLT** 可以从演示设计中创建 Excel 模板文件，非常适合团队间的标准化电子表格布局。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 建立一致的企业电子表格模板。
+
+* 将品牌幻灯片设计转换为可重复使用的 Excel 格式。
+
+* 从 POTX 表格创建结构化报告文件。
+
+* 为培训或入职准备模板库。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 为企业文档批量生成模板。
+
+* 根据设计修订触发的 XLT 更新。
+
+* 定期导出以供部门报告。
+
+* 与工作流自动化系统集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

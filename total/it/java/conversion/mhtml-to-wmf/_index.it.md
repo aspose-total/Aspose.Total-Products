@@ -57,7 +57,51 @@ Utilizzando l'API, puoi anche ruotare l'immagine WMF di output secondo le tue es
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML in WMF (Windows Metafile) converte grafica vettoriale web in file vettoriali Windows modificabili. WMF è ideale per sistemi legacy e applicazioni per ufficio che richiedono visualizzazioni vettoriali scalabili.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* Archiviazione di diagrammi web per l'integrazione nei documenti di ufficio.
+
+* Conversione di organigrammi e illustrazioni per presentazioni.
+
+* Preparazione di risorse vettoriali per la stampa o la documentazione.
+
+* Estrazione di grafica web per report aziendali.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* Generazione batch di WMF da contenuti web.
+
+* Estrazione programmata per sistemi di reporting automatizzati.
+
+* Integrazione nei flussi di lavoro di automazione dell'ufficio.
+
+* Conversione attivata di grafica vettoriale web per presentazioni.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,55 @@ Az API használatával igény szerint elforgathatja a kimeneti DXF-képet is. Az
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) átalakítása DXF (Rajzcsere Formátum) formátummá strukturált diagramokat és folyamatábrákat alakít át CAD-kompatibilis vektorfájlokká. A DXF ideális mérnöki, építészeti és gyártási folyamatokhoz, amelyek precíz vonalakon alapuló illusztrációkat igényelnek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* Markdown diagramok exportálása CAD-kész DXF rajzokká.
+
+* Folyamatábrák és vázlattervek átalakítása mérnöki dokumentációhoz.
+
+* Építészeti vagy mechanikai illusztrációk készítése Markdown jegyzetekből.
+
+* Műszaki diagramok megosztása együttműködő partnerekkel CAD szoftverek használatával.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* Tömeges MD-DXF konverzió mérnöki és tervező csapatok számára.
+
+* Integráció automatizált tervezési csővezetékekkel gyors prototípuskészítéshez.
+
+* Ütemezett DXF exportok műszaki dokumentációs rendszerekhez.
+
+* Kiváltott CAD-kész illusztrációk generálása Markdown tárolókból.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

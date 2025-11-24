@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını GIF'e dönüştürmek, metin içeriğini, diyagramları veya akış şemalarını döngü animasyonlarına çevirmeyi sağlar. GIF'ler geniş destek gördüğü için eğitimler, sosyal medya içerikleri ve hafif etkileşimli görseller için uygundur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown akış şemalarını eğitici GIF'lere dönüştürme.
+
+* Kodlama veya belgeleme iş akışları için animasyonlu hile sayfaları.
+
+* Markdown notlarından türetilen sosyal medya dostu görselleştirmeler.
+
+* Teknik kılavuzlar veya yazılım demo videoları için döngü animasyonları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Markdown belge güncellemelerinden otomatik GIF oluşturma.
+
+* Birden fazla Markdown diyagramının GIF'lere toplu işlenmesi.
+
+* İçerik borularıyla entegrasyon yaparak online platformlar için GIF üretme.
+
+* Pazarlama veya eğitim platformları için zamanlanmış Markdown'tan GIF'e dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

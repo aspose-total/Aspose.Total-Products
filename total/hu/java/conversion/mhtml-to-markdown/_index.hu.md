@@ -130,7 +130,55 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MHTML (webarchívum) fájlok átalakítása MARKDOWN (.md) formátumra lehetővé teszi a webes tartalom könnyű, olvasható és hordozható szöveggé alakítását, amely alkalmas webhelyekhez, blogokhoz és fejlesztői dokumentációkhoz. A Markdown megőrzi a tartalom struktúráját, mint például a fejlécek, linkek, listák és kódrészletek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Webes oktatóanyagok átalakítása Markdown formátumba fejlesztői dokumentációkhoz.
+
+* Blogtartalmak archiválása weboldalakról Markdown formátumban.
+
+* Tudásbázis-cikkek létrehozása online kézikönyvekből.
+
+* Webes jelentések átalakítása hordozható Markdown jegyzetekké.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Több MHTML oldal tömeges átalakítása Markdown formátumba statikus webhelygenerátorokhoz.
+
+* Kiváltott Markdown generálás az automatikus tartalomfrissítésekhez fejlesztői wikiken.
+
+* Integráció CI/CD csővezetékekkel a webes tartalom átalakításához dokumentációvá.
+
+* Webes jelentések automatizált kinyerése Markdown-alapú tudásbázisokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

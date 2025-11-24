@@ -61,7 +61,51 @@ Trong khi chuyển đổi tệp POTX sang FODS, bạn cũng có thể thêm hìn
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi **POTX thành FODS** xuất dữ liệu mẫu thành các tệp Bảng tính OpenDocument phẳng để đạt độ tương thích tối đa trên các công cụ mã nguồn mở.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chỉnh sửa dữ liệu phát sinh từ POTX trong LibreOffice và OpenOffice.
+
+* Chuẩn bị bảng tính định dạng mở theo tiêu chuẩn của chính phủ.
+
+* Tạo bảng dữ liệu nhẹ, không phụ thuộc vào nền tảng.
+
+* Lưu trữ siêu dữ liệu mẫu POTX trong các định dạng mở.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Xử lý hàng loạt các tệp POTX thành FODS cho các nhóm đa nền tảng.
+
+* Xuất bản định dạng mở theo lịch trình để tuân thủ hoặc kiểm toán.
+
+* Tích hợp với quy trình tự động hóa mã nguồn mở.
+
+* Chuyển đổi FODS dựa trên cơ sở kích hoạt khi các mẫu được cập nhật.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

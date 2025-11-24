@@ -59,7 +59,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为XAML（可扩展应用标记语言）可将文本内容转换为基于矢量的UI图形或交互式组件，用于Windows应用程序。XAML支持精确布局、可伸缩的视觉效果，并与现代应用程序框架集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 在WPF应用程序中将Markdown图表渲染为UI组件。
+
+* 为桌面应用程序创建交互式矢量插图。
+
+* 将文档中的表格和图表转换为XAML图形。
+
+* 将Markdown内容嵌入软件界面作为可伸缩的视觉效果。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于软件UI流程的自动化MD到XAML生成。
+
+* 将Markdown笔记批量处理为XAML矢量组件。
+
+* 用于文档到UI工作流程的定时转换。
+
+* 将Markdown图表触发渲染为XAML以用于交互式应用程序。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

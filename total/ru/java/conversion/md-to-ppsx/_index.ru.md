@@ -59,7 +59,55 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MD (Markdown) в PPSX (PowerPoint Slideshow) создает современные файлы слайд-шоу, которые открываются непосредственно в полноэкранном режиме. PPSX широко используется для автоматического запуска презентаций в корпоративной, розничной и мероприятий средах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Автоматическое воспроизведение презентаций по продажам на основе заметок MD.
+
+* Создание корпоративных экранов в холле на основе содержимого Markdown.
+
+* Построение циклов слайдов для мероприятий на основе расписаний или повесток дня на основе MD.
+
+* Непрерывные демонстрации продуктов на основе описаний Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Автоматизированные рабочие процессы PPSX для знаков и информационных досок.
+
+* Генерация запланированных слайд-шоу из сценариев мероприятий Markdown.
+
+* Пакетное создание PPSX для использования в розничных точках.
+
+* Преобразование MD в PPSX в цифровых платформах цифрового информационного оборудования.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

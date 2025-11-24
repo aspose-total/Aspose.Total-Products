@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง MHTML เป็น OTT (OpenDocument Template) ช่วยให้สามารถสร้างเทมเพลตที่ใช้ซ้ำได้สำหรับชุดโปรแกรมสำนักงานโอเพนซอร์ส โดยรักษาสไตล์และเลเอาท์บนเว็บให้มีความสม่ำเสมอ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* เทมเพลตเอกสารใช้ทั่วบริษัทสำหรับ LibreOffice.
+
+* เทมเพลตแผนการเรียนที่ใช้ซ้ำจากเนื้อหาการศึกษาบนเว็บ.
+
+* เทมเพลตข้อเสนอและสัญญาซอร์สโอเพนมาตรฐาน.
+
+* เทมเพลตของเวิร์กโฟลว์สำหรับการจัดการเนื้อหาร่วมกัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างเทมเพลต OTT โดยอัตโนมัติจากหลายหน้า MHTML.
+
+* การผสมผสานกับเครื่องมืออัตโนมัติ LibreOffice สำหรับการสร้างเอกสารเป็นชุด.
+
+* การอัพเดทเทมเพลตโดยอัตโนมัติจากการเปลี่ยนแปลงเนื้อหาบนเว็บ.
+
+* การมาตรฐานเอกสารอย่างเรียบง่ายในทีมที่กระจาย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

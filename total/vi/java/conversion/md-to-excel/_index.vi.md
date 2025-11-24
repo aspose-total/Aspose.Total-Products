@@ -47,7 +47,55 @@ Trong khi chuyển đổi tệp MD sang EXCEL, bạn cũng có thể thêm hình
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chuyển đổi Markdown (MD) sang Excel (XLS/XLSX) biến các tệp văn bản đơn giản thành bảng tính giàu công thức. Đầu ra Excel hỗ trợ định dạng, biểu đồ, xác thực dữ liệu và phân tích, làm cho chúng phù hợp cho báo cáo kinh doanh và quy trình hoạt động.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* Chuyển danh sách tính năng Markdown thành các bảng tính Excel có thể sắp xếp.
+
+* Tạo báo cáo tài chính từ tài liệu MD.
+
+* Nhập bảng Markdown như các bộ theo dõi dữ liệu Excel.
+
+* Chuẩn bị danh mục sản phẩm dựa trên MD dưới dạng bảng tính.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* Chuyển đổi tài liệu Markdown thành các bảng tính Excel theo dõi quy trình.
+
+* Tạo ra các tệp XLSX hàng loạt cho nhiều bộ phận.
+
+* Cập nhật tự động báo cáo Excel từ các kho lưu trữ MD kiểm soát phiên bản.
+
+* Quy trình kỹ thuật dữ liệu cung cấp từ các biến đổi MD → Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

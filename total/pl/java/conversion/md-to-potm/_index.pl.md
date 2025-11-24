@@ -59,7 +59,55 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwersja MD (Markdown) na POTM (szablon PowerPoint z obsługą makr) umożliwia tworzenie szablonów prezentacji wzbogaconych o automatyzację. POTM obsługuje makra VBA do automatycznego formatowania, generowania slajdów i wstawiania dynamicznej zawartości.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Szablony slajdów zasilane makrami zbudowane na bazie frameworków Markdown.
+
+* Zautomatyzowane dekiel raportowe generowane z dokumentacji MD.
+
+* Tworzenie interaktywnego szablonu szkoleniowego z wykorzystaniem treści MD.
+
+* Dynamiczne szablony biznesowe załadowane logiką VBA.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Automatyczne tworzenie szablonów POTM wywołane aktualizacjami MD.
+
+* Generowanie zbiorcze szablonów PowerPoint z obsługą makr.
+
+* Workflows CI/CD budujące frameworki POTM dla zespołów raportowych.
+
+* Regeneracja szablonów POTM sterowana workflowami dla brandingów korporacyjnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -143,7 +143,55 @@ Elk besturingssysteem dat de Java Runtime Environment (JRE) kan draaien, kan Asp
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het converteren van MHTML naar XAMLFLOW maakt het mogelijk om webinhoud en vectorassets te gebruiken in interactieve workflows en UI-automatisering met behulp van op XAML gebaseerde flowtoepassingen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Integreren van webdiagrammen en -graphics in geautomatiseerde XAML-workflows.
+
+* Archiveren van interactieve webinhoud voor Windows-automatiseringssystemen.
+
+* Voorbereiden van op web gebaseerde dashboards voor door UI gestuurde procesautomatisering.
+
+* Omzetten van webformulieren en -besturingselementen voor op flow gebaseerde desktoptoepassingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batchconversie van MHTML naar XAMLFLOW voor UI-automatiseringspijplijnen.
+
+* Getriggerde updates voor dashboards en interactieve webassets.
+
+* Integratie in RPA (Robotic Process Automation)-workflows.
+
+* Geplande extractie van web-UI-componenten voor bedrijfstoepassingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

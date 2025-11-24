@@ -47,7 +47,55 @@ Při převodu souboru MD na XLSM můžete také přidat vodoznak do výstupního
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod Markdown (MD) na XLSM (Excelová pracovní kniha s makry) odemyká automatizační schopnosti uvnitř tabulkových pracovních postupů. XLSM podporuje makra VBA, což ho činí ideálním pro dynamické reportování a automatizované výpočty.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření makro-ovládaných přehledů z Markdown vstupních tabulek.
+
+* Automatizace nákladových kalkulátorů získaných z MD produktových listů.
+
+* Automatizace pracovních postupů založených na XLSM vytvořených z Markdown struktur.
+
+* Inženýrské listy vytvářené pomocí maker vytvořených z poznámek MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaný převod MD → XLSM v rámci pracovních postupů CI.
+
+* Plánované vytváření makro-ovládaných tabulek pro operace.
+
+* Transformační potrubí generující dynamicky XLSM reporty.
+
+* Integrování Markdown zdrojů do automatizovaných finančních tabulkových systémů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,55 @@ otherformats: EMZ IMAGE DXF WMZ WMF PSD TGA JPEG2000 SVGZ  DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του Markdown (MD) σε PSD (Photoshop Document) επιτρέπει στους σχεδιαστές να εισάγουν κειμενικό και δομημένο περιεχόμενο σε επεξεργάσιμα αρχεία Photoshop με διαφορετικά layers. Το PSD επιτρέπει τη συνδυασμό διαγραμμάτων βασισμένων σε Markdown με επαγγελματική επεξεργασία γραφικών.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Μετατροπή σημειώσεων Markdown σε επεξεργάσιμα σχέδια μοκαπ.
+
+* Δημιουργία επιπέδων διαγραμμάτων για infographics ή περιεχόμενο μάρκετινγκ.
+
+* Συνδυασμός γραφικών που δημιουργήθηκαν από Markdown με ενεργητικά στοιχεία ταυτότητας εταιρείας.
+
+* Προετοιμασία αρχείων σχεδιασμού για συνεργατικές δημιουργικές ροές εργασίας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη μετατροπή Markdown σε PSD για ομάδες μάρκετινγκ.
+
+* Δημιουργία πακέτων επιπέδων οπτικών στοιχείων από αποθετήρια Markdown.
+
+* Ενσωμάτωση με γραφικές διαδικασίες για παραγωγή περιεχομένου.
+
+* Ενεργοποιημένη δημιουργία PSD για συνεργατικά σχεδιαστικά έργα.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

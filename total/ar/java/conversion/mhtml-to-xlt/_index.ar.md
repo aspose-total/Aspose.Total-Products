@@ -47,7 +47,55 @@ otherformats: DIF MD EXCEL ODS XLT FODS XLAM XLSB SXC XLTM TXT TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MHTML إلى XLT (قالب Excel) يسمح بتحويل محتوى الويب إلى قوالب Excel قابلة لإعادة الاستخدام، مع الحفاظ على التخطيط والهيكل. مثالي لتقارير موحدة وتوحيد سير العمل.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* قوالب مالية موحدة مستمدة من لوحات القيادة عبر الإنترنت.
+
+* إنشاء قوالب للميزانيات أو الفواتير من البيانات عبر الويب.
+
+* جداول تتبع أداء أو مؤشرات الأداء القابلة لإعادة الاستخدام.
+
+* قوالب Excel للفريق بشكل واسع لتقارير موحدة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* إنشاء تلقائي لقوالب XLT من محتوى الويب.
+
+* خطوط أنابيب التحويل الدفعي لاحتياجات التقارير المتكررة.
+
+* إنشاء قوالب مُشغّلة تلقائيًا لوحدات إدارة المشاريع.
+
+* التكامل مع أدوات سير العمل لتنسيق جداول البيانات بشكل متسق.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -47,7 +47,55 @@ MD 파일을 XLT로 변환하는 동안 출력 XLT 파일 형식에 워터마크
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (마크다운)에서 XLT (엑셀 템플릿)으로 변환하면 팀이 일관된 스타일과 레이아웃을 가진 재사용 가능한 엑셀 템플릿을 생성할 수 있습니다. XLT 파일은 소스 콘텐츠를 마크다운으로 유지하면서 조직이 문서 작성을 표준화하는 데 도움이 됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* MD 가이드라인에서 구조화된 보고서 템플릿 작성.
+
+* 회사 브랜드의 스프레드시트 템플릿 제작.
+
+* 마크다운 SOP를 사용할 수 있는 엑셀 템플릿으로 변환.
+
+* MD 플레이북에서 가져온 템플릿 기반의 데이터 입력 시트.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 버전 관리된 MD에서 XLT 템플릿의 자동 재생성.
+
+* 기업 부서를 위한 일괄 템플릿 생성.
+
+* 구조화된 보고서 작성을 위한 ETL 기반 템플릿 구축.
+
+* 프랜차이즈 또는 지점별 템플릿 배포 워크플로.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

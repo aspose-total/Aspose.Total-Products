@@ -47,7 +47,55 @@ otherformats: SXC XLTX XLAM FODS EXCEL ODS TSV XLSB XLTM XLSM XLT DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น XLSM (งานสำหรับ Excel Workbook ที่เปิดใช้งานแมโคร) เปิดรอบความสามารถในการอัตโนมัติภายในของกระบวนการทำงานของสเปรดชีต  XLSM รองรับ VBA macros ซึ่งเหมาะสำหรับรายงานแบบไดนามิกและการคำนวณอัตโนมัติ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* สร้างแดชบอร์ดที่ใช้แมโครจากตารางข้อมูล Markdown
+
+* การอัตโนมัติเครื่องคำนวณต้นทุนที่มาจากแผ่นข้อมูลสินค้า MD
+
+* การอัตโนมัติกระบวนการทำงานที่ใช้ XLSM ที่สร้างจากโครงสร้าง Markdown
+
+* การสร้างแผ่นงานด้วยแมโครที่สร้างจากบันทึก MD
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การสร้าง MD → XLSM อัตโนมัติในกระบวนการทำงาน CI
+
+* การสร้างสเปรดชีตที่เปิดใช้งานแมโครตามกำหนดเวลาสำหรับการดำเนินงาน
+
+* ท่อการเปลี่ยนแปลงที่สร้างรายงาน XLSM อย่างไดนามิก
+
+* การรวมแหล่งข้อมูล Markdown เข้ากับระบบสเปรดชีตการเงินอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

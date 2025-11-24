@@ -61,7 +61,51 @@ Podczas konwertowania pliku POTX do TSV możesz również dodać znak wodny do w
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie **POTX na TSV** generuje pliki wartości oddzielonych tabulatorem, które są idealne do analizy opartej na tekście, potoków danych i przetwarzania wstępnego uczenia maszynowego.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Przygotowywanie danych slajdów POTX do analizy statystycznej.
+
+* Importowanie treści tabelarycznych do przepływów pracy uczenia maszynowego.
+
+* Wyodrębnianie strukturalnej zawartości szablonu dla programistów.
+
+* Tworzenie zbiorów danych TSV dla narzędzi raportowania BI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Wydobywanie szablonów wsadowych do TSV dla zespołów analitycznych.
+
+* Aktualizacje oparte na wyzwalaczach do formatów TSV po edycji szablonów.
+
+* Integracja z potokami ETL do transformacji danych.
+
+* Harmonogramowa generacja TSV dla cykli raportowania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

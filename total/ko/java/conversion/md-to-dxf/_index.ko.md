@@ -57,7 +57,55 @@ API를 사용하여 필요에 따라 출력 DXF 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 DXF (Drawing Exchange Format)로 변환하면 구조화된 다이어그램과 플로차트를 CAD 호환 벡터 파일로 변환할 수 있습니다. DXF는 정확한 선 기반 일러스트레이션을 필요로 하는 공학, 건축 및 제조 워크플로에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Markdown 다이어그램을 CAD용 DXF 도면으로 내보내기.
+
+* 공학 문서 작성을 위한 플로차트 및 도면 변환.
+
+* Markdown 노트에서 건축 또는 기계 일러스트레이션 준비.
+
+* CAD 소프트웨어를 사용하여 협업자들과 기술 다이어그램 공유.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 공학 및 디자인 팀을 위한 일괄 MD-to-DXF 변환.
+
+* 빠른 프로토타이핑을 위한 자동화된 디자인 파이프라인 통합.
+
+* 기술 문서 시스템을 위한 예약된 DXF 내보내기.
+
+* Markdown 저장소에서 CAD용 일러스트레이션을 생성하는 트리거.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

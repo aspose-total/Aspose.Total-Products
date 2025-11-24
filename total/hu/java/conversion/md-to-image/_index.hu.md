@@ -57,7 +57,55 @@ Az API használatával igény szerint elforgathatja a kimeneti IMAGE-képet is. 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) átalakítása általános képformátumokká (PNG, JPG, BMP) teszi lehetővé táblázatok, diagramok és formázott szövegek megjelenítését hordozható, platformfüggetlen formátumban. A képeket be lehet ágyazni prezentációkba, webhelyekre vagy dokumentumokba.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Markdown diagramok exportálása statikus képek formájában diákhoz vagy jelentésekhez.
+
+* Markdown alapú táblázatok megosztása webhelyeken vagy blogokban.
+
+* Képek létrehozása felhasználói kézikönyvekhez vagy műszaki útmutatókhoz.
+
+* Vizuális pillanatképek Markdown táblázatokról prezentációkhoz vagy PDF-ekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Ütemezett Markdown tartalom átalakítása képekbe.
+
+* ETL csővezetékek vizuális eszközök előállítása Markdown fájlokból.
+
+* Diagramok automatikus generálása dokumentációs portálokhoz.
+
+* Kiváltás alapú kép exportálás irányítópultokhoz vagy jelentési rendszerekhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

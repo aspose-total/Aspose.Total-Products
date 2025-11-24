@@ -59,7 +59,55 @@ presentation.save("output.otp", SaveFormat.Otp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή MD (Markdown) σε OTP (OpenDocument Presentation Template) βοηθά τις οργανώσεις να δημιουργήσουν επαναχρησιμοποιήσιμα πρότυπα διαφανιών που ακολουθούν συνεπή εταιρική ταυτότητα διατηρώντας τα επεξεργάσιμα περιεχόμενα που αποθηκεύονται σε Markdown. Τα αρχεία OTP είναι ελαφριά, ευέλικτα και ιδανικά για περιβάλλοντα ανοικτού κώδικα.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Δημιουργία προσαρμοσμένων προτύπων OTP από περιεχόμενο Markdown.
+
+* Δημιουργία επαναχρησιμοποιήσιμων προτύπων διαλέξεων που προέρχονται από περιλήψεις μαθημάτων MD.
+
+* Συνεπείς δομές διαφανειών για ΜΚΟ και ακαδημαϊκά ιδρύματα.
+
+* Μετατροπή τεκμηρίωσης Markdown σε ομοιόμορφα πρότυπα παρουσιάσεων.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* Αυτοματοποιημένη δημιουργία προτύπων OTP από MD με έλεγχο εκδόσεων.
+
+* Μαζική παραγωγή προτύπων παρουσιάσεων ανοικτού κώδικα.
+
+* Τακτική ενημέρωση αρχείων OTP από αποθετήρια Markdown.
+
+* Ροές εργασίας με κέντρο το πρότυπο για κατανεμημένες οργανώσεις.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

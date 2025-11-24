@@ -57,7 +57,55 @@ Met behulp van de API kunt u ook de uitgevoerde DXF-afbeelding roteren volgens u
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Het omzetten van Markdown (MD) naar DXF (Drawing Exchange Format) transformeert gestructureerde diagrammen en stroomdiagrammen in CAD-compatibele vectorbestanden. DXF is ideaal voor engineering, architectuur en productieworkflows die nauwkeurige op lijnen gebaseerde illustraties vereisen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* Exporteren van Markdown-diagrammen naar CAD-gereed DXF-tekeningen.
+
+* Het omzetten van stroomdiagrammen en schema's voor technische documentatie.
+
+* Het voorbereiden van architectuur- of mechanische illustraties vanuit Markdown-notities.
+
+* Het delen van technische diagrammen met samenwerkingspartners met behulp van CAD-software.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* Batch MD-naar-DXF conversie voor engineering- en ontwerpteams.
+
+* Integratie met geautomatiseerde ontwerppipelines voor snelle prototyping.
+
+* Geplande DXF-export voor technische documentatiesystemen.
+
+* Getriggerde generatie van CAD-gereed illustraties vanuit Markdown-repositories.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

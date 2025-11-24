@@ -130,7 +130,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをPS（PostScript）に変換すると、Webアーカイブから高品質のベクター印刷用ドキュメントが作成されます。PSは、プロの印刷およびデスクトップパブリッシングワークフローに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* Webレポートを印刷用のPostScriptドキュメントに変換する。
+
+* 印刷用に技術的なイラストや図をアーカイブする。
+
+* オンラインソースからマーケティング資料やパンフレットを準備する。
+
+* デスクトップパブリッシング用の高解像度ベクターグラフィックを生成する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* WebコンテンツをPSファイルに自動バッチ変換する。
+
+* 出版パイプライン用にトリガーされたPS生成。
+
+* オンデマンド印刷システムとの統合。
+
+* Webソースの印刷用グラフィックの定期的なアーカイブ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

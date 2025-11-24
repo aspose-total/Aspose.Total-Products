@@ -144,7 +144,51 @@ Bármely operációs rendszer, amely képes a Java Runtime Environment (JRE) fut
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MHTML átalakítása XAMLFLOW-ra lehetővé teszi a webes tartalom és vektorgrafikus eszközök használatát interaktív munkafolyamatokban és UI automatizálásban XAML alapú folyamatalkalmazások segítségével.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Webes diagramok és grafikák integrálása automatizált XAML munkafolyamatokba.
+
+* Interaktív webes tartalom archiválása Windows automatizálási rendszerek számára.
+
+* Webes alapú vezérlőpultok előkészítése UI vezérelt folyamatautomatizáláshoz.
+
+* Webes űrlapok és vezérlők átalakítása folyamat alapú asztali alkalmazásokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Tömeges MHTML-XAMLFLOW átalakítás UI automatizálási csövekhez.
+
+* Kiváltott frissítések vezérlőpultokhoz és interaktív webes eszközökhöz.
+
+* Integráció RPA (Robotikai Folyamatautomatizálás) munkafolyamatokba.
+
+* Ütemezett webes UI komponensek kinyerése vállalati alkalmazásokhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

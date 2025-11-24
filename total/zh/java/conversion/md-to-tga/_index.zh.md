@@ -57,7 +57,55 @@ otherformats: IMAGE WMF TGA WMZ SVGZ EMZ  PSD DXF JPEG2000 DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为TGA（Targa图像）可创建高质量的光栅图形，常用于视频制作、游戏或工程图。TGA支持alpha通道和无损输出，以实现准确的呈现。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将基于Markdown的图表导出为视频叠加或游戏资产。
+
+* 用于工程文档的高分辨率图形。
+
+* 从Markdown可视化中创建alpha通道图像。
+
+* 生成用于演示材料的无损技术图表。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从Markdown存储库自动生成TGA，用于创意流程。
+
+* 批量导出图表，用于视频制作或技术文档。
+
+* 定期将Markdown图表转换为模拟或游戏项目。
+
+* 与内容管理系统集成，自动输出TGA视觉资料。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

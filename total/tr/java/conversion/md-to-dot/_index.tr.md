@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (Markdown) dosyalarını DOT (Word Şablonu) formatına dönüştürmek, işletmelerin markalı belgeleri standartlaştırmasına yardımcı olurken Markdown'ta sürüm kontrollü içeriği korur. DOT şablonları, biçimlendirme tutarlılığını korur ve ekiplerin temiz, yeniden kullanılabilir bir yapıdan yeni Word dosyaları anında oluşturabilmesini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown tabanlı şablonlardan tutarlı başlıklar oluşturma.
+
+* MD taslaklarından marka onaylı pazarlama broşürleri yayınlama.
+
+* İK ekiplerinin MD rehberlerinden onboarding belge şablonları oluşturması.
+
+* Hukuk departmanlarının Markdown'dan alınan sözleşme yapılarını standartlaştırması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* CMS yayınlama iş akışlarında otomatik DOT şablonu oluşturma.
+
+* Markalama varlıklarını güncelleyen dağıtılmış ekipler için merkezi dönüşüm.
+
+* Git'te saklanan ana şablonların zamanlanmış yeniden oluşturulması.
+
+* Franchise veya çok şube belge ihtiyaçları için otomatik DOT oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

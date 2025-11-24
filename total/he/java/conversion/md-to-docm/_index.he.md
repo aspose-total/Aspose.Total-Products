@@ -72,7 +72,55 @@ otherformats: DOTM PS XAMLFLOW RTF MARKDOWN FLATOPC OTT PCL DOT WORDML ODT MHTML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת קבצי MD (Markdown) ל-DOCM (מסמך Word עם מאקרו) מאפשרת לצוותים לשפר קבצי טקסט קלים באמצעות תכונות אוטומציה אינטראקטיביות. קבצי DOCM תומכים במאקרוס מוטמעים, מה שהופך אותם לאידיאליים לתיעוד המופעל על ידי תהליכי עבודה, תבניות תיעוד עסקיות ודוחות שנוצרים אוטומטית שדורשים פעולות דינמיות בתוך Word.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* המרת הערות Markdown של מפתחים ל-SOPs המופעלות במאקרו.
+
+* מסמכי מדיניות המופעלים אוטומטית לצורך תהליכי עבודה בארגון.
+
+* תבניות הצעות אינטראקטיביות הנבנות מקבצי MD שמאוחסנים ב-Git.
+
+* לוגי ביקורת המופעלים במאקרו הנוצרים מלוגי שינויים בעלי תבנית Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* המרת MD ל-DOCM מתוזמנת עבור צוותי תאימות.
+
+* צינורות ETL שיוצרים דוחות Word המופעלים במאקרו מ-Markdown.
+
+* תהליכי CI/CD שמחדשים תיעוד DOCM מתוכן של מאגר.
+
+* תיעוד מופעל באופן אוטומטי באמצעות מאקרו עבור מחלקות ההנדסה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -129,7 +129,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML'den ODT (Açık Belge Metni) dönüşümü, LibreOffice veya OpenOffice'de web içeriğinin çapraz platformda düzenlenmesini sağlar. Bu format, açık kaynak iş akışları ve işbirlikçi belge düzenleme için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Düzenlenebilir ODT kılavuzları ve rehberler olarak arşivlenmiş web içeriği.
+
+* Açık kaynak ofis paketlerinde işbirlikçi proje belgeleri.
+
+* Web sayfalarından dönüştürülen eğitim materyalleri ve çalışma sayfaları.
+
+* Küresel ekipler için ODT kullanarak çok dilli belge hazırlığı.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Dağıtılmış ekipler için MHTML tabanlı arşivlerin toplu olarak ODT dosyalarına dönüştürülmesi.
+
+* Otomatik belge oluşturması için açık kaynak CMS platformlarıyla entegrasyon.
+
+* Web içeriğinin izlenmesi ve raporlanması için zamanlanmış dönüşüm.
+
+* Sık sık değişen web kaynaklarından otomatik olarak güncellenen talimat kılavuzları.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

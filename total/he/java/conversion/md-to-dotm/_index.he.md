@@ -72,7 +72,55 @@ otherformats: PS DOCM FLATOPC MHTML PCL MARKDOWN RTF DOT OTT ODT WORDML DOTX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MD (Markdown) ל-DOTM (תבנית המופעלת במקרו) משלבת עריכת טקסט קלה עם תבניות Word המשופרות על ידי מקרוים מוטבעים. תבניות DOTM מאפשרות לצוותים לאוטומטז עבודות מסמכים חוזרות וליצור מיידית מסמכים סטנדרטיים, מוכנים למקרו.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* בניית תבניות עם מקרוים מ Markdown playbooks.
+
+* יצירת תבניות לחשבוניות אוטומטיות או טפסים מתוכן MD.
+
+* מתישהו מסמכים עסקיים עם שדות המוזרמים באופן תכנותי.
+
+* יצירת תבניות ידידותיות לאוטומציה חוזרת מתיעוד טכני.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* בניית תבניות DOTM באופן אוטומטי למחזורי דיווח בגדלים גדולים.
+
+* שילוב עם מנועי זרימה המפעילים את הדור MD-to-DOTM.
+
+* יצירה בלחיצת כפתור של תבניות המופעלות במקרו עבור מחלקות מבוזרות.
+
+* הכנסת תוכן דינמי באופן אוטומטי במהלך שחזור התבנית.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

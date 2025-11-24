@@ -102,7 +102,51 @@ otherformats: ODS XLSM TSV XLSX FODS MARKDOWN XLSB DIF SXC XLT XLS EXCEL CSV XLT
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **POTX ל-XLAM** מייצרת תוספי Excel המופעלים באמצעות מאקרו שמאפשרים להטמיע תוכן שנוצר מתבנית בתוך פתרונות Excel ממוכנים באופן אוטומטי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* בניית תוספי Excel ניתנים לשימוש מחודש מנתוני תבנית.
+
+* פיתוח זרימות עבודה אוטומטיות באמצעות תוכן מבוסס POTX.
+
+* יצירת מחשבונים עסקיים דינמיים או כלי דיווח.
+
+* הטמעת לוגיקה מתקדמת מתבניות שקופות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת כלים XLAM בצורה צפופה מספריות תבניות עקביות.
+
+* עדכוני תוסף על סמך טריגרים לדיווח דינמי.
+
+* הפצה מתוזמנת של גיליונות אלקטרוניים המופעלים באמצעות מאקרו.
+
+* שילוב עם מתכני אוטומציה של Excel בחברה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını OTT (OpenDocument Text Template) formatına dönüştürmek, açık kaynak ofis paketleri için ölçeklenebilir şablon oluşturmayı destekler. OTT şablonları, istikrarlı bir stil temelinden çok sayıda belge oluşturmayı sağlarken tutarlı biçimlendirmeyi korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Çok dilli belge üretimi için OTT şablonları oluşturma.
+
+* Markdown tabanlı kılavuzlardan yapılandırılmış rapor şablonları oluşturma.
+
+* Açık kaynak ortamlar için ofis belgelerini standartlaştırma.
+
+* NGO'lar veya kamu kurumları için tekrar kullanılabilir ODT belge formatları oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Açık kaynak yayınlama iş akışlarında otomatik OTT oluşturma.
+
+* Markdown sürüm kontrolünden senkronize edilen şablon güncellemeleri.
+
+* LibreOffice kullanarak dağıtılmış ekipler için şablon setleri toplu üretimi.
+
+* Hükümet veya kar amacı gütmeyen kuruluşlar tarafından zamanlamaya göre OTT şablonları oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

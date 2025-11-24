@@ -57,7 +57,55 @@ otherformats: TGA PSD DXF WMF DICOM SVGZ JPEG2000 EMZ WMZ IMAGE
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή αρχείων Markdown (MD) σε μορφή DICOM (Ψηφιακή Εικονογράφηση και Επικοινωνίες στην Ιατρική) επιτρέπει την ολοκλήρωση κειμενικής τεκμηρίωσης ή σχολίων σε ροές εργασίας ιατρικής απεικόνισης. Το DICOM υποστηρίζει μεταδεδομένα, τυποποιημένες δομές εικόνας και είναι ιδανικό για συστήματα νοσοκομείων και περιβάλλοντα έρευνας.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Ενσωμάτωση κλινικών σημειώσεων βασισμένων σε Markdown σε αρχεία ιατρικών εικόνων.
+
+* Δημιουργία δομημένων οπτικών εκπαιδευτικών υλικών για την εκπαίδευση ασθενών με περιεχόμενο Markdown.
+
+* Ενσωμάτωση τεκμηρίωσης έρευνας σε σύνολα δεδομένων εικονογράφησης συμβατά με το DICOM.
+
+* Αποθήκευση κειμενικών σχολίων δίπλα σε εικόνες ακτινολογίας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη μετατροπή MD σε DICOM για συστήματα τεκμηρίωσης νοσοκομείων.
+
+* Παρτίδα επεξεργασίας κλινικών αρχείων Markdown για ολοκλήρωση στο ηλεκτρονικό αρχείο υγείας.
+
+* Προγραμματισμένες αγωγές μετατροπής που τροφοδοτούν αρχεία DICOM.
+
+* Ενεργοποιημένη απεικόνιση αναφορών Markdown δίπλα στα δεδομένα απεικόνισης για διάγνωση με υποστήριξη τεχνητής νοημοσύνης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

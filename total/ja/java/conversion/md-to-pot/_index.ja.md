@@ -59,7 +59,55 @@ presentation.save("output.pot", SaveFormat.Pot);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）をPOT（PowerPointテンプレート）に変換することで、軽量なテキストドキュメントから取得した一貫性のあるブランド付きスライドフレームワークを作成する手段が企業に提供されます。POTファイルは複数のプレゼンテーションでデザインの統一性を確保します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+
+
+- Markdownスタイルのドキュメントから生成された企業のブランディングテンプレート。
+
+- MD製品概要から取得した営業プレゼンテーションフレームワーク。
+
+- Markdownベースの指示から作成されたHRのオンボーディングテンプレート。
+
+- 複数の支店を持つ組織向けの標準化されたPOTデッキ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+- CI/CDワークフローにより、MDから自動的にPOTテンプレートを生成。
+
+- フランチャイズ全体でのPOTファイルの一括生成。
+
+- Markdownを唯一の真実の情報源として使用した自動化されたテンプレートの更新。
+
+- エンタープライズシステムによるPOTデッキのプログラムによる生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

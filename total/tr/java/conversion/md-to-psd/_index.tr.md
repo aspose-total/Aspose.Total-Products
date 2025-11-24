@@ -57,7 +57,55 @@ API'yi kullanarak, çıktı PSD görüntüsünü ihtiyaçlarınıza göre de dö
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını PSD (Photoshop Belgesi) formatına dönüştürmek, tasarımcıların metin ve yapılandırılmış içeriği katmanlı, düzenlenebilir Photoshop dosyalarına aktarmasına olanak tanır. PSD, Markdown tabanlı diyagramları profesyonel grafik düzenleme ile birleştirmeyi sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Markdown notlarını düzenlenebilir tasarım kopyalarına dönüştürme.
+
+* Infografikler veya pazarlama içeriği için katmanlı diyagramlar oluşturma.
+
+* Markdown ile oluşturulan görselleri marka varlıklarıyla birleştirme.
+
+* İşbirlikçi yaratıcı iş akışları için tasarım dosyalarını hazırlama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Pazarlama ekipleri için Otomatik Markdown'ten PSD'ye dönüşüm.
+
+* Markdown depolarından katmanlı görsel varlıkların toplu oluşturulması.
+
+* İçerik üretimi için grafik akışlarıyla entegrasyon.
+
+* İşbirlikçi tasarım projeleri için tetiklenen PSD oluşturma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

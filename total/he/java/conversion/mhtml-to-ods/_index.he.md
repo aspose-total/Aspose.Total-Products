@@ -102,7 +102,55 @@ otherformats: MD XLTM EXCEL DIF TSV XLAM XLTX XLSM XLSB TXT FODS CSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MHTML ל-ODS (גיליון נתונים בפורמט OpenDocument) מאפשרת עריכת גיליונות נתונים חזקה וצוברת עבור מספר פלטפורמות תוך שמירה על עיצוב טבלאות האינטרנט. ODS הוא אידיאלי עבור סביבות שיתוף פעולה ותהליכי עבודה בקוד פתוח.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* לוחות ביצועים של חברה שמאוחסנים כקבצי ODS.
+
+* תבניות מעקב תקציבי של שיתוף פעולה המקורם בנתוני אינטרנט.
+
+* גיליונות נתונים ללימוד מחומרי קורס מקוונים.
+
+* סטים סטטיסטיים שמיובאים לעורכי גיליונות נתונים בקוד פתוח.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* צינורות עבודה אוטומטיים מ-MHTML ל-ODS לשיתוף נתונים בין מחלקות שונות.
+
+* יצירת ODS מופעלת על ידי טריגר לדיווחים כלכליים ומכירות תקופתיים.
+
+* שילוב עם חבילות משרד קוד פתוח לעדכוני נתונים חיים.
+
+* המרה רציפה של טבלאות אינטרנט מאוחסנות ל-ODS לצורך ניתוח היסטורי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -57,7 +57,55 @@ API를 사용하여 필요에 따라 출력 SVGZ 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD)을 SVGZ(압축된 SVG)로 변환하면 압축된 형식의 확장 가능한 벡터 이미지가 생성됩니다. 웹 그래픽, 반응형 다이어그램 및 대화형 시각화에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Markdown 콘텐츠에서 압축된 벡터 다이어그램 생성.
+
+* Markdown 테이블에서 반응형 웹 일러스트레이션 생성.
+
+* 확장 가능한 아이콘 또는 인포그래픽 생성.
+
+* 온라인 문서에 압축된 벡터 시각 자료 포함.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 웹 게시를 위한 일괄적인 Markdown-to-SVGZ 변환.
+
+* 자동 다이어그램 생성을 위한 파이프라인 통합.
+
+* 대화형 대시보드를 위한 예약된 SVGZ 업데이트.
+
+* 최적화된 웹용 형식으로 Markdown 다이어그램 압축.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

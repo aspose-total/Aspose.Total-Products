@@ -57,7 +57,55 @@ Med hjälp av API:t kan du också rotera den utgående PSD-bilden enligt dina be
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera Markdown (MD) till PSD (Photoshop-dokument) möjliggör för designers att importera textbaserat och strukturerat innehåll till lagerbaserade, redigerbara Photoshop-filer. PSD tillåter att kombinera Markdown-baserade diagram med professionell grafisk redigering.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Omvandla Markdown-anteckningar till redigerbara designmockuper.
+
+* Skapa lagerbaserade diagram för infografik eller marknadsföringsinnehåll.
+
+* Kombinera Markdown-genererade visuella element med varumärkesresurser.
+
+* Förbereda designfiler för samarbetsinriktade kreativa arbetsflöden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiserade scenarier" %}}
+
+
+
+* Automatiserad konvertering från Markdown till PSD för marknadsföringsteam.
+
+* Batchskapande av lagerbaserade visuella resurser från Markdown-repositorier.
+
+* Integration med grafikpipelines för innehållsproduktion.
+
+* Utlöst PSD-generering för samarbetsinriktade designprojekt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

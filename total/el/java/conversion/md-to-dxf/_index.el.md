@@ -57,7 +57,55 @@ otherformats: JPEG2000 PSD WMF DXF IMAGE WMZ SVGZ EMZ TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή Markdown (MD) σε DXF (Drawing Exchange Format) μετατρέπει δομημένα διαγράμματα και ροής σε CAD-συμβατά διανύσματα. Το DXF είναι ιδανικό για μηχανική, αρχιτεκτονική και κατασκευαστικές ροές εργασιών που απαιτούν ακριβείς εικονογραφήσεις βασισμένες σε γραμμές.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Εξαγωγή διαγραμμάτων Markdown σε σχέδια DXF έτοιμα για CAD.
+
+* Μετατροπή ροής και σχημάτων για τεκμηρίωση μηχανικής.
+
+* Προετοιμασία αρχιτεκτονικών ή μηχανικών εικονογραφήσεων από σημειώσεις Markdown.
+
+* Κοινοποίηση τεχνικών διαγραμμάτων με συνεργάτες χρησιμοποιώντας λογισμικό CAD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Μαζική μετατροπή MD σε DXF για μηχανικές και ομάδες σχεδιασμού.
+
+* Ενσωμάτωση με αυτοματοποιημένες αγωγές σχεδιασμού για γρήγορη πρωτότυπη κατασκευή.
+
+* Προγραμματισμένες εξαγωγές DXF για συστήματα τεκμηρίωσης τεχνικών.
+
+* Ενεργοποίηση γεννήτριας έτοιμων για CAD εικονογραφήσεων από αποθετήρια Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,55 @@ Pomocí API můžete také otočit výstupní obrázek SVGZ podle svých potřeb
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění Markdown (MD) na SVGZ (komprimovaný SVG) vytváří škálovatelné vektorové obrázky ve formátu komprimovaném. Ideální pro webové grafiky, responzivní diagramy a interaktivní vizualizace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Generování komprimovaných vektorových diagramů z obsahu Markdown.
+
+* Vytváření responzivních webových ilustrací z Markdown tabulek.
+
+* Vytváření škálovatelných ikon nebo infografik.
+
+* Vkládání komprimovaných vektorových vizuálů do online dokumentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná konverze Markdown na SVGZ pro webové publikování.
+
+* Integrace do potrubí pro automatizovanou generaci diagramů.
+
+* Plánované aktualizace SVGZ pro interaktivní dashboardy.
+
+* Komprese Markdown diagramů do optimalizovaných formátů připravených pro web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

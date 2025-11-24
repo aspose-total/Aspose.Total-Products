@@ -59,7 +59,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění Markdown (MD) na XAML (Extensible Application Markup Language) transformuje textový obsah na vektorově založenou uživatelskou grafiku nebo interaktivní komponenty pro aplikace Windows. XAML podporuje přesné rozložení, škálovatelné vizuály a integraci s moderními aplikačními rámci.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Zobrazování Markdown diagramů jako UI komponent v aplikacích WPF.
+
+* Vytváření interaktivních vektorových ilustrací pro desktopové aplikace.
+
+* Převádění dokumentačních tabulek a grafů na XAML grafiku.
+
+* Vkládání obsahu Markdown jako škálovatelných vizuálů do softwarových rozhraní.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatická generace MD na XAML pro softwarové UI pipeline.
+
+* Hromadné zpracování poznámek v Markdown do vektorových komponent XAML.
+
+* Plánovaná konverze pro pracovní postupy dokumentace na UI.
+
+* Spouštění zobrazování Markdown diagramů do XAML pro interaktivní aplikace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

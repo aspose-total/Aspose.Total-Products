@@ -102,7 +102,55 @@ otherformats: DIF MHTML SXC TSV ODS XLTX EXCEL XLSM XLSB FODS XLSX XLS XLTM CSV 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **POTM ל-XLT** מאפשרת לתבניות המצגת להיות מועברות לקבצי תבניות של Excel המשמשים ליצירת גליונות עבודה תקניים. ההמרה הזו ערכית לארגונים ששומרים על עקביות בכל תבניות הדיווח והתיעוד.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* יצירת תבניות של Excel עם עיצוב מותאם למותג המגיע מעיצובי השקפים.
+
+* המרת תכניות מצגת לטפסי גיליון נתונים שניתן להשתמש בהם שוב.
+
+* יצירת תבניות לחשבוניות או לזמנים מוכנות לשימוש במשרד.
+
+* שמירה על עקביות בעיצוב בכל הקרות המסמך.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת תבניות XLT באופן אוטומטי מקבצי POTM שמתעדכנים בתדירות.
+
+* המרה בצורת סדרת פעולות עבור שערי תבניות עסקיים.
+
+* יצירת תבניות של Excel בקרת גרסאות לצוותי תאימות.
+
+* הפצת קבצי XLT תקניים באופן אוטומטי לארגונים גדולים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

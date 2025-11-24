@@ -47,7 +47,55 @@ Ao converter o arquivo MD para EXCEL, você também pode adicionar marca d'água
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A conversão de Markdown (MD) para Excel (XLS/XLSX) transforma arquivos de texto simples em planilhas ricas e prontas para fórmulas. As saídas do Excel suportam formatação, gráficos, validação de dados e análises, tornando-as adequadas para relatórios de negócios e fluxos de trabalho operacionais.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Transformar listas de recursos do Markdown em planilhas Excel classificáveis.
+
+* Criar relatórios financeiros originados da documentação MD.
+
+* Importar tabelas do Markdown como rastreadores de dados do Excel.
+
+* Preparar catálogos de produtos baseados em MD em formato de planilha.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão impulsionada por pipeline de documentos Markdown em pastas de trabalho do Excel.
+
+* Geração em lote de arquivos XLSX para vários departamentos.
+
+* Atualização automática de relatórios do Excel a partir de repositórios MD controlados por versão.
+
+* Fluxos de trabalho de engenharia de dados alimentando transformações de MD → Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

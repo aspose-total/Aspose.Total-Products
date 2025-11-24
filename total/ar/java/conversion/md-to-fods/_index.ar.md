@@ -47,7 +47,55 @@ otherformats: XLAM TSV SXC XLTX ODS FODS DIF XLSM XLTM XLSB TXT EXCEL
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MD (Markdown) إلى FODS (Flat OpenDocument Spreadsheet) ينتج ملفات جداول بيانات قابلة للتحرير بنية XML مثالية لحزم البرامج المكتبية مفتوحة المصدر. يحتفظ FODS ببنية الخلايا والصيغ والتنسيق في تخطيط يعتمد على النص بشكل كامل وصديق للإصدار.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تصدير مجموعات البيانات Markdown إلى تنسيقات جداول بيانات مفتوحة المصدر.
+
+* إنشاء ملفات FODS منظمة لمستخدمي LibreOffice.
+
+* استيراد جداول MD إلى جداول بيانات XML مسطحة لفرق التطوير.
+
+* الحفاظ على أرشيفات الجداول البيانية بشكل يمكن قراءته بواسطة النص.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* تحويل دفعي إلى FODS لشفافية التحكم في الإصدارات.
+
+* دمج MD-to-FODS داخل أنابيب ETL مفتوحة المصدر.
+
+* إنشاء جداول بيانات تلقائيًا لوثائق الحكومة أو المنظمات غير الحكومية.
+
+* إنشاء FODS بناءً على المؤشرات في سياق سير العمل المستمر للوثائق.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

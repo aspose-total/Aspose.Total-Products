@@ -57,7 +57,55 @@ Pomocí API můžete také otočit výstupní obrázek DICOM podle svých potře
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů ve formátu Markdown (MD) do formátu DICOM (Digital Imaging and Communications in Medicine) umožňuje integrovat textovou dokumentaci nebo poznámky do pracovních postupů v oblasti lékařského zobrazování. DICOM podporuje metadata, standardní struktury obrazových dat a je ideální pro nemocniční systémy a výzkumná prostředí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vkládání klinických poznámek založených na Markdownu do archivů lékařských obrazů.
+
+* Generování strukturovaných vizuálních materiálů pro vzdělávání pacientů s obsahem v Markdownu.
+
+* Integrace dokumentace výzkumu do souborů s obrazovými daty kompatibilními s DICOM.
+
+* Ukládání textových poznámek vedle radiologických obrázků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatické generování MD do DICOM pro nemocniční dokumentační systémy.
+
+* Hromadné zpracování klinických souborů Markdown pro integraci do elektronických zdravotních záznamů.
+
+* Plánované konverzní toky zásobující DICOM archivy.
+
+* Spouštění vykreslování zpráv v Markdownu vedle obrazových dat pro asistovanou diagnostiku pomocí AI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

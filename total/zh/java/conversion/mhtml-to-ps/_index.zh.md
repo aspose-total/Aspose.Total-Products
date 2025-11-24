@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML转PS（PostScript）转换可从Web存档创建高质量的矢量打印就绪文档。PS非常适合专业印刷和桌面出版工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 将Web报告转换为打印就绪的PostScript文档。
+
+* 存档技术插图和图表以供打印使用。
+
+* 从在线来源准备营销材料或宣传册。
+
+* 生成用于桌面出版的高分辨率矢量图形。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将Web内容批量自动转换为PS文件。
+
+* 触发式PS生成以供发布流程使用。
+
+* 与按需打印系统集成。
+
+* 定期存档来自Web的打印就绪图形。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -47,7 +47,55 @@ otherformats: DIF XLSM XLTM TSV XLTX TXT XLT EXCEL XLSB FODS SXC ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή MD (Markdown) σε DIF (Data Interchange Format) είναι ιδανική για συστήματα παλαιάς τεχνολογίας και ροή εργασίας υπολογιστικών φύλλων που βασίζονται σε δομημένα δεδομένα κειμένου με βάση τις γραμμές. Τα αρχεία DIF υποστηρίζουν τη συμβατότητα με παλαιότερο λογισμικό οικονομικών, επιστημονικών και μηχανικών εφαρμογών.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Εισαγωγή εγγραφών Markdown σε κλασικό λογιστικό λογισμικό.
+
+* Μετατροπή πινάκων MD σε DIF για παλαιότερες στατιστικές εφαρμογές.
+
+* Μετανάστευση βάσης δεδομένων πηγαίνοντας από την τεκμηρίωση Markdown.
+
+* Κοινή χρήση δομημένων αρχείων DIF με ομάδες που χρησιμοποιούν παραδοσιακά φύλλα εργασίας.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένες διαδικασίες Markdown-to-DIF για αρχειακά συστήματα.
+
+* Χρονοδιαγράμματα εργασιών που τροφοδοτούν δεδομένα DIF σε εργαλεία επιχειρησιακής αναφοράς.
+
+* Προγραμματισμένη μετατροπή φύλλων εργασίας MD σε μορφές DIF.
+
+* Γέφυρες ETL για παλαιά λογισμικά οικοσυστημάτων που χρησιμοποιούν εισόδους DIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

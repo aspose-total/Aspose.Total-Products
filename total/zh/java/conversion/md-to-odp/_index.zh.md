@@ -59,7 +59,55 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为ODP（OpenDocument Presentation）可帮助团队将简单的基于文本的内容转换为可在LibreOffice Impress和其他开源演示工具中使用的开放格式幻灯片。ODP非常适合跨平台共享，没有专有限制。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将Markdown培训笔记转换为ODP幻灯片。
+
+* 从基于MD的教学计划创建课堂演示文稿。
+
+* 发布从Markdown生成的开源会议幻灯片。
+
+* 将MD文档转换为视觉结构化的ODP幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从Markdown存储库生成ODP文件的ETL管道。
+
+* 批量为LMS平台创建教育演示文稿。
+
+* 在文档即代码工作流程中自动生产ODP。
+
+* 为开源项目发布触发的MD到ODP转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

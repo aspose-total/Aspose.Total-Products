@@ -130,7 +130,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod souborů MHTML na DOTX (šablona Wordu bez maker) umožňuje bezpečné, opakovaně použitelné šablony při zachování rozložení obsahu webu. DOTX je ideální pro spolupracující dokumentaci, kde jsou makra omezena z důvodu bezpečnosti.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Šablony pro týmovou spolupráci pro interní dokumentaci.
+
+* Newslettery odvozené z webu formátované pro konzistentní styl.
+
+* Vzorové šablony pro výuku a plánování lekcí.
+
+* Standardizované smlouvy a návrhové šablony bez maker.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované konverzní toky generující šablony DOTX z archivů MHTML.
+
+* Integrace s systémy správy obsahu pro hromadné nasazení šablon.
+
+* Předformátované šablony pro webová data pro firemní komunikaci.
+
+* Spuštěné generování pro periodické pracovní postupy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -121,7 +121,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML (web arşivi) dosyalarını ODP (OpenDocument Sunum) formatına dönüştürmek, web içeriğinin LibreOffice veya OpenOffice için tamamen düzenlenebilir slaytlara dönüştürülmesine olanak tanır. ODP, platformlar arası uyumluluğu sağlar ve orijinal biçimlendirmeyi korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Çevrimiçi pazarlama içeriğini ODP slayt paketlerine dönüştürme.
+
+* Web tabanlı ders planlarından oluşturulan eğitim modülleri.
+
+* Web portallarında önceden barındırılan şirket sunumlarını arşivleme.
+
+* Web tabanlı proje güncellemelerini profesyonel slaytlara dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Birden fazla MHTML raporunun toplu olarak ODP paketlerine dönüştürülmesi.
+
+* İç iletişim için sunum slaytlarının zamanlanmış olarak oluşturulması.
+
+* Canlı web panellerinden sunum içeriğinin otomatik olarak güncellenmesi.
+
+* İşbirlikçi açık kaynak sunum iş akışlarına entegrasyon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

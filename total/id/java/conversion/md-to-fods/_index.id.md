@@ -47,7 +47,55 @@ Saat mengonversi file MD ke FODS, Anda juga dapat menambahkan tanda air ke forma
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konversi MD (Markdown) ke FODS (Flat OpenDocument Spreadsheet) menghasilkan file spreadsheet berbasis XML yang dapat diedit, ideal untuk suite kantor open-source. FODS mempertahankan struktur sel, formula, dan format dalam tata letak yang sepenuhnya berbasis teks dan ramah versi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* Mengeskpor dataset Markdown ke format spreadsheet open-source.
+
+* Membuat file FODS terstruktur untuk pengguna LibreOffice.
+
+* Mengimpor tabel MD ke spreadsheet XML datar untuk tim pengembangan.
+
+* Menjaga arsip spreadsheet dalam bentuk yang dapat dibaca teks.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi batch ke FODS untuk transparansi kontrol versi.
+
+* Mengintegrasikan MD-to-FODS dalam pipa ETL open-source.
+
+* Pembuatan spreadsheet otomatis untuk dokumentasi pemerintah atau NGO.
+
+* Generasi FODS berbasis pemicu dalam alur kerja dokumentasi berkelanjutan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

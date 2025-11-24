@@ -129,7 +129,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลงไฟล์ MHTML (MIME HTML) เป็นไฟล์ DOCM (เอกสาร Word ที่เปิดใช้งานแมโคร) จะรักษาเนื้อหาบนเว็บพร้อมกับแมโครที่สามารถทำงานอัตโนมัติสำหรับกระบวนการทำงาน ไฟล์ DOCM เป็นสิ่งจำเป็นสำหรับการอัตโนมัติกระบวนการธุรกิจ รายงานขั้นสูง และการสร้างเอกสารที่เปลี่ยนไปตามสถานการณ์ได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* รายงานของบริษัทที่สร้างขึ้นโดยใช้เนื้อหาจากเว็บที่ถูกดึงมา
+
+* โมดูลการฝึกอบรมที่มีแมโครฝังอยู่สำหรับการเรียนออนไลน์
+
+* เอกสารเอกสารกระบวนการธุรกิจที่รวมข้อมูลเว็บสด
+
+* แม่แบบการจัดการโครงการที่มีแดชบอร์ดที่ใช้แมโครได้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* การแปลงไฟล์รายงาน MHTML ที่ถูกเก็บไว้เป็นไฟล์ DOCM ที่เปิดใช้งานแมโคร
+
+* การผสานรวมกับระบบ ERP สำหรับการอัพเดทเอกสารแบบเรียลไทม์
+
+* การดำเนินการแมโครหลังจากการแปลงเนื้อหาเว็บ
+
+* การสร้างแม่แบบธุรกิจที่เกิดซ้ำจากแหล่งข้อมูล MHTML
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

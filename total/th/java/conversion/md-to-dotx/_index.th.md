@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น DOTX (เทมเพลต Word โดยไม่มีแมโคร) เป็นวิธีที่เหมาะสมสำหรับการสร้างเทมเพลตเครื่องหมายที่ดี สม่ำเสมอ และสามารถนำกลับมาใช้ซ้ำได้ DOTX รักษาองค์ประกอบในการออกแบบในขณะที่ทีมสามารถอัปเดตเนื้อหาจากไฟล์ Markdown ที่เบาเบาในสภาพแวดล้อมที่ควบคุมเวอร์ชันได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* เทมเพลตการจัดแบรนด์ของบริษัทที่มาจากเอกสาร MD
+
+* แผ่นงานการฝึกอบรมมาตรฐานที่สร้างจากเอกสาร Markdown
+
+* โบรชัวร์การตลาดที่ใช้เทมเพลตเป็นพื้นฐานที่ร่างขึ้นต้นเป็น MD
+
+* เทมเพลตเอกสารวิชาการที่มีโครงสร้างที่สร้างจากแหล่งข้อมูล Markdown
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้าง DOTX อัตโนมัติผ่าน CI/CD สำหรับทีมงานเอกสาร
+
+* การสร้างเทมเพลต Word มาตรฐานใหม่จากไฟล์ MD ในคลัง
+
+* การประมวลผลข้อมูลแบบกลุ่มจากคลังข้อมูล Markdown เป็นเลเอาท์ DOTX ที่พร้อมใช้งาน
+
+* การสร้างเทมเพลตแบบเดียวกันสำหรับองค์กรหลายหน่วย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -57,7 +57,51 @@ API를 사용하여 필요에 따라 출력 SVGZ 이미지를 회전할 수도 �
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML를 SVGZ(압축된 SVG)로 변환하면 파일 크기를 줄이면서 웹 콘텐츠의 벡터 그래픽을 보존합니다. 확장 가능성과 가벼운 파일이 필요한 웹, UI 및 아이콘 애플리케이션에 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 온라인 대시보드에서 확장 가능한 다이어그램 추출.
+
+* 웹 기반 벡터 로고를 웹 사이트용으로 압축.
+
+* 플로차트 또는 인포그래픽을 벡터 형식으로 변환.
+
+* 아카이브된 HTML/CSS 시각 자료에서 웹 아이콘 준비.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* SVGZ로 기반을 둔 웹 콘텐츠 일괄 변환.
+
+* 반응형 그래픽을 위한 웹 개발 파이프라인 통합.
+
+* MHTML 아카이브에서 예약된 벡터 추출.
+
+* 웹 사이트용 확장 가능한 그래픽의 압축 및 전달을 트리거.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

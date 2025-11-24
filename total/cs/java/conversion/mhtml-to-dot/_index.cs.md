@@ -130,7 +130,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MHTML na DOT (šablonu Wordu) zajišťuje, že webový obsah lze znovu použít jako opakované šablony pro konzistentní tvorbu dokumentů. Soubory DOT umožňují firmám a profesionálům udržovat standardizované formátování a styl napříč různými zprávami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Standardizované šablony nabídek pro klienty z webových dat.
+
+* Opakovaně použitelné formáty programů jednání pro firemní týmy.
+
+* Šablony faktur generované z katalogů MHTML.
+
+* Právní dokumenty vytvořené z předformátovaného obsahu z webových archivů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná generace šablon DOT z více stránek MHTML.
+
+* Integrace do systémů pro správu dokumentů pro automatizované aktualizace šablon.
+
+* Dynamické vytváření šablon spuštěné příjmem obsahu z potrubí.
+
+* Automatizované formátování a standardizace stylu pro dokumentaci na velkou škálu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

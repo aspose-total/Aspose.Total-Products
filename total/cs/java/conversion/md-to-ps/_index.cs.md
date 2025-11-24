@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění formátu Markdown (MD) na PS (PostScript) vytváří vysoce kvalitní vektorové tiskové soubory vhodné pro profesionální publikování. PS podporuje škálovatelné diagramy, formátování textu a je široce používán v prostředí tiskové produkce.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření tiskově připravených diagramů z obsahu Markdown.
+
+* Generování škálovatelných ilustrací v PostScriptu pro profesionální publikování.
+
+* Převádění zpráv založených na Markdownu pro tisk s vysokým rozlišením.
+
+* Archivace technických dokumentů ve formátu PS pro reprodukovatelnost.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaná konverze z Markdownu do PS pro podnikové publikovací toky.
+
+* Hromadná generace PS z repozitářů Markdown pro dokumentaci připravenou k tisku.
+
+* Plánované exporty PostScriptu pro zprávy vysoké kvality.
+
+* Integrace s pracovními postupy automatizace tisku převádějící Markdown na PS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

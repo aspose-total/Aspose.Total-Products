@@ -59,7 +59,55 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MD (Markdown) إلى POTM (قالب PowerPoint الممكن تمكينه بالماكرو) يسمح بإنشاء قوالب عروض تقديمية محسنة بالتشغيل التلقائي. يدعم POTM ماكرو VBA لتنسيق تلقائي، وإنشاء شرائح، وإدراج محتوى ديناميكي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* قوالب شرائح مدعومة بالماكرو تم بناؤها من إطارات Markdown.
+
+* عروض تقارير آلية مستمدة من وثائق MD.
+
+* إنشاء قالب تدريب تفاعلي باستخدام محتوى MD.
+
+* قوالب أعمال ديناميكية محملة مسبقًا بمنطق VBA.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* إنشاء قالب POTM آلي ممكن تمكينه بالماكرو بواسطة تحديثات MD.
+
+* توليفة دفعية لقوالب PowerPoint الممكن تمكينها بالماكرو.
+
+* تطوير سير العمل CI/CD لبناء إطارات POTM لفرق التقارير.
+
+* إعادة توليف POTM مدفوعًا بسير العمل لتحديث الهوية البصرية للشركة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

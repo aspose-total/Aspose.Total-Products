@@ -56,7 +56,55 @@ While converting MD file to XLSM, you can also add watermark to your output XLSM
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converting Markdown (MD) to XLSM (Macro-Enabled Excel Workbook) unlocks automation capabilities inside spreadsheet workflows. XLSM supports VBA macros, making it ideal for dynamic reporting and automated calculations.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* Creating macro-powered dashboards from Markdown input tables.
+
+* Automating cost calculators sourced from MD product sheets.
+
+* XLSM-based workflow automation built from Markdown structures.
+
+* Engineering sheets using macros created from MD notes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* Automated MD → XLSM generation in CI workflows.
+
+* Scheduled creation of macro-enabled spreadsheets for operations.
+
+* Transformation pipelines generating XLSM reports dynamically.
+
+* Integrating Markdown sources into automated financial spreadsheet systems.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

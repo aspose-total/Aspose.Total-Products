@@ -129,7 +129,55 @@ Alla operativsystem som kan köra Java Runtime Environment (JRE) kan köra Aspos
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML till PS (PostScript)-konvertering skapar högkvalitativa vektorutskrifts-klara dokument från webbarkiv. PS är idealiskt för professionell tryckning och desktop-publiceringsflöden.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Konvertera webbrapporter till utskrifts-klara PostScript-dokument.
+
+* Arkivering av tekniska illustrationer och diagram för utskrift.
+
+* Förbereda marknadsföringsmaterial eller broschyrer från onlinekällor.
+
+* Generera högupplösta vektorgrafik för desktop-publicering.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* Automatiserad batchkonvertering av webbinnehåll till PS-filer.
+
+* Utlöst PS-generering för publiceringspipelines.
+
+* Integration med tryck-på-begäran-system.
+
+* Schemalagd arkivering av webbaserade utskrifts-klara grafik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

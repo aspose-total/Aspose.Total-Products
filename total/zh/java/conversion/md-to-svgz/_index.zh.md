@@ -57,7 +57,55 @@ otherformats: EMZ WMF PSD IMAGE SVGZ WMZ JPEG2000 DXF TGA DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为SVGZ（压缩的SVG）可创建压缩格式的可伸缩矢量图像。非常适合用于网页图形、响应式图表和交互式可视化。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从Markdown内容生成压缩的矢量图表。
+
+* 从Markdown表格创建响应式网页插图。
+
+* 制作可伸缩的图标或信息图表。
+
+* 将压缩的矢量视觉内容嵌入在线文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将Markdown转换为SVGZ以用于网页发布。
+
+* 用于自动生成图表的流水线集成。
+
+* 为交互式仪表板安排SVGZ更新。
+
+* 将Markdown图表压缩为优化的网页就绪格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

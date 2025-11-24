@@ -56,7 +56,55 @@ While converting MD file to TSV, you can also add watermark to your output TSV f
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Converting Markdown (MD) to TSV (Tab-Separated Values) enables clean, delimiter-safe data exports ideal for developers, BI teams, and machine learning pipelines. TSV files preserve spacing and work well for datasets that contain commas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* Exporting Markdown datasets into TSV for ML preprocessing.
+
+* Importing MD-created logs into data science workflows.
+
+* Creating TSV-based data extracts for API development.
+
+* Turning Markdown checklists into tab-structured datasets.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* Pipeline-driven transformation of MD tables into TSV.
+
+* Batch exports for AI data ingestion systems.
+
+* Regular TSV generation for backend integration testing.
+
+* Automated TSV feeds built from repository Markdown content.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

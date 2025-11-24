@@ -61,7 +61,45 @@ otherformats: FODS DIF XLSB XLS XLTX ODS XLSM MHTML MARKDOWN TSV XLAM EXCEL XLSX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **POTX เป็น FODS** สามารถส่งออกข้อมูลเทมเพลตเป็นไฟล์ Flat OpenDocument Spreadsheet เพื่อความเข้ากันได้สูงสุดในเครื่องมือโอเพนซอร์ส
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* แก้ไขข้อมูลที่ได้มาจาก POTX ใน LibreOffice และ OpenOffice
+* เตรียมสำหรับสเปรดชีตรูปแบบเปิดมาตรฐานของรัฐ
+* สร้างแผ่นข้อมูลที่เบา ไม่ขึ้นอยู่กับแพลตฟอร์ม
+* เก็บข้อมูลเมตาดาต้าของเทมเพลต POTX ในรูปแบบเปิด
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* ประมวลผลกลุ่มไฟล์ POTX เป็น FODS สำหรับทีม跨แพลตฟอร์ม
+* ส่งออกไฟล์รูปแบบเปิดตามกำหนดเวลาสำหรับการปฏิบัติตามหรือการตรวจสอบ
+* การผสานกับการออโตเมชันของกระบวนการทำงานโอเพนซอร์ส
+* การแปลง FODS ตามเงื่อนไขเมื่อมีการอัปเดตเทมเพลต
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

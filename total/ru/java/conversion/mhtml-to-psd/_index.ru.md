@@ -57,7 +57,51 @@ API также позволяет экспортировать файл MHTML в
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование MHTML в PSD (Adobe Photoshop) превращает веб-графику в полностью редактируемые многослойные изображения. PSD идеален для дизайнеров и маркетологов, нуждающихся в расширенных возможностях редактирования.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* Редактирование веб-баннеров, заголовков или графики пользовательского интерфейса в Photoshop.
+
+* Извлечение многослойной информационной графики для маркетинговых кампаний.
+
+* Создание редактируемых веб-шаблонов из архивного контента.
+
+* Графические проекты, требующие оригинальной веб-графики.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное создание PSD из веб-страниц MHTML для дизайнерских команд.
+
+* Автоматическое преобразование для регулярного обновления маркетингового материала.
+
+* Интеграция в процессы обработки дизайнерских ресурсов для автоматизации в Photoshop.
+
+* Плановое создание PSD для рабочих процессов от веба к печати.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

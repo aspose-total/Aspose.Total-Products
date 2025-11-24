@@ -47,7 +47,51 @@ Při převodu souboru MHTML na TSV můžete také přidat vodoznak do výstupní
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MHTML na TSV (hodnoty oddělené tabulátorem) extrahuje strukturovaná data z webových stránek ve formátu čistého textu přátelského k oddělovačům. TSV je ideální pro vědu o datech, ETL potrubí a import do databáze.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Extrahování e-commerce produktů a cenových tabulek pro analýzu.
+
+* Výsledky průzkumu exportované z webových formulářů do TSV.
+
+* Archivace tabulkového obsahu webu pro modely strojového učení.
+
+* Sdílení strukturovaných datových sad s vývojáři a datovými inženýry.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Dávkový převod MHTML na TSV pro AI/ML potrubí.
+
+* Integrace do automatizovaných ETL pracovních postupů pro analýzy.
+
+* Plánovaná generace TSV pro pravidelné webové hlášení.
+
+* Spuštěný export TSV pro dashboardy v reálném čase.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

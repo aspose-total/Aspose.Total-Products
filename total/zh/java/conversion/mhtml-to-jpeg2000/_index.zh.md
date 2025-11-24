@@ -57,7 +57,51 @@ otherformats: JPEG2000 PSD EMZ SVGZ TGA WMZ DXF  IMAGE WMF DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML转JPEG2000转换可生成质量更高、压缩率和分辨率优于标准JPEG的图像。JPEG2000非常适用于需要更高图像保真度的存档、印刷或网络应用。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 存档网页图表以供长期存储。
+
+* 电子商务平台的高分辨率产品图像。
+
+* 需要无损图像质量的科学图表和地图。
+
+* 将网页插图转换为数字出版物。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从MHTML存档批量自动转换为JPEG2000。
+
+* 集成到数字资产管理（DAM）系统中。
+
+* 用于高分辨率网络图形的定时转换管道。
+
+* 用于人工智能或分析工作流程的触发图像提取。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

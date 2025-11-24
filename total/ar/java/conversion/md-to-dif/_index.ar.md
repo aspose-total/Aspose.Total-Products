@@ -47,7 +47,55 @@ otherformats: DIF XLSM XLTM TSV XLTX TXT XLT EXCEL XLSB FODS SXC ODS
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل MD (Markdown) إلى DIF (Data Interchange Format) مثالي لأنظمة الإرث وسير العمل على جداول البيانات المهيكلة بالصفوف. تدعم ملفات DIF التوافق مع البرمجيات المالية والعلمية والهندسية القديمة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* استيراد سجلات Markdown إلى برامج المحاسبة الكلاسيكية.
+
+* تحويل جداول MD إلى DIF لتطبيقات الإحصاء القديمة.
+
+* هجرة قاعدة بيانات الإرث من وثائق Markdown.
+
+* مشاركة ملفات DIF المهيكلة مع الفرق التي تستخدم جداول بيانات تقليدية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+
+
+* أنابيب عملية تحويل Markdown إلى DIF تلقائية لأنظمة الأرشفة.
+
+* سير العمل الدفعي لتغذية بيانات DIF إلى أدوات تقارير المؤسسات.
+
+* تحويل مجدول لأوراق المخزون MD إلى تنسيقات DIF.
+
+* جسور ETL لنظم البرمجيات القديمة باستخدام مدخلات DIF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

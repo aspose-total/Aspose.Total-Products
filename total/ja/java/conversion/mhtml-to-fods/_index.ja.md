@@ -47,7 +47,55 @@ MHTMLファイルをFODSに変換するときに、出力FODSファイル形式�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをFODS（Flat OpenDocument Spreadsheet）に変換すると、LibreOfficeやOpenOfficeに適したオープンでXMLベースのスプレッドシートファイルが作成されます。FODSは軽量で持ち運びに便利なデータアーカイブ用です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* クロスプラットフォームで編集可能なWebベースの表形式レポートのアーカイブ。
+
+* 協力チーム向けのオープンソーススプレッドシートテンプレートの準備。
+
+* オンライン金融ダッシュボードをポータブルなFODSファイルに変換。
+
+* Excel非使用者との構造化されたWebデータの共有。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* オープンソースオフィスワークフロー向けの定期的なMHTMLからFODSへの変換。
+
+* オンラインテーブルのバッチ処理による編集可能なFODSファイルの生成。
+
+* Webモニタリングシステム向けのトリガー付き自動変換。
+
+* FODSテンプレートを必要とする協力プラットフォームへの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

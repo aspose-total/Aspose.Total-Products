@@ -135,7 +135,55 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A conversão de MHTML para XAML (Extensible Application Markup Language) permite que gráficos vetoriais e de interface do usuário baseados na web sejam transformados em componentes de interface do usuário compatíveis com o Windows e visuais escaláveis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Conversão de diagramas da web em XAML para aplicativos WPF.
+
+* Arquivamento de layouts de interface do usuário baseados na web para desenvolvimento de software.
+
+* Preparação de painéis interativos para aplicativos de desktop.
+
+* Extração de gráficos vetoriais para projetos de interface do usuário do Windows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote de conteúdo MHTML em XAML para desenvolvimento de aplicativos.
+
+* Pipelines agendados para a conversão de protótipos de interface do usuário da web.
+
+* Geração de XAML acionada para integração de aplicativos WPF.
+
+* Arquivamento automatizado de conteúdo vetorial da web para equipes de software.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

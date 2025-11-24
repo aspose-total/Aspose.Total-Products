@@ -129,7 +129,51 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML转换为PCL（打印机命令语言）可使网络内容以标准化格式直接发送到打印机，确保跨设备的一致文档输出。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 在企业打印机群上打印存档的网络报告。
+
+* 将在线表单和发票转换为直接打印工作流程。
+
+* 从网页批量打印营销资料。
+
+* 确保企业文档分发的一致布局。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定时的MHTML到PCL转换，用于自动打印作业。
+
+* 用于企业文档系统的批量打印集成。
+
+* 用于基于网络的发票打印的触发工作流程。
+
+* 与办公自动化和打印平台集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

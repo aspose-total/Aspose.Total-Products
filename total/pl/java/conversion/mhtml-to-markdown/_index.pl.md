@@ -130,7 +130,51 @@ Aspose.Total for Java może zostać uruchomiony na dowolnym systemie operacyjnym
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Konwertowanie plików MHTML (archiwum internetowe) na MARKDOWN (.md) pozwala przekształcić zawartość internetową w lekki, czytelny i przenośny tekst odpowiedni do stron internetowych, blogów i dokumentacji dla programistów. Markdown zachowuje strukturę treści, taką jak nagłówki, linki, listy i fragmenty kodu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* Konwertowanie samouczków internetowych na Markdown do dokumentacji dla programistów.
+
+* Archiwizacja treści bloga z stron internetowych w formacie Markdown.
+
+* Tworzenie artykułów bazy wiedzy z podręczników online.
+
+* Przekształcanie raportów internetowych w przenośne notatki Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* Partiowa konwersja wielu stron MHTML na Markdown dla generatorów statycznych stron.
+
+* Wywoływane generowanie Markdown dla automatycznych aktualizacji treści na wiki dla programistów.
+
+* Integracja z potokami CI/CD w celu konwersji zawartości internetowej na dokumentację.
+
+* Automatyczne wyodrębnianie raportów internetowych do baz wiedzy opartych na Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

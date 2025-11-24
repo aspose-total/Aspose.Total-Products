@@ -47,7 +47,55 @@ MDファイルをXLTXに変換するときに、出力XLTXファイル形式に�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（マークダウン）からXLTX（マクロなしのExcelテンプレート）への変換は、クリーンで一貫性のある、マクロフリーのテンプレート作成に焦点を当てたチームに最適です。 XLTXは信頼性のあるフォーマットを維持しながら再利用可能な構造を提供します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* マークダウンベースのレポートを標準化されたテンプレートに変換する。
+
+* 企業で使用するための洗練されたXLTXテンプレートを作成する。
+
+* MDデザインガイドラインをスプレッドシートフレームワークに変換する。
+
+* 人事、財務、および運用向けの編集可能なテンプレートを作成する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* ビルドワークフローでMDから自動生成されたXLTXテンプレート。
+
+* 組織向けの一貫したテンプレートの大量生産。
+
+* ETLパイプラインが複数部門で使用するためにXLTXテンプレートを更新する。
+
+* クラウドベースのドキュメントシステム向けのMD駆動型テンプレートの更新。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

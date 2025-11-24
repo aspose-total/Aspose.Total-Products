@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file Markdown (MD) ke MHTML (Web Archive) memungkinkan seluruh dokumen, termasuk format, gambar, dan tautan, dikemas ke dalam satu file siap web. File MHTML ideal untuk berbagi konten Markdown di berbagai browser, mengarsipkan dokumentasi, dan mendistribusikan halaman web portabel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Kunci" %}}
+
+
+
+* Mengarsipkan dokumentasi Markdown sebagai halaman web mandiri.
+
+* Membuat laporan portabel untuk dibaca secara offline di browser manapun.
+
+* Mendistribusikan manual pengguna atau panduan teknis sebagai arsip web berkas tunggal.
+
+* Menjaga dokumentasi proyek berbasis Markdown dengan media tersemat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Konversi otomatis setiap malam dari repositori Markdown ke MHTML untuk distribusi web.
+
+* Pengarsipan batch dokumen basis pengetahuan internal dalam format MHTML.
+
+* Integrasi dengan jalur manajemen konten untuk menghasilkan file MHTML dari Markdown.
+
+* Konversi yang dipicu dalam alur kerja CI/CD untuk menghasilkan dokumentasi siap browser.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

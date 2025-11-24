@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod Markdown (MD) na XAMLFLOW umožňuje vytváření interaktivních diagramů a rozložení aplikací založených na toku pomocí značkovacího jazyka XAML. Ideální pro vizualizaci softwaru, prototypování uživatelského rozhraní a dokumentaci pracovních postupů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření interaktivních tokových diagramů z dokumentace Markdown.
+
+* Prototypování pracovních postupů aplikací WPF pomocí obsahu Markdown.
+
+* Překládání technických poznámek o procesu do vizualizací XAMLFlow.
+
+* Vkládání toků generovaných z Markdownu do interaktivních náhledů aplikací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizované potrubí MD-to-XAMLFLOW pro vývojové týmy.
+
+* Hromadná generace interaktivních toků z poznámek Markdown.
+
+* Plánované aktualizace diagramů pracovních postupů v dokumentaci softwaru.
+
+* Integrace s CI/CD pro převod obrysů procesu Markdownu na komponenty XAMLFLOW.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

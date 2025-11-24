@@ -57,7 +57,55 @@ Menggunakan API, Anda juga dapat memutar gambar TGA keluaran sesuai kebutuhan An
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi Markdown (MD) ke TGA (Targa Image) menciptakan grafis raster berkualitas tinggi yang umum digunakan dalam produksi video, game, atau diagram rekayasa. TGA mendukung saluran alpha dan output tidak terkompresi untuk representasi yang akurat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Kunci" %}}
+
+
+
+* Mengekspor diagram berbasis Markdown untuk overlay video atau aset game.
+
+* Grafis resolusi tinggi untuk dokumentasi rekayasa.
+
+* Membuat gambar saluran alpha dari visualisasi Markdown.
+
+* Menghasilkan diagram teknis tidak terkompresi untuk materi presentasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi TGA otomatis dari repositori Markdown untuk jalur kreatif.
+
+* Ekspor batch diagram untuk produksi video atau dokumentasi teknis.
+
+* Konversi terjadwal diagram Markdown untuk proyek simulasi atau game.
+
+* Integrasi dengan sistem manajemen konten untuk menghasilkan visual TGA secara otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

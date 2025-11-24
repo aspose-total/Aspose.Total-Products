@@ -59,7 +59,55 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown (MD) dosyalarını ODP (OpenDocument Presentation) formatına dönüştürmek, takımların basit metin tabanlı içeriği LibreOffice Impress ve diğer açık kaynak sunum araçlarında kullanılabilir slayt sunumlarına dönüştürmelerini sağlar. ODP, mülkiyet kısıtlamaları olmadan çeşitli platformlarda paylaşım için idealdir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* Markdown eğitim notlarını ODP slaytlarına dönüştürme.
+
+* MD tabanlı ders planlarından oluşturulan sınıf sunumları.
+
+* Markdown'dan oluşturulan açık kaynak konferans slaytlarının yayınlanması.
+
+* Görsel olarak yapılandırılmış ODP slaytlarına dönüştürülen MD belgeleri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Markdown depolarından ODP dosyaları oluşturan ETL boruları.
+
+* LMS platformları için eğitim sunumlarının toplu olarak oluşturulması.
+
+* Belge olarak kod akışlarında otomatik ODP üretimi.
+
+* Açık kaynak proje sürümleri için tetiklenen MD'den ODP'ye dönüşüm.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

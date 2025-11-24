@@ -59,7 +59,49 @@ presentation.save("output.odp", SaveFormat.Odp);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A Markdown (MD) átalakítása ODP (OpenDocument Presentation) formátummá lehetővé teszi a csapatok számára, hogy egyszerű szövegalapú tartalmat alakítsanak át nyílt formátumú diavetítéssé, amelyet használhatnak a LibreOffice Impress és más nyílt forráskódú bemutatóeszközök. Az ODP ideális a platformok közötti megosztáshoz, anélkül, hogy korlátozások lennének rá.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Markdown oktatási jegyzetek átalakítása ODP diákká.
+
+* Osztályteremben tartott prezentációk létrehozása MD alapú tantervekből.
+
+* Nyílt forráskódú konferenciadiákok közzététele, amelyeket Markdown-ból generáltak.
+
+* MD dokumentáció átalakítása vizuálisan strukturált ODP diákká.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* ETL csővezetékek, amelyek ODP fájlokat generálnak Markdown tárolókból.
+
+* Oktatási prezentációk tömeges létrehozása LMS platformok számára.
+
+* Automatizált ODP előállítás dokumentáció-mint-kód munkafolyamatokban.
+
+* Kiváltott MD-ODP konverzió nyílt forráskódú projekt kiadásaihoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

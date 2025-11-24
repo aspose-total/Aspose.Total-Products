@@ -143,7 +143,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML转换为XAMLFLOW可使网络内容和矢量资产用于交互式工作流程和基于XAML的流应用程序的UI自动化。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将网络图表和图形集成到自动化的XAML工作流程中。
+
+* 为Windows自动化系统存档交互式网络内容。
+
+* 为基于UI驱动的流程自动化准备基于Web的仪表板。
+
+* 将Web表单和控件转换为基于流的桌面应用程序。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 批量将MHTML转换为XAMLFLOW以用于UI自动化流水线。
+
+* 为仪表板和交互式网络资产触发更新。
+
+* 集成到RPA（机器人流程自动化）工作流程中。
+
+* 为企业应用程序定期提取Web UI组件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

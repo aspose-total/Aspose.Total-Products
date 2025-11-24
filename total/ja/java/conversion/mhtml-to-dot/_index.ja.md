@@ -130,7 +130,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをDOT（Wordテンプレート）に変換することで、Webコンテンツを再利用可能なテンプレートとして一貫した文書作成に活用できます。DOTファイルを使用することで、企業や専門家は複数のレポートで標準化された書式とスタイルを維持することができます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* Webベースのデータから標準化されたクライアント提案テンプレート。
+
+* 企業チーム向けの再利用可能な会議議題フォーマット。
+
+* MHTMLカタログから生成されるテンプレート駆動の請求書。
+
+* Webアーカイブからの事前フォーマットされたコンテンツを使用した法的文書テンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 複数のMHTMLページからのDOTテンプレートの一括生成。
+
+* テンプレートの自動更新のための文書管理システムへの統合。
+
+* コンテンツ取り込みパイプラインによってトリガーされる動的テンプレート作成。
+
+* 大規模な文書に対する自動書式設定とスタイルの標準化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění Markdownu (MD) do OTT (OpenDocument Text Template) podporuje vytváření škálovatelných šablon pro kancelářské balíky s otevřeným zdrojovým kódem. Šablony OTT udržují konzistentní formátování a zároveň umožňují týmům generovat více dokumentů z stabilní stylové základny.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Vytváření OTT šablon pro vícejazyčnou produkci dokumentů.
+
+* Vytváření strukturovaných šablon zpráv podle směrnic založených na Markdownu.
+
+* Standardizace dokumentace kanceláře pro prostředí s otevřeným zdrojovým kódem.
+
+* Generování opakovaně použitelných formátů dokumentů ODT pro neziskové organizace nebo veřejné instituce.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaná generace OTT v pracovních postupech s otevřeným zdrojovým kódem.
+
+* Synchronizace aktualizací šablon z Markdownu v kontrolním systému verzí.
+
+* Hromadná produkce sad šablon pro distribuované týmy pomocí LibreOffice.
+
+* Systémy vlády nebo neziskové organizace generující OTT šablony dle plánu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

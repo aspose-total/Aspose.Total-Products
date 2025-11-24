@@ -129,7 +129,51 @@ Java Runtime Environment (JRE) çalıştırabilen herhangi bir işletim sistemi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML (web arşivi) dosyalarını MARKDOWN (.md) formatına dönüştürmek, web içeriğinin hafif, okunabilir ve taşınabilir metne dönüştürülmesine olanak tanır, bu da web siteleri, bloglar ve geliştirici belgeleri için uygundur. Markdown, başlıklar, bağlantılar, listeler ve kod parçacıkları gibi içerik yapısını korur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* Web öğreticilerini geliştirici belgeleri için Markdown'a dönüştürme.
+
+* Web sayfalarından blog içeriğini Markdown formatında arşivleme.
+
+* Çevrimiçi kılavuzlardan bilgi tabanı makaleleri oluşturma.
+
+* Web tabanlı raporları taşınabilir Markdown notlarına dönüştürme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* Statik site oluşturucular için birden fazla MHTML sayfasının toplu dönüşümü.
+
+* Geliştirici vikilerinde otomatik içerik güncellemeleri için tetiklenmiş Markdown oluşturma.
+
+* Web içeriğini belgelere dönüştürmek için CI/CD boru hatlarıyla entegrasyon.
+
+* Markdown tabanlı bilgi tabanları için web tabanlı raporların otomatik çıkarılması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

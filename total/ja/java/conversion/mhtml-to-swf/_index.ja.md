@@ -121,7 +121,55 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをSWF（Shockwave Flash）に変換すると、WebアニメーションやインタラクティブコンテンツがFlash形式に変換され、従来のマルチメディアやプレゼンテーションで使用できるようになります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* インタラクティブなWebチュートリアルやアニメーションのアーカイブ。
+
+* オンラインプレゼンテーションやデモをSWFファイルに変換する。
+
+* オフラインで使用するためにエクスポートされたアニメーション付きの教育モジュール。
+
+* ウェブサイトから保存されたインタラクティブビジュアルを持つマーケティングコンテンツ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* WebアニメーションをSWFにバッチ変換するスケジュールされた処理。
+
+* オフラインの教育やトレーニングコンテンツのエクスポートをトリガー。
+
+* SWFを必要とする従来のプレゼンテーションソフトウェアとの統合。
+
+* インタラクティブなWebグラフィックの自動アーカイブ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

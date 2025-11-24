@@ -57,7 +57,55 @@ otherformats: IMAGE  JPEG2000 TGA WMZ SVGZ PSD DXF WMF EMZ DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为WMZ（压缩的Windows元文件）可在紧凑格式中共享矢量图形。WMZ非常适合分发图表、图表和插图而不会失去质量。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从Markdown图表创建压缩的矢量插图。
+
+* 以减小的文件大小共享与传统兼容的图形。
+
+* 将技术图表嵌入文档或演示文稿中。
+
+* 分发源自Markdown的流程图和框图。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于文档系统的自动化MD到WMZ转换。
+
+* 从Markdown存储库批量生成压缩的矢量图表。
+
+* 与生成便携图形的ETL管道集成。
+
+* 为企业分发定期更新的WMZ文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

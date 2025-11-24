@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为PS（PostScript）可创建适用于专业出版的高质量矢量打印文件。PS支持可缩放的图表、文本格式设置，并广泛用于印刷生产环境。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从Markdown内容生成适用于打印的图表。
+
+* 生成适用于专业出版的可缩放的PostScript插图。
+
+* 将基于Markdown的报告转换为高分辨率打印输出。
+
+* 将技术文档存档为PS格式以实现可再现性。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将Markdown自动转换为PS以用于企业出版流程。
+
+* 从Markdown存储库批量生成PS以用于打印就绪文档。
+
+* 定时导出高质量报告的PostScript。
+
+* 与打印自动化工作流集成，将Markdown转换为PS。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

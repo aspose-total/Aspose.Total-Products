@@ -57,7 +57,51 @@ otherformats: IMAGE WMF SVGZ JPEG2000 EMZ TGA DXF WMZ PSD DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML转EMZ（压缩的Windows增强图元文件）以一种压缩的可缩放格式保留网页中的矢量图形，适用于演示文稿和文档。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 在紧凑的EMZ格式中存档基于Web的流程图和图表。
+
+* 将压缩的图形嵌入Microsoft Office演示文稿。
+
+* 在团队之间共享可缩放的插图，而无需大文件大小。
+
+* 保留公司报告的矢量图表。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从MHTML存档中批量转换为EMZ以用于文档工作流程。
+
+* 触发可扩展图形交付的压缩管道。
+
+* 与内容管理系统集成以进行自动更新。
+
+* 定时生成适用于演示准备的矢量资产。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

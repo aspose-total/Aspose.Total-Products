@@ -49,7 +49,55 @@ otherformats: SXC XLTX XLAM FODS EXCEL ODS TSV XLSB XLTM XLSM XLT DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将Markdown（MD）转换为XLSM（启用宏的Excel工作簿）可解锁电子表格工作流程中的自动化功能。XLSM支持VBA宏，非常适合动态报告和自动化计算。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从Markdown输入表格创建宏驱动的仪表板。
+
+* 从MD产品表中自动化成本计算器。
+
+* 基于Markdown结构构建的XLSM工作流自动化。
+
+* 使用从MD注释创建的宏来制作工程表。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 在CI工作流中自动化MD → XLSM生成。
+
+* 定期创建用于操作的启用宏的电子表格。
+
+* 生成动态XLSM报告的转换管道。
+
+* 将Markdown来源集成到自动化财务电子表格系统中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

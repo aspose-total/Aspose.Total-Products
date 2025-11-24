@@ -121,7 +121,51 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML转换为PPSX（无宏的幻灯片放映）创建了适用于协作和受宏限制环境的即时运行幻灯片放映。PPSX非常适合分发给多个利益相关者的演示文稿。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 无宏的客户就绪演示文稿。
+
+* 用于安全分发的教育或培训幻灯片放映。
+
+* 面向外部利益相关者的营销活动演示文稿。
+
+* 团队共享的项目更新和KPI演示文稿。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 将网页内容批量转换为PPSX幻灯片的自动化。
+
+* 用于定期幻灯片放映的计划更新。
+
+* 从实时网络仪表板触发生成用于会议。
+
+* 集成到演示文稿管理平台中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

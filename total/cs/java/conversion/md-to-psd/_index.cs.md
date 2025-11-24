@@ -57,7 +57,55 @@ Pomocí API můžete také otočit výstupní obrázek PSD podle svých potřeb.
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění formátu Markdown (MD) na formát PSD (Photoshop Document) umožňuje designérům importovat textový a strukturovaný obsah do vrstvených, editovatelných souborů Photoshop. PSD umožňuje kombinovat diagramy vytvořené v Markdownu s profesionální úpravou grafiky.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Přeměna poznámek v Markdownu na editovatelné návrhy designu.
+
+* Vytváření vrstvených diagramů pro infografiky nebo marketingový obsah.
+
+* Kombinování vizuálních prvků generovaných v Markdownu s firemními zdroji.
+
+* Příprava designových souborů pro spolupracující tvůrčí pracovní postupy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Automatizovaná konverze z Markdownu do formátu PSD pro marketingové týmy.
+
+* Hromadné vytváření vrstvených vizuálních prvků z repozitářů Markdownu.
+
+* Integrace s grafickými toky pro produkci obsahu.
+
+* Spouštění generování souborů PSD pro spolupracující designové projekty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,55 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversione da MD (Markdown) a PPSX (PowerPoint Slideshow) produce file di presentazioni moderni che si aprono direttamente in modalità schermo intero. PPSX è ampiamente utilizzato per presentazioni in esecuzione automatica in ambienti aziendali, commerciali ed eventi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* Presentazioni di vendita in esecuzione automatica provenienti da note MD.
+
+* Schermi della lobby aziendale creati a partire da contenuti Markdown.
+
+* Cicli di slide per eventi costruiti da programmi o ordini del giorno basati su MD.
+
+* Demo di prodotti continui derivati da descrizioni Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* Flussi di lavoro PPSX automatizzati per segnaletica e pannelli display.
+
+* Generazione programmata di presentazioni da script eventi Markdown.
+
+* Creazione batch di PPSX per l'utilizzo nei punti vendita.
+
+* Conversioni da MD a PPSX all'interno delle piattaforme di segnaletica digitale.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -49,7 +49,51 @@ otherformats: XLTM XLSB XLTX XLSM TXT FODS XLAM EXCEL SXC XLT ODS MD
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将MHTML转换为MD侧重于从Web存档创建干净、可编辑的Markdown（.md）文件。MD文件非常适合静态网站、GitHub存储库和笔记应用程序，具有便携性和简单性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* 从Web内容生成GitHub README文件。
+
+* 将技术指南和教程存档为Markdown文件。
+
+* 将在线知识文章转换为可编辑的MD笔记。
+
+* 创建基于Markdown的新闻简报或文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 定期批量将MHTML文件转换为MD，用于文档项目。
+
+* 与Hugo或Jekyll等静态站点生成器集成。
+
+* 触发式转换，用于自动存档Web内容。
+
+* 用于Markdown内容管理系统的管道集成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

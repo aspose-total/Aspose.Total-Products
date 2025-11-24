@@ -47,7 +47,55 @@ Durante la conversione del file MD in CSV, puoi anche aggiungere una filigrana a
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+"""
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La conversione dei file MD (Markdown) in CSV consente ai team di trasformare testi strutturati, tabelle e elenchi in dati di fogli di calcolo universalmente compatibili. I file CSV sono ideali per flussi di lavoro di analisi, importazioni di database e scambi di dati leggeri tra piattaforme.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* Esportare tabelle Markdown in set di dati CSV per l'analisi.
+
+* Importare fogli di prezzi basati su MD in strumenti di contabilità.
+
+* Trasformare i log dei Markdown degli sviluppatori in file CSV ordinabili.
+
+* Migrazione di tabelle di documentazione nei sistemi CRM ed ERP.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenario di automazione" %}}
+
+
+
+* Lavori ETL che trasformano i Markdown del repository in CSV ogni notte.
+
+* Conversione automatica per dashboard che richiedono input CSV.
+
+* Esportazioni batch per pipeline di preelaborazione di machine learning.
+
+* Trigger del flusso di lavoro che producono CSV da report basati su Markdown.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+"""
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

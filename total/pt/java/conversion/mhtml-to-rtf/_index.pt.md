@@ -129,7 +129,51 @@ Qualquer sistema operacional que possa executar o Java Runtime Environment (JRE)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A conversão de MHTML para RTF (Rich Text Format) preserva a formatação do texto, mantendo ampla compatibilidade entre processadores de texto. O RTF é ideal para fins de arquivamento, relatórios e edição entre plataformas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* Arquivar relatórios da web com formatação preservada.
+
+* Edição entre plataformas de conteúdo da web em vários processadores de texto.
+
+* Compartilhar documentação baseada na web formatada sem problemas de compatibilidade.
+
+* Preparar manuais ou guias com texto estilizado de fontes online.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* Conversão em lote agendada para arquivamento de conteúdo da web.
+
+* Integração em sistemas de gerenciamento de documentos para geração automatizada de RTF.
+
+* Autoconversão para sistemas legados que requerem entrada RTF.
+
+* Criação de RTF acionada para painéis de relatórios e documentação automatizada.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -105,7 +105,55 @@ otherformats: WMF WMZ TGA DXF EMZ  IMAGE APNG SVGZ JPEG2000 DICOM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת MHTML ל-PSD (אדובי פוטושופ) ממירה גרפיקה אינטרנטית לתמונות שכבתיות שניתן לערוך באופן מלא. PSD הוא אידיאלי עבור מעצבים ושיווקנים שזקוקים ליכולות עריכה מתקדמות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* עריכת באנרים, כותרות או גרפיקה של ממשק משתמש בפוטושופ.
+
+* חילוץ אינפוגרפיקה בשכבות עבור קמפיינים שיווקיים.
+
+* יצירת תבניות אינטרנט שניתן לערוך מתוך תוכן מאורכב.
+
+* פרויקטי עיצוב גרפי הדורשים תמונות אינטרנט מקוריות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת PSD בצורה גורמתית מדפי אינטרנט MHTML עבור צוותי עיצוב.
+
+* המרה מופעלת לעדכונים קבועים בחומרי שיווק.
+
+* שילוב לתוך צינורות העברת נכסי עיצוב לאוטומציה בפוטושופ.
+
+* יצירת PSD מתוזמנת לזרימות עבודה מהאינטרנט להדפסה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

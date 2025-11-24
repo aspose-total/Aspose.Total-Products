@@ -59,7 +59,31 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+Die Umwandlung von Markdown (MD) in PowerPoint (PPTX) verwandelt einfachen Textinhalt in professionelle, visuell strukturierte Präsentationen. PPTX-Dateien unterstützen Animationen, Medien, Diagramme und Branding-Elemente, was sie perfekt für Geschäfts-, Bildungs- und Marketingzwecke macht.
+
+## {{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* Erstellung vollständiger PowerPoint-Präsentationen aus Markdown-Meeting-Notizen.
+* Umwandlung von MD-Dokumentation in visuell ansprechende Berichte.
+* Erstellung von Konferenz- oder Webinar-Folien aus Markdown-Quellen.
+* Umwandlung von Markdown-Produktbeschreibungen in für den Kunden einsatzbereite PPTX-Präsentationen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* Automatisierte PPTX-Erstellung für wiederkehrende Präsentationen.
+* ETL-Pipelines, die geschäftsreife PowerPoints aus Markdown generieren.
+* Zeitgesteuerte Erstellung von Folienpräsentationen für wöchentliche Berichtszyklen.
+* Stapelverarbeitung von PPTX-Exporten für Schulungs- und Einarbeitungssysteme.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -59,7 +59,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Umwandlung von Markdown (MD) in XAML (Extensible Application Markup Language) verwandelt textuellen Inhalt in vektorbasierte UI-Grafiken oder interaktive Komponenten für Windows-Anwendungen. XAML unterstützt präzise Layouts, skalierbare Visuals und Integration mit modernen Anwendungs-Frameworks.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Rendern von Markdown-Diagrammen als UI-Komponenten in WPF-Anwendungen.
+
+* Erstellen interaktiver Vektorillustrationen für Desktop-Apps.
+
+* Umwandeln von Dokumentationstabellen und Diagrammen in XAML-Grafiken.
+
+* Einbetten von Markdown-Inhalten als skalierbare Visuals in Software-Schnittstellen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierte MD-zu-XAML-Generierung für Software-UI-Pipelines.
+
+* Stapelverarbeitung von Markdown-Notizen in XAML-Vektor-Komponenten.
+
+* Geplante Konvertierung für Dokumentation-zu-UI-Workflows.
+
+* Ausgelöstes Rendern von Markdown-Diagrammen in XAML für interaktive Apps.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

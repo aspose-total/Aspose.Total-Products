@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (마크다운)를 DOT (워드 템플릿)으로 변환하면 기업이 버전 관리된 콘텐츠를 유지하면서 브랜드화된 문서를 표준화할 수 있습니다. DOT 템플릿은 형식 일관성을 유지하고 팀이 깨끗하고 재사용 가능한 구조에서 새 워드 파일을 즉시 생성할 수 있도록 보장합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* Markdown 기반 템플릿에서 일관된 편지지 생성.
+
+* MD 초안에서 브랜드 승인된 마케팅 자료 발행.
+
+* MD 가이드에서 입사 문서 템플릿 생성하는 HR 팀.
+
+* 마크다운에서 가져온 계약 구조를 표준화하는 법무팀.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* CMS 게시 워크플로우에서 자동 DOT 템플릿 생성.
+
+* 브랜딩 자산을 업데이트하는 분산 팀을 위한 중앙 집중식 변환.
+
+* Git에 저장된 마스터 템플릿의 예약된 재생성.
+
+* 프랜차이즈 또는 다중 지점 문서화 요구에 대한 자동화된 DOT 생성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

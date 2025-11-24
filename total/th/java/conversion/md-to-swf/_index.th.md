@@ -59,7 +59,55 @@ presentation.save("output.swf", SaveFormat.Swf);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น SWF (Shockwave Flash) ช่วยให้ข้อความ ไดอะแกรม และแผนภูมิ สามารถถูกแปลงเป็นภาพเคลื่อนไหวแบบ Flash ที่สามารถทำงานได้  SWF เหมาะสำหรับเนื้อหาการศึกษาเก่า บทเรียน และการนำเสนอบนเว็บที่เคลื่อนไหวได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การแปลงบทเรียน Markdown เป็นเนื้อหา SWF แบบแอนิเมชัน
+
+* แผนภูมิเคลื่อนไหวสำหรับโมดูลการเรียนออนไลน์ที่สร้างจาก Markdown
+
+* การนำเสนอเก่าที่ใช้ Flash สำหรับการส่งมอบบนเว็บ
+
+* การฝังภาพแบบ Markdown ที่สามารถทำงานได้ในแพลตฟอร์มการศึกษา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้างกระแสงาน Markdown-to-SWF อัตโนมัติสำหรับวัสดุการฝึกออนไลน์
+
+* การแปลงเป็นชุดข้อมูล MD เป็นไฟล์ Flash แบบแอนิเมชัน
+
+* การอัปเดตตามกำหนดเวลาไปยังโมดูลการเรียนรู้ SWF ที่ได้มาจาก Markdown
+
+* การสร้างกระตุ้นของภาพ SWF สำหรับแพลตฟอร์มเก่าบนเว็บ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

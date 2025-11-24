@@ -57,7 +57,55 @@ otherformats: IMAGE WMF TGA WMZ SVGZ EMZ  PSD DXF JPEG2000 DICOM
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή του Markdown (MD) σε TGA (Targa Image) δημιουργεί υψηλής ποιότητας ραστρωτές γραφικές εικόνες που χρησιμοποιούνται συχνά στη βιομηχανία παραγωγής βίντεο, στα παιχνίδια ή σε διαγράμματα μηχανικής. Το TGA υποστηρίζει κανάλια απόδοσης (alpha channels) και μη συμπιεσμένη έξοδο για ακριβή αναπαράσταση.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Εξαγωγή διαγραμμάτων βασισμένων σε Markdown για επικαλύψεις βίντεο ή πόρους παιχνιδιών.
+
+* Γραφικές υψηλής ανάλυσης για τεκμηρίωση μηχανικής.
+
+* Δημιουργία εικόνων με κανάλια απόδοσης (alpha-channel) από οπτικοποιήσεις Markdown.
+
+* Δημιουργία μη συμπιεσμένων τεχνικών διαγραμμάτων για υλικά παρουσίασης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Αυτοματοποιημένη δημιουργία TGA από αποθετήρια Markdown για δημιουργικές διαδικασίες.
+
+* Μαζική εξαγωγή διαγραμμάτων για παραγωγή βίντεο ή τεκμηρίωση τεχνικής.
+
+* Προγραμματισμένη μετατροπή διαγραμμάτων Markdown για έργα προσομοίωσης ή παιχνιδιών.
+
+* Ενσωμάτωση με συστήματα διαχείρισης περιεχομένου για αυτόματη παραγωγή οπτικών TGA.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

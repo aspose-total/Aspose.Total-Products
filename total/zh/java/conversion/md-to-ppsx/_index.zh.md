@@ -59,7 +59,55 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（Markdown）转换为PPSX（PowerPoint幻灯片）可生成现代幻灯片文件，直接以全屏模式打开。 PPSX广泛用于企业、零售和活动环境中的自动运行演示文稿。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* 从MD笔记中获取的自动播放销售演示文稿。
+
+* 从Markdown内容创建的企业大堂屏幕。
+
+* 从基于MD的时间表或议程构建的活动幻灯片循环。
+
+* 从Markdown描述衍生的连续产品演示。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 用于标识和展示板的自动化PPSX工作流程。
+
+* 从Markdown事件脚本生成的定时幻灯片。
+
+* 用于零售店铺的批量PPSX创建。
+
+* 数字标识平台内的MD到PPSX转换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

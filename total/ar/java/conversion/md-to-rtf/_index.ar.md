@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحويل تنسيق MD (Markdown) إلى تنسيق RTF (Rich Text Format) يضمن التوافق عبر المنصات وسهولة الوصول. تحتفظ ملفات RTF بالتنسيق عبر معظم أنظمة التشغيل، مما يجعلها مثالية للتوزيع الخفيف، والأرشفة، والوصول دون اتصال.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* تحويل الوثائق بتنسيق Markdown إلى دليل RTF قابل للنقل.
+
+* إنشاء أوراق تدريبية متوافقة عالميًا من الدلائل بتنسيق MD.
+
+* ملفات تعليمات قائمة على RTF مستمدة من Markdown للأنظمة القديمة.
+
+* وثائق نصية صديقة للتشغيل بدون اتصال للفرق ذات الوصول المحدود إلى البرمجيات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* جدولة توليد MD-to-RTF للأرشيف الرقمي.
+
+* سير العمل ETL لتصدير مستودعات المحتوى إلى مكتبات RTF.
+
+* إنشاء RTF تلقائي لمجموعات دعم العملاء بدون اتصال.
+
+* تحويل دفعي لملاحظات Markdown إلى ملفات RTF متوافقة مع متعددة المنصات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

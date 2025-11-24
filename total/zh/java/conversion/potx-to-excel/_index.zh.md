@@ -61,7 +61,51 @@ otherformats: XLSB MHTML XLAM XLTM XLTX EXCEL TSV XLSX DIF XLS MARKDOWN XLT SXC 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+将 **POTX 转换为 EXCEL** 将 PowerPoint 模板内容转换为本机 Excel 工作簿，使用户能够重新利用电子表格中的布局数据、表格结构和元数据。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 将幻灯片模板表转换为可编辑的 Excel 文档。
+
+* 为企业报告准备可重复使用的数据模型。
+
+* 提取结构化 Excel 表中的内容占位符。
+
+* 使用模板元素进行项目或团队文档编制。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从大型 POTX 模板存储库中批量生成 EXCEL。
+
+* 从标准幻灯片模板创建定期 Excel 报告。
+
+* 当模板更新时基于触发器的转换。
+
+* 将提取的 Excel 数据输入 BI 仪表板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

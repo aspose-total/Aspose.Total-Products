@@ -67,7 +67,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น GIF ช่วยให้เนื้อหาข้อความ ไดอะแกรม หรือแผนภูมิสามารถกลายเป็นภาพเคลื่อนไหวที่วนซ้ำได้  GIF ได้รับการสนับสนุนอย่างแพร่หลาย ทำให้เหมาะสำหรับบทช่วยสอน เนื้อหาสื่อสังคม และภาพประกอบที่มีประสิทธิภาพ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* การแปลงแผนภูมิ Markdown เป็น GIF ที่ใช้สอน
+
+* แผนภูมิเครื่องคู่ความสำหรับการเขียนโค้ดหรือการทำงานเอกสาร
+
+* การสร้างภาพประกอบที่เหมาะสำหรับสื่อสังคมจากบันทึก Markdown
+
+* ภาพประกอบที่วนซ้ำสำหรับคู่มือทางเทคนิคหรือการสาธิตซอฟต์แวร์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้าง GIF โดยอัตโนมัติจากการอัปเดตเอกสาร Markdown
+
+* การประมวลผลเป็นชุดของแผนภูมิ Markdown เป็น GIF
+
+* การผสานกับท่อการส่งเนื้อหาเพื่อสร้าง GIF สำหรับพอร์ทัลออนไลน์
+
+* การแปลง Markdown เป็น GIF ตามกำหนดเวลาสำหรับแพลตฟอร์มการตลาดหรือการศึกษา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

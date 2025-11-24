@@ -121,7 +121,51 @@ Jakýkoli operační systém, na kterém lze spustit Java Runtime Environment (J
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převádění souborů MHTML (webový archiv) do formátu ODP (OpenDocument Presentation) umožňuje transformaci webového obsahu do plně upravitelných snímků pro LibreOffice nebo OpenOffice. ODP zajistí kompatibilitu napříč platformami a zachová původní formátování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Převádění obsahu online marketingu do prezentací ve formátu ODP.
+
+* Vytváření vzdělávacích modulů z webových výukových plánů.
+
+* Archivace firemních prezentací původně umístěných na webových portálech.
+
+* Transformace webových aktualizací projektů do profesionálních snímků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadná konverze více zpráv MHTML do souborů ODP.
+
+* Plánované generování prezentací pro interní komunikaci.
+
+* Automatické aktualizace obsahu prezentací z živých webových nástěnek.
+
+* Integrace do spolupracujících open-source pracovních postupů pro prezentace.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

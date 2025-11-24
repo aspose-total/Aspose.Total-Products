@@ -47,7 +47,55 @@ otherformats: XLSM XLAM XLT EXCEL ODS TXT XLTM FODS SXC TSV XLTX DIF
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น XLTM (Macro-Enabled Excel Template) ช่วยสร้างเทมเพลตสเปรดชีทที่ใช้ซ้ำได้และมีการอัตโนมัติเพิ่มเติม XLTM files รองรับ macros สำหรับการเริ่มต้นแบบไดนามิก ฟิลด์ที่เติมอัตโนมัติ และการดำเนินการขั้นสูงของเรื่องการทำงาน
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* รูปแบบธุรกิจที่ใช้ Macro ที่มาจากเนื้อหา Markdown
+
+* สร้างเทมเพลตทำนายอัตโนมัติจากข้อมูล MD
+
+* สร้างเทมเพลตการคำนวณที่ใช้ซ้ำสำหรับทีมวิศวกร
+
+* สร้างเทมเพลตสำหรับการเข้าทำงานหรือตรวจสอบพร้อม Macro
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* สร้างเทมเพลต XLTM โดยอัตโนมัติผ่านการแปลง MD ด้วย CI
+
+* สร้างเทมเพลตที่ใช้ Macro ได้เป็นจำนวนมากสำหรับสำนักงานที่กระจาย
+
+* อัปเดตเวลาตามกำหนดของไฟล์ XLTM จากคลังข้อมูล Markdown
+
+* สคริปต์การทำงานขั้นสูงที่เติมข้อมูลจากด้านหลังเข้าเทมเพลต XLTM ได้โดยอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

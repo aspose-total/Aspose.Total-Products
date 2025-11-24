@@ -59,7 +59,55 @@ presentation.save("output.potm", SaveFormat.Potm);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MD (Markdown) to POTM (Macro-Enabled PowerPoint Template) konverzió lehetővé teszi az automatizált funkciókkal gazdagított prezentációs sablonok létrehozását. A POTM támogatja a VBA makrókat az automatikus formázáshoz, diák generáláshoz és dinamikus tartalom beillesztéséhez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* Makróval meghajtott dia sablonok Markdown keretrendszerből.
+
+* Automatizált jelentési csomagok az MD dokumentációból.
+
+* Interaktív oktatási sablonok létrehozása MD tartalom felhasználásával.
+
+* Dinamikus üzleti sablonok előre betöltött VBA logikával.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* Az MD frissítései által kiváltott automatizált POTM sablon létrehozás.
+
+* Makróval meghajtott PowerPoint sablonok tömeges generálása.
+
+* CI/CD munkafolyamatok a POTM keretrendszerek építéséhez jelentési csapatok számára.
+
+* Munkafolyamatvezérelt POTM újragenerálás vállalati arculathoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

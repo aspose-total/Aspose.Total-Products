@@ -49,7 +49,55 @@ otherformats: DIF MD EXCEL ODS XLT FODS XLAM XLSB SXC XLTM TXT TSV
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML转XLT（Excel模板）转换允许将网页内容转换为可重复使用的Excel模板，保留布局和结构。非常适合标准化报告和工作流程的一致性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* 源自在线仪表板的标准化财务模板。
+
+* 从网页数据创建预算或发票模板。
+
+* 可重复使用的KPI或绩效跟踪电子表格。
+
+* 团队范围的Excel模板，用于统一报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* 从网页内容自动创建XLT模板。
+
+* 批量转换管道，用于定期报告需求。
+
+* 为项目管理仪表板触发模板生成。
+
+* 与工作流工具集成，实现一致的电子表格格式。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

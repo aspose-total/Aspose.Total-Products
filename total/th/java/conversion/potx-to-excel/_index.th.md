@@ -61,7 +61,45 @@ otherformats: XLSB MHTML XLAM XLTM XLTX EXCEL TSV XLSX DIF XLS MARKDOWN XLT SXC 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง **POTX เป็น EXCEL** จะเปลี่ยนเนื้อหาของเทมเพลต PowerPoint เป็นสมุดงาน Excel ให้ผู้ใช้สามารถนำเอาข้อมูลเค้าโครงเส้นทาง โครงสร้างตาราง และเมตาดาต้าภายในสเปรดชีทไปใช้ใหม่
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* การเปลี่ยนตารางเทมเพลตสไลด์ให้เป็นเอกสาร Excel ที่สามารถแก้ไขได้
+* เตรียมโมเดลข้อมูลที่ใช้ซ้ำได้สำหรับรายงานของบริษัท
+* สกัดเอาตัวแทนเนื้อหาสำหรับชีท Excel ที่มีโครงสร้าง
+* ใช้เอกสารเทมเพลตสำหรับเอกสารโครงการหรือทีม
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การสร้าง EXCEL จากเทมเพลต POTX ขนาดใหญ่เป็นชุด
+* สร้างรายงาน Excel ที่เกิดซ้ำจากเทมเพลตสไลด์มาตรฐาน
+* การแปลงโดยใช้การกระตุ้นเมื่อมีการอัปเดตเทมเพลต
+* นำข้อมูล Excel ที่สกัดมาเข้าสู่แผงควบคุมธุรกิจ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

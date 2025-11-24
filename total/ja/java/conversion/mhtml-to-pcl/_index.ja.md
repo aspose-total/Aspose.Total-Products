@@ -130,7 +130,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをPCL（プリンターコマンド言語）に変換することで、Webコンテンツを標準化された形式で直接プリンターに送信し、デバイス間で一貫したドキュメント出力を確保できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* 企業プリンターフリートでのアーカイブされたWebレポートの印刷。
+
+* オンラインフォームや請求書を直接印刷ワークフローに変換。
+
+* Webページからのマーケティング資料の一括印刷。
+
+* 企業文書配布のための一貫したレイアウトの確保。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 自動印刷ジョブのためのスケジュールされたMHTMLからPCLへの変換。
+
+* 企業文書システム向けの一括印刷統合。
+
+* Webベースの請求書印刷のためのトリガー付きワークフロー。
+
+* オフィス自動化および印刷プラットフォームとの統合。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

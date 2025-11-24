@@ -61,7 +61,51 @@ otherformats: MARKDOWN XLT TSV EXCEL MHTML XLSM FODS XLTM SXC XLSB XLS DIF XLTX 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Преобразование **POTX в TSV** генерирует файлы со значениями, разделенными табуляцией, которые идеально подходят для анализа на основе текста, конвейеров данных и предварительной обработки машинного обучения.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* Подготовка данных слайдов POTX для статистического анализа.
+
+* Импорт табличного содержимого в рабочие процессы машинного обучения.
+
+* Извлечение структурированного содержимого шаблона для разработчиков.
+
+* Создание наборов данных TSV для инструментов отчетности BI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* Пакетное извлечение шаблонов в TSV для аналитических команд.
+
+* Обновление форматов TSV на основе триггеров при редактировании шаблонов.
+
+* Интеграция в конвейеры ETL для трансформации данных.
+
+* Планирование генерации TSV для повторяющихся циклов отчетности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

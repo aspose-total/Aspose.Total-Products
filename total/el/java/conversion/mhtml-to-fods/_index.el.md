@@ -47,7 +47,55 @@ otherformats: MD SXC FODS TSV XLT TXT XLSB XLSM EXCEL DIF XLAM XLTX
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η μετατροπή MHTML σε FODS (Flat OpenDocument Spreadsheet) δημιουργεί αρχεία υπολογιστικού φύλλου βασισμένα σε XML κατάλληλα για το LibreOffice ή το OpenOffice. Το FODS είναι ιδανικό για ελαφριά, φορητή αρχειοθέτηση δεδομένων.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* Αρχειοθέτηση web-based πινάκων αναφορών για επεξεργασία σε διαφορετικές πλατφόρμες.
+
+* Προετοιμασία προτύπων υπολογιστικών φύλλων ανοικτού κώδικα για συνεργατικές ομάδες.
+
+* Μετατροπή διαδικτυακών πινάκων οικονομικών στοιχείων σε φορητά αρχεία FODS.
+
+* Διαμοιρασμός δομημένων δεδομένων από το web με χρήστες που δε χρησιμοποιούν το Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματισμού" %}}
+
+
+
+* Προγραμματισμένη μετατροπή MHTML σε FODS για ροές εργασίας γραφείου ανοικτού κώδικα.
+
+* Μαζική επεξεργασία διαδικτυακών πινάκων για τη δημιουργία επεξεργάσιμων αρχείων FODS.
+
+* Ενεργοποιημένη αυτόματη μετατροπή για συστήματα παρακολούθησης στο web.
+
+* Ενσωμάτωση σε συνεργατικές πλατφόρμες που απαιτούν πρότυπα FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

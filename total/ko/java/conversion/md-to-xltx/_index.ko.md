@@ -47,7 +47,55 @@ MD 파일을 XLTX로 변환하는 동안 출력 XLTX 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD (마크다운)를 XLTX(매크로 없는 엑셀 템플릿)으로 변환하는 것은 깔끔하고 일관된 매크로 없는 템플릿 생성에 중점을 둔 팀에 이상적입니다. XLTX는 신뢰할 수 있는 서식을 유지하면서 재사용 가능한 구조를 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 마크다운 기반 보고서를 표준화된 템플릿으로 변환하기.
+
+* 기업용으로 다듬어진 XLTX 템플릿 생성하기.
+
+* MD 디자인 가이드라인을 스프레드시트 프레임워크로 변환하기.
+
+* 인사, 재무 및 운영을 위한 편집 가능한 템플릿 생성하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* MD를 통해 빌드 워크플로에서 자동화된 XLTX 템플릿 생성하기.
+
+* 조직을 위한 균일한 템플릿 대량 생산하기.
+
+* ETL 파이프라인을 통해 다부서 사용을 위한 XLTX 템플릿 새로 고침하기.
+
+* 클라우드 기반 문서 시스템을 위한 MD 기반 템플릿 업데이트하기.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

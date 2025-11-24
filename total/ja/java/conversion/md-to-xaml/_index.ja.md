@@ -59,7 +59,55 @@ presentation.save("output.xaml", SaveFormat.Xaml);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Markdown（MD）をXAML（Extensible Application Markup Language）に変換すると、テキストコンテンツがWindowsアプリケーション用のベクターベースのUIグラフィックやインタラクティブコンポーネントに変換されます。XAMLは正確なレイアウト、スケーラブルなビジュアル、そしてモダンなアプリケーションフレームワークとの統合をサポートしています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* WPFアプリケーションでのMarkdownダイアグラムのUIコンポーネントとしてのレンダリング。
+
+* デスクトップアプリケーション用のインタラクティブなベクターイラストの作成。
+
+* ドキュメントの表やチャートをXAMLグラフィックスに変換。
+
+* ソフトウェアインターフェースにスケーラブルなビジュアルとしてMarkdownコンテンツを埋め込む。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* ソフトウェアUIパイプライン用の自動化されたMDからXAMLへの変換。
+
+* Markdownノートのバッチ処理をXAMLベクターコンポーネントに変換。
+
+* ドキュメントからUIワークフローへのスケジュール変換。
+
+* インタラクティブアプリケーション用にMarkdownダイアグラムをXAMLにトリガーされたレンダリング。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

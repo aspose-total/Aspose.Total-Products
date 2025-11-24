@@ -47,7 +47,51 @@ MHTML 파일을 MD로 변환하는 동안 출력 MD 파일 형식에 워터마�
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML를 MD로 변환하는 것은 웹 아카이브에서 깨끗하고 편집 가능한 Markdown (.md) 파일을 생성하는 데 중점을 둡니다. MD 파일은 정적 웹사이트, GitHub 저장소 및 노트 앱에 이상적이며 휴대성과 간결함을 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 웹 콘텐츠에서 GitHub README 파일 생성.
+
+* 기술 가이드 및 튜토리얼을 Markdown으로 아카이빙.
+
+* 온라인 지식 기사를 편집 가능한 MD 노트로 변환.
+
+* Markdown 기반 뉴스레터 또는 문서 작성.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 문서 프로젝트용 MHTML 파일을 MD로 일괄 변환 예약.
+
+* Hugo 또는 Jekyll과 같은 정적 사이트 생성기와 통합.
+
+* 웹 콘텐츠 자동 아카이빙을 위한 트리거 변환.
+
+* Markdown 기반 콘텐츠 관리 시스템을 위한 파이프라인 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

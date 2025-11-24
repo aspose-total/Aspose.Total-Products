@@ -47,7 +47,51 @@ MHTML 파일을 XLT로 변환하는 동안 출력 XLT 파일 형식에 워터마
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML를 XLT(Excel 템플릿)로 변환하면 웹 콘텐츠를 재사용 가능한 Excel 템플릿으로 변환하여 레이아웃과 구조를 보존합니다. 표준화된 보고서 및 워크플로 일관성을 유지하는 데 이상적입니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* 온라인 대시보드에서 파생된 표준화된 재무 템플릿.
+
+* 웹 데이터에서 생성된 예산 또는 송장 템플릿.
+
+* 재사용 가능한 KPI 또는 성과 추적 스프레드시트.
+
+* 균일한 보고를 위한 팀 전체의 Excel 템플릿.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* 웹 콘텐츠에서 XLT 템플릿의 자동 생성.
+
+* 반복적인 보고 요구를 위한 일괄 변환 파이프라인.
+
+* 프로젝트 관리 대시보드를 위한 트리거된 템플릿 생성.
+
+* 일관된 스프레드시트 형식을 위한 워크플로 도구 통합.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

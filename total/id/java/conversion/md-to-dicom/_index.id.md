@@ -57,7 +57,55 @@ Menggunakan API, Anda juga dapat memutar gambar DICOM keluaran sesuai kebutuhan 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Mengonversi file Markdown (MD) ke format DICOM (Digital Imaging and Communications in Medicine) memungkinkan integrasi dokumentasi teks atau anotasi ke dalam alur kerja gambar medis. DICOM mendukung metadata, struktur gambar standar, dan ideal untuk sistem rumah sakit dan lingkungan penelitian.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Kunci" %}}
+
+
+
+* Menanamkan catatan klinis berbasis Markdown ke dalam arsip gambar medis.
+
+* Menghasilkan visual edukasi pasien terstruktur dengan konten Markdown.
+
+* Mengintegrasikan dokumentasi penelitian ke dalam kumpulan data gambar yang mematuhi standar DICOM.
+
+* Menyimpan anotasi berbasis teks bersamaan dengan gambar radiologi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* Generasi MD-to-DICOM otomatis untuk sistem dokumentasi rumah sakit.
+
+* Pengolahan berkelompok file Markdown klinis untuk integrasi rekam medis elektronik.
+
+* Pipa konversi terjadwal yang memberi makan arsip DICOM.
+
+* Pemantauan rendering laporan Markdown bersamaan dengan data gambar untuk diagnosis yang dibantu AI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

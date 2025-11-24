@@ -59,7 +59,55 @@ presentation.save("output.potx", SaveFormat.Potx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การแปลง Markdown (MD) เป็น POTX (PowerPoint Template โดยไม่มีแมโคร) ช่วยให้สามารถสร้างเทมเพลตงานนำเสนอที่สมัคร และสะอาด โดยใช้ไฟล์ข้อความที่มีน้ำหนักเบาเป็นพื้นฐาน  POTX  ช่วยให้มั่นใจได้ว่ามีความสอดคล้องในการนำเสนอโดยไม่ต้องพึ่งพาแมโคร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* สร้างเทมเพลต POTX ที่สะอาดและมีแบรนด์จากเนื้อหา MD outlines.
+
+* ปรับเปลี่ยนสไลด์ขององค์กรให้มีมาตรฐานในแผนกต่าง ๆ
+
+* สร้างเด็กการตลาดจาก Markdown briefs
+
+* ออกแบบเทมเพลตการนำเสนอทางวิชาการผ่านเนื้อหา MD
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* การผลิต POTX โดยอัตโนมัติในกระบวนการเอกสาร
+
+* การสร้างเทมเพลตใหม่โดยใช้ Markdown เป็นเนื้อหาต้นฉบับ
+
+* การกระจายไฟล์ POTX ให้ทีมงานในองค์กร
+
+* การอัพเดทจาก MD เป็น POTX ตามกำหนดเวลาในกระบวนการทำงานที่เกี่ยวกับแบรนด์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
  
 {{< /blocks/products/pf/main-wrap-class >}}

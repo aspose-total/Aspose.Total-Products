@@ -57,7 +57,25 @@ APIを使用すると、必要に応じて出力IMAGE画像を回転させるこ
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## BMP
+
+Markdown（MD）を一般的な画像形式（PNG、JPG、BMP）に変換すると、テーブル、図表、フォーマットされたテキストをポータブルでプラットフォームに依存しない形式で視覚化できます。画像はプレゼンテーション、ウェブサイト、または文書に埋め込むことができます。
+
+## GIF JPEG="主な使用シナリオ"
+
+- スライドやレポート用にMarkdown図を静止画像としてエクスポートする。
+- ウェブサイトやブログでMarkdownベースのチャートを共有する。
+- ユーザーマニュアルや技術ガイド用の画像を作成する。
+- プレゼンテーションやPDF用のMarkdownテーブルの視覚的スナップショット。
+
+## GIF JPEG="自動化シナリオ"
+
+- Markdownコンテンツを画像にバッチ変換するスケジュールされた処理。
+- Markdownファイルからビジュアルアセットを生成するETLパイプライン。
+- ドキュメントポータル用の図を自動生成する。
+- ダッシュボードやレポーティングシステム用のトリガーベースの画像エクスポート。
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

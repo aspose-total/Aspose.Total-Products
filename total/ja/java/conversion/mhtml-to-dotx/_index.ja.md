@@ -130,7 +130,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLファイルをDOTX（マクロなしのWordテンプレート）に変換すると、安全で再利用可能なテンプレートが作成され、Webコンテンツのレイアウトが保持されます。DOTXは、マクロがセキュリティ上制限されている共同文書作成に最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* 内部文書用のチームコラボレーションテンプレート。
+
+* 一貫したスタイルでフォーマットされたWeb由来のニュースレター。
+
+* コースウェアやレッスン計画用の教育テンプレート。
+
+* マクロのない標準化された契約書や提案書のテンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* MHTMLアーカイブからDOTXテンプレートを生成する自動変換パイプライン。
+
+* 大量のテンプレートを展開するためのコンテンツ管理システムとの統合。
+
+* 企業コミュニケーション用の事前フォーマット済みWebデータテンプレート。
+
+* 定期報告ワークフローのトリガー生成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -144,7 +144,51 @@ Java Runtime Environment (JRE) を実行できるオペレーティング シス
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTMLをWordMLに変換することで、構造化された機械可読なWebコンテンツを保証するXMLベースのWord文書が作成されます。WordMLは、プログラムによる文書処理やエンタープライズ自動化システムに最適です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* WebデータからXMLベースのWordレポートを生成する。
+
+* 自動化されたコンテンツ処理のための構造化された文書ストレージ。
+
+* WebコンテンツをWordMLに変換してコンテンツの分析と抽出を行う。
+
+* エンタープライズワークフロー自動化のための機械可読なテンプレート。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* WebコンテンツをWordMLに大量自動変換してエンタープライズシステムに統合する。
+
+* 構造化された文書ストレージのためのETLパイプラインへの統合。
+
+* Webコンテンツの変更によってトリガーされるプログラムによる文書更新。
+
+* AIパワードのレポートシステムのための動的文書作成。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

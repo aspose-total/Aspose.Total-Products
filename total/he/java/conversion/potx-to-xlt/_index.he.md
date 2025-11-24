@@ -102,7 +102,51 @@ otherformats: TSV XLAM EXCEL FODS ODS XLS DIF XLTM XLSX SXC MHTML MARKDOWN XLTX 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המרת **POTX ל-XLT** יוצרת קבצי תבניות של Excel מעיצובי המצגות, אידיאלי לפריסת תבניות גיליונות תקן בקבוצות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* בניית תבניות גיליונות תקן תואמות.
+
+* המרת עיצובי שקופיות מותגיות לפורמטים חוזרים של Excel.
+
+* יצירת קבצי דיווח מובנים מטבלאות POTX.
+
+* הכנת ספריות תבניות לאימון או להכנסה לעבודה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* יצירת תבניות בצורה צפופה לתיעוד עסקי.
+
+* עדכוני XLT על בסיס טריגר מתוך תיקוני עיצוב.
+
+* ייצוא מתוזמן לדיווח מחלקתי חוזר.
+
+* שילוב עם מערכות אוטומציה של תהליכי עבודה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

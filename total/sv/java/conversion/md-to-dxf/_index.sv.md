@@ -57,7 +57,55 @@ Med hjälp av API:t kan du också rotera den utgående DXF-bilden enligt dina be
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Att konvertera Markdown (MD) till DXF (Drawing Exchange Format) omvandlar strukturerade diagram och flödesscheman till CAD-kompatibla vektorfiler. DXF är idealiskt för ingenjörs-, arkitektur- och tillverkningsarbetsflöden som kräver precisa linjebaserade illustrationer.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Användningsområden" %}}
+
+
+
+* Exportera Markdown-diagram till CAD-klara DXF-ritningar.
+
+* Konvertera flödesscheman och scheman för ingenjörsdokumentation.
+
+* Förbereda arkitektur- eller mekaniska illustrationer från Markdown-anteckningar.
+
+* Dela tekniska diagram med samarbetspartners som använder CAD-programvara.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+
+
+* Batch MD-till-DXF-konvertering för ingenjörs- och designteam.
+
+* Integration med automatiserade designpipelines för snabb prototyptillverkning.
+
+* Schemalagda DXF-exporter för tekniska dokumentationssystem.
+
+* Utlösta generering av CAD-klara illustrationer från Markdown-repositorier.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

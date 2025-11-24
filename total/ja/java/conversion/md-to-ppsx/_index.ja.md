@@ -59,7 +59,55 @@ presentation.save("output.ppsx", SaveFormat.Ppsx);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD（マークダウン）からPPSX（PowerPointスライドショー）への変換により、直接フルスクリーンモードで開くモダンなスライドショーファイルが生成されます。PPSXは企業、小売店、イベント環境での自動再生プレゼンテーションに広く使用されています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* MDノートからの自動再生セールスプレゼンテーション。
+
+* マークダウンコンテンツから作成された企業ロビースクリーン。
+
+* MDベースのスケジュールやアジェンダから構築されたイベントスライドループ。
+
+* マークダウンの説明から派生した連続製品デモ。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* 看板やディスプレイボード向けの自動化されたPPSXワークフロー。
+
+* マークダウンイベントスクリプトからのスケジュールされたスライドショー生成。
+
+* 小売店全体で使用するためのバッチPPSX作成。
+
+* デジタルサイネージプラットフォーム内でのMDからPPSXへの変換。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -68,7 +68,55 @@ public static void StoreToDatabase(Document doc, Connection mConnection) throws 
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Převod MD (Markdown) na ODT (OpenDocument Text) umožňuje pracovní postupy dokumentace přátelské k open-source. Soubory ODT jsou ideální pro týmy používající LibreOffice nebo OpenOffice, poskytují jim flexibilní a lehkou alternativu k vlastním formátům Word a zároveň umožňují bohaté formátování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* Publikování open-source dokumentace jako profesionálně formátovaných souborů ODT.
+
+* Převádění průvodců Markdown do editovatelných dokumentů LibreOffice.
+
+* Vytváření dokumentů pro organizace vyhýbající se vlastním formátům.
+
+* Vytváření lokalizovaných manuálů ODT z obsahu MD.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* Hromadný převod repozitářů Markdown do ODT pro veřejné distribuce.
+
+* Automatizované generování dokumentace ODT v open-source projektech.
+
+* Cross-platform ETL pracovní postupy vytvářející výstup ODT pro vládu nebo nevládní organizace.
+
+* Spouštěcí vytváření ODT v lokalizačních a překladových potrubích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

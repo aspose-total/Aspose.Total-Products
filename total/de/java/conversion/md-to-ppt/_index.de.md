@@ -59,7 +59,55 @@ presentation.save("output.ppt", SaveFormat.Ppt);
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Konvertierung von Markdown (MD) in PPT (Legacy PowerPoint-Format) unterstützt die Kompatibilität mit älteren Microsoft Office-Umgebungen und bewahrt die Folienstruktur und das Format. PPT eignet sich ideal für Institutionen, die klassische Versionen von PowerPoint verwenden.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* Erstellung von PPT-Folien für Legacy-Arbeitsstationen aus MD-Skripten.
+
+* Akademische Einrichtungen, die Markdown-Notizen verwenden, um ältere PPT-Decks zu generieren.
+
+* Unternehmensarchive, die MD-Inhalte in das klassische PPT-Format migrieren.
+
+* Erstellung von Folien mit Fokus auf Kompatibilität für veraltete Bürokonfigurationen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* Automatisierte PPT-Erstellung zur Unterstützung von Legacy-Systemen.
+
+* Stapelkonvertierung von Markdown-Archiven in PPT.
+
+* ETL-Prozesse, die klassische PowerPoint-Dateien ausgeben.
+
+* PPT-Erstellung für Regierungs- oder Industrieorganisationen, die noch auf älteren Suites arbeiten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
