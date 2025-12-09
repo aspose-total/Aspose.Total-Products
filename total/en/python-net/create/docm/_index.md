@@ -43,9 +43,67 @@ For a developer, who is trying to create DOCM files via  Python application? [As
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM — `.docm` files support embedded macros and are ideal when documents must include programmable behavior; Python APIs can create macro-enabled documents by assembling OOXML content and attaching signed or unsigned VBA projects via automation. Programmatic creation ensures macros are consistently packaged and can be validated or signed as part of the build.
+
+
+
+Using DOCM is appropriate when business logic (custom fields, export buttons, or data collection macros) must live inside the document; automation allows inserting, testing, and controlling macro contents to meet security and compliance checks.
+
+Automated tests and CI processes can ensure macro code integrity and sign macros prior to distribution.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **Document-embedded Automation**&nbsp; Distribute DOCM files that run approved macros for structured data capture or local transformations.
+
+
+
+* **Controlled Macro Deployment**&nbsp; Insert vetted VBA modules into documents during build time for regulated macro behavior.
+
+
+
+* **Macro-enabled Templates**&nbsp; Use DOTM templates as sources to spawn DOCM documents with pre-baked automation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **CI Validation of Macros**&nbsp; Automatically run static analysis on VBA code and block builds on policy violations.
+
+
+
+* **Signing and Packaging**&nbsp; Automate digital signing of macros and packaging DOCM files for secure distribution.
+
+
+
+* **Macro Injection from Secure Repos**&nbsp; Pull approved VBA snippets from a secure repository and embed them in generated DOCM files.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -43,9 +43,67 @@ For a developer, who is trying to create DOC files via  Python application? [Asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOC — Creating `.doc` (legacy binary Word) files via Python APIs enables automation for older systems and preserves compatibility with legacy toolchains. Typical Python approaches rely on libraries that can assemble the binary structure or use COM automation on Windows to export or save classic binary documents from programmatic content.
+
+
+
+DOC scripting is useful when backward compatibility is required; generated documents can include structured text, basic styling, headers/footers, and embedded objects where supported.
+
+Automation enables conversion pipelines that accept modern sources (markdown, HTML, DOCX) and emit `.doc` for archival or integration with legacy applications.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **Legacy System Integration**&nbsp; Produce .doc files for older enterprise software that requires the binary format.
+
+
+
+* **Archival Exports**&nbsp; Convert modern documents to .doc for long-term storage when required by legacy policies.
+
+
+
+* **Interoperability with Older Tools**&nbsp; Create .doc outputs to ensure compatibility with older mail-merge or printing systems.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **Automated Format Conversion**&nbsp; Batch-convert DOCX to DOC in scheduled jobs for compatibility testing.
+
+
+
+* **Scripted Export from Templates**&nbsp; Use template-driven generation that saves final documents as .doc for downstream processes.
+
+
+
+* **Integration with ETL Pipelines**&nbsp; Incorporate DOC generation into ETL jobs that prepare documents for legacy consumers.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

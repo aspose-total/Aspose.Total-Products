@@ -75,7 +75,55 @@ For more details please refer to [Product Documentation](https://docs.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM annotation targets macro-enabled Word templates, enabling clear documentation of embedded scripts and template logic. This helps maintain transparency around automated features and ensures consistent use across teams.  
+
+Automated DOTM annotation allows systems to scan macros, update notes, and enforce template rules at scale.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **Macro Behavior Notes**  &nbsp; Explain how embedded scripts work.
+
+* **Template Guidelines**  &nbsp; Guide users on proper use of macros.
+
+* **Logic Tracking**  &nbsp; Mark macro-triggered sections.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **Macro Discovery Tools**  &nbsp; Auto-insert annotations for detected scripts.
+
+* **Workflow-Based Template Updates**  &nbsp; Add or modify notes dynamically.
+
+* **Quality Assurance Markup**  &nbsp; Flag risky or outdated macro logic.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

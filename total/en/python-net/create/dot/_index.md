@@ -43,9 +43,68 @@ For a developer, who is trying to create DOT files via  Python application? [Asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT — `.dot` template files define reusable styles and structure for legacy Word workflows; creating DOT templates via Python lets organizations maintain consistent formatting for mail-merge, forms, and standardized documents consumed by older clients.
+
+
+
+Programmatic DOT generation ensures templates are updated centrally and can be distributed automatically to end-users or document services.
+
+Automation supports scheduled template refreshes, versioning, and downstream generation of concrete documents from templates.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **Legacy Template Distribution**&nbsp; Produce DOT templates that ensure consistent layout across legacy toolchains.
+
+
+
+* **Standardized Form Templates**&nbsp; Create form templates with placeholders for manual or automated mail-merge.
+
+
+
+* **Template Versioning**&nbsp; Automate version-tagging and release of DOT templates to document repositories.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **Automated Template Refresh**&nbsp; Replace or patch DOT templates from a central source and push updates programmatically.
+
+
+
+* **Template-driven Batch Creation**&nbsp; Use DOT templates to spawn many filled documents via automated merges.
+
+
+
+* **Audit Trails for Templates**&nbsp; Embed metadata and change logs during programmatic template generation for compliance.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

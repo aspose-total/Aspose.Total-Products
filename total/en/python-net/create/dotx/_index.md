@@ -43,9 +43,67 @@ For a developer, who is trying to create DOTX files via  Python application? [As
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTX — `.dotx` is the macro-free template (OOXML) ideal for safe template distribution and deterministic document generation. Python APIs can produce DOTX templates with styles, content controls, and content placeholders, enabling robust, macro-free templating for automated systems.
+
+
+
+DOTX suits environments that disallow macros for security reasons but still require consistent templating and dynamic content population. Automation enables safe, scalable templating and downstream generation of DOCX instances without embedding executable code.
+
+Programmatic template generation supports schema-driven placeholders, content controls, and template validation.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **Secure Template Delivery**&nbsp; Create macro-free DOTX templates for broad distribution in secure environments.
+
+
+
+* **Form and Content-control Templates**&nbsp; Build DOTX templates with content controls for downstream automation.
+
+
+
+* **Template-driven Document Assembly**&nbsp; Use DOTX templates as the authoritative source for programmatic document creation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **Safe Template Pipelines**&nbsp; Automate DOTX generation and enforce policies that prevent macro inclusion.
+
+
+
+* **Template Validation Jobs**&nbsp; Run automated checks to ensure placeholders and styles match schema expectations.
+
+
+
+* **API-driven Template Usage**&nbsp; Provide DOTX templates via an internal API for on-demand DOCX generation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

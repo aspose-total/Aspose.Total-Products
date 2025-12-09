@@ -49,9 +49,67 @@ For developers seeking to create RTF files within a Python application, the Aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF — Rich Text Format (RTF) is a cross-platform text format supported by many editors; Python-based RTF generation is useful when producing simple styled documents that must be accepted by a wide variety of clients. RTF lacks OOXML’s advanced features but excels in portable styled text, simple tables, and inline objects.
+
+
+
+RTF automation is appropriate for mail-merge, plain-styled letters, or systems where maximum compatibility is required. Programmatic creation can be done by templating RTF fragments or using libraries that build RTF tokens directly.
+
+Automation simplifies bulk RTF exports and conversion pipelines that target lightweight or legacy consumers.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **Cross-platform Letter Generation**&nbsp; Produce RTF documents for clients that prefer lightweight, portable styled text.
+
+
+
+* **Mail-merge for Simple Documents**&nbsp; Generate personalized letters and notices in RTF for broad compatibility.
+
+
+
+* **Interchange with Non-OOXML Systems**&nbsp; Export content to RTF for systems that cannot parse DOCX or binary Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **Bulk RTF Exports**&nbsp; Automate creation of thousands of RTF files from structured data feeds.
+
+
+
+* **Format-fallback Pipelines**&nbsp; Automatically provide RTF versions when consumers cannot handle DOCX/DOCM.
+
+
+
+* **Simple Templating Engines**&nbsp; Use programmatic token replacement in RTF templates as part of an automated workflow.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

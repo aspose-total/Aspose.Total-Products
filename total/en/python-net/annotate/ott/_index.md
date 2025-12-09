@@ -75,7 +75,55 @@ For more details please refer to [Product Documentation](https://docs.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+OTT annotation improves template text documents by embedding guidance notes, placeholders, and structured metadata within open-format templates. This ensures consistent document production and clearer end-user instructions.  
+
+Automation enhances OTT workflows by applying template rules, updating annotation text, and enforcing standard structures.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **Template Instructions**  &nbsp; Provide guidance for completing each section.
+
+* **Formatting Standards**  &nbsp; Highlight areas requiring specific styles.
+
+* **Revision Documentation**  &nbsp; Mark changes within template updates.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **Script-Driven Template Updates**  &nbsp; Apply new instructions across templates automatically.
+
+* **Compliance Markers**  &nbsp; Identify and annotate missing required fields.
+
+* **Dynamic Rule Enforcement**  &nbsp; Add notes triggered by template logic.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

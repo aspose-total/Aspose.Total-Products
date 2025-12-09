@@ -43,9 +43,67 @@ For a developer, who is trying to create DOCX files via  Python application? [As
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX — `.docx` (OOXML) is the modern standard for Word documents and is highly amenable to Python-based automation. Libraries allow creation and modification of paragraphs, tables, images, styles, and custom XML parts while preserving OOXML structure and metadata.
+
+
+
+DOCX is ideal for templated reports, dynamic documents, and integration with web services due to its open format and strong library support. Automation enables reliable generation of accessible, styled documents that can be validated and versioned.
+
+Programmatic workflows make it straightforward to assemble complex documents (nested tables, references, TOCs) from structured inputs.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **Templated Report Rendering**&nbsp; Populate DOCX templates with dynamic tables, charts, and conditional sections.
+
+
+
+* **Automated Document Composition**&nbsp; Stitch together sections (intro, body, annexes) from modular content sources into a single DOCX.
+
+
+
+* **Metadata-rich Deliverables**&nbsp; Embed document properties, custom XML, and revision metadata for governance.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **Database-to-Document Pipelines**&nbsp; Generate individualized DOCX documents for each database record in an automated job.
+
+
+
+* **Webhook-triggered Document Creation**&nbsp; Create DOCX documents on demand via HTTP APIs triggered by external events.
+
+
+
+* **Automated Accessibility Checks**&nbsp; Run validation scripts that verify heading structure and alt-text for images during generation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

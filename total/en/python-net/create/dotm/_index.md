@@ -43,9 +43,67 @@ For a developer, who is trying to create DOTM files via  Python application? [As
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM — `.dotm` templates combine templating with macro support, enabling reusable macro-enabled templates for automated document behaviors. Python-driven creation of DOTM files permits distribution of templates that include approved VBA automation while controlling macro content programmatically.
+
+
+
+This format suits organizations that require repeatable, macro-enhanced templates for local automation tasks while ensuring macros are governed, validated, and optionally signed during the template build process.
+
+Automation enables secure macro lifecycle management—generation, analysis, signing, and deployment—within CI/CD pipelines.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **Macro-enabled Template Libraries**&nbsp; Provide DOTM templates that encapsulate repeatable automation for local users.
+
+
+
+* **Controlled Template Automation**&nbsp; Ensure templates include only vetted macros for internal workflows.
+
+
+
+* **Template-based Document Generation**&nbsp; Use DOTM as the source to generate DOCM/DOCX instances with embedded behaviors.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **CI Pipeline for Template QA**&nbsp; Automatically validate VBA behavior and template integrity before distribution.
+
+
+
+* **Secure Deployment of Templates**&nbsp; Embed digital signatures and push DOTM files to users via managed channels.
+
+
+
+* **Dynamic Macro Injection**&nbsp; Programmatically update macro modules inside DOTM templates from secure stores.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}
