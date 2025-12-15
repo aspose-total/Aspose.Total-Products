@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF (Rich Text Format) 파일은 복잡한 서식이나 포함된 객체를 포함할 때 커질 수 있으며, 압축을 통해 파일 크기를 줄일 수 있습니다. 이는 크로스 플랫폼 호환성에 영향을 주지 않으면서 파일 크기를 줄입니다.
+
+
+
+파이썬 API를 사용하면 RTF 압축을 자동화하여 현대 시스템에서 문서 처리를 간소화할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **크로스 플랫폼 저장소 최적화**  
+
+&nbsp; 서로 다른 OS 및 응용 프로그램에서 효율적으로 사용하기 위해 RTF 파일을 압축합니다.
+
+
+
+* **빠른 공유**  
+
+&nbsp; 작은 RTF 파일은 이메일 및 클라우드 배포를 개선합니다.
+
+
+
+* **자동 아카이빙**  
+
+&nbsp; 일괄 압축은 레거시 또는 대용량 RTF 문서의 아카이빙을 간소화합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 RTF 압축**  
+
+&nbsp; 파이썬 스크립트를 사용하여 여러 RTF 문서를 자동으로 처리합니다.
+
+
+
+* **문서 워크플로우 통합**  
+
+&nbsp; 압축된 RTF 파일을 자동화된 워크플로우나 DMS 시스템에 로드할 수 있습니다.
+
+
+
+* **조건부 압축**  
+
+&nbsp; 자동화는 크기나 포함된 콘텐츠에 따라 RTF 파일을 대상으로 할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -101,7 +101,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pliki PPTM (prezentacje z makrami) korzystają z kompresji, która zachowuje makra, jednocześnie zmniejszając rozmiar pliku do udostępniania i przechowywania.
+
+
+
+Interfejsy Pythona umożliwiają zautomatyzowaną kompresję plików PPTM, zachowując funkcjonalność makr dla przepływów pracy przedsiębiorstwa.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Zachowanie makr**  
+
+&nbsp; Kompresuj pliki PPTM, nie niszcząc osadzonych makr.
+
+
+
+* **Szybsza współpraca**  
+
+&nbsp; Mniejsze pliki z makrami ułatwiają udostępnianie zespołowe i przesyłanie do chmury.
+
+
+
+* **Automatyczne archiwizowanie**  
+
+&nbsp; Kompresja zapewnia efektywne przechowywanie prezentacji z makrami na dłuższy okres.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Kompresja wsadowa plików PPTM**  
+
+&nbsp; Skrypty Pythona mogą automatycznie przetwarzać wiele plików z makrami.
+
+
+
+* **Integracja z systemami przepływu pracy**  
+
+&nbsp; Skompresowane pliki PPTM mogą być używane w zautomatyzowanych przepływach dokumentów.
+
+
+
+* **Kompresja warunkowa**  
+
+&nbsp; Automatyzacja może być skierowana na pliki z dużymi mediami lub złożonymi makrami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

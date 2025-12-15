@@ -43,9 +43,81 @@ Per uno sviluppatore, chi sta cercando di creare file DOTM tramite l'applicazion
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM — I modelli `.dotm` combinano la creazione di modelli con il supporto ai macro, consentendo la creazione di modelli riutilizzabili abilitati ai macro per comportamenti automatizzati dei documenti. La creazione di file DOTM guidata da Python consente la distribuzione di modelli che includono l'automazione VBA approvata, controllando il contenuto dei macro in modo programmabile.
+
+
+
+Questo formato si adatta alle organizzazioni che richiedono modelli ripetibili e potenziati dai macro per compiti di automazione locale, garantendo nel contempo che i macro siano governati, convalidati e eventualmente firmati durante il processo di creazione del modello.
+
+
+
+L'automazione consente la gestione sicura del ciclo di vita dei macro: generazione, analisi, firma e distribuzione, all'interno dei flussi di lavoro CI/CD.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Librerie di Modelli Abilitati ai Macro**
+
+&nbsp; Fornire modelli DOTM che racchiudono l'automazione ripetibile per gli utenti locali.
+
+
+
+* **Automazione del Modello Controllata**
+
+&nbsp; Assicurare che i modelli includano solo macro approvati per i flussi di lavoro interni.
+
+
+
+* **Generazione di Documenti basata sul Modello**
+
+&nbsp; Utilizzare DOTM come sorgente per generare istanze DOCM/DOCX con comportamenti integrati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Pipeline CI per la QA del Modello**
+
+&nbsp; Convalidare automaticamente il comportamento VBA e l'integrità del modello prima della distribuzione.
+
+
+
+* **Distribuzione Sicura dei Modelli**
+
+&nbsp; Incorporare firme digitali e inviare file DOTM agli utenti tramite canali gestiti.
+
+
+
+* **Iniezione Dinamica di Macro**
+
+&nbsp; Aggiornare in modo programmato i moduli macro all'interno dei modelli DOTM da archivi sicuri.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

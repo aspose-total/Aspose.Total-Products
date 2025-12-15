@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие OTT сосредотачивается на файлах шаблонов текста OpenDocument, оптимизируя макет, стили и встроенные медиа для уменьшения размера файла. Сжатые файлы OTT улучшают хранение, скорость передачи и эффективность рабочего процесса при создании документов на основе шаблонов.
+
+
+
+Python API позволяют автоматизировать сжатие OTT, пакетную обработку и интеграцию с системами автоматизации документов для масштабируемого управления шаблонами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация библиотеки шаблонов**  
+
+&nbsp; Меньшие файлы OTT уменьшают объем хранения для больших коллекций шаблонов.
+
+
+
+* **Эффективное совместное использование и сотрудничество**  
+
+&nbsp; Сжатые шаблоны быстрее распространяются и доступны.
+
+
+
+* **Интеграция в рабочий процесс**  
+
+&nbsp; Оптимизированные файлы OTT улучшают производительность в автоматизированных конвейерах генерации документов.
+
+
+
+* **Архивирование и резервное копирование**  
+
+&nbsp; Уменьшить объем хранения для исторических версий шаблонов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие OTT**  
+
+&nbsp; Автоматизировать уменьшение размера для нескольких шаблонов.
+
+
+
+* **Оптимизация встроенных медиа**  
+
+&nbsp; Автоматическое сжатие изображений, объектов и стилей внутри шаблонов.
+
+
+
+* **Интеграция с CMS/DAM**  
+
+&nbsp; Сжимать файлы OTT при загрузке в системы управления документами.
+
+
+
+* **Динамические уровни сжатия**  
+
+&nbsp; Настроить оптимизацию в зависимости от сложности содержимого и контекста использования.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

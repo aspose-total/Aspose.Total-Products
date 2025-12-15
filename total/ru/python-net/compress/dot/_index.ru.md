@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файлы DOT - это шаблоны Word, которые выигрывают от сжатия для экономии места и улучшения эффективности распространения по системам.
+
+
+
+Сжатие на основе Python может автоматизировать оптимизацию файлов DOT без влияния на структуру или форматирование шаблона.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация хранения шаблонов**  
+
+  &nbsp; Сжатие шаблонов DOT для эффективного локального или облачного хранения.
+
+
+
+* **Обмен шаблонами**  
+
+  &nbsp; Сокращенный размер файла увеличивает скорость распространения для совместной работы команд.
+
+
+
+* **Архивирование шаблонов**  
+
+  &nbsp; Автоматизированное сжатие поддерживает управление шаблонами в долгосрочной перспективе.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие шаблонов**  
+
+  &nbsp; Сценарии Python могут автоматически сжимать несколько файлов DOT.
+
+
+
+* **Интеграция с системами рабочего процесса**  
+
+  &nbsp; Сжатые шаблоны могут динамически загружаться в автоматизированные рабочие процессы.
+
+
+
+* **Выборочное сжатие**  
+
+  &nbsp; Автоматизация может сжимать только большие шаблоны или те, в которых встроены объекты.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

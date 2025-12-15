@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi OTT berfokus pada file Template Teks OpenDocument, mengoptimalkan tata letak, gaya, dan media yang disematkan untuk mengurangi ukuran file. File OTT yang terkompresi meningkatkan penyimpanan, kecepatan transfer, dan efisiensi alur kerja untuk pembuatan dokumen berbasis template.
+
+
+
+API Python memungkinkan kompresi OTT otomatis, pemrosesan batch, dan integrasi dengan sistem otomatisasi dokumen untuk manajemen template yang dapat diskalakan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Perpustakaan Template**  
+
+&nbsp; File OTT yang lebih kecil mengurangi penyimpanan untuk koleksi template besar.
+
+
+
+* **Berbagi \& Kolaborasi Efisien**  
+
+&nbsp; Template yang terkompresi lebih cepat didistribusikan dan diakses.
+
+
+
+* **Integrasi Alur Kerja**  
+
+&nbsp; File OTT yang dioptimalkan meningkatkan kinerja dalam alur kerja pembuatan dokumen otomatis.
+
+
+
+* **Arsip \& Cadangan**  
+
+&nbsp; Kurangi jejak penyimpanan untuk versi template historis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi OTT Batch**  
+
+&nbsp; Otomatisasi pengurangan ukuran untuk beberapa template.
+
+
+
+* **Optimisasi Media yang Disematkan**  
+
+&nbsp; Kompresi gambar, objek, dan gaya dalam template secara otomatis.
+
+
+
+* **Integrasi dengan CMS/DAM**  
+
+&nbsp; Kompresi file OTT saat diunggah ke sistem manajemen dokumen.
+
+
+
+* **Tingkat Kompresi Dinamis**  
+
+&nbsp; Sesuaikan optimisasi berdasarkan kompleksitas konten dan konteks penggunaan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

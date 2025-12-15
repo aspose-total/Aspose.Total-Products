@@ -43,9 +43,81 @@ För en utvecklare, vem försöker skapa DOCM-filer via Python-applikationen? [A
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM — `.docm`-filer stöder inbäddade makron och är idealiska när dokument måste inkludera programmerbart beteende; Python-API:er kan skapa makroaktiverade dokument genom att montera OOXML-innehåll och bifoga signerade eller osignerade VBA-projekt via automation. Programmatisk skapande säkerställer att makron är konsekvent paketerade och kan valideras eller signeras som en del av byggprocessen.
+
+
+
+Användning av DOCM är lämpligt när affärslogik (anpassade fält, exportknappar eller datainsamlingsmakron) måste finnas inuti dokumentet; automation möjliggör infogande, testning och kontroll av makroinnehåll för att uppfylla säkerhets- och efterlevnadskrav.
+
+
+
+Automatiserade tester och CI-processer kan säkerställa makrokodens integritet och signera makron innan distribution.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Dokument-inbäddad Automation**
+
+  Distribuera DOCM-filer som kör godkända makron för strukturerad datainsamling eller lokala transformationer.
+
+
+
+* **Kontrollerad Makroimplementering**
+
+  Infoga granskade VBA-moduler i dokument under byggtiden för reglerat makrobeteende.
+
+
+
+* **Makroaktiverade Mallar**
+
+  Använd DOTM-mallar som källor för att skapa DOCM-dokument med förbakad automation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **CI-validering av Makron**
+
+  Kör automatisk statisk analys på VBA-kod och blockera byggen vid policyöverträdelser.
+
+
+
+* **Signering och Paketering**
+
+  Automatisera digital signering av makron och paketering av DOCM-filer för säker distribution.
+
+
+
+* **Makroinjektion från Säkra Repos**
+
+  Hämta godkända VBA-snuttar från en säker lagringsplats och bädda in dem i genererade DOCM-filer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

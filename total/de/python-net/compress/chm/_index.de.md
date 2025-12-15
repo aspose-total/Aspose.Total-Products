@@ -78,7 +78,87 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+CHM-Komprimierung reduziert die Größe von kompilierten HTML-Hilfedateien, die HTML-Seiten, Bilder und Navigationsstrukturen für die Software-Dokumentation enthalten. Komprimierte CHM-Dateien verbessern die Speichereffizienz, die Verteilungsgeschwindigkeit und die Benutzerzugänglichkeit.
+
+
+
+Python-APIs ermöglichen die automatisierte CHM-Komprimierung, Stapelverarbeitung und Integration in Dokumentations-Workflows zur skalierbaren Verwaltung von Hilfesystemen und technischen Handbüchern.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Lieferung von Software-Dokumentationen**  
+
+&nbsp; Komprimierte CHM-Dateien laden schneller und belegen weniger Festplattenspeicher.
+
+
+
+* **Archivierung \& Backup**  
+
+&nbsp; Reduzieren Sie den Speicherplatz für alte und große Hilfedateisammlungen.
+
+
+
+* **Effizientes Teilen**  
+
+&nbsp; Kleinere CHM-Dateien übertragen schnell über Netzwerke oder Geräte.
+
+
+
+* **Benutzerzugänglichkeit**  
+
+&nbsp; Optimierte Dateien verbessern die Ladeleistung in Hilfeanzeigeprogrammen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Stapelverarbeitung von CHM-Komprimierung**  
+
+&nbsp; Automatisieren Sie die Größenreduzierung für mehrere Hilfedateien.
+
+
+
+* **Optimierung eingebetteter Ressourcen**  
+
+&nbsp; Komprimieren Sie Bilder, Skripte und HTML-Seiten automatisch.
+
+
+
+* **Integration in Dokumentations-Pipelines**  
+
+&nbsp; Komprimieren Sie CHM-Dateien während des Build- oder Bereitstellungs-Workflows.
+
+
+
+* **Dynamische Kompressionsstufen**  
+
+&nbsp; Passen Sie diese anhand der Inhaltsgröße und -komplexität an.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

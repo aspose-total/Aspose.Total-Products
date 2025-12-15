@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+OTT压缩专注于OpenDocument文本模板文件，优化布局、样式和嵌入式媒体以减小文件大小。压缩的OTT文件提高了存储、传输速度和基于模板的文档创建的工作流效率。
+
+
+
+Python API支持自动化OTT压缩、批处理处理，并与文档自动化系统集成，实现可扩展的模板管理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **模板库优化**  
+
+  &nbsp; 较小的OTT文件减少了大型模板集合的存储空间。
+
+
+
+* **高效共享与协作**  
+
+  &nbsp; 压缩的模板更快地分发和访问。
+
+
+
+* **工作流集成**  
+
+  &nbsp; 优化的OTT文件提高了自动化文档生成流程的性能。
+
+
+
+* **存档与备份**  
+
+  &nbsp; 减少历史模板版本的存储空间占用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量OTT压缩**  
+
+  &nbsp; 自动化多个模板的大小减小。
+
+
+
+* **嵌入式媒体优化**  
+
+  &nbsp; 自动压缩模板中的图像、对象和样式。
+
+
+
+* **与CMS/DAM集成**  
+
+  &nbsp; 在上传到文档管理系统时压缩OTT文件。
+
+
+
+* **动态压缩级别**  
+
+  &nbsp; 根据内容复杂性和使用环境调整优化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD sıkıştırma, gereksiz boşlukları, yorumları veya gereksiz biçimlendirmeyi kaldırarak içerik yapısını korurken Markdown dosyalarını optimize eder. Bu depolama verimliliğini artırır, dosya transferini hızlandırır ve belgeleme ve içerik akışlarında işlemeyi kolaylaştırır.
+
+
+
+Python API'leri, teknik belgeler, bloglar ve sürüm kontrollü içeriklerin ölçeklenebilir şekilde işlenmesi için otomatik MD sıkıştırma, toplu işleme ve dönüşüm iş akışlarını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Belgeleme Optimizasyonu**  
+
+&nbsp; Büyük Markdown depolarını sıkıştırarak depolamayı kolaylaştırır ve daha hızlı sürüm kontrol işlemleri sağlar.
+
+
+
+* **İçerik Yayınlama İş Akışları**  
+
+&nbsp; Daha küçük MD dosyaları, web ve statik site oluşturma süreçlerini kolaylaştırır.
+
+
+
+* **Markdown İçeriğin Arşivlenmesi**  
+
+&nbsp; Tarihsel belgeler ve notlar için depolamayı azaltır.
+
+
+
+* **İşbirliği ve Dağıtım**  
+
+&nbsp; Optimize edilmiş dosyalar, ekipler ve sistemler arasında paylaşımı kolaylaştırır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu MD Sıkıştırma**  
+
+&nbsp; Birden fazla Markdown dosyasının otomatik olarak optimize edilmesini sağlar.
+
+
+
+* **Boşluk ve Yorum Kaldırma**  
+
+&nbsp; İçeriği değiştirmeden gereksiz metni otomatik olarak temizler.
+
+
+
+* **İş Akışı Entegrasyonu**  
+
+&nbsp; MD dosyalarını CMS veya sürüm kontrol sistemlerine alındığında sıkıştırır.
+
+
+
+* **Dönüşüm + Sıkıştırma İş Akışları**  
+
+&nbsp; MD'yi HTML veya PDF'ye dönüştürürken otomatik olarak sıkıştırma uygular.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

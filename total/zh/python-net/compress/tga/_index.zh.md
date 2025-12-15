@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TGA压缩专注于减小Targa光栅图像的大小，同时保留颜色深度和alpha通道。TGA文件通常用于游戏、3D图形和视觉效果，因此压缩对于在媒体流程中实现高效存储和更快处理至关重要。
+
+
+
+Python API允许自动化TGA压缩、批处理处理和转换为现代格式，支持游戏开发、动画和数字媒体制作的可扩展工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **游戏资产优化**  
+
+  压缩TGA文件可减少存储需求，提高游戏加载时间。
+
+
+
+* **3D图形流水线**  
+
+  更小的TGA文件简化纹理管理和渲染工作流程。
+
+
+
+* **视觉效果制作**  
+
+  优化的TGA图像有助于高效管理大型帧序列。
+
+
+
+* **存档存储**  
+
+  减小高分辨率资产的文件大小，以便长期存储。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量TGA压缩**  
+
+  自动化大量TGA文件的优化处理。
+
+
+
+* **保留Alpha通道**  
+
+  在压缩的同时保持透明度，减小存储占用。
+
+
+
+* **集成到流程中**  
+
+  TGA文件可在上传到资产管理系统时自动压缩。
+
+
+
+* **基于动态分辨率的压缩**  
+
+  根据图像大小、分辨率或使用环境调整压缩级别。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

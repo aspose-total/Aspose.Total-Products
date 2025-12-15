@@ -100,7 +100,69 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File DOCM, yang berisi makro, mendapatkan manfaat dari kompresi untuk mengoptimalkan penyimpanan sambil mempertahankan fungsionalitas makro dan format.
+
+
+
+Menggunakan API Python, kompresi DOCM otomatis memastikan makro tetap utuh dan menyederhanakan penanganan dokumen dalam alur kerja otomatis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Utama" %}}
+
+
+
+* **Penyimpanan Aman Makro**  
+  Compress file DOCM tanpa merusak makro yang disematkan.
+
+
+
+* **Berbagi File Lebih Cepat**  
+  Ukuran yang lebih kecil memungkinkan lampiran email cepat dan unggahan cloud.
+
+
+
+* **Manajemen Arsip**  
+  Kompresi otomatis membantu dalam penyimpanan jangka panjang dokumen yang diaktifkan makro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi Dokumen Makro Secara Massal**  
+  Otomatisasi pemrosesan beberapa file DOCM sambil mempertahankan fungsionalitas.
+
+
+
+* **Integrasi dengan Otomatisasi Kantor**  
+  File yang terkompresi dapat dikelola dalam sistem alur kerja atau solusi DMS.
+
+
+
+* **Kompresi Makro Bersyarat**  
+  Skrip Python dapat secara selektif mengompresi file DOCM berdasarkan ukuran atau konten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

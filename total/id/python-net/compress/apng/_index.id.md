@@ -100,7 +100,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi APNG berfokus pada pengurangan ukuran file PNG animasi sambil mempertahankan kualitas frame dan pemutaran yang lancar. Karena APNG mendukung fitur lossless dan beberapa frame, mengoptimalkan file-file ini penting untuk mempercepat waktu pemuatan, mengurangi penggunaan bandwidth, dan meningkatkan kinerja di lingkungan web dan aplikasi.
+
+
+
+API Python memungkinkan kompresi APNG otomatis, optimisasi frame, dan pengurangan sumber daya, sehingga lebih mudah untuk mengintegrasikan animasi ringan ke dalam alur kerja yang dapat diskalakan dan pipa konten bervolume tinggi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Animasi Web**  
+
+  Compressing file APNG meningkatkan waktu pemuatan sambil mempertahankan kejelasan animasi.
+
+
+
+* **Pengiriman Aset UI/UX**  
+
+  APNG ringan membantu antarmuka terasa responsif di aplikasi mobile dan desktop.
+
+
+
+* **Pipa Grafis Game dan Aplikasi**  
+
+  Aset APNG yang terkompresi mengurangi lag pemuatan dan penggunaan penyimpanan di lingkungan interaktif.
+
+
+
+* **Publikasi Konten**  
+
+  Meminimalkan ukuran animasi memastikan pengiriman yang lancar di blog, platform, dan sistem CMS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi APNG Massal**  
+
+  Skrip Python dapat secara otomatis mengompresi beberapa PNG animasi secara massal.
+
+
+
+* **Optimisasi Tingkat Frame**  
+
+  Otomatisasi dapat mengompres ulang frame individu atau menghapus yang redundan.
+
+
+
+* **Kompresi Terintegrasi dengan Alur Kerja**  
+
+  File APNG yang diunggah ke sistem dapat dikompresi secara otomatis sebelum disimpan.
+
+
+
+* **Penyesuaian Kualitas Animasi Dinamis**  
+
+  Sistem dapat mengurangi ukuran animasi berdasarkan resolusi, jenis perangkat, atau batasan jaringan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

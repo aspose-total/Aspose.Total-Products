@@ -70,7 +70,61 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يسلط تحليل المقارنة بين النصوص الضوء على التغييرات على مستوى السطر أو مستوى الحرف في مستندات النص العادية، مما يضمن رؤية كاملة للمراجعات دون تعقيدات التنسيق. إنه أمر أساسي للسجلات والنصوص والوثائق البسيطة.
+
+يوفر تحليل المقارنة الآلي للنصوص كشفًا سريعًا وقابلاً للتوسيع عن التحديثات عبر مجموعات كبيرة من المحتوى القائم على النص.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تتبع اختلافات ملف السجل**  
+
+  يحدد الإدخالات الجديدة أو التغييرات.
+
+* **مراجعة نص السيناريو أو الكود**  
+
+  يسلط الضوء على التعديلات في النصوص العادية.
+
+* **التحكم في مراجعة الوثيقة البسيطة**  
+
+  يلتقط التغييرات في الأسطر بكفاءة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **مقارنات نصية بحجم كبير**  
+
+  يعالج آلاف الملفات بسرعة.
+
+* **أنابيب المراقبة الآلية**  
+
+  يشغل سير العمل عند حدوث تغييرات.
+
+* **استخراج الفروقات بشكل برمجي**  
+
+  يولد تقارير منظمة للأنظمة.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

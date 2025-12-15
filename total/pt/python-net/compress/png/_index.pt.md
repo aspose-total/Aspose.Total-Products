@@ -100,7 +100,87 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/ima
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A compressão PNG foca na otimização de imagens raster sem perdas, preservando transparência, nitidez e fidelidade de cores. Isso é importante para gráficos da web, design de UI e imagens de alta qualidade onde clareza e precisão são críticas.
+
+
+
+As APIs do Python permitem a compressão automatizada de PNG, processamento em lote e conversão, facilitando a gestão de grandes repositórios de imagens e integrando-as eficientemente em pipelines web, de aplicativos e de conteúdo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Otimização de Gráficos da Web e de Aplicativos**  
+
+  Com PNGs comprimidos, a velocidade de carregamento é melhorada mantendo visuais de alta qualidade.
+
+
+
+* **Gestão de Ativos de UI/UX**  
+
+  Arquivos PNG menores reduzem o armazenamento e garantem uma renderização rápida para interfaces.
+
+
+
+* **Publicação Digital**  
+
+  Mantém a clareza em gráficos, diagramas e ilustrações para ebooks e documentos.
+
+
+
+* **Eficiência de Arquivamento e Armazenamento em Nuvem**  
+
+  Reduz tamanhos de arquivos sem perder qualidade de imagem, suportando armazenamento em grande escala.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de PNG**  
+
+  Scripts em Python podem otimizar vários arquivos PNG em um processo automatizado.
+
+
+
+* **Otimização Preservando Transparência**  
+
+  Garante que os canais alfa permaneçam intactos durante a compressão da imagem.
+
+
+
+* **Integração de Fluxo de Trabalho**  
+
+  Comprime automaticamente PNGs ao serem enviados para sistemas de CMS, DAM ou nuvem.
+
+
+
+* **Ajuste Dinâmico de Resolução**  
+
+  A compressão pode se adaptar com base nas dimensões da imagem ou no contexto de uso.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

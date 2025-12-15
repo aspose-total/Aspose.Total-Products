@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX (현대적인 PowerPoint 템플릿)은 모든 서식과 디자인 요소를 유지하면서 크기를 줄이고 공유 효율성을 향상시키는 압축의 이점을 누립니다.
+
+
+
+Python API를 사용하면 자동화된 POTX 압축이 가능해져 워크플로 확장성과 템플릿 관리가 개선됩니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **템플릿 저장소 최적화**  
+
+&nbsp; 콘텐츠와 슬라이드 디자인을 보존하면서 POTX 템플릿을 압축합니다.
+
+
+
+* **빠른 템플릿 공유**  
+
+&nbsp; 더 작은 파일 크기로 팀과 클라우드 플랫폼 간 빠른 배포가 가능해집니다.
+
+
+
+* **자동 아카이빙**  
+
+&nbsp; 압축을 통해 장기간 템플릿 저장소 관리가 간소화됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 POTX 압축**  
+
+&nbsp; Python 스크립트를 사용하여 여러 템플릿을 자동으로 압축합니다.
+
+
+
+* **워크플로 시스템 통합**  
+
+&nbsp; 압축된 템플릿은 자동화된 파이프라인에 동적으로 로드될 수 있습니다.
+
+
+
+* **스마트 압축**  
+
+&nbsp; 조건부 자동화는 큰 미디어가 많은 템플릿을 대상으로 합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

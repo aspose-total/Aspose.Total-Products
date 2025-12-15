@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تستفيد ملفات PPS (عرض PowerPoint) من ضغط لتقليل التخزين وتحسين أداء التشغيل أثناء العروض.
+
+
+
+تدعم واجهات برمجة التطبيقات في Python ضغط PPS التلقائي لمشاركة أسرع وكفاءة تخزين.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين ملف العرض**  
+
+&nbsp; ضغط ملفات PPS دون التأثير على محتوى الشرائح أو التحولات.
+
+
+
+* **توزيع أسرع**  
+
+&nbsp; تسهل الملفات الأصغر سرعة المشاركة السريعة وتحميلها على السحابة.
+
+
+
+* **كفاءة الأرشفة**  
+
+&nbsp; يدعم الضغط التلقائي تخزين ملفات العرض على المدى الطويل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط مجمع لملفات PPS**  
+
+&nbsp; يمكن لنصوص Python ضغط ملفات العرض المتعددة تلقائيًا.
+
+
+
+* **التكامل مع أنظمة العروض**  
+
+&nbsp; يمكن تحميل ملفات PPS المضغوطة ديناميكيًا في سير العمل التلقائية.
+
+
+
+* **ضغط مشروط**  
+
+&nbsp; استهداف العروض الكبيرة أو الملفات الغنية بالوسائط للضغط.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

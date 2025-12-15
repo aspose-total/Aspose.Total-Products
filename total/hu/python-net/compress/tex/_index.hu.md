@@ -78,7 +78,87 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TEX tömörítés csökkenti a LaTeX forrásfájlok méretét, amelyek gyakran tartalmaznak ismétlődő formázást, megjegyzéseket vagy formázási parancsokat. A TEX fájlok optimalizálása javítja a tárolási hatékonyságot, gyorsabb fordítást és jobb együttműködést biztosít az akadémiai, kiadói és tudományos folyamatokban.
+
+
+
+A Python API-k automatizálják a TEX tömörítést, a batch feldolgozást és integrálhatók dokumentumgenerálási csatornákba a skálázható LaTeX folyamatokhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Akadémiai \& Kutatási Dokumentumok**  
+
+&nbsp; Csökkentse a LaTeX források méretét nagy tanulmányokhoz, szakdolgozatokhoz és disszertációkhoz.
+
+
+
+* **Kiadói Folyamatok**  
+
+&nbsp; A tömörített TEX fájlok egyszerűsítik a fordítási és terjesztési folyamatokat.
+
+
+
+* **Verziókezelés \& Együttműködés**  
+
+&nbsp; A kisebb fájlok javítják az effektivitást a tárolókban és a közös szerkesztés során.
+
+
+
+* **Archiválás \& Biztonsági Mentés**  
+
+&nbsp; Az optimalizált TEX fájlok csökkentik a tárolást a történelmi akadémiai tartalmakhoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Batch TEX Tömörítés**  
+
+&nbsp; Automatizálja a méretcsökkentést több LaTeX fájl esetén.
+
+
+
+* **Megjegyzés \& Feleslegesség Eltávolítása**  
+
+&nbsp; Automatikusan távolítsa el a felesleges formázást vagy ismétlődő parancsokat.
+
+
+
+* **Folyamatintegráció**  
+
+&nbsp; Tömörítse a TEX fájlokat, amikor azokat automatizált fordítási vagy kiadó rendszerekbe töltik fel.
+
+
+
+* **Konverzió + Tömörítés**  
+
+&nbsp; Konvertálja a TEX fájlokat PDF-re vagy más formátumokra, miközben alkalmazza a tömörítési szabályokat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

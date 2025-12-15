@@ -100,7 +100,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pliki DOTM są szablonami z makrami. Kompresja zmniejsza miejsce przechowywania, jednocześnie zachowując funkcjonalność makr, umożliwiając efektywne wdrożenie szablonu.
+
+
+
+Interfejsy API Pythona obsługują zautomatyzowaną kompresję plików DOTM, aby zachować integralność w środowiskach korporacyjnych i współpracy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Zachowanie Szablonu z Makrami**  
+
+&nbsp; Bezpieczna kompresja plików DOTM bez uszkadzania makr.
+
+
+
+* **Szybsze Rozpowszechnianie Szablonów**  
+
+&nbsp; Mniejsze pliki są łatwiejsze do udostępniania zespołom i systemom.
+
+
+
+* **Archiwizacja Szablonów**  
+
+&nbsp; Zautomatyzowana kompresja zapewnia efektywność przechowywania długoterminowego.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Kompresja Masowa DOTM**  
+
+&nbsp; Skrypty Pythona mogą automatycznie przetwarzać wiele szablonów z makrami.
+
+
+
+* **Integracja z Przepływem Roboczym**  
+
+&nbsp; Skompresowane szablony mogą być wykorzystane w zautomatyzowanych systemach generowania dokumentów.
+
+
+
+* **Kompresja Warunkowa**  
+
+&nbsp; Automatyzacja na podstawie rozmiaru, zawartości lub złożoności makr.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

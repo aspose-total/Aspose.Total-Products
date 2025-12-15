@@ -100,7 +100,87 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A TIFF tömörítés a nagy felbontású rácsképek méretének csökkentésére összpontosít, miközben megőrzi a képminőséget, a színmélységet és a metaadatokat. A TIFF fájlokat széles körben használják a profi fotózásban, nyomtatásban és szkennelési folyamatokban, a tömörítés elengedhetetlen a tárolási hatékonyság és a gyors feldolgozás szempontjából.
+
+
+
+A Python API-k automatizált TIFF tömörítést, tétel feldolgozást és formátumkonverziót tesznek lehetővé, lehetővé téve a nagy képgyűjtemények skálázható kezelését és integrálását a digitális eszközkezelési és képfeldolgozási csövekbe.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Professzionális fotótárolás**  
+
+&nbsp; A TIFF fájlok tömörítése csökkenti a tárolási költségeket, miközben magas minőségű képeket tart meg.
+
+
+
+* **Nyomtatási és kiadási folyamatok**  
+
+&nbsp; Optimalizált TIFF-ek gyorsabban betöltődnek és hatékonyabban feldolgozódnak a prepressz és gyártási csövekben.
+
+
+
+* **Szkennelés és archiválás**  
+
+&nbsp; A tömörített TIFF-ek minimalizálják a tárolási helyet a szkennelt dokumentumok és történelmi feljegyzések számára.
+
+
+
+* **Digitális eszközkezelés**  
+
+&nbsp; A kisebb TIFF-ek javítják a visszakeresési sebességet és a rendszer teljesítményét a nagy képgyűjtemények esetén.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Tétel TIFF tömörítés**  
+
+&nbsp; A Python szkriptek automatikusan optimalizálhatnak százával TIFF fájlokat.
+
+
+
+* **Veszteségmentes vagy vezérelt veszteséges tömörítés**  
+
+&nbsp; Automatizálja a tömörítés típusának kiválasztását a munkafolyamat igényei vagy a képtartalom alapján.
+
+
+
+* **Munkafolyamat integráció**  
+
+&nbsp; Dinamikusan tömörítse a TIFF fájlokat, amikor azokat feltöltik a DAM, CMS vagy felhőtárolóba.
+
+
+
+* **Felbontás alapú optimalizálás**  
+
+&nbsp; Automatikusan állítsa be a tömörítési szinteket a képméretek vagy DPI függvényében.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,63 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM anotace zlepšuje makro-aktivované šablony prezentací přidáním poznámek, které objasňují logiku snímku, pokyny k rozložení a chování makra. To zlepšuje použitelnost šablony a zajistí konzistentní generování prezentace.
+
+Automatizace POTM anotace usnadňuje sledování použití maker, vynucování politik rozložení a programové aktualizace pokynů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případy" %}}
+
+
+
+* **Poznámky k makro logice**  
+
+&nbsp; Popisují automatizované funkce snímků.
+
+* **Pokyny k šabloně**  
+
+&nbsp; Poskytují instrukce pro obsah snímku.
+
+* **Značky konzistence designu**  
+
+&nbsp; Zvýrazňují požadované prvky rozložení.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Skenování a anotace maker**  
+
+&nbsp; Automaticky dokumentují detekované skripty.
+
+* **Hromadná údržba šablon**  
+
+&nbsp; Automaticky aplikují aktualizovaný text s pokyny.
+
+* **Automatizované ověřování rozložení**  
+
+&nbsp; Označují nekonzistentní snímky programově.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Soubory FODS (Flat OpenDocument Spreadsheet) využívají kompresi ke snížení úložného prostoru a zlepšení rychlosti přenosu při zachování kompatibility se standardy OpenDocument.
+
+
+
+Automatizace založená na Pythonu umožňuje efektivní kompresi pro škálovatelnou integraci pracovního postupu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Standardizovaná komprese tabulek**  
+
+&nbsp; Snížení velikosti souboru FODS při zachování kompatibility a struktury.
+
+
+
+* **Rychlejší sdílení**  
+
+&nbsp; Kompresované soubory FODS lze rychle sdílet napříč platformami.
+
+
+
+* **Efektivita archivace a zálohování**  
+
+&nbsp; Automatizovaná komprese zjednodušuje správu úložiště pro otevřené formáty dokumentů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Hromadná komprese FODS**  
+
+&nbsp; Pythonové skripty mohou automaticky zpracovávat více souborů FODS.
+
+
+
+* **Integrace pracovního postupu**  
+
+&nbsp; Kompresované soubory lze načíst do automatizovaných systémů nebo cloudového úložiště.
+
+
+
+* **Podmíněná komprese**  
+
+&nbsp; Cílená optimalizace velkých nebo mediálně náročných souborů FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

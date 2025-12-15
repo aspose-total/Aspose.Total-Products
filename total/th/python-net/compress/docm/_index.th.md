@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ไฟล์ DOCM ที่มีมาโครจะได้ประโยชน์จากการบีบอัดเพื่อเพิ่มประสิทธิภาพในการจัดเก็บพร้อมรักษาความสามารถของมาโครและการจัดรูปแบบ
+
+
+
+โดยใช้ Python APIs การบีบอัด DOCM อัตโนมัติจะทำให้มาโครยังคงอยู่และลดความซับซ้อนในการจัดการเอกสารในกระบวนการทำงานอัตโนมัติ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การจัดเก็บไฟล์ที่ปลอดภัยสำหรับมาโคร**  
+
+&nbsp; บีบอัดไฟล์ DOCM โดยไม่ทำให้มาโครที่ฝังอยู่เสียหาย
+
+
+
+* **การแบ่งปันไฟล์ที่เร็วขึ้น**  
+
+&nbsp; ขนาดเล็กช่วยให้สามารถแนบไฟล์ในอีเมลและอัปโหลดในคลาวด์ได้อย่างรวดเร็ว
+
+
+
+* **การจัดการเก็บข้อมูลสำรอง**  
+
+&nbsp; การบีบอัดโดยอัตโนมัติช่วยในการจัดเก็บเอกสารที่มีมาโครในระยะยาว
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การบีบอัดเอกสารมาโครเป็นกลุ่ม**  
+
+&nbsp; อัตโนมัติประมวลผลไฟล์ DOCM หลายไฟล์พร้อมรักษาความสามารถ
+
+
+
+* **การรวมเข้ากับการอัตโนมัติใน Office**  
+
+&nbsp; ไฟล์ที่บีบอัดสามารถจัดการในระบบการทำงานหรือโซลูชัน DMS
+
+
+
+* **การบีบอัดมาโครตามเงื่อนไข**  
+
+&nbsp; สคริปต์ Python สามารถบีบอัดไฟล์ DOCM โดยเลือกตั้งตามขนาดหรือเนื้อหา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,91 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การบีเอ็มเพียงต้นฉบับ (BMP) 
+
+
+
+การบีเอ็มเอชที (MHTML Web Archive) ช่วยลดขนาดของเว็บเพจอาร์กีฟ ซึ่งประกอบด้วย HTML, รูปภาพ, CSS, และสคริปต์ที่แพ็คเป็นไฟล์เดียวกัน การบีเอ็มเอชทีที่บีเอ็มเอชทีถูกบีเอ็มเอชทีไฟล์ช่วยเพิ่มประสิทธิภาพในการจัดเก็บ, การถ่ายโอนไฟล์เร็วขึ้น, และการเก็บถาวรเนื้อหาเว็บ
+
+
+
+API ของ Python ช่วยให้การบีเอ็มเอชทีอัตโนมัติ, การประมวลผลเป็นชุด, และการรวมเข้ากับท่อระบบเก็บเนื้อหาเว็บ รองรับการจัดการเนื้อหาเว็บแบบออฟไลน์ที่มีขนาดใหญ่ได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การเก็บเว็บเพจ**  
+
+&nbsp; บีเอ็มเอชทีไฟล์ที่บีเอ็มเอชทีเพื่อประหยัดพื้นที่จัดเก็บสำหรับเว็บไซต์ที่ถูกเก็บถาวร
+
+
+
+* **การกระจายเนื้อหาแบบออฟไลน์**  
+
+&nbsp; บีเอ็มเอชทีไฟล์ขนาดเล็กช่วยให้การแบ่งปันและดาวน์โหลดเร็วขึ้น
+
+
+
+* **การจัดการห้องสมุดดิจิทัล**  
+
+&nbsp; เก็บเนื้อหาเว็บเพจอาร์กีฟขนาดใหญ่ได้อย่างมีประสิทธิภาพ
+
+
+
+* **การปรับปรุงเวิร์กโฟลว์**  
+
+&nbsp; ไฟล์ที่ถูกบีเอ็มเอชทีช่วยเพิ่มความเร็วในระบบเนื้อหาเว็บ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การบีเอ็มเอชทีแบบชุด**  
+
+&nbsp; ทำให้การลดขนาดเป็นไปอัตโนมัติสำหรับไฟล์เก็บเนื้อหาเว็บหลายไฟล์
+
+
+
+* **การปรับปรุงเนื้อหาฝัง**  
+
+&nbsp; บีเอ็มเอชทีไฟล์ช่วยบีเอ็มเอชทีรูปภาพ, สคริปต์, และสไตล์โดยอัตโนมัติ
+
+
+
+* **การรวมเข้ากับ DAM หรือ CMS**  
+
+&nbsp; บีเอ็มเอชทีไฟล์ช่วยบีเอ็มเอชทีขณะอัปโหลดหรือเก็บถาวร
+
+
+
+* **กฎการบีเอ็มเอชทีแบบไดนามิก**  
+
+&nbsp; ปรับการปรับปรุงตามความซับซ้อนของหน้าเว็บและสื่อที่ถูกฝัง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

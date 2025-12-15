@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+SVGZ sıkıştırması, SVG dosyalarının boyutunu daha da azaltarak GZIP sıkıştırması uygulayarak web teslimatı için son derece verimli hale getirir. Sıkıştırılmış SVGZ dosyaları, bant genişliği kullanımını ve depolama ihtiyaçlarını en aza indirirken tam vektör kalitesini, ölçeklenebilirliği ve düzenlenebilirliği korur.
+
+
+
+Python API'leri, otomatik SVGZ sıkıştırması, toplu işleme ve web veya varlık boru hatlarına entegrasyonu sağlar, böylece web siteleri, uygulamalar ve dijital tasarım sistemleri için hızlı, ölçeklenebilir iş akışları sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Web Grafikleri Optimizasyonu**  
+
+&nbsp; Sıkıştırılmış SVGZ dosyaları daha hızlı yüklenir, web siteleri ve uygulamalarda kullanıcı deneyimini artırır.
+
+
+
+* **UI/UX Tasarım Teslimatı**  
+
+&nbsp; Daha küçük dosya boyutları, arayüz tasarımında duyarlılık ve performansı artırır.
+
+
+
+* **Dijital Varlık Yönetimi**  
+
+&nbsp; Büyük vektör grafik koleksiyonları için depolama gereksinimlerini azaltır.
+
+
+
+* **Çapraz Platform Rendereleme**  
+
+&nbsp; Minimum bant genişliği kullanarak tarayıcılar ve cihazlar arasında vektör sadakatini korur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu SVGZ Sıkıştırma**  
+
+&nbsp; Birden fazla SVG dosyasının toplu olarak SVGZ formatına sıkıştırılmasını otomatikleştirin.
+
+
+
+* **İş Akışı Entegrasyonu**  
+
+&nbsp; SVGZ sıkıştırmasını CMS, DAM veya web boru hatlarına yüklerken otomatikleştirin.
+
+
+
+* **Dinamik Sıkıştırma Kuralları**  
+
+&nbsp; Dosya karmaşıklığına veya proje gereksinimlerine bağlı olarak GZIP sıkıştırma seviyelerini ayarlayın.
+
+
+
+* **Dönüşüm + Sıkıştırma Boru Hatları**  
+
+&nbsp; SVG → SVGZ dönüştürün ve verimlilik için tek bir otomatik süreçte optimize edin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

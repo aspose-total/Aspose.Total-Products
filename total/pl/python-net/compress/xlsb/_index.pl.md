@@ -78,7 +78,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pliki XLSB (binarne skoroszyty Excela) korzystają z kompresji w celu zmniejszenia rozmiaru pliku, jednocześnie zachowując szybkie czasy ładowania i złożone obliczenia.
+
+
+
+Interfejsy Pythona umożliwiają zautomatyzowaną kompresję plików XLSB, wspierając zarządzanie arkuszami kalkulacyjnymi na dużą skalę oraz integrację z przepływami pracy przedsiębiorstwa.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Optymalizacja skoroszytów binarnych**  
+
+&nbsp; Kompresuj pliki XLSB bez wpływu na wydajność lub obliczenia.
+
+
+
+* **Szybsze transfery plików**  
+
+&nbsp; Mniejsze pliki XLSB umożliwiają szybkie udostępnianie za pośrednictwem poczty elektronicznej lub chmury.
+
+
+
+* **Efektywne archiwizowanie**  
+
+&nbsp; Zautomatyzowana kompresja wspiera długoterminowe przechowywanie skoroszytów binarnych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Kompresja wsadowa plików XLSB**  
+
+&nbsp; Skrypty Pythona mogą automatycznie kompresować wiele plików XLSB.
+
+
+
+* **Integracja z narzędziami analitycznymi i BI**  
+
+&nbsp; Skompresowane pliki XLSB mogą być przetwarzane bezproblemowo w zautomatyzowanych przepływach pracy.
+
+
+
+* **Kompresja selektywna**  
+
+&nbsp; Automatyzacja może kompresować tylko duże lub zawierające dużo mediów pliki XLSB.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

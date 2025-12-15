@@ -43,9 +43,79 @@ Per uno sviluppatore, chi sta cercando di creare file DOCM tramite l'applicazion
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM — I file `.docm` supportano macro incorporate e sono ideali quando i documenti devono includere comportamenti programmabili; le API Python possono creare documenti abilitati alle macro assemblando contenuti OOXML e allegando progetti VBA firmati o non firmati tramite automazione. La creazione programmatica garantisce che le macro siano confezionate in modo coerente e possano essere validate o firmate come parte della compilazione.
+
+
+
+L'utilizzo di DOCM è appropriato quando la logica aziendale (campi personalizzati, pulsanti di esportazione o macro di raccolta dati) deve risiedere all'interno del documento; l'automazione consente di inserire, testare e controllare i contenuti delle macro per soddisfare controlli di sicurezza e conformità.
+
+Test automatici e processi CI possono garantire l'integrità del codice delle macro e firmare le macro prima della distribuzione.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Automazione incorporata nel documento**
+
+&nbsp; Distribuire file DOCM che eseguono macro approvate per la cattura strutturata dei dati o trasformazioni locali.
+
+
+
+* **Distribuzione controllata delle macro**
+
+&nbsp; Inserire moduli VBA approvati nei documenti durante la compilazione per un comportamento macro regolamentato.
+
+
+
+* **Modelli abilitati alle macro**
+
+&nbsp; Utilizzare modelli DOTM come fonti per generare documenti DOCM con automazioni predefinite.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Validazione CI delle macro**
+
+&nbsp; Eseguire automaticamente analisi statica sul codice VBA e bloccare le compilazioni in caso di violazioni delle policy.
+
+
+
+* **Firma e confezionamento**
+
+&nbsp; Automatizzare la firma digitale delle macro e il confezionamento dei file DOCM per una distribuzione sicura.
+
+
+
+* **Iniezione di macro da repository sicuri**
+
+&nbsp; Estrarre snippet VBA approvati da un repository sicuro e incorporarli nei file DOCM generati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

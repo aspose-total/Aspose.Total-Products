@@ -78,7 +78,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File XLSB (buku kerja Excel biner) mendapatkan manfaat dari kompresi untuk mengurangi ukuran file sambil mempertahankan waktu muat yang cepat dan perhitungan kompleks.
+
+
+
+API Python memungkinkan kompresi XLSB otomatis, mendukung manajemen spreadsheet dalam skala besar dan integrasi dengan alur kerja perusahaan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Buku Kerja Biner**  
+
+&nbsp; Kompres file XLSB tanpa memengaruhi kinerja atau perhitungan.
+
+
+
+* **Transfer File Lebih Cepat**  
+
+&nbsp; File XLSB yang lebih kecil memungkinkan berbagi dengan cepat melalui email atau cloud.
+
+
+
+* **Arsip Efisien**  
+
+&nbsp; Kompresi otomatis mendukung penyimpanan jangka panjang buku kerja biner.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi XLSB Massal**  
+
+&nbsp; Skrip Python dapat mengompres beberapa file XLSB secara otomatis.
+
+
+
+* **Integrasi dengan Alat Analitik dan BI**  
+
+&nbsp; File XLSB yang terkompresi dapat diproses dengan lancar dalam alur kerja otomatis.
+
+
+
+* **Kompresi Selektif**  
+
+&nbsp; Otomatisasi dapat mengompresi hanya file XLSB yang besar atau berat media.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

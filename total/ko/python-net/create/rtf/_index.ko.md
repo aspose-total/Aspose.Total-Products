@@ -43,9 +43,79 @@ informat: RTF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF — Rich Text Format (RTF)은 많은 편집기에서 지원하는 크로스 플랫폼 텍스트 형식입니다. Python 기반의 RTF 생성은 다양한 클라이언트에서 수용되어야 하는 간단한 스타일이 적용된 문서를 생성할 때 유용합니다. RTF는 OOXML의 고급 기능이 부족하지만 휴대용 스타일 텍스트, 간단한 테이블 및 인라인 객체에서 뛰어납니다.
+
+
+
+RTF 자동화는 메일 병합, 일반 스타일의 편지 또는 최대 호환성이 필요한 시스템에 적합합니다. 프로그래밍적 생성은 RTF 단편을 템플릿화하거나 RTF 토큰을 직접 빌드하는 라이브러리를 사용하여 수행할 수 있습니다.
+
+자동화는 대량의 RTF 내보내기 및 경량 또는 레거시 소비자를 대상으로 하는 변환 파이프라인을 간소화합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **크로스 플랫폼 편지 생성**
+
+&nbsp; 가벼운 휴대용 스타일 텍스트를 선호하는 클라이언트를 위해 RTF 문서 생성.
+
+
+
+* **간단한 문서용 메일 병합**
+
+&nbsp; 넓은 호환성을 위해 RTF로 개인화된 편지와 공지 생성.
+
+
+
+* **OOXML이 아닌 시스템과의 교환**
+
+&nbsp; DOCX나 이진 Word를 해석할 수 없는 시스템을 위해 콘텐츠를 RTF로 내보냄.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **대량 RTF 내보내기**
+
+&nbsp; 구조화된 데이터 피드에서 수천 개의 RTF 파일을 자동으로 생성.
+
+
+
+* **포맷 대체 파이프라인**
+
+&nbsp; DOCX/DOCM을 처리할 수 없는 경우 RTF 버전을 자동으로 제공.
+
+
+
+* **간단한 템플릿 엔진**
+
+&nbsp; 자동화된 워크플로의 일부로 RTF 템플릿에서 프로그래밍적 토큰 교체 사용.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

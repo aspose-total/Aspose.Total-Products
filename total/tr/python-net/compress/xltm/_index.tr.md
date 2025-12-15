@@ -78,7 +78,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLTM dosyaları (makro etkin şablonlar), dosya boyutunu azaltırken makroları koruyan ve dağıtımı iyileştiren sıkıştırma gerektirir.
+
+
+
+Python tabanlı otomasyon, kurumsal iş akışları için ölçeklenebilir XLTM şablon sıkıştırmasını destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Makro Koruma**  
+
+&nbsp; XLTM şablonlarını sıkıştırırken makroları koruyun.
+
+
+
+* **Verimli Paylaşım**  
+
+&nbsp; Daha küçük şablonlar, ekipler arasında işbirliğini artırır.
+
+
+
+* **Şablon Arşivleme**  
+
+&nbsp; Otomatik sıkıştırma, uzun vadeli şablon depolamasını iyileştirir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu XLTM Sıkıştırma**  
+
+&nbsp; Python betikleri birden fazla makro etkin şablonu otomatik olarak işleyebilir.
+
+
+
+* **BI ve İş Akışı Sistemleriyle Entegrasyon**  
+
+&nbsp; Sıkıştırılmış XLTM şablonları otomatik iş akışlarında kullanılabilir.
+
+
+
+* **Koşullu Sıkıştırma**  
+
+&nbsp; Büyük şablonları veya gömülü medya içerenleri hedefleyerek sıkıştırma yapın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

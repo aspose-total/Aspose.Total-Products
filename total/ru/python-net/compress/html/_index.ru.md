@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие HTML уменьшает размер файлов путем минимизации кода, удаления пробелов, комментариев и избыточных тегов. Сжатый HTML улучшает время загрузки веб-сайта, снижает использование полосы пропускания и повышает производительность веб-приложений.
+
+
+
+API Python позволяют автоматизировать минимизацию HTML, пакетную обработку и интеграцию с веб-процессами развертывания для масштабированной оптимизации веб-сайтов и приложений.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация веб-страниц**  
+
+  &nbsp; Меньшие файлы HTML улучшают скорость загрузки страницы и отзывчивость.
+
+
+
+* **Генерация статических сайтов**  
+
+  &nbsp; Сжатый HTML ускоряет сборку сайта и процессы развертывания.
+
+
+
+* **Управление цифровыми активами**  
+
+  &nbsp; Минимизированный HTML снижает требования к хранилищу для крупных веб-репозиториев.
+
+
+
+* **Кроссплатформенная доставка**  
+
+  &nbsp; Оптимизированный HTML улучшает производительность рендеринга на различных устройствах и браузерах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетная минимизация HTML**  
+
+  &nbsp; Автоматизация сжатия нескольких файлов HTML.
+
+
+
+* **Удаление пробелов и комментариев**  
+
+  &nbsp; Автоматическая очистка кода без изменения функциональности.
+
+
+
+* **Интеграция в процессы**  
+
+  &nbsp; Сжатие файлов HTML во время рабочих процессов CI/CD или обработки контента.
+
+
+
+* **Динамическая оптимизация**  
+
+  &nbsp; Настройка правил минимизации в зависимости от требований проекта или окружения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +225,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

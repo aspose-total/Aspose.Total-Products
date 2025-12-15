@@ -101,7 +101,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Các tệp PPTM (bài thuyết trình hỗ trợ macro) được nén giữ lại các macro trong khi giảm kích thước tệp để chia sẻ và lưu trữ.
+
+
+
+API Python cho phép nén tự động PPTM trong khi duy trì chức năng macro cho quy trình làm việc doanh nghiệp.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Bảo Toàn Macro**  
+
+&nbsp; Nén các tệp PPTM mà không làm hỏng các macro nhúng.
+
+
+
+* **Hợp Tác Nhanh Hơn**  
+
+&nbsp; Các tệp hỗ trợ macro nhỏ giúp việc chia sẻ và tải lên đám mây của nhóm dễ dàng hơn.
+
+
+
+* **Lưu Trữ Tự Động**  
+
+&nbsp; Nén đảm bảo lưu trữ hiệu quả lâu dài các bài thuyết trình có macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Batch PPTM**  
+
+&nbsp; Kịch bản Python có thể xử lý tự động nhiều tệp hỗ trợ macro.
+
+
+
+* **Tích Hợp với Hệ Thống Quy Trình Làm Việc**  
+
+&nbsp; Các tệp PPTM đã nén có thể được sử dụng trong các quy trình làm việc tài liệu tự động.
+
+
+
+* **Nén Có Điều Kiện**  
+
+&nbsp; Tự động hóa có thể nhắm vào các tệp có phương tiện lớn hoặc macro phức tạp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

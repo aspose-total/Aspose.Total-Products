@@ -78,7 +78,87 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compressione WEBP si concentra sulla riduzione delle dimensioni dei file per immagini ottimizzate per il web mantenendo al contempo un'alta qualità visiva. WEBP supporta sia la compressione lossy che lossless, rendendola ideale per grafica web, interfacce di app e distribuzione di contenuti digitali.
+
+
+
+Le API di Python consentono la compressione automatizzata di WEBP, il processing batch e la conversione da altri formati, supportando flussi di lavoro scalabili per l'ottimizzazione delle prestazioni web e la gestione delle immagini basata su cloud.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Prestazioni Web e delle App**  
+
+&nbsp; Le immagini WEBP compresse migliorano la velocità di caricamento della pagina e riducono l'utilizzo della larghezza di banda.
+
+
+
+* **Contenuti Digitali Reattivi**  
+
+&nbsp; Mantiene visivi di alta qualità per siti web, app e piattaforme online.
+
+
+
+* **Asset di Marketing e Social Media**  
+
+&nbsp; File WEBP più piccoli garantiscono un caricamento e un rendering più veloci per le campagne.
+
+
+
+* **Archiviazione su Cloud e Archiviazione**  
+
+&nbsp; Riduce i requisiti di archiviazione per grandi librerie di immagini.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Compressione Batch di WEBP**  
+
+&nbsp; Comprime automaticamente più file WEBP in un unico processo guidato da Python.
+
+
+
+* **Selezione Lossless o Lossy**  
+
+&nbsp; L'automazione sceglie il tipo di compressione ottimale in base al contenuto dell'immagine e ai requisiti.
+
+
+
+* **Integrazione del Flusso di Lavoro**  
+
+&nbsp; Comprime automaticamente le immagini WEBP durante il caricamento su CMS, DAM o piattaforme cloud.
+
+
+
+* **Regolazione Dinamica della Qualità**  
+
+&nbsp; La compressione può essere regolata in base alla risoluzione, al dispositivo di destinazione o alle condizioni di rete.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

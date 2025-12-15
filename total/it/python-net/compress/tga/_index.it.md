@@ -78,7 +78,87 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compressione TGA si concentra sulla riduzione delle dimensioni delle immagini raster Targa preservando la profondità del colore e i canali alfa. I file TGA sono spesso utilizzati nei videogiochi, grafica 3D ed effetti visivi, rendendo la compressione essenziale per uno storage efficiente e un elaborazione più veloce nei flussi multimediali.
+
+
+
+Le API Python consentono la compressione automatizzata delle immagini TGA, l'elaborazione batch e la conversione in formati moderni, supportando flussi di lavoro scalabili per lo sviluppo di giochi, animazioni e produzione di media digitale.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* ** Ottimizzazione delle risorse di gioco **  
+
+&nbsp; La compressione dei file TGA riduce i requisiti di archiviazione e migliora i tempi di caricamento nei giochi.
+
+
+
+* ** Flussi di lavoro grafici 3D **  
+
+&nbsp; I file TGA più piccoli semplificano la gestione delle texture e i flussi di lavoro di rendering.
+
+
+
+* ** Produzione di effetti visivi **  
+
+&nbsp; Le immagini TGA ottimizzate aiutano a gestire efficientemente lunghe sequenze di frame.
+
+
+
+* ** Archiviazione archivistica **  
+
+&nbsp; Riduce le dimensioni dei file per l'archiviazione a lungo termine di risorse ad alta risoluzione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* ** Compressione batch TGA **  
+
+&nbsp; Automatizza l'ottimizzazione di grandi set di file TGA in blocco.
+
+
+
+* ** Preservazione del canale alfa **  
+
+&nbsp; Mantiene la trasparenza durante la compressione per ridurre l'impronta di archiviazione.
+
+
+
+* ** Integrazione nei flussi di lavoro **  
+
+&nbsp; I file TGA possono essere compressi automaticamente durante il caricamento nei sistemi di gestione delle risorse.
+
+
+
+* ** Compressione basata sulla risoluzione dinamica **  
+
+&nbsp; Regola i livelli di compressione in base alle dimensioni dell'immagine, alla risoluzione o al contesto d'uso.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

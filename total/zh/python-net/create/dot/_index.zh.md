@@ -43,9 +43,81 @@ informat: DOC
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT — `.dot` 模板文件定义了传统 Word 工作流程的可重用样式和结构；通过 Python 创建 DOT 模板可让组织保持邮件合并、表单和标准文档的一致格式，以供老客户端使用。
+
+
+
+通过程序化的 DOT 生成，可以确保模板在中心位置进行更新，并可以自动分发给最终用户或文档服务。
+
+
+
+自动化支持定期模板刷新、版本控制，并从模板生成具体文档。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **传统模板分发**
+
+  &nbsp; 生成 DOT 模板，确保在传统工具链中保持一致的布局。
+
+
+
+* **标准化表单模板**
+
+  &nbsp; 创建带有手动或自动邮件合并占位符的表单模板。
+
+
+
+* **模板版本控制**
+
+  &nbsp; 自动化版本标记和发布 DOT 模板到文档存储库。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化模板刷新**
+
+  &nbsp; 从中心位置替换或修补 DOT 模板，并通过程序化方式推送更新。
+
+
+
+* **基于模板的批量创建**
+
+  &nbsp; 使用 DOT 模板通过自动合并生成多个填充文档。
+
+
+
+* **模板审计跟踪**
+
+  &nbsp; 在程序化模板生成过程中嵌入元数据和更改日志以符合合规要求。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

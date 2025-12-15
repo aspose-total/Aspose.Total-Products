@@ -75,7 +75,65 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Anotacja DOCM umożliwia dodawanie notatek, wyróżnień i metadanych do dokumentów programowalnych w formacie Word, wspierając procesy, które wymagają dynamicznego skryptowania lub wbudowanej automatyzacji. Pomaga to użytkownikom dokumentować logikę, śledzić zmiany i zachować przejrzystość wokół zachowań makr.
+
+Poprzez programową adnotację plików DOCM, systemy automatyzacji mogą monitorować używanie makr, poprawiać spójność dokumentacji i usprawniać procesy walidacji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe Zastosowania" %}}
+
+
+
+* **Dokumentacja Makr**  
+
+&nbsp; Oznacz i opisz działania sterowane makrami wewnątrz dokumentu.
+
+* **Śledzenie Zgodności**  
+
+&nbsp; Dodaj notatki potwierdzające wymagane skrypty lub walidacje.
+
+* **Rejestr Zmian**  
+
+&nbsp; Wyróżnij aktualizacje związane z makrami dla lepszej widoczności.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Skanowanie i Annotacja Makr**  
+
+&nbsp; Automatycznie wstawiaj komentarze opisujące wykryte funkcje makr.
+
+* **Dynamiczne Raporty Zgodności**  
+
+&nbsp; Wypełniaj adnotacje, gdy makra spełniają lub nie spełniają określonych sprawdzeń.
+
+* **Narzędzia Recenzji Oparte na Skryptach**  
+
+&nbsp; Użyj Pythona do stosowania strukturalnej adnotacji na dużą skalę.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

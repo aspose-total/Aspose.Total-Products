@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+APNG压缩专注于减小动态PNG文件的大小，同时保持帧质量和流畅播放。由于APNG支持无损特性和多帧，优化这些文件对于在网络和应用环境中实现更快加载、减少带宽使用和提高性能至关重要。
+
+
+
+Python API使得自动化APNG压缩、帧优化和资源减少变得更容易，从而更好地将轻量级动画整合到可扩展的工作流程和高容量内容管道中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **网络动画优化**  
+
+&nbsp; 压缩APNG文件可提高加载速度，同时保持动画清晰度。
+
+
+
+* **UI/UX资产交付**  
+
+&nbsp; 轻量级APNG有助于在移动和桌面应用程序中实现响应式界面。
+
+
+
+* **游戏和应用图形管道**  
+
+&nbsp; 压缩的APNG资产可减少交互环境中的加载延迟和存储使用。
+
+
+
+* **内容发布**  
+
+&nbsp; 最小化动画大小可确保在博客、平台和CMS系统上平稳交付。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量APNG压缩**  
+
+&nbsp; Python脚本可以自动批量压缩多个动态PNG文件。
+
+
+
+* **帧级优化**  
+
+&nbsp; 自动化可以重新压缩单个帧或删除冗余帧。
+
+
+
+* **工作流集成压缩**  
+
+&nbsp; 上传到系统的APNG文件可以在存储之前自动压缩。
+
+
+
+* **动态动画质量调整**  
+
+&nbsp; 系统可以根据分辨率、设备类型或网络限制减小动画大小。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -167,7 +247,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

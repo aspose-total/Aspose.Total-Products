@@ -100,7 +100,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File DOT adalah template Word yang mendapat manfaat dari kompresi untuk menghemat ruang dan meningkatkan efisiensi distribusi di seluruh sistem.
+
+
+
+Kompresi berbasis Python dapat mengotomatisasi optimasi file DOT tanpa memengaruhi struktur atau format template.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Kunci" %}}
+
+
+
+* **Optimisasi Penyimpanan Template**  
+
+  Compress template DOT untuk penyimpanan lokal atau cloud yang efisien.
+
+
+
+* **Berbagi Template**  
+
+  Ukuran file yang lebih kecil meningkatkan kecepatan distribusi untuk kolaborasi tim.
+
+
+
+* **Arsip Template**  
+
+  Kompresi otomatis mendukung manajemen template jangka panjang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi Template Batch**  
+
+  Skrip Python dapat mengompresi beberapa file DOT secara otomatis.
+
+
+
+* **Integrasi dengan Sistem Alur Kerja**  
+
+  Template yang terkompresi dapat dimuat secara dinamis ke dalam alur kerja otomatis.
+
+
+
+* **Kompresi Selektif**  
+
+  Otomatisasi dapat mengompresi hanya template besar atau yang memiliki objek tertanam.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

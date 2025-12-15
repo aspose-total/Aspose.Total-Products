@@ -75,7 +75,65 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Anotacja POTM poprawia szablony prezentacji z makrami poprzez dodanie notatek wyjaśniających logikę slajdów, instrukcje układu i zachowanie makra. To zwiększa użyteczność szablonu i zapewnia spójną generację prezentacji.
+
+Automatyzacja anotacji POTM ułatwia śledzenie użycia makr, egzekwowanie polityk układu i aktualizację wytycznych programowo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe Zastosowania" %}}
+
+
+
+* **Notatki o Logice Makra**  
+
+&nbsp; Opisuj zautomatyzowane funkcje slajdów.
+
+* **Wskazówki dotyczące Szablonu**  
+
+&nbsp; Udzielaj instrukcji dotyczących treści slajdu.
+
+* **Wskaźniki Spójności Projektowej**  
+
+&nbsp; Podkreśl wymagane elementy układu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Skanowanie i Anotacja Makr**  
+
+&nbsp; Automatyczna dokumentacja wykrytych skryptów.
+
+* **Masowa Konserwacja Szablonów**  
+
+&nbsp; Automatyczne zastosowanie zaktualizowanego tekstu z wytycznymi.
+
+* **Automatyczna Walidacja Układu**  
+
+&nbsp; Oznaczaj niezgodne slajdy programowo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

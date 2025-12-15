@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+OTT sıkıştırması, dosya boyutunu azaltmak için düzen, stiller ve gömülü medyayı optimize eden OpenDocument Text Template dosyalarına odaklanır. Sıkıştırılmış OTT dosyaları, şablon tabanlı belge oluşturma için depolama, transfer hızı ve iş akışı verimliliğini artırır.
+
+
+
+Python API'leri, otomatik OTT sıkıştırması, toplu işleme ve ölçeklenebilir şablon yönetimi için belge otomasyon sistemleriyle entegrasyonu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Şablon Kütüphanesi Optimizasyonu**  
+
+&nbsp; Daha küçük OTT dosyaları büyük şablon koleksiyonları için depolamayı azaltır.
+
+
+
+* **Verimli Paylaşım ve İş Birliği**  
+
+&nbsp; Sıkıştırılmış şablonlar dağıtım ve erişim açısından daha hızlıdır.
+
+
+
+* **İş Akışı Entegrasyonu**  
+
+&nbsp; Optimize edilmiş OTT dosyaları, otomatik belge oluşturma boru hatlarında performansı artırır.
+
+
+
+* **Arşiv ve Yedekleme**  
+
+&nbsp; Tarihsel şablon sürümleri için depolama alanını azaltır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu OTT Sıkıştırma**  
+
+&nbsp; Birden fazla şablon için boyut azaltımını otomatikleştirin.
+
+
+
+* **Gömülü Medya Optimizasyonu**  
+
+&nbsp; Şablonlar içindeki görüntüler, nesneler ve stilleri otomatik olarak sıkıştırın.
+
+
+
+* **CMS/DAM Entegrasyonu**  
+
+&nbsp; OTT dosyalarını belge yönetim sistemlerine yükleme sırasında sıkıştırın.
+
+
+
+* **Dinamik Sıkıştırma Seviyeleri**  
+
+&nbsp; İçerik karmaşıklığına ve kullanım bağlamına göre optimizasyonu ayarlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WEBP圧縮は、高い視覚品質を維持しながら、Web最適化された画像のファイルサイズを削減することに焦点を当てています。WEBPは、損失ありおよび損失なしの両方の圧縮をサポートしており、Webグラフィックス、アプリのインターフェース、デジタルコンテンツ配信に最適です。
+
+
+
+Python APIを使用すると、自動WEBP圧縮、バッチ処理、他の形式からの変換が可能となり、Webパフォーマンスの最適化やクラウドベースの画像管理のためのスケーラブルなワークフローをサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* **Webおよびアプリのパフォーマンス**  
+
+&nbsp; 圧縮されたWEBP画像は、ページの読み込み速度を向上させ、帯域幅の使用量を削減します。
+
+
+
+* **レスポンシブなデジタルコンテンツ**  
+
+&nbsp; ウェブサイト、アプリ、オンラインプラットフォームの高品質なビジュアルを維持します。
+
+
+
+* **マーケティングおよびソーシャルメディア資産**  
+
+&nbsp; より小さなWEBPファイルにより、キャンペーンのアップロードとレンダリングが迅速化されます。
+
+
+
+* **アーカイブおよびクラウドストレージ**  
+
+&nbsp; 大規模な画像ライブラリのストレージ要件を削減します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチWEBP圧縮**  
+
+&nbsp; Pythonによるプロセスで複数のWEBPファイルを自動的に圧縮します。
+
+
+
+* **損失なしまたは損失ありの選択**  
+
+&nbsp; 画像コンテンツと要件に基づいて最適な圧縮タイプを自動選択します。
+
+
+
+* **ワークフローの統合**  
+
+&nbsp; CMS、DAM、またはクラウドプラットフォームへのアップロード時にWEBP画像を自動的に圧縮します。
+
+
+
+* **ダイナミックな品質調整**  
+
+&nbsp; 解像度、ターゲットデバイス、またはネットワーク条件に基づいて圧縮を調整できます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

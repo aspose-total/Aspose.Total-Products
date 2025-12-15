@@ -98,7 +98,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+קבצי POTM (תבניות המופעלות במקרו) דורשים דחיסה השומרת על מקרוס תוך ייצוב גודל הקובץ לצורך הפצה ואחסון.
+
+
+
+האוטומציה המבוססת פייתון מאפשרת דחיסת POTM בקנה מידה רחב תוך שמירה על פונקציונליות מלאה של התבנית.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים שימוש מרכזיים" %}}
+
+
+
+* **שמירת תבנית מקרו**  
+
+&nbsp; דחיסת קבצי POTM בלי לשבור מקרוס מוטבעים.
+
+
+
+* **שיתוף תבניות יעיל**  
+
+&nbsp; תבניות קטנות יותר המופעלות במקרו משפרות שיתוף פעולה והפצת עננים.
+
+
+
+* **ארכיון תבניות**  
+
+&nbsp; דחיסה אוטומטית מבטיחה אחסון אפקטיבי לטווח הארוך.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **דחיסת POTM בצורת צורמת**  
+
+&nbsp; סקריפטים בפייתון יכולים לעבד תבניות מופעלות במקרו מרובות באופן אוטומטי.
+
+
+
+* **אינטגרציה עם מערכות זרימה**  
+
+&nbsp; תבניות POTM דחוסות יכולות להיות טעונות דינמית לתהליכי עבודה אוטומטיים.
+
+
+
+* **דחיסה תנאית**  
+
+&nbsp; האוטומציה ממוקדת על קבצים עם מקרוס או תוכן מדיה גדול.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

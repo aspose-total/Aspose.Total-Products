@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يقلل ضغط CHM من حجم ملفات مساعدة HTML المجمعة، التي تحتوي على صفحات HTML وصور وهياكل تنقل لتوثيق البرامج. تحسن ملفات CHM المضغوطة كفاءة التخزين وسرعة التوزيع وإمكانية الوصول للمستخدم.
+
+
+
+تسمح واجهات برمجة التطبيقات في Python بضغط CHM تلقائيًا، ومعالجة دفعية، والتكامل مع سير العمل للتوثيق لإدارة قابلة للتوسيع لأنظمة المساعدة والكتيبات التقنية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **توصيل توثيق البرامج**  
+
+&nbsp; تحميل ملفات CHM المضغوطة بسرعة وتشغل مساحة أقل على القرص.
+
+
+
+* **الأرشفة والنسخ الاحتياطي**  
+
+&nbsp; تقليل التخزين لمجموعات الملفات المساعدة القديمة والكبيرة.
+
+
+
+* **مشاركة فعالة**  
+
+&nbsp; تنقل ملفات CHM الصغيرة بسرعة عبر الشبكات أو الأجهزة.
+
+
+
+* **إمكانية الوصول للمستخدم**  
+
+&nbsp; تحسين الأداء عند تحميل الملفات المحسنة في عارضات المساعدة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط CHM الدفعي**  
+
+&nbsp; أتمتة تقليل الحجم لعدة ملفات مساعدة.
+
+
+
+* **تحسين الأصول المضمنة**  
+
+&nbsp; ضغط الصور والنصوص وصفحات HTML تلقائيًا.
+
+
+
+* **التكامل مع أنابيب الوثائق**  
+
+&nbsp; ضغط ملفات CHM أثناء سير العمل للبناء أو النشر.
+
+
+
+* **مستويات الضغط الديناميكية**  
+
+&nbsp; تعديل استنادًا إلى حجم المحتوى وتعقيده.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

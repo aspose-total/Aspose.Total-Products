@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese WEBP se zaměřuje na snížení velikosti souboru pro obrázky optimalizované pro web, přičemž zachovává vysokou vizuální kvalitu. WEBP podporuje jak ztrátovou, tak bezeztrátovou kompresi, což ho činí ideálním pro webové grafiky, aplikace a dodávání digitálního obsahu.
+
+
+
+Pythonové API umožňují automatizovanou kompresi WEBP, hromadné zpracování a konverzi z jiných formátů, podporují škálovatelné pracovní postupy pro optimalizaci výkonu webu a správu obrázků v cloudu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Výkon webu a aplikace**  
+
+&nbsp; Komprimované obrázky WEBP zlepšují rychlost načítání stránky a snižují využití šířky pásma.
+
+
+
+* **Reagující digitální obsah**  
+
+&nbsp; Udržuje vysokou kvalitu vizuálů pro webové stránky, aplikace a online platformy.
+
+
+
+* **Marketingové a sociální mediální prostředky**  
+
+&nbsp; Menší soubory WEBP zajistí rychlejší nahrávání a zobrazování pro kampaně.
+
+
+
+* **Archivace a cloudové úložiště**  
+
+&nbsp; Sníží požadavky na úložiště pro velké knihovny obrázků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese WEBP**  
+
+&nbsp; Automaticky komprimuje více souborů WEBP v jednom procesu řízeném Pythonem.
+
+
+
+* **Volba bezeztrátové nebo ztrátové komprese**  
+
+&nbsp; Automatizace vybírá optimální typ komprese na základě obsahu obrázku a požadavků.
+
+
+
+* **Integrace pracovního postupu**  
+
+&nbsp; Komprimuje obrázky WEBP automaticky během nahrávání do CMS, DAM nebo cloudových platforem.
+
+
+
+* **Dynamické nastavení kvality**  
+
+&nbsp; Kompresi lze ladit na základě rozlišení, cílového zařízení nebo podmínek sítě.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

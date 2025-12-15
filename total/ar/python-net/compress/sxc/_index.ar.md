@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تستفيد ملفات SXC (جداول بيانات OpenOffice/StarOffice القديمة) من ضغط لتقليل التخزين وتمكين سهولة المشاركة مع الحفاظ على الصيغ والتنسيق.
+
+
+
+تسمح واجهات برمجة Python بضغط ملفات SXC تلقائيًا للحفاظ على كفاءة سير العمل في البيئات القديمة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين جداول البيانات القديمة**  
+
+&nbsp; تقليل حجم ملفات SXC دون التأثير على الصيغ أو المحتوى.
+
+
+
+* **مشاركة أسرع**  
+
+&nbsp; تحسين سرعة نقل الملفات المضغوطة عبر الشبكات والفرق.
+
+
+
+* **كفاءة الأرشفة**  
+
+&nbsp; الضغط التلقائي يدعم التخزين على المدى الطويل لجداول البيانات القديمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* **ضغط دفعي لملفات SXC**  
+
+&nbsp; يمكن لنصوص Python ضغط عدة ملفات SXC تلقائيًا.
+
+
+
+* **التكامل مع أنظمة إدارة المستندات أو السحابة**  
+
+&nbsp; يمكن معالجة ملفات SXC المضغوطة بكفاءة في سير العمل.
+
+
+
+* **الضغط الشرطي**  
+
+&nbsp; يمكن للتلقائي استهداف الملفات بناءً على الحجم أو المحتوى المضمن.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

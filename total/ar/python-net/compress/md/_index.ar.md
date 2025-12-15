@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تضغط MD تحسين ملفات Markdown عن طريق إزالة المسافات البيضاء غير الضرورية والتعليقات أو التنسيق الزائد بينما تحافظ على هيكل المحتوى. يؤدي ذلك إلى تحسين كفاءة التخزين ونقل الملفات بشكل أسرع وتبسيط معالجة الوثائق والمحتوى في الأنابيب.
+
+
+
+تمكن واجهات برمجة التطبيقات بايثون من ضغط MD تلقائيًا، ومعالجة الدفعات، وسير العمل لمعالجة الوثائق التقنية، والمدونات، والمحتوى الذي يتم التحكم في إصداره بشكل قابل للتوسيع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين الوثائق**  
+
+&nbsp; ضغط مستودعات Markdown الكبيرة لتسهيل التخزين وتسريع عمليات التحكم في الإصدارات.
+
+
+
+* **سير العمل لنشر المحتوى**  
+
+&nbsp; تبسيط ملفات MD الكبيرة لتسهيل عمليات إنشاء مواقع الويب والمواقع الثابتة.
+
+
+
+* **أرشفة محتوى Markdown**  
+
+&nbsp; تقليل التخزين للوثائق التاريخية والملاحظات.
+
+
+
+* **التعاون والتوزيع**  
+
+&nbsp; يصبح من السهل مشاركة الملفات المحسنة عبر الفرق والأنظمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائي" %}}
+
+
+
+* **ضغط دفعات MD**  
+
+&nbsp; أتمتة تحسين عدة ملفات Markdown.
+
+
+
+* **إزالة المسافات البيضاء والتعليقات**  
+
+&nbsp; تنظيف النصوص غير الضرورية تلقائيًا دون تغيير المحتوى.
+
+
+
+* **تكامل سير العمل**  
+
+&nbsp; ضغط ملفات MD عند الاستيعاب في أنظمة إدارة المحتوى أو نظم التحكم في الإصدارات.
+
+
+
+* **أنابيب التحويل + الضغط**  
+
+&nbsp; تحويل MD إلى HTML أو PDF مع تطبيق الضغط تلقائيًا.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

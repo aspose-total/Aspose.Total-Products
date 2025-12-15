@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLS 파일의 압축은 저장 공간을 줄이고 레거시 엑셀 워크북의 공식, 차트 및 서식을 보존하면서 공유 속도를 높입니다.
+
+
+
+파이썬 기반 자동화를 통해 XLS 파일의 일괄 압축이 가능해져 확장 가능한 데이터 관리와 워크플로 효율성을 높일 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **레거시 워크북 최적화**  
+
+  &nbsp; 공식이나 데이터 무결성에 영향을 주지 않고 XLS 파일 크기를 줄입니다.
+
+
+
+* **보다 빠른 공유**  
+
+  &nbsp; 더 작은 XLS 파일은 이메일 및 클라우드 배포 속도를 향상시킵니다.
+
+
+
+* **보관 효율성**  
+
+  &nbsp; 자동화된 압축은 레거시 엑셀 파일의 장기 보관을 간소화합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 XLS 압축**  
+
+  &nbsp; Python 스크립트를 사용하여 여러 XLS 파일을 한 번에 압축할 수 있습니다.
+
+
+
+* **워크플로 시스템 통합**  
+
+  &nbsp; 압축된 XLS 파일을 자동화된 파이프라인이나 문서 관리 시스템에 로드할 수 있습니다.
+
+
+
+* **조건부 압축**  
+
+  &nbsp; 대량 데이터나 포함된 미디어가 있는 XLS 파일을 대상으로 압축합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

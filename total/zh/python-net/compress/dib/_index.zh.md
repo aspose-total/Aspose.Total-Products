@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DIB压缩减小了设备无关位图文件的大小，这些文件存储像素数据而不带有硬件特定的格式。这些图像通常很大，因为它们保留了原始未压缩的位图数据，使压缩在现代工作流程中的高效存储和处理中至关重要。
+
+
+
+Python API使得自动化DIB优化、最小化文件大小以及将这些位图转换为更压缩的格式成为可能，从而提高成像流水线和数字资产系统的可伸缩性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **传统位图优化**  
+
+&nbsp; 压缩来自旧成像软件或系统的大型DIB文件。
+
+
+
+* **存储效率**  
+
+&nbsp; 大幅减少具有大量位图存储库的组织的磁盘使用量。
+
+
+
+* **更快的传输和上传**  
+
+&nbsp; 允许更快地在网络或云平台上共享大型图像文件。
+
+
+
+* **图像归档**  
+
+&nbsp; 帮助保持轻量级存档，而不会损害基本像素数据。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量DIB压缩**  
+
+&nbsp; 一次自动减小数百或数千个位图文件的大小。
+
+
+
+* **自动转换为现代格式**  
+
+&nbsp; 使用智能压缩规则将DIB转换为PNG、JPEG或WebP。
+
+
+
+* **实时上传优化**  
+
+&nbsp; DIB文件可以在摄像平台摄入时自动压缩。
+
+
+
+* **分辨率感知压缩**  
+
+&nbsp; 根据像素尺寸或颜色深度调整压缩强度的自动化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

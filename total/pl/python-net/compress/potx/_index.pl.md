@@ -101,7 +101,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX (nowoczesne szablony PowerPoint) korzystają z kompresji w celu zmniejszenia rozmiaru i poprawy efektywności udostępniania, jednocześnie zachowując wszystkie elementy formatowania i projektowania.
+
+
+
+Interfejsy API Pythona umożliwiają zautomatyzowaną kompresję POTX, poprawiając skalowalność przepływu pracy i zarządzanie szablonami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Optymalizacja przechowywania szablonów**  
+
+&nbsp; Kompresja szablonów POTX przy zachowaniu treści i projektu slajdów.
+
+
+
+* **Szybkie udostępnianie szablonów**  
+
+&nbsp; Mniejsze pliki umożliwiają szybkie dystrybuowanie między zespołami i platformami chmurowymi.
+
+
+
+* **Zautomatyzowane archiwizowanie**  
+
+&nbsp; Kompresja ułatwia zarządzanie przechowywaniem szablonów na dłuższą metę.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Kompresja zbiorcza POTX**  
+
+&nbsp; Skrypty Pythona automatyzują kompresję wielu szablonów.
+
+
+
+* **Integracja z systemami przepływu pracy**  
+
+&nbsp; Skompresowane szablony mogą być dynamicznie ładowane do zautomatyzowanych potoków pracy.
+
+
+
+* **Inteligentna kompresja**  
+
+&nbsp; Automatyzacja warunkowa kieruje się na duże lub zawierające dużo mediów szablony.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

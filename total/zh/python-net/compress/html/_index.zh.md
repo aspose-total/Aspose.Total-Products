@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+HTML压缩通过缩小代码、删除空格、注释和冗余标签来减小文件大小。压缩的HTML可以提高网站加载速度，减少带宽使用量，并增强Web应用程序性能。
+
+
+
+Python API可实现自动化HTML压缩、批处理处理，并与Web部署流水线集成，以便对网站和应用程序进行可扩展的优化。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **网页优化**  
+
+&nbsp; 更小的HTML文件可以提高页面加载速度和响应能力。
+
+
+
+* **静态站点生成**  
+
+&nbsp; 压缩的HTML可以加速站点构建和部署过程。
+
+
+
+* **数字资产管理**  
+
+&nbsp; 压缩的HTML可以减少大型Web存储库的存储需求。
+
+
+
+* **跨平台交付**  
+
+&nbsp; 优化的HTML可以提高跨设备和浏览器的渲染性能。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量HTML压缩**  
+
+&nbsp; 自动压缩多个HTML文件。
+
+
+
+* **删除空格和注释**  
+
+&nbsp; 在不改变功能的情况下自动清理代码。
+
+
+
+* **流水线集成**  
+
+&nbsp; 在CI/CD或内容摄取工作流程中压缩HTML文件。
+
+
+
+* **动态优化**  
+
+&nbsp; 根据项目或环境要求调整压缩规则。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

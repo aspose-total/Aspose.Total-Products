@@ -100,7 +100,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compression générique des fichiers Word réduit l'utilisation du stockage, accélère les transferts et préserve la mise en forme, la présentation et les médias intégrés, améliorant ainsi l'efficacité du flux de travail.
+
+
+
+La compression basée sur Python permet une optimisation automatisée des documents Word à grande échelle, prenant en charge l'intégration avec les systèmes modernes de gestion de documents.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Optimisation du stockage**  
+
+&nbsp; Réduire les tailles de fichiers Word génériques pour une meilleure utilisation du disque.
+
+
+
+* **Partage et collaboration plus rapides**  
+
+&nbsp; Les fichiers plus petits sont plus faciles à envoyer et à collaborer en équipe.
+
+
+
+* **Efficacité archivistique**  
+
+&nbsp; La compression automatisée aide à gérer de grands référentiels de documents Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Traitement par lots**  
+
+&nbsp; Les scripts Python peuvent compresser automatiquement plusieurs fichiers Word.
+
+
+
+* **Intégration dans le flux de travail**  
+
+&nbsp; Les fichiers compressés peuvent être téléchargés ou synchronisés avec les systèmes de gestion de documents et les services cloud.
+
+
+
+* **Compression dynamique**  
+
+&nbsp; L'automatisation peut compresser sélectivement les fichiers en fonction de leur taille, de leur contenu multimédia ou des règles du projet.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -167,7 +235,7 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

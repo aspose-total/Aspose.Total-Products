@@ -75,7 +75,65 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'annotation TXT enrichit les fichiers texte simple avec des commentaires structurés, des marqueurs et des notes de révision, améliorant la compréhension dans les flux de travail techniques et de documentation. Cela aide à clarifier le contenu sans altérer la simplicité du fichier.
+
+L'automatisation prend en charge le traitement rapide et à grande échelle des fichiers TXT en détectant les modèles, en insérant des annotations et en imposant des notes structurées.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Commentaires techniques**  
+
+&nbsp; Ajouter des notes descriptives pour les fichiers de configuration ou de code.
+
+* **Identification des erreurs**  
+
+&nbsp; Marquer les lignes suspectes ou obsolètes.
+
+* **Balisage pédagogique**  
+
+&nbsp; Insérer des balises de guidage simples.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Annotation basée sur des modèles**  
+
+&nbsp; Détecter et mettre en évidence des structures prédéfinies.
+
+* **Traitement en masse des fichiers**  
+
+&nbsp; Annoter de grandes collections de fichiers TXT de manière programmable.
+
+* **Notes de révision automatisées**  
+
+&nbsp; Insérer des commentaires basés sur des règles à travers les fichiers.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TGA-compressie richt zich op het verkleinen van de omvang van Targa-rasterafbeeldingen met behoud van kleurdiepte en alfakanalen. TGA-bestanden worden vaak gebruikt in gaming, 3D-graphics en visuele effecten, waardoor compressie essentieel is voor efficiënte opslag en snellere verwerking in mediapipelines.
+
+
+
+Python-API's maken geautomatiseerde TGA-compressie, batchverwerking en conversie naar moderne formaten mogelijk, waardoor schaalbare workflows worden ondersteund voor gamedevelopment, animatie en digitale mediaproductie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Optimalisatie van Game-assets**  
+
+&nbsp; Het comprimeren van TGA-bestanden vermindert de opslagvereisten en verbetert de laadtijden in games.
+
+
+
+* **3D Graphics Pipelines**  
+
+&nbsp; Kleinere TGA-bestanden stroomlijnen textuurbeheer en renderworkflows.
+
+
+
+* **Productie van Visuele Effecten**  
+
+&nbsp; Geoptimaliseerde TGA-afbeeldingen helpen bij het efficiënt beheren van grote frame-reeksen.
+
+
+
+* **Archiefopslag**  
+
+&nbsp; Verkleint de bestandsgrootte voor langetermijnopslag van assets met hoge resolutie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Batch TGA-compressie**  
+
+&nbsp; Automatiseer optimalisatie van grote sets TGA-bestanden in bulk.
+
+
+
+* **Behoud van Alfakanaal**  
+
+&nbsp; Behoud transparantie tijdens compressie om de opslagruimte te verkleinen.
+
+
+
+* **Integratie in Pipelines**  
+
+&nbsp; TGA-bestanden kunnen automatisch worden gecomprimeerd bij upload naar assetbeheersystemen.
+
+
+
+* **Compressie op basis van Dynamische Resolutie**  
+
+&nbsp; Pas compressieniveaus aan op basis van afbeeldingsgrootte, resolutie of gebruikssituatie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

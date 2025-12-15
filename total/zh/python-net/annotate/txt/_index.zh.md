@@ -75,7 +75,59 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT注释通过结构化的评论、标记和审阅注释丰富了纯文本文件，提高了技术和文档工作流程中的理解。它有助于澄清内容，而不改变文件的简洁性。  
+
+自动化支持快速、大规模的TXT处理，通过检测模式、插入注释和强制结构化注释。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **技术评论**  
+
+&nbsp; 为配置或代码文件添加描述性注释。
+
+* **错误识别**  
+
+&nbsp; 标记可疑或过时的行。
+
+* **指导性标记**  
+
+&nbsp; 插入简单的指导标签。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **基于模式的注释**  
+
+&nbsp; 检测并突出显示预定义的结构。
+
+* **批量文件处理**  
+
+&nbsp; 以程序方式注释大型TXT集合。
+
+* **自动化审阅注释**  
+
+&nbsp; 在文件中插入基于规则的评论。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

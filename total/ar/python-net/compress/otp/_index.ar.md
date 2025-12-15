@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ضغط OTP يقلل من حجم ملفات قوالب OpenDocument المستخدمة لمستندات النص. تحسين OTP يعزز كفاءة التخزين وتوزيع أسرع وأداء سير العمل لإنشاء المستندات القائمة على القوالب.
+
+
+
+واجهات برمجة التطبيقات في Python تمكّن من ضغط OTP تلقائيًا، ومعالجة دفعية، وإدارة القوالب لسير العمل القائم على الوثائق القابل للتوسيع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين القالب**  
+
+&nbsp; تقليل حجم المكتبة الكبيرة للقوالب.
+
+
+
+* **المشاركة والتعاون الأسرع**  
+
+&nbsp; تنتقل ملفات OTP الصغيرة بسرعة عبر الفرق والشبكات.
+
+
+
+* **كفاءة سير العمل**  
+
+&nbsp; تحسين القوالب المضغوطة يعزز سرعة التحميل والتحرير.
+
+
+
+* **الأرشفة والنسخ الاحتياطي**  
+
+&nbsp; تخزين فعال للاحتفاظ بالملفات القالبية على المدى الطويل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط OTP الدفعي**  
+
+&nbsp; أتمتة تقليل الحجم لعدة قوالب.
+
+
+
+* **تحسين المحتوى والوسائط**  
+
+&nbsp; ضغط الصور المضمنة أو الأنماط تلقائيًا.
+
+
+
+* **الاندماج في خطوط الوثائق**  
+
+&nbsp; ضغط ملفات OTP أثناء نشر القوالب التلقائي أو التخزين.
+
+
+
+* **قواعد الضغط الديناميكية**  
+
+&nbsp; ضبط التحسين بناءً على تعقيد القالب أو كثافة المحتوى.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

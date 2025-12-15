@@ -43,9 +43,79 @@ informat: DOTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTX — `.dotx`은 안전한 템플릿 배포와 결정론적 문서 생성에 이상적인 매크로 없는 템플릿(OOXML)입니다. Python API를 사용하여 스타일, 콘텐츠 컨트롤 및 콘텐츠 자리 표시자가 있는 DOTX 템플릿을 생성할 수 있어 자동화된 시스템을 위한 견고하고 매크로 없는 템플릿을 제공합니다.
+
+
+
+DOTX는 보안상의 이유로 매크로를 허용하지 않지만 일관된 템플릿 및 동적 콘텐츠 삽입이 필요한 환경에 적합합니다. 자동화를 통해 안전하고 확장 가능한 템플릿 및 DOCX 인스턴스의 하류 생성이 가능하며 실행 가능한 코드를 포함하지 않습니다.
+
+프로그래밍 방식의 템플릿 생성은 스키마 기반의 자리 표시자, 콘텐츠 컨트롤 및 템플릿 유효성 검사를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **안전한 템플릿 전달**
+
+  &nbsp; 안전한 환경에서 널리 배포하기 위한 매크로 없는 DOTX 템플릿 생성.
+
+
+
+* **양식 및 콘텐츠 제어 템플릿**
+
+  &nbsp; 하류 자동화를 위해 콘텐츠 컨트롤이 있는 DOTX 템플릿 작성.
+
+
+
+* **템플릿 기반 문서 조립**
+
+  &nbsp; DOTX 템플릿을 프로그래밍 방식으로 문서 생성의 권위적 원천으로 사용.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **안전한 템플릿 파이프라인**
+
+  &nbsp; DOTX 생성을 자동화하고 매크로 포함을 방지하는 정책을 시행합니다.
+
+
+
+* **템플릿 유효성 검사 작업**
+
+  &nbsp; 자리 표시자와 스타일이 스키마 기대치와 일치하는지 확인하기 위해 자동화된 검사를 실행합니다.
+
+
+
+* **API 기반 템플릿 사용**
+
+  &nbsp; 내부 API를 통해 DOTX 템플릿을 제공하여 필요 시 DOCX 생성을 지원합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

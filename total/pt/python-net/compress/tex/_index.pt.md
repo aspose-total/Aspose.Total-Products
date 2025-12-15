@@ -78,7 +78,87 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/zip
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A compressão TEX reduz o tamanho dos arquivos de origem LaTeX, que frequentemente contêm marcação repetitiva, comentários ou comandos de formatação. A otimização de arquivos TEX melhora a eficiência de armazenamento, a compilação mais rápida e a colaboração aprimorada em fluxos de trabalho acadêmicos, de publicação e científicos.
+
+
+
+As APIs do Python permitem a compressão automatizada de TEX, processamento em lote e integração com pipelines de geração de documentos para fluxos de trabalho escaláveis em LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Documentos Acadêmicos e de Pesquisa**  
+
+&nbsp; Reduza o tamanho das fontes LaTeX para artigos extensos, teses e dissertações.
+
+
+
+* **Fluxos de Trabalho de Publicação**  
+
+&nbsp; Arquivos TEX comprimidos simplificam os processos de compilação e distribuição.
+
+
+
+* **Controle de Versão e Colaboração**  
+
+&nbsp; Arquivos menores melhoram a eficiência em repositórios e edição colaborativa.
+
+
+
+* **Arquivamento e Backup**  
+
+&nbsp; Arquivos TEX otimizados reduzem o armazenamento de conteúdo acadêmico histórico.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de TEX**  
+
+&nbsp; Automatize a redução de tamanho para vários arquivos LaTeX.
+
+
+
+* **Remoção de Comentários e Redundâncias**  
+
+&nbsp; Remova automaticamente marcações desnecessárias ou comandos repetidos.
+
+
+
+* **Integração de Fluxo de Trabalho**  
+
+&nbsp; Comprima arquivos TEX ao serem enviados para sistemas automatizados de compilação ou publicação.
+
+
+
+* **Conversão + Compressão**  
+
+&nbsp; Converta TEX para PDF ou outros formatos aplicando regras de compressão.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

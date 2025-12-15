@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi ODG mengoptimalkan file Grafik OpenDocument, mengurangi ukuran sambil mempertahankan kualitas vektor, lapisan, dan objek yang disematkan. File ODG yang terkompresi meningkatkan efisiensi penyimpanan dan kinerja dalam alur kerja desain dan diagram.
+
+
+
+API Python memungkinkan kompresi ODG otomatis, pemrosesan batch, dan konversi ke format lain, mendukung manajemen grafis yang dapat diskalakan di lingkungan kantor, pendidikan, dan penerbitan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Penyimpanan Diagram \& Vektor**  
+
+&nbsp; Kompres file ODG untuk mengurangi penggunaan ruang disk.
+
+
+
+* **Kolaborasi \& Berbagi**  
+
+&nbsp; File yang lebih kecil mentransmisikan lebih cepat di antara tim dan platform.
+
+
+
+* **Arsip Digital**  
+
+&nbsp; Penyimpanan efisien diagram dan grafik vektor dari waktu ke waktu.
+
+
+
+* **Optimisasi Alur Kerja**  
+
+&nbsp; File ODG yang terkompresi meningkatkan kecepatan rendering dalam aplikasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi Batch ODG**  
+
+&nbsp; Otomatisasi pengurangan ukuran untuk beberapa file grafis.
+
+
+
+* **Optimisasi Lapisan \& Objek**  
+
+&nbsp; Hapus elemen yang tidak terpakai dan kompres objek yang disematkan secara otomatis.
+
+
+
+* **Integrasi ke Pipa Kerja Kantor**  
+
+&nbsp; Kompres file ODG saat mengunggah atau kontrol versi.
+
+
+
+* **Tingkat Kompresi Dinamis**  
+
+&nbsp; Sesuaikan optimisasi berdasarkan kompleksitas file dan kasus penggunaan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

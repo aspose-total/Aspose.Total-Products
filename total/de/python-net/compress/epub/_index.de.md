@@ -78,7 +78,41 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## EPUB-Komprimierung
+
+EPUB-Komprimierung reduziert die Größe von eBook-Dateien, die Text, Bilder, Styles und Metadaten enthalten. Komprimierte EPUBs verbessern die Download-Geschwindigkeit, die Speichereffizienz und die Kompatibilität mit eReaders und digitalen Bibliotheken.
+
+Python-APIs ermöglichen automatisierte EPUB-Komprimierung, Stapelverarbeitung und Optimierung für eine skalierbare Verwaltung von eBooks und digitalen Publikationen.
+
+## Schlüsselanwendungsfälle
+
+- **eBook-Verteilung**
+  - Kleinere EPUB-Dateien ermöglichen schnellere Downloads und einfacheres Teilen.
+
+- **Verwaltung digitaler Bibliotheken**
+  - Komprimierte EPUBs reduzieren den Speicherbedarf für große Sammlungen.
+
+- **Inhaltsbereitstellung für mehrere Geräte**
+  - Optimierte Dateien gewährleisten ein reibungsloses Leseerlebnis auf eReaders und Apps.
+
+- **Archivierung und Backup**
+  - Effiziente Speicherung großer Mengen von eBooks.
+
+## Automatisierungsszenarien
+
+- **Stapel-EPUB-Komprimierung**
+  - Automatisierung der Optimierung mehrerer eBook-Dateien auf einmal.
+
+- **Bild- und Textoptimierung**
+  - Reduzierung der Größe von eingebetteten Bildern und Entfernung redundanter Metadaten.
+
+- **Workflow-Integration**
+  - Automatische Komprimierung von EPUBs während des Hochladens in digitale Bibliotheken oder Plattformen.
+
+- **Dynamische Qualitätsanpassung**
+  - Ausbalancierung von Bildqualität und Dateigröße basierend auf Gerät oder Plattform.
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +179,7 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

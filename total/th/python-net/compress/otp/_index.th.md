@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การบีเอ็มพีบีบอัดช่วยลดขนาดของไฟล์เทมเพลต OpenDocument ที่ใช้สำหรับเอกสารข้อความ การปรับปรุง OTP ช่วยเพิ่มประสิทธิภาพในการจัดเก็บ การกระจายข้อมูลเร็วขึ้น และประสิทธิภาพของเวิร์กโฟลว์สำหรับการสร้างเอกสารที่ใช้เทมเพลต
+
+
+
+Python APIs ช่วยให้การบีเอ็มพีอัตโนมัติบีบอัด OTP การประมวลผลเป็นชุด และการจัดการเทมเพลตสำหรับเวิร์กโฟลว์การอัตโนมัติเอกสารที่มีขนาดใหญ่
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การปรับปรุงเทมเพลต**  
+
+&nbsp; ลดพื้นที่จัดเก็บสำหรับไลบรารีเทมเพลตขนาดใหญ่
+
+
+
+* **การแบ่งปันและร่วมมือ**  
+
+&nbsp; ไฟล์ OTP ขนาดเล็กส่งผ่านทีมและเครือข่ายได้อย่างรวดเร็ว
+
+
+
+* **ประสิทธิภาพของเวิร์กโฟลว์**  
+
+&nbsp; เทมเพลตที่บีบอัดช่วยเพิ่มความเร็วในการโหลดและแก้ไข
+
+
+
+* **การเก็บถาวรและสำรองข้อมูล**  
+
+&nbsp; การจัดเก็บอย่างมีประสิทธิภาพสำหรับการรักษาไฟล์เทมเพลตในระยะยาว
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การบีเอ็มพีบีบอัดชุด**  
+
+&nbsp; ทำให้การลดขนาดเป็นไปอัตโนมัติสำหรับเทมเพลตหลายรายการ
+
+
+
+* **การปรับปรุงเนื้อหาและสื่อ**  
+
+&nbsp; บีเอ็มพีบีบอัดภาพหรือสไตล์ที่ฝังอัตโนมัติ
+
+
+
+* **การรวมเข้ากับกระบวนการเอกสาร**  
+
+&nbsp; ไฟล์ OTP ถูกบีบอัดขณะการใช้งานเทมเพลตอัตโนมัติหรือการจัดเก็บ
+
+
+
+* **กฎการบีเอ็มพีบีบอัดแบบไดนามิก**  
+
+&nbsp; ปรับการปรับปรุงตามความซับซ้อนของเทมเพลตหรือความหนาแน่นของเนื้อหา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi MOBI mengoptimalkan file eBook yang kompatibel dengan Kindle, mengurangi jejak penyimpanan dan meningkatkan kecepatan unduhan. File MOBI yang terkompresi tetap mempertahankan struktur konten dan kemudahan dibaca untuk meningkatkan kinerja eReader.
+
+
+
+API Python memungkinkan otomatisasi kompresi MOBI, pemrosesan batch, dan optimisasi metadata untuk alur kerja manajemen dan pengiriman eBook yang dapat diskalakan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Distribusi eBook Kindle**  
+
+  &nbsp; File MOBI yang lebih kecil memungkinkan unduhan lebih cepat dan pengalaman membaca yang lancar.
+
+
+
+* **Optimisasi Perpustakaan Digital**  
+
+  &nbsp; MOBI yang terkompresi mengurangi penyimpanan untuk koleksi eBook besar.
+
+
+
+* **Berbagi Konten & Arsip**  
+
+  &nbsp; File yang efisien menyederhanakan distribusi dan pencadangan publikasi digital.
+
+
+
+* **Kompatibilitas Perangkat**  
+
+  &nbsp; MOBI yang dioptimalkan memastikan tampilan yang mulus di perangkat dan aplikasi Kindle.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi MOBI Batch**  
+
+  &nbsp; Otomatisasi optimisasi untuk beberapa eBook Kindle secara bersamaan.
+
+
+
+* **Optimisasi Metadata & Gambar**  
+
+  &nbsp; Hapus metadata yang redundan dan kompres gambar yang disematkan secara otomatis.
+
+
+
+* **Integrasi Alur Kerja**  
+
+  &nbsp; Kompresi file MOBI selama pemasukan eBook ke dalam platform atau perpustakaan.
+
+
+
+* **Tingkat Kompresi Dinamis**  
+
+  &nbsp; Sesuaikan ukuran file dan kualitas berdasarkan jenis konten dan persyaratan perangkat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

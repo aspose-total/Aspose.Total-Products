@@ -98,7 +98,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX הוא פורמט Word המודרני, המשמש בצורה נרחבת למסמכים מקצועיים. דחיסה מפחיתה את אחסון הקבצים ומשפרת את מהירות ההעברה תוך שמירה על העיצוב והאובייקטים המוטמעים.
+
+
+
+API של Python יכולים לאוטומטיזציה של דחיסת קבצי DOCX, מאפשרים זרימות עבודה במסמכים יעילות וקידומן של אינטגרציה עם מערכות ענן.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **אחסון מותאם**  
+
+&nbsp; להפחתת גודל קבצי DOCX תוך שמירה על תוכן ועיצוב.
+
+
+
+* **שיתוף פעולה מהיר**  
+
+&nbsp; קבצים קטנים מקלים על שיתוף בין צוותים ופלטפורמות.
+
+
+
+* **יעילות בארכיבה**  
+
+&nbsp; דחיסה אוטומטית עוזרת בניהול מאגרי מסמכים גדולים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **דחיסת קבצי DOCX בצורה צפופה**  
+
+&nbsp; סקריפטים של Python יכולים לדחוס מספר קבצי DOCX בהפעלה אחת.
+
+
+
+* **אינטגרציה עם מערכות ניהול מסמכים**  
+
+&nbsp; קבצי DOCX דחוסים יכולים להיות אחסונים ומשובצים בצורה יעילה.
+
+
+
+* **דחיסה חכמה**  
+
+&nbsp; האוטומציה יכולה לפתוח קבצים עם תוכן מדיה גבוה או גודל גדול.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

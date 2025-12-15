@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+OTP sıkıştırması, metin belgeleri için kullanılan OpenDocument Şablon dosyalarının boyutunu azaltır. OTP'nin optimize edilmesi, şablon tabanlı belge oluşturma için depolama verimliliğini, daha hızlı dağıtımı ve iş akışı performansını artırır.
+
+
+
+Python API'leri, ölçeklenebilir belge otomasyon iş akışları için otomatik OTP sıkıştırma, toplu işleme ve şablon yönetimini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Şablon Optimizasyonu**  
+
+&nbsp; Büyük şablon kütüphaneleri için depolama alanını azaltın.
+
+
+
+* **Daha Hızlı Paylaşım ve İş Birliği**  
+
+&nbsp; Daha küçük OTP dosyaları hızlı bir şekilde ekipler ve ağlar arasında iletilir.
+
+
+
+* **İş Akışı Verimliliği**  
+
+&nbsp; Sıkıştırılmış şablonlar yükleme ve düzenleme hızını artırır.
+
+
+
+* **Arşivleme ve Yedekleme**  
+
+&nbsp; Uzun vadeli şablon dosyalarının verimli depolanması.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu OTP Sıkıştırma**  
+
+&nbsp; Birden fazla şablon için boyut azaltmayı otomatikleştirin.
+
+
+
+* **İçerik ve Medya Optimizasyonu**  
+
+&nbsp; Gömülü resimleri veya stilleri otomatik olarak sıkıştırın.
+
+
+
+* **Belge Akışlarına Entegrasyon**  
+
+&nbsp; OTP dosyaları otomatik şablon dağıtımı veya depolama sırasında sıkıştırılır.
+
+
+
+* **Dinamik Sıkıştırma Kuralları**  
+
+&nbsp; Şablon karmaşıklığına veya içerik yoğunluğuna bağlı olarak optimizasyonu ayarlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

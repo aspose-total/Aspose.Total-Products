@@ -100,7 +100,99 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+이미지 형식 압축은 저장 용량을 줄이고 로딩 속도를 향상시키며 디지털 플랫폼 간의 원활한 전달을 보장하는 데 중요한 역할을 합니다. 사용되는 래스터 및 벡터 형식의 다양성을 고려할 때 효과적인 압축은 그래픽 워크플로, 웹 애플리케이션, 의료 이미징 및 멀티미디어 시스템의 성능을 향상시킵니다.
+
+
+
+Python API를 사용하면 다양한 이미지 형식의 자동 압축, 최적화 및 변환이 가능해져 미디어 파이프라인, 콘텐츠 처리 시스템 및 대용량 이미지 저장소에 확장 가능한 워크플로를 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **웹 및 앱 성능 최적화**  
+
+&nbsp; 이미지 압축은 페이지 로딩 시간을 단축하고 다양한 기기에서 사용자 경험을 향상시킵니다.
+
+
+
+* **그래픽 자산 관리**  
+
+&nbsp; 시각적 품질을 잃지 않으면서 파일 크기가 작아지는 것으로 디자이너 및 콘텐츠 팀이 혜택을 봅니다.
+
+
+
+* **대규모 이미지 저장소**  
+
+&nbsp; 자동 압축은 기업 시스템의 효율적인 저장 및 빠른 검색을 보장합니다.
+
+
+
+* **의료 및 과학 이미징**  
+
+&nbsp; DICOM 및 고해상도 형식은 중요한 세부 정보를 보존하면서 효율적인 아카이빙이 가능합니다.
+
+
+
+* **크로스 플랫폼 미디어 전달**  
+
+&nbsp; 압축은 클라우드 시스템, 모바일 앱 및 API에 최적화된 이미지를 제공하는 데 도움이 됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 이미지 압축**  
+
+&nbsp; Python 스크립트를 사용하여 수천 개의 이미지를 한 번에 최적화할 수 있습니다.
+
+
+
+* **동적 품질 조정**  
+
+&nbsp; 워크플로는 파일 크기, 해상도 또는 사용 상황에 따라 자동으로 압축할 수 있습니다.
+
+
+
+* **파이프라인에서 실시간 최적화**  
+
+&nbsp; 앱이나 API를 통해 업로드된 이미지는 저장 전에 즉시 압축될 수 있습니다.
+
+
+
+* **자동 형식 변환 + 압축**  
+
+&nbsp; BMP → PNG → WebP와 같은 형식을 변환하면서 한 번에 압축을 적용할 수 있습니다.
+
+
+
+* **AI-향상 압축 규칙**  
+
+&nbsp; 지능적인 워크플로는 이미지 콘텐츠를 기반으로 최적의 압축 수준을 선택할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

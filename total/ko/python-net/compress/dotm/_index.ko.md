@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM 파일은 매크로가 활성화된 템플릿입니다. 압축은 저장 공간을 줄이면서 매크로 기능을 보존하여 효율적인 템플릿 배포를 가능하게 합니다.
+
+
+
+파이썬 API는 자동화된 DOTM 압축을 지원하여 기업 및 협업 환경에서 무결성을 유지합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **매크로 템플릿 보존**  
+
+&nbsp; 매크로를 손상시키지 않고 DOTM 파일을 안전하게 압축합니다.
+
+
+
+* **빠른 템플릿 배포**  
+
+&nbsp; 더 작은 파일은 팀 및 시스템 간에 쉽게 공유할 수 있습니다.
+
+
+
+* **템플릿 아카이빙**  
+
+&nbsp; 자동화된 압축으로 장기 저장 효율성을 보장합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 DOTM 압축**  
+
+&nbsp; 파이썬 스크립트를 사용하여 여러 매크로가 활성화된 템플릿을 자동으로 처리할 수 있습니다.
+
+
+
+* **워크플로 통합**  
+
+&nbsp; 압축된 템플릿은 자동 문서 생성 시스템에서 활용할 수 있습니다.
+
+
+
+* **조건부 압축**  
+
+&nbsp; 크기, 내용 또는 매크로 복잡성에 따라 자동화합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

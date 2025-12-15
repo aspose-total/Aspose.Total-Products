@@ -75,7 +75,65 @@ DOTM 주석 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total for P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM 주석은 매크로가 활성화된 워드 템플릿을 대상으로 하며, 포함된 스크립트와 템플릿 로직을 명확히 문서화하여 자동화된 기능 주변의 투명성을 유지하고 팀 간 일관된 사용을 보장합니다.  
+
+자동화된 DOTM 주석을 통해 시스템이 매크로를 스캔하고 노트를 업데이트하며 규모에 맞게 템플릿 규칙을 강제할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **매크로 동작 노트**  
+
+&nbsp; 포함된 스크립트가 어떻게 작동하는지 설명합니다.
+
+* **템플릿 가이드라인**  
+
+&nbsp; 매크로의 적절한 사용 방법에 대해 사용자를 안내합니다.
+
+* **로직 추적**  
+
+&nbsp; 매크로로 트리거된 섹션을 표시합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **매크로 발견 도구**  
+
+&nbsp; 감지된 스크립트에 대해 자동으로 주석을 삽입합니다.
+
+* **워크플로 기반 템플릿 업데이트**  
+
+&nbsp; 동적으로 노트를 추가하거나 수정합니다.
+
+* **품질 보증 마크업**  
+
+&nbsp; 위험하거나 오래된 매크로 로직을 표시합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

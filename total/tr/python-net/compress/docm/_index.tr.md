@@ -100,7 +100,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM dosyaları, makrolar içerdiğinden sıkıştırma ile depolamayı optimize ederken makro işlevselliğini ve biçimlendirmeyi korur.
+
+
+
+Python API'leri kullanarak otomatik DOCM sıkıştırma, makroların bozulmadan kalmasını sağlar ve otomatik iş akışlarında belge işleme sürecini hızlandırır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Makro Güvenli Depolama**  
+
+  &nbsp; Gömülü makroları bozmadan DOCM dosyalarını sıkıştırın.
+
+
+
+* **Daha Hızlı Dosya Paylaşımı**  
+
+  &nbsp; Daha küçük boyutlar hızlı e-posta ekleri ve bulut yüklemelerini sağlar.
+
+
+
+* **Arşiv Yönetimi**  
+
+  &nbsp; Otomatik sıkıştırma, makro özellikli belgelerin uzun vadeli depolanmasına yardımcı olur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu Makro Belge Sıkıştırma**  
+
+  &nbsp; İşlevselliği koruyarak birden fazla DOCM dosyasının işlenmesini otomatikleştirin.
+
+
+
+* **Ofis Otomasyonu ile Entegrasyon**  
+
+  &nbsp; Sıkıştırılmış dosyalar iş akış sistemlerinde veya DMS çözümlerinde yönetilebilir.
+
+
+
+* **Koşullu Makro Sıkıştırma**  
+
+  &nbsp; Python betikleri boyuta veya içeriğe göre DOCM dosyalarını seçmeli olarak sıkıştırabilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

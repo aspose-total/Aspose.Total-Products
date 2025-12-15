@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PCL（Printer Command Language）压缩通过减小文件大小同时保持打印保真度来优化打印就绪文档。压缩的PCL文件提高了存储效率，加快了传输速度，并提升了打印工作流程的性能。
+
+
+
+Python API实现自动化PCL压缩、批处理和转换，用于可扩展的打印和文档管理流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **打印作业优化**  
+
+&nbsp; 较小的PCL文件减少了排队时间，提高了打印速度。
+
+
+
+* **存档与存储**  
+
+&nbsp; 压缩的PCL文件节省了大型打印作业存档的存储空间。
+
+
+
+* **分发打印就绪文档**  
+
+&nbsp; 优化后的文件在网络或打印服务器上传输更快。
+
+
+
+* **工作流效率**  
+
+&nbsp; 提升了自动化打印系统的性能。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量PCL压缩**  
+
+&nbsp; 自动优化多个打印文件。
+
+
+
+* **嵌入式资源优化**  
+
+&nbsp; 自动压缩PCL文件中的字体、图像和图形。
+
+
+
+* **与打印流程集成**  
+
+&nbsp; 在打印或存档之前动态压缩PCL文件。
+
+
+
+* **动态压缩规则**  
+
+&nbsp; 根据文档复杂性或内容类型调整优化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

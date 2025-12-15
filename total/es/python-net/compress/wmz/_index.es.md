@@ -78,7 +78,21 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```html
+<h2>¡Bienvenido a nuestra tienda en línea!</h2>
+
+<p>Estamos emocionados de presentarte nuestra amplia selección de productos de alta calidad. ¡Descubre nuestras ofertas especiales y encuentra justo lo que necesitas!</p>
+
+<h3>Características principales:</h3>
+
+<ul>
+  <li>Productos duraderos y confiables</li>
+  <li>Envío rápido y seguro</li>
+  <li>Atención al cliente excepcional</li>
+</ul>
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

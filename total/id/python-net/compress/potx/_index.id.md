@@ -101,7 +101,69 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX (templat PowerPoint modern) mendapatkan manfaat dari kompresi untuk mengurangi ukuran dan meningkatkan efisiensi berbagi sambil mempertahankan semua elemen format dan desain.
+
+
+
+API Python memungkinkan kompresi POTX otomatis, meningkatkan skalabilitas alur kerja dan manajemen template.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Penyimpanan Template**  
+  Compress template POTX sambil mempertahankan konten dan desain slide.
+
+
+
+* **Berbagi Template Cepat**  
+  File yang lebih kecil memungkinkan distribusi cepat di antara tim dan platform cloud.
+
+
+
+* **Arsip Otomatis**  
+  Kompresi menyederhanakan manajemen penyimpanan template jangka panjang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi Batch POTX**  
+  Skrip Python mengotomatisasi kompresi beberapa template.
+
+
+
+* **Integrasi dengan Sistem Alur Kerja**  
+  Template yang terkompresi dapat dimuat secara dinamis ke dalam pipa kerja otomatis.
+
+
+
+* **Kompresi Cerdas**  
+  Otomatisasi bersyarat menargetkan template besar atau berat media.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,87 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Ogólna kompresja OBRAZU odnosi się do optymalizacji plików obrazów opartych na rastrach w celu zmniejszenia rozmiaru pliku przy zachowaniu jakości wizualnej. To podejście jest istotne dla efektywności przechowywania, szybszego transferu i płynnego renderowania na platformach cyfrowych, aplikacjach i potokach treści.
+
+
+
+Interfejsy Pythona umożliwiają zautomatyzowaną kompresję OBRAZU, przetwarzanie wsadowe i konwersję formatu, wspierając skalowalne przepływy pracy dla zarządzania mediami, dostarczania treści internetowych i repozytoriów opartych na chmurze.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Wydajność witryn internetowych i aplikacji**  
+
+&nbsp; Skompresowane obrazy ładowane są szybciej, zmniejszając zużycie przepustowości i poprawiając doświadczenie użytkownika.
+
+
+
+* **Zarządzanie zasobami cyfrowymi**  
+
+&nbsp; Zoptymalizowane obrazy są łatwiejsze do przechowywania, organizowania i odzyskiwania z dużych bibliotek.
+
+
+
+* **Publikowanie treści**  
+
+&nbsp; Utrzymuje jakość obrazu, minimalizując jednocześnie rozmiar pliku dla platform online.
+
+
+
+* **Archiwizacja i tworzenie kopii zapasowych**  
+
+&nbsp; Zmniejsza wymagania dotyczące przechowywania dużych kolekcji obrazów rastrowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Kompresja wsadowa obrazów**  
+
+&nbsp; Skrypty Pythona mogą automatycznie optymalizować setki plików obrazów ogólnych.
+
+
+
+* **Dynamiczny wybór formatu**  
+
+&nbsp; Automatyzacja może konwertować obrazy na optymalny format JPG podczas kompresji.
+
+
+
+* **Integracja przepływu pracy**  
+
+&nbsp; Automatycznie kompresuj obrazy podczas przesyłania ich do systemów zarządzania treścią, DAM lub platform chmurowych.
+
+
+
+* **Kompresja oparta na rozdzielczości**  
+
+&nbsp; Dostosowuje poziomy kompresji dynamicznie w zależności od rozdzielczości obrazu, wymiarów lub zastosowania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Les fichiers XLSB (classeurs Excel binaires) bénéficient de la compression pour réduire la taille du fichier tout en préservant des temps de chargement rapides et des calculs complexes.
+
+
+
+Les API Python permettent la compression automatisée des fichiers XLSB, prenant en charge la gestion de feuilles de calcul à grande échelle et l'intégration avec les flux de travail d'entreprise.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Optimisation des classeurs binaires**  
+
+&nbsp; Compresser les fichiers XLSB sans affecter les performances ou les calculs.
+
+
+
+* **Transferts de fichiers plus rapides**  
+
+&nbsp; Les fichiers XLSB plus petits permettent un partage rapide via e-mail ou cloud.
+
+
+
+* **Archivage efficace**  
+
+&nbsp; La compression automatisée prend en charge le stockage à long terme des classeurs binaires.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Compression en lot des fichiers XLSB**  
+
+&nbsp; Les scripts Python peuvent compresser automatiquement plusieurs fichiers XLSB.
+
+
+
+* **Intégration avec des outils d'analyse et de BI**  
+
+&nbsp; Les fichiers XLSB compressés peuvent être traités de manière transparente dans les flux de travail automatisés.
+
+
+
+* **Compression sélective**  
+
+&nbsp; L'automatisation peut compresser uniquement les fichiers XLSB volumineux ou riches en médias.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

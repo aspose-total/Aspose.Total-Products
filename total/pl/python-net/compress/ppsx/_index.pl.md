@@ -101,7 +101,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pliki PPSX (nowoczesny pokaz PowerPoint) korzystają z kompresji w celu zmniejszenia miejsca na dysku i szybszego udostępniania, zachowując treść slajdów, animacje i osadzone media.
+
+
+
+Interfejsy API Pythona umożliwiają zautomatyzowaną kompresję PPSX, poprawiając pracę z prezentacjami i skalowalność.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Optymalizacja miejsca na dysku**  
+
+&nbsp; Kompresuj pliki PPSX bez wpływu na slajdy ani animacje.
+
+
+
+* **Szybsza współpraca**  
+
+&nbsp; Mniejsze pliki umożliwiają szybkie udostępnianie między zespołami i platformami.
+
+
+
+* **Efektywność archiwizacji**  
+
+&nbsp; Zautomatyzowana kompresja zapewnia długoterminowe przechowywanie plików pokazów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Kompresja wsadowa PPSX**  
+
+&nbsp; Skrypty Pythona mogą automatycznie kompresować wiele plików PPSX.
+
+
+
+* **Integracja z systemami przepływu pracy i chmury**  
+
+&nbsp; Skompresowane pliki PPSX mogą być dynamicznie przetwarzane w zautomatyzowanych przepływach pracy.
+
+
+
+* **Inteligentne reguły kompresji**  
+
+&nbsp; Automatyzacja warunkowa kieruje się plikami z mediami o wysokiej rozdzielczości.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

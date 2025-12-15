@@ -100,7 +100,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Imaging for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén APNG tập trung vào việc giảm kích thước của các tệp PNG động trong khi bảo tồn chất lượng khung và phát lại mượt mà. Vì APNG hỗ trợ tính năng không mất dữ liệu và nhiều khung hình, việc tối ưu hóa các tệp này quan trọng để tải nhanh hơn, sử dụng băng thông ít hơn và cải thiện hiệu suất trong môi trường web và ứng dụng.
+
+
+
+API Python cho phép nén APNG tự động, tối ưu hóa khung và giảm tài nguyên, giúp tích hợp các hoạt ảnh nhẹ vào quy trình làm việc có thể mở rộng và đường ống nội dung có khối lượng lớn dễ dàng hơn.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Hoạt Ảnh Web**  
+
+&nbsp; Nén các tệp APNG cải thiện thời gian tải trong khi duy trì rõ ràng của hoạt ảnh.
+
+
+
+* **Giao Diện Người Dùng/Trải Nghiệm Người Dùng**  
+
+&nbsp; Các APNG nhẹ giúp giao diện trở nên phản ứng trên các ứng dụng di động và máy tính để bàn.
+
+
+
+* **Đường Ống Đồ Họa Trò Chơi và Ứng Dụng**  
+
+&nbsp; Các tài nguyên APNG nén giảm độ trễ tải và sử dụng lưu trữ trong môi trường tương tác.
+
+
+
+* **Xuất Bản Nội Dung**  
+
+&nbsp; Giảm kích thước hoạt ảnh đảm bảo việc giao hàng mượt mà trên các blog, nền tảng và hệ thống CMS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén APNG Theo Lô**  
+
+&nbsp; Kịch bản Python có thể tự động nén nhiều APNG động theo lô.
+
+
+
+* **Tối Ưu Hóa Từng Khung**  
+
+&nbsp; Tự động hóa có thể nén lại từng khung hoặc loại bỏ các khung dư thừa.
+
+
+
+* **Nén Tích Hợp Vào Quy Trình Làm Việc**  
+
+&nbsp; Các tệp APNG được tải lên hệ thống có thể được nén tự động trước khi lưu trữ.
+
+
+
+* **Điều Chỉnh Chất Lượng Hoạt Ảnh Động**  
+
+&nbsp; Hệ thống có thể giảm kích thước hoạt ảnh dựa trên độ phân giải, loại thiết bị hoặc giới hạn mạng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

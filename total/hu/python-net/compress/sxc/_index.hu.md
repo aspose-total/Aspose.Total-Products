@@ -78,7 +78,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+SXC (örökség OpenOffice/StarOffice táblázat) fájlok előnyben részesülnek a tömörítésnek a tárolás csökkentése és az egyszerűbb megosztás lehetővé tétele érdekében, miközben megőrzik a képleteket és a formázást.
+
+
+
+A Python API-k lehetővé teszik az SXC automatizált tömörítését a munkafolyamat hatékonyságának fenntartása érdekében az örökségi környezetekben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Örökségi táblázat optimalizálása**  
+
+&nbsp; Csökkentse az SXC fájlok méretét anélkül, hogy érintené a képleteket vagy a tartalmat.
+
+
+
+* **Gyorsabb megosztás**  
+
+&nbsp; A tömörített fájlok javítják a transzfersebességet a hálózatokon és a csapatok között.
+
+
+
+* **Archiválási hatékonyság**  
+
+&nbsp; Az automatizált tömörítés támogatja az örökségi táblázatok hosszú távú tárolását.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Tömeges SXC tömörítés**  
+
+&nbsp; A Python szkriptek automatikusan tömöríthetik a több SXC fájlt.
+
+
+
+* **Integráció DMS vagy Felhő rendszerekkel**  
+
+&nbsp; A tömörített SXC fájlokat hatékonyan feldolgozhatják a munkafolyamatokban.
+
+
+
+* **Feltételes tömörítés**  
+
+&nbsp; Az automatizálás a fájlokra célozhat, méret vagy beágyazott tartalom alapján.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

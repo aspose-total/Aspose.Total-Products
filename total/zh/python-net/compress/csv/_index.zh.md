@@ -78,7 +78,16 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+"""
+
+```zh
+<h2>翻译助手</h2>
+<p>您是专业的翻译助手。按照指示逐字翻译，保留格式。将提供的文本翻译成中文。保留所有HTML标记（如<h2>）不变。保留所有MD标记（如{< blocks/products/pf/agp/feature-section >}）不变。保留Markdown标题（##）不变，只翻译其中的文本。保留项目符号、格式和换行符。保持原始句子结构和换行符不变。仅返回翻译后的文本，不包括任何解释或额外短语。
+```
+
+"""
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -43,9 +43,81 @@ Para um desenvolvedor, quem está tentando criar arquivos RTF via aplicativo Pyt
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF — Rich Text Format (RTF) é um formato de texto multiplataforma suportado por muitos editores; a geração de RTF baseada em Python é útil ao produzir documentos simples estilizados que devem ser aceitos por uma ampla variedade de clientes. O RTF carece dos recursos avançados do OOXML, mas se destaca em texto estilizado portátil, tabelas simples e objetos inline.
+
+
+
+A automação de RTF é apropriada para mala direta, cartas simples com estilo ou sistemas nos quais é necessária máxima compatibilidade. A criação programática pode ser feita por meio de fragmentos de RTF em forma de modelo ou usando bibliotecas que constroem tokens RTF diretamente.
+
+
+
+A automação simplifica as exportações em massa de RTF e os pipelines de conversão que visam consumidores leves ou legados.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Geração de Cartas Multiplataforma**
+
+  Produza documentos RTF para clientes que preferem texto estilizado portátil.
+
+
+
+* **Mala Direta para Documentos Simples**
+
+  Gere cartas personalizadas e avisos em RTF para ampla compatibilidade.
+
+
+
+* **Intercâmbio com Sistemas Não-OOXML**
+
+  Exporte conteúdo para RTF para sistemas que não conseguem analisar DOCX ou Word binário.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Exportações em Massa de RTF**
+
+  Automatize a criação de milhares de arquivos RTF a partir de feeds de dados estruturados.
+
+
+
+* **Pipelines de Recuo de Formato**
+
+  Forneça automaticamente versões RTF quando os consumidores não conseguem lidar com DOCX/DOCM.
+
+
+
+* **Mecanismos de Modelagem Simples**
+
+  Use substituição de token programática em modelos RTF como parte de um fluxo de trabalho automatizado.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

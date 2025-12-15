@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLSファイルの圧縮により、古いExcelワークブックのストレージを削減し、フォーミュラ、チャート、フォーマットを保持しながら共有を加速します。
+
+
+
+Pythonベースの自動化により、XLSファイルの一括圧縮が可能となり、スケーラブルなデータ管理とワークフロー効率が向上します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **レガシーワークブックの最適化**  
+
+&nbsp; フォーミュラやデータの整合性に影響を与えることなくXLSファイルのサイズを削減します。
+
+
+
+* **共有の高速化**  
+
+&nbsp; より小さなXLSファイルは、メールやクラウドでの配布速度を向上させます。
+
+
+
+* **アーカイブ効率**  
+
+&nbsp; 自動圧縮により、古いExcelファイルの長期保存が簡素化されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **一括XLS圧縮**  
+
+&nbsp; Pythonスクリプトを使用して複数のXLSファイルを一括圧縮できます。
+
+
+
+* **ワークフローシステムとの統合**  
+
+&nbsp; 圧縮されたXLSファイルは自動化されたパイプラインやDMSにロードできます。
+
+
+
+* **条件付き圧縮**  
+
+&nbsp; 大規模なデータセットや埋め込みメディアを持つXLSファイルを対象に圧縮します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

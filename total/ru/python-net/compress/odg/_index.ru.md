@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие ODG оптимизирует файлы графики OpenDocument, уменьшая размер и сохраняя качество векторов, слои и встроенные объекты. Сжатые файлы ODG улучшают эффективность хранения и производительность в рабочих процессах дизайна и диаграмм.
+
+
+
+API Python позволяют автоматизировать сжатие ODG, пакетную обработку и преобразование в другие форматы, обеспечивая масштабируемое управление графикой в офисных, образовательных и издательских средах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Хранение диаграмм и векторов**  
+
+&nbsp; Сжатие файлов ODG для уменьшения использования дискового пространства.
+
+
+
+* **Совместная работа и обмен**  
+
+&nbsp; Более маленькие файлы передаются быстрее между командами и платформами.
+
+
+
+* **Цифровое архивирование**  
+
+&nbsp; Эффективное хранение диаграмм и векторной графики со временем.
+
+
+
+* **Оптимизация рабочего процесса**  
+
+&nbsp; Сжатие файлов ODG улучшает скорость визуализации в приложениях.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие ODG**  
+
+&nbsp; Автоматизация уменьшения размера для нескольких графических файлов.
+
+
+
+* **Оптимизация слоев и объектов**  
+
+&nbsp; Удаление неиспользуемых элементов и автоматическое сжатие встроенных объектов.
+
+
+
+* **Интеграция в офисные процессы**  
+
+&nbsp; Сжатие файлов ODG при загрузке или контроле версий.
+
+
+
+* **Динамические уровни сжатия**  
+
+&nbsp; Настройка оптимизации в зависимости от сложности файла и сценария использования.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +225,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

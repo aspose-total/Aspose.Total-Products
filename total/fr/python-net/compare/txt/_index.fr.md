@@ -70,7 +70,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Les points forts de la comparaison de TXT mettent en évidence les changements au niveau des lignes ou des caractères dans les documents texte brut, garantissant une visibilité totale des révisions sans complexités de formatage. C'est essentiel pour les journaux, les scripts et la documentation simple.
+
+
+
+La comparaison automatisée de TXT permet une détection rapide et évolutive des mises à jour sur de grands ensembles de contenus basés sur du texte.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Suivi des différences de fichiers journaux**  
+
+&nbsp; Identifie les nouvelles entrées ou les changements.
+
+
+
+* **Examen de scripts ou de code texte**  
+
+&nbsp; Met en évidence les modifications dans les scripts texte brut.
+
+
+
+* **Contrôle de révision de documents simples**  
+
+&nbsp; Capture efficacement les changements de ligne.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Comparaisons de TXT à haut volume**  
+
+&nbsp; Traite rapidement des milliers de fichiers.
+
+
+
+* **Pipelines de surveillance automatisés**  
+
+&nbsp; Déclenche des workflows lorsque des changements se produisent.
+
+
+
+* **Extraction de différences programmatique**  
+
+&nbsp; Génère des rapports structurés pour les systèmes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DICOM tömörítés célja az orvosi képfájlok optimalizálása, amelyek diagnosztikai képeket, metaadatokat és páciensinformációkat tartalmaznak. Mivel a DICOM fájlok gyakran nagyok a nagy felbontású vizsgálatok miatt, a tömörítés létfontosságú a gyorsabb átvitelhez, az alacsonyabb tárolási költségekhez és az egészségügyi rendszerek hatékony kezeléséhez.
+
+
+
+A Python API-k lehetővé teszik az automatizált DICOM tömörítést, beleértve a veszteségmentes és ellenőrzött veszteséges módszereket is, biztosítva, hogy az orvosi képfeldolgozási folyamatok skálázhatóak, megbízhatóak és megfelelnek a klinikai szabványoknak.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Orvosi Kép Tárolás Optimalizálása**  
+
+&nbsp; A DICOM fájlok tömörítése csökkenti a terhelést a PACS rendszerekben és hosszú távú archívumokban.
+
+
+
+* **Gyorsabb Képátvitel**  
+
+&nbsp; A kisebb fájlok javítják a transzfersebességet a kórházak, képalkotó központok és felhőrendszerek között.
+
+
+
+* **Kutatási és Analitikai Folyamatok**  
+
+&nbsp; A tömörített adatkészletek egyszerűsítik az AI modellképzést és a nagy léptékű orvosi képfeldolgozást.
+
+
+
+* **Távmegfigyelési Folyamatok**  
+
+&nbsp; A tömörítés lehetővé teszi a diagnosztikai vizuális elemek gyorsabb átvitelét a távoli egészségügyi szolgáltatók számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Tömeges Tömörítés Diagnosztikai Képekhez**  
+
+&nbsp; Automatizálja a méretcsökkentést nagy MRI, CT és röntgenkönyvtárak esetén.
+
+
+
+* **Dinamikus Veszteségmentes/Veszteséges Kiválasztás**  
+
+&nbsp; Az automatizálás a modalitástól, felbontástól vagy klinikai követelményektől függően választ tömörítési típust.
+
+
+
+* **Munkafolyamatba Integrált Optimalizálás**  
+
+&nbsp; A DICOM fájlokat tömöríti a PACS, RIS vagy felhőképfeldolgozó rendszerekbe történő beillesztés során.
+
+
+
+* **Metaadatmegőrző Tömörítés**  
+
+&nbsp; Az automatizált folyamatok megőrzik az összes orvosi címkét és azonosítót, miközben csökkentik a fájlméretet.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

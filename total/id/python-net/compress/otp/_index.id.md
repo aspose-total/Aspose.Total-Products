@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi OTP mengurangi ukuran file Template OpenDocument yang digunakan untuk dokumen teks. Mengoptimalkan OTP meningkatkan efisiensi penyimpanan, distribusi yang lebih cepat, dan kinerja alur kerja untuk pembuatan dokumen berbasis template.
+
+
+
+API Python memungkinkan kompresi OTP otomatis, pemrosesan batch, dan manajemen template untuk alur kerja otomatisasi dokumen yang dapat diskalakan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Template**  
+
+&nbsp; Kurangi jejak penyimpanan untuk perpustakaan template besar.
+
+
+
+* **Berbagi \& Kolaborasi Lebih Cepat**  
+
+&nbsp; File OTP yang lebih kecil ditransmisikan dengan cepat di antara tim dan jaringan.
+
+
+
+* **Efisiensi Alur Kerja**  
+
+&nbsp; Template yang terkompresi meningkatkan kecepatan pengunggahan dan pengeditan.
+
+
+
+* **Arsip \& Cadangan**  
+
+&nbsp; Penyimpanan efisien untuk retensi jangka panjang file template.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi OTP Batch**  
+
+&nbsp; Otomatisasi pengurangan ukuran untuk beberapa template.
+
+
+
+* **Optimisasi Konten \& Media**  
+
+&nbsp; Kompresi gambar atau gaya yang disematkan secara otomatis.
+
+
+
+* **Integrasi ke Pipa Dokumen**  
+
+&nbsp; File OTP dikompres selama penyebaran atau penyimpanan template otomatis.
+
+
+
+* **Aturan Kompresi Dinamis**  
+
+&nbsp; Sesuaikan optimisasi berdasarkan kompleksitas template atau kepadatan konten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,65 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'annotation DOT consiste à ajouter des notes structurées et des commentaires aux fichiers de modèle Word, aidant les équipes à standardiser la création de documents tout en maintenant des instructions claires. Cela améliore la convivialité du modèle et garantit une mise en forme cohérente des documents générés.
+
+L'annotation DOT automatisée simplifie la maintenance des modèles, permettant aux systèmes d'appliquer des mises à jour ou des directives de manière dynamique.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Instructions du modèle**  
+
+&nbsp; Ajouter des notes guidant les utilisateurs sur la manière de remplir les sections.
+
+* **Normes de mise en forme**  
+
+&nbsp; Mettre en évidence les règles de structure ou de style requises.
+
+* **Suivi des révisions**  
+
+&nbsp; Marquer les changements apportés aux directives du modèle.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Mises à jour en masse des modèles**  
+
+&nbsp; Insérer automatiquement des instructions fraîches.
+
+* **Scripts de standardisation**  
+
+&nbsp; Annoter automatiquement les sections manquantes ou incorrectes.
+
+* **Vérifications de conformité aux directives**  
+
+&nbsp; Mettre en évidence les écarts par rapport aux politiques du modèle.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

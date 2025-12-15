@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+HTML 압축은 코드를 최소화하고 공백, 주석 및 중복 태그를 제거하여 파일 크기를 줄입니다. 압축된 HTML은 웹 사이트 로드 시간을 개선하고 대역폭 사용량을 줄이며 웹 애플리케이션 성능을 향상시킵니다.
+
+
+
+Python API를 사용하면 자동화된 HTML 최소화, 일괄 처리 및 웹 배포 파이프라인과의 통합이 가능해져 웹 사이트 및 애플리케이션의 확장 가능한 최적화가 가능합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **웹 페이지 최적화**  
+
+&nbsp; 작은 HTML 파일은 페이지 로드 속도와 응답성을 향상시킵니다.
+
+
+
+* **정적 사이트 생성**  
+
+&nbsp; 압축된 HTML은 사이트 빌드 및 배포 프로세스를 가속화합니다.
+
+
+
+* **디지털 자산 관리**  
+
+&nbsp; 최소화된 HTML은 대형 웹 저장소의 저장 요구 사항을 줄입니다.
+
+
+
+* **크로스 플랫폼 전달**  
+
+&nbsp; 최적화된 HTML은 장치 및 브라우저 간 렌더링 성능을 향상시킵니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 HTML 최소화**  
+
+&nbsp; 여러 HTML 파일의 압축을 자동화합니다.
+
+
+
+* **공백 및 주석 제거**  
+
+&nbsp; 기능을 변경하지 않고 코드를 자동으로 정리합니다.
+
+
+
+* **파이프라인 통합**  
+
+&nbsp; CI/CD 또는 콘텐츠 수집 워크플로 중에 HTML 파일을 압축합니다.
+
+
+
+* **동적 최적화**  
+
+&nbsp; 프로젝트 또는 환경 요구 사항에 따라 최소화 규칙을 조정합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

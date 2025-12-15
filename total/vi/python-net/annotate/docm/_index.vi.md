@@ -75,7 +75,65 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chú thích DOCM cho phép thêm ghi chú, làm nổi bật và siêu dữ liệu vào tài liệu Word hỗ trợ macro, hỗ trợ quy trình làm việc yêu cầu kịch bản động hoặc tự động nhúng. Điều này giúp người dùng ghi chú logic, theo dõi thay đổi và duy trì sự rõ ràng về hành vi macro.
+
+Bằng cách chú thích các tệp DOCM theo cách tự động, hệ thống tự động có thể theo dõi việc sử dụng macro, tăng cường tính nhất quán của tài liệu và tối ưu hóa quy trình xác nhận.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tài Liệu Macro**  
+
+&nbsp; Đánh dấu và mô tả các hành động do macro thực hiện trong tài liệu.
+
+* **Theo Dõi Tuân Thủ**  
+
+&nbsp; Thêm ghi chú xác nhận các kịch bản hoặc xác nhận cần thiết.
+
+* **Nhật Ký Thay Đổi**  
+
+&nbsp; Làm nổi bật các cập nhật liên quan đến macro để dễ nhìn thấy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Quét và Chú Thích Macro**  
+
+&nbsp; Tự động chèn bình luận mô tả các chức năng macro phát hiện được.
+
+* **Báo Cáo Tuân Thủ Động**  
+
+&nbsp; Điền thông tin chú thích khi các macro đáp ứng hoặc không đáp ứng các kiểm tra cụ thể.
+
+* **Công Cụ Đánh Giá Dựa Trên Kịch Bản**  
+
+&nbsp; Sử dụng Python để áp dụng chú thích có cấu trúc theo quy mô.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

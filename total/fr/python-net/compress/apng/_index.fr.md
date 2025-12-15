@@ -100,7 +100,87 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compression APNG se concentre sur la réduction de la taille des fichiers PNG animés tout en préservant la qualité des images et la fluidité de la lecture. Étant donné que l'APNG prend en charge des fonctionnalités sans perte et plusieurs images, l'optimisation de ces fichiers est importante pour un chargement plus rapide, une utilisation réduite de la bande passante et des performances améliorées dans les environnements web et applicatifs.
+
+
+
+Les API Python permettent la compression automatisée de l'APNG, l'optimisation des images et la réduction des ressources, facilitant ainsi l'intégration d'animations légères dans des flux de travail évolutifs et des pipelines de contenu à haut volume.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Optimisation des animations Web**  
+
+&nbsp; La compression des fichiers APNG améliore les temps de chargement tout en maintenant la clarté de l'animation.
+
+
+
+* **Livraison d'actifs UI/UX**  
+
+&nbsp; Les APNG légers aident les interfaces à être réactives sur les applications mobiles et de bureau.
+
+
+
+* **Pipelines graphiques de jeux et d'applications**  
+
+&nbsp; Les ressources APNG compressées réduisent le décalage de chargement et l'utilisation du stockage dans les environnements interactifs.
+
+
+
+* **Publication de contenu**  
+
+&nbsp; La réduction de la taille de l'animation garantit une diffusion fluide sur les blogs, les plateformes et les systèmes de gestion de contenu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Compression en lot de l'APNG**  
+
+&nbsp; Les scripts Python peuvent compresser automatiquement plusieurs PNG animés en masse.
+
+
+
+* **Optimisation au niveau des images**  
+
+&nbsp; L'automatisation peut recompresser des images individuelles ou en supprimer des redondantes.
+
+
+
+* **Compression intégrée au flux de travail**  
+
+&nbsp; Les fichiers APNG téléchargés sur les systèmes peuvent être compressés automatiquement avant le stockage.
+
+
+
+* **Ajustement dynamique de la qualité de l'animation**  
+
+&nbsp; Les systèmes peuvent réduire la taille de l'animation en fonction de la résolution, du type d'appareil ou des limites du réseau.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

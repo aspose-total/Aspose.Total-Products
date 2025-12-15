@@ -78,7 +78,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File XLTX (template Excel modern) mendapatkan manfaat dari kompresi untuk penyimpanan yang dioptimalkan dan berbagi lebih cepat, mempertahankan semua format dan rumus.
+
+
+
+API Python memungkinkan kompresi XLTX otomatis, meningkatkan efisiensi alur kerja dan integrasi dengan sistem manajemen dokumen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Penyimpanan Template**  
+
+&nbsp; Kompresi template XLTX sambil mempertahankan fungsionalitas penuh.
+
+
+
+* **Pembagian Template Cepat**  
+
+&nbsp; File yang lebih kecil memungkinkan distribusi dan kolaborasi yang lebih cepat.
+
+
+
+* **Arsip Otomatis**  
+
+&nbsp; Kompresi menyederhanakan manajemen penyimpanan jangka panjang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi XLTX Massal**  
+
+&nbsp; Skrip Python mengotomatisasi kompresi beberapa template.
+
+
+
+* **Integrasi dengan Sistem Alur Kerja**  
+
+&nbsp; Template yang terkompresi dapat dimuat ke dalam pipa kerja otomatis.
+
+
+
+* **Kompresi Cerdas**  
+
+&nbsp; Aturan kondisional memungkinkan penargetan template dengan kumpulan data besar atau media tertanam.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

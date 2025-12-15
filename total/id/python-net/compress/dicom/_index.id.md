@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi DICOM berfokus pada mengoptimalkan file gambar medis yang berisi gambar diagnostik, metadata, dan informasi pasien. Karena file DICOM seringkali besar karena pemindaian beresolusi tinggi, kompresi sangat penting untuk transmisi yang lebih cepat, pengurangan biaya penyimpanan, dan penanganan yang efisien dalam sistem kesehatan.
+
+
+
+API Python memungkinkan kompresi DICOM otomatis, termasuk metode lossless dan lossy yang terkontrol, memastikan alur kerja gambar medis tetap dapat diskalakan, handal, dan sesuai dengan standar klinis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Penyimpanan Gambar Medis**  
+
+  Compressing file DICOM mengurangi beban pada sistem PACS dan arsip jangka panjang.
+
+
+
+* **Transmisi Gambar Lebih Cepat**  
+
+  File yang lebih kecil meningkatkan kecepatan transfer antara rumah sakit, pusat gambar, dan sistem cloud.
+
+
+
+* **Pipa Riset & Analitik**  
+
+  Dataset yang terkompresi menyederhanakan pelatihan model AI dan pemrosesan gambar medis dalam skala besar.
+
+
+
+* **Alur Kerja Telemedicine**  
+
+  Kompresi memungkinkan pengiriman visual diagnostik lebih cepat ke penyedia layanan kesehatan jarak jauh.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi Batch Gambar Diagnostik**  
+
+  Mengotomatisasi pengurangan ukuran untuk perpustakaan MRI, CT, dan sinar-X yang besar.
+
+
+
+* **Pemilihan Lossless/Lossy Dinamis**  
+
+  Otomatisasi memilih tipe kompresi berdasarkan modalitas, resolusi, atau persyaratan klinis.
+
+
+
+* **Optimisasi Terintegrasi dalam Alur Kerja**  
+
+  Mengompresi file DICOM selama proses penerimaan ke dalam sistem PACS, RIS, atau cloud imaging.
+
+
+
+* **Kompresi yang Memelihara Metadata**  
+
+  Proses otomatis mempertahankan semua tag medis dan pengidentifikasi sambil mengurangi ukuran file.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

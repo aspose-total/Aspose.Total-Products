@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX، تنسيق PowerPoint الحديث، يحتوي غالبًا على صور عالية الدقة ورسوم بيانية ورسوم متحركة. يقلل الضغط من حجم الملف مع الحفاظ على الدقة البصرية.
+
+
+
+التحسين القائم على Python يمكنه ضغط PPTX بشكل قابل للتوسيع، مما يعزز التعاون والاندماج مع منصات السحابة أو أنظمة إدارة العروض.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين التخزين**  
+
+&nbsp; ضغط ملفات PPTX دون فقدان محتوى الشرائح أو الرسوم المتحركة أو الوسائط.
+
+
+
+* **مشاركة أسرع**  
+
+&nbsp; تمكين ملفات PPTX الأصغر حجمًا من التوزيع السريع عبر البريد الإلكتروني أو السحابة.
+
+
+
+* **أرشفة فعالة**  
+
+&nbsp; يدعم الضغط التلقائي تخزين العروض الكبيرة على المدى الطويل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **ضغط دفعة PPTX**  
+
+&nbsp; يمكن لنصوص Python ضغط عروض حديثة متعددة دفعة واحدة.
+
+
+
+* **الاندماج مع أدوات التعاون**  
+
+&nbsp; يمكن تحميل ملفات PPTX المضغوطة بشكل ديناميكي في سير العمل الآلي.
+
+
+
+* **قواعد ضغط ذكية**  
+
+&nbsp; يستهدف التلقائي المشروط ملفات تحتوي على وسائط عالية الدقة مضمنة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -168,7 +236,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

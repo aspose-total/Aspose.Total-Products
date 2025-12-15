@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие ODS оптимизирует файлы OpenDocument Spreadsheet, уменьшая размер, сохраняя при этом формулы, диаграммы и целостность данных. Сжатые файлы ODS улучшают хранение, скорость передачи и производительность в рабочих процессах с большим объемом данных.
+
+
+
+API Python позволяют автоматизировать сжатие ODS, пакетную обработку и преобразование для масштабируемого управления электронными таблицами в офисах, аналитике и системах отчетности.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация хранения электронных таблиц**  
+
+&nbsp; Уменьшение объема хранения для больших наборов данных и коллекций рабочих книг.
+
+
+
+* **Быстрое совместное использование и сотрудничество**  
+
+&nbsp; Меньшие файлы ODS эффективно передаются между командами.
+
+
+
+* **Архивирование и резервное копирование**  
+
+&nbsp; Сжатие файлов ODS для долгосрочного хранения.
+
+
+
+* **Эффективность рабочего процесса**  
+
+&nbsp; Оптимизированные электронные таблицы загружаются быстрее в приложениях и конвейерах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие ODS**  
+
+&nbsp; Автоматизация уменьшения размера для нескольких электронных таблиц.
+
+
+
+* **Оптимизация данных и диаграмм**  
+
+&nbsp; Автоматическое сжатие встроенных диаграмм, сводных таблиц и формул.
+
+
+
+* **Интеграция с DAM или облачными системами**  
+
+&nbsp; Автоматизация сжатия во время загрузки или резервного копирования.
+
+
+
+* **Динамические правила сжатия**  
+
+&nbsp; Настройка оптимизации на основе размера набора данных, сложности формул или встроенных объектов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

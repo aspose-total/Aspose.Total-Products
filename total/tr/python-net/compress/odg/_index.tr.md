@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODG sıkıştırması, OpenDocument Graphics dosyalarını optimize ederken vektör kalitesini, katmanları ve gömülü nesneleri koruyarak boyutunu azaltır. Sıkıştırılmış ODG dosyaları depolama verimliliğini artırır ve tasarım ve diyagram iş akışlarında performansı artırır.
+
+
+
+Python API'leri, otomatik ODG sıkıştırmasını, toplu işlemeyi ve diğer formatlara dönüştürmeyi destekleyerek, ofis, eğitim ve yayıncılık ortamlarında ölçeklenebilir grafik yönetimini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Diyagram \& Vektör Depolama**  
+
+&nbsp; Disk alanı kullanımını azaltmak için ODG dosyalarını sıkıştırın.
+
+
+
+* **İşbirliği \& Paylaşım**  
+
+&nbsp; Daha küçük dosyalar, takımlar ve platformlar arasında daha hızlı iletilir.
+
+
+
+* **Dijital Arşivleme**  
+
+&nbsp; Zamanla diyagramların ve vektör grafiklerin verimli depolanması.
+
+
+
+* **İş Akışı Optimizasyonu**  
+
+&nbsp; Sıkıştırılmış ODG dosyaları uygulamalarda render hızını artırır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu ODG Sıkıştırma**  
+
+&nbsp; Birden fazla grafik dosyası için boyut azaltımını otomatikleştirin.
+
+
+
+* **Katman \& Nesne Optimizasyonu**  
+
+&nbsp; Kullanılmayan öğeleri kaldırın ve gömülü nesneleri otomatik olarak sıkıştırın.
+
+
+
+* **Ofis Akışlarına Entegrasyon**  
+
+&nbsp; ODG dosyalarını yükleme veya sürüm kontrolü sırasında sıkıştırın.
+
+
+
+* **Dinamik Sıkıştırma Seviyeleri**  
+
+&nbsp; Optimizasyonu dosya karmaşıklığı ve kullanım durumuna göre ayarlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

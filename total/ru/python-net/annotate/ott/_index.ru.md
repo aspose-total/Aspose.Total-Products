@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Аннотация OTT улучшает шаблоны текстовых документов, встраивая пояснения, заполнители и структурированные метаданные в открытые шаблоны. Это обеспечивает последовательное создание документов и более понятные инструкции для конечных пользователей.  
+
+Автоматизация улучшает рабочие процессы OTT путем применения правил шаблона, обновления текста аннотации и соблюдения стандартных структур.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Инструкции по шаблону**  
+
+&nbsp; Предоставляют руководство по заполнению каждого раздела.
+
+* **Стандарты форматирования**  
+
+&nbsp; Выделяют области, требующие определенных стилей.
+
+* **Документация по редакции**  
+
+&nbsp; Отмечают изменения в обновлениях шаблона.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Обновления шаблона на основе сценариев**  
+
+&nbsp; Автоматическое применение новых инструкций ко всем шаблонам.
+
+* **Маркеры соответствия**  
+
+&nbsp; Определение и аннотирование отсутствующих обязательных полей.
+
+* **Динамическое соблюдение правил**  
+
+&nbsp; Добавление заметок, вызванных логикой шаблона.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

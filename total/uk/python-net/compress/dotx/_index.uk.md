@@ -98,7 +98,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файли DOTX, сучасні шаблони Word без макросів, користуються стисненням для ефективності зберігання та швидкого обміну.
+
+
+
+Автоматизація на основі Python дозволяє стиснення файлів DOTX зі збереженням форматування, макету та вбудованих ресурсів.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+
+
+
+* **Ефективність зберігання шаблонів**  
+
+&nbsp; Зменшення розміру DOTX зі збереженням дизайну.
+
+
+
+* **Швидкий обмін шаблонами**  
+
+&nbsp; Менші файли забезпечують швидший розподіл серед команд.
+
+
+
+* **Управління архівами**  
+
+&nbsp; Автоматизоване стиснення підтримує довгострокове зберігання шаблонів.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Пакетне стиснення DOTX**  
+
+&nbsp; Сценарії Python можуть стиснути кілька файлів шаблонів одночасно.
+
+
+
+* **Інтеграція з системами документів**  
+
+&nbsp; Стиснуті шаблони можуть динамічно керуватися в робочих процесах.
+
+
+
+* **Розумні правила стиснення**  
+
+&nbsp; Автоматизуйте на основі розміру файлу, вбудованих об'єктів або шаблонів з великою кількістю зображень.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

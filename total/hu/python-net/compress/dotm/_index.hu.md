@@ -100,7 +100,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM fájlok makróval ellátott sablonok. A tömörítés csökkenti a tárolást, miközben megőrzi a makró funkciókat, lehetővé téve az hatékony sablon telepítést.
+
+
+
+A Python API-k támogatják az automatizált DOTM tömörítést az adatintegritás fenntartása érdekében vállalati és együttműködő környezetekben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Makró sablon megőrzése**  
+
+&nbsp; Biztonságosan tömörítse a DOTM fájlokat anélkül, hogy megsértené a makrókat.
+
+
+
+* **Gyorsabb sablon terjesztés**  
+
+&nbsp; A kisebb fájlok könnyebben megoszthatók csapatok és rendszerek között.
+
+
+
+* **Sablon archiválása**  
+
+&nbsp; Az automatizált tömörítés biztosítja a hosszú távú tárolási hatékonyságot.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Tömeges DOTM tömörítés**  
+
+&nbsp; A Python szkriptek automatikusan feldolgozhatják a több makróval ellátott sablont.
+
+
+
+* **Munkafolyamat integráció**  
+
+&nbsp; A tömörített sablonokat felhasználhatják az automatizált dokumentumgeneráló rendszerekben.
+
+
+
+* **Feltételes tömörítés**  
+
+&nbsp; Automatizálás méret, tartalom vagy makró bonyolultság alapján.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

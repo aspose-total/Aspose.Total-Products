@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DJVU压缩增强了DjVu文件的高效结构，这些文件通常用于扫描文档、数字图书和档案内容。进一步优化DJVU文件可以减小文件大小，提高加载速度，并确保对文本和图像丰富页面的高质量呈现。
+
+
+
+Python API使得自动化DJVU压缩、优化扫描层以及管理大量数字化文档库成为可能，而且存储要求较低，处理效率高。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **数字化文档库**  
+
+&nbsp; 压缩大型扫描档案以节省空间并提高访问性能。
+
+
+
+* **电子书和研究分发**  
+
+&nbsp; 更小的DJVU文件加载更快，跨学术平台传输更高效。
+
+
+
+* **扫描图像优化**  
+
+&nbsp; 提高可读性，减小文件大小，而不影响基本视觉细节。
+
+
+
+* **长期存档**  
+
+&nbsp; 为历史和参考资料提供存储高效的保护。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量DJVU压缩**  
+
+&nbsp; 自动减小扫描或数字化文档集合的文件大小。
+
+
+
+* **层感知优化**  
+
+&nbsp; 自动化可以有选择地压缩前景文本、背景纹理或嵌入图像。
+
+
+
+* **工作流摄入压缩**  
+
+&nbsp; DJVU文件可以在上传到档案或文档系统时立即压缩。
+
+
+
+* **转换+压缩流水线**  
+
+&nbsp; 将PDF或TIFF转换为DJVU时应用自动化的减小文件大小规则。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Аннотация POTX добавляет структурированные заметки и инструкции по макету в шаблоны презентаций без макросов, обеспечивая четкое создание слайдов и соблюдение единых визуальных стандартов. Это гарантирует, что пользователи следуют унифицированным правилам дизайна в презентациях.  
+
+Автоматизация упрощает обновление POTX, позволяя системам применять правила аннотации, обнаруживать расхождения в макете и эффективно обновлять руководство.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Инструкции по шаблону**  
+
+&nbsp; Руководство пользователями по использованию слайдов и структуре.
+
+* **Заметки по дизайну**  
+
+&nbsp; Определение правил размещения текста и визуальных элементов.
+
+* **Индикаторы изменений**  
+
+&nbsp; Выделение модификаций внутри шаблонов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированные проверки шаблонов**  
+
+&nbsp; Вставка комментариев там, где стили отклоняются от стандартов.
+
+* **Массовое внедрение аннотаций**  
+
+&nbsp; Обновление руководства по нескольким шаблонам.
+
+* **Проверка структуры слайда**  
+
+&nbsp; Автоматическое выявление несоответствий программным путем.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -43,9 +43,47 @@ Para un desarrollador, ¿quién intenta crear archivos RTF a través de la aplic
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+## RTF - Formato de texto enriquecido
+
+RTF - Rich Text Format (RTF) es un formato de texto multiplataforma compatible con muchos editores; la generación de RTF basada en Python es útil al producir documentos con estilos simples que deben ser aceptados por una amplia variedad de clientes. RTF carece de las funciones avanzadas de OOXML pero destaca en texto con estilos portátiles, tablas simples y objetos en línea.
+
+La automatización de RTF es apropiada para combinación de correspondencia, cartas con estilos simples o sistemas donde se requiere máxima compatibilidad. La creación programática se puede hacer mediante la plantilla de fragmentos de RTF o utilizando bibliotecas que construyen tokens de RTF directamente.
+
+La automatización simplifica las exportaciones masivas de RTF y los flujos de conversión que apuntan a consumidores ligeros o heredados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* **Generación de cartas multiplataforma**
+  Producir documentos RTF para clientes que prefieren texto con estilos ligeros y portátiles.
+
+* **Combinación de correspondencia para documentos simples**
+  Generar cartas personalizadas y avisos en RTF para una amplia compatibilidad.
+
+* **Interoperabilidad con sistemas que no admiten OOXML**
+  Exportar contenido a RTF para sistemas que no pueden analizar DOCX o Word binario.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* **Exportaciones masivas de RTF**
+  Automatizar la creación de miles de archivos RTF a partir de feeds de datos estructurados.
+
+* **Flujos de formato de respaldo**
+  Proporcionar automáticamente versiones RTF cuando los consumidores no pueden manejar DOCX/DOCM.
+
+* **Motores de plantillas simples**
+  Utilizar reemplazo de tokens programático en plantillas RTF como parte de un flujo de trabajo automatizado.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

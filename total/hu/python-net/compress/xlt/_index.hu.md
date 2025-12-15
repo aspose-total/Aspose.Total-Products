@@ -78,7 +78,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XLT sablonfájlok tömörítésének előnye a tárolás csökkentése és a terjesztés javítása a sablonstruktúra megváltoztatása nélkül.
+
+
+
+A Python API-k lehetővé teszik az XLT sablonok automatizált tömörítését a skálázható sablonkezelés érdekében.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Sablon tárolás optimalizálása**  
+
+&nbsp; Tömörítse az XLT fájlokat a formázás és a képletek megőrzése mellett.
+
+
+
+* **Gyorsabb sablonmegosztás**  
+
+&nbsp; A kisebb fájlméretek lehetővé teszik a gyors terjesztést a csapatok számára.
+
+
+
+* **Automatizált archiválás**  
+
+&nbsp; A tömörített sablonok egyszerűsítik a hosszú távú tárolás kezelését.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Tömeges sablon tömörítés**  
+
+&nbsp; Automatizálja a több XLT fájl feldolgozását Python szkriptek segítségével.
+
+
+
+* **Integráció munkafolyamatrendszerekkel**  
+
+&nbsp; A tömörített sablonok dinamikusan betölthetők az automatizált munkafolyamatokba.
+
+
+
+* **Feltételes tömörítés**  
+
+&nbsp; Az automatizálás célozhat nagy adatkészlettel vagy bonyolult képletekkel rendelkező sablonokra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

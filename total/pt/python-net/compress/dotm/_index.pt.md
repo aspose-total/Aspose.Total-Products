@@ -100,7 +100,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/wor
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Os arquivos DOTM são modelos habilitados para macro. A compressão reduz o armazenamento enquanto preserva a funcionalidade da macro, permitindo uma implantação eficiente do modelo.
+
+
+
+As APIs do Python suportam a compressão automatizada de arquivos DOTM para manter a integridade em ambientes empresariais e colaborativos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Preservação de Modelos de Macro**  
+
+&nbsp; Comprima arquivos DOTM com segurança sem quebrar as macros.
+
+
+
+* **Distribuição mais Rápida de Modelos**  
+
+&nbsp; Arquivos menores são mais fáceis de compartilhar entre equipes e sistemas.
+
+
+
+* **Arquivamento de Modelos**  
+
+&nbsp; A compressão automatizada garante eficiência de armazenamento a longo prazo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de DOTM**  
+
+&nbsp; Scripts em Python podem processar vários modelos habilitados para macro automaticamente.
+
+
+
+* **Integração de Fluxo de Trabalho**  
+
+&nbsp; Modelos comprimidos podem ser utilizados em sistemas automatizados de geração de documentos.
+
+
+
+* **Compressão Condicional**  
+
+&nbsp; Automatize com base no tamanho, conteúdo ou complexidade da macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

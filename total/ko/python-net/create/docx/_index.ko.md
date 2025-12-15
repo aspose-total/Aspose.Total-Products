@@ -43,9 +43,79 @@ informat: DOCX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX — `.docx` (OOXML)은 워드 문서의 현대 표준이며 Python 기반 자동화에 매우 적합합니다. 라이브러리를 사용하면 OOXML 구조와 메타데이터를 보존하면서 단락, 표, 이미지, 스타일 및 사용자 지정 XML 부분을 생성하고 수정할 수 있습니다.
+
+
+
+DOCX는 템플릿화된 보고서, 동적 문서 및 웹 서비스 통합에 이상적이며 오픈 형식과 강력한 라이브러리 지원으로 인해 자동화가 가능해집니다. 자동화를 통해 접근 가능하고 스타일이 적용된 문서를 신뢰할 수 있게 생성하여 유효성을 검사하고 버전을 관리할 수 있습니다.
+
+프로그래밍 워크플로우를 사용하면 구조화된 입력에서 복잡한 문서(중첩된 표, 참조, 목차)를 쉽게 조합할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **템플릿화된 보고서 렌더링**
+
+  &nbsp; 동적 표, 차트 및 조건부 섹션으로 DOCX 템플릿을 채웁니다.
+
+
+
+* **자동 문서 구성**
+
+  &nbsp; 모듈식 콘텐츠 소스에서 섹션(소개, 본문, 부록)을 하나의 DOCX로 결합합니다.
+
+
+
+* **메타데이터 풍부한 결과물**
+
+  &nbsp; 문서 속성, 사용자 지정 XML 및 버전 메타데이터를 포함하여 관리를 위한 임베딩을 수행합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **데이터베이스에서 문서로의 파이프라인**
+
+  &nbsp; 자동화된 작업에서 각 데이터베이스 레코드에 대해 개별화된 DOCX 문서를 생성합니다.
+
+
+
+* **Webhook으로 트리거된 문서 생성**
+
+  &nbsp; 외부 이벤트에 의해 트리거된 HTTP API를 통해 필요할 때 DOCX 문서를 생성합니다.
+
+
+
+* **자동 접근성 검사**
+
+  &nbsp; 생성 중에 이미지의 제목 구조와 대체 텍스트를 확인하는 유효성 검사 스크립트를 실행합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

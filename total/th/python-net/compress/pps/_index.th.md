@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ไฟล์ PPS (PowerPoint Show) ได้รับประโยชน์จากการบีบอัดเพื่อลดพื้นที่จัดเก็บและปรับปรุงประสิทธิภาพในการเล่นขณะนำเสนอ.
+
+
+
+Python APIs สนับสนุนการบีบอัด PPS โดยอัตโนมัติเพื่อการแบ่งปันและประสิทธิภาพในการจัดเก็บ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การปรับปรุงไฟล์แสดง**  
+
+&nbsp; บีบอัดไฟล์ PPS โดยไม่มีผลต่อเนื้อหาหรือการเปลี่ยนฉาก.
+
+
+
+* **การแจกจ่ายเร็วขึ้น**  
+
+&nbsp; ไฟล์ขนาดเล็กช่วยให้การแบ่งปันและอัปโหลดในคลาวด์เร็วขึ้น.
+
+
+
+* **ประสิทธิภาพในการจัดเก็บ**  
+
+&nbsp; การบีบอัดโดยอัตโนมัติสนับสนุนการจัดเก็บไฟล์แสดงในระยะยาว.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* **การบีบอัดไฟล์ PPS เป็นกลุ่ม**  
+
+&nbsp; สคริปต์ Python สามารถบีบอัดไฟล์แสดงหลายไฟล์โดยอัตโนมัติ.
+
+
+
+* **การผสานกับระบบนำเสนอ**  
+
+&nbsp; ไฟล์ PPS ที่ถูกบีบอัดสามารถโหลดเข้ามาในการทำงานอัตโนมัติได้.
+
+
+
+* **การบีบอัดตามเงื่อนไข**  
+
+&nbsp; เล็งเห็นการนำไปใช้กับงานนำเสนอขนาดใหญ่หรือไฟล์ที่มีสื่อมากสำหรับการบีบอัด.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

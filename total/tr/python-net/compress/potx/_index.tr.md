@@ -101,7 +101,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX (modern PowerPoint şablonları), tüm biçimlendirme ve tasarım unsurlarını korurken boyutu azaltmak ve paylaşım verimliliğini artırmak için sıkıştırmadan faydalanır.
+
+
+
+Python API'leri otomatik POTX sıkıştırmasına izin verir, iş akışı ölçeklenebilirliğini ve şablon yönetimini geliştirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Şablon Depolama Optimizasyonu**  
+
+&nbsp; İçeriği ve slayt tasarımını koruyarak POTX şablonlarını sıkıştırın.
+
+
+
+* **Hızlı Şablon Paylaşımı**  
+
+&nbsp; Daha küçük dosyalar, ekipler ve bulut platformları arasında hızlı dağıtımı sağlar.
+
+
+
+* **Otomatik Arşivleme**  
+
+&nbsp; Sıkıştırma, uzun vadeli şablon depolama yönetimini basitleştirir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu POTX Sıkıştırma**  
+
+&nbsp; Python betikleri birden fazla şablonun sıkıştırılmasını otomatikleştirir.
+
+
+
+* **İş Akışı Sistemleriyle Entegrasyon**  
+
+&nbsp; Sıkıştırılmış şablonlar otomatik borulamalara dinamik olarak yüklenebilir.
+
+
+
+* **Akıllı Sıkıştırma**  
+
+&nbsp; Koşullu otomasyon büyük veya medya ağırlıklı şablonlara odaklanır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

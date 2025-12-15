@@ -78,7 +78,87 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/zip
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A compressão PCL (Printer Command Language) otimiza documentos prontos para impressão, reduzindo o tamanho sem comprometer a fidelidade da impressão. Arquivos PCL comprimidos melhoram a eficiência de armazenamento, transferência mais rápida e desempenho em fluxos de trabalho de impressão.
+
+
+
+As APIs do Python permitem a compressão automatizada de PCL, processamento em lote e conversão para pipelines de impressão e gerenciamento de documentos escaláveis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Otimização de Trabalhos de Impressão**  
+
+  &nbsp; Arquivos PCL menores reduzem os tempos de espera e melhoram a velocidade de impressão.
+
+
+
+* **Arquivamento e Armazenamento**  
+
+  &nbsp; Arquivos PCL comprimidos economizam espaço de armazenamento para grandes arquivos de impressão.
+
+
+
+* **Distribuição de Documentos Prontos para Impressão**  
+
+  &nbsp; Arquivos otimizados são transmitidos mais rapidamente pela rede ou servidores de impressão.
+
+
+
+* **Eficiência de Fluxo de Trabalho**  
+
+  &nbsp; Melhora o desempenho em sistemas de impressão automatizados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de PCL**  
+
+  &nbsp; Automatize a otimização de vários arquivos de impressão.
+
+
+
+* **Otimização de Ativos Incorporados**  
+
+  &nbsp; Comprima fontes, imagens e gráficos dentro de arquivos PCL automaticamente.
+
+
+
+* **Integração com Pipelines de Impressão**  
+
+  &nbsp; Comprima arquivos PCL dinamicamente antes da impressão ou arquivamento.
+
+
+
+* **Regras de Compressão Dinâmica**  
+
+  &nbsp; Ajuste a otimização com base na complexidade do documento ou tipo de conteúdo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

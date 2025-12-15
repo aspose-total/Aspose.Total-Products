@@ -78,7 +78,69 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLTテンプレートファイルは、テンプレート構造を変更せずにストレージを圧縮して配布を改善します。
+
+
+
+Python APIを使用すると、スケーラブルなテンプレート管理のためにXLTテンプレートを自動的に圧縮できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* **テンプレートのストレージ最適化**  
+&nbsp; フォーマットや数式を保持しながらXLTファイルを圧縮します。
+
+
+
+* **迅速なテンプレート共有**  
+&nbsp; ファイルサイズを削減して、チームへの迅速な配布を実現します。
+
+
+
+* **自動アーカイブ**  
+&nbsp; 圧縮されたテンプレートは、長期間のストレージ管理を簡略化します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **一括テンプレート圧縮**  
+&nbsp; Pythonスクリプトを使用して複数のXLTファイルの処理を自動化します。
+
+
+
+* **ワークフローシステムとの統合**  
+&nbsp; 圧縮されたテンプレートは自動化ワークフローに動的に読み込むことができます。
+
+
+
+* **条件付き圧縮**  
+&nbsp; 自動化は、大規模なデータセットや複雑な数式を持つテンプレートを対象にできます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX注释通过评论、高亮和元数据增强现代Word文档，以改善协作、版本控制和文档清晰度。该格式支持高级结构和样式，使注释更加精确和一致。
+
+自动化DOCX注释可扩展审阅流程，并确保大量文档集中的标准化反馈。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **协作编辑**  
+
+&nbsp; 插入评论以指导审阅者。
+
+* **语义高亮**  
+
+&nbsp; 强调关键术语、错误或决策。
+
+* **结构化文档**  
+
+&nbsp; 添加元数据以进行索引和搜索。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化内容标记**  
+
+&nbsp; 在批量文件中突出显示模式或关键字。
+
+* **程序化评论**  
+
+&nbsp; 插入基于规则的注释进行质量检查。
+
+* **版本比较注释**  
+
+&nbsp; 自动标记修订版本之间的差异。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

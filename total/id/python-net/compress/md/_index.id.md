@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi MD mengoptimalkan file Markdown dengan menghapus spasi kosong yang tidak perlu, komentar, atau format yang redundan sambil mempertahankan struktur konten. Hal ini meningkatkan efisiensi penyimpanan, transfer file yang lebih cepat, dan pemrosesan yang lebih efisien dalam dokumentasi dan alur konten.
+
+
+
+API Python memungkinkan kompresi MD otomatis, pemrosesan batch, dan alur kerja konversi untuk penanganan teknis yang dapat diskalakan dari dokumentasi, blog, dan konten yang terkontrol versi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Dokumentasi**  
+
+&nbsp; Kompres repositori Markdown besar untuk penyimpanan yang lebih mudah dan operasi kontrol versi yang lebih cepat.
+
+
+
+* **Alur Kerja Publikasi Konten**  
+
+&nbsp; File MD yang lebih kecil menyederhanakan proses generasi situs web dan statis.
+
+
+
+* **Arsip Konten Markdown**  
+
+&nbsp; Mengurangi penyimpanan untuk dokumentasi sejarah dan catatan.
+
+
+
+* **Kolaborasi & Distribusi**  
+
+&nbsp; File yang dioptimalkan lebih mudah dibagikan di antara tim dan sistem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi MD Batch**  
+
+&nbsp; Otomatisasi optimisasi beberapa file Markdown.
+
+
+
+* **Penghapusan Spasi dan Komentar**  
+
+&nbsp; Membersihkan teks yang tidak perlu secara otomatis tanpa mengubah konten.
+
+
+
+* **Integrasi Alur Kerja**  
+
+&nbsp; Kompres file MD saat diimpor ke CMS atau sistem kontrol versi.
+
+
+
+* **Pipa Konversi + Kompresi**  
+
+&nbsp; Konversi MD ke HTML atau PDF sambil menerapkan kompresi secara otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

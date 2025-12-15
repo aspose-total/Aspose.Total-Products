@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ضغط DICOM يركز على تحسين ملفات الصور الطبية التي تحتوي على صور تشخيصية وبيانات الوصف ومعلومات المريض. نظرًا لأن ملفات DICOM غالبًا ما تكون كبيرة بسبب الفحوصات عالية الدقة، فإن الضغط ضروري لتسريع عملية النقل، وتقليل تكاليف التخزين، والتعامل الفعال ضمن أنظمة الرعاية الصحية.
+
+
+
+تسمح واجهات برمجة التطبيقات في Python بضغط DICOM بشكل آلي، بما في ذلك الطرق الخالية من الفقد والفقد المتحكم فيه، مما يضمن بقاء سير العمل الخاص بالصور الطبية مقيدًا وموثوقًا ومتوافقًا مع المعايير السريرية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين تخزين الصور الطبية**  
+
+&nbsp; يقلل ضغط ملفات DICOM من العبء على أنظمة PACS والأرشيف على المدى الطويل.
+
+
+
+* **تسريع عملية نقل الصور**  
+
+&nbsp; تحسين السرعة في نقل الملفات الصغيرة بين المستشفيات ومراكز التصوير وأنظمة السحابة.
+
+
+
+* **أنابيب البحث والتحليل**  
+
+&nbsp; تسهل مجموعات البيانات المضغوطة تدريب نماذج الذكاء الاصطناعي ومعالجة الصور الطبية بمقياس كبير.
+
+
+
+* **أنظمة الرعاية عن بعد**  
+
+&nbsp; يمكن للضغط تمكين توصيل أسرع للصور التشخيصية إلى مقدمي الرعاية الصحية عن بعد.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط دفعة من الصور التشخيصية**  
+
+&nbsp; يقوم بتقليل الحجم تلقائيًا لمكتبات MRI و CT والأشعة السينية الكبيرة.
+
+
+
+* **اختيار ديناميكي بين الضغط الخالي من الفقد والفقد**  
+
+&nbsp; يختار النظام التلقائي نوع الضغط استنادًا إلى الوضعية أو الدقة أو المتطلبات السريرية.
+
+
+
+* **تحسين متكامل في سير العمل**  
+
+&nbsp; يضغط ملفات DICOM أثناء الاستيعاب في أنظمة PACS أو RIS أو السحابة للصور.
+
+
+
+* **ضغط البيانات الوصفية المحفوظة**  
+
+&nbsp; تحافظ العمليات التلقائية على جميع العلامات الطبية والمعرفات بينما يتم تقليل حجم الملف.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compressione CMX riduce le dimensioni dei grafici vettoriali di Corel Presentation Exchange, che spesso includono illustrazioni dettagliate, livelli e profili di colore. Ottimizzare i file CMX aiuta a migliorare le prestazioni nei flussi di lavoro di progettazione, accelera la condivisione e riduce i requisiti di archiviazione in ambienti creativi e tecnici.
+
+
+
+Le API di Python consentono la compressione e la conversione automatizzate di CMX, garantendo un'efficace gestione di grandi risorse vettoriali su scala per sistemi di pubblicazione, stampa e gestione grafica.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* ** Ottimizzazione del progetto di design **  
+
+&nbsp; Comprime i grafici CMX in strati per semplificare la gestione dei file e ridurre l'impatto sull'archiviazione.
+
+
+
+* ** Pipeline di pubblicazione e stampa **  
+
+&nbsp; I file CMX più piccoli velocizzano i processi di rendering, modifica e trasferimento.
+
+
+
+* ** Gestione della libreria di risorse **  
+
+&nbsp; Le raccolte CMX ottimizzate si caricano più velocemente all'interno dei repository di risorse digitali.
+
+
+
+* ** Scambio multi-piattaforma **  
+
+&nbsp; I file CMX compressi si trasferiscono più efficientemente tra team di progettazione o applicazioni.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* ** Comprimi in blocco i file CMX **  
+
+&nbsp; Ottimizza automaticamente grandi set di grafici CMX con flussi di lavoro Python.
+
+
+
+* ** Conversione da CMX a formato compresso **  
+
+&nbsp; Converti CMX in SVG, PDF, PNG o EPS applicando regole di compressione.
+
+
+
+* ** Ottimizzazione dell'upload automatizzata **  
+
+&nbsp; I file CMX possono essere compressi istantaneamente quando vengono inseriti nei sistemi DMS o DAM.
+
+
+
+* ** Compressione consapevole del contenuto **  
+
+&nbsp; Regola l'intensità dell'ottimizzazione in base alla complessità vettoriale o ai componenti incorporati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

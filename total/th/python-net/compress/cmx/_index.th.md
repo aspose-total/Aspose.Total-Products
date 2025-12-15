@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การบีเอ็มพีการบีเอ็มพีลดขนาดของกราฟิกเวกเตอร์ Corel Presentation Exchange ซึ่งมักประกอบด้วยภาพประกอบที่ละเอียด ชั้น และโปรไฟล์สี การปรับปรุงไฟล์ CMX ช่วยปรับปรุงประสิทธิภาพในกระบวนการออกแบบ ส่งเสริมการแบ่งปัน และลดความต้องการในการจัดเก็บในสภาพแวดล้อมที่มีความคิดสร้างสรรค์และเทคนิค
+
+
+
+Python APIs ทำให้การบีเอ็มพีและการแปลงไฟล์ CMX เป็นระบบอัตโนมัติเพื่อการจัดการทรัพยากรกราฟิกเวกเตอร์ขนาดใหญ่อย่างมีประสิทธิภาพในการเผยแพร่ การพิมพ์ และระบบการจัดการกราฟิก
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การปรับปรุงโครงการออกแบบ**  
+
+&nbsp; บีเอ็มพีกราฟิกชั้นเป็น CMX เพื่อลดความซับซ้อนของไฟล์และลดผลกระทบต่อการจัดเก็บ
+
+
+
+* **การเผยแพร่และการพิมพ์**  
+
+&nbsp; ไฟล์ CMX ขนาดเล็กช่วยเร่งกระบวนการแสดงผล การแก้ไข และการถ่ายโอน
+
+
+
+* **การจัดการคลังทรัพยากร**  
+
+&nbsp; คอลเลกชัน CMX ที่ปรับปรุงโหลดเร็วขึ้นในคลังทรัพยากรดิจิทัล
+
+
+
+* **การแลกเปลี่ยนระหว่างแพลตฟอร์ม**  
+
+&nbsp; ไฟล์ CMX ที่บีเอ็มพีถ่ายโอนอย่างมีประสิทธิภาพระหว่างทีมออกแบบหรือแอปพลิเคชัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การบีเอ็มพีเป็นก้อน**  
+
+&nbsp; ปรับปรุงไฟล์ CMX ชุดใหญ่ๆ โดยอัตโนมัติด้วยไฟล์เวิร์กโฟลว์ Python
+
+
+
+* **การแปลง CMX เป็นรูปแบบที่บีเอ็มพี**  
+
+&nbsp; แปลง CMX เป็น SVG PDF PNG หรือ EPS พร้อมใช้กฎการบีเอ็มพี
+
+
+
+* **การปรับปรุงการอัปโหลดอัตโนมัติ**  
+
+&nbsp; ไฟล์ CMX สามารถถูกบีเอ็มพีทันทีเมื่อถูกนำเข้าไปในระบบ DMS หรือ DAM
+
+
+
+* **การบีเอ็มพีที่ตระกูลข้อมูล**  
+
+&nbsp; ปรับความหนาแน่นของการปรับปรุงตามความซับซ้อนของเวกเตอร์หรือส่วนประกอบที่ฝังอยู่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén WEBP tập trung vào việc giảm kích thước tệp cho hình ảnh được tối ưu hóa trên web trong khi duy trì chất lượng hình ảnh cao. WEBP hỗ trợ cả nén mất dữ liệu và không mất dữ liệu, làm cho nó lý tưởng cho đồ họa web, giao diện ứng dụng và phân phối nội dung kỹ thuật số.
+
+
+
+API Python cho phép nén WEBP tự động, xử lý hàng loạt và chuyển đổi từ các định dạng khác, hỗ trợ quy trình làm việc có thể mở rộng cho tối ưu hiệu suất web và quản lý hình ảnh dựa trên đám mây.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Hiệu Suất Web và Ứng Dụng**  
+
+&nbsp; Hình ảnh WEBP được nén cải thiện tốc độ tải trang và giảm việc sử dụng băng thông.
+
+
+
+* **Nội Dung Kỹ Thuật Số Đáp Ứng**  
+
+&nbsp; Duy trì chất lượng hình ảnh cao cho các trang web, ứng dụng và nền tảng trực tuyến.
+
+
+
+* **Tài Sản Tiếp Thị và Mạng Xã Hội**  
+
+&nbsp; Các tệp WEBP nhỏ đảm bảo tải lên và hiển thị nhanh hơn cho các chiến dịch.
+
+
+
+* **Lưu Trữ Lâu Dài và Trên Đám Mây**  
+
+&nbsp; Giảm yêu cầu lưu trữ cho các thư viện hình ảnh lớn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Hàng Loạt WEBP**  
+
+&nbsp; Tự động nén nhiều tệp WEBP trong một quy trình dựa trên Python.
+
+
+
+* **Chọn Lựa Mất Dữ Liệu hoặc Không Mất Dữ Liệu**  
+
+&nbsp; Tự động chọn loại nén tối ưu dựa trên nội dung hình ảnh và yêu cầu.
+
+
+
+* **Tích Hợp Quy Trình làm việc**  
+
+&nbsp; Nén hình ảnh WEBP tự động trong quá trình tải lên CMS, DAM hoặc các nền tảng đám mây.
+
+
+
+* **Điều Chỉnh Chất Lượng Động**  
+
+&nbsp; Nén có thể được điều chỉnh dựa trên độ phân giải, thiết bị đích, hoặc điều kiện mạng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

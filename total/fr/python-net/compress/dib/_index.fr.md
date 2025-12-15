@@ -78,7 +78,87 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compression DIB réduit la taille des fichiers bitmap indépendants du périphérique, qui stockent les données des pixels sans formatage spécifique au matériel. Ces images sont souvent grandes car elles conservent des données bitmap brutes et non compressées, rendant la compression essentielle pour un stockage et un traitement efficaces dans les flux de travail modernes.
+
+
+
+Les API Python permettent d'automatiser l'optimisation DIB, de minimiser la taille des fichiers et de convertir ces bitmaps en formats plus compressés, améliorant ainsi la scalabilité dans les pipelines d'imagerie et les systèmes de gestion des actifs numériques.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Optimisation des anciens bitmaps**  
+
+&nbsp; Compresse les grands fichiers DIB provenant de logiciels ou systèmes d'imagerie plus anciens.
+
+
+
+* **Efficacité de stockage**  
+
+&nbsp; Réduit considérablement l'utilisation du disque pour les organisations ayant de vastes référentiels de bitmaps.
+
+
+
+* **Transfert et téléchargement plus rapides**  
+
+&nbsp; Permet de partager plus rapidement des fichiers image lourds à travers des réseaux ou des plateformes cloud.
+
+
+
+* **Archivage d'images**  
+
+&nbsp; Aide à maintenir des archives légères sans compromettre les données des pixels essentielles.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Compression DIB par lots**  
+
+&nbsp; Réduire automatiquement la taille de centaines ou milliers de fichiers bitmap en une seule fois.
+
+
+
+* **Conversion automatique vers des formats modernes**  
+
+&nbsp; Convertir les DIB en PNG, JPEG ou WebP avec des règles de compression intelligentes.
+
+
+
+* **Optimisation du téléchargement en temps réel**  
+
+&nbsp; Les fichiers DIB peuvent être compressés automatiquement lors de leur ingestion dans des plateformes d'imagerie.
+
+
+
+* **Compression adaptée à la résolution**  
+
+&nbsp; L'automatisation ajuste l'intensité de la compression en fonction des dimensions des pixels ou de la profondeur des couleurs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

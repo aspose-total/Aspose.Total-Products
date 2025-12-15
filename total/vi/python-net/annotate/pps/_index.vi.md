@@ -75,7 +75,65 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chú thích PPS thêm nhận xét và gợi ý vào các tệp trình bày được định dạng dưới dạng trình chiếu, tăng cường sự rõ ràng cho việc phát lại cuối cùng và chu kỳ hoàn thiện. Các tệp PPS được chú thích giúp xác định điều chỉnh nội dung hoặc thời gian trước khi phân phối.
+
+Tự động hỗ trợ xem xét hàng loạt, cho phép hệ thống quét các slide, thêm ghi chú và làm nổi bật các vấn đề nội dung mà không cần chỉnh sửa thủ công.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Ghi Chú Thời Gian Phát Lại**  
+
+&nbsp; Thêm nhận xét về chuyển tiếp hoặc tốc độ hoạt hình.
+
+* **Kiểm Tra Sự Nhất Quán Thiết Kế**  
+
+&nbsp; Làm nổi bật các yếu tố hình ảnh yêu cầu sự căn chỉnh.
+
+* **Đánh Giá Nội Dung**  
+
+&nbsp; Thêm ý kiến cho việc hoàn thiện slide.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Phân Tích Thời Gian Tự Động**  
+
+&nbsp; Tự động chú thích các slide với đề xuất về tốc độ.
+
+* **Quét Nội Dung Hàng Loạt**  
+
+&nbsp; Thêm ghi chú trên các tệp PPS theo quy mô.
+
+* **Kịch Bản Chuẩn Hóa**  
+
+&nbsp; Đánh dấu sự lệch khỏi các quy tắc thiết kế hoặc nội dung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

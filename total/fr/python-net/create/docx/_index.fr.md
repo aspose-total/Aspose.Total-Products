@@ -43,9 +43,79 @@ Pour un développeur, qui essaie de créer des fichiers DOCX via une application
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX — `.docx` (OOXML) est la norme moderne pour les documents Word et est très adaptable à l'automatisation basée sur Python. Les bibliothèques permettent la création et la modification de paragraphes, de tableaux, d'images, de styles et de parties XML personnalisées tout en préservant la structure et les métadonnées OOXML.
+
+
+
+DOCX est idéal pour les rapports basés sur des modèles, les documents dynamiques et l'intégration avec les services web en raison de son format ouvert et du fort support des bibliothèques. L'automatisation permet la génération fiable de documents accessibles et stylés qui peuvent être validés et versionnés.
+
+Les flux de travail programmables facilitent l'assemblage de documents complexes (tableaux imbriqués, références, tables des matières) à partir d'entrées structurées.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Rendu de Rapports Basés sur des Modèles**
+
+&nbsp; Remplir des modèles DOCX avec des tableaux dynamiques, des graphiques et des sections conditionnelles.
+
+
+
+* **Composition Automatisée de Documents**
+
+&nbsp; Assembler des sections (introduction, corps, annexes) à partir de sources de contenu modulaire en un seul DOCX.
+
+
+
+* **Livraisons Riches en Métadonnées**
+
+&nbsp; Intégrer les propriétés du document, XML personnalisé et les métadonnées de révision pour la gouvernance.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'Automatisation" %}}
+
+
+
+* **Pipelines de Base de Données vers Document**
+
+&nbsp; Générer des documents DOCX individualisés pour chaque enregistrement de base de données dans une tâche automatisée.
+
+
+
+* **Création de Documents Déclenchée par Webhook**
+
+&nbsp; Créer des documents DOCX à la demande via des API HTTP déclenchées par des événements externes.
+
+
+
+* **Vérifications d'Accessibilité Automatisées**
+
+&nbsp; Exécuter des scripts de validation qui vérifient la structure des titres et le texte alternatif pour les images lors de la génération.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+CHM圧縮は、HTMLページ、画像、ソフトウェアドキュメントのナビゲーション構造を含むコンパイルされたHTMLヘルプファイルのサイズを縮小します。圧縮されたCHMファイルは、ストレージ効率、配布速度、およびユーザーのアクセス性を向上させます。
+
+
+
+Python APIを使用すると、CHMの自動圧縮、バッチ処理、および技術マニュアルのスケーラブルな管理のためのドキュメントワークフローとの統合が可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* **ソフトウェアドキュメントの配信**  
+
+&nbsp; 圧縮されたCHMファイルは高速に読み込まれ、ディスクスペースを少なく占有します。
+
+
+
+* **アーカイブとバックアップ**  
+
+&nbsp; 旧式および大規模なヘルプファイルコレクションのためのストレージを削減します。
+
+
+
+* **効率的な共有**  
+
+&nbsp; 小さなCHMファイルはネットワークやデバイスを素早く伝送します。
+
+
+
+* **ユーザーアクセシビリティ**  
+
+&nbsp; 最適化されたファイルはヘルプビューアでの読み込みパフォーマンスを向上させます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチCHM圧縮**  
+
+&nbsp; 複数のヘルプファイルのサイズを自動的に縮小します。
+
+
+
+* **埋め込みアセットの最適化**  
+
+&nbsp; 画像、スクリプト、およびHTMLページを自動的に圧縮します。
+
+
+
+* **ドキュメントパイプラインとの統合**  
+
+&nbsp; ビルドや展開ワークフロー中にCHMファイルを圧縮します。
+
+
+
+* **ダイナミックな圧縮レベル**  
+
+&nbsp; コンテンツのサイズと複雑さに基づいて調整します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

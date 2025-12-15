@@ -75,7 +75,65 @@ Para obter mais detalhes, consulte [Documentação do Produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A anotação PPSM fornece notas estruturadas para arquivos de apresentação com macros, ajudando a documentar o comportamento do script e melhorando a clareza durante a revisão. Isso facilita a compreensão das transições automatizadas ou interações dinâmicas de slides.  
+
+A anotação automatizada aprimora a auditoria ao escanear macros, identificar padrões lógicos e inserir notas descritivas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Documentação do Comportamento da Macro**  
+
+&nbsp; Adicione notas descrevendo ações de slides automatizadas.
+
+* **Comentários de Revisão**  
+
+&nbsp; Forneça recomendações para conteúdo ou layout.
+
+* **Visibilidade da Lógica**  
+
+&nbsp; Destaque áreas influenciadas por acionadores de macros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Analisador de Macros**  
+
+&nbsp; Escaneie automaticamente e comente sobre scripts detectados.
+
+* **Notas Baseadas em Modelo**  
+
+&nbsp; Insira anotações predefinidas em vários arquivos.
+
+* **Tags de QA Automatizadas**  
+
+&nbsp; Marque lógicas de macros arriscadas ou obsoletas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

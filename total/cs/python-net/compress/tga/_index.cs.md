@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese TGA se zaměřuje na snížení velikosti rastrových obrázků Targa při zachování hloubky barev a alfa kanálů. Soubory TGA jsou často používány v počítačových hrách, 3D grafice a vizuálních efektech, což činí kompresi nezbytnou pro efektivní ukládání a rychlejší zpracování v mediálních potrubích.
+
+
+
+Python API umožňují automatizovanou kompresi TGA, hromadné zpracování a konverzi do moderních formátů, podporující škálovatelné pracovní postupy pro vývoj her, animací a produkci digitálních médií.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace herních prvků**  
+
+&nbsp; Kompresí TGA se snižují požadavky na úložiště a zlepšují se časy načítání her.
+
+
+
+* **3D grafická potrubí**  
+
+&nbsp; Menší soubory TGA zjednodušují správu textur a pracovní postupy pro vykreslování.
+
+
+
+* **Výroba vizuálních efektů**  
+
+&nbsp; Optimalizované obrázky TGA pomáhají efektivně spravovat velké sekvence snímků.
+
+
+
+* **Archivační úložiště**  
+
+&nbsp; Snížení velikosti souborů pro dlouhodobé ukládání vysokorychlostních prvků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese TGA**  
+
+&nbsp; Automatizujte optimalizaci velkých sad souborů TGA hromadně.
+
+
+
+* **Zachování alfa kanálu**  
+
+&nbsp; Uchování průhlednosti při kompresi pro snížení místa na úložišti.
+
+
+
+* **Integrace do potrubí**  
+
+&nbsp; Soubory TGA lze automaticky komprimovat při nahrávání do systémů pro správu prvků.
+
+
+
+* **Kompresní metoda založená na dynamickém rozlišení**  
+
+&nbsp; Nastavte úrovně komprese podle velikosti obrázku, rozlišení nebo kontextu použití.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/zip
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A compressão MOBI otimiza arquivos de eBook compatíveis com o Kindle, reduzindo o espaço de armazenamento e melhorando a velocidade de download. Os arquivos MOBI comprimidos mantêm a estrutura de conteúdo e a legibilidade para um desempenho aprimorado do eReader.
+
+
+
+As APIs do Python permitem a compressão automatizada de MOBI, processamento em lote e otimização de metadados para fluxos de trabalho escaláveis de gerenciamento e entrega de eBooks.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Distribuição de eBooks para Kindle**  
+
+  &nbsp; Arquivos MOBI menores permitem downloads mais rápidos e uma experiência de leitura sem interrupções.
+
+
+
+* **Otimização de Biblioteca Digital**  
+
+  &nbsp; MOBI comprimido reduz o armazenamento para grandes coleções de eBooks.
+
+
+
+* **Compartilhamento de Conteúdo e Arquivamento**  
+
+  &nbsp; Arquivos eficientes simplificam a distribuição e o backup de publicações digitais.
+
+
+
+* **Compatibilidade de Dispositivos**  
+
+  &nbsp; MOBI otimizado garante uma renderização suave em dispositivos e aplicativos Kindle.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de MOBI**  
+
+  &nbsp; Automatize a otimização para vários eBooks do Kindle simultaneamente.
+
+
+
+* **Otimização de Metadados e Imagens**  
+
+  &nbsp; Remova metadados redundantes e comprima imagens incorporadas automaticamente.
+
+
+
+* **Integração de Fluxo de Trabalho**  
+
+  &nbsp; Comprima arquivos MOBI durante a ingestão de eBooks em plataformas ou bibliotecas.
+
+
+
+* **Níveis de Compressão Dinâmicos**  
+
+  &nbsp; Ajuste o tamanho do arquivo e a qualidade com base no tipo de conteúdo e nos requisitos do dispositivo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +225,7 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/zip
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

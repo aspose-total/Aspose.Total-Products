@@ -75,7 +75,65 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chú thích DOTX mở rộng khả năng sử dụng của mẫu bằng cách nhúng nhận xét, hướng dẫn và siêu dữ liệu vào các mẫu Word không chứa macro. Điều này cải thiện độ chính xác của tài liệu và hướng dẫn người dùng qua quá trình tạo nội dung có cấu trúc.  
+
+Tự động hóa chú thích DOTX tăng tốc độ cập nhật mẫu và thúc đẩy tính nhất quán trong quy trình tài liệu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Hướng Dẫn Mẫu**  
+
+&nbsp; Thêm ghi chú cho mục đích của mỗi phần.
+
+* **Hướng Dẫn Định Dạng**  
+
+&nbsp; Đánh dấu quy tắc cho tiêu đề, danh sách hoặc bảng.
+
+* **Phòng Ngừa Lỗi**  
+
+&nbsp; Đánh dấu các vùng mà người dùng thường mắc lỗi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Chú Thích Dựa Trên Quy Tắc**  
+
+&nbsp; Chèn hướng dẫn chuẩn một cách tự động.
+
+* **Bảo Trì Mẫu Theo Lô**  
+
+&nbsp; Cập nhật chú thích trên nhiều mẫu.
+
+* **Tích Hợp Chính Sách Động**  
+
+&nbsp; Thêm hướng dẫn tuân thủ thông qua các đường ống tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

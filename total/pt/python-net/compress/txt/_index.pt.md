@@ -78,7 +78,87 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/zip
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A compressão de TXT foca em reduzir o tamanho de arquivos de texto simples eliminando redundâncias sem perder conteúdo. Isso é importante para eficiência de armazenamento, transmissão mais rápida e processamento otimizado em automação e pipelines de dados.
+
+
+
+As APIs do Python permitem a compressão automatizada de TXT, processamento em lote e fluxos de trabalho de arquivamento, suportando o manuseio escalável de logs, scripts, arquivos de configuração e grandes conjuntos de dados textuais.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Gerenciamento de Arquivos de Log**  
+
+&nbsp; Comprimir grandes arquivos de log para economizar espaço de armazenamento e melhorar a recuperação.
+
+
+
+* **Arquivamento de Dados**  
+
+&nbsp; Reduz o tamanho de conjuntos de dados de texto simples para armazenamento a longo prazo.
+
+
+
+* **Armazenamento de Configuração e Scripts**  
+
+&nbsp; Arquivos TXT comprimidos tornam implantações automatizadas e backups mais eficientes.
+
+
+
+* **Distribuição de Conteúdo Baseado em Texto**  
+
+&nbsp; Arquivos menores são mais rápidos de transferir pela rede ou sistemas em nuvem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de TXT**  
+
+&nbsp; Automatize a compressão de vários arquivos de texto simples.
+
+
+
+* **Integração em Pipelines**  
+
+&nbsp; Comprimir TXT automaticamente durante a ingestão em sistemas de dados ou arquivos.
+
+
+
+* **Compressão Dinâmica Baseada no Tamanho**  
+
+&nbsp; Aplicar compressão mais forte a arquivos maiores mantendo arquivos pequenos intocados.
+
+
+
+* **Conversão de Formato e Compressão**  
+
+&nbsp; Converter TXT em arquivos compactados (ZIP, GZ) como parte de fluxos de trabalho automatizados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -43,9 +43,79 @@ Python uygulaması aracılığıyla DOTM dosyaları oluşturmaya çalışan bir 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM — `.dotm` şablonları, makro desteği ile şablonlamaı birleştirerek, otomatik belge davranışları için tekrar kullanılabilir makro destekli şablonlar oluşturmayı sağlar. DOTM dosyalarının Python tarafından oluşturulması, onaylanmış VBA otomasyonunu içeren şablonların dağıtılmasına izin verirken makro içeriğini programlı olarak kontrol etmeyi sağlar.
+
+
+
+Bu format, yerel otomasyon görevleri için tekrarlanabilir, makro destekli şablonlar gerektiren ve makroların şablon oluşturma sürecinde programlı olarak yönetildiği, doğrulandığı ve isteğe bağlı olarak imzalandığı organizasyonlara uygundur.
+
+Otomasyon, CI/CD boru hatları içinde güvenli makro yaşam döngüsü yönetimini—oluşturma, analiz, imzalama ve dağıtımı—mümkün kılar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* **Makro Destekli Şablon Kütüphaneleri**
+
+  Sağlanan DOTM şablonları, yerel kullanıcılar için tekrarlanabilir otomasyonu içerir.
+
+
+
+* **Kontrollü Şablon Otomasyonu**
+
+  Şablonların yalnızca iç iş akışları için onaylanmış makroları içerdiğinden emin olun.
+
+
+
+* **Şablon Tabanlı Belge Oluşturma**
+
+  DOTM'yi, gömülü davranışlar içeren DOCM/DOCX örneklerini oluşturmak için kaynak olarak kullanın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Şablon QA için CI Boru Hattı**
+
+  Dağıtımdan önce VBA davranışını ve şablon bütünlüğünü otomatik olarak doğrulayın.
+
+
+
+* **Şablonların Güvenli Dağıtımı**
+
+  Dijital imzaları gömün ve DOTM dosyalarını yönetilen kanallar aracılığıyla kullanıcılara gönderin.
+
+
+
+* **Dinamik Makro Enjeksiyonu**
+
+  Güvenli depolardan DOTM şablonları içindeki makro modüllerini programlı olarak güncelleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}} 
+ 
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

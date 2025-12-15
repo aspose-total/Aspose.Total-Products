@@ -100,7 +100,75 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Los archivos DOTX, plantillas modernas de Word sin macros, se benefician de la compresión para una eficiencia de almacenamiento y un intercambio más rápido.
+
+
+
+La automatización basada en Python permite la compresión de archivos DOTX manteniendo el formato, diseño y recursos incrustados.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Eficiencia de almacenamiento de plantillas**  
+
+&nbsp; Reduzca el tamaño de los archivos DOTX manteniendo la consistencia del diseño.
+
+
+
+* **Compartir plantillas rápidamente**  
+
+&nbsp; Archivos más pequeños garantizan una distribución más rápida entre equipos.
+
+
+
+* **Gestión de archivos de archivo**  
+
+&nbsp; La compresión automatizada respalda la retención a largo plazo de las plantillas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Compresión masiva de DOTX**  
+
+&nbsp; Los scripts de Python pueden comprimir varios archivos de plantillas a la vez.
+
+
+
+* **Integración con sistemas de documentos**  
+
+&nbsp; Las plantillas comprimidas pueden gestionarse dinámicamente en flujos de trabajo.
+
+
+
+* **Reglas de compresión inteligentes**  
+
+&nbsp; Automatice en función del tamaño del archivo, objetos incrustados o plantillas con muchas imágenes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

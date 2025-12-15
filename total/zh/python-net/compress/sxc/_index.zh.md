@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+SXC（传统OpenOffice/StarOffice电子表格）文件受益于压缩，可减少存储空间，便于共享，同时保留公式和格式。
+
+
+
+Python API允许自动化SXC压缩，以保持传统环境中的工作流效率。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **传统电子表格优化**  
+
+&nbsp; 减小SXC文件大小，不影响公式或内容。
+
+
+
+* **更快的共享**  
+
+&nbsp; 压缩文件提高网络和团队之间的传输速度。
+
+
+
+* **存档效率**  
+
+&nbsp; 自动化压缩支持传统电子表格的长期存储。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量SXC压缩**  
+
+&nbsp; Python脚本可以自动压缩多个SXC文件。
+
+
+
+* **与DMS或云系统集成**  
+
+&nbsp; 压缩的SXC文件可以在工作流程中高效处理。
+
+
+
+* **条件压缩**  
+
+&nbsp; 自动化可以根据大小或嵌入内容来定位文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

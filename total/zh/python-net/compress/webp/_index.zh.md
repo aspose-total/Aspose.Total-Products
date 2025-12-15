@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WEBP压缩专注于减小网络优化图像的文件大小，同时保持高视觉质量。WEBP支持有损和无损压缩，非常适合用于网络图形、应用程序界面和数字内容传递。
+
+
+
+Python API支持自动化WEBP压缩、批量处理和从其他格式转换，支持可扩展的工作流程，用于优化网络性能和基于云的图像管理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **网络和应用程序性能**  
+
+&nbsp; 压缩的WEBP图像提高页面加载速度并减少带宽使用。
+
+
+
+* **响应式数字内容**  
+
+&nbsp; 为网站、应用程序和在线平台保持高质量视觉效果。
+
+
+
+* **营销和社交媒体资产**  
+
+&nbsp; 更小的WEBP文件确保活动的快速上传和渲染。
+
+
+
+* **存档和云存储**  
+
+&nbsp; 减少大型图像库的存储需求。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量WEBP压缩**  
+
+&nbsp; 在一个由Python驱动的过程中自动压缩多个WEBP文件。
+
+
+
+* **无损或有损选择**  
+
+&nbsp; 根据图像内容和要求，自动选择最佳压缩类型。
+
+
+
+* **工作流程集成**  
+
+&nbsp; 在上传到CMS、DAM或云平台期间自动压缩WEBP图像。
+
+
+
+* **动态质量调整**  
+
+&nbsp; 压缩可以根据分辨率、目标设备或网络条件进行调整。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

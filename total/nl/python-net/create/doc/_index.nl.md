@@ -43,9 +43,75 @@ Voor een ontwikkelaar, die probeert DOC-bestanden te maken via de Python-toepass
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOC - Het maken van `.doc` (legacy binaire Word) bestanden via Python API's maakt automatisering mogelijk voor oudere systemen en behoudt compatibiliteit met legacy toolchains. Typische Python benaderingen vertrouwen op bibliotheken die de binaire structuur kunnen assembleren of COM-automatisering op Windows gebruiken om klassieke binaire documenten van programmatische inhoud te exporteren of op te slaan.
+
+
+
+DOC scripting is handig wanneer achterwaartse compatibiliteit vereist is; gegenereerde documenten kunnen gestructureerde tekst, basisopmaak, kopteksten/voetteksten en ingesloten objecten bevatten waar ondersteund.
+
+
+
+Automatisering maakt conversiepijplijnen mogelijk die moderne bronnen (markdown, HTML, DOCX) accepteren en `.doc` uitvoeren voor archivering of integratie met legacy toepassingen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Integratie met Legacy Systemen**
+  Produceer .doc bestanden voor oudere bedrijfssoftware die het binaire formaat vereist.
+
+
+
+* **Archiefexports**
+  Converteer moderne documenten naar .doc voor langetermijnopslag wanneer vereist door legacy beleid.
+
+
+
+* **Interoperabiliteit met Oudere Tools**
+  Maak .doc uitvoer om compatibiliteit te garanderen met oudere mail-merge of afdruksystemen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Geautomatiseerde Formaatconversie**
+  Batch-converteer DOCX naar DOC in geplande taken voor compatibiliteitstesten.
+
+
+
+* **Scriptmatige Export van Sjablonen**
+  Gebruik op sjablonen gebaseerde generatie die einddocumenten opslaat als .doc voor downstream processen.
+
+
+
+* **Integratie met ETL Pijplijnen**
+  Neem DOC-generatie op in ETL-taken die documenten voorbereiden voor legacy gebruikers.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

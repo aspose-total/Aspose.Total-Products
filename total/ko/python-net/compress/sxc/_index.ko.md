@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+SXC(레거시 OpenOffice/StarOffice 스프레드시트) 파일은 압축을 통해 저장 공간을 줄이고 공식과 서식을 보존하면서 쉬운 공유가 가능합니다.
+
+
+
+파이썬 API를 사용하면 레거시 환경에서 작업 효율을 유지하기 위해 SXC 압축을 자동화할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **레거시 스프레드시트 최적화**  
+
+  &nbsp; 공식이나 내용에 영향을 주지 않고 SXC 파일 크기를 줄입니다.
+
+
+
+* **빠른 공유**  
+
+  &nbsp; 압축된 파일은 네트워크 및 팀 간 전송 속도를 향상시킵니다.
+
+
+
+* **보관 효율**  
+
+  &nbsp; 자동화된 압축은 레거시 스프레드시트의 장기 저장을 지원합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 SXC 압축**  
+
+  &nbsp; 파이썬 스크립트를 사용하여 여러 SXC 파일을 자동으로 압축할 수 있습니다.
+
+
+
+* **DMS 또는 클라우드 시스템 통합**  
+
+  &nbsp; 압축된 SXC 파일은 워크플로우에서 효율적으로 처리될 수 있습니다.
+
+
+
+* **조건부 압축**  
+
+  &nbsp; 자동화는 파일 크기나 포함된 내용에 따라 파일을 대상으로 할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

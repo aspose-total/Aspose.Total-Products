@@ -43,9 +43,79 @@ Dla programisty, który próbuje tworzyć pliki DOTX za pomocą aplikacji Python
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTX — `.dotx` to szablon bez makr (OOXML), idealny do bezpiecznego rozpowszechniania szablonów i deterministycznego generowania dokumentów. Interfejsy Pythona mogą tworzyć szablony DOTX z stylami, kontrolami treści i miejscami na treść, umożliwiając solidne szablony bez makr do zautomatyzowanych systemów.
+
+
+
+DOTX nadaje się do środowisk, które nie zezwalają na makra ze względów bezpieczeństwa, ale wciąż wymagają spójnego szablonowania i dynamicznego wypełniania treści. Automatyzacja umożliwia bezpieczne, skalowalne szablony i generowanie instancji DOCX bez osadzania kodu wykonywalnego.
+
+Generowanie szablonów programistycznych obsługuje zastępowanie miejscami sterowanymi schematem, kontrolami treści i walidacją szablonu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe Zastosowania" %}}
+
+
+
+* **Bezpieczne Dostarczanie Szablonów**
+
+  &nbsp; Tworzenie szablonów DOTX bez makr do szerokiego rozpowszechniania w bezpiecznych środowiskach.
+
+
+
+* **Szablony Formularzy i Kontroli Treści**
+
+  &nbsp; Tworzenie szablonów DOTX z kontrolami treści do automatyzacji w dół.
+
+
+
+* **Składanie Dokumentów na Podstawie Szablonu**
+
+  &nbsp; Używanie szablonów DOTX jako autorytatywnego źródła do programowego tworzenia dokumentów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Bezpieczne Potoki Szablonów**
+
+  &nbsp; Automatyzacja generowania DOTX i egzekwowanie zasad zapobiegających dołączaniu makr.
+
+
+
+* **Prace Walidacyjne Szablonów**
+
+  &nbsp; Wykonywanie automatycznych sprawdzeń, aby upewnić się, że miejsca zastępcze i style odpowiadają oczekiwaniom schematu.
+
+
+
+* **Użycie Szablonów Sterowane przez API**
+
+  &nbsp; Udostępnianie szablonów DOTX za pośrednictwem wewnętrznego interfejsu API do generowania DOCX na żądanie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

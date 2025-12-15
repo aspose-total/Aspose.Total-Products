@@ -43,9 +43,77 @@ Untuk pengembang, siapa yang mencoba membuat file DOCM melalui aplikasi Python? 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM — Berkas `.docm` mendukung makro yang tertanam dan ideal ketika dokumen harus mencakup perilaku yang dapat diprogram; API Python dapat membuat dokumen yang mendukung makro dengan menyusun konten OOXML dan melampirkan proyek VBA yang ditandatangani atau tidak ditandatangani melalui otomatisasi. Pembuatan secara programatis memastikan makro dikemas secara konsisten dan dapat divalidasi atau ditandatangani sebagai bagian dari pembangunan.
+
+Menggunakan DOCM sesuai ketika logika bisnis (kolom kustom, tombol ekspor, atau makro pengumpulan data) harus berada di dalam dokumen; otomatisasi memungkinkan penyisipan, pengujian, dan pengendalian konten makro untuk memenuhi pemeriksaan keamanan dan kepatuhan.
+
+Tes otomatis dan proses CI dapat memastikan integritas kode makro dan menandatangani makro sebelum distribusi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Otomatisasi yang Tertanam dalam Dokumen**
+
+  Distribusikan berkas DOCM yang menjalankan makro yang disetujui untuk pengambilan data terstruktur atau transformasi lokal.
+
+
+
+* **Penyisipan Makro yang Terkendali**
+
+  Sisipkan modul VBA yang divalidasi ke dalam dokumen selama waktu pembangunan untuk perilaku makro yang diatur.
+
+
+
+* **Template yang Mendukung Makro**
+
+  Gunakan template DOTM sebagai sumber untuk menghasilkan dokumen DOCM dengan otomatisasi yang sudah disiapkan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Validasi CI dari Makro**
+
+  Jalankan analisis statis secara otomatis pada kode VBA dan hentikan pembangunan pada pelanggaran kebijakan.
+
+
+
+* **Penandatanganan dan Pengemasan**
+
+  Otomatisasi penandatanganan digital makro dan pengemasan berkas DOCM untuk distribusi yang aman.
+
+
+
+* **Penyisipan Makro dari Repositori Aman**
+
+  Tarik potongan VBA yang disetujui dari repositori aman dan sisipkan ke dalam berkas DOCM yang dihasilkan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

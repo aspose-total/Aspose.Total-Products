@@ -78,7 +78,45 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Komprimierung von CDR-Dateien
+
+CDR-Komprimierung konzentriert sich auf die Optimierung von CorelDRAW-Vektorgrafiken, um die Dateigröße zu reduzieren, während Formen, Ebenen, Text und Designstruktur erhalten bleiben. Da CDR-Dateien komplexe Vektorobjekte und eingebettete Medien enthalten können, ist die Komprimierung wichtig, um die Projektverarbeitung, Speichereffizienz und Design-Workflow-Performance zu verbessern.
+
+Python-APIs erleichtern die automatisierte Komprimierung, Optimierung und Konvertierung von CDR-Dateien und ermöglichen so ein skalierbares Management von Grafikressourcen in Produktions-, Druck- und digitalen Umgebungen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+- **Optimierung von Grafikdesign-Ressourcen**
+  Komprimiert komplexe Vektordesigns, um die Speicherung und Freigabe von Projekten zu optimieren.
+
+- **Druckproduktions-Workflows**
+  Kleinere CDR-Dateien verbessern die Leistung während der Vorstufen- und Druckverarbeitungsphasen.
+
+- **Versionierte Dateirepositorien**
+  Die Komprimierung hält große Designarchive leicht und einfacher zu verwalten.
+
+- **Plattformübergreifende Bereitstellung**
+  Die Reduzierung der Dateigrößen erhöht die Übertragungsgeschwindigkeit zwischen Designteams, Tools und Kunden.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+- **Batch-CDR-Komprimierung**
+  Automatisieren Sie die Optimierung für Hunderte von CorelDRAW-Dateien auf einmal.
+
+- **CDR-zu-optimiertem-Format-Konvertierung**
+  Konvertieren Sie CDR in SVG, PDF oder PNG und wenden Sie dabei Komprimierungsregeln an.
+
+- **Integration in den Design-Pipeline**
+  Komprimieren Sie Assets automatisch, wenn sie in CMS, DAM oder Workflow-Systeme hochgeladen werden.
+
+- **Adaptive Komprimierungsregeln**
+  Passen Sie die Kompressionsstufen automatisch anhand der Dateikomplexität oder eingebetteter Medien an.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

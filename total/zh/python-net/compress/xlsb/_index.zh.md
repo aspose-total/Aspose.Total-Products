@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLSB文件（二进制Excel工作簿）通过压缩来减小文件大小，同时保持快速加载时间和复杂计算。
+
+
+
+Python API支持自动化XLSB压缩，支持大规模电子表格管理和与企业工作流集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **二进制工作簿优化**  
+
+&nbsp; 在不影响性能或计算的情况下压缩XLSB文件。
+
+
+
+* **更快的文件传输**  
+
+&nbsp; 更小的XLSB文件可通过电子邮件或云快速共享。
+
+
+
+* **高效的归档**  
+
+&nbsp; 自动压缩支持二进制工作簿的长期存储。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量XLSB压缩**  
+
+&nbsp; Python脚本可以自动压缩多个XLSB文件。
+
+
+
+* **与分析和BI工具集成**  
+
+&nbsp; 压缩的XLSB文件可以在自动化工作流中无缝处理。
+
+
+
+* **选择性压缩**  
+
+&nbsp; 自动化可以仅压缩大型或媒体密集的XLSB文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

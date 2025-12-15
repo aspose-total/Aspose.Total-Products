@@ -43,9 +43,79 @@ informat: DOT
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT — Tệp mẫu `.dot` xác định các kiểu dáng và cấu trúc có thể tái sử dụng cho các luồng công việc Word cũ; tạo các mẫu DOT thông qua Python giúp tổ chức duy trì định dạng nhất quán cho mail-merge, biểu mẫu và tài liệu chuẩn được sử dụng bởi các khách hàng cũ.
+
+
+
+Việc tạo ra DOT theo cách tự động đảm bảo rằng các mẫu được cập nhật tập trung và có thể được phân phối tự động cho người dùng cuối hoặc dịch vụ tài liệu.
+
+Tự động hóa hỗ trợ việc làm mới mẫu theo lịch trình, đánh dấu phiên bản và tạo ra tài liệu cụ thể từ các mẫu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Phân Phối Mẫu Cũ**
+
+&nbsp; Tạo ra các mẫu DOT đảm bảo bố cục nhất quán trên các chuỗi công cụ cũ.
+
+
+
+* **Mẫu Biểu Mẫu Chuẩn**
+
+&nbsp; Tạo ra các mẫu biểu mẫu với chỗ trống cho mail-merge thủ công hoặc tự động.
+
+
+
+* **Phiên Bản Mẫu**
+
+&nbsp; Tự động hóa việc đánh dấu phiên bản và phát hành các mẫu DOT đến kho tài liệu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Làm Mới Mẫu Tự Động**
+
+&nbsp; Thay thế hoặc vá các mẫu DOT từ nguồn trung tâm và đẩy cập nhật theo cách tự động.
+
+
+
+* **Tạo Ra Lô Tài Liệu Theo Mẫu**
+
+&nbsp; Sử dụng các mẫu DOT để tạo ra nhiều tài liệu đã điền thông qua các quá trình hợp nhất tự động.
+
+
+
+* **Dấu Vết Kiểm Toán cho Mẫu**
+
+&nbsp; Nhúng siêu dữ liệu và nhật ký thay đổi trong quá trình tạo mẫu theo cách tự động để tuân thủ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

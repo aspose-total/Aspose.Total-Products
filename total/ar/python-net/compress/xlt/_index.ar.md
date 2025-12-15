@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تستفيد ملفات قالب XLT من ضغط لتقليل التخزين وتحسين التوزيع دون تغيير هيكل القالب.
+
+
+
+تسمح واجهات برمجة التطبيقات في Python بضغط القوالب XLT تلقائيًا لإدارة القوالب بشكل موسع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين تخزين القوالب**  
+
+&nbsp; ضغط ملفات XLT مع الحفاظ على التنسيق والصيغ.
+
+
+
+* **مشاركة القوالب بشكل أسرع**  
+
+&nbsp; تسمح الأحجام الملفات المضغوطة بالتوزيع السريع للفرق.
+
+
+
+* **أرشفة تلقائية**  
+
+&nbsp; تبسيط إدارة التخزين على المدى الطويل بفضل القوالب المضغوطة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط القوالب بالدُفعات**  
+
+&nbsp; أتمم معالجة ملفات XLT متعددة باستخدام النصوص في Python.
+
+
+
+* **التكامل مع أنظمة السير العمل**  
+
+&nbsp; يمكن تحميل القوالب المضغوطة بشكل ديناميكي في سير العمل التلقائي.
+
+
+
+* **ضغط مشروط**  
+
+&nbsp; يمكن للتشغيل التلقائي استهداف القوالب ذات البيانات الكبيرة أو الصيغ المعقدة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

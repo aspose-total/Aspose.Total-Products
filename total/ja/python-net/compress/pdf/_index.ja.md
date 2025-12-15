@@ -100,7 +100,43 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PDF圧縮は、Portable Document Formatファイルのサイズを縮小し、テキスト、画像、フォント、ベクターグラフィックを保持します。圧縮されたPDFは、ストレージ効率の向上、高速な共有、デバイスやプラットフォーム間での最適化されたレンダリングを実現します。
+
+PythonのAPIを使用すると、自動化されたPDF圧縮、バッチ処理、スケーラブルなドキュメント管理、アーカイブ、配布が可能になります。
+
+## {{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+- **ドキュメントの保存とアーカイブ**
+  &nbsp; PDFを圧縮してデジタルライブラリ内のストレージスペースを節約します。
+
+- **高速なファイル転送**
+  &nbsp; 小さなPDFは、メールやクラウドプラットフォームを介して迅速に送信されます。
+
+- **印刷と公開**
+  &nbsp; 最適化されたPDFは、印刷およびデジタルワークフローで高速に読み込まれ、レンダリングされます。
+
+- **コンテンツ配信の最適化**
+  &nbsp; eBook、レポート、マニュアルのユーザーエクスペリエンスを向上させます。
+
+## {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- **バッチPDF圧縮**
+  &nbsp; 複数のPDFファイルの最適化を自動化します。
+
+- **画像とフォントの最適化**
+  &nbsp; 埋め込まれた画像とサブセットフォントを自動的に圧縮します。
+
+- **ワークフローの統合**
+  &nbsp; PDFをアップロード中にCMS、DAM、またはアーカイブシステムに動的に圧縮します。
+
+- **動的圧縮ルール**
+  &nbsp; ドキュメントのサイズ、コンテンツタイプ、またはターゲットデバイスに基づいて圧縮を調整します。
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

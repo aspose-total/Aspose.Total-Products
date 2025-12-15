@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+マクロを含むDOCMファイルは、マクロの機能と書式を保持しながらストレージを最適化するために圧縮されます。
+
+
+
+Python APIを使用して自動化されたDOCM圧縮を行うことで、マクロがそのまま保持され、文書の処理が自動化されたワークフローで効率化されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* **マクロ安全なストレージ**  
+
+&nbsp; 埋め込まれたマクロを壊さずにDOCMファイルを圧縮します。
+
+
+
+* **ファイル共有の高速化**  
+
+&nbsp; 縮小されたサイズにより、迅速なメール添付やクラウドへのアップロードが可能になります。
+
+
+
+* **アーカイブ管理**  
+
+&nbsp; 自動圧縮により、マクロが有効な文書の長期保存がサポートされます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチマクロドキュメントの圧縮**  
+
+&nbsp; 機能を保持しながら複数のDOCMファイルの処理を自動化します。
+
+
+
+* **Office Automationとの統合**  
+
+&nbsp; 圧縮されたファイルはワークフローシステムやDMSソリューションで管理できます。
+
+
+
+* **条件付きマクロ圧縮**  
+
+&nbsp; Pythonスクリプトを使用して、サイズや内容に基づいてDOCMファイルを選択的に圧縮できます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

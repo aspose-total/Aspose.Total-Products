@@ -100,7 +100,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Les fichiers DOTX, des modèles Word modernes sans macros, bénéficient de la compression pour une efficacité de stockage et un partage plus rapides.
+
+
+
+L'automatisation basée sur Python permet la compression des fichiers DOTX tout en préservant la mise en forme, la présentation et les ressources intégrées.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Efficacité de stockage des modèles**  
+
+&nbsp; Réduire la taille des fichiers DOTX tout en maintenant la cohérence du design.
+
+
+
+* **Partage rapide des modèles**  
+
+&nbsp; Des fichiers plus petits garantissent une distribution plus rapide au sein des équipes.
+
+
+
+* **Gestion archivistique**  
+
+&nbsp; La compression automatisée soutient la conservation à long terme des modèles.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Compression en lot des fichiers DOTX**  
+
+&nbsp; Les scripts Python peuvent compresser plusieurs fichiers de modèles en une seule fois.
+
+
+
+* **Intégration avec les systèmes de documents**  
+
+&nbsp; Les modèles compressés peuvent être gérés dynamiquement dans les flux de travail.
+
+
+
+* **Règles de compression intelligentes**  
+
+&nbsp; Automatiser en fonction de la taille du fichier, des objets intégrés ou des modèles riches en images.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

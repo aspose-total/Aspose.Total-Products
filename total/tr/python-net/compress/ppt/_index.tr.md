@@ -101,7 +101,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPT dosyalarının sıkıştırılması, eski PowerPoint sunumları için depolamayı azaltır ve transfer hızını artırırken biçimlendirmeyi, grafikleri ve gömülü medyayı korur.
+
+
+
+Python API'leri otomatik PPT sıkıştırmasını sağlar, ölçeklenebilir sunum yönetimini destekler ve iş akışı verimliliğini artırır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Sunumların Optimize Edilmesi**  
+
+&nbsp; Slayt düzenlerini veya içeriği etkilemeden PPT dosya boyutlarını azaltın.
+
+
+
+* **Daha Hızlı Paylaşım**  
+
+&nbsp; Daha küçük PPT dosyaları hızlı e-posta veya bulut dağıtımını sağlar.
+
+
+
+* **Arşivleme Verimliliği**  
+
+&nbsp; Otomatik sıkıştırma, eski sunumların uzun vadeli depolanmasını basitleştirir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu PPT Sıkıştırma**  
+
+&nbsp; Python betikleri birden fazla PPT dosyasını otomatik olarak işleyebilir.
+
+
+
+* **İş Akışı Sistemleriyle Entegrasyon**  
+
+&nbsp; Sıkıştırılmış dosyalar otomatik boru hatları veya DMS'de yönetilebilir.
+
+
+
+* **Koşullu Sıkıştırma**  
+
+&nbsp; Optimizasyon için boyuta veya gömülü medyaya dayalı dosyaları hedefleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

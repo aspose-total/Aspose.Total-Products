@@ -75,7 +75,65 @@ Para obter mais detalhes, consulte [Documentação do Produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A anotação ODP aprimora arquivos de apresentação em formato aberto com notas, destaques e metadados estruturais, apoiando uma comunicação mais clara e uma organização de slides aprimorada. Isso garante que as apresentações sejam mais fáceis de interpretar, revisar e reutilizar em diferentes plataformas.
+
+Automatizar a anotação ODP permite que os sistemas apliquem comentários padronizados, validem a estrutura dos slides e otimizem os processos de revisão de apresentações em grande escala.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+- **Notas de Revisão de Slides**  
+
+&nbsp; Adicione comentários explicando ajustes ou alterações necessárias.
+
+- **Destaque de Conteúdo**  
+
+&nbsp; Marque pontos de dados importantes ou problemas de design.
+
+- **Marcação de Metadados**  
+
+&nbsp; Insira detalhes de classificação para uma melhor indexação.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+- **Anotação em Lote de Slides**  
+
+&nbsp; Insira automaticamente notas em vários arquivos ODP.
+
+- **Verificação de Conformidade com Modelos**  
+
+&nbsp; Destaque slides que se desviam das regras de layout.
+
+- **Marcação Baseada em Palavras-Chave**  
+
+&nbsp; Detecte e anote termos importantes de forma programática.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

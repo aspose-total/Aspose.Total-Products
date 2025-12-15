@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLTX soubory (moderní šablony Excelu) využívají kompresi pro optimalizované ukládání a rychlejší sdílení, zachovávají veškeré formátování a vzorce.
+
+
+
+Python API umožňuje automatizovanou kompresi XLTX, což zlepšuje efektivitu pracovního postupu a integraci s systémy pro správu dokumentů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace ukládání šablon**  
+
+&nbsp; Kompresí XLTX šablon zachovat plnou funkcionalitu.
+
+
+
+* **Rychlé sdílení šablon**  
+
+&nbsp; Menší soubory umožňují rychlejší distribuci a spolupráci.
+
+
+
+* **Automatizované archivace**  
+
+&nbsp; Kompresí se zjednodušuje správa dlouhodobého ukládání.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese XLTX**  
+
+&nbsp; Python skripty automatizují kompresi více šablon.
+
+
+
+* **Integrace se systémy pracovních postupů**  
+
+&nbsp; Kompresované šablony lze načíst do automatizovaných potrubí.
+
+
+
+* **Chytrá komprese**  
+
+&nbsp; Podmíněná pravidla umožňují zaměřit se na šablony s velkými datovými sadami nebo vloženými médii.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

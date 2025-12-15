@@ -68,7 +68,75 @@ ODP ファイルを簡単に比較するための Python スクリプトまた�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODPの比較は、オープンドキュメントプレゼンテーション内のスライドレベルのコンテンツ、レイアウト、フォーマット、埋め込みメディアを検討します。視覚的コミュニケーション資料の正確なレビューをサポートします。
+
+
+
+自動ODP比較はスケーラビリティを向上させ、大規模なプレゼンテーションライブラリ全体や共同更新サイクルを迅速に検証できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+
+
+* **スライドの改訂追跡**  
+
+&nbsp; テキスト、メディア、デザインの更新を強調します。
+
+
+
+* **テーマの一貫性チェック**  
+
+&nbsp; テンプレートのルールが保持されていることを確認します。
+
+
+
+* **視覚コンテンツのレビュー**  
+
+&nbsp; スライド間でのレイアウトやコンテンツの変化を検出します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **一括ODPスライド比較**  
+
+&nbsp; 大規模にプレゼンテーションを効率的に比較します。
+
+
+
+* **自動スライド変更アラート**  
+
+&nbsp; 重要な更新をプログラムでフラグ付けします。
+
+
+
+* **継続的なスライド検証**  
+
+&nbsp; プレゼンテーション作成ワークフローにチェックを統合します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

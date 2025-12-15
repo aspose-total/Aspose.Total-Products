@@ -68,7 +68,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+השוואת PPSM מערכת מצגות מאקרו-מופעלות, נותחת מבנה שקופיות, מדיה מוטבעת, ערכות עיצוב ושינויי מאקרו. היא מבטיחה דיוק למצגות אוטומטיות ואינטראקטיביות.
+
+
+
+השוואת PPSM אוטומטית משפרת שליטה על תוכן חזותי מופעל על ידי מאקרו ומשפרת ממשלת מצגות בגדלים גדולים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **ביקורת על מצגת מבוססת מאקרו**  
+
+&nbsp; מזהה הבדלים ברמת קוד וברמת השקופית.
+
+
+
+* **אינטגריטה אינטראקטיבית של המצגת**  
+
+&nbsp; מבטיח פעילות נכונה ופריסה נכונה.
+
+
+
+* **תקן עיצוב**  
+
+&nbsp; שומר על שימוש אחיד בערכות עיצוב.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **התראות על שינויים אוטומטיים במאקרו**  
+
+&nbsp; זוהה עדכונים בתסריטים מוטבעים.
+
+
+
+* **מעקב אחר מצגות עסקיות**  
+
+&nbsp; מאמת מצגות בגדלים גדולים.
+
+
+
+* **אימות הפעלה רציפה**  
+
+&nbsp; משלב בדיקות בזרימות עבודה אוטומטיות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -43,9 +43,79 @@ Para un desarrollador, ¿quién intenta crear archivos DOTM a través de la apli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM — Las plantillas `.dotm` combinan la plantilla con el soporte de macros, lo que permite crear plantillas reutilizables con macros habilitados para comportamientos de documentos automatizados. La creación de archivos DOTM impulsada por Python permite la distribución de plantillas que incluyen automatización VBA aprobada mientras se controla el contenido de las macros de forma programática.
+
+
+
+Este formato es adecuado para organizaciones que requieren plantillas repetibles y mejoradas con macros para tareas de automatización local, al tiempo que garantizan que las macros estén gobernadas, validadas y opcionalmente firmadas durante el proceso de creación de la plantilla.
+
+La automatización permite la gestión segura del ciclo de vida de las macros: generación, análisis, firma e implementación, dentro de los flujos de trabajo de CI/CD.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Bibliotecas de Plantillas con Macros Habilitados**
+
+  Proporcionar plantillas DOTM que encapsulan la automatización repetible para los usuarios locales.
+
+
+
+* **Automatización Controlada de Plantillas**
+
+  Asegurar que las plantillas incluyan solo macros aprobadas para flujos de trabajo internos.
+
+
+
+* **Generación de Documentos basada en Plantillas**
+
+  Utilizar DOTM como origen para generar instancias DOCM/DOCX con comportamientos incrustados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Pipeline de CI para QA de Plantillas**
+
+  Validar automáticamente el comportamiento VBA y la integridad de la plantilla antes de la distribución.
+
+
+
+* **Implementación Segura de Plantillas**
+
+  Incrustar firmas digitales y enviar archivos DOTM a los usuarios a través de canales gestionados.
+
+
+
+* **Inyección Dinámica de Macros**
+
+  Actualizar programáticamente los módulos de macros dentro de las plantillas DOTM desde almacenes seguros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

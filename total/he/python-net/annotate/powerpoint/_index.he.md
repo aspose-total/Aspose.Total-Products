@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Powerpoint PPT PP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ההערה ב-POWERPOINT משפרת קבצי המצגת עם הערות, הדגשות והערות ספציפיות לשקפים, משפרת בהתבטאות במהלך שיתוף פעולה ובסקירת תוכן. המצגות המודגשות נוחות יותר לעדכון, לשיפור וליישום עם מטרות הודעה מסוימות.  
+
+האוטומציה מאפשרת מחזורי ביקורת מהירים על ידי הוספת הערות מובנות, זיהוי בעיות פריסה ויישום כללי הערה על חוקיות בכל השקפים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **משוב על השקפים**  
+
+&nbsp; הוספת הערות של בודקים להדרכת שיפורים.
+
+* **הדגשת עיצוב**  
+
+&nbsp; סימון אזורים הדורשים תיקונים חזותיים או מבניים.
+
+* **הערות לאימות תוכן**  
+
+&nbsp; הוספת הערות המזהות מידע חסר או לא ברור.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **הערה אוטומטית על מספר שקפים**  
+
+&nbsp; הוספת הערות באופן אוטומטי במצגות מרובות.
+
+* **בדיקות פריסה אוטומטיות**  
+
+&nbsp; סימון שקפים ששוברים חוקי עיצוב.
+
+* **סימון גילוי מילות מפתח**  
+
+&nbsp; הדגשת מונחים או קטעים באופן תכנותי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

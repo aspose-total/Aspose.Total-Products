@@ -43,9 +43,39 @@ Wer versucht als Entwickler, DOTX-Dateien über eine Python-Anwendung zu erstell
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## DOTX — `.dotx` ist die makrofreie Vorlage (OOXML), die sich ideal für die sichere Vorlagenverteilung und die deterministische Dokumentenerstellung eignet. Python-APIs können DOTX-Vorlagen mit Stilen, Inhaltselementen und Inhaltsplatzhaltern erstellen, um robuste, makrofreie Vorlagen für automatisierte Systeme zu ermöglichen.
+
+DOTX eignet sich für Umgebungen, die aus Sicherheitsgründen Makros verbieten, aber dennoch konsistente Vorlagen und die dynamische Befüllung von Inhalten erfordern. Die Automatisierung ermöglicht eine sichere, skalierbare Vorlagenerstellung und die nachgelagerte Generierung von DOCX-Instanzen ohne Einbettung ausführbaren Codes.
+
+Die programmgesteuerte Vorlagenerstellung unterstützt schemaabhängige Platzhalter, Inhaltselemente und Vorlagenvalidierung.
+
+## * **Sichere Vorlagenauslieferung**
+
+&nbsp; Erstellen Sie makrofreie DOTX-Vorlagen für die breite Verteilung in sicheren Umgebungen.
+
+## * **Formular- und Inhaltssteuervorlagen**
+
+&nbsp; Erstellen Sie DOTX-Vorlagen mit Inhaltselementen für die nachgelagerte Automatisierung.
+
+## * **Vorlagengetriebene Dokumentenmontage**
+
+&nbsp; Verwenden Sie DOTX-Vorlagen als maßgebliche Quelle für die programmgesteuerte Dokumentenerstellung.
+
+## * **Sichere Vorlagenpipelines**
+
+&nbsp; Automatisieren Sie die DOTX-Erstellung und setzen Sie Richtlinien durch, die die Einbindung von Makros verhindern.
+
+## * **Vorlagenvalidierungsaufgaben**
+
+&nbsp; Führen Sie automatisierte Überprüfungen durch, um sicherzustellen, dass Platzhalter und Stile den Schemaerwartungen entsprechen.
+
+## * **API-gesteuerter Vorlagengebrauch**
+
+&nbsp; Stellen Sie DOTX-Vorlagen über eine interne API für die bedarfsgesteuerte DOCX-Generierung bereit.
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

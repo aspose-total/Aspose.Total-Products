@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การบีบอัด CDR เน้นการปรับปรุงกราฟิกเวกเตอร์ของ CorelDRAW เพื่อลดขนาดไฟล์โดยรักษารูปร่าง ชั้น ข้อความ และโครงสร้างการออกแบบ โดยที่ไฟล์ CDR สามารถประกอบด้วยวัตถุเวกเตอร์ที่ซับซ้อนและสื่อที่ฝังอยู่ การบีบอัดเป็นสิ่งสำคัญสำหรับการปรับปรุงการจัดการโครงการ ประสิทธิภาพในการเก็บรักษา และการทำงานในการออกแบบ
+
+
+
+Python APIs สนับสนุนการบีบอัด การปรับปรุง และการแปลงไฟล์ CDR อัตโนมัติ เพื่อให้สามารถจัดการกราฟิกแอสเซ็ตได้ในขอบเขตการผลิต การพิมพ์ และสิ่งแวดล้อมข้อมูลดิจิทัล
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การปรับปรุงทรัพยากรการออกแบบกราฟิก**  
+
+&nbsp; บีบอัดการออกแบบเวกเตอร์ที่ซับซ้อนเพื่อลดขนาดไฟล์และให้สะดวกในการเก็บรักษาและแบ่งปันโครงการ
+
+
+
+* **กระบวนการผลิตงานพิมพ์**  
+
+&nbsp; ไฟล์ CDR ขนาดเล็กช่วยเพิ่มประสิทธิภาพในขั้นตอนการพรีเพรสและการประมวลผลการพิมพ์
+
+
+
+* **คลังข้อมูลไฟล์เวอร์ชัน**  
+
+&nbsp; การบีบอัดช่วยเก็บสำรองข้อมูลการออกแบบขนาดใหญ่ให้เบาขึ้นและง่ายต่อการจัดการ
+
+
+
+* **การส่งมอบข้ามแพลตฟอร์ม**  
+
+&nbsp; การลดขนาดไฟล์เพิ่มความเร็วในการถ่ายโอนระหว่างทีมออกแบบ เครื่องมือ และลูกค้า
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การบีบอัดไฟล์ CDR จำนวนมาก**  
+
+&nbsp; อัตโนมัติการปรับปรุงสำหรับไฟล์ CorelDRAW หลายร้อยไฟล์พร้อมกัน
+
+
+
+* **การแปลง CDR เป็นรูปแบบที่ถูกปรับปรุง**  
+
+&nbsp; แปลง CDR เป็น SVG, PDF, หรือ PNG พร้อมใช้กฎการบีบอัด
+
+
+
+* **การผสานท่องไฟล์ออกแบบ**  
+
+&nbsp; บีบอัดทรัพยากรโดยอัตโนมัติเมื่ออัปโหลดเข้าสู่ระบบ CMS, DAM, หรือระบบการทำงาน
+
+
+
+* **กฎการบีบอัดที่ปรับได้**  
+
+&nbsp; ปรับระดับการบีบอัดโดยอัตโนมัติตามความซับซ้อนของไฟล์หรือสื่อที่ฝังอยู่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

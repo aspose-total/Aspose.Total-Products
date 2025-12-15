@@ -78,7 +78,87 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresja DIB zmniejsza rozmiar plików bitmap niezależnych od urządzenia, które przechowują dane pikseli bez formatowania specyficznego dla sprzętu. Obrazy te są często duże, ponieważ zachowują surowe, nieskompresowane dane bitmapowe, co sprawia, że kompresja jest niezbędna dla efektywnego przechowywania i przetwarzania w nowoczesnych procesach roboczych.
+
+
+
+Interfejsy API Pythona umożliwiają zautomatyzowanie optymalizacji DIB, minimalizację rozmiaru pliku i konwersję tych bitmap na bardziej skompresowane formaty, poprawiając skalowalność w potokach obrazowania i systemach aktywów cyfrowych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Optymalizacja starych bitmap**  
+
+&nbsp; Kompresuje duże pliki DIB pochodzące z starszego oprogramowania obrazowania lub systemów.
+
+
+
+* **Efektywność przechowywania**  
+
+&nbsp; Znacznie zmniejsza użycie dysku dla organizacji z obszernymi repozytoriami bitmap.
+
+
+
+* **Szybszy transfer i przesyłanie**  
+
+&nbsp; Umożliwia szybsze udostępnianie ciężkich plików obrazów w sieciach lub platformach chmurowych.
+
+
+
+* **Archiwizacja obrazów**  
+
+&nbsp; Pomaga utrzymać lekkie archiwa bez kompromitowania istotnych danych pikseli.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Kompresja wsadowa DIB**  
+
+&nbsp; Zautomatyzuj zmniejszanie rozmiaru dla setek lub tysięcy plików bitmap jednocześnie.
+
+
+
+* **Automatyczna konwersja na nowoczesne formaty**  
+
+&nbsp; Konwertuj DIB na PNG, JPEG lub WebP z inteligentnymi zasadami kompresji.
+
+
+
+* **Optymalizacja przesyłania w czasie rzeczywistym**  
+
+&nbsp; Pliki DIB mogą być automatycznie kompresowane podczas przyjmowania do platform obrazowania.
+
+
+
+* **Kompresja świadoma rozdzielczości**  
+
+&nbsp; Automatyzacja dostosowuje intensywność kompresji na podstawie wymiarów pikseli lub głębokości kolorów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

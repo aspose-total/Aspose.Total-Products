@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTMファイルはマクロが有効化されたテンプレートです。圧縮によりストレージを削減しながらマクロ機能を維持し、効率的なテンプレート展開が可能となります。
+
+
+
+Python APIは、エンタープライズおよび共同作業環境での整合性を維持するために、DOTMの自動圧縮をサポートしています。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **マクロテンプレートの保存**  
+
+&nbsp; マクロを壊さずにDOTMファイルを安全に圧縮します。
+
+
+
+* **迅速なテンプレート配布**  
+
+&nbsp; より小さなファイルはチームやシステム間で共有しやすくなります。
+
+
+
+* **テンプレートのアーカイブ**  
+
+&nbsp; 自動圧縮により長期間の効率的な保存が確保されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **一括DOTM圧縮**  
+
+&nbsp; Pythonスクリプトにより複数のマクロが有効化されたテンプレートを自動的に処理できます。
+
+
+
+* **ワークフロー統合**  
+
+&nbsp; 圧縮されたテンプレートは自動文書生成システムで利用できます。
+
+
+
+* **条件付き圧縮**  
+
+&nbsp; サイズ、コンテンツ、またはマクロの複雑さに基づいて自動化します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

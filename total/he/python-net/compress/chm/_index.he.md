@@ -77,7 +77,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+דחיסת CHM מפחיתה את גודל קבצי העזרה המרוכזים ב־HTML, שמכילים עמודי HTML, תמונות ומבני ניווט לתיעוד תוכנה. קבצי CHM דחוסים משפרים את אפקטיביות האחסון, מהירות ההפצה ונגישות המשתמש.
+
+
+
+ממשקי ה־Python מאפשרים דחיסת CHM אוטומטית, עיבוד רצף, ואינטגרציה עם זרימות עבודה לתיעוד כדי לנהל בצורה קלה מערכות עזר ומדריכים טכניים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **משלוח תיעוד תוכנה**  
+
+&nbsp; קבצי CHM דחוסים נטענים במהירות ותופסים פחות מקום בדיסק.
+
+
+
+* **ארכיבה וגיבוי**  
+
+&nbsp; ירידה באחסון לאוספי קבצי עזרה גדולים וישנים.
+
+
+
+* **שיתוף יעיל**  
+
+&nbsp; קבצי CHM קטנים משדרים במהירות ברשתות או בין התקנים.
+
+
+
+* **נגישות למשתמש**  
+
+&nbsp; קבצים מאופטימליים משפרים את ביצועי הטעינה בתוכנות עזר.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **דחיסת CHM בצורת עצמאות**  
+
+&nbsp; אוטומציה של ירידת הגודל עבור מספר קבצי עזרה.
+
+
+
+* **אופטימיזציה מוטבעת של נכסים**  
+
+&nbsp; דחיסת תמונות, סקריפטים ועמודי HTML באופן אוטומטי.
+
+
+
+* **אינטגרציה עם צינורות תיעוד**  
+
+&nbsp; דחיסת קבצי CHM במהלך זרימות הבניה או ההפצה.
+
+
+
+* **רמות דחיסה דינמיות**  
+
+&nbsp; כיוון בהתאם לגודל ולמורכבות התוכן.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

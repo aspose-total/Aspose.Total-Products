@@ -78,7 +78,69 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLTM-Dateien (makrofähige Vorlagen) erfordern eine Komprimierung, die Makros erhält, die Dateigröße reduziert und die Verteilung verbessert.
+
+
+
+Die auf Python basierende Automatisierung unterstützt eine skalierbare XLTM-Vorlagenkomprimierung für Unternehmensworkflows.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Makroerhaltung**  
+  &nbsp; Makros werden beibehalten, während XLTM-Vorlagen komprimiert werden.
+
+
+
+* **Effiziente Weitergabe**  
+  &nbsp; Kleinere Vorlagen verbessern die Zusammenarbeit in Teams.
+
+
+
+* **Vorlagenarchivierung**  
+  &nbsp; Die automatisierte Komprimierung verbessert die langfristige Speicherung von Vorlagen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Batch-Komprimierung von XLTM**  
+  &nbsp; Python-Skripte können mehrere makrofähige Vorlagen automatisch verarbeiten.
+
+
+
+* **Integration mit BI- und Workflow-Systemen**  
+  &nbsp; Komprimierte XLTM-Vorlagen können in automatisierten Pipelines verwendet werden.
+
+
+
+* **Bedingte Komprimierung**  
+  &nbsp; Große Vorlagen oder solche mit eingebetteten Medien können für die Komprimierung ausgewählt werden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,43 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+CMX圧縮は、詳細なイラスト、レイヤー、およびカラープロファイルを含むことが多いCorel Presentation Exchangeベクターグラフィックスのサイズを縮小します。 CMXファイルを最適化することで、デザインワークフローのパフォーマンスが向上し、共有が加速し、クリエイティブおよび技術環境全体でのストレージ要件が削減されます。
+
+Python APIを使用すると、自動化されたCMX圧縮と変換が可能となり、出版、印刷、およびグラフィック管理システムでの大規模なベクターアセットの効率的な取り扱いが保証されます。
+
+## {{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **デザインプロジェクトの最適化**
+   &nbsp; レイヤー化されたCMXグラフィックスを圧縮してファイルの取り扱いを効率化し、ストレージへの影響を軽減します。
+
+* **出版および印刷パイプライン**
+   &nbsp; より小さなCMXファイルは、レンダリング、編集、および転送プロセスを高速化します。
+
+* **アセットライブラリの管理**
+   &nbsp; 最適化されたCMXコレクションは、デジタルアセットリポジトリ内でより速く読み込まれます。
+
+* **クロスプラットフォームの交換**
+   &nbsp; 圧縮されたCMXファイルは、デザインチームやアプリケーション間で効率的に転送されます。
+
+## {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量のCMX圧縮**
+   &nbsp; Pythonワークフローを使用して大量のCMXグラフィックスを自動的に最適化します。
+
+* **CMXから圧縮形式への変換**
+   &nbsp; CMXをSVG、PDF、PNG、またはEPSに変換しながら圧縮ルールを適用します。
+
+* **自動アップロードの最適化**
+   &nbsp; CMXファイルは、DMSやDAMシステムに取り込まれるときに即座に圧縮されます。
+
+* **コンテンツに応じた圧縮**
+   &nbsp; ベクターの複雑さや埋め込まれたコンポーネントに基づいて最適化の強度を調整します。
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

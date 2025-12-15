@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT аннотация обогащает обычные текстовые файлы структурированными комментариями, маркерами и заметками для рецензии, улучшая понимание в технических и документационных рабочих процессах. Она помогает уточнить содержание, не изменяя простоту файла.  
+
+Автоматизация поддерживает быструю обработку TXT в большом масштабе путем обнаружения шаблонов, вставки аннотаций и обеспечения структурированных заметок.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Технические комментарии**  
+
+&nbsp; Добавление описательных заметок для файлов конфигурации или кода.
+
+* **Выявление ошибок**  
+
+&nbsp; Пометка подозрительных или устаревших строк.
+
+* **Инструкционная разметка**  
+
+&nbsp; Вставка простых тегов руководства.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Аннотация на основе шаблонов**  
+
+&nbsp; Обнаружение и выделение предопределенных структур.
+
+* **Массовая обработка файлов**  
+
+&nbsp; Программная аннотация больших коллекций TXT.
+
+* **Автоматизированные заметки для рецензии**  
+
+&nbsp; Вставка комментариев на основе правил по всем файлам.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

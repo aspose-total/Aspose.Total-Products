@@ -101,7 +101,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Les fichiers PPSM (diaporama PowerPoint activé par macro) nécessitent une compression qui préserve les macros tout en réduisant la taille du fichier pour un partage et un stockage efficaces.
+
+
+
+L'automatisation basée sur Python permet une compression PPSM évolutive tout en maintenant la fonctionnalité des macros.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Préservation des macros**  
+
+&nbsp; Compresser en toute sécurité les fichiers PPSM sans casser les macros.
+
+
+
+* **Partage plus rapide**  
+
+&nbsp; Des fichiers plus petits permettent une distribution efficace aux équipes ou au stockage cloud.
+
+
+
+* **Gestion archivistique**  
+
+&nbsp; La compression automatisée garantit le stockage à long terme des fichiers de diaporama activés par macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Compression en lot de fichiers PPSM**  
+
+&nbsp; Les scripts Python peuvent traiter automatiquement plusieurs fichiers de diaporama activés par macro.
+
+
+
+* **Intégration avec les systèmes de workflow**  
+
+&nbsp; Les fichiers PPSM compressés peuvent être utilisés dans des flux de travail de présentation automatisés.
+
+
+
+* **Compression conditionnelle**  
+
+&nbsp; Cibler les fichiers en fonction de l'utilisation des macros ou des médias intégrés pour l'optimisation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

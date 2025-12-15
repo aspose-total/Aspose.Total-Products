@@ -78,7 +78,87 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+OTT-compressie richt zich op OpenDocument Tekstsjabloonbestanden, optimaliseert lay-out, stijlen en ingesloten media om de bestandsgrootte te verkleinen. Gecomprimeerde OTT-bestanden verbeteren opslag, overdrachtssnelheid en workflow-efficiëntie voor het maken van documenten op basis van sjablonen.
+
+
+
+Python API's maken geautomatiseerde OTT-compressie, batchverwerking en integratie met systemen voor documentautomatisering mogelijk voor schaalbaar sjabloonbeheer.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Optimalisatie van Sjablothebibliotheek**  
+
+  &nbsp; Kleinere OTT-bestanden verminderen de opslagruimte voor grote sjabloonverzamelingen.
+
+
+
+* **Efficiënt Delen \& Samenwerken**  
+
+  &nbsp; Gecomprimeerde sjablonen zijn sneller te verspreiden en toegankelijk.
+
+
+
+* **Workflow-integratie**  
+
+  &nbsp; Geoptimaliseerde OTT-bestanden verbeteren de prestaties in geautomatiseerde documentgeneratiepijplijnen.
+
+
+
+* **Archivering \& Back-up**  
+
+  &nbsp; Verminder de opslagruimte voor historische sjabloonversies.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Batch OTT-compressie**  
+
+  &nbsp; Automatiseer de verkleining van de grootte voor meerdere sjablonen.
+
+
+
+* **Optimalisatie van Ingesloten Media**  
+
+  &nbsp; Comprimeer afbeeldingen, objecten en stijlen binnen sjablonen automatisch.
+
+
+
+* **Integratie met CMS/DAM**  
+
+  &nbsp; Comprimeer OTT-bestanden bij het uploaden naar documentbeheersystemen.
+
+
+
+* **Dynamische Compressieniveaus**  
+
+  &nbsp; Pas optimalisatie aan op basis van de complexiteit van de inhoud en de gebruikscontext.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

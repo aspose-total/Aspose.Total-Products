@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تتطلب ملفات XLSM (سجلات عمل Excel التي تدعم التشغيل التلقائي) ضغطًا يحافظ على الماكروهات المضمنة مع تحسين التخزين والمشاركة.
+
+
+
+تسمح واجهات برمجة التطبيقات في Python بضغط ملفات XLSM تلقائيًا، مع الحفاظ على وظائف الماكرو وتمكين تكامل سير العمل بشكل قابل للتوسيع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **الحفاظ على الماكروهات**  
+
+&nbsp; ضغط ملفات XLSM بأمان دون تعطيل الماكروهات المضمنة.
+
+
+
+* **مشاركة وتعاون أسرع**  
+
+&nbsp; تسهل ملفات XLSM الأصغر عمل فرق العمل وتحميلها على السحابة.
+
+
+
+* **أرشفة تلقائية**  
+
+&nbsp; يضمن الضغط تخزينًا فعالًا لسجلات العمل التي تدعم الماكروهات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط دفعي لملفات XLSM**  
+
+&nbsp; يمكن لنصوص Python معالجة ملفات تدعم التشغيل التلقائي بشكل تلقائي.
+
+
+
+* **التكامل مع منصات BI وDMS**  
+
+&nbsp; يمكن إدارة الملفات المضغوطة في الأنظمة التلقائية.
+
+
+
+* **ضغط مشروط**  
+
+&nbsp; يمكن للتشغيل التلقائي استهداف الملفات ذات الماكروهات الكبيرة أو المحتوى الوسائطي الثقيل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

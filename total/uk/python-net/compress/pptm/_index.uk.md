@@ -98,7 +98,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файли PPTM (презентації з макросами) користуються стисненням, яке зберігає макроси, зменшуючи при цьому розмір файлу для обміну та зберігання.
+
+
+
+Python APIs дозволяють автоматизоване стиснення PPTM зі збереженням функціональності макросів для корпоративних робочих процесів.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* **Збереження макросів**  
+
+&nbsp; Стиснення файлів PPTM без руйнування вбудованих макросів.
+
+
+
+* **Швидша співпраця**  
+
+&nbsp; Менші файли з макросами сприяють спільній роботі команд та завантаженню в хмару.
+
+
+
+* **Автоматизоване архівування**  
+
+&nbsp; Стиснення забезпечує ефективне довгострокове зберігання презентацій з макросами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Пакетне стиснення PPTM**  
+
+&nbsp; Сценарії Python можуть автоматично обробляти кілька файлів з макросами.
+
+
+
+* **Інтеграція з системами робочих процесів**  
+
+&nbsp; Стиснені файли PPTM можуть бути використані в автоматизованих документальних робочих процесах.
+
+
+
+* **Умовне стиснення**  
+
+&nbsp; Автоматизація може спрямовуватися на файли з великими медіа або складними макросами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT sıkıştırma, içeriği kaybetmeden gereksiz tekrarları ortadan kaldırarak düz metin dosyalarının boyutunu azaltmayı hedefler. Bu, depolama verimliliği, daha hızlı iletim ve otomasyon ve veri akışlarında optimize edilmiş işleme için önemlidir.
+
+
+
+Python API'leri, otomatik TXT sıkıştırma, toplu işleme ve arşivleme iş akışlarını destekleyerek günlükler, betikler, yapılandırma dosyaları ve büyük metin veri kümelerinin ölçeklenebilir şekilde işlenmesini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Günlük Dosyası Yönetimi**  
+
+&nbsp; Büyük günlük dosyalarını sıkıştırarak depolama alanı tasarrufu yapın ve geri alımı iyileştirin.
+
+
+
+* **Veri Arşivleme**  
+
+&nbsp; Uzun vadeli depolama için düz metin veri kümelerinin boyutunu azaltır.
+
+
+
+* **Yapılandırma ve Betik Depolama**  
+
+&nbsp; Sıkıştırılmış TXT dosyaları otomatik dağıtımları ve yedeklemeleri daha verimli hale getirir.
+
+
+
+* **Metin Tabanlı İçerik Dağıtımı**  
+
+&nbsp; Daha küçük dosyalar ağlar veya bulut sistemleri arasında daha hızlı aktarılır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu TXT Sıkıştırma**  
+
+&nbsp; Birden fazla düz metin dosyası için sıkıştırmayı otomatikleştirin.
+
+
+
+* **İş Akışlarına Entegrasyon**  
+
+&nbsp; Veri sistemlerine veya arşivlere alınırken TXT'yi otomatik olarak sıkıştırın.
+
+
+
+* **Boyuta Bağlı Dinamik Sıkıştırma**  
+
+&nbsp; Küçük dosyaları dokunmadan büyük dosyalara daha güçlü sıkıştırma uygulayın.
+
+
+
+* **Biçim Dönüşümü ve Sıkıştırma**  
+
+&nbsp; TXT'yi sıkıştırılmış arşivlere (ZIP, GZ) dönüştürerek otomatik iş akışlarının bir parçası yapın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

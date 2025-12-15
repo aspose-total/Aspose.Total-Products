@@ -43,9 +43,79 @@ Egy fejlesztő számára ki próbál DOT fájlokat létrehozni Python alkalmazá
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT — A `.dot` sablonfájlok újrafelhasználható stílusokat és struktúrát határoznak meg a régi Word munkafolyamatokhoz; a DOT sablonok létrehozása Python segítségével lehetővé teszi a szervezetek számára, hogy állandó formázást tartsanak fenn levélküldéshez, űrlapokhoz és standardizált dokumentumokhoz, amelyeket régebbi kliensek használnak.
+
+
+
+A programozott DOT generálás biztosítja, hogy a sablonok központilag frissüljenek, és automatikusan terjeszthetők legyenek a végfelhasználók vagy dokumentumszolgáltatások számára.
+
+Az automatizálás támogatja a tervezett sablonfrissítéseket, a verziókezelést és a konkrét dokumentumok létrehozását a sablonokból.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Örökségi Sablonelosztás**
+
+&nbsp; Hozzon létre DOT sablonokat, amelyek biztosítják az egységes elrendezést a régi eszközrendszerben.
+
+
+
+* **Standardizált Űrlapsablonok**
+
+&nbsp; Készítsen űrlapsablonokat helykitöltőkkel manuális vagy automatizált levélküldéshez.
+
+
+
+* **Sablonverziók**
+
+&nbsp; Automatizálja a verziócímkézést és a DOT sablonok kiadását a dokumentumtárolókba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Automatizált Sablonfrissítés**
+
+&nbsp; Cserélje le vagy javítsa a DOT sablonokat egy központi forrásból, és terjessze az frissítéseket programozottan.
+
+
+
+* **Sablonvezérelt Tömeges Létrehozás**
+
+&nbsp; Használja a DOT sablonokat sok kitöltött dokumentum létrehozásához automatizált összefűzések segítségével.
+
+
+
+* **Ellenőrzési Nyomkövetés a Sablonokhoz**
+
+&nbsp; Ágyazza be a metaadatokat és a változásnaplókat a programozott sablonkészítés során a szabályozás érdekében.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

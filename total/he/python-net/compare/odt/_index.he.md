@@ -70,7 +70,73 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+השוואת ODT בודקת טקסט, סגנונות, מבנה פריסה, ורכיבים מוטבעים כדי להבטיח דיוק בתוכן בקבצי טקסט מסמך פתוחים. היא תומכת במעקב שקוף אחר שינויים ואיכות הבטחה.
+
+השוואת ODT אוטומטית מפחיתה את המאמץ הידני ומשפרת את האינטגרציה עם מערכות משרד משותפות וצינורות אוטומציה של מסמכים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **מעקב אחר שינויי תוכן**  
+
+&nbsp; מזהה הוספות, מחיקות, ושינויי עיצוב.
+
+
+
+* **התאמה למסמך פתוח**  
+
+&nbsp; מבטיחה עקביות במבנה הנדרש של המסמך.
+
+
+
+* **שליטה בעריכה צלב-פלטפורמות**  
+
+&nbsp; זוהה שינויים שנגרמו על ידי עריכה בכלים שונים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **אימות ODT בצמיחה**  
+
+&nbsp; מעבד סטים גדולים של מסמכים באופן אוטומטי.
+
+
+
+* **זרימות עריכה אוטומטיות**  
+
+&nbsp; מפעיל בדיקות במהלך יצירת המסמך.
+
+
+
+* **דיווח על שינויים תכנותי**  
+
+&nbsp; יוצר סיכומי הבדל מובנים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

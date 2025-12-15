@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файлы FODS (Flat OpenDocument Spreadsheet) получают преимущество от сжатия для уменьшения объема хранения и улучшения скорости передачи, сохраняя совместимость со стандартами OpenDocument.
+
+
+
+Автоматизация на основе Python обеспечивает эффективное сжатие для масштабируемой интеграции в рабочий процесс.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Стандартизированное сжатие таблиц**  
+
+&nbsp; Уменьшение размера файла FODS с сохранением совместимости и структуры.
+
+
+
+* **Быстрое совместное использование**  
+
+&nbsp; Сжатые файлы FODS могут быстро передаваться между платформами.
+
+
+
+* **Эффективность архивирования и резервного копирования**  
+
+&nbsp; Автоматизированное сжатие упрощает управление хранением для форматов открытых документов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие файлов FODS**  
+
+&nbsp; Сценарии Python могут автоматически обрабатывать несколько файлов FODS.
+
+
+
+* **Интеграция в рабочий процесс**  
+
+&nbsp; Сжатые файлы могут быть загружены в автоматизированные системы или облачное хранилище.
+
+
+
+* **Условное сжатие**  
+
+&nbsp; Оптимизация для крупных или медиа-тяжелых файлов FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

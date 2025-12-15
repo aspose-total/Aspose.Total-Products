@@ -43,9 +43,79 @@ Per uno sviluppatore, chi sta cercando di creare file DOC tramite l'applicazione
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOC — La creazione di file `.doc` (Word binario legacy) tramite API Python consente l'automazione per sistemi più vecchi e preserva la compatibilità con le catene di strumenti legacy. Gli approcci tipici in Python si basano su librerie che possono assemblare la struttura binaria o utilizzare l'automazione COM su Windows per esportare o salvare documenti binari classici da contenuti programmatici.
+
+
+
+Lo scripting DOC è utile quando è richiesta la compatibilità all'indietro; i documenti generati possono includere testo strutturato, stili di base, intestazioni/piedi di pagina e oggetti incorporati dove supportato.
+
+L'automazione consente di creare pipeline di conversione che accettano fonti moderne (markdown, HTML, DOCX) ed emettono `.doc` per archiviazione o integrazione con applicazioni legacy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Integrazione con Sistemi Legacy**
+
+&nbsp; Produrre file .doc per software aziendali più vecchi che richiedono il formato binario.
+
+
+
+* **Esportazioni Archiviate**
+
+&nbsp; Convertire documenti moderni in .doc per archiviazione a lungo termine quando richiesto dalle politiche legacy.
+
+
+
+* **Interoperabilità con Vecchi Strumenti**
+
+&nbsp; Creare output .doc per garantire la compatibilità con sistemi di stampa o di stampa unione più vecchi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Conversione Formato Automatizzata**
+
+&nbsp; Convertire batch di DOCX in DOC in lavori programmati per test di compatibilità.
+
+
+
+* **Esportazione Scriptata da Modelli**
+
+&nbsp; Utilizzare la generazione basata su modelli che salva documenti finali come .doc per processi successivi.
+
+
+
+* **Integrazione con Pipeline ETL**
+
+&nbsp; Incorporare la generazione DOC in lavori ETL che preparano documenti per consumatori legacy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

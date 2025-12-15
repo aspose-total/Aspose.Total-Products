@@ -43,9 +43,79 @@ Untuk pengembang, siapa yang mencoba membuat file RTF melalui aplikasi Python? [
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF — Rich Text Format (RTF) adalah format teks lintas platform yang didukung oleh banyak editor; generasi RTF berbasis Python berguna saat membuat dokumen berarsir sederhana yang harus diterima oleh berbagai klien. RTF kurang memiliki fitur canggih OOXML tetapi unggul dalam teks berarsir portabel, tabel sederhana, dan objek inline.
+
+
+
+Automasi RTF sesuai untuk mail-merge, surat berarsir sederhana, atau sistem di mana kompatibilitas maksimum diperlukan. Pembuatan program dapat dilakukan dengan templating fragmen RTF atau menggunakan pustaka yang membangun token RTF secara langsung.
+
+Automasi menyederhanakan ekspor RTF massal dan pipa konversi yang ditujukan untuk konsumen ringan atau legacy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Generasi Surat lintas Platform**
+
+  Produksi dokumen RTF untuk klien yang lebih suka teks berarsir portabel.
+
+
+
+* **Mail-merge untuk Dokumen Sederhana**
+
+  Membuat surat dan pemberitahuan yang dipersonalisasi dalam RTF untuk kompatibilitas yang luas.
+
+
+
+* **Interchange dengan Sistem Non-OOXML**
+
+  Ekspor konten ke RTF untuk sistem yang tidak dapat mengurai DOCX atau Word biner.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Automasi" %}}
+
+
+
+* **Ekspor RTF Massal**
+
+  Otomatisasikan pembuatan ribuan file RTF dari feed data terstruktur.
+
+
+
+* **Pipa Format Cadangan**
+
+  Berikan versi RTF secara otomatis ketika konsumen tidak dapat menangani DOCX/DOCM.
+
+
+
+* **Mesin Templating Sederhana**
+
+  Gunakan penggantian token programatik dalam templat RTF sebagai bagian dari alur kerja otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

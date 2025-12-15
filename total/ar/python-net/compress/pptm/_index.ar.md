@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تستفيد ملفات PPTM (العروض التقديمية التي تم تمكينها بالماكرو) من ضغط يحافظ على الماكروهات مع تقليل حجم الملف للمشاركة والتخزين.
+
+
+
+تسمح واجهات برمجة التطبيقات في Python بضغط ملفات PPTM تلقائيًا مع الحفاظ على وظائف الماكرو لسير العمل في المؤسسة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **الحفاظ على الماكرو**  
+
+&nbsp; ضغط ملفات PPTM دون كسر الماكروهات المضمنة.
+
+
+
+* **التعاون الأسرع**  
+
+&nbsp; تسهل الملفات الصغيرة التي تم تمكينها بالماكرو على الفريق مشاركة الملفات وتحميلها على السحابة.
+
+
+
+* **الأرشفة التلقائية**  
+
+&nbsp; يضمن الضغط تخزين العروض التقديمية ذات الماكرو بكفاءة على المدى الطويل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط مجمع لملفات PPTM**  
+
+&nbsp; يمكن لنصوص Python معالجة ملفات تم تمكينها بالماكرو تلقائيًا.
+
+
+
+* **التكامل مع أنظمة سير العمل**  
+
+&nbsp; يمكن استخدام ملفات PPTM المضغوطة في سيناريوهات العمليات الوثائقية التلقائية.
+
+
+
+* **الضغط الشرطي**  
+
+&nbsp; يمكن للتشغيل التلقائي استهداف الملفات ذات الوسائط الكبيرة أو الماكروهات المعقدة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

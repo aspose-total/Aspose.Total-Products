@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تستفيد ملفات PPSX (عرض PowerPoint الحديث) من ضغط لتقليل التخزين وتسريع عملية المشاركة، مع الحفاظ على محتوى الشرائح والرسوم المتحركة والوسائط المضمنة.
+
+
+
+تمكن واجهات برمجة التطبيقات في Python من ضغط PPSX تلقائيًا، مما يحسن سير العروض التقديمية والقابلية للتوسع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين التخزين**  
+
+&nbsp; ضغط ملفات PPSX دون التأثير على الشرائح أو الرسوم المتحركة.
+
+
+
+* **تعزيز التعاون**  
+
+&nbsp; تسمح الملفات الأصغر بالمشاركة السريعة عبر الفرق والمنصات.
+
+
+
+* **كفاءة الأرشفة**  
+
+&nbsp; يضمن الضغط التلقائي تخزين الملفات العرضية على المدى الطويل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائية" %}}
+
+
+
+* **ضغط ملفات PPSX بالدُفعة**  
+
+&nbsp; يمكن لنصوص Python ضغط عدة ملفات PPSX تلقائيًا.
+
+
+
+* **التكامل مع أنظمة العمل والسحابة**  
+
+&nbsp; يمكن معالجة ملفات PPSX المضغوطة بشكل ديناميكي في سياق سير العمل التلقائي.
+
+
+
+* **قواعد ذكية للضغط**  
+
+&nbsp; يستهدف التلقائي الشروطي الملفات التي تحتوي على وسائط عالية الدقة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -168,7 +236,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

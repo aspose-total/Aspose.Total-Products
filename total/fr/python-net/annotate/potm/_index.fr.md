@@ -75,7 +75,65 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'annotation POTM améliore les modèles de présentation activés par macro en ajoutant des notes qui clarifient la logique des diapositives, les instructions de mise en page et le comportement des macros. Cela améliore la convivialité du modèle et garantit une génération de présentation cohérente.
+
+L'automatisation de l'annotation POTM facilite le suivi de l'utilisation des macros, l'application des politiques de mise en page et la mise à jour des directives de manière programmée.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Notes sur la logique des macros**  
+
+&nbsp; Décrire les fonctions de diapositives automatisées.
+
+* **Guidage du modèle**  
+
+&nbsp; Fournir des instructions pour le contenu des diapositives.
+
+* **Marqueurs de cohérence de conception**  
+
+&nbsp; Mettre en évidence les éléments de mise en page requis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Balayage et annotation des macros**  
+
+&nbsp; Documenter automatiquement les scripts détectés.
+
+* **Maintenance en masse des modèles**  
+
+&nbsp; Appliquer automatiquement le texte de directives mis à jour.
+
+* **Validation automatique de la mise en page**  
+
+&nbsp; Marquer les diapositives non conformes de manière programmée.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

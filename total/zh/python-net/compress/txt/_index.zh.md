@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT压缩专注于通过消除冗余来减小纯文本文件的大小，而不丢失内容。这对于存储效率、更快的传输以及在自动化和数据管道中进行优化处理非常重要。
+
+
+
+Python API支持自动化TXT压缩、批处理处理和归档工作流程，支持对日志、脚本、配置文件和大型文本数据集的可扩展处理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **日志文件管理**  
+
+&nbsp; 压缩大型日志文件以节省存储空间并改善检索。
+
+
+
+* **数据归档**  
+
+&nbsp; 减小纯文本数据集的占用空间，用于长期存储。
+
+
+
+* **配置与脚本存储**  
+
+&nbsp; 压缩的TXT文件使得自动部署和备份更加高效。
+
+
+
+* **基于文本的内容分发**  
+
+&nbsp; 较小的文件在网络或云系统间传输更快速。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量TXT压缩**  
+
+&nbsp; 自动化处理多个纯文本文件的压缩。
+
+
+
+* **管道集成**  
+
+&nbsp; 在数据系统或存档中自动压缩TXT。
+
+
+
+* **基于大小的动态压缩**  
+
+&nbsp; 对较大文件应用更强的压缩，同时保持较小文件不变。
+
+
+
+* **格式转换与压缩**  
+
+&nbsp; 将TXT转换为压缩存档（ZIP、GZ）作为自动化工作流的一部分。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

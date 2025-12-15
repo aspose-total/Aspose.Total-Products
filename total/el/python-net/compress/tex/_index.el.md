@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Η συμπίεση TEX μειώνει το μέγεθος των αρχείων πηγαίου κώδικα LaTeX, τα οποία συχνά περιέχουν επαναλαμβανόμενη σήμανση, σχόλια ή εντολές μορφοποίησης. Η βελτιστοποίηση των αρχείων TEX βελτιώνει την αποδοτικότητα αποθήκευσης, την ταχύτητα σύνθεσης και τη βελτίωση της συνεργασίας σε ακαδημαϊκά, εκδοτικά και επιστημονικά ροές εργασίας.
+
+
+
+Οι Python APIs επιτρέπουν την αυτοματοποίηση της συμπίεσης TEX, την παρτίδα επεξεργασίας και την ολοκλήρωση με συστήματα παραγωγής εγγράφων για κλιμακούμενες ροές εργασίας LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Χρήσεις" %}}
+
+
+
+* **Ακαδημαϊκά \& Ερευνητικά Έγγραφα**  
+
+&nbsp; Μείωση του μεγέθους των πηγών LaTeX για μεγάλα έγγραφα, διατριβές και διατριβές.
+
+
+
+* **Ροές Εργασίας Δημοσίευσης**  
+
+&nbsp; Τα συμπιεσμένα αρχεία TEX διευκολύνουν τις διαδικασίες σύνθεσης και διανομής.
+
+
+
+* **Έλεγχος Έκδοσης \& Συνεργασία**  
+
+&nbsp; Τα μικρότερα αρχεία βελτιώνουν την αποδοτικότητα σε αποθετήρια και στη συλλογική επεξεργασία.
+
+
+
+* **Αρχειοθέτηση \& Αντίγραφα Ασφαλείας**  
+
+&nbsp; Οι βελτιστοποιημένοι φάκελοι TEX μειώνουν την αποθήκευση για ιστορικό ακαδημαϊκού περιεχομένου.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+
+
+* **Παρτίδα Συμπίεσης TEX**  
+
+&nbsp; Αυτοματοποιήστε τη μείωση μεγέθους για πολλαπλά αρχεία LaTeX.
+
+
+
+* **Αφαίρεση Σχολίων \& Περιττών Επαναλαμβανόμενων**  
+
+&nbsp; Αφαιρέστε αυτόματα την περιττή σήμανση ή τις επαναλαμβανόμενες εντολές.
+
+
+
+* **Ολοκλήρωση Ροής Εργασίας**  
+
+&nbsp; Συμπιέστε αρχεία TEX όταν ανεβαίνουν σε αυτόματα συστήματα σύνθεσης ή δημοσίευσης.
+
+
+
+* **Μετατροπή + Συμπίεση**  
+
+&nbsp; Μετατρέψτε TEX σε PDF ή άλλες μορφές εφαρμόζοντας κανόνες συμπίεσης.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

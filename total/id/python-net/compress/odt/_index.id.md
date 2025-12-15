@@ -100,7 +100,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi ODT mengurangi ukuran file OpenDocument Text, yang umum digunakan untuk pengolahan kata. File ODT yang terkompresi meningkatkan efisiensi penyimpanan, transmisi yang lebih cepat, dan kinerja dalam alur kerja dokumen.
+
+
+
+API Python memungkinkan kompresi ODT otomatis, pemrosesan batch, dan konversi, mendukung manajemen dokumen teks yang dapat diskalakan di kantor, lingkungan akademis, dan penerbitan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Penyimpanan Dokumen**  
+
+  &nbsp; Kurangi jejak penyimpanan untuk koleksi dokumen teks besar.
+
+
+
+* **Berbagi & Kolaborasi Lebih Cepat**  
+
+  &nbsp; File ODT yang terkompresi ditransmisikan dengan cepat melintasi jaringan.
+
+
+
+* **Arsip Digital**  
+
+  &nbsp; Penyimpanan ODT yang efisien untuk bahan sejarah dan referensi.
+
+
+
+* **Efisiensi Alur Kerja**  
+
+  &nbsp; File yang lebih kecil memuat lebih cepat di editor dan alur kerja otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi ODT Batch**  
+
+  &nbsp; Otomatisasi pengurangan ukuran untuk beberapa dokumen.
+
+
+
+* **Optimisasi Metadata & Konten**  
+
+  &nbsp; Hapus gaya, gambar, atau format yang redundan secara otomatis.
+
+
+
+* **Integrasi ke Sistem Manajemen Dokumen**  
+
+  &nbsp; File ODT dikompres selama alur unggah atau cadangan.
+
+
+
+* **Aturan Kompresi Dinamis**  
+
+  &nbsp; Sesuaikan optimisasi berdasarkan ukuran konten, kepadatan gambar, atau volume teks.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

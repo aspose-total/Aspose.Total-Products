@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi MHT (MHTML Web Archive) mengurangi ukuran arsip halaman web, yang mencakup HTML, gambar, CSS, dan skrip yang dikemas ke dalam satu file. File MHT yang terkompresi meningkatkan efisiensi penyimpanan, transfer file yang lebih cepat, dan memudahkan pengarsipan konten web.
+
+
+
+API Python memungkinkan kompresi MHT otomatis, pemrosesan batch, dan integrasi dengan pipeline pengarsipan web, mendukung manajemen konten web offline yang dapat diskalakan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Utama" %}}
+
+
+
+* **Pengarsipan Halaman Web**  
+
+&nbsp; Kompres file MHT untuk menghemat ruang penyimpanan untuk situs web yang diarsipkan.
+
+
+
+* **Distribusi Konten Offline**  
+
+&nbsp; File MHT yang lebih kecil memungkinkan berbagi dan unduhan yang lebih cepat.
+
+
+
+* **Manajemen Perpustakaan Digital**  
+
+&nbsp; Menyimpan koleksi besar arsip halaman web secara efisien.
+
+
+
+* **Optimisasi Alur Kerja**  
+
+&nbsp; File yang terkompresi meningkatkan kecepatan pemrosesan dalam sistem konten web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi MHT Batch**  
+
+&nbsp; Otomatisasikan pengurangan ukuran untuk beberapa file arsip web.
+
+
+
+* **Optimisasi Konten Tertanam**  
+
+&nbsp; Kompres gambar, skrip, dan gaya secara otomatis.
+
+
+
+* **Integrasi dengan DAM atau CMS**  
+
+&nbsp; Kompres file MHT selama pengunggahan atau pengarsipan.
+
+
+
+* **Aturan Kompresi Dinamis**  
+
+&nbsp; Sesuaikan optimisasi berdasarkan kompleksitas halaman dan media yang tertanam.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

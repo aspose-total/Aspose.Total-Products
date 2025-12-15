@@ -78,7 +78,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+I file SXC (fogli di calcolo legacy di OpenOffice/StarOffice) beneficiano della compressione per ridurre lo spazio di archiviazione e consentire una condivisione più semplice preservando formule e formattazione.
+
+
+
+Le API di Python consentono la compressione automatizzata di SXC per mantenere l'efficienza del flusso di lavoro in ambienti legacy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Ottimizzazione dei fogli di calcolo legacy**  
+
+  Riduci le dimensioni dei file SXC senza influenzare formule o contenuti.
+
+
+
+* **Condivisione più veloce**  
+
+  I file compressi migliorano la velocità di trasferimento attraverso reti e team.
+
+
+
+* **Efficienza archivistica**  
+
+  La compressione automatizzata supporta l'archiviazione a lungo termine dei fogli di calcolo legacy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Compressione batch di SXC**  
+
+  Gli script Python possono comprimere automaticamente più file SXC.
+
+
+
+* **Integrazione con sistemi DMS o Cloud**  
+
+  I file SXC compressi possono essere elaborati in modo efficiente nei flussi di lavoro.
+
+
+
+* **Compressione condizionale**  
+
+  L'automazione può mirare ai file in base alle dimensioni o ai contenuti incorporati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -82,7 +82,41 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La comparación de RTF identifica cambios en texto, fuentes, colores, reglas de formato y estructura de documentos dentro de archivos de formato de texto enriquecido. Asegura claridad y consistencia en documentos ligeros.
+
+La comparación automatizada de RTF admite un procesamiento rápido, validación escalable e integración en flujos de trabajo de documentos dinámicos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+- **Detección de cambios de formato**
+  &nbsp; Realiza un seguimiento de las actualizaciones en estilos visuales.
+
+- **Revisión de revisiones de contenido**
+  &nbsp; Destaca ediciones y ajustes.
+
+- **Consistencia en la edición entre aplicaciones**
+  &nbsp; Identifica variaciones causadas por diferentes editores.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+- **Procesamiento masivo de RTF**
+  &nbsp; Compara múltiples documentos de forma programática.
+
+- **Controles de QA automatizados**
+  &nbsp; Asegura la integridad del formato.
+
+- **Pipelines de extracción de diferencias**
+  &nbsp; Genera salidas de comparación estructuradas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,65 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A DOCM-annotáció lehetővé teszi megjegyzések, kiemelések és metaadatok hozzáadását makrókat támogató Word-dokumentumokhoz, támogatva azokat a munkafolyamatokat, amelyek dinamikus szkriptelést vagy beágyazott automatizálást igényelnek. Ez segít a felhasználóknak dokumentálni a logikát, nyomon követni a változásokat, és tisztán tartani a makrók viselkedését.
+
+A DOCM fájlok automatizált módon történő annotálásával az automatizálási rendszerek figyelemmel kísérhetik a makrók használatát, javíthatják a dokumentáció következetességét, és egyszerűsíthetik az ellenőrzési folyamatokat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Makró dokumentáció**  
+
+&nbsp; Címkézze és írja le a dokumentumban található makróvezérelt műveleteket.
+
+* **Megfelelőségi nyomon követés**  
+
+&nbsp; Adjon hozzá megjegyzéseket, amelyek megerősítik a szükséges szkripteket vagy ellenőrzéseket.
+
+* **Változásnaplózás**  
+
+&nbsp; Emelje ki a makróval kapcsolatos frissítéseket a láthatóság érdekében.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Makró szkennelése és annotálása**  
+
+&nbsp; Automatikusan illessze be a makrófunkciók észlelését leíró megjegyzéseket.
+
+* **Dinamikus megfelelőségi jelentések**  
+
+&nbsp; Töltse fel az annotációkat, amikor a makrók bizonyos ellenőrzéseket teljesítenek vagy nem teljesítenek.
+
+* **Szkript-alapú felülvizsgálati eszközök**  
+
+&nbsp; Használja a Python-t strukturált annotációk alkalmazására nagy méretben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ För mer information, se [Product Documentation](https://docs.aspose.com/zip/pyt
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprimering av XLS-filer minskar lagringsutrymme och accelererar delning av äldre Excel-arbetsböcker samtidigt som formler, diagram och formatering bevaras.
+
+
+
+Python-baserad automatisering möjliggör batchkomprimering av XLS-filer, vilket möjliggör skalbar datahantering och effektivitet i arbetsflödet.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Optimering av äldre arbetsböcker**  
+
+  &nbsp; Minska XLS-filstorlekar utan att påverka formler eller dataintegritet.
+
+
+
+* **Snabbare delning**  
+
+  &nbsp; Mindre XLS-filer förbättrar hastigheten för e-post och molndistribution.
+
+
+
+* **Effektiv arkivering**  
+
+  &nbsp; Automatisk komprimering förenklar långsiktig lagring av äldre Excel-filer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Batchkomprimering av XLS**  
+
+  &nbsp; Python-skript kan komprimera flera XLS-filer i en operation.
+
+
+
+* **Integration med arbetsflödessystem**  
+
+  &nbsp; Komprimerade XLS-filer kan laddas in i automatiserade pipeliner eller DMS.
+
+
+
+* **Villkorlig komprimering**  
+
+  &nbsp; Rikta in dig på XLS-filer med stora datamängder eller inbäddade medier för komprimering.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

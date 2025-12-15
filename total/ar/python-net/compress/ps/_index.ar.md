@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تضغط ضغط PS الملفات PostScript، التي تحتوي على رسومات ناقلة، نصوص، وتعليمات طباعة، لتقليل حجم الملف مع الحفاظ على دقة الطباعة. تحسن ملفات PS المضغوطة كفاءة التخزين، وسرعة النقل، والأداء في سير الطباعة والنشر.
+
+
+
+تمكن واجهات برمجة التطبيقات Python من ضغط PS تلقائي، ومعالجة دفعية، والتكامل مع أنابيب الطباعة لإدارة الوثائق والرسومات بشكل قابل للتوسيع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين وظيفة الطباعة**  
+
+&nbsp; تقلل ملفات PS المضغوطة من أوقات الانتظار وتحسن سرعة الطباعة.
+
+
+
+* **الأرشفة والتخزين**  
+
+&nbsp; قم بتحسين ملفات PostScript الكبيرة لتحقيق كفاءة التخزين.
+
+
+
+* **توزيع المحتوى**  
+
+&nbsp; تنقل ملفات PS الصغيرة بسرعة أكبر إلى الطابعات أو العملاء.
+
+
+
+* **كفاءة سير العمل**  
+
+&nbsp; تحسن سرعة المعالجة في أنظمة الطباعة والنشر التلقائية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط PS دفعي**  
+
+&nbsp; قم بتلقين تقليل الحجم لعدة ملفات PostScript.
+
+
+
+* **تحسين الأصول المضمنة**  
+
+&nbsp; ضغط الخطوط، الصور، والرسومات تلقائيًا.
+
+
+
+* **التكامل مع أنابيب الطباعة والنشر**  
+
+&nbsp; ضغط ملفات PS أثناء الإنشاء، أو الرفع، أو الأرشفة.
+
+
+
+* **مستويات الضغط الديناميكية**  
+
+&nbsp; ضبط التحسين بناءً على تعقيد المحتوى والإخراج المقصود.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

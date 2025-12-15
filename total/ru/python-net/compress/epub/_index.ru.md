@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие EPUB уменьшает размер файлов книг, содержащих текст, изображения, стили и метаданные. Сжатые EPUB улучшают скорость загрузки, эффективность хранения и совместимость с электронными книгами и цифровыми библиотеками.
+
+
+
+API Python позволяют автоматизировать сжатие EPUB, пакетную обработку и оптимизацию для масштабного управления книгами и цифровыми изданиями.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Распространение электронных книг**  
+
+  &nbsp; Более маленькие файлы EPUB обеспечивают быстрые загрузки и удобное распространение.
+
+
+
+* **Управление цифровой библиотекой**  
+
+  &nbsp; Сжатые EPUB уменьшают требования к хранению больших коллекций.
+
+
+
+* **Поставка контента на разные устройства**  
+
+  &nbsp; Оптимизированные файлы обеспечивают плавный опыт чтения на электронных книгах и приложениях.
+
+
+
+* **Архивирование и резервное копирование**  
+
+  &nbsp; Эффективное хранение больших объемов электронных книг.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие EPUB**  
+
+  &nbsp; Автоматизация оптимизации нескольких файлов электронных книг одновременно.
+
+
+
+* **Оптимизация изображений и текста**  
+
+  &nbsp; Уменьшение размера встроенных изображений и удаление избыточных метаданных.
+
+
+
+* **Интеграция в рабочий процесс**  
+
+  &nbsp; Автоматическое сжатие EPUB во время загрузки в цифровые библиотеки или платформы.
+
+
+
+* **Динамическая настройка качества**  
+
+  &nbsp; Балансировка качества изображений и размера файла в зависимости от устройства или платформы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +225,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

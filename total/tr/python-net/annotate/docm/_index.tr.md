@@ -75,7 +75,53 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM açıklama, notlar, vurgular ve metaveri eklemeyi mümkün kılar, dinamik betikleme veya gömülü otomasyon gerektiren iş akışlarını destekler. Bu, kullanıcıların mantığı belgelemesine, değişiklikleri izlemesine ve makro davranışları etrafında netliği korumasına yardımcı olur.
+
+DOCM dosyalarını programatik olarak açıkladığında, otomasyon sistemleri makro kullanımını izleyebilir, belgeleme tutarlılığını artırabilir ve doğrulama süreçlerini kolaylaştırabilir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Makro Belgeleme**  &nbsp; Belge içinde makro tarafından yönlendirilen eylemleri etiketleyin ve açıklayın.
+
+* **Uyumluluk Takibi**  &nbsp; Gerekli betikleri veya doğrulamaları onaylayan notlar ekleyin.
+
+* **Değişiklik Kaydı**  &nbsp; Görünürlük için makroyla ilgili güncellemeleri vurgulayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Makro Tara ve Açıkla**  &nbsp; Algılanan makro işlevlerini açıklayan yorumları otomatik olarak ekleyin.
+
+* **Dinamik Uyumluluk Raporları**  &nbsp; Makrolar belirli kontrolleri karşıladığında veya başarısız olduğunda açıklamaları doldurun.
+
+* **Betik Tabanlı İnceleme Araçları**  &nbsp; Yapılandırılmış açıklamayı ölçeklendirmek için Python kullanın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

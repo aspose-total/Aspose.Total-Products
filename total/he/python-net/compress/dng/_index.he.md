@@ -77,7 +77,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+דחיסת DNG מתמקדת באופטימיזציה של קבצי תמונה גולמיים שנלכדו על ידי מצלמות דיגיטליות תוך שמירה על איכות התמונה המרבית. מאחר וקבצי DNG מכילים לעתים קרובות נתוני חיישן ברזולוציה גבוהה, הדחיסה מפחיתה את צרכי האחסון, מאיצה את ההעברת קבצים ומשפרת את יעילות העבודה בצינורות הצילום והעיבוד הצילומי.
+
+
+
+ממשקי Python מאפשרים דחיסת DNG אוטומטית, עיבוד בצפיפות גבוהה והמרה לפורמטים אחרים, מאפשרים ניהול קבצי תמונה גדולים ומערכות צילום מקצועיות בצורה קלה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **אופטימיזצית ארכיון צלמים**  
+
+&nbsp; דחיסת קבצי DNG מפחיתה את האחסון מבלי לפגוע באמינות התמונה הגולמית.
+
+
+
+* **העברת תמונות מהירה יותר**  
+
+&nbsp; קבצים קטנים מאפשרים שיתוף מהיר יותר בין מצלמות, תחנות עבודה ואחסון בענן.
+
+
+
+* **ניהול נכסים דיגיטליים**  
+
+&nbsp; ספריות DNG דחוסות ניתן לארגן, לחפש ולאחזר בקלות יותר.
+
+
+
+* **תהליכי עיבוד אחרי**  
+
+&nbsp; מאפשר טעינה מהירה יותר של קבצים גולמיים לעריכת תמונות ולצינורות משופרות באמצעות AI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **דחיסת DNG בצפיפות גבוהה**  
+
+&nbsp; אוטומציה של אופטימיזציה של מספר רב של קבצי תמונה גולמיים.
+
+
+
+* **דחיסה דינמית בהתאם לרזולוציה**  
+
+&nbsp; תהליכי Python יכולים להתאים את רמות הדחיסה בהתאם לגודל החיישן או לממדי התמונה.
+
+
+
+* **המרה אוטומטית של פורמטים**  
+
+&nbsp; המרת DNG ל-TIFF, JPEG או WebP תוך החלת דחיסה באופן אוטומטי.
+
+
+
+* **אינטגרציה עם מערכות DAM**  
+
+&nbsp; דחיסת תמונות DNG בעת העלאה לאחסון מתוחם לאחסון מאוחסן ועיבוד מהיר יותר.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

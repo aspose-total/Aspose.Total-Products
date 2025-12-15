@@ -101,7 +101,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPS soubory (PowerPoint Show) mají prospěch z komprese ke snížení úložného prostoru a zlepšení výkonu přehrávání během prezentací.
+
+
+
+Python API podporuje automatizovanou kompresi PPS pro rychlejší sdílení a efektivitu úložiště.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace souboru pro zobrazení**  
+
+&nbsp; Kompresovat PPS soubory bez ovlivnění obsahu snímků nebo přechodů.
+
+
+
+* **Rychlejší distribuce**  
+
+&nbsp; Menší soubory usnadňují rychlé sdílení a nahrávání do cloudu.
+
+
+
+* **Efektivita archivace**  
+
+&nbsp; Automatizovaná komprese podporuje dlouhodobé uchovávání souborů show.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese PPS**  
+
+&nbsp; Python skripty mohou automaticky komprimovat více show souborů.
+
+
+
+* **Integrace s prezentními systémy**  
+
+&nbsp; Kompresované PPS soubory mohou být dynamicky načteny do automatizovaných pracovních postupů.
+
+
+
+* **Podmíněná komprese**  
+
+&nbsp; Cílit na velké prezentace nebo soubory s bohatými médii pro kompresi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX是现代Word格式，广泛用于专业文档。压缩可减少存储空间，提高传输速度，同时保持格式和嵌入对象。
+
+
+
+Python API可以自动化DOCX压缩，实现可扩展、高效的文档工作流，并与云系统集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **优化存储**  
+
+&nbsp; 减小DOCX文件大小，同时保留内容和设计。
+
+
+
+* **更快协作**  
+
+&nbsp; 较小的文件有助于团队和平台间的共享。
+
+
+
+* **提高归档效率**  
+
+&nbsp; 自动压缩有助于管理大型文档存储库。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量DOCX压缩**  
+
+&nbsp; Python脚本可以一次压缩多个DOCX文件。
+
+
+
+* **与文档管理系统集成**  
+
+&nbsp; 压缩的DOCX文件可以高效存储和检索。
+
+
+
+* **智能压缩**  
+
+&nbsp; 自动化可以针对具有高媒体内容或大尺寸的文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

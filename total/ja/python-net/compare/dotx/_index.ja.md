@@ -70,7 +70,75 @@ DOTX ファイルを簡単に比較するための Python スクリプトまた�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTXの比較は、文書生成に使用されるマクロのないテンプレート間で構造とスタイルの一貫性を検証するのに役立ちます。これにより、すべての生成された文書で一貫したブランディングとフォーマットが確保されます。
+
+
+
+DOTXの比較を自動化することで、中央集権的なシステムでテンプレートの検証をサポートし、精度を向上させ、手動検査時間を削減します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+
+
+* **標準テンプレートの検証**  
+
+&nbsp; レイアウトやフォーマットの違いを特定します。
+
+
+
+* **ブランディングの整合性**  
+
+&nbsp; テンプレートのルールがチーム全体で一貫していることを確認します。
+
+
+
+* **コンテンツ構造の制御**  
+
+&nbsp; ヘッダー、フッター、およびスタイル要素の正確性を確認します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **大量のテンプレート比較**  
+
+&nbsp; 手動作業なしで数百のDOTXファイルを検証します。
+
+
+
+* **テンプレートバージョンの同期**  
+
+&nbsp; 配布されたテンプレートを自動的に整合させます。
+
+
+
+* **変更監視パイプライン**  
+
+&nbsp; 自動ワークフローを通じて構造的な変更を検出します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файлы шаблонов XLT получают преимущество от сжатия для уменьшения хранилища и улучшения распространения без изменения структуры шаблона.
+
+
+
+Python API позволяет автоматизировать сжатие шаблонов XLT для масштабируемого управления шаблонами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация хранения шаблонов**  
+
+&nbsp; Сжатие файлов XLT с сохранением форматирования и формул.
+
+
+
+* **Быстрое распространение шаблонов**  
+
+&nbsp; Уменьшенные размеры файлов позволяют быструю дистрибуцию командам.
+
+
+
+* **Автоматизированное архивирование**  
+
+&nbsp; Сжатые шаблоны упрощают управление долгосрочным хранением.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие шаблонов**  
+
+&nbsp; Автоматизация обработки нескольких файлов XLT с использованием сценариев Python.
+
+
+
+* **Интеграция с системами рабочего процесса**  
+
+&nbsp; Сжатые шаблоны могут динамически загружаться в автоматизированные рабочие процессы.
+
+
+
+* **Условное сжатие**  
+
+&nbsp; Автоматизация может нацеливаться на шаблоны с большими наборами данных или сложными формулами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

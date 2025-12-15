@@ -43,9 +43,81 @@ informat: DOC
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOC — 通过Python API创建`.doc`（传统二进制Word）文件可以实现对旧系统的自动化，并保持与传统工具链的兼容性。典型的Python方法依赖于可以组装二进制结构的库，或者在Windows上使用COM自动化来从程序内容中导出或保存经典的二进制文档。
+
+
+
+DOC脚本在需要向后兼容时非常有用；生成的文档可以包括结构化文本、基本样式、页眉/页脚以及支持的嵌入对象。
+
+
+
+自动化使得可以创建转换流水线，接受现代来源（markdown、HTML、DOCX）并生成`.doc`以进行归档或与传统应用集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **与旧系统集成**
+
+  生成.doc文件以供需要二进制格式的旧企业软件使用。
+
+
+
+* **归档导出**
+
+  当传统政策要求时，将现代文档转换为.doc以进行长期存储。
+
+
+
+* **与旧工具的互操作性**
+
+  创建.doc输出以确保与旧的邮件合并或打印系统的兼容性。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动格式转换**
+
+  在定时作业中批量将DOCX转换为DOC以进行兼容性测试。
+
+
+
+* **从模板导出脚本化**
+
+  使用基于模板的生成，将最终文档保存为.doc以供后续流程使用。
+
+
+
+* **与ETL流水线集成**
+
+  将DOC生成纳入准备文档供传统消费者使用的ETL作业中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

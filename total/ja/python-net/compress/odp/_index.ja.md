@@ -101,7 +101,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODP圧縮は、OpenDocument Presentationファイルのサイズを縮小し、テキスト、画像、埋め込みメディアを最適化します。圧縮されたODPファイルは、ストレージ効率が向上し、プレゼンテーションの読み込みが高速化され、スムーズなパフォーマンスが実現されます。
+
+
+
+Python APIを使用すると、自動化されたODP圧縮、バッチ処理、およびメディアの最適化が可能となり、スケーラブルなプレゼンテーション管理および配信ワークフローが実現されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **プレゼンテーションの最適化**  
+
+  &nbsp; より小さなODPファイルは、エディタやビューアで高速に読み込まれます。
+
+
+
+* **ストレージとアーカイブの効率化**  
+
+  &nbsp; 大規模なスライドライブラリのディスクスペース使用量を削減します。
+
+
+
+* **コンテンツの共有と配布**  
+
+  &nbsp; 圧縮されたファイルは、ネットワークやデバイス間で迅速に送信されます。
+
+
+
+* **ワークフローの統合**  
+
+  &nbsp; 最適化されたODPファイルは、自動化されたプレゼンテーションパイプラインでのパフォーマンスを向上させます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチODP圧縮**  
+
+  &nbsp; 複数のプレゼンテーションファイルの最適化を自動化します。
+
+
+
+* **メディアと画像の最適化**  
+
+  &nbsp; 埋め込み画像とメディアを自動的に圧縮します。
+
+
+
+* **CMSやDAMとの統合**  
+
+  &nbsp; アップロードやアーカイブプロセス中にODPファイルを圧縮します。
+
+
+
+* **ダイナミック圧縮**  
+
+  &nbsp; スライドコンテンツとメディア密度に基づいて圧縮強度を調整します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

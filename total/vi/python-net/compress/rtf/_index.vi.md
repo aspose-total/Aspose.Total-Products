@@ -100,7 +100,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Words for Python via .
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Các tệp RTF (Rich Text Format) có thể trở nên lớn khi chứa đựng định dạng phức tạp hoặc đối tượng nhúng; việc nén giảm kích thước tệp mà không ảnh hưởng đến tính tương thích đa nền tảng.
+
+
+
+API Python cho phép nén RTF tự động, tối ưu hóa xử lý tài liệu trong các hệ thống hiện đại.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Lưu Trữ Đa Nền Tảng**  
+
+&nbsp; Nén tệp RTF để sử dụng hiệu quả trên các hệ điều hành và ứng dụng khác nhau.
+
+
+
+* **Chia Sẻ Nhanh Hơn**  
+
+&nbsp; Tệp RTF nhỏ giúp cải thiện việc chia sẻ qua email và đám mây.
+
+
+
+* **Lưu Trữ Tự Động**  
+
+&nbsp; Nén theo lô đơn giản hóa việc lưu trữ tài liệu RTF cũ hoặc lớn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén RTF Theo Lô**  
+
+&nbsp; Xử lý nhiều tài liệu RTF tự động bằng cách sử dụng kịch bản Python.
+
+
+
+* **Tích Hợp với Quy Trình Làm Việc Tài Liệu**  
+
+&nbsp; Các tệp RTF đã được nén có thể được tải vào quy trình làm việc tự động hoặc hệ thống quản lý tài liệu.
+
+
+
+* **Nén Có Điều Kiện**  
+
+&nbsp; Tự động hóa có thể nhắm vào các tệp RTF dựa trên kích thước hoặc nội dung nhúng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

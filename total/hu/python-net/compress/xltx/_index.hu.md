@@ -78,7 +78,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XLTX fájlok (modern Excel sablonok) tömörítésből profitálnak az optimalizált tárolás és gyorsabb megosztás érdekében, megőrizve az összes formázást és képletet.
+
+
+
+A Python API-k lehetővé teszik az automatizált XLTX tömörítést, javítva a munkafolyamat hatékonyságát és integrációját a dokumentumkezelő rendszerekkel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Sablon tárolás optimalizálása**  
+
+&nbsp; Tömörítsd az XLTX sablonokat, miközben teljes funkcionalitást megőrzöl.
+
+
+
+* **Gyors sablonmegosztás**  
+
+&nbsp; Kisebb fájlok gyorsabb terjesztést és együttműködést tesznek lehetővé.
+
+
+
+* **Automatizált archiválás**  
+
+&nbsp; A tömörítés egyszerűsíti a hosszú távú tárolás kezelését.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Tömeges XLTX tömörítés**  
+
+&nbsp; Python szkriptek automatizálják több sablon tömörítését.
+
+
+
+* **Integráció munkafolyamatrendszerekkel**  
+
+&nbsp; A tömörített sablonok betölthetők az automatizált csővezetékekbe.
+
+
+
+* **Okos tömörítés**  
+
+&nbsp; Feltételes szabályok lehetővé teszik a nagy adatkészletekkel vagy beágyazott médiával rendelkező sablonok célzását.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Generieke Word-bestandscompressie vermindert opslaggebruik, versnelt overdrachten en behoudt opmaak, lay-out en ingesloten media, waardoor de efficiëntie van workflows verbetert.
+
+
+
+Compressie op basis van Python maakt geautomatiseerde optimalisatie voor Word-documenten op schaal mogelijk, met ondersteuning voor integratie met moderne documentbeheersystemen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Opslagoptimalisatie**  
+
+  Reduceer generieke Word-bestandsgroottes voor beter gebruik van schijfruimte.
+
+
+
+* **Sneller Delen en Samenwerken**  
+
+  Kleinere bestanden zijn gemakkelijker te verzenden en samen te werken in teams.
+
+
+
+* **Efficiëntie bij Archivering**  
+
+  Geautomatiseerde compressie helpt bij het beheren van grote Word-documentrepositories.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Batchverwerking**  
+
+  Python-scripts kunnen automatisch meerdere Word-bestanden comprimeren.
+
+
+
+* **Workflow-integratie**  
+
+  Gecomprimeerde bestanden kunnen worden geüpload of gesynchroniseerd met DMS en cloudservices.
+
+
+
+* **Dynamische Compressie**  
+
+  Automatisering kan bestanden selectief comprimeren op basis van grootte, mediainhoud of projectregels.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

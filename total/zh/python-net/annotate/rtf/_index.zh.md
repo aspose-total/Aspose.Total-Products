@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF注释可向富文本文件添加评论、高亮显示和结构化元数据，提高可读性而不影响跨平台兼容性。带注释的RTF支持轻量级审阅工作流程。  
+
+自动化通过插入结构化注释、扫描内容以查找问题并应用基于规则的高亮显示来增强RTF处理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **内容澄清注释**  
+
+&nbsp; 添加解释编辑或关注点的备注。
+
+* **结构化高亮显示**  
+
+&nbsp; 标记重要部分或错误。
+
+* **嵌入元数据**  
+
+&nbsp; 插入分类标签。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化关键词高亮显示**  
+
+&nbsp; 以编程方式识别和强调术语。
+
+* **批量注释脚本**  
+
+&nbsp; 在多个RTF文件中应用标准化注释。
+
+* **内容模式检测**  
+
+&nbsp; 注释与特定触发器匹配的区域。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การประยุกต์ใช้ DOCM annotation ช่วยในการเพิ่มหมายเหตุ ไฮไลท์ และเมตาดาต้าเข้ากับเอกสาร Word ที่เปิดใช้งานแมโคร ซึ่งสนับสนุนการทำงานที่ต้องการสคริปต์ไดนามิกหรืออัตโนมัติภายใน นี้ช่วยให้ผู้ใช้สามารถเอกสารตรรกะ ติดตามการเปลี่ยนแปลง และรักษาความชัดเจนเกี่ยวกับพฤติกรรมของแมโคร
+
+โดยการทำเครื่องหมายบนไฟล์ DOCM โดยอัตโนมัติ ระบบอัตโนมัติสามารถตรวจสอบการใช้แมโคร ปรับปรุงความสอดคล้องของเอกสาร และประสานกระบวนการตรวจสอบ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **เอกสารเอกสารแมโคร**  
+
+&nbsp; ติดป้ายชื่อและอธิบายการดำเนินการที่ใช้แมโครภายในเอกสาร
+
+* **การติดตามความเป็นไปตามข้อกำหนด**  
+
+&nbsp; เพิ่มหมายเหตุยืนยันสคริปต์หรือการตรวจสอบที่จำเป็น
+
+* **การบันทึกการเปลี่ยนแปลง**  
+
+&nbsp; ไฮไลท์การอัปเดตที่เกี่ยวข้องกับแมโครเพื่อมองเห็นได้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* **สแกนและทำเครื่องหมายแมโคร**  
+
+&nbsp; แทรกความคิดเห็นโดยอัตโนมัติเพื่ออธิบายฟังก์ชันแมโครที่ตรวจพบ
+
+* **รายงานการปฏิบัติตามข้อกำหนดอย่างไดนามิก**  
+
+&nbsp; เติมหมายเหตุเมื่อแมโครตรงตามหรือไม่ตรงตามการตรวจสอบบางอย่าง
+
+* **เครื่องมือตรวจสอบที่ใช้สคริปต์**  
+
+&nbsp; ใช้ Python เพื่อใช้การทำเครื่องหมายโครงสร้างในขอบเขตที่กว้างขึ้น
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

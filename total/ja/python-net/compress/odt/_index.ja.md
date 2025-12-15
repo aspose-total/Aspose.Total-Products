@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODTの圧縮は、ワード処理に一般的に使用されるOpenDocument Textファイルのサイズを縮小します。圧縮されたODTファイルは、ストレージ効率、高速な転送、および文書ワークフローのパフォーマンスを向上させます。
+
+
+
+PythonのAPIを使用すると、ODTの自動圧縮、バッチ処理、変換が可能になり、オフィス、学術、出版環境でのテキスト文書のスケーラブルな管理をサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **ドキュメントのストレージ最適化**  
+
+&nbsp; 大規模なテキスト文書コレクションのストレージフットプリントを削減します。
+
+
+
+* **高速な共有とコラボレーション**  
+
+&nbsp; 圧縮されたODTファイルは、ネットワークを素早く伝播します。
+
+
+
+* **デジタルアーカイブ**  
+
+&nbsp; 歴史的および参照資料の効率的なODTストレージ。
+
+
+
+* **ワークフローの効率化**  
+
+&nbsp; エディタや自動パイプラインでより小さなファイルが高速に読み込まれます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチODT圧縮**  
+
+&nbsp; 複数の文書のサイズを自動的に縮小します。
+
+
+
+* **メタデータとコンテンツの最適化**  
+
+&nbsp; 冗長なスタイル、画像、または書式を自動的に削除します。
+
+
+
+* **文書管理システムへの統合**  
+
+&nbsp; アップロードやバックアップワークフロー中にODTファイルを圧縮します。
+
+
+
+* **ダイナミックな圧縮ルール**  
+
+&nbsp; コンテンツサイズ、画像密度、またはテキストボリュームに基づいて最適化を調整します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

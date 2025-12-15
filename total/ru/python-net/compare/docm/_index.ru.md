@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сравнение DOCM сосредотачивается на выявлении изменений в макро-документах, охватывая изменения текста, форматирования и встроенной логики. Это обеспечивает точное отслеживание как видимого контента, так и внутренних компонентов автоматизации.
+
+
+
+Автоматизация сравнения DOCM улучшает мониторинг целостности макросов, снижает риски несанкционированных изменений и поддерживает масштабируемую проверку в условиях высокой загрузки.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Проверка целостности макросов**  
+
+&nbsp; Обнаруживает изменения во встроенных макросах наряду с обновлениями обычного содержимого.
+
+
+
+* **Аудит жизненного цикла документа**  
+
+&nbsp; Гарантирует, что изменения в черновиках остаются соответствующими и намеренными.
+
+
+
+* **Управление шаблонами**  
+
+&nbsp; Отслеживает различия в документах, созданных на основе динамических шаблонов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматическое обнаружение изменений в макросах**  
+
+&nbsp; Выявляет модификации в макрокоде для обеспечения безопасности и версионности.
+
+
+
+* **Сравнение больших наборов шаблонов**  
+
+&nbsp; Автоматически сравнивает большие наборы файлов DOCM для обеспечения согласованности.
+
+
+
+* **Мониторинг обновлений**  
+
+&nbsp; Интегрирует программные проверки в бизнес-процессы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

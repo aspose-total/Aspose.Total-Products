@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese EPUB snižuje velikost souborů eBooků, které obsahují text, obrázky, styly a metadata. Komprimované EPUBy zlepšují rychlost stahování, účinnost uložení a kompatibilitu s čtečkami a digitálními knihovnami.
+
+
+
+Pythonové API umožňují automatizovanou kompresi EPUB, hromadné zpracování a optimalizaci pro škálovatelné řízení eBooků a digitálních publikací.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Distribuce eBooků**  
+
+&nbsp; Menší soubory EPUB umožňují rychlejší stahování a snadnější sdílení.
+
+
+
+* **Správa digitální knihovny**  
+
+&nbsp; Komprimované EPUBy snižují požadavky na úložiště pro velké sbírky.
+
+
+
+* **Dodávka obsahu pro různá zařízení**  
+
+&nbsp; Optimalizované soubory zajistí plynulý čtecí zážitek na čtečkách a aplikacích.
+
+
+
+* **Archivace a zálohování**  
+
+&nbsp; Účinné uložení pro velké objemy eBooků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese EPUB**  
+
+&nbsp; Automatizujte optimalizaci více souborů eBooků najednou.
+
+
+
+* **Optimalizace obrázků a textu**  
+
+&nbsp; Snížení velikosti vložených obrázků a odstranění zbytečných metadat.
+
+
+
+* **Integrace pracovního postupu**  
+
+&nbsp; Automatická komprese EPUB při nahrávání do digitálních knihoven nebo platforem.
+
+
+
+* **Dynamické nastavení kvality**  
+
+&nbsp; Udržování rovnováhy mezi kvalitou obrázku a velikostí souboru na základě zařízení nebo platformy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

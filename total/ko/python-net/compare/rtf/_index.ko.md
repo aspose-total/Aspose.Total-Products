@@ -70,7 +70,75 @@ RTF 파일을 쉽게 비교하기 위해 Python 스크립트 또는 유틸리티
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF 비교는 Rich Text Format 파일 내의 텍스트, 글꼴, 색상, 서식 규칙 및 문서 구조의 변경 사항을 식별합니다. 가벼운 문서 간에 명확성과 일관성을 보장합니다.
+
+
+
+자동화된 RTF 비교는 빠른 처리, 확장 가능한 유효성 검사 및 동적 문서 워크플로에 통합을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **서식 변경 감지**  
+
+&nbsp; 시각적 스타일의 업데이트를 추적합니다.
+
+
+
+* **콘텐츠 수정 검토**  
+
+&nbsp; 편집 및 조정 사항을 강조합니다.
+
+
+
+* **다양한 응용 프로그램 편집 일관성**  
+
+&nbsp; 서로 다른 편집기로 인한 변화를 식별합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **대량 RTF 처리**  
+
+&nbsp; 여러 문서를 프로그래밍 방식으로 비교합니다.
+
+
+
+* **자동화된 QA 확인**  
+
+&nbsp; 서식 무결성을 보장합니다.
+
+
+
+* **차이 추출 파이프라인**  
+
+&nbsp; 구조화된 비교 결과를 생성합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese DJVU zlepšuje již efektivní strukturu souborů DjVu, které jsou běžně používány pro naskenované dokumenty, digitální knihy a archivační obsah. Optimalizace souborů DJVU dále snižuje velikost, zlepšuje rychlost načítání a zajistí vysokou kvalitu zobrazení pro stránky s textem a bohatými obrázky.
+
+
+
+Pythonová API umožňuje automatizovat kompresi DJVU, optimalizovat naskenované vrstvy a spravovat velké knihovny digitalizovaných dokumentů s minimálními požadavky na úložiště a vysokou účinností zpracování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Knihovny digitalizovaných dokumentů**  
+
+&nbsp; Komprimuje velké naskenované archivy pro úsporu místa a zlepšení výkonnosti přístupu.
+
+
+
+* **Distribuce e-knih a výzkumu**  
+
+&nbsp; Menší soubory DJVU se rychleji načítají a efektivněji se přenášejí po akademických platformách.
+
+
+
+* **Optimalizace naskenovaných obrázků**  
+
+&nbsp; Zlepšuje čitelnost a snižuje velikost bez ohrožení základních vizuálních detailů.
+
+
+
+* **Dlouhodobé archivování**  
+
+&nbsp; Poskytuje účinné uchování pro historický a referenční materiál.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Hromadná komprese DJVU**  
+
+&nbsp; Automaticky snižuje velikost souborů pro kolekce naskenovaných nebo digitalizovaných dokumentů.
+
+
+
+* **Optimalizace s ohledem na vrstvy**  
+
+&nbsp; Automatizace může selektivně komprimovat přední text, pozadí textur nebo vložené obrázky.
+
+
+
+* **Kompresní proces při nahrávání**  
+
+&nbsp; Soubory DJVU lze okamžitě komprimovat po nahrání do archivů nebo dokumentačních systémů.
+
+
+
+* **Konverzní + kompresní potrubí**  
+
+&nbsp; Převést PDF nebo TIFF na DJVU a aplikovat automatizovaná pravidla pro zmenšení velikosti.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+压缩PowerPoint文件对于减少存储空间、提高共享速度和增强演示性能至关重要。PowerPoint文档通常包含图片、嵌入式媒体、图表和动画，因此压缩对于保持工作流效率至关重要。
+
+
+
+Python API允许自动压缩演示文件，实现可扩展管理、更快协作以及与云服务或文档管理系统的无缝集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **优化存储**  
+
+  &nbsp; 在保留幻灯片、动画和嵌入式媒体的同时减小PowerPoint文件大小。
+
+
+
+* **更快协作**  
+
+  &nbsp; 较小的文件通过电子邮件或云平台改善团队演示的共享。
+
+
+
+* **高效归档**  
+
+  &nbsp; 自动压缩确保演示长期存储而无质量损失。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量压缩**  
+
+  &nbsp; Python脚本可以自动压缩多个演示文件。
+
+
+
+* **与DMS和协作工具集成**  
+
+  &nbsp; 压缩文件可以在自动化工作流中高效处理和共享。
+
+
+
+* **条件压缩规则**  
+
+  &nbsp; 自动化可以针对大型演示文稿或包含高分辨率图片和媒体的演示文稿。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

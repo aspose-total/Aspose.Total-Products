@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+הערת TXT מעשירה קבצי טקסט פשוטים עם הערות מובנות, סימנים והערות ביקורת, שמשפרים את ההבנה בזריזות ובזריזות בזריזות טכניות ותיעוד. זה עוזר להבהיר את התוכן בלי לשנות את פשטות הקובץ.
+
+האוטומציה תומכת בעיבוד TXT מהיר ובגדלים גדולים על ידי זיהוי תבניות, הכנסת הערות ואכיפת הערות מובנות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **הערות טכניות**  
+
+  הוסף הערות תיאוריות לקבצי הקונפיגורציה או הקבצים של הקוד.
+
+* **זיהוי שגיאות**  
+
+  סמן שורות חשודות או מיושנות.
+
+* **סימון הדרכה**  
+
+  הכנס תגי הדרכה פשוטים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **הערת תבניות מבוססת**  
+
+  זהה והדגש מבנים מוגדרים מראש.
+
+* **עיבוד קבצים בצובר**  
+
+  הכנס הערות לאוספי TXT גדולים באופן תכנותי.
+
+* **הערות ביקורת אוטומטיות**  
+
+  הכנס הערות שמונות על פי כללים בקבצים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

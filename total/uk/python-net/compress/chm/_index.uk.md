@@ -77,7 +77,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Стиснення CHM зменшує розмір скомпільованих файлів довідки HTML, які містять HTML-сторінки, зображення та навігаційні структури для документації програмного забезпечення. Стиснені файли CHM покращують ефективність зберігання, швидкість розповсюдження та доступність для користувачів.
+
+
+
+Python API дозволяють автоматизоване стиснення CHM, пакетну обробку та інтеграцію з робочими процесами документації для масштабного управління системами довідки та технічними посібниками.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* **Надання документації про програмне забезпечення**  
+
+&nbsp; Стиснені файли CHM завантажуються швидше та займають менше місця на диску.
+
+
+
+* **Архівування та резервне копіювання**  
+
+&nbsp; Зменште обсяг зберігання для старих та великих колекцій файлів довідки.
+
+
+
+* **Ефективний обмін**  
+
+&nbsp; Менші файли CHM швидко передаються по мережі або між пристроями.
+
+
+
+* **Доступність для користувачів**  
+
+&nbsp; Оптимізовані файли покращують швидкість завантаження у переглядачах довідки.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Пакетне стиснення CHM**  
+
+&nbsp; Автоматизуйте зменшення розміру для кількох файлів довідки.
+
+
+
+* **Оптимізація вбудованих ресурсів**  
+
+&nbsp; Автоматично стискуйте зображення, скрипти та HTML-сторінки.
+
+
+
+* **Інтеграція з процесами документації**  
+
+&nbsp; Стискуйте файли CHM під час процесів збірки або розгортання.
+
+
+
+* **Динамічні рівні стиснення**  
+
+&nbsp; Налаштуйте з урахуванням розміру та складності вмісту.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

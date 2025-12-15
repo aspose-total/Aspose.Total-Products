@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تقليل ضغط DIB يقلل من حجم ملفات الصور البتمابية غير المعتمدة على الجهاز، التي تخزن بيانات البكسل بدون تنسيق محدد للأجهزة. تكون هذه الصور كبيرة في كثير من الأحيان لأنها تحتفظ ببيانات البتماب الخام غير المضغوطة، مما يجعل الضغط أمرًا ضروريًا للتخزين والمعالجة الفعالة في سير العمل الحديثة.
+
+
+
+تجعل واجهات برمجة التطبيقات في Python من الممكن أتمتة تحسين DIB، وتقليل حجم الملف، وتحويل هذه البتمابات إلى تنسيقات أكثر ضغطًا، مما يعزز قابلية التوسع في خطوط الصور وأنظمة الأصول الرقمية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين بتماب الإرث**  
+
+&nbsp; يضغط ملفات DIB الكبيرة الناتجة عن برامج أو أنظمة تصوير قديمة.
+
+
+
+* **كفاءة التخزين**  
+
+&nbsp; يقلل بشكل كبير من استخدام القرص للمؤسسات التي تمتلك مستودعات بتماب كبيرة.
+
+
+
+* **نقل وتحميل أسرع**  
+
+&nbsp; يسمح بمشاركة أسرع لملفات الصور الثقيلة عبر الشبكات أو منصات السحاب.
+
+
+
+* **أرشفة الصور**  
+
+&nbsp; يساعد في الحفاظ على أرشيفات خفيفة دون المساس بالبيانات البكسلية الأساسية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+
+
+* **ضغط DIB الجماعي**  
+
+&nbsp; أتمتة تقليل الحجم لمئات أو آلاف الملفات البتمابية دفعة واحدة.
+
+
+
+* **التحويل التلقائي إلى تنسيقات حديثة**  
+
+&nbsp; تحويل DIB إلى PNG، JPEG، أو WebP بقواعد ضغط ذكية.
+
+
+
+* **تحسين التحميل في الوقت الحقيقي**  
+
+&nbsp; يمكن ضغط ملفات DIB تلقائيًا عند استيعابها في منصات التصوير.
+
+
+
+* **ضغط يأخذ بعين الاعتبار الدقة**  
+
+&nbsp; تعديل الضغط تلقائيًا استنادًا إلى أبعاد البكسل أو عمق اللون.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

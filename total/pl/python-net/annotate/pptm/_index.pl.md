@@ -75,7 +75,65 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTM dokumentacja adnotacji zawiera logikę makr i dodaje strukturalne notatki do plików prezentacji z włączonymi makrami, poprawiając możliwość utrzymania i dokładność przeglądu. Zapewnia to przejrzystość wokół zautomatyzowanego zachowania slajdów.
+
+Automatyzacja ulepsza przepływy pracy PPTM poprzez skanowanie skryptów, generowanie adnotacji i sygnalizowanie problemów z interakcjami opartymi na makrach.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Notatki wyjaśniające makra**  
+
+&nbsp; Dokumentuj logikę automatyzacji slajdów.
+
+* **Opinie dotyczące projektu**  
+
+&nbsp; Dodaj komentarze dotyczące struktury lub treści.
+
+* **Śledzenie zachowania**  
+
+&nbsp; Identyfikuj slajdy dotknięte przez makra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Narzędzia wykrywania makr**  
+
+&nbsp; Automatycznie adnotuj sekcje związane z makrami.
+
+* **Audyt logiki slajdów**  
+
+&nbsp; Wstawiaj ostrzeżenia lub notatki oparte na regułach.
+
+* **Masowe aktualizacje szablonów**  
+
+&nbsp; Stosuj adnotacje do wielu plików PPTM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+CMX 압축은 자세한 일러스트레이션, 레이어 및 색상 프로필을 포함하는 Corel Presentation Exchange 벡터 그래픽의 크기를 줄입니다. CMX 파일을 최적화하면 디자인 워크플로우의 성능을 향상시키고, 공유를 가속화하며 창의적 및 기술적 환경에서의 저장 요구 사항을 줄일 수 있습니다.
+
+
+
+Python API를 사용하면 대규모 벡터 자산을 출판, 인쇄 및 그래픽 관리 시스템에 대한 규모에 맞게 효율적으로 처리할 수 있는 자동화된 CMX 압축 및 변환이 가능합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **디자인 프로젝트 최적화**  
+
+&nbsp; 레이어가 있는 CMX 그래픽을 압축하여 파일 처리를 간소화하고 저장 용량을 줄입니다.
+
+
+
+* **출판 및 인쇄 파이프라인**  
+
+&nbsp; 작은 CMX 파일은 렌더링, 편집 및 전송 프로세스를 가속화합니다.
+
+
+
+* **자산 라이브러리 관리**  
+
+&nbsp; 최적화된 CMX 컬렉션은 디지털 자산 저장소 내에서 더 빨리 로드됩니다.
+
+
+
+* **크로스 플랫폼 교환**  
+
+&nbsp; 압축된 CMX 파일은 디자인 팀 또는 애플리케이션 간에 더 효율적으로 전송됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **대규모 CMX 압축**  
+
+&nbsp; Python 워크플로우로 대규모 CMX 그래픽 세트를 자동으로 최적화합니다.
+
+
+
+* **CMX를 압축 형식으로 변환**  
+
+&nbsp; CMX를 SVG, PDF, PNG 또는 EPS로 변환하면서 압축 규칙을 적용합니다.
+
+
+
+* **자동 업로드 최적화**  
+
+&nbsp; CMX 파일은 DMS 또는 DAM 시스템에 투입될 때 즉시 압축될 수 있습니다.
+
+
+
+* **콘텐츠 인식 압축**  
+
+&nbsp; 벡터 복잡성이나 포함된 구성 요소에 따라 최적화 강도를 조정합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

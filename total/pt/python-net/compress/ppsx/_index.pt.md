@@ -101,7 +101,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/sli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Os arquivos PPSX (Apresentação do PowerPoint moderna) se beneficiam da compressão para redução de armazenamento e compartilhamento mais rápido, preservando o conteúdo dos slides, animações e mídia incorporada.
+
+
+
+As APIs do Python permitem a compressão automatizada de PPSX, melhorando os fluxos de trabalho e a escalabilidade de apresentações.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Otimização de Armazenamento**  
+
+&nbsp; Comprima arquivos PPSX sem afetar slides ou animações.
+
+
+
+* **Colaboração Mais Rápida**  
+
+&nbsp; Arquivos menores permitem compartilhamento rápido entre equipes e plataformas.
+
+
+
+* **Eficiência de Arquivamento**  
+
+&nbsp; A compressão automatizada garante o armazenamento de longo prazo dos arquivos de apresentação.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de PPSX**  
+
+&nbsp; Scripts em Python podem comprimir vários arquivos PPSX automaticamente.
+
+
+
+* **Integração com Fluxos de Trabalho e Sistemas em Nuvem**  
+
+&nbsp; Arquivos PPSX comprimidos podem ser processados dinamicamente em fluxos de trabalho automatizados.
+
+
+
+* **Regras de Compressão Inteligente**  
+
+&nbsp; A automação condicional visa arquivos com mídia de alta resolução.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

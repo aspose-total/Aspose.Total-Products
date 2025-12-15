@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ضغط HTML يقلل من حجم الملف عن طريق تقليص الشيفرة، وإزالة المسافات البيضاء، والتعليقات، والعلامات الزائدة. يحسن ضغط HTML أوقات تحميل الموقع، ويقلل من استخدام عرض النطاق الترددي، ويعزز أداء تطبيقات الويب.
+
+
+
+تمكن واجهات برمجة التطبيقات في Python من تقليل حجم HTML تلقائيًا، ومعالجة الدفعات، والتكامل مع أنابيب نشر الويب لتحسين المواقع والتطبيقات بشكل قابل للتوسيع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين صفحة الويب**  
+
+&nbsp; تحسين ملفات HTML الصغيرة يحسن سرعة تحميل الصفحة واستجابتها.
+
+
+
+* **إنشاء موقع ثابت**  
+
+&nbsp; يسرع HTML المضغوط عمليات بناء المواقع وعمليات النشر.
+
+
+
+* **إدارة الأصول الرقمية**  
+
+&nbsp; يقلل HTML المضغوط من متطلبات التخزين لمستودعات الويب الكبيرة.
+
+
+
+* **توصيل متعدد الأنظمة**  
+
+&nbsp; يحسن HTML المحسن أداء التقديم عبر الأجهزة والمتصفحات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط HTML دفعات**  
+
+&nbsp; أتمم ضغط ملفات HTML متعددة.
+
+
+
+* **إزالة المسافات البيضاء والتعليقات**  
+
+&nbsp; نظف الشيفرة تلقائيًا دون تغيير الوظائف.
+
+
+
+* **تكامل الأنابيب**  
+
+&nbsp; ضغط ملفات HTML أثناء سير العمل في CI/CD أو عمليات استيعاب المحتوى.
+
+
+
+* **تحسين ديناميكي**  
+
+&nbsp; ضبط قواعد الضغط تبعًا لمتطلبات المشروع أو البيئة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TIFF压缩专注于减小高分辨率光栅图像的大小，同时保持图像质量、色深和元数据。TIFF文件广泛应用于专业摄影、印刷和扫描工作流程中，使压缩对于存储效率和更快处理至关重要。
+
+
+
+Python API实现自动化TIFF压缩、批处理和格式转换，可处理大型图像集合并集成到数字资产管理和成像流程中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **专业摄影存储**  
+
+  压缩TIFF文件可降低存储成本，同时保留高质量图像。
+
+
+
+* **印刷和出版工作流程**  
+
+  优化的TIFF文件在印前和生产流程中加载更快，处理更高效。
+
+
+
+* **扫描和归档**  
+
+  压缩的TIFF文件可最小化扫描文档和历史记录的存储占用。
+
+
+
+* **数字资产管理**  
+
+  更小的TIFF文件提高大型图像库的检索速度和系统性能。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量TIFF压缩**  
+
+  Python脚本可自动优化数百个TIFF文件。
+
+
+
+* **无损或受控有损压缩**  
+
+  根据工作流程需求或图像内容自动选择压缩类型。
+
+
+
+* **工作流程集成**  
+
+  在上传到DAM、CMS或云存储时动态压缩TIFF文件。
+
+
+
+* **基于分辨率的优化**  
+
+  根据图像尺寸或DPI自动调整压缩级别。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

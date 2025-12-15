@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCXは、プロフェッショナルな文書に広く使用される現代のWord形式です。圧縮によりストレージを削減し、転送速度を向上させながら、フォーマットや埋め込みオブジェクトを維持します。
+
+
+
+PythonのAPIを使用すると、DOCXの圧縮を自動化して、スケーラブルで効率的な文書ワークフローを実現し、クラウドシステムとの統合が可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* **最適化されたストレージ**  
+
+&nbsp; コンテンツとデザインを保持しながら、DOCXファイルサイズを削減します。
+
+
+
+* **迅速なコラボレーション**  
+
+&nbsp; より小さなファイルは、チームやプラットフォーム間での共有を容易にします。
+
+
+
+* **効率的なアーカイブ**  
+
+&nbsp; 自動化された圧縮は、大規模な文書リポジトリの管理を支援します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **一括DOCX圧縮**  
+
+&nbsp; Pythonスクリプトを使用して、複数のDOCXファイルを一度に圧縮できます。
+
+
+
+* **文書管理システムとの統合**  
+
+&nbsp; 圧縮されたDOCXファイルは効率的に保存および取得できます。
+
+
+
+* **スマートな圧縮**  
+
+&nbsp; 自動化により、メディアコンテンツが豊富またはファイルサイズが大きいファイルを対象にできます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ضغط EPUB يقلل من حجم ملفات الكتب الإلكترونية، التي تحتوي على نصوص وصور وأنماط وبيانات تعريفية. تحسين EPUB المضغوط يعزز سرعة التنزيل وكفاءة التخزين والتوافق مع قارئات الكتب الإلكترونية والمكتبات الرقمية.
+
+
+
+تمكن واجهات برمجة التطبيقات بايثون من ضغط EPUB تلقائيًا، ومعالجة الدُفعات، وتحسينها لإدارة مقياسية للكتب الإلكترونية والنشر الرقمي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **توزيع الكتب الإلكترونية**  
+
+&nbsp; تسمح الملفات الصغيرة EPUB بتنزيل أسرع ومشاركة أسهل.
+
+
+
+* **إدارة المكتبة الرقمية**  
+
+&nbsp; يقلل EPUB المضغوط من متطلبات التخزين لمجموعات كبيرة.
+
+
+
+* **توصيل المحتوى لأجهزة متعددة**  
+
+&nbsp; تضمن الملفات المحسنة تجربة قراءة سلسة عبر قارئات الكتب الإلكترونية والتطبيقات.
+
+
+
+* **الأرشفة والنسخ الاحتياطي**  
+
+&nbsp; توفير تخزين فعال لحجم كبير من الكتب الإلكترونية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط EPUB بالدُفعات**  
+
+&nbsp; أتمم تحسين ملفات الكتب الإلكترونية المتعددة دفعة واحدة.
+
+
+
+* **تحسين الصور والنصوص**  
+
+&nbsp; تقليل حجم الصور المضمنة وإزالة البيانات التعريفية الزائدة.
+
+
+
+* **تكامل سير العمل**  
+
+&nbsp; ضغط EPUB تلقائيًا أثناء التحميل إلى المكتبات الرقمية أو المنصات.
+
+
+
+* **ضبط جودة ديناميكي**  
+
+&nbsp; تحقيق توازن بين جودة الصورة وحجم الملف بناءً على الجهاز أو المنصة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

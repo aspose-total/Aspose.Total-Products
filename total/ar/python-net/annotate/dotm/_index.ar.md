@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تستهدف تعليقات DOTM القوالب القابلة للتمكين من الماكرو في Word، مما يمكن من وثائق واضحة حول السكربتات المضمنة ومنطق القالب. يساعد ذلك في الحفاظ على الشفافية حول الميزات الآلية وضمان الاستخدام المتسق عبر الفرق.
+
+يتيح تعليق DOTM التلقائي للأنظمة مسح الماكرو، تحديث الملاحظات، وفرض قواعد القالب على نطاق واسع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **ملاحظات سلوك الماكرو**  
+
+  &nbsp; شرح كيفية عمل السكربتات المضمنة.
+
+* **إرشادات القالب**  
+
+  &nbsp; إرشاد المستخدمين حول الاستخدام السليم للماكرو.
+
+* **تتبع المنطق**  
+
+  &nbsp; وضع علامات على الأقسام التي تُشغّلها الماكرو.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتأة" %}}
+
+
+
+* **أدوات اكتشاف الماكرو**  
+
+  &nbsp; إدراج تلقائي للتعليقات للسكربتات المكتشفة.
+
+* **تحديثات القالب استنادًا إلى سير العمل**  
+
+  &nbsp; إضافة أو تعديل الملاحظات بشكل ديناميكي.
+
+* **علامات ضمان الجودة**  
+
+  &nbsp; تحديد منطق الماكرو الخطر أو القديم.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

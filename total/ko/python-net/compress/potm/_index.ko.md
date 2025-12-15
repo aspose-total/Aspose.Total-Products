@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM 파일(매크로 활성화된 템플릿)은 매크로를 보존하면서 파일 크기를 줄여 배포 및 저장을 위한 압축이 필요합니다.
+
+
+
+파이썬 기반 자동화는 전체 템플릿 기능을 유지하면서 대규모 POTM 압축을 가능하게 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **매크로 템플릿 보존**  
+
+  &nbsp; 내장된 매크로를 손상시키지 않고 POTM 파일을 압축합니다.
+
+
+
+* **효율적인 템플릿 공유**  
+
+  &nbsp; 더 작은 매크로 활성화된 템플릿은 협업 및 클라우드 배포를 개선합니다.
+
+
+
+* **템플릿 아카이브**  
+
+  &nbsp; 자동화된 압축은 효율적인 장기 저장을 보장합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 POTM 압축**  
+
+  &nbsp; 파이썬 스크립트는 여러 매크로 활성화된 템플릿을 자동으로 처리할 수 있습니다.
+
+
+
+* **워크플로 시스템 통합**  
+
+  &nbsp; 압축된 POTM 템플릿은 자동화된 워크플로에 동적으로 로드될 수 있습니다.
+
+
+
+* **조건부 압축**  
+
+  &nbsp; 자동화는 매크로나 대형 미디어 콘텐츠가 포함된 파일을 대상으로 합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

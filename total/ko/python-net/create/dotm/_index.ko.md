@@ -43,9 +43,79 @@ informat: DOTM
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM — `.dotm` 템플릿은 템플릿과 매크로 지원을 결합하여 자동 문서 동작을 위한 재사용 가능한 매크로 활성화 템플릿을 제공합니다. Python을 통한 DOTM 파일 생성을 통해 매크로가 포함된 템플릿을 배포할 수 있으며 매크로 내용을 프로그래밍적으로 제어할 수 있습니다.
+
+
+
+이 형식은 로컬 자동화 작업을 위해 반복 가능한 매크로가 포함된 템플릿이 필요한 조직에 적합하며 매크로가 템플릿 빌드 프로세스 중에 프로그래밍 방식으로 관리되고 승인된 VBA 자동화를 포함하는 템플릿을 포함합니다.
+
+자동화를 통해 CI/CD 파이프라인 내에서 안전한 매크로 라이프사이클 관리 - 생성, 분석, 서명 및 배포 - 가 가능합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **매크로 활성화 템플릿 라이브러리**
+
+  &nbsp; 로컬 사용자를 위해 반복 가능한 자동화를 캡슐화한 DOTM 템플릿을 제공합니다.
+
+
+
+* **제어된 템플릿 자동화**
+
+  &nbsp; 내부 워크플로에 대해 승인된 매크로만 포함되도록 템플릿을 보장합니다.
+
+
+
+* **템플릿 기반 문서 생성**
+
+  &nbsp; DOTM을 소스로 사용하여 포함된 동작을 가진 DOCM/DOCX 인스턴스를 생성합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **템플릿 QA를 위한 CI 파이프라인**
+
+  &nbsp; 배포 전에 VBA 동작과 템플릿 무결성을 자동으로 검증합니다.
+
+
+
+* **템플릿의 안전한 배포**
+
+  &nbsp; 디지털 서명을 포함하고 DOTM 파일을 관리 채널을 통해 사용자에게 전달합니다.
+
+
+
+* **동적 매크로 삽입**
+
+  &nbsp; 안전한 저장소에서 DOTM 템플릿 내의 매크로 모듈을 프로그래밍적으로 업데이트합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

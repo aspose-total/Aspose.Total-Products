@@ -100,7 +100,87 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compresión de IMÁGENES genérica se refiere a la optimización de cualquier archivo de imagen basado en raster para reducir el tamaño del archivo mientras se conserva la calidad visual. Este enfoque es esencial para la eficiencia de almacenamiento, transferencias más rápidas y renderizado fluido en plataformas digitales, aplicaciones y flujos de contenido.
+
+
+
+Las APIs de Python permiten la compresión AUTOMÁTICA de IMÁGENES, el procesamiento por lotes y la conversión de formatos, lo que respalda flujos de trabajo escalables para la gestión de medios, la entrega web y los repositorios basados en la nube.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Rendimiento web y de aplicaciones**  
+
+&nbsp; Las imágenes comprimidas se cargan más rápido, reduciendo el uso de ancho de banda y mejorando la experiencia del usuario.
+
+
+
+* **Gestión de activos digitales**  
+
+&nbsp; Las imágenes optimizadas son más fáciles de almacenar, organizar y recuperar de bibliotecas grandes.
+
+
+
+* **Publicación de contenido**  
+
+&nbsp; Mantiene la calidad de la imagen al minimizar el tamaño del archivo para plataformas en línea.
+
+
+
+* **Archivo y copia de seguridad**  
+
+&nbsp; Reduce los requisitos de almacenamiento para grandes colecciones de imágenes rasterizadas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Compresión de imágenes por lotes**  
+
+&nbsp; Los scripts de Python pueden optimizar automáticamente cientos de archivos de imagen genéricos.
+
+
+
+* **Selección dinámica de formato**  
+
+&nbsp; La automatización puede convertir imágenes al formato óptimo JPG mientras se comprimen.
+
+
+
+* **Integración de flujo de trabajo**  
+
+&nbsp; Comprime imágenes automáticamente al cargarlas en CMS, DAM o plataformas en la nube.
+
+
+
+* **Compresión basada en resolución**  
+
+&nbsp; Ajusta los niveles de compresión dinámicamente en función de la resolución de la imagen, dimensiones o uso.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

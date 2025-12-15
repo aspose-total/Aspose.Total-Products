@@ -78,7 +78,87 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresja OTP zmniejsza rozmiar plików szablonów OpenDocument używanych do dokumentów tekstowych. Optymalizacja OTP poprawia wydajność przechowywania, szybsze rozpowszechnianie i wydajność przepływu pracy przy tworzeniu dokumentów opartych na szablonach.
+
+
+
+Interfejsy Pythona umożliwiają zautomatyzowaną kompresję OTP, przetwarzanie wsadowe i zarządzanie szablonami dla skalowalnych przepływów pracy z automatyzacją dokumentów.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Optymalizacja szablonów**  
+
+&nbsp; Zmniejszaj miejsce na dysku dla dużych bibliotek szablonów.
+
+
+
+* **Szybsze udostępnianie i współpraca**  
+
+&nbsp; Mniejsze pliki OTP szybko przesyłają się między zespołami i sieciami.
+
+
+
+* **Efektywność przepływu pracy**  
+
+&nbsp; Skompresowane szablony poprawiają szybkość ładowania i edycji.
+
+
+
+* **Archiwizacja i tworzenie kopii zapasowych**  
+
+&nbsp; Wydajne przechowywanie dla długoterminowego przechowywania plików szablonów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Kompresja wsadowa OTP**  
+
+&nbsp; Zautomatyzuj zmniejszanie rozmiaru dla wielu szablonów.
+
+
+
+* **Optymalizacja treści i mediów**  
+
+&nbsp; Automatyczna kompresja osadzonych obrazów lub stylów.
+
+
+
+* **Integracja w potoki dokumentów**  
+
+&nbsp; Pliki OTP są kompresowane podczas automatycznego wdrażania lub przechowywania szablonów.
+
+
+
+* **Dynamiczne reguły kompresji**  
+
+&nbsp; Dostosuj optymalizację w oparciu o złożoność szablonu lub gęstość treści.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

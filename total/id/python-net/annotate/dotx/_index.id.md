@@ -75,7 +75,65 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Anotasi DOTX memperluas kegunaan template dengan menyematkan komentar, instruksi, dan metadata ke dalam template Word non-macro. Ini meningkatkan akurasi dokumen dan memandu pengguna dalam pembuatan konten terstruktur.  
+
+Automatisasi anotasi DOTX mempercepat pembaruan template dan menegakkan konsistensi di seluruh alur kerja dokumentasi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Panduan Template**  
+
+&nbsp; Tambahkan catatan untuk tujuan setiap bagian.
+
+* **Panduan Format**  
+
+&nbsp; Sorot aturan untuk judul, daftar, atau tabel.
+
+* **Pencegahan Kesalahan**  
+
+&nbsp; Tandai area di mana pengguna sering melakukan kesalahan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Anotasi Berbasis Aturan**  
+
+&nbsp; Sisipkan instruksi standar secara programatis.
+
+* **Pemeliharaan Template Massal**  
+
+&nbsp; Perbarui anotasi di seluruh template.
+
+* **Integrasi Kebijakan Dinamis**  
+
+&nbsp; Tambahkan panduan kepatuhan melalui jalur otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

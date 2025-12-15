@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese OTT se zaměřuje na soubory šablon OpenDocument Text Template, optimalizuje rozvržení, styly a vložená média pro snížení velikosti souboru. Komprimované soubory OTT zlepšují úložný prostor, rychlost přenosu a efektivitu pracovního postupu pro vytváření dokumentů řízených šablonou.
+
+
+
+Pythonové API umožňují automatizovanou kompresi OTT, zpracování dávek a integraci s systémy pro automatizaci dokumentů pro škálovatelný správu šablon.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace knihovny šablon**  
+
+&nbsp; Menší soubory OTT snižují úložný prostor pro velké sbírky šablon.
+
+
+
+* **Efektivní sdílení a spolupráce**  
+
+&nbsp; Kompresované šablony jsou rychlejší k distribuci a přístupu.
+
+
+
+* **Integrace pracovního postupu**  
+
+&nbsp; Optimalizované soubory OTT zlepšují výkon v automatizovaných potrubích pro generování dokumentů.
+
+
+
+* **Archivace a zálohování**  
+
+&nbsp; Snížení úložného prostoru pro historické verze šablon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Dávková komprese OTT**  
+
+&nbsp; Automatizujte zmenšení velikosti pro více šablon.
+
+
+
+* **Optimalizace vložených médií**  
+
+&nbsp; Automaticky komprimujte obrázky, objekty a styly ve šablonách.
+
+
+
+* **Integrace s CMS/DAM**  
+
+&nbsp; Kompresujte soubory OTT při nahrávání do systémů pro správu dokumentů.
+
+
+
+* **Dynamické úrovně komprese**  
+
+&nbsp; Nastavte optimalizaci na základě složitosti obsahu a kontextu použití.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

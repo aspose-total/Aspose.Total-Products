@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLTX文件（现代Excel模板）受益于压缩，实现优化存储和更快共享，保留所有格式和公式。
+
+
+
+Python API实现自动化XLTX压缩，提高工作流效率并与文档管理系统集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **模板存储优化**  
+
+&nbsp; 在保持完整功能的同时压缩XLTX模板。
+
+
+
+* **快速模板共享**  
+
+&nbsp; 较小的文件可加快分发和协作。
+
+
+
+* **自动化归档**  
+
+&nbsp; 压缩简化长期存储管理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量XLTX压缩**  
+
+&nbsp; Python脚本自动压缩多个模板。
+
+
+
+* **与工作流系统集成**  
+
+&nbsp; 压缩模板可加载到自动化流水线中。
+
+
+
+* **智能压缩**  
+
+&nbsp; 条件规则允许针对具有大型数据集或嵌入式媒体的模板进行定位。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

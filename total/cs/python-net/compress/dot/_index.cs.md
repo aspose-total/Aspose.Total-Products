@@ -100,7 +100,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT soubory jsou šablonami programu Word, které využívají kompresi k úspoře místa a zlepšení efektivity distribuce napříč systémy.
+
+
+
+Kompresi založenou na Pythonu lze automatizovat optimalizaci souborů DOT, aniž by ovlivnila strukturu šablony nebo formátování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace ukládání šablon**  
+
+&nbsp; Kompresí DOT šablon dosáhněte efektivního ukládání lokálně nebo v cloudu.
+
+
+
+* **Sdílení šablon**  
+
+&nbsp; Snížená velikost souboru zvyšuje rychlost distribuce pro týmovou spolupráci.
+
+
+
+* **Archivace šablon**  
+
+&nbsp; Automatizovaná komprese podporuje dlouhodobé řízení šablon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatické scénáře" %}}
+
+
+
+* **Hromadná komprese šablon**  
+
+&nbsp; Pythonové skripty mohou automaticky komprimovat více souborů DOT.
+
+
+
+* **Integrace s pracovními toky**  
+
+&nbsp; Kompresované šablony lze dynamicky načítat do automatizovaných pracovních postupů.
+
+
+
+* **Selektivní komprese**  
+
+&nbsp; Automatizace může komprimovat pouze velké šablony nebo ty s vestavěnými objekty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

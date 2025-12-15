@@ -78,7 +78,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+I file XLTX (modelli Excel moderni) beneficiano della compressione per uno storage ottimizzato e una condivisione più veloce, preservando tutto il formato e le formule.
+
+
+
+Le API di Python consentono la compressione automatizzata di XLTX, migliorando l'efficienza del flusso di lavoro e l'integrazione con i sistemi di gestione dei documenti.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* ** Ottimizzazione dello storage dei modelli **
+
+&nbsp; Comprimi i modelli XLTX mantenendo piena funzionalità.
+
+
+
+* ** Condivisione rapida dei modelli **
+
+&nbsp; File più piccoli consentono una distribuzione e collaborazione più veloci.
+
+
+
+* ** Archiviazione automatizzata **
+
+&nbsp; La compressione semplifica la gestione dello storage a lungo termine.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* ** Compressione batch di XLTX **
+
+&nbsp; Gli script Python automatizzano la compressione di più modelli.
+
+
+
+* ** Integrazione con i sistemi di flusso di lavoro **
+
+&nbsp; I modelli compressi possono essere caricati in pipeline automatizzate.
+
+
+
+* ** Compressione intelligente **
+
+&nbsp; Le regole condizionali consentono di mirare ai modelli con grandi set di dati o media incorporati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

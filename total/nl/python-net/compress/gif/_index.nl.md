@@ -100,7 +100,41 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## GIF-compressie
+
+GIF-compressie verkleint de omvang van geanimeerde en statische GIF-bestanden terwijl de kwaliteit van frames, kleurenpalet en soepele weergave behouden blijven. Het optimaliseren van GIFs is essentieel voor web-, app- en marketinginhoud om snellere laadtijden, verminderd bandbreedtegebruik en verbeterde gebruikerservaring te garanderen.
+
+Python-API's maken geautomatiseerde GIF-compressie, frame-optimalisatie en batchverwerking mogelijk, waardoor schaalbare workflows ontstaan voor webafbeeldingen, sociale media-assets en multimediamateriaal.
+
+## Gebruiksscenario's
+
+- **Web- en app-optimalisatie**
+  Comprimeer GIFs om paginalaadtijden te verbeteren en responsieve gebruikersinteracties.
+
+- **Levering van sociale media-inhoud**
+  Kleinere GIFs zorgen voor snellere plaatsing, delen en voorbeeldweergave op verschillende platforms.
+
+- **Marketing- en advertentie-assets**
+  Geoptimaliseerde GIFs zorgen voor soepele animatie in e-mailcampagnes, banners en advertenties.
+
+- **Archivering van digitale assets**
+  Vermindert opslagvereisten voor grote verzamelingen geanimeerde afbeeldingen.
+
+## Automatiseringsscenario's
+
+- **Batch GIF-compressie**
+  Python-scripts kunnen automatisch honderden GIFs verwerken.
+
+- **Optimalisatie op frame-niveau**
+  Automatisering kan overbodige frames verwijderen of kleurenpaletten verkleinen om de bestandsgrootte te verkleinen.
+
+- **Workflow-integratie**
+  GIFs geüpload naar CMS, DAM of cloudplatforms kunnen automatisch worden gecomprimeerd.
+
+- **Dynamische kwaliteitsaanpassing**
+  Comprimeer GIFs op basis van resolutie, duur of vereisten van het doelplatform.
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -101,7 +101,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tệp PPS (PowerPoint Show) được nén để giảm dung lượng lưu trữ và cải thiện hiệu suất phát lại trong quá trình trình bày.
+
+
+
+API Python hỗ trợ việc nén tự động tệp PPS để chia sẻ nhanh hơn và hiệu quả hơn về lưu trữ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Tệp Hiển Thị**  
+
+  Nén tệp PPS mà không ảnh hưởng đến nội dung trang hoặc chuyển động.
+
+
+
+* **Phân Phối Nhanh Hơn**  
+
+  Tệp nhỏ giúp việc chia sẻ và tải lên đám mây nhanh chóng.
+
+
+
+* **Hiệu Quả Lưu Trữ**  
+
+  Nén tự động hỗ trợ lưu trữ dài hạn của tệp hiển thị.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Tệp PPS Theo Lô**  
+
+  Kịch bản Python có thể nén tự động nhiều tệp hiển thị.
+
+
+
+* **Tích Hợp với Hệ Thống Trình Bày**  
+
+  Tệp PPS đã được nén có thể được tải động trong quy trình làm việc tự động.
+
+
+
+* **Nén Có Điều Kiện**  
+
+  Xác định các bài thuyết trình lớn hoặc tệp chứa nhiều phương tiện để nén.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

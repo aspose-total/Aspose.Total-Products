@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT 압축은 워드 처리에 일반적으로 사용되는 OpenDocument Text 파일의 크기를 줄입니다. 압축된 ODT 파일은 저장 효율성, 빠른 전송, 그리고 문서 워크플로우의 성능을 향상시킵니다.
+
+
+
+Python API를 사용하면 자동화된 ODT 압축, 일괄 처리, 그리고 변환을 지원하여 사무실, 학술 및 출판 환경에서 텍스트 문서를 확장 가능하게 관리할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **문서 저장 공간 최적화**  
+
+&nbsp; 대규모 텍스트 문서 컬렉션의 저장 공간을 줄입니다.
+
+
+
+* **빠른 공유 및 협업**  
+
+&nbsp; 압축된 ODT 파일은 네트워크를 통해 빠르게 전송됩니다.
+
+
+
+* **디지털 아카이빙**  
+
+&nbsp; 역사적 및 참고 자료를 위한 효율적인 ODT 저장.
+
+
+
+* **워크플로우 효율성**  
+
+&nbsp; 작은 파일은 편집기 및 자동화된 파이프라인에서 빠르게 로드됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 ODT 압축**  
+
+&nbsp; 여러 문서의 크기를 자동으로 줄입니다.
+
+
+
+* **메타데이터 및 콘텐츠 최적화**  
+
+&nbsp; 중복 스타일, 이미지 또는 형식을 자동으로 제거합니다.
+
+
+
+* **문서 관리 시스템 통합**  
+
+&nbsp; 업로드 또는 백업 워크플로 중에 ODT 파일을 압축합니다.
+
+
+
+* **동적 압축 규칙**  
+
+&nbsp; 콘텐츠 크기, 이미지 밀도 또는 텍스트 양에 따라 최적화를 조정합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

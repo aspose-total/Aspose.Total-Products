@@ -100,7 +100,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Words for Python via .
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX là định dạng Word hiện đại, được sử dụng rộng rãi cho tài liệu chuyên nghiệp. Nén giảm dung lượng lưu trữ và tăng tốc độ truyền tải trong khi duy trì định dạng và đối tượng nhúng.
+
+
+
+API Python có thể tự động hóa việc nén DOCX, cho phép quy trình làm việc với tài liệu có quy mô lớn, hiệu quả và tích hợp với hệ thống đám mây.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Lưu Trữ**  
+
+&nbsp; Giảm kích thước tệp DOCX trong khi bảo tồn nội dung và thiết kế.
+
+
+
+* **Hợp Tác Nhanh Hơn**  
+
+&nbsp; Các tệp nhỏ hỗ trợ chia sẻ giữa các nhóm và nền tảng.
+
+
+
+* **Hiệu Quả Lưu Trữ**  
+
+&nbsp; Nén tự động hỗ trợ quản lý các kho tài liệu lớn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Batch DOCX**  
+
+&nbsp; Kịch bản Python có thể nén nhiều tệp DOCX trong một lần chạy.
+
+
+
+* **Tích Hợp với Hệ Thống Quản Lý Tài Liệu**  
+
+&nbsp; Các tệp DOCX được nén có thể được lưu trữ và truy xuất một cách hiệu quả.
+
+
+
+* **Nén Thông Minh**  
+
+&nbsp; Tự động hóa có thể nhắm vào các tệp có nội dung đa phương tiện cao hoặc kích thước lớn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

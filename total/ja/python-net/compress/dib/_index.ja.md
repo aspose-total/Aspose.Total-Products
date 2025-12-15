@@ -78,7 +78,43 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+DIB圧縮は、ハードウェア固有のフォーマットなしでピクセルデータを保存するデバイス非依存ビットマップファイルのサイズを縮小します。これらの画像は、生の非圧縮ビットマップデータを保持しているためしばしば大きく、現代のワークフローにおいて効率的な保存と処理のために圧縮が不可欠です。
+
+Python APIを使用することで、DIBの最適化を自動化し、ファイルサイズを最小化し、これらのビットマップをより圧縮された形式に変換することが可能となり、画像パイプラインやデジタルアセットシステムのスケーラビリティが向上します。
+
+## {{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **レガシービットマップの最適化**
+  &nbsp; 古い画像ソフトウェアやシステムから発生する大きなDIBファイルを圧縮します。
+
+* **ストレージ効率**
+  &nbsp; 大規模なビットマップリポジトリを持つ組織のディスク使用量を大幅に削減します。
+
+* **高速な転送とアップロード**
+  &nbsp; ネットワークやクラウドプラットフォームを介して重い画像ファイルを迅速に共有できます。
+
+* **画像アーカイブ**
+  &nbsp; 重要なピクセルデータを損なうことなく、軽量なアーカイブを維持するのに役立ちます。
+
+## {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチDIB圧縮**
+  &nbsp; 一度に数百または数千のビットマップファイルのサイズを自動的に縮小します。
+
+* **モダンフォーマットへの自動変換**
+  &nbsp; DIBをPNG、JPEG、またはWebPにインテリジェントな圧縮ルールで変換します。
+
+* **リアルタイムのアップロード最適化**
+  &nbsp; DIBファイルは、画像プラットフォームに取り込まれる際に自動的に圧縮されます。
+
+* **解像度に応じた圧縮**
+  &nbsp; ピクセル寸法や色の深さに基づいて圧縮の強度を自動調整します。
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén CHM giảm kích thước của các tệp Compiled HTML Help, chứa các trang HTML, hình ảnh và cấu trúc điều hướng cho tài liệu phần mềm. Các tệp CHM nén cải thiện hiệu quả lưu trữ, tốc độ phân phối và khả năng truy cập của người dùng.
+
+
+
+API Python cho phép nén CHM tự động, xử lý hàng loạt và tích hợp với quy trình làm tài liệu để quản lý hệ thống trợ giúp và hướng dẫn kỹ thuật một cách mở rộng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Giao Thức Tài Liệu Phần Mềm**  
+
+  &nbsp; Các tệp CHM nén tải nhanh hơn và chiếm ít không gian đĩa hơn.
+
+
+
+* **Lưu Trữ và Sao Lưu**  
+
+  &nbsp; Giảm lưu trữ cho các bộ sưu tập tệp trợ giúp cũ và lớn.
+
+
+
+* **Chia Sẻ Hiệu Quả**  
+
+  &nbsp; Các tệp CHM nhỏ truyền nhanh qua mạng hoặc thiết bị.
+
+
+
+* **Khả Năng Truy Cập của Người Dùng**  
+
+  &nbsp; Các tệp được tối ưu hóa cải thiện hiệu suất tải trong trình xem trợ giúp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén CHM Hàng Loạt**  
+
+  &nbsp; Tự động giảm kích thước cho nhiều tệp trợ giúp.
+
+
+
+* **Tối Ưu Hóa Tài Sản Nhúng**  
+
+  &nbsp; Nén hình ảnh, kịch bản và trang HTML tự động.
+
+
+
+* **Tích Hợp với Quy Trình Làm Tài Liệu**  
+
+  &nbsp; Nén tệp CHM trong quy trình xây dựng hoặc triển khai.
+
+
+
+* **Các Cấp Độ Nén Động**  
+
+  &nbsp; Điều chỉnh dựa trên kích thước và độ phức tạp của nội dung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

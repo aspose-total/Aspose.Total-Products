@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese PCL (Printer Command Language) optimalizuje dokumenty připravené k tisku tím, že snižuje velikost a zachovává věrnost tisku. Komprimované soubory PCL zlepšují účinnost ukládání, rychlejší přenos a výkon v tiskových pracovních postupech.
+
+
+
+Pythonové API umožňují automatizovanou kompresi PCL, hromadné zpracování a konverzi pro škálovatelné tiskové a správní dokumenty.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace tiskového úkolu**  
+
+  Menší soubory PCL snižují dobu zpracování fronty a zlepšují rychlost tisku.
+
+
+
+* **Archivace a úložiště**  
+
+  Komprimované soubory PCL šetří místo na úložišti pro velké archivy tiskových úloh.
+
+
+
+* **Distribuce dokumentů připravených k tisku**  
+
+  Optimalizované soubory se rychleji přenášejí po sítích nebo tiskových serverech.
+
+
+
+* **Efektivita pracovního postupu**  
+
+  Zlepšuje výkon v automatizovaných tiskových systémech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese PCL**  
+
+  Automatizujte optimalizaci více tiskových souborů.
+
+
+
+* **Optimalizace vložených prvků**  
+
+  Automaticky komprimujte písma, obrázky a grafiku v souborech PCL.
+
+
+
+* **Integrace s tiskovými potrubími**  
+
+  Dynamicky komprimujte soubory PCL před tiskem nebo archivací.
+
+
+
+* **Dynamická pravidla komprese**  
+
+  Upravte optimalizaci na základě složitosti dokumentu nebo typu obsahu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLT模板文件通过压缩来减少存储空间，改善分发，而不会改变模板结构。
+
+
+
+Python API允许自动压缩XLT模板，实现可扩展的模板管理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **模板存储优化**  
+
+&nbsp; 在保留格式和公式的同时压缩XLT文件。
+
+
+
+* **更快的模板共享**  
+
+&nbsp; 减小文件大小，快速分发给团队。
+
+
+
+* **自动归档**  
+
+&nbsp; 压缩模板简化长期存储管理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量模板压缩**  
+
+&nbsp; 使用Python脚本自动处理多个XLT文件。
+
+
+
+* **与工作流系统集成**  
+
+&nbsp; 压缩模板可以动态加载到自动化工作流中。
+
+
+
+* **条件压缩**  
+
+&nbsp; 自动化可以针对具有大型数据集或复杂公式的模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

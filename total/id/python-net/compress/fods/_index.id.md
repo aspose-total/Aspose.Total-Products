@@ -78,7 +78,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File FODS (Flat OpenDocument Spreadsheet) mendapatkan manfaat dari kompresi untuk mengurangi penyimpanan dan meningkatkan kecepatan transfer sambil tetap mempertahankan kompatibilitas dengan standar OpenDocument.
+
+
+
+Automasi berbasis Python memungkinkan kompresi yang efisien untuk integrasi alur kerja yang dapat diskalakan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Kompresi Spreadsheet yang Tersandardisasi**  
+
+  &nbsp; Kurangi ukuran file FODS sambil mempertahankan kompatibilitas dan struktur.
+
+
+
+* **Berbagi Lebih Cepat**  
+
+  &nbsp; File FODS yang terkompresi dapat dibagikan dengan cepat di berbagai platform.
+
+
+
+* **Efisiensi Arsip dan Cadangan**  
+
+  &nbsp; Kompresi otomatis menyederhanakan manajemen penyimpanan untuk format dokumen terbuka.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi FODS Secara Batch**  
+
+  &nbsp; Skrip Python dapat memproses beberapa file FODS secara otomatis.
+
+
+
+* **Integrasi Alur Kerja**  
+
+  &nbsp; File yang terkompresi dapat dimuat ke dalam sistem otomatis atau penyimpanan cloud.
+
+
+
+* **Kompresi Bersyarat**  
+
+  &nbsp; Targetkan file FODS besar atau berat media untuk dioptimalkan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

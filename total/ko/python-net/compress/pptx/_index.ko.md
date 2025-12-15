@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX는 현대적인 PowerPoint 형식으로, 종종 고해상도 이미지, 차트 및 애니메이션을 포함합니다. 압축은 시각적 충실성을 유지하면서 파일 크기를 줄입니다.
+
+
+
+파이썬 기반의 자동화는 확장 가능한 PPTX 압축을 가능하게 하며, 클라우드 플랫폼이나 프레젠테이션 관리 시스템과의 통합을 강화합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **저장 공간 최적화**  
+
+&nbsp; 슬라이드 콘텐츠, 애니메이션 또는 미디어를 잃지 않고 PPTX 파일을 압축합니다.
+
+
+
+* **빠른 공유**  
+
+&nbsp; 작은 PPTX 파일은 빠른 이메일이나 클라우드 배포를 가능하게 합니다.
+
+
+
+* **효율적인 아카이빙**  
+
+&nbsp; 자동화된 압축은 대규모 프레젠테이션의 장기 저장을 지원합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 PPTX 압축**  
+
+&nbsp; 파이썬 스크립트는 한 번에 여러 현대적인 프레젠테이션을 압축할 수 있습니다.
+
+
+
+* **협업 도구 통합**  
+
+&nbsp; 압축된 PPTX 파일은 자동화된 워크플로에 동적으로 로드될 수 있습니다.
+
+
+
+* **스마트 압축 규칙**  
+
+&nbsp; 조건부 자동화는 내장된 고해상도 미디어를 대상으로 합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+CGM sıkıştırması, genellikle mühendislik, havacılık ve bilimsel belgelerde kullanılan teknik vektör grafiklerin boyutunu azaltmaya odaklanır. CGM dosyaları karmaşık diyagramlar, 2D/3D çizimler ve meta veriler içerebildiği için sıkıştırma, yapısal doğruluğu korurken işleme verimliliğini artırır.
+
+
+
+Python API'leri, CGM dosyalarının otomatik olarak optimize edilmesini ve dönüştürülmesini sağlayarak belge sistemleri, CAD boru hatları ve kurumsal düzeyde grafik depoları için ölçeklenebilir iş akışlarını destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Teknik Belge Yönetimi**  
+
+&nbsp; CGM dosyalarının sıkıştırılması yükleme sürelerini iyileştirir ve depolama tüketimini azaltır.
+
+
+
+* **Mühendislik ve CAD İş Akışı Optimizasyonu**  
+
+&nbsp; Daha küçük CGM varlıkları, revizyon, değişim ve işleme döngülerini hızlandırmaya yardımcı olur.
+
+
+
+* **Büyük Ölçekli Grafik Arşivleri**  
+
+&nbsp; Verimli sıkıştırma, bilimsel veya endüstriyel görsel kütaplıkların hafif kalmasını sağlar.
+
+
+
+* **Çapraz Sistem Uyumluluğu**  
+
+&nbsp; Sıkıştırılmış CGM dosyaları, mühendislik ve yayınlama platformları arasında daha hızlı aktarılır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu CGM Sıkıştırması**  
+
+&nbsp; Büyük teknik diyagram setleri için optimizasyonu otomatikleştirir.
+
+
+
+* **Sıkıştırma ile CGM Dönüşümü**  
+
+&nbsp; CGM'yi SVG, PDF veya PNG'ye dönüştürürken verimli sıkıştırma kurallarını uygular.
+
+
+
+* **Otomatik Alım Boruları**  
+
+&nbsp; Belgelerin yönetildiği veya CAD portalına yüklendiğinde dosyaları dinamik olarak sıkıştırır.
+
+
+
+* **İçerik Tabanlı Sıkıştırma Mantığı**  
+
+&nbsp; Sıkıştırmayı çizgi yoğunluğuna, katmanlara veya gömülü meta verilere göre ayarlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DNG压缩专注于优化数字相机捕获的原始图像文件，同时保留最大图像质量。由于DNG文件通常包含高分辨率传感器数据，压缩可以减少存储需求，加快文件传输速度，并提高摄影和成像流程的工作效率。
+
+
+
+Python API允许自动化DNG压缩、批量处理和转换为其他格式，实现大型照片库和专业成像系统的可扩展管理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **摄影师档案优化**  
+
+&nbsp; 压缩DNG文件可减少存储空间，而不影响原始图像的保真度。
+
+
+
+* **更快的图像传输**  
+
+&nbsp; 较小的文件可在相机、工作站和云存储之间更快地共享。
+
+
+
+* **数字资产管理**  
+
+&nbsp; 压缩的DNG库更易于组织、搜索和检索。
+
+
+
+* **后期处理工作流**  
+
+&nbsp; 可加快将原始文件加载到图像编辑和AI增强流程中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量DNG压缩**  
+
+&nbsp; 自动优化多个原始图像文件。
+
+
+
+* **根据分辨率动态压缩**  
+
+&nbsp; Python工作流可以根据传感器大小或图像尺寸调整压缩级别。
+
+
+
+* **自动格式转换**  
+
+&nbsp; 将DNG自动转换为TIFF、JPEG或WebP，并应用压缩。
+
+
+
+* **与DAM系统集成**  
+
+&nbsp; 在上传时压缩DNG图像，以实现优化存储和更快处理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

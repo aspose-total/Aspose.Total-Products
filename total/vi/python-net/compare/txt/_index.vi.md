@@ -70,7 +70,75 @@ Có các tùy chọn thay thế để cài đặt '[Aspose.Words for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Điểm nổi bật so sánh TXT là sự so sánh các thay đổi ở cấp độ dòng hoặc ký tự trong tài liệu văn bản thuần túy, đảm bảo khả năng nhìn thấy đầy đủ các sửa đổi mà không phức tạp về định dạng. Điều này rất quan trọng cho các bản ghi, script và tài liệu đơn giản.
+
+
+
+So sánh tự động TXT cung cấp phát hiện nhanh chóng, có thể mở rộng các cập nhật trên các tập hợp lớn nội dung dựa trên văn bản.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Theo Dõi Sự Khác Biệt Trong Tệp Log**  
+
+&nbsp; Xác định các mục mới hoặc thay đổi.
+
+
+
+* **Đánh Giá Văn Bản Script hoặc Code**  
+
+&nbsp; Đánh dấu các sửa đổi trong các script văn bản thuần túy.
+
+
+
+* **Kiểm Soát Sửa Đổi Tài Liệu Đơn Giản**  
+
+&nbsp; Ghi lại các thay đổi dòng một cách hiệu quả.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **So Sánh TXT Ở Quy Mô Lớn**  
+
+&nbsp; Xử lý hàng ngàn tệp nhanh chóng.
+
+
+
+* **Các Luồng Theo Dõi Tự Động**  
+
+&nbsp; Kích hoạt quy trình làm việc khi có sự thay đổi.
+
+
+
+* **Trích Xuất Sự Khác Biệt Theo Cách Tự Động**  
+
+&nbsp; Tạo báo cáo có cấu trúc cho các hệ thống.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

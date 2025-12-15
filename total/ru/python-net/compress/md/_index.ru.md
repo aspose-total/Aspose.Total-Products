@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие MD оптимизирует файлы Markdown путем удаления ненужных пробелов, комментариев или избыточного форматирования, сохраняя структуру контента. Это повышает эффективность хранения, ускоряет передачу файлов и упрощает обработку в документации и контент-каналах.
+
+
+
+Python API позволяет автоматизировать сжатие MD, пакетную обработку и рабочие процессы конвертации для масштабируемой обработки технической документации, блогов и контента под управлением версий.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация документации**  
+
+&nbsp; Сжатие больших репозиториев Markdown для упрощения хранения и ускорения операций управления версиями.
+
+
+
+* **Рабочие процессы публикации контента**  
+
+&nbsp; Меньшие файлы MD упрощают процессы генерации веб-сайтов и статических сайтов.
+
+
+
+* **Архивирование контента Markdown**  
+
+&nbsp; Сокращает объем хранения исторической документации и заметок.
+
+
+
+* **Сотрудничество и распространение**  
+
+&nbsp; Оптимизированные файлы легче обменивать между командами и системами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие MD**  
+
+&nbsp; Автоматизация оптимизации нескольких файлов Markdown.
+
+
+
+* **Удаление пробелов и комментариев**  
+
+&nbsp; Автоматическая очистка ненужного текста без изменения содержимого.
+
+
+
+* **Интеграция в рабочий процесс**  
+
+&nbsp; Сжатие файлов MD при вводе в CMS или системы управления версиями.
+
+
+
+* **Конвертация + сжатие конвейеров**  
+
+&nbsp; Преобразование MD в HTML или PDF с автоматическим применением сжатия.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

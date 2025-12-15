@@ -75,7 +75,65 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A anotação de TXT enriquece arquivos de texto simples com comentários estruturados, marcadores e notas de revisão, melhorando a compreensão nos fluxos de trabalho técnicos e de documentação. Ajuda a esclarecer o conteúdo sem alterar a simplicidade do arquivo.
+
+A automação suporta o processamento rápido e em grande escala de TXT, detectando padrões, inserindo anotações e aplicando notas estruturadas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Comentários Técnicos**  
+
+&nbsp; Adicione notas descritivas para arquivos de configuração ou código.
+
+* **Identificação de Erros**  
+
+&nbsp; Marque linhas suspeitas ou desatualizadas.
+
+* **Marcação Instrucional**  
+
+&nbsp; Insira tags de orientação simples.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Anotação Baseada em Padrões**  
+
+&nbsp; Detecte e destaque estruturas predefinidas.
+
+* **Processamento em Lote de Arquivos**  
+
+&nbsp; Anote grandes coleções de TXT de forma programática.
+
+* **Notas de Revisão Automatizadas**  
+
+&nbsp; Insira comentários baseados em regras em vários arquivos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -68,7 +68,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сравнение презентаций PowerPoint выявляет изменения на уровне слайдов в тексте, медиа, дизайне, анимациях и структурных элементах. Это помогает поддерживать ясность и качество при внесении изменений.
+
+
+
+Автоматизация улучшает обзор презентаций в большом масштабе, обеспечивая однородные обновления и более быстрые циклы проверки.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Пересмотр содержания слайда**  
+
+&nbsp; Выделяет изменения в тексте, графике или макете.
+
+
+
+* **Проверка согласованности темы**  
+
+&nbsp; Гарантирует сохранение единого дизайна слайда.
+
+
+
+* **Отслеживание обновлений презентации**  
+
+&nbsp; Сравнивает версии для контроля качества.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Массовые конвейеры сравнения PPT**  
+
+&nbsp; Обрабатывает множество презентаций эффективно.
+
+
+
+* **Автоматизированная проверка дизайна**  
+
+&nbsp; Гарантирует автоматическое соблюдение визуальных правил.
+
+
+
+* **Триггеры рабочего процесса на основе изменений**  
+
+&nbsp; Запускает действия при значительных обновлениях.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

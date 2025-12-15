@@ -68,7 +68,69 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Porovnání ODP zkoumá obsah na úrovni snímku, rozložení, formátování a vložená média v prezentacích ve formátu otevřeného dokumentu. Podporuje přesnou kontrolu vizuálních komunikačních materiálů.
+
+
+
+Automatizované porovnání ODP zvyšuje škálovatelnost, umožňuje rychlou verifikaci napříč velkými knihovnami prezentací a spolupracujícími aktualizačními cykly.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Sledování revize snímku**  
+&nbsp; Zvýrazňuje aktualizace v textu, médiích a designu.
+
+
+
+* **Kontroly konzistence motivu**  
+&nbsp; Zajišťuje, že pravidla šablony zůstávají nedotčena.
+
+
+
+* **Hodnocení vizuálního obsahu**  
+&nbsp; Detekuje posuny rozložení nebo obsahu napříč snímky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadné porovnání snímků ODP**  
+&nbsp; Efektivně porovnává prezentace ve velkém měřítku.
+
+
+
+* **Automatická upozornění na změny snímku**  
+&nbsp; Programaticky označuje kritické aktualizace.
+
+
+
+* **Kontinuální ověřování snímků**  
+&nbsp; Integruje kontroly do pracovních postupů vytváření prezentací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

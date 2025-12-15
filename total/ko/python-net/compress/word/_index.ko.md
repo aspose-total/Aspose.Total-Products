@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+일반 Word 파일 압축은 저장 공간 사용량을 줄이고 전송 속도를 높이며 서식, 레이아웃 및 포함된 미디어를 유지하여 작업 효율성을 향상시킵니다.
+
+
+
+Python 기반의 압축은 규모에 맞게 Word 문서를 자동으로 최적화하여 현대적인 문서 관리 시스템과 통합을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **저장 공간 최적화**  
+
+&nbsp; 더 나은 디스크 활용을 위해 일반 Word 파일 크기를 줄입니다.
+
+
+
+* **보다 빠른 공유 및 협업**  
+
+&nbsp; 더 작은 파일은 팀에서 보내고 협업하기 쉽습니다.
+
+
+
+* **보관 효율성**  
+
+&nbsp; 자동 압축은 대규모 Word 문서 저장소를 관리하는 데 도움이 됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 처리**  
+
+&nbsp; Python 스크립트를 사용하여 여러 Word 파일을 자동으로 압축할 수 있습니다.
+
+
+
+* **워크플로 통합**  
+
+&nbsp; 압축된 파일은 문서 관리 시스템 및 클라우드 서비스와 업로드하거나 동기화할 수 있습니다.
+
+
+
+* **동적 압축**  
+
+&nbsp; 자동화를 통해 파일을 크기, 미디어 콘텐츠 또는 프로젝트 규칙에 따라 선택적으로 압축할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

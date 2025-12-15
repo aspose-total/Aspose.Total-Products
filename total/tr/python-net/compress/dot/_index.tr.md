@@ -100,7 +100,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT dosyaları, sıkıştırmadan faydalanarak alan tasarrufu yapar ve sistemler arasında dağıtım verimliliğini artırır.
+
+
+
+Python tabanlı sıkıştırma, şablon yapısını veya biçimlendirmeyi etkilemeden DOT dosyalarını otomatik olarak optimize edebilir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Şablon Depolama Optimizasyonu**  
+
+&nbsp; DOT şablonlarını verimli yerel veya bulut depolama için sıkıştırın.
+
+
+
+* **Şablon Paylaşımı**  
+
+&nbsp; Azaltılmış dosya boyutu, ekip işbirliği için dağıtım hızını artırır.
+
+
+
+* **Şablon Arşivleme**  
+
+&nbsp; Otomatik sıkıştırma, uzun vadeli şablon yönetimini destekler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu Şablon Sıkıştırma**  
+
+&nbsp; Python betikleri birden fazla DOT dosyasını otomatik olarak sıkıştırabilir.
+
+
+
+* **İş Akışı Sistemleriyle Entegrasyon**  
+
+&nbsp; Sıkıştırılmış şablonlar otomatik iş akışlarına dinamik olarak yüklenebilir.
+
+
+
+* **Seçmeli Sıkıştırma**  
+
+&nbsp; Otomasyon, yalnızca büyük şablonları veya gömülü nesneler içerenleri sıkıştırabilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

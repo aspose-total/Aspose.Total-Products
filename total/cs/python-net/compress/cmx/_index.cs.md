@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese CMX snižuje velikost vektorové grafiky Corel Presentation Exchange, která často zahrnuje podrobné ilustrace, vrstvy a barevné profily. Optimalizace souborů CMX pomáhá zlepšit výkon v pracovních postupech designu, urychluje sdílení a snižuje požadavky na úložiště v kreativních a technických prostředích.
+
+
+
+Pythonové API umožňují automatizovanou kompresi a konverzi CMX, což zajistí efektivní zpracování velkých vektorových aktiv pro publikování, tisk a správu grafiky.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace designového projektu**  
+
+&nbsp; Komprimuje vrstvenou grafiku CMX pro zjednodušení manipulace se soubory a snížení dopadu na úložiště.
+
+
+
+* **Publikování a tiskové postupy**  
+
+&nbsp; Menší soubory CMX urychlují procesy vykreslování, úprav a přenosu.
+
+
+
+* **Správa knihovny aktiv**  
+
+&nbsp; Optimalizované kolekce CMX se rychleji načítají v digitálních úložištích aktiv.
+
+
+
+* **Výměna mezi platformami**  
+
+&nbsp; Komprimované soubory CMX se přenášejí efektivněji mezi designovými týmy nebo aplikacemi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese CMX**  
+
+&nbsp; Automaticky optimalizuje velké sady grafik CMX pomocí Pythoních pracovních postupů.
+
+
+
+* **Konverze CMX do komprimovaného formátu**  
+
+&nbsp; Převádí CMX do formátů SVG, PDF, PNG nebo EPS s aplikací pravidel komprese.
+
+
+
+* **Automatizovaná optimalizace nahrávání**  
+
+&nbsp; Soubory CMX mohou být okamžitě komprimovány při vložení do systémů DMS nebo DAM.
+
+
+
+* **Komprese s ohledem na obsah**  
+
+&nbsp; Upravuje intenzitu optimalizace na základě složitosti vektorů nebo vložených komponent.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

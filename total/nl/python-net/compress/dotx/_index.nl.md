@@ -100,7 +100,69 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTX-bestanden, moderne Word-sjablonen zonder macro's, profiteren van compressie voor opslagefficiëntie en sneller delen.
+
+
+
+Python-gebaseerde automatisering maakt DOTX-bestandscompressie mogelijk met behoud van opmaak, lay-out en ingesloten bronnen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Opbergefficiëntie van Sjablonen**  
+  Verklein DOTX-bestanden terwijl het ontwerp consistent blijft.
+
+
+
+* **Snelle Deling van Sjablonen**  
+  Kleinere bestanden zorgen voor snellere distributie binnen teams.
+
+
+
+* **Archiefbeheer**  
+  Geautomatiseerde compressie ondersteunt langetermijnbehoud van sjablonen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Batch DOTX-compressie**  
+  Python-scripts kunnen meerdere sjabloonbestanden tegelijk comprimeren.
+
+
+
+* **Integratie met Documentensystemen**  
+  Gecomprimeerde sjablonen kunnen dynamisch worden beheerd in workflows.
+
+
+
+* **Slimme Compressieregels**  
+  Automatiseer op basis van bestandsgrootte, ingesloten objecten of sjablonen met veel afbeeldingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

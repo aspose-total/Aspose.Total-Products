@@ -101,7 +101,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese souborů PPT snižuje úložný prostor a zlepšuje rychlost přenosu pro staré prezentace v PowerPointu při zachování formátování, grafů a vložených médií.
+
+
+
+Pythonové API umožňují automatizovanou kompresi PPT, podporující škálovatelné řízení prezentací a efektivitu pracovních postupů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace starých prezentací**  
+
+&nbsp; Snížení velikosti souborů PPT bez ovlivnění rozložení snímků nebo obsahu.
+
+
+
+* **Rychlejší sdílení**  
+
+&nbsp; Menší soubory PPT umožňují rychlé odesílání e-mailem nebo do cloudu.
+
+
+
+* **Efektivita archivace**  
+
+&nbsp; Automatizovaná komprese usnadňuje dlouhodobé uchovávání starých prezentací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese PPT**  
+
+&nbsp; Pythonové skripty mohou automaticky zpracovávat více souborů PPT.
+
+
+
+* **Integrace s pracovními systémy**  
+
+&nbsp; Kompresované soubory lze spravovat v automatizovaných potrubích nebo DMS.
+
+
+
+* **Podmíněná komprese**  
+
+&nbsp; Cílové soubory lze optimalizovat na základě velikosti nebo vložených médií.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

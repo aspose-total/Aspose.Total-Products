@@ -78,7 +78,69 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ไฟล์ XLSM (ไฟล์ Excel ที่เปิดใช้งานแมโคร) ต้องการการบีบอัดที่รักษาแมโครที่ฝังอยู่ในขณะที่ปรับปรุงการจัดเก็บและการแชร์
+
+
+
+Python APIs ช่วยในการบีบอัดไฟล์ XLSM โดยอัตโนมัติ โดยรักษาฟังก์ชันแมโครและเปิดใช้งานการผสานงานได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การรักษาแมโคร**  
+  บีบอัดไฟล์ XLSM อย่างปลอดภัยโดยไม่ทำลายแมโครที่ฝังอยู่
+
+
+
+* **การแชร์และร่วมมือกันได้เร็วขึ้น**  
+  ไฟล์ XLSM ขนาดเล็กช่วยให้การทำงานร่วมกับทีมและการอัปโหลดไปยังคลาวด์ได้ง่ายขึ้น
+
+
+
+* **การเก็บถาวรโดยอัตโนมัติ**  
+  การบีบอัดช่วยให้การจัดเก็บไฟล์ที่เปิดใช้งานแมโครเป็นไปอย่างมีประสิทธิภาพ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* **การบีบอัดไฟล์ XLSM เป็นกลุ่ม**  
+  สคริปต์ Python สามารถประมวลผลไฟล์ที่เปิดใช้งานแมโครได้โดยอัตโนมัติ
+
+
+
+* **การผสานงานกับแพลตฟอร์ม BI และ DMS**  
+  ไฟล์ที่บีบอัดสามารถจัดการในระบบอัตโนมัติ
+
+
+
+* **การบีบอัดตามเงื่อนไข**  
+  การอัตโนมัติสามารถเลือกไฟล์ที่มีแมโครขนาดใหญ่หรือมีเนื้อหาสื่อที่หนัก
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

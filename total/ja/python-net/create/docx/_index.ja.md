@@ -43,9 +43,79 @@ Python アプリケーションを介して DOCX ファイルを作成しよう�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX — `.docx`（OOXML）はWord文書の現代標準であり、Pythonベースの自動化に非常に適しています。ライブラリを使用すると、段落、表、画像、スタイル、カスタムXMLパーツの作成と変更が可能で、OOXMLの構造とメタデータが保持されます。
+
+
+
+DOCXは、オープンな形式と強力なライブラリサポートにより、テンプレート化されたレポート、動的ドキュメント、Webサービスとの統合に最適です。自動化により、アクセス可能でスタイル設定された文書の信頼性のある生成が可能で、検証およびバージョン管理ができます。
+
+プログラムによるワークフローにより、構造化された入力から複雑な文書（入れ子の表、参照、目次）を組み立てることが簡単になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+
+
+* **テンプレート化されたレポートのレンダリング**
+
+&nbsp; 動的な表、チャート、および条件付きセクションを含むDOCXテンプレートを埋める。
+
+
+
+* **自動化された文書の構成**
+
+&nbsp; モジュラーコンテンツソースからセクション（導入、本文、付録）を一つのDOCXにまとめる。
+
+
+
+* **メタデータ豊富な成果物**
+
+&nbsp; ガバナンスのために文書プロパティ、カスタムXML、およびリビジョンメタデータを埋め込む。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **データベースから文書へのパイプライン**
+
+&nbsp; 自動化されたジョブでデータベースレコードごとに個別のDOCX文書を生成する。
+
+
+
+* **Webhookによる文書作成**
+
+&nbsp; 外部イベントによってトリガーされたHTTP APIを介して必要に応じてDOCX文書を作成する。
+
+
+
+* **自動化されたアクセシビリティチェック**
+
+&nbsp; 生成中に見出し構造と画像の代替テキストを検証する検証スクリプトを実行する。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

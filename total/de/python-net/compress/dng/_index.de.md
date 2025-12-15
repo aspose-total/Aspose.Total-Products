@@ -78,7 +78,87 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die DNG-Komprimierung konzentriert sich darauf, Rohbilddateien zu optimieren, die von Digitalkameras erfasst wurden, und gleichzeitig die maximale Bildqualität zu erhalten. Da DNG-Dateien oft hochauflösende Sensordaten enthalten, reduziert die Komprimierung den Speicherbedarf, beschleunigt Dateiübertragungen und verbessert die Arbeitsabläufe in der Fotografie und Bildverarbeitung.
+
+
+
+Python-APIs ermöglichen die automatisierte DNG-Komprimierung, Stapelverarbeitung und Konvertierung in andere Formate, was eine skalierbare Verwaltung großer Fotobibliotheken und professioneller Bildsysteme ermöglicht.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Optimierung des Fotografenarchivs**  
+
+&nbsp; Die Komprimierung von DNG-Dateien verringert den Speicherbedarf, ohne die Rohbildtreue zu beeinträchtigen.
+
+
+
+* **Schnellere Bildübertragung**  
+
+&nbsp; Kleinere Dateien ermöglichen ein schnelleres Teilen zwischen Kameras, Arbeitsstationen und Cloud-Speichern.
+
+
+
+* **Digitales Asset-Management**  
+
+&nbsp; Komprimierte DNG-Bibliotheken lassen sich einfacher organisieren, durchsuchen und abrufen.
+
+
+
+* **Nachbearbeitungs-Workflows**  
+
+&nbsp; Ermöglicht ein schnelleres Laden von Rohdateien in Bildbearbeitungs- und KI-gestützte Workflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Stapelverarbeitung von DNG-Dateien**  
+
+&nbsp; Automatisieren Sie die Optimierung mehrerer Rohbilddateien in großen Mengen.
+
+
+
+* **Dynamische Komprimierung basierend auf Auflösung**  
+
+&nbsp; Python-Workflows können die Kompressionsstufen je nach Sensorgöße oder Bildabmessungen anpassen.
+
+
+
+* **Automatisierte Formatkonvertierung**  
+
+&nbsp; Konvertieren Sie DNG in TIFF, JPEG oder WebP und wenden Sie automatisch Kompression an.
+
+
+
+* **Integration mit DAM-Systemen**  
+
+&nbsp; Komprimieren Sie DNG-Bilder beim Hochladen für optimierten Speicherplatz und schnellere Verarbeitung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

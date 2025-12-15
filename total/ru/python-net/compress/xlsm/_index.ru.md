@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файлы XLSM (рабочие книги Excel с поддержкой макросов) требуют сжатия, которое сохраняет встроенные макросы, оптимизируя хранение и совместное использование.
+
+
+
+Python API позволяет автоматизировать сжатие XLSM, сохраняя функциональность макросов и обеспечивая масштабируемую интеграцию рабочего процесса.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Сохранение макросов**  
+
+&nbsp; Безопасное сжатие файлов XLSM без нарушения встроенных макросов.
+
+
+
+* **Быстрое совместное использование и сотрудничество**  
+
+&nbsp; Меньшие файлы XLSM способствуют рабочим процессам команды и загрузке в облако.
+
+
+
+* **Автоматизированное архивирование**  
+
+&nbsp; Сжатие обеспечивает эффективное хранение файлов с поддержкой макросов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие XLSM**  
+
+&nbsp; Сценарии Python могут автоматически обрабатывать несколько файлов с макросами.
+
+
+
+* **Интеграция с BI и платформами DMS**  
+
+&nbsp; Сжатые файлы могут быть управляемы в автоматизированных системах.
+
+
+
+* **Условное сжатие**  
+
+&nbsp; Автоматизация может ориентироваться на файлы с большими макросами или тяжелым медийным контентом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

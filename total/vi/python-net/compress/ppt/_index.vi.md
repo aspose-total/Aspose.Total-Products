@@ -101,7 +101,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén các tệp PPT giúp giảm dung lượng lưu trữ và cải thiện tốc độ truyền tải cho các bản trình bày PowerPoint cũ trong khi bảo tồn định dạng, biểu đồ và phương tiện nhúng.
+
+
+
+API Python cho phép tự động nén PPT, hỗ trợ quản lý bản trình bày có thể mở rộng và hiệu quả quy trình làm việc.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Bản Trình Bày Cũ**  
+
+&nbsp; Giảm kích thước tệp PPT mà không ảnh hưởng đến bố cục hoặc nội dung của slide.
+
+
+
+* **Chia Sẻ Nhanh Hơn**  
+
+&nbsp; Tệp PPT nhỏ giúp phân phối qua email hoặc đám mây nhanh chóng.
+
+
+
+* **Hiệu Quả Lưu Trữ**  
+
+&nbsp; Nén tự động đơn giản hóa việc lưu trữ bản trình bày cũ trong dài hạn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Đồng Thời Nhiều Tệp PPT**  
+
+&nbsp; Kịch bản Python có thể xử lý tự động nhiều tệp PPT.
+
+
+
+* **Tích Hợp với Hệ Thống Quy Trình Làm Việc**  
+
+&nbsp; Các tệp nén có thể được quản lý trong các đường ống tự động hoặc Hệ thống Quản lý Tài liệu.
+
+
+
+* **Nén Theo Điều Kiện**  
+
+&nbsp; Xác định các tệp dựa trên kích thước hoặc phương tiện nhúng để tối ưu hóa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

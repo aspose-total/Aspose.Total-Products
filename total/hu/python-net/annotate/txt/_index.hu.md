@@ -75,7 +75,67 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT-annotálás strukturált megjegyzésekkel, jelölésekkel és felülvizsgálati jegyzetekkel gazdagítja az egyszerű szövegfájlokat, javítva a technikai és dokumentációs munkafolyamatokban való megértést. Segít tisztázni a tartalmat anélkül, hogy megváltoztatná a fájl egyszerűségét.
+
+Az automatizálás támogatja a gyors, nagyarányú TXT-feldolgozást a mintázatok észlelésével, annotációk beszúrásával és strukturált jegyzetek végrehajtásával.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+
+
+* **Technikai megjegyzések**  
+
+&nbsp; Adj leíró jegyzeteket a konfigurációs vagy kód fájlokhoz.
+
+* **Hibafelismerés**  
+
+&nbsp; Jelölje meg a gyanús vagy elavult sorokat.
+
+* **Útmutató jelölések**  
+
+&nbsp; Illesszen be egyszerű útmutató címkéket.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Mintázatalapú annotálás**  
+
+&nbsp; Az előre meghatározott struktúrák észlelése és kiemelése.
+
+* **Tömeges fájl feldolgozás**  
+
+&nbsp; Nagy TXT-gyűjtemények automatikus annotálása.
+
+* **Automatizált felülvizsgálati jegyzetek**  
+
+&nbsp; Szabályvezérelt megjegyzések beszúrása a fájlokba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

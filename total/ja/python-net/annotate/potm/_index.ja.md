@@ -75,7 +75,65 @@ POTM 注釈アプリまたはユーティリティを開発する必要があり
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM注釈は、スライドの論理、レイアウト指示、およびマクロの動作を明確にするノートを追加することで、マクロが有効化されたプレゼンテーションテンプレートを改善します。これにより、テンプレートの使いやすさが向上し、一貫したプレゼンテーション生成が確保されます。
+
+POTM注釈の自動化により、マクロの使用状況を追跡しやすくなり、レイアウトポリシーを強制し、ガイダンスをプログラムで更新することが容易になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **マクロロジックノート**
+
+&nbsp; 自動化されたスライド機能を説明します。
+
+* **テンプレートガイダンス**
+
+&nbsp; スライドコンテンツのための指示を提供します。
+
+* **デザインの一貫性マーカー**
+
+&nbsp; 必要なレイアウト要素を強調します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **マクロのスキャンと注釈**
+
+&nbsp; 検出されたスクリプトを自動文書化します。
+
+* **一括テンプレートメンテナンス**
+
+&nbsp; 更新されたガイダンステキストを自動的に適用します。
+
+* **自動レイアウト検証**
+
+&nbsp; 非準拠のスライドをプログラムでマークします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

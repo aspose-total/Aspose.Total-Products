@@ -75,7 +75,65 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chú thích DOTM nhắm vào các mẫu Word có kích hoạt macro, giúp tài liệu rõ ràng về các script nhúng và logic mẫu. Điều này giúp duy trì tính minh bạch xung quanh các tính năng tự động và đảm bảo việc sử dụng nhất quán trên các nhóm.
+
+Chú thích DOTM tự động giúp hệ thống quét các macro, cập nhật ghi chú và áp dụng các quy tắc mẫu theo quy mô lớn.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Ghi Chú Hành Vi Macro**  
+
+  Giải thích cách các script nhúng hoạt động.
+
+* **Hướng Dẫn Mẫu**  
+
+  Hướng dẫn người dùng về cách sử dụng đúng các macro.
+
+* **Theo Dõi Logic**  
+
+  Đánh dấu các phần được kích hoạt bởi macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Công Cụ Khám Phá Macro**  
+
+  Tự động chèn chú thích cho các script phát hiện được.
+
+* **Cập Nhật Mẫu Dựa Trên Quy Trình**  
+
+  Thêm hoặc sửa đổi ghi chú một cách linh hoạt.
+
+* **Đánh Dấu Đảm Bảo Chất Lượng**  
+
+  Đánh dấu logic macro rủi ro hoặc lỗi thời.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

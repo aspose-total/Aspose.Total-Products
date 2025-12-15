@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi DJVU meningkatkan struktur yang sudah efisien dari file DjVu, yang umum digunakan untuk dokumen yang discan, buku digital, dan konten arsip. Mengoptimalkan file DJVU lebih lanjut mengurangi ukuran, meningkatkan kecepatan pengunggahan, dan memastikan rendering berkualitas tinggi untuk halaman yang banyak berisi teks dan gambar.
+
+
+
+API Python memungkinkan untuk mengotomatisasi kompresi DJVU, mengoptimalkan lapisan yang discan, dan mengelola perpustakaan besar dokumen digital dengan kebutuhan penyimpanan minimal dan efisiensi pemrosesan yang tinggi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Perpustakaan Dokumen Digital**  
+
+&nbsp; Mengompresi arsip yang discan besar untuk menghemat ruang dan meningkatkan kinerja akses.
+
+
+
+* **Distribusi E-Book \& Penelitian**  
+
+&nbsp; File DJVU yang lebih kecil memuat lebih cepat dan mentransfer lebih efisien di platform akademis.
+
+
+
+* **Optimasi Gambar yang Discan**  
+
+&nbsp; Meningkatkan keterbacaan dan mengurangi ukuran tanpa mengorbankan detail visual yang penting.
+
+
+
+* **Arsip Jangka Panjang**  
+
+&nbsp; Menyediakan preservasi yang efisien dalam penyimpanan untuk materi sejarah dan referensi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi DJVU Massal**  
+
+&nbsp; Secara otomatis mengurangi ukuran file untuk koleksi dokumen yang discan atau digital.
+
+
+
+* **Optimasi Sadar Lapisan**  
+
+&nbsp; Otomatisasi dapat secara selektif mengompresi teks foreground, tekstur latar belakang, atau gambar yang disematkan.
+
+
+
+* **Kompresi Saat Penerimaan Alur Kerja**  
+
+&nbsp; File DJVU dapat dikompresi secara instan saat diunggah ke arsip atau sistem dokumen.
+
+
+
+* **Pipa Konversi + Kompresi**  
+
+&nbsp; Mengonversi PDF atau TIFF ke DJVU sambil menerapkan aturan pengurangan ukuran otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

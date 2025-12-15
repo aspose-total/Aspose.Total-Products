@@ -78,7 +78,51 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+DNG圧縮は、デジタルカメラでキャプチャされたRAW画像ファイルを最適化することに焦点を当てており、最大限の画質を保ちます。DNGファイルには高解像度のセンサーデータが含まれることが多いため、圧縮によりストレージ容量が削減され、ファイル転送が高速化され、写真や画像パイプラインの効率が向上します。
+
+Python APIを使用すると、DNG圧縮、バッチ処理、他の形式への変換が自動化され、大規模な写真ライブラリやプロの画像システムのスケーラブルな管理が可能になります。
+
+## {{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* **写真家アーカイブの最適化**
+
+  &nbsp; DNGファイルの圧縮により、RAW画像の忠実度を損なうことなくストレージを削減します。
+
+* **画像の高速転送**
+
+  &nbsp; より小さなファイルサイズにより、カメラ、ワークステーション、クラウドストレージ間での共有が迅速化されます。
+
+* **デジタルアセット管理**
+
+  &nbsp; 圧縮されたDNGライブラリは、整理、検索、取得が容易になります。
+
+* **ポストプロセスワークフロー**
+
+  &nbsp; RAWファイルを画像編集やAI強化パイプラインに高速に読み込むことが可能になります。
+
+## {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチDNG圧縮**
+
+  &nbsp; 複数のRAW画像ファイルの最適化を一括で自動化します。
+
+* **解像度に基づくダイナミック圧縮**
+
+  &nbsp; Pythonワークフローは、センサーサイズや画像サイズに応じて圧縮レベルを調整できます。
+
+* **自動形式変換**
+
+  &nbsp; DNGをTIFF、JPEG、またはWebPに変換しながら、自動的に圧縮を適用します。
+
+* **DAMシステムとの統合**
+
+  &nbsp; アップロード時にDNG画像を圧縮して、最適化されたストレージと高速な処理を実現します。
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

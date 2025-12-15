@@ -78,7 +78,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLT şablon dosyaları depolamayı azaltmak ve dağıtımı iyileştirmek için sıkıştırmadan faydalanırken şablon yapısını değiştirmeden korur.
+
+
+
+Python API'leri ölçeklenebilir şablon yönetimi için XLT şablonlarının otomatik sıkıştırılmasına izin verir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Şablon Depolama Optimizasyonu**  
+
+&nbsp; Biçimlendirmeyi ve formülleri korurken XLT dosyalarını sıkıştırın.
+
+
+
+* **Daha Hızlı Şablon Paylaşımı**  
+
+&nbsp; Düşük dosya boyutları takımlara hızlı dağıtımı sağlar.
+
+
+
+* **Otomatik Arşivleme**  
+
+&nbsp; Sıkıştırılmış şablonlar uzun vadeli depolama yönetimini basitleştirir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu Şablon Sıkıştırma**  
+
+&nbsp; Python betikleri kullanarak birden fazla XLT dosyasının işlenmesini otomatikleştirin.
+
+
+
+* **İş Akışı Sistemleriyle Entegrasyon**  
+
+&nbsp; Sıkıştırılmış şablonlar otomatik iş akışlarına dinamik olarak yüklenebilir.
+
+
+
+* **Koşullu Sıkıştırma**  
+
+&nbsp; Otomasyon büyük veri kümelerine veya karmaşık formüllere sahip şablonlara odaklanabilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

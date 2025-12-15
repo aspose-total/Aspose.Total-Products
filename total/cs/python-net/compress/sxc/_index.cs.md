@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Soubory SXC (staré tabulky OpenOffice/StarOffice) získají výhodu komprese pro snížení úložného místa a usnadnění sdílení při zachování vzorců a formátování.
+
+
+
+Python API umožňují automatizovanou kompresi SXC pro udržení efektivity pracovního postupu v zastaralých prostředích.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace starých tabulek**  
+
+&nbsp; Snížení velikosti souborů SXC bez ovlivnění vzorců nebo obsahu.
+
+
+
+* **Rychlejší sdílení**  
+
+&nbsp; Kompresované soubory zlepšují rychlost přenosu po sítích a mezi týmy.
+
+
+
+* **Efektivita archivace**  
+
+&nbsp; Automatizovaná komprese podporuje dlouhodobé uchovávání starých tabulek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatické scénáře" %}}
+
+
+
+* **Hromadná komprese SXC**  
+
+&nbsp; Python skripty mohou automaticky komprimovat více souborů SXC.
+
+
+
+* **Integrace s DMS nebo cloudovými systémy**  
+
+&nbsp; Kompresované soubory SXC lze efektivně zpracovat v pracovních postupech.
+
+
+
+* **Podmíněná komprese**  
+
+&nbsp; Automatizace může cílit na soubory na základě velikosti nebo vloženého obsahu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

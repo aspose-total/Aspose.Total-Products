@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPT标注通过评论、突出显示和结构化审阅注释改进传统演示文件，增强清晰度并便于更新。这支持团队使用旧格式工作，同时保持兼容性。  
+
+自动化简化PPT工作流程，添加一致的注释，执行布局检查，并批量更新多个文件。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **传统幻灯片审查**  
+
+&nbsp; 为内容或设计更改添加评论。
+
+* **突出显示关键元素**  
+
+&nbsp; 强调需要关注的区域。
+
+* **元数据注释**  
+
+&nbsp; 插入分类或索引指导。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动幻灯片审核**  
+
+&nbsp; 以程序方式识别问题并对幻灯片进行注释。
+
+* **批注处理**  
+
+&nbsp; 将评论应用于多个PPT文件。
+
+* **关键词驱动的突出显示**  
+
+&nbsp; 检测模式并自动标记。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

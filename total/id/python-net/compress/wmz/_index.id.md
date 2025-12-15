@@ -78,7 +78,23 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Welcome to Our Website
+
+<h2>About Us</h2>
+
+We are a team of dedicated professionals committed to providing high-quality services to our clients.
+
+<h2>Our Services</h2>
+
+- Web Design
+- Graphic Design
+- Digital Marketing
+
+<h2>Contact Us</h2>
+
+Feel free to reach out to us for any inquiries or collaborations.
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ För mer information, se [Product Documentation](https://docs.aspose.com/zip/pyt
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+CDR-komprimering fokuserar på att optimera CorelDRAW vektorgrafik för att minska filstorleken samtidigt som former, lager, text och designstruktur bevaras. Eftersom CDR-filer kan innehålla komplexa vektorobjekt och inbäddade medier är komprimering viktig för att förbättra hanteringen av projekt, lagringseffektiviteten och designarbetsflödet.
+
+
+
+Python API:er underlättar automatiserad komprimering, optimering och konvertering av CDR-filer, vilket möjliggör skalbar hantering av grafiska tillgångar över produktion, tryckning och digitalt innehåll.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Optimering av grafiska designresurser**  
+
+&nbsp; Komprimerar komplexa vektorformgivningar för att effektivisera projektlagring och delning.
+
+
+
+* **Tryckproduktionsarbetsflöden**  
+
+&nbsp; Mindre CDR-filer förbättrar prestandan under förtryck- och tryckningsprocesserna.
+
+
+
+* **Versionshanterade filarkiv**  
+
+&nbsp; Komprimering håller stora designarkiv lätta och enklare att hantera.
+
+
+
+* **Korsplattformsleverans**  
+
+&nbsp; Att minska filstorlekar förbättrar överföringshastigheten mellan designteam, verktyg och kunder.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Batch CDR-komprimering**  
+
+&nbsp; Automatisera optimering för hundratals CorelDRAW-filer samtidigt.
+
+
+
+* **CDR-till-optimerad-formatkonvertering**  
+
+&nbsp; Konvertera CDR till SVG, PDF eller PNG samtidigt som komprimeringsregler tillämpas.
+
+
+
+* **Designpipelinetegration**  
+
+&nbsp; Komprimera tillgångar automatiskt vid uppladdning i CMS, DAM eller arbetsflödessystem.
+
+
+
+* **Anpassade komprimeringsregler**  
+
+&nbsp; Justera automatiskt kompressionsnivåerna baserat på filkomplexitet eller inbäddade medier.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

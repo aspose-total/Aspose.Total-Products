@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTM文件（启用宏的演示文稿）受益于保留宏的同时减小文件大小以便共享和存储。
+
+
+
+Python API允许自动化PPTM压缩，同时保持宏功能以用于企业工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **宏保留**  
+
+&nbsp; 在不破坏嵌入宏的情况下压缩PPTM文件。
+
+
+
+* **更快的协作**  
+
+&nbsp; 较小的启用宏文件有助于团队共享和云端上传。
+
+
+
+* **自动归档**  
+
+&nbsp; 压缩确保演示文稿带有宏的有效长期存储。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量PPTM压缩**  
+
+&nbsp; Python脚本可以自动处理多个启用宏的文件。
+
+
+
+* **与工作流系统集成**  
+
+&nbsp; 压缩后的PPTM文件可用于自动化文档工作流程。
+
+
+
+* **条件压缩**  
+
+&nbsp; 自动化可以针对具有大型媒体或复杂宏的文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

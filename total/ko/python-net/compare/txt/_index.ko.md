@@ -70,7 +70,75 @@ TXT 파일을 쉽게 비교하기 위해 Python 스크립트 또는 유틸리티
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT 비교는 일반 텍스트 문서에서 라인 수준 또는 문자 수준의 변경 사항을 강조하여 형식 복잡성 없이 수정 사항을 완전히 확인합니다. 로그, 스크립트 및 간단한 문서에 필수적입니다.
+
+
+
+자동화된 TXT 비교는 대량의 텍스트 기반 콘텐츠에서 업데이트를 빠르고 확장 가능하게 감지합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **로그 파일 차이 추적**  
+
+  신규 항목 또는 변경 사항을 식별합니다.
+
+
+
+* **스크립트 또는 코드 텍스트 검토**  
+
+  일반 텍스트 스크립트의 수정 사항을 강조합니다.
+
+
+
+* **간단한 문서 개정 관리**  
+
+  라인 변경 사항을 효율적으로 캡처합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **대용량 TXT 비교**  
+
+  수천 개의 파일을 신속하게 처리합니다.
+
+
+
+* **자동화된 모니터링 파이프라인**  
+
+  변경 사항 발생 시 워크플로를 트리거합니다.
+
+
+
+* **프로그래밍 방식의 차이 추출**  
+
+  시스템을 위한 구조화된 보고서를 생성합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

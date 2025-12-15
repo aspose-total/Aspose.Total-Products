@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие файлов DOC сокращает требования к хранилищу, ускоряет обмен файлами и поддерживает целостность документов с текстовым или медийным содержимым.
+
+
+
+API Python позволяют автоматизировать рабочие процессы сжатия DOC, обеспечивая масштабируемое управление документами и более быструю обработку в корпоративной среде.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация хранилища**  
+
+&nbsp; Минимизация использования дискового пространства для устаревших файлов DOC без влияния на содержимое.
+
+
+
+* **Отправка по электронной почте и облачное хранилище**  
+
+&nbsp; Меньшие файлы DOC могут быть переданы быстрее и эффективнее по сети.
+
+
+
+* **Автоматизированное архивирование**  
+
+&nbsp; Пакетное сжатие для архивирования обеспечивает эффективное хранение старых документов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие**  
+
+&nbsp; Сценарии Python могут автоматически обрабатывать несколько файлов DOC.
+
+
+
+* **Интеграция с системами документооборота**  
+
+&nbsp; Сжатые файлы DOC могут быть легко загружены на платформы DMS.
+
+
+
+* **Условное сжатие**  
+
+&nbsp; Автоматизация может сжимать файлы, превышающие пороговые значения размера или содержащие встроенные медиафайлы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -167,7 +235,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

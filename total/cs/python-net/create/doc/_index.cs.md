@@ -43,9 +43,79 @@ Pro vývojáře, který se snaží vytvářet soubory DOC prostřednictvím apli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOC — Vytváření souborů `.doc` (binární formát Wordu) pomocí Python API umožňuje automatizaci pro starší systémy a zachovává kompatibilitu s dřívějšími nástroji. Typické přístupy v Pythonu spoléhají na knihovny, které dokáží sestavit binární strukturu, nebo využívají automatizaci COM na Windows k exportu nebo ukládání klasických binárních dokumentů z programovatelného obsahu.
+
+
+
+Skriptování DOC je užitečné, když je vyžadována zpětná kompatibilita; generované dokumenty mohou obsahovat strukturovaný text, základní formátování, záhlaví/patky a vložené objekty, pokud jsou podporovány.
+
+Automatizace umožňuje konverzní toky, které přijímají moderní zdroje (markdown, HTML, DOCX) a vydávají `.doc` pro archivaci nebo integraci s legacy aplikacemi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Integrace se starými systémy**
+
+&nbsp; Vytvářejte soubory .doc pro starší podnikový software, který vyžaduje binární formát.
+
+
+
+* **Archivační exporty**
+
+&nbsp; Převeďte moderní dokumenty do .doc pro dlouhodobé uložení, pokud je vyžadováno podle legacy politik.
+
+
+
+* **Interoperabilita se staršími nástroji**
+
+&nbsp; Vytvářejte .doc výstupy pro zajištění kompatibility se staršími systémy pro hromadnou korespondenci nebo tisk.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizovaná konverze formátu**
+
+&nbsp; Hromadně převádějte DOCX na DOC ve plánovaných úlohách pro testování kompatibility.
+
+
+
+* **Skriptovaný export z šablon**
+
+&nbsp; Použijte generaci řízenou šablonami, která ukládá finální dokumenty jako .doc pro následné procesy.
+
+
+
+* **Integrace s ETL toky**
+
+&nbsp; Začleňte generování DOC do ETL úloh, které připravují dokumenty pro staré uživatele.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

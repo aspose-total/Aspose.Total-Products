@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi TEX mengurangi ukuran file sumber LaTeX, yang sering kali berisi markup yang berulang, komentar, atau perintah pemformatan. Mengoptimalkan file TEX meningkatkan efisiensi penyimpanan, kompilasi yang lebih cepat, dan kolaborasi yang lebih baik dalam alur kerja akademis, penerbitan, dan ilmiah.
+
+
+
+API Python memungkinkan kompresi TEX otomatis, pemrosesan batch, dan integrasi dengan pipa generasi dokumen untuk alur kerja LaTeX yang dapat diskalakan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Dokumen Akademis & Penelitian**  
+
+  &nbsp; Kurangi ukuran sumber LaTeX untuk makalah besar, tesis, dan disertasi.
+
+
+
+* **Alur Kerja Penerbitan**  
+
+  &nbsp; File TEX yang terkompresi menyederhanakan proses kompilasi dan distribusi.
+
+
+
+* **Kontrol Versi & Kolaborasi**  
+
+  &nbsp; File yang lebih kecil meningkatkan efisiensi dalam repositori dan pengeditan kolaboratif.
+
+
+
+* **Arsip & Cadangan**  
+
+  &nbsp; File TEX yang dioptimalkan mengurangi penyimpanan untuk konten akademis historis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi TEX Batch**  
+
+  &nbsp; Otomatisasikan pengurangan ukuran untuk beberapa file LaTeX.
+
+
+
+* **Penghapusan Komentar & Redundansi**  
+
+  &nbsp; Hapus markup atau perintah yang diulang secara otomatis.
+
+
+
+* **Integrasi Alur Kerja**  
+
+  &nbsp; Kompresikan file TEX saat diunggah ke sistem kompilasi atau penerbitan otomatis.
+
+
+
+* **Konversi + Kompresi**  
+
+  &nbsp; Konversi TEX ke PDF atau format lain sambil menerapkan aturan kompresi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

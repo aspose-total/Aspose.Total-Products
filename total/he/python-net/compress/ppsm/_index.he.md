@@ -98,7 +98,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+קבצי PPSM (מצגת של PowerPoint המאפשרת מקרו) דורשים דחיסה השומרת על מקרו במהלך הפחתת גודל הקובץ לשיתוף ואחסון יעילים.
+
+
+
+אוטומציה בעזרת Python מאפשרת דחיסת PPSM בצורה סולמית תוך שמירה על פונקציות המקרו.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **שמירת מקרו**  
+
+&nbsp; דחיסת קבצי PPSM בצורה בטוחה מבלי לשבור מקרו.
+
+
+
+* **שיתוף מהיר יותר**  
+
+&nbsp; קבצים קטנים מאפשרים שיתוף יעיל לצוותים או אחסון בענן.
+
+
+
+* **ניהול ארכיון**  
+
+&nbsp; דחיסה אוטומטית מבטיחה אחסון לטווח ארוך של קבצי מצגת המאפשרים מקרו.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **דחיסת קבצי PPSM בצפיפות**  
+
+&nbsp; סקריפטים ב-Python יכולים לעבד מרובע של קבצי מצגת המאפשרים מקרו באופן אוטומטי.
+
+
+
+* **אינטגרציה עם מערכות תהליך עבודה**  
+
+&nbsp; קבצי PPSM דחוסים יכולים לשמש בתהליכי המצגת האוטומטיים.
+
+
+
+* **דחיסה תנאית**  
+
+&nbsp; ייעוד קבצים על סמך שימוש במקרו או מדיה מוטמעת לצורך אופטימיזציה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

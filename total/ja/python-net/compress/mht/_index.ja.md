@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHT（MHTML Web Archive）の圧縮は、HTML、画像、CSS、スクリプトが1つのファイルにパッケージ化されたWebページアーカイブのサイズを縮小します。圧縮されたMHTファイルは、ストレージ効率の向上、高速なファイル転送、Webコンテンツの簡単なアーカイブ化を実現します。
+
+
+
+Python APIを使用すると、自動化されたMHT圧縮、バッチ処理、Webアーカイブパイプラインとの統合が可能となり、オフラインWebコンテンツのスケーラブルな管理をサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+
+
+* **Webページのアーカイブ**  
+
+&nbsp; MHTファイルを圧縮してアーカイブされたウェブサイトのストレージスペースを節約します。
+
+
+
+* **オフラインコンテンツの配布**  
+
+&nbsp; より小さなMHTファイルにより、高速な共有とダウンロードが可能です。
+
+
+
+* **デジタルライブラリの管理**  
+
+&nbsp; 大規模なWebページアーカイブの効率的な保存が可能です。
+
+
+
+* **ワークフローの最適化**  
+
+&nbsp; 圧縮されたファイルは、Webコンテンツシステムにおける処理速度を向上させます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチMHT圧縮**  
+
+&nbsp; 複数のWebアーカイブファイルのサイズを自動的に縮小します。
+
+
+
+* **埋め込みコンテンツの最適化**  
+
+&nbsp; 画像、スクリプト、スタイルを自動的に圧縮します。
+
+
+
+* **DAMやCMSとの統合**  
+
+&nbsp; アップロードやアーカイブ時にMHTファイルを圧縮します。
+
+
+
+* **ダイナミックな圧縮ルール**  
+
+&nbsp; ページの複雑さや埋め込まれたメディアに基づいて最適化を調整します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

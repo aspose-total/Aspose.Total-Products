@@ -75,7 +75,65 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chú thích DOT bao gồm việc thêm ghi chú và nhận xét có cấu trúc vào các tệp mẫu Word, giúp các nhóm chuẩn hóa việc tạo tài liệu trong khi duy trì hướng dẫn rõ ràng. Điều này nâng cao khả năng sử dụng của mẫu và đảm bảo định dạng nhất quán trên các tài liệu được tạo ra.  
+
+Chú thích DOT tự động hóa đơn giản hóa việc bảo trì mẫu, cho phép hệ thống áp dụng cập nhật hoặc hướng dẫn một cách linh hoạt.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Hướng Dẫn Mẫu**  
+
+&nbsp; Thêm ghi chú hướng dẫn người dùng cách điền vào các phần.
+
+* **Tiêu Chuẩn Định Dạng**  
+
+&nbsp; Đánh dấu cấu trúc hoặc quy tắc về kiểu dáng cần thiết.
+
+* **Theo Dõi Sửa Đổi**  
+
+&nbsp; Đánh dấu các thay đổi vào hướng dẫn mẫu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Cập Nhật Mẫu Theo Lô**  
+
+&nbsp; Chèn hướng dẫn mới một cách tự động.
+
+* **Kịch Bản Chuẩn Hóa**  
+
+&nbsp; Tự động chú thích các phần thiếu hoặc không chính xác.
+
+* **Kiểm Tra Tuân Thủ Hướng Dẫn**  
+
+&nbsp; Đánh dấu sự sai lệch so với các chính sách mẫu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

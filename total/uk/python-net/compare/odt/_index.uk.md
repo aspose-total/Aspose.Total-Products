@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Порівняння ODT перевіряє текст, стилі, структуру макету та вбудовані елементи для забезпечення точності вмісту у відкритих документах у форматі текстового файлу. Воно підтримує прозоре відстеження редакцій та контроль якості.
+
+
+
+Автоматизоване порівняння ODT зменшує ручні зусилля та підвищує інтеграцію з колаборативними офісними системами та конвеєрами автоматизації документів.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* **Відстеження редакцій вмісту**  
+
+&nbsp; Виявляє додавання, видалення та переформатування.
+
+
+
+* **Відповідність відкритих документів**  
+
+&nbsp; Забезпечує відповідність документів вимаганій структурі.
+
+
+
+* **Контроль редагування на різних платформах**  
+
+&nbsp; Виявляє відмінності, спричинені редагуванням у різних інструментах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Масова перевірка валідності ODT**  
+
+&nbsp; Автоматично обробляє великі набори документів.
+
+
+
+* **Автоматизовані робочі процеси редагування**  
+
+&nbsp; Запускає перевірки під час генерації документа.
+
+
+
+* **Звіти про програмовані зміни**  
+
+&nbsp; Генерує структуровані підсумки відмінностей.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

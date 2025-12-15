@@ -43,9 +43,79 @@ Para um desenvolvedor, quem está tentando criar arquivos DOCX via aplicativo Py
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX - `.docx` (OOXML) é o padrão moderno para documentos do Word e é altamente adequado para automação baseada em Python. As bibliotecas permitem a criação e modificação de parágrafos, tabelas, imagens, estilos e partes XML personalizadas, preservando a estrutura e metadados do OOXML.
+
+
+
+DOCX é ideal para relatórios modelados, documentos dinâmicos e integração com serviços da web devido ao seu formato aberto e forte suporte de biblioteca. A automação permite a geração confiável de documentos acessíveis e estilizados que podem ser validados e versionados.
+
+Os fluxos de trabalho programáticos tornam simples a montagem de documentos complexos (tabelas aninhadas, referências, sumários) a partir de entradas estruturadas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Renderização de Relatórios Modelados**
+
+  Preencha modelos DOCX com tabelas dinâmicas, gráficos e seções condicionais.
+
+
+
+* **Composição Automatizada de Documentos**
+
+  Junte seções (introdução, corpo, anexos) de fontes de conteúdo modulares em um único DOCX.
+
+
+
+* **Entregáveis Ricos em Metadados**
+
+  Incorpore propriedades do documento, XML personalizado e metadados de revisão para governança.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Pipelines de Banco de Dados para Documentos**
+
+  Gere documentos DOCX individualizados para cada registro do banco de dados em um trabalho automatizado.
+
+
+
+* **Criação de Documentos Acionada por Webhook**
+
+  Crie documentos DOCX sob demanda via APIs HTTP acionadas por eventos externos.
+
+
+
+* **Verificações de Acessibilidade Automatizadas**
+
+  Execute scripts de validação que verificam a estrutura de títulos e o texto alternativo para imagens durante a geração.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

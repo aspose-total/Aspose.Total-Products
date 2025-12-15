@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحسين التعليق على النماذج يعزز وثائق النصوص القالبية من خلال تضمين ملاحظات التوجيه والعناصر النائبة والبيانات الوافية ضمن القوالب بتنسيق مفتوح. وهذا يضمن إنتاج وثائق متسق وتعليمات أوضح للمستخدم النهائي.
+
+تعزز الأتمتة سير العمل في التعليق على النماذج من خلال تطبيق قواعد القالب، وتحديث نص التعليق، وفرض الهياكل القياسية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تعليمات القالب**  
+
+&nbsp; توفير توجيهات لإكمال كل قسم.
+
+* **معايير التنسيق**  
+
+&nbsp; تسليط الضوء على المناطق التي تتطلب أنماطًا محددة.
+
+* **وثائق المراجعة**  
+
+&nbsp; وضع علامات على التغييرات ضمن تحديثات القالب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **تحديثات القالب بواسطة النصوص المدفوعة بالسيناريو**  
+
+&nbsp; تطبيق تعليمات جديدة عبر القوالب تلقائيًا.
+
+* **علامات الامتثال**  
+
+&nbsp; تحديد وتعليق الحقول المطلوبة المفقودة.
+
+* **فرض القواعد الديناميكية**  
+
+&nbsp; إضافة ملاحظات تنشط بواسطة منطق القالب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

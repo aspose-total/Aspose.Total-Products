@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT文件是Word模板，通过压缩可以节省空间，并提高系统间的分发效率。
+
+
+
+基于Python的压缩可以自动优化DOT文件，而不影响模板结构或格式。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **模板存储优化**  
+
+&nbsp; 压缩DOT模板以实现高效的本地或云存储。
+
+
+
+* **模板共享**  
+
+&nbsp; 减小文件大小可加快团队协作的分发速度。
+
+
+
+* **模板归档**  
+
+&nbsp; 自动压缩支持长期模板管理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量模板压缩**  
+
+&nbsp; Python脚本可以自动压缩多个DOT文件。
+
+
+
+* **与工作流系统集成**  
+
+&nbsp; 压缩模板可以动态加载到自动化工作流中。
+
+
+
+* **选择性压缩**  
+
+&nbsp; 自动化可以仅压缩大型模板或带有嵌入对象的模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

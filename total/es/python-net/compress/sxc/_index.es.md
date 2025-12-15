@@ -78,7 +78,75 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Los archivos SXC (hojas de cálculo heredadas de OpenOffice/StarOffice) se benefician de la compresión para reducir el almacenamiento y facilitar el intercambio mientras se preservan fórmulas y formato.
+
+
+
+Las API de Python permiten la compresión automatizada de SXC para mantener la eficiencia del flujo de trabajo en entornos heredados.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Optimización de hojas de cálculo heredadas**  
+
+  &nbsp; Reduzca el tamaño de los archivos SXC sin afectar fórmulas o contenido.
+
+
+
+* **Compartir más rápido**  
+
+  &nbsp; Los archivos comprimidos mejoran la velocidad de transferencia en redes y equipos.
+
+
+
+* **Eficiencia de archivo**  
+
+  &nbsp; La compresión automatizada respalda el almacenamiento a largo plazo de hojas de cálculo heredadas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Compresión por lotes de SXC**  
+
+  &nbsp; Los scripts de Python pueden comprimir automáticamente varios archivos SXC.
+
+
+
+* **Integración con sistemas de gestión de documentos o en la nube**  
+
+  &nbsp; Los archivos SXC comprimidos pueden procesarse eficientemente en flujos de trabajo.
+
+
+
+* **Compresión condicional**  
+
+  &nbsp; La automatización puede dirigirse a archivos en función del tamaño o contenido incrustado.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

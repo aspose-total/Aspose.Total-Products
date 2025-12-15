@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLT 템플릿 파일은 압축을 통해 저장 공간을 줄이고 템플릿 구조를 변경하지 않고 배포를 개선합니다.
+
+
+
+Python API를 사용하여 확장 가능한 템플릿 관리를 위해 XLT 템플릿을 자동으로 압축할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **템플릿 저장 공간 최적화**  
+
+&nbsp; 형식과 수식을 보존하면서 XLT 파일을 압축합니다.
+
+
+
+* **빠른 템플릿 공유**  
+
+&nbsp; 파일 크기를 줄여 팀에 빠르게 배포할 수 있습니다.
+
+
+
+* **자동 아카이빙**  
+
+&nbsp; 압축된 템플릿은 장기 저장 관리를 간소화합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 템플릿 압축**  
+
+&nbsp; Python 스크립트를 사용하여 여러 XLT 파일을 자동으로 처리합니다.
+
+
+
+* **워크플로 시스템 통합**  
+
+&nbsp; 압축된 템플릿은 자동화된 워크플로에 동적으로 로드될 수 있습니다.
+
+
+
+* **조건부 압축**  
+
+&nbsp; 자동화는 대량 데이터나 복잡한 수식을 가진 템플릿을 대상으로 할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

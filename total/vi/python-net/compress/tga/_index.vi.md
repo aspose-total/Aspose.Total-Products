@@ -78,7 +78,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén TGA tập trung vào việc giảm kích thước của hình ảnh raster Targa trong khi bảo tồn độ sâu màu và kênh alpha. Các tệp TGA thường được sử dụng trong game, đồ họa 3D và hiệu ứng hình ảnh, làm cho việc nén trở nên cần thiết để lưu trữ hiệu quả và xử lý nhanh hơn trong đường ống truyền thông.
+
+
+
+API Python cho phép tự động nén TGA, xử lý hàng loạt và chuyển đổi sang các định dạng hiện đại, hỗ trợ quy trình làm việc có thể mở rộng cho phát triển game, hoạt hình và sản xuất truyền thông kỹ thuật số.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Tài Nguyên Game**  
+
+&nbsp; Nén các tệp TGA giảm yêu cầu lưu trữ và cải thiện thời gian tải trong game.
+
+
+
+* **Đường Ống Đồ Họa 3D**  
+
+&nbsp; Các tệp TGA nhỏ giúp tối ưu hóa quản lý texture và quy trình kết xuất.
+
+
+
+* **Sản Xuất Hiệu Ứng Hình Ảnh**  
+
+&nbsp; Hình ảnh TGA được tối ưu hóa giúp quản lý các chuỗi khung lớn một cách hiệu quả.
+
+
+
+* **Lưu Trữ Bảo Tồn**  
+
+&nbsp; Giảm kích thước tệp cho việc lưu trữ dài hạn của tài nguyên độ phân giải cao.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén TGA Hàng Loạt**  
+
+&nbsp; Tự động hóa việc tối ưu hóa các tập tin TGA lớn theo lô.
+
+
+
+* **Bảo Tồn Kênh Alpha**  
+
+&nbsp; Bảo tồn tính trong suốt khi nén để giảm kích thước lưu trữ.
+
+
+
+* **Tích Hợp vào Đường Ống**  
+
+&nbsp; Các tệp TGA có thể được nén tự động sau khi tải lên hệ thống quản lý tài sản.
+
+
+
+* **Nén Dựa Trên Độ Phân Giải Động**  
+
+&nbsp; Điều chỉnh cấp độ nén dựa trên kích thước hình ảnh, độ phân giải hoặc ngữ cảnh sử dụng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Аннотация ODT обеспечивает структурированные комментарии, выделение и контекстные заметки для файлов текста в формате открытого документа, улучшая ясность контента и совместную работу над документами. Это повышает удобство использования на платформах, которые полагаются на открытые стандарты.  
+
+Автоматизированная аннотация ODT повышает эффективность за счет применения правил комментирования, сканирования контента и программного обновления метаданных.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Заметки по редактированию контента**  
+
+&nbsp; Вставляйте замечания для разделов, требующих уточнения.
+
+* **Семантические выделения**  
+
+&nbsp; Выделяйте важные фразы или проблемы.
+
+* **Метаданные совместной работы**  
+
+&nbsp; Добавляйте структурированные заметки для категоризации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированные аннотации проверки**  
+
+&nbsp; Применяйте системные предложения с использованием Python.
+
+* **Массовый обзор документов**  
+
+&nbsp; Обрабатывайте и аннотируйте несколько файлов ODT одновременно.
+
+* **Стандартизированная разметка**  
+
+&nbsp; Вставляйте согласованные напоминания или рекомендации с помощью скриптов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI 압축은 Kindle 호환 eBook 파일을 최적화하여 저장 공간을 줄이고 다운로드 속도를 향상시킵니다. 압축된 MOBI 파일은 콘텐츠 구조와 가독성을 유지하여 향상된 eReader 성능을 제공합니다.
+
+
+
+Python API를 사용하여 자동화된 MOBI 압축, 일괄 처리, 메타데이터 최적화를 통해 확장 가능한 eBook 관리 및 전달 워크플로우를 구현할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **Kindle eBook 배포**  
+
+  &nbsp; 작은 MOBI 파일은 빠른 다운로드와 원활한 독서 경험을 제공합니다.
+
+
+
+* **디지털 도서관 최적화**  
+
+  &nbsp; 압축된 MOBI는 대규모 eBook 컬렉션의 저장 공간을 줄입니다.
+
+
+
+* **콘텐츠 공유 및 보관**  
+
+  &nbsp; 효율적인 파일은 디지털 출판물의 배포와 백업을 간편하게 합니다.
+
+
+
+* **장치 호환성**  
+
+  &nbsp; 최적화된 MOBI는 Kindle 장치 및 앱에서 부드러운 렌더링을 보장합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 MOBI 압축**  
+
+  &nbsp; 여러 Kindle eBook을 동시에 최적화하는 자동화 기능.
+
+
+
+* **메타데이터 및 이미지 최적화**  
+
+  &nbsp; 중복 메타데이터 제거 및 내장 이미지 자동 압축.
+
+
+
+* **워크플로우 통합**  
+
+  &nbsp; eBook 플랫폼이나 라이브러리에 책을 수용하는 동안 MOBI 파일을 압축합니다.
+
+
+
+* **동적 압축 수준**  
+
+  &nbsp; 콘텐츠 유형 및 장치 요구에 따라 파일 크기와 품질을 조정합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

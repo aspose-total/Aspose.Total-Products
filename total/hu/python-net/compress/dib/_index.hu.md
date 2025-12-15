@@ -78,7 +78,87 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A DIB tömörítése csökkenti a készülékfüggetlen bitmap fájlok méretét, amelyek pixeladatokat tárolnak hardverspecifikus formázás nélkül. Ezek a képek gyakran nagyok, mert nyers, tömörítetlen bitmap adatokat őriznek meg, ami miatt a tömörítés elengedhetetlen az hatékony tároláshoz és feldolgozáshoz a modern munkafolyamatokban.
+
+
+
+A Python API-k lehetővé teszik a DIB optimalizálásának automatizálását, a fájlméret minimalizálását, és ezeket a bitmapokat tömörítettebb formátumokká alakítják, javítva ezzel a képfolyamatok és digitális eszközrendszerek skálázhatóságát.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Örökölt Bitmap Optimalizálás**  
+
+&nbsp; Tömöríti az öreg képalkotó szoftverekből vagy rendszerekből származó nagy DIB fájlokat.
+
+
+
+* **Tárolási Hatékonyság**  
+
+&nbsp; Jelentősen csökkenti a lemezhasználatot azoknak a szervezeteknek, akiknek nagy bitmap tárolóik vannak.
+
+
+
+* **Gyorsabb Átvitel és Feltöltés**  
+
+&nbsp; Lehetővé teszi a nehéz képfájlok gyorsabb megosztását hálózatokon vagy felhőplatformokon.
+
+
+
+* **Képarchiválás**  
+
+&nbsp; Segít fenntartani a könnyű archívumokat anélkül, hogy az alapvető pixeladatokat veszélyeztetné.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Tömeges DIB Tömörítés**  
+
+&nbsp; Automatizálja a méretcsökkentést egyszerre száz vagy ezer bitmap fájl esetén.
+
+
+
+* **Automatikus Átalakítás Modern Formátumokba**  
+
+&nbsp; Alakítsa át a DIB-ot PNG, JPEG vagy WebP formátumokba intelligens tömörítési szabályokkal.
+
+
+
+* **Valós idejű Feltöltési Optimalizálás**  
+
+&nbsp; A DIB fájlokat automatikusan tömörítheti a képfeldolgozó platformokba történő beillesztéskor.
+
+
+
+* **Felbontás-érzékeny Tömörítés**  
+
+&nbsp; Az automatizálás a pixelméretek vagy a színmélység alapján állítja be a tömörítés intenzitását.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

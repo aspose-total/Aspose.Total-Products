@@ -43,9 +43,79 @@ Pro vývojáře, který se snaží vytvářet soubory RTF prostřednictvím apli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF — Rich Text Format (RTF) je textový formát podporovaný mnoha editory; Generování RTF v jazyce Python je užitečné při tvorbě jednoduchých formátovaných dokumentů, které musí být přijaty širokou škálou klientů. RTF nemá pokročilé funkce OOXML, ale vyniká v přenosném formátovaném textu, jednoduchých tabulkách a vložených objektech.
+
+
+
+Automatizace RTF je vhodná pro hromadný tisk, jednoduché dopisy ve formátu RTF nebo pro systémy, kde je vyžadována maximální kompatibilita. Programové vytváření lze provést pomocí šablonování fragmentů RTF nebo pomocí knihoven, které přímo vytvářejí tokeny RTF.
+
+Automatizace zjednodušuje hromadný export RTF a konverzní procesy zaměřené na lehké nebo zastaralé uživatele.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Generování dopisů na různé platformy**
+
+  Vytvářejte RTF dokumenty pro klienty, kteří preferují lehký, přenosný formátovaný text.
+
+
+
+* **Hromadný tisk pro jednoduché dokumenty**
+
+  Generujte personalizované dopisy a oznámení ve formátu RTF pro širokou kompatibilitu.
+
+
+
+* **Výměna s ne-OOXML systémy**
+
+  Exportujte obsah do formátu RTF pro systémy, které nemohou zpracovat DOCX nebo binární formát Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Hromadný export RTF**
+
+  Automatizujte vytváření tisíců souborů RTF ze strukturovaných datových zdrojů.
+
+
+
+* **Převodníky formátů pro nouzové situace**
+
+  Automaticky poskytujte verze RTF, když spotřebitelé nemohou zpracovat DOCX/DOCM.
+
+
+
+* **Jednoduché šablonovací nástroje**
+
+  Použijte programovou náhradu tokenů v šablonách RTF jako součást automatizovaného pracovního postupu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

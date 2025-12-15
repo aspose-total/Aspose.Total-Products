@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+הערות הערות DOTM מתמקדות בתבניות Word המאפשרות מאקרו, מאפשרות תיעוד ברור של סקריפטים מוטמעים ולוגיקת תבנית. זה עוזר לשמור על שקיפות סביב תכונות ממוכנות ומבטיח שימוש עקבי בקרב צוותים.
+
+הערה אוטומטית של DOTM מאפשרת למערכות לסרוק מאקרו, לעדכן הערות ולאכוף כללי תבנית בקנה מידה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **הערות על התנהגות מאקרו**  
+
+  הסבר על אופן פעולת הסקריפטים המוטמעים.
+
+* **הנחיות לתבנית**  
+
+  מדריך למשתמשים על שימוש נכון במאקרו.
+
+* **מעקב אחר לוגיקה**  
+
+  סימון קטעים המופעלים על ידי מאקרו.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **כלים לגילוי מאקרו**  
+
+  הכנסת הערות באופן אוטומטי עבור סקריפטים שזוהו.
+
+* **עדכוני תבנית על בסיס זריזות עבודה**  
+
+  הוספה או שינוי הערות באופן דינמי.
+
+* **סימון לבקרת איכות**  
+
+  סימון לוגיקת מאקרו סכנתית או מיושנת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

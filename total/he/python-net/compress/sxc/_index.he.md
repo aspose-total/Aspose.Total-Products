@@ -77,7 +77,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+קבצי SXC (גירסה ישנה של גיליון עבודה של OpenOffice/StarOffice) נהנים מדחיסה כדי להפחית את האחסון ולאפשר שיתוף קל יותר תוך שמירה על נוסחאות ועיצוב.
+
+
+
+ממשקי פייתון מאפשרים דחיסת SXC אוטומטית לשמירה על יעילות התהליך בסביבות ישנות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **אופטימיזצית גיליונות עבודה ישנים**  
+
+  &nbsp; להפחתת גודל קבצי SXC מבלי להשפיע על נוסחאות או תוכן.
+
+
+
+* **שיתוף מהיר יותר**  
+
+  &nbsp; קבצים דחוסים משפרים את מהירות ההעברה ברשתות ובין צוותים.
+
+
+
+* **יעילות ארכיונית**  
+
+  &nbsp; דחיסה אוטומטית תומכת באחסון ארוך טווח של גיליונות עבודה ישנים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **דחיסת SXC בצורה רציפה**  
+
+  &nbsp; סקריפטים בפייתון יכולים לדחוס מרובעי SXC באופן אוטומטי.
+
+
+
+* **אינטגרציה עם מערכות DMS או עננים**  
+
+  &nbsp; קבצי SXC דחוסים יכולים להיות מעובדים ביעילות בתהליכי עבודה.
+
+
+
+* **דחיסה תנאית**  
+
+  &nbsp; האוטומציה יכולה לפעול על קבצים בהתבסס על גודל או תוכן מוטמע.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

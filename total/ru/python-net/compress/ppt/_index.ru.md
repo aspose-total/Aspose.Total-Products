@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие файлов PPT позволяет уменьшить объем хранения и увеличить скорость передачи для устаревших презентаций PowerPoint, сохраняя форматирование, диаграммы и встроенные медиафайлы.
+
+
+
+Python API позволяет автоматизировать сжатие PPT, обеспечивая масштабируемое управление презентациями и повышение эффективности рабочего процесса.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация устаревших презентаций**  
+
+&nbsp; Уменьшение размеров файлов PPT без влияния на макеты слайдов или содержимое.
+
+
+
+* **Быстрое распространение**  
+
+&nbsp; Меньшие файлы PPT обеспечивают быструю отправку по электронной почте или через облачное хранилище.
+
+
+
+* **Эффективное архивирование**  
+
+&nbsp; Автоматизированное сжатие упрощает долгосрочное хранение устаревших презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие PPT**  
+
+&nbsp; Сценарии Python могут обрабатывать несколько файлов PPT автоматически.
+
+
+
+* **Интеграция с системами рабочего процесса**  
+
+&nbsp; Сжатые файлы могут управляться в автоматизированных конвейерах или системах управления документами.
+
+
+
+* **Условное сжатие**  
+
+&nbsp; Выборочное сжатие файлов на основе размера или встроенных медиафайлов для оптимизации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

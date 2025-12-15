@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تتطلب ملفات PPSM (عرض PowerPoint مع تمكين الماكرو) ضغطًا يحافظ على الماكروهات مع تقليل حجم الملف لتبادله وتخزينه بكفاءة.
+
+
+
+الأتمتة القائمة على Python تسمح بضغط PPSM بشكل مقياسي مع الحفاظ على وظائف الماكرو.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **الحفاظ على الماكروهات**  
+
+&nbsp; ضغط ملفات PPSM بأمان دون تعطيل الماكروهات.
+
+
+
+* **تبادل أسرع**  
+
+&nbsp; تمكين توزيع فعال للملفات الأصغر إلى الفرق أو تخزين السحابة.
+
+
+
+* **إدارة الأرشيف**  
+
+&nbsp; الضغط التلقائي يضمن تخزين الملفات العرضية ذات الماكروهات لفترة طويلة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **ضغط دفعي لملفات PPSM**  
+
+&nbsp; يمكن لنصوص Python معالجة عدة ملفات عرض مع تمكين الماكرو تلقائيًا.
+
+
+
+* **التكامل مع أنظمة العمليات**  
+
+&nbsp; يمكن استخدام ملفات PPSM المضغوطة في سياقات العروض التلقائية.
+
+
+
+* **الضغط الشرطي**  
+
+&nbsp; استهداف الملفات بناءً على استخدام الماكروهات أو الوسائط المضمنة لتحسين الأداء.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

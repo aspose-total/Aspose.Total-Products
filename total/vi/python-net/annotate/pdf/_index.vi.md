@@ -71,7 +71,65 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.PDF for Python via .N
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chú thích PDF cải thiện tài liệu tĩnh bằng cách làm nổi bật, thêm nhận xét, ghi chú và đánh dấu cấu trúc, cải thiện việc điều hướng và hiểu biết trên nhiều nền tảng. PDF được chú thích dễ dàng hơn để xem xét, xác nhận và chia sẻ trong quy trình yêu cầu tính tương thích trên nhiều thiết bị.
+
+Tự động hóa cho phép xử lý PDF có thể mở rộng, cho phép hệ thống đánh dấu văn bản, thêm nhận xét và nhúng siêu dữ liệu theo cách lập trình.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Xem Xét Tài Liệu**  
+
+&nbsp; Thêm nhận xét xác định vấn đề hoặc đề xuất.
+
+* **Làm Nổi Bật Các Phần Quan Trọng**  
+
+&nbsp; Nhấn mạnh thông tin quan trọng để rõ ràng.
+
+* **Chèn Siêu Dữ Liệu**  
+
+&nbsp; Nhúng ghi chú phân loại hoặc lập chỉ mục.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Đánh Dấu Văn Bản Dựa Trên Quy Tắc**  
+
+&nbsp; Tự động đánh dấu từ khóa hoặc dữ liệu nhạy cảm.
+
+* **Xử Lý PDF Theo Lô**  
+
+&nbsp; Áp dụng chú thích cho bộ sưu tập tài liệu lớn.
+
+* **Kiểm Tra QA Tự Động**  
+
+&nbsp; Chèn cờ khi nội dung vi phạm các quy tắc được xác định trước.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compressione MHT (MHTML Web Archive) riduce le dimensioni degli archivi delle pagine web, che includono HTML, immagini, CSS e script confezionati in un unico file. I file MHT compressi migliorano l'efficienza di archiviazione, il trasferimento più veloce dei file e la facilità di archiviazione dei contenuti web.
+
+
+
+Le API di Python consentono la compressione automatizzata di MHT, l'elaborazione batch e l'integrazione con i flussi di lavoro di archiviazione web, supportando la gestione scalabile dei contenuti web offline.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Archiviazione delle pagine web**  
+
+&nbsp; Comprimi i file MHT per risparmiare spazio di archiviazione per i siti web archiviati.
+
+
+
+* **Distribuzione dei contenuti offline**  
+
+&nbsp; I file MHT più piccoli consentono uno sharing e un download più veloci.
+
+
+
+* **Gestione delle biblioteche digitali**  
+
+&nbsp; Archivia efficientemente grandi collezioni di archivi delle pagine web.
+
+
+
+* **Ottimizzazione del flusso di lavoro**  
+
+&nbsp; I file compressi migliorano la velocità di elaborazione nei sistemi di contenuti web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Compressione batch di MHT**  
+
+&nbsp; Automatizza la riduzione delle dimensioni per file di archivio web multipli.
+
+
+
+* **Ottimizzazione dei contenuti incorporati**  
+
+&nbsp; Comprimi automaticamente immagini, script e stili.
+
+
+
+* **Integrazione con DAM o CMS**  
+
+&nbsp; Comprimi i file MHT durante il caricamento o l'archiviazione.
+
+
+
+* **Regole di compressione dinamiche**  
+
+&nbsp; Regola l'ottimizzazione in base alla complessità della pagina e ai media incorporati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese PNG se zaměřuje na optimalizaci bezeztrátových rastrových obrázků s uchováním průhlednosti, ostrosti a věrnosti barev. To je důležité pro webovou grafiku, design uživatelského rozhraní a obrázky ve vysoké kvalitě, kde jsou jasnost a přesnost klíčové.
+
+
+
+Pythonové API umožňují automatizovanou kompresi PNG, hromadné zpracování a konverzi, což usnadňuje správu velkých repozitářů obrázků a jejich efektivní integraci do webových, aplikací a obsahových toků.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace grafiky pro web a aplikace**  
+
+&nbsp; Kompresované PNG zlepšují rychlost načítání při zachování vysoké kvality vizuálů.
+
+
+
+* **Správa UI/UX prvků**  
+
+&nbsp; Menší soubory PNG snižují úložný prostor a zajistí rychlé vykreslování pro uživatelská rozhraní.
+
+
+
+* **Digitální publikování**  
+
+&nbsp; Udržuje jasnost v grafech, diagramech a ilustracích pro e-knihy a dokumenty.
+
+
+
+* **Efektivita archivace a ukládání do cloudu**  
+
+&nbsp; Snížení velikosti souborů bez ztráty kvality obrázku, podpora velkoplošného ukládání.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Hromadná komprese PNG**  
+
+&nbsp; Pythonové skripty mohou optimalizovat více souborů PNG v jednom automatizovaném procesu.
+
+
+
+* **Optimalizace s uchováním průhlednosti**  
+
+&nbsp; Zajišťuje, že alfa kanály zůstanou nedotčeny při komprimaci obrázku.
+
+
+
+* **Integrace do pracovního postupu**  
+
+&nbsp; Automaticky komprimuje PNG při nahrávání do CMS, DAM nebo cloudových systémů.
+
+
+
+* **Dynamické přizpůsobení rozlišení**  
+
+&nbsp; Kompresní metoda se může přizpůsobit na základě rozměrů obrázku nebo kontextu použití.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

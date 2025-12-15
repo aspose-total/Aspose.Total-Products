@@ -78,7 +78,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLSB dosyaları (ikili Excel çalışma kitapları), dosya boyutunu azaltmak için sıkıştırmadan faydalanırken hızlı yükleme sürelerini ve karmaşık hesaplamaları korur.
+
+
+
+Python API'leri otomatik XLSB sıkıştırmasını sağlar, büyük ölçekli elektronik tablo yönetimini destekler ve kurumsal iş akışlarıyla entegrasyonu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **İkili Kitaplık Optimizasyonu**  
+
+&nbsp; Performansı veya hesaplamaları etkilemeden XLSB dosyalarını sıkıştırın.
+
+
+
+* **Daha Hızlı Dosya Transferleri**  
+
+&nbsp; Daha küçük XLSB dosyaları e-posta veya bulut aracılığıyla hızlı paylaşımı sağlar.
+
+
+
+* **Verimli Arşivleme**  
+
+&nbsp; Otomatik sıkıştırma, ikili çalışma kitaplarının uzun vadeli depolanmasını destekler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu XLSB Sıkıştırma**  
+
+&nbsp; Python betikleri birden fazla XLSB dosyasını otomatik olarak sıkıştırabilir.
+
+
+
+* **Analitik ve BI Araçlarıyla Entegrasyon**  
+
+&nbsp; Sıkıştırılmış XLSB dosyaları otomatik iş akışlarında sorunsuz bir şekilde işlenebilir.
+
+
+
+* **Seçmeli Sıkıştırma**  
+
+&nbsp; Otomasyon yalnızca büyük veya medya ağırlıklı XLSB dosyalarını sıkıştırabilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

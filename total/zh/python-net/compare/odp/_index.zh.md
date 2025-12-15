@@ -68,7 +68,64 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+ODP比较检查幻灯片级内容、布局、格式和嵌入式媒体在开放文档演示中。它支持准确审查视觉传达材料。
+
+自动ODP比较增强了可扩展性，允许快速验证大型演示文稿库和协作更新周期。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **幻灯片修订跟踪**  
+
+&nbsp; 突出文本、媒体和设计的更新。
+
+
+
+* **主题一致性检查**  
+
+&nbsp; 确保模板规则保持完整。
+
+
+
+* **视觉内容审查**  
+
+&nbsp; 检测幻灯片间的布局或内容变化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量ODP幻灯片比较**  
+
+&nbsp; 高效比较大规模演示文稿。
+
+
+
+* **自动幻灯片更改警报**  
+
+&nbsp; 以编程方式标记关键更新。
+
+
+
+* **持续幻灯片验证**  
+
+&nbsp; 将检查集成到演示文稿创建工作流程中。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

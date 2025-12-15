@@ -101,7 +101,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODP 압축은 OpenDocument Presentation 파일의 크기를 줄여 텍스트, 이미지 및 포함된 미디어를 최적화합니다. 압축된 ODP 파일은 저장 효율성을 향상시키고 프레젠테이션의 로딩 속도를 빠르게 하며 부드러운 성능을 제공합니다.
+
+
+
+Python API를 사용하여 자동화된 ODP 압축, 일괄 처리 및 미디어 최적화를 통해 확장 가능한 프레젠테이션 관리 및 전달 워크플로우를 구현할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **프레젠테이션 최적화**  
+
+  &nbsp; 작은 ODP 파일은 편집기 및 뷰어에서 더 빨리 로드됩니다.
+
+
+
+* **저장 및 보관 효율성**  
+
+  &nbsp; 대규모 슬라이드 라이브러리의 디스크 공간 사용량을 줄입니다.
+
+
+
+* **콘텐츠 공유 및 배포**  
+
+  &nbsp; 압축된 파일은 네트워크 및 장치 간에 빠르게 전송됩니다.
+
+
+
+* **워크플로우 통합**  
+
+  &nbsp; 최적화된 ODP 파일은 자동화된 프레젠테이션 파이프라인에서 성능을 향상시킵니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 ODP 압축**  
+
+  &nbsp; 여러 프레젠테이션 파일의 최적화를 자동화합니다.
+
+
+
+* **미디어 및 이미지 최적화**  
+
+  &nbsp; 포함된 이미지 및 미디어를 자동으로 압축합니다.
+
+
+
+* **CMS 또는 DAM 통합**  
+
+  &nbsp; 업로드 또는 보관 프로세스 중에 ODP 파일을 압축합니다.
+
+
+
+* **동적 압축**  
+
+  &nbsp; 슬라이드 콘텐츠 및 미디어 밀도에 따라 압축 강도를 조정합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

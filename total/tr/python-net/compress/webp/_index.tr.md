@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WEBP sıkıştırması, yüksek görsel kaliteyi korurken web için optimize edilmiş görüntülerin dosya boyutunu azaltmaya odaklanır. WEBP, hem kayıplı hem de kayıpsız sıkıştırmayı destekler, bu da web grafikleri, uygulama arayüzleri ve dijital içerik dağıtımı için ideal hale getirir.
+
+
+
+Python API'leri otomatik WEBP sıkıştırmasını, toplu işleme ve diğer formatlardan dönüşümü destekleyerek web performans optimizasyonu ve bulut tabanlı görüntü yönetimi için ölçeklenebilir iş akışları sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Web ve Uygulama Performansı**  
+
+&nbsp; Sıkıştırılmış WEBP görüntüler sayfa yükleme hızını artırır ve bant genişliği kullanımını azaltır.
+
+
+
+* **Duyarlı Dijital İçerik**  
+
+&nbsp; Web siteleri, uygulamalar ve çevrimiçi platformlar için yüksek kaliteli görselleri korur.
+
+
+
+* **Pazarlama ve Sosyal Medya Varlıkları**  
+
+&nbsp; Daha küçük WEBP dosyaları kampanyalar için daha hızlı yükleme ve işleme sağlar.
+
+
+
+* **Arşiv ve Bulut Depolama**  
+
+&nbsp; Büyük görüntü kütüphaneleri için depolama gereksinimlerini azaltır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu WEBP Sıkıştırması**  
+
+&nbsp; Birden fazla WEBP dosyasını otomatik olarak sıkıştırır.
+
+
+
+* **Kayıpsız veya Kayıplı Seçim**  
+
+&nbsp; Otomasyon, görüntü içeriğine ve gereksinimlere bağlı olarak en uygun sıkıştırma türünü seçer.
+
+
+
+* **İş Akışı Entegrasyonu**  
+
+&nbsp; WEBP görüntülerini CMS, DAM veya bulut platformlarına yükleme sırasında otomatik olarak sıkıştırır.
+
+
+
+* **Dinamik Kalite Ayarı**  
+
+&nbsp; Sıkıştırma, çözünürlüğe, hedef cihaza veya ağ koşullarına bağlı olarak ayarlanabilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHTML压缩优化包含HTML、图像、CSS和脚本的Web存档文件。压缩的MHTML文件改善了Web内容的存储、传输速度和离线访问性。
+
+
+
+Python API可实现自动化MHTML压缩、批处理处理，并与可扩展的Web内容管理的存档或发布流程集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **离线网页存储**  
+
+  &nbsp; 减少存档网页的存储占用。
+
+
+
+* **高效共享与分发**  
+
+  &nbsp; 更小的MHTML文件在网络间传输更快。
+
+
+
+* **数字档案**  
+
+  &nbsp; 压缩文件有助于长期存储Web内容。
+
+
+
+* **内容管理系统**  
+
+  &nbsp; 优化的MHTML文件提高了CMS平台中的工作流性能。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量MHTML压缩**  
+
+  &nbsp; 自动优化多个Web存档文件。
+
+
+
+* **嵌入式资产优化**  
+
+  &nbsp; 自动压缩存档中的图像、脚本和样式。
+
+
+
+* **流程集成**  
+
+  &nbsp; 在进入DAM、CMS或云系统时压缩MHTML文件。
+
+
+
+* **动态压缩级别**  
+
+  &nbsp; 根据页面大小、媒体内容和存档需求进行调整。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

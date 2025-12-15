@@ -101,7 +101,75 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Los archivos PPTM (presentaciones habilitadas para macros) se benefician de la compresión que preserva los macros mientras reduce el tamaño del archivo para compartir y almacenar.
+
+
+
+Las API de Python permiten la compresión automatizada de PPTM manteniendo la funcionalidad de los macros para flujos de trabajo empresariales.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Preservación de Macros**  
+
+&nbsp; Comprimir archivos PPTM sin romper los macros incrustados.
+
+
+
+* **Colaboración más rápida**  
+
+&nbsp; Archivos más pequeños habilitados para macros facilitan el intercambio de equipos y las cargas en la nube.
+
+
+
+* **Archivado automatizado**  
+
+&nbsp; La compresión garantiza un almacenamiento eficiente a largo plazo de presentaciones con macros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Compresión por lotes de PPTM**  
+
+&nbsp; Los scripts de Python pueden procesar automáticamente varios archivos habilitados para macros.
+
+
+
+* **Integración con sistemas de flujo de trabajo**  
+
+&nbsp; Los archivos PPTM comprimidos se pueden utilizar en flujos de trabajo de documentos automatizados.
+
+
+
+* **Compresión condicional**  
+
+&nbsp; La automatización puede dirigirse a archivos con medios grandes o macros complejos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

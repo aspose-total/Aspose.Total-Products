@@ -100,7 +100,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A DOCM fájlok, amelyek makrókat tartalmaznak, hasznosak a tömörítéshez az adattárolás optimalizálása érdekében, miközben megőrzik a makrók funkcionalitását és formázását.
+
+
+
+A Python API-k használatával az automatizált DOCM tömörítés biztosítja, hogy a makrók érintetlenek maradjanak, és egyszerűsíti a dokumentumkezelést az automatizált munkafolyamatokban.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Makróbarát tárolás**  
+
+&nbsp; Tömörítse a DOCM fájlokat anélkül, hogy megsérülnének a beágyazott makrók.
+
+
+
+* **Gyorsabb fájlmegosztás**  
+
+&nbsp; A kisebb méretek lehetővé teszik a gyors e-mail mellékleteket és felhőfeltöltéseket.
+
+
+
+* **Archiválási kezelés**  
+
+&nbsp; Az automatizált tömörítés segít a makrókat tartalmazó dokumentumok hosszú távú tárolásában.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Tömeges makró dokumentumtömörítés**  
+
+&nbsp; Automatizálja a több DOCM fájl feldolgozását, miközben megőrzi a funkcionalitást.
+
+
+
+* **Integráció az irodai automatizálással**  
+
+&nbsp; A tömörített fájlokat kezelheti munkafolyamatrendszerekben vagy DMS-megoldásokban.
+
+
+
+* **Feltételes makró tömörítés**  
+
+&nbsp; A Python szkriptek szelektíven tömöríthetik a DOCM fájlokat méret vagy tartalom alapján.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

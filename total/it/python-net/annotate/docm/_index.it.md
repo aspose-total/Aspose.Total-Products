@@ -75,7 +75,65 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'annotazione DOCM consente di aggiungere note, evidenziare e aggiungere metadati ai documenti Word abilitati alle macro, supportando flussi di lavoro che richiedono scripting dinamico o automazione integrata. Ciò aiuta gli utenti a documentare la logica, tracciare le modifiche e mantenere chiarezza sui comportamenti delle macro.
+
+Annotando i file DOCM in modo programmato, i sistemi di automazione possono monitorare l'uso delle macro, migliorare la coerenza della documentazione e semplificare i processi di convalida.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Documentazione delle Macro**  
+
+&nbsp; Etichettare e descrivere le azioni guidate dalle macro all'interno del documento.
+
+* **Tracciamento della Conformità**  
+
+&nbsp; Aggiungere note che confermano gli script o le convalide richieste.
+
+* **Registrazione delle Modifiche**  
+
+&nbsp; Evidenziare gli aggiornamenti relativi alle macro per una maggiore visibilità.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Scansione e Annotazione delle Macro**  
+
+&nbsp; Inserire automaticamente commenti che descrivono le funzioni macro rilevate.
+
+* **Report Dinamici di Conformità**  
+
+&nbsp; Popolare le annotazioni quando le macro soddisfano o non superano determinati controlli.
+
+* **Strumenti di Revisione Basati su Script**  
+
+&nbsp; Utilizzare Python per applicare annotazioni strutturate su larga scala.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

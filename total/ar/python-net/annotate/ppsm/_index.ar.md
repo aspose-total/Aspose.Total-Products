@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+توفر تعليقات PPSM هياكل ملاحظات مهيكلة لملفات عرض الشرائح الممكّنة للماكرو، مما يساعد على توثيق سلوك النص البرمجي وتحسين وضوحه أثناء المراجعة. وهذا يجعل من السهل فهم الانتقالات التلقائية أو التفاعلات الديناميكية للشرائح.
+
+تعزز التعليقات التلقائية عمليات التدقيق من خلال مسح النصوص البرمجية، وتحديد أنماط المنطق، وإدراج ملاحظات وصفية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **توثيق سلوك الماكرو**  
+
+&nbsp; إضافة ملاحظات تصف الإجراءات التلقائية للشرائح.
+
+* **تعليقات المراجعة**  
+
+&nbsp; تقديم توصيات بخصوص المحتوى أو التخطيط.
+
+* **رؤية المنطق**  
+
+&nbsp; تسليط الضوء على المناطق المتأثرة بمشغلات الماكرو.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **محلل الماكرو**  
+
+&nbsp; مسح وتعليق النصوص البرمجية المكتشفة تلقائيًا.
+
+* **ملاحظات قائمة على القوالب**  
+
+&nbsp; إدراج تعليقات محددة مسبقًا عبر الملفات.
+
+* **علامات اختبار الجودة التلقائية**  
+
+&nbsp; وضع علامات على المنطق الماكرو الخطير أو المهجور.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -77,7 +77,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+דחיסת TEX מפחיתה את גודל קבצי המקור של LaTeX, שבדרך כלל מכילים סימונים חוזרים, הערות או פקודות עיצוב. אופטימיזציה של קבצי TEX משפרת את יעילות האחסון, קידום ההרכבה והשתתפות משופרת בתהליכי עבודה אקדמיים, פרסום ומדעיים.
+
+
+
+ממשקי פייתון מאפשרים דחיסת TEX אוטומטית, עיבוד בצורת צמיחה ואינטגרציה עם צינורות ליצירת מסמכים לטק נמוכים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **מסמכים אקדמיים ומחקריים**  
+
+&nbsp; הפחתת גודל של מקורות LaTeX למאמרים גדולים, תזות ודיסרטציות.
+
+
+
+* **תהליכי פרסום**  
+
+&nbsp; קבצי TEX דחוסים מקלים על תהליכי ההרכבה וההפצה.
+
+
+
+* **בקרת גרסאות ושיתוף פעולה**  
+
+&nbsp; קבצים קטנים משפרים את היעילות במאגרים ועריכה שיתופית.
+
+
+
+* **ארכיבה וגיבוי**  
+
+&nbsp; קבצי TEX מאופטמים מפחיתים את האחסון של תוכן אקדמי היסטורי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **דחיסת TEX בצורת צמיחה**  
+
+&nbsp; אוטומציה של דחיסת גודל למספר קבצי LaTeX.
+
+
+
+* **הסרת הערות וחוזרות**  
+
+&nbsp; פילוג סימונים לא נחוצים או פקודות חוזרות באופן אוטומטי.
+
+
+
+* **אינטגרצית תהליך עבודה**  
+
+&nbsp; דחיסת קבצי TEX בעת העלאה למערכות הרכבה אוטומטיות או פרסום.
+
+
+
+* **המרה + דחיסה**  
+
+&nbsp; המרת TEX ל- PDF או פורמטים אחרים בעת יישום כללי דחיסה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese OTP snižuje velikost šablon souborů OpenDocument používaných pro textové dokumenty. Optimalizace OTP zlepšuje účinnost uložení, rychlejší distribuci a výkon pracovního postupu pro vytváření dokumentů na základě šablon.
+
+
+
+Python API umožňuje automatizovanou kompresi OTP, hromadné zpracování a správu šablon pro škálovatelné pracovní postupy automatizace dokumentů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případy" %}}
+
+
+
+* **Optimalizace šablony**  
+
+&nbsp; Snížení místa pro velké knihovny šablon.
+
+
+
+* **Rychlejší sdílení a spolupráce**  
+
+&nbsp; Menší soubory OTP se rychle přenášejí mezi týmy a sítěmi.
+
+
+
+* **Účinnost pracovního postupu**  
+
+&nbsp; Kompresované šablony zlepšují rychlost načítání a úprav.
+
+
+
+* **Archivace a zálohování**  
+
+&nbsp; Účinné uložení pro dlouhodobé uchování souborů šablon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese OTP**  
+
+&nbsp; Automatizace zmenšení velikosti pro více šablon.
+
+
+
+* **Optimalizace obsahu a médií**  
+
+&nbsp; Automatická komprese vložených obrázků nebo stylů.
+
+
+
+* **Integrace do dokumentačních potrubí**  
+
+&nbsp; Soubory OTP komprimované během automatizovaného nasazení šablony nebo uložení.
+
+
+
+* **Dynamická pravidla komprese**  
+
+&nbsp; Nastavte optimalizaci na základě složitosti šablony nebo hustoty obsahu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

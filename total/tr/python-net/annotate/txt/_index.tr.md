@@ -75,7 +75,65 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT açıklaması, yapılandırılmış yorumlar, işaretçiler ve gözden geçirme notları ekleyerek teknik ve belge iş akışlarında anlayışı artırır. Dosyanın basitliğini bozmadan içeriği açıklamaya yardımcı olur.
+
+Otomasyon, desenleri algılayarak, açıklamaları ekleyerek ve yapılandırılmış notları uygulayarak hızlı, büyük ölçekli TXT işleme işlemlerini destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Teknik Yorumlar**  
+
+  Ekleme yapılandırma veya kod dosyaları için açıklayıcı notlar.
+
+* **Hata Tanımlama**  
+
+  Şüpheli veya güncelliğini yitirmiş satırları işaretleme.
+
+* **Eğitim İşaretleme**  
+
+  Basit rehberlik etiketleri ekleyerek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Desen Tabanlı Açıklama**  
+
+  Önceden tanımlanmış yapıları algılama ve vurgulama.
+
+* **Toplu Dosya İşleme**  
+
+  Programatik olarak büyük TXT koleksiyonlarını açıklama.
+
+* **Otomatik Gözden Geçirme Notları**  
+
+  Dosyalar arasında kural tabanlı yorumlar ekleyerek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ضغط ملفات XLS يقلل من التخزين ويسرع عملية مشاركة دفاتر العمل Excel التقليدية مع الحفاظ على الصيغ والرسوم البيانية والتنسيق.
+
+
+
+التأتير القائم على Python يسمح بضغط دفعات ملفات XLS، مما يمكن من إدارة البيانات بشكل قابل للتوسيع وزيادة كفاءة سير العمل.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين دفتر العمل التقليدي**  
+
+&nbsp; تقليل حجم ملفات XLS دون التأثير على الصيغ أو سلامة البيانات.
+
+
+
+* **تسريع عملية المشاركة**  
+
+&nbsp; تحسين سرعة توزيع البريد الإلكتروني والسحابة من خلال ملفات XLS أصغر.
+
+
+
+* **كفاءة الأرشفة**  
+
+&nbsp; يبسط الضغط التلقائي تخزين ملفات Excel التقليدية على المدى الطويل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **ضغط دفعات ملفات XLS**  
+
+&nbsp; يمكن لنصوص Python ضغط عدة ملفات XLS في عملية واحدة.
+
+
+
+* **التكامل مع أنظمة سير العمل**  
+
+&nbsp; يمكن تحميل ملفات XLS المضغوطة في خطوط الأنابيب الآلية أو أنظمة إدارة المستندات.
+
+
+
+* **ضغط مشروط**  
+
+&nbsp; استهداف ملفات XLS ذات مجموعات بيانات كبيرة أو وسائط مضمنة للضغط.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,47 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+HTML圧縮は、コードの最小化、空白の削除、コメントの削除、冗長なタグの削除によってファイルサイズを削減します。圧縮されたHTMLは、ウェブサイトの読み込み時間を短縮し、帯域幅の使用量を減らし、Webアプリケーションのパフォーマンスを向上させます。
+
+PythonのAPIを使用すると、自動化されたHTMLの最小化、バッチ処理、およびWeb展開パイプラインとの統合が可能になり、ウェブサイトやアプリケーションのスケーラブルな最適化が実現されます。
+
+## {{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **Webページの最適化**
+  &nbsp; より小さなHTMLファイルはページの読み込み速度と応答性を向上させます。
+
+* **静的サイト生成**
+  &nbsp; 圧縮されたHTMLはサイトの構築と展開プロセスを加速します。
+
+* **デジタルアセット管理**
+  &nbsp; 最小化されたHTMLは大規模なWebリポジトリのストレージ要件を削減します。
+
+* **クロスプラットフォーム配信**
+  &nbsp; 最適化されたHTMLはデバイスやブラウザ間でのレンダリングパフォーマンスを向上させます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチHTMLの最小化**
+  &nbsp; 複数のHTMLファイルの圧縮を自動化します。
+
+* **空白とコメントの削除**
+  &nbsp; 機能を変更せずにコードを自動的にクリーンアップします。
+
+* **パイプラインの統合**
+  &nbsp; CI/CDやコンテンツ取り込みワークフロー中にHTMLファイルを圧縮します。
+
+* **動的最適化**
+  &nbsp; プロジェクトや環境の要件に基づいて最小化ルールを調整します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

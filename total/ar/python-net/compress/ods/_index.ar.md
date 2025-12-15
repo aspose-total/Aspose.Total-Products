@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ضغط ODS يحسن ملفات جداول بيانات OpenDocument، مما يقلل من الحجم مع الحفاظ على الصيغ والرسوم البيانية وسلامة البيانات. تحسين ملفات ODS المضغوطة يعزز من سرعة التخزين ونقل البيانات والأداء في سير العمل الذي يتضمن جداول بيانات ثقيلة.
+
+
+
+تمكن واجهات برمجة التطبيقات بايثون من ضغط ODS تلقائيًا، ومعالجة دفعية، وتحويل لإدارة جداول البيانات بشكل موسع في المكاتب وأنظمة التحليل والتقارير.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين تخزين الجداول البيانية**  
+
+&nbsp; تقليل حجم التخزين لمجموعات البيانات الكبيرة ومجموعات العمل.
+
+
+
+* **مشاركة وتعاون أسرع**  
+
+&nbsp; تنتقل ملفات ODS الصغيرة بكفاءة عبر الفرق.
+
+
+
+* **أرشفة ونسخ احتياطي**  
+
+&nbsp; ضغط ملفات ODS للتخزين على المدى الطويل.
+
+
+
+* **كفاءة سير العمل**  
+
+&nbsp; تحميل الجداول البيانية المحسنة بشكل أسرع في التطبيقات والأنابيب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط ODS دفعي**  
+
+&nbsp; أتمتة تقليل الحجم لعدة جداول بيانات.
+
+
+
+* **تحسين البيانات والرسوم البيانية**  
+
+&nbsp; ضغط الرسوم البيانية المضمنة والجداول المحورية والصيغ تلقائيًا.
+
+
+
+* **التكامل في أنظمة DAM أو السحاب**  
+
+&nbsp; أتمتة الضغط أثناء التحميل أو النسخ الاحتياطي.
+
+
+
+* **قواعد ضغط ديناميكية**  
+
+&nbsp; ضبط التحسين بناءً على حجم البيانات، أو تعقيد الصيغ، أو الكائنات المضمنة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

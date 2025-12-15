@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие EPS сосредотачивается на оптимизации векторной и растровой графики, встроенной в файлы Encapsulated PostScript, обычно используемые для печати, дизайна и издательских рабочих процессов. Сжатие EPS уменьшает размер файла, сохраняя при этом высококачественный вывод для профессиональной графики и иллюстраций.
+
+
+
+API Python позволяют автоматизировать сжатие, преобразование и оптимизацию EPS, поддерживая масштабируемые конвейеры дизайна, управление готовыми к печати ресурсами и рабочие процессы цифрового издательства.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация графики готовой к печати**  
+
+&nbsp; Сжатие файлов EPS без ущерба для векторной точности или встроенных изображений.
+
+
+
+* **Эффективная передача файлов**  
+
+&nbsp; Более маленькие файлы EPS облегчают быстрое совместное использование между дизайнерскими командами и клиентами.
+
+
+
+* **Архивирование дизайнерских ресурсов**  
+
+&nbsp; Сжатие файлов EPS снижает потребности в хранении обширных библиотек графики.
+
+
+
+* **Поставка графики на различные платформы**  
+
+&nbsp; Оптимизированные файлы EPS гарантируют совместимость и быструю загрузку в издательских инструментах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие файлов EPS**  
+
+&nbsp; Автоматизация сжатия нескольких файлов EPS с использованием сценариев на Python.
+
+
+
+* **Преобразование EPS в оптимизированный формат**  
+
+&nbsp; Преобразование EPS в SVG, PDF или PNG с автоматическим применением сжатия.
+
+
+
+* **Интеграция в рабочий процесс**  
+
+&nbsp; Автоматическое сжатие файлов EPS при загрузке в системы DAM или CMS.
+
+
+
+* **Сжатие с учетом содержимого**  
+
+&nbsp; Регулирование сжатия на основе сложности векторов, встроенных изображений или разрешения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +225,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

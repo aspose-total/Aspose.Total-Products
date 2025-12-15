@@ -77,7 +77,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Стиснення XPS (XML Paper Specification) дозволяє зменшити розмір документів з фіксованим макетом, зберігаючи якість, векторну графіку та вбудовані шрифти. Стиснені файли XPS покращують ефективність зберігання, передачу та відтворення на різних пристроях.
+
+
+
+Python API дозволяє автоматизувати стиснення XPS, пакетну обробку та інтеграцію в робочі процеси документів для масштабованого управління вмістом та розподілу.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* **Архівування документів**  
+
+&nbsp; Стиснення файлів XPS для довгострокового зберігання без втрати якості.
+
+
+
+* **Ефективний розподіл**  
+
+&nbsp; Менші файли XPS передаються швидше по мережі або між пристроями.
+
+
+
+* **Робочі процеси друку та публікації**  
+
+&nbsp; Оптимізоване XPS покращує швидкість відтворення та друку.
+
+
+
+* **Цифрові бібліотеки**  
+
+&nbsp; Зменшити обсяг зберігання для колекцій документів з фіксованим макетом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Пакетне стиснення XPS**  
+
+&nbsp; Автоматизувати зменшення розміру для кількох файлів XPS.
+
+
+
+* **Оптимізація вбудованих ресурсів**  
+
+&nbsp; Автоматично стиснювати шрифти, зображення та графіку.
+
+
+
+* **Інтеграція в робочі процеси**  
+
+&nbsp; Динамічно стиснювати файли XPS при завантаженні в CMS, DAM або друкарські конвеєри.
+
+
+
+* **Динамічні рівні стиснення**  
+
+&nbsp; Налаштовувати залежно від вмісту документа, роздільної здатності або призначеного виводу.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

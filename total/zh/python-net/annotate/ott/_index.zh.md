@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+OTT注释通过在开放格式模板中嵌入指导说明、占位符和结构化元数据来改进模板文档，从而确保一致的文档生成和更清晰的最终用户说明。
+
+自动化通过应用模板规则、更新注释文本和强制标准结构来增强OTT工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **模板说明**
+
+  提供完成每个部分的指导。
+
+* **格式标准**
+
+  强调需要特定样式的区域。
+
+* **修订文档**
+
+  在模板更新中标记更改。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **脚本驱动的模板更新**
+
+  自动在模板中应用新的说明。
+
+* **合规标记**
+
+  识别和注释缺失的必填字段。
+
+* **动态规则执行**
+
+  添加由模板逻辑触发的注释。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

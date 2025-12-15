@@ -78,7 +78,87 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compression TEX réduit la taille des fichiers source LaTeX, qui contiennent souvent des balises répétitives, des commentaires ou des commandes de mise en forme. L'optimisation des fichiers TEX améliore l'efficacité de stockage, la compilation plus rapide et la collaboration améliorée dans les flux de travail académiques, éditoriaux et scientifiques.
+
+
+
+Les API Python permettent la compression TEX automatisée, le traitement par lots et l'intégration avec les pipelines de génération de documents pour des flux de travail LaTeX évolutifs.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Documents académiques et de recherche**  
+
+  &nbsp; Réduire la taille des sources LaTeX pour les grands articles, thèses et dissertations.
+
+
+
+* **Flux de travail éditorial**  
+
+  &nbsp; Les fichiers TEX compressés simplifient les processus de compilation et de distribution.
+
+
+
+* **Contrôle de version et collaboration**  
+
+  &nbsp; Des fichiers plus petits améliorent l'efficacité dans les dépôts et l'édition collaborative.
+
+
+
+* **Archivage et sauvegarde**  
+
+  &nbsp; Les fichiers TEX optimisés réduisent le stockage du contenu académique historique.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Compression TEX par lots**  
+
+  &nbsp; Automatiser la réduction de taille pour plusieurs fichiers LaTeX.
+
+
+
+* **Suppression de commentaires et de redondances**  
+
+  &nbsp; Supprimer automatiquement les balises inutiles ou les commandes répétées.
+
+
+
+* **Intégration dans le flux de travail**  
+
+  &nbsp; Compresser les fichiers TEX lorsqu'ils sont téléchargés vers des systèmes de compilation ou de publication automatisés.
+
+
+
+* **Conversion + Compression**  
+
+  &nbsp; Convertir TEX en PDF ou d'autres formats tout en appliquant des règles de compression.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

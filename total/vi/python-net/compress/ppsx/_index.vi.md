@@ -101,7 +101,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tệp PPSX (Trình chiếu PowerPoint hiện đại) được nén để giảm dung lượng lưu trữ và chia sẻ nhanh hơn, bảo tồn nội dung trang, hiệu ứng và phương tiện nhúng.
+
+
+
+API Python cho phép nén PPSX tự động, cải thiện quy trình trình bày và khả năng mở rộng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Lưu Trữ**  
+
+&nbsp; Nén tệp PPSX mà không ảnh hưởng đến các trang hoặc hiệu ứng.
+
+
+
+* **Hợp Tác Nhanh Hơn**  
+
+&nbsp; Tệp nhỏ giúp chia sẻ nhanh chóng trên các nhóm và nền tảng.
+
+
+
+* **Hiệu Quả Lưu Trữ**  
+
+&nbsp; Nén tự động đảm bảo lưu trữ dài hạn của các tệp trình diễn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Đồng Thời Nhiều Tệp PPSX**  
+
+&nbsp; Kịch bản Python có thể nén nhiều tệp PPSX tự động.
+
+
+
+* **Tích Hợp với Hệ Thống Luồng Công Việc và Đám Mây**  
+
+&nbsp; Các tệp PPSX đã được nén có thể được xử lý động trong các quy trình làm việc tự động.
+
+
+
+* **Quy Tắc Nén Thông Minh**  
+
+&nbsp; Tự động hóa có điều kiện nhắm vào các tệp có phương tiện độ phân giải cao.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

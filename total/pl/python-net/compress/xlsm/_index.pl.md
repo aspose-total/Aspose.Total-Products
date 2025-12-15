@@ -78,7 +78,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pliki XLSM (skoroszyty Excel z włączonymi makrami) wymagają kompresji zachowującej osadzone makra przy jednoczesnej optymalizacji przechowywania i udostępniania.
+
+
+
+Interfejsy API Pythona umożliwiają zautomatyzowaną kompresję plików XLSM, zachowując funkcjonalność makr i umożliwiając skalowalną integrację z przepływem pracy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Zachowanie makr**  
+
+&nbsp; Bezpieczna kompresja plików XLSM bez uszkadzania osadzonych makr.
+
+
+
+* **Szybsze udostępnianie i współpraca**  
+
+&nbsp; Mniejsze pliki XLSM ułatwiają przepływy pracy zespołu i przesyłanie do chmury.
+
+
+
+* **Automatyczne archiwizowanie**  
+
+&nbsp; Kompresja zapewnia efektywne przechowywanie skoroszytów z włączonymi makrami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Kompresja wsadowa plików XLSM**  
+
+&nbsp; Skrypty Pythona mogą automatycznie przetwarzać wiele plików z makrami.
+
+
+
+* **Integracja z platformami BI i DMS**  
+
+&nbsp; Skompresowane pliki mogą być zarządzane w systemach automatyzacji.
+
+
+
+* **Kompresja warunkowa**  
+
+&nbsp; Automatyzacja może być skierowana na pliki z dużymi makrami lub ciężką zawartością multimedialną.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

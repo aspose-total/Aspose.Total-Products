@@ -75,7 +75,65 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chú thích PPT cải thiện các tệp trình bày cũ bằng cách thêm nhận xét, làm nổi bật và ghi chú đánh giá có cấu trúc, tăng cường sự rõ ràng và dễ dàng cập nhật. Điều này hỗ trợ các nhóm làm việc với các định dạng cũ trong khi vẫn duy trì tính tương thích.
+
+Tự động hóa đơn giản hóa quy trình làm việc với PPT bằng cách thêm chú thích nhất quán, thực hiện kiểm tra bố cục và cập nhật nhiều tệp một lúc.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đánh Giá Slide Cũ**  
+
+&nbsp; Thêm nhận xét cho các thay đổi về nội dung hoặc thiết kế.
+
+* **Làm Nổi Bật Các Yếu Tố Quan Trọng**  
+
+&nbsp; Nhấn mạnh các khu vực cần chú ý.
+
+* **Ghi Chú Metadata**  
+
+&nbsp; Chèn hướng dẫn phân loại hoặc đánh chỉ số.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Kiểm Tra Slide Tự Động**  
+
+&nbsp; Xác định vấn đề và chú thích slide theo cách tự động.
+
+* **Xử Lý Chú Thích Theo Lô**  
+
+&nbsp; Áp dụng nhận xét cho nhiều tệp PPT.
+
+* **Làm Nổi Bật Dựa Trên Từ Khóa**  
+
+&nbsp; Phát hiện mẫu và đánh dấu chúng một cách tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

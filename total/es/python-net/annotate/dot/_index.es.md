@@ -75,7 +75,65 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La anotación DOT implica agregar notas estructuradas y comentarios a archivos de plantillas de Word, lo que ayuda a los equipos a estandarizar la creación de documentos manteniendo instrucciones claras. Esto mejora la usabilidad de las plantillas y garantiza un formato consistente en los documentos generados.
+
+La anotación DOT automatizada simplifica el mantenimiento de plantillas, permitiendo que los sistemas apliquen actualizaciones o guías de forma dinámica.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Instrucciones de la plantilla**  
+
+&nbsp; Agregar notas que guíen a los usuarios sobre cómo completar secciones.
+
+* **Estándares de formato**  
+
+&nbsp; Resaltar reglas de estructura o estilo requeridas.
+
+* **Seguimiento de revisiones**  
+
+&nbsp; Marcar cambios en las pautas de la plantilla.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Actualizaciones masivas de plantillas**  
+
+&nbsp; Insertar instrucciones nuevas de forma programática.
+
+* **Scripts de estandarización**  
+
+&nbsp; Autoanotar secciones faltantes o incorrectas.
+
+* **Verificaciones de cumplimiento de pautas**  
+
+&nbsp; Resaltar desviaciones de las políticas de la plantilla.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

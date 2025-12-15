@@ -101,7 +101,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Soubory POTM (šablon s makry) vyžadují kompresi, která zachovává makra a zároveň snižuje velikost souboru pro distribuci a ukládání.
+
+
+
+Automatizace založená na Pythonu umožňuje kompresi POTM ve velkém měřítku při zachování plné funkcionality šablony.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Zachování šablony s makry**  
+
+&nbsp; Kompresovat soubory POTM bez narušení vložených maker.
+
+
+
+* **Efektivní sdílení šablon**  
+
+&nbsp; Menší šablony s makry zlepšují spolupráci a distribuci v cloudu.
+
+
+
+* **Archivace šablon**  
+
+&nbsp; Automatizovaná komprese zajistí efektivní dlouhodobé ukládání.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Hromadná komprese POTM**  
+
+&nbsp; Pythonové skripty mohou automaticky zpracovávat více šablon s makry.
+
+
+
+* **Integrace s pracovními systémy**  
+
+&nbsp; Kompresované šablony POTM lze dynamicky načítat do automatizovaných pracovních postupů.
+
+
+
+* **Podmíněná komprese**  
+
+&nbsp; Automatizace cílí na soubory s makry nebo velkým mediálním obsahem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

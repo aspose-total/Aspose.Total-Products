@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TIFF 압축은 고해상도 래스터 이미지의 크기를 줄이면서 이미지 품질, 색상 깊이 및 메타데이터를 보존하는 데 초점을 맞춥니다. TIFF 파일은 전문 사진 촬영, 인쇄 및 스캔 워크플로우에서 널리 사용되며, 압축은 저장 효율성과 빠른 처리를 위해 필수적입니다.
+
+
+
+Python API를 사용하면 자동화된 TIFF 압축, 일괄 처리 및 형식 변환이 가능해져 대규모 이미지 컬렉션을 처리하고 디지털 자산 관리 및 이미징 파이프라인에 통합할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **전문 사진 저장**  
+
+  압축된 TIFF 파일은 고품질 이미지를 유지하면서 저장 비용을 줄입니다.
+
+
+
+* **인쇄 및 출판 워크플로우**  
+
+  최적화된 TIFF 파일은 프리프레스 및 제작 파이프라인에서 빠르게 로드되고 효율적으로 처리됩니다.
+
+
+
+* **스캔 및 보관**  
+
+  압축된 TIFF 파일은 스캔된 문서 및 역사적 기록의 저장 공간을 최소화합니다.
+
+
+
+* **디지털 자산 관리**  
+
+  작은 TIFF 파일은 대규모 이미지 라이브러리의 검색 속도와 시스템 성능을 향상시킵니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 TIFF 압축**  
+
+  Python 스크립트를 사용하여 수백 개의 TIFF 파일을 자동으로 최적화할 수 있습니다.
+
+
+
+* **무손실 또는 제어된 손실 압축**  
+
+  워크플로우 요구 사항이나 이미지 콘텐츠에 따라 압축 유형을 자동으로 선택할 수 있습니다.
+
+
+
+* **워크플로우 통합**  
+
+  TIFF 파일을 DAM, CMS 또는 클라우드 저장소에 업로드할 때 동적으로 압축할 수 있습니다.
+
+
+
+* **해상도 기반 최적화**  
+
+  이미지 크기나 DPI에 따라 압축 수준을 자동으로 조정할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

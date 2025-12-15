@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сравнение RTF идентифицирует изменения в тексте, шрифтах, цветах, правилах форматирования и структуре документа в файлах Rich Text Format. Он обеспечивает ясность и последовательность в легких документах.
+
+
+
+Автоматизированное сравнение RTF поддерживает быструю обработку, масштабируемую проверку и интеграцию в динамические рабочие процессы документов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* **Обнаружение изменений форматирования**  
+
+&nbsp; Отслеживает обновления в визуальных стилях.
+
+
+
+* **Проверка правок контента**  
+
+&nbsp; Выделяет правки и корректировки.
+
+
+
+* **Согласованность редактирования между приложениями**  
+
+&nbsp; Идентифицирует вариации, вызванные различными редакторами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Массовая обработка RTF**  
+
+&nbsp; Сравнивает несколько документов программно.
+
+
+
+* **Автоматизированные проверки качества**  
+
+&nbsp; Обеспечивает целостность форматирования.
+
+
+
+* **Извлечение различий в потоках данных**  
+
+&nbsp; Генерирует структурированные результаты сравнения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

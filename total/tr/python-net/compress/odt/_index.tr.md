@@ -100,7 +100,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT sıkıştırması, genellikle kelime işleme için kullanılan OpenDocument Text dosyalarının boyutunu azaltır. Sıkıştırılmış ODT dosyaları depolama verimliliğini artırır, daha hızlı iletim sağlar ve belge iş akışlarında performansı artırır.
+
+
+
+Python API'leri, ofislerde, akademik ortamlarda ve yayıncılık ortamlarında metin belgelerinin ölçeklenebilir yönetimini destekleyen otomatik ODT sıkıştırma, toplu işleme ve dönüşüm sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Belge Depolama Optimizasyonu**  
+
+&nbsp; Büyük metin belge koleksiyonları için depolama alanını azaltın.
+
+
+
+* **Daha Hızlı Paylaşım ve İş Birliği**  
+
+&nbsp; Sıkıştırılmış ODT dosyaları ağlar arasında hızlı iletilir.
+
+
+
+* **Dijital Arşivleme**  
+
+&nbsp; Tarihsel ve referans materyaller için verimli ODT depolama.
+
+
+
+* **İş Akışı Verimliliği**  
+
+&nbsp; Daha küçük dosyalar düzenleyicilerde ve otomatik iş akışlarında daha hızlı yüklenir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu ODT Sıkıştırma**  
+
+&nbsp; Birden fazla belge için boyut azaltımını otomatikleştirin.
+
+
+
+* **Meta Veri ve İçerik Optimizasyonu**  
+
+&nbsp; Tekrarlayan stilleri, görüntüleri veya biçimlendirmeyi otomatik olarak kaldırın.
+
+
+
+* **Belge Yönetim Sistemlerine Entegrasyon**  
+
+&nbsp; Yükleme veya yedekleme iş akışları sırasında sıkıştırılmış ODT dosyaları.
+
+
+
+* **Dinamik Sıkıştırma Kuralları**  
+
+&nbsp; İçerik boyutuna, görüntü yoğunluğuna veya metin hacmine bağlı olarak optimizasyonu ayarlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

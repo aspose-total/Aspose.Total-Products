@@ -78,7 +78,69 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XLTM fájlok (makróval ellátott sablonok) tömörítést igényelnek, amely megőrzi a makrókat, miközben csökkenti a fájlméretet és javítja a terjesztést.
+
+
+
+A Python-alapú automatizálás támogatja a skálázható XLTM sablon-tömörítést vállalati munkafolyamatokhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Makró megőrzése**  
+&nbsp; Tartsa meg a makrókat az XLTM sablonok tömörítése közben.
+
+
+
+* **Hatékony megosztás**  
+&nbsp; A kisebb sablonok elősegítik a csapatok közötti együttműködést.
+
+
+
+* **Sablon archiválása**  
+&nbsp; Az automatizált tömörítés javítja a hosszú távú sablontárolást.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Tömeges XLTM tömörítés**  
+&nbsp; A Python szkriptek automatikusan feldolgozhatnak több makróval ellátott sablont.
+
+
+
+* **Integráció az BI és munkafolyamatrendszerekkel**  
+&nbsp; A tömörített XLTM sablonokat használhatják az automatizált csővezetékekben.
+
+
+
+* **Feltételes tömörítés**  
+&nbsp; Nagy sablonok vagy beágyazott médiatartalmúak tömörítésére.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

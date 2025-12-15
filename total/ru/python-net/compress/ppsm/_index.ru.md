@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файлы PPSM (показ слайдов PowerPoint с макросами) требуют сжатия, которое сохраняет макросы, сокращая размер файла для эффективного обмена и хранения.
+
+
+
+Автоматизация на основе Python позволяет масштабируемое сжатие PPSM с сохранением функциональности макросов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Сохранение макросов**  
+
+&nbsp; Безопасное сжатие файлов PPSM без нарушения макросов.
+
+
+
+* **Быстрое распространение**  
+
+&nbsp; Меньшие файлы обеспечивают эффективное распространение по командам или хранилищам в облаке.
+
+
+
+* **Управление архивами**  
+
+&nbsp; Автоматизированное сжатие обеспечивает долгосрочное хранение файлов показа с макросами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие PPSM**  
+
+&nbsp; Сценарии Python могут обрабатывать несколько файлов показа с макросами автоматически.
+
+
+
+* **Интеграция с системами рабочего процесса**  
+
+&nbsp; Сжатые файлы PPSM могут использоваться в автоматизированных рабочих процессах презентации.
+
+
+
+* **Условное сжатие**  
+
+&nbsp; Оптимизация файлов на основе использования макросов или встроенных медиа.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

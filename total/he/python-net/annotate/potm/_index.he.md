@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Powerpoint PPT PP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+הערת POTM משפרת תבניות מצגות המופעלות במקרו על ידי הוספת הערות שמבהירות את הלוגיקה של השקפים, ההוראות לפריסת העימוד וההתנהגות של המקרו. זה משפר את נוחות השימוש בתבנית ומבטיח יצירת מצגות עקביות.
+
+אוטומציה של הערת POTM עושה את המעקב אחר שימוש במקרו, חיוב מדיניות פריסה ועדכון ההנחיות באופן תכנותי קל יותר.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים שימוש מרכזיים" %}}
+
+
+
+* **הערות לוגיקת מקרו**  
+
+&nbsp; מתאר פונקציות שקפים ממוחשבים.
+
+* **הנחיות לתבנית**  
+
+&nbsp; מספק הוראות לתוכן השקפים.
+
+* **סמני עימוד עיצוב**  
+
+&nbsp; מדגיש אלמנטים נדרשים לפריסה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **סריקה והערה של מקרו**  
+
+&nbsp; מתיעד סקריפטים שזוהו באופן אוטומטי.
+
+* **תחזוקת תבנית בצמיחה**  
+
+&nbsp; מחדיר טקסט הנחיות מעודכנות באופן אוטומטי.
+
+* **אימות פריסה אוטומטי**  
+
+&nbsp; מסמן שקפים שאינם תואמים באופן תכנותי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

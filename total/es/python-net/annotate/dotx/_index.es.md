@@ -75,7 +75,65 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La anotación DOTX amplía la usabilidad de las plantillas al incrustar comentarios, instrucciones y metadatos en plantillas de Word no macro. Esto mejora la precisión del documento y guía a los usuarios en la creación de contenido estructurado.  
+
+Automatizar la anotación DOTX acelera las actualizaciones de plantillas y garantiza la consistencia en los flujos de trabajo de documentación.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Recorridos por la plantilla**  
+
+&nbsp; Agregar notas para el propósito de cada sección.
+
+* **Guía de formato**  
+
+&nbsp; Destacar reglas para encabezados, listas o tablas.
+
+* **Prevención de errores**  
+
+&nbsp; Marcar áreas donde los usuarios suelen cometer errores.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Anotación basada en reglas**  
+
+&nbsp; Insertar instrucciones estandarizadas de forma programática.
+
+* **Mantenimiento masivo de plantillas**  
+
+&nbsp; Actualizar anotaciones en múltiples plantillas.
+
+* **Integración dinámica de políticas**  
+
+&nbsp; Agregar orientación de cumplimiento a través de canalizaciones automatizadas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

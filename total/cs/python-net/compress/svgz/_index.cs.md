@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese SVGZ se zaměřuje na další snížení velikosti souborů SVG aplikací komprese GZIP, což je činí velmi efektivními pro dodávání na web. Komprimované soubory SVGZ zachovávají plnou vektorovou kvalitu, škálovatelnost a editovatelnost při minimalizaci využití šířky pásma a potřeb úložiště.
+
+
+
+Pythonové API umožňují automatizovanou kompresi SVGZ, hromadné zpracování a integraci do webových nebo assetových potrubí, což umožňuje rychlé a škálovatelné pracovní postupy pro webové stránky, aplikace a digitální designové systémy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace webových grafik**  
+
+&nbsp; Komprimované soubory SVGZ se načítají rychleji, což zlepšuje uživatelskou zkušenost na webových stránkách a aplikacích.
+
+
+
+* **Dodání UI/UX designu**  
+
+&nbsp; Menší velikosti souborů zlepšují odezvu a výkon v návrhu uživatelského rozhraní.
+
+
+
+* **Správa digitálních aktiv**  
+
+&nbsp; Snížení požadavků na úložiště pro velké kolekce vektorových grafik.
+
+
+
+* **Vykreslování na různých platformách**  
+
+&nbsp; Udržuje věrnost vektorů při použití minimálního šířky pásma na různých prohlížečích a zařízeních.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese SVGZ**  
+
+&nbsp; Automatizujte kompresi více souborů SVG do formátu SVGZ hromadně.
+
+
+
+* **Integrace do pracovního postupu**  
+
+&nbsp; Automaticky komprimujte SVGZ během nahrávání do CMS, DAM nebo webových potrubí.
+
+
+
+* **Dynamická pravidla komprese**  
+
+&nbsp; Nastavte úrovně komprese GZIP podle složitosti souboru nebo požadavků projektu.
+
+
+
+* **Konverzní + kompresní potrubí**  
+
+&nbsp; Převeďte SVG → SVGZ a optimalizujte v jednom automatizovaném procesu pro efektivitu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

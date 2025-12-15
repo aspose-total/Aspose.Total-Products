@@ -101,7 +101,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX, format PowerPoint modern, seringkali berisi gambar beresolusi tinggi, grafik, dan animasi. Kompresi mengurangi ukuran file sambil mempertahankan ketajaman visual.
+
+
+
+Automasi berbasis Python memungkinkan kompresi PPTX yang dapat diskalakan, meningkatkan kolaborasi dan integrasi dengan platform cloud atau sistem manajemen presentasi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Penyimpanan**  
+
+&nbsp; Kompres file PPTX tanpa kehilangan konten slide, animasi, atau media.
+
+
+
+* **Berbagi Lebih Cepat**  
+
+&nbsp; File PPTX yang lebih kecil memungkinkan distribusi email atau cloud yang cepat.
+
+
+
+* **Arsip Efisien**  
+
+&nbsp; Kompresi otomatis mendukung penyimpanan jangka panjang presentasi besar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi PPTX Massal**  
+
+&nbsp; Skrip Python dapat mengompres beberapa presentasi modern sekaligus.
+
+
+
+* **Integrasi dengan Alat Kolaborasi**  
+
+&nbsp; File PPTX yang terkompresi dapat dimuat secara dinamis ke dalam alur kerja otomatis.
+
+
+
+* **Aturan Kompresi Cerdas**  
+
+&nbsp; Otomatisasi bersyarat menargetkan file dengan media beresolusi tinggi yang tertanam.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -168,7 +236,7 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

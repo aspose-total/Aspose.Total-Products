@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DIB sıkıştırması, donanım özgü biçimlendirme olmadan piksel verilerini depolayan cihaz bağımsız bit eşlem dosyalarının boyutunu azaltır. Bu görüntüler genellikle büyüktür çünkü ham, sıkıştırılmamış bit eşlem verilerini korurlar, bu da sıkıştırmanın modern iş akışlarında verimli depolama ve işleme için önemli olmasını sağlar.
+
+
+
+Python API'leri, DIB optimizasyonunu otomatikleştirmeyi, dosya boyutunu en aza indirmeyi ve bu bit eşlem dosyalarını daha sıkıştırılmış biçimlere dönüştürmeyi mümkün kılar, bu da görüntüleme boru hatlarında ve dijital varlık sistemlerinde ölçeklenebilirliği artırır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Bit Eşlem Optimizasyonu**  
+
+&nbsp; Eski görüntüleme yazılımı veya sistemlerinden kaynaklanan büyük DIB dosyalarını sıkıştırır.
+
+
+
+* **Depolama Verimliliği**  
+
+&nbsp; Geniş bit eşlem depolarına sahip kuruluşlar için disk kullanımını önemli ölçüde azaltır.
+
+
+
+* **Daha Hızlı Transfer ve Yükleme**  
+
+&nbsp; Ağlar veya bulut platformları üzerinden ağır görüntü dosyalarının daha hızlı paylaşımına izin verir.
+
+
+
+* **Görüntü Arşivleme**  
+
+&nbsp; Temel piksel verilerini tehlikeye atmadan hafif arşivlerin korunmasına yardımcı olur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu DIB Sıkıştırması**  
+
+&nbsp; Bir seferde yüzlerce veya binlerce bit eşlem dosyasının boyutunu otomatik olarak azaltır.
+
+
+
+* **Modern Biçimlere Otomatik Dönüşüm**  
+
+&nbsp; DIB'yi PNG, JPEG veya WebP biçimlerine akıllı sıkıştırma kurallarıyla dönüştürür.
+
+
+
+* **Gerçek Zamanlı Yükleme Optimizasyonu**  
+
+&nbsp; DIB dosyaları, görüntüleme platformlarına alındığında otomatik olarak sıkıştırılabilir.
+
+
+
+* **Çözünürlük Farkındalığıyla Sıkıştırma**  
+
+&nbsp; Otomasyon, piksel boyutlarına veya renk derinliğine bağlı olarak sıkıştırma yoğunluğunu ayarlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

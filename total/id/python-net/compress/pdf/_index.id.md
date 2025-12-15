@@ -100,7 +100,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi PDF mengurangi ukuran file Portable Document Format sambil mempertahankan teks, gambar, font, dan grafik vektor. PDF yang terkompresi meningkatkan efisiensi penyimpanan, berbagi lebih cepat, dan rendering yang dioptimalkan di berbagai perangkat dan platform.
+
+
+
+API Python memungkinkan kompresi PDF otomatis, pemrosesan batch, dan integrasi alur kerja untuk manajemen dokumen yang dapat diskalakan, arsip, dan distribusi.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Penyimpanan Dokumen \& Arsip**  
+
+&nbsp; Kompres PDF untuk menghemat ruang penyimpanan di perpustakaan digital.
+
+
+
+* **Transfer File Lebih Cepat**  
+
+&nbsp; PDF yang lebih kecil mentransmisikan dengan cepat melalui email atau platform cloud.
+
+
+
+* **Cetakan \& Penerbitan**  
+
+&nbsp; PDF yang dioptimalkan memuat dan merender lebih cepat dalam alur kerja cetak dan digital.
+
+
+
+* **Optimisasi Pengiriman Konten**  
+
+&nbsp; Tingkatkan pengalaman pengguna untuk eBook, laporan, dan manual.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi PDF Batch**  
+
+&nbsp; Otomatisasi optimisasi beberapa file PDF secara bersamaan.
+
+
+
+* **Optimisasi Gambar \& Font**  
+
+&nbsp; Kompres gambar tertanam dan font subset secara otomatis.
+
+
+
+* **Integrasi Alur Kerja**  
+
+&nbsp; Kompres PDF secara dinamis saat mengunggah ke CMS, DAM, atau sistem arsip.
+
+
+
+* **Aturan Kompresi Dinamis**  
+
+&nbsp; Sesuaikan kompresi berdasarkan ukuran dokumen, jenis konten, atau perangkat target.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

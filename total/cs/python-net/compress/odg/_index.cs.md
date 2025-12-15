@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese ODG optimalizuje soubory OpenDocument Graphics, snižuje velikost a zachovává vektorovou kvalitu, vrstvy a vložené objekty. Komprimované soubory ODG zlepšují účinnost uložení a výkonu v pracovních postupech návrhu a diagramů.
+
+
+
+Pythonové API umožňují automatizovanou kompresi ODG, hromadné zpracování a konverzi do jiných formátů, podporují škálovatelný grafický management v kancelářském, vzdělávacím a vydavatelském prostředí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Ukládání diagramů a vektorů**  
+
+&nbsp; Komprimujte soubory ODG pro snížení využití místa na disku.
+
+
+
+* **Spolupráce a sdílení**  
+
+&nbsp; Menší soubory se rychleji přenášejí mezi týmy a platformami.
+
+
+
+* **Digitální archivace**  
+
+&nbsp; Účinné ukládání diagramů a vektorové grafiky v průběhu času.
+
+
+
+* **Optimalizace pracovního postupu**  
+
+&nbsp; Komprimované soubory ODG zlepšují rychlost vykreslování v aplikacích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese ODG**  
+
+&nbsp; Automatizujte zmenšení velikosti pro více grafických souborů.
+
+
+
+* **Optimalizace vrstev a objektů**  
+
+&nbsp; Automaticky odstraňte nepoužité prvky a komprimujte vložené objekty.
+
+
+
+* **Integrace do kancelářských toků**  
+
+&nbsp; Komprimujte soubory ODG při nahrávání nebo správě verzí.
+
+
+
+* **Dynamické úrovně komprese**  
+
+&nbsp; Nastavte optimalizaci na základě složitosti souboru a použití.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

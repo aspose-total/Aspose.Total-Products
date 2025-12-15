@@ -78,7 +78,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén PCL (Printer Command Language) tối ưu hóa tài liệu sẵn sàng in bằng cách giảm kích thước trong khi duy trì tính chính xác của in. Các tệp PCL được nén cải thiện hiệu quả lưu trữ, tốc độ truyền và hiệu suất trong quy trình in.
+
+
+
+API Python cho phép nén PCL tự động, xử lý hàng loạt và chuyển đổi để tạo ra các ống dẫn in và quản lý tài liệu có thể mở rộng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Công Việc In**  
+
+&nbsp; Các tệp PCL nhỏ giảm thời gian chờ và cải thiện tốc độ in.
+
+
+
+* **Lưu Trữ và Bảo Quản**  
+
+&nbsp; Các tệp PCL được nén tiết kiệm không gian lưu trữ cho các bản lưu trữ công việc in lớn.
+
+
+
+* **Phân Phối Tài Liệu Sẵn Sàng In**  
+
+&nbsp; Các tệp được tối ưu hóa truyền nhanh hơn trên mạng hoặc máy chủ in.
+
+
+
+* **Hiệu Quả Quy Trình**  
+
+&nbsp; Cải thiện hiệu suất trong các hệ thống in tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén PCL Hàng Loạt**  
+
+&nbsp; Tự động hóa việc tối ưu hóa nhiều tệp in.
+
+
+
+* **Tối Ưu Hóa Tài Nguyên Nhúng**  
+
+&nbsp; Nén font chữ, hình ảnh và đồ họa trong các tệp PCL tự động.
+
+
+
+* **Tích Hợp với Các Đường Ống In**  
+
+&nbsp; Nén tệp PCL một cách động trước khi in hoặc lưu trữ.
+
+
+
+* **Quy Tắc Nén Động**  
+
+&nbsp; Điều chỉnh tối ưu hóa dựa trên độ phức tạp hoặc loại nội dung của tài liệu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

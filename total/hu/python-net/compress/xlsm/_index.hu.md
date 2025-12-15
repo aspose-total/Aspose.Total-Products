@@ -78,7 +78,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XLSM fájlok (makrókat támogató Excel munkafüzetek) tömörítést igényelnek, amely megőrzi a beágyazott makrókat, miközben optimalizálja a tárolást és megosztást.
+
+
+
+A Python API-k automatizált XLSM tömörítést tesznek lehetővé, megőrizve a makrók funkcionalitását és lehetővé téve a skálázható munkafolyamatok integrációját.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Makró megőrzése**  
+
+&nbsp; Biztonságosan tömörítse az XLSM fájlokat, anélkül hogy megsérülnének a beágyazott makrók.
+
+
+
+* **Gyorsabb megosztás és együttműködés**  
+
+&nbsp; Kisebb XLSM fájlok segítik a csapatmunkát és a felhőbe való feltöltést.
+
+
+
+* **Automatizált archiválás**  
+
+&nbsp; A tömörítés hatékony tárolást biztosít a makrókat támogató munkafüzetek számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Tömeges XLSM tömörítés**  
+
+&nbsp; A Python szkriptek automatikusan feldolgozhatják a több makrót támogató fájlt.
+
+
+
+* **Integráció BI és DMS platformokkal**  
+
+&nbsp; A tömörített fájlokat automatizált rendszerekben lehet kezelni.
+
+
+
+* **Feltételes tömörítés**  
+
+&nbsp; Az automatizálás célozhat nagy makrókkal vagy nagy médiatartalommal rendelkező fájlokat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

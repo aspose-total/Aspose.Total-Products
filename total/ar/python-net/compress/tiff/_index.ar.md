@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يركز ضغط TIFF على تقليل حجم الصور النقطية عالية الدقة مع الحفاظ على جودة الصورة وعمق الألوان والبيانات الوصفية. تُستخدم ملفات TIFF على نطاق واسع في التصوير الاحترافي والطباعة وسير الأعمال الخاصة بالمسح، مما يجعل الضغط أمرًا أساسيًا لكفاءة التخزين ومعالجة أسرع.
+
+
+
+تمكن واجهات برمجة التطبيقات بايثون من ضغط TIFF تلقائي، ومعالجة دفعية، وتحويل الصيغ، مما يسمح بالتعامل بشكل قابل للتوسيع مع مجموعات كبيرة من الصور ودمجها في أنابيب إدارة الأصول الرقمية والصور.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تخزين التصوير الاحترافي**  
+
+  يقلل ضغط ملفات TIFF من تكاليف التخزين مع الاحتفاظ بصور عالية الجودة.
+
+
+
+* **سير العمل في الطباعة والنشر**  
+
+  تحميل TIFFs المحسنة بشكل أسرع ومعالجتها بكفاءة في أنابيب الطباعة السابقة والإنتاج.
+
+
+
+* **المسح والأرشفة**  
+
+  يقلل ضغط ملفات TIFF المضغوطة من حجم التخزين للمستندات الممسوحة والسجلات التاريخية.
+
+
+
+* **إدارة الأصول الرقمية**  
+
+  تحسن ملفات TIFF الأصغر استرداد السرعة وأداء النظام لمكتبات الصور الكبيرة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط TIFF دفعي**  
+
+  يمكن لنصوص Python تحسين مئات ملفات TIFF تلقائيًا.
+
+
+
+* **ضغط بدون فقدان أو ضغط مفقود متحكم فيه**  
+
+  أتمتة اختيار نوع الضغط استنادًا إلى احتياجات سير العمل أو محتوى الصورة.
+
+
+
+* **دمج السير العمل**  
+
+  ضغط ملفات TIFF بشكل ديناميكي عند التحميل إلى نظام إدارة الأصول الرقمية أو نظام إدارة المحتوى أو تخزين السحابة.
+
+
+
+* **تحسين استنادي إلى الدقة**  
+
+  ضبط مستويات الضغط تلقائيًا اعتمادًا على أبعاد الصورة أو نقاط البوصة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

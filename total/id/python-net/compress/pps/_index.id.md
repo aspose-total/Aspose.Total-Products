@@ -101,7 +101,69 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File PPS (PowerPoint Show) mendapat manfaat dari kompresi untuk mengurangi penyimpanan dan meningkatkan kinerja pemutaran selama presentasi.
+
+
+
+API Python mendukung kompresi PPS otomatis untuk berbagi lebih cepat dan efisiensi penyimpanan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi File Tampilan**  
+&nbsp; Kompres file PPS tanpa memengaruhi konten slide atau transisi.
+
+
+
+* **Distribusi Lebih Cepat**  
+&nbsp; File yang lebih kecil memudahkan berbagi cepat dan unggah ke cloud.
+
+
+
+* **Efisiensi Arsip**  
+&nbsp; Kompresi otomatis mendukung penyimpanan jangka panjang file tampilan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi PPS Massal**  
+&nbsp; Skrip Python dapat mengompres file tampilan secara otomatis.
+
+
+
+* **Integrasi dengan Sistem Presentasi**  
+&nbsp; File PPS yang terkompresi dapat dimuat secara dinamis dalam alur kerja otomatis.
+
+
+
+* **Kompresi Bersyarat**  
+&nbsp; Targetkan presentasi besar atau file kaya media untuk dikompresi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

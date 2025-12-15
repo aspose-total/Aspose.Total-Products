@@ -100,7 +100,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi file DOC mengurangi kebutuhan penyimpanan, mempercepat berbagi file, dan menjaga integritas dokumen untuk konten berat teks atau media-embedded.
+
+
+
+API Python memungkinkan alur kerja kompresi DOC otomatis, mendukung manajemen dokumen yang dapat diskalakan dan pemrosesan yang lebih cepat di lingkungan perusahaan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Penyimpanan**  
+
+&nbsp; Meminimalkan penggunaan ruang disk untuk file DOC warisan tanpa memengaruhi konten.
+
+
+
+* **Berbagi Email dan Cloud**  
+
+&nbsp; File DOC yang lebih kecil dapat ditransfer dengan lebih cepat dan efisien melintasi jaringan.
+
+
+
+* **Arsip Otomatis**  
+
+&nbsp; Kompresi batch untuk pengarsipan memastikan penyimpanan efisien dokumen-dokumen lama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi Batch**  
+
+&nbsp; Skrip Python dapat memproses beberapa file DOC secara otomatis.
+
+
+
+* **Integrasi dengan Sistem Dokumen**  
+
+&nbsp; File DOC yang terkompresi dapat diunggah dengan lancar ke platform DMS.
+
+
+
+* **Kompresi Bersyarat**  
+
+&nbsp; Otomatisasi dapat mengompresi file yang melebihi ambang batas ukuran atau dengan media tersemat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

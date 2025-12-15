@@ -101,7 +101,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX (các mẫu PowerPoint hiện đại) được hưởng lợi từ việc nén để giảm kích thước và cải thiện hiệu suất chia sẻ trong khi vẫn giữ nguyên tất cả các yếu tố định dạng và thiết kế.
+
+
+
+API Python cho phép nén POTX tự động, cải thiện khả năng mở rộng luồng công việc và quản lý mẫu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Lưu Trữ Mẫu**  
+
+&nbsp; Nén các mẫu POTX trong khi bảo tồn nội dung và thiết kế slide.
+
+
+
+* **Chia Sẻ Mẫu Nhanh Chóng**  
+
+&nbsp; Tệp nhỏ giúp phân phối nhanh chóng trên các nhóm và nền tảng đám mây.
+
+
+
+* **Lưu Trữ Tự Động**  
+
+&nbsp; Nén giúp đơn giản hóa quản lý lưu trữ mẫu dài hạn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Batch POTX**  
+
+&nbsp; Kịch bản Python tự động hóa việc nén nhiều mẫu.
+
+
+
+* **Tích Hợp với Hệ Thống Luồng Công Việc**  
+
+&nbsp; Các mẫu đã được nén có thể được tải động vào các đường ống tự động.
+
+
+
+* **Nén Thông Minh**  
+
+&nbsp; Tự động hóa có điều kiện nhắm vào các mẫu lớn hoặc chứa nhiều phương tiện.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

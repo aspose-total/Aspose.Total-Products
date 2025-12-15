@@ -78,7 +78,87 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/zip
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A compressão HTML reduz o tamanho do arquivo ao minificar o código, remover espaços em branco, comentários e tags redundantes. O HTML comprimido melhora os tempos de carregamento do site, reduz o uso de largura de banda e aprimora o desempenho de aplicativos da web.
+
+
+
+As APIs do Python permitem a minificação automática de HTML, processamento em lote e integração com pipelines de implantação na web para otimização escalável de sites e aplicativos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Otimização de Páginas da Web**  
+
+&nbsp; Arquivos HTML menores melhoram a velocidade de carregamento da página e a responsividade.
+
+
+
+* **Geração de Sites Estáticos**  
+
+&nbsp; HTML comprimido acelera a construção de sites e os processos de implantação.
+
+
+
+* **Gerenciamento de Ativos Digitais**  
+
+&nbsp; HTML minificado reduz os requisitos de armazenamento para repositórios da web grandes.
+
+
+
+* **Entrega Multiplataforma**  
+
+&nbsp; HTML otimizado melhora o desempenho de renderização em dispositivos e navegadores.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Minificação em Lote de HTML**  
+
+&nbsp; Automatize a compressão de vários arquivos HTML.
+
+
+
+* **Remoção de Espaços em Branco e Comentários**  
+
+&nbsp; Limpe automaticamente o código sem alterar a funcionalidade.
+
+
+
+* **Integração de Pipeline**  
+
+&nbsp; Comprima arquivos HTML durante fluxos de trabalho de CI/CD ou ingestão de conteúdo.
+
+
+
+* **Otimização Dinâmica**  
+
+&nbsp; Ajuste as regras de minificação com base nos requisitos do projeto ou ambiente.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

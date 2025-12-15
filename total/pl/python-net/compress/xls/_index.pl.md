@@ -78,7 +78,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresja plików XLS zmniejsza potrzebną przestrzeń i przyspiesza udostępnianie starych skoroszytów Excel, zachowując jednocześnie formuły, wykresy i formatowanie.
+
+
+
+Automatyzacja oparta na Pythonie umożliwia wsadową kompresję plików XLS, umożliwiając skalowalne zarządzanie danymi i efektywność pracy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Optymalizacja starych skoroszytów**  
+
+  &nbsp; Zmniejsz rozmiary plików XLS bez wpływu na formuły ani integralność danych.
+
+
+
+* **Szybsze udostępnianie**  
+
+  &nbsp; Mniejsze pliki XLS poprawiają prędkość wysyłania e-maili i dystrybucji w chmurze.
+
+
+
+* **Efektywność archiwizacji**  
+
+  &nbsp; Zautomatyzowana kompresja ułatwia długoterminowe przechowywanie starych plików Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Wsadowa kompresja plików XLS**  
+
+  &nbsp; Skrypty Pythona mogą kompresować wiele plików XLS jednocześnie.
+
+
+
+* **Integracja z systemami przepływu pracy**  
+
+  &nbsp; Skompresowane pliki XLS mogą być ładowane do automatycznych potoków pracy lub systemów zarządzania dokumentami.
+
+
+
+* **Kompresja warunkowa**  
+
+  &nbsp; Kompresuj pliki XLS z dużymi zbiorami danych lub osadzonymi multimedium.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

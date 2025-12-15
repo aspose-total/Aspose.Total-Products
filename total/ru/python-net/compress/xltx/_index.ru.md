@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файлы XLTX (современные шаблоны Excel) выигрывают от сжатия для оптимизации хранения и быстрой передачи, сохраняя все форматирование и формулы.
+
+
+
+API Python позволяют автоматизировать сжатие XLTX, улучшая эффективность рабочего процесса и интеграцию с системами управления документами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация хранения шаблонов**  
+
+  &nbsp; Сжатие шаблонов XLTX с сохранением всех функций.
+
+
+
+* **Быстрая передача шаблонов**  
+
+  &nbsp; Меньшие файлы обеспечивают более быструю дистрибуцию и совместную работу.
+
+
+
+* **Автоматизированное архивирование**  
+
+  &nbsp; Сжатие упрощает управление долгосрочным хранением.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие XLTX**  
+
+  &nbsp; Сценарии Python автоматизируют сжатие нескольких шаблонов.
+
+
+
+* **Интеграция с системами рабочего процесса**  
+
+  &nbsp; Сжатые шаблоны могут быть загружены в автоматизированные конвейеры.
+
+
+
+* **Умное сжатие**  
+
+  &nbsp; Условные правила позволяют нацеливать сжатие на шаблоны с большими наборами данных или встроенными медиафайлами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+השוואת RTF זוהתה שינויים בטקסט, גופנים, צבעים, כללי עיצוב ומבנה המסמך בקבצי Rich Text Format. זה מבטיח בהירות ועדינות במסמכים קלים.
+
+
+
+השוואת RTF אוטומטית תומכת בעיבוד מהיר, אימות נמצא בשלבי התפתחות ואינטגרציה לתהליכי עבודה דינמיים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **זיהוי שינויים בעיצוב**  
+
+&nbsp; מעקב אחר עדכונים בסגנונות חזותיים.
+
+
+
+* **סקירת תיקוני תוכן**  
+
+&nbsp; מדגיש עריכות והתאמות.
+
+
+
+* **עדינות בעריכה חוצת-יישומית**  
+
+&nbsp; מזהה שונויות שנגרמו על ידי עורכים שונים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **עיבוד RTF בצמיחה**  
+
+&nbsp; משווה מסמכים מרובים באופן תכנותי.
+
+
+
+* **בדיקות QA אוטומטיות**  
+
+&nbsp; מבטיח אינטגריטיות בעיצוב.
+
+
+
+* **צינון פלטות שונות**  
+
+&nbsp; יוצר פלטות של השוואה מובנות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يحدد مقارنة RTF التغييرات في النصوص والخطوط والألوان وقواعد التنسيق وهيكل المستند ضمن ملفات Rich Text Format. إنه يضمن وضوحًا واتساقًا عبر المستندات الخفيفة.
+
+
+
+تدعم مقارنة RTF التلقائية معالجة سريعة وتحققًا قابلاً للتوسيع ودمجها في سير العمل الديناميكي للمستندات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **كشف تغييرات التنسيق**  
+
+&nbsp; يتتبع التحديثات في الأنماط البصرية.
+
+
+
+* **مراجعة تنقيح المحتوى**  
+
+&nbsp; يسلط الضوء على التحريرات والتعديلات.
+
+
+
+* **اتساق التحرير بين التطبيقات المختلفة**  
+
+&nbsp; يحدد الاختلافات الناجمة عن محررين مختلفين.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **معالجة RTF الجماعية**  
+
+&nbsp; يقارن عدة مستندات برمجيًا.
+
+
+
+* **فحوصات QA التلقائية**  
+
+&nbsp; يضمن سلامة التنسيق.
+
+
+
+* **خطوط استخراج الاختلافات**  
+
+&nbsp; يولد مخرجات مقارنة منظمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

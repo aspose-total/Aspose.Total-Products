@@ -100,7 +100,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Imaging for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén tệp TIFF tập trung vào việc giảm kích thước của hình ảnh raster độ phân giải cao trong khi bảo tồn chất lượng hình ảnh, độ sâu màu và siêu dữ liệu. Tệp TIFF được sử dụng rộng rãi trong nhiếp ảnh chuyên nghiệp, in ấn và quy trình quét, làm cho việc nén trở thành yếu tố quan trọng để tăng hiệu quả lưu trữ và xử lý nhanh hơn.
+
+
+
+API Python cho phép nén TIFF tự động, xử lý hàng loạt và chuyển đổi định dạng, cho phép xử lý quy mô lớn của bộ sưu tập hình ảnh và tích hợp vào quy trình quản lý tài sản kỹ thuật số và hệ thống hình ảnh.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Lưu Trữ Nhiếp Ảnh Chuyên Nghiệp**  
+
+&nbsp; Nén tệp TIFF giảm chi phí lưu trữ trong khi vẫn giữ lại hình ảnh chất lượng cao.
+
+
+
+* **Quy Trình In Ấn và Xuất Bản**  
+
+&nbsp; TIFF được tối ưu hóa giúp tải nhanh hơn và xử lý hiệu quả trong quy trình trước in và sản xuất.
+
+
+
+* **Quét và Lưu Trữ**  
+
+&nbsp; TIFF nén giảm thiểu diện tích lưu trữ cho tài liệu quét và hồ sơ lịch sử.
+
+
+
+* **Quản Lý Tài Sản Kỹ Thuật Số**  
+
+&nbsp; TIFF nhỏ giúp tăng tốc độ truy xuất và hiệu suất hệ thống cho thư viện hình ảnh lớn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén TIFF Hàng Loạt**  
+
+&nbsp; Kịch bản Python có thể tối ưu hóa hàng trăm tệp TIFF một cách tự động.
+
+
+
+* **Nén Mất Dữ Liệu hoặc Mất Dữ Liệu Kiểm Soát**  
+
+&nbsp; Tự động chọn loại nén dựa trên nhu cầu quy trình hoặc nội dung hình ảnh.
+
+
+
+* **Tích Hợp Quy Trình**  
+
+&nbsp; Nén tệp TIFF động khi tải lên DAM, CMS hoặc lưu trữ đám mây.
+
+
+
+* **Tối Ưu Hóa Dựa Trên Độ Phân Giải**  
+
+&nbsp; Điều chỉnh cấp độ nén tự động tùy thuộc vào kích thước hình ảnh hoặc DPI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

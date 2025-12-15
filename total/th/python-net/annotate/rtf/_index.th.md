@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การประยุกต์ใช้ RTF annotation เพิ่มความสะดวกในการอ่านไฟล์ rich text ด้วยการเพิ่มความสำคัญ และ metadata โครงสร้าง โดยไม่ส่งผลต่อความเข้ากันได้ของแพลตฟอร์มต่าง ๆ ไฟล์ RTF ที่มี annotation สนับสนุนกระบวนการตรวจสอบแบบเบา
+
+การอัตโนมัติเสริมสร้างความสะดวกในการประมวลผล RTF โดยการแทรกหมายเหตุโครงสร้าง สแกนเนื้อหาเพื่อตรวจจับปัญหา และใช้กฎเน้นสำหรับการเน้น
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **หมายเหตุความชัดเจนในเนื้อหา**  
+
+&nbsp; เพิ่มคำอธิบายที่อธิบายการแก้ไขหรือปัญหา
+
+* **เน้นโครงสร้าง**  
+
+&nbsp; ทำเครื่องหมายในส่วนสำคัญหรือข้อผิดพลาด
+
+* **ฝังข้อมูล metadata**  
+
+&nbsp; แทรกแท็กการจำแนกประเภท
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* **เน้นคำหลักโดยอัตโนมัติ**  
+
+&nbsp; ระบุและเน้นคำโดยโปรแกรม
+
+* **สคริปต์หมายเหตุเป็นก้อน**  
+
+&nbsp; ใช้หมายเหตุมาตรฐานในไฟล์ RTF หลาย ๆ ไฟล์
+
+* **ตรวจจับรูปแบบเนื้อหา**  
+
+&nbsp; ทำเครื่องหมายบริเวณที่ตรงกับตัวกระตุ้นเฉพาะ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -98,7 +98,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+קבצי PPTM (מצגות המופעלות במקרו) נהנים מדחיסה השומרת על המקרו בזמן שהיא מפחיתה את גודל הקובץ לצורך שיתוף ואחסון.
+
+
+
+ממשקי פייתון מאפשרים דחיסת PPTM אוטומטית תוך שמירה על פונקציות המקרו לצורך זרימות עבודה בארגונים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **שמירת מקרו**  
+
+&nbsp; דחיסת קבצי PPTM בלי לשבור מקרו מוטבע.
+
+
+
+* **שיתוף עבודה מהיר יותר**  
+
+&nbsp; קבצים קטנים המופעלים במקרו מקלים על שיתוף צוות והעלאה לענן.
+
+
+
+* **ארכיבה אוטומטית**  
+
+&nbsp; הדחיסה מבטיחה אחסון אפקטיבי לטווח הארוך של מצגות עם מקרו.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **דחיסת קבצי PPTM בצמיחה**  
+
+&nbsp; סקריפטים בפייתון יכולים לעבד קבצים מרובים המופעלים במקרו באופן אוטומטי.
+
+
+
+* **אינטגרציה עם מערכות זרימת עבודה**  
+
+&nbsp; קבצי PPTM דחוסים יכולים לשמש בתהליכי עבודה אוטומטיים.
+
+
+
+* **דחיסה תנאית**  
+
+&nbsp; האוטומציה יכולה לפתוח קבצים עם מדיה גדולה או מקרו מורכב.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يركز ضغط TGA على تقليل حجم صور البكسل Targa مع الحفاظ على عمق الألوان والقنوات ألفا. يُستخدم ملفات TGA في كثير من الأحيان في الألعاب، والرسوم ثلاثية الأبعاد، والتأثيرات البصرية، مما يجعل الضغط أمرًا ضروريًا لتخزين فعال ومعالجة أسرع في خطوط الوسائط.
+
+
+
+تسمح واجهات برمجة التطبيقات باستخدام البايثون بضغط TGA تلقائيًا، ومعالجة دفعية، وتحويل إلى تنسيقات حديثة، مما يدعم سير العمل القابل للتوسيع لتطوير الألعاب، والرسوم المتحركة، وإنتاج الوسائط الرقمية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين أصول الألعاب**  
+
+&nbsp; يقلل ضغط ملفات TGA من متطلبات التخزين ويحسن أوقات التحميل في الألعاب.
+
+
+
+* **أنابيب الرسوم ثلاثية الأبعاد**  
+
+&nbsp; تسهل ملفات TGA الصغيرة إدارة النصوص وسير العمل الخاص بالتقديم.
+
+
+
+* **إنتاج التأثيرات البصرية**  
+
+&nbsp; تساعد الصور المحسنة من TGA في إدارة تسلسلات الإطارات الكبيرة بكفاءة.
+
+
+
+* **التخزين الأرشيفي**  
+
+&nbsp; يقلل من حجم الملفات لتخزين الأصول عالية الدقة على المدى الطويل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط ملفات TGA دفعيًا**  
+
+&nbsp; أتمم تحسين مجموعات كبيرة من ملفات TGA بالجملة.
+
+
+
+* **الحفاظ على قناة ألفا**  
+
+&nbsp; الحفاظ على الشفافية أثناء الضغط لتقليل حجم التخزين.
+
+
+
+* **الدمج في الأنابيب**  
+
+&nbsp; يمكن ضغط ملفات TGA تلقائيًا عند التحميل إلى أنظمة إدارة الأصول.
+
+
+
+* **ضغط قائم على القرار الديناميكي**  
+
+&nbsp; ضبط مستويات الضغط استنادًا إلى حجم الصورة أو الدقة أو سياق الاستخدام.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

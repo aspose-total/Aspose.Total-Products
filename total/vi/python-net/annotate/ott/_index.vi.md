@@ -75,7 +75,65 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chú thích OTT cải thiện tài liệu văn bản mẫu bằng cách nhúng ghi chú hướng dẫn, chỗ để điền thông tin và siêu dữ liệu cấu trúc trong các mẫu định dạng mở. Điều này đảm bảo sản xuất tài liệu nhất quán và hướng dẫn người dùng cuối rõ ràng.
+
+Tự động hóa cải thiện quy trình làm việc OTT bằng cách áp dụng các quy tắc mẫu, cập nhật văn bản chú thích và thực thi cấu trúc tiêu chuẩn.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Hướng Dẫn Mẫu**  
+
+  Cung cấp hướng dẫn để hoàn thành từng phần.
+
+* **Tiêu Chuẩn Định Dạng**  
+
+  Đánh dấu các khu vực yêu cầu kiểu dáng cụ thể.
+
+* **Tài Liệu Sửa Đổi**  
+
+  Đánh dấu các thay đổi trong các cập nhật mẫu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Cập Nhật Mẫu Theo Kịch Bản**  
+
+  Áp dụng hướng dẫn mới trên các mẫu một cách tự động.
+
+* **Các Điểm Đánh Dấu Tuân Thủ**  
+
+  Xác định và chú thích các trường bắt buộc bị thiếu.
+
+* **Thực Thi Quy Tắc Động**  
+
+  Thêm ghi chú được kích hoạt bởi logic mẫu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

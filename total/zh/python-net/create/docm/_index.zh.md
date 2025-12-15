@@ -43,9 +43,81 @@ informat: DOC
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM — `.docm` 文件支持嵌入式宏，非常适合需要包含可编程行为的文档；Python API 可以通过组装 OOXML 内容并通过自动化附加已签名或未签名的 VBA 项目来创建支持宏的文档。通过程序化创建，可以确保宏被一致地打包，并可以作为构建的一部分进行验证或签名。
+
+
+
+使用 DOCM 是合适的，当业务逻辑（自定义字段、导出按钮或数据收集宏）必须存在于文档内时；自动化允许插入、测试和控制宏内容，以满足安全性和合规性检查。
+
+
+
+自动化测试和 CI 过程可以确保宏代码的完整性，并在分发之前对宏进行签名。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **文档嵌入式自动化**
+
+&nbsp; 分发运行经批准的宏以进行结构化数据捕获或本地转换的 DOCM 文件。
+
+
+
+* **受控宏部署**
+
+&nbsp; 在构建时将经审查的 VBA 模块插入文档，以实现受监管的宏行为。
+
+
+
+* **支持宏的模板**
+
+&nbsp; 使用 DOTM 模板作为生成预先包含自动化的 DOCM 文档的源。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **CI 对宏的验证**
+
+&nbsp; 自动运行对 VBA 代码的静态分析，并根据策略违规情况阻止构建。
+
+
+
+* **签名和打包**
+
+&nbsp; 自动化进行宏的数字签名，并为安全分发打包 DOCM 文件。
+
+
+
+* **从安全存储库注入宏**
+
+&nbsp; 从安全存储库中提取经批准的 VBA 片段，并将其嵌入生成的 DOCM 文件中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

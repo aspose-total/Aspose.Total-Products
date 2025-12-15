@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การประทิน PPS เพิ่มความคิดเห็นและเครื่องหมายไปยังไฟล์งานนำเสนอในรูปแบบสไลด์โชว์ เพิ่มความชัดเจนสำหรับการเล่นสุดท้ายและรอบการปรับปรุง ไฟล์ PPS ที่ถูกประทินช่วยในการระบุการปรับเปลี่ยนเนื้อหาหรือเวลาก่อนกระจาย  
+
+การอัตโนมัติสนับสนุนการทบทวนเป็นชุด ทำให้ระบบสามารถสแกนสไลด์ เพิ่มหมายเหตุ และเน้นปัญหาเนื้อหาโดยไม่ต้องแก้ไขด้วยมือ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **หมายเหตุเกี่ยวกับเวลาการเล่น**  
+
+&nbsp; เพิ่มความคิดเห็นเกี่ยวกับการเปลี่ยนฉากหรือการจัดเรียงการเคลื่อนไหว
+
+* **การตรวจสอบความสอดคล้องในการออกแบบ**  
+
+&nbsp; เน้นองค์ประกอบทางสายตาที่ต้องการจัดเรียง
+
+* **การทบทวนเนื้อหาและเครื่องหมาย**  
+
+&nbsp; เพิ่มข้อคิดสำหรับการปรับปรุงสไลด์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* **การวิเคราะห์เวลาโดยอัตโนมัติ**  
+
+&nbsp; ประทินสไลด์โดยอัตโนมัติพร้อมแนะนำเรื่องเวลาการเคลื่อนไหว
+
+* **การสแกนเนื้อหาเป็นกลุ่ม**  
+
+&nbsp; เพิ่มหมายเหตุทั่วไปในไฟล์ PPS ในขนาดใหญ่
+
+* **สคริปต์มาตรฐาน**  
+
+&nbsp; ทำเครื่องหมายการเลี้ยงจากกฎการออกแบบหรือเนื้อหา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

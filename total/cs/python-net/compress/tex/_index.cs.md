@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese TEX snižuje velikost zdrojových souborů LaTeX, které často obsahují opakující se značky, komentáře nebo formátovací příkazy. Optimalizace souborů TEX zvyšuje účinnost ukládání, rychlejší kompilaci a zlepšuje spolupráci v akademických, vydavatelských a vědeckých pracovních postupech.
+
+
+
+Pythonová API umožňuje automatizovanou kompresi TEX, hromadné zpracování a integraci s potrubími pro generování dokumentů pro škálovatelné LaTeX pracovní postupy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové Použití" %}}
+
+
+
+* **Akademické a Výzkumné Dokumenty**  
+
+&nbsp; Snížení velikosti zdrojů LaTeX pro velké práce, disertační práce a dizertace.
+
+
+
+* **Vydavatelské Pracovní Postupy**  
+
+&nbsp; Kompresované TEX soubory zjednodušují procesy kompilace a distribuce.
+
+
+
+* **Verzování a Spolupráce**  
+
+&nbsp; Menší soubory zvyšují efektivitu v repozitářích a při spolupracovní úpravách.
+
+
+
+* **Archivace a Zálohování**  
+
+&nbsp; Optimalizované TEX soubory snižují úložný prostor pro historický akademický obsah.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační Scénáře" %}}
+
+
+
+* **Hromadná Kompresní TEX**  
+
+&nbsp; Automatizujte zmenšení velikosti pro více LaTeX souborů.
+
+
+
+* **Odstranění Komentářů a Redundance**  
+
+&nbsp; Automaticky odstraňte zbytečné značky nebo opakované příkazy.
+
+
+
+* **Integrace Pracovního Postupu**  
+
+&nbsp; Kompresujte TEX soubory při nahrání do automatizovaných systémů kompilace nebo vydávání.
+
+
+
+* **Konverze + Kompresní**  
+
+&nbsp; Převeďte TEX na PDF nebo jiné formáty při použití pravidel komprese.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

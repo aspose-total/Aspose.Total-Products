@@ -75,7 +75,65 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'annotazione OTT migliora i documenti di testo del modello incorporando note guida, segnaposto e metadati strutturati all'interno dei modelli in formato aperto. Ciò garantisce una produzione di documenti coerente e istruzioni più chiare per l'utente finale.
+
+L'automazione potenzia i flussi di lavoro OTT applicando regole del modello, aggiornando il testo di annotazione e imponendo strutture standard.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Chiave" %}}
+
+
+
+* **Istruzioni del Modello**  
+
+&nbsp; Fornire indicazioni per completare ciascuna sezione.
+
+* **Standard di Formattazione**  
+
+&nbsp; Evidenziare le aree che richiedono stili specifici.
+
+* **Documentazione delle Revisioni**  
+
+&nbsp; Segnalare le modifiche all'interno degli aggiornamenti del modello.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Aggiornamenti del Modello Guidati da Script**  
+
+&nbsp; Applicare automaticamente nuove istruzioni su tutti i modelli.
+
+* **Indicatori di Conformità**  
+
+&nbsp; Identificare e annotare i campi obbligatori mancanti.
+
+* **Applicazione Dinamica delle Regole**  
+
+&nbsp; Aggiungere note attivate dalla logica del modello.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

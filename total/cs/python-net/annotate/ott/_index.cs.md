@@ -75,7 +75,65 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+OTT anotace zlepšuje textové dokumenty šablony vložením pokynů, zástupců a strukturovaných metadat do šablon ve formátu otevřeného dokumentu. To zajistí konzistentní produkci dokumentů a jasnější pokyny pro koncové uživatele.  
+
+Automatizace zlepšuje pracovní postupy OTT aplikací pravidel šablony, aktualizací anotačního textu a vynucováním standardních struktur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případy" %}}
+
+
+
+* **Pokyny k šabloně**  
+
+&nbsp; Poskytnout pokyny pro vyplnění každé sekce.
+
+* **Standardy formátování**  
+
+&nbsp; Zvýraznit oblasti vyžadující specifické styly.
+
+* **Dokumentace revize**  
+
+&nbsp; Označit změny v rámci aktualizací šablony.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Aktualizace šablony řízené skriptem**  
+
+&nbsp; Automaticky aplikovat nové pokyny napříč šablonami.
+
+* **Značky shody**  
+
+&nbsp; Identifikovat a anotovat chybějící povinná pole.
+
+* **Dynamické vynucování pravidel**  
+
+&nbsp; Přidat poznámky spouštěné logikou šablony.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файлы RTF (Rich Text Format) могут стать большими при наличии сложного форматирования или встроенных объектов; сжатие уменьшает размер файла без влияния на кроссплатформенную совместимость.
+
+
+
+API Python позволяют автоматизировать сжатие RTF, оптимизируя обработку документов в современных системах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация хранения для кроссплатформенности**  
+
+&nbsp; Сжатие файлов RTF для эффективного использования на разных ОС и в различных приложениях.
+
+
+
+* **Быстрое распространение**  
+
+&nbsp; Меньшие файлы RTF улучшают отправку по электронной почте и через облачные сервисы.
+
+
+
+* **Автоматизированное архивирование**  
+
+&nbsp; Пакетное сжатие упрощает архивирование устаревших или крупных документов RTF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие RTF**  
+
+&nbsp; Обработка нескольких документов RTF автоматически с использованием сценариев Python.
+
+
+
+* **Интеграция с рабочими процессами документов**  
+
+&nbsp; Сжатые файлы RTF могут быть загружены в автоматизированные рабочие процессы или системы управления документами.
+
+
+
+* **Условное сжатие**  
+
+&nbsp; Автоматизация может направлять сжатие файлов RTF на основе их размера или встроенного содержимого.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -167,7 +235,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

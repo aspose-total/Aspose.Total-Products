@@ -78,7 +78,87 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A CHM tömörítés csökkenti a Fordított HTML Súgófájlok méretét, melyek tartalmaznak HTML oldalakat, képeket és navigációs struktúrákat a szoftverdokumentációhoz. A tömörített CHM fájlok javítják a tárolási hatékonyságot, a terjesztési sebességet és a felhasználó elérhetőségét.
+
+
+
+A Python API-k automatizált CHM tömörítést tesznek lehetővé, támogatják a tömeges feldolgozást és integrálhatók a dokumentációs folyamatokba a súgórendszerek és technikai kézikönyvek skálázható kezeléséhez.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Szoftverdokumentáció Szállítása**  
+
+&nbsp; A tömörített CHM fájlok gyorsabban betöltődnek és kevesebb lemezterületet foglalnak el.
+
+
+
+* **Archiválás és Biztonsági Mentés**  
+
+&nbsp; Csökkentse a tárolást a régi és nagy súgófájlgyűjteményekhez.
+
+
+
+* **Hatékony Megosztás**  
+
+&nbsp; A kisebb CHM fájlok gyorsan továbbítódnak hálózatokon vagy eszközök között.
+
+
+
+* **Felhasználó Elérhetősége**  
+
+&nbsp; Az optimalizált fájlok javítják a betöltési teljesítményt a súgónézőkben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Tömeges CHM Tömörítés**  
+
+&nbsp; Automatizálja a méretcsökkentést több súgófájl esetén.
+
+
+
+* **Beágyazott Eszközök Optimalizálása**  
+
+&nbsp; Automatikusan tömörítse a képeket, scripteket és HTML oldalakat.
+
+
+
+* **Integráció a Dokumentációs Folyamatokkal**  
+
+&nbsp; Tömörítse a CHM fájlokat a felépítés vagy telepítés folyamatai során.
+
+
+
+* **Dinamikus Tömörítési Szintek**  
+
+&nbsp; Állítsa be a tartalom méretének és bonyolultságának megfelelően.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

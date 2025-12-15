@@ -78,7 +78,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén DICOM tập trung vào việc tối ưu hóa các tệp hình ảnh y khoa chứa hình ảnh chẩn đoán, dữ liệu siêu dữ liệu và thông tin về bệnh nhân. Do tệp DICOM thường lớn do quét độ phân giải cao, việc nén là rất quan trọng để truyền tải nhanh hơn, giảm chi phí lưu trữ và xử lý hiệu quả trong hệ thống chăm sóc sức khỏe.
+
+
+
+API Python cho phép tự động nén DICOM, bao gồm các phương pháp nén không mất dữ liệu và kiểm soát mất dữ liệu, đảm bảo quy trình làm việc với hình ảnh y khoa vẫn có thể mở rộng, đáng tin cậy và tuân thủ các tiêu chuẩn lâm sàng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Lưu Trữ Hình Ảnh Y Khoa**  
+
+&nbsp; Nén các tệp DICOM giảm tải trên hệ thống PACS và lưu trữ dài hạn.
+
+
+
+* **Truyền Tải Hình Ảnh Nhanh Hơn**  
+
+&nbsp; Các tệp nhỏ cải thiện tốc độ truyền tải giữa bệnh viện, trung tâm hình ảnh và hệ thống đám mây.
+
+
+
+* **Luồng Công Việc Nghiên Cứu và Phân Tích**  
+
+&nbsp; Bộ dữ liệu nén tối ưu hóa quá trình huấn luyện mô hình AI và xử lý hình ảnh y khoa quy mô lớn.
+
+
+
+* **Luồng Công Việc Y Tế từ Xa**  
+
+&nbsp; Nén cho phép giao phác hình ảnh chẩn đoán nhanh chóng đến các nhà cung cấp dịch vụ y tế từ xa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Tập Tin Chẩn Đoán Theo Lô**  
+
+&nbsp; Tự động giảm kích thước cho thư viện MRI, CT và X-quang lớn.
+
+
+
+* **Lựa Chọn Mất Dữ Liệu/Mất Dữ Liệu Động**  
+
+&nbsp; Tự động chọn loại nén dựa trên phương pháp, độ phân giải hoặc yêu cầu lâm sàng.
+
+
+
+* **Tối Ưu Hóa Được Tích Hợp vào Luồng Công Việc**  
+
+&nbsp; Nén các tệp DICOM trong quá trình tiếp nhận vào hệ thống PACS, RIS hoặc hệ thống hình ảnh đám mây.
+
+
+
+* **Nén Bảo Quản Siêu Dữ Liệu**  
+
+&nbsp; Quy trình tự động duy trì tất cả các thẻ y tế và nhận dạng trong khi giảm kích thước tệp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -77,7 +77,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+קבצי FODS (Flat OpenDocument Spreadsheet) נהנים מדחיסה כדי להפחית את האחסון ולשפר את מהירות ההעברה תוך שמירה על תאימות עם סטנדרטים של OpenDocument.
+
+
+
+אוטומציה בבסיס פייתון מאפשרת דחיסה יעילה לשילוב זריז בתהליך העבודה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **דחיסת גיליון תקנית**  
+
+&nbsp; להפחתת גודל קובץ FODS תוך שמירה על תאימות ומבנה.
+
+
+
+* **שיתוף מהיר יותר**  
+
+&nbsp; קבצי FODS דחוסים ניתן לשתף במהירות בפלטפורמות שונות.
+
+
+
+* **יעילות ארכיבציה וגיבוי**  
+
+&nbsp; דחיסה אוטומטית מקלה על ניהול אחסון עבור פורמטים פתוחים של מסמכים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **דחיסת FODS בצמודות**  
+
+&nbsp; סקריפטים בפייתון יכולים לעבד מרובע קבצי FODS באופן אוטומטי.
+
+
+
+* **שילוב בתהליך העבודה**  
+
+&nbsp; קבצים דחוסים ניתן לטעון למערכות אוטומטיות או אחסון בענן.
+
+
+
+* **דחיסה תנאית**  
+
+&nbsp; ייעוד לקבצי FODS גדולים או עמידי מדיה לייעוץ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

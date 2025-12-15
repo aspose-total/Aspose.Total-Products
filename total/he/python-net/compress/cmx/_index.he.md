@@ -77,7 +77,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+דחיסת CMX מפחיתה את גודל קבצי הגרפיקה הוקטורית של Corel Presentation Exchange, שכוללים לעתים קרובות איורים מפורטים, שכבות ופרופילי צבע. אופטימיזציה של קבצי CMX עוזרת לשפר את הביצועים בתהליכי עיצוב, להאיץ את השיתוף, ולהפחית את דרישות האחסון בסביבות יצירתיות וטכניות.
+
+
+
+ממשקי פייתון מאפשרים דחיסת CMX אוטומטית והמרה, מבטיחים טיפול יעיל בנכסי וקטור גדולים בקנה מידה לפרסום, הדפסה ומערכות ניהול גרפיות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* **אופטימיזצית פרויקט עיצוב**  
+
+&nbsp; דוחס גרפיקה ב-CMX בשכבות כדי לפשט את טיפול הקבצים ולהפחית את השפעת האחסון.
+
+
+
+* **צינורות פרסום והדפסה**  
+
+&nbsp; קבצי CMX קטנים מאיצים את תהליכי העיבוד, העריכה וההעברה.
+
+
+
+* **ניהול ספריית נכסים**  
+
+&nbsp; אוספי CMX מאופטימים נטענים במהירות יותר בתוך מאגרי נכסים דיגיטליים.
+
+
+
+* **תחלופת פלטפורמות**  
+
+&nbsp; קבצי CMX דחוסים מועברים בצורה יעילה יותר בין צוותי עיצוב או אפליקציות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **דחיסת CMX בגופן**  
+
+&nbsp; אופטימיזציה אוטומטית של סטים גדולים של גרפיקה ב-CMX עם זרימות עבודה בפייתון.
+
+
+
+* **המרת CMX לפורמט מדוחס**  
+
+&nbsp; המרת CMX ל-SVG, PDF, PNG או EPS תוך כדי יישום כללי דחיסה.
+
+
+
+* **אופטימיזציה מותאמת אוטומטית להעלאה**  
+
+&nbsp; קבצי CMX יכולים להיות דחוסים מיד כאשר הם מוכנסים למערכות DMS או DAM.
+
+
+
+* **דחיסה עם הבנה תוכן**  
+
+&nbsp; מכוון את אינטנסיבות האופטימיזציה בהתאם למורכבות הוקטור או לרכיבים מוטבעים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

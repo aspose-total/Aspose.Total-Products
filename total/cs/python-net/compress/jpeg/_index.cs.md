@@ -100,7 +100,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+JPEG (JPG) komprese snižuje velikost vysokorozlišených rastrových obrázků a zachovává přijatelnou vizuální kvalitu. Tato optimalizace je zásadní pro obsah na webu, fotografii a multimediální pracovní postupy, kde jsou kritické velikost souboru, rychlost přenosu a účinnost ukládání.
+
+
+
+Python API umožňují automatizovanou kompresi JPEG, hromadné zpracování a dynamické nastavení kvality, podporují škálovatelné řízení velkých knihoven obrázků a integraci do webových, cloudových a dodávkových potrubí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace výkonu webu**  
+
+&nbsp; Kompresované JPEG zlepšují dobu načítání stránky a snižují spotřebu šířky pásma.
+
+
+
+* **Fotografie a správa digitálních aktiv**  
+
+&nbsp; Udržuje vizuální kvalitu a zároveň významně snižuje velikost souboru pro ukládání a sdílení.
+
+
+
+* **Sociální média a marketingové zdroje**  
+
+&nbsp; Optimalizované JPEG zajišťují rychlejší nahrávání a zobrazování na různých platformách.
+
+
+
+* **Účinnost archivace a zálohování**  
+
+&nbsp; Velké knihovny fotografií jsou ukládány efektivněji s minimální ztrátou kvality.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese JPEG**  
+
+&nbsp; Python skripty automaticky komprimují více souborů JPEG hromadně.
+
+
+
+* **Dynamická kontrola kvality**  
+
+&nbsp; Úroveň komprese lze upravit na základě rozlišení, použití nebo cílové platformy.
+
+
+
+* **Automatizovaná integrace pracovního postupu**  
+
+&nbsp; JPEG lze komprimovat při nahrávání do DAM, CMS nebo cloudového úložiště.
+
+
+
+* **Konverze formátu s kompresí**  
+
+&nbsp; PNG nebo TIFF obrázky lze převést na JPEG s automatizovanou optimalizací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

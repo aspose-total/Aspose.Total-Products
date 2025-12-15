@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PS圧縮は、ベクトルグラフィック、テキスト、および印刷命令を含むPostScriptファイルを最適化し、ファイルサイズを縮小しながら印刷の忠実度を維持します。圧縮されたPSファイルは、ストレージ効率の向上、高速な転送、印刷およびパブリッシングワークフローのパフォーマンス向上に役立ちます。
+
+
+
+Python APIを使用すると、自動化されたPS圧縮、バッチ処理、およびスケーラブルなドキュメントおよびグラフィックス管理のための印刷パイプラインとの統合が可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* **印刷ジョブの最適化**
+
+&nbsp; 圧縮されたPSファイルはスプール時間を短縮し、印刷速度を向上させます。
+
+
+
+* **アーカイブとストレージ**
+
+&nbsp; 大きなPostScriptファイルを効率的に最適化します。
+
+
+
+* **コンテンツ配信**
+
+&nbsp; 小さなPSファイルはプリンタやクライアントへの高速な転送が可能です。
+
+
+
+* **ワークフローの効率化**
+
+&nbsp; 自動化された印刷およびパブリッシングシステムにおける処理速度を向上させます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチPS圧縮**
+
+&nbsp; 複数のPostScriptファイルのサイズを自動的に縮小します。
+
+
+
+* **埋め込みアセットの最適化**
+
+&nbsp; フォント、画像、およびグラフィックスを自動的に圧縮します。
+
+
+
+* **印刷およびパブリッシングパイプラインとの統合**
+
+&nbsp; 生成、アップロード、またはアーカイブ時にPSファイルを圧縮します。
+
+
+
+* **ダイナミックな圧縮レベル**
+
+&nbsp; コンテンツの複雑さと意図された出力に基づいて最適化を調整します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+SXC (eski OpenOffice/StarOffice elektronik tablo) dosyaları sıkıştırma ile depolamayı azaltır ve formülleri ve biçimlendirmeyi korurken paylaşımı kolaylaştırır.
+
+
+
+Python API'leri, eski ortamlarda iş akışı verimliliğini korumak için otomatik SXC sıkıştırmasına izin verir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Elektronik Tablo Optimizasyonu**  
+
+  &nbsp; Formülleri veya içeriği etkilemeden SXC dosya boyutlarını azaltın.
+
+
+
+* **Daha Hızlı Paylaşım**  
+
+  &nbsp; Sıkıştırılmış dosyalar, ağlar ve ekipler arasında transfer hızını artırır.
+
+
+
+* **Arşivleme Verimliliği**  
+
+  &nbsp; Otomatik sıkıştırma, eski elektronik tabloların uzun vadeli depolanmasını destekler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu SXC Sıkıştırma**  
+
+  &nbsp; Python betikleri birden fazla SXC dosyasını otomatik olarak sıkıştırabilir.
+
+
+
+* **DMS veya Bulut Sistemleriyle Entegrasyon**  
+
+  &nbsp; Sıkıştırılmış SXC dosyaları iş akışlarında verimli bir şekilde işlenebilir.
+
+
+
+* **Koşullu Sıkıştırma**  
+
+  &nbsp; Otomasyon, dosyaları boyuta veya gömülü içeriğe göre hedefleyebilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

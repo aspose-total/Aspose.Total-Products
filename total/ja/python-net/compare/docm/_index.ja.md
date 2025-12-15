@@ -70,7 +70,75 @@ DOCM ファイルを簡単に比較するための Python スクリプトまた�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCMの比較は、マクロが有効化されたドキュメントの変化を特定し、テキスト、フォーマット、埋め込みロジックの変更をカバーしています。これにより、可視コンテンツと内部自動化コンポーネントの正確なトラッキングが確保されます。
+
+
+
+DOCMの比較を自動化することで、マクロの整合性の監視が向上し、不正な編集からのリスクが軽減され、高容量環境でのスケーラブルな検証がサポートされます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+
+
+* **マクロの整合性の検証**  
+
+&nbsp; 通常のコンテンツの更新と並行して埋め込まれたマクロの変更を検出します。
+
+
+
+* **ドキュメントライフサイクルの監査**  
+
+&nbsp; 下書き間での変更が適合して意図されていることを確認します。
+
+
+
+* **テンプレート管理**  
+
+&nbsp; 動的テンプレートから作成されたドキュメントの違いを追跡します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動化されたマクロ変更の検出**  
+
+&nbsp; セキュリティとバージョニングのためにマクロコードの変更をフラグ付けします。
+
+
+
+* **大量のテンプレート比較**  
+
+&nbsp; 一貫性のために大量のDOCMファイルを自動的に比較します。
+
+
+
+* **スマートアップデートの監視**  
+
+&nbsp; プログラムチェックをビジネスワークフローに統合します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -70,7 +70,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Porovnání HTML identifikuje rozdíly ve značkování, obsahových blocích, značkách, stylech a inline formátování napříč webovými nebo exportovanými soubory. Zajišťuje přesnost při vykreslování a prezentaci obsahu.
+
+
+
+Automatizované porovnání HTML podporuje škálovatelnou kontrolu kvality pro webový obsah, dokumentační portály a exporty HTML generované systémem.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Sledování revizí webového obsahu**  
+
+&nbsp; Zvýrazňuje aktualizace v textu a prvků rozložení.
+
+
+
+* **Kontroly konzistence exportovaných dokumentů**  
+
+&nbsp; Zajišťuje, že exporty HTML odpovídají očekávané struktuře.
+
+
+
+* **Aktualizace technické dokumentace**  
+
+&nbsp; Detekuje změny v kódových blocích nebo informačních sekcích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Detekce změn ve značkování**  
+
+&nbsp; Automaticky identifikuje úpravy na úrovni značek.
+
+
+
+* **Hromadné porovnání HTML**  
+
+&nbsp; Validuje velké kolekce výstupů HTML.
+
+
+
+* **Automatizované publikovací toky**  
+
+&nbsp; Integruje kontroly do systémů kontinuálního dodávání obsahu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

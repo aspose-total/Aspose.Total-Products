@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файлы DOTM - это шаблоны с поддержкой макросов. Сжатие уменьшает объем хранения, сохраняя функциональность макросов и обеспечивая эффективное развертывание шаблонов.
+
+
+
+API Python поддерживает автоматизированное сжатие DOTM для поддержания целостности в корпоративных и коллективных средах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Сохранение Шаблона с Макросами**  
+
+&nbsp; Безопасное сжатие файлов DOTM без нарушения макросов.
+
+
+
+* **Более Быстрое Распространение Шаблонов**  
+
+&nbsp; Меньшие файлы легче обменивать между командами и системами.
+
+
+
+* **Архивирование Шаблонов**  
+
+&nbsp; Автоматизированное сжатие обеспечивает эффективное хранение в долгосрочной перспективе.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии Автоматизации" %}}
+
+
+
+* **Пакетное Сжатие DOTM**  
+
+&nbsp; Сценарии Python могут обрабатывать несколько шаблонов с макросами автоматически.
+
+
+
+* **Интеграция в Рабочий Процесс**  
+
+&nbsp; Сжатые шаблоны могут использоваться в автоматизированных системах генерации документов.
+
+
+
+* **Условное Сжатие**  
+
+&nbsp; Автоматизация на основе размера, содержимого или сложности макросов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

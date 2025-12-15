@@ -100,7 +100,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese APNG se zaměřuje na snižování velikosti animovaných souborů PNG při zachování kvality snímků a plynulého přehrávání. Vzhledem k tomu, že APNG podporuje bezztrátové funkce a více snímků, je důležité optimalizovat tyto soubory pro rychlejší načítání, sníženou šířku pásma a zlepšený výkon ve webovém a aplikovaném prostředí.
+
+
+
+Pythonové API umožňují automatizovanou kompresi APNG, optimalizaci snímků a redukci zdrojů, což usnadňuje integraci lehkých animací do škálovatelných pracovních postupů a obsahových potrubí s vysokým objemem.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace webových animací**  
+
+&nbsp; Kompresí souborů APNG se zlepšují doby načítání při zachování jasnosti animace.
+
+
+
+* **Dodávka UI/UX prvků**  
+
+&nbsp; Lehké APNG pomáhají rozhraním působit rychle na mobilních zařízeních a počítačích.
+
+
+
+* **Grafické potrubí her a aplikací**  
+
+&nbsp; Kompresované aktivy APNG snižují prodlevy při načítání a využití úložiště v interaktivních prostředích.
+
+
+
+* **Publikování obsahu**  
+
+&nbsp; Minimalizace velikosti animace zajišťuje plynulé doručení na blogy, platformy a systémy CMS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese APNG**  
+
+&nbsp; Pythonové skripty mohou automaticky komprimovat více animovaných PNG souborů najednou.
+
+
+
+* **Optimalizace na úrovni snímku**  
+
+&nbsp; Automatizace může znovu komprimovat jednotlivé snímky nebo odstranit zbytečné.
+
+
+
+* **Integrovaná komprese do pracovního postupu**  
+
+&nbsp; APNG soubory nahrávané do systémů mohou být automaticky komprimovány před uložením.
+
+
+
+* **Dynamické nastavení kvality animace**  
+
+&nbsp; Systémy mohou snížit velikost animace na základě rozlišení, typu zařízení nebo omezení sítě.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

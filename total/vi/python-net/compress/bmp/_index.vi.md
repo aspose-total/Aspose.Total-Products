@@ -100,7 +100,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Imaging for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén BMP tập trung vào việc giảm kích thước của các tệp hình ảnh Bitmap, thường lớn do tính không nén của chúng. Tối ưu hóa tệp BMP là cần thiết để lưu trữ hiệu quả, truyền tải nhanh hơn và tích hợp vào các hệ thống kỹ thuật số hiện đại đòi hỏi hiệu suất tối ưu.
+
+
+
+API Python cho phép tự động hóa quy trình nén và chuyển đổi BMP, giúp doanh nghiệp xử lý tài sản bitmap cũ theo quy mô trong khi cải thiện hiệu suất trên các đường ống và kho lưu trữ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Hệ Thống Cũ**  
+
+&nbsp; Nén tệp BMP giảm sự phình to từ lưu trữ của các hệ thống cũ nơi định dạng này phổ biến.
+
+
+
+* **Truyền Tải Tệp Nhanh Hơn**  
+
+&nbsp; BMP nén nhỏ giúp cải thiện tốc độ tải lên, tải xuống và chia sẻ.
+
+
+
+* **Di Dời Tài Sản Kỹ Thuật Số**  
+
+&nbsp; Cho phép chuyển đổi mượt mà từ định dạng lỗi thời sang các lựa chọn nén hiện đại.
+
+
+
+* **Lưu Trữ Bộ Sưu Tập Phương Tiện Lớn**  
+
+&nbsp; Giảm chi phí lưu trữ dài hạn cho các bộ dữ liệu BMP hàng loạt.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén BMP Hàng Loạt**  
+
+&nbsp; Tự động nén các tập tin bitmap lớn bằng cách sử dụng các kịch bản dựa trên Python.
+
+
+
+* **Chuyển Đổi BMP Sang Định Dạng Nén Tự Động**  
+
+&nbsp; Chuyển đổi BMP sang PNG, WebP hoặc JPEG trong khi áp dụng các quy tắc nén động.
+
+
+
+* **Tối Ưu Hóa Ngay Lập Tức**  
+
+&nbsp; Hệ thống có thể nén BMP ngay lập tức trong quá trình tải lên hoặc tiếp nhận.
+
+
+
+* **Nén Dựa Trên Độ Phân Giải Kích Thước**  
+
+&nbsp; Tự động điều chỉnh cấp độ nén dựa trên kích thước pixel hoặc kích thước tệp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

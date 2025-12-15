@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файлы PPTM (презентации с поддержкой макросов) получают преимущество от сжатия, которое сохраняет макросы, сокращая при этом размер файла для обмена и хранения.
+
+
+
+Python API позволяет автоматизировать сжатие PPTM с сохранением функциональности макросов для корпоративных рабочих процессов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Сохранение макросов**  
+
+&nbsp; Сжатие файлов PPTM без нарушения встроенных макросов.
+
+
+
+* **Более быстрое сотрудничество**  
+
+&nbsp; Меньшие файлы с поддержкой макросов облегчают совместное использование командами и загрузку в облако.
+
+
+
+* **Автоматизированное архивирование**  
+
+&nbsp; Сжатие обеспечивает эффективное долгосрочное хранение презентаций с макросами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие PPTM**  
+
+&nbsp; Сценарии Python могут обрабатывать несколько файлов с макросами автоматически.
+
+
+
+* **Интеграция с системами рабочего процесса**  
+
+&nbsp; Сжатые файлы PPTM могут использоваться в автоматизированных документооборотах.
+
+
+
+* **Условное сжатие**  
+
+&nbsp; Автоматизация может нацеливаться на файлы с большими медиафайлами или сложными макросами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

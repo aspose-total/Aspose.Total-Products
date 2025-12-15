@@ -43,9 +43,79 @@ Pro vývojáře, který se snaží vytvářet soubory DOTM prostřednictvím apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM — `.dotm` šablony kombinují šablonování s podporou maker, umožňují vytváření opakovaně použitelných šablon s makry pro automatizované chování dokumentů. Vytváření souborů DOTM řízené Pythonem umožňuje distribuci šablon obsahujících schválenou automatizaci VBA a zároveň programově ovládá obsah maker.
+
+
+
+Tento formát vyhovuje organizacím, které potřebují opakovatelné šablony s makry pro lokální automatizační úkoly a zároveň zajistit, že makra jsou spravována, ověřena a volitelně podepsána během procesu vytváření šablony.
+
+Automatizace umožňuje bezpečné řízení životního cyklu maker – generování, analýzu, podepisování a nasazování – v rámci CI/CD potrubí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Knihovny šablon s makry**
+
+  Poskytují DOTM šablony, které zahrnují opakovatelnou automatizaci pro místní uživatele.
+
+
+
+* **Ovládaná automatizace šablon**
+
+  Zajistit, že šablony obsahují pouze ověřená makra pro interní pracovní postupy.
+
+
+
+* **Generování dokumentů na základě šablony**
+
+  Použijte DOTM jako zdroj pro generování instancí DOCM/DOCX s vestavěnými chování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **CI potrubí pro ověřování šablony**
+
+  Automaticky ověřujte chování VBA a integritu šablony před distribucí.
+
+
+
+* **Bezpečné nasazení šablon**
+
+  Vložte digitální podpisy a distribuujte soubory DOTM uživatelům prostřednictvím spravovaných kanálů.
+
+
+
+* **Dynamické vkládání maker**
+
+  Programově aktualizujte moduly maker uvnitř šablon DOTM ze zabezpečených úložišť.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

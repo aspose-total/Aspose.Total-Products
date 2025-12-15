@@ -75,7 +75,65 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La anotación DOTM se enfoca en plantillas de Word habilitadas para macros, permitiendo una documentación clara de scripts incrustados y lógica de plantillas. Esto ayuda a mantener la transparencia en torno a las funciones automatizadas y garantiza un uso consistente en los equipos.
+
+La anotación automatizada de DOTM permite a los sistemas escanear macros, actualizar notas y hacer cumplir reglas de plantillas a gran escala.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Notas sobre el Comportamiento de Macros**  
+
+  Explicar cómo funcionan los scripts incrustados.
+
+* **Directrices de Plantillas**  
+
+  Guía a los usuarios sobre el uso adecuado de macros.
+
+* **Seguimiento de Lógica**  
+
+  Marcar secciones activadas por macros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Herramientas de Descubrimiento de Macros**  
+
+  Insertar automáticamente anotaciones para scripts detectados.
+
+* **Actualizaciones de Plantillas basadas en Flujos de Trabajo**  
+
+  Agregar o modificar notas dinámicamente.
+
+* **Marcado de Control de Calidad**  
+
+  Marcar lógica de macros riesgosa u obsoleta.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

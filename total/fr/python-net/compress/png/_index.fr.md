@@ -100,7 +100,87 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compression PNG se concentre sur l'optimisation des images matricielles sans perte tout en préservant la transparence, la netteté et la fidélité des couleurs. Cela est important pour les graphiques web, la conception d'interface utilisateur et les images de haute qualité où la clarté et la précision sont essentielles.
+
+
+
+Les API Python permettent la compression automatique des PNG, le traitement par lots et la conversion, facilitant ainsi la gestion de grands référentiels d'images et leur intégration efficace dans les pipelines web, d'applications et de contenu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Optimisation des graphiques Web et des applications**  
+
+  Compresser les PNG améliore la vitesse de chargement tout en maintenant une qualité visuelle élevée.
+
+
+
+* **Gestion des actifs UI/UX**  
+
+  Les fichiers PNG plus petits réduisent le stockage et garantissent un rendu rapide pour les interfaces.
+
+
+
+* **Publication numérique**  
+
+  Maintient la clarté des graphiques, diagrammes et illustrations pour les livres électroniques et les documents.
+
+
+
+* **Efficacité de l'archivage et du stockage cloud**  
+
+  Réduit la taille des fichiers sans perte de qualité d'image, prenant en charge le stockage à grande échelle.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Compression PNG par lots**  
+
+  Les scripts Python peuvent optimiser plusieurs fichiers PNG dans un processus automatisé.
+
+
+
+* **Optimisation préservant la transparence**  
+
+  Garantit que les canaux alpha restent intacts lors de la compression de l'image.
+
+
+
+* **Intégration dans le flux de travail**  
+
+  Compression automatique des PNG lors du téléchargement vers les systèmes de gestion de contenu, DAM ou cloud.
+
+
+
+* **Ajustement dynamique de la résolution**  
+
+  La compression peut s'adapter en fonction des dimensions de l'image ou du contexte d'utilisation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

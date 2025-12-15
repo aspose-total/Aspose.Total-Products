@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сравнение документов WORD оценивает текст, форматирование, структуру и встроенные элементы в разных версиях, обеспечивая надежное отслеживание изменений. Оно поддерживает команды контента и документацию.
+
+
+
+Автоматизированное сравнение повышает надежность, улучшает сотрудничество и позволяет интегрировать с системами управления документами и современными автоматизированными конвейерами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Отслеживание версий**  
+
+&nbsp; Выделяет обновления в разных версиях документа.
+
+
+
+* **Проверка согласованности шаблонов**  
+
+&nbsp; Гарантирует соответствие структуры и форматирования.
+
+
+
+* **Регуляторная или техническая документация**  
+
+&nbsp; Обнаруживает важные изменения для точности.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Массовое сравнение WORD-документов**  
+
+&nbsp; Автоматическая обработка больших наборов документов.
+
+
+
+* **Интегрированная проверка в рабочий процесс**  
+
+&nbsp; Добавляет автоматические проверки в процессы редактирования.
+
+
+
+* **Автоматизированные сводки изменений**  
+
+&nbsp; Генерирует структурированные отчеты программно.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -137,7 +205,7 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

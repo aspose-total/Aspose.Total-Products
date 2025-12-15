@@ -78,7 +78,87 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A PCL (Printer Command Language) tömörítés optimalizálja a nyomtatható dokumentumokat a méret csökkentése mellett, miközben megőrzi a nyomtatási hűséget. A tömörített PCL fájlok javítják a tárolási hatékonyságot, gyorsabb átvitelt és teljesítményt a nyomtatási folyamatokban.
+
+
+
+A Python API-k lehetővé teszik az automatizált PCL tömörítést, a batch feldolgozást és a konverziót a skálázható nyomtatási és dokumentumkezelési csövek számára.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+
+
+* **Nyomtatási feladatok optimalizálása**  
+
+&nbsp; Kisebb PCL fájlok csökkentik a várakozási időt és javítják a nyomtatási sebességet.
+
+
+
+* **Archiválás és tárolás**  
+
+&nbsp; A tömörített PCL fájlok helyet takarítanak meg a nagy nyomtatási feladatok archiválásához.
+
+
+
+* **Nyomtatásra kész dokumentumok terjesztése**  
+
+&nbsp; Az optimalizált fájlok gyorsabban továbbítódnak a hálózatokon vagy nyomtatószervereken.
+
+
+
+* **Munkafolyamat hatékonysága**  
+
+&nbsp; Javítja a teljesítményt az automatizált nyomtatási rendszerekben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Batch PCL tömörítés**  
+
+&nbsp; Több nyomtatási fájl optimalizálásának automatizálása.
+
+
+
+* **Beágyazott eszközök optimalizálása**  
+
+&nbsp; Betűtípusok, képek és grafikák automatikus tömörítése a PCL fájlokban.
+
+
+
+* **Integráció a nyomtatási csövekkel**  
+
+&nbsp; PCL fájlok dinamikus tömörítése a nyomtatás vagy archiválás előtt.
+
+
+
+* **Dinamikus tömörítési szabályok**  
+
+&nbsp; Az optimalizálás beállítása a dokumentum bonyolultságára vagy tartalomtípusára alapozva.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -43,9 +43,79 @@ Untuk pengembang, siapa yang mencoba membuat file DOTX melalui aplikasi Python? 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTX — `.dotx` adalah template tanpa makro (OOXML) yang ideal untuk distribusi template yang aman dan generasi dokumen yang deterministik. API Python dapat menghasilkan template DOTX dengan gaya, kontrol konten, dan placeholder konten, memungkinkan templating yang kuat tanpa makro untuk sistem otomatisasi.
+
+
+
+DOTX cocok untuk lingkungan yang melarang makro karena alasan keamanan namun masih memerlukan templating yang konsisten dan populasi konten dinamis. Otomatisasi memungkinkan templating yang aman dan scalable serta generasi downstream dari instansi DOCX tanpa menyematkan kode yang dapat dieksekusi.
+
+Generasi template secara programatik mendukung placeholder yang didorong oleh skema, kontrol konten, dan validasi template.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pengiriman Template Aman**
+
+  Buat template DOTX tanpa makro untuk distribusi luas di lingkungan yang aman.
+
+
+
+* **Template Formulir dan Kontrol Konten**
+
+  Bangun template DOTX dengan kontrol konten untuk otomatisasi downstream.
+
+
+
+* **Perakitan Dokumen yang Didorong oleh Template**
+
+  Gunakan template DOTX sebagai sumber otoritatif untuk pembuatan dokumen secara programatik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pipa Template Aman**
+
+  Otomatisasi generasi DOTX dan menegakkan kebijakan yang mencegah inklusi makro.
+
+
+
+* **Pekerjaan Validasi Template**
+
+  Jalankan pemeriksaan otomatis untuk memastikan placeholder dan gaya sesuai dengan harapan skema.
+
+
+
+* **Penggunaan Template yang Didorong oleh API**
+
+  Sediakan template DOTX melalui API internal untuk generasi DOCX sesuai permintaan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

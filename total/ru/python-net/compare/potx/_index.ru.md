@@ -68,7 +68,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сравнение POTX подтверждает структурную и стилевую точность в шаблонах презентаций без макросов, обеспечивая соответствие макетов слайдов, тем и графических правил.
+
+
+
+Автоматизация сравнения POTX упрощает управление шаблонами и повышает надежность в рабочих процессах дизайна презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Проверка макета шаблона**  
+
+&nbsp; Обнаруживает несоответствия в темах и дизайне слайдов.
+
+
+
+* **Контроль соответствия бренду**  
+
+&nbsp; Гарантирует соблюдение шаблонов корпоративных стандартов.
+
+
+
+* **Выравнивание шаблонов для многих команд**  
+
+&nbsp; Поддерживает синхронизацию распределенных команд.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетная обработка шаблонов**  
+
+&nbsp; Автоматическое сравнение больших наборов шаблонов POTX.
+
+
+
+* **Автоматизированный контроль качества**  
+
+&nbsp; Интегрирует этапы проверки в рабочие процессы дизайна.
+
+
+
+* **Плановые проверки шаблонов**  
+
+&nbsp; Обеспечивает долгосрочную согласованность.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การบีบอัด OTT ให้เน้นไปที่ไฟล์เทมเพลตของ OpenDocument Text Template โดยปรับปรุงเลย์เอาท์ สไตล์ และสื่อที่ฝังอยู่เพื่อลดขนาดไฟล์ การบีบอัด OTT ช่วยปรับปรุงการจัดเก็บ ความเร็วในการถ่ายโอน และประสิทธิภาพของการทำงานสำหรับการสร้างเอกสารตามเทมเพลต
+
+
+
+Python APIs ช่วยให้สามารถทำการบีบอัด OTT โดยอัตโนมัติ ประมวลผลเป็นชุด และผสานรวมกับระบบอัตโนมัติเอกสารเพื่อการจัดการเทมเพลตอย่างมีประสิทธิภาพ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การปรับปรุงคลังเทมเพลต**  
+
+&nbsp; ไฟล์ OTT ขนาดเล็กช่วยลดพื้นที่เก็บข้อมูลสำหรับคอลเล็กชันเทมเพลตขนาดใหญ่
+
+
+
+* **การแบ่งปันและร่วมมืออย่างมีประสิทธิภาพ**  
+
+&nbsp; เทมเพลตที่ถูกบีบอัดจะเร็วกว่าในการกระจายและเข้าถึง
+
+
+
+* **การผสานรวมกับกระบวนการทำงาน**  
+
+&nbsp; ไฟล์ OTT ที่ถูกปรับปรุงช่วยเพิ่มประสิทธิภาพในกระบวนการสร้างเอกสารโดยอัตโนมัติ
+
+
+
+* **การถ่ายโอนและสำรองข้อมูล**  
+
+&nbsp; ลดพื้นที่เก็บข้อมูลสำหรับเวอร์ชันเทมเพลตในอดีต
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การบีบอัด OTT แบบจำนวนมาก**  
+
+&nbsp; ทำให้การลดขนาดเป็นไปอัตโนมัติสำหรับเทมเพลตหลายรายการ
+
+
+
+* **การปรับปรุงสื่อที่ฝังอยู่**  
+
+&nbsp; บีบอัดรูปภาพ ออบเจกต์ และสไตล์ในเทมเพลตโดยอัตโนมัติ
+
+
+
+* **การผสานรวมกับระบบจัดการเอกสาร/สื่อดิจิทัล**  
+
+&nbsp; บีบอัดไฟล์ OTT เมื่ออัปโหลดไปยังระบบจัดการเอกสาร
+
+
+
+* **ระดับการบีบอัดแบบไดนามิก**  
+
+&nbsp; ปรับการจัดเรียงใหม่ตามความซับซ้อนของเนื้อหาและบริบทการใช้งาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

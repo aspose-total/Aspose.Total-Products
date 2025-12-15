@@ -75,7 +75,65 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chú thích DOCX cải thiện tài liệu Word hiện đại bằng nhận xét, làm nổi bật và siêu dữ liệu để cải thiện sự cộng tác, kiểm soát phiên bản và rõ ràng của tài liệu. Định dạng này hỗ trợ cấu trúc và kiểu dáng tiên tiến, làm cho các chú thích chính xác và nhất quán hơn.  
+
+Tự động hóa chú thích DOCX mở rộng quy trình xem xét và đảm bảo phản hồi chuẩn hóa trên các tập tài liệu lớn.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Chỉnh Sửa Cộng Tác**  
+
+&nbsp; Chèn nhận xét để hướng dẫn người xem.
+
+* **Làm Nổi Bật Ngữ Nghĩa**  
+
+&nbsp; Nhấn mạnh các thuật ngữ chính, lỗi hoặc quyết định.
+
+* **Tài Liệu Cấu Trúc**  
+
+&nbsp; Thêm siêu dữ liệu để tìm kiếm và sắp xếp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Đánh Dấu Nội Dung Tự Động**  
+
+&nbsp; Làm nổi bật mẫu hoặc từ khóa trong các tập tin hàng loạt.
+
+* **Nhận Xét Theo Quy Định**  
+
+&nbsp; Chèn chú thích dựa trên quy tắc cho các kiểm tra QA.
+
+* **Chú Thích So Sánh Phiên Bản**  
+
+&nbsp; Tự động đánh dấu sự khác biệt giữa các bản sửa đổi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

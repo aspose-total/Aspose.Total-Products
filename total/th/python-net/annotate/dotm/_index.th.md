@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM การประทับรอยเป้าหมายเป็นเทมเพลตของ Word ที่เปิดใช้งานแมโคร, ช่วยให้เอกสารที่ฝังอยู่สคริปต์และตรรกะเทมเพลตชัดเจนขึ้น ซึ่งช่วยในการรักษาความโปร่งใสเกี่ยวกับคุณสมบัติอัตโนมัติและให้ความสม่ำเสมอในการใช้งานในทีม
+
+การประทับรอย DOTM อัตโนมัติช่วยให้ระบบสามารถสแกนแมโคร, อัปเดตหมายเหตุ, และบังคับกฎเทมเพลตในขอบเขตขนาดใหญ่
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **หมายเหตุพฤติกรรมแมโคร**  
+
+&nbsp; อธิบายว่าสคริปต์ที่ฝังอยู่ทำงานอย่างไร
+
+* **แนวทางเทมเพลต**  
+
+&nbsp; แนะนำผู้ใช้ในการใช้แมโครอย่างถูกต้อง
+
+* **การติดตามตรรกะ**  
+
+&nbsp; ทำเครื่องหมายบริเวณที่เรียกใช้แมโคร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์อัตโนมัติ" %}}
+
+
+
+* **เครื่องมือค้นพบแมโคร**  
+
+&nbsp; แทรกหมายเหตุอัตโนมัติสำหรับสคริปต์ที่ตรวจพบ
+
+* **การอัปเดตเทมเพลตตามขั้นตอนการทำงาน**  
+
+&nbsp; เพิ่มหรือปรับเปลี่ยนหมายเหตุอย่างไดนามิก
+
+* **เครื่องหมายประกันคุณภาพ**  
+
+&nbsp; ป้ายสัญลักษณ์ตรวจสอบตรรกะที่เสี่ยงหรือล้าสมัย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

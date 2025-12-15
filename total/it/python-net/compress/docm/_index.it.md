@@ -100,7 +100,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+I file DOCM, contenenti macro, beneficiano della compressione per ottimizzare lo spazio di archiviazione preservando al contempo la funzionalità delle macro e la formattazione.
+
+
+
+Utilizzando le API di Python, la compressione automatizzata dei file DOCM garantisce che le macro rimangano intatte e semplifica la gestione dei documenti nei flussi di lavoro automatizzati.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Archiviazione sicura delle macro**  
+
+&nbsp; Comprimi i file DOCM senza compromettere le macro incorporate.
+
+
+
+* **Condivisione rapida dei file**  
+
+&nbsp; Le dimensioni ridotte consentono un rapido invio tramite email e caricamento su cloud.
+
+
+
+* **Gestione archivistica**  
+
+&nbsp; La compressione automatizzata aiuta nella conservazione a lungo termine dei documenti abilitati alle macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Compressione batch di documenti con macro**  
+
+&nbsp; Automatizza l'elaborazione di più file DOCM preservando la funzionalità.
+
+
+
+* **Integrazione con l'automazione di Office**  
+
+&nbsp; I file compressi possono essere gestiti nei sistemi di flusso di lavoro o nelle soluzioni DMS.
+
+
+
+* **Compressione condizionale delle macro**  
+
+&nbsp; Gli script Python possono comprimere selettivamente i file DOCM in base alle dimensioni o ai contenuti.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

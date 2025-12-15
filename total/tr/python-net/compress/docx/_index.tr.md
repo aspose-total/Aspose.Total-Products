@@ -100,7 +100,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX, profesyonel belgeler için yaygın olarak kullanılan modern Word formatıdır. Sıkıştırma, depolamayı azaltır ve transfer hızını artırırken biçimlendirmeyi ve gömülü nesneleri korur.
+
+
+
+Python API'leri DOCX sıkıştırmasını otomatikleştirebilir, ölçeklenebilir, verimli belge iş akışlarına ve bulut sistemleriyle entegrasyona olanak tanır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Optimize Edilmiş Depolama**  
+
+&nbsp; İçeriği ve tasarımı korurken DOCX dosya boyutlarını azaltın.
+
+
+
+* **Daha Hızlı İş Birliği**  
+
+&nbsp; Daha küçük dosyalar, ekipler ve platformlar arasında paylaşımı kolaylaştırır.
+
+
+
+* **Arşivleme Verimliliği**  
+
+&nbsp; Otomatik sıkıştırma, büyük belge havuzlarını yönetmede yardımcı olur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu DOCX Sıkıştırma**  
+
+&nbsp; Python betikleri bir çalışmada birden fazla DOCX dosyasını sıkıştırabilir.
+
+
+
+* **Belge Yönetim Sistemleriyle Entegrasyon**  
+
+&nbsp; Sıkıştırılmış DOCX dosyaları verimli bir şekilde depolanabilir ve alınabilir.
+
+
+
+* **Akıllı Sıkıştırma**  
+
+&nbsp; Otomasyon, yüksek medya içeriğine veya büyük boyuta sahip dosyaları hedefleyebilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

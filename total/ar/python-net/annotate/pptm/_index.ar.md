@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTM توثيق الملاحظات يوثق منطق الماكرو ويضيف ملاحظات منظمة إلى ملفات العروض التقديمية التي تدعم الماكرو، مما يعزز قابلية الصيانة ودقة المراجعة. ويضمن هذا وضوح حول سلوك الشرائح الآلي.
+
+التأتير يعزز سير العمل في PPTM من خلال مسح النصوص، وإنشاء التوثيق، وتسليط الضوء على المشكلات المتعلقة بالتفاعلات المعتمدة على الماكرو.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **ملاحظات شرح الماكرو**  
+
+&nbsp; توثيق منطق الشريحة الآلي.
+
+* **تغذية ردود التصميم**  
+
+&nbsp; إضافة تعليقات بخصوص الهيكل أو المحتوى.
+
+* **تتبع السلوك**  
+
+&nbsp; تحديد الشرائح المتأثرة بالماكرو.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **أدوات كاشف الماكرو**  
+
+&nbsp; توثيق الأقسام المتعلقة بالماكرو تلقائيًا.
+
+* **تدقيق منطق الشرائح**  
+
+&nbsp; إدراج تحذيرات أو ملاحظات قائمة على القواعد.
+
+* **تحديثات القوالب الجماعية**  
+
+&nbsp; تطبيق التوثيق عبر ملفات PPTM متعددة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

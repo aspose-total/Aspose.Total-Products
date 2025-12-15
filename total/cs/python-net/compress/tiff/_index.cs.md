@@ -100,7 +100,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese formátu TIFF se zaměřuje na snižování velikosti vysokorozlišených rastrových obrázků při zachování kvality obrázku, hloubky barev a metadat. Soubory TIFF jsou široce využívány v profesionální fotografii, tisku a skenovacích postupech, což činí kompresi nezbytnou pro efektivitu uložení a rychlejší zpracování.
+
+
+
+Pythonová API umožňuje automatizovanou kompresi TIFF, hromadné zpracování a konverzi formátu, což umožňuje škálovatelné zpracování velkých sbírek obrázků a integraci do správy digitálních aktiv a obrázkových potrubí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Ukládání profesionální fotografie**  
+
+&nbsp; Komprese souborů TIFF snižuje náklady na úložiště při zachování obrázků ve vysoké kvalitě.
+
+
+
+* **Tiskové a publikační postupy**  
+
+&nbsp; Optimalizované soubory TIFF se rychle načítají a efektivně zpracovávají v předtiskových a výrobních postupech.
+
+
+
+* **Skenování a archivace**  
+
+&nbsp; Kompresované soubory TIFF minimalizují místo na úložišti pro naskenované dokumenty a historické záznamy.
+
+
+
+* **Správa digitálních aktiv**  
+
+&nbsp; Menší soubory TIFF zvyšují rychlost získávání a výkon systému pro velké knihovny obrázků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese TIFF**  
+
+&nbsp; Pythonové skripty mohou automaticky optimalizovat stovky souborů TIFF.
+
+
+
+* **Bezztrátová nebo řízená ztrátová komprese**  
+
+&nbsp; Automatizujte výběr typu komprese na základě potřeb pracovního postupu nebo obsahu obrázku.
+
+
+
+* **Integrace do pracovního postupu**  
+
+&nbsp; Kompresujte soubory TIFF dynamicky při nahrávání do DAM, CMS nebo cloudového úložiště.
+
+
+
+* **Optimalizace podle rozlišení**  
+
+&nbsp; Automaticky upravujte úrovně komprese v závislosti na rozměrech obrázku nebo DPI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+SXC (legacy OpenOffice/StarOffice-spreadsheet) bestanden profiteren van compressie om opslag te verminderen en gemakkelijker delen mogelijk te maken terwijl formules en opmaak behouden blijven.
+
+
+
+Python API's maken geautomatiseerde SXC-compressie mogelijk om de workflow-efficiëntie in legacy-omgevingen te behouden.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Optimalisatie van Legacy Spreadsheets**  
+
+  Reduceer SXC-bestandsgroottes zonder formules of inhoud te beïnvloeden.
+
+
+
+* **Sneller Delen**  
+
+  Gecomprimeerde bestanden verbeteren de overdrachtssnelheid over netwerken en teams.
+
+
+
+* **Efficiëntie bij Archivering**  
+
+  Geautomatiseerde compressie ondersteunt langetermijnopslag van legacy-spreadsheets.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Batch SXC-compressie**  
+
+  Python-scripts kunnen automatisch meerdere SXC-bestanden comprimeren.
+
+
+
+* **Integratie met DMS of Cloudsystemen**  
+
+  Gecomprimeerde SXC-bestanden kunnen efficiënt worden verwerkt in workflows.
+
+
+
+* **Voorwaardelijke Compressie**  
+
+  Automatisering kan bestanden targeten op basis van grootte of ingesloten inhoud.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

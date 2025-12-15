@@ -78,7 +78,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/zip
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Os arquivos XLSM (pastas de trabalho do Excel com macros habilitadas) requerem compressão que preserve as macros incorporadas, otimizando o armazenamento e o compartilhamento.
+
+
+
+As APIs do Python permitem a compressão automatizada de arquivos XLSM, mantendo a funcionalidade das macros e possibilitando a integração escalável do fluxo de trabalho.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Preservação de Macros**  
+
+&nbsp; Comprima arquivos XLSM com segurança sem quebrar as macros incorporadas.
+
+
+
+* **Compartilhamento e Colaboração Mais Rápidos**  
+
+&nbsp; Arquivos XLSM menores facilitam os fluxos de trabalho em equipe e uploads na nuvem.
+
+
+
+* **Arquivamento Automatizado**  
+
+&nbsp; A compressão garante armazenamento eficiente para pastas de trabalho com macros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de Arquivos XLSM**  
+
+&nbsp; Scripts em Python podem processar automaticamente vários arquivos com macros habilitadas.
+
+
+
+* **Integração com Plataformas de BI e DMS**  
+
+&nbsp; Arquivos comprimidos podem ser gerenciados em sistemas automatizados.
+
+
+
+* **Compressão Condicional**  
+
+&nbsp; A automação pode direcionar arquivos com macros grandes ou conteúdo de mídia pesado.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

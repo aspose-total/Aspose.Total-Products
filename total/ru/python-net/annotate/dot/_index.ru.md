@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Аннотация DOT включает добавление структурированных заметок и комментариев к файлам шаблонов Word, помогая командам стандартизировать создание документов, сохраняя при этом четкие инструкции. Это повышает удобство использования шаблона и обеспечивает согласованный форматирование в созданных документах.
+
+Автоматизированная аннотация DOT упрощает обслуживание шаблона, позволяя системам динамически применять обновления или рекомендации.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Инструкции по шаблону**  
+
+&nbsp; Добавьте заметки, направляющие пользователей по заполнению разделов.
+
+* **Стандарты форматирования**  
+
+&nbsp; Выделите необходимые правила структуры или стиля.
+
+* **Отслеживание изменений**  
+
+&nbsp; Отметьте изменения в руководствах по шаблону.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Массовое обновление шаблонов**  
+
+&nbsp; Вставьте новые инструкции программно.
+
+* **Сценарии стандартизации**  
+
+&nbsp; Автоматически аннотируйте отсутствующие или неправильные разделы.
+
+* **Проверки соответствия руководству**  
+
+&nbsp; Выделите отклонения от политик шаблона.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSXファイル（モダンなPowerPoint Show）は、ストレージを削減し、高速な共有を可能にする圧縮を活用し、スライドのコンテンツ、アニメーション、埋め込みメディアを保護します。
+
+
+
+Python APIを使用して自動化されたPPSX圧縮を実現し、プレゼンテーションのワークフローと拡張性を向上させます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **ストレージの最適化**  
+
+&nbsp; スライドやアニメーションに影響を与えることなくPPSXファイルを圧縮します。
+
+
+
+* **迅速なコラボレーション**  
+
+&nbsp; より小さなファイルサイズでチームやプラットフォーム間で迅速な共有が可能です。
+
+
+
+* **アーカイブ効率**  
+
+&nbsp; 自動圧縮により、ショーファイルの長期保存を確保します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **一括PPSX圧縮**  
+
+&nbsp; Pythonスクリプトを使用して複数のPPSXファイルを自動的に圧縮できます。
+
+
+
+* **ワークフローおよびクラウドシステムとの統合**  
+
+&nbsp; 圧縮されたPPSXファイルは自動化されたワークフローで動的に処理できます。
+
+
+
+* **スマートな圧縮ルール**  
+
+&nbsp; 条件付き自動化は高解像度メディアを対象とします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

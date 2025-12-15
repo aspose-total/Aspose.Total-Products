@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+一般的な画像圧縮は、視覚的品質を保ちながらラスターベースの画像ファイルを最適化し、ファイルサイズを削減することを指します。このアプローチは、デジタルプラットフォーム、アプリケーション、コンテンツパイプライン全体でのストレージ効率、高速転送、スムーズなレンダリングに不可欠です。
+
+
+
+Python APIを使用すると、自動画像圧縮、バッチ処理、形式変換が可能となり、メディア管理、Web配信、クラウドベースのリポジトリ向けのスケーラブルなワークフローをサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **Webおよびアプリのパフォーマンス**
+
+  &nbsp; 圧縮された画像は高速に読み込まれ、帯域幅の使用量が削減され、ユーザーエクスペリエンスが向上します。
+
+
+
+* **デジタルアセット管理**
+
+  &nbsp; 最適化された画像は大規模なライブラリから簡単に保存、整理、取得できます。
+
+
+
+* **コンテンツの公開**
+
+  &nbsp; オンラインプラットフォーム向けにファイルサイズを最小限に抑えながら画質を維持します。
+
+
+
+* **アーカイブとバックアップ**
+
+  &nbsp; ラスター画像の大規模なコレクションのためのストレージ要件を削減します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチ画像圧縮**
+
+  &nbsp; Pythonスクリプトを使用して、数百の一般的な画像ファイルを自動的に最適化できます。
+
+
+
+* **動的形式選択**
+
+  &nbsp; 自動化により、画像を最適な形式であるJPGに変換しながら圧縮できます。
+
+
+
+* **ワークフロー統合**
+
+  &nbsp; CMS、DAM、またはクラウドプラットフォームにアップロードする際に画像を自動的に圧縮します。
+
+
+
+* **解像度ベースの圧縮**
+
+  &nbsp; 画像の解像度、寸法、または使用法に基づいて圧縮レベルを動的に調整します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

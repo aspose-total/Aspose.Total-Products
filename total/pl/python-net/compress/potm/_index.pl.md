@@ -101,7 +101,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pliki POTM (szablony z włączonymi makrami) wymagają kompresji zachowującej makra, jednocześnie zmniejszając rozmiar pliku do dystrybucji i przechowywania.
+
+
+
+Automatyzacja oparta na Pythonie umożliwia kompresję plików POTM w skali, zachowując pełną funkcjonalność szablonu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Zachowanie szablonu makra**  
+
+&nbsp; Kompresuj pliki POTM, nie niszcząc osadzonych makr.
+
+
+
+* **Efektywne udostępnianie szablonów**  
+
+&nbsp; Mniejsze szablony z makrami poprawiają współpracę i dystrybucję w chmurze.
+
+
+
+* **Archiwizacja szablonów**  
+
+&nbsp; Automatyzacja kompresji zapewnia efektywne przechowywanie długoterminowe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Kompresja wsadowa plików POTM**  
+
+&nbsp; Skrypty w Pythonie mogą automatycznie przetwarzać wiele szablonów z makrami.
+
+
+
+* **Integracja z systemami przepływu pracy**  
+
+&nbsp; Skompresowane szablony POTM mogą być dynamicznie ładowane do zautomatyzowanych przepływów pracy.
+
+
+
+* **Kompresja warunkowa**  
+
+&nbsp; Automatyzacja kieruje się plikami z makrami lub dużymi treściami multimedialnymi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

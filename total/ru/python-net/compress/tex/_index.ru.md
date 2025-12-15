@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие TEX уменьшает размер исходных файлов LaTeX, которые часто содержат повторяющуюся разметку, комментарии или команды форматирования. Оптимизация файлов TEX повышает эффективность хранения, ускоряет компиляцию и улучшает совместную работу в академических, издательских и научных рабочих процессах.
+
+
+
+Python API позволяет автоматизировать сжатие TEX, пакетную обработку и интеграцию с конвейерами генерации документов для масштабируемых рабочих процессов LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Академические и научные документы**  
+
+&nbsp; Уменьшение размера исходных файлов LaTeX для крупных статей, диссертаций и диссертаций.
+
+
+
+* **Издательские рабочие процессы**  
+
+&nbsp; Сжатие файлов TEX упрощает процессы компиляции и распространения.
+
+
+
+* **Контроль версий и совместная работа**  
+
+&nbsp; Более маленькие файлы повышают эффективность в репозиториях и при совместном редактировании.
+
+
+
+* **Архивирование и резервное копирование**  
+
+&nbsp; Оптимизированные файлы TEX уменьшают объем хранения для исторического академического контента.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие TEX**  
+
+&nbsp; Автоматизация уменьшения размера нескольких файлов LaTeX.
+
+
+
+* **Удаление комментариев и избыточности**  
+
+&nbsp; Автоматическое удаление ненужной разметки или повторяющихся команд.
+
+
+
+* **Интеграция в рабочий процесс**  
+
+&nbsp; Сжатие файлов TEX при загрузке в автоматизированные системы компиляции или публикации.
+
+
+
+* **Преобразование + Сжатие**  
+
+&nbsp; Преобразование TEX в PDF или другие форматы с применением правил сжатия.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

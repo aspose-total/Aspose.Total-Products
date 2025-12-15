@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يركز ضغط OTT على ملفات قوالب OpenDocument Text Template، محسنًا التخطيط والأنماط ووسائط الإدراج لتقليل حجم الملف. تحسين ملفات OTT المضغوطة يعزز من سعة التخزين وسرعة النقل وكفاءة سير العمل لإنشاء المستندات بناءً على القوالب.
+
+
+
+تمكن واجهات برمجة التطبيقات بايثون من ضغط OTT تلقائيًا، ومعالجة دفعية، والتكامل مع أنظمة التشغيل التلقائي لإدارة القوالب بشكل قابل للتوسيع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين مكتبة القوالب**  
+
+&nbsp; تقليل حجم ملفات OTT يقلل من مساحة التخزين لمجموعات القوالب الكبيرة.
+
+
+
+* **مشاركة وتعاون فعال**  
+
+&nbsp; توزيع القوالب المضغوطة يكون أسرع وأسهل.
+
+
+
+* **تكامل سير العمل**  
+
+&nbsp; تحسين ملفات OTT المُحسنة يعزز الأداء في خطوط إنتاج المستندات التلقائية.
+
+
+
+* **أرشفة ونسخ احتياطي**  
+
+&nbsp; تقليل البصمة التخزينية لإصدارات القوالب التاريخية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط دفعي لملفات OTT**  
+
+&nbsp; تلقين تقليل الحجم لعدة قوالب.
+
+
+
+* **تحسين الوسائط المدمجة**  
+
+&nbsp; ضغط الصور والكائنات والأنماط داخل القوالب تلقائيًا.
+
+
+
+* **التكامل مع أنظمة إدارة المحتوى/نظام إدارة الأصول الرقمية**  
+
+&nbsp; ضغط ملفات OTT عند التحميل إلى أنظمة إدارة المستندات.
+
+
+
+* **مستويات ضغط ديناميكية**  
+
+&nbsp; ضبط التحسين بناءً على تعقيد المحتوى وسياق الاستخدام.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

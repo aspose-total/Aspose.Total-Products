@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файлы DOCM, содержащие макросы, выигрывают от сжатия для оптимизации хранения при сохранении функциональности макросов и форматирования.
+
+
+
+Используя API Python, автоматизированное сжатие DOCM обеспечивает целостность макросов и упрощает обработку документов в автоматизированных рабочих процессах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Безопасное хранение макросов**  
+
+  &nbsp; Сжатие файлов DOCM без нарушения встроенных макросов.
+
+
+
+* **Быстрое обмен файлами**  
+
+  &nbsp; Сокращенные размеры обеспечивают быструю отправку по электронной почте и загрузку в облако.
+
+
+
+* **Управление архивами**  
+
+  &nbsp; Автоматизированное сжатие помогает в долгосрочном хранении документов с макросами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие документов с макросами**  
+
+  &nbsp; Автоматизация обработки нескольких файлов DOCM с сохранением функциональности.
+
+
+
+* **Интеграция с автоматизацией Office**  
+
+  &nbsp; Сжатые файлы могут быть управляемы в системах рабочих процессов или решениях DMS.
+
+
+
+* **Условное сжатие макросов**  
+
+  &nbsp; Сценарии на Python могут выборочно сжимать файлы DOCM на основе размера или содержимого.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

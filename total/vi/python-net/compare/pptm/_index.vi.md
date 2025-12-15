@@ -68,7 +68,75 @@ Có các tùy chọn thay thế để cài đặt '[Aspose.Slides for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+So sánh PPTM nhận diện sự khác biệt trong các bản trình bày có kích hoạt macro, bao gồm nội dung slide, yếu tố thiết kế, chuyển đổi và kịch bản tự động nhúng. Đảm bảo việc theo dõi phiên bản đáng tin cậy.
+
+
+
+Tự động hóa so sánh PPTM nâng cao tính nhất quán của quy trình làm việc, kiểm soát macro và giám sát chất lượng bài thuyết trình.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Theo Dõi Bài Thuyết Trình Dựa Trên Macro**  
+
+&nbsp; Đánh dấu các thay đổi mã và slide.
+
+
+
+* **Tuân Thủ Tiêu Chuẩn Thiết Kế**  
+
+&nbsp; Đảm bảo việc sử dụng chủ đề đồng nhất.
+
+
+
+* **Xác Nhận Cập Nhật**  
+
+&nbsp; Phát hiện các sửa đổi cấp độ slide.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Tự Động Hóa Theo Dõi Macro**  
+
+&nbsp; Đánh dấu các cập nhật kịch bản nhúng.
+
+
+
+* **So Sánh PPTM Hàng Loạt**  
+
+&nbsp; Xác thực các bộ trình bày lớn.
+
+
+
+* **Tạo Báo Cáo Tóm Tắt Thay Đổi**  
+
+&nbsp; Tạo báo cáo có cấu trúc theo chương trình.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

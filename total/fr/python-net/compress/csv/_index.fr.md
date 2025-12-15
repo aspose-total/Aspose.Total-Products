@@ -78,7 +78,23 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```markdown
+## Welcome to our online store!
+
+<h2>Featured Products</h2>
+
+- Women's Collection
+- Men's Collection
+- Kids' Collection
+
+{< blocks/products/pf/agp/feature-section >}
+
+## Contact Us
+
+For any inquiries, please contact us at [email@example.com](email@example.com).
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +161,7 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

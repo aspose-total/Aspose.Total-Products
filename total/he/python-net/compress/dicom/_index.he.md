@@ -77,7 +77,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+דחיסת DICOM מתמקדת באופטימיזציה של קבצי תמונה רפואית המכילים תמונות רפואיות לצורך אבחון, מטא-נתונים ומידע על המטופל. מאחר וקבצי DICOM גדולים לעתים קרובות עקב סריקות ברזולוציה גבוהה, הדחיסה חיונית להעברה מהירה יותר, להפחתת עלויות אחסון ולטיפול יעיל במערכות בריאות.
+
+
+
+ממשקי Python מאפשרים דחיסת DICOM אוטומטית, כולל שיטות אובדן ואובדן מבוקר, ומבטיחים שתהליכי עבודה בתחום התמונה הרפואית יישארו קלים להתפשט, אמינים ועומדים בתקנים קליניים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **אופטימיזצית אחסון תמונות רפואיות**  
+
+&nbsp; דחיסת קבצי DICOM מפחיתה את העומס על מערכות PACS וארכיונים לטווח ארוך.
+
+
+
+* **העברת תמונות מהירה יותר**  
+
+&nbsp; קבצים קטנים משפרים את מהירות ההעברה בין בתי חולים, מרכזי תמונות ומערכות עננים.
+
+
+
+* **צינורות מחקר ונתונים**  
+
+&nbsp; קבוצות נתונים דחוסות מקלות על אימון מודלי AI ועיבוד תמונה רפואית בגדלים גדולים.
+
+
+
+* **תהליכי עבודה בטלרפורטציה**  
+
+&nbsp; דחיסה מאפשרת משלוח מהיר יותר של תמונות אבחנה לספקי רפואה מרחוק.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **דחיסת סדרות של תמונות אבחנה**  
+
+&nbsp; אוטומציה שמקטינה את הגודל של ספריות MRI, CT וקרני רנטגן גדולות.
+
+
+
+* **בחירת אובדן דינמית/אובדן מבוקר**  
+
+&nbsp; אוטומציה בוחרת סוג דחיסה בהתאם למודליות, רזולוציה או דרישות קליניות.
+
+
+
+* **אופטימיזציה משולבת בתהליכי עבודה**  
+
+&nbsp; דוחסת קבצי DICOM במהלך כניסתם למערכות PACS, RIS או עננים לתמונה.
+
+
+
+* **דחיסת מטא-נתונים שמשמרת**  
+
+&nbsp; תהליכים אוטומטיים ששומרים על כל התגיות רפואיות וזיהויים בזמן שמקטינים את גודל הקובץ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

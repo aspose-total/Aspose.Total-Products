@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+HTML sıkıştırma, kodu minify ederek, boşlukları, yorumları ve gereksiz etiketleri kaldırarak dosya boyutunu azaltır. Sıkıştırılmış HTML, web sitesi yükleme sürelerini iyileştirir, bant genişliği kullanımını azaltır ve web uygulama performansını artırır.
+
+
+
+Python API'leri, otomatik HTML sıkıştırma, toplu işleme ve web dağıtım boru hatlarıyla entegrasyonu sağlayarak web siteleri ve uygulamaların ölçeklenebilir optimizasyonunu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Web Sayfası Optimizasyonu**  
+
+&nbsp; Daha küçük HTML dosyaları sayfa yükleme hızını ve duyarlılığını artırır.
+
+
+
+* **Statik Site Oluşturma**  
+
+&nbsp; Sıkıştırılmış HTML, site oluşturma ve dağıtım süreçlerini hızlandırır.
+
+
+
+* **Dijital Varlık Yönetimi**  
+
+&nbsp; Minify edilmiş HTML, büyük web depoları için depolama gereksinimlerini azaltır.
+
+
+
+* **Çapraz Platform Teslimatı**  
+
+&nbsp; Optimize edilmiş HTML, cihazlar ve tarayıcılar arasında render performansını artırır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu HTML Sıkıştırma**  
+
+&nbsp; Birden fazla HTML dosyasının sıkıştırılmasını otomatikleştirin.
+
+
+
+* **Boşluk ve Yorum Kaldırma**  
+
+&nbsp; İşlevselliği değiştirmeden kodu otomatik olarak temizleyin.
+
+
+
+* **Pipelne Entegrasyonu**  
+
+&nbsp; HTML dosyalarını CI/CD veya içerik alımı iş akışları sırasında sıkıştırın.
+
+
+
+* **Dinamik Optimizasyon**  
+
+&nbsp; Proje veya ortam gereksinimlerine göre minify kurallarını ayarlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

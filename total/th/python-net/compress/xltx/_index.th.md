@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ไฟล์ XLTX (เทมเพลต Excel ทันสมัย) มีประโยชน์จากการบีบอัดเพื่อการจัดเก็บและแบ่งปันอย่างเหมาะสม ทำให้รักษาการจัดรูปแบบและสูตรไว้ได้
+
+
+
+Python APIs ช่วยให้การบีบอัด XLTX อัตโนมัติเพิ่มประสิทธิภาพของการทำงานและการผสานระบบจัดการเอกสาร
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **การปรับปรุงการจัดเก็บเทมเพลต**  
+
+&nbsp; บีบอัดเทมเพลต XLTX ในขณะที่รักษาความสามารถทั้งหมด
+
+
+
+* **การแบ่งปันเทมเพลตอย่างรวดเร็ว**  
+
+&nbsp; ไฟล์ขนาดเล็กช่วยให้การกระจายและการทำงานร่วมกันเร็วขึ้น
+
+
+
+* **การเก็บข้อมูลโดยอัตโนมัติ**  
+
+&nbsp; การบีบอัดทำให้การจัดการการจัดเก็บในระยะยาวง่ายขึ้น
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **การบีบอัด XLTX แบบกลุ่ม**  
+
+&nbsp; สคริปต์ Python ช่วยให้การบีบอัดเทมเพลตหลายรูปแบบอัตโนมัติ
+
+
+
+* **การผสานกับระบบการทำงาน**  
+
+&nbsp; เทมเพลตที่ถูกบีบอัดสามารถโหลดเข้าสู่ท่อทางอัตโนมัติได้
+
+
+
+* **การบีบอัดอัจฉริยะ**  
+
+&nbsp; กฎเงื่อนไขช่วยให้เลือกเป้าหมายเทมเพลตที่มีชุดข้อมูลขนาดใหญ่หรือมีสื่อฝังอยู่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

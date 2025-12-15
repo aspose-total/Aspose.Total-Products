@@ -78,7 +78,87 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/zip
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A compressão MHTML otimiza arquivos de arquivo da web contendo HTML, imagens, CSS e scripts. Arquivos MHTML comprimidos melhoram o armazenamento, a velocidade de transmissão e a acessibilidade offline do conteúdo da web.
+
+
+
+As APIs do Python permitem a compressão automatizada de MHTML, o processamento em lote e a integração com pipelines de arquivamento ou publicação para gerenciamento escalável de conteúdo da web.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Armazenamento Offline de Páginas da Web**  
+
+  &nbsp; Reduza a pegada de armazenamento para páginas da web arquivadas.
+
+
+
+* **Compartilhamento e Distribuição Eficientes**  
+
+  &nbsp; Arquivos MHTML menores transferem mais rapidamente pela rede.
+
+
+
+* **Arquivamento Digital**  
+
+  &nbsp; Arquivos comprimidos facilitam o armazenamento de longo prazo de conteúdo da web.
+
+
+
+* **Sistemas de Gerenciamento de Conteúdo**  
+
+  &nbsp; Arquivos MHTML otimizados melhoram o desempenho do fluxo de trabalho em plataformas de CMS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de MHTML**  
+
+  &nbsp; Automatize a otimização de vários arquivos de arquivo da web.
+
+
+
+* **Otimização de Ativos Incorporados**  
+
+  &nbsp; Comprima imagens, scripts e estilos dentro do arquivo automaticamente.
+
+
+
+* **Integração de Pipeline**  
+
+  &nbsp; Comprima arquivos MHTML ao serem inseridos em sistemas DAM, CMS ou em nuvem.
+
+
+
+* **Níveis de Compressão Dinâmicos**  
+
+  &nbsp; Ajuste com base no tamanho da página, conteúdo de mídia e necessidades de arquivamento.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

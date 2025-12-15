@@ -78,7 +78,87 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compression OTT se concentre sur les fichiers de modèle de texte OpenDocument, optimisant la mise en page, les styles et les médias intégrés pour réduire la taille du fichier. Les fichiers OTT compressés améliorent le stockage, la vitesse de transfert et l'efficacité du flux de travail pour la création de documents basée sur des modèles.
+
+
+
+Les API Python permettent la compression automatique des fichiers OTT, le traitement par lots et l'intégration avec les systèmes d'automatisation des documents pour une gestion évolutive des modèles.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Optimisation de la bibliothèque de modèles**  
+
+  &nbsp; Les fichiers OTT plus petits réduisent le stockage des grandes collections de modèles.
+
+
+
+* **Partage et collaboration efficaces**  
+
+  &nbsp; Les modèles compressés sont plus rapides à distribuer et à accéder.
+
+
+
+* **Intégration dans le flux de travail**  
+
+  &nbsp; Les fichiers OTT optimisés améliorent les performances dans les pipelines de génération de documents automatisés.
+
+
+
+* **Archivage et sauvegarde**  
+
+  &nbsp; Réduire l'empreinte de stockage pour les versions historiques des modèles.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Compression OTT par lots**  
+
+  &nbsp; Automatiser la réduction de taille pour plusieurs modèles.
+
+
+
+* **Optimisation des médias intégrés**  
+
+  &nbsp; Compresser automatiquement les images, objets et styles dans les modèles.
+
+
+
+* **Intégration avec les CMS/DAM**  
+
+  &nbsp; Compresser les fichiers OTT lors du téléchargement dans les systèmes de gestion de documents.
+
+
+
+* **Niveaux de compression dynamiques**  
+
+  &nbsp; Ajuster l'optimisation en fonction de la complexité du contenu et du contexte d'utilisation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

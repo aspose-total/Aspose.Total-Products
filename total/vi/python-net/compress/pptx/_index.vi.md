@@ -101,7 +101,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX, định dạng PowerPoint hiện đại, thường chứa ảnh có độ phân giải cao, biểu đồ và hoạt hình. Nén giảm kích thước tệp trong khi duy trì tính chất hình ảnh.
+
+
+
+Tự động hóa dựa trên Python giúp nén PPTX một cách có thể mở rộng, nâng cao khả năng hợp tác và tích hợp với các nền tảng đám mây hoặc hệ thống quản lý bài thuyết trình.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Lưu Trữ**  
+
+&nbsp; Nén các tệp PPTX mà không mất nội dung trang, hoạt hình hoặc phương tiện.
+
+
+
+* **Chia Sẻ Nhanh Hơn**  
+
+&nbsp; Tệp PPTX nhỏ giúp phân phối qua email hoặc đám mây một cách nhanh chóng.
+
+
+
+* **Lưu Trữ Hiệu Quả**  
+
+&nbsp; Nén tự động hỗ trợ lưu trữ dài hạn của các bài thuyết trình lớn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Đồng Thời Nhiều Tệp PPTX**  
+
+&nbsp; Kịch bản Python có thể nén nhiều bài thuyết trình hiện đại cùng một lúc.
+
+
+
+* **Tích Hợp với Công Cụ Hợp Tác**  
+
+&nbsp; Các tệp PPTX đã được nén có thể được tải động vào các luồng công việc tự động.
+
+
+
+* **Quy Tắc Nén Thông Minh**  
+
+&nbsp; Tự động hóa điều kiện nhắm vào các tệp chứa phương tiện có độ phân giải cao.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

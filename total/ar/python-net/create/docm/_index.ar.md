@@ -43,9 +43,81 @@ informat: DOCM
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM — تدعم ملفات `.docm` الماكرو المضمنة وهي مثالية عندما يجب أن تتضمن المستندات سلوكًا قابلا للبرمجة؛ يمكن لواجهات برمجة Python إنشاء مستندات تحتوي على ماكروهات عن طريق تجميع محتوى OOXML وإرفاق مشاريع VBA موقعة أو غير موقعة عن طريق الأتمتة. إنشاء برمجي يضمن تعبئة الماكروهات بشكل متسق ويمكن التحقق منها أو توقيعها كجزء من البناء.
+
+
+
+استخدام DOCM مناسب عندما يجب أن تكون منطق العمل (حقول مخصصة، أزرار تصدير، أو ماكروهات لجمع البيانات) داخل المستند؛ تتيح الأتمتة إدراج محتويات الماكرو، واختبارها، والتحكم فيها لتلبية فحوص الأمان والامتثال.
+
+
+
+يمكن للاختبارات التلقائية وعمليات CI ضمان سلامة كود الماكرو وتوقيع الماكروهات قبل التوزيع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **أتمتة مضمنة في المستند**
+
+&nbsp; قم بتوزيع ملفات DOCM التي تشغل ماكروهات معتمدة لالتقاط البيانات المنظمة أو التحويلات المحلية.
+
+
+
+* **نشر الماكرو بشكل مراقب**
+
+&nbsp; أدرج وحدات VBA المدققة في المستندات أثناء وقت البناء لسلوك الماكرو المنظم.
+
+
+
+* **قوالب تدعم الماكرو**
+
+&nbsp; استخدم قوالب DOTM كمصادر لإنشاء مستندات DOCM مع أتمتة مُعدة مسبقًا.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **التحقق من CI للماكروهات**
+
+&nbsp; قم بتشغيل تحليل ثابت على كود VBA تلقائيًا ومنع البناء في حالة انتهاكات السياسات.
+
+
+
+* **التوقيع والتعبئة**
+
+&nbsp; أتمت توقيع الماكروهات رقميًا وتعبئة ملفات DOCM للتوزيع الآمن.
+
+
+
+* **حقن الماكرو من مستودعات آمنة**
+
+&nbsp; اسحب مقاطع VBA المعتمدة من مستودع آمن وضمها في ملفات DOCM المُنشأة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

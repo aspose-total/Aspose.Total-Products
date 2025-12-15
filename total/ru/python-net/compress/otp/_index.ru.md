@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие OTP уменьшает размер файлов шаблонов OpenDocument, используемых для текстовых документов. Оптимизация OTP повышает эффективность хранения, ускоряет распространение и повышает производительность рабочего процесса при создании документов на основе шаблонов.
+
+
+
+Python API позволяют автоматизировать сжатие OTP, пакетную обработку и управление шаблонами для масштабируемых рабочих процессов автоматизации документов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* **Оптимизация шаблонов**  
+
+&nbsp; Сокращение объема хранения для больших библиотек шаблонов.
+
+
+
+* **Быстрое совместное использование и сотрудничество**  
+
+&nbsp; Меньшие файлы OTP быстро передаются между командами и сетями.
+
+
+
+* **Эффективность рабочего процесса**  
+
+&nbsp; Сжатые шаблоны улучшают скорость загрузки и редактирования.
+
+
+
+* **Архивирование и резервное копирование**  
+
+&nbsp; Эффективное хранение для долгосрочного сохранения файлов шаблонов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие OTP**  
+
+&nbsp; Автоматизация уменьшения размера для нескольких шаблонов.
+
+
+
+* **Оптимизация контента и медиафайлов**  
+
+&nbsp; Автоматическое сжатие встроенных изображений или стилей.
+
+
+
+* **Интеграция в документальные конвейеры**  
+
+&nbsp; Файлы OTP сжимаются во время автоматизированного развертывания или хранения шаблонов.
+
+
+
+* **Динамические правила сжатия**  
+
+&nbsp; Настройка оптимизации на основе сложности шаблона или плотности содержимого.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

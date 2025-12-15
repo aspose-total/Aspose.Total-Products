@@ -78,7 +78,87 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresja DNG koncentruje się na optymalizacji plików obrazów RAW zarejestrowanych przez aparaty cyfrowe, zachowując jednocześnie maksymalną jakość obrazu. Ponieważ pliki DNG często zawierają dane z czujnika o wysokiej rozdzielczości, kompresja zmniejsza zapotrzebowanie na przechowywanie, przyspiesza transfer plików i poprawia wydajność przepływu pracy w fotografii i przetwarzaniu obrazów.
+
+
+
+Interfejsy API Pythona umożliwiają zautomatyzowaną kompresję DNG, przetwarzanie wsadowe i konwersję do innych formatów, umożliwiając skalowalne zarządzanie dużymi bibliotekami zdjęć i profesjonalnymi systemami obrazowania.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+
+
+
+* **Optymalizacja Archiwum Fotografa**  
+
+&nbsp; Kompresja plików DNG zmniejsza zapotrzebowanie na przechowywanie bez kompromitowania wierności obrazu RAW.
+
+
+
+* **Szybszy Transfer Obrazu**  
+
+&nbsp; Mniejsze pliki umożliwiają szybsze udostępnianie między aparatami, stanowiskami pracy i przechowywaniem w chmurze.
+
+
+
+* **Zarządzanie Aktywami Cyfrowymi**  
+
+&nbsp; Skompresowane biblioteki DNG są łatwiejsze do zorganizowania, wyszukiwania i odzyskiwania.
+
+
+
+* **Przepływy Przetwarzania Pooperacyjnego**  
+
+&nbsp; Umożliwia szybsze wczytywanie plików RAW do edycji obrazów i przepływów pracy z użyciem sztucznej inteligencji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Kompresja DNG Wsadowa**  
+
+&nbsp; Zautomatyzuj optymalizację wielu plików obrazów RAW zbiorczo.
+
+
+
+* **Dynamiczna Kompresja w Zależności od Rozdzielczości**  
+
+&nbsp; Przepływy pracy w Pythonie mogą dostosowywać poziomy kompresji w zależności od rozmiaru czujnika lub wymiarów obrazu.
+
+
+
+* **Automatyczna Konwersja Formatu**  
+
+&nbsp; Konwertuj DNG na TIFF, JPEG lub WebP, stosując kompresję automatycznie.
+
+
+
+* **Integracja z Systemami DAM**  
+
+&nbsp; Kompresuj obrazy DNG podczas przesyłania w celu zoptymalizowanego przechowywania i szybszego przetwarzania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

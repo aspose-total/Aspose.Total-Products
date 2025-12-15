@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi XPS (XML Paper Specification) mengurangi ukuran dokumen tata letak tetap sambil mempertahankan kualitas, grafik vektor, dan font yang disematkan. File XPS yang terkompresi meningkatkan efisiensi penyimpanan, transmisi, dan kinerja rendering di berbagai perangkat.
+
+
+
+API Python memungkinkan kompresi XPS otomatis, pemrosesan batch, dan integrasi ke alur kerja dokumen untuk manajemen konten dan distribusi yang dapat diskalakan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Arsip Dokumen**  
+
+&nbsp; Kompres file XPS untuk penyimpanan jangka panjang tanpa kehilangan kualitas.
+
+
+
+* **Distribusi Efisien**  
+
+&nbsp; File XPS yang lebih kecil mentransfer lebih cepat melintasi jaringan atau perangkat.
+
+
+
+* **Alur Kerja Cetak & Penerbitan**  
+
+&nbsp; XPS yang dioptimalkan meningkatkan kecepatan rendering dan kinerja cetak.
+
+
+
+* **Perpustakaan Digital**  
+
+&nbsp; Kurangi jejak penyimpanan untuk koleksi dokumen tata letak tetap.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi XPS Batch**  
+
+&nbsp; Otomatisasikan pengurangan ukuran untuk beberapa file XPS.
+
+
+
+* **Optimisasi Aset Tersemat**  
+
+&nbsp; Kompres font, gambar, dan grafik secara otomatis.
+
+
+
+* **Integrasi Alur Kerja**  
+
+&nbsp; Kompres file XPS secara dinamis saat mengunggah ke CMS, DAM, atau alur kerja cetak.
+
+
+
+* **Tingkat Kompresi Dinamis**  
+
+&nbsp; Sesuaikan berdasarkan konten dokumen, resolusi, atau output yang dimaksud.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPS文件（PowerPoint Show）受益于压缩，以减少存储空间并在演示期间提高播放性能。
+
+
+
+Python API支持自动化PPS压缩，实现更快的共享和存储效率。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **显示文件优化**  
+
+&nbsp; 在不影响幻灯片内容或转换的情况下压缩PPS文件。
+
+
+
+* **更快的分发**  
+
+&nbsp; 更小的文件有助于快速共享和云端上传。
+
+
+
+* **存档效率**  
+
+&nbsp; 自动压缩支持长期存储展示文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量PPS压缩**  
+
+&nbsp; Python脚本可以自动压缩多个展示文件。
+
+
+
+* **与演示系统集成**  
+
+&nbsp; 压缩的PPS文件可以动态加载到自动化工作流程中。
+
+
+
+* **条件压缩**  
+
+&nbsp; 针对大型演示文稿或媒体丰富的文件进行压缩。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

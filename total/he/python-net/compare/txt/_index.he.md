@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+השוואת טקסט מאפשרת לראות שינויים ברמת השורות או ברמת התווים במסמכי טקסט פשוטים, מבטיחה ראיון מלא לשינויים ללא מורכבויות בעיצוב. חשובה ללוגים, סקריפטים ותיעוד פשוט.
+
+השוואת טקסט אוטומטית מספקת זיהוי מהיר וקליט של עדכונים במערכות גדולות של תוכן מבוסס טקסט.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **מעקב אחר הבדלים בקבצי לוג**  
+
+  &nbsp; מזהה רשומות חדשות או שינויים.
+
+
+
+* **סקירת קוד או סקריפט טקסט**  
+
+  &nbsp; מדגיש שינויים בסקריפטים פשוטים.
+
+
+
+* **בקרת גרסאות פשוטה של מסמך**  
+
+  &nbsp; תופס שינויים בשורות ביעילות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **השוואת טקסט בכמויות גדולות**  
+
+  &nbsp; מעבדת אלפי קבצים במהירות.
+
+
+
+* **צינון אוטומטי של צינונים**  
+
+  &nbsp; מפעיל זרימות עבודה כאשר מתרחשים שינויים.
+
+
+
+* **חילוץ הבדלים תכנותי**  
+
+  &nbsp; מייצר דוחות מובנים עבור מערכות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

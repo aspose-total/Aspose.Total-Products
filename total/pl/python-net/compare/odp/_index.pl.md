@@ -68,7 +68,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Porównanie ODP bada treść na poziomie slajdu, układy, formatowanie i osadzone media w prezentacjach w formacie otwartym. Wspiera dokładną ocenę materiałów komunikacyjnych wizualnych.
+
+
+
+Automatyzowane porównywanie ODP zwiększa skalowalność, umożliwiając szybką weryfikację w dużych bibliotekach prezentacji i współpracę w cyklach aktualizacji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Śledzenie zmian na slajdach**  
+
+&nbsp; Podkreśla aktualizacje w tekście, mediach i projekcie.
+
+
+
+* **Sprawdzanie spójności motywów**  
+
+&nbsp; Zapewnia, że zasady szablonu pozostają nietknięte.
+
+
+
+* **Ocena treści wizualnych**  
+
+&nbsp; Wykrywa przesunięcia układu lub treści między slajdami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Porównywanie wielu slajdów ODP zbiorczo**  
+
+&nbsp; Efektywne porównywanie prezentacji w skali.
+
+
+
+* **Automatyczne powiadomienia o zmianach na slajdach**  
+
+&nbsp; Sygnalizuje krytyczne aktualizacje programowo.
+
+
+
+* **Ciągła walidacja slajdów**  
+
+&nbsp; Integruje kontrole w proces tworzenia prezentacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сравнение TXT выделяет изменения на уровне строк или символов в документах обычного текста, обеспечивая полную видимость изменений без сложностей форматирования. Это необходимо для журналов, скриптов и простой документации.
+
+
+
+Автоматизированное сравнение TXT обеспечивает быстрое, масштабируемое обнаружение обновлений в больших наборах текстового контента.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Отслеживание различий в журнальных файлах**  
+
+&nbsp; Определяет новые записи или изменения.
+
+
+
+* **Проверка скриптов или кода**  
+
+&nbsp; Выделяет модификации в скриптах обычного текста.
+
+
+
+* **Управление ревизиями простых документов**  
+
+&nbsp; Эффективно фиксирует изменения строк.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Сравнение большого объема TXT**  
+
+&nbsp; Обрабатывает тысячи файлов быстро.
+
+
+
+* **Автоматизированные мониторинговые конвейеры**  
+
+&nbsp; Запускает рабочие процессы при возникновении изменений.
+
+
+
+* **Программное извлечение различий**  
+
+&nbsp; Генерирует структурированные отчеты для систем.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

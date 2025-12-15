@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+FODS（Flat OpenDocument Spreadsheet）文件通过压缩来减少存储空间，提高传输速度，同时保持与OpenDocument标准的兼容性。
+
+
+
+基于Python的自动化可以实现高效的压缩，以便于可扩展的工作流集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **标准化电子表格压缩**  
+
+  &nbsp; 在保持兼容性和结构的同时减小FODS文件大小。
+
+
+
+* **更快的共享**  
+
+  &nbsp; 压缩的FODS文件可以快速在各个平台之间共享。
+
+
+
+* **存档和备份效率**  
+
+  &nbsp; 自动压缩简化了开放文档格式的存储管理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量FODS压缩**  
+
+  &nbsp; Python脚本可以自动处理多个FODS文件。
+
+
+
+* **工作流集成**  
+
+  &nbsp; 压缩文件可以加载到自动化系统或云存储中。
+
+
+
+* **条件压缩**  
+
+  &nbsp; 针对大型或媒体密集的FODS文件进行优化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

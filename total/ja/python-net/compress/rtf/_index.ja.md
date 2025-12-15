@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF（リッチテキスト形式）ファイルは、複雑なフォーマットや埋め込みオブジェクトを含むときに大きくなることがあります。圧縮によりファイルサイズを縮小させ、クロスプラットフォームの互換性に影響を与えません。
+
+
+
+Python APIを使用すると、自動化されたRTF圧縮が可能になり、現代のシステムで文書の取り扱いが効率化されます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+
+
+* **クロスプラットフォームのストレージ最適化**
+
+&nbsp; 異なるOSやアプリケーション間で効率的に使用するためにRTFファイルを圧縮します。
+
+
+
+* **高速な共有**
+
+&nbsp; より小さなRTFファイルは、メールやクラウドでの配布を改善します。
+
+
+
+* **自動アーカイブ**
+
+&nbsp; バッチ圧縮により、遺産や大きなRTF文書のアーカイブが簡素化されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチRTF圧縮**
+
+&nbsp; Pythonスクリプトを使用して複数のRTF文書を自動的に処理します。
+
+
+
+* **文書ワークフローとの統合**
+
+&nbsp; 圧縮されたRTFファイルは、自動化されたワークフローやDMSシステムにロードできます。
+
+
+
+* **条件付き圧縮**
+
+&nbsp; 自動化は、サイズや埋め込まれたコンテンツに基づいてRTFファイルを対象にできます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

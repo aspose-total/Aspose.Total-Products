@@ -101,7 +101,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/sli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Os arquivos PPSM (Apresentação do PowerPoint habilitada para macros) exigem compressão que preserve macros, reduzindo o tamanho do arquivo para compartilhamento e armazenamento eficientes.
+
+
+
+A automação baseada em Python permite a compressão escalável de PPSM, mantendo a funcionalidade de macros.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Preservação de Macros**  
+
+  Comprima arquivos PPSM com segurança sem quebrar macros.
+
+
+
+* **Compartilhamento Mais Rápido**  
+
+  Arquivos menores possibilitam distribuição eficiente para equipes ou armazenamento em nuvem.
+
+
+
+* **Gerenciamento de Arquivamento**  
+
+  A compressão automatizada garante o armazenamento a longo prazo de arquivos de apresentação habilitados para macros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de PPSM**  
+
+  Scripts em Python podem processar automaticamente vários arquivos de apresentação habilitados para macros.
+
+
+
+* **Integração com Sistemas de Fluxo de Trabalho**  
+
+  Arquivos PPSM comprimidos podem ser usados em fluxos de trabalho de apresentação automatizados.
+
+
+
+* **Compressão Condicional**  
+
+  Segmentar arquivos com base no uso de macros ou mídia incorporada para otimização.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

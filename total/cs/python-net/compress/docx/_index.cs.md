@@ -100,7 +100,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX je moderní formát Wordu, široce používaný pro profesionální dokumenty. Kompresí se snižuje úložný prostor a zvyšuje rychlost přenosu, zachovává se formátování a vložené objekty.
+
+
+
+Pythonové API mohou automatizovat kompresi DOCX, umožňující škálovatelné, efektivní pracovní postupy s dokumenty a integraci s cloudovými systémy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizované úložiště**  
+
+&nbsp; Snížení velikosti souborů DOCX při zachování obsahu a designu.
+
+
+
+* **Rychlejší spolupráce**  
+
+&nbsp; Menší soubory usnadňují sdílení mezi týmy a platformami.
+
+
+
+* **Efektivita archivace**  
+
+&nbsp; Automatizovaná komprese pomáhá spravovat velké repozitáře dokumentů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese DOCX**  
+
+&nbsp; Pythonové skripty mohou komprimovat více souborů DOCX najednou.
+
+
+
+* **Integrace s systémy pro správu dokumentů**  
+
+&nbsp; Kompresované soubory DOCX lze účinně ukládat a získávat.
+
+
+
+* **Chytrá komprese**  
+
+&nbsp; Automatizace může cílit na soubory s vysokým multimediálním obsahem nebo velkým objemem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

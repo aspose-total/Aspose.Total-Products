@@ -78,7 +78,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén CGM tập trung vào việc giảm kích thước của đồ họa vector kỹ thuật thường được sử dụng trong kỹ thuật, hàng không vũ trụ và tài liệu khoa học. Vì tệp CGM có thể chứa biểu đồ phức tạp, bản vẽ 2D/3D và siêu dữ liệu, việc nén cải thiện hiệu suất xử lý trong khi bảo tồn độ chính xác cấu trúc.
+
+
+
+API Python cho phép tối ưu hóa tự động và chuyển đổi tệp CGM, hỗ trợ quy trình làm việc có thể mở rộng cho hệ thống tài liệu, đường ống CAD và kho lưu trữ đồ họa cấp doanh nghiệp.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Quản lý Tài Liệu Kỹ Thuật**  
+
+&nbsp; Nén tệp CGM cải thiện thời gian tải và giảm tiêu thụ lưu trữ.
+
+
+
+* **Tối Ưu Hóa Luồng Làm Việc Kỹ Thuật \& CAD**  
+
+&nbsp; Tài sản CGM nhỏ giúp tăng tốc độ xem xét, trao đổi và xử lý.
+
+
+
+* **Kho Lưu Trữ Đồ Họa Quy Mô Lớn**  
+
+&nbsp; Nén hiệu quả giữ cho thư viện minh họa khoa học hoặc công nghiệp nhẹ.
+
+
+
+* **Tương Thích Trên Nhiều Hệ Thống**  
+
+&nbsp; Các tệp CGM nén chuyển nhanh hơn giữa các nền tảng kỹ thuật và xuất bản.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén CGM Theo Lô**  
+
+&nbsp; Tự động hóa việc tối ưu hóa cho các bộ sưu tập lớn của biểu đồ kỹ thuật.
+
+
+
+* **Chuyển Đổi CGM với Nén**  
+
+&nbsp; Chuyển đổi CGM sang SVG, PDF hoặc PNG trong khi áp dụng quy tắc nén hiệu quả.
+
+
+
+* **Luồng Dữ Liệu Tự Động**  
+
+&nbsp; Nén tệp động khi tải lên các cổng quản lý tài liệu hoặc CAD.
+
+
+
+* **Logic Nén Dựa Trên Nội Dung**  
+
+&nbsp; Điều chỉnh nén dựa trên mật độ dòng, lớp hoặc siêu dữ liệu nhúng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -70,7 +70,75 @@ WORD 파일을 쉽게 비교하기 위해 Python 스크립트 또는 유틸리�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORD 문서 비교는 텍스트, 서식, 구조 및 포함된 요소를 다른 버전 간에 평가하여 수정 사항을 신뢰할 수 있게 추적합니다. 이는 콘텐츠 팀과 문서 작업 흐름을 지원합니다.
+
+
+
+자동 비교는 신뢰성을 향상시키고 협업을 개선하며 문서 관리 시스템 및 현대적인 자동화 파이프라인과 통합을 가능하게 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **개정 추적**  
+
+&nbsp; 문서 버전 간 업데이트를 강조합니다.
+
+
+
+* **템플릿 일관성 확인**  
+
+&nbsp; 구조와 서식이 일치하는지 확인합니다.
+
+
+
+* **규정 또는 기술 문서**  
+
+&nbsp; 정확도를 위한 중요한 변경 사항을 감지합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **대량 WORD 비교**  
+
+&nbsp; 대량 문서 세트를 자동으로 처리합니다.
+
+
+
+* **작업 흐름 통합 검증**  
+
+&nbsp; 편집 파이프라인에 자동 검사를 추가합니다.
+
+
+
+* **자동 변경 요약**  
+
+&nbsp; 구조화된 보고서를 프로그래밍적으로 생성합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

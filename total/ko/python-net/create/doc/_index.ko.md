@@ -43,9 +43,79 @@ informat: DOC
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOC — Python API를 통해 `.doc` (레거시 이진 Word) 파일을 생성하면 이전 시스템에 대한 자동화가 가능해지며 레거시 도구 체인과의 호환성을 유지할 수 있습니다. 전형적인 Python 접근 방식은 바이너리 구조를 조립할 수 있는 라이브러리를 활용하거나 Windows의 COM 자동화를 사용하여 프로그래밍적 콘텐츠로부터 클래식한 바이너리 문서를 내보내거나 저장합니다.
+
+
+
+DOC 스크립팅은 역 호환성이 필요한 경우 유용합니다. 생성된 문서에는 구조화된 텍스트, 기본 스타일링, 헤더/풋터, 그리고 지원되는 경우 임베디드 객체가 포함될 수 있습니다.
+
+자동화를 통해 현대적인 소스 (마크다운, HTML, DOCX)를 수용하고 `.doc`을 생성하여 보관이나 레거시 응용 프로그램과의 통합을 위한 변환 파이프라인을 구축할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **레거시 시스템 통합**
+
+&nbsp; 이진 형식이 필요한 이전 기업 소프트웨어를 위해 .doc 파일을 생성합니다.
+
+
+
+* **아카이브 내보내기**
+
+&nbsp; 레거시 정책에서 필요로 하는 경우 현대적인 문서를 .doc으로 변환하여 장기 보관합니다.
+
+
+
+* **이전 도구와의 상호 운용성**
+
+&nbsp; 이전 메일 병합이나 인쇄 시스템과의 호환성을 보장하기 위해 .doc 출력물을 생성합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동 형식 변환**
+
+&nbsp; 호환성 테스트를 위해 예약된 작업에서 DOCX를 DOC로 일괄 변환합니다.
+
+
+
+* **템플릿에서 스크립트된 내보내기**
+
+&nbsp; 최종 문서를 .doc으로 저장하는 템플릿 기반 생성을 사용하여 후속 프로세스에 대비합니다.
+
+
+
+* **ETL 파이프라인 통합**
+
+&nbsp; 레거시 사용자를 위해 문서를 준비하는 ETL 작업에 DOC 생성을 통합합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

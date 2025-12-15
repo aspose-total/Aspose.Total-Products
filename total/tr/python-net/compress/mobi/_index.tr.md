@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI sıkıştırması, Kindle uyumlu e-kitap dosyalarını optimize ederek depolama alanını azaltır ve indirme hızlarını artırır. Sıkıştırılmış MOBI dosyaları, gelişmiş e-okuyucu performansı için içerik yapısını ve okunabilirliği korur.
+
+
+
+Python API'leri, ölçeklenebilir e-kitap yönetimi ve dağıtım iş akışları için otomatik MOBI sıkıştırması, toplu işleme ve meta veri optimizasyonunu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Kindle E-kitap Dağıtımı**  
+
+&nbsp; Daha küçük MOBI dosyaları hızlı indirmelere ve sorunsuz okuma deneyimine olanak tanır.
+
+
+
+* **Dijital Kütüphane Optimizasyonu**  
+
+&nbsp; Sıkıştırılmış MOBI, büyük e-kitap koleksiyonları için depolamayı azaltır.
+
+
+
+* **İçerik Paylaşımı ve Arşivleme**  
+
+&nbsp; Verimli dosyalar dijital yayınların dağıtımını ve yedeklenmesini kolaylaştırır.
+
+
+
+* **Cihaz Uyumluluğu**  
+
+&nbsp; Optimize edilmiş MOBI, Kindle cihazları ve uygulamaları arasında sorunsuz bir şekilde görüntülenir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu MOBI Sıkıştırma**  
+
+&nbsp; Birden fazla Kindle e-kitabı için optimizasyonu otomatikleştirin.
+
+
+
+* **Meta Veri ve Görüntü Optimizasyonu**  
+
+&nbsp; Gereksiz meta verileri kaldırın ve gömülü görüntüleri otomatik olarak sıkıştırın.
+
+
+
+* **İş Akışı Entegrasyonu**  
+
+&nbsp; E-kitapların platformlara veya kütüphanelere alınması sırasında MOBI dosyalarını sıkıştırın.
+
+
+
+* **Dinamik Sıkıştırma Seviyeleri**  
+
+&nbsp; İçerik türüne ve cihaz gereksinimlerine göre dosya boyutunu ve kalitesini ayarlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

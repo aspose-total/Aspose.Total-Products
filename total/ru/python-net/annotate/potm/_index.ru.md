@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Аннотация POTM улучшает макро-возможности шаблонов презентаций путем добавления заметок, которые поясняют логику слайдов, инструкции по макету и поведение макросов. Это повышает удобство использования шаблона и обеспечивает последовательное создание презентаций.
+
+Автоматизация аннотации POTM упрощает отслеживание использования макросов, обеспечивает соблюдение политики макета и программное обновление руководства.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Заметки о логике макросов**  
+
+  Описывают автоматизированные функции слайдов.
+
+* **Руководство по шаблону**  
+
+  Предоставляют инструкции для содержания слайдов.
+
+* **Маркеры согласованного дизайна**  
+
+  Выделяют необходимые элементы макета.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Сканирование и аннотация макросов**  
+
+  Автоматическое документирование обнаруженных сценариев.
+
+* **Массовое обслуживание шаблонов**  
+
+  Автоматическое применение обновленного текста руководства.
+
+* **Автоматическая проверка макета**  
+
+  Программное обозначение несоответствующих слайдов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

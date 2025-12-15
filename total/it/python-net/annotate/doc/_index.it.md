@@ -75,7 +75,65 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'annotazione DOC si concentra sull'aggiunta di commenti, evidenziazioni e metadati strutturati ai documenti Word legacy, migliorando la leggibilità e consentendo ai team di catturare il contesto all'interno dei formati di file più datati. Questo processo aiuta a preservare l'integrità del documento garantendo che le informazioni siano facili da interpretare e modificare.
+
+Integrare l'annotazione DOC nei flussi di lavoro moderni migliora la compatibilità e consente ai sistemi automatizzati di estrarre, indicizzare e aggiornare i contenuti in modo più efficiente.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Revisione dei contenuti e feedback**  
+
+&nbsp; Aggiungi commenti o evidenziazioni per segnalare modifiche importanti o chiarificazioni.
+
+* **Arricchimento dei metadati**  
+
+&nbsp; Inserisci note strutturate per la categorizzazione e il recupero.
+
+* **Pulizia del documento**  
+
+&nbsp; Identifica sezioni obsolete o non pertinenti da revisionare.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Pipeline di annotazione batch**  
+
+&nbsp; Automatizza l'aggiunta di commenti su più file DOC.
+
+* **Controlli di qualità automatizzati**  
+
+&nbsp; Segnala sezioni mancanti o incongruenze di formattazione in modo programmato.
+
+* **Evidenziazioni basate sul flusso di lavoro**  
+
+&nbsp; Applica annotazioni basate su regole attivate dal contenuto del documento.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تركز ضغط XSL-FO على تقليل حجم ملفات Extensible Stylesheet Language Formatting Objects، التي تحدد تخطيط الصفحة والتنسيق لمستندات XML. يحسن تحسين XSL-FO معالجة البيانات وسرعة العرض وكفاءة التخزين في سير العمل الخاصة بإنشاء المستندات.
+
+
+
+تسمح واجهات برمجة التطبيقات في Python بضغط XSL-FO تلقائيًا، ومعالجة دفعية، والتكامل مع خطوط الإنتاج الخاصة بملفات PDF أو الطباعة لحلول تقديم المستندات بشكل قابل للتوسيع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين عملية تقديم المستندات**  
+
+&nbsp; تسرع ملفات XSL-FO المضغوطة عملية إنشاء ملفات PDF وسير العمل الخاصة بالطباعة.
+
+
+
+* **إدارة المستندات بمقياس كبير**  
+
+&nbsp; يقلل من التخزين للمحتوى المنسق على نطاق واسع.
+
+
+
+* **الأرشفة والنسخ الاحتياطي**  
+
+&nbsp; يصبح من الأسهل تخزين ملفات XSL-FO المحسنة للحفاظ عليها لفترة طويلة.
+
+
+
+* **تكامل سير العمل**  
+
+&nbsp; يحسن الكفاءة في خطوط الإنتاج التلقائي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط ملفات XSL-FO دفعيًا**  
+
+&nbsp; أتمتة تقليل الحجم لعدة ملفات تنسيق.
+
+
+
+* **إزالة المسافات البيضاء والتكرار**  
+
+&nbsp; قم بإزالة التعليمات الخاصة بالتنسيق غير الضرورية تلقائيًا.
+
+
+
+* **التكامل مع خطوط الإنتاج التلقائي**  
+
+&nbsp; ضغط الملفات قبل إنشاء ملفات PDF أو الطباعة.
+
+
+
+* **تحسين ديناميكي**  
+
+&nbsp; ضبط مستويات الضغط استنادًا إلى تعقيد المستند أو عدد الصفحات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

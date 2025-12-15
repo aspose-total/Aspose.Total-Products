@@ -78,7 +78,75 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Los archivos de plantilla XLT se benefician de la compresión para reducir el almacenamiento y mejorar la distribución sin alterar la estructura de la plantilla.
+
+
+
+Las APIs de Python permiten la compresión automatizada de plantillas XLT para una gestión de plantillas escalable.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Optimización del Almacenamiento de Plantillas**  
+
+&nbsp; Comprimir archivos XLT preservando el formato y las fórmulas.
+
+
+
+* **Compartir Plantillas más Rápidamente**  
+
+&nbsp; Los tamaños de archivo reducidos permiten una distribución rápida a los equipos.
+
+
+
+* **Archivado Automatizado**  
+
+&nbsp; Las plantillas comprimidas simplifican la gestión de almacenamiento a largo plazo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Compresión de Plantillas por Lotes**  
+
+&nbsp; Automatizar el procesamiento de múltiples archivos XLT utilizando scripts de Python.
+
+
+
+* **Integración con Sistemas de Flujo de Trabajo**  
+
+&nbsp; Las plantillas comprimidas se pueden cargar dinámicamente en flujos de trabajo automatizados.
+
+
+
+* **Compresión Condicional**  
+
+&nbsp; La automatización puede dirigirse a plantillas con conjuntos de datos grandes o fórmulas complejas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

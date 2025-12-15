@@ -75,7 +75,65 @@ Weitere Einzelheiten finden Sie unter [Produktdokumentation](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die DOCM-Kennzeichnung ermöglicht das Hinzufügen von Notizen, Markierungen und Metadaten zu makrofähigen Word-Dokumenten und unterstützt Workflows, die dynamisches Skripting oder eingebettete Automatisierung erfordern. Dies hilft Benutzern, die Logik zu dokumentieren, Änderungen nachzuverfolgen und Klarheit über das Verhalten von Makros zu schaffen.
+
+Durch die programmgesteuerte Annotation von DOCM-Dateien können Automatisierungssysteme die Makronutzung überwachen, die Konsistenz der Dokumentation verbessern und Validierungsprozesse optimieren.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Makro-Dokumentation**  
+
+&nbsp; Makrogesteuerte Aktionen im Dokument beschriften und beschreiben.
+
+* **Compliance-Verfolgung**  
+
+&nbsp; Notizen hinzufügen, die erforderliche Skripte oder Validierungen bestätigen.
+
+* **Änderungsprotokollierung**  
+
+&nbsp; Makrobezogene Updates hervorheben, um die Sichtbarkeit zu erhöhen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Makro scannen und annotieren**  
+
+&nbsp; Automatisch Kommentare einfügen, die erkannte Makrofunktionen beschreiben.
+
+* **Dynamische Compliance-Berichte**  
+
+&nbsp; Annotationen einfügen, wenn Makros bestimmte Prüfungen bestehen oder nicht bestehen.
+
+* **Skriptbasierte Überprüfungstools**  
+
+&nbsp; Python verwenden, um strukturierte Annotationen im großen Maßstab anzuwenden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

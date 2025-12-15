@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSL-FO sıkıştırması, XML belgeleri için sayfa düzenini ve biçimlendirmeyi tanımlayan Extensible Stylesheet Language Formatting Objects dosyalarının boyutunu azaltmaya odaklanır. XSL-FO'nun optimize edilmesi, belge oluşturma iş akışlarında işleme, render hızı ve depolama verimliliğini artırır.
+
+
+
+Python API'leri otomatik XSL-FO sıkıştırmasına, toplu işlemeye ve ölçeklenebilir belge render çözümleri için PDF veya baskı akışlarıyla entegrasyona olanak tanır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Belge Render Optimizasyonu**  
+
+&nbsp; Sıkıştırılmış XSL-FO dosyaları PDF oluşturma ve baskı iş akışlarını hızlandırır.
+
+
+
+* **Büyük Ölçekli Belge Yönetimi**  
+
+&nbsp; Yüksek hacimli biçimlendirilmiş içerik için depolamayı azaltır.
+
+
+
+* **Arşivleme ve Yedekleme**  
+
+&nbsp; Optimize edilmiş XSL-FO dosyaları uzun vadeli saklama için daha kolaydır.
+
+
+
+* **İş Akışı Entegrasyonu**  
+
+&nbsp; Otomatik yayınlama akışlarında verimliliği artırır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu XSL-FO Sıkıştırma**  
+
+&nbsp; Birden fazla biçimlendirme dosyası için boyut azaltımını otomatikleştirin.
+
+
+
+* **Boşluk ve Gereksizlik Kaldırma**  
+
+&nbsp; Gereksiz biçimlendirme talimatlarını otomatik olarak kaldırın.
+
+
+
+* **Render Akışlarıyla Entegrasyon**  
+
+&nbsp; PDF veya baskı çıktıları oluşturmadan önce dosyaları sıkıştırın.
+
+
+
+* **Dinamik Optimizasyon**  
+
+&nbsp; Belge karmaşıklığına veya sayfa sayısına bağlı olarak sıkıştırma seviyelerini ayarlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

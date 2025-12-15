@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese TXT se zaměřuje na snížení velikosti souborů s čistým textem odstraněním redundancí bez ztráty obsahu. To je důležité pro účinnost ukládání, rychlejší přenos a optimalizované zpracování v automatizaci a datových potrubích.
+
+
+
+Pythonové API umožňují automatizovanou kompresi TXT, zpracování dávek a archivační pracovní postupy, podporující škálovatelné zpracování logů, skriptů, konfiguračních souborů a velkých textových datových sad.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Správa logovacích souborů**  
+
+&nbsp; Kompresujte velké logovací soubory pro úsporu místa na úložišti a zlepšení získávání.
+
+
+
+* **Archivace dat**  
+
+&nbsp; Snížení velikosti souborů s čistým textem pro dlouhodobé ukládání.
+
+
+
+* **Ukládání konfigurací a skriptů**  
+
+&nbsp; Kompresované soubory TXT zefektivňují automatizované nasazení a zálohy.
+
+
+
+* **Distribuce obsahu založená na textu**  
+
+&nbsp; Menší soubory jsou rychlejší při přenosu po sítích nebo v cloudových systémech.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Dávková komprese TXT**  
+
+&nbsp; Automatizujte kompresi pro více souborů s čistým textem.
+
+
+
+* **Integrace do potrubí**  
+
+&nbsp; Kompresujte TXT automaticky během vkládání do datových systémů nebo archivů.
+
+
+
+* **Dynamická komprese na základě velikosti**  
+
+&nbsp; Použijte silnější kompresi na větší soubory a menší soubory nechte nedotčené.
+
+
+
+* **Konverze formátu a komprese**  
+
+&nbsp; Převeďte TXT na komprimované archivy (ZIP, GZ) jako součást automatizovaných pracovních postupů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

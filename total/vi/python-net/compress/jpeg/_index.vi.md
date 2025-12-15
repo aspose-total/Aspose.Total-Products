@@ -100,7 +100,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Imaging for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén JPEG (JPG) giảm kích thước của hình ảnh raster độ phân giải cao trong khi duy trì chất lượng hình ảnh chấp nhận được. Tối ưu hóa này là cần thiết cho nội dung web, nhiếp ảnh và quy trình làm việc đa phương tiện nơi kích thước tệp, tốc độ truyền và hiệu suất lưu trữ đóng vai trò quan trọng.
+
+
+
+API Python cho phép nén JPEG tự động, xử lý hàng loạt và điều chỉnh chất lượng động, hỗ trợ quản lý có khả năng mở rộng của thư viện hình ảnh lớn và tích hợp vào web, đám mây và đường ống phân phối nội dung.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hiệu Suất Web**  
+
+&nbsp; JPEG được nén cải thiện thời gian tải trang và giảm tiêu thụ băng thông.
+
+
+
+* **Nhiếp Ảnh & Quản Lý Tài Nguyên Số**  
+
+&nbsp; Duy trì chất lượng hình ảnh trong khi giảm kích thước tệp đáng kể để lưu trữ và chia sẻ.
+
+
+
+* **Mạng Xã Hội & Tài Sản Tiếp Thị**  
+
+&nbsp; JPEG được tối ưu hóa đảm bảo tải lên và hiển thị nhanh hơn trên các nền tảng.
+
+
+
+* **Hiệu Suất Lưu Trữ & Sao Lưu**  
+
+&nbsp; Thư viện ảnh lớn được lưu trữ hiệu quả hơn với sự mất mát chất lượng tối thiểu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén JPEG Hàng Loạt**  
+
+&nbsp; Kịch bản Python tự động nén nhiều tệp JPEG hàng loạt.
+
+
+
+* **Kiểm Soát Chất Lượng Động**  
+
+&nbsp; Cấp độ nén có thể được điều chỉnh dựa trên độ phân giải, việc sử dụng hoặc nền tảng mục tiêu.
+
+
+
+* **Tích Hợp Luồng Làm Việc Tự Động**  
+
+&nbsp; JPEG có thể được nén khi tải lên DAMs, CMS hoặc lưu trữ đám mây.
+
+
+
+* **Chuyển Đổi Định Dạng với Nén**  
+
+&nbsp; Hình ảnh PNG hoặc TIFF có thể được chuyển đổi sang JPEG với tối ưu hóa tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

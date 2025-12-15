@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يقوم ضغط CMX بتقليل حجم رسوميات الفيكتور في تبادل العروض الأساسية من Corel Presentation Exchange، والتي تتضمن غالبًا رسوم توضيحية مفصلة وطبقات وملفات تعريف الألوان. يساعد تحسين ملفات CMX على تحسين الأداء في سير العمل التصميمي، ويسرع عملية المشاركة، ويقلل من متطلبات التخزين عبر البيئات الإبداعية والتقنية.
+
+
+
+تمكن واجهات برمجة التطبيقات باستخدام Python من ضغط CMX تلقائيًا وتحويلها، مما يضمن التعامل الفعال مع الأصول الرسومية الكبيرة على نطاق واسع لأنظمة النشر والطباعة وإدارة الرسومات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين مشروع التصميم**  
+
+&nbsp; يضغط رسوميات CMX المتعددة الطبقات لتبسيط التعامل مع الملفات وتقليل تأثير التخزين.
+
+
+
+* **أنابيب النشر والطباعة**  
+
+&nbsp; تسرع ملفات CMX الصغيرة عمليات التقديم والتحرير ونقل الملفات.
+
+
+
+* **إدارة مكتبة الأصول**  
+
+&nbsp; تحميل مجموعات CMX المحسنة بشكل أسرع داخل مستودعات الأصول الرقمية.
+
+
+
+* **تبادل متعدد الأنظمة**  
+
+&nbsp; تنقل ملفات CMX المضغوطة بكفاءة أكبر بين فرق التصميم أو التطبيقات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط CMX بالجملة**  
+
+&nbsp; يحسن تلقائيًا مجموعات كبيرة من رسوميات CMX باستخدام سير العمل في Python.
+
+
+
+* **تحويل CMX إلى تنسيق مضغوط**  
+
+&nbsp; تحويل CMX إلى SVG أو PDF أو PNG أو EPS مع تطبيق قواعد الضغط.
+
+
+
+* **تحسين التحميل التلقائي**  
+
+&nbsp; يمكن ضغط ملفات CMX على الفور عند استيعابها في أنظمة إدارة المستندات أو الأصول الرقمية.
+
+
+
+* **ضغط يفهم المحتوى**  
+
+&nbsp; يعدل شدة التحسين استنادًا إلى تعقيد الفيكتور أو المكونات المضمنة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

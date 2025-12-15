@@ -43,9 +43,81 @@ Untuk pengembang, siapa yang mencoba membuat file DOCX melalui aplikasi Python? 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX — `.docx` (OOXML) adalah standar modern untuk dokumen Word dan sangat cocok untuk otomatisasi berbasis Python. Perpustakaan memungkinkan pembuatan dan modifikasi paragraf, tabel, gambar, gaya, dan bagian XML kustom sambil mempertahankan struktur dan metadata OOXML.
+
+
+
+DOCX ideal untuk laporan berbasis template, dokumen dinamis, dan integrasi dengan layanan web karena format terbuka dan dukungan perpustakaan yang kuat. Otomatisasi memungkinkan generasi dokumen yang dapat diakses, ber gaya, dapat divalidasi, dan diberi versi.
+
+
+
+Alur kerja programatis membuatnya mudah untuk menyusun dokumen kompleks (tabel bertingkat, referensi, TOC) dari input terstruktur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pembuatan Laporan Berbasis Template**
+
+  Populate template DOCX dengan tabel dinamis, grafik, dan bagian kondisional.
+
+
+
+* **Komposisi Dokumen Otomatis**
+
+  Jalin bagian (pendahuluan, badan, lampiran) dari sumber konten modular menjadi satu DOCX.
+
+
+
+* **Dokumen Kaya Metadata**
+
+  Sematkan properti dokumen, XML kustom, dan metadata revisi untuk tata kelola.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pipeline Database-ke-Dokumen**
+
+  Hasilkan dokumen DOCX yang dipersonalisasi untuk setiap catatan database dalam pekerjaan otomatis.
+
+
+
+* **Penciptaan Dokumen yang Dipicu Webhook**
+
+  Buat dokumen DOCX sesuai permintaan melalui API HTTP yang dipicu oleh peristiwa eksternal.
+
+
+
+* **Pengecekan Aksesibilitas Otomatis**
+
+  Jalankan skrip validasi yang memverifikasi struktur judul dan teks alternatif untuk gambar selama pembuatan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

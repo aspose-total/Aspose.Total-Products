@@ -78,7 +78,41 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## DJVU-compressie
+
+DJVU-compressie verbetert de al efficiënte structuur van DjVu-bestanden, die vaak worden gebruikt voor gescande documenten, digitale boeken en archiefmateriaal. Het optimaliseren van DJVU-bestanden vermindert de grootte verder, verbetert de laadsnelheid en zorgt voor hoogwaardige weergave van tekst- en beeldrijke pagina's.
+
+Python-API's maken het mogelijk om DJVU-compressie te automatiseren, gescande lagen te optimaliseren en grote bibliotheken met gedigitaliseerde documenten te beheren met minimale opslagvereisten en hoge verwerkings-efficiëntie.
+
+## Belangrijkste Gebruiksscenario's
+
+- **Gedigitaliseerde Documentbibliotheken**
+  Comprimeert grote gescande archieven om ruimte te besparen en de toegangssnelheid te verbeteren.
+
+- **E-Book & Onderzoeksverspreiding**
+  Kleinere DJVU-bestanden laden sneller en worden efficiënter overgedragen op academische platforms.
+
+- **Optimalisatie van gescande afbeeldingen**
+  Verbetert de leesbaarheid en verkleint de bestandsgrootte zonder essentiële visuele details aan te tasten.
+
+- **Langdurige Archivering**
+  Biedt opslagefficiënte preservering voor historisch en referentiemateriaal.
+
+## Automatiseringsscenario's
+
+- **Bulk DJVU-compressie**
+  Verkleint automatisch bestandsgroottes voor verzamelingen gescande of gedigitaliseerde documenten.
+
+- **Optimalisatie met kennis van lagen**
+  Automatisering kan selectief voorgrondtekst, achtergrondstructuren of ingesloten afbeeldingen comprimeren.
+
+- **Workflow-Ingest-compressie**
+  DJVU-bestanden kunnen direct bij uploaden naar archieven of documentensystemen worden gecomprimeerd.
+
+- **Conversie + Compressiepijplijnen**
+  Converteer PDF of TIFF naar DJVU terwijl geautomatiseerde regels voor verkleining worden toegepast.
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

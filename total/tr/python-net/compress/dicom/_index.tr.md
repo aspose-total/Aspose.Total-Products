@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DICOM sıkıştırması, tanısal görüntüler, meta veriler ve hasta bilgileri içeren tıbbi görüntü dosyalarını optimize etmeye odaklanır. Yüksek çözünürlüklü taramalardan dolayı DICOM dosyaları genellikle büyük olduğundan, sıkıştırma, daha hızlı iletim, azaltılmış depolama maliyetleri ve sağlık sistemlerinde verimli işlem yapılabilmesi için hayati önem taşır.
+
+
+
+Python API'leri, otomatik DICOM sıkıştırmasını sağlar; kayıpsız ve kontrollü kayıplı yöntemler de dahil olmak üzere, tıbbi görüntüleme iş akışlarının ölçeklenebilir, güvenilir ve klinik standartlara uygun kalmasını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Tıbbi Görüntü Depolama Optimizasyonu**  
+
+&nbsp; DICOM dosyalarını sıkıştırmak, PACS sistemlerinde ve uzun vadeli arşivlerdeki yükü azaltır.
+
+
+
+* **Daha Hızlı Görüntü İletimi**  
+
+&nbsp; Daha küçük dosyalar, hastaneler, görüntüleme merkezleri ve bulut sistemleri arasındaki transfer hızını artırır.
+
+
+
+* **Araştırma ve Analitik İş Akışları**  
+
+&nbsp; Sıkıştırılmış veri kümeleri, yapay zeka model eğitimini ve büyük ölçekli tıbbi görüntü işleme süreçlerini kolaylaştırır.
+
+
+
+* **Uzaktan Tıp İş Akışları**  
+
+&nbsp; Sıkıştırma, tanısal görsellerin uzaktaki sağlık sağlayıcılarına daha hızlı iletilmesini sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Tanısal Görüntülerin Toplu Sıkıştırılması**  
+
+&nbsp; Büyük MRI, CT ve X-ışını kütüphaneleri için boyut azaltmayı otomatikleştirir.
+
+
+
+* **Dinamik Kayıpsız/Kayıplı Seçimi**  
+
+&nbsp; Otomasyon, sıkıştırma türünü modalite, çözünürlük veya klinik gereksinimlere göre seçer.
+
+
+
+* **İş Akışına Entegre Optimizasyon**  
+
+&nbsp; DICOM dosyalarını PACS, RIS veya bulut görüntüleme sistemlerine alınırken sıkıştırır.
+
+
+
+* **Meta Veri Korunmuş Sıkıştırma**  
+
+&nbsp; Otomatik süreçler, dosya boyutunu azaltırken tüm tıbbi etiketleri ve tanımlayıcıları korur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

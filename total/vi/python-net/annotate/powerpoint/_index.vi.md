@@ -75,7 +75,65 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POWERPOINT chú thích tăng cường tệp trình bày với nhận xét, làm nổi bật và ghi chú cụ thể cho từng slide, cải thiện sự rõ ràng trong quá trình cộng tác và xem xét nội dung. Các bản trình bày có chú thích dễ dàng cập nhật, tinh chỉnh và điều chỉnh với mục tiêu thông điệp.
+
+Tự động hóa cho phép chu kỳ xem xét nhanh chóng bằng cách thêm nhận xét có cấu trúc, phát hiện vấn đề bố trí và áp dụng quy tắc chú thích nhất quán trên các slide.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Phản Hồi Slide**  
+
+&nbsp; Thêm nhận xét của người xem để hướng dẫn cải thiện.
+
+* **Làm Nổi Bật Thiết Kế**  
+
+&nbsp; Đánh dấu các khu vực cần điều chỉnh về mặt hình ảnh hoặc cấu trúc.
+
+* **Ghi Chú Xác Thực Nội Dung**  
+
+&nbsp; Chèn nhận xét xác định thông tin thiếu hoặc không rõ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Chú Thích Slide Tổng Thể**  
+
+&nbsp; Tự động chèn ghi chú trên nhiều bản trình bày.
+
+* **Kiểm Tra Bố Cục Tự Động**  
+
+&nbsp; Đánh dấu các slide vi phạm quy tắc định dạng.
+
+* **Đánh Dấu Phát Hiện Từ Khóa**  
+
+&nbsp; Đánh dấu các thuật ngữ hoặc phần mục theo cách tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,69 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pliki XLTM (szablony z włączonymi makrami) wymagają kompresji, która zachowuje makra, jednocześnie zmniejszając rozmiar pliku i poprawiając dystrybucję.
+
+
+
+Automatyzacja oparta na Pythonie obsługuje skalowalną kompresję szablonów XLTM dla przepływów pracy przedsiębiorstwa.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Zachowanie Makr**  
+  &nbsp; Zachowaj makra podczas kompresowania szablonów XLTM.
+
+
+
+* **Efektywne Dzielenie**  
+  &nbsp; Mniejsze szablony ułatwiają współpracę między zespołami.
+
+
+
+* **Archiwizacja Szablonów**  
+  &nbsp; Zautomatyzowana kompresja poprawia przechowywanie szablonów na dłuższą metę.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Kompresja wsadowa XLTM**  
+  &nbsp; Skrypty Pythona mogą automatycznie przetwarzać wiele szablonów z makrami.
+
+
+
+* **Integracja z systemami BI i przepływami pracy**  
+  &nbsp; Skompresowane szablony XLTM mogą być używane w automatycznych procesach.
+
+
+
+* **Kompresja warunkowa**  
+  &nbsp; Kompresuj duże szablony lub te z osadzonymi multimedium.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

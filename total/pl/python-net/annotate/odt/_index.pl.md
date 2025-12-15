@@ -75,7 +75,65 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Oznaczenia ODT zapewniają strukturalne komentarze, wyróżnianie i notatki kontekstowe dla plików tekstowych w formacie open-document, poprawiając czytelność treści i współpracę nad dokumentami. To zwiększa użyteczność na platformach opartych na otwartych standardach.  
+
+Automatyczne oznaczenia ODT zwiększają efektywność poprzez stosowanie komentarzy opartych na regułach, skanowanie treści i programowe aktualizowanie metadanych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Notatki do edycji treści**  
+
+&nbsp; Wstaw uwagi do sekcji wymagających poprawy.
+
+* **Wyróżnienia semantyczne**  
+
+&nbsp; Podkreśl ważne frazy lub kwestie.
+
+* **Metadane współpracy**  
+
+&nbsp; Dodaj strukturalne notatki do kategoryzacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyczne oznaczenia weryfikacyjne**  
+
+&nbsp; Stosuj sugestie generowane przez system za pomocą Pythona.
+
+* **Przeglądanie dokumentów zbiorczych**  
+
+&nbsp; Przetwarzaj i oznaczaj wiele plików ODT naraz.
+
+* **Znormalizowane znaczniki**  
+
+&nbsp; Wstawiaj spójne przypomnienia lub wytyczne za pomocą skryptów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

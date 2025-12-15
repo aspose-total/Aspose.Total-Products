@@ -100,7 +100,87 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Generieke AFBEELDING compressie verwijst naar het optimaliseren van alle op raster gebaseerde afbeeldingsbestanden om de bestandsgrootte te verkleinen terwijl de visuele kwaliteit behouden blijft. Deze benadering is essentieel voor opslagefficiëntie, snellere overdracht en soepele weergave op digitale platforms, toepassingen en content pipelines.
+
+
+
+Python API's maken geautomatiseerde AFBEELDING compressie, batchverwerking en formaatconversie mogelijk, waardoor schaalbare workflows worden ondersteund voor mediabeheer, weblevering en op cloud gebaseerde repositories.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Web- en App-prestaties**  
+
+&nbsp; Gecomprimeerde afbeeldingen laden sneller, waardoor bandbreedtegebruik wordt verminderd en de gebruikerservaring wordt verbeterd.
+
+
+
+* **Digitaal Assetbeheer**  
+
+&nbsp; Geoptimaliseerde afbeeldingen zijn gemakkelijker op te slaan, te organiseren en op te halen uit grote bibliotheken.
+
+
+
+* **Contentpublicatie**  
+
+&nbsp; Behoudt de beeldkwaliteit terwijl de bestandsgrootte wordt geminimaliseerd voor online platforms.
+
+
+
+* **Archivering en Back-up**  
+
+&nbsp; Vermindert opslagvereisten voor grote verzamelingen rasterafbeeldingen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Batch Afbeeldingscompressie**  
+
+&nbsp; Python-scripts kunnen automatisch honderden generieke afbeeldingsbestanden optimaliseren.
+
+
+
+* **Dynamische Formaatselectie**  
+
+&nbsp; Automatisering kan afbeeldingen converteren naar optimaal formaat JPG tijdens compressie.
+
+
+
+* **Workflowintegratie**  
+
+&nbsp; Comprimeer afbeeldingen automatisch bij het uploaden naar CMS, DAM of cloudplatforms.
+
+
+
+* **Compressie op basis van resolutie**  
+
+&nbsp; Pas compressieniveaus dynamisch aan op basis van beeldresolutie, afmetingen of gebruik.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

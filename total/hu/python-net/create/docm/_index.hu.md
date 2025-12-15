@@ -43,9 +43,77 @@ Egy fejlesztő számára ki próbál DOCM fájlokat létrehozni Python alkalmaz�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM — A `.docm` fájlok támogatják az beágyazott makrókat és ideálisak olyan dokumentumokhoz, amelyeknek programozható viselkedést kell tartalmazniuk; a Python API-k összeállíthatják a OOXML tartalmat és csatolhatnak aláírt vagy aláíratlan VBA projekteket automatizálással. A programatikus létrehozás biztosítja, hogy a makrók egységesen csomagolva legyenek, és ellenőrizhetők vagy aláírhatók legyenek a build részeként.
+
+A DOCM használata megfelelő, amikor az üzleti logika (egyedi mezők, export gombok vagy adatgyűjtő makrók) a dokumentumban kell, hogy megtalálható legyen; az automatizálás lehetővé teszi a makró tartalmak beillesztését, tesztelését és ellenőrzését annak érdekében, hogy megfeleljenek a biztonsági és szabályozási ellenőrzéseknek.
+
+Az automatizált tesztek és CI folyamatok biztosíthatják a makrók kódintegritását és aláírhatják a makrókat a terjesztés előtt.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Dokumentumba ágyazott Automatizálás**
+
+&nbsp; Olyan DOCM fájlok terjesztése, amelyek jóváhagyott makrókat futtatnak strukturált adatgyűjtéshez vagy helyi átalakításokhoz.
+
+
+
+* **Irányított Makró Telepítés**
+
+&nbsp; Ellenőrzött VBA modulok beillesztése dokumentumokba a build időben szabályozott makró viselkedés érdekében.
+
+
+
+* **Makróval Aktivált Sablonok**
+
+&nbsp; Használja a DOTM sablonokat forrásként DOCM dokumentumok létrehozásához előre beágyazott automatizálással.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **CI Validáció a Makrókon**
+
+&nbsp; Automatikusan futtassa a statikus elemzést a VBA kódon és blokkolja a buildet a szabályzat megsértése esetén.
+
+
+
+* **Aláírás és Csomagolás**
+
+&nbsp; Automatizálja a makrók digitális aláírását és a DOCM fájlok csomagolását biztonságos terjesztéshez.
+
+
+
+* **Makró Beinjekció Biztonságos Repóból**
+
+&nbsp; Húzzon jóváhagyott VBA részleteket egy biztonságos repóból és ágyazza be azokat generált DOCM fájlokba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

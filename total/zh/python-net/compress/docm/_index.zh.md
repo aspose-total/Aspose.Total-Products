@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+包含宏的DOCM文件受益于压缩，以优化存储空间同时保留宏功能和格式设置。
+
+
+
+使用Python API，自动化的DOCM压缩可确保宏保持完整，并简化自动化工作流程中的文档处理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **宏安全存储**  
+
+&nbsp; 在不破坏嵌入式宏的情况下压缩DOCM文件。
+
+
+
+* **更快的文件共享**  
+
+&nbsp; 减小的文件尺寸可实现快速电子邮件附件和云端上传。
+
+
+
+* **档案管理**  
+
+&nbsp; 自动化压缩有助于长期存储宏启用的文档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量宏文档压缩**  
+
+&nbsp; 自动处理多个DOCM文件，同时保留功能性。
+
+
+
+* **与办公自动化集成**  
+
+&nbsp; 可在工作流系统或DMS解决方案中管理压缩文件。
+
+
+
+* **条件宏压缩**  
+
+&nbsp; Python脚本可以根据大小或内容选择性地压缩DOCM文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

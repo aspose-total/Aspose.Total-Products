@@ -78,7 +78,87 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az HTML tömörítés csökkenti a fájlméretet a kód minimalizálásával, a felesleges szóközök, megjegyzések és redundáns címkék eltávolításával. A tömörített HTML javítja a webhely betöltési időit, csökkenti a sávszélesség használatát, és javítja a webalkalmazás teljesítményét.
+
+
+
+A Python API-k automatizált HTML tömörítést, tétel feldolgozást és integrációt tesznek lehetővé webes telepítési csövekkel a webhelyek és alkalmazások skálázható optimalizálásához.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Webhely optimalizálás**  
+
+&nbsp; Kisebb HTML fájlok javítják az oldal betöltési sebességét és reagálóképességét.
+
+
+
+* **Statikus webhelygenerálás**  
+
+&nbsp; A tömörített HTML felgyorsítja az oldalak építését és telepítési folyamatait.
+
+
+
+* **Digitális eszközkezelés**  
+
+&nbsp; A minimalizált HTML csökkenti a tárolási igényeket nagy webes adattárolók esetén.
+
+
+
+* **Többplatformos szállítás**  
+
+&nbsp; Az optimalizált HTML javítja a megjelenítési teljesítményt különböző eszközökön és böngészőkben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Tömeges HTML tömörítés**  
+
+&nbsp; Több HTML fájl tömörítésének automatizálása.
+
+
+
+* **Szóközök és megjegyzések eltávolítása**  
+
+&nbsp; Automatikusan tisztítsa meg a kódot anélkül, hogy megváltoztatná a funkcionalitást.
+
+
+
+* **Csővezeték integráció**  
+
+&nbsp; Tömörítse az HTML fájlokat CI/CD vagy tartalombeviteli munkafolyamatok során.
+
+
+
+* **Dinamikus optimalizálás**  
+
+&nbsp; Állítsa be a tömörítési szabályokat a projekt vagy környezet igényei szerint.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

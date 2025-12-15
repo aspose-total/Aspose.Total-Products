@@ -100,7 +100,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File RTF (Rich Text Format) dapat menjadi besar ketika berisi format yang kompleks atau objek yang disematkan; kompresi mengurangi ukuran file tanpa memengaruhi kompatibilitas lintas platform.
+
+
+
+API Python memungkinkan kompresi RTF otomatis, menyederhanakan penanganan dokumen dalam sistem modern.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Kunci" %}}
+
+
+
+* **Optimisasi Penyimpanan lintas Platform**  
+
+  Compress file RTF untuk penggunaan yang efisien di berbagai OS dan aplikasi.
+
+
+
+* **Berbagi Lebih Cepat**  
+
+  File RTF yang lebih kecil meningkatkan distribusi email dan cloud.
+
+
+
+* **Pengarsipan Otomatis**  
+
+  Kompresi batch menyederhanakan pengarsipan dokumen RTF yang besar atau kuno.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi Batch RTF**  
+
+  Proses beberapa dokumen RTF secara otomatis menggunakan skrip Python.
+
+
+
+* **Integrasi dengan Alur Kerja Dokumen**  
+
+  File RTF yang terkompresi dapat dimuat ke dalam alur kerja otomatis atau sistem DMS.
+
+
+
+* **Kompresi Bersyarat**  
+
+  Otomatisasi dapat menargetkan file RTF berdasarkan ukuran atau konten yang disematkan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -167,7 +235,7 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

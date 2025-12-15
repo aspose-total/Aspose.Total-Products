@@ -100,7 +100,69 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pliki DOT to szablony Worda, które korzystają z kompresji w celu oszczędzania miejsca i poprawy efektywności dystrybucji między systemami.
+
+
+
+Kompresja oparta na Pythonie może zautomatyzować optymalizację plików DOT bez wpływu na strukturę szablonu ani formatowanie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Optymalizacja przechowywania szablonów**  
+&nbsp; Kompresuj szablony DOT dla efektywnego przechowywania lokalnie lub w chmurze.
+
+
+
+* **Udostępnianie szablonów**  
+&nbsp; Zmniejszony rozmiar pliku zwiększa prędkość dystrybucji dla współpracy zespołowej.
+
+
+
+* **Archiwizacja szablonów**  
+&nbsp; Automatyzowana kompresja wspiera zarządzanie szablonami długoterminowymi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Kompresja zbiorcza szablonów**  
+&nbsp; Skrypty Pythona mogą automatycznie kompresować wiele plików DOT.
+
+
+
+* **Integracja z systemami przepływu pracy**  
+&nbsp; Skompresowane szablony mogą być dynamicznie ładowane do zautomatyzowanych przepływów pracy.
+
+
+
+* **Kompresja selektywna**  
+&nbsp; Automatyzacja może kompresować tylko duże szablony lub te z osadzonymi obiektami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

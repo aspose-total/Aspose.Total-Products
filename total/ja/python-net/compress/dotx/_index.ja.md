@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTXファイルは、マクロを使用しない現代のWordテンプレートであり、ストレージ効率とより速い共有を実現しています。
+
+
+
+Pythonベースの自動化により、DOTXファイルの圧縮が可能であり、書式、レイアウト、埋め込みリソースを保持します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* **テンプレートのストレージ効率**  
+
+&nbsp; デザインの一貫性を維持しながらDOTXサイズを削減します。
+
+
+
+* **迅速なテンプレート共有**  
+
+&nbsp; より小さなファイルサイズでチーム全体に迅速に配布します。
+
+
+
+* **アーカイブ管理**  
+
+&nbsp; 自動圧縮により、長期間のテンプレート保持をサポートします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **一括DOTX圧縮**  
+
+&nbsp; Pythonスクリプトを使用して複数のテンプレートファイルを一度に圧縮できます。
+
+
+
+* **文書システムとの統合**  
+
+&nbsp; 圧縮されたテンプレートはワークフローで動的に管理できます。
+
+
+
+* **スマートな圧縮ルール**  
+
+&nbsp; ファイルサイズ、埋め込みオブジェクト、画像が多いテンプレートに基づいて自動化します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

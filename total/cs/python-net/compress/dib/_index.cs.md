@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese DIB snižuje velikost souborů s nezávislými na zařízení bitmapami, které ukládají pixelová data bez formátování specifického pro hardware. Tyto obrázky jsou často velké, protože uchovávají surová, nekomprimovaná bitmapová data, což činí kompresi nezbytnou pro efektivní ukládání a zpracování v moderních pracovních postupech.
+
+
+
+Pythonové API umožňují automatizovat optimalizaci DIB, minimalizovat velikost souborů a převádět tyto bitmapy do více komprimovaných formátů, což zlepšuje škálovatelnost v obrazech a digitálních systémech s aktivy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace starých bitmap**  
+
+&nbsp; Komprimuje velké soubory DIB pocházející ze staršího softwaru nebo systémů pro zobrazování.
+
+
+
+* **Účinnost ukládání**  
+
+&nbsp; Významně snižuje využití disku pro organizace s rozsáhlými repozitáři bitmap.
+
+
+
+* **Rychlejší přenos a nahrávání**  
+
+&nbsp; Umožňuje rychlejší sdílení těžkých obrázkových souborů po sítích nebo v cloudových platformách.
+
+
+
+* **Archivace obrázků**  
+
+&nbsp; Pomáhá udržovat lehké archivy bez ohrožení základních pixelových dat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese DIB**  
+
+&nbsp; Automatizuje zmenšení velikosti pro stovky nebo tisíce souborů s bitmapami najednou.
+
+
+
+* **Automatická konverze do moderních formátů**  
+
+&nbsp; Převádí DIB do formátů PNG, JPEG nebo WebP s inteligentními pravidly komprese.
+
+
+
+* **Optimalizace nahrávání v reálném čase**  
+
+&nbsp; Soubory DIB mohou být automaticky komprimovány při vložení do platforem pro zobrazování.
+
+
+
+* **Komprese s ohledem na rozlišení**  
+
+&nbsp; Automatizace upravuje intenzitu komprese na základě rozměrů pixelů nebo hloubky barev.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

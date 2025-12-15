@@ -77,7 +77,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+דחיסת OTT מתמקדת בקבצי תבנית טקסט של OpenDocument, משפרת את הפריסה, הסגנונות והמדיה המוטמעת כדי להפחית את גודל הקובץ. קבצי OTT דחוסים משפרים את אחסון הנתונים, מהירות ההעברה ויעילות התהליך עבור יצירת מסמכים בהתבסס על תבניות.
+
+
+
+ממשקי Python מאפשרים דחיסת OTT אוטומטית, עיבוד צמוד ואינטגרציה עם מערכות אוטומציה לניהול תבניות בקנה מידה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **אופטימיזצית ספריית תבניות**  
+
+&nbsp; קבצי OTT קטנים יותר מפחיתים את האחסון עבור אוספי תבניות גדולים.
+
+
+
+* **שיתוף ושיתוף פעולה יעיל**  
+
+&nbsp; תבניות דחוסות מופיעות ונגישות במהירות יותר.
+
+
+
+* **אינטגרציה עם זרמי עבודה**  
+
+&nbsp; קבצי OTT מותומנים משפרים את הביצועים בצינורות הייצור האוטומטיים של יצירת מסמכים.
+
+
+
+* **ארכיב וגיבוי**  
+
+&nbsp; מפחיתים את השטח שמוקצה לגרסאות תבניות היסטוריות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **דחיסת OTT צמודה**  
+
+&nbsp; אוטומציה של ייעול גודל עבור מספר תבניות.
+
+
+
+* **אופטימיזצית מדיה מוטמעת**  
+
+&nbsp; דחיסת תמונות, אובייקטים וסגנונות בתבניות באופן אוטומטי.
+
+
+
+* **אינטגרציה עם מערכות CMS/DAM**  
+
+&nbsp; דחיסת קבצי OTT בעת העלאה למערכות ניהול מסמכים.
+
+
+
+* **רמות דחיסה דינמיות**  
+
+&nbsp; כוונון של האופטימיזציה בהתאם לרמת הקושי וההקשר של התוכן.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

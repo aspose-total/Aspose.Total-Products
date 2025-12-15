@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese CDR se zaměřuje na optimalizaci vektorové grafiky v CorelDRAW k redukci velikosti souboru při zachování tvarů, vrstev, textu a struktury designu. Vzhledem k tomu, že soubory CDR mohou obsahovat složité vektorové objekty a vložená média, je komprese důležitá pro zlepšení manipulace s projektem, účinnost uložení a výkon pracovního postupu designu.
+
+
+
+Pythonové API umožňují automatizovanou kompresi, optimalizaci a konverzi souborů CDR, což umožňuje škálovatelnou správu grafických aktiv v rámci výroby, tisku a digitálních prostředí obsahu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace grafických designů**  
+
+&nbsp; Komprimuje složité vektorové designy pro zjednodušení uložení a sdílení projektů.
+
+
+
+* **Pracovní postupy tisku**  
+
+&nbsp; Menší soubory CDR zlepšují výkon během předtiskových a tiskových fází.
+
+
+
+* **Verzované repozitáře souborů**  
+
+&nbsp; Kompresí se udržují velké designové archivy lehké a snadné na správu.
+
+
+
+* **Dodávka mezi platformami**  
+
+&nbsp; Snížení velikosti souborů zvyšuje rychlost přenosu mezi designovými týmy, nástroji a klienty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Hromadná komprese CDR**  
+
+&nbsp; Automatizujte optimalizaci pro stovky souborů CorelDRAW najednou.
+
+
+
+* **Konverze CDR do optimalizovaného formátu**  
+
+&nbsp; Převeďte CDR na SVG, PDF nebo PNG s aplikací pravidel komprese.
+
+
+
+* **Integrace do designového potrubí**  
+
+&nbsp; Kompresujte aktiva automaticky při nahrávání do CMS, DAM nebo pracovních systémů.
+
+
+
+* **Pravidla adaptivní komprese**  
+
+&nbsp; Automaticky upravujte úrovně komprese na základě složitosti souboru nebo vložených médií.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

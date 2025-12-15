@@ -75,7 +75,65 @@ DOTM 注釈アプリまたはユーティリティを開発する必要があり
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM注釈は、マクロが有効化されたWordテンプレートを対象とし、埋め込まれたスクリプトやテンプレートロジックの明確なドキュメント化を可能にします。これにより、自動機能の透明性が維持され、チーム全体での一貫した使用が確保されます。
+
+自動化されたDOTM注釈により、システムはマクロをスキャンし、ノートを更新し、テンプレートルールをスケールで適用することができます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+
+
+* **マクロ動作の注記**
+
+&nbsp; 埋め込まれたスクリプトの動作を説明します。
+
+* **テンプレートガイドライン**
+
+&nbsp; マクロの適切な使用方法をユーザーに案内します。
+
+* **ロジックトラッキング**
+
+&nbsp; マクロによってトリガーされたセクションをマークします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **マクロ検出ツール**
+
+&nbsp; 検出されたスクリプトに自動的に注釈を挿入します。
+
+* **ワークフローに基づくテンプレート更新**
+
+&nbsp; ノートを動的に追加または変更します。
+
+* **品質保証マークアップ**
+
+&nbsp; リスクの高いまたは時代遅れのマクロロジックをフラグ表示します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

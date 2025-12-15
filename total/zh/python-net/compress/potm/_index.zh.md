@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM文件（启用宏的模板）需要保留宏并减小文件大小以便进行分发和存储的压缩。
+
+
+
+基于Python的自动化使POTM压缩能够在规模上实现，同时保持完整的模板功能。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **宏模板保留**  
+
+&nbsp; 在不破坏嵌入宏的情况下压缩POTM文件。
+
+
+
+* **高效的模板共享**  
+
+&nbsp; 更小的启用宏模板改善了协作和云分发。
+
+
+
+* **模板存档**  
+
+&nbsp; 自动化压缩确保高效的长期存储。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量POTM压缩**  
+
+&nbsp; Python脚本可以自动处理多个启用宏的模板。
+
+
+
+* **与工作流系统集成**  
+
+&nbsp; 压缩的POTM模板可以动态加载到自动化工作流中。
+
+
+
+* **条件压缩**  
+
+&nbsp; 自动化针对具有宏或大型媒体内容的文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

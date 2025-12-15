@@ -75,7 +75,65 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+OTT işaretleme, rehber notlar, yer tutucular ve yapılandırılmış metaveriyi açık biçim şablonlarına gömerek şablon metin belgelerini geliştirir. Bu, tutarlı belge üretimi ve daha net son kullanıcı talimatlarını sağlar.
+
+Otomasyon, şablon kurallarını uygulayarak, işaretleme metnini güncelleyerek ve standart yapıları zorlayarak OTT iş akışlarını geliştirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Durumları" %}}
+
+
+
+* **Şablon Talimatları**  
+
+  Sağlanan her bölümü tamamlamak için rehberlik sağlar.
+
+* **Biçimlendirme Standartları**  
+
+  Belirli stilleri gerektiren alanları vurgular.
+
+* **Revizyon Belgeleri**  
+
+  Şablon güncellemeleri içindeki değişiklikleri işaretler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Komut Dosyasıyla Yönlendirilen Şablon Güncellemeleri**  
+
+  Yeni talimatları otomatik olarak şablonlara uygular.
+
+* **Uyumluluk İşaretçileri**  
+
+  Eksik zorunlu alanları tanımlar ve işaretler.
+
+* **Dinamik Kural Uygulama**  
+
+  Şablon mantığı tarafından tetiklenen notlar ekler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compression DNG se concentre sur l'optimisation des fichiers d'image bruts capturés par des appareils photo numériques tout en préservant la qualité d'image maximale. Comme les fichiers DNG contiennent souvent des données de capteur haute résolution, la compression réduit les besoins de stockage, accélère les transferts de fichiers et améliore l'efficacité du flux de travail en photographie et en traitement d'images.
+
+
+
+Les API Python permettent la compression automatisée des fichiers DNG, le traitement par lots et la conversion vers d'autres formats, permettant une gestion évolutive de grandes bibliothèques de photos et de systèmes d'imagerie professionnels.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Optimisation de l'archive du photographe**  
+
+&nbsp; La compression des fichiers DNG réduit le stockage sans compromettre la fidélité de l'image brute.
+
+
+
+* **Transfert d'image plus rapide**  
+
+&nbsp; Des fichiers plus petits permettent un partage plus rapide entre les appareils photo, les postes de travail et le stockage cloud.
+
+
+
+* **Gestion des actifs numériques**  
+
+&nbsp; Les bibliothèques DNG compressées sont plus faciles à organiser, à rechercher et à récupérer.
+
+
+
+* **Flux de travail de post-traitement**  
+
+&nbsp; Permet un chargement plus rapide des fichiers bruts dans les pipelines d'édition d'images et d'IA.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Compression DNG par lot**  
+
+&nbsp; Automatise l'optimisation de plusieurs fichiers d'image bruts en masse.
+
+
+
+* **Compression dynamique basée sur la résolution**  
+
+&nbsp; Les flux de travail Python peuvent ajuster les niveaux de compression en fonction de la taille du capteur ou des dimensions de l'image.
+
+
+
+* **Conversion de format automatisée**  
+
+&nbsp; Convertit les DNG en TIFF, JPEG ou WebP tout en appliquant automatiquement la compression.
+
+
+
+* **Intégration avec les systèmes DAM**  
+
+&nbsp; Comprime les images DNG lors du téléchargement pour un stockage optimisé et un traitement plus rapide.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

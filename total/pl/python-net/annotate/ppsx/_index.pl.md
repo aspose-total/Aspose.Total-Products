@@ -75,7 +75,65 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Anotacja PPSX wzbogaca pliki prezentacji pokazu slajdów o komentarze i przypomnienia strukturalne, umożliwiając lepszą recenzję treści i doskonalenie slajdów. Te adnotacje pomagają użytkownikom zoptymalizować przepływ wizualny przed dostarczeniem prezentacji.
+
+Automatyzacja przyspiesza pracę z PPSX poprzez stosowanie spójnych adnotacji, sprawdzanie problemów z układem i oznaczanie elementów treści programowo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+
+
+* **Notatki dotyczące ulepszenia slajdów**  
+
+&nbsp; Dodaj sugestie dotyczące jasności treści.
+
+* **Recenzje projektów**  
+
+&nbsp; Zwróć uwagę na niespójności wizualne.
+
+* **Opinie dotyczące przejść**  
+
+&nbsp; Oznaczaj korekty czasowania lub animacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Masowa adnotacja czasowa**  
+
+&nbsp; Wstaw komentarze na podstawie wykrytego tempa animacji.
+
+* **Automatyczne mapowanie struktury**  
+
+&nbsp; Zidentyfikuj i oznacz kluczowe elementy slajdów.
+
+* **Sprawdzanie projektów zgodnie ze skryptem**  
+
+&nbsp; Zastosuj flagi oparte na regułach do elementów slajdów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

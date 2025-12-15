@@ -100,7 +100,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pliki DOTX, nowoczesne szablony programu Word bez makr, korzystają z kompresji w celu efektywnego przechowywania i szybszego udostępniania.
+
+
+
+Automatyzacja oparta na Pythonie pozwala na kompresję plików DOTX zachowując formatowanie, układ i zasoby osadzone.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Efektywność przechowywania szablonów**  
+
+&nbsp; Zmniejsz rozmiar plików DOTX zachowując spójność projektu.
+
+
+
+* **Szybkie udostępnianie szablonów**  
+
+&nbsp; Mniejsze pliki zapewniają szybsze rozpowszechnianie w zespołach.
+
+
+
+* **Zarządzanie archiwizacją**  
+
+&nbsp; Automatyzowana kompresja wspiera długoterminowe przechowywanie szablonów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Kompresja zbiorcza plików DOTX**  
+
+&nbsp; Skrypty Pythona mogą kompresować wiele plików szablonów jednocześnie.
+
+
+
+* **Integracja z systemami dokumentów**  
+
+&nbsp; Skompresowane szablony mogą być dynamicznie zarządzane w procesach roboczych.
+
+
+
+* **Inteligentne reguły kompresji**  
+
+&nbsp; Automatyzuj na podstawie rozmiaru pliku, obiektów osadzonych lub szablonów z dużą ilością obrazów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

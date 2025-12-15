@@ -100,7 +100,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compressione dei file DOC riduce i requisiti di archiviazione, accelera la condivisione dei file e mantiene l'integrità dei documenti per contenuti ricchi di testo o con media incorporati.
+
+
+
+Le API di Python consentono flussi di lavoro automatizzati di compressione dei DOC, supportando la gestione scalabile dei documenti e un'elaborazione più veloce negli ambienti aziendali.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Ottimizzazione dello spazio di archiviazione**  
+
+&nbsp; Riduci l'uso dello spazio su disco per i file DOC legacy senza influenzare il contenuto.
+
+
+
+* **Condivisione via email e cloud**  
+
+&nbsp; I file DOC più piccoli possono essere trasferiti più velocemente ed efficientemente attraverso le reti.
+
+
+
+* **Archiviazione automatizzata**  
+
+&nbsp; La compressione batch per l'archiviazione garantisce un'archiviazione efficiente dei documenti più vecchi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Compressione batch**  
+
+&nbsp; Gli script Python possono elaborare automaticamente file DOC multipli.
+
+
+
+* **Integrazione con i sistemi documentali**  
+
+&nbsp; I file DOC compressi possono essere caricati senza problemi sulle piattaforme DMS.
+
+
+
+* **Compressione condizionale**  
+
+&nbsp; L'automazione può comprimere i file che superano le soglie di dimensione o che contengono media incorporati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compression DICOM se concentre sur l'optimisation des fichiers d'imagerie médicale contenant des images de diagnostic, des métadonnées et des informations sur les patients. Étant donné que les fichiers DICOM sont souvent volumineux en raison de scans haute résolution, la compression est essentielle pour une transmission plus rapide, des coûts de stockage réduits et une manipulation efficace au sein des systèmes de santé.
+
+
+
+Les API Python permettent la compression automatisée des fichiers DICOM, y compris des méthodes sans perte et à perte contrôlée, garantissant que les flux de travail d'imagerie médicale restent évolutifs, fiables et conformes aux normes cliniques.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Optimisation du stockage d'imagerie médicale**  
+
+&nbsp; La compression des fichiers DICOM réduit la charge sur les systèmes PACS et les archives à long terme.
+
+
+
+* **Transmission d'images plus rapide**  
+
+&nbsp; Des fichiers plus petits améliorent la vitesse de transfert entre les hôpitaux, les centres d'imagerie et les systèmes cloud.
+
+
+
+* **Pipelines de recherche et d'analyse**  
+
+&nbsp; Les ensembles de données compressés simplifient la formation des modèles d'IA et le traitement d'images médicales à grande échelle.
+
+
+
+* **Flux de travail de télémédecine**  
+
+&nbsp; La compression permet une livraison plus rapide des visuels de diagnostic aux prestataires de soins de santé à distance.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Compression en lot d'images de diagnostic**  
+
+&nbsp; Automatise la réduction de taille pour les grandes bibliothèques d'IRM, de TDM et de radiographies.
+
+
+
+* **Sélection dynamique sans perte/à perte**  
+
+&nbsp; L'automatisation choisit le type de compression en fonction de la modalité, de la résolution ou des exigences cliniques.
+
+
+
+* **Optimisation intégrée au flux de travail**  
+
+&nbsp; Compresse les fichiers DICOM lors de leur ingestion dans les systèmes PACS, RIS ou d'imagerie cloud.
+
+
+
+* **Compression préservant les métadonnées**  
+
+&nbsp; Les processus automatisés conservent toutes les balises médicales et les identifiants tout en réduisant la taille des fichiers.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

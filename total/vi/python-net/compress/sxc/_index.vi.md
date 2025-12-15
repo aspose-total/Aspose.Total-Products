@@ -78,7 +78,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tệp SXC (bảng tính cũ của OpenOffice/StarOffice) được hưởng lợi từ việc nén để giảm dung lượng lưu trữ và dễ dàng chia sẻ hơn trong khi vẫn bảo tồn các công thức và định dạng.
+
+
+
+Các API Python cho phép nén SXC tự động để duy trì hiệu suất làm việc trong môi trường cũ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Bảng Tính Cũ**  
+
+&nbsp; Giảm kích thước tệp SXC mà không ảnh hưởng đến các công thức hoặc nội dung.
+
+
+
+* **Chia Sẻ Nhanh Hơn**  
+
+&nbsp; Các tệp được nén cải thiện tốc độ truyền dữ liệu qua mạng và giữa các nhóm.
+
+
+
+* **Hiệu Quả Lưu Trữ**  
+
+&nbsp; Nén tự động hỗ trợ lưu trữ dài hạn của các bảng tính cũ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén SXC Theo Lô**  
+
+&nbsp; Kịch bản Python có thể nén nhiều tệp SXC tự động.
+
+
+
+* **Tích Hợp với Hệ Thống DMS hoặc Đám Mây**  
+
+&nbsp; Các tệp SXC được nén có thể được xử lý một cách hiệu quả trong quy trình làm việc.
+
+
+
+* **Nén Có Điều Kiện**  
+
+&nbsp; Tự động hóa có thể nhắm vào các tệp dựa trên kích thước hoặc nội dung nhúng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+CDR sıkıştırması, CorelDRAW vektör grafiklerini optimize etmeye odaklanırken dosya boyutunu azaltmayı ve şekilleri, katmanları, metni ve tasarım yapısını korumayı hedefler. CDR dosyaları karmaşık vektör nesneleri ve gömülü medyayı içerebileceğinden, sıkıştırma, proje işleme, depolama verimliliği ve tasarım iş akışı performansını artırmak için önemlidir.
+
+
+
+Python API'leri, CDR dosyalarının otomatik sıkıştırılmasını, optimize edilmesini ve dönüştürülmesini kolaylaştırarak grafik varlıklarının üretim, baskı ve dijital içerik ortamlarında ölçeklenebilir yönetimini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* **Grafik Tasarım Varlığı Optimizasyonu**  
+
+&nbsp; Karmaşık vektör tasarımları sıkıştırarak proje depolama ve paylaşımını kolaylaştırır.
+
+
+
+* **Baskı Üretim İş Akışları**  
+
+&nbsp; Daha küçük CDR dosyaları, baskı öncesi ve baskı işleme aşamalarında performansı artırır.
+
+
+
+* **Sürümlü Dosya Depoları**  
+
+&nbsp; Sıkıştırma, büyük tasarım arşivlerini hafif ve yönetilebilir hale getirir.
+
+
+
+* **Çapraz Platform Teslimatı**  
+
+&nbsp; Dosya boyutlarını azaltmak, tasarım ekipleri, araçlar ve müşteriler arasındaki transfer hızını artırır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu CDR Sıkıştırması**  
+
+&nbsp; Yüzlerce CorelDRAW dosyası için optimizasyonu otomatikleştirin.
+
+
+
+* **CDR'den Optimize Edilmiş Formata Dönüştürme**  
+
+&nbsp; CDR'yi SVG, PDF veya PNG'ye dönüştürürken sıkıştırma kurallarını uygulayın.
+
+
+
+* **Tasarım Boru Hattı Entegrasyonu**  
+
+&nbsp; Varlıkları CMS, DAM veya iş akışı sistemlerine yüklendiğinde otomatik olarak sıkıştırın.
+
+
+
+* **Uyarlamalı Sıkıştırma Kuralları**  
+
+&nbsp; Dosya karmaşıklığına veya gömülü medyaya bağlı olarak sıkıştırma seviyelerini otomatik olarak ayarlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

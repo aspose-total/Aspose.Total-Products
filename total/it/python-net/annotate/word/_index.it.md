@@ -75,7 +75,65 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'annotazione WORD si concentra sull'aggiunta di commenti, evidenziazioni e metadati su tutte le variazioni dei documenti basati su Word, supportando la modifica strutturata, la collaborazione e i flussi di revisione. I documenti annotati mantengono la chiarezza durante le revisioni e le approvazioni.
+
+L'automazione massimizza l'efficienza applicando annotazioni standardizzate, scansionando problemi e aggiornando più documenti Word attraverso regole guidate da Python.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Revisione e Feedback**  
+
+&nbsp; Aggiungi commenti per guidare modifiche e miglioramenti.
+
+* **Evidenziare Contenuti Critici**  
+
+&nbsp; Segna termini importanti o errori.
+
+* **Note sui Metadati del Documento**  
+
+&nbsp; Inserisci indici o segnalibri di classificazione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Pipeline di Annotazione di Massa**  
+
+&nbsp; Elabora automaticamente molti documenti Word.
+
+* **Commenti Basati su Regole**  
+
+&nbsp; Inserisci note attivate da pattern specifici.
+
+* **Controlli di Qualità Automatici**  
+
+&nbsp; Segna incongruenze o sezioni mancanti.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSL-FOの圧縮は、XMLドキュメントのページレイアウトと書式設定を定義するExtensible Stylesheet Language Formatting Objectsファイルのサイズを削減することに焦点を当てています。XSL-FOの最適化により、文書生成ワークフローにおける処理、レンダリング速度、およびストレージ効率が向上します。
+
+
+
+Python APIを使用すると、自動化されたXSL-FOの圧縮、バッチ処理、PDFや印刷パイプラインとの統合が可能となり、スケーラブルな文書レンダリングソリューションを提供できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **文書レンダリングの最適化**  
+
+&nbsp; 圧縮されたXSL-FOファイルは、PDF生成や印刷ワークフローを高速化します。
+
+
+
+* **大規模な文書管理**  
+
+&nbsp; 高容量の書式設定コンテンツのストレージを削減します。
+
+
+
+* **アーカイブとバックアップ**  
+
+&nbsp; 最適化されたXSL-FOファイルは、長期保存のためにより簡単に保存できます。
+
+
+
+* **ワークフローの統合**  
+
+&nbsp; 自動化されたパブリッシングパイプラインにおける効率を向上させます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチXSL-FOの圧縮**  
+
+&nbsp; 複数の書式設定ファイルのサイズを自動的に縮小します。
+
+
+
+* **空白と冗長性の削除**  
+
+&nbsp; 不要な書式指示を自動的に削除します。
+
+
+
+* **レンダリングパイプラインとの統合**  
+
+&nbsp; PDFや印刷出力を生成する前にファイルを圧縮します。
+
+
+
+* **ダイナミックな最適化**  
+
+&nbsp; 文書の複雑さやページ数に基づいて圧縮レベルを調整します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

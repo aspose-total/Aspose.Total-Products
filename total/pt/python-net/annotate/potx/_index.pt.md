@@ -75,7 +75,65 @@ Para obter mais detalhes, consulte [Documentação do Produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A anotação POTX adiciona notas estruturadas e instruções de layout a modelos de apresentação não baseados em macro, apoiando a criação clara de slides e padrões visuais consistentes. Isso garante que os usuários sigam regras de design uniformes em todas as apresentações.  
+
+A automação simplifica as atualizações POTX, permitindo que os sistemas apliquem regras de anotação, detectem discrepâncias de layout e atualizem orientações de forma eficiente.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Instruções do Modelo**  
+
+  Guie os usuários sobre o uso e estrutura dos slides.
+
+* **Notas de Design**  
+
+  Marque regras de posicionamento para texto e elementos visuais.
+
+* **Indicadores de Revisão**  
+
+  Destaque modificações nos modelos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Auditorias Automatizadas de Modelos**  
+
+  Insira comentários onde os estilos se desviam dos padrões.
+
+* **Injeção em Massa de Anotações**  
+
+  Atualize as orientações em vários modelos.
+
+* **Validação da Estrutura dos Slides**  
+
+  Sinalize automaticamente inconsistências de forma programática.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

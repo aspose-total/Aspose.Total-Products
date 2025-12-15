@@ -43,9 +43,45 @@ Para un desarrollador, ¿quién intenta crear archivos DOTX a través de la apli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+## DOTX — `.dotx` es la plantilla sin macros (OOXML) ideal para la distribución segura de plantillas y la generación determinista de documentos. Las API de Python pueden producir plantillas DOTX con estilos, controles de contenido y marcadores de contenido, lo que permite una plantilla robusta sin macros para sistemas automatizados.
+
+DOTX se adapta a entornos que prohíben macros por razones de seguridad pero que aún requieren una plantilla consistente y la población de contenido dinámico. La automatización permite una plantilla segura y escalable, y la generación subsiguiente de instancias de DOCX sin incrustar código ejecutable.
+
+La generación de plantillas programáticas admite marcadores impulsados por esquemas, controles de contenido y validación de plantillas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* **Entrega segura de plantillas**
+  &nbsp; Cree plantillas DOTX sin macros para una distribución amplia en entornos seguros.
+
+* **Plantillas de formularios y control de contenido**
+  &nbsp; Cree plantillas DOTX con controles de contenido para automatización subsiguiente.
+
+* **Ensamblaje de documentos basado en plantillas**
+  &nbsp; Utilice plantillas DOTX como fuente autoritativa para la creación de documentos programática.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* **Flujos de trabajo de plantillas seguras**
+  &nbsp; Automatice la generación de DOTX y haga cumplir políticas que eviten la inclusión de macros.
+
+* **Trabajos de validación de plantillas**
+  &nbsp; Ejecute verificaciones automatizadas para garantizar que los marcadores y estilos coincidan con las expectativas del esquema.
+
+* **Uso de plantillas impulsado por API**
+  &nbsp; Proporcione plantillas DOTX a través de una API interna para la generación de DOCX bajo demanda.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -75,7 +75,59 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تسمح تعليقات DOCM بإضافة ملاحظات وتسليط الضوء والبيانات الوصفية إلى مستندات Word الممكنة للتنفيذ الماكرو، مما يدعم سير العمل الذي يتطلب البرمجة الديناميكية أو التشغيل المضمن. يساعد هذا المستخدمين على توثيق المنطق، وتتبع التغييرات، والحفاظ على وضوح حول سلوكيات الماكرو.
+
+من خلال تعليق ملفات DOCM بشكل برمجي، يمكن لأنظمة الأتمتة مراقبة استخدام الماكرو، وتعزيز اتساق الوثائق، وتبسيط عمليات التحقق.
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **توثيق الماكرو**  
+
+&nbsp; تسمية ووصف الإجراءات التي تعمل بالماكرو داخل المستند.
+
+* **تتبع الامتثال**  
+
+&nbsp; إضافة ملاحظات تؤكد النصوص أو التحققات المطلوبة.
+
+* **تسجيل التغييرات**  
+
+&nbsp; تسليط الضوء على التحديثات المتعلقة بالماكرو لتحقيق الرؤية.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **فحص الماكرو وتعليق**  
+
+&nbsp; إدراج تلقائي للتعليقات التي تصف وظائف الماكرو المكتشفة.
+
+* **تقارير الامتثال الديناميكية**  
+
+&nbsp; ملء التعليقات عندما تلبي الماكروات أو تفشل في بعض الفحوصات.
+
+* **أدوات مراجعة مبنية على البرنامج النصي**  
+
+&nbsp; استخدام Python لتطبيق التعليقات المهيكلة على نطاق واسع.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

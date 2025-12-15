@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Аннотация WORD сосредотачивается на добавлении комментариев, выделений и метаданных во всех вариациях документов на основе Word, поддерживая структурированное редактирование, совместную работу и рабочие процессы проверки. Аннотированные документы сохраняют ясность во время правок и утверждений.  
+
+Автоматизация повышает эффективность за счет применения стандартизированных аннотаций, сканирования на наличие проблем и обновления нескольких документов Word с помощью правил, управляемых Python.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Проверка и обратная связь**  
+
+&nbsp; Добавление комментариев для направления правок и улучшений.
+
+* **Выделение важного контента**  
+
+&nbsp; Пометка важных терминов или ошибок.
+
+* **Примечания к метаданным документа**  
+
+&nbsp; Вставка индексов или подсказок по классификации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Массовые конвейеры аннотаций**  
+
+&nbsp; Автоматическая обработка множества документов Word.
+
+* **Комментирование на основе правил**  
+
+&nbsp; Вставка заметок, запускаемых определенными шаблонами.
+
+* **Автоматизированные проверки качества**  
+
+&nbsp; Пометка несоответствий или отсутствующих разделов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

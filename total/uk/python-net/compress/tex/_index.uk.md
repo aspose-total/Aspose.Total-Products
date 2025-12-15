@@ -77,7 +77,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Стиснення TEX зменшує розмір вихідних файлів LaTeX, які часто містять повторювану розмітку, коментарі або команди форматування. Оптимізація файлів TEX підвищує ефективність зберігання, швидкість компіляції та покращує співпрацю в академічних, видавничих та наукових потоках роботи.
+
+
+
+Python API дозволяють автоматизувати стиснення TEX, пакетну обробку та інтеграцію з конвеєрами генерації документів для масштабованих робочих процесів LaTeX.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* **Академічні та дослідницькі документи**  
+
+&nbsp; Зменшення розміру вихідних файлів LaTeX для великих статей, дисертацій та докторських досліджень.
+
+
+
+* **Видавничі потоки роботи**  
+
+&nbsp; Стиснені файли TEX спрощують процеси компіляції та поширення.
+
+
+
+* **Контроль версій та співпраця**  
+
+&nbsp; Менші файли підвищують ефективність в репозиторіях та спільному редагуванні.
+
+
+
+* **Архівування та резервне копіювання**  
+
+&nbsp; Оптимізовані файли TEX зменшують обсяг зберігання для історичного академічного контенту.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Пакетне стиснення TEX**  
+
+&nbsp; Автоматизуйте зменшення розміру для кількох файлів LaTeX.
+
+
+
+* **Видалення коментарів та зайвих даних**  
+
+&nbsp; Автоматично видаляйте непотрібну розмітку або повторювані команди.
+
+
+
+* **Інтеграція з робочим процесом**  
+
+&nbsp; Стиснення файлів TEX при завантаженні до автоматизованих систем компіляції або видавництва.
+
+
+
+* **Конвертування + стиснення**  
+
+&nbsp; Конвертуйте TEX у PDF або інші формати, застосовуючи правила стиснення.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLTXファイル（モダンなExcelテンプレート）は圧縮されており、最適化されたストレージと高速な共有を実現し、すべての書式と数式を保持しています。
+
+
+
+Python APIを使用すると、自動化されたXLTX圧縮が可能になり、ワークフロー効率が向上し、文書管理システムとの統合が図られます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な利用シーン" %}}
+
+
+
+* **テンプレートのストレージ最適化**  
+
+&nbsp; 完全な機能性を維持しながらXLTXテンプレートを圧縮します。
+
+
+
+* **迅速なテンプレート共有**  
+
+&nbsp; より小さなファイルサイズで迅速な配布と共同作業を実現します。
+
+
+
+* **自動アーカイブ**  
+
+&nbsp; 圧縮により長期ストレージ管理が簡素化されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **一括XLTX圧縮**  
+
+&nbsp; Pythonスクリプトにより複数のテンプレートの圧縮を自動化します。
+
+
+
+* **ワークフローシステムとの統合**  
+
+&nbsp; 圧縮されたテンプレートは自動化されたパイプラインにロードできます。
+
+
+
+* **スマートな圧縮**  
+
+&nbsp; 条件付きルールにより、大規模なデータセットや埋め込みメディアを対象としたテンプレートを指定できます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

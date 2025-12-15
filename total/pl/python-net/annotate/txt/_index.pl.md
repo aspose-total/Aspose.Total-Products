@@ -75,7 +75,65 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT adnotacja wzbogaca pliki zwykłego tekstu strukturalnymi komentarzami, znacznikami i notatkami recenzenckimi, poprawiając zrozumienie w technicznych i dokumentacyjnych procesach pracy. Pomaga wyjaśnić treść bez zmieniania prostoty pliku.  
+
+Automatyzacja wspiera szybką, masową obróbkę plików TXT poprzez wykrywanie wzorców, wstawianie adnotacji i narzucanie strukturalnych notatek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Komentarze techniczne**  
+
+&nbsp; Dodaj opisowe notatki do plików konfiguracyjnych lub kodu.
+
+* **Identyfikacja błędów**  
+
+&nbsp; Zaznacz podejrzane lub przestarzałe linie.
+
+* **Znaczniki instruktażowe**  
+
+&nbsp; Wstaw proste tagi wskazujące.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Adnotacja oparta na wzorcach**  
+
+&nbsp; Wykrywaj i podkreślaj z góry zdefiniowane struktury.
+
+* **Masowa obróbka plików**  
+
+&nbsp; Adnotuj duże kolekcje plików TXT programistycznie.
+
+* **Automatyczne notatki recenzenckie**  
+
+&nbsp; Wstawiaj komentarze sterowane regułami we wszystkich plikach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

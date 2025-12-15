@@ -101,7 +101,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tệp PPSM (macro-enabled PowerPoint Show) yêu cầu nén giữ nguyên các macro trong khi giảm kích thước tệp để chia sẻ và lưu trữ hiệu quả.
+
+
+
+Tự động dựa trên Python cho phép nén PPSM mở rộng trong khi duy trì chức năng macro.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Bảo Tồn Macro**  
+
+&nbsp; Nén tệp PPSM một cách an toàn mà không làm hỏng các macro.
+
+
+
+* **Chia Sẻ Nhanh Hơn**  
+
+&nbsp; Tệp nhỏ giúp phân phối hiệu quả đến các nhóm hoặc lưu trữ trên đám mây.
+
+
+
+* **Quản Lý Lưu Trữ**  
+
+&nbsp; Nén tự động đảm bảo lưu trữ dài hạn của các tệp trình diễn có macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Batch PPSM**  
+
+&nbsp; Kịch bản Python có thể xử lý tự động nhiều tệp trình diễn có macro.
+
+
+
+* **Tích Hợp với Hệ Thống Luồng Công Việc**  
+
+&nbsp; Các tệp PPSM đã được nén có thể được sử dụng trong các luồng công việc trình bày tự động.
+
+
+
+* **Nén Có Điều Kiện**  
+
+&nbsp; Xác định tệp dựa trên việc sử dụng macro hoặc phương tiện nhúng để tối ưu hóa.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

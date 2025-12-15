@@ -70,7 +70,69 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La comparaison HTML identifie les différences dans la structure, les blocs de contenu, les balises, les styles et le formatage en ligne à travers les fichiers de documents web ou exportés. Elle garantit la précision dans le rendu et la présentation du contenu.
+
+
+
+La comparaison HTML automatisée prend en charge le contrôle qualité évolutif pour le contenu web, les portails de documentation et les exports HTML générés par le système.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+- **Suivi des révisions du contenu web**  
+&nbsp; Met en évidence les mises à jour dans les éléments de texte et de mise en page.
+
+
+
+- **Vérifications de la cohérence des documents exportés**  
+&nbsp; Garantit que les exports HTML correspondent à la structure attendue.
+
+
+
+- **Mises à jour de la documentation technique**  
+&nbsp; Détecte les changements dans les blocs de code ou les sections d'information.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+- **Détection des changements de balisage**  
+&nbsp; Identifie automatiquement les modifications au niveau des balises.
+
+
+
+- **Comparaison HTML en masse**  
+&nbsp; Valide de grandes collections de sorties HTML.
+
+
+
+- **Pipelines de publication automatisés**  
+&nbsp; Intègre les vérifications dans les systèmes de diffusion de contenu en continu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

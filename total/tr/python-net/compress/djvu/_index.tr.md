@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DJVU sıkıştırması, taranan belgeler, dijital kitaplar ve arşiv içeriği için yaygın olarak kullanılan DjVu dosyalarının zaten verimli yapısını artırır. DJVU dosyalarını optimize etmek, boyutu daha da azaltır, yükleme hızını artırır ve metin ağırlıklı ve görüntü zengin sayfalar için yüksek kaliteli görüntüleme sağlar.
+
+
+
+Python API'leri, DJVU sıkıştırmasını otomatikleştirmeyi, taranan katmanları optimize etmeyi ve büyük miktarda dijitalleştirilmiş belgeyi minimum depolama gereksinimleri ve yüksek işleme verimliliği ile yönetmeyi mümkün kılar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Dijital Belge Kütüphaneleri**  
+
+&nbsp; Büyük taranan arşivleri sıkıştırarak alan tasarrufu yapar ve erişim performansını artırır.
+
+
+
+* **E-Kitap ve Araştırma Dağıtımı**  
+
+&nbsp; Daha küçük DJVU dosyaları daha hızlı yüklenir ve akademik platformlar arasında daha verimli bir şekilde transfer edilir.
+
+
+
+* **Taranmış Görüntü Optimizasyonu**  
+
+&nbsp; Temel görsel detayları tehlikeye atmadan okunabilirliği artırır ve boyutu azaltır.
+
+
+
+* **Uzun Vadeli Arşivleme**  
+
+&nbsp; Tarihsel ve referans materyaller için depolama verimli koruma sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu DJVU Sıkıştırması**  
+
+&nbsp; Taranmış veya dijitalleştirilmiş belge koleksiyonları için dosya boyutlarını otomatik olarak azaltır.
+
+
+
+* **Katman Farkındalıklı Optimizasyon**  
+
+&nbsp; Otomasyon, önyüz metni, arka plan dokularını veya gömülü görüntüleri seçici olarak sıkıştırabilir.
+
+
+
+* **İş Akışı-İçe Aktarma Sıkıştırması**  
+
+&nbsp; DJVU dosyaları, arşivlere veya belge sistemlerine yükleme sırasında anında sıkıştırılabilir.
+
+
+
+* **Dönüştürme + Sıkıştırma Boruları**  
+
+&nbsp; PDF veya TIFF'yi DJVU'ya dönüştürürken otomatik boyut azaltma kurallarını uygular.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

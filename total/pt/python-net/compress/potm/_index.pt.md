@@ -101,7 +101,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/sli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Os arquivos POTM (modelos habilitados para macro) requerem compressão que preserve os macros, reduzindo o tamanho do arquivo para distribuição e armazenamento.
+
+
+
+A automação baseada em Python permite a compressão de arquivos POTM em escala, mantendo a funcionalidade completa do modelo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Preservação de Modelos de Macro**  
+
+  Comprima arquivos POTM sem quebrar os macros incorporados.
+
+
+
+* **Compartilhamento Eficiente de Modelos**  
+
+  Modelos menores habilitados para macro melhoram a colaboração e a distribuição em nuvem.
+
+
+
+* **Arquivamento de Modelos**  
+
+  A compressão automatizada garante um armazenamento eficiente a longo prazo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de POTM**  
+
+  Scripts em Python podem processar vários modelos habilitados para macro automaticamente.
+
+
+
+* **Integração com Sistemas de Fluxo de Trabalho**  
+
+  Modelos POTM comprimidos podem ser carregados dinamicamente em fluxos de trabalho automatizados.
+
+
+
+* **Compressão Condicional**  
+
+  A automação visa arquivos com macros ou conteúdo de mídia grande.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,43 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+MHTML圧縮は、HTML、画像、CSS、およびスクリプトを含むWebアーカイブファイルを最適化します。圧縮されたMHTMLファイルは、Webコンテンツのストレージ、転送速度、およびオフラインアクセシビリティを向上させます。
+
+Python APIを使用すると、自動化されたMHTML圧縮、バッチ処理、およびスケーラブルなWebコンテンツ管理のためのアーカイブやパブリッシングパイプラインとの統合が可能になります。
+
+## {{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+- **オフラインWebページの保存**
+  &nbsp; アーカイブされたWebページのストレージフットプリントを削減します。
+
+- **効率的な共有と配布**
+  &nbsp; より小さなMHTMLファイルはネットワークを高速に転送します。
+
+- **デジタルアーカイブ**
+  &nbsp; 圧縮されたファイルはWebコンテンツの長期保存を容易にします。
+
+- **コンテンツ管理システム**
+  &nbsp; 最適化されたMHTMLファイルはCMSプラットフォームでのワークフローのパフォーマンスを向上させます。
+
+## {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- **バッチMHTML圧縮**
+  &nbsp; 複数のWebアーカイブファイルの最適化を自動化します。
+
+- **埋め込みアセットの最適化**
+  &nbsp; アーカイブ内の画像、スクリプト、スタイルを自動的に圧縮します。
+
+- **パイプライン統合**
+  &nbsp; DAM、CMS、またはクラウドシステムに取り込まれた際にMHTMLファイルを圧縮します。
+
+- **ダイナミックな圧縮レベル**
+  &nbsp; ページサイズ、メディアコンテンツ、およびアーカイブのニーズに基づいて調整します。
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/wor
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Os arquivos DOCM, contendo macros, se beneficiam da compressão para otimizar o armazenamento enquanto preservam a funcionalidade da macro e a formatação.
+
+
+
+Usando APIs do Python, a compressão automatizada de arquivos DOCM garante que as macros permaneçam intactas e simplifica o manuseio de documentos em fluxos de trabalho automatizados.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Armazenamento Seguro para Macros**  
+
+  Comprima arquivos DOCM sem quebrar as macros incorporadas.
+
+
+
+* **Compartilhamento de Arquivos Mais Rápido**  
+
+  Tamanhos reduzidos permitem anexos de e-mail rápidos e uploads em nuvem.
+
+
+
+* **Gestão de Arquivos de Arquivo**  
+
+  A compressão automatizada ajuda no armazenamento a longo prazo de documentos habilitados para macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de Documentos com Macros**  
+
+  Automatize o processamento de vários arquivos DOCM enquanto preserva a funcionalidade.
+
+
+
+* **Integração com Automação de Escritório**  
+
+  Arquivos comprimidos podem ser gerenciados em sistemas de fluxo de trabalho ou soluções de DMS.
+
+
+
+* **Compressão Condicional de Macros**  
+
+  Scripts em Python podem comprimir seletivamente arquivos DOCM com base no tamanho ou conteúdo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

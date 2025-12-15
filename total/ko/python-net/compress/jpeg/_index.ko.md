@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+JPEG (JPG) 압축은 고해상도 래스터 이미지의 크기를 줄이면서 시각적 품질을 유지합니다. 이 최적화는 파일 크기, 전송 속도 및 저장 효율이 중요한 웹 콘텐츠, 사진 및 멀티미디어 워크플로우에 필수적입니다.
+
+
+
+Python API를 사용하면 자동 JPEG 압축, 일괄 처리 및 동적 품질 조정이 가능하며 대규모 이미지 라이브러리의 확장 가능한 관리 및 웹, 클라우드 및 콘텐츠 전달 파이프라인 통합을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **웹 성능 최적화**  
+
+&nbsp; 압축된 JPEG는 페이지 로드 시간을 개선하고 대역폭 소비를 줄입니다.
+
+
+
+* **사진 및 디지털 자산 관리**  
+
+&nbsp; 시각적 품질을 유지하면서 저장 및 공유를 위한 파일 크기를 크게 줄입니다.
+
+
+
+* **소셜 미디어 및 마케팅 자산**  
+
+&nbsp; 최적화된 JPEG는 플랫폼 간 더 빠른 업로드와 렌더링을 보장합니다.
+
+
+
+* **아카이브 및 백업 효율**  
+
+&nbsp; 대형 사진 라이브러리는 최소한의 품질 손실로 더 효율적으로 저장됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 JPEG 압축**  
+
+&nbsp; Python 스크립트를 사용하여 여러 JPEG 파일을 자동으로 대량으로 압축합니다.
+
+
+
+* **동적 품질 제어**  
+
+&nbsp; 해상도, 사용 용도 또는 대상 플랫폼에 따라 압축 수준을 조정할 수 있습니다.
+
+
+
+* **자동화된 워크플로 통합**  
+
+&nbsp; JPEG는 DAM, CMS 또는 클라우드 저장소에 업로드시 자동으로 압축될 수 있습니다.
+
+
+
+* **압축과 함께 형식 변환**  
+
+&nbsp; PNG 또는 TIFF 이미지를 자동 최적화하여 JPEG로 변환할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

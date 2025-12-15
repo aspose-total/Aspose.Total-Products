@@ -78,7 +78,25 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```html
+<h2>Benvenuti nel nostro negozio online!</h2>
+
+<p>Esplora la nostra vasta selezione di prodotti di alta qualità e trova tutto ciò di cui hai bisogno per la tua casa.</p>
+
+<h3>Perché scegliere noi?</h3>
+
+<ul>
+<li>Prodotti di alta qualità</li>
+<li>Spedizione veloce e sicura</li>
+<li>Servizio clienti dedicato</li>
+</ul>
+
+<h2>Offerte speciali della settimana</h2>
+
+<p>Approfitta delle nostre offerte esclusive solo per questa settimana!</p>
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

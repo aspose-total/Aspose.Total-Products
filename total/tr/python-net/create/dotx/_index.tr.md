@@ -43,9 +43,79 @@ Python uygulaması aracılığıyla DOTX dosyaları oluşturmaya çalışan bir 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTX — `.dotx`, güvenli şablon dağıtımı ve belirli belge oluşturma için ideal olan makro içermeyen bir şablondur (OOXML). Python API'leri, stiller, içerik kontrolleri ve içerik yer tutucuları içeren DOTX şablonları üretebilir ve otomatik sistemler için güçlü, makro içermeyen şablonlama sağlayabilir.
+
+
+
+DOTX, güvenlik nedenleriyle makrolara izin vermeyen ancak tutarlı şablonlama ve dinamik içerik yerleştirme gerektiren ortamlara uygundur. Otomasyon, güvenli, ölçeklenebilir şablonlama ve yürütülebilir kod gömülmeden DOCX örneklerinin aşağı akış oluşturulmasını sağlar.
+
+Programatik şablon oluşturma, şema tabanlı yer tutucuları, içerik kontrolleri ve şablon doğrulamasını destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Durumları" %}}
+
+
+
+* **Güvenli Şablon Dağıtımı**
+
+  Olanaklar dahilinde geniş çapta dağıtım için makro içermeyen DOTX şablonları oluşturun.
+
+
+
+* **Form ve İçerik Kontrolü Şablonları**
+
+  Aşağı akış otomasyonu için içerik kontrolleri içeren DOTX şablonları oluşturun.
+
+
+
+* **Şablon Odaklı Belge Birleştirme**
+
+  DOTX şablonlarını programatik belge oluşturmanın yetkili kaynağı olarak kullanın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Güvenli Şablon Boruları**
+
+  DOTX oluşturmayı otomatikleştirin ve makro içermeyi önleyen politikaları uygulayın.
+
+
+
+* **Şablon Doğrulama İşleri**
+
+  Yer tutucuların ve stillerin şema beklentileriyle eşleştiğinden emin olmak için otomatik kontrolleri çalıştırın.
+
+
+
+* **API Destekli Şablon Kullanımı**
+
+  İsteğe bağlı DOCX oluşturumu için DOTX şablonlarını içeren bir iç API sağlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}} 
+ 
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

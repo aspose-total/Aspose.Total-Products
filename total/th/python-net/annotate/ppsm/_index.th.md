@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การประยุกต์ใช้ PPSM annotation ช่วยในการสร้างโน้ตโครงสร้างสำหรับไฟล์สไลด์โชว์ที่เปิดใช้งานแมโคร ช่วยในการเพิ่มความชัดเจนในขณะทบทวน ซึ่งจะทำให้เข้าใจการเปลี่ยนฉากอัตโนมัติหรือปฏิสัมพันธ์ของสไลด์ได้ง่ายขึ้น
+
+การประยุกต์ใช้ annotation โดยอัตโนมัติ ช่วยในการตรวจสอบโดยการสแกนแมโคร การระบุรูปแบบตรรกะ และแทรกโน้ตที่อธิบายได้ละเอียด
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **เอกสารพฤติกรรมแมโคร**  
+
+&nbsp; เพิ่มโน้ตที่อธิบายการดำเนินการของสไลด์โชว์โดยอัตโนมัติ
+
+* **ความคิดเห็นในการทบทวน**  
+
+&nbsp; ให้คำแนะนำสำหรับเนื้อหาหรือเลย์เอาต์
+
+* **การมองเห็นตรรกะ**  
+
+&nbsp; เน้นบริเวณที่ได้รับผลกระทบจากการกระตุ้นแมโคร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **ตัววิเคราะห์แมโคร**  
+
+&nbsp; สแกนและแสดงความคิดเห็นโดยอัตโนมัติเมื่อตรวจพบสคริปต์
+
+* **โน้ตที่มีพื้นฐานจากเทมเพลต**  
+
+&nbsp; แทรกโน้ตที่กำหนดไว้ล่วงหน้าในไฟล์ต่าง ๆ
+
+* **ป้าย QA อัตโนมัติ**  
+
+&nbsp; ทำเครื่องหมายบนตรรกะที่เสี่ยงหรือเลิกใช้
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

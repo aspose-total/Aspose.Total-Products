@@ -75,7 +75,65 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chú thích POTX thêm ghi chú cấu trúc và hướng dẫn bố cục vào các mẫu trình bày không phải là macro, hỗ trợ việc tạo slide rõ ràng và duy trì tiêu chuẩn hình ảnh nhất quán. Điều này đảm bảo người dùng tuân thủ các quy tắc thiết kế đồng nhất trên các bài thuyết trình.
+
+Tự động hóa giúp tối ưu hóa việc cập nhật POTX, cho phép hệ thống áp dụng các quy tắc chú thích, phát hiện sai lệch bố cục và cập nhật hướng dẫn một cách hiệu quả.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Hướng Dẫn Mẫu**  
+
+&nbsp; Hướng dẫn người dùng về cách sử dụng slide và cấu trúc.
+
+* **Ghi Chú Thiết Kế**  
+
+&nbsp; Đánh dấu quy tắc vị trí cho văn bản và hình ảnh.
+
+* **Chỉ Mục Sửa Đổi**  
+
+&nbsp; Đánh dấu các sửa đổi trong các mẫu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Kiểm Tra Mẫu Tự Động**  
+
+&nbsp; Chèn ý kiến khi các kiểu không tuân thủ tiêu chuẩn.
+
+* **Chèn Ghi Chú Tập Trung**  
+
+&nbsp; Cập nhật hướng dẫn trên nhiều mẫu cùng một lúc.
+
+* **Xác Nhận Cấu Trúc Slide**  
+
+&nbsp; Tự động ghi chú các không nhất quán về cấu trúc slide.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

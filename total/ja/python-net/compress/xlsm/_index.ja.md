@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLSMファイル（マクロ有効なExcelワークブック）は、埋め込まれたマクロを保持しつつストレージと共有を最適化する圧縮が必要です。
+
+
+
+Python APIを使用すると、自動化されたXLSM圧縮が可能であり、マクロ機能を維持し、スケーラブルなワークフロー統合を実現できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **マクロの保持**
+
+&nbsp; 埋め込まれたマクロを壊さずにXLSMファイルを安全に圧縮します。
+
+
+
+* **高速な共有とコラボレーション**
+
+&nbsp; より小さなXLSMファイルはチームのワークフローとクラウドへのアップロードを容易にします。
+
+
+
+* **自動アーカイブ**
+
+&nbsp; 圧縮により、マクロ有効なワークブックの効率的なストレージが確保されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **一括XLSM圧縮**
+
+&nbsp; Pythonスクリプトを使用して複数のマクロ有効ファイルを自動的に処理できます。
+
+
+
+* **BIおよびDMSプラットフォームとの統合**
+
+&nbsp; 圧縮されたファイルは自動化システムで管理できます。
+
+
+
+* **条件付き圧縮**
+
+&nbsp; 自動化は大きなマクロや重いメディアコンテンツを持つファイルを対象にできます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

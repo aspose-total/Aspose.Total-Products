@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تستفيد ملفات XLTX (قوالب Excel الحديثة) من ضغط لتحسين التخزين وتسريع عملية المشاركة، مع الحفاظ على جميع التنسيقات والصيغ.
+
+
+
+تمكن واجهات برمجة التطبيقات في Python من ضغط ملفات XLTX تلقائيًا، مما يحسن كفاءة سير العمل والتكامل مع أنظمة إدارة المستندات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين تخزين القوالب**  
+
+&nbsp; ضغط قوالب XLTX مع الحفاظ على جميع الوظائف.
+
+
+
+* **مشاركة سريعة للقوالب**  
+
+&nbsp; تمكين توزيع أسرع وتعاون أفضل بفضل الملفات الأصغر.
+
+
+
+* **أرشفة تلقائية**  
+
+&nbsp; يبسط الضغط إدارة التخزين على المدى الطويل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط دفعي لملفات XLTX**  
+
+&nbsp; تقوم النصوص في Python بضغط العديد من القوالب تلقائيًا.
+
+
+
+* **التكامل مع أنظمة سير العمل**  
+
+&nbsp; يمكن تحميل القوالب المضغوطة في خطوط الأنابيب التلقائية.
+
+
+
+* **ضغط ذكي**  
+
+&nbsp; تسمح القواعد الشرطية باستهداف القوالب ذات البيانات الكبيرة أو الوسائط المضمنة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

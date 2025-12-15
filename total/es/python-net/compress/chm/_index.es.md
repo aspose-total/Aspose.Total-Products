@@ -78,7 +78,87 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compresión CHM reduce el tamaño de los archivos de Ayuda HTML Compilados, que contienen páginas HTML, imágenes y estructuras de navegación para la documentación de software. Los archivos CHM comprimidos mejoran la eficiencia de almacenamiento, la velocidad de distribución y la accesibilidad del usuario.
+
+
+
+Las APIs de Python permiten la compresión automatizada de CHM, el procesamiento por lotes y la integración con flujos de trabajo de documentación para una gestión escalable de sistemas de ayuda y manuales técnicos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+
+
+* **Entrega de Documentación de Software**  
+
+&nbsp; Los archivos CHM comprimidos se cargan más rápido y ocupan menos espacio en disco.
+
+
+
+* **Archivo y Respaldo**  
+
+&nbsp; Reduzca el almacenamiento para colecciones de archivos de ayuda antiguos y grandes.
+
+
+
+* **Compartir Eficientemente**  
+
+&nbsp; Los archivos CHM más pequeños se transmiten rápidamente a través de redes o dispositivos.
+
+
+
+* **Accesibilidad del Usuario**  
+
+&nbsp; Los archivos optimizados mejoran el rendimiento de carga en visores de ayuda.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Compresión por Lotes de CHM**  
+
+&nbsp; Automatice la reducción de tamaño para múltiples archivos de ayuda.
+
+
+
+* **Optimización de Activos Integrados**  
+
+&nbsp; Comprima imágenes, scripts y páginas HTML automáticamente.
+
+
+
+* **Integración con Pipelines de Documentación**  
+
+&nbsp; Comprima archivos CHM durante flujos de trabajo de construcción o implementación.
+
+
+
+* **Niveles de Compresión Dinámicos**  
+
+&nbsp; Ajuste basado en el tamaño y complejidad del contenido.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

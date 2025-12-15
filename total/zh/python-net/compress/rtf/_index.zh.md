@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF（Rich Text Format）文件在包含复杂格式或嵌入对象时可能会变得很大；压缩可减小文件大小而不影响跨平台兼容性。
+
+
+
+Python API 可实现自动化 RTF 压缩，简化现代系统中的文档处理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **跨平台存储优化**  
+
+&nbsp; 压缩 RTF 文件以在不同操作系统和应用程序之间高效使用。
+
+
+
+* **更快的共享**  
+
+&nbsp; 更小的 RTF 文件改善电子邮件和云分发。
+
+
+
+* **自动化归档**  
+
+&nbsp; 批量压缩简化了传统或大型 RTF 文档的归档。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量 RTF 压缩**  
+
+&nbsp; 使用 Python 脚本自动处理多个 RTF 文档。
+
+
+
+* **与文档工作流集成**  
+
+&nbsp; 压缩的 RTF 文件可加载到自动化工作流或文档管理系统中。
+
+
+
+* **条件压缩**  
+
+&nbsp; 自动化可根据大小或嵌入内容针对 RTF 文件进行压缩。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

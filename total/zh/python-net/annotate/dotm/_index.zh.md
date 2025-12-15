@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM注释针对启用宏的Word模板，清晰记录嵌入式脚本和模板逻辑。这有助于保持自动化功能的透明度，并确保团队间的一致使用。
+
+自动化的DOTM注释使系统能够扫描宏，更新注释，并在规模上执行模板规则。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **宏行为说明**
+
+  &nbsp; 解释嵌入式脚本的工作原理。
+
+* **模板指南**
+
+  &nbsp; 指导用户正确使用宏。
+
+* **逻辑跟踪**
+
+  &nbsp; 标记宏触发的部分。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **宏发现工具**
+
+  &nbsp; 自动插入检测到的脚本的注释。
+
+* **基于工作流的模板更新**
+
+  &nbsp; 动态添加或修改注释。
+
+* **质量保证标记**
+
+  &nbsp; 标记风险或过时的宏逻辑。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

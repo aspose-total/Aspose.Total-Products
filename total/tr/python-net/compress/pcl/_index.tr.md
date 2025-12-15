@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PCL (Yazıcı Komut Dili) sıkıştırması, yazıcıya hazır belgeleri boyutunu azaltarak baskı sadeliğini koruyarak optimize eder. Sıkıştırılmış PCL dosyaları depolama verimliliğini artırır, daha hızlı transfer sağlar ve baskı iş akışlarında performansı artırır.
+
+
+
+Python API'leri otomatik PCL sıkıştırma, toplu işleme ve ölçeklenebilir baskı ve belge yönetimi iş akışları için dönüşüm sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* **Baskı İşi Optimizasyonu**  
+
+&nbsp; Daha küçük PCL dosyaları spool sürelerini azaltır ve baskı hızını artırır.
+
+
+
+* **Arşivleme ve Depolama**  
+
+&nbsp; Sıkıştırılmış PCL dosyaları büyük baskı işi arşivleri için depolama alanı tasarrufu sağlar.
+
+
+
+* **Baskıya Hazır Belgelerin Dağıtımı**  
+
+&nbsp; Optimize edilmiş dosyalar ağlar veya baskı sunucuları üzerinden daha hızlı iletilir.
+
+
+
+* **İş Akışı Verimliliği**  
+
+&nbsp; Otomatik baskı sistemlerinde performansı artırır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu PCL Sıkıştırma**  
+
+&nbsp; Birden fazla baskı dosyasının optimizasyonunu otomatikleştirin.
+
+
+
+* **Gömülü Varlık Optimizasyonu**  
+
+&nbsp; Yazıcı Komut Dili dosyaları içinde yazı tiplerini, görüntüleri ve grafikleri otomatik olarak sıkıştırın.
+
+
+
+* **Baskı İş Akışlarıyla Entegrasyon**  
+
+&nbsp; Baskı veya arşivlemeden önce PCL dosyalarını dinamik olarak sıkıştırın.
+
+
+
+* **Dinamik Sıkıştırma Kuralları**  
+
+&nbsp; Belge karmaşıklığına veya içerik türüne göre optimizasyonu ayarlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

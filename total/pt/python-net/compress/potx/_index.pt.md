@@ -101,7 +101,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/sli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX (modelos modernos do PowerPoint) beneficiam-se da compressão para reduzir o tamanho e melhorar a eficiência de compartilhamento, mantendo todos os elementos de formatação e design.
+
+
+
+As APIs do Python permitem a compressão automatizada de POTX, melhorando a escalabilidade do fluxo de trabalho e a gestão de modelos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Otimização do Armazenamento de Modelos**  
+
+&nbsp; Comprimir modelos POTX preservando o conteúdo e o design dos slides.
+
+
+
+* **Compartilhamento Rápido de Modelos**  
+
+&nbsp; Arquivos menores permitem distribuição rápida entre equipes e plataformas de nuvem.
+
+
+
+* **Arquivamento Automatizado**  
+
+&nbsp; A compressão simplifica a gestão de armazenamento de modelos a longo prazo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de POTX**  
+
+&nbsp; Scripts em Python automatizam a compressão de vários modelos.
+
+
+
+* **Integração com Sistemas de Fluxo de Trabalho**  
+
+&nbsp; Modelos comprimidos podem ser carregados dinamicamente em pipelines automatizados.
+
+
+
+* **Compressão Inteligente**  
+
+&nbsp; A automação condicional visa modelos grandes ou com muitos elementos de mídia.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

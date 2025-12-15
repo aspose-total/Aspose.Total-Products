@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PCL (Printer Command Language) 압축은 인쇄 준비 문서를 최적화하여 크기를 줄이면서 출력의 충실성을 유지합니다. 압축된 PCL 파일은 저장 효율성을 향상시키고 빠른 전송 및 인쇄 워크플로우의 성능을 향상시킵니다.
+
+
+
+Python API를 사용하면 자동화된 PCL 압축, 일괄 처리 및 변환을 통해 확장 가능한 인쇄 및 문서 관리 파이프라인을 구축할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **인쇄 작업 최적화**  
+
+&nbsp; 더 작은 PCL 파일은 스풀 시간을 줄이고 인쇄 속도를 향상시킵니다.
+
+
+
+* **아카이브 및 저장**  
+
+&nbsp; 압축된 PCL 파일은 대용량 인쇄 작업 아카이브를 위한 저장 공간을 절약합니다.
+
+
+
+* **인쇄 준비 문서의 배포**  
+
+&nbsp; 최적화된 파일은 네트워크나 인쇄 서버를 통해 더 빠르게 전송됩니다.
+
+
+
+* **워크플로우 효율성**  
+
+&nbsp; 자동화된 인쇄 시스템의 성능을 향상시킵니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 PCL 압축**  
+
+&nbsp; 여러 인쇄 파일의 최적화를 자동화합니다.
+
+
+
+* **임베디드 에셋 최적화**  
+
+&nbsp; PCL 파일 내에서 글꼴, 이미지 및 그래픽을 자동으로 압축합니다.
+
+
+
+* **인쇄 파이프라인과의 통합**  
+
+&nbsp; 인쇄나 아카이빙 전에 PCL 파일을 동적으로 압축합니다.
+
+
+
+* **동적 압축 규칙**  
+
+&nbsp; 문서 복잡성이나 콘텐츠 유형에 따라 최적화를 조정합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

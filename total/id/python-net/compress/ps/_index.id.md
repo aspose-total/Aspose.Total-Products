@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi PS mengoptimalkan file PostScript, yang berisi grafik vektor, teks, dan instruksi cetak, untuk mengurangi ukuran file sambil mempertahankan kesetiaan cetak. File PS yang terkompresi meningkatkan efisiensi penyimpanan, transfer yang lebih cepat, dan kinerja dalam alur kerja pencetakan dan penerbitan.
+
+
+
+API Python memungkinkan kompresi PS otomatis, pemrosesan batch, dan integrasi dengan alur kerja pencetakan untuk manajemen dokumen dan grafis yang dapat diskalakan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Pekerjaan Cetak**  
+
+&nbsp; File PS yang terkompresi mengurangi waktu spool dan meningkatkan kecepatan cetak.
+
+
+
+* **Arsip & Penyimpanan**  
+
+&nbsp; Mengoptimalkan file PostScript besar untuk penyimpanan yang efisien.
+
+
+
+* **Distribusi Konten**  
+
+&nbsp; File PS yang lebih kecil ditransmisikan lebih cepat ke printer atau klien.
+
+
+
+* **Efisiensi Alur Kerja**  
+
+&nbsp; Meningkatkan kecepatan pemrosesan dalam sistem pencetakan dan penerbitan otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi PS Batch**  
+
+&nbsp; Otomatisasi pengurangan ukuran untuk beberapa file PostScript.
+
+
+
+* **Optimisasi Aset Tertanam**  
+
+&nbsp; Kompresi font, gambar, dan grafis secara otomatis.
+
+
+
+* **Integrasi dengan Pipa Cetak & Penerbitan**  
+
+&nbsp; Kompresi file PS selama pembuatan, unggahan, atau penyimpanan arsip.
+
+
+
+* **Tingkat Kompresi Dinamis**  
+
+&nbsp; Sesuaikan optimisasi berdasarkan kompleksitas konten dan output yang dimaksud.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

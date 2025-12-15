@@ -100,7 +100,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File DOTM adalah template yang mendukung makro. Kompresi mengurangi penyimpanan sambil mempertahankan fungsionalitas makro, memungkinkan implementasi template yang efisien.
+
+
+
+API Python mendukung kompresi DOTM otomatis untuk menjaga integritas di lingkungan perusahaan dan kolaboratif.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Kunci" %}}
+
+
+
+* **Pelestarian Template Makro**  
+
+&nbsp; Kompres file DOTM dengan aman tanpa merusak makro.
+
+
+
+* **Distribusi Template Lebih Cepat**  
+
+&nbsp; File yang lebih kecil lebih mudah dibagikan di antara tim dan sistem.
+
+
+
+* **Arsip Template**  
+
+&nbsp; Kompresi otomatis memastikan efisiensi penyimpanan jangka panjang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi Batch DOTM**  
+
+&nbsp; Skrip Python dapat memproses beberapa template yang mendukung makro secara otomatis.
+
+
+
+* **Integrasi Alur Kerja**  
+
+&nbsp; Template yang terkompresi dapat digunakan dalam sistem generasi dokumen otomatis.
+
+
+
+* **Kompresi Kondisional**  
+
+&nbsp; Otomatisasi berdasarkan ukuran, konten, atau kompleksitas makro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

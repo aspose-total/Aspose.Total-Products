@@ -78,7 +78,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén XPS (XML Paper Specification) giảm kích thước của tài liệu cố định trong khi bảo tồn chất lượng, đồ họa vector và phông chữ nhúng. Các tệp XPS được nén cải thiện hiệu quả lưu trữ, truyền tải và hiệu suất hiển thị trên các thiết bị.
+
+
+
+API Python cho phép nén XPS tự động, xử lý hàng loạt và tích hợp vào quy trình làm việc với tài liệu để quản lý và phân phối nội dung một cách linh hoạt.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Lưu Trữ Tài Liệu**  
+
+&nbsp; Nén các tệp XPS để lưu trữ dài hạn mà không mất chất lượng.
+
+
+
+* **Phân Phối Hiệu Quả**  
+
+&nbsp; Các tệp XPS nhỏ chuyển tải nhanh hơn trên mạng hoặc thiết bị.
+
+
+
+* **Quy Trình In Ấn \& Xuất Bản**  
+
+&nbsp; XPS được tối ưu hóa cải thiện tốc độ hiển thị và hiệu suất in.
+
+
+
+* **Thư Viện Số**  
+
+&nbsp; Giảm diện tích lưu trữ cho bộ sưu tập tài liệu cố định.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén XPS Hàng Loạt**  
+
+&nbsp; Tự động giảm kích thước cho nhiều tệp XPS.
+
+
+
+* **Tối Ưu Hóa Tài Nguyên Nhúng**  
+
+&nbsp; Nén phông chữ, hình ảnh và đồ họa một cách tự động.
+
+
+
+* **Tích Hợp Quy Trình Làm Việc**  
+
+&nbsp; Nén tệp XPS động khi tải lên CMS, DAM hoặc đường ống in.
+
+
+
+* **Các Cấp Độ Nén Động**  
+
+&nbsp; Điều chỉnh dựa trên nội dung tài liệu, độ phân giải hoặc đầu ra dự kiến.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

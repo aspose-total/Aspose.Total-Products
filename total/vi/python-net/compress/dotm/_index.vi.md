@@ -100,7 +100,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Words for Python via .
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tệp DOTM là các mẫu được kích hoạt macro. Nén giảm lưu trữ trong khi bảo tồn chức năng macro, cho phép triển khai mẫu hiệu quả.
+
+
+
+API Python hỗ trợ việc nén DOTM tự động để duy trì tính toàn vẹn trong môi trường doanh nghiệp và cộng tác.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Bảo Tồn Mẫu Macro**  
+
+&nbsp; Nén tệp DOTM một cách an toàn mà không làm hỏng các macro.
+
+
+
+* **Phân Phối Mẫu Nhanh Hơn**  
+
+&nbsp; Tệp nhỏ hơn dễ chia sẻ qua các nhóm và hệ thống.
+
+
+
+* **Lưu Trữ Mẫu**  
+
+&nbsp; Nén tự động đảm bảo hiệu quả lưu trữ dài hạn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Batch DOTM**  
+
+&nbsp; Kịch bản Python có thể xử lý nhiều mẫu được kích hoạt macro một cách tự động.
+
+
+
+* **Tích Hợp Quy Trình Làm Việc**  
+
+&nbsp; Các mẫu đã nén có thể được sử dụng trong các hệ thống tạo tài liệu tự động.
+
+
+
+* **Nén Có Điều Kiện**  
+
+&nbsp; Tự động hóa dựa trên kích thước, nội dung hoặc phức tạp của macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

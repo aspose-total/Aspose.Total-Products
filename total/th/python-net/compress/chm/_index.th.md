@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การบีเอ็มพีบีบอัดช่วยลดขนาดของไฟล์ Compiled HTML Help ซึ่งประกอบด้วยหน้า HTML, รูปภาพ และโครงสร้างการนำทางสำหรับเอกสารเทคนิคของซอฟต์แวร์ ไฟล์ CHM ที่ถูกบีบอัดช่วยเพิ่มประสิทธิภาพในการจัดเก็บ ความเร็วในการกระจาย และการเข้าถึงของผู้ใช้
+
+
+
+Python APIs ช่วยให้สามารถบีบอัด CHM โดยอัตโนมัติ ประมวลผลเป็นชุด และผสานเข้ากับขั้นตอนการทำงานของเอกสารเพื่อการบริหารจัดการระบบช่วยเหลือและคู่มือเทคนิคได้ในลักษณะของการขยายตัวได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การส่งมอบเอกสารซอฟต์แวร์**  
+
+&nbsp; ไฟล์ CHM ที่ถูกบีบอัดโหลดเร็วขึ้นและใช้พื้นที่ดิสก์น้อยลง
+
+
+
+* **การถูกเก็บไว้และสำรองข้อมูล**  
+
+&nbsp; ลดพื้นที่เก็บสำหรับคอลเลกชันไฟล์ช่วยเหลือที่ใหญ่และเก่า
+
+
+
+* **การแบ่งปันที่มีประสิทธิภาพ**  
+
+&nbsp; ไฟล์ CHM ขนาดเล็กส่งผ่านเร็วขึ้นในเครือข่ายหรืออุปกรณ์
+
+
+
+* **การเข้าถึงของผู้ใช้**  
+
+&nbsp; ไฟล์ที่ถูกปรับให้เหมาะสมช่วยประสิทธิภาพในการโหลดในโปรแกรมดูเอกสาร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* **การบีเอ็มพีบีบอัดชุด**  
+
+&nbsp; ทำให้การลดขนาดเป็นไปอัตโนมัติสำหรับไฟล์ช่วยเหลือหลายไฟล์
+
+
+
+* **การปรับปรุงสิ่งที่ฝังอยู่ในชุด**  
+
+&nbsp; บีเอ็มพีบีบอัดรูปภาพ, สคริปต์ และหน้า HTML โดยอัตโนมัติ
+
+
+
+* **การผสานเข้ากับกระบวนการเอกสาร**  
+
+&nbsp; บีเอ็มพีบีบอัดไฟล์ CHM ขณะกระบวนการสร้างหรือการใช้งาน
+
+
+
+* **ระดับการบีเอ็มพีบีบอัดที่เปลี่ยนไปได้**  
+
+&nbsp; ปรับตามขนาดและความซับซ้อนของเนื้อหา
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

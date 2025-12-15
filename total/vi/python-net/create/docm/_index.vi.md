@@ -43,9 +43,81 @@ informat: DOCM
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM — Tệp `.docm` hỗ trợ macro nhúng và lý tưởng khi tài liệu phải bao gồm hành vi có thể lập trình; Python APIs có thể tạo tài liệu hỗ trợ macro bằng cách lắp ráp nội dung OOXML và đính kèm dự án VBA đã ký hoặc chưa ký thông qua tự động hóa. Việc tạo ra theo cách lập trình đảm bảo rằng các macro được đóng gói một cách nhất quán và có thể được xác thực hoặc ký như một phần của quá trình xây dựng.
+
+
+
+Sử dụng DOCM là phù hợp khi logic kinh doanh (các trường tùy chỉnh, nút xuất, hoặc macro thu thập dữ liệu) phải tồn tại bên trong tài liệu; tự động hóa cho phép chèn, kiểm tra và kiểm soát nội dung macro để đáp ứng các kiểm tra bảo mật và tuân thủ.
+
+
+
+Các bài kiểm tra tự động và quy trình CI có thể đảm bảo tính toàn vẹn mã macro và ký mã macro trước khi phân phối.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tự động hóa được nhúng trong Tài Liệu**
+
+&nbsp; Phân phối các tệp DOCM chạy các macro đã được phê duyệt để thu thập dữ liệu cấu trúc hoặc biến đổi cục bộ.
+
+
+
+* **Triển Khai Macro Được Kiểm Soát**
+
+&nbsp; Chèn các mô-đun VBA đã được duyệt vào tài liệu trong quá trình xây dựng để thực hiện hành vi macro được quy định.
+
+
+
+* **Mẫu Hỗ Trợ Macro**
+
+&nbsp; Sử dụng các mẫu DOTM làm nguồn để tạo ra tài liệu DOCM với tự động hóa đã được nướng sẵn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **CI Xác Thực Macro**
+
+&nbsp; Tự động chạy phân tích tĩnh trên mã VBA và chặn quá trình xây dựng khi vi phạm chính sách.
+
+
+
+* **Ký và Đóng Gói**
+
+&nbsp; Tự động ký số cho các macro và đóng gói các tệp DOCM để phân phối an toàn.
+
+
+
+* **Chèn Macro từ Kho Lưu Trữ An Toàn**
+
+&nbsp; Rút các đoạn mã VBA đã được phê duyệt từ một kho lưu trữ an toàn và nhúng chúng vào các tệp DOCM được tạo ra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

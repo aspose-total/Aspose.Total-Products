@@ -78,7 +78,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén CDR tập trung vào tối ưu hóa đồ họa vector CorelDRAW để giảm kích thước tệp trong khi bảo tồn hình dạng, lớp, văn bản và cấu trúc thiết kế. Vì tệp CDR có thể bao gồm các đối tượng vector phức tạp và phương tiện nhúng, việc nén là quan trọng để cải thiện xử lý dự án, hiệu suất lưu trữ và quy trình thiết kế.
+
+
+
+API Python hỗ trợ nén tự động, tối ưu hóa và chuyển đổi tệp CDR, cho phép quản lý quy mô của tài sản đồ họa trên môi trường sản xuất, in ấn và nội dung kỹ thuật số.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Tài Sản Thiết Kế Đồ Họa**  
+
+&nbsp; Nén thiết kế vector phức tạp để tối ưu hóa việc lưu trữ và chia sẻ dự án.
+
+
+
+* **Quy Trình Sản Xuất In**  
+
+&nbsp; Tệp CDR nhỏ giúp cải thiện hiệu suất trong giai đoạn trước in và xử lý in.
+
+
+
+* **Kho Lưu Trữ Tệp Phiên Bản**  
+
+&nbsp; Nén giữ cho các bộ sưu tập thiết kế lớn trở nên nhẹ và dễ quản lý.
+
+
+
+* **Giao Hàng Đa Nền Tảng**  
+
+&nbsp; Giảm kích thước tệp tăng tốc độ truyền tải giữa các nhóm thiết kế, công cụ và khách hàng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Batch CDR**  
+
+&nbsp; Tự động hóa tối ưu hóa cho hàng trăm tệp CorelDRAW cùng một lúc.
+
+
+
+* **Chuyển Đổi CDR sang Định Dạng Đã Được Tối Ưu Hóa**  
+
+&nbsp; Chuyển đổi CDR sang SVG, PDF hoặc PNG trong khi áp dụng các quy tắc nén.
+
+
+
+* **Tích Hợp Quy Trình Thiết Kế**  
+
+&nbsp; Nén tài sản tự động khi tải lên hệ thống CMS, DAM hoặc quy trình làm việc.
+
+
+
+* **Quy Tắc Nén Thích Ứng**  
+
+&nbsp; Tự động điều chỉnh cấp độ nén dựa trên độ phức tạp của tệp hoặc phương tiện nhúng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

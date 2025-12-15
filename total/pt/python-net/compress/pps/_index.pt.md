@@ -101,7 +101,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/sli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Os arquivos PPS (PowerPoint Show) se beneficiam da compressão para reduzir o armazenamento e melhorar o desempenho durante apresentações.
+
+
+
+As APIs do Python suportam a compressão automatizada de PPS para compartilhamento mais rápido e eficiência de armazenamento.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Otimização de Arquivo de Apresentação**  
+
+&nbsp; Comprima arquivos PPS sem afetar o conteúdo dos slides ou transições.
+
+
+
+* **Distribuição Mais Rápida**  
+
+&nbsp; Arquivos menores facilitam o compartilhamento rápido e uploads na nuvem.
+
+
+
+* **Eficiência de Arquivamento**  
+
+&nbsp; A compressão automatizada suporta o armazenamento de longo prazo de arquivos de apresentação.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de PPS**  
+
+&nbsp; Scripts em Python podem comprimir vários arquivos de apresentação automaticamente.
+
+
+
+* **Integração com Sistemas de Apresentação**  
+
+&nbsp; Arquivos PPS comprimidos podem ser carregados dinamicamente em fluxos de trabalho automatizados.
+
+
+
+* **Compressão Condicional**  
+
+&nbsp; Destine apresentações grandes ou arquivos ricos em mídia para compressão.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

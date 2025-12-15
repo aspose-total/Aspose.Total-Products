@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تركز ضغط SVG على تحسين ملفات الرسومات النقطية القائمة على XML، مما يقلل من حجم الملف مع الحفاظ على قابلية التوسع والجودة وإمكانية التحرير. يعمل ضغط SVG بكفاءة على تحسين سرعة التحميل وأداء العرض والتخزين لتصميم الويب وواجهات المستخدم وأنظمة التصميم الرقمي.
+
+
+
+تمكن واجهات برمجة التطبيقات في Python من ضغط SVG تلقائيًا وتصغيرها ومعالجتها بالدُفعات، مما يدعم الأنابيب القابلة للتوسع لتطوير الويب والأصول الرسومية وأنظمة إدارة المحتوى.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين أداء الويب**  
+
+&nbsp; تحميل ملفات SVG المضغوطة بسرعة على مواقع الويب والتطبيقات.
+
+
+
+* **كفاءة تصميم واجهة المستخدم**  
+
+&nbsp; تحسين سرعة العرض والاستجابة في الواجهات باستخدام SVGs أصغر.
+
+
+
+* **إدارة الأصول الرقمية**  
+
+&nbsp; تصبح مجموعات SVG المحسنة أسهل في التخزين والتنظيم واسترجاعها.
+
+
+
+* **توصيل عبر منصات متعددة**  
+
+&nbsp; تحافظ ملفات SVG المضغوطة على الجودة والقابلية للتوسع عبر الأجهزة والمتصفحات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط SVG بالدُفعات**  
+
+&nbsp; أتمم عملية تحسين ملفات SVG متعددة بشكل جماعي.
+
+
+
+* **تصغير وتنظيف**  
+
+&nbsp; إزالة البيانات الوصفية الزائدة والتعليقات والمسافات البيضاء تلقائيًا.
+
+
+
+* **تكامل سير العمل**  
+
+&nbsp; ضغط SVGs تلقائيًا عند التحميل إلى أنظمة إدارة المحتوى أو الأصول الرقمية أو منصات الويب.
+
+
+
+* **قواعد ضغط ديناميكية**  
+
+&nbsp; ضبط الضغط استنادًا إلى التعقيد أو عدد العقد أو متطلبات العرض.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

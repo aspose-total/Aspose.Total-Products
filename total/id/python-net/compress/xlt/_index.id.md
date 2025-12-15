@@ -78,7 +78,69 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File template XLT mendapatkan manfaat dari kompresi untuk mengurangi penyimpanan dan meningkatkan distribusi tanpa mengubah struktur template.
+
+
+
+API Python memungkinkan kompresi otomatis dari template XLT untuk manajemen template yang dapat diskalakan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Penyimpanan Template**  
+  Compress file XLT sambil mempertahankan format dan formula.
+
+
+
+* **Berbagi Template Lebih Cepat**  
+  Ukuran file yang lebih kecil memungkinkan distribusi cepat ke tim.
+
+
+
+* **Arsip Otomatis**  
+  Template yang terkompresi menyederhanakan manajemen penyimpanan jangka panjang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi Template Batch**  
+  Otomatisasi pengolahan beberapa file XLT menggunakan skrip Python.
+
+
+
+* **Integrasi dengan Sistem Alur Kerja**  
+  Template yang terkompresi dapat dimuat secara dinamis ke dalam alur kerja otomatis.
+
+
+
+* **Kompresi Bersyarat**  
+  Otomatisasi dapat menargetkan template dengan dataset besar atau formula kompleks.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

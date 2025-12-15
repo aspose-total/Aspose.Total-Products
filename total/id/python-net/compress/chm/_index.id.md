@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi CHM mengurangi ukuran file Bantuan HTML Terkompilasi, yang berisi halaman HTML, gambar, dan struktur navigasi untuk dokumentasi perangkat lunak. File CHM yang terkompresi meningkatkan efisiensi penyimpanan, kecepatan distribusi, dan aksesibilitas pengguna.
+
+
+
+API Python memungkinkan kompresi CHM otomatis, pemrosesan batch, dan integrasi dengan alur kerja dokumentasi untuk pengelolaan sistem bantuan dan manual teknis yang dapat diskalakan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pengiriman Dokumentasi Perangkat Lunak**  
+
+  &nbsp; File CHM yang terkompresi memuat lebih cepat dan memakan ruang disk yang lebih sedikit.
+
+
+
+* **Arsip & Cadangan**  
+
+  &nbsp; Kurangi penyimpanan untuk koleksi file bantuan lama dan besar.
+
+
+
+* **Berbagi yang Efisien**  
+
+  &nbsp; File CHM yang lebih kecil mentransmisikan dengan cepat melintasi jaringan atau perangkat.
+
+
+
+* **Aksesibilitas Pengguna**  
+
+  &nbsp; File yang dioptimalkan meningkatkan kinerja pemuatan dalam penampil bantuan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi CHM Batch**  
+
+  &nbsp; Otomatisasi pengurangan ukuran untuk beberapa file bantuan.
+
+
+
+* **Optimisasi Aset Tertanam**  
+
+  &nbsp; Kompresi gambar, skrip, dan halaman HTML secara otomatis.
+
+
+
+* **Integrasi dengan Pipa Dokumentasi**  
+
+  &nbsp; Kompresi file CHM selama alur kerja pembangunan atau penyebaran.
+
+
+
+* **Tingkat Kompresi Dinamis**  
+
+  &nbsp; Sesuaikan berdasarkan ukuran dan kompleksitas konten.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

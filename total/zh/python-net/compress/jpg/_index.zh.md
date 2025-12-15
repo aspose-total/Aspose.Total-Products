@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+通用图像压缩是指优化任何基于光栅的图像文件，以减小文件大小同时保持视觉质量。这种方法对于存储效率、更快传输和在数字平台、应用程序和内容管道中平滑渲染至关重要。
+
+
+
+Python API 可实现自动化图像压缩、批量处理和格式转换，支持可扩展的媒体管理、网络交付和基于云的存储库工作流。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **网络和应用性能**  
+
+&nbsp; 压缩图像加载更快，减少带宽使用量，提高用户体验。
+
+
+
+* **数字资产管理**  
+
+&nbsp; 优化的图像更易于存储、组织和从大型库中检索。
+
+
+
+* **内容发布**  
+
+&nbsp; 在线平台上保持图像质量的同时最小化文件大小。
+
+
+
+* **存档和备份**  
+
+&nbsp; 减少对大量光栅图像的存储需求。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量图像压缩**  
+
+&nbsp; Python 脚本可以自动优化数百个通用图像文件。
+
+
+
+* **动态格式选择**  
+
+&nbsp; 自动化可以将图像转换为最佳格式 JPG 并进行压缩。
+
+
+
+* **工作流集成**  
+
+&nbsp; 在上传到 CMS、DAM 或云平台时自动压缩图像。
+
+
+
+* **基于分辨率的压缩**  
+
+&nbsp; 根据图像分辨率、尺寸或用途动态调整压缩级别。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

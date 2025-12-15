@@ -101,7 +101,37 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+PPTMファイル（マクロ有効プレゼンテーション）は、マクロを保持しながらファイルサイズを削減して共有および保存するための圧縮を利用します。
+
+Python APIを使用すると、企業のワークフローでマクロ機能を維持しながらPPTMの自動圧縮が可能です。
+
+## {{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+- **マクロの保持**
+  &nbsp; マクロが埋め込まれたPPTMファイルを壊さずに圧縮します。
+
+- **迅速なコラボレーション**
+  &nbsp; マクロ有効ファイルのサイズが小さくなるため、チーム共有やクラウドへのアップロードが容易になります。
+
+- **自動アーカイブ**
+  &nbsp; 圧縮により、マクロを含むプレゼンテーションの効率的な長期保存が確保されます。
+
+## {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+- **一括PPTM圧縮**
+  &nbsp; Pythonスクリプトを使用して複数のマクロ有効ファイルを自動的に処理できます。
+
+- **ワークフローシステムとの統合**
+  &nbsp; 圧縮されたPPTMファイルは自動化された文書ワークフローで使用できます。
+
+- **条件付き圧縮**
+  &nbsp; 自動化は、大きなメディアや複雑なマクロを持つファイルを対象にすることができます。
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

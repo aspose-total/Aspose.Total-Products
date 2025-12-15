@@ -98,7 +98,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+קבצי DOTX, תבניות Word מודרניות ללא מאקרוס, משתמשות בדחיסה ליעילות אחסון ושיתוף מהיר יותר.
+
+
+
+אוטומציה בבסיס פייתון מאפשרת דחיסת קבצי DOTX תוך שמירה על העיצוב, הפריסה והמשאבים המוטבעים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **יעילות אחסון של תבניות**  
+
+  &nbsp; הפחתת גודל DOTX תוך שמירה על עיצוב עקבי.
+
+
+
+* **שיתוף תבניות מהיר**  
+
+  &nbsp; קבצים קטנים מבטיחים שיתוף מהיר יותר בין צוותים.
+
+
+
+* **ניהול ארכיון**  
+
+  &nbsp; דחיסה אוטומטית תומכת בשמירה ארוכת טווח על תבניות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **דחיסת DOTX בצמודות**  
+
+  &nbsp; סקריפטים בפייתון יכולים לדחוס מספר קבצי תבניות בו זמנית.
+
+
+
+* **אינטגרציה עם מערכות מסמכים**  
+
+  &nbsp; תבניות דחוסות יכולות להינהל דינמית בתהליכי עבודה.
+
+
+
+* **כללי דחיסה חכמים**  
+
+  &nbsp; אוטומציה בהתבסס על גודל קובץ, אובייקטים מוטבעים או תבניות עם תמונות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

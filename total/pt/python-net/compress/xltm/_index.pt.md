@@ -78,7 +78,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/zip
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Os arquivos XLTM (modelos habilitados para macro) requerem compressão que preserve macros, reduzindo o tamanho do arquivo e melhorando a distribuição.
+
+
+
+A automação baseada em Python suporta a compressão escalável de modelos XLTM para fluxos de trabalho empresariais.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Preservação de Macros**  
+
+&nbsp; Mantenha os macros ao comprimir os modelos XLTM.
+
+
+
+* **Compartilhamento Eficiente**  
+
+&nbsp; Modelos menores melhoram a colaboração entre equipes.
+
+
+
+* **Arquivamento de Modelos**  
+
+&nbsp; A compressão automatizada melhora o armazenamento de modelos a longo prazo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de XLTM**  
+
+&nbsp; Scripts em Python podem processar vários modelos habilitados para macro automaticamente.
+
+
+
+* **Integração com Sistemas de BI e Fluxo de Trabalho**  
+
+&nbsp; Modelos XLTM comprimidos podem ser usados em pipelines automatizados.
+
+
+
+* **Compressão Condicional**  
+
+&nbsp; Destine a compressão a modelos grandes ou aqueles com mídia incorporada.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

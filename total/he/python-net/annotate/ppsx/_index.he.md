@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Powerpoint PPT PP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+הערת PPSX מעשירה קבצי המצגת בפורמט PPSX עם הערות ותזכורות מבניות, שמאפשרות ביקורת תוכן משופרת ושיפור שקיפות השקופיות. ההערות הללו עוזרות למשתמשים לאופטימיזציה של זרימת התוכן לפני מסירת המצגת.
+
+האוטומציה מאיצה את זרימות העבודה של PPSX על ידי החלת הערות עקביות, בדיקת בעיות פריסה ותיוג של רכיבי תוכן באופן תכנותי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **הערות לשיפור השקופית**  
+
+&nbsp; הוספת הצעות לבהירות התוכן.
+
+* **סקירות עיצוב**  
+
+&nbsp; הדגשת חוסר התאמה חזותית.
+
+* **משוב על מעברים**  
+
+&nbsp; סימון זמנים או תיקוני אנימציה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **הערת זמנים בצמיחה**  
+
+&nbsp; הכנסת הערות בהתאם לקצב האנימציה שזוהה.
+
+* **מיפוי מבנה אוטומטי**  
+
+&nbsp; זיהוי והערת רכיבי השקופית המרכזיים.
+
+* **בדיקות עיצוב תסריטיות**  
+
+&nbsp; החלת דגלים מבוססי כללים לרכיבי השקופית.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX（现代 PowerPoint 模板）通过压缩来减小文件大小，提高共享效率，同时保留所有格式和设计元素。
+
+
+
+Python API 允许自动化 POTX 压缩，提高工作流的可扩展性和模板管理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **模板存储优化**  
+
+&nbsp; 在保留内容和幻灯片设计的同时压缩 POTX 模板。
+
+
+
+* **快速模板共享**  
+
+&nbsp; 更小的文件可快速在团队和云平台之间分发。
+
+
+
+* **自动化归档**  
+
+&nbsp; 压缩简化了长期模板存储管理。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量 POTX 压缩**  
+
+&nbsp; Python 脚本自动压缩多个模板。
+
+
+
+* **与工作流系统集成**  
+
+&nbsp; 压缩模板可以动态加载到自动化流程中。
+
+
+
+* **智能压缩**  
+
+&nbsp; 有条件的自动化针对大型或媒体密集型模板。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

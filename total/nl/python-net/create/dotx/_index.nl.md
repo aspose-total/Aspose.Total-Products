@@ -43,9 +43,81 @@ Voor een ontwikkelaar, die probeert DOTX-bestanden te maken via de Python-toepas
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTX — `.dotx` is de macrovrije sjabloon (OOXML) ideaal voor veilige sjabloondistributie en deterministische documentgeneratie. Python API's kunnen DOTX-sjablonen produceren met stijlen, inhoudsbesturingselementen en inhoudsplaatsaanduidingen, waardoor robuuste, macrovrije sjablonering voor geautomatiseerde systemen mogelijk is.
+
+
+
+DOTX is geschikt voor omgevingen die macro's om veiligheidsredenen niet toestaan, maar toch consistente sjablonering en dynamische inhoudsbevolking vereisen. Automatisering maakt veilige, schaalbare sjablonering en downstream generatie van DOCX-instanties mogelijk zonder ingesloten uitvoerbare code.
+
+
+
+Programmatische sjabloongeneratie ondersteunt op schema gebaseerde aanduidingen, inhoudsbesturingselementen en sjabloonvalidatie.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Veilige Sjabloondistributie**
+
+  &nbsp; Maak macrovrije DOTX-sjablonen voor brede distributie in beveiligde omgevingen.
+
+
+
+* **Formulier- en Inhoudsbesturingssjablonen**
+
+  &nbsp; Bouw DOTX-sjablonen met inhoudsbesturingselementen voor downstream automatisering.
+
+
+
+* **Sjabloon-gedreven Documentassemblage**
+
+  &nbsp; Gebruik DOTX-sjablonen als de gezaghebbende bron voor programmatische documentcreatie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Veilige Sjabloongegevensstromen**
+
+  &nbsp; Automatiseer DOTX-generatie en handhaaf beleid dat macro-inclusie voorkomt.
+
+
+
+* **Sjabloonvalidatietaken**
+
+  &nbsp; Voer geautomatiseerde controles uit om ervoor te zorgen dat aanduidingen en stijlen overeenkomen met de schema-verwachtingen.
+
+
+
+* **API-gestuurd Sjabloon Gebruik**
+
+  &nbsp; Bied DOTX-sjablonen via een interne API aan voor on-demand DOCX-generatie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

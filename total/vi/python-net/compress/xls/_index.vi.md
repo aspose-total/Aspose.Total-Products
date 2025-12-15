@@ -78,7 +78,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén các tệp XLS giúp giảm dung lượng lưu trữ và tăng tốc độ chia sẻ các bảng tính Excel cũ trong khi bảo tồn các công thức, biểu đồ và định dạng.
+
+
+
+Tự động hóa dựa trên Python cho phép nén hàng loạt các tệp XLS, tạo điều kiện cho quản lý dữ liệu có khả năng mở rộ và hiệu quả công việc.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Bảng Tính Cũ**  
+
+&nbsp; Giảm kích thước tệp XLS mà không ảnh hưởng đến công thức hoặc tính toàn vẹn dữ liệu.
+
+
+
+* **Chia Sẻ Nhanh Hơn**  
+
+&nbsp; Tệp XLS nhỏ giúp tăng tốc độ gửi qua email và đám mây.
+
+
+
+* **Hiệu Quả Lưu Trữ**  
+
+&nbsp; Nén tự động đơn giản hóa việc lưu trữ dài hạn các tệp Excel cũ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén XLS Hàng Loạt**  
+
+&nbsp; Kịch bản Python có thể nén nhiều tệp XLS trong một lần thực thi.
+
+
+
+* **Tích Hợp với Hệ Thống Luồng Công Việc**  
+
+&nbsp; Các tệp XLS đã được nén có thể được tải vào đường ống tự động hoặc hệ thống quản lý tài liệu.
+
+
+
+* **Nén Theo Điều Kiện**  
+
+&nbsp; Chỉ định các tệp XLS có tập dữ liệu lớn hoặc phương tiện nhúng để nén.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

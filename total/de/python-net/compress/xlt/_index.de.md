@@ -78,7 +78,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLT-Vorlagendateien profitieren von Komprimierung, um Speicherplatz zu reduzieren und die Verteilung zu verbessern, ohne die Vorlagenstruktur zu verändern.
+
+
+
+Python-APIs ermöglichen die automatisierte Komprimierung von XLT-Vorlagen für ein skalierbares Vorlagenmanagement.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Optimierung der Vorlagenspeicherung**  
+
+&nbsp; Komprimieren von XLT-Dateien unter Beibehaltung von Formatierungen und Formeln.
+
+
+
+* **Schnelleres Teilen von Vorlagen**  
+
+&nbsp; Reduzierte Dateigrößen ermöglichen schnelle Verteilung an Teams.
+
+
+
+* **Automatisierte Archivierung**  
+
+&nbsp; Komprimierte Vorlagen vereinfachen das Langzeit-Speichermanagement.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Batch-Vorlagenkomprimierung**  
+
+&nbsp; Automatisierung der Verarbeitung mehrerer XLT-Dateien mithilfe von Python-Skripten.
+
+
+
+* **Integration mit Workflowsystemen**  
+
+&nbsp; Komprimierte Vorlagen können dynamisch in automatisierte Workflows geladen werden.
+
+
+
+* **Bedingte Komprimierung**  
+
+&nbsp; Automatisierung kann sich auf Vorlagen mit großen Datensätzen oder komplexen Formeln konzentrieren.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

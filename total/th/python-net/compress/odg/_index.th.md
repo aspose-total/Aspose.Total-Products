@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การบีบอัด ODG ช่วยให้ไฟล์ OpenDocument Graphics มีขนาดเล็กลง พร้อมรักษาคุณภาพเวกเตอร์ เลเยอร์ และอ็อบเจ็กต์ที่ฝังอยู่ ไฟล์ ODG ที่ถูกบีบอัดช่วยเพิ่มประสิทธิภาพในการจัดเก็บและการทำงานในกระบวนการออกแบบและแผนภาพ
+
+
+
+Python APIs ช่วยให้การบีบอัด ODG อัตโนมัติ เป็นชุด ประมวลผลเป็นชุด และแปลงเป็นรูปแบบอื่น ๆ รองรับการจัดการกราฟิกขนาดใหญ่ในสำนักงาน สถาบันการศึกษา และสภาพแวดล้อมสำหรับการพิมพ์
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การจัดเก็บแผนภาพและเวกเตอร์**  
+
+&nbsp; บีบอัดไฟล์ ODG เพื่อลดการใช้พื้นที่ดิสก์
+
+
+
+* **การทำงานร่วมกันและการแบ่งปัน**  
+
+&nbsp; ไฟล์ขนาดเล็กส่งผ่านทีมและแพลตฟอร์มได้เร็วขึ้น
+
+
+
+* **การเก็บถาวรดิจิทัล**  
+
+&nbsp; การจัดเก็บแผนภาพและกราฟิกเวกเตอร์อย่างมีประสิทธิภาพตลอดเวลา
+
+
+
+* **การปรับปรุงกระบวนการทำงาน**  
+
+&nbsp; ไฟล์ ODG ที่ถูกบีบอัดช่วยเพิ่มความเร็วในการแสดงผลในแอปพลิเคชัน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การบีบอัด ODG เป็นชุด**  
+
+&nbsp; ทำให้การลดขนาดเป็นไปอัตโนมัติสำหรับไฟล์กราฟิกหลายไฟล์
+
+
+
+* **การปรับปรุงเลเยอร์และอ็อบเจ็กต์**  
+
+&nbsp; ลบองค์ประกอบที่ไม่ได้ใช้และบีบอัดอ็อบเจ็กต์ที่ฝังอยู่โดยอัตโนมัติ
+
+
+
+* **การผสานเข้ากับกระบวนการทำงานในสำนักงาน**  
+
+&nbsp; บีบอัดไฟล์ ODG เมื่ออัปโหลดหรือควบคุมเวอร์ชัน
+
+
+
+* **ระดับการบีบอัดแบบไดนามิก**  
+
+&nbsp; ปรับการจัดองค์ประกอบตามความซับซ้อนของไฟล์และการใช้งาน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

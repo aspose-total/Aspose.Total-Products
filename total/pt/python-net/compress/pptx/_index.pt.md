@@ -101,7 +101,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/sli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX, o formato moderno do PowerPoint, frequentemente contém imagens de alta resolução, gráficos e animações. A compressão reduz o tamanho do arquivo mantendo a fidelidade visual.
+
+
+
+A automação baseada em Python permite uma compressão escalável de PPTX, melhorando a colaboração e integração com plataformas em nuvem ou sistemas de gerenciamento de apresentações.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Otimização de Armazenamento**  
+
+&nbsp; Comprima arquivos PPTX sem perder conteúdo de slides, animações ou mídia.
+
+
+
+* **Compartilhamento Mais Rápido**  
+
+&nbsp; Arquivos PPTX menores permitem distribuição rápida por e-mail ou nuvem.
+
+
+
+* **Arquivamento Eficiente**  
+
+&nbsp; A compressão automatizada suporta o armazenamento a longo prazo de grandes apresentações.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de PPTX**  
+
+&nbsp; Scripts em Python podem comprimir várias apresentações modernas de uma vez.
+
+
+
+* **Integração com Ferramentas de Colaboração**  
+
+&nbsp; Arquivos PPTX comprimidos podem ser carregados dinamicamente em fluxos de trabalho automatizados.
+
+
+
+* **Regras de Compressão Inteligentes**  
+
+&nbsp; A automação condicional visa arquivos com mídia de alta resolução incorporada.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

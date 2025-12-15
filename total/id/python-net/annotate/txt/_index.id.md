@@ -75,7 +75,65 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Anotasi TXT memperkaya file teks polos dengan komentar terstruktur, penanda, dan catatan ulasan, meningkatkan pemahaman dalam alur kerja teknis dan dokumentasi. Ini membantu menjelaskan konten tanpa mengubah kesederhanaan file.
+
+Automasi mendukung pemrosesan TXT secara cepat dan besar dengan mendeteksi pola, menyisipkan anotasi, dan menegakkan catatan terstruktur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Komentar Teknis**  
+
+&nbsp; Tambahkan catatan deskriptif untuk file konfigurasi atau kode.
+
+* **Identifikasi Kesalahan**  
+
+&nbsp; Tandai baris yang mencurigakan atau usang.
+
+* **Penandaan Instruksional**  
+
+&nbsp; Sisipkan tag panduan sederhana.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Anotasi Berbasis Pola**  
+
+&nbsp; Mendeteksi dan menyorot struktur yang telah ditentukan sebelumnya.
+
+* **Pemrosesan File Massal**  
+
+&nbsp; Anotasi koleksi TXT besar secara programatis.
+
+* **Catatan Ulasan Otomatis**  
+
+&nbsp; Sisipkan komentar yang dipicu oleh aturan di seluruh file.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

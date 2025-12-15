@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TGA 압축은 Targa 래스터 이미지의 크기를 줄이면서 색상 깊이와 알파 채널을 보존하는 데 중점을 둡니다. TGA 파일은 게임, 3D 그래픽 및 시각 효과에서 자주 사용되며, 압축은 미디어 파이프라인에서 효율적인 저장 및 빠른 처리를 위해 필수적입니다.
+
+
+
+Python API를 사용하면 자동화된 TGA 압축, 일괄 처리 및 현대적인 형식으로의 변환을 지원하여 게임 개발, 애니메이션 및 디지털 미디어 제작을 위한 확장 가능한 워크플로우를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **게임 자산 최적화**
+
+  &nbsp; TGA 파일을 압축하면 게임의 저장 요구 사항이 줄어들고 로드 시간이 개선됩니다.
+
+
+
+* **3D 그래픽 파이프라인**
+
+  &nbsp; 작은 TGA 파일은 텍스처 관리 및 렌더링 워크플로우를 간소화합니다.
+
+
+
+* **시각 효과 제작**
+
+  &nbsp; 최적화된 TGA 이미지는 대규모 프레임 시퀀스를 효율적으로 관리하는 데 도움이 됩니다.
+
+
+
+* **아카이브 저장**
+
+  &nbsp; 고해상도 자산의 장기 저장을 위해 파일 크기를 줄입니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 TGA 압축**
+
+  &nbsp; 대규모 TGA 파일 세트의 최적화를 자동화합니다.
+
+
+
+* **알파 채널 보존**
+
+  &nbsp; 저장 공간을 줄이기 위해 압축하는 동안 투명도를 유지합니다.
+
+
+
+* **파이프라인 통합**
+
+  &nbsp; 자산 관리 시스템에 업로드할 때 TGA 파일을 자동으로 압축할 수 있습니다.
+
+
+
+* **동적 해상도 기반 압축**
+
+  &nbsp; 이미지 크기, 해상도 또는 사용 상황에 따라 압축 수준을 조정합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

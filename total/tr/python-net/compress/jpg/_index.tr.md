@@ -100,7 +100,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Genel GÖRÜNTÜ sıkıştırma, görsel kaliteyi korurken dosya boyutunu azaltmak için herhangi bir rastgele tabanlı görüntü dosyalarını optimize etmeyi ifade eder. Bu yaklaşım, depolama verimliliği, daha hızlı transfer ve dijital platformlar, uygulamalar ve içerik akışları arasında sorunsuz bir şekilde işlem yapılmasını sağlamak için önemlidir.
+
+
+
+Python API'leri, otomatik GÖRÜNTÜ sıkıştırma, toplu işleme ve format dönüştürmeyi destekleyerek, medya yönetimi, web teslimatı ve bulut tabanlı depolar için ölçeklenebilir iş akışları sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Web ve Uygulama Performansı**  
+
+&nbsp; Sıkıştırılmış görüntüler daha hızlı yüklenir, bant genişliği kullanımını azaltır ve kullanıcı deneyimini iyileştirir.
+
+
+
+* **Dijital Varlık Yönetimi**  
+
+&nbsp; Optimize edilmiş görüntüler büyük kütüphanelerden daha kolay depolanabilir, düzenlenebilir ve geri alınabilir.
+
+
+
+* **İçerik Yayınlama**  
+
+&nbsp; Çevrimiçi platformlar için dosya boyutunu en aza indirirken görüntü kalitesini korur.
+
+
+
+* **Arşivleme ve Yedekleme**  
+
+&nbsp; Rastgele görüntülerin büyük koleksiyonları için depolama gereksinimlerini azaltır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu Görüntü Sıkıştırma**  
+
+&nbsp; Python betikleri yüzlerce genel görüntü dosyasını otomatik olarak optimize edebilir.
+
+
+
+* **Dinamik Format Seçimi**  
+
+&nbsp; Otomasyon, görüntüleri sıkıştırırken en uygun formata (JPG) dönüştürebilir.
+
+
+
+* **İş Akışı Entegrasyonu**  
+
+&nbsp; Görüntüleri CMS, DAM veya bulut platformlarına yüklerken otomatik olarak sıkıştırır.
+
+
+
+* **Çözünürlük Tabanlı Sıkıştırma**  
+
+&nbsp; Görüntü çözünürlüğüne, boyutlarına veya kullanımına bağlı olarak sıkıştırma seviyelerini dinamik olarak ayarlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

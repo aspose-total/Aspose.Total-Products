@@ -78,7 +78,43 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+CGM圧縮は、エンジニアリング、航空宇宙、科学文書でよく使用される技術ベクトルグラフィックスのサイズを削減することに焦点を当てています。CGMファイルには複雑な図表、2D/3D図面、およびメタデータが含まれるため、圧縮により構造の正確性を保ちながら処理効率が向上します。
+
+Python APIを使用すると、CGMファイルの自動最適化と変換が可能になり、ドキュメンテーションシステム、CADパイプライン、および企業レベルのグラフィックリポジトリ向けのスケーラブルなワークフローをサポートします。
+
+## {{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **技術文書管理**  
+  &nbsp; CGMファイルの圧縮により読み込み時間が短縮され、ストレージ消費量が削減されます。
+
+* **エンジニアリング＆CADワークフローオプティマイゼーション**  
+  &nbsp; より小さなCGMアセットは、改訂、交換、処理サイクルの加速に役立ちます。
+
+* **大規模なグラフィックアーカイブ**  
+  &nbsp; 効率的な圧縮により、科学や産業のイラストライブラリを軽量化します。
+
+* **クロスシステム互換性**  
+  &nbsp; 圧縮されたCGMファイルは、エンジニアリングとパブリッシングプラットフォーム間で高速に転送されます。
+
+## {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量のCGM圧縮**  
+  &nbsp; 大量の技術図を最適化する自動化を実現します。
+
+* **圧縮付きCGM変換**  
+  &nbsp; 効率的な圧縮ルールを適用しながら、CGMをSVG、PDF、またはPNGに変換します。
+
+* **自動化された取り込みパイプライン**  
+  &nbsp; ドキュメント管理やCADポータルにアップロードされた際にファイルを動的に圧縮します。
+
+* **コンテンツベースの圧縮ロジック**  
+  &nbsp; 線密度、レイヤー、埋め込まれたメタデータに基づいて圧縮を調整します。
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

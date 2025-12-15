@@ -78,7 +78,37 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## XLTX-Dateien (moderne Excel-Vorlagen) profitieren von Komprimierung für optimierte Speicherung und schnellere Weitergabe, wobei alle Formatierungen und Formeln erhalten bleiben.
+
+Python-APIs ermöglichen automatisierte XLTX-Komprimierung, was die Arbeitsabläufe effizienter gestaltet und die Integration mit Dokumentenverwaltungssystemen verbessert.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+* **Optimierung der Vorlagenspeicherung**  
+  Komprimierung von XLTX-Vorlagen bei voller Funktionalität beibehalten.
+
+* **Schnelle Vorlagenfreigabe**  
+  Kleinere Dateien ermöglichen schnellere Verteilung und Zusammenarbeit.
+
+* **Automatisierte Archivierung**  
+  Komprimierung vereinfacht das Management langfristiger Speicherung.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+* **Batch-XLTX-Komprimierung**  
+  Python-Skripte automatisieren die Komprimierung mehrerer Vorlagen.
+
+* **Integration in Workflow-Systeme**  
+  Komprimierte Vorlagen können in automatisierte Abläufe geladen werden.
+
+* **Intelligente Komprimierung**  
+  Bedingungsregeln ermöglichen die gezielte Auswahl von Vorlagen mit großen Datensätzen oder eingebetteten Medien.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

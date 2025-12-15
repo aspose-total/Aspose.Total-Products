@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файлы PPSX (современное представление PowerPoint) получают преимущества от сжатия для уменьшения хранилища и быстрой передачи, сохраняя содержимое слайдов, анимации и встроенные медиафайлы.
+
+
+
+Python API позволяет автоматизировать сжатие PPSX, улучшая рабочие процессы и масштабируемость презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация хранилища**  
+
+&nbsp; Сжатие файлов PPSX без влияния на слайды или анимацию.
+
+
+
+* **Быстрое сотрудничество**  
+
+&nbsp; Меньшие файлы позволяют быструю передачу между командами и платформами.
+
+
+
+* **Эффективность архивирования**  
+
+&nbsp; Автоматизированное сжатие обеспечивает долгосрочное хранение файлов представлений.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие PPSX**  
+
+&nbsp; Сценарии Python могут автоматически сжимать несколько файлов PPSX.
+
+
+
+* **Интеграция с рабочими процессами и облачными системами**  
+
+&nbsp; Сжатые файлы PPSX могут динамически обрабатываться в автоматизированных рабочих процессах.
+
+
+
+* **Умные правила сжатия**  
+
+&nbsp; Условное автоматизированное сжатие нацеливается на файлы с медиафайлами высокого разрешения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

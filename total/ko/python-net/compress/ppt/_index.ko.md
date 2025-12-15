@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPT 파일 압축은 레거시 PowerPoint 프레젠테이션의 저장 공간을 줄이고 전송 속도를 향상시키면서 서식, 차트 및 포함된 미디어를 보존합니다.
+
+
+
+Python API를 사용하면 자동화된 PPT 압축이 가능해져 확장 가능한 프레젠테이션 관리와 워크플로우 효율성을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **레거시 프레젠테이션 최적화**  
+
+  &nbsp; 슬라이드 레이아웃이나 콘텐츠에 영향을 주지 않고 PPT 파일 크기를 줄입니다.
+
+
+
+* **빠른 공유**  
+
+  &nbsp; 작은 PPT 파일은 빠른 이메일이나 클라우드 배포를 가능하게 합니다.
+
+
+
+* **보관 효율성**  
+
+  &nbsp; 자동 압축으로 레거시 프레젠테이션의 장기 저장을 간소화합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 PPT 압축**  
+
+  &nbsp; Python 스크립트를 사용하여 여러 PPT 파일을 자동으로 처리할 수 있습니다.
+
+
+
+* **워크플로우 시스템 통합**  
+
+  &nbsp; 압축된 파일은 자동화된 파이프라인이나 문서 관리 시스템에서 관리할 수 있습니다.
+
+
+
+* **조건부 압축**  
+
+  &nbsp; 최적화를 위해 크기나 포함된 미디어에 따라 대상 파일을 선택할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

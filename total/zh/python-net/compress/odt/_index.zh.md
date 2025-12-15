@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT压缩减小了OpenDocument Text文件的大小，这种文件通常用于文字处理。压缩的ODT文件提高了存储效率，在文档工作流程中传输更快，性能更好。
+
+
+
+Python API支持自动化ODT压缩、批处理和转换，支持办公室、学术和出版环境中文档的可扩展管理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **文档存储优化**  
+
+  &nbsp; 减少大型文本文档集合的存储占用。
+
+
+
+* **更快的共享与协作**  
+
+  &nbsp; 压缩的ODT文件在网络上传输速度快。
+
+
+
+* **数字档案馆**  
+
+  &nbsp; 为历史和参考资料提供高效的ODT存储。
+
+
+
+* **工作流效率**  
+
+  &nbsp; 较小的文件在编辑器和自动化流程中加载更快。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量ODT压缩**  
+
+  &nbsp; 自动化多个文档的大小减小。
+
+
+
+* **元数据与内容优化**  
+
+  &nbsp; 自动删除冗余样式、图像或格式。
+
+
+
+* **集成到文档管理系统中**  
+
+  &nbsp; 在上传或备份工作流程中压缩ODT文件。
+
+
+
+* **动态压缩规则**  
+
+  &nbsp; 根据内容大小、图像密度或文本量调整优化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

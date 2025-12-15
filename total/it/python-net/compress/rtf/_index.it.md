@@ -100,7 +100,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+I file RTF (Rich Text Format) possono diventare grandi quando contengono formattazioni complesse o oggetti incorporati; la compressione riduce le dimensioni del file senza influenzare la compatibilità multi-piattaforma.
+
+
+
+Le API di Python consentono la compressione automatica di RTF, semplificando la gestione dei documenti nei sistemi moderni.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Ottimizzazione dello Storage Multi-Piattaforma**  
+
+&nbsp; Comprimi i file RTF per un utilizzo efficiente su diversi sistemi operativi e applicazioni.
+
+
+
+* **Condivisione più Veloce**  
+
+&nbsp; I file RTF più piccoli migliorano la distribuzione via email e cloud.
+
+
+
+* **Archiviazione Automatica**  
+
+&nbsp; La compressione batch semplifica l'archiviazione di documenti RTF legacy o di grandi dimensioni.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Compressione Batch di RTF**  
+
+&nbsp; Elabora automaticamente più documenti RTF utilizzando script Python.
+
+
+
+* **Integrazione con Flussi di Lavoro Documentali**  
+
+&nbsp; I file RTF compressi possono essere caricati nei flussi di lavoro automatizzati o nei sistemi DMS.
+
+
+
+* **Compressione Condizionale**  
+
+&nbsp; L'automazione può mirare ai file RTF in base alle dimensioni o ai contenuti incorporati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Soubory DOTM jsou šablonami s makry. Kompresí lze snížit úložný prostor a zachovat funkcionalitu maker, což umožňuje efektivní nasazení šablon.
+
+
+
+Pythonové API podporují automatizovanou kompresi DOTM pro udržení integrity v podnikovém a spolupracujícím prostředí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Zachování šablony s makry**  
+
+&nbsp; Bezpečná komprese souborů DOTM bez poškození maker.
+
+
+
+* **Rychlejší distribuce šablon**  
+
+&nbsp; Menší soubory jsou snáze sdíleny mezi týmy a systémy.
+
+
+
+* **Archivace šablon**  
+
+&nbsp; Automatizovaná komprese zajistí efektivitu dlouhodobého uložení.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese DOTM**  
+
+&nbsp; Pythonové skripty mohou automaticky zpracovávat více šablon s makry.
+
+
+
+* **Integrace do pracovního postupu**  
+
+&nbsp; Kompresované šablony lze využít v automatizovaných systémech generování dokumentů.
+
+
+
+* **Podmíněná komprese**  
+
+&nbsp; Automatizace na základě velikosti, obsahu nebo složitosti maker.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

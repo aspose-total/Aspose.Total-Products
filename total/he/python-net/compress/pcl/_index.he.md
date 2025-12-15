@@ -77,7 +77,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+דחיסת PCL (שפת פקודות המדפסת) מגבירה את ביצועי המסמך המוכן להדפסה על ידי הפחתת גודלו תוך שמירה על איכות ההדפסה. קבצי PCL דחוסים משפרים את אפקטיביות האחסון, ההעברה המהירה יותר והביצועים בתהליכי ההדפסה.
+
+
+
+ממשקי פייתון מאפשרים דחיסת PCL אוטומטית, עיבוד רצפי והמרה להדפסה וניהול מסמכים בקניות גודל.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **אופטימיזצית משימות ההדפסה**  
+
+  &nbsp; קבצי PCL קטנים יותר מפחיתים את זמני ההמתנה בתור ההדפסה ומשפרים את מהירות ההדפסה.
+
+
+
+* **ארכיון ואחסון**  
+
+  &nbsp; קבצי PCL דחוסים חוסכים מקום אחסון בארכיונים של משימות ההדפסה הגדולות.
+
+
+
+* **הפצת מסמכים מוכנים להדפסה**  
+
+  &nbsp; קבצים מאופטימליים מעבירים במהירות יותר ברשתות או שרתי הדפסה.
+
+
+
+* **יעילות בתהליך העבודה**  
+
+  &nbsp; משפר את הביצועים במערכות ההדפסה האוטומטיות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **דחיסת PCL בצורת רצפים**  
+
+  &nbsp; אוטומציה של אופטימיזציה של מספר קבצי ההדפסה.
+
+
+
+* **אופטימיזצית נכסים מוטמעים**  
+
+  &nbsp; דחיסת גופנים, תמונות וגרפיקות בתוך קבצי PCL באופן אוטומטי.
+
+
+
+* **אינטגרציה עם צינורות ההדפסה**  
+
+  &nbsp; דחיסת קבצי PCL באופן דינמי לפני ההדפסה או הארכיון.
+
+
+
+* **כללי דחיסה דינמיים**  
+
+  &nbsp; כוונון של אופטימיזציה בהתאם למורכבות המסמך או סוג התוכן.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

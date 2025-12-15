@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM注释通过添加澄清幻灯片逻辑、布局说明和宏行为的注释，改进了宏启用的演示文稿模板。这提高了模板的可用性，并确保生成一致的演示文稿。
+
+自动化POTM注释使跟踪宏使用、强制执行布局策略和自动更新指导变得更容易。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **宏逻辑注释**
+
+  &nbsp;描述自动化幻灯片功能。
+
+* **模板指导**
+
+  &nbsp;为幻灯片内容提供说明。
+
+* **设计一致性标记**
+
+  &nbsp;突出显示所需的布局元素。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **宏扫描和注释**
+
+  &nbsp;自动记录检测到的脚本。
+
+* **批量模板维护**
+
+  &nbsp;自动应用更新的指导文本。
+
+* **自动布局验证**
+
+  &nbsp;以编程方式标记不符合规范的幻灯片。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

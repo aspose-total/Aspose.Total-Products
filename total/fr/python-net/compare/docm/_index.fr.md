@@ -70,7 +70,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La comparaison DOCM se concentre sur l'identification des variations dans les documents activés par macro, couvrant les changements de texte, de mise en forme et de logique intégrée. Cela garantit un suivi précis à la fois du contenu visible et des composants d'automatisation internes.
+
+
+
+L'automatisation de la comparaison DOCM améliore la surveillance de l'intégrité des macros, réduit les risques liés aux modifications non autorisées et prend en charge la validation évolutive dans des environnements à volume élevé.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Vérification de l'intégrité des macros**  
+
+&nbsp; Détecte les changements dans les macros intégrées en même temps que les mises à jour régulières du contenu.
+
+
+
+* **Audits du cycle de vie des documents**  
+
+&nbsp; Garantit que les modifications apportées aux brouillons restent conformes et intentionnelles.
+
+
+
+* **Gestion des modèles**  
+
+&nbsp; Suit les différences dans les documents créés à partir de modèles dynamiques.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Détection automatisée des changements de macros**  
+
+&nbsp; Signale les modifications apportées au code des macros pour la sécurité et la gestion des versions.
+
+
+
+* **Comparaison en masse de modèles**  
+
+&nbsp; Compare automatiquement de grands ensembles de fichiers DOCM pour garantir la cohérence.
+
+
+
+* **Surveillance intelligente des mises à jour**  
+
+&nbsp; Intègre des vérifications programmatiques dans les flux de travail métier.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

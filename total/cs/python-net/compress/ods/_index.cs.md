@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese ODS optimalizuje soubory OpenDocument Spreadsheet, snižuje velikost a zachovává vzorce, grafy a integritu dat. Komprimované soubory ODS zlepšují úložný prostor, rychlost přenosu a výkon ve workflovích s daty nabitými tabulkami.
+
+
+
+Python API umožňuje automatizovanou kompresi ODS, hromadné zpracování a konverzi pro škálovatelný správu tabulek v kancelářích, analytice a systémech pro reportování.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace úložiště tabulek**  
+
+&nbsp; Snížení místa pro velké datové sady a kolekce sešitů.
+
+
+
+* **Rychlejší sdílení a spolupráce**  
+
+&nbsp; Menší soubory ODS se efektivně přenášejí mezi týmy.
+
+
+
+* **Archivace a zálohování**  
+
+&nbsp; Kompresní soubory ODS pro dlouhodobé úložiště.
+
+
+
+* **Efektivita pracovního postupu**  
+
+&nbsp; Optimalizované tabulky se rychleji načítají v aplikacích a potrubích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese ODS**  
+
+&nbsp; Automatizace zmenšení velikosti pro více tabulek.
+
+
+
+* **Optimalizace dat a grafů**  
+
+&nbsp; Automatická komprese vložených grafů, pivot tabulek a vzorců.
+
+
+
+* **Integrace do systémů DAM nebo Cloud**  
+
+&nbsp; Automatizace komprese během nahrávání nebo zálohování.
+
+
+
+* **Dynamická pravidla komprese**  
+
+&nbsp; Úprava optimalizace na základě velikosti datové sady, složitosti vzorců nebo vložených objektů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

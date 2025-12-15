@@ -75,7 +75,65 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La anotación POTM mejora las plantillas de presentación habilitadas para macros agregando notas que aclaran la lógica de las diapositivas, las instrucciones de diseño y el comportamiento de los macros. Esto mejora la usabilidad de la plantilla y garantiza la generación consistente de presentaciones.
+
+Automatizar la anotación POTM facilita el seguimiento del uso de macros, la aplicación de políticas de diseño y la actualización de orientaciones de forma programática.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Notas de Lógica de Macros**  
+
+  Describe las funciones automatizadas de las diapositivas.
+
+* **Orientación de Plantillas**  
+
+  Proporciona instrucciones para el contenido de las diapositivas.
+
+* **Marcadores de Consistencia de Diseño**  
+
+  Destaca los elementos de diseño requeridos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Escaneo y Anotación de Macros**  
+
+  Documenta automáticamente los scripts detectados.
+
+* **Mantenimiento Masivo de Plantillas**  
+
+  Aplica automáticamente el texto de orientación actualizado.
+
+* **Validación Automatizada de Diseño**  
+
+  Marca las diapositivas no conformes de forma programática.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

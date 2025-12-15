@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXTの圧縮は、冗長性を排除することでプレーンテキストファイルのサイズを削減することに焦点を当てており、コンテンツを失うことなく効率的なストレージ、高速な転送、自動化およびデータパイプラインの最適化が重要です。
+
+
+
+Python APIを使用すると、自動化されたTXTの圧縮、バッチ処理、アーカイブワークフローが可能になり、ログ、スクリプト、設定ファイル、大規模なテキストデータセットのスケーラブルな処理をサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **ログファイルの管理**  
+
+&nbsp; 大きなログファイルを圧縮してストレージスペースを節約し、取得を改善します。
+
+
+
+* **データのアーカイブ**  
+
+&nbsp; 長期保存用にプレーンテキストデータセットのフットプリントを削減します。
+
+
+
+* **設定とスクリプトの保存**  
+
+&nbsp; 圧縮されたTXTファイルは、自動化された展開とバックアップをより効率的にします。
+
+
+
+* **テキストベースのコンテンツ配布**  
+
+&nbsp; より小さなファイルは、ネットワークやクラウドシステムを介しての転送が速くなります。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチTXTの圧縮**  
+
+&nbsp; 複数のプレーンテキストファイルの圧縮を自動化します。
+
+
+
+* **パイプラインへの統合**  
+
+&nbsp; TXTをデータシステムやアーカイブに取り込む際に自動的に圧縮します。
+
+
+
+* **サイズに基づくダイナミックな圧縮**  
+
+&nbsp; 大きなファイルに強力な圧縮を適用し、小さなファイルはそのままにします。
+
+
+
+* **フォーマット変換と圧縮**  
+
+&nbsp; TXTを圧縮アーカイブ（ZIP、GZ）に変換することを自動化ワークフローの一部として行います。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

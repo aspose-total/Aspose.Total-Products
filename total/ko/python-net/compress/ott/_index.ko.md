@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+OTT 압축은 OpenDocument Text Template 파일에 중점을 두어 레이아웃, 스타일 및 포함된 미디어를 최적화하여 파일 크기를 줄입니다. 압축된 OTT 파일은 템플릿 기반 문서 작성의 저장 공간, 전송 속도 및 워크플로 효율성을 향상시킵니다.
+
+
+
+Python API를 사용하면 자동화된 OTT 압축, 일괄 처리 및 확장 가능한 템플릿 관리를 위한 문서 자동화 시스템 통합이 가능합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **템플릿 라이브러리 최적화**  
+
+&nbsp; 작은 OTT 파일은 대규모 템플릿 컬렉션의 저장 공간을 줄입니다.
+
+
+
+* **효율적인 공유 및 협업**  
+
+&nbsp; 압축된 템플릿은 배포 및 접근이 빨라집니다.
+
+
+
+* **워크플로 통합**  
+
+&nbsp; 최적화된 OTT 파일은 자동화된 문서 생성 파이프라인에서 성능을 향상시킵니다.
+
+
+
+* **아카이브 및 백업**  
+
+&nbsp; 과거 템플릿 버전의 저장 공간을 줄입니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 OTT 압축**  
+
+&nbsp; 여러 템플릿의 크기를 자동으로 줄입니다.
+
+
+
+* **포함된 미디어 최적화**  
+
+&nbsp; 이미지, 객체 및 스타일을 자동으로 압축합니다.
+
+
+
+* **CMS/DAM 통합**  
+
+&nbsp; 문서 관리 시스템에 업로드할 때 OTT 파일을 압축합니다.
+
+
+
+* **동적 압축 수준**  
+
+&nbsp; 콘텐츠 복잡성과 사용 문맥에 따라 최적화를 조정합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

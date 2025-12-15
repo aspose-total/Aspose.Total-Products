@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese CHM snižuje velikost souborů s kompilovanou nápovědou HTML, které obsahují HTML stránky, obrázky a navigační struktury pro dokumentaci softwaru. Komprimované soubory CHM zlepšují účinnost ukládání, rychlost distribuce a přístupnost pro uživatele.
+
+
+
+Pythonové API umožňují automatizovanou kompresi CHM, hromadné zpracování a integraci s pracovními postupy dokumentace pro škálovatelné řízení systémů nápovědy a technických příruček.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Doručování softwarové dokumentace**  
+
+&nbsp; Komprimované soubory CHM se načítají rychleji a zabírají méně místa na disku.
+
+
+
+* **Archivace a zálohování**  
+
+&nbsp; Snížení úložiště pro staré a velké kolekce souborů nápovědy.
+
+
+
+* **Efektivní sdílení**  
+
+&nbsp; Menší soubory CHM se rychle přenášejí po sítích nebo zařízeních.
+
+
+
+* **Přístupnost pro uživatele**  
+
+&nbsp; Optimalizované soubory zlepšují výkon načítání v prohlížečích nápovědy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese CHM**  
+
+&nbsp; Automatizujte zmenšení velikosti pro více souborů nápovědy.
+
+
+
+* **Optimalizace vložených prostředků**  
+
+&nbsp; Automatická komprese obrázků, skriptů a HTML stránek.
+
+
+
+* **Integrace s dokumentačními potrubími**  
+
+&nbsp; Kompresujte soubory CHM během sestavování nebo nasazování pracovních postupů.
+
+
+
+* **Dynamické úrovně komprese**  
+
+&nbsp; Nastavte podle velikosti obsahu a složitosti.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,23 @@ För mer information, se [Product Documentation](https://docs.aspose.com/zip/pyt
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Välkommen till vår webbutik
+
+<h2>Specialerbjudanden denna vecka</h2>
+
+- Fri frakt vid köp över 500 kr
+- 20% rabatt på utvalda varor
+- Presentkort tillgängliga för inköp
+
+<h2>Nya produkter</h2>
+
+{< blocks/products/pf/agp/feature-section >}
+
+<h2>Kundrecensioner</h2>
+
+{< blocks/reviews >}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

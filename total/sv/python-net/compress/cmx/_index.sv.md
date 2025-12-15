@@ -78,7 +78,87 @@ För mer information, se [Product Documentation](https://docs.aspose.com/zip/pyt
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+CMX-komprimering minskar storleken på Corel Presentation Exchange-vektorgrafik, som ofta inkluderar detaljerade illustrationer, lager och färgprofiler. Optimering av CMX-filer hjälper till att förbättra prestanda i designarbetsflöden, accelererar delning och minskar lagringskraven över kreativa och tekniska miljöer.
+
+
+
+Python API:er möjliggör automatiserad CMX-komprimering och konvertering, vilket säkerställer effektiv hantering av stora vektorresurser i skala för publicering, tryckning och grafikhansteringssystem.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Optimering av designprojekt**  
+
+&nbsp; Komprimerar lager CMX-grafik för att effektivisera filhantering och minska lagringspåverkan.
+
+
+
+* **Publicering och tryckningspipeliner**  
+
+&nbsp; Mindre CMX-filer påskyndar rendering, redigering och överföringsprocesser.
+
+
+
+* **Hantering av tillgångsbibliotek**  
+
+&nbsp; Optimerade CMX-samlingar laddas snabbare inuti digitala tillgångsarkiv.
+
+
+
+* **Korsplattformsutbyte**  
+
+&nbsp; Komprimerade CMX-filer överförs mer effektivt mellan designteam eller applikationer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Masskomprimering av CMX**  
+
+&nbsp; Optimerar automatiskt stora uppsättningar CMX-grafik med Python-arbetsflöden.
+
+
+
+* **CMX-till-komprimerad-formatkonvertering**  
+
+&nbsp; Konvertera CMX till SVG, PDF, PNG eller EPS med tillämpning av komprimeringsregler.
+
+
+
+* **Automatiserad uppladdningsoptimering**  
+
+&nbsp; CMX-filer kan komprimeras omedelbart vid inmatning i DMS- eller DAM-system.
+
+
+
+* **Innehållsmedveten komprimering**  
+
+&nbsp; Justerar optimeringsintensiteten baserat på vektorernas komplexitet eller inbäddade komponenter.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

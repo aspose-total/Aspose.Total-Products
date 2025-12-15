@@ -78,7 +78,41 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## DICOM圧縮
+
+DICOM圧縮は、診断画像、メタデータ、患者情報を含む医用画像ファイルの最適化に焦点を当てています。DICOMファイルは高解像度のスキャンにより通常大きくなるため、圧縮は医療システム内での高速な転送、ストレージコストの削減、効率的な取り扱いに不可欠です。
+
+Python APIを使用することで、自動化されたDICOM圧縮が可能となり、損失なしおよび制御された損失のある方法を含め、医用画像のワークフローが拡張可能で信頼性があり、臨床基準に準拠していることが保証されます。
+
+## 主な用途
+
+* **医用画像のストレージ最適化**  
+  圧縮されたDICOMファイルはPACSシステムや長期アーカイブへの負荷を軽減します。
+
+* **画像の高速転送**  
+  より小さなファイルは病院、画像センター、クラウドシステム間の転送速度を向上させます。
+
+* **研究および分析パイプライン**  
+  圧縮されたデータセットはAIモデルのトレーニングや大規模な医用画像処理を効率化します。
+
+* **テレメディスンワークフロー**  
+  圧縮により遠隔医療提供者への診断画像の迅速な提供が可能となります。
+
+## 自動化シナリオ
+
+* **診断画像の一括圧縮**  
+  大規模なMRI、CT、X線ライブラリのサイズを自動的に縮小します。
+
+* **動的な損失なし/損失のある選択**  
+  モダリティ、解像度、または臨床要件に基づいて圧縮タイプを自動的に選択します。
+
+* **ワークフローに統合された最適化**  
+  DICOMファイルの圧縮をPACS、RIS、またはクラウド画像システムへの取り込み時に行います。
+
+* **メタデータを保持した圧縮**  
+  自動化されたプロセスはファイルサイズを削減しながら、すべての医療タグと識別子を維持します。
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresja WEBP koncentruje się na zmniejszaniu rozmiaru plików dla zoptymalizowanych pod kątem internetu obrazów, zachowując przy tym wysoką jakość wizualną. WEBP obsługuje zarówno kompresję stratną, jak i bezstratną, co czyni go idealnym do grafiki internetowej, interfejsów aplikacji i dostarczania treści cyfrowych.
+
+
+
+Interfejsy API Pythona umożliwiają zautomatyzowaną kompresję WEBP, przetwarzanie wsadowe i konwersję z innych formatów, wspierając skalowalne przepływy pracy dla optymalizacji wydajności internetowej i zarządzania obrazami w chmurze.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+
+
+
+* **Wydajność Stron i Aplikacji**  
+
+&nbsp; Skompresowane obrazy WEBP poprawiają szybkość ładowania strony i zmniejszają zużycie przepustowości.
+
+
+
+* **Responsywne Treści Cyfrowe**  
+
+&nbsp; Zachowuje wysoką jakość wizualną dla stron internetowych, aplikacji i platform online.
+
+
+
+* **Materiały Marketingowe i Społecznościowe**  
+
+&nbsp; Mniejsze pliki WEBP zapewniają szybsze przesyłanie i renderowanie kampanii.
+
+
+
+* **Archiwizacja i Przechowywanie w Chmurze**  
+
+&nbsp; Zmniejsza wymagania dotyczące przechowywania dużych bibliotek obrazów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Wsadowa Kompresja WEBP**  
+
+&nbsp; Automatycznie kompresuje wiele plików WEBP w jednym procesie sterowanym przez Pythona.
+
+
+
+* **Wybór Bezstratnej lub Stratnej Kompresji**  
+
+&nbsp; Automatyzacja wybiera optymalny typ kompresji na podstawie zawartości obrazu i wymagań.
+
+
+
+* **Integracja z Przepływem Pracy**  
+
+&nbsp; Kompresuje obrazy WEBP automatycznie podczas przesyłania do systemów zarządzania treścią (CMS), DAM lub platform chmurowych.
+
+
+
+* **Dynamiczna Regulacja Jakości**  
+
+&nbsp; Kompresja może być dostosowywana na podstawie rozdzielczości, docelowego urządzenia lub warunków sieciowych.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

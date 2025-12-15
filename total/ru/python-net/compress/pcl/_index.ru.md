@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие PCL (язык команд принтера) оптимизирует документы, готовые к печати, путем уменьшения размера при сохранении точности печати. Сжатые файлы PCL улучшают эффективность хранения, ускоряют передачу и повышают производительность в рабочих процессах печати.
+
+
+
+Python API позволяют автоматизировать сжатие PCL, пакетную обработку и преобразование для масштабируемой печати и управления документами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация заданий на печать**  
+
+  &nbsp; Меньшие файлы PCL сокращают время ожидания в очереди и улучшают скорость печати.
+
+
+
+* **Архивирование и хранение**  
+
+  &nbsp; Сжатые файлы PCL экономят место для архивов больших печатных заданий.
+
+
+
+* **Распространение готовых к печати документов**  
+
+  &nbsp; Оптимизированные файлы передаются быстрее по сети или на серверы печати.
+
+
+
+* **Эффективность рабочего процесса**  
+
+  &nbsp; Улучшает производительность в автоматизированных системах печати.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие PCL**  
+
+  &nbsp; Автоматизация оптимизации нескольких файлов для печати.
+
+
+
+* **Оптимизация встроенных ресурсов**  
+
+  &nbsp; Автоматическое сжатие шрифтов, изображений и графики в файлах PCL.
+
+
+
+* **Интеграция с потоками печати**  
+
+  &nbsp; Динамическое сжатие файлов PCL перед печатью или архивированием.
+
+
+
+* **Динамические правила сжатия**  
+
+  &nbsp; Настройка оптимизации на основе сложности документа или типа содержимого.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

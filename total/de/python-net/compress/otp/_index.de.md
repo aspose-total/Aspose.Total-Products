@@ -78,7 +78,45 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## OTP-Komprimierung
+
+OTP-Komprimierung reduziert die Größe von OpenDocument-Template-Dateien, die für Textdokumente verwendet werden. Durch die Optimierung von OTP wird die Speichereffizienz verbessert, eine schnellere Verteilung und eine bessere Leistung für Workflow-basierte Dokumenterstellung erreicht.
+
+Python-APIs ermöglichen die automatisierte OTP-Komprimierung, Stapelverarbeitung und die Verwaltung von Vorlagen für skalierbare Dokumentenautomatisierungs-Workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+- **Vorlagenoptimierung**
+  &nbsp; Reduzierung des Speicherplatzbedarfs für große Vorlagensammlungen.
+
+- **Schnelleres Teilen & Zusammenarbeit**
+  &nbsp; Kleinere OTP-Dateien werden schnell zwischen Teams und Netzwerken übertragen.
+
+- **Workflow-Effizienz**
+  &nbsp; Komprimierte Vorlagen verbessern Lade- und Bearbeitungsgeschwindigkeit.
+
+- **Archivierung & Backup**
+  &nbsp; Effiziente Speicherung für langfristige Aufbewahrung von Vorlagendateien.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+- **Stapel-OTP-Komprimierung**
+  &nbsp; Automatisierung der Größenreduzierung für mehrere Vorlagen.
+
+- **Inhalts- & Medienoptimierung**
+  &nbsp; Automatische Komprimierung von eingebetteten Bildern oder Stilen.
+
+- **Integration in Dokumenten-Pipelines**
+  &nbsp; OTP-Dateien werden während der automatisierten Vorlagenbereitstellung oder -speicherung komprimiert.
+
+- **Dynamische Komprimierungsregeln**
+  &nbsp; Anpassung der Optimierung basierend auf Vorlagenkomplexität oder Inhaltsdichte.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

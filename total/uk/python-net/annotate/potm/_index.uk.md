@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Powerpoint PPT PP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Анотація POTM покращує шаблони презентацій з підтримкою макросів, додаючи примітки, які пояснюють логіку слайдів, інструкції щодо макету та поведінку макросів. Це підвищує зручність використання шаблону та забезпечує послідовне створення презентацій.
+
+Автоматизація анотації POTM полегшує відстеження використання макросів, забезпечує дотримання політик макету та оновлення керівництва програмно.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні використання" %}}
+
+
+
+* **Примітки щодо логіки макросів**  
+
+  Описати автоматизовані функції слайдів.
+
+* **Інструкції щодо шаблону**  
+
+  Надати інструкції для вмісту слайдів.
+
+* **Маркери консистентності дизайну**  
+
+  Виділити обов'язкові елементи макету.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Сканування та анотація макросів**  
+
+  Автоматично документувати виявлені скрипти.
+
+* **Масове обслуговування шаблонів**  
+
+  Автоматично застосовувати оновлені текстові керівництва.
+
+* **Автоматизована перевірка макету**  
+
+  Програмно позначати слайди, які не відповідають вимогам.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

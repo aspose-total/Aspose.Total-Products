@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+EPUB压缩可以减小电子书文件的大小，其中包含文本、图片、样式和元数据。压缩的EPUB文件可以提高下载速度、存储效率，并增强与电子阅读器和数字图书馆的兼容性。
+
+
+
+Python API可以实现自动化的EPUB压缩、批量处理，并优化电子书和数字出版物的可扩展管理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **电子书分发**  
+
+  &nbsp; 更小的EPUB文件可以实现更快的下载和更容易的分享。
+
+
+
+* **数字图书馆管理**  
+
+  &nbsp; 压缩的EPUB文件可以减少大型收藏的存储需求。
+
+
+
+* **多设备内容传递**  
+
+  &nbsp; 优化的文件可以确保在电子阅读器和应用程序中流畅阅读。
+
+
+
+* **存档和备份**  
+
+  &nbsp; 为大量电子书提供高效的存储。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量EPUB压缩**  
+
+  &nbsp; 可以一次性自动优化多个电子书文件。
+
+
+
+* **图像和文本优化**  
+
+  &nbsp; 减小嵌入图像的大小并去除冗余的元数据。
+
+
+
+* **工作流集成**  
+
+  &nbsp; 在上传到数字图书馆或平台时自动压缩EPUB。
+
+
+
+* **动态质量调整**  
+
+  &nbsp; 根据设备或平台平衡图像质量和文件大小。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

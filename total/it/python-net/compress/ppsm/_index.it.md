@@ -101,7 +101,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+I file PPSM (Presentazione di PowerPoint abilitata per macro) richiedono una compressione che preservi le macro riducendo al contempo le dimensioni del file per una condivisione e archiviazione efficienti.
+
+
+
+L'automazione basata su Python consente una compressione PPSM scalabile mantenendo la funzionalità delle macro.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Preservazione delle Macro**  
+
+  Comprimi i file PPSM in modo sicuro senza rompere le macro.
+
+
+
+* **Condivisione più veloce**  
+
+  File più piccoli consentono una distribuzione efficiente ai team o agli archivi cloud.
+
+
+
+* **Gestione archivistica**  
+
+  La compressione automatizzata garantisce la conservazione a lungo termine dei file di presentazione abilitati per macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Compressione batch di PPSM**  
+
+  Gli script Python possono elaborare automaticamente più file di presentazione abilitati per macro.
+
+
+
+* **Integrazione con i sistemi di flusso di lavoro**  
+
+  I file PPSM compressi possono essere utilizzati nei flussi di lavoro di presentazione automatizzati.
+
+
+
+* **Compressione condizionale**  
+
+  Seleziona i file in base all'uso delle macro o ai media incorporati per l'ottimizzazione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

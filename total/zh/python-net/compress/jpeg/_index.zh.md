@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+JPEG（JPG）压缩可减小高分辨率光栅图像的大小，同时保持可接受的视觉质量。这种优化对于网络内容、摄影和多媒体工作流至关重要，其中文件大小、传输速度和存储效率至关重要。
+
+
+
+Python API支持自动化JPEG压缩、批量处理和动态质量调整，支持大型图像库的可扩展管理，并集成到网络、云和内容传递管道中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **网页性能优化**  
+
+  压缩的JPEG图像改善页面加载时间并减少带宽消耗。
+
+
+
+* **摄影和数字资产管理**  
+
+  在显著减小文件大小以用于存储和共享的同时保持视觉质量。
+
+
+
+* **社交媒体和营销资产**  
+
+  优化的JPEG图像确保跨平台更快的上传和渲染。
+
+
+
+* **存档和备份效率**  
+
+  大型照片库以最小的质量损失更有效地存储。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量JPEG压缩**  
+
+  Python脚本自动批量压缩多个JPEG文件。
+
+
+
+* **动态质量控制**  
+
+  压缩级别可以根据分辨率、使用情况或目标平台进行调整。
+
+
+
+* **自动化工作流集成**  
+
+  JPEG图像可以在上传到数字资产管理系统（DAM）、内容管理系统（CMS）或云存储时进行压缩。
+
+
+
+* **带压缩的格式转换**  
+
+  PNG或TIFF图像可以转换为JPEG并进行自动优化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

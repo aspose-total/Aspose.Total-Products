@@ -100,7 +100,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File DOTX, template Word modern tanpa makro, mendapat manfaat dari kompresi untuk efisiensi penyimpanan dan berbagi lebih cepat.
+
+
+
+Automasi berbasis Python memungkinkan kompresi file DOTX sambil mempertahankan format, tata letak, dan sumber daya tersemat.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Efisiensi Penyimpanan Template**  
+
+&nbsp; Kurangi ukuran DOTX sambil mempertahankan konsistensi desain.
+
+
+
+* **Berbagi Template Cepat**  
+
+&nbsp; File yang lebih kecil memastikan distribusi lebih cepat di antara tim.
+
+
+
+* **Manajemen Arsip**  
+
+&nbsp; Kompresi otomatis mendukung retensi template jangka panjang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi Batch DOTX**  
+
+&nbsp; Skrip Python dapat mengompresi beberapa file template sekaligus.
+
+
+
+* **Integrasi dengan Sistem Dokumen**  
+
+&nbsp; Template yang terkompresi dapat dikelola secara dinamis dalam alur kerja.
+
+
+
+* **Aturan Kompresi Cerdas**  
+
+&nbsp; Otomatisasi berdasarkan ukuran file, objek tersemat, atau template yang banyak berisi gambar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresja OTT skupia się na plikach szablonów tekstu OpenDocument, optymalizując układ, style i osadzone media w celu zmniejszenia rozmiaru pliku. Skompresowane pliki OTT poprawiają przechowywanie, prędkość transferu i efektywność pracy dla tworzenia dokumentów opartych na szablonach.
+
+
+
+Interfejsy API Pythona umożliwiają zautomatyzowaną kompresję OTT, przetwarzanie wsadowe i integrację z systemami automatyzacji dokumentów w celu skalowalnego zarządzania szablonami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Optymalizacja biblioteki szablonów**  
+
+&nbsp; Mniejsze pliki OTT zmniejszają potrzebną przestrzeń dla dużych kolekcji szablonów.
+
+
+
+* **Efektywne udostępnianie i współpraca**  
+
+&nbsp; Skompresowane szablony są szybsze w dystrybucji i dostępie.
+
+
+
+* **Integracja z przepływem pracy**  
+
+&nbsp; Zoptymalizowane pliki OTT poprawiają wydajność w automatycznych procesach generowania dokumentów.
+
+
+
+* **Archiwizacja i tworzenie kopii zapasowych**  
+
+&nbsp; Zmniejsz zapotrzebowanie na przechowywanie historycznych wersji szablonów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Kompresja wsadowa OTT**  
+
+&nbsp; Zautomatyzuj zmniejszanie rozmiaru dla wielu szablonów.
+
+
+
+* **Optymalizacja osadzonych mediów**  
+
+&nbsp; Automatycznie kompresuj obrazy, obiekty i style w szablonach.
+
+
+
+* **Integracja z CMS/DAM**  
+
+&nbsp; Kompresuj pliki OTT podczas przesyłania do systemów zarządzania dokumentami.
+
+
+
+* **Dynamiczne poziomy kompresji**  
+
+&nbsp; Dostosuj optymalizację w zależności od złożoności treści i kontekstu użycia.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

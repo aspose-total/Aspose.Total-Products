@@ -101,7 +101,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTM soubory (prezentace s povolenými makry) mají prospěch z komprese, která zachovává makra a zároveň snižuje velikost souboru pro sdílení a ukládání.
+
+
+
+Python API umožňuje automatizovanou kompresi PPTM souborů s udržením funkcionality maker pro firemní pracovní postupy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Zachování maker**  
+
+&nbsp; Kompresí PPTM souborů nedochází k narušení vložených maker.
+
+
+
+* **Rychlejší spolupráce**  
+
+&nbsp; Menší soubory s makry usnadňují sdílení v týmu a nahrávání do cloudu.
+
+
+
+* **Automatizované archivace**  
+
+&nbsp; Kompresí se zajistí efektivní dlouhodobé ukládání prezentací s makry.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese PPTM**  
+
+&nbsp; Python skripty mohou automaticky zpracovávat více souborů s makry.
+
+
+
+* **Integrace s pracovními systémy**  
+
+&nbsp; Kompresované PPTM soubory lze použít v automatizovaných pracovních postupech.
+
+
+
+* **Podmíněná komprese**  
+
+&nbsp; Automatizace může cílit na soubory s velkými médii nebo složitými makry.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+매크로를 포함하는 DOCM 파일은 압축을 통해 저장 공간을 최적화하면서 매크로 기능과 서식을 보존할 수 있습니다.
+
+
+
+Python API를 사용하여 자동화된 DOCM 압축은 매크로가 손상되지 않고 문서 처리를 최적화하며 자동화된 워크플로우에서 문서를 처리합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **매크로 안전 저장**  
+
+&nbsp; 포함된 매크로를 손상시키지 않고 DOCM 파일을 압축합니다.
+
+
+
+* **빠른 파일 공유**  
+
+&nbsp; 크기를 줄이면 빠른 이메일 첨부 및 클라우드 업로드가 가능합니다.
+
+
+
+* **아카이브 관리**  
+
+&nbsp; 자동 압축은 매크로가 포함된 문서의 장기 저장에 도움이 됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 매크로 문서 압축**  
+
+&nbsp; 기능을 보존하면서 여러 DOCM 파일의 처리를 자동화합니다.
+
+
+
+* **Office 자동화 통합**  
+
+&nbsp; 압축된 파일은 워크플로우 시스템이나 DMS 솔루션에서 관리할 수 있습니다.
+
+
+
+* **조건부 매크로 압축**  
+
+&nbsp; Python 스크립트를 사용하여 크기나 내용에 따라 DOCM 파일을 선택적으로 압축할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

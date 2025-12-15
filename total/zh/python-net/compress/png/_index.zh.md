@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PNG压缩侧重于优化无损光栅图像，同时保持透明度、清晰度和色彩保真度。这对于网络图形、UI设计和高质量图像至关重要，其中清晰度和准确性至关重要。
+
+
+
+Python API使得自动化PNG压缩、批处理和转换变得更加容易，有助于有效管理大量图像库并将其整合到网络、应用程序和内容流程中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **网络和应用程序图形优化**  
+
+  压缩的PNG文件提高加载速度，同时保持高质量视觉效果。
+
+
+
+* **UI/UX资产管理**  
+
+  较小的PNG文件减少存储空间，确保界面快速渲染。
+
+
+
+* **数字出版**  
+
+  为电子书和文档中的图表、图表和插图保持清晰度。
+
+
+
+* **存档和云存储效率**  
+
+  在不损失图像质量的情况下减小文件大小，支持大规模存储。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量PNG压缩**  
+
+  Python脚本可以在一个自动化过程中优化多个PNG文件。
+
+
+
+* **保持透明度的优化**  
+
+  确保在压缩图像时保持alpha通道完整。
+
+
+
+* **工作流集成**  
+
+  在上传到CMS、DAM或云系统时自动压缩PNG文件。
+
+
+
+* **动态分辨率调整**  
+
+  压缩可以根据图像尺寸或使用情境进行调整。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

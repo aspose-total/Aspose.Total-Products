@@ -100,7 +100,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTX soubory, moderní šablony programu Word bez maker, využívají kompresi pro efektivní ukládání a rychlejší sdílení.
+
+
+
+Automatizace založená na Pythonu umožňuje komprimovat soubory DOTX s uchováním formátování, rozložení a vložených prostředků.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Efektivita ukládání šablon**  
+
+&nbsp; Snížení velikosti souborů DOTX při zachování konzistence designu.
+
+
+
+* **Rychlé sdílení šablon**  
+
+&nbsp; Menší soubory zajišťují rychlejší distribuci mezi týmy.
+
+
+
+* **Správa archivů**  
+
+&nbsp; Automatizovaná komprese podporuje dlouhodobé uchování šablon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Hromadná komprese DOTX**  
+
+&nbsp; Pythonové skripty mohou komprimovat více šablonových souborů najednou.
+
+
+
+* **Integrace s dokumentačními systémy**  
+
+&nbsp; Kompresované šablony lze dynamicky spravovat v pracovních postupech.
+
+
+
+* **Chytrá pravidla komprese**  
+
+&nbsp; Automatizace na základě velikosti souboru, vložených objektů nebo šablon s mnoha obrázky.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

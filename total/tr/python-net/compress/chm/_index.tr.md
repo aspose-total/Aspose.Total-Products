@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+CHM sıkıştırması, HTML sayfaları, resimler ve yazılım belgeleri için gezinme yapılarını içeren Derlenmiş HTML Yardım dosyalarının boyutunu azaltır. Sıkıştırılmış CHM dosyaları depolama verimliliğini, dağıtım hızını ve kullanıcı erişilebilirliğini artırır.
+
+
+
+Python API'leri, otomatik CHM sıkıştırması, toplu işleme ve ölçeklenebilir yardım sistemleri ve teknik kılavuzların yönetimi için belgelendirme iş akışlarıyla entegrasyonu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Yazılım Belgelerinin Dağıtımı**  
+
+&nbsp; Sıkıştırılmış CHM dosyaları daha hızlı yüklenir ve daha az disk alanı kaplar.
+
+
+
+* **Arşivleme ve Yedekleme**  
+
+&nbsp; Eski ve büyük yardım dosyası koleksiyonları için depolamayı azaltın.
+
+
+
+* **Verimli Paylaşım**  
+
+&nbsp; Daha küçük CHM dosyaları ağlar veya cihazlar arasında hızlı bir şekilde iletilir.
+
+
+
+* **Kullanıcı Erişilebilirliği**  
+
+&nbsp; Optimize edilmiş dosyalar, yardım görüntüleyicilerinde yükleme performansını artırır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu CHM Sıkıştırma**  
+
+&nbsp; Birden fazla yardım dosyası için boyut azaltımını otomatikleştirin.
+
+
+
+* **Gömülü Varlık Optimizasyonu**  
+
+&nbsp; Resimleri, betikleri ve HTML sayfalarını otomatik olarak sıkıştırın.
+
+
+
+* **Belge Boru Hatlarıyla Entegrasyon**  
+
+&nbsp; Derleme veya dağıtım iş akışları sırasında CHM dosyalarını sıkıştırın.
+
+
+
+* **Dinamik Sıkıştırma Seviyeleri**  
+
+&nbsp; İçerik boyutu ve karmaşıklığına göre ayarlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

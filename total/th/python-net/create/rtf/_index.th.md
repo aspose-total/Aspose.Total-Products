@@ -43,9 +43,81 @@ informat: RTF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF — Rich Text Format (RTF) เป็นรูปแบบข้อความ跨แพลตฟอร์มที่รองรับโดยผู้แก้ไขหลายราย; การสร้าง RTF ที่ใช้ Python เป็นประโยชน์เมื่อต้องการสร้างเอกสารรูปแบบง่ายที่ต้องการให้ได้รับการยอมรับจากลูกค้าหลายราย  RTF ขาดคุณสมบัติขั้นสูงของ OOXML แต่ดีกว่าในการจัดรูปแบบข้อความพกพา ตารางง่าย และวัตถุภายใน.
+
+
+
+การอัตโนมัติ RTF เหมาะสำหรับการผสานจดหมาย จดหมายรูปแบบธรรมดา หรือระบบที่ต้องการความเข้ากันได้สูงสุด การสร้างโปรแกรมสามารถทำได้โดยการใช้เทมเพลตชิ้นส่วน RTF หรือใช้ไลบรารีที่สร้างโทเคน RTF โดยตรง.
+
+
+
+การอัตโนมัติช่วยให้การส่งออก RTF ขนาดใหญ่และท่องไปที่เป้าหมายที่เป็นผู้บริโภคที่เบาหรือเป็นสิ่งที่เก่าเก่า.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การสร้างจดหมาย跨แพลตฟอร์ม**
+
+&nbsp; สร้างเอกสาร RTF สำหรับลูกค้าที่ต้องการข้อความรูปแบบเบา พกพา.
+
+
+
+* **การผสานจดหมายสำหรับเอกสารที่เรียบง่าย**
+
+&nbsp; สร้างจดหมายและแจ้งให้ทราบที่ปรับให้เหมาะกับแต่ละบุคคลในรูปแบบ RTF เพื่อความเข้ากันได้ทั่วไป.
+
+
+
+* **การแลกเปลี่ยนกับระบบที่ไม่ใช่ OOXML**
+
+&nbsp; ส่งออกเนื้อหาไปยัง RTF สำหรับระบบที่ไม่สามารถแยกวิเคราะห์ DOCX หรือคำสั่งคำสั่งของ Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การส่งออก RTF ขนาดใหญ่**
+
+&nbsp; อัตโนมัติการสร้างหลายพันไฟล์ RTF จากการส่งข้อมูลโครงสร้าง.
+
+
+
+* **ท่องไปที่รูปแบบสำรอง**
+
+&nbsp; ให้เวอร์ชัน RTF โดยอัตโนมัติเมื่อผู้บริโภคไม่สามารถจัดการ DOCX/DOCM.
+
+
+
+* **เครื่องมือเทมเพลตง่าย**
+
+&nbsp; ใช้การแทนโทเคนโปรแกรมในเทมเพลต RTF เป็นส่วนหนึ่งของขั้นตอนการทำงานอัตโนมัติ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}} 
+ 
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

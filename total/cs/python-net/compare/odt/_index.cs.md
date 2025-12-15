@@ -70,7 +70,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Porovnání ODT kontroluje text, styly, strukturu rozložení a vložené prvky, aby zajistilo přesnost obsahu v souborech s otevřeným dokumentem. Podporuje transparentní sledování revizí a kontrolu kvality.
+
+
+
+Automatizované porovnání ODT snižuje manuální úsilí a zlepšuje integraci s kancelářskými systémy pro spolupráci a automatizací dokumentů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Sledování revizí obsahu**  
+
+&nbsp; Identifikuje přidání, odstranění a přeformátování.
+
+
+
+* **Dodržování otevřeného dokumentu**  
+
+&nbsp; Zajišťuje, že dokumenty splňují požadovanou strukturu.
+
+
+
+* **Křížová platformní kontrola úprav**  
+
+&nbsp; Detekuje variace způsobené úpravami v různých nástrojích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná ověřování ODT**  
+
+&nbsp; Automaticky zpracovává velké sady dokumentů.
+
+
+
+* **Automatizované pracovní postupy úprav**  
+
+&nbsp; Spouští kontrolu během generování dokumentu.
+
+
+
+* **Hlášení programových změn**  
+
+&nbsp; Generuje strukturované souhrny rozdílů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

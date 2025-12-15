@@ -101,7 +101,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/sli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A compressão de arquivos PPT reduz o armazenamento e melhora a velocidade de transferência para apresentações legadas do PowerPoint, preservando formatação, gráficos e mídia incorporada.
+
+
+
+As APIs do Python permitem a compressão automatizada de PPT, suportando gerenciamento de apresentações escalável e eficiência de fluxo de trabalho.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Otimização de Apresentações Legadas**  
+
+  &nbsp; Reduza o tamanho dos arquivos PPT sem afetar layouts ou conteúdo dos slides.
+
+
+
+* **Compartilhamento Mais Rápido**  
+
+  &nbsp; Arquivos PPT menores permitem distribuição rápida por e-mail ou nuvem.
+
+
+
+* **Eficiência de Arquivamento**  
+
+  &nbsp; A compressão automatizada simplifica o armazenamento de longo prazo de apresentações legadas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de PPT**  
+
+  &nbsp; Scripts em Python podem processar vários arquivos PPT automaticamente.
+
+
+
+* **Integração com Sistemas de Fluxo de Trabalho**  
+
+  &nbsp; Arquivos comprimidos podem ser gerenciados em pipelines ou sistemas de gerenciamento de documentos automatizados.
+
+
+
+* **Compressão Condicional**  
+
+  &nbsp; Alvo de arquivos com base no tamanho ou mídia incorporada para otimização.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

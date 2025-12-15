@@ -43,9 +43,79 @@ Pro vývojáře, který se snaží vytvářet soubory DOT prostřednictvím apli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT — Soubory šablony `.dot` definují opakovaně použitelné styly a strukturu pro zastaralé pracovní postupy ve Wordu; vytváření šablon DOT pomocí Pythonu umožňuje organizacím udržovat konzistentní formátování pro slučování pošty, formuláře a standardizované dokumenty spotřebované staršími klienty.
+
+
+
+Programatické generování DOT zajistí, že šablony jsou aktualizovány centrálně a mohou být automaticky distribuovány koncovým uživatelům nebo dokumentačním službám.
+
+Automatizace podporuje plánované obnovení šablon, verzování a následné generování konkrétních dokumentů ze šablon.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Distribuce zastaralých šablon**
+
+  Vytvořte DOT šablony, které zajistí konzistentní rozvržení napříč zastaralými nástroji.
+
+
+
+* **Standardizované formulářové šablony**
+
+  Vytvořte formulářové šablony s místy pro ruční nebo automatizované slučování pošty.
+
+
+
+* **Verzování šablon**
+
+  Automatizujte označování verzí a uvolňování DOT šablon do repozitářů dokumentů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované obnovení šablon**
+
+  Nahraďte nebo opravujte DOT šablony z centrálního zdroje a programově je aktualizujte.
+
+
+
+* **Hromadné vytváření řízené šablonami**
+
+  Použijte DOT šablony k vytvoření mnoha vyplněných dokumentů prostřednictvím automatizovaných slučování.
+
+
+
+* **Auditní stopy pro šablony**
+
+  Vložte metadata a změnové záznamy během programové generace šablon pro dodržování předpisů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

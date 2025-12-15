@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi CMX mengurangi ukuran grafik vektor Corel Presentation Exchange, yang sering kali mencakup ilustrasi detail, lapisan, dan profil warna. Mengoptimalkan file CMX membantu meningkatkan kinerja dalam alur kerja desain, mempercepat berbagi, dan mengurangi kebutuhan penyimpanan di berbagai lingkungan kreatif dan teknis.
+
+
+
+API Python memungkinkan kompresi CMX otomatis dan konversi, memastikan penanganan aset vektor besar secara efisien dalam skala untuk sistem penerbitan, pencetakan, dan manajemen grafis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Proyek Desain**  
+
+&nbsp; Memampatkan grafik CMX berlapis untuk menyederhanakan penanganan file dan mengurangi dampak penyimpanan.
+
+
+
+* **Penerbitan & Pipa Cetak**  
+
+&nbsp; File CMX yang lebih kecil mempercepat proses rendering, pengeditan, dan transfer.
+
+
+
+* **Manajemen Perpustakaan Aset**  
+
+&nbsp; Koleksi CMX yang dioptimalkan memuat lebih cepat di dalam repositori aset digital.
+
+
+
+* **Pertukaran lintas platform**  
+
+&nbsp; File CMX yang terkompresi mentransfer lebih efisien antara tim desain atau aplikasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi Massal CMX**  
+
+&nbsp; Mengoptimalkan secara otomatis set besar grafik CMX dengan alur kerja Python.
+
+
+
+* **Konversi CMX ke Format Terkompresi**  
+
+&nbsp; Mengonversi CMX menjadi SVG, PDF, PNG, atau EPS sambil menerapkan aturan kompresi.
+
+
+
+* **Optimisasi Unggah Otomatis**  
+
+&nbsp; File CMX dapat dikompresi secara instan saat dimasukkan ke dalam sistem DMS atau DAM.
+
+
+
+* **Kompresi Berbasis Konten**  
+
+&nbsp; Menyesuaikan intensitas optimisasi berdasarkan kompleksitas vektor atau komponen yang disematkan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM soubory obsahující makra mají prospěch z komprese k optimalizaci úložiště při zachování funkcionality maker a formátování.
+
+
+
+Použitím Python API je automatizovaná komprese DOCM zajišťuje, že makra zůstanou nedotčena a zjednodušuje zpracování dokumentů v automatizovaných pracovních postupech.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Bezpečné ukládání maker**  
+
+&nbsp; Komprimujte DOCM soubory bez narušení vložených maker.
+
+
+
+* **Rychlejší sdílení souborů**  
+
+&nbsp; Snížené velikosti umožňují rychlé připojení k e-mailům a nahrávání do cloudových úložišť.
+
+
+
+* **Správa archivů**  
+
+&nbsp; Automatizovaná komprese pomáhá při dlouhodobém ukládání dokumentů s makry.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese dokumentů s makry**  
+
+&nbsp; Automatizujte zpracování více DOCM souborů s zachováním funkcionality.
+
+
+
+* **Integrace s automatizací kanceláře**  
+
+&nbsp; Komprimované soubory lze spravovat v systémech pracovních postupů nebo řešeních pro správu dokumentů.
+
+
+
+* **Podmíněná komprese maker**  
+
+&nbsp; Python skripty mohou selektivně komprimovat DOCM soubory na základě velikosti nebo obsahu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

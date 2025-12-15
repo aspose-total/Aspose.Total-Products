@@ -100,7 +100,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Words for Python via .
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Các tệp DOT là các mẫu Word được nén để tiết kiệm không gian và cải thiện hiệu suất phân phối trên các hệ thống.
+
+
+
+Nén dựa trên Python có thể tự động hóa việc tối ưu hóa tệp DOT mà không ảnh hưởng đến cấu trúc hoặc định dạng mẫu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Lưu Trữ Mẫu**  
+
+&nbsp; Nén các mẫu DOT để lưu trữ hiệu quả trên máy cục bộ hoặc đám mây.
+
+
+
+* **Chia Sẻ Mẫu**  
+
+&nbsp; Kích thước tệp giảm giúp tăng tốc độ phân phối cho việc hợp tác nhóm.
+
+
+
+* **Lưu Trữ Mẫu**  
+
+&nbsp; Nén tự động hỗ trợ quản lý mẫu dài hạn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Mẫu Theo Lô**  
+
+&nbsp; Kịch bản Python có thể nén nhiều tệp DOT tự động.
+
+
+
+* **Tích Hợp với Hệ Thống Luồng Công Việc**  
+
+&nbsp; Các mẫu được nén có thể được tải động vào các luồng công việc tự động.
+
+
+
+* **Nén Lựa Chọn**  
+
+&nbsp; Tự động hóa có thể nén chỉ các mẫu lớn hoặc chứa các đối tượng nhúng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

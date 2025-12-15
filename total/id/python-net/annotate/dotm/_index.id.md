@@ -75,7 +75,65 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Anotasi DOTM menargetkan template Word yang diaktifkan makro, memungkinkan dokumentasi yang jelas tentang skrip tertanam dan logika template. Ini membantu menjaga transparansi seputar fitur otomatis dan memastikan penggunaan yang konsisten di seluruh tim.  
+
+Anotasi DOTM otomatis memungkinkan sistem untuk memindai makro, memperbarui catatan, dan menegakkan aturan template secara besar-besaran.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Catatan Perilaku Makro**  
+
+&nbsp; Jelaskan bagaimana skrip tertanam bekerja.
+
+* **Pedoman Template**  
+
+&nbsp; Pandu pengguna tentang penggunaan yang tepat dari makro.
+
+* **Pelacakan Logika**  
+
+&nbsp; Tandai bagian yang dipicu oleh makro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Alat Temuan Makro**  
+
+&nbsp; Masukkan anotasi secara otomatis untuk skrip yang terdeteksi.
+
+* **Pembaruan Template Berbasis Alur Kerja**  
+
+&nbsp; Tambahkan atau modifikasi catatan secara dinamis.
+
+* **Markup Jaminan Kualitas**  
+
+&nbsp; Tandai logika makro yang berisiko atau sudah ketinggalan zaman.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -43,9 +43,79 @@ informat: DOT
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+도트 — `.dot` 템플릿 파일은 레거시 워드 워크플로우를 위한 재사용 가능한 스타일과 구조를 정의합니다. 파이썬을 통해 DOT 템플릿을 생성하면 조직이 오래된 클라이언트에서 사용되는 메일 병합, 양식 및 표준 문서의 일관된 서식을 유지할 수 있습니다.
+
+
+
+프로그래밍 방식의 DOT 생성을 통해 템플릿이 중앙에서 업데이트되고 자동으로 최종 사용자나 문서 서비스에 배포될 수 있습니다.
+
+자동화는 예약된 템플릿 새로 고침, 버전 관리 및 템플릿에서 구체적 문서 생성을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **레거시 템플릿 배포**
+
+  생산성을 위해 DOT 템플릿을 생성하여 레거시 도구 체인 전체에서 일관된 레이아웃을 보장합니다.
+
+
+
+* **표준화된 양식 템플릿**
+
+  수동 또는 자동 메일 병합을 위한 자리 표시자가 있는 양식 템플릿을 생성합니다.
+
+
+
+* **템플릿 버전 관리**
+
+  DOT 템플릿의 버전 태깅 및 문서 저장소로의 릴리스를 자동화합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **자동화된 템플릿 새로 고침**
+
+  중앙 소스에서 DOT 템플릿을 교체하거나 패치하고 업데이트를 프로그래밍 방식으로 푸시합니다.
+
+
+
+* **템플릿 기반 일괄 생성**
+
+  DOT 템플릿을 사용하여 자동 병합을 통해 많은 채워진 문서를 생성합니다.
+
+
+
+* **템플릿에 대한 감사 추적**
+
+  규정 준수를 위해 프로그래밍 방식의 템플릿 생성 중에 메타데이터와 변경 로그를 포함합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

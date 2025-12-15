@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTファイルは、圧縮によってスペースを節約し、システム間での配布効率を向上させるWordテンプレートです。
+
+
+
+Pythonベースの圧縮により、テンプレートの構造や書式に影響を与えることなく、DOTファイルの最適化を自動化できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* **テンプレートのストレージ最適化**  
+
+&nbsp; DOTテンプレートを効率的なローカルまたはクラウドストレージ用に圧縮します。
+
+
+
+* **テンプレートの共有**  
+
+&nbsp; ファイルサイズの削減により、チーム間のコラボレーションの配布速度が向上します。
+
+
+
+* **テンプレートのアーカイブ**  
+
+&nbsp; 自動圧縮は長期的なテンプレート管理をサポートします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **一括テンプレート圧縮**  
+
+&nbsp; Pythonスクリプトを使用して複数のDOTファイルを自動的に圧縮できます。
+
+
+
+* **ワークフローシステムとの統合**  
+
+&nbsp; 圧縮されたテンプレートは自動化されたワークフローに動的にロードできます。
+
+
+
+* **選択的圧縮**  
+
+&nbsp; 自動化により、大きなテンプレートや埋め込みオブジェクトを持つテンプレートのみを圧縮できます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+CHM 압축은 HTML 페이지, 이미지 및 소프트웨어 설명서를 위한 탐색 구조를 포함하는 컴파일된 HTML 도움말 파일의 크기를 줄입니다. 압축된 CHM 파일은 저장 효율성, 배포 속도 및 사용자 접근성을 향상시킵니다.
+
+
+
+Python API를 사용하면 자동화된 CHM 압축, 일괄 처리 및 확장 가능한 도움말 시스템 및 기술 매뉴얼의 관리를 위한 문서 작업과의 통합이 가능합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **소프트웨어 설명서 제공**  
+
+&nbsp; 압축된 CHM 파일은 빠르게 로드되고 디스크 공간을 적게 차지합니다.
+
+
+
+* **보관 및 백업**  
+
+&nbsp; 기존 및 대규모 도움말 파일 컬렉션의 저장 공간을 줄입니다.
+
+
+
+* **효율적인 공유**  
+
+&nbsp; 작은 CHM 파일은 네트워크나 장치 간에 빠르게 전송됩니다.
+
+
+
+* **사용자 접근성**  
+
+&nbsp; 최적화된 파일은 도움말 뷰어에서 로드 성능을 향상시킵니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 CHM 압축**  
+
+&nbsp; 여러 도움말 파일의 크기를 자동으로 줄입니다.
+
+
+
+* **포함된 에셋 최적화**  
+
+&nbsp; 이미지, 스크립트 및 HTML 페이지를 자동으로 압축합니다.
+
+
+
+* **문서 작업과의 통합**  
+
+&nbsp; 빌드나 배포 워크플로 중에 CHM 파일을 압축합니다.
+
+
+
+* **동적 압축 수준**  
+
+&nbsp; 콘텐츠 크기와 복잡성에 따라 조정합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF (Zengin Metin Biçimi) dosyaları, karmaşık biçimlendirme veya gömülü nesneler içerdiğinde büyüyebilir; sıkıştırma, dosya boyutunu etkilemeden platformlar arası uyumluluğu artırır.
+
+
+
+Python API'leri, modern sistemlerde belge işleme sürecini hızlandırarak RTF sıkıştırmasını sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Platformlar Arası Depolama Optimizasyonu**  
+
+  Compress RTF dosyalarını farklı işletim sistemleri ve uygulamalar arasında verimli bir şekilde kullanmak için sıkıştırın.
+
+
+
+* **Daha Hızlı Paylaşım**  
+
+  Daha küçük RTF dosyaları, e-posta ve bulut dağıtımını iyileştirir.
+
+
+
+* **Otomatik Arşivleme**  
+
+  Toplu sıkıştırma, eski veya büyük RTF belgelerinin arşivlenmesini basitleştirir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu RTF Sıkıştırma**  
+
+  Python betikleri kullanarak otomatik olarak birden fazla RTF belgesini işleyin.
+
+
+
+* **Belge İş Akışlarıyla Entegrasyon**  
+
+  Sıkıştırılmış RTF dosyaları, otomatik iş akışlarına veya DMS sistemlerine yüklenebilir.
+
+
+
+* **Koşullu Sıkıştırma**  
+
+  Otomasyon, boyuta veya gömülü içeriğe göre RTF dosyalarını hedefleyebilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

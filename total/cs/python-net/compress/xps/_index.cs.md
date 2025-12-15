@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese formátu XPS (XML Paper Specification) snižuje velikost dokumentů s pevným rozložením při zachování kvality, vektorové grafiky a vložených písem. Komprimované soubory XPS zlepšují účinnost ukládání, přenosu a vykreslování napříč zařízeními.
+
+
+
+Python API umožňují automatizovanou kompresi XPS, hromadné zpracování a integraci do pracovních postupů s dokumenty pro škálovatelné správu obsahu a distribuci.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Archivace dokumentů**  
+
+&nbsp; Kompresí XPS souborů lze uchovat dokumenty dlouhodobě bez ztráty kvality.
+
+
+
+* **Efektivní distribuce**  
+
+&nbsp; Menší XPS soubory se rychleji přenášejí po sítích nebo mezi zařízeními.
+
+
+
+* **Pracovní postupy tisku a publikování**  
+
+&nbsp; Optimalizovaný formát XPS zvyšuje rychlost vykreslování a tisku.
+
+
+
+* **Digitální knihovny**  
+
+&nbsp; Snížení místa pro uložení kolekcí dokumentů s pevným rozložením.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese XPS**  
+
+&nbsp; Automatizace zmenšení velikosti pro více XPS souborů.
+
+
+
+* **Optimalizace vložených prvků**  
+
+&nbsp; Automatická komprese písem, obrázků a grafiky.
+
+
+
+* **Integrace do pracovních postupů**  
+
+&nbsp; Dynamická komprese XPS souborů při nahrávání do CMS, DAM nebo tiskových linek.
+
+
+
+* **Dynamické úrovně komprese**  
+
+&nbsp; Nastavení podle obsahu dokumentu, rozlišení nebo zamýšleného výstupu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

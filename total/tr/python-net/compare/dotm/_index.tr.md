@@ -70,7 +70,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM karşılaştırması, makroları içeren belgelerde şablon düzeyindeki değişiklikleri inceleyerek görsel yapı ve gömülü otomasyon mantığında tutarlılığı sağlar. Kuruluşları gizli makro düzeyindeki değişikliklerden korur.
+
+
+
+Otomatik karşılaştırma, büyük belge sistemlerinde şablon bütünlüğünü ve makro güncellemelerini sürekli olarak izlemeyi sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Makro Şablon Doğrulaması**  
+
+&nbsp; Gömülü komut dosyalarındaki değişiklikleri kontrol eder.
+
+
+
+* **Uyum Odaklı Şablon Kontrolü**  
+
+&nbsp; Paylaşılan tüm şablonların gerekli standartları takip etmesini sağlar.
+
+
+
+* **Denetim İçin Hazır Şablon Takibi**  
+
+&nbsp; Düzenlenmiş iş akışları için güvenilir sürüm geçmişini korur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Makro Tabanlı Değişiklik Uyarıları**  
+
+&nbsp; Gömülü makrolardaki değişiklikleri otomatik olarak tanımlar.
+
+
+
+* **Kurumsal Şablon İzleme**  
+
+&nbsp; Belge ekosistemlerinde ölçeklendirilmiş şekilde şablonları karşılaştırır.
+
+
+
+* **Otomatik Dağıtım Kontrolleri**  
+
+&nbsp; Dağıtımdan önce şablon tutarlılığını doğrular.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

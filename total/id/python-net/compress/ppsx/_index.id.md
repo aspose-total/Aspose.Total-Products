@@ -101,7 +101,69 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File PPSX (Tayangan PowerPoint modern) mendapat manfaat dari kompresi untuk penyimpanan yang lebih kecil dan berbagi yang lebih cepat, menjaga konten slide, animasi, dan media yang disematkan.
+
+
+
+API Python memungkinkan kompresi PPSX otomatis, meningkatkan alur kerja presentasi dan skalabilitas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Penyimpanan**  
+  Compress file PPSX tanpa memengaruhi slide atau animasi.
+
+
+
+* **Kolaborasi Lebih Cepat**  
+  File yang lebih kecil memungkinkan berbagi cepat di antara tim dan platform.
+
+
+
+* **Efisiensi Arsip**  
+  Kompresi otomatis memastikan penyimpanan jangka panjang file tayangan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi PPSX Massal**  
+  Skrip Python dapat mengompres file PPSX secara otomatis.
+
+
+
+* **Integrasi dengan Sistem Alur Kerja dan Cloud**  
+  File PPSX yang terkompresi dapat diproses secara dinamis dalam alur kerja otomatis.
+
+
+
+* **Aturan Kompresi Cerdas**  
+  Otomatisasi bersyarat menargetkan file dengan media resolusi tinggi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -168,7 +230,7 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

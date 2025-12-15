@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+EPUBの圧縮は、テキスト、画像、スタイル、およびメタデータを含むeBookファイルのサイズを縮小します。圧縮されたEPUBは、ダウンロード速度、ストレージ効率、eReaderやデジタルライブラリとの互換性を向上させます。
+
+
+
+PythonのAPIを使用すると、自動化されたEPUBの圧縮、バッチ処理、およびeBookやデジタル出版物のスケーラブルな管理の最適化が可能です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **eBookの配布**  
+
+  &nbsp; より小さなEPUBファイルは、高速なダウンロードと簡単な共有を実現します。
+
+
+
+* **デジタルライブラリの管理**  
+
+  &nbsp; 圧縮されたEPUBは、大規模なコレクションのストレージ要件を削減します。
+
+
+
+* **複数デバイスへのコンテンツ配信**  
+
+  &nbsp; 最適化されたファイルは、eReaderやアプリ間でスムーズな読書体験を提供します。
+
+
+
+* **アーカイブおよびバックアップ**  
+
+  &nbsp; 大量のeBookの効率的なストレージです。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチEPUBの圧縮**  
+
+  &nbsp; 一度に複数のeBookファイルの最適化を自動化します。
+
+
+
+* **画像とテキストの最適化**  
+
+  &nbsp; 埋め込まれた画像のサイズを縮小し、冗長なメタデータを削除します。
+
+
+
+* **ワークフローの統合**  
+
+  &nbsp; デジタルライブラリやプラットフォームへのアップロード時にEPUBを自動的に圧縮します。
+
+
+
+* **動的品質調整**  
+
+  &nbsp; デバイスやプラットフォームに基づいて画質とファイルサイズをバランスさせます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

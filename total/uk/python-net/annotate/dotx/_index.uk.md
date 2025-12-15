@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Анотація DOTX розширює можливості шаблону, вбудовуючи коментарі, інструкції та метадані в шаблони Word без макросів. Це покращує точність документа та допомагає користувачам створювати структурований вміст.  
+
+Автоматизація анотації DOTX прискорює оновлення шаблонів та забезпечує послідовність у робочих процесах документування.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* **Огляд шаблону**  
+
+&nbsp; Додавання приміток для кожного розділу з вказанням його призначення.
+
+* **Керівництво форматуванням**  
+
+&nbsp; Виділення правил для заголовків, списків або таблиць.
+
+* **Попередження про помилки**  
+
+&nbsp; Позначення областей, де користувачі часто допускають помилки.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Анотація на основі правил**  
+
+&nbsp; Вставка стандартизованих інструкцій програмно.
+
+* **Масове обслуговування шаблонів**  
+
+&nbsp; Оновлення анотацій у кількох шаблонах.
+
+* **Динамічне інтегрування політики**  
+
+&nbsp; Додавання вказівок щодо відповідності через автоматизовані конвеєри.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

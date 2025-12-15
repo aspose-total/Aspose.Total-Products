@@ -43,9 +43,79 @@ Python uygulaması aracılığıyla DOT dosyaları oluşturmaya çalışan bir g
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT — `.dot` şablon dosyaları, eski Word iş akışları için yeniden kullanılabilir stiller ve yapı tanımlar; Python aracılığıyla DOT şablonları oluşturmak, kuruluşların posta birleştirme, formlar ve eski istemciler tarafından tüketilen standart belgeler için tutarlı biçimlendirme sağlamasına olanak tanır.
+
+
+
+Programatik DOT oluşturma, şablonların merkezi olarak güncellendiğinden ve otomatik olarak son kullanıcılara veya belge hizmetlerine dağıtılabildiğinden emin olur.
+
+Otomasyon, zamanlanmış şablon yenilemelerini, sürümleme işlemlerini ve şablonlardan beton belgelerin aşağı akışta oluşturulmasını destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Şablon Dağıtımı**
+
+&nbsp; Eski araç zincirlerinde tutarlı düzen sağlayan DOT şablonları oluşturun.
+
+
+
+* **Standartlaştırılmış Form Şablonları**
+
+&nbsp; Manuel veya otomatik posta birleştirme için yer tutucuları olan form şablonları oluşturun.
+
+
+
+* **Şablon Sürümleme**
+
+&nbsp; DOT şablonlarının sürüm etiketleme ve belge depolarına otomatik olarak yayınlanmasını sağlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Şablon Yenileme**
+
+&nbsp; Merkezi bir kaynaktan DOT şablonlarını değiştirin veya yamalayın ve güncellemeleri programatik olarak yayınlayın.
+
+
+
+* **Şablon Odaklı Toplu Oluşturma**
+
+&nbsp; DOT şablonlarını kullanarak otomatik birleştirmeler aracılığıyla birçok doldurulmuş belge oluşturun.
+
+
+
+* **Şablonlar için Denetim İzleri**
+
+&nbsp; Uyumluluk için programatik şablon oluşturma sırasında meta veri ve değişiklik günlüklerini gömün.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}} 
+ 
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -70,7 +70,75 @@ Para obter mais detalhes, consulte [Documentação do Produto](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A comparação de TXT destaca as alterações a nível de linha ou de caráter em documentos de texto simples, garantindo total visibilidade das revisões sem complexidades de formatação. É essencial para logs, scripts e documentação simples.
+
+
+
+A comparação automatizada de TXT fornece detecção rápida e escalável de atualizações em grandes conjuntos de conteúdo baseado em texto.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Rastreamento de Diferenças em Arquivos de Log**  
+
+  Identifica novas entradas ou alterações.
+
+
+
+* **Revisão de Texto de Script ou Código**  
+
+  Destaca modificações em scripts de texto simples.
+
+
+
+* **Controle de Revisão de Documento Simples**  
+
+  Captura alterações de linha de forma eficiente.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Comparações de TXT em Alto Volume**  
+
+  Processa milhares de arquivos rapidamente.
+
+
+
+* **Pipelines de Monitoramento Automatizados**  
+
+  Dispara fluxos de trabalho quando ocorrem alterações.
+
+
+
+* **Extração de Diferenças Programática**  
+
+  Gera relatórios estruturados para sistemas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

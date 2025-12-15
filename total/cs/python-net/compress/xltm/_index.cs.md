@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLTM soubory (šablon s povolenými makry) vyžadují kompresi, která zachovává makra, zatímco zmenšuje velikost souboru a zlepšuje distribuci.
+
+
+
+Automatizace založená na Pythonu podporuje škálovatelnou kompresi XLTM šablon pro firemní pracovní postupy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Zachování maker**  
+
+&nbsp; Udržujte makra při komprimaci XLTM šablon.
+
+
+
+* **Efektivní sdílení**  
+
+&nbsp; Menší šablony zlepšují spolupráci mezi týmy.
+
+
+
+* **Archivace šablon**  
+
+&nbsp; Automatizovaná komprese zlepšuje dlouhodobé uchovávání šablon.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Hromadná komprese XLTM**  
+
+&nbsp; Pythonové skripty mohou automaticky zpracovávat více šablon s povolenými makry.
+
+
+
+* **Integrace s BI a pracovními systémy**  
+
+&nbsp; Kompresované XLTM šablony lze použít v automatizovaných potrubích.
+
+
+
+* **Podmíněná komprese**  
+
+&nbsp; Cílem jsou velké šablony nebo ty s vloženými médii pro kompresi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

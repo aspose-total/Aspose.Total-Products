@@ -75,7 +75,67 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT annotation เป็นการเพิ่มหมายเหตุและความคิดเห็นโครงสร้างลงในไฟล์เทมเพลต Word เพื่อช่วยทีมให้มีมาตรฐานในการสร้างเอกสารพร้อมคำแนะนำชัดเจน ซึ่งช่วยเพิ่มประสิทธิภาพของเทมเพลตและรักษาการจัดรูปแบบอย่างสม่ำเสมอในเอกสารที่สร้างขึ้น
+
+การทำ DOT annotation โดยอัตโนมัติช่วยให้การบำรุงรักษาเทมเพลตเป็นเรื่องง่าย โดยระบบสามารถใช้การอัปเดตหรือคำแนะนำได้โดยไดนามิก
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **คำแนะนำเกี่ยวกับเทมเพลต**  
+
+&nbsp; เพิ่มหมายเหตุเพื่อแนะนำผู้ใช้ว่าจะกรอกส่วนไหน
+
+* **มาตรฐานการจัดรูปแบบ**  
+
+&nbsp; เน้นกฎเกณฑ์โครงสร้างหรือรูปแบบ
+
+* **การติดตามการแก้ไข**  
+
+&nbsp; ทำเครื่องหมายการเปลี่ยนแปลงตามแนวทางเทมเพลต
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การอัปเดตเทมเพลตเป็นกลุ่ม**  
+
+&nbsp; แทรกคำแนะนำใหม่ๆ โดยโปรแกรม
+
+* **สคริปต์มาตรฐาน**  
+
+&nbsp; อัตโนมัติเพิ่มหมายเหตุในส่วนที่ขาดหายไปหรือไม่ถูกต้อง
+
+* **การตรวจสอบความเป็นไปตามข้อบังคับ**  
+
+&nbsp; เน้นการเลี้ยงจากนโยบายของเทมเพลต
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

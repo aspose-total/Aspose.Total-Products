@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLTX 파일(현대적인 Excel 템플릿)은 최적화된 저장 공간과 빠른 공유를 위해 압축을 활용하며, 모든 서식과 수식을 보존합니다.
+
+
+
+Python API를 사용하여 자동화된 XLTX 압축을 통해 작업 효율을 향상시키고 문서 관리 시스템과 통합할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **템플릿 저장 공간 최적화**  
+
+  압축된 XLTX 템플릿을 유지하면서 전체 기능 유지.
+
+
+
+* **빠른 템플릿 공유**  
+
+  더 작은 파일은 빠른 배포와 협업을 가능하게 합니다.
+
+
+
+* **자동 아카이브**  
+
+  압축을 통해 장기 저장 공간 관리를 간소화합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 XLTX 압축**  
+
+  Python 스크립트를 사용하여 여러 템플릿의 압축을 자동화합니다.
+
+
+
+* **워크플로 시스템과의 통합**  
+
+  압축된 템플릿을 자동화된 파이프라인에 로드할 수 있습니다.
+
+
+
+* **스마트 압축**  
+
+  조건부 규칙을 사용하여 대량 데이터나 포함된 미디어가 있는 템플릿을 대상으로 할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Аннотация DOCX улучшает современные документы Word комментариями, выделениями и метаданными для улучшения совместной работы, контроля версий и ясности документа. Этот формат поддерживает продвинутую структуру и стилизацию, делая аннотации более точными и последовательными.
+
+Автоматизация аннотации DOCX масштабирует процессы проверки и обеспечивает стандартизированную обратную связь по всему набору больших документов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Совместное редактирование**  
+
+  Вставляйте комментарии для руководства рецензентов.
+
+* **Семантическое выделение**  
+
+  Выделяйте ключевые термины, ошибки или решения.
+
+* **Структурированная документация**  
+
+  Добавляйте метаданные для индексации и поиска.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматическая маркировка контента**  
+
+  Выделяйте шаблоны или ключевые слова в пакетных файлах.
+
+* **Программное комментирование**  
+
+  Вставляйте аннотации на основе правил для проверки качества.
+
+* **Аннотации сравнения версий**  
+
+  Автоматическая маркировка различий между версиями.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

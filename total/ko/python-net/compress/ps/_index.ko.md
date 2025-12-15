@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PS 압축은 벡터 그래픽, 텍스트 및 인쇄 지시를 포함하는 PostScript 파일을 최적화하여 인쇄 충실도를 유지하면서 파일 크기를 줄입니다. 압축된 PS 파일은 저장 효율성을 향상시키고 빠른 전송 및 인쇄 및 게시 워크플로우의 성능을 향상시킵니다.
+
+
+
+Python API를 사용하면 자동 PS 압축, 일괄 처리 및 확장 가능한 문서 및 그래픽 관리를 위한 인쇄 파이프라인 통합이 가능합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **인쇄 작업 최적화**  
+
+  &nbsp; PS 파일을 압축하여 스풀 시간을 줄이고 인쇄 속도를 향상시킵니다.
+
+
+
+* **아카이브 및 저장**  
+
+  &nbsp; 효율적인 저장을 위해 대형 PostScript 파일을 최적화합니다.
+
+
+
+* **콘텐츠 배포**  
+
+  &nbsp; 작은 PS 파일은 프린터나 클라이언트로 빠르게 전송됩니다.
+
+
+
+* **워크플로우 효율성**  
+
+  &nbsp; 자동화된 인쇄 및 게시 시스템에서 처리 속도를 향상시킵니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 PS 압축**  
+
+  &nbsp; 여러 개의 PostScript 파일에 대한 크기 축소를 자동화합니다.
+
+
+
+* **임베디드 에셋 최적화**  
+
+  &nbsp; 글꼴, 이미지 및 그래픽을 자동으로 압축합니다.
+
+
+
+* **인쇄 및 게시 파이프라인과의 통합**  
+
+  &nbsp; 생성, 업로드 또는 아카이브 중에 PS 파일을 압축합니다.
+
+
+
+* **동적 압축 수준**  
+
+  &nbsp; 콘텐츠 복잡성 및 의도된 출력에 따라 최적화를 조정합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -68,7 +68,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сравнение POTM сосредотачивается на макро-включенных шаблонах презентаций, выделяя различия в макетах слайдов, темах и встроенных сценариях автоматизации. Это обеспечивает качество и безопасность шаблона.
+
+
+
+Автоматизированное сравнение POTM поддерживает контроль версий и управление в рамках рабочих процессов с большим количеством презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Целостность макро-шаблона**  
+
+&nbsp; Определяет изменения во встроенном коде и дизайне слайдов.
+
+
+
+* **Контроль качества шаблона**  
+
+&nbsp; Обеспечивает согласованные макеты дизайна.
+
+
+
+* **Стандартизация бренда**  
+
+&nbsp; Подтверждает соответствие шаблона стандартам команд.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизированный мониторинг макро**  
+
+&nbsp; Отслеживает обновления во встроенных сценариях.
+
+
+
+* **Сравнение шаблонов большого объема**  
+
+&nbsp; Поддерживает библиотеки шаблонов на корпоративном уровне.
+
+
+
+* **Обнаружение изменений в потоках**  
+
+&nbsp; Интегрирует проверки в рабочие процессы презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

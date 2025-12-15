@@ -70,7 +70,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Porovnání RTF identifikuje změny v textu, písmech, barvách, formátovacích pravidlech a struktuře dokumentu v souborech ve formátu Rich Text Format. Zajišťuje jasnost a konzistenci v lehkých dokumentech.
+
+
+
+Automatizované porovnání RTF podporuje rychlé zpracování, škálovatelnou validaci a integraci do dynamických pracovních postupů s dokumenty.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Detekce změn formátování**  
+
+&nbsp; Sleduje aktualizace vizuálních stylů.
+
+
+
+* **Hodnocení revize obsahu**  
+
+&nbsp; Zvýrazňuje úpravy a úpravy.
+
+
+
+* **Konzeistence úprav napříč aplikacemi**  
+
+&nbsp; Identifikuje variace způsobené různými editory.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadné zpracování RTF**  
+
+&nbsp; Porovnává více dokumentů programově.
+
+
+
+* **Automatizované kontrolní mechanismy QA**  
+
+&nbsp; Zajišťuje integritu formátování.
+
+
+
+* **Extrakce rozdílů v rourách**  
+
+&nbsp; Generuje strukturované výstupy porovnání.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

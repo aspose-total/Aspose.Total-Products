@@ -43,9 +43,79 @@ Per uno sviluppatore, chi sta cercando di creare file DOT tramite l'applicazione
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT — I file di modello `.dot` definiscono stili e strutture riutilizzabili per i flussi di lavoro di Word legacy; creare modelli DOT tramite Python consente alle organizzazioni di mantenere una formattazione coerente per la stampa unione, i moduli e i documenti standard consumati da clienti più anziani.
+
+
+
+La generazione DOT programmabile garantisce che i modelli siano aggiornati centralmente e possano essere distribuiti automaticamente agli utenti finali o ai servizi documentali.
+
+L'automazione supporta il rinfresco programmato dei modelli, il versioning e la generazione downstream di documenti concreti da modelli.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Distribuzione di Modelli Legacy**
+
+  Produce modelli DOT che garantiscono un layout coerente attraverso le catene di strumenti legacy.
+
+
+
+* **Modelli di Moduli Standardizzati**
+
+  Crea modelli di moduli con segnaposto per la stampa unione manuale o automatica.
+
+
+
+* **Versionamento dei Modelli**
+
+  Automatizza l'aggiunta di tag di versione e il rilascio dei modelli DOT nei repository documentali.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Aggiornamento Automatico dei Modelli**
+
+  Sostituisci o aggiorna i modelli DOT da una fonte centrale e distribuisci gli aggiornamenti in modo programmato.
+
+
+
+* **Creazione Batch basata su Modelli**
+
+  Utilizza modelli DOT per generare molti documenti compilati tramite fusioni automatiche.
+
+
+
+* **Tracciabilità per i Modelli**
+
+  Incorpora metadati e registri delle modifiche durante la generazione programmatica dei modelli per la conformità.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

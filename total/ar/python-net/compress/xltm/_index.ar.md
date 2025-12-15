@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تتطلب ملفات XLTM (قوالب تمكين الماكرو) ضغطًا يحافظ على الماكروهات مع تقليل حجم الملف وتحسين التوزيع.
+
+
+
+الأتمتة القائمة على Python تدعم ضغط قوالب XLTM قابل للتوسع لسير العمل في المؤسسات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **الحفاظ على الماكروهات**  
+
+&nbsp; الاحتفاظ بالماكروهات أثناء ضغط قوالب XLTM.
+
+
+
+* **المشاركة الفعالة**  
+
+&nbsp; تعزيز التعاون بين الفرق من خلال القوالب الأصغر.
+
+
+
+* **أرشفة القوالب**  
+
+&nbsp; يحسن الضغط التلقائي التخزين الطويل الأمد للقوالب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **ضغط الـ XLTM بالدُفعات**  
+
+&nbsp; يمكن لنصوص Python معالجة العديد من القوالب ذات التمكين التلقائي للماكرو.
+
+
+
+* **التكامل مع أنظمة BI وسير العمل**  
+
+&nbsp; يمكن استخدام القوالب XLTM المضغوطة في الأنابيب الآلية.
+
+
+
+* **ضغط مشروط**  
+
+&nbsp; استهداف القوالب الكبيرة أو تلك التي تحتوي على وسائط مضمنة للضغط.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

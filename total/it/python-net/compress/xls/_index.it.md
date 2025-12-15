@@ -78,7 +78,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compressione dei file XLS riduce lo spazio di archiviazione e accelera la condivisione dei vecchi fogli di lavoro Excel preservando formule, grafici e formattazione.
+
+
+
+L'automazione basata su Python consente la compressione batch dei file XLS, consentendo una gestione scalabile dei dati ed un'efficienza del flusso di lavoro.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Ottimizzazione dei Vecchi Fogli di Lavoro**  
+
+  Riduci le dimensioni dei file XLS senza influire sulle formule o sull'integrità dei dati.
+
+
+
+* **Condivisione più Veloce**  
+
+  File XLS più piccoli migliorano la velocità di distribuzione via email e cloud.
+
+
+
+* **Efficienza Archivistica**  
+
+  La compressione automatizzata semplifica l'archiviazione a lungo termine dei vecchi file Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Compressione Batch di XLS**  
+
+  Gli script Python possono comprimere più file XLS in un'unica operazione.
+
+
+
+* **Integrazione con Sistemi di Flusso di Lavoro**  
+
+  I file XLS compressi possono essere caricati in pipeline automatizzate o DMS.
+
+
+
+* **Compressione Condizionale**  
+
+  Indirizza i file XLS con grandi set di dati o media incorporati per la compressione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

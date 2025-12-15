@@ -78,7 +78,87 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compressione ODS ottimizza i file di fogli di calcolo OpenDocument, riducendo le dimensioni pur preservando formule, grafici e l'integrità dei dati. I file ODS compressi migliorano lo spazio di archiviazione, la velocità di trasferimento e le prestazioni nei flussi di lavoro dei fogli di calcolo con molti dati.
+
+
+
+Le API di Python consentono la compressione automatizzata di ODS, l'elaborazione batch e la conversione per una gestione scalabile dei fogli di calcolo negli uffici, nei sistemi di analisi e di reportistica.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* ** Ottimizzazione dello spazio di archiviazione dei fogli di calcolo **  
+
+&nbsp; Riduci l'impronta di archiviazione per grandi set di dati e raccolte di cartelle di lavoro.
+
+
+
+* ** Condivisione e collaborazione più veloci **  
+
+&nbsp; I file ODS più piccoli si trasmettono efficientemente tra i team.
+
+
+
+* ** Archiviazione e backup **  
+
+&nbsp; Comprimi i file ODS per l'archiviazione a lungo termine.
+
+
+
+* ** Efficienza del flusso di lavoro **  
+
+&nbsp; I fogli di calcolo ottimizzati si caricano più velocemente nelle applicazioni e nei flussi di lavoro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* ** Comprimi ODS in batch **  
+
+&nbsp; Automatizza la riduzione delle dimensioni per più fogli di calcolo.
+
+
+
+* ** Ottimizzazione dei dati e dei grafici **  
+
+&nbsp; Comprimi automaticamente grafici incorporati, tabelle pivot e formule.
+
+
+
+* ** Integrazione nei sistemi DAM o Cloud **  
+
+&nbsp; Automatizza la compressione durante il caricamento o il backup.
+
+
+
+* ** Regole di compressione dinamiche **  
+
+&nbsp; Regola l'ottimizzazione in base alle dimensioni del set di dati, alla complessità delle formule o agli oggetti incorporati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

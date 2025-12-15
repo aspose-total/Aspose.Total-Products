@@ -78,7 +78,87 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX-compressie verkleint de omvang van LaTeX-bronbestanden, die vaak repetitieve opmaak, opmerkingen of opmaakopdrachten bevatten. Het optimaliseren van TEX-bestanden verbetert de opslagefficiëntie, versnelt de compilatie en bevordert de samenwerking in academische, publicatie- en wetenschappelijke workflows.
+
+
+
+Python-API's maken geautomatiseerde TEX-compressie, batchverwerking en integratie met documentgeneratiepijplijnen mogelijk voor schaalbare LaTeX-workflows.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Academische & Onderzoeksdocumenten**  
+
+  Reduceer de omvang van LaTeX-bronnen voor grote papers, scripties en proefschriften.
+
+
+
+* **Publicatieworkflows**  
+
+  Gecomprimeerde TEX-bestanden stroomlijnen compilatie- en distributieprocessen.
+
+
+
+* **Versiebeheer & Samenwerking**  
+
+  Kleinere bestanden verbeteren de efficiëntie in repositories en bij gezamenlijke bewerking.
+
+
+
+* **Archivering & Back-up**  
+
+  Geoptimaliseerde TEX-bestanden verminderen de opslag voor historische academische inhoud.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Batch TEX-compressie**  
+
+  Automatiseer de verkleining van meerdere LaTeX-bestanden.
+
+
+
+* **Opmerking & Redundantieverwijdering**  
+
+  Verwijder automatisch onnodige opmaak of herhaalde opdrachten.
+
+
+
+* **Workflowintegratie**  
+
+  Comprimeer TEX-bestanden bij het uploaden naar geautomatiseerde compilatie- of publicatiesystemen.
+
+
+
+* **Conversie + Compressie**  
+
+  Converteer TEX naar PDF of andere formaten terwijl compressieregels worden toegepast.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

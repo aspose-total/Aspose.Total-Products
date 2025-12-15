@@ -77,7 +77,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+דחיסת CGM מתמקדת בהפחתת גודל קבצי גרפיקה וקטורית טכנית שנמצאים לעיתים תכף בהנדסה, באווירונוטיקה ובתיעוד מדעי. מאחר וקבצי CGM עשויים להכיל תרשימים מורכבים, שרטוטים דו-ממדיים/שלשוניים ומטא-נתונים, הדחיסה משפרת את יעילות הטיפול תוך שמירה על דיוק מבני.
+
+
+
+ממשקי Python מאפשרים אופטימיזציה והמרה אוטומטיות של קבצי CGM, תומכים בזרימות עבודה נמדדות עבור מערכות תיעוד, צינורות CAD ומאגרי גרפיקה ברמה העסקית.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **ניהול תיעוד טכני**  
+
+&nbsp; דחיסת קבצי CGM משפרת זמני טעינה ומפחיתה את צריכת האחסון.
+
+
+
+* **אופטימיזציה של זרימות עבודה בהנדסה וב-CAD**  
+
+&nbsp; נכסים קטנים של CGM עוזרים להאיץ תהליכי תיקון, תחלופה ועיבוד.
+
+
+
+* **ארכיוני גרפיקה בגדלים גדולים**  
+
+&nbsp; דחיסה יעילה שומרת על ספריות איורים מדעיים או תעשייתיים במשקל קל.
+
+
+
+* **תאימות בין מערכות**  
+
+&nbsp; קבצי CGM דחוסים מעבירים במהירות יותר בין פלטפורמות הנדסה ופרסום.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **דחיסת CGM בצמיגה**  
+
+&nbsp; מאופטמיזציה אוטומטית עבור סטים גדולים של תרשימים טכניים.
+
+
+
+* **המרת CGM עם דחיסה**  
+
+&nbsp; המרת CGM ל-SVG, PDF או PNG תוך יישום כללי דחיסה יעילים.
+
+
+
+* **צינורות קליטה אוטומטיים**  
+
+&nbsp; דחיסת קבצים באופן דינמי בעת העלאה למערכות ניהול מסמכים או פורטלי CAD.
+
+
+
+* **לוגיקת דחיסה מבוססת תוכן**  
+
+&nbsp; מיישרת דחיסה בהתאם לצפיפות קווים, שכבות או מטא-נתונים מוטמעים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

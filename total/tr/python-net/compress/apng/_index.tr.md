@@ -100,7 +100,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+APNG sıkıştırması, animasyonlu PNG dosyalarının boyutunu azaltmaya odaklanırken kare kalitesini ve akıcı oynatımı korur. APNG, kayıpsız özellikleri ve çoklu kareleri desteklediği için bu dosyaları optimize etmek, web ve uygulama ortamlarında daha hızlı yükleme, azaltılmış bant genişliği kullanımı ve geliştirilmiş performans için önemlidir.
+
+
+
+Python API'leri, otomatik APNG sıkıştırması, kare optimizasyonu ve kaynak azaltma imkanı sağlayarak hafif animasyonların ölçeklenebilir iş akışlarına ve yüksek hacimli içerik akışlarına entegre edilmesini kolaylaştırır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Web Animasyonları Optimizasyonu**  
+
+&nbsp; APNG dosyalarını sıkıştırmak, animasyon netliğini korurken yükleme sürelerini iyileştirir.
+
+
+
+* **UI/UX Varlık Teslimatı**  
+
+&nbsp; Hafif APNG'ler, mobil ve masaüstü uygulamalarda arayüzlerin hızlı hissettirmesine yardımcı olur.
+
+
+
+* **Oyun ve Uygulama Grafik İş Akışları**  
+
+&nbsp; Sıkıştırılmış APNG varlıkları, etkileşimli ortamlarda yükleme gecikmesini ve depolama kullanımını azaltır.
+
+
+
+* **İçerik Yayınlama**  
+
+&nbsp; Animasyon boyutunu en aza indirerek bloglar, platformlar ve CMS sistemlerinde sorunsuz teslimatı sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu APNG Sıkıştırması**  
+
+&nbsp; Python betikleri, toplu halde birden fazla animasyonlu PNG'yi otomatik olarak sıkıştırabilir.
+
+
+
+* **Kare Düzeyinde Optimizasyon**  
+
+&nbsp; Otomasyon, bireysel kareleri yeniden sıkıştırabilir veya gereksiz olanları kaldırabilir.
+
+
+
+* **İş Akışına Entegre Sıkıştırma**  
+
+&nbsp; Sistemlere yüklenen APNG dosyaları, depolama öncesinde otomatik olarak sıkıştırılabilir.
+
+
+
+* **Dinamik Animasyon Kalitesi Ayarı**  
+
+&nbsp; Sistemler, çözünürlüğe, cihaz türüne veya ağ sınırlarına bağlı olarak animasyon boyutunu azaltabilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

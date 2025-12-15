@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD圧縮は、不要な空白、コメント、または冗長な書式を削除しながらコンテンツ構造を保持することで、Markdownファイルを最適化します。これにより、ストレージ効率が向上し、ファイル転送が高速化され、ドキュメントやコンテンツのパイプライン処理が効率化されます。
+
+
+
+Python APIを使用すると、技術文書、ブログ、およびバージョン管理されたコンテンツのスケーラブルな取り扱いのために、MD圧縮、バッチ処理、および変換ワークフローを自動化できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+
+
+* **ドキュメントの最適化**  
+
+&nbsp; 大規模なMarkdownリポジトリを圧縮して、ストレージを節約し、バージョン管理操作を高速化します。
+
+
+
+* **コンテンツ公開ワークフロー**  
+
+&nbsp; より小さなMDファイルは、Webおよび静的サイト生成プロセスを効率化します。
+
+
+
+* **Markdownコンテンツのアーカイブ**  
+
+&nbsp; 履歴的なドキュメントやノートのためのストレージを削減します。
+
+
+
+* **コラボレーションと配布**  
+
+&nbsp; 最適化されたファイルは、チームやシステム間で共有しやすくなります。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチMD圧縮**  
+
+&nbsp; 複数のMarkdownファイルの最適化を自動化します。
+
+
+
+* **空白とコメントの削除**  
+
+&nbsp; コンテンツを変更せずに不要なテキストを自動的にクリーンアップします。
+
+
+
+* **ワークフロー統合**  
+
+&nbsp; CMSやバージョン管理システムに取り込まれた際にMDファイルを圧縮します。
+
+
+
+* **変換+圧縮パイプライン**  
+
+&nbsp; MDをHTMLやPDFに変換しながら自動的に圧縮を適用します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+OTP 압축은 텍스트 문서에 사용되는 OpenDocument 템플릿 파일의 크기를 줄입니다. OTP 최적화는 템플릿 기반 문서 생성을 위한 저장 효율성, 빠른 배포 및 워크플로우 성능을 향상시킵니다.
+
+
+
+Python API를 사용하여 자동화된 OTP 압축, 일괄 처리 및 확장 가능한 문서 자동화 워크플로우를 위한 템플릿 관리가 가능합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **템플릿 최적화**  
+
+&nbsp; 대규모 템플릿 라이브러리의 저장 공간을 줄입니다.
+
+
+
+* **빠른 공유 및 협업**  
+
+&nbsp; 작은 OTP 파일은 팀과 네트워크 간에 빠르게 전송됩니다.
+
+
+
+* **워크플로우 효율성**  
+
+&nbsp; 압축된 템플릿은 로딩 및 편집 속도를 향상시킵니다.
+
+
+
+* **아카이브 및 백업**  
+
+&nbsp; 템플릿 파일의 장기 보존을 위한 효율적인 저장.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 OTP 압축**  
+
+&nbsp; 여러 템플릿의 크기를 자동으로 줄입니다.
+
+
+
+* **콘텐츠 및 미디어 최적화**  
+
+&nbsp; 내장된 이미지나 스타일을 자동으로 압축합니다.
+
+
+
+* **문서 파이프라인 통합**  
+
+&nbsp; 자동화된 템플릿 배포나 저장 중에 OTP 파일을 압축합니다.
+
+
+
+* **동적 압축 규칙**  
+
+&nbsp; 템플릿 복잡성이나 콘텐츠 밀도에 따라 최적화를 조정합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

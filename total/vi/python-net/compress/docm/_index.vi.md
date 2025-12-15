@@ -100,7 +100,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Words for Python via .
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tệp DOCM, chứa các macro, được nén để tối ưu hóa lưu trữ trong khi bảo tồn chức năng macro và định dạng.
+
+
+
+Sử dụng Python APIs, việc nén tự động DOCM đảm bảo các macro vẫn nguyên vẹn và tối ưu hóa xử lý tài liệu trong quy trình làm việc tự động.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Lưu Trữ An Toàn Macro**  
+
+&nbsp; Nén tệp DOCM mà không làm hỏng các macro nhúng.
+
+
+
+* **Chia Sẻ Tệp Nhanh Hơn**  
+
+&nbsp; Kích thước giảm giúp đính kèm email và tải lên đám mây nhanh chóng.
+
+
+
+* **Quản Lý Lưu Trữ**  
+
+&nbsp; Nén tự động hỗ trợ trong việc lưu trữ dài hạn các tài liệu có kích hoạt macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Tài Liệu Macro Theo Lô**  
+
+&nbsp; Tự động xử lý nhiều tệp DOCM trong khi bảo tồn chức năng.
+
+
+
+* **Tích Hợp với Tự Động Hóa Văn Phòng**  
+
+&nbsp; Các tệp nén có thể được quản lý trong hệ thống quy trình hoặc giải pháp DMS.
+
+
+
+* **Nén Macro Theo Điều Kiện**  
+
+&nbsp; Kịch bản Python có thể nén tệp DOCM theo kích thước hoặc nội dung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

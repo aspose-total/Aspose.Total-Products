@@ -43,9 +43,79 @@ Per uno sviluppatore, chi sta cercando di creare file DOCX tramite l'applicazion
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX — `.docx` (OOXML) è lo standard moderno per i documenti di Word ed è altamente adattabile all'automazione basata su Python. Le librerie consentono la creazione e la modifica di paragrafi, tabelle, immagini, stili e parti XML personalizzate preservando la struttura e i metadati di OOXML.
+
+
+
+DOCX è ideale per report basati su modelli, documenti dinamici e integrazione con servizi web grazie al suo formato aperto e al forte supporto delle librerie. L'automazione consente la generazione affidabile di documenti accessibili e stilizzati che possono essere convalidati e versionati.
+
+I flussi di lavoro programmatici semplificano l'assemblaggio di documenti complessi (tabelle nidificate, riferimenti, TOC) da input strutturati.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali Casi d'Uso" %}}
+
+
+
+* **Rendering di Report basati su Modelli**
+
+  &nbsp; Popolare i modelli DOCX con tabelle dinamiche, grafici e sezioni condizionali.
+
+
+
+* **Composizione Automatica di Documenti**
+
+  &nbsp; Unire insieme sezioni (introduzione, corpo, allegati) da fonti di contenuti modulari in un unico DOCX.
+
+
+
+* **Consegne Ricche di Metadati**
+
+  &nbsp; Incorporare proprietà del documento, XML personalizzato e metadati di revisione per la governance.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Pipeline da Database a Documento**
+
+  &nbsp; Generare documenti DOCX individualizzati per ciascun record del database in un lavoro automatizzato.
+
+
+
+* **Creazione di Documenti Triggerata da Webhook**
+
+  &nbsp; Creare documenti DOCX su richiesta tramite API HTTP attivate da eventi esterni.
+
+
+
+* **Controlli di Accessibilità Automatici**
+
+  &nbsp; Eseguire script di convalida che verificano la struttura degli heading e il testo alternativo per le immagini durante la generazione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

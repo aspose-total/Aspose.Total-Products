@@ -78,7 +78,87 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compressione CDR si concentra sull'ottimizzazione dei grafici vettoriali CorelDRAW per ridurre le dimensioni dei file preservando forme, livelli, testo e struttura del design. Poiché i file CDR possono includere oggetti vettoriali complessi e media incorporati, la compressione è importante per migliorare la gestione dei progetti, l'efficienza di archiviazione e le prestazioni del flusso di lavoro di design.
+
+
+
+Le API Python facilitano la compressione, l'ottimizzazione e la conversione automatizzate dei file CDR, consentendo una gestione scalabile degli asset grafici in produzione, stampa e ambienti di contenuti digitali.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Ottimizzazione degli asset di design grafico**  
+
+&nbsp; Comprime design vettoriali complessi per semplificare l'archiviazione e la condivisione dei progetti.
+
+
+
+* **Flussi di lavoro di produzione stampa**  
+
+&nbsp; File CDR più piccoli migliorano le prestazioni durante le fasi di pre-stampa e stampa.
+
+
+
+* **Archivi di file versionati**  
+
+&nbsp; La compressione mantiene leggeri gli archivi di design di grandi dimensioni e più facili da gestire.
+
+
+
+* **Consegna multi-piattaforma**  
+
+&nbsp; Riducendo le dimensioni dei file si migliora la velocità di trasferimento tra team di design, strumenti e clienti.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Compressione CDR batch**  
+
+&nbsp; Automatizza l'ottimizzazione per centinaia di file CorelDRAW contemporaneamente.
+
+
+
+* **Conversione da CDR a formato ottimizzato**  
+
+&nbsp; Converti CDR in SVG, PDF o PNG applicando regole di compressione.
+
+
+
+* **Integrazione nel flusso di lavoro di design**  
+
+&nbsp; Comprimi automaticamente gli asset quando vengono caricati nei sistemi CMS, DAM o di flusso di lavoro.
+
+
+
+* **Regole di compressione adattive**  
+
+&nbsp; Regola automaticamente i livelli di compressione in base alla complessità del file o ai media incorporati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -43,9 +43,81 @@ Para um desenvolvedor, quem está tentando criar arquivos DOTM via aplicativo Py
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM — Os modelos `.dotm` combinam a criação de modelos com suporte a macros, permitindo a criação de modelos reutilizáveis com suporte a macros para comportamentos de documentos automatizados. A criação de arquivos DOTM orientada por Python permite a distribuição de modelos que incluem automação VBA aprovada, enquanto controla o conteúdo da macro programaticamente.
+
+
+
+Este formato é adequado para organizações que necessitam de modelos repetíveis e aprimorados com macros para tarefas de automação local, garantindo que as macros sejam governadas, validadas e opcionalmente assinadas durante o processo de construção do modelo.
+
+
+
+A automação possibilita a gestão segura do ciclo de vida das macros — geração, análise, assinatura e implantação — dentro de pipelines CI/CD.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Bibliotecas de Modelos com Suporte a Macros**
+
+  &nbsp; Fornecer modelos DOTM que encapsulam automação repetível para usuários locais.
+
+
+
+* **Automação Controlada de Modelos**
+
+  &nbsp; Garantir que os modelos incluam apenas macros aprovadas para fluxos de trabalho internos.
+
+
+
+* **Geração de Documentos com Base em Modelos**
+
+  &nbsp; Utilizar DOTM como fonte para gerar instâncias DOCM/DOCX com comportamentos incorporados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Pipeline CI para QA de Modelos**
+
+  &nbsp; Validar automaticamente o comportamento VBA e a integridade do modelo antes da distribuição.
+
+
+
+* **Implantação Segura de Modelos**
+
+  &nbsp; Incorporar assinaturas digitais e enviar arquivos DOTM para usuários por meio de canais gerenciados.
+
+
+
+* **Injeção Dinâmica de Macros**
+
+  &nbsp; Atualizar programaticamente módulos de macros dentro de modelos DOTM a partir de repositórios seguros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

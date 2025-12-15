@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTX 파일은 매크로 없이 현대적인 워드 템플릿으로, 저장 효율성과 빠른 공유를 위해 압축을 활용합니다.
+
+
+
+파이썬 기반의 자동화를 통해 DOTX 파일을 압축하면서 서식, 레이아웃, 포함된 자원을 보존할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **템플릿 저장 공간 효율성**  
+
+  &nbsp; 디자인 일관성을 유지하면서 DOTX 크기를 줄입니다.
+
+
+
+* **빠른 템플릿 공유**  
+
+  &nbsp; 더 작은 파일로 팀 간에 빠르게 배포합니다.
+
+
+
+* **보관 관리**  
+
+  &nbsp; 자동 압축은 장기간 템플릿 보존을 지원합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 DOTX 압축**  
+
+  &nbsp; 파이썬 스크립트를 사용하여 여러 템플릿 파일을 한꺼번에 압축할 수 있습니다.
+
+
+
+* **문서 시스템 통합**  
+
+  &nbsp; 압축된 템플릿은 워크플로우에서 동적으로 관리할 수 있습니다.
+
+
+
+* **스마트 압축 규칙**  
+
+  &nbsp; 파일 크기, 포함된 객체 또는 이미지가 많은 템플릿을 기준으로 자동화합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

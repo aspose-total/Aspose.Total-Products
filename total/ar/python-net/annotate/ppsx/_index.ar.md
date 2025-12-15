@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تعزز تعليقات PPSX العروض التقديمية بالتعليقات والتذكيرات الهيكلية، مما يمكن من مراجعة المحتوى بشكل أفضل وتنقيح الشرائح. تساعد هذه التعليقات المستخدمين على تحسين تدفق العرض التقديمي قبل تقديمه.
+
+الأتمتة تسرع سير العمل PPSX من خلال تطبيق التعليقات المتسقة، وفحص مشاكل التخطيط، ووسم عناصر المحتوى بشكل برمجي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **ملاحظات تحسين الشرائح**  
+
+&nbsp; إضافة اقتراحات لوضوح المحتوى.
+
+* **مراجعات التصميم**  
+
+&nbsp; تسليط الضوء على عدم اتساق الرؤية.
+
+* **تغذية ردود الفعل للانتقال**  
+
+&nbsp; وضع علامات على توقيت التحرك أو التعديلات في الرسوم المتحركة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **تعليقات التوقيت الجماعي**  
+
+&nbsp; إدراج تعليقات استنادًا إلى وتيرة الحركة المكتشفة.
+
+* **تعيين الهيكل الآلي**  
+
+&nbsp; تحديد وتعليق مكونات الشريحة الرئيسية.
+
+* **فحوصات التصميم المنصوصة**  
+
+&nbsp; تطبيق علامات قائمة على القواعد على عناصر الشريحة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

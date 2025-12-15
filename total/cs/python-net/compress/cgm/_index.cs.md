@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese CGM se zaměřuje na snížení velikosti technických vektorových grafik, které jsou často používány v inženýrství, leteckém průmyslu a vědecké dokumentaci. Vzhledem k tomu, že soubory CGM mohou obsahovat složité diagramy, 2D/3D kresby a metadata, komprese zlepšuje efektivitu manipulace a zachovává strukturální přesnost.
+
+
+
+Python API umožňuje automatizovanou optimalizaci a konverzi souborů CGM, podporující škálovatelné pracovní postupy pro systémy dokumentace, CAD potrubí a grafické repozitáře na úrovni podniku.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Správa technické dokumentace**  
+
+&nbsp; Komprese souborů CGM zlepšuje dobu načítání a snižuje spotřebu úložného místa.
+
+
+
+* **Optimalizace inženýrských a CAD pracovních postupů**  
+
+&nbsp; Menší aktiva CGM pomáhají urychlit revize, výměnu a zpracovávací cykly.
+
+
+
+* **Archivy grafik ve velkém měřítku**  
+
+&nbsp; Efektivní komprese udržuje lehké knihovny vědeckých nebo průmyslových ilustrací.
+
+
+
+* **Kompatibilita mezi systémy**  
+
+&nbsp; Komprimované soubory CGM se rychleji přenášejí mezi inženýrskými a publikačními platformami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese CGM**  
+
+&nbsp; Automatizuje optimalizaci pro velké sady technických diagramů.
+
+
+
+* **Konverze CGM s kompresí**  
+
+&nbsp; Převádí CGM na SVG, PDF nebo PNG a aplikuje efektivní pravidla komprese.
+
+
+
+* **Automatizované příjmové potrubí**  
+
+&nbsp; Komprimuje soubory dynamicky při nahrávání do správy dokumentů nebo CAD portálů.
+
+
+
+* **Logika komprese na základě obsahu**  
+
+&nbsp; Upravuje kompresi na základě hustoty čar, vrstev nebo vložených metadat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

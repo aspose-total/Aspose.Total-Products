@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLSB soubory (binární sešity Excelu) využívají kompresi ke snížení velikosti souboru při zachování rychlého načítání a složitých výpočtů.
+
+
+
+Python API umožňuje automatizovanou kompresi XLSB, podporující správu tabulek ve velkém měřítku a integraci s podnikovými pracovními postupy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace binárních sešitů**  
+
+&nbsp; Kompresí XLSB souborů bez ovlivnění výkonu nebo výpočtů.
+
+
+
+* **Rychlejší přenos souborů**  
+
+&nbsp; Menší XLSB soubory umožňují rychlé sdílení prostřednictvím e-mailu nebo cloudu.
+
+
+
+* **Efektivní archivace**  
+
+&nbsp; Automatizovaná komprese podporuje dlouhodobé uchovávání binárních sešitů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese XLSB**  
+
+&nbsp; Python skripty mohou automaticky komprimovat více XLSB souborů.
+
+
+
+* **Integrace s analytickými a BI nástroji**  
+
+&nbsp; Kompresované XLSB soubory lze zpracovávat bezproblémově v automatizovaných pracovních postupech.
+
+
+
+* **Selektivní komprese**  
+
+&nbsp; Automatizace může komprimovat pouze velké nebo mediálně náročné XLSB soubory.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

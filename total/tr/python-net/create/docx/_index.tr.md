@@ -43,9 +43,81 @@ Python uygulaması aracılığıyla DOCX dosyaları oluşturmaya çalışan bir 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX — `.docx` (OOXML), Word belgeleri için modern standarttır ve Python tabanlı otomasyona son derece uygundur. Kütüphaneler paragraflar, tablolar, resimler, stiller ve özel XML parçalarının oluşturulmasına ve değiştirilmesine izin verirken OOXML yapısını ve metaverisini korur.
+
+
+
+DOCX, açık formatı ve güçlü kütüphane desteği nedeniyle şablon tabanlı raporlar, dinamik belgeler ve web hizmetleriyle entegrasyon için idealdir. Otomasyon, doğrulanabilir ve sürümlendirilebilir erişilebilir, stile sahip belgelerin güvenilir bir şekilde oluşturulmasını sağlar.
+
+
+
+Programatik iş akışları, yapılandırılmış girdilerden karmaşık belgelerin (iç içe tablolar, referanslar, TOC'ler) kolayca bir araya getirilmesini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Şablon Rapor Oluşturma**
+
+&nbsp; Dinamik tablolar, grafikler ve koşullu bölümlerle DOCX şablonlarını doldurun.
+
+
+
+* **Otomatik Belge Oluşturma**
+
+&nbsp; Modüler içerik kaynaklarından bölümleri (giriş, gövde, ekler) bir DOCX dosyasında birleştirin.
+
+
+
+* **Metaveri Zengin Teslimatlar**
+
+&nbsp; Yönetim için belge özellikleri, özel XML ve revizyon metaverisini belgeye gömün.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Veritabanından Belge Akışları**
+
+&nbsp; Otomatik bir işlemde her veritabanı kaydı için bireyselleştirilmiş DOCX belgeleri oluşturun.
+
+
+
+* **Webhook Tetiklemeli Belge Oluşturma**
+
+&nbsp; Harici olaylar tarafından tetiklenen HTTP API'leri aracılığıyla isteğe bağlı olarak DOCX belgeleri oluşturun.
+
+
+
+* **Otomatik Erişilebilirlik Kontrolleri**
+
+&nbsp; Başlık yapısını ve resimler için alternatif metni doğrulayan doğrulama betiklerini çalıştırın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}} 
+ 
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -70,7 +70,75 @@ RTF ファイルを簡単に比較するための Python スクリプトまた�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTFの比較は、Rich Text Formatファイル内のテキスト、フォント、色、フォーマットルール、およびドキュメント構造の変更を特定します。軽量ドキュメント全体で明確さと一貫性を確保します。
+
+
+
+自動化されたRTF比較は、高速処理、スケーラブルな検証、動的ドキュメントワークフローへの統合をサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* **フォーマット変更の検出**  
+
+&nbsp; ビジュアルスタイルの更新を追跡します。
+
+
+
+* **コンテンツの修正のレビュー**  
+
+&nbsp; 編集と調整を強調します。
+
+
+
+* **クロスアプリケーション編集の一貫性**  
+
+&nbsp; 異なるエディタによって引き起こされる変化を特定します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **一括RTF処理**  
+
+&nbsp; 複数のドキュメントをプログラムで比較します。
+
+
+
+* **自動化されたQAチェック**  
+
+&nbsp; フォーマットの整合性を確保します。
+
+
+
+* **差分抽出パイプライン**  
+
+&nbsp; 構造化された比較出力を生成します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

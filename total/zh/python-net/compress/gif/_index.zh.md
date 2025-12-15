@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+GIF压缩可减小动画和静态GIF文件的大小，同时保持帧质量、调色板和流畅播放。优化GIF对于网页、应用和营销内容至关重要，以确保更快的加载速度、减少带宽使用量和增强用户体验。
+
+
+
+Python API可实现自动化GIF压缩、帧优化和批量处理，为网络图形、社交媒体资产和多媒体内容流程提供可扩展的工作流。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **网页和应用优化**  
+
+&nbsp; 压缩GIF以改善页面加载时间和响应用户交互。
+
+
+
+* **社交媒体内容传递**  
+
+&nbsp; 更小的GIF可实现跨平台快速发布、分享和预览。
+
+
+
+* **营销和广告资产**  
+
+&nbsp; 优化的GIF可确保在电子邮件营销、横幅广告和广告中流畅动画。
+
+
+
+* **数字资产归档**  
+
+&nbsp; 减少大量动画图形的存储需求。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量GIF压缩**  
+
+&nbsp; Python脚本可自动处理数百个GIF。
+
+
+
+* **帧级优化**  
+
+&nbsp; 自动化可删除冗余帧或减少调色板以缩小文件大小。
+
+
+
+* **工作流集成**  
+
+&nbsp; 上传到CMS、DAM或云平台的GIF可自动压缩。
+
+
+
+* **动态质量调整**  
+
+&nbsp; 根据分辨率、持续时间或目标平台要求压缩GIF。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

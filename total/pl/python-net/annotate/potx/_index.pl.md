@@ -75,7 +75,65 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Anotacja POTX dodaje zorganizowane notatki i instrukcje układu do szablonów prezentacji bez makr, wspierając klarowne tworzenie slajdów i spójne standardy wizualne. Zapewnia to, że użytkownicy stosują jednolite zasady projektowania w prezentacjach.
+
+Automatyzacja ułatwia aktualizacje POTX, umożliwiając systemom stosowanie reguł adnotacji, wykrywanie rozbieżności układu i efektywne aktualizowanie wskazówek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Instrukcje szablonu**  
+
+&nbsp; Przewodnik dla użytkowników dotyczący użycia slajdów i struktury.
+
+* **Notatki projektowe**  
+
+&nbsp; Oznaczanie reguł umieszczania tekstu i elementów wizualnych.
+
+* **Wskaźniki rewizji**  
+
+&nbsp; Podkreślanie modyfikacji w szablonach.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Audyt automatyczny szablonu**  
+
+&nbsp; Wstawianie komentarzy tam, gdzie style odbiegają od standardów.
+
+* **Wstrzykiwanie adnotacji zbiorczo**  
+
+&nbsp; Aktualizacja wskazówek we wszystkich szablonach.
+
+* **Walidacja struktury slajdu**  
+
+&nbsp; Automatyczne oznaczanie niezgodności programowo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

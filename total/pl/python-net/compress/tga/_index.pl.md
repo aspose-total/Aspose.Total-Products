@@ -78,7 +78,87 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresja TGA koncentruje się na zmniejszaniu rozmiaru obrazów rastrowych Targa, zachowując głębię kolorów i kanały alfa. Pliki TGA są często używane w grach, grafice 3D i efektach wizualnych, dlatego kompresja jest niezbędna do efektywnego przechowywania i szybszej obróbki w przepływach medialnych.
+
+
+
+Interfejsy API w języku Python umożliwiają zautomatyzowaną kompresję TGA, przetwarzanie wsadowe i konwersję do nowoczesnych formatów, wspierając skalowalne przepływy pracy w zakresie rozwoju gier, animacji i produkcji mediów cyfrowych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne Zastosowania" %}}
+
+
+
+* **Optymalizacja Zasobów Gier**  
+
+&nbsp; Kompresja plików TGA zmniejsza wymagania dotyczące przechowywania i poprawia czasy ładowania w grach.
+
+
+
+* **Przepływy Grafiki 3D**  
+
+&nbsp; Mniejsze pliki TGA usprawniają zarządzanie teksturami i przepływy renderowania.
+
+
+
+* **Produkcja Efektów Wizualnych**  
+
+&nbsp; Zoptymalizowane obrazy TGA pomagają efektywnie zarządzać dużymi sekwencjami klatek.
+
+
+
+* **Przechowywanie Archiwalne**  
+
+&nbsp; Redukuje rozmiar plików do długoterminowego przechowywania zasobów o wysokiej rozdzielczości.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Kompresja TGA Wsadowa**  
+
+&nbsp; Zautomatyzuj optymalizację dużych zbiorów plików TGA hurtowo.
+
+
+
+* **Zachowanie Kanału Alfa**  
+
+&nbsp; Zachowaj przezroczystość podczas kompresji w celu zmniejszenia zużycia miejsca na dysku.
+
+
+
+* **Integracja z Przepływami Pracy**  
+
+&nbsp; Pliki TGA mogą być automatycznie kompresowane podczas przesyłania do systemów zarządzania zasobami.
+
+
+
+* **Kompresja w oparciu o Rozdzielczość**  
+
+&nbsp; Dostosuj poziomy kompresji w zależności od rozmiaru obrazu, rozdzielczości lub kontekstu użycia.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

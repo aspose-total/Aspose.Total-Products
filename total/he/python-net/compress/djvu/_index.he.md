@@ -77,7 +77,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+דחיסת DJVU משפרת את מבנה היעיל של קבצי DjVu, שנפוצים לשימוש במסמכים סרוקים, ספרים דיגיטליים ותוכן ארכיוני. אופטימיזציה של קבצי DJVU ממזערת עוד יותר את הגודל, משפרת את מהירות הטעינה, ומבטיחה עיבוד באיכות גבוהה לעמודים עם טקסט רב ועם תמונות.
+
+
+
+ממשקי פייתון מאפשרים אוטומציה של דחיסת DJVU, אופטימיזציה של שכבות סריקה, וניהול ספריות גדולות של מסמכים דיגיטליים עם דרישות אחסון מינימליות ויעילות גבוהה בעיבוד.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **ספריות מסמכים דיגיטליים**  
+
+&nbsp; דחיסת ארכיונים סרוקים גדולים כדי לחסוך מקום ולשפר את ביצועי הגישה.
+
+
+
+* **הפצת ספר אלקטרוני ומחקר**  
+
+&nbsp; קבצי DJVU קטנים טוענים במהירות יותר ומעבירים ביעילות יותר בפלטפורמות אקדמיות.
+
+
+
+* **אופטימיזציה של תמונות סרוקות**  
+
+&nbsp; משפר את הקריאות וממזער את הגודל ללא פגיעה בפרטי ראייה חיוניים.
+
+
+
+* **ארכיבציה לטווח ארוך**  
+
+&nbsp; מספק שמירה יעילת אחסון לחומר היסטורי ומקור.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **דחיסת DJVU בצובר**  
+
+&nbsp; ממזער באופן אוטומטי את גדלי הקבצים עבור אוספים של מסמכים סרוקים או דיגיטליים.
+
+
+
+* **אופטימיזציה המבינה שכבות**  
+
+&nbsp; אוטומציה יכולה לדחוס באופן בררני טקסט קדמי, טקסטורות רקע, או תמונות מוטבעות.
+
+
+
+* **דחיסת תהליך קליטה**  
+
+&nbsp; קבצי DJVU יכולים להיות דחוסים מיידית בהעלאה לארכיונים או מערכות מסמכים.
+
+
+
+* **צינורות המרה + דחיסה**  
+
+&nbsp; המרת PDF או TIFF ל-DJVU תוך יישום כללי דחיסת גודל אוטומטי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

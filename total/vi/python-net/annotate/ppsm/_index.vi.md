@@ -75,7 +75,65 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chú thích PPSM cung cấp ghi chú có cấu trúc cho các tệp trình chiếu có kích hoạt macro, giúp tài liệu hóa hành vi script và cải thiện sự rõ ràng trong quá trình xem xét. Điều này giúp dễ hiểu hơn về các chuyển động tự động hoặc tương tác trang động.
+
+Chú thích tự động hóa cải thiện việc kiểm toán bằng cách quét các macro, xác định mẫu logic và chèn ghi chú mô tả.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tài Liệu Hành Vi Macro**  
+
+  Thêm ghi chú mô tả các hành động trang tự động.
+
+* **Nhận Xét Xem Xét**  
+
+  Cung cấp đề xuất cho nội dung hoặc bố cục.
+
+* **Hiển Thị Logic**  
+
+  Nổi bật các khu vực bị ảnh hưởng bởi các kích hoạt macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Bộ Phân Tích Macro**  
+
+  Tự động quét và bình luận về các script phát hiện được.
+
+* **Ghi Chú Dựa Trên Mẫu**  
+
+  Chèn các chú thích được xác định trước trên các tệp.
+
+* **Thẻ QA Tự Động Hóa**  
+
+  Đánh dấu logic macro rủi ro hoặc lỗi thời.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

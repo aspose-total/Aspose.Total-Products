@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+FODS（Flat OpenDocument Spreadsheet）ファイルは、ストレージを削減し転送速度を向上させるために圧縮を利用しますが、OpenDocument標準との互換性を維持します。
+
+
+
+Pythonベースの自動化により、スケーラブルなワークフロー統合のための効率的な圧縮が可能です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **標準化されたスプレッドシートの圧縮**  
+
+&nbsp; 互換性と構造を維持しながら、FODSファイルサイズを削減します。
+
+
+
+* **高速共有**  
+
+&nbsp; 圧縮されたFODSファイルは、プラットフォーム間で迅速に共有できます。
+
+
+
+* **アーカイブおよびバックアップの効率化**  
+
+&nbsp; 自動化された圧縮により、オープンドキュメント形式のストレージ管理が簡素化されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **一括FODS圧縮**  
+
+&nbsp; Pythonスクリプトを使用して複数のFODSファイルを自動的に処理できます。
+
+
+
+* **ワークフロー統合**  
+
+&nbsp; 圧縮されたファイルは、自動システムやクラウドストレージに読み込むことができます。
+
+
+
+* **条件付き圧縮**  
+
+&nbsp; 大きなメディア重視のFODSファイルを最適化の対象とします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

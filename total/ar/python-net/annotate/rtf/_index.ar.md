@@ -75,7 +75,67 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تضيف التعليقات على ملفات RTF تعليقات وتسليط الضوء والبيانات الوصفية الهيكلية إلى ملفات نصوص غنية، مما يحسن من قابلية القراءة دون التأثير على التوافق بين المنصات المختلفة. تدعم ملفات RTF المحدثة بالتعليقات سير العمل الخفيف للمراجعة.
+
+التحسينات التلقائية تعزز معالجة ملفات RTF من خلال إدراج ملاحظات منظمة، فحص المحتوى للمشاكل، وتطبيق تسليط الضوء القائم على القواعد.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **ملاحظات توضيح المحتوى**  
+
+&nbsp; إضافة تعليقات توضح التعديلات أو الاهتمامات.
+
+* **تسليط الضوء المنظم**  
+
+&nbsp; وضع علامات على الأقسام المهمة أو الأخطاء.
+
+* **تضمين البيانات الوصفية**  
+
+&nbsp; إدراج علامات التصنيف.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائي" %}}
+
+
+
+* **تسليط الضوء التلقائي على الكلمات الرئيسية**  
+
+&nbsp; تحديد وتسليط الضوء على المصطلحات برمجياً.
+
+* **نصوص التعليق الجماعي**  
+
+&nbsp; تطبيق ملاحظات موحدة عبر ملفات RTF متعددة.
+
+* **كشف نمط المحتوى**  
+
+&nbsp; تعليق المناطق التي تتطابق مع المشغلات المحددة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

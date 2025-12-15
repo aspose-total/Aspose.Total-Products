@@ -75,7 +75,59 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTM аннотация документов логики макросов и добавляет структурированные заметки к файлам презентаций с включенными макросами, улучшая поддерживаемость и точность проверки. Это обеспечивает ясность вокруг автоматизированного поведения слайдов.  
+
+Автоматизация улучшает рабочие процессы PPTM путем сканирования сценариев, создания аннотаций и выявления проблем с макросами.
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Пояснительные заметки по макросам**  
+
+&nbsp; Документирование логики автоматизации слайдов.
+
+* **Обратная связь по дизайну**  
+
+&nbsp; Добавление комментариев к структуре или содержанию.
+
+* **Отслеживание поведения**  
+
+&nbsp; Определение слайдов, затронутых макросами.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Инструменты обнаружения макросов**  
+
+&nbsp; Автоматическое аннотирование разделов, связанных с макросами.
+
+* **Аудит логики слайдов**  
+
+&nbsp; Вставка предупреждений или заметок на основе правил.
+
+* **Массовое обновление шаблонов**  
+
+&nbsp; Применение аннотаций к нескольким файлам PPTM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

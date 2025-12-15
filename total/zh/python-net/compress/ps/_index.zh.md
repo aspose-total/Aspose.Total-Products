@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PS压缩优化PostScript文件，其中包含矢量图形、文本和打印指令，以减小文件大小同时保持打印保真度。压缩的PS文件提高了存储效率，加快了传输速度，并提升了打印和发布工作流程的性能。
+
+
+
+Python API实现了自动化的PS压缩、批处理处理，并与打印流程集成，实现可扩展的文档和图形管理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **打印作业优化**  
+
+&nbsp; 压缩的PS文件减少了排队时间，提高了打印速度。
+
+
+
+* **存档与存储**  
+
+&nbsp; 优化大型PostScript文件以实现高效存储。
+
+
+
+* **内容分发**  
+
+&nbsp; 较小的PS文件传输速度更快，传输到打印机或客户端。
+
+
+
+* **工作流效率**  
+
+&nbsp; 提高了自动化打印和发布系统中的处理速度。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量PS压缩**  
+
+&nbsp; 自动化地减小多个PostScript文件的大小。
+
+
+
+* **嵌入式资产优化**  
+
+&nbsp; 自动压缩字体、图像和图形。
+
+
+
+* **与打印与发布流程集成**  
+
+&nbsp; 在生成、上传或存档过程中压缩PS文件。
+
+
+
+* **动态压缩级别**  
+
+&nbsp; 根据内容复杂性和预期输出调整优化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

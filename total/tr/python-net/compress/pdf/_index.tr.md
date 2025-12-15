@@ -100,7 +100,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PDF sıkıştırması, Taşınabilir Belge Biçimi dosyalarının boyutunu azaltırken metni, resimleri, yazı tiplerini ve vektör grafikleri korur. Sıkıştırılmış PDF'ler depolama verimliliğini artırır, daha hızlı paylaşım sağlar ve cihazlar ve platformlar arasında optimize edilmiş bir şekilde görüntülenmesini sağlar.
+
+
+
+Python API'leri otomatik PDF sıkıştırma, toplu işleme ve ölçeklenebilir belge yönetimi, arşivleme ve dağıtım için iş akışı entegrasyonunu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* **Belge Depolama ve Arşivleme**  
+
+&nbsp; PDF'leri dijital kütüphanelerde depolama alanı tasarrufu yapmak için sıkıştırın.
+
+
+
+* **Daha Hızlı Dosya Transferi**  
+
+&nbsp; Daha küçük PDF'ler e-posta veya bulut platformları aracılığıyla hızlı bir şekilde iletilir.
+
+
+
+* **Baskı ve Yayınlama**  
+
+&nbsp; Optimize edilmiş PDF'ler baskı ve dijital iş akışlarında daha hızlı yüklenir ve görüntülenir.
+
+
+
+* **İçerik Dağıtımı Optimizasyonu**  
+
+&nbsp; e-kitaplar, raporlar ve kılavuzlar için kullanıcı deneyimini iyileştirin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu PDF Sıkıştırma**  
+
+&nbsp; Aynı anda birden fazla PDF dosyasının optimizasyonunu otomatikleştirin.
+
+
+
+* **Görüntü ve Yazı Tipi Optimizasyonu**  
+
+&nbsp; Gömülü resimleri sıkıştırın ve yazı tiplerini otomatik olarak alt küme haline getirin.
+
+
+
+* **İş Akışı Entegrasyonu**  
+
+&nbsp; PDF'leri CMS, DAM veya arşiv sistemlerine yüklerken dinamik olarak sıkıştırın.
+
+
+
+* **Dinamik Sıkıştırma Kuralları**  
+
+&nbsp; Belge boyutuna, içerik türüne veya hedef cihaza göre sıkıştırmayı ayarlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

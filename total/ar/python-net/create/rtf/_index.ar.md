@@ -43,9 +43,81 @@ informat: RTF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF — تنسيق نص غني (RTF) هو تنسيق نص متعدد المنصات مدعوم من قبل العديد من المحررين؛ إن إنشاء RTF بناءً على Python مفيد عند إنتاج وثائق بسيطة مُنسَّقة يجب أن تكون مقبولة من قبل مجموعة واسعة من العملاء. يفتقر RTF إلى الميزات المتقدمة لـ OOXML ولكنه يتفوق في النص المُنسَّق المحمول والجداول البسيطة والكائنات المضمنة.
+
+
+
+التشغيل التلقائي لـ RTF مناسب لدمج البريد، والرسائل ذات النمط البسيط، أو الأنظمة التي تتطلب أقصى درجات التوافق. يمكن إجراء الإنشاء البرمجي عن طريق قوالب أجزاء RTF أو باستخدام مكتبات تقوم ببناء رموز RTF مباشرة.
+
+
+
+التشغيل التلقائي يبسط تصدير RTF بالجملة وأنابيب التحويل التي تستهدف المستهلكين الخفيفين أو القديمين.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **إنشاء رسائل متعددة المنصات**
+
+&nbsp; إنتاج وثائق RTF للعملاء الذين يفضلون النص المُنسّق المحمول.
+
+
+
+* **دمج البريد للوثائق البسيطة**
+
+&nbsp; إنشاء رسائل شخصية وإشعارات في RTF للتوافق الواسع.
+
+
+
+* **التبادل مع أنظمة غير OOXML**
+
+&nbsp; تصدير المحتوى إلى RTF للأنظمة التي لا يمكنها تحليل DOCX أو Word الثنائي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **تصدير RTF بالجملة**
+
+&nbsp; أتمتة إنشاء آلاف ملفات RTF من تغذيات البيانات المُنظمة.
+
+
+
+* **أنابيب الاسترجاع التلقائي للتنسيق**
+
+&nbsp; توفير إصدارات RTF تلقائيًا عندما لا يمكن للمستهلكين التعامل مع DOCX/DOCM.
+
+
+
+* **محركات القوالب البسيطة**
+
+&nbsp; استخدام استبدال الرموز البرمجي في قوالب RTF كجزء من سير العمل التلقائي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

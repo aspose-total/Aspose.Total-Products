@@ -43,9 +43,79 @@ Wer versucht als Entwickler, DOT-Dateien über eine Python-Anwendung zu erstelle
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT — `.dot` Vorlagendateien definieren wiederverwendbare Stile und Strukturen für Legacy-Word-Workflows; das Erstellen von DOT-Vorlagen über Python ermöglicht es Organisationen, eine konsistente Formatierung für Serienbriefe, Formulare und standardisierte Dokumente aufrechtzuerhalten, die von älteren Clients verwendet werden.
+
+
+
+Die programmatische DOT-Erstellung stellt sicher, dass Vorlagen zentral aktualisiert und automatisch an Endbenutzer oder Dokumentendienste verteilt werden können.
+
+Die Automatisierung unterstützt geplante Vorlagenaktualisierungen, Versionierung und die nachgelagerte Generierung konkreter Dokumente aus Vorlagen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Verteilung von Legacy-Vorlagen**
+
+  &nbsp; Erstellen Sie DOT-Vorlagen, die eine konsistente Layoutgestaltung über Legacy-Toolchains hinweg sicherstellen.
+
+
+
+* **Standardisierte Formularvorlagen**
+
+  &nbsp; Erstellen Sie Formularvorlagen mit Platzhaltern für manuelle oder automatisierte Serienbriefe.
+
+
+
+* **Vorlagen-Versionierung**
+
+  &nbsp; Automatisieren Sie die Versionierung und Freigabe von DOT-Vorlagen für Dokumenten-Repositories.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Automatische Vorlagenaktualisierung**
+
+  &nbsp; Ersetzen oder patchen Sie DOT-Vorlagen aus einer zentralen Quelle und aktualisieren Sie diese programmgesteuert.
+
+
+
+* **Vorlagengetriebene Stapelerstellung**
+
+  &nbsp; Verwenden Sie DOT-Vorlagen, um viele ausgefüllte Dokumente über automatisierte Zusammenführungen zu erstellen.
+
+
+
+* **Prüfpfade für Vorlagen**
+
+  &nbsp; Betten Sie Metadaten und Änderungsprotokolle während der programmgesteuerten Vorlagenerstellung für die Einhaltung von Vorschriften ein.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -75,7 +75,65 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La anotación de DOCX mejora los documentos modernos de Word con comentarios, resaltados y metadatos para mejorar la colaboración, el control de versiones y la claridad del documento. Este formato admite una estructura y estilo avanzados, lo que hace que las anotaciones sean más precisas y consistentes.
+
+Automatizar la anotación de DOCX escala los procesos de revisión y garantiza comentarios estandarizados en conjuntos de documentos grandes.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Edición colaborativa**  
+
+&nbsp; Insertar comentarios para guiar a los revisores.
+
+* **Resaltado semántico**  
+
+&nbsp; Enfatizar términos clave, errores o decisiones.
+
+* **Documentación estructurada**  
+
+&nbsp; Agregar metadatos para indexación y búsqueda.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Marcado de contenido automatizado**  
+
+&nbsp; Resaltar patrones o palabras clave en archivos a granel.
+
+* **Comentarios programáticos**  
+
+&nbsp; Insertar anotaciones basadas en reglas para controles de calidad.
+
+* **Anotaciones de comparación de versiones**  
+
+&nbsp; Marcar automáticamente las diferencias entre revisiones.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

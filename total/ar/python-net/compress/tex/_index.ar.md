@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يقوم ضغط TEX بتقليل حجم ملفات مصدر LaTeX، التي غالباً ما تحتوي على تكرار في العلامات، التعليقات، أو أوامر التنسيق. تحسين ملفات TEX يعزز كفاءة التخزين، وسرعة التجميع، وتحسين التعاون في سير العمل الأكاديمي، والنشر، والعلمي.
+
+
+
+تمكن واجهات برمجة التطبيقات في Python من ضغط TEX تلقائيًا، ومعالجة دفعية، والتكامل مع أنابيب توليد الوثائق لسير عمل LaTeX قابل للتوسيع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **المستندات الأكاديمية والبحثية**  
+
+&nbsp; تقليل حجم مصادر LaTeX للأوراق الكبيرة، والرسائل العلمية، والأطروحات.
+
+
+
+* **سير العمل النشرية**  
+
+&nbsp; تسهل ملفات TEX المضغوطة عمليات التجميع والتوزيع.
+
+
+
+* **التحكم بالنسخ والتعاون**  
+
+&nbsp; تحسين الكفاءة في المستودعات والتحرير التعاوني.
+
+
+
+* **الأرشفة والنسخ الاحتياطي**  
+
+&nbsp; تقليل حجم ملفات TEX المحسنة للتخزين للمحتوى الأكاديمي التاريخي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائي" %}}
+
+
+
+* **ضغط TEX دفعي**  
+
+&nbsp; أتمتة تقليل الحجم لعدة ملفات LaTeX.
+
+
+
+* **إزالة التعليقات والتكرار**  
+
+&nbsp; إزالة العلامات غير الضرورية أو الأوامر المتكررة تلقائيًا.
+
+
+
+* **تكامل سير العمل**  
+
+&nbsp; ضغط ملفات TEX عند رفعها إلى أنظمة التجميع التلقائي أو النشر.
+
+
+
+* **التحويل + الضغط**  
+
+&nbsp; تحويل TEX إلى PDF أو تنسيقات أخرى مع تطبيق قواعد الضغط.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

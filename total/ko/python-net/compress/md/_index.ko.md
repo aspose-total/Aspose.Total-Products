@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD 압축은 불필요한 공백, 주석 또는 중복된 서식을 제거하여 콘텐츠 구조를 보존하면서 Markdown 파일을 최적화합니다. 이는 저장 효율성, 빠른 파일 전송 및 문서 및 콘텐츠 파이프라인에서의 간소화된 처리를 향상시킵니다.
+
+
+
+Python API를 사용하면 기술 문서, 블로그 및 버전 관리되는 콘텐츠를 확장 가능하게 처리하기 위한 자동화된 MD 압축, 일괄 처리 및 변환 워크플로우를 구현할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **문서 최적화**  
+
+&nbsp; 큰 Markdown 저장소를 압축하여 저장 공간을 절약하고 더 빠른 버전 관리 작업을 수행합니다.
+
+
+
+* **콘텐츠 게시 워크플로우**  
+
+&nbsp; 작은 MD 파일은 웹 및 정적 사이트 생성 프로세스를 간소화합니다.
+
+
+
+* **Markdown 콘텐츠 보관**  
+
+&nbsp; 역사적인 문서 및 메모의 저장 공간을 줄입니다.
+
+
+
+* **협업 및 배포**  
+
+&nbsp; 최적화된 파일은 팀 및 시스템 간에 공유하기 쉽습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 MD 압축**  
+
+&nbsp; 여러 Markdown 파일의 최적화를 자동화합니다.
+
+
+
+* **공백 및 주석 제거**  
+
+&nbsp; 콘텐츠를 변경하지 않고 불필요한 텍스트를 자동으로 정리합니다.
+
+
+
+* **워크플로우 통합**  
+
+&nbsp; CMS나 버전 관리 시스템으로의 MD 파일 압축을 자동화합니다.
+
+
+
+* **변환 + 압축 파이프라인**  
+
+&nbsp; MD를 HTML이나 PDF로 변환하면서 자동으로 압축을 적용합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

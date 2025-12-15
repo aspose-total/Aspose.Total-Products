@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSMファイル（マクロ有効化PowerPoint Show）は、マクロを保持しながらファイルサイズを削減して効率的な共有と保存を実現する圧縮が必要です。
+
+
+
+Pythonベースの自動化により、マクロ機能を維持しながらスケーラブルなPPSM圧縮が可能です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **マクロの保持**  
+
+&nbsp; マクロを壊さずにPPSMファイルを安全に圧縮します。
+
+
+
+* **共有の迅速化**  
+
+&nbsp; より小さなファイルサイズにより、チームやクラウドストレージへの効率的な配布が可能です。
+
+
+
+* **アーカイブ管理**  
+
+&nbsp; 自動圧縮により、マクロ有効なショーファイルの長期保存が確保されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **一括PPSM圧縮**  
+
+&nbsp; Pythonスクリプトにより、複数のマクロ有効なショーファイルを自動的に処理できます。
+
+
+
+* **ワークフローシステムとの統合**  
+
+&nbsp; 圧縮されたPPSMファイルは自動プレゼンテーションワークフローで使用できます。
+
+
+
+* **条件付き圧縮**  
+
+&nbsp; マクロの使用状況や埋め込まれたメディアに基づいてファイルを対象として最適化します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

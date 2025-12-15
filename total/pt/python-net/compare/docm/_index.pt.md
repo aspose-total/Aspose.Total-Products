@@ -70,7 +70,75 @@ Para obter mais detalhes, consulte [Documentação do Produto](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A comparação de DOCM foca em identificar variações em documentos habilitados para macro, abrangendo alterações de texto, formatação e lógica incorporada. Isso garante o rastreamento preciso tanto do conteúdo visível quanto dos componentes de automação interna.
+
+
+
+Automatizar a comparação de DOCM aprimora o monitoramento da integridade do macro, reduz os riscos de edições não autorizadas e oferece suporte à validação escalável em ambientes de alto volume.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Verificação de Integridade do Macro**  
+
+  Detecta alterações em macros incorporados juntamente com atualizações regulares de conteúdo.
+
+
+
+* **Auditorias do Ciclo de Vida do Documento**  
+
+  Garante que as alterações em rascunhos permaneçam em conformidade e intencionais.
+
+
+
+* **Gestão de Modelos**  
+
+  Rastreia diferenças em documentos construídos a partir de modelos dinâmicos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Detecção Automatizada de Alterações de Macro**  
+
+  Sinaliza modificações no código do macro para segurança e versionamento.
+
+
+
+* **Comparação em Lote de Modelos**  
+
+  Compara grandes conjuntos de arquivos DOCM automaticamente para consistência.
+
+
+
+* **Monitoramento Inteligente de Atualizações**  
+
+  Integra verificações programáticas nos fluxos de trabalho empresariais.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

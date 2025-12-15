@@ -68,7 +68,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сравнение ODP анализирует содержание слайдов, макеты, форматирование и встроенные медиафайлы в презентациях с открытым документом. Оно поддерживает точный обзор визуальных коммуникационных материалов.
+
+
+
+Автоматизированное сравнение ODP улучшает масштабируемость, позволяя быструю проверку больших библиотек презентаций и совместные циклы обновлений.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* **Отслеживание изменений слайдов**  
+
+&nbsp; Выделяет обновления в тексте, медиафайлах и дизайне.
+
+
+
+* **Проверка согласованности темы**  
+
+&nbsp; Гарантирует сохранение правил шаблона.
+
+
+
+* **Обзор визуального контента**  
+
+&nbsp; Обнаруживает сдвиги макета или контента на слайдах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Сравнение слайдов ODP в больших объемах**  
+
+&nbsp; Эффективное сравнение презентаций в масштабе.
+
+
+
+* **Автоматическое оповещение об изменениях на слайде**  
+
+&nbsp; Программное выявление критических обновлений.
+
+
+
+* **Непрерывная проверка слайдов**  
+
+&nbsp; Интеграция проверок в процессы создания презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

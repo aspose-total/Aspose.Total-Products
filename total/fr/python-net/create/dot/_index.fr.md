@@ -43,9 +43,79 @@ Pour un développeur, qui essaie de créer des fichiers DOT via une application 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT — Les fichiers de modèle `.dot` définissent des styles réutilisables et une structure pour les flux de travail Word hérités ; la création de modèles DOT via Python permet aux organisations de maintenir une mise en forme cohérente pour les publipostages, les formulaires et les documents normalisés consommés par les anciens clients.
+
+
+
+La génération DOT programmable garantit que les modèles sont mis à jour de manière centralisée et peuvent être distribués automatiquement aux utilisateurs finaux ou aux services de documents.
+
+L'automatisation prend en charge la planification des mises à jour de modèles, la gestion des versions et la génération en aval de documents concrets à partir de modèles.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Distribution de modèles hérités**
+
+  Produire des modèles DOT qui garantissent une mise en page cohérente sur l'ensemble des chaînes d'outils héritées.
+
+
+
+* **Modèles de formulaires normalisés**
+
+  Créer des modèles de formulaires avec des espaces réservés pour des publipostages manuels ou automatisés.
+
+
+
+* **Gestion des versions de modèles**
+
+  Automatiser l'ajout de balises de version et la publication de modèles DOT dans des référentiels de documents.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Actualisation automatisée des modèles**
+
+  Remplacer ou mettre à jour les modèles DOT à partir d'une source centrale et pousser les mises à jour de manière programmée.
+
+
+
+* **Création en lot basée sur des modèles**
+
+  Utiliser des modèles DOT pour générer de nombreux documents remplis via des fusionnements automatisés.
+
+
+
+* **Pistes de vérification pour les modèles**
+
+  Intégrer des métadonnées et des journaux de modifications lors de la génération de modèles programmable pour la conformité.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

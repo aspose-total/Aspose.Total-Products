@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTM 파일(매크로 활성화 프레젠테이션)은 매크로를 보존하면서 파일 크기를 줄여 공유 및 저장을 위한 이점을 누립니다.
+
+
+
+파이썬 API를 사용하여 기업 워크플로우에서 매크로 기능을 유지한 채 PPTM 압축을 자동화할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **매크로 보존**  
+
+&nbsp; 포함된 매크로를 손상시키지 않고 PPTM 파일을 압축합니다.
+
+
+
+* **더 빠른 협업**  
+
+&nbsp; 작은 매크로 활성화 파일은 팀 공유와 클라우드 업로드를 용이하게 합니다.
+
+
+
+* **자동 아카이빙**  
+
+&nbsp; 압축을 통해 매크로가 포함된 프레젠테이션의 효율적인 장기 저장이 보장됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 PPTM 압축**  
+
+&nbsp; 파이썬 스크립트를 사용하여 여러 매크로 활성화 파일을 자동으로 처리할 수 있습니다.
+
+
+
+* **워크플로우 시스템 통합**  
+
+&nbsp; 압축된 PPTM 파일을 자동화된 문서 워크플로우에 활용할 수 있습니다.
+
+
+
+* **조건부 압축**  
+
+&nbsp; 자동화를 통해 큰 미디어나 복잡한 매크로가 포함된 파일을 대상으로 할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -43,9 +43,81 @@ Voor een ontwikkelaar, die probeert DOCX-bestanden te maken via de Python-toepas
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX - `.docx` (OOXML) is de moderne standaard voor Word-documenten en is zeer geschikt voor Python-gebaseerde automatisering. Bibliotheken maken het mogelijk om alinea's, tabellen, afbeeldingen, stijlen en aangepaste XML-onderdelen te maken en aan te passen, met behoud van de OOXML-structuur en metadata.
+
+
+
+DOCX is ideaal voor gestructureerde rapporten, dynamische documenten en integratie met webservice vanwege het open formaat en de sterke bibliotheekondersteuning. Automatisering maakt betrouwbare generatie van toegankelijke, gestileerde documenten mogelijk die gevalideerd en versiebeheer kunnen worden.
+
+
+
+Programmatische workflows maken het eenvoudig om complexe documenten (geneste tabellen, verwijzingen, inhoudsopgaven) samen te stellen vanuit gestructureerde invoergegevens.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Genereren van Gerapporteerde Sjablonen**
+
+  Populeer DOCX-sjablonen met dynamische tabellen, grafieken en voorwaardelijke secties.
+
+
+
+* **Geautomatiseerde Documentcompositie**
+
+  Voeg secties (intro, body, bijlagen) samen van modulaire inhoudsbronnen in een enkele DOCX.
+
+
+
+* **Metagegevensrijke Opleveringen**
+
+  Voeg documenteigenschappen, aangepaste XML en revisiemetadata in voor governance.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Database-naar-Document Pipelines**
+
+  Genereer gepersonaliseerde DOCX-documenten voor elke databasevermelding in een geautomatiseerde taak.
+
+
+
+* **Documentcreatie getriggerd door Webhook**
+
+  Maak DOCX-documenten on demand via HTTP-API's die worden getriggerd door externe gebeurtenissen.
+
+
+
+* **Geautomatiseerde Toegankelijkheidscontroles**
+
+  Voer validatiescripts uit die de kopstructuur en alt-tekst voor afbeeldingen controleren tijdens de generatie.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

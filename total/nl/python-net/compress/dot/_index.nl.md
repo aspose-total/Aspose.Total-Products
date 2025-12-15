@@ -100,7 +100,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT-bestanden zijn Word-sjablonen die profiteren van compressie om ruimte te besparen en de distributie-efficiëntie over systemen te verbeteren.
+
+
+
+Compressie op basis van Python kan de optimalisatie van DOT-bestanden automatiseren zonder de sjabloonstructuur of opmaak te beïnvloeden.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Optimalisatie van Sjabloonsopslag**  
+
+&nbsp; Comprimeer DOT-sjablonen voor efficiënte lokale of cloudopslag.
+
+
+
+* **Sjabloon Delen**  
+
+&nbsp; Een verkleinde bestandsgrootte verbetert de distributiesnelheid voor team samenwerking.
+
+
+
+* **Sjabloon Archivering**  
+
+&nbsp; Geautomatiseerde compressie ondersteunt langetermijnbeheer van sjablonen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Batch Sjabloondruk**  
+
+&nbsp; Python-scripts kunnen meerdere DOT-bestanden automatisch comprimeren.
+
+
+
+* **Integratie met Workflowsystemen**  
+
+&nbsp; Gecomprimeerde sjablonen kunnen dynamisch worden geladen in geautomatiseerde workflows.
+
+
+
+* **Selectieve Compressie**  
+
+&nbsp; Automatisering kan alleen grote sjablonen of die met ingesloten objecten comprimeren.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -101,7 +101,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Les fichiers PPS (PowerPoint Show) bénéficient d'une compression pour réduire le stockage et améliorer les performances de lecture lors des présentations.
+
+
+
+Les API Python prennent en charge la compression automatisée des PPS pour un partage plus rapide et une efficacité de stockage.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Optimisation des fichiers de présentation**  
+
+&nbsp; Compresser les fichiers PPS sans affecter le contenu des diapositives ou les transitions.
+
+
+
+* **Distribution plus rapide**  
+
+&nbsp; Des fichiers plus petits facilitent le partage rapide et les téléversements dans le cloud.
+
+
+
+* **Efficacité archivistique**  
+
+&nbsp; La compression automatisée prend en charge le stockage à long terme des fichiers de présentation.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Compression en lot des PPS**  
+
+&nbsp; Les scripts Python peuvent compresser automatiquement plusieurs fichiers de présentation.
+
+
+
+* **Intégration avec les systèmes de présentation**  
+
+&nbsp; Les fichiers PPS compressés peuvent être chargés dynamiquement dans des flux de travail automatisés.
+
+
+
+* **Compression conditionnelle**  
+
+&nbsp; Cibler les grandes présentations ou les fichiers riches en médias pour la compression.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

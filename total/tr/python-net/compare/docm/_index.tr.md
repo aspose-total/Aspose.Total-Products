@@ -70,7 +70,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM karşılaştırması, metin, biçimlendirme ve gömülü mantık değişikliklerindeki farklılıkları belirlemeye odaklanır. Bu, hem görünür içerik hem de dahili otomasyon bileşenlerinin doğru bir şekilde izlenmesini sağlar.
+
+
+
+DOCM karşılaştırmasının otomatik hale getirilmesi, makro bütünlüğünün izlenmesini artırır, izinsiz düzenlemelerden kaynaklanan riskleri azaltır ve yüksek hacimli ortamlarda ölçeklenebilir doğrulamayı destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Makro Bütünlüğü Doğrulaması**  
+
+&nbsp; Düzenli içerik güncellemelerinin yanı sıra gömülü makrolardaki değişiklikleri tespit eder.
+
+
+
+* **Belge Yaşam Döngüsü Denetimleri**  
+
+&nbsp; Taslaklar arasındaki değişikliklerin uygun ve kasıtlı olmasını sağlar.
+
+
+
+* **Şablon Yönetimi**  
+
+&nbsp; Dinamik şablonlardan oluşturulan belgelerdeki farklılıkları takip eder.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Makro Değişikliklerinin Algılanması**  
+
+&nbsp; Güvenlik ve sürümleme için makro kodundaki değişiklikleri işaretler.
+
+
+
+* **Toplu Şablon Karşılaştırması**  
+
+&nbsp; Uyumluluk için DOCM dosyalarının büyük setlerini otomatik olarak karşılaştırır.
+
+
+
+* **Akıllı Güncelleme İzleme**  
+
+&nbsp; İş akışlarına programlı kontrolleri entegre eder.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

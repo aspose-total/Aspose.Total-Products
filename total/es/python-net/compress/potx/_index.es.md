@@ -101,7 +101,75 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX (plantillas modernas de PowerPoint) se benefician de la compresión para reducir el tamaño y mejorar la eficiencia de uso compartido mientras se mantienen todos los elementos de formato y diseño.
+
+
+
+Las API de Python permiten la compresión automatizada de POTX, mejorando la escalabilidad del flujo de trabajo y la gestión de plantillas.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Optimización del almacenamiento de plantillas**  
+
+&nbsp; Comprimir plantillas POTX preservando el contenido y el diseño de diapositivas.
+
+
+
+* **Compartir plantillas rápidamente**  
+
+&nbsp; Archivos más pequeños permiten una distribución rápida entre equipos y plataformas en la nube.
+
+
+
+* **Archivo automatizado**  
+
+&nbsp; La compresión simplifica la gestión del almacenamiento a largo plazo de plantillas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Compresión por lotes de POTX**  
+
+&nbsp; Los scripts de Python automatizan la compresión de múltiples plantillas.
+
+
+
+* **Integración con sistemas de flujo de trabajo**  
+
+&nbsp; Las plantillas comprimidas pueden cargarse dinámicamente en tuberías automatizadas.
+
+
+
+* **Compresión inteligente**  
+
+&nbsp; La automatización condicional se dirige a plantillas grandes o con mucho contenido multimedia.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

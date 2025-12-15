@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сравнение DOTX помогает проверить структурную и стилистическую согласованность шаблонов без макросов, используемых для генерации документов. Это обеспечивает единообразный брендинг и форматирование всех полученных документов.
+
+
+
+Автоматизация сравнения DOTX поддерживает проверку шаблонов в централизованных системах, улучшая точность и сокращая время ручной проверки.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Проверка стандартного шаблона**  
+
+&nbsp; Идентификация различий в макете или форматировании.
+
+
+
+* **Выравнивание бренда**  
+
+&nbsp; Гарантирует согласованность правил шаблона между командами.
+
+
+
+* **Управление структурой контента**  
+
+&nbsp; Подтверждает точность заголовка, нижнего колонтитула и элементов стиля.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Сравнение шаблонов в больших объемах**  
+
+&nbsp; Проверка сотен файлов DOTX без ручных усилий.
+
+
+
+* **Синхронизация версий шаблонов**  
+
+&nbsp; Автоматическое выравнивание распределенных шаблонов.
+
+
+
+* **Мониторинг изменений в процессах**  
+
+&nbsp; Оповещение о структурных изменениях через автоматизированные рабочие процессы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,41 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Los archivos XLTX (plantillas modernas de Excel) se benefician de la compresión para un almacenamiento optimizado y un intercambio más rápido, preservando todo el formato y las fórmulas.
+
+Las APIs de Python permiten la compresión automatizada de XLTX, mejorando la eficiencia del flujo de trabajo e integración con sistemas de gestión de documentos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+- **Optimización del almacenamiento de plantillas**
+  Comprimir plantillas XLTX manteniendo toda la funcionalidad.
+
+- **Compartir plantillas rápidamente**
+  Archivos más pequeños permiten una distribución y colaboración más rápidas.
+
+- **Archivado automatizado**
+  La compresión simplifica la gestión de almacenamiento a largo plazo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+- **Compresión en lote de XLTX**
+  Los scripts de Python automatizan la compresión de múltiples plantillas.
+
+- **Integración con sistemas de flujo de trabajo**
+  Las plantillas comprimidas pueden cargarse en pipelines automatizados.
+
+- **Compresión inteligente**
+  Reglas condicionales permiten dirigirse a plantillas con grandes conjuntos de datos o medios incrustados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Words for Python via .
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Các tệp DOTX, mẫu Word hiện đại không có macro, được nén để tăng hiệu suất lưu trữ và chia sẻ nhanh hơn.
+
+
+
+Tự động dựa trên Python cho phép nén tệp DOTX trong khi bảo tồn định dạng, bố cục và tài nguyên nhúng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Hiệu Suất Lưu Trữ Mẫu**  
+
+&nbsp; Giảm kích thước DOTX trong khi duy trì tính nhất quán của thiết kế.
+
+
+
+* **Chia Sẻ Mẫu Nhanh Chóng**  
+
+&nbsp; Tệp nhỏ đảm bảo phân phối nhanh chóng trên các nhóm.
+
+
+
+* **Quản Lý Lưu Trữ**  
+
+&nbsp; Nén tự động hỗ trợ việc lưu giữ mẫu trong dài hạn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Batch DOTX**  
+
+&nbsp; Kịch bản Python có thể nén nhiều tệp mẫu cùng một lúc.
+
+
+
+* **Tích Hợp với Hệ Thống Tài Liệu**  
+
+&nbsp; Các mẫu nén có thể được quản lý một cách linh hoạt trong quy trình làm việc.
+
+
+
+* **Quy Tắc Nén Thông Minh**  
+
+&nbsp; Tự động hóa dựa trên kích thước tệp, đối tượng nhúng hoặc mẫu ảnh nặng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

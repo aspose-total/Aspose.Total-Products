@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файлы POTM (шаблоны с включенными макросами) требуют сжатия, сохраняющего макросы при снижении размера файла для распространения и хранения.
+
+
+
+Автоматизация на основе Python позволяет масштабировать сжатие POTM, сохраняя полную функциональность шаблона.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Сохранение шаблона с макросами**  
+
+&nbsp; Сжатие файлов POTM без нарушения встроенных макросов.
+
+
+
+* **Эффективное совместное использование шаблонов**  
+
+&nbsp; Меньшие шаблоны с макросами улучшают сотрудничество и облачное распространение.
+
+
+
+* **Архивирование шаблонов**  
+
+&nbsp; Автоматизированное сжатие обеспечивает эффективное долгосрочное хранение.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие POTM**  
+
+&nbsp; Сценарии Python могут автоматически обрабатывать несколько шаблонов с макросами.
+
+
+
+* **Интеграция с системами рабочего процесса**  
+
+&nbsp; Сжатые шаблоны POTM могут динамически загружаться в автоматизированные рабочие процессы.
+
+
+
+* **Условное сжатие**  
+
+&nbsp; Автоматизация направлена на файлы с макросами или большим медийным контентом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

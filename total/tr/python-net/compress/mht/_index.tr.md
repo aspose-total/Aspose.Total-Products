@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHT (MHTML Web Archive) sıkıştırması, HTML, resimler, CSS ve betikleri tek bir dosyaya paketlenmiş web sayfası arşivlerinin boyutunu azaltır. Sıkıştırılmış MHT dosyaları depolama verimliliğini artırır, dosya transferini hızlandırır ve web içeriğinin daha kolay arşivlenmesini sağlar.
+
+
+
+Python API'leri otomatik MHT sıkıştırmasını, toplu işleme ve web arşivleme boru hatlarıyla entegrasyonu sağlayarak çevrimdışı web içeriğinin ölçeklenebilir yönetimini destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Web Sayfası Arşivleme**  
+
+&nbsp; MHT dosyalarını sıkıştırarak arşivlenen web siteleri için depolama alanı tasarrufu yapın.
+
+
+
+* **Çevrimdışı İçerik Dağıtımı**  
+
+&nbsp; Daha küçük MHT dosyaları daha hızlı paylaşım ve indirme imkanı sağlar.
+
+
+
+* **Dijital Kütüphane Yönetimi**  
+
+&nbsp; Web sayfası arşivlerinin büyük koleksiyonlarını verimli bir şekilde depolayın.
+
+
+
+* **İş Akışı Optimizasyonu**  
+
+&nbsp; Sıkıştırılmış dosyalar web içerik sistemlerinde işleme hızını artırır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu MHT Sıkıştırma**  
+
+&nbsp; Birden fazla web arşiv dosyası için boyut azaltımını otomatikleştirin.
+
+
+
+* **Gömülü İçerik Optimizasyonu**  
+
+&nbsp; Resimleri, betikleri ve stilleri otomatik olarak sıkıştırın.
+
+
+
+* **DAM veya CMS ile Entegrasyon**  
+
+&nbsp; Yükleme veya arşivleme sırasında MHT dosyalarını sıkıştırın.
+
+
+
+* **Dinamik Sıkıştırma Kuralları**  
+
+&nbsp; Sayfa karmaşıklığına ve gömülü medyaya dayalı olarak optimizasyonu ayarlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

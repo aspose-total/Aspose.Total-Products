@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+OTT圧縮はOpenDocument Text Templateファイルに焦点を当て、レイアウト、スタイル、埋め込みメディアを最適化してファイルサイズを削減します。圧縮されたOTTファイルは、テンプレート駆動の文書作成においてストレージ、転送速度、ワークフロー効率を向上させます。
+
+
+
+Python APIを使用すると、自動化されたOTT圧縮、バッチ処理、およびスケーラブルなテンプレート管理のための文書自動化システムとの統合が可能です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **テンプレートライブラリの最適化**  
+
+&nbsp; 小さなOTTファイルは大規模なテンプレートコレクションのためのストレージを削減します。
+
+
+
+* **効率的な共有とコラボレーション**  
+
+&nbsp; 圧縮されたテンプレートは配布とアクセスがより速くなります。
+
+
+
+* **ワークフローの統合**  
+
+&nbsp; 最適化されたOTTファイルは自動化された文書生成パイプラインでのパフォーマンスを向上させます。
+
+
+
+* **アーカイブとバックアップ**  
+
+&nbsp; 過去のテンプレートバージョンのためのストレージフットプリントを削減します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチOTT圧縮**  
+
+&nbsp; 複数のテンプレートのサイズを自動的に縮小します。
+
+
+
+* **埋め込みメディアの最適化**  
+
+&nbsp; テンプレート内の画像、オブジェクト、スタイルを自動的に圧縮します。
+
+
+
+* **CMS/DAMとの統合**  
+
+&nbsp; ドキュメント管理システムへのアップロード時にOTTファイルを圧縮します。
+
+
+
+* **ダイナミックな圧縮レベル**  
+
+&nbsp; コンテンツの複雑さと使用状況に基づいて最適化を調整します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

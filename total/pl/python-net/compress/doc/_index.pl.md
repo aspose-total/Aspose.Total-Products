@@ -100,7 +100,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresja plików DOC zmniejsza wymagania dotyczące przechowywania, przyspiesza udostępnianie plików i zachowuje integralność dokumentów zawierających dużo tekstu lub osadzone media.
+
+
+
+Interfejsy API Pythona umożliwiają zautomatyzowane przepływy pracy kompresji DOC, wspierając skalowalne zarządzanie dokumentami i szybsze przetwarzanie w środowiskach korporacyjnych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Optymalizacja przechowywania**  
+
+&nbsp; Minimalizacja użycia miejsca na dysku dla starych plików DOC bez wpływu na zawartość.
+
+
+
+* **Wysyłanie e-maili i w chmurze**  
+
+&nbsp; Mniejsze pliki DOC mogą być przesyłane szybciej i efektywniej po sieciach.
+
+
+
+* **Automatyczne archiwizowanie**  
+
+&nbsp; Kompresja partii do archiwizacji zapewnia efektywne przechowywanie starszych dokumentów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Kompresja partii**  
+
+&nbsp; Skrypty Pythona mogą automatycznie przetwarzać wiele plików DOC.
+
+
+
+* **Integracja z systemami dokumentów**  
+
+&nbsp; Skompresowane pliki DOC mogą być łatwo przesyłane na platformy DMS.
+
+
+
+* **Kompresja warunkowa**  
+
+&nbsp; Automatyzacja może kompresować pliki przekraczające progi wielkości lub zawierające osadzone media.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

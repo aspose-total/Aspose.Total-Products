@@ -78,7 +78,28 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```html
+<h2>Introduction</h2>
+
+## Features
+- Easy to use
+- Fast and reliable
+- Secure
+
+<h2>Benefits</h2>
+
+## For users
+- Convenient
+- Efficient
+- User-friendly
+
+## For businesses
+- Cost-effective
+- Increases productivity
+- Enhances security
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

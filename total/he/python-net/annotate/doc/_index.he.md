@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+הערת המסמך מתמקדת בהוספת הערות, הדגשות ומטה-נתונים מובנים למסמכי Word מורשים, משפרת קריאות ומאפשרת לצוותים ללכוד הקשר בין פורמטי קבצים ישנים. התהליך הזה עוזר לשמור על תקינות המסמך ולוודא שהמידע ניתן לפרש ולתקן בקלות.
+
+שילוב הערת המסמך בתהליכי עבודה מודרניים משפר תאימות ומאפשר למערכות אוטומטיות לחלץ, לאינדקס ולעדכן תוכן בצורה יעילה יותר.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **סקירת תוכן ומשוב**  
+
+  הוספת הערות או דגשים לציון עריכות חשובות או הבהרות.
+
+* **העשרת מטה-נתונים**  
+
+  הכנסת הערות מובנות לצורת קטגוריזציה ואיחזור.
+
+* **ניקוי מסמך**  
+
+  זיהוי קטעים מיושנים או לא רלוונטיים לצורך תיקון.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **צינורות הערת ציון רצפים**  
+
+  אוטומציה של הוספת הערות במקביל למסמכי DOC מרובים.
+
+* **בדיקות איכות אוטומטיות**  
+
+  סימון קטעים חסרים או אי התאמות בפורמט באופן תכנותי.
+
+* **הדגשות על בסיס תהליך עבודה**  
+
+  החלת הערות בהתאם לחוקים שמופעלים על ידי תוכן המסמך.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

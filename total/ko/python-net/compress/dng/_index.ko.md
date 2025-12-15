@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DNG 압축은 디지털 카메라로 촬영된 원본 이미지 파일을 최적화하면서 최대 이미지 품질을 보존하는 데 초점을 맞춥니다. DNG 파일은 종종 고해상도 센서 데이터를 포함하므로 압축은 저장 공간 요구량을 줄이고 파일 전송 속도를 높이며 사진 및 이미징 파이프라인에서의 작업 효율을 향상시킵니다.
+
+
+
+Python API를 사용하면 자동화된 DNG 압축, 일괄 처리 및 다른 형식으로의 변환을 가능하게 하여 대규모 사진 라이브러리 및 전문 이미징 시스템을 확장 가능하게 관리할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **사진 작업물 아카이브 최적화**  
+
+  &nbsp; DNG 파일을 압축하여 원본 이미지의 충실도를 훼손하지 않고 저장 공간을 줄일 수 있습니다.
+
+
+
+* **빠른 이미지 전송**  
+
+  &nbsp; 더 작은 파일 크기로 카메라, 워크스테이션 및 클라우드 저장소 간 빠른 공유가 가능합니다.
+
+
+
+* **디지털 자산 관리**  
+
+  &nbsp; 압축된 DNG 라이브러리는 조직화, 검색 및 검색이 더 쉽습니다.
+
+
+
+* **후처리 워크플로우**  
+
+  &nbsp; 원본 파일을 이미지 편집 및 AI 향상 파이프라인으로 더 빠르게 로드할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 DNG 압축**  
+
+  &nbsp; 다수의 원본 이미지 파일을 대량으로 최적화하는 자동화 기능입니다.
+
+
+
+* **해상도에 따른 동적 압축**  
+
+  &nbsp; Python 워크플로우는 센서 크기나 이미지 크기에 따라 압축 수준을 조정할 수 있습니다.
+
+
+
+* **자동 형식 변환**  
+
+  &nbsp; DNG를 TIFF, JPEG 또는 WebP로 변환하면서 자동으로 압축을 적용할 수 있습니다.
+
+
+
+* **DAM 시스템 통합**  
+
+  &nbsp; 업로드 시 DNG 이미지를 압축하여 최적화된 저장 및 빠른 처리를 가능하게 합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

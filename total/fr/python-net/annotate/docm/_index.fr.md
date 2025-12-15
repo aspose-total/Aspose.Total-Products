@@ -75,7 +75,65 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'annotation DOCM permet d'ajouter des notes, des surlignages et des métadonnées aux documents Word activés par macro, prenant en charge les flux de travail nécessitant des scripts dynamiques ou une automatisation intégrée. Cela aide les utilisateurs à documenter la logique, suivre les modifications et maintenir la clarté autour des comportements des macros.
+
+En annotant les fichiers DOCM de manière programmable, les systèmes d'automatisation peuvent surveiller l'utilisation des macros, améliorer la cohérence de la documentation et rationaliser les processus de validation.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Documentation des macros**  
+
+&nbsp; Étiqueter et décrire les actions pilotées par macro à l'intérieur du document.
+
+* **Suivi de la conformité**  
+
+&nbsp; Ajouter des notes confirmant les scripts ou validations requis.
+
+* **Journal des modifications**  
+
+&nbsp; Mettre en évidence les mises à jour liées aux macros pour une meilleure visibilité.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Analyse et annotation des macros**  
+
+&nbsp; Insérer automatiquement des commentaires décrivant les fonctions de macro détectées.
+
+* **Rapports de conformité dynamiques**  
+
+&nbsp; Remplir les annotations lorsque les macros satisfont ou échouent à certaines vérifications.
+
+* **Outils d'examen basés sur des scripts**  
+
+&nbsp; Utiliser Python pour appliquer des annotations structurées à grande échelle.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

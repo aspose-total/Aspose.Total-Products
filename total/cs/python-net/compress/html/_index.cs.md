@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese HTML snižuje velikost souboru minimalizací kódu, odstraněním bílých znaků, komentářů a zbytečných značek. Komprimované HTML zlepšuje načítání webových stránek, snižuje využití šířky pásma a zvyšuje výkon webových aplikací.
+
+
+
+Pythonové API umožňují automatizovanou minimalizaci HTML, hromadné zpracování a integraci s vývojovými toky pro škálovatelnou optimalizaci webových stránek a aplikací.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace webové stránky**  
+
+&nbsp; Menší HTML soubory zlepšují rychlost načítání stránky a odezvu.
+
+
+
+* **Generování statických stránek**  
+
+&nbsp; Komprimované HTML urychluje sestavování stránek a procesy nasazení.
+
+
+
+* **Správa digitálních aktiv**  
+
+&nbsp; Minimalizované HTML snižuje požadavky na úložiště pro velké webové repozitáře.
+
+
+
+* **Dodávka na různé platformy**  
+
+&nbsp; Optimalizované HTML zlepšuje výkon vykreslování na různých zařízeních a prohlížečích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná minimalizace HTML**  
+
+&nbsp; Automatizujte kompresi více HTML souborů.
+
+
+
+* **Odstranění bílých znaků a komentářů**  
+
+&nbsp; Automaticky vyčistěte kód bez ovlivnění funkcionality.
+
+
+
+* **Integrace s vývojovými toky**  
+
+&nbsp; Kompresujte HTML soubory během pracovních postupů CI/CD nebo zpracování obsahu.
+
+
+
+* **Dynamická optimalizace**  
+
+&nbsp; Upravte pravidla minimalizace na základě požadavků projektu nebo prostředí.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

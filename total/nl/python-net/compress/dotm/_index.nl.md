@@ -100,7 +100,75 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM-bestanden zijn sjablonen met macrofunctionaliteit. Compressie vermindert de opslagruimte terwijl de macrofunctionaliteit behouden blijft, waardoor efficiënte implementatie van sjablonen mogelijk is.
+
+
+
+Python-API's ondersteunen geautomatiseerde DOTM-compressie om de integriteit te behouden in bedrijfs- en samenwerkingsomgevingen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Behoud van Macro-sjabloon**  
+
+&nbsp; Comprimeer DOTM-bestanden veilig zonder de macro's te beschadigen.
+
+
+
+* **Snellere Distributie van Sjablonen**  
+
+&nbsp; Kleinere bestanden zijn gemakkelijker te delen tussen teams en systemen.
+
+
+
+* **Sjabloonarchivering**  
+
+&nbsp; Geautomatiseerde compressie zorgt voor efficiënt langetermijnbeheer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Batch DOTM-compressie**  
+
+&nbsp; Python-scripts kunnen meerdere macro-sjablonen automatisch verwerken.
+
+
+
+* **Workflow-integratie**  
+
+&nbsp; Gecomprimeerde sjablonen kunnen worden gebruikt in geautomatiseerde documentgeneratiesystemen.
+
+
+
+* **Voorwaardelijke Compressie**  
+
+&nbsp; Automatiseer op basis van grootte, inhoud of macrocomplexiteit.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

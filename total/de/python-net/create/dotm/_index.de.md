@@ -43,9 +43,81 @@ Wer versucht als Entwickler, DOTM-Dateien über eine Python-Anwendung zu erstell
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM — `.dotm`-Vorlagen kombinieren Vorlagen mit Makro-Unterstützung und ermöglichen wiederverwendbare makrofähige Vorlagen für automatisierte Dokumentenverhaltensweisen. Die Python-gesteuerte Erstellung von DOTM-Dateien ermöglicht die Verteilung von Vorlagen, die genehmigte VBA-Automatisierung enthalten, während der Makroinhalt programmgesteuert kontrolliert wird.
+
+
+
+Dieses Format eignet sich für Organisationen, die wiederholbare, makrofähige Vorlagen für lokale Automatisierungsaufgaben benötigen, während sichergestellt wird, dass Makros programmgesteuert verwaltet, validiert und optional während des Vorlagenbauprozesses signiert werden.
+
+
+
+Automatisierung ermöglicht sicheres Makro-Lebenszyklusmanagement – Generierung, Analyse, Signierung und Bereitstellung – innerhalb von CI/CD-Pipelines.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Makrofähige Vorlagenbibliotheken**
+
+  Bereitstellung von DOTM-Vorlagen, die wiederholbare Automatisierung für lokale Benutzer umfassen.
+
+
+
+* **Kontrollierte Vorlagenautomatisierung**
+
+  Stellen Sie sicher, dass Vorlagen nur geprüfte Makros für interne Workflows enthalten.
+
+
+
+* **Vorlagenbasierte Dokumentenerstellung**
+
+  Verwenden Sie DOTM als Quelle zur Generierung von DOCM/DOCX-Instanzen mit eingebetteten Verhaltensweisen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **CI-Pipeline für Vorlagen-Qualitätssicherung**
+
+  Automatische Validierung des VBA-Verhaltens und der Vorlagenintegrität vor der Verteilung.
+
+
+
+* **Sichere Bereitstellung von Vorlagen**
+
+  Einbetten digitaler Signaturen und Bereitstellung von DOTM-Dateien für Benutzer über verwaltete Kanäle.
+
+
+
+* **Dynamische Makroeinspeisung**
+
+  Aktualisieren von Makromodulen innerhalb von DOTM-Vorlagen aus sicheren Speichern programmgesteuert.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

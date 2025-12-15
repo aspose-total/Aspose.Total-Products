@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX sıkıştırması, genellikle tekrarlayan işaretleme, yorumlar veya biçimlendirme komutları içeren LaTeX kaynak dosyalarının boyutunu azaltır. TEX dosyalarını optimize etmek, depolama verimliliğini artırır, derleme süresini hızlandırır ve akademik, yayıncılık ve bilimsel iş akışlarında işbirliğini geliştirir.
+
+
+
+Python API'leri, ölçeklenebilir LaTeX iş akışları için otomatik TEX sıkıştırma, toplu işleme ve belge oluşturma boru hatlarıyla entegrasyonu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Akademik \& Araştırma Belgeleri**  
+
+&nbsp; Büyük makaleler, tezler ve tezler için LaTeX kaynaklarının boyutunu azaltın.
+
+
+
+* **Yayıncılık İş Akışları**  
+
+&nbsp; Sıkıştırılmış TEX dosyaları derleme ve dağıtım süreçlerini kolaylaştırır.
+
+
+
+* **Sürüm Kontrolü \& İşbirliği**  
+
+&nbsp; Daha küçük dosyalar depolama alanını ve işbirlikçi düzenlemeyi iyileştirir.
+
+
+
+* **Arşivleme \& Yedekleme**  
+
+&nbsp; Optimize edilmiş TEX dosyaları tarihsel akademik içerik için depolamayı azaltır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu TEX Sıkıştırma**  
+
+&nbsp; Birden fazla LaTeX dosyası için boyut azaltmayı otomatikleştirin.
+
+
+
+* **Yorum \& Tekrarlı Komut Kaldırma**  
+
+&nbsp; Gereksiz işaretleme veya tekrarlanan komutları otomatik olarak kaldırın.
+
+
+
+* **İş Akışı Entegrasyonu**  
+
+&nbsp; TEX dosyalarını otomatik derleme veya yayınlama sistemlerine yüklendiğinde sıkıştırın.
+
+
+
+* **Dönüştürme + Sıkıştırma**  
+
+&nbsp; TEX'i PDF veya diğer formatlara dönüştürürken sıkıştırma kurallarını uygulayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

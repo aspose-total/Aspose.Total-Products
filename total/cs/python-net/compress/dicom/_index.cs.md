@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DICOM komprese se zaměřuje na optimalizaci lékařských obrazových souborů obsahující diagnostické snímky, metadata a informace o pacientovi. Protože soubory DICOM jsou často velké kvůli snímkům ve vysokém rozlišení, komprese je nezbytná pro rychlejší přenos, snížení nákladů na úložiště a efektivní manipulaci v rámci zdravotnických systémů.
+
+
+
+Python API umožňují automatizovanou DICOM kompresi, včetně bezztrátových a řízených ztrátových metod, zajistí, že pracovní postupy v oblasti lékařského zobrazování zůstanou škálovatelné, spolehlivé a v souladu s klinickými standardy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případy" %}}
+
+
+
+* **Optimalizace úložiště lékařských obrazů**  
+
+&nbsp; Kompresí DICOM souborů se snižuje zátěž na PACS systémy a dlouhodobé archivy.
+
+
+
+* **Rychlejší přenos obrazů**  
+
+&nbsp; Menší soubory zlepšují rychlost přenosu mezi nemocnicemi, zobrazovacími centry a cloudovými systémy.
+
+
+
+* **Výzkum a analytické procesy**  
+
+&nbsp; Kompresovaná data usnadňují trénování modelů AI a zpracování lékařských obrazů ve velkém měřítku.
+
+
+
+* **Telemedicínské pracovní postupy**  
+
+&nbsp; Kompresí se umožňuje rychlejší dodávka diagnostických vizuálů vzdáleným poskytovatelům zdravotní péče.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese diagnostických obrazů**  
+
+&nbsp; Automatizuje zmenšení velikosti pro velké knihovny MRI, CT a rentgenových snímků.
+
+
+
+* **Dynamický výběr bezztrátové/ztrátové komprese**  
+
+&nbsp; Automatizace vybírá typ komprese na základě modalit, rozlišení nebo klinických požadavků.
+
+
+
+* **Optimalizace integrovaná do pracovního postupu**  
+
+&nbsp; Kompresuje DICOM soubory během vkládání do PACS, RIS nebo cloudových zobrazovacích systémů.
+
+
+
+* **Kompresi s uchováním metadat**  
+
+&nbsp; Automatizované procesy udržují všechny lékařské značky a identifikátory při snižování velikosti souboru.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

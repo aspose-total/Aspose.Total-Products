@@ -101,7 +101,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/sli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Os arquivos PPTM (apresentações com macros habilitadas) se beneficiam da compressão que preserva macros enquanto reduz o tamanho do arquivo para compartilhamento e armazenamento.
+
+
+
+As APIs do Python permitem a compressão automatizada de PPTM mantendo a funcionalidade de macro para fluxos de trabalho empresariais.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Preservação de Macros**  
+
+&nbsp; Comprima arquivos PPTM sem quebrar macros incorporadas.
+
+
+
+* **Colaboração Mais Rápida**  
+
+&nbsp; Arquivos menores com macros facilitam o compartilhamento em equipe e uploads na nuvem.
+
+
+
+* **Arquivamento Automatizado**  
+
+&nbsp; A compressão garante o armazenamento eficiente a longo prazo de apresentações com macros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de PPTM**  
+
+&nbsp; Scripts em Python podem processar vários arquivos com macros automaticamente.
+
+
+
+* **Integração com Sistemas de Fluxo de Trabalho**  
+
+&nbsp; Arquivos PPTM comprimidos podem ser usados em fluxos de trabalho de documentos automatizados.
+
+
+
+* **Compressão Condicional**  
+
+&nbsp; A automação pode direcionar arquivos com mídia grande ou macros complexas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

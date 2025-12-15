@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCファイルの圧縮により、ストレージ要件が削減され、ファイル共有が加速され、テキスト重視またはメディア埋め込みコンテンツの文書の整合性が維持されます。
+
+
+
+Python APIを使用すると、自動化されたDOC圧縮ワークフローが可能になり、スケーラブルな文書管理と企業環境での高速処理がサポートされます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **ストレージの最適化**  
+
+&nbsp; コンテンツに影響を与えることなく、レガシーDOCファイルのディスクスペース使用量を最小限に抑えます。
+
+
+
+* **Eメールおよびクラウド共有**  
+
+&nbsp; より小さなDOCファイルは、ネットワークを介してより迅速かつ効率的に転送できます。
+
+
+
+* **自動アーカイブ**  
+
+&nbsp; アーカイブ用のバッチ圧縮により、古い文書の効率的な保存が確保されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチ圧縮**  
+
+&nbsp; Pythonスクリプトを使用して複数のDOCファイルを自動的に処理できます。
+
+
+
+* **文書システムとの統合**  
+
+&nbsp; 圧縮されたDOCファイルは、DMSプラットフォームにシームレスにアップロードできます。
+
+
+
+* **条件付き圧縮**  
+
+&nbsp; 自動化により、サイズのしきい値を超えるファイルや埋め込まれたメディアを圧縮できます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -70,7 +70,75 @@ Para obter mais detalhes, consulte [Documentação do Produto](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A comparação DOTM examina as alterações ao nível do modelo em documentos que incluem macros, garantindo consistência na estrutura visual e lógica de automação incorporada. Isso protege as organizações de alterações ocultas ao nível da macro.
+
+
+
+A comparação automatizada permite monitorar continuamente a integridade do modelo e as atualizações de macros em sistemas de documentação extensos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Validação de Modelo de Macro**  
+
+  Verifica alterações em scripts e lógica incorporados.
+
+
+
+* **Controle de Modelo Orientado pela Conformidade**  
+
+  Garante que todos os modelos compartilhados sigam os padrões necessários.
+
+
+
+* **Rastreamento de Modelo Pronto para Auditoria**  
+
+  Mantém um histórico de versões confiável para fluxos de trabalho regulamentados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Alertas de Alteração Baseados em Macro**  
+
+  Identifica automaticamente modificações em macros incorporadas.
+
+
+
+* **Monitoramento de Modelo Empresarial**  
+
+  Compara modelos em escala dentro de ecossistemas de documentos.
+
+
+
+* **Verificações de Implantação Automatizadas**  
+
+  Verifica a consistência do modelo antes da distribuição.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

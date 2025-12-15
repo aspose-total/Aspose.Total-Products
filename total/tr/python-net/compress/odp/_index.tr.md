@@ -101,7 +101,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODP sıkıştırması, OpenDocument Presentation dosyalarının boyutunu azaltır, metin, resim ve gömülü medya içeren slaytları optimize eder. Sıkıştırılmış ODP dosyaları depolama verimliliğini artırır, daha hızlı yükleme sağlar ve sunumlarda daha düzgün performans sunar.
+
+
+
+Python API'leri otomatik ODP sıkıştırmasını, toplu işleme ve ölçeklenebilir sunum yönetimi ve dağıtım iş akışları için medya optimizasyonunu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Sunum Optimizasyonu**  
+
+  Smaller ODP dosyaları düzenleyicilerde ve görüntüleyicilerde daha hızlı yüklenir.
+
+
+
+* **Depolama ve Arşiv Verimliliği**  
+
+  Büyük slayt kütüphaneleri için disk alanı kullanımını azaltır.
+
+
+
+* **İçerik Paylaşımı ve Dağıtımı**  
+
+  Sıkıştırılmış dosyalar ağlar ve cihazlar arasında hızlı bir şekilde iletilir.
+
+
+
+* **İş Akışı Entegrasyonu**  
+
+  Optimized ODP dosyaları otomatik sunum iş akışlarında performansı artırır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu ODP Sıkıştırma**  
+
+  Birden fazla sunum dosyasının otomatik olarak optimize edilmesini sağlar.
+
+
+
+* **Medya ve Resim Optimizasyonu**  
+
+  Gömülü resimleri ve medyayı otomatik olarak sıkıştırır.
+
+
+
+* **CMS veya DAM ile Entegrasyon**  
+
+  Yükleme veya arşivleme süreçlerinde ODP dosyalarını sıkıştırır.
+
+
+
+* **Dinamik Sıkıştırma**  
+
+  Slayt içeriğine ve medya yoğunluğuna bağlı olarak sıkıştırma yoğunluğunu ayarlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX压缩可以减小LaTeX源文件的大小，这些文件通常包含重复的标记、注释或格式化命令。优化TEX文件可以提高存储效率、加快编译速度，并改善学术、出版和科学工作流程中的协作。
+
+
+
+Python API可实现自动化TEX压缩、批处理和与文档生成流程集成，从而实现可扩展的LaTeX工作流。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **学术与研究文档**  
+
+&nbsp; 减小大型论文、学位论文和学术论文的LaTeX源文件大小。
+
+
+
+* **出版工作流**  
+
+&nbsp; 压缩的TEX文件简化编译和分发流程。
+
+
+
+* **版本控制与协作**  
+
+&nbsp; 更小的文件提高了存储库和协作编辑的效率。
+
+
+
+* **存档与备份**  
+
+&nbsp; 优化的TEX文件减少了历史学术内容的存储空间。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量TEX压缩**  
+
+&nbsp; 自动化处理多个LaTeX文件的大小。
+
+
+
+* **注释与冗余去除**  
+
+&nbsp; 自动剥离不必要的标记或重复命令。
+
+
+
+* **工作流集成**  
+
+&nbsp; 在上传到自动化编译或出版系统时压缩TEX文件。
+
+
+
+* **转换 + 压缩**  
+
+&nbsp; 将TEX转换为PDF或其他格式时应用压缩规则。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

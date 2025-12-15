@@ -43,9 +43,81 @@ informat: DOC
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF — 富文本格式（RTF）是一种跨平台文本格式，许多编辑器都支持；基于Python的RTF生成在生成必须被广泛客户接受的简单样式文档时非常有用。RTF缺乏OOXML的高级功能，但在便携式样式文本、简单表格和内联对象方面表现出色。
+
+
+
+RTF自动化适用于邮件合并、普通样式的信函或需要最大兼容性的系统。可以通过模板化RTF片段或使用直接构建RTF标记的库来进行程序化创建。
+
+
+
+自动化简化了针对轻量级或传统消费者的大量RTF导出和转换流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **跨平台信函生成**
+
+&nbsp; 为偏好轻便、便携式样式文本的客户生成RTF文档。
+
+
+
+* **简单文档的邮件合并**
+
+&nbsp; 为广泛兼容性生成个性化信函和通知的RTF。
+
+
+
+* **与非OOXML系统的交互**
+
+&nbsp; 将内容导出为RTF，以供无法解析DOCX或二进制Word的系统使用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **大规模RTF导出**
+
+&nbsp; 从结构化数据源自动创建数千个RTF文件。
+
+
+
+* **格式回退流程**
+
+&nbsp; 在消费者无法处理DOCX/DOCM时自动提供RTF版本。
+
+
+
+* **简单模板引擎**
+
+&nbsp; 在自动化工作流程中使用RTF模板中的程序化标记替换。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

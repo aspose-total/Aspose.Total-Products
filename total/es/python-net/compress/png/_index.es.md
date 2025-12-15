@@ -100,7 +100,87 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compresión de PNG se centra en optimizar imágenes rasterizadas sin pérdida de calidad mientras se preserva la transparencia, nitidez y fidelidad del color. Esto es importante para gráficos web, diseño de UI e imágenes de alta calidad donde la claridad y precisión son críticas.
+
+
+
+Las APIs de Python permiten la compresión automatizada de PNG, el procesamiento por lotes y la conversión, lo que facilita la gestión de grandes repositorios de imágenes e integrarlas eficientemente en tuberías web, de aplicaciones y de contenido.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+
+
+* **Optimización de Gráficos Web y de Aplicaciones**  
+
+  Comprimir PNGs mejora la velocidad de carga manteniendo visuales de alta calidad.
+
+
+
+* **Gestión de Activos de UI/UX**  
+
+  Los archivos PNG más pequeños reducen el almacenamiento y garantizan una representación rápida para interfaces.
+
+
+
+* **Publicación Digital**  
+
+  Mantiene la claridad en gráficos, diagramas e ilustraciones para libros electrónicos y documentos.
+
+
+
+* **Eficiencia de Almacenamiento en Archivos y en la Nube**  
+
+  Reduce el tamaño de los archivos sin perder calidad de imagen, lo que respalda el almacenamiento a gran escala.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Compresión por Lotes de PNG**  
+
+  Los scripts de Python pueden optimizar múltiples archivos PNG en un proceso automatizado.
+
+
+
+* **Optimización Preservando la Transparencia**  
+
+  Asegura que los canales alfa permanezcan intactos al comprimir la imagen.
+
+
+
+* **Integración en el Flujo de Trabajo**  
+
+  Comprime automáticamente PNGs al cargar en sistemas CMS, DAM o en la nube.
+
+
+
+* **Ajuste Dinámico de Resolución**  
+
+  La compresión puede adaptarse según las dimensiones de la imagen o el contexto de uso.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

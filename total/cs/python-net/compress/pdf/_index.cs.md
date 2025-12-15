@@ -100,7 +100,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese PDF snižuje velikost souborů ve formátu Portable Document Format zachováním textu, obrázků, písem a vektorové grafiky. Komprimované PDF zlepšují účinnost ukládání, rychlejší sdílení a optimalizované zobrazení na zařízeních a platformách.
+
+
+
+Python API umožňuje automatizovanou kompresi PDF, hromadné zpracování a integraci pracovních postupů pro škálovatelný správu dokumentů, archivaci a distribuci.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Ukládání dokumentů a archivace**  
+
+&nbsp; Komprimujte PDF pro úsporu místa v digitálních knihovnách.
+
+
+
+* **Rychlejší přenos souborů**  
+
+&nbsp; Menší PDF se rychle přenášejí pomocí e-mailu nebo cloudových platforem.
+
+
+
+* **Tisk a publikování**  
+
+&nbsp; Optimalizované PDF se rychleji načítají a zobrazují v tiskových a digitálních pracovních postupech.
+
+
+
+* **Optimalizace doručování obsahu**  
+
+&nbsp; Zlepšete uživatelskou zkušenost s e-knihami, zprávami a příručkami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese PDF**  
+
+&nbsp; Automatizujte optimalizaci více PDF souborů současně.
+
+
+
+* **Optimalizace obrázků a písem**  
+
+&nbsp; Automaticky komprimujte vložené obrázky a podmnožiny písem.
+
+
+
+* **Integrace pracovních postupů**  
+
+&nbsp; Dynamicky komprimujte PDF během nahrávání do CMS, DAM nebo archivačních systémů.
+
+
+
+* **Dynamická pravidla komprese**  
+
+&nbsp; Upravte kompresi na základě velikosti dokumentu, typu obsahu nebo cílového zařízení.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

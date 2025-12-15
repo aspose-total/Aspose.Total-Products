@@ -78,7 +78,87 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A DNG tömörítés arra összpontosít, hogy optimalizálja a digitális fényképezőgépek által rögzített nyers képfájlokat, miközben megőrzi a maximális képminőséget. Mivel a DNG fájlok gyakran magas felbontású érzékelőadatokat tartalmaznak, a tömörítés csökkenti a tárolási igényeket, felgyorsítja a fájlátvitelt, és javítja a fotózás és képalkotás folyamatainak hatékonyságát.
+
+
+
+A Python API-k lehetővé teszik az automatizált DNG tömörítést, a tétel feldolgozást és a konverziót más formátumokba, lehetővé téve a nagy fotókönyvtárak és professzionális képalkotó rendszerek skálázható kezelését.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Fotós Archívum Optimalizálása**  
+
+&nbsp; A DNG fájlok tömörítése csökkenti a tárolást anélkül, hogy kompromisszumot kötnénk a nyers képek hűségében.
+
+
+
+* **Gyorsabb Képadatátvitel**  
+
+&nbsp; A kisebb fájlok gyorsabb megosztást tesznek lehetővé a fényképezőgépek, munkaállomások és felhőtárolók között.
+
+
+
+* **Digitális Eszközkezelés**  
+
+&nbsp; A tömörített DNG könyvtárak könnyebben szervezhetők, keresésre és visszakeresésre alkalmasak.
+
+
+
+* **Utómunkafolyamatok**  
+
+&nbsp; Gyorsabbá teszi a nyers fájlok betöltését a képszerkesztésbe és az AI-alapú folyamatokba.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Tétel DNG Tömörítése**  
+
+&nbsp; Automatizálja a több nyers képfájl tömörítését nagy mennyiségben.
+
+
+
+* **Dinamikus Tömörítés Felbontáson Alapulva**  
+
+&nbsp; A Python munkafolyamatok képesek a tömörítési szintek beállítására az érzékelő méretétől vagy a kép dimenzióitól függően.
+
+
+
+* **Automatizált Formátumkonverzió**  
+
+&nbsp; Konvertálja a DNG-t TIFF, JPEG vagy WebP formátumba, miközben automatikusan alkalmazza a tömörítést.
+
+
+
+* **Integráció a DAM Rendszerekkel**  
+
+&nbsp; Tömörítse a DNG képeket feltöltéskor az optimalizált tárolás és gyorsabb feldolgozás érdekében.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

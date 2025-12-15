@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX，现代的PowerPoint格式，通常包含高分辨率图像、图表和动画。压缩可减小文件大小，同时保持视觉保真度。
+
+
+
+基于Python的自动化实现可实现可扩展的PPTX压缩，增强与云平台或演示文稿管理系统的协作和集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **存储优化**  
+
+&nbsp; 在不丢失幻灯片内容、动画或媒体的情况下压缩PPTX文件。
+
+
+
+* **更快的分享**  
+
+&nbsp; 更小的PPTX文件可实现快速通过电子邮件或云进行分发。
+
+
+
+* **高效的存档**  
+
+&nbsp; 自动压缩支持大型演示文稿的长期存储。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量PPTX压缩**  
+
+&nbsp; Python脚本可以一次压缩多个现代演示文稿。
+
+
+
+* **与协作工具集成**  
+
+&nbsp; 压缩的PPTX文件可以动态加载到自动化工作流中。
+
+
+
+* **智能压缩规则**  
+
+&nbsp; 有条件的自动化针对嵌入高分辨率媒体的文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

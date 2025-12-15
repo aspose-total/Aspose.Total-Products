@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ההערה ב־DOCM מאפשרת להוסיף הערות, הדגשות ומטא-נתונים למסמכי Word המאפשרים מאקרוים, תומכת בתהליכי עבודה שדורשים סקריפטים דינמיים או אוטומציה מוטמעת. זה עוזר למשתמשים לתיעוד לוגי, לעקוב אחר שינויים ולשמור על בהירות סביב התנהגות המאקרו.
+
+על ידי הערת קבצי DOCM באופן תכנותי, מערכות אוטומציה יכולות לעקוב אחר שימוש במאקרו, לשפר עקביות בתיעוד ולזרוז את תהליכי האימות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **תיעוד מאקרו**  
+
+  תייג ותאר פעולות המופעלות על ידי מאקרו במסמך.
+
+* **מעקב אחר תקינות**  
+
+  הוסף הערות המאשרות סקריפטים נדרשים או אימותים.
+
+* **רישום שינויים**  
+
+  הדגש עדכונים הקשורים למאקרו לצורך גישות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **סריקת מאקרו והערה**  
+
+  הכנס הערות באופן אוטומטי המתארות פונקציות מאקרו שזוהו.
+
+* **דוחות תקינות דינמיים**  
+
+  מלא הערות כאשר מאקרו עומדים בבדיקות מסוימות או נכשלים.
+
+* **כלים לסקירה מבוססי סקריפט**  
+
+  השתמש ב־Python כדי ליישם הערה מובנית בקנה מידה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

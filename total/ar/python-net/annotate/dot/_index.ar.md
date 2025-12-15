@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تتضمن تعليقات DOT إضافة ملاحظات منظمة وتعليقات إلى ملفات قوالب Word، مما يساعد الفرق على توحيد إنشاء المستندات مع الحفاظ على تعليمات واضحة. يعزز هذا استخدام القوالب ويضمن التنسيق المتسق عبر المستندات التي تم إنشاؤها.
+
+تبسيط تعليقات DOT التلقائية يسهل صيانة القوالب، مما يتيح للأنظمة تطبيق التحديثات أو الإرشادات بشكل ديناميكي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تعليمات القالب**  
+
+&nbsp; إضافة ملاحظات توجيهية للمستخدمين حول كيفية ملء الأقسام.
+
+* **معايير التنسيق**  
+
+&nbsp; تسليط الضوء على الهيكل المطلوب أو قواعد الأسلوب.
+
+* **تتبع التنقيح**  
+
+&nbsp; وضع علامات على التغييرات في إرشادات القالب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **تحديثات القوالب الجماعية**  
+
+&nbsp; إدراج تعليمات جديدة برمجيًا.
+
+* **نصوص التوحيد**  
+
+&nbsp; تلقائيًا تعليق الأقسام المفقودة أو غير الصحيحة.
+
+* **فحوصات الامتثال بالإرشادات**  
+
+&nbsp; تسليط الضوء على الانحرافات عن سياسات القالب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

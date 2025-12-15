@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBIの圧縮により、Kindle互換のeBookファイルのストレージ容量が削減され、ダウンロード速度が向上します。圧縮されたMOBIファイルは、eReaderのパフォーマンス向上のためにコンテンツ構造と読みやすさを維持します。
+
+
+
+PythonのAPIを使用すると、スケーラブルなeBook管理と配信ワークフローのために、自動化されたMOBIの圧縮、バッチ処理、およびメタデータの最適化が可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **Kindle eBookの配布**  
+
+  小さなMOBIファイルにより、高速なダウンロードとシームレスな読書体験が可能です。
+
+
+
+* **デジタルライブラリの最適化**  
+
+  圧縮されたMOBIは大きなeBookコレクションのストレージを削減します。
+
+
+
+* **コンテンツの共有とアーカイブ**  
+
+  効率的なファイルはデジタル出版物の配布とバックアップを簡素化します。
+
+
+
+* **デバイスの互換性**  
+
+  最適化されたMOBIはKindleデバイスやアプリでのスムーズなレンダリングを保証します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチMOBIの圧縮**  
+
+  複数のKindle eBookを同時に最適化する自動化を実現します。
+
+
+
+* **メタデータと画像の最適化**  
+
+  冗長なメタデータを削除し、埋め込まれた画像を自動的に圧縮します。
+
+
+
+* **ワークフローの統合**  
+
+  eBookのプラットフォームやライブラリへの取り込み時にMOBIファイルを圧縮します。
+
+
+
+* **ダイナミックな圧縮レベル**  
+
+  コンテンツタイプやデバイス要件に基づいてファイルサイズと品質を調整します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +225,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

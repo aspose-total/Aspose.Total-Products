@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сравнение HTML выявляет различия в разметке, блоках контента, тегах, стилях и встроенной форматировке веб- или экспортированных файлов документов. Оно обеспечивает точность в отображении и представлении контента.
+
+
+
+Автоматизированное сравнение HTML поддерживает масштабируемый контроль качества для веб-контента, порталов документации и экспортированных HTML-файлов, созданных системой.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Отслеживание изменений в веб-контенте**  
+
+&nbsp; Выделяет обновления в тексте и элементах макета.
+
+
+
+* **Проверка согласованности экспортированных документов**  
+
+&nbsp; Гарантирует соответствие HTML-экспорта ожидаемой структуре.
+
+
+
+* **Обновления технической документации**  
+
+&nbsp; Обнаруживает изменения в блоках кода или информационных разделах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Обнаружение изменений в разметке**  
+
+&nbsp; Автоматически определяет модификации на уровне тегов.
+
+
+
+* **Массовое сравнение HTML**  
+
+&nbsp; Проверяет большие коллекции HTML-выходов.
+
+
+
+* **Автоматизированные процессы публикации**  
+
+&nbsp; Интегрирует проверки в непрерывные системы доставки контента.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

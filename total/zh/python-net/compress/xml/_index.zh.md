@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML压缩通过消除冗余空格、换行符，并可选择应用专门编码来减小文件大小。这种优化提高了数据密集型工作流程中的传输速度、存储效率和处理性能。
+
+
+
+Python API可实现自动化XML压缩、验证和批处理，以便处理配置文件、数据源和结构化文档，实现可扩展性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **数据传输优化**  
+
+  &nbsp; 更小的XML文件在网络和API之间传输更快。
+
+
+
+* **配置管理**  
+
+  &nbsp; 压缩的XML减少了系统配置和模板的存储空间。
+
+
+
+* **结构化数据的存档**  
+
+  &nbsp; 高效存储大型XML数据集，用于历史记录或备份目的。
+
+
+
+* **与应用程序集成**  
+
+  &nbsp; 压缩的XML文件提高了解析和处理速度。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量XML压缩**  
+
+  &nbsp; 自动优化多个XML文件。
+
+
+
+* **空格和冗余删除**  
+
+  &nbsp; 在保留结构和数据的同时自动清理XML。
+
+
+
+* **管道集成**  
+
+  &nbsp; 在将XML传输到API、CMS或数据库系统时进行压缩。
+
+
+
+* **格式转换 + 压缩**  
+
+  &nbsp; 将XML转换为JSON或其他格式，并自动减小文件大小。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

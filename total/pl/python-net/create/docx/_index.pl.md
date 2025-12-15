@@ -43,9 +43,79 @@ Dla programisty, który próbuje tworzyć pliki DOCX za pomocą aplikacji Python
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX — `.docx` (OOXML) to nowoczesny standard dokumentów programu Word i doskonale nadaje się do automatyzacji opartej na Pythonie. Biblioteki umożliwiają tworzenie i modyfikowanie akapitów, tabel, obrazów, stylów oraz niestandardowych części XML, zachowując strukturę i metadane OOXML.
+
+
+
+DOCX jest idealny do tworzenia raportów opartych na szablonach, dynamicznych dokumentów oraz integracji z usługami internetowymi ze względu na swój otwarty format i silne wsparcie bibliotek. Automatyzacja umożliwia niezawodne generowanie dostępnych, stylizowanych dokumentów, które można zweryfikować i wersjonować.
+
+Przepływy programistyczne ułatwiają składanie złożonych dokumentów (zagnieżdżone tabele, odwołania, spisy treści) z ustrukturyzowanych danych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe Zastosowania" %}}
+
+
+
+* **Generowanie Raportów na Podstawie Szablonów**
+
+&nbsp; Wypełnij szablony DOCX dynamicznymi tabelami, wykresami i sekcjami warunkowymi.
+
+
+
+* **Automatyczna Kompozycja Dokumentów**
+
+&nbsp; Połącz sekcje (wprowadzenie, treść, załączniki) z modułowych źródeł treści w pojedynczy plik DOCX.
+
+
+
+* **Dokumenty z Bogatymi Metadanymi**
+
+&nbsp; Osadź właściwości dokumentu, niestandardowy XML i metadane wersji dla zarządzania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Potoki Bazy Danych-do-Dokumentu**
+
+&nbsp; Generuj zindywidualizowane dokumenty DOCX dla każdego rekordu bazy danych w automatycznym zadaniu.
+
+
+
+* **Tworzenie Dokumentów Wywoływanych przez Webhooki**
+
+&nbsp; Twórz dokumenty DOCX na żądanie za pomocą interfejsów API HTTP wywoływanych przez zewnętrzne zdarzenia.
+
+
+
+* **Automatyczne Kontrole Dostępności**
+
+&nbsp; Uruchamiaj skrypty walidacyjne, które weryfikują strukturę nagłówków i teksty zastępcze dla obrazów podczas generowania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

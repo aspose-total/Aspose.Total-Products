@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+일반 이미지 압축은 시각적 품질을 유지하면서 래스터 기반 이미지 파일을 최적화하여 파일 크기를 줄이는 것을 의미합니다. 이 접근 방식은 저장 효율성, 빠른 전송 및 디지털 플랫폼, 응용 프로그램 및 콘텐츠 파이프라인 전반에서 부드러운 렌더링을 위해 중요합니다.
+
+
+
+Python API를 사용하면 자동화된 이미지 압축, 일괄 처리 및 형식 변환을 지원하여 미디어 관리, 웹 전달 및 클라우드 기반 저장소에 대한 확장 가능한 워크플로우를 구축할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **웹 및 앱 성능**  
+
+  압축된 이미지는 빠르게 로드되어 대역폭 사용량을 줄이고 사용자 경험을 향상시킵니다.
+
+
+
+* **디지털 자산 관리**  
+
+  최적화된 이미지는 대형 라이브러리에서 쉽게 저장, 정리 및 검색할 수 있습니다.
+
+
+
+* **콘텐츠 게시**  
+
+  온라인 플랫폼을 위해 파일 크기를 최소화하면서 이미지 품질을 유지합니다.
+
+
+
+* **아카이브 및 백업**  
+
+  래스터 이미지의 대규모 컬렉션에 대한 저장 요구 사항을 줄입니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 이미지 압축**  
+
+  Python 스크립트를 사용하여 수백 개의 일반 이미지 파일을 자동으로 최적화할 수 있습니다.
+
+
+
+* **동적 형식 선택**  
+
+  자동화를 통해 이미지를 최적의 형식인 JPG로 변환하면서 압축할 수 있습니다.
+
+
+
+* **워크플로우 통합**  
+
+  CMS, DAM 또는 클라우드 플랫폼에 업로드할 때 이미지를 자동으로 압축할 수 있습니다.
+
+
+
+* **해상도 기반 압축**  
+
+  이미지 해상도, 크기 또는 사용에 따라 동적으로 압축 수준을 조정할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

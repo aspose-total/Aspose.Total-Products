@@ -100,7 +100,75 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Les fichiers DOTM sont des modèles activés par macro. La compression réduit le stockage tout en préservant la fonctionnalité des macros, permettant un déploiement efficace des modèles.
+
+
+
+Les API Python prennent en charge la compression automatisée des fichiers DOTM pour maintenir l'intégrité dans les environnements d'entreprise et collaboratifs.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Préservation des modèles de macro**  
+
+&nbsp; Compresser en toute sécurité les fichiers DOTM sans casser les macros.
+
+
+
+* **Distribution plus rapide des modèles**  
+
+&nbsp; Les fichiers plus petits sont plus faciles à partager entre les équipes et les systèmes.
+
+
+
+* **Archivage des modèles**  
+
+&nbsp; La compression automatisée garantit une efficacité de stockage à long terme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Compression en lot des fichiers DOTM**  
+
+&nbsp; Les scripts Python peuvent traiter automatiquement plusieurs modèles activés par macro.
+
+
+
+* **Intégration dans le flux de travail**  
+
+&nbsp; Les modèles compressés peuvent être utilisés dans des systèmes automatisés de génération de documents.
+
+
+
+* **Compression conditionnelle**  
+
+&nbsp; Automatiser en fonction de la taille, du contenu ou de la complexité des macros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

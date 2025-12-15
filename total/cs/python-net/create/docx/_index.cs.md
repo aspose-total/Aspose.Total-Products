@@ -43,9 +43,79 @@ Pro vývojáře, který se snaží vytvářet soubory DOCX prostřednictvím apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX — `.docx` (OOXML) je moderním standardem pro dokumenty Word a je velmi přizpůsobivý automatizaci založené na Pythonu. Knihovny umožňují vytváření a úpravu odstavců, tabulek, obrázků, stylů a vlastních částí XML při zachování struktury a metadat formátu OOXML.
+
+
+
+DOCX je ideální pro šablonové zprávy, dynamické dokumenty a integraci s webovými službami díky svému otevřenému formátu a silné podpoře knihoven. Automatizace umožňuje spolehlivou generaci přístupných, stylových dokumentů, které lze ověřovat a verzovat.
+
+Programové pracovní postupy usnadňují sestavování složitých dokumentů (vnitřní tabulky, odkazy, obsahy) ze strukturovaných vstupů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Generování šablonových zpráv**
+
+&nbsp; Vyplňte šablonové soubory DOCX dynamickými tabulkami, grafy a podmíněnými částmi.
+
+
+
+* **Automatizovaná tvorba dokumentů**
+
+&nbsp; Sestavte sekce (úvod, hlavní část, přílohy) z modulárních zdrojů obsahu do jednoho souboru DOCX.
+
+
+
+* **Doručitelské soubory s metadaty**
+
+&nbsp; Vložte vlastnosti dokumentu, vlastní XML a metadatové údaje o revizi pro správu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Převod databáze na dokumentové potrubí**
+
+&nbsp; Generujte individualizované dokumenty DOCX pro každý záznam v databázi v rámci automatizované úlohy.
+
+
+
+* **Vytváření dokumentů spouštěných webhookem**
+
+&nbsp; Vytvářejte dokumenty DOCX na vyžádání prostřednictvím HTTP API spouštěných externími událostmi.
+
+
+
+* **Automatizované ověřování přístupnosti**
+
+&nbsp; Spusťte ověřovací skripty, které ověřují strukturu nadpisů a alternativní texty pro obrázky během generování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

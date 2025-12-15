@@ -75,7 +75,65 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Anotacja DOT polega na dodawaniu strukturalnych notatek i komentarzy do plików szablonów programu Word, co pomaga zespołom standaryzować tworzenie dokumentów, zachowując jednocześnie jasne instrukcje. To zwiększa użyteczność szablonu i zapewnia spójne formatowanie w generowanych dokumentach.
+
+Zautomatyzowana anotacja DOT upraszcza konserwację szablonu, umożliwiając systemom dynamiczne stosowanie aktualizacji lub wskazówek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Instrukcje dotyczące szablonu**  
+
+&nbsp; Dodaj notatki kierujące użytkowników, jak wypełnić sekcje.
+
+* **Standardy formatowania**  
+
+&nbsp; Podkreśl wymagane struktury lub reguły stylu.
+
+* **Śledzenie zmian**  
+
+&nbsp; Zaznacz zmiany w wytycznych szablonu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Aktualizacje zbiorcze szablonów**  
+
+&nbsp; Wstaw nowe instrukcje programowo.
+
+* **Skrypty standaryzacyjne**  
+
+&nbsp; Automatycznie anotuj brakujące lub niepoprawne sekcje.
+
+* **Sprawdzanie zgodności z wytycznymi**  
+
+&nbsp; Podkreśl odstępstwa od polityk szablonu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

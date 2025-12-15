@@ -43,9 +43,77 @@ informat: DOTM
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM — `.dotm` templates kết hợp việc tạo mẫu với hỗ trợ macro, cho phép tạo các mẫu có thể tái sử dụng với macro để tự động hóa hành vi tài liệu. Việc tạo tệp DOTM dựa trên Python cho phép phân phối các mẫu bao gồm automation VBA được phê duyệt trong khi kiểm soát nội dung macro theo cách lập trình.
+
+Định dạng này phù hợp với các tổ chức cần các mẫu có thể lặp lại, được tăng cường bằng macro cho các nhiệm vụ tự động hóa cục bộ đồng thời đảm bảo rằng các macro được quản lý, xác nhận và có thể được ký trong quá trình xây dựng mẫu.
+
+Tự động hóa cho phép quản lý vòng đời an toàn của macro - tạo, phân tích, ký và triển khai - trong các đường ống CI/CD.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Thư Viện Mẫu Có Macro**
+
+  Cung cấp các mẫu DOTM bao gồm tự động hóa có thể lặp lại cho người dùng cục bộ.
+
+
+
+* **Tự Động Hóa Mẫu Được Kiểm Soát**
+
+  Đảm bảo các mẫu chỉ bao gồm các macro đã được kiểm chứng cho các luồng công việc nội bộ.
+
+
+
+* **Tạo Tài Liệu Dựa Trên Mẫu**
+
+  Sử dụng DOTM làm nguồn để tạo các trường hợp DOCM/DOCX với hành vi được nhúng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Đường Ống CI cho QA Mẫu**
+
+  Tự động xác thực hành vi VBA và tính toàn vẹn của mẫu trước khi phân phối.
+
+
+
+* **Triển Khai An Toàn Các Mẫu**
+
+  Nhúng chữ ký số và đẩy tệp DOTM đến người dùng thông qua các kênh quản lý.
+
+
+
+* **Tiêm Macro Động**
+
+  Cập nhật các mô-đun macro bên trong các mẫu DOTM từ các cửa hàng an toàn theo cách lập trình.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+CDR压缩专注于优化CorelDRAW矢量图形，以减小文件大小同时保留形状、图层、文本和设计结构。由于CDR文件可能包含复杂的矢量对象和嵌入式媒体，压缩对于改善项目处理、存储效率和设计工作流性能至关重要。
+
+
+
+Python API可促进CDR文件的自动压缩、优化和转换，实现图形资产在生产、印刷和数字内容环境中的可扩展管理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **图形设计资产优化**  
+
+&nbsp; 压缩复杂的矢量设计，以简化项目存储和共享。
+
+
+
+* **印刷生产工作流**  
+
+&nbsp; 更小的CDR文件可提高印前和印刷处理阶段的性能。
+
+
+
+* **版本化文件存储库**  
+
+&nbsp; 压缩使大型设计存档变得轻便且更易管理。
+
+
+
+* **跨平台交付**  
+
+&nbsp; 减小文件大小可提升设计团队、工具和客户之间的传输速度。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量CDR压缩**  
+
+&nbsp; 批量优化数百个CorelDRAW文件。
+
+
+
+* **CDR转优化格式转换**  
+
+&nbsp; 将CDR转换为SVG、PDF或PNG，并应用压缩规则。
+
+
+
+* **设计流水线集成**  
+
+&nbsp; 在上传到CMS、DAM或工作流系统时自动压缩资产。
+
+
+
+* **自适应压缩规则**  
+
+&nbsp; 根据文件复杂性或嵌入式媒体自动调整压缩级别。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

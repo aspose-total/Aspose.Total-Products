@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Аннотация PPSM предоставляет структурированные заметки для файлов слайд-шоу с макросами, помогая документировать поведение сценария и улучшая ясность во время проверки. Это облегчает понимание автоматических переходов или динамических взаимодействий слайдов.
+
+Автоматическая аннотация улучшает аудит путем сканирования макросов, идентификации логических шаблонов и вставки описательных заметок.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Документация поведения макросов**  
+
+  Добавьте заметки, описывающие автоматические действия слайдов.
+
+* **Комментарии к проверке**  
+
+  Предложите рекомендации по содержанию или макету.
+
+* **Видимость логики**  
+
+  Выделите области, на которые влияют триггеры макросов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Анализатор макросов**  
+
+  Автоматически сканируйте и комментируйте обнаруженные сценарии.
+
+* **Заметки на основе шаблона**  
+
+  Вставьте предопределенные аннотации в различные файлы.
+
+* **Автоматические теги QA**  
+
+  Отмечайте рискованные или устаревшие логики макросов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

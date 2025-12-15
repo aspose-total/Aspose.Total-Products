@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие CMX уменьшает размер векторной графики Corel Presentation Exchange, которая часто включает подробные иллюстрации, слои и цветовые профили. Оптимизация файлов CMX помогает улучшить производительность в рабочих процессах дизайна, ускоряет обмен и снижает требования к хранению в творческих и технических средах.
+
+
+
+API Python позволяют автоматизировать сжатие и преобразование файлов CMX, обеспечивая эффективную обработку больших векторных ресурсов в масштабе для публикации, печати и систем управления графикой.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация дизайн-проектов**  
+
+  &nbsp; Сжимает слоистую графику CMX для упрощения обработки файлов и снижения влияния на хранение.
+
+
+
+* **Публикация и печать**  
+
+  &nbsp; Меньшие файлы CMX ускоряют процессы визуализации, редактирования и передачи.
+
+
+
+* **Управление библиотекой ресурсов**  
+
+  &nbsp; Оптимизированные коллекции CMX загружаются быстрее в цифровые репозитории ресурсов.
+
+
+
+* **Обмен между платформами**  
+
+  &nbsp; Сжатые файлы CMX передаются более эффективно между дизайнерскими командами или приложениями.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Массовое сжатие CMX**  
+
+  &nbsp; Автоматическая оптимизация больших наборов графики CMX с помощью рабочих процессов Python.
+
+
+
+* **Преобразование CMX в сжатый формат**  
+
+  &nbsp; Преобразование CMX в SVG, PDF, PNG или EPS с применением правил сжатия.
+
+
+
+* **Оптимизация автоматической загрузки**  
+
+  &nbsp; Файлы CMX могут быть сжаты мгновенно при поступлении в системы DMS или DAM.
+
+
+
+* **Сжатие с учетом содержимого**  
+
+  &nbsp; Регулирует интенсивность оптимизации в зависимости от сложности вектора или встроенных компонентов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WMF sıkıştırması, Windows Metafile vektör grafiklerini optimize etmeye odaklanarak dosya boyutunu azaltmayı ve şekilleri, metni ve gömülü görüntüleri korurken sağlamayı hedefler. Bu, verimli depolama, daha hızlı işleme ve belgelerde, sunumda ve tasarım iş akışlarında daha sorunsuz entegrasyonu garanti eder.
+
+
+
+Python API'leri, otomatik WMF sıkıştırmasını, toplu işleme ve modern formatlara dönüştürmeyi destekleyerek, vektör varlıkların kurumsal ve yaratıcı sistemlerde ölçeklenebilir yönetimini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Vektör Grafik Optimizasyonu**  
+
+&nbsp; Şekillerde, metinde veya gömülü görüntülerde hassasiyet kaybetmeden WMF dosyalarını sıkıştırın.
+
+
+
+* **Daha Hızlı Belge İşleme**  
+
+&nbsp; Daha küçük WMF dosyaları, Word, PowerPoint ve Excel gibi uygulamalarda performansı artırır.
+
+
+
+* **Varlık Kütüphanesi Yönetimi**  
+
+&nbsp; Optimize edilmiş WMF koleksiyonları depolamayı, yönetmeyi ve geri almayı kolaylaştırır.
+
+
+
+* **Çapraz Platform Dağıtımı**  
+
+&nbsp; Sıkıştırılmış WMF dosyaları Windows sistemleri ve bulut platformları arasında verimli bir şekilde transfer eder.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu WMF Sıkıştırması**  
+
+&nbsp; Python betikleri kullanarak büyük WMF dosya setlerinin otomatik olarak optimize edilmesini sağlayın.
+
+
+
+* **WMF'den Optimize Edilmiş Formata Dönüştürme**  
+
+&nbsp; WMF dosyalarını SVG, PDF veya PNG'ye dönüştürürken sıkıştırmayı otomatik olarak uygulayın.
+
+
+
+* **İş Akışı Entegrasyonu**  
+
+&nbsp; WMF dosyalarını yüklerken veya işleme borularında dinamik olarak sıkıştırın.
+
+
+
+* **İçerik Farkındalıklı Sıkıştırma**  
+
+&nbsp; Gömülü görüntüler, katmanlar veya vektör karmaşıklığına dayalı olarak sıkıştırmayı ayarlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

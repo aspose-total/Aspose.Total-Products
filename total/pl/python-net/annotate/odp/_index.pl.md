@@ -75,7 +75,65 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Anotacja ODP ulepsza pliki prezentacji w formacie otwartym poprzez dodawanie notatek, wyróżnień i metadanych strukturalnych, wspierając klarowną komunikację i poprawiając organizację slajdów. Zapewnia, że prezentacje są łatwiejsze do interpretacji, edycji i ponownego wykorzystania na różnych platformach.
+
+Automatyzacja anotacji ODP pozwala systemom stosować standaryzowane komentarze, walidować strukturę slajdów i usprawniać procesy recenzji prezentacji na dużą skalę.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Notatki z recenzji slajdów**  
+
+&nbsp; Dodawanie komentarzy wyjaśniających dostosowania lub wymagane zmiany.
+
+* **Wyróżnianie treści**  
+
+&nbsp; Oznaczanie kluczowych punktów danych lub problemów z projektem.
+
+* **Tagowanie metadanych**  
+
+&nbsp; Wstawianie szczegółów klasyfikacyjnych dla lepszego indeksowania.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Anotacja zbiorcza slajdów**  
+
+&nbsp; Automatyczne wstawianie notatek do wielu plików ODP.
+
+* **Sprawdzanie zgodności z szablonem**  
+
+&nbsp; Wyróżnianie slajdów, które odbiegają od reguł układu.
+
+* **Oznaczanie na podstawie słów kluczowych**  
+
+&nbsp; Wykrywanie i anotowanie ważnych terminów programowo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Imaging for Python via
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén PNG tập trung vào việc tối ưu hóa hình ảnh raster không mất dữ liệu trong khi bảo tồn tính trong suốt, sắc nét và trung thực màu sắc. Điều này quan trọng đối với đồ họa web, thiết kế giao diện người dùng và hình ảnh chất lượng cao nơi sự rõ ràng và chính xác là quan trọng.
+
+
+
+API Python cho phép nén PNG tự động, xử lý hàng loạt và chuyển đổi, giúp quản lý dễ dàng các kho ảnh lớn và tích hợp chúng vào đường ống web, ứng dụng và nội dung một cách hiệu quả.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Đồ Họa Web và Ứng Dụng**  
+
+&nbsp; PNG nén giúp cải thiện tốc độ tải trang trong khi duy trì hình ảnh chất lượng cao.
+
+
+
+* **Quản Lý Tài Nguyên Giao Diện Người Dùng**  
+
+&nbsp; Các tệp PNG nhỏ giảm dung lượng lưu trữ và đảm bảo việc hiển thị nhanh chóng cho giao diện.
+
+
+
+* **Xuất Bản Số**  
+
+&nbsp; Duy trì sự rõ ràng trong biểu đồ, sơ đồ và minh họa cho sách điện tử và tài liệu.
+
+
+
+* **Hiệu Quả Lưu Trữ Trên Đám Mây và Lưu Trữ Lâu Dài**  
+
+&nbsp; Giảm kích thước tệp mà không mất chất lượng hình ảnh, hỗ trợ lưu trữ quy mô lớn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén PNG Hàng Loạt**  
+
+&nbsp; Kịch bản Python có thể tối ưu hóa nhiều tệp PNG trong một quy trình tự động.
+
+
+
+* **Tối Ưu Hóa Bảo Tồn Tính Trong Suốt**  
+
+&nbsp; Đảm bảo các kênh alpha vẫn nguyên vẹn trong quá trình nén hình ảnh.
+
+
+
+* **Tích Hợp Luồng Làm Việc**  
+
+&nbsp; Tự động nén PNG khi tải lên hệ thống CMS, DAM hoặc đám mây.
+
+
+
+* **Điều Chỉnh Độ Phân Giải Động**  
+
+&nbsp; Nén có thể thích nghi dựa trên kích thước hình ảnh hoặc ngữ cảnh sử dụng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

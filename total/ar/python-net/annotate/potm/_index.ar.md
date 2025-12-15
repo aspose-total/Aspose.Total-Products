@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحسين تعليق POTM يعزز قوالب العروض التقديمية الممكّنة بالماكرو عن طريق إضافة ملاحظات توضح منطق الشرائح، وتعليمات التخطيط، وسلوك الماكرو. يعزز هذا استخدام القالب ويضمن تكرار توليد العروض بشكل متسق.
+
+تجعل تحسين تعليق POTM تتبع استخدام الماكرو أسهل، وتفرض سياسات التخطيط، وتحدث التوجيه بشكل برمجي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **ملاحظات منطق الماكرو**  
+
+&nbsp; وصف وظائف الشرائح التلقائية.
+
+* **توجيه القالب**  
+
+&nbsp; توفير تعليمات لمحتوى الشرائح.
+
+* **علامات توحيد التصميم**  
+
+&nbsp; تسليط الضوء على عناصر التخطيط المطلوبة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **فحص الماكرو والتعليق**  
+
+&nbsp; توثيق النصوص المكتشفة تلقائيًا.
+
+* **صيانة القوالب بالجملة**  
+
+&nbsp; تطبيق نصوص التوجيه المحدثة تلقائيًا.
+
+* **التحقق التلقائي من التخطيط**  
+
+&nbsp; وضع علامات على الشرائح غير المتوافقة بشكل برمجي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

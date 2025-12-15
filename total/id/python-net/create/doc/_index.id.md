@@ -43,9 +43,79 @@ Untuk pengembang, siapa yang mencoba membuat file DOC melalui aplikasi Python? [
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOC — Membuat file `.doc` (Word biner warisan) melalui API Python memungkinkan otomatisasi untuk sistem-sistem lama dan menjaga kompatibilitas dengan alat-alat warisan. Pendekatan Python yang umum bergantung pada pustaka yang dapat merangkai struktur biner atau menggunakan otomatisasi COM di Windows untuk mengekspor atau menyimpan dokumen biner klasik dari konten programatis.
+
+
+
+Skrip DOC berguna ketika diperlukan kompatibilitas mundur; dokumen yang dihasilkan dapat mencakup teks terstruktur, gaya dasar, header/footer, dan objek tersemat jika didukung.
+
+Otomatisasi memungkinkan pipa konversi yang menerima sumber-sumber modern (markdown, HTML, DOCX) dan menghasilkan `.doc` untuk penyimpanan arsip atau integrasi dengan aplikasi warisan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Integrasi Sistem Warisan**
+
+  &nbsp; Menghasilkan file .doc untuk perangkat lunak perusahaan lama yang memerlukan format biner.
+
+
+
+* **Ekspor Arsip**
+
+  &nbsp; Mengonversi dokumen modern ke .doc untuk penyimpanan jangka panjang saat diperlukan oleh kebijakan warisan.
+
+
+
+* **Interoperabilitas dengan Alat-Alat Lama**
+
+  &nbsp; Membuat output .doc untuk memastikan kompatibilitas dengan sistem mail-merge atau pencetakan lama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Konversi Format Otomatis**
+
+  &nbsp; Batch-konversi DOCX ke DOC dalam pekerjaan terjadwal untuk pengujian kompatibilitas.
+
+
+
+* **Ekspor Terkait Skrip dari Templat**
+
+  &nbsp; Gunakan generasi berbasis templat yang menyimpan dokumen akhir sebagai .doc untuk proses downstream.
+
+
+
+* **Integrasi dengan Pipa ETL**
+
+  &nbsp; Gabungkan generasi DOC ke dalam pekerjaan ETL yang menyiapkan dokumen untuk konsumen warisan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

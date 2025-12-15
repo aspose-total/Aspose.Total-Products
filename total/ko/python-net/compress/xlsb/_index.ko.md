@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLSB 파일(이진 Excel 워크북)은 파일 크기를 줄이고 빠른 로드 시간과 복잡한 계산을 보존하는 압축의 이점을 누립니다.
+
+
+
+Python API를 사용하여 자동화된 XLSB 압축을 구현하여 대규모 스프레드시트 관리 및 기업 워크플로우 통합을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **이진 워크북 최적화**  
+
+&nbsp; 성능이나 계산에 영향을 미치지 않고 XLSB 파일을 압축합니다.
+
+
+
+* **빠른 파일 전송**  
+
+&nbsp; 작은 XLSB 파일을 통해 이메일이나 클라우드를 통한 신속한 공유가 가능합니다.
+
+
+
+* **효율적인 아카이빙**  
+
+&nbsp; 자동화된 압축은 이진 워크북의 장기 저장을 지원합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 XLSB 압축**  
+
+&nbsp; Python 스크립트를 사용하여 여러 XLSB 파일을 자동으로 압축할 수 있습니다.
+
+
+
+* **분석 및 BI 도구와의 통합**  
+
+&nbsp; 압축된 XLSB 파일은 자동화된 워크플로우에서 원활하게 처리될 수 있습니다.
+
+
+
+* **선택적 압축**  
+
+&nbsp; 자동화를 통해 큰 파일이나 미디어가 많은 XLSB 파일만 압축할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

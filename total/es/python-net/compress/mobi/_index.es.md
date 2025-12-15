@@ -78,7 +78,87 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compresión MOBI optimiza archivos de libros electrónicos compatibles con Kindle, reduciendo el espacio de almacenamiento y mejorando las velocidades de descarga. Los archivos MOBI comprimidos mantienen la estructura del contenido y la legibilidad para mejorar el rendimiento del lector electrónico.
+
+
+
+Las API de Python permiten la compresión automatizada de MOBI, el procesamiento por lotes y la optimización de metadatos para flujos de trabajo escalables de gestión y entrega de libros electrónicos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Distribución de libros electrónicos para Kindle**  
+
+  &nbsp; Los archivos MOBI más pequeños permiten descargas más rápidas y una experiencia de lectura sin interrupciones.
+
+
+
+* **Optimización de bibliotecas digitales**  
+
+  &nbsp; MOBI comprimido reduce el almacenamiento para colecciones de libros electrónicos grandes.
+
+
+
+* **Compartir contenido y archivar**  
+
+  &nbsp; Los archivos eficientes simplifican la distribución y copia de seguridad de publicaciones digitales.
+
+
+
+* **Compatibilidad con dispositivos**  
+
+  &nbsp; MOBI optimizado garantiza una representación fluida en dispositivos Kindle y aplicaciones.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Compresión de MOBI por lotes**  
+
+  &nbsp; Automatiza la optimización para varios libros electrónicos de Kindle simultáneamente.
+
+
+
+* **Optimización de metadatos e imágenes**  
+
+  &nbsp; Elimina metadatos redundantes y comprime imágenes incrustadas automáticamente.
+
+
+
+* **Integración de flujos de trabajo**  
+
+  &nbsp; Comprime archivos MOBI durante la ingestión de libros electrónicos en plataformas o bibliotecas.
+
+
+
+* **Niveles de compresión dinámicos**  
+
+  &nbsp; Ajusta el tamaño del archivo y la calidad en función del tipo de contenido y los requisitos del dispositivo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +225,7 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

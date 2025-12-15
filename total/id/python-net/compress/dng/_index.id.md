@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi DNG berfokus pada mengoptimalkan file gambar mentah yang diambil oleh kamera digital sambil mempertahankan kualitas gambar maksimum. Karena file DNG seringkali berisi data sensor resolusi tinggi, kompresi mengurangi kebutuhan penyimpanan, mempercepat transfer file, dan meningkatkan efisiensi alur kerja dalam fotografi dan pipa citra.
+
+
+
+API Python memungkinkan kompresi DNG otomatis, pemrosesan batch, dan konversi ke format lain, memungkinkan manajemen yang dapat diskalakan dari perpustakaan foto besar dan sistem citra profesional.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Kunci" %}}
+
+
+
+* **Optimasi Arsip Fotografer**  
+
+&nbsp; Mengompresi file DNG mengurangi penyimpanan tanpa mengorbankan keaslian gambar mentah.
+
+
+
+* **Transfer Gambar Lebih Cepat**  
+
+&nbsp; File yang lebih kecil memungkinkan berbagi lebih cepat antara kamera, workstation, dan penyimpanan cloud.
+
+
+
+* **Manajemen Aset Digital**  
+
+&nbsp; Perpustakaan DNG yang dikompresi lebih mudah diorganisir, dicari, dan diambil.
+
+
+
+* **Alur Kerja Pascaproses**  
+
+&nbsp; Memungkinkan pengunggahan file mentah lebih cepat ke alat pengeditan gambar dan pipa yang ditingkatkan oleh kecerdasan buatan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi DNG Batch**  
+
+&nbsp; Otomatisasi optimasi beberapa file gambar mentah secara massal.
+
+
+
+* **Kompresi Dinamis Berdasarkan Resolusi**  
+
+&nbsp; Alur kerja Python dapat menyesuaikan tingkat kompresi tergantung pada ukuran sensor atau dimensi gambar.
+
+
+
+* **Konversi Format Otomatis**  
+
+&nbsp; Konversi DNG ke TIFF, JPEG, atau WebP sambil menerapkan kompresi secara otomatis.
+
+
+
+* **Integrasi dengan Sistem DAM**  
+
+&nbsp; Kompresi gambar DNG saat mengunggah untuk penyimpanan yang dioptimalkan dan pemrosesan yang lebih cepat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

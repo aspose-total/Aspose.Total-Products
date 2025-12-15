@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XML 압축은 중복 공백, 줄 바꿈을 제거하고 선택적으로 특수 인코딩을 적용함으로써 파일 크기를 줄입니다. 이 최적화는 데이터 집약적인 워크플로우에서 전송 속도, 저장 효율성 및 처리 성능을 향상시킵니다.
+
+
+
+Python API를 사용하면 구성 파일, 데이터 피드 및 구조화된 문서를 확장 가능하게 처리하기 위해 XML 압축, 유효성 검사 및 일괄 처리를 자동화할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **데이터 전송 최적화**  
+
+  &nbsp; 작은 XML 파일은 네트워크 및 API를 통해 빠르게 전송됩니다.
+
+
+
+* **구성 관리**  
+
+  &nbsp; 압축된 XML은 시스템 구성 및 템플릿의 저장 공간을 줄입니다.
+
+
+
+* **구조화된 데이터의 보관**  
+
+  &nbsp; 대용량 XML 데이터 세트를 효율적으로 저장하여 역사적 또는 백업 목적으로 사용합니다.
+
+
+
+* **응용 프로그램 통합**  
+
+  &nbsp; 압축된 XML 파일은 구문 분석 및 처리 속도를 향상시킵니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 XML 압축**  
+
+  &nbsp; 여러 XML 파일의 최적화를 자동화합니다.
+
+
+
+* **공백 및 중복 제거**  
+
+  &nbsp; 구조와 데이터를 보존하면서 XML을 자동으로 정리합니다.
+
+
+
+* **파이프라인 통합**  
+
+  &nbsp; API, CMS 또는 데이터베이스 시스템으로의 수집 중에 XML을 압축합니다.
+
+
+
+* **형식 변환 + 압축**  
+
+  &nbsp; XML을 JSON 또는 다른 형식으로 변환하여 크기를 자동으로 줄입니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

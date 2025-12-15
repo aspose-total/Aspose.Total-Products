@@ -78,7 +78,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/zip
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Os arquivos XLSB (pastas de trabalho do Excel binárias) se beneficiam da compressão para reduzir o tamanho do arquivo, preservando tempos de carregamento rápidos e cálculos complexos.
+
+
+
+As APIs do Python permitem a compressão automatizada de XLSB, suportando o gerenciamento de planilhas em grande escala e a integração com fluxos de trabalho empresariais.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Otimização de Pastas de Trabalho Binárias**  
+
+  Comprima arquivos XLSB sem afetar o desempenho ou cálculos.
+
+
+
+* **Transferências de Arquivos Mais Rápidas**  
+
+  Arquivos XLSB menores permitem compartilhamento rápido via e-mail ou nuvem.
+
+
+
+* **Arquivamento Eficiente**  
+
+  A compressão automatizada suporta o armazenamento de longo prazo de pastas de trabalho binárias.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de XLSB**  
+
+  Scripts em Python podem comprimir vários arquivos XLSB automaticamente.
+
+
+
+* **Integração com Ferramentas de Análise e BI**  
+
+  Arquivos XLSB comprimidos podem ser processados de forma transparente em fluxos de trabalho automatizados.
+
+
+
+* **Compressão Seletiva**  
+
+  A automação pode comprimir apenas arquivos XLSB grandes ou com muita mídia.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

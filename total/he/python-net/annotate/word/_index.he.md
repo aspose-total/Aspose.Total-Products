@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+הערות על מילים מתמקדות בהוספת הערות, הדגשות ומטא-נתונים בכל השוניות של מסמכי Word, תומכות בעריכה מובנית, שיתוף פעולה וזרימות סקירה. המסמכים שעליהם נעשו הערות שומרים על בהירות במהלך תיקונים ואישורים.
+
+האוטומציה מקסימלית את היעילות על ידי החלת הערות תקניות, סריקה לבעיות ועדכון של מסמכי Word מרובים דרך כללים שנמצאים בפייתון.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **סקירה ומשוב**
+
+  &nbsp; הוספת הערות להדרכת עריכות ושיפורים.
+
+* **הדגשת תוכן חיוני**
+
+  &nbsp; סימון מונחים חשובים או שגיאות.
+
+* **הערות מטא-נתונים במסמך**
+
+  &nbsp; הוספת רמזים לאינדקסציה או סיווג.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **צינורות הערה בגופן**
+
+  &nbsp; עיבוד מסמכי Word רבים באופן אוטומטי.
+
+* **הערות על בסיס כללים**
+
+  &nbsp; הוספת הערות המופעלות על ידי תבניות ספציפיות.
+
+* **בדיקות איכות אוטומטיות**
+
+  &nbsp; סימון חוסרי התאמה או חלקים חסרים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

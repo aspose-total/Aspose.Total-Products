@@ -78,7 +78,87 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compressione PCL (Printer Command Language) ottimizza i documenti pronti per la stampa riducendo le dimensioni pur mantenendo la fedeltà di stampa. I file PCL compressi migliorano l'efficienza di archiviazione, il trasferimento più veloce e le prestazioni nei flussi di stampa.
+
+
+
+Le API di Python consentono la compressione PCL automatizzata, l'elaborazione batch e la conversione per pipeline di stampa e gestione documentale scalabili.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Ottimizzazione dei lavori di stampa**  
+
+&nbsp; I file PCL più piccoli riducono i tempi di spooling e migliorano la velocità di stampa.
+
+
+
+* **Archiviazione e conservazione**  
+
+&nbsp; I file PCL compressi risparmiano spazio di archiviazione per archivi di lavori di stampa di grandi dimensioni.
+
+
+
+* **Distribuzione di documenti pronti per la stampa**  
+
+&nbsp; I file ottimizzati si trasmettono più velocemente attraverso reti o server di stampa.
+
+
+
+* **Efficienza del flusso di lavoro**  
+
+&nbsp; Migliora le prestazioni nei sistemi di stampa automatizzati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenario di automazione" %}}
+
+
+
+* **Compressione PCL batch**  
+
+&nbsp; Automatizza l'ottimizzazione di file di stampa multipli.
+
+
+
+* **Ottimizzazione di risorse incorporate**  
+
+&nbsp; Comprimi automaticamente caratteri, immagini e grafica all'interno dei file PCL.
+
+
+
+* **Integrazione con le pipeline di stampa**  
+
+&nbsp; Comprimi i file PCL dinamicamente prima della stampa o dell'archiviazione.
+
+
+
+* **Regole di compressione dinamiche**  
+
+&nbsp; Regola l'ottimizzazione in base alla complessità del documento o al tipo di contenuto.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

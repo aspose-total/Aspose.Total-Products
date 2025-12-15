@@ -43,9 +43,79 @@ Untuk pengembang, siapa yang mencoba membuat file DOT melalui aplikasi Python? [
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT — Berkas template `.dot` mendefinisikan gaya dan struktur yang dapat digunakan kembali untuk alur kerja Word lama; membuat template DOT melalui Python memungkinkan organisasi untuk mempertahankan format yang konsisten untuk mail-merge, formulir, dan dokumen standar yang dikonsumsi oleh klien-klien lama.
+
+
+
+Generasi DOT secara programatis memastikan template diperbarui secara sentral dan dapat didistribusikan secara otomatis kepada pengguna akhir atau layanan dokumen.
+
+Automasi mendukung penyegaran template yang terjadwal, penomoran versi, dan generasi dokumen konkret dari template.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Distribusi Template Warisan**
+
+  &nbsp; Hasilkan template DOT yang memastikan tata letak yang konsisten di seluruh alur kerja alat-alat lama.
+
+
+
+* **Template Formulir Standar**
+
+  &nbsp; Buat template formulir dengan placeholder untuk mail-merge manual atau otomatis.
+
+
+
+* **Penomoran Versi Template**
+
+  &nbsp; Otomatisasikan penomoran versi dan rilis template DOT ke repositori dokumen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Penyegaran Template Otomatis**
+
+  &nbsp; Gantikan atau perbaiki template DOT dari sumber pusat dan dorong pembaruan secara programatis.
+
+
+
+* **Penciptaan Batch Berbasis Template**
+
+  &nbsp; Gunakan template DOT untuk menciptakan banyak dokumen yang diisi melalui penggabungan otomatis.
+
+
+
+* **Jejak Audit untuk Template**
+
+  &nbsp; Tanamkan metadata dan catatan perubahan selama generasi template programatis untuk kepatuhan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -78,7 +78,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén MHTML tối ưu hóa các tệp lưu trữ web chứa HTML, hình ảnh, CSS và scripts. Các tệp MHTML được nén cải thiện việc lưu trữ, tốc độ truyền và khả năng truy cập ngoại tuyến của nội dung web.
+
+
+
+API Python cho phép nén MHTML tự động, xử lý hàng loạt và tích hợp với đường ống lưu trữ hoặc xuất bản để quản lý nội dung web có khả năng mở rộng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Lưu Trữ Trang Web Ngoại Tuyến**  
+
+&nbsp; Giảm kích thước lưu trữ cho các trang web đã lưu trữ.
+
+
+
+* **Chia Sẻ \& Phân Phối Hiệu Quả**  
+
+&nbsp; Các tệp MHTML nhỏ chuyển nhanh hơn trên mạng.
+
+
+
+* **Lưu Trữ Số**  
+
+&nbsp; Các tệp được nén giúp lưu trữ nội dung web lâu dài.
+
+
+
+* **Hệ Thống Quản Lý Nội Dung**  
+
+&nbsp; Các tệp MHTML được tối ưu hóa cải thiện hiệu suất làm việc trên các nền tảng CMS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén MHTML Hàng Loạt**  
+
+&nbsp; Tự động tối ưu hóa nhiều tệp lưu trữ web.
+
+
+
+* **Tối Ưu Hóa Tài Nguyên Nhúng**  
+
+&nbsp; Nén hình ảnh, scripts và styles trong lưu trữ một cách tự động.
+
+
+
+* **Tích Hợp Đường Ống**  
+
+&nbsp; Nén tệp MHTML khi nhập vào DAM, CMS hoặc hệ thống đám mây.
+
+
+
+* **Các Cấp Độ Nén Động**  
+
+&nbsp; Điều chỉnh dựa trên kích thước trang, nội dung đa phương tiện và nhu cầu lưu trữ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

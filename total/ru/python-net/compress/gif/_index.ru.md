@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие GIF уменьшает размер анимированных и статических файлов GIF, сохраняя качество кадров, цветовую палитру и плавное воспроизведение. Оптимизация GIF-изображений необходима для веб-контента, приложений и маркетинга, чтобы обеспечить быструю загрузку, снижение использования полосы пропускания и улучшенный пользовательский опыт.
+
+
+
+Python API позволяют автоматизировать сжатие GIF, оптимизацию кадров и пакетную обработку, обеспечивая масштабируемые рабочие процессы для веб-графики, активов социальных медиа и мультимедийного контента.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация веб-сайтов и приложений**  
+
+  Сжатие GIF для улучшения времени загрузки страниц и отзывчивости пользовательского взаимодействия.
+
+
+
+* **Доставка контента в социальных медиа**  
+
+  Меньшие GIF обеспечивают быструю публикацию, обмен и предварительный просмотр на различных платформах.
+
+
+
+* **Маркетинг и рекламные материалы**  
+
+  Оптимизированные GIF гарантируют плавную анимацию в электронных рассылках, баннерах и рекламе.
+
+
+
+* **Архивирование цифровых активов**  
+
+  Снижает требования к хранению больших коллекций анимированной графики.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие GIF**  
+
+  Сценарии на Python могут автоматически обрабатывать сотни GIF.
+
+
+
+* **Оптимизация на уровне кадров**  
+
+  Автоматизация может удалять избыточные кадры или уменьшать цветовые палитры для уменьшения размера файла.
+
+
+
+* **Интеграция в рабочий процесс**  
+
+  GIF, загруженные в CMS, DAM или облачные платформы, могут быть автоматически сжаты.
+
+
+
+* **Динамическая настройка качества**  
+
+  Сжимать GIF в зависимости от разрешения, продолжительности или требований целевой платформы.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -167,7 +247,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

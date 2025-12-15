@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تستفيد ملفات DOCM التي تحتوي على ماكرو من الضغط لتحسين التخزين مع الحفاظ على وظائف الماكرو والتنسيق.
+
+
+
+باستخدام واجهات برمجة التطبيقات في Python، يضمن الضغط التلقائي لملفات DOCM بقاء الماكروات سليمة ويبسط معالجة المستندات في سير العمل التلقائي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تخزين آمن للماكرو**  
+
+&nbsp; ضغط ملفات DOCM دون تعطيل الماكروات المضمنة.
+
+
+
+* **مشاركة الملفات بشكل أسرع**  
+
+&nbsp; الأحجام المخفضة تمكن من مرفقات البريد الإلكتروني السريعة وتحميلات السحابة.
+
+
+
+* **إدارة الأرشيف**  
+
+&nbsp; الضغط التلقائي يساعد في تخزين المستندات التي تحتوي على ماكرو بشكل طويل الأمد.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقائي" %}}
+
+
+
+* **ضغط مستند الماكرو بالدُفعة**  
+
+&nbsp; أتمتة معالجة عدة ملفات DOCM مع الحفاظ على الوظائف.
+
+
+
+* **التكامل مع أتمتة Office**  
+
+&nbsp; يمكن إدارة الملفات المضغوطة في أنظمة سير العمل أو حلول إدارة نظم المستندات.
+
+
+
+* **ضغط الماكرو الشرطي**  
+
+&nbsp; يمكن لنصوص Python ضغط ملفات DOCM انتقائيًا استنادًا إلى الحجم أو المحتوى.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PDF压缩可减小便携文档格式文件的大小，同时保留文本、图像、字体和矢量图形。压缩后的PDF文件提高了存储效率，实现更快的共享，并在各种设备和平台上实现了优化渲染。
+
+
+
+Python API支持自动化PDF压缩、批量处理和工作流集成，用于可扩展的文档管理、存档和分发。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **文档存储与存档**  
+
+&nbsp; 压缩PDF以节省数字图书馆中的存储空间。
+
+
+
+* **更快的文件传输**  
+
+&nbsp; 较小的PDF文件通过电子邮件或云平台快速传输。
+
+
+
+* **打印与发布**  
+
+&nbsp; 优化的PDF文件在印刷和数字工作流中加载和渲染更快。
+
+
+
+* **内容交付优化**  
+
+&nbsp; 提升电子书、报告和手册的用户体验。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量PDF压缩**  
+
+&nbsp; 自动优化多个PDF文件。
+
+
+
+* **图像与字体优化**  
+
+&nbsp; 自动压缩嵌入图像和子集字体。
+
+
+
+* **工作流集成**  
+
+&nbsp; 在上传到CMS、DAM或存档系统期间动态压缩PDF。
+
+
+
+* **动态压缩规则**  
+
+&nbsp; 根据文档大小、内容类型或目标设备调整压缩。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

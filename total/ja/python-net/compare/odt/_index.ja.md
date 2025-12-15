@@ -70,7 +70,75 @@ ODT ファイルを簡単に比較するための Python スクリプトまた�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODTの比較は、テキスト、スタイル、レイアウト構造、埋め込み要素をチェックして、オープンドキュメントテキストファイル内のコンテンツの正確性を確認します。透明な改訂履歴の追跡と品質保証をサポートします。
+
+
+
+自動化されたODT比較は、手作業を削減し、共同作業オフィスシステムや文書自動化パイプラインとの統合を強化します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **コンテンツの改訂履歴追跡**  
+
+&nbsp; 追加、削除、および再フォーマットを特定します。
+
+
+
+* **オープンドキュメントの適合性**  
+
+&nbsp; 文書が必要な構造に従っていることを確認します。
+
+
+
+* **クロスプラットフォーム編集の制御**  
+
+&nbsp; 異なるツールでの編集による変化を検出します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **大量ODT検証**  
+
+&nbsp; 大量の文書セットを自動的に処理します。
+
+
+
+* **自動化された編集ワークフロー**  
+
+&nbsp; 文書生成中にチェックをトリガーします。
+
+
+
+* **プログラムによる変更レポート**  
+
+&nbsp; 構造化された差分の要約を生成します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

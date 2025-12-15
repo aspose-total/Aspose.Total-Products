@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSL-FO 압축은 XML 문서의 페이지 레이아웃 및 서식을 정의하는 Extensible Stylesheet Language Formatting Objects 파일의 크기를 줄이는 데 초점을 맞춥니다. XSL-FO를 최적화하면 문서 생성 워크플로우에서 처리, 렌더링 속도 및 저장 효율성이 향상됩니다.
+
+
+
+Python API를 사용하면 자동화된 XSL-FO 압축, 일괄 처리 및 PDF 또는 인쇄 파이프라인과의 통합이 가능해져 확장 가능한 문서 렌더링 솔루션을 제공할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **문서 렌더링 최적화**  
+
+  속도가 빨라진 압축된 XSL-FO 파일은 PDF 생성 및 인쇄 워크플로우를 가속화합니다.
+
+
+
+* **대규모 문서 관리**  
+
+  고용량 형식화된 콘텐츠의 저장 공간을 줄입니다.
+
+
+
+* **아카이브 및 백업**  
+
+  최적화된 XSL-FO 파일은 장기 보존을 위해 더 쉽게 저장할 수 있습니다.
+
+
+
+* **워크플로우 통합**  
+
+  자동 게시 파이프라인에서 효율성을 향상시킵니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 XSL-FO 압축**  
+
+  여러 형식 파일의 크기를 자동으로 줄입니다.
+
+
+
+* **공백 및 중복 제거**  
+
+  불필요한 서식 지시문을 자동으로 제거합니다.
+
+
+
+* **렌더링 파이프라인과의 통합**  
+
+  PDF 또는 인쇄 출력물을 생성하기 전에 파일을 압축합니다.
+
+
+
+* **동적 최적화**  
+
+  문서 복잡성 또는 페이지 수에 따라 압축 수준을 조정합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

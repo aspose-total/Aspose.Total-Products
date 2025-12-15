@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+CMX压缩可以减小Corel Presentation Exchange矢量图形的大小，这些图形通常包含详细的插图、图层和颜色配置文件。优化CMX文件有助于改善设计工作流程的性能，加快共享速度，并减少创意和技术环境中的存储需求。
+
+
+
+Python API可以实现自动化的CMX压缩和转换，确保高效处理大型矢量资产，用于出版、打印和图形管理系统。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **设计项目优化**  
+
+&nbsp; 压缩分层的CMX图形，以简化文件处理并减少存储影响。
+
+
+
+* **出版和打印流水线**  
+
+&nbsp; 更小的CMX文件加快了渲染、编辑和传输过程。
+
+
+
+* **资产库管理**  
+
+&nbsp; 优化的CMX集合在数字资产库中加载速度更快。
+
+
+
+* **跨平台交换**  
+
+&nbsp; 压缩的CMX文件在设计团队或应用程序之间传输更高效。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量CMX压缩**  
+
+&nbsp; 使用Python工作流自动优化大量CMX图形。
+
+
+
+* **CMX转换为压缩格式**  
+
+&nbsp; 将CMX转换为SVG、PDF、PNG或EPS，并应用压缩规则。
+
+
+
+* **自动上传优化**  
+
+&nbsp; 将CMX文件在导入DMS或DAM系统时立即压缩。
+
+
+
+* **内容感知压缩**  
+
+&nbsp; 根据矢量复杂性或嵌入组件调整优化强度。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

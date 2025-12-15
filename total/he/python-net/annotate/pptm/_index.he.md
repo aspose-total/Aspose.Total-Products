@@ -75,7 +75,59 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Powerpoint PPT PP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+המסמך להערת PPTM מסדר קוד מאקרו ומוסיף הערות מובנות לקבצי המצגות המאופשרים למאקרו, משפר את הניתוח והדיוק בסקירה. זה מבטיח בהירות סביב התנהגות השקפים הממוכנים באופן אוטומטי.
+
+האוטומציה משפרת את זרימי העבודה של PPTM על ידי סריקת תסריטים, יצירת הערות וסימון בעיות עם אינטראקציות המאקרו.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* **הסברי מאקרו**  
+
+&nbsp; מסמך לוגיקת אוטומציה שקשורה לשקפים.
+
+* **משוב על עיצוב**  
+
+&nbsp; הוספת הערות בנוגע למבנה או התוכן.
+
+* **מעקב אחר התנהגות**  
+
+&nbsp; זיהוי שקפים המושפעים ממאקרו.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **כלי זיהוי מאקרו**  
+
+&nbsp; הערות אוטומטיות לקטעים הקשורים למאקרו.
+
+* **בדיקות לוגיקת שקפים**  
+
+&nbsp; הכנסת אזהרות או הערות מבוססות כללים.
+
+* **עדכוני תבניות בצמיג**  
+
+&nbsp; החלת הערות במקביל על קבצי PPTM מרובים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

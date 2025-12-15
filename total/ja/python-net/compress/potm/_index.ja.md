@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTMファイル（マクロ有効テンプレート）は、マクロを保持しながらファイルサイズを削減して配布および保存するための圧縮が必要です。
+
+
+
+Pythonベースの自動化により、POTMの圧縮をスケールで実行しながら、完全なテンプレート機能を維持します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* **マクロテンプレートの保護**  
+
+&nbsp; 埋め込まれたマクロを壊さずにPOTMファイルを圧縮します。
+
+
+
+* **効率的なテンプレート共有**  
+
+&nbsp; より小さなマクロ有効テンプレートは、協力やクラウド配布を改善します。
+
+
+
+* **テンプレートのアーカイブ**  
+
+&nbsp; 自動圧縮により、効率的な長期保存が確保されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **一括POTM圧縮**  
+
+&nbsp; Pythonスクリプトにより、複数のマクロ有効テンプレートを自動的に処理できます。
+
+
+
+* **ワークフローシステムとの統合**  
+
+&nbsp; 圧縮されたPOTMテンプレートは、自動化ワークフローに動的にロードできます。
+
+
+
+* **条件付き圧縮**  
+
+&nbsp; 自動化は、マクロや大きなメディアコンテンツを持つファイルを対象とします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

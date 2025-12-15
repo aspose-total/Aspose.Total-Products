@@ -70,7 +70,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT karşılaştırma vurguları satır düzeyinde veya karakter düzeyinde değişiklikleri düz metin belgelerinde göstererek biçimlendirme karmaşıklıkları olmadan revizyonlara tam görünürlük sağlar. Günlükler, betikler ve basit belgeler için önemlidir.
+
+
+
+Otomatik TXT karşılaştırma, metin tabanlı içeriklerin büyük kümeleri arasındaki güncellemelerin hızlı ve ölçeklenebilir tespitini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Günlük Dosyası Fark Takibi**  
+
+&nbsp; Yeni girişleri veya değişiklikleri tanımlar.
+
+
+
+* **Betik veya Kod Metni İncelemesi**  
+
+&nbsp; Düz metin betiklerindeki değişiklikleri vurgular.
+
+
+
+* **Basit Belge Revizyon Kontrolü**  
+
+&nbsp; Satır değişikliklerini etkili bir şekilde yakalar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Yüksek Hacimli TXT Karşılaştırmaları**  
+
+&nbsp; Binlerce dosyayı hızlı bir şekilde işler.
+
+
+
+* **Otomatik İzleme Boruları**  
+
+&nbsp; Değişiklikler meydana geldiğinde iş akışlarını tetikler.
+
+
+
+* **Programatik Fark Çıkarma**  
+
+&nbsp; Sistemler için yapılandırılmış raporlar oluşturur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -137,7 +205,7 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

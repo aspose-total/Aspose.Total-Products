@@ -70,7 +70,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF karşılaştırması, Zengin Metin Biçimi dosyaları içinde metin, yazı tipleri, renkler, biçimlendirme kuralları ve belge yapısındaki değişiklikleri belirler. Hafif belgeler arasında netlik ve tutarlılık sağlar.
+
+
+
+Otomatik RTF karşılaştırma hızlı işleme, ölçeklenebilir doğrulama ve dinamik belge iş akışlarına entegrasyonu destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Biçim Değişikliği Tespiti**  
+
+&nbsp; Görsel stillerdeki güncellemeleri takip eder.
+
+
+
+* **İçerik Düzeltme İncelemesi**  
+
+&nbsp; Düzenlemeleri ve ayarlamaları vurgular.
+
+
+
+* **Uygulama Arası Düzenleme Tutarlılığı**  
+
+&nbsp; Farklı düzenleyicilerden kaynaklanan farklılıkları belirler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu RTF İşleme**  
+
+&nbsp; Birden fazla belgeyi programlı olarak karşılaştırır.
+
+
+
+* **Otomatik QA Kontrolleri**  
+
+&nbsp; Biçimlendirme bütünlüğünü sağlar.
+
+
+
+* **Fark Çıkarma Boruları**  
+
+&nbsp; Yapılandırılmış karşılaştırma çıktıları oluşturur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

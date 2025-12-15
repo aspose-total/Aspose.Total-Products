@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файлы PPS (PowerPoint Show) получают преимущества от сжатия для уменьшения объема хранения и улучшения производительности воспроизведения во время презентаций.
+
+
+
+Python API поддерживает автоматизированное сжатие PPS для более быстрого обмена и эффективности хранения.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация файлов для показа**  
+
+  &nbsp; Сжатие файлов PPS без влияния на содержание слайдов или переходы.
+
+
+
+* **Быстрая дистрибуция**  
+
+  &nbsp; Меньшие файлы облегчают быстрое обмен и загрузку в облако.
+
+
+
+* **Эффективность архивирования**  
+
+  &nbsp; Автоматизированное сжатие поддерживает долгосрочное хранение файлов для показа.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие PPS**  
+
+  &nbsp; Сценарии Python могут автоматически сжимать несколько файлов для показа.
+
+
+
+* **Интеграция с системами презентаций**  
+
+  &nbsp; Сжатые файлы PPS могут динамически загружаться в автоматизированные рабочие процессы.
+
+
+
+* **Условное сжатие**  
+
+  &nbsp; Направленное на большие презентации или файлы с богатым мультимедийным содержанием для сжатия.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

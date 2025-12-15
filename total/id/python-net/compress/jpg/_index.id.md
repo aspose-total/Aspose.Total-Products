@@ -100,7 +100,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi gambar generik mengacu pada mengoptimalkan file gambar berbasis raster untuk mengurangi ukuran file sambil mempertahankan kualitas visual. Pendekatan ini penting untuk efisiensi penyimpanan, transfer yang lebih cepat, dan rendering yang lancar di berbagai platform digital, aplikasi, dan saluran konten.
+
+
+
+API Python memungkinkan kompresi gambar OTOMATIS, pemrosesan batch, dan konversi format, mendukung alur kerja yang dapat diskalakan untuk manajemen media, pengiriman web, dan repositori berbasis cloud.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Kinerja Web dan Aplikasi**  
+
+&nbsp; Gambar yang dikompresi memuat lebih cepat, mengurangi penggunaan bandwidth, dan meningkatkan pengalaman pengguna.
+
+
+
+* **Manajemen Aset Digital**  
+
+&nbsp; Gambar yang dioptimalkan lebih mudah disimpan, diorganisir, dan diambil dari perpustakaan besar.
+
+
+
+* **Publikasi Konten**  
+
+&nbsp; Menjaga kualitas gambar sambil meminimalkan ukuran file untuk platform online.
+
+
+
+* **Arsip dan Cadangan**  
+
+&nbsp; Mengurangi persyaratan penyimpanan untuk koleksi besar gambar raster.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi Gambar Batch**  
+
+&nbsp; Skrip Python dapat mengoptimalkan secara otomatis ratusan file gambar generik.
+
+
+
+* **Pemilihan Format Dinamis**  
+
+&nbsp; Otomatisasi dapat mengonversi gambar ke format optimal JPG saat melakukan kompresi.
+
+
+
+* **Integrasi Alur Kerja**  
+
+&nbsp; Kompresi gambar secara otomatis saat mengunggah ke CMS, DAM, atau platform cloud.
+
+
+
+* **Kompresi Berbasis Resolusi**  
+
+&nbsp; Menyesuaikan level kompresi secara dinamis berdasarkan resolusi gambar, dimensi, atau penggunaan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

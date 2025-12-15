@@ -43,9 +43,45 @@ Para un desarrollador, ¿quién intenta crear archivos DOC a través de la aplic
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+## DOC — Creación de archivos `.doc` (Word binario heredado) a través de APIs de Python permite la automatización para sistemas más antiguos y preserva la compatibilidad con cadenas de herramientas heredadas. Los enfoques típicos en Python dependen de bibliotecas que pueden ensamblar la estructura binaria o utilizar la automatización COM en Windows para exportar o guardar documentos binarios clásicos a partir de contenido programático.
+
+El scripting DOC es útil cuando se requiere compatibilidad con versiones anteriores; los documentos generados pueden incluir texto estructurado, estilos básicos, encabezados/pies de página y objetos incrustados cuando son compatibles.
+
+La automatización permite crear pipelines de conversión que aceptan fuentes modernas (markdown, HTML, DOCX) y emiten archivos `.doc` para almacenamiento a largo plazo o integración con aplicaciones heredadas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Integración con Sistemas Heredados**
+  &nbsp; Producir archivos .doc para software empresarial más antiguo que requiere el formato binario.
+
+* **Exportaciones de Archivo**
+  &nbsp; Convertir documentos modernos a .doc para almacenamiento a largo plazo cuando sea necesario según políticas heredadas.
+
+* **Interoperabilidad con Herramientas Antiguas**
+  &nbsp; Crear salidas .doc para garantizar la compatibilidad con sistemas antiguos de combinación de correspondencia o impresión.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Conversión de Formato Automatizada**
+  &nbsp; Convertir por lotes DOCX a DOC en trabajos programados para pruebas de compatibilidad.
+
+* **Exportación Scriptada desde Plantillas**
+  &nbsp; Utilizar generación basada en plantillas que guarda documentos finales como .doc para procesos posteriores.
+
+* **Integración con Pipelines de ETL**
+  &nbsp; Incorporar la generación de DOC en trabajos de ETL que preparan documentos para consumidores heredados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

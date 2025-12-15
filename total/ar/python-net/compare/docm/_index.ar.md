@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يركز مقارنة DOCM على تحديد الاختلافات في المستندات الممكّنة للماكرو، بما في ذلك التغييرات في النص، التنسيق، والتغييرات في المنطق المضمن. وهذا يضمن تتبع دقيق لكل من المحتوى المرئي ومكونات الأتمتة الداخلية.
+
+
+
+تعزيز مقارنة DOCM التلقائية يعزز من مراقبة سلامة الماكرو، ويقلل من المخاطر الناتجة عن التعديلات غير المصرح بها، ويدعم التحقق القابل للتوسيع في بيئات الحجم الكبير.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **التحقق من سلامة الماكرو**  
+
+&nbsp; يكتشف التغييرات في الماكرو المضمنة جنبًا إلى جنب مع تحديثات المحتوى العادي.
+
+
+
+* **تدقيقات دورة حياة المستند**  
+
+&nbsp; يضمن أن التغييرات عبر المسودات تظل متوافقة ومقصودة.
+
+
+
+* **إدارة القوالب**  
+
+&nbsp; يتتبع الاختلافات في المستندات المبنية من القوالب الديناميكية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **كشف تغييرات الماكرو تلقائيًا**  
+
+&nbsp; يعلم عن التعديلات في كود الماكرو من أجل الأمان والتحديث.
+
+
+
+* **مقارنة قوالب بالجملة**  
+
+&nbsp; يقارن مجموعات كبيرة من ملفات DOCM تلقائيًا للحفاظ على التناسق.
+
+
+
+* **مراقبة التحديث الذكي**  
+
+&nbsp; يدمج فحوصات برمجية في سير العمل التجاري.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

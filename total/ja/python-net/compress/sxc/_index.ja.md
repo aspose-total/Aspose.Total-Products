@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+SXC（旧OpenOffice/StarOfficeスプレッドシート）ファイルは、圧縮によってストレージを削減し、公式や書式を保持しながら共有を容易にします。
+
+
+
+Python APIを使用すると、レガシー環境での作業効率を維持するためにSXCの自動圧縮が可能です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+
+
+* **レガシースプレッドシートの最適化**  
+
+&nbsp; 公式やコンテンツに影響を与えず、SXCファイルサイズを削減します。
+
+
+
+* **高速な共有**  
+
+&nbsp; 圧縮されたファイルは、ネットワークやチーム間での転送速度を向上させます。
+
+
+
+* **アーカイブ効率**  
+
+&nbsp; 自動圧縮により、レガシースプレッドシートの長期保存をサポートします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **一括SXC圧縮**  
+
+&nbsp; Pythonスクリプトを使用して複数のSXCファイルを自動的に圧縮できます。
+
+
+
+* **DMSやクラウドシステムとの統合**  
+
+&nbsp; 圧縮されたSXCファイルは、ワークフローで効率的に処理できます。
+
+
+
+* **条件付き圧縮**  
+
+&nbsp; サイズや埋め込まれたコンテンツに基づいてファイルを対象とする自動化が可能です。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

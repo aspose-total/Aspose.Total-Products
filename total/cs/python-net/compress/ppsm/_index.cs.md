@@ -101,7 +101,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Soubory PPSM (prezentace PowerPoint s makry) vyžadují kompresi, která zachovává makra a zároveň snižuje velikost souboru pro efektivní sdílení a ukládání.
+
+
+
+Automatizace založená na Pythonu umožňuje škálovatelnou kompresi PPSM souborů při zachování funkcionality maker.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Zachování maker**  
+
+&nbsp; Bezpečná komprese souborů PPSM bez poškození maker.
+
+
+
+* **Rychlejší sdílení**  
+
+&nbsp; Menší soubory umožňují efektivní distribuci týmům nebo cloudovému úložišti.
+
+
+
+* **Správa archivů**  
+
+&nbsp; Automatizovaná komprese zajišťuje dlouhodobé uchování prezentací s makry.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese PPSM**  
+
+&nbsp; Pythonové skripty mohou automaticky zpracovávat více souborů prezentací s makry.
+
+
+
+* **Integrace s pracovními postupy**  
+
+&nbsp; Kompresované soubory PPSM lze použít v automatizovaných pracovních postupech prezentací.
+
+
+
+* **Podmíněná komprese**  
+
+&nbsp; Cílové soubory lze vybírat na základě použití maker nebo vložených médií pro optimalizaci.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

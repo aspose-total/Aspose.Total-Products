@@ -43,9 +43,79 @@ Python アプリケーションを介して DOTX ファイルを作成しよう�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTX — `.dotx`は、安全なテンプレート配布と確定的な文書生成に最適なマクロフリーテンプレート（OOXML）です。Python APIを使用して、スタイル、コンテンツコントロール、コンテンツプレースホルダを備えたDOTXテンプレートを生成することができ、自動システム向けの堅牢でマクロフリーなテンプレート作成が可能です。
+
+
+
+DOTXは、セキュリティ上の理由でマクロを許可していない環境に適しており、一貫したテンプレート作成と動的コンテンツの挿入が必要な場合に適しています。自動化により、安全でスケーラブルなテンプレート作成が可能となり、実行可能コードを埋め込まずにDOCXインスタンスの生成が可能です。
+
+プログラムによるテンプレート生成は、スキーマ駆動のプレースホルダ、コンテンツコントロール、テンプレートの検証をサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* **安全なテンプレート配信**
+
+&nbsp; セキュアな環境で広く配布するためのマクロフリーなDOTXテンプレートを作成します。
+
+
+
+* **フォームとコンテンツコントロールテンプレート**
+
+&nbsp; ダウンストリームの自動化のためにコンテンツコントロールを備えたDOTXテンプレートを作成します。
+
+
+
+* **テンプレート駆動の文書アセンブリ**
+
+&nbsp; DOTXテンプレートをプログラムによる文書作成の元として使用します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **安全なテンプレートパイプライン**
+
+&nbsp; DOTX生成を自動化し、マクロの含まれないポリシーを強制します。
+
+
+
+* **テンプレート検証ジョブ**
+
+&nbsp; プレースホルダとスタイルがスキーマの期待に一致するかを確認するための自動チェックを実行します。
+
+
+
+* **APIによるテンプレートの使用**
+
+&nbsp; 内部APIを介してDOTXテンプレートを提供し、必要に応じてDOCXの生成を行います。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -78,7 +78,51 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+ODG圧縮は、OpenDocument Graphicsファイルを最適化し、ベクター品質、レイヤー、埋め込みオブジェクトを保持しながらサイズを削減します。圧縮されたODGファイルは、設計および図表ワークフローにおいてストレージ効率とパフォーマンスを向上させます。
+
+Python APIを使用すると、ODG圧縮の自動化、バッチ処理、他の形式への変換が可能となり、オフィス、教育、出版環境でのスケーラブルなグラフィック管理をサポートします。
+
+## {{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* **図表およびベクターストレージ**
+
+  &nbsp; ディスクスペースの使用量を削減するためにODGファイルを圧縮します。
+
+* **共同作業および共有**
+
+  &nbsp; より小さなファイルは、チームやプラットフォーム間でより高速に送信されます。
+
+* **デジタルアーカイブ**
+
+  &nbsp; 時間の経過とともに図表やベクターグラフィックスを効率的に保存します。
+
+* **ワークフローの最適化**
+
+  &nbsp; 圧縮されたODGファイルは、アプリケーションでのレンダリング速度を向上させます。
+
+## {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチODG圧縮**
+
+  &nbsp; 複数のグラフィックファイルのサイズを自動的に削減します。
+
+* **レイヤーおよびオブジェクトの最適化**
+
+  &nbsp; 未使用の要素を削除し、埋め込みオブジェクトを自動的に圧縮します。
+
+* **オフィスパイプラインへの統合**
+
+  &nbsp; アップロード時やバージョン管理時にODGファイルを圧縮します。
+
+* **ダイナミックな圧縮レベル**
+
+  &nbsp; ファイルの複雑さや使用シナリオに基づいて最適化を調整します。
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

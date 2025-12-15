@@ -78,7 +78,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pliki FODS (Flat OpenDocument Spreadsheet) korzystają z kompresji w celu zmniejszenia miejsca na dysku i poprawy prędkości transferu, zachowując zgodność ze standardami OpenDocument.
+
+
+
+Automatyzacja oparta na Pythonie umożliwia efektywną kompresję do skalowalnej integracji z procesem pracy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Standaryzowana Kompresja Arkuszy Kalkulacyjnych**  
+
+&nbsp; Zmniejsz rozmiar pliku FODS, zachowując zgodność i strukturę.
+
+
+
+* **Szybsze Udostępnianie**  
+
+&nbsp; Skompresowane pliki FODS mogą być szybko udostępniane na różnych platformach.
+
+
+
+* **Efektywność Archiwizacji i Kopiowania Zapasowego**  
+
+&nbsp; Automatyzacja kompresji upraszcza zarządzanie przechowywaniem dla otwartych formatów dokumentów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Kompresja Partii Plików FODS**  
+
+&nbsp; Skrypty Pythona mogą automatycznie przetwarzać wiele plików FODS.
+
+
+
+* **Integracja z Procesem Pracy**  
+
+&nbsp; Skompresowane pliki mogą być ładowane do systemów automatyzacji lub przechowywania w chmurze.
+
+
+
+* **Kompresja Warunkowa**  
+
+&nbsp; Optymalizuj duże lub zawierające dużo mediów pliki FODS.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

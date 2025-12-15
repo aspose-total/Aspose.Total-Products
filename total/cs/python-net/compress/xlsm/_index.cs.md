@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLSM soubory (pracovní sešity Excel s povolenými makry) vyžadují kompresi, která zachovává vložená makra a zároveň optimalizuje úložiště a sdílení.
+
+
+
+Python API umožňuje automatizovanou kompresi XLSM souborů, udržuje funkčnost maker a umožňuje škálovatelnou integraci pracovního postupu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Zachování maker**  
+
+&nbsp; Bezpečná komprese XLSM souborů bez poškození vložených maker.
+
+
+
+* **Rychlejší sdílení a spolupráce**  
+
+&nbsp; Menší XLSM soubory usnadňují týmové pracovní postupy a nahrávání do cloudu.
+
+
+
+* **Automatizované archivování**  
+
+&nbsp; Kompresí se zajistí efektivní úložiště pro pracovní sešity s makry.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese XLSM**  
+
+&nbsp; Python skripty mohou automaticky zpracovávat více souborů s povolenými makry.
+
+
+
+* **Integrace s BI a DMS platformami**  
+
+&nbsp; Kompresované soubory lze spravovat v automatizovaných systémech.
+
+
+
+* **Podmíněná komprese**  
+
+&nbsp; Automatizace může cílit na soubory s velkými makry nebo těžkým mediálním obsahem.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

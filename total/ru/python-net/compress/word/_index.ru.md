@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие общего файла Word уменьшает использование хранилища, ускоряет передачу и сохраняет форматирование, макет и встроенные медиафайлы, улучшая эффективность рабочего процесса.
+
+
+
+Сжатие на основе Python обеспечивает автоматизированную оптимизацию для документов Word в масштабе, поддерживая интеграцию с современными системами управления документами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация хранилища**  
+
+&nbsp; Уменьшение размеров общих файлов Word для лучшего использования диска.
+
+
+
+* **Быстрая передача и совместная работа**  
+
+&nbsp; Меньшие файлы легче отправлять и совместно работать в команде.
+
+
+
+* **Эффективность архивирования**  
+
+&nbsp; Автоматизированное сжатие помогает управлять большими репозиториями документов Word.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетная обработка**  
+
+&nbsp; Сценарии Python могут автоматически сжимать несколько файлов Word.
+
+
+
+* **Интеграция в рабочий процесс**  
+
+&nbsp; Сжатые файлы могут быть загружены или синхронизированы с DMS и облачными службами.
+
+
+
+* **Динамическое сжатие**  
+
+&nbsp; Автоматизация может выборочно сжимать файлы на основе размера, медийного контента или правил проекта.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese souborů DOC snižuje požadavky na úložiště, urychluje sdílení souborů a udržuje integritu dokumentů s textovým obsahem nebo vloženými médii.
+
+
+
+Pythonové API umožňují automatizované pracovní postupy komprese DOC, podporující škálovatelný správu dokumentů a rychlejší zpracování v podnikovém prostředí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace úložiště**  
+
+&nbsp; Minimalizace využití místa na disku pro zastaralé soubory DOC bez ovlivnění obsahu.
+
+
+
+* **Sdílení e-mailem a v cloudu**  
+
+&nbsp; Menší soubory DOC lze přenášet rychleji a efektivněji po sítích.
+
+
+
+* **Automatizované archivování**  
+
+&nbsp; Dávková komprese pro archivaci zajišťuje efektivní ukládání starších dokumentů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Dávková komprese**  
+
+&nbsp; Pythonové skripty mohou automaticky zpracovávat více souborů DOC.
+
+
+
+* **Integrace s dokumentačními systémy**  
+
+&nbsp; Komprimované soubory DOC lze bezproblémově nahrávat na platformy DMS.
+
+
+
+* **Podmíněná komprese**  
+
+&nbsp; Automatizace může komprimovat soubory přesahující velikostní limity nebo s vloženými médii.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

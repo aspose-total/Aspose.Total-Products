@@ -78,7 +78,87 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compression EPUB réduit la taille des fichiers d'eBook, qui contiennent du texte, des images, des styles et des métadonnées. Les EPUB compressés améliorent la vitesse de téléchargement, l'efficacité de stockage et la compatibilité avec les liseuses et les bibliothèques numériques.
+
+
+
+Les API Python permettent la compression automatisée des EPUB, le traitement par lots et l'optimisation pour une gestion évolutive des livres électroniques et des publications numériques.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Distribution d'eBooks**  
+
+&nbsp; Les fichiers EPUB plus petits permettent des téléchargements plus rapides et un partage plus facile.
+
+
+
+* **Gestion de bibliothèque numérique**  
+
+&nbsp; Les EPUB compressés réduisent les besoins de stockage pour de grandes collections.
+
+
+
+* **Distribution de contenu pour plusieurs appareils**  
+
+&nbsp; Les fichiers optimisés garantissent une expérience de lecture fluide sur les liseuses et les applications.
+
+
+
+* **Archivage et sauvegarde**  
+
+&nbsp; Stockage efficace pour de grands volumes d'eBooks.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Compression EPUB par lots**  
+
+&nbsp; Automatisez l'optimisation de plusieurs fichiers d'eBook en une seule fois.
+
+
+
+* **Optimisation d'images et de texte**  
+
+&nbsp; Réduisez la taille des images intégrées et supprimez les métadonnées redondantes.
+
+
+
+* **Intégration de flux de travail**  
+
+&nbsp; Compressez automatiquement les EPUB lors du téléchargement dans les bibliothèques numériques ou les plateformes.
+
+
+
+* **Ajustement dynamique de la qualité**  
+
+&nbsp; Équilibrez la qualité de l'image et la taille du fichier en fonction de l'appareil ou de la plateforme.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

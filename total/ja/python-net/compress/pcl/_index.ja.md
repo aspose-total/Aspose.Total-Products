@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PCL（Printer Command Language）圧縮は、印刷に適した文書をサイズを縮小しつつ印刷品質を維持することで最適化します。圧縮されたPCLファイルは、ストレージ効率の向上、高速な転送、印刷ワークフローのパフォーマンス向上に貢献します。
+
+
+
+Python APIを使用すると、自動化されたPCL圧縮、バッチ処理、スケーラブルな印刷および文書管理パイプラインの変換が可能となります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+
+
+* **印刷ジョブの最適化**  
+
+  &nbsp; より小さなPCLファイルはスプール時間を短縮し、印刷速度を向上させます。
+
+
+
+* **アーカイブとストレージ**  
+
+  &nbsp; 圧縮されたPCLファイルは大規模な印刷ジョブアーカイブのためのストレージスペースを節約します。
+
+
+
+* **印刷に適した文書の配布**  
+
+  &nbsp; 最適化されたファイルはネットワークや印刷サーバーを介してより高速に転送されます。
+
+
+
+* **ワークフローの効率化**  
+
+  &nbsp; 自動印刷システムのパフォーマンスを向上させます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチPCL圧縮**  
+
+  &nbsp; 複数の印刷ファイルの最適化を自動化します。
+
+
+
+* **埋め込みアセットの最適化**  
+
+  &nbsp; PCLファイル内のフォント、画像、グラフィックを自動的に圧縮します。
+
+
+
+* **印刷パイプラインとの統合**  
+
+  &nbsp; 印刷やアーカイブ前にPCLファイルを動的に圧縮します。
+
+
+
+* **ダイナミックな圧縮ルール**  
+
+  &nbsp; 文書の複雑さやコンテンツタイプに基づいて最適化を調整します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

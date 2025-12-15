@@ -78,7 +78,75 @@ För mer information, se [Product Documentation](https://docs.aspose.com/zip/pyt
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+SXC (äldre OpenOffice/StarOffice kalkylblad) filer gynnas av komprimering för att minska lagringsutrymme och möjliggöra enklare delning samtidigt som formler och formatering bevaras.
+
+
+
+Python API:er möjliggör automatiserad SXC-komprimering för att bibehålla arbetsflödeseffektiviteten i äldre miljöer.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Huvudsakliga Användningsfall" %}}
+
+
+
+* **Optimering av Äldre Kalkylblad**  
+
+  Reduce SXC-filstorlekar utan att påverka formler eller innehåll.
+
+
+
+* **Snabbare Delning**  
+
+  Komprimerade filer förbättrar överföringshastigheten över nätverk och mellan team.
+
+
+
+* **Effektiv Arkivering**  
+
+  Automatiserad komprimering stödjer långsiktig lagring av äldre kalkylblad.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Batch SXC-Komprimering**  
+
+  Python-skript kan komprimera flera SXC-filer automatiskt.
+
+
+
+* **Integration med DMS eller Molnbaserade System**  
+
+  Komprimerade SXC-filer kan effektivt behandlas i arbetsflöden.
+
+
+
+* **Villkorlig Komprimering**  
+
+  Automatisering kan rikta in sig på filer baserat på storlek eller inbäddat innehåll.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ضغط DJVU يعزز الهيكل الفعال بالفعل لملفات DjVu، التي تُستخدم عادة للمستندات الممسوحة ضوئيًا والكتب الرقمية والمحتوى الأرشيفي. تحسين ملفات DJVU يقلل بشكل أكبر من الحجم، ويحسن سرعة التحميل، ويضمن تقديم عالي الجودة للصفحات الثقيلة بالنصوص والغنية بالصور.
+
+
+
+تجعل واجهات برمجة التطبيقات بايثون من الممكن أتمتة ضغط DJVU، وتحسين الطبقات الممسوحة ضوئيًا، وإدارة مكتبات كبيرة من الوثائق المرقمة مع متطلبات تخزين دنيا وكفاءة معالجة عالية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **مكتبات الوثائق المرقمة**  
+
+&nbsp; يضغط الأرشيفات الممسوحة الضخمة لتوفير المساحة وتحسين أداء الوصول.
+
+
+
+* **توزيع الكتب الإلكترونية والأبحاث**  
+
+&nbsp; تحميل أسرع لملفات DJVU الأصغر حجما ونقل أكثر كفاءة عبر المنصات الأكاديمية.
+
+
+
+* **تحسين الصور الممسوحة ضوئيًا**  
+
+&nbsp; يعزز القراءة ويقلل من الحجم دون المساس بالتفاصيل البصرية الأساسية.
+
+
+
+* **الأرشفة على المدى الطويل**  
+
+&nbsp; يوفر الحفظ الفعال للتخزين للمواد التاريخية والمرجعية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير" %}}
+
+
+
+* **ضغط DJVU بالجملة**  
+
+&nbsp; يقلل تلقائيًا من حجم الملفات لمجموعات من الوثائق الممسوحة ضوئيًا أو المرقمة.
+
+
+
+* **تحسين الطبقات بوعي**  
+
+&nbsp; يمكن للأتمتة ضغط النص الأمامي انتقائيًا، أو الخلفية، أو الصور المضمنة.
+
+
+
+* **ضغط استيعابي لسير العمل**  
+
+&nbsp; يمكن ضغط ملفات DJVU على الفور عند التحميل إلى الأرشيف أو أنظمة الوثائق.
+
+
+
+* **أنابيب تحويل + ضغط**  
+
+&nbsp; تحويل PDF أو TIFF إلى DJVU مع تطبيق قواعد تقليل الحجم تلقائيًا.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

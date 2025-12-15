@@ -75,7 +75,65 @@ POTX 注釈アプリまたはユーティリティを開発する必要があり
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTXの注釈は、非マクロプレゼンテーションテンプレートに構造化されたノートとレイアウト指示を追加し、明確なスライド作成と一貫したビジュアル基準をサポートします。これにより、ユーザーはプレゼンテーション全体で統一されたデザインルールに従うことが保証されます。  
+
+自動化により、POTXの更新が効率的に行われ、システムが注釈ルールを適用し、レイアウトの不一致を検出し、ガイダンスを効率的に更新できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **テンプレートの指示**  
+
+&nbsp; スライドの使用法と構造に関するユーザーガイド。
+
+* **デザインノート**  
+
+&nbsp; テキストやビジュアルの配置ルールをマーク。
+
+* **改訂指標**  
+
+&nbsp; テンプレート内の変更点を強調。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **自動化されたテンプレート監査**  
+
+&nbsp; 標準から逸脱するスタイルにコメントを挿入。
+
+* **一括注釈挿入**  
+
+&nbsp; 複数のテンプレート全体のガイダンスを更新。
+
+* **スライド構造の検証**  
+
+&nbsp; プログラムによる不一致の自動フラグ設定。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

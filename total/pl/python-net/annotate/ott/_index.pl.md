@@ -75,7 +75,65 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Anotacja OTT poprawia dokumenty szablonowe poprzez osadzanie notatek wskazówek, zmiennych oraz strukturyzowanych metadanych w szablonach w formacie otwartym. Zapewnia to spójną produkcję dokumentów oraz jasne instrukcje dla użytkownika końcowego.  
+
+Automatyzacja usprawnia przepływy pracy OTT poprzez stosowanie reguł szablonu, aktualizację tekstu adnotacji oraz egzekwowanie standardowych struktur.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Instrukcje szablonu**  
+
+&nbsp; Udzielaj wskazówek dotyczących wypełniania każdej sekcji.
+
+* **Standardy formatowania**  
+
+&nbsp; Podkreśl obszary wymagające konkretnych stylów.
+
+* **Dokumentacja zmian**  
+
+&nbsp; Zaznacz zmiany w aktualizacjach szablonu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Aktualizacje szablonów sterowane skryptem**  
+
+&nbsp; Automatyczne stosowanie nowych instrukcji do wszystkich szablonów.
+
+* **Wskaźniki zgodności**  
+
+&nbsp; Identyfikuj i adnotuj brakujące wymagane pola.
+
+* **Egzekwowanie dynamicznych reguł**  
+
+&nbsp; Dodaj notatki wywołane logiką szablonu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يقوم التحقق من مقارنة ODT بالنصوص والأنماط وهيكل التخطيط والعناصر المضمنة لضمان دقة المحتوى داخل ملفات النصوص المفتوحة. يدعم تتبع التنقيح الشفاف وضمان الجودة.
+
+
+
+تقليل التحقق التلقائي من ODT يقلل من الجهد اليدوي ويعزز التكامل مع أنظمة المكاتب التعاونية وأنابيب التشغيل التلقائي للمستندات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تتبع تنقيح المحتوى**  
+
+&nbsp; يحدد الإضافات والحذف وإعادة التنسيق.
+
+
+
+* **امتثال الوثيقة المفتوحة**  
+
+&nbsp; يضمن أن تتبع الوثائق الهيكل المطلوب.
+
+
+
+* **التحكم في التحرير عبر الأنظمة المتعددة**  
+
+&nbsp; يكتشف التباينات الناتجة عن التحرير عبر أدوات مختلفة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **التحقق الضخم من ODT**  
+
+&nbsp; يعالج مجموعات كبيرة من المستندات تلقائيًا.
+
+
+
+* **سيناريوهات التحرير التلقائي**  
+
+&nbsp; يشغل التحقق أثناء إنشاء المستند.
+
+
+
+* **إنشاء تقارير التغيير البرمجية**  
+
+&nbsp; يولد ملخصات الفروق بشكل منظم.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

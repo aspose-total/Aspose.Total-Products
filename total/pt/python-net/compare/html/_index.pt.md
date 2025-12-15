@@ -70,7 +70,75 @@ Para obter mais detalhes, consulte [Documentação do Produto](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A comparação de HTML identifica diferenças na marcação, blocos de conteúdo, tags, estilos e formatação inline em arquivos da web ou exportados. Isso garante precisão na renderização e apresentação de conteúdo.
+
+
+
+A comparação automatizada de HTML suporta controle de qualidade escalável para conteúdo da web, portais de documentação e exportações de HTML geradas pelo sistema.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+- **Rastreamento de Revisão de Conteúdo da Web**  
+
+&nbsp; Destaca atualizações nos elementos de texto e layout.
+
+
+
+- **Verificações de Consistência de Documentos Exportados**  
+
+&nbsp; Garante que as exportações de HTML correspondam à estrutura esperada.
+
+
+
+- **Atualizações de Documentação Técnica**  
+
+&nbsp; Detecta alterações em blocos de código ou seções informativas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+- **Detecção de Mudanças de Marcação**  
+
+&nbsp; Identifica automaticamente modificações no nível das tags.
+
+
+
+- **Comparação em Massa de HTML**  
+
+&nbsp; Valida grandes coleções de saídas de HTML.
+
+
+
+- **Pipelines de Publicação Automatizada**  
+
+&nbsp; Integra verificações em sistemas contínuos de entrega de conteúdo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

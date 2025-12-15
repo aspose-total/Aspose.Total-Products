@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX - это современный формат Word, широко используемый для профессиональных документов. Сжатие уменьшает объем хранения и увеличивает скорость передачи, сохраняя форматирование и встроенные объекты.
+
+
+
+API Python позволяют автоматизировать сжатие DOCX, обеспечивая масштабируемые, эффективные рабочие процессы с документами и интеграцию с облачными системами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация хранения**  
+
+&nbsp; Уменьшение размеров файлов DOCX с сохранением содержания и дизайна.
+
+
+
+* **Быстрая совместная работа**  
+
+&nbsp; Меньшие файлы упрощают обмен между командами и платформами.
+
+
+
+* **Эффективность архивирования**  
+
+&nbsp; Автоматизированное сжатие помогает управлять большими репозиториями документов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие DOCX**  
+
+&nbsp; Сценарии Python могут сжимать несколько файлов DOCX за один запуск.
+
+
+
+* **Интеграция с системами управления документами**  
+
+&nbsp; Сжатые файлы DOCX могут быть эффективно сохранены и извлечены.
+
+
+
+* **Умное сжатие**  
+
+&nbsp; Автоматизация может ориентироваться на файлы с большим медийным контентом или большим размером.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

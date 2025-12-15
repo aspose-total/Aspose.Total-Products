@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ไฟล์ XLSB (สมุดงาน Excel ที่เป็นไบนารี) มีประโยชน์จากการบีบอัดเพื่อลดขนาดไฟล์ในขณะที่ยังรักษาเวลาโหลดเร็วและการคำนวณที่ซับซ้อนได้
+
+
+
+Python APIs ช่วยให้การบีบอัดไฟล์ XLSB อัตโนมัติเป็นไปได้ รองรับการจัดการสเปรดชีทขนาดใหญ่และการผสานรวมกับขั้นตอนการทำงานขององค์กรได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การปรับปรุงไฟล์สมุดงานไบนารี**  
+
+&nbsp; บีบอัดไฟล์ XLSB โดยไม่มีผลต่อประสิทธิภาพหรือการคำนวณ
+
+
+
+* **การถ่ายโอนไฟล์เร็วขึ้น**  
+
+&nbsp; ไฟล์ XLSB ขนาดเล็กช่วยให้การแชร์ผ่านอีเมลหรือคลาวด์ได้อย่างรวดเร็ว
+
+
+
+* **การเก็บถาวรอย่างมีประสิทธิภาพ**  
+
+&nbsp; การบีบอัดโดยอัตโนมัติรองรับการเก็บรักษาสมุดงานไบนารีในระยะยาว
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การบีบอัดไฟล์ XLSB แบบกลุ่ม**  
+
+&nbsp; สคริปต์ Python สามารถบีบอัดไฟล์ XLSB หลายไฟล์โดยอัตโนมัติ
+
+
+
+* **การผสานรวมกับเครื่องมือวิเคราะห์และ BI**  
+
+&nbsp; ไฟล์ XLSB ที่ถูกบีบอัดสามารถประมวลผลได้อย่างราบรื่นในขั้นตอนการทำงานอัตโนมัติ
+
+
+
+* **การบีบอัดแบบเลือกได้**  
+
+&nbsp; การอัตโนมัติสามารถบีบอัดเฉพาะไฟล์ XLSB ที่ใหญ่หรือมีสื่ออย่างเดียว
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

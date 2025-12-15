@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+SVG sıkıştırması, dosya boyutunu azaltırken ölçeklenebilirliği, kaliteyi ve düzenlenebilirliği koruyarak XML tabanlı vektör grafik dosyalarını optimize etmeye odaklanır. Verimli SVG sıkıştırması, web, UI ve dijital tasarım iş akışları için yükleme hızını, işleme performansını ve depolamayı iyileştirir.
+
+
+
+Python API'leri otomatik SVG sıkıştırma, küçültme ve toplu işleme imkanı sağlayarak web geliştirme, grafik varlıkları ve içerik yönetim sistemleri için ölçeklenebilir boruları destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Web Performansı Optimizasyonu**  
+
+&nbsp; Sıkıştırılmış SVG dosyaları web sitelerinde ve uygulamalarda daha hızlı yüklenir.
+
+
+
+* **UI/UX Tasarım Verimliliği**  
+
+&nbsp; Daha küçük SVG'ler arayüzlerde işleme hızını ve duyarlılığı artırır.
+
+
+
+* **Dijital Varlık Yönetimi**  
+
+&nbsp; Optimize edilmiş SVG koleksiyonları depolamayı, düzenlemeyi ve geri almayı kolaylaştırır.
+
+
+
+* **Çoklu Platform Dağıtımı**  
+
+&nbsp; Sıkıştırılmış SVG dosyaları cihazlar ve tarayıcılar arasında kaliteyi ve ölçeklenebilirliği korur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu SVG Sıkıştırma**  
+
+&nbsp; Birden fazla SVG dosyasının toplu olarak optimize edilmesini otomatikleştirin.
+
+
+
+* **Küçültme ve Temizlik**  
+
+&nbsp; Gereksiz meta verileri, yorumları ve boşlukları otomatik olarak kaldırın.
+
+
+
+* **İş Akışı Entegrasyonu**  
+
+&nbsp; SVG'leri CMS, DAM veya web platformlarına yükleme sırasında otomatik olarak sıkıştırın.
+
+
+
+* **Dinamik Optimizasyon Kuralları**  
+
+&nbsp; Karmaşıklık, düğüm sayısı veya işleme gereksinimlerine göre sıkıştırmayı ayarlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

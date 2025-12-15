@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+CHM压缩减小了包含HTML页面、图像和软件文档导航结构的已编译HTML帮助文件的大小。压缩的CHM文件提高了存储效率、分发速度和用户可访问性。
+
+
+
+Python API允许自动化CHM压缩、批处理处理，并与文档工作流程集成，以便可扩展地管理帮助系统和技术手册。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **软件文档交付**  
+
+  压缩的CHM文件加载速度更快，占用更少的磁盘空间。
+
+
+
+* **存档和备份**  
+
+  减少传统和大型帮助文件集的存储空间。
+
+
+
+* **高效共享**  
+
+  较小的CHM文件在网络或设备间传输速度快。
+
+
+
+* **用户可访问性**  
+
+  优化的文件提高了帮助查看器中的加载性能。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量CHM压缩**  
+
+  自动化多个帮助文件的大小减小。
+
+
+
+* **嵌入式资产优化**  
+
+  自动压缩图像、脚本和HTML页面。
+
+
+
+* **与文档流水线集成**  
+
+  在构建或部署工作流程中压缩CHM文件。
+
+
+
+* **动态压缩级别**  
+
+  根据内容大小和复杂性进行调整。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

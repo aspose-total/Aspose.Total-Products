@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT 압축은 중복을 제거하여 내용을 손상시키지 않고 일반 텍스트 파일의 크기를 줄이는 데 중점을 둡니다. 이는 저장 효율성, 빠른 전송 및 자동화 및 데이터 파이프라인에서 최적화된 처리에 중요합니다.
+
+
+
+Python API를 사용하면 자동화된 TXT 압축, 일괄 처리 및 아카이브 워크플로우를 지원하여 로그, 스크립트, 구성 파일 및 대량의 텍스트 데이터 세트를 확장 가능하게 처리할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **로그 파일 관리**  
+
+&nbsp; 대용량 로그 파일을 압축하여 저장 공간을 절약하고 검색을 개선합니다.
+
+
+
+* **데이터 아카이빙**  
+
+&nbsp; 장기 저장을 위해 일반 텍스트 데이터 세트의 풋프린트를 줄입니다.
+
+
+
+* **구성 및 스크립트 저장**  
+
+&nbsp; 압축된 TXT 파일은 자동화된 배포 및 백업을 더 효율적으로 만듭니다.
+
+
+
+* **텍스트 기반 콘텐츠 배포**  
+
+&nbsp; 더 작은 파일은 네트워크나 클라우드 시스템을 통해 전송하는 데 더 빠릅니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 TXT 압축**  
+
+&nbsp; 여러 일반 텍스트 파일에 대한 압축을 자동화합니다.
+
+
+
+* **파이프라인 통합**  
+
+&nbsp; 데이터 시스템이나 아카이브로의 삽입 중에 자동으로 TXT를 압축합니다.
+
+
+
+* **크기에 따른 동적 압축**  
+
+&nbsp; 큰 파일에 강력한 압축을 적용하면서 작은 파일은 그대로 유지합니다.
+
+
+
+* **형식 변환 및 압축**  
+
+&nbsp; 자동화된 워크플로의 일부로 TXT를 압축 아카이브(ZIP, GZ)로 변환합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

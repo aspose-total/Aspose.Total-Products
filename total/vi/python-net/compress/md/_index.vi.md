@@ -78,7 +78,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén MD tối ưu hóa các tệp Markdown bằng cách loại bỏ khoảng trắng không cần thiết, bình luận hoặc định dạng dư thừa trong khi bảo tồn cấu trúc nội dung. Điều này cải thiện hiệu quả lưu trữ, tăng tốc độ truyền tệp và tối ưu hóa quy trình xử lý trong tài liệu và luồng công việc nội dung.
+
+
+
+API Python cho phép tự động hóa việc nén MD, xử lý hàng loạt và quy trình chuyển đổi để xử lý quy mô của tài liệu kỹ thuật, blog và nội dung được kiểm soát phiên bản.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Tài Liệu**  
+
+&nbsp; Nén các kho lưu trữ Markdown lớn để lưu trữ dễ dàng hơn và thực hiện các hoạt động kiểm soát phiên bản nhanh hơn.
+
+
+
+* **Luồng Công Bố Nội Dung**  
+
+&nbsp; Các tệp MD nhỏ giúp tối ưu hóa quy trình tạo trang web và tĩnh.
+
+
+
+* **Lưu Trữ Nội Dung Markdown**  
+
+&nbsp; Giảm lưu trữ cho tài liệu lịch sử và ghi chú.
+
+
+
+* **Hợp Tác và Phân Phối**  
+
+&nbsp; Các tệp được tối ưu hóa dễ chia sẻ giữa các nhóm và hệ thống.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén MD Hàng Loạt**  
+
+&nbsp; Tự động hóa việc tối ưu hóa nhiều tệp Markdown.
+
+
+
+* **Loại Bỏ Khoảng Trắng và Bình Luận**  
+
+&nbsp; Tự động làm sạch văn bản không cần thiết mà không làm thay đổi nội dung.
+
+
+
+* **Tích Hợp Luồng Công Việc**  
+
+&nbsp; Nén các tệp MD khi nhập vào hệ thống quản lý nội dung hoặc hệ thống kiểm soát phiên bản.
+
+
+
+* **Quy Trình Chuyển Đổi + Nén**  
+
+&nbsp; Chuyển đổi MD thành HTML hoặc PDF trong khi áp dụng nén tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

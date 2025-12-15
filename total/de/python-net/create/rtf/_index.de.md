@@ -43,9 +43,79 @@ Wer versucht als Entwickler, RTF-Dateien über eine Python-Anwendung zu erstelle
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF — Rich Text Format (RTF) ist ein plattformübergreifendes Textformat, das von vielen Editoren unterstützt wird; Die auf Python basierende RTF-Generierung ist nützlich, um einfache formatierte Dokumente zu erstellen, die von einer Vielzahl von Clients akzeptiert werden müssen. RTF fehlt die fortgeschrittenen Funktionen von OOXML, glänzt jedoch mit tragbarem formatierten Text, einfachen Tabellen und Inline-Objekten.
+
+
+
+RTF-Automatisierung eignet sich für Serienbriefe, einfach formatierte Briefe oder Systeme, bei denen maximale Kompatibilität erforderlich ist. Die programmatische Erstellung kann durch Vorlagen von RTF-Fragmenten oder durch die Verwendung von Bibliotheken erfolgen, die RTF-Token direkt erstellen.
+
+Automatisierung vereinfacht die Massen-RTF-Exporte und Konvertierungspipelines, die auf leichte oder veraltete Verbraucher abzielen.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Plattformübergreifende Brieferstellung**
+
+&nbsp; Erstellen Sie RTF-Dokumente für Kunden, die leichten, tragbaren formatierten Text bevorzugen.
+
+
+
+* **Serienbriefe für einfache Dokumente**
+
+&nbsp; Generieren Sie personalisierte Briefe und Mitteilungen in RTF für eine breite Kompatibilität.
+
+
+
+* **Austausch mit Nicht-OOXML-Systemen**
+
+&nbsp; Exportieren Sie Inhalte in RTF für Systeme, die DOCX oder binäre Word-Dateien nicht verarbeiten können.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Massen-RTF-Exporte**
+
+&nbsp; Automatisieren Sie die Erstellung von Tausenden von RTF-Dateien aus strukturierten Datenfeeds.
+
+
+
+* **Format-Fallback-Pipelines**
+
+&nbsp; Bieten Sie automatisch RTF-Versionen an, wenn Verbraucher DOCX/DOCM nicht verarbeiten können.
+
+
+
+* **Einfache Vorlagen-Engines**
+
+&nbsp; Verwenden Sie programmatische Token-Ersetzung in RTF-Vorlagen als Teil eines automatisierten Workflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

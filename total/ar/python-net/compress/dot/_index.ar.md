@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ملفات DOT هي قوالب Word التي تستفيد من ضغط لتوفير المساحة وتحسين كفاءة التوزيع عبر الأنظمة.
+
+
+
+يمكن للضغط القائم على Python أن يقوم بتحسين ملف DOT تلقائيًا دون التأثير على هيكل القالب أو التنسيق.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين تخزين القوالب**  
+
+&nbsp; ضغط قوالب DOT لتخزين فعال على الحاسوب المحلي أو السحابي.
+
+
+
+* **مشاركة القوالب**  
+
+&nbsp; يعزز حجم الملف المضغوط سرعة التوزيع للتعاون في الفريق.
+
+
+
+* **أرشفة القوالب**  
+
+&nbsp; الضغط التلقائي يدعم إدارة القوالب على المدى الطويل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التلقيم" %}}
+
+
+
+* **ضغط القوالب بالدفعات**  
+
+&nbsp; يمكن لنصوص Python ضغط ملفات DOT متعددة تلقائيًا.
+
+
+
+* **التكامل مع أنظمة العمليات**  
+
+&nbsp; يمكن تحميل القوالب المضغوطة ديناميكيًا في سير العمل التلقائية.
+
+
+
+* **الضغط الانتقائي**  
+
+&nbsp; يمكن للتلقيم ضغط القوالب الكبيرة فقط أو تلك التي تحتوي على كائنات مضمنة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

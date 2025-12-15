@@ -98,7 +98,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+קבצי DOCM, המכילים מאקרוס, מרוויחים מדחיסה כדי לייעל את אחסון במתן פונקציונליות מאקרו ועיצוב.
+
+
+
+באמצעות Python APIs, דחיסת DOCM אוטומטית מבטיחה שהמאקרוס יישארו במקום ומקלה על טיפול במסמכים בתהליכי עבודה אוטומטיים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+
+
+* **אחסון בטוח למאקרוס**  
+
+&nbsp; לדחוס קבצי DOCM מבלי לשבור מאקרוס מוטבעים.
+
+
+
+* **שיתוף קבצים מהיר יותר**  
+
+&nbsp; גדלים קטנים מאפשרים העברת קבצים בדואר אלקטרוני מהירה והעלאה לענן.
+
+
+
+* **ניהול ארכיון**  
+
+&nbsp; דחיסה אוטומטית עוזרת באחסון ארוך טווח של מסמכים המאפשרים מאקרוס.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **דחיסת מסמך מאקרו בצורה צפופה**  
+
+&nbsp; אוטומציה של עיבוד מרובה של קבצי DOCM בשמירה על פונקציונליות.
+
+
+
+* **אינטגרציה עם אוטומציה באופיס**  
+
+&nbsp; קבצים דחוסים יכולים להיות מנוהלים במערכות זריזות או פתרונות DMS.
+
+
+
+* **דחיסת מאקרו תנאית**  
+
+&nbsp; סקריפטים ב-Python יכולים לדחוס באופן בררני קבצי DOCM בהתאם לגודל או התוכן.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

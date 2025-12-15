@@ -70,7 +70,75 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La comparazione HTML identifica le differenze nel markup, nei blocchi di contenuto, nei tag, negli stili e nella formattazione inline tra file web o documenti esportati. Garantisce l'accuratezza nella resa e nella presentazione dei contenuti.
+
+
+
+La comparazione HTML automatizzata supporta un controllo di qualità scalabile per i contenuti web, i portali documentali e le esportazioni HTML generate dal sistema.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Tracciamento delle revisioni dei contenuti web**  
+
+&nbsp; Evidenzia gli aggiornamenti negli elementi di testo e layout.
+
+
+
+* **Controlli di coerenza dei documenti esportati**  
+
+&nbsp; Garantisce che le esportazioni HTML corrispondano alla struttura prevista.
+
+
+
+* **Aggiornamenti della documentazione tecnica**  
+
+&nbsp; Rileva le modifiche nei blocchi di codice o nelle sezioni informative.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Rilevamento delle modifiche al markup**  
+
+&nbsp; Identifica automaticamente le modifiche a livello di tag.
+
+
+
+* **Comparazione bulk HTML**  
+
+&nbsp; Convalida grandi raccolte di output HTML.
+
+
+
+* **Pipeline di pubblicazione automatizzata**  
+
+&nbsp; Integra controlli nei sistemi di distribuzione continua dei contenuti.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

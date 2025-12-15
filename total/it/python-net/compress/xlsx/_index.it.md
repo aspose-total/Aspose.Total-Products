@@ -78,7 +78,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLSX, il formato moderno di Excel, contiene spesso grandi set di dati, tabelle e grafici. La compressione riduce i requisiti di archiviazione e migliora la velocità di trasferimento dei file.
+
+
+
+L'automazione basata su Python consente una compressione scalabile di XLSX, garantendo un'integrazione senza soluzione di continuità con i flussi di lavoro aziendali e i sistemi cloud.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Ottimizzazione dello spazio di archiviazione dei dati**  
+
+&nbsp; Comprimi i file XLSX senza influenzare i dati, le formule o la formattazione.
+
+
+
+* **Collaborazione più veloce**  
+
+&nbsp; I file più piccoli accelerano la condivisione e il caricamento su cloud.
+
+
+
+* **Efficienza nell'archiviazione e nel backup**  
+
+&nbsp; Automatizza la compressione per la gestione a lungo termine dei file XLSX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Compressione batch di XLSX**  
+
+&nbsp; Comprimi automaticamente più file XLSX utilizzando script Python.
+
+
+
+* **Integrazione nei flussi di lavoro**  
+
+&nbsp; I file XLSX compressi possono essere elaborati in pipeline di analisi o sistemi DMS.
+
+
+
+* **Compressione condizionale**  
+
+&nbsp; Seleziona i file in base alle dimensioni, ai media incorporati o alla complessità dei dati.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

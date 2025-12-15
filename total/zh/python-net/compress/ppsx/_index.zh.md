@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSX文件（现代PowerPoint Show）通过压缩实现减少存储空间和更快共享的好处，保留幻灯片内容、动画和嵌入式媒体。
+
+
+
+Python API实现自动PPSX压缩，改善演示文稿工作流程和可扩展性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **存储优化**  
+
+&nbsp; 在不影响幻灯片或动画的情况下压缩PPSX文件。
+
+
+
+* **更快协作**  
+
+&nbsp; 较小的文件可快速在团队和平台之间共享。
+
+
+
+* **档案效率**  
+
+&nbsp; 自动压缩确保演示文件的长期存储。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量PPSX压缩**  
+
+&nbsp; Python脚本可以自动压缩多个PPSX文件。
+
+
+
+* **与工作流和云系统集成**  
+
+&nbsp; 压缩的PPSX文件可以在自动化工作流中动态处理。
+
+
+
+* **智能压缩规则**  
+
+&nbsp; 有条件的自动化针对具有高分辨率媒体的文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

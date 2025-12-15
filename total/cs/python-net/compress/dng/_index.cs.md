@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese DNG se zaměřuje na optimalizaci souborů s raw obrazy pořízených digitálními fotoaparáty při zachování maximální kvality obrazu. Vzhledem k tomu, že soubory DNG často obsahují data ze senzoru ve vysokém rozlišení, komprese snižuje potřeby úložiště, zrychluje přenos souborů a zlepšuje efektivitu pracovního postupu v oblasti fotografie a zpracování obrazu.
+
+
+
+Pythonové API umožňují automatizovanou kompresi DNG, hromadné zpracování a konverzi do jiných formátů, což umožňuje škálovatelné řízení velkých fotoknihoven a profesionálních systémů pro zpracování obrazu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace archivu fotografa**  
+
+&nbsp; Kompresí DNG souborů se snižuje úložiště bez ohrožení věrnosti raw obrazu.
+
+
+
+* **Rychlejší přenos obrazu**  
+
+&nbsp; Menší soubory umožňují rychlejší sdílení mezi fotoaparáty, pracovními stanicemi a cloudovým úložištěm.
+
+
+
+* **Správa digitálních aktiv**  
+
+&nbsp; Kompresované knihovny DNG jsou snáze organizovatelné, vyhledatelné a obnovitelné.
+
+
+
+* **Postprocesní pracovní postupy**  
+
+&nbsp; Umožňuje rychlejší načítání raw souborů do úprav obrazu a AI zlepšených postupů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese DNG**  
+
+&nbsp; Automatizujte optimalizaci více souborů s raw obrazy hromadně.
+
+
+
+* **Dynamická komprese na základě rozlišení**  
+
+&nbsp; Pythonové pracovní postupy mohou upravit úrovně komprese v závislosti na velikosti senzoru nebo rozměrech obrazu.
+
+
+
+* **Automatizovaná konverze formátu**  
+
+&nbsp; Převeďte DNG na TIFF, JPEG nebo WebP a automaticky aplikujte kompresi.
+
+
+
+* **Integrace s systémy pro správu digitálních aktiv**  
+
+&nbsp; Kompresujte obrazy DNG při nahrávání pro optimalizované úložiště a rychlejší zpracování.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

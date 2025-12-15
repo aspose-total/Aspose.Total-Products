@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تركز ضغط DNG على تحسين ملفات الصور الخام التي تم التقاطها بواسطة الكاميرات الرقمية مع الحفاظ على أقصى جودة للصورة. نظرًا لأن ملفات DNG غالبًا ما تحتوي على بيانات عالية الدقة للمستشعر، يقلل الضغط من احتياجات التخزين، ويسرع نقل الملفات، ويحسن كفاءة سير العمل في مجال التصوير الفوتوغرافي والصور.
+
+
+
+تسمح واجهات برمجة التطبيقات باستخدام البايثون بضغط DNG تلقائيًا، ومعالجة الدفعات، وتحويلها إلى تنسيقات أخرى، مما يمكن من إدارة مكتبات الصور الكبيرة وأنظمة التصوير المهنية بشكل موسع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين أرشيف المصور**  
+
+&nbsp; يقلل ضغط ملفات DNG من حجم التخزين دون المساس بجودة الصورة الخام.
+
+
+
+* **نقل الصور بشكل أسرع**  
+
+&nbsp; تسمح الملفات الأصغر بمشاركة أسرع بين الكاميرات ومحطات العمل وتخزين السحابة.
+
+
+
+* **إدارة الأصول الرقمية**  
+
+&nbsp; تصبح مكتبات DNG المضغوطة أسهل في التنظيم والبحث والاسترداد.
+
+
+
+* **سير العمل بعد المعالجة**  
+
+&nbsp; يمكن تحميل الملفات الخام بشكل أسرع إلى تحرير الصور وأنابيب التعزيز بالذكاء الاصطناعي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط دفعات DNG**  
+
+&nbsp; يمكن أتمتة تحسين ملفات الصور الخام المتعددة بالجملة.
+
+
+
+* **ضغط ديناميكي بناءً على الدقة**  
+
+&nbsp; يمكن لسير العمل بالبايثون ضبط مستويات الضغط اعتمادًا على حجم المستشعر أو أبعاد الصورة.
+
+
+
+* **تحويل التنسيق تلقائيًا**  
+
+&nbsp; تحويل DNG إلى TIFF، JPEG، أو WebP مع تطبيق الضغط تلقائيًا.
+
+
+
+* **التكامل مع أنظمة إدارة الأصول الرقمية**  
+
+&nbsp; ضغط صور DNG عند الرفع لتحسين التخزين وتسريع المعالجة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

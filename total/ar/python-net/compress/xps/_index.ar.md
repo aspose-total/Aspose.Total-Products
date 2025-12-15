@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يقلل ضغط XPS (XML Paper Specification) من حجم الوثائق ذات التخطيط الثابت مع الحفاظ على الجودة والرسومات البيانية الناقلة والخطوط المضمنة. تحسن ملفات XPS المضغوطة كفاءة التخزين والنقل وأداء العرض عبر الأجهزة.
+
+
+
+تمكن واجهات برمجة التطبيقات في Python من ضغط XPS تلقائيًا، ومعالجة دفعية، ودمجها في سير العمل الوثائقي لإدارة المحتوى وتوزيعه بشكل موسع.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **أرشفة الوثائق**  
+
+&nbsp; ضغط ملفات XPS للتخزين على المدى الطويل دون فقدان الجودة.
+
+
+
+* **توزيع فعال**  
+
+&nbsp; تنتقل ملفات XPS الأصغر حجمًا بسرعة عبر الشبكات أو الأجهزة.
+
+
+
+* **سير العمل للطباعة والنشر**  
+
+&nbsp; يحسن XPS المُحسن السرعة في العرض وأداء الطباعة.
+
+
+
+* **المكتبات الرقمية**  
+
+&nbsp; يقلل من بصمة التخزين لمجموعات الوثائق ذات التخطيط الثابت.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط XPS دفعي**  
+
+&nbsp; أتمتة تقليل الحجم لعدة ملفات XPS.
+
+
+
+* **تحسين الأصول المضمنة**  
+
+&nbsp; ضغط الخطوط والصور والرسومات تلقائيًا.
+
+
+
+* **دمج السير العمل**  
+
+&nbsp; ضغط ملفات XPS ديناميكيًا عند التحميل إلى أنظمة إدارة المحتوى، ونظم إدارة الأصول الرقمية، أو خطوط الطباعة.
+
+
+
+* **مستويات الضغط الديناميكية**  
+
+&nbsp; تعديل استنادًا إلى محتوى الوثيقة، والدقة، أو الإخراج المقصود.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

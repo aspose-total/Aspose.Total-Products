@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+توفر التعليقات المهيكلة لملفات النصوص ذات الوثيقة المفتوحة (ODT) تعليقًا محسّنًا وتسليط الضوء والملاحظات السياقية، مما يعزز وضوح المحتوى والتعاون على الوثائق. ويعزز هذا الأمر قابلية الاستخدام عبر المنصات التي تعتمد على المعايير المفتوحة.
+
+تعزز التعليقات التلقائية على ملفات ODT الكفاءة من خلال تطبيق تعليقات قائمة على القواعد، وفحص المحتوى، وتحديث البيانات الوصفية برمجيًا.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **ملاحظات تحرير المحتوى**  
+
+&nbsp; إدراج ملاحظات للأقسام التي تحتاج إلى تنقيح.
+
+* **تسليط الضوء الدلالي**  
+
+&nbsp; التأكيد على العبارات أو المسائل المهمة.
+
+* **بيانات التعاون الوصفية**  
+
+&nbsp; إضافة ملاحظات مهيكلة للتصنيف.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **تعليقات البرهان التلقائية**  
+
+&nbsp; تطبيق اقتراحات توليده النظام باستخدام Python.
+
+* **مراجعة الوثائق الجماعية**  
+
+&nbsp; معالجة وتعليق ملفات ODT متعددة دفعة واحدة.
+
+* **علامات توضيحية موحدة**  
+
+&nbsp; إدراج تذكيرات متسقة أو إرشادات عبر النصوص.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Los archivos XLSM (libros de Excel habilitados para macros) requieren compresión que preserve las macros incrustadas mientras se optimiza el almacenamiento y uso compartido.
+
+
+
+Las API de Python permiten la compresión automatizada de XLSM, manteniendo la funcionalidad de las macros y permitiendo la integración escalable de flujos de trabajo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Preservación de macros**  
+
+&nbsp; Comprimir archivos XLSM de forma segura sin romper las macros incrustadas.
+
+
+
+* **Uso compartido y colaboración más rápidos**  
+
+&nbsp; Archivos XLSM más pequeños facilitan los flujos de trabajo en equipo y las cargas en la nube.
+
+
+
+* **Archivado automatizado**  
+
+&nbsp; La compresión garantiza un almacenamiento eficiente para libros de trabajo habilitados para macros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Compresión por lotes de XLSM**  
+
+&nbsp; Los scripts de Python pueden procesar automáticamente varios archivos habilitados para macros.
+
+
+
+* **Integración con plataformas de BI y DMS**  
+
+&nbsp; Los archivos comprimidos pueden ser gestionados en sistemas automatizados.
+
+
+
+* **Compresión condicional**  
+
+&nbsp; La automatización puede dirigirse a archivos con macros grandes o contenido multimedia pesado.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +213,7 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

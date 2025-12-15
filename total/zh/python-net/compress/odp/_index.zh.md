@@ -101,7 +101,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODP压缩可减小OpenDocument Presentation文件的大小，优化带有文本、图像和嵌入式媒体的幻灯片。压缩的ODP文件提高了存储效率，在演示文稿中加载更快，表现更流畅。
+
+
+
+Python API可实现自动化ODP压缩、批量处理和媒体优化，用于可扩展的演示文稿管理和交付工作流。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **演示文稿优化**  
+
+&nbsp; 较小的ODP文件在编辑器和查看器中加载更快。
+
+
+
+* **存储和归档效率**  
+
+&nbsp; 减少大型幻灯片库的磁盘空间使用。
+
+
+
+* **内容共享和分发**  
+
+&nbsp; 压缩文件在网络和设备间传输速度快。
+
+
+
+* **工作流集成**  
+
+&nbsp; 优化的ODP文件提高了自动化演示文稿流程中的性能。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量ODP压缩**  
+
+&nbsp; 自动优化多个演示文稿文件。
+
+
+
+* **媒体和图像优化**  
+
+&nbsp; 自动压缩嵌入的图像和媒体。
+
+
+
+* **与CMS或DAM集成**  
+
+&nbsp; 在上传或归档过程中压缩ODP文件。
+
+
+
+* **动态压缩**  
+
+&nbsp; 根据幻灯片内容和媒体密度调整压缩强度。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLTM 파일(매크로 활성화 템플릿)은 매크로를 보존하면서 파일 크기를 줄이고 배포를 개선하는 압축이 필요합니다.
+
+
+
+파이썬 기반의 자동화는 기업 워크플로에 대한 확장 가능한 XLTM 템플릿 압축을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **매크로 보존**  
+
+&nbsp; XLTM 템플릿을 압축하면서 매크로를 유지합니다.
+
+
+
+* **효율적인 공유**  
+
+&nbsp; 작은 템플릿은 팀 간 협업을 향상시킵니다.
+
+
+
+* **템플릿 아카이빙**  
+
+&nbsp; 자동 압축은 장기간 템플릿 저장을 개선합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 XLTM 압축**  
+
+&nbsp; 파이썬 스크립트는 여러 매크로 활성화 템플릿을 자동으로 처리할 수 있습니다.
+
+
+
+* **BI 및 워크플로 시스템 통합**  
+
+&nbsp; 압축된 XLTM 템플릿은 자동화된 파이프라인에서 사용할 수 있습니다.
+
+
+
+* **조건부 압축**  
+
+&nbsp; 대형 템플릿이나 포함된 미디어가 있는 템플릿을 대상으로 압축합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

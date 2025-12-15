@@ -75,7 +75,65 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'annotazione DOT consiste nell'aggiungere note strutturate e commenti ai file di modello di Word, aiutando i team a standardizzare la creazione di documenti mantenendo istruzioni chiare. Questo migliora l'usabilità del modello e garantisce una formattazione coerente tra i documenti generati.
+
+L'annotazione DOT automatizzata semplifica la manutenzione del modello, consentendo ai sistemi di applicare aggiornamenti o indicazioni in modo dinamico.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Istruzioni del modello**  
+
+  Aggiungi note che guidino gli utenti su come compilare le sezioni.
+
+* **Standard di formattazione**  
+
+  Evidenzia le regole di struttura o stile richieste.
+
+* **Tracciamento delle revisioni**  
+
+  Segna le modifiche alle linee guida del modello.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Aggiornamenti di massa del modello**  
+
+  Inserisci istruzioni aggiornate in modo programmato.
+
+* **Script di standardizzazione**  
+
+  Annota automaticamente sezioni mancanti o errate.
+
+* **Controlli di conformità alle linee guida**  
+
+  Evidenzia le deviazioni dalle politiche del modello.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

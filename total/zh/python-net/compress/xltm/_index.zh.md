@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLTM文件（启用宏的模板）需要保留宏的压缩，同时减小文件大小并改善分发。
+
+
+
+基于Python的自动化支持可扩展的XLTM模板压缩，适用于企业工作流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **宏保留**  
+
+&nbsp; 在压缩XLTM模板的同时保留宏。
+
+
+
+* **高效共享**  
+
+&nbsp; 更小的模板有助于团队间的协作。
+
+
+
+* **模板存档**  
+
+&nbsp; 自动压缩改善长期模板存储。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量XLTM压缩**  
+
+&nbsp; Python脚本可以自动处理多个启用宏的模板。
+
+
+
+* **与BI和工作流系统集成**  
+
+&nbsp; 压缩的XLTM模板可用于自动化流程中。
+
+
+
+* **条件压缩**  
+
+&nbsp; 针对大型模板或嵌入式媒体的模板进行压缩。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

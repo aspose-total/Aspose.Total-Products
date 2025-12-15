@@ -43,9 +43,73 @@ Pour un développeur, qui essaie de créer des fichiers DOC via une application 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOC — La création de fichiers `.doc` (Word binaire hérité) via des API Python permet l'automatisation pour les anciens systèmes et préserve la compatibilité avec les chaînes d'outils héritées. Les approches Python typiques reposent sur des bibliothèques qui peuvent assembler la structure binaire ou utiliser l'automatisation COM sur Windows pour exporter ou enregistrer des documents binaires classiques à partir de contenu programmatique.
+
+
+
+Le scripting DOC est utile lorsque la compatibilité ascendante est requise ; les documents générés peuvent inclure du texte structuré, des styles de base, des en-têtes/pieds de page et des objets intégrés là où c'est pris en charge.
+
+L'automatisation permet de créer des pipelines de conversion qui acceptent des sources modernes (markdown, HTML, DOCX) et émettent des fichiers `.doc` pour l'archivage ou l'intégration avec des applications héritées.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Intégration avec les systèmes hérités**
+  &nbsp; Produire des fichiers .doc pour les anciens logiciels d'entreprise qui nécessitent le format binaire.
+
+
+
+* **Exportations d'archives**
+  &nbsp; Convertir des documents modernes en .doc pour un stockage à long terme lorsque cela est requis par les politiques héritées.
+
+
+
+* **Interopérabilité avec les anciens outils**
+  &nbsp; Créer des sorties .doc pour assurer la compatibilité avec les anciens systèmes de publipostage ou d'impression.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Conversion de format automatisée**
+  &nbsp; Convertir en lot des fichiers DOCX en DOC dans des tâches planifiées pour des tests de compatibilité.
+
+
+
+* **Exportation scriptée à partir de modèles**
+  &nbsp; Utiliser une génération basée sur des modèles qui enregistre les documents finaux en .doc pour des processus ultérieurs.
+
+
+
+* **Intégration avec les pipelines ETL**
+  &nbsp; Incorporer la génération de DOC dans des tâches ETL qui préparent des documents pour les consommateurs hérités.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

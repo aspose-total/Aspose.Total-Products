@@ -78,7 +78,87 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az OTT tömörítés az OpenDocument Text Template fájlokra összpontosít, optimalizálja a elrendezést, stílusokat és beágyazott médiákat a fájlméret csökkentése érdekében. A tömörített OTT fájlok javítják a tárolást, a továbbítási sebességet és a munkafolyamat hatékonyságát a sablonvezérelt dokumentum létrehozásában.
+
+
+
+A Python API-k lehetővé teszik az automatizált OTT tömörítést, a batch feldolgozást és az integrációt dokumentumautomatizálási rendszerekkel a skálázható sablonkezelés érdekében.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Sablonkönyvtár optimalizálása**  
+
+&nbsp; Kisebb OTT fájlok csökkentik a tárolási igényt nagy sablon gyűjtemények esetén.
+
+
+
+* *\nEffektív megosztás és együttműködés**  
+
+&nbsp; A tömörített sablonok gyorsabban terjeszthetők és elérhetők.
+
+
+
+* **Munkafolyamat integráció**  
+
+&nbsp; Az optimalizált OTT fájlok javítják a teljesítményt az automatizált dokumentumgenerálási csövekben.
+
+
+
+* **Archiválás és biztonsági másolatok**  
+
+&nbsp; Csökkentse a tárolási igényt a történelmi sablonverziók esetén.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Batch OTT tömörítés**  
+
+&nbsp; Több sablon méretének automatizált csökkentése.
+
+
+
+* **Beágyazott média optimalizálása**  
+
+&nbsp; Képek, objektumok és stílusok automatikus tömörítése a sablonokban.
+
+
+
+* **Integráció CMS/DAM-mal**  
+
+&nbsp; Az OTT fájlok tömörítése feltöltéskor a dokumentumkezelési rendszerekbe.
+
+
+
+* **Dinamikus tömörítési szintek**  
+
+&nbsp; Az optimalizálás beállítása a tartalom bonyolultsága és felhasználási kontextus alapján.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

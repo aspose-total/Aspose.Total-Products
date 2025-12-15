@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การประทับรอยข้อความ (TXT annotation) ช่วยเสริมความเข้าใจในการทำงานทางเทคนิคและงานเอกสารโดยเพิ่มความคิดเห็นที่มีโครงสร้าง เครื่องหมายตัวชี้และบันทึกการทบทวน ช่วยในการอธิบายเนื้อหาโดยไม่เปลี่ยนแปลงความเรียบง่ายของไฟล์
+
+การอัตโนมัติสนับสนุนการประมวลผล TXT อย่างรวดเร็วและขนาดใหญ่โดยการตรวจจับรูปแบบ แทรกประทับรอยและบังคับบันทึกโครงสร้าง
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **ความคิดเห็นทางเทคนิค**  
+
+&nbsp; เพิ่มบันทึกที่มีคำอธิบายสำหรับไฟล์การกำหนดค่าหรือโค้ด
+
+* **การระบุข้อผิดพลาด**  
+
+&nbsp; ทำเครื่องหมายบรรทัดที่น่าสงสัยหรือล้าสมัย
+
+* **การทำเครื่องหมายสอน**  
+
+&nbsp; แทรกแท็กคำแนะนำที่เรียบง่าย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การประทับรอยโดยใช้รูปแบบ**  
+
+&nbsp; ตรวจจับและเน้นโครงสร้างที่กำหนดไว้ล่วงหน้า
+
+* **การประมวลผลไฟล์เป็นกลุ่ม**  
+
+&nbsp; ประทับรอยชุดข้อมูล TXT ขนาดใหญ่โดยการเขียนโปรแกรม
+
+* **บันทึกการทบทวนโดยอัตโนมัติ**  
+
+&nbsp; แทรกความคิดเห็นที่มีกฎเป็นเหตุผลในไฟล์ต่าง ๆ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

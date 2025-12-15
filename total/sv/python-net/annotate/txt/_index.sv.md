@@ -75,7 +75,65 @@ För mer information, se [Produktdokumentation](https://docs.aspose.com/words/py
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT-anteckningar berikar vanliga textfiler med strukturerade kommentarer, markörer och granskningsanteckningar, vilket förbättrar förståelsen i tekniska och dokumentationsflöden. Det hjälper till att förtydliga innehållet utan att ändra filens enkelhet.
+
+Automatisering stöder snabb, storskalig TXT-behandling genom att upptäcka mönster, infoga anteckningar och tvinga fram strukturerade anteckningar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+
+
+* **Tekniska kommentarer**  
+
+&nbsp; Lägg till beskrivande anteckningar för konfigurations- eller kodfiler.
+
+* **Felidentifiering**  
+
+&nbsp; Markera misstänkta eller föråldrade rader.
+
+* **Instruktionsmarkering**  
+
+&nbsp; Infoga enkla vägledningsmarkörer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Mönsterbaserad anteckning**  
+
+&nbsp; Upptäck och markera fördefinierade strukturer.
+
+* **Massbehandling av filer**  
+
+&nbsp; Anteckna stora TXT-samlingar programmatiskt.
+
+* **Automatiska granskningsanteckningar**  
+
+&nbsp; Infoga regelstyrda kommentarer över filer.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

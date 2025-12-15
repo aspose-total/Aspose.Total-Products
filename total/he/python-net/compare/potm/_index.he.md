@@ -68,7 +68,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+השוואת POTM מתמקדת בתבניות המצגות המאופשרות מאקרו, מדגישה את ההבדלים בפריסת השקופיות, הערכות נושא ותסריטים מוטמעים. היא מבטיחה איכות ובטיחות של התבנית.
+
+
+
+השוואה אוטומטית של POTM תומכת בבקרת גרסאות וממשק על תהליכי עבודה המבוססים על מצגות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **שלמות תבנית מאקרו**  
+
+  &nbsp; מזהה שינויים בקוד מוטמע ועיצוב שקופיות.
+
+
+
+* **בקרת איכות של תבנית**  
+
+  &nbsp; מבטיח פריסות עיצוב עקביות.
+
+
+
+* **תקנת מותג**  
+
+  &nbsp; מאשר איכות תבנית בקרב צוותים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **מעקב אוטומטי אחר מאקרו**  
+
+  &nbsp; מסמן עדכונים לתסריטים מוטמעים.
+
+
+
+* **השוואת תבניות במערכת גדולה**  
+
+  &nbsp; תומכת בספריות תבניות ברמה הארגונית.
+
+
+
+* **צינון שינויים בצינוניות**  
+
+  &nbsp; משלב בדיקות לתהליכי עבודה במצגות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

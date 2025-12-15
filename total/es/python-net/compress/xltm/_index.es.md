@@ -78,7 +78,75 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Los archivos XLTM (plantillas habilitadas para macros) requieren compresión que preserve los macros mientras reduce el tamaño del archivo y mejora la distribución.
+
+
+
+La automatización basada en Python admite la compresión escalable de plantillas XLTM para flujos de trabajo empresariales.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Preservación de macros**  
+
+&nbsp; Mantener los macros al comprimir plantillas XLTM.
+
+
+
+* **Compartir eficiente**  
+
+&nbsp; Plantillas más pequeñas mejoran la colaboración entre equipos.
+
+
+
+* **Archivo de plantillas**  
+
+&nbsp; La compresión automatizada mejora el almacenamiento a largo plazo de plantillas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Compresión masiva de XLTM**  
+
+&nbsp; Los scripts de Python pueden procesar múltiples plantillas habilitadas para macros automáticamente.
+
+
+
+* **Integración con sistemas de BI y flujos de trabajo**  
+
+&nbsp; Las plantillas XLTM comprimidas se pueden utilizar en pipelines automatizados.
+
+
+
+* **Compresión condicional**  
+
+&nbsp; Dirigir la compresión a plantillas grandes o aquellas con medios incrustados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

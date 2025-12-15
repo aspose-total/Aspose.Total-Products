@@ -43,9 +43,79 @@ Pour un développeur, qui essaie de créer des fichiers RTF via une application 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF — Rich Text Format (RTF) est un format de texte multiplateforme pris en charge par de nombreux éditeurs ; la génération RTF basée sur Python est utile lors de la production de documents simplement stylisés qui doivent être acceptés par une grande variété de clients. RTF ne possède pas les fonctionnalités avancées de OOXML mais excelle dans le texte stylisé portable, les tableaux simples et les objets en ligne.
+
+
+
+L'automatisation RTF est appropriée pour la fusion de courrier, les lettres au style simple, ou les systèmes nécessitant une compatibilité maximale. La création programmatique peut être réalisée en utilisant des fragments RTF en tant que modèles ou en utilisant des bibliothèques qui construisent directement des jetons RTF.
+
+
+
+L'automatisation simplifie les exportations RTF en masse et les pipelines de conversion ciblant des consommateurs légers ou hérités.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Génération de lettres multiplateforme**
+
+&nbsp; Produire des documents RTF pour les clients qui préfèrent un texte stylisé portable.
+
+
+
+* **Fusion de courrier pour des documents simples**
+
+&nbsp; Générer des lettres personnalisées et des avis en RTF pour une large compatibilité.
+
+
+
+* **Échange avec des systèmes non-OOXML**
+
+&nbsp; Exporter du contenu en RTF pour les systèmes qui ne peuvent pas analyser les fichiers DOCX ou Word binaires.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Exportations RTF en masse**
+
+&nbsp; Automatiser la création de milliers de fichiers RTF à partir de flux de données structurées.
+
+
+
+* **Pipelines de secours de format**
+
+&nbsp; Fournir automatiquement des versions RTF lorsque les consommateurs ne peuvent pas gérer les fichiers DOCX/DOCM.
+
+
+
+* **Moteurs de modélisation simples**
+
+&nbsp; Utiliser le remplacement de jetons programmatique dans les modèles RTF dans le cadre d'un flux de travail automatisé.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

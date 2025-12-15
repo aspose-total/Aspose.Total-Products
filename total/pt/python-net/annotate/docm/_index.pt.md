@@ -75,7 +75,65 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A anotação DOCM permite adicionar notas, destaques e metadados a documentos do Word habilitados para macro, suportando fluxos de trabalho que requerem scripts dinâmicos ou automação incorporada. Isso ajuda os usuários a documentar a lógica, rastrear alterações e manter clareza em torno dos comportamentos de macro.
+
+Ao anotar arquivos DOCM de forma programática, sistemas de automação podem monitorar o uso de macros, aprimorar a consistência da documentação e otimizar os processos de validação.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Documentação de Macros**  
+
+  Label e descreva ações orientadas por macros dentro do documento.
+
+* **Rastreamento de Conformidade**  
+
+  Adicione notas confirmando scripts ou validações necessárias.
+
+* **Registro de Alterações**  
+
+  Destaque atualizações relacionadas a macros para visibilidade.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Verificação e Anotação de Macros**  
+
+  Insira automaticamente comentários descrevendo funções de macro detectadas.
+
+* **Relatórios de Conformidade Dinâmicos**  
+
+  Preencha anotações quando macros atenderem ou falharem em determinadas verificações.
+
+* **Ferramentas de Revisão Baseadas em Scripts**  
+
+  Use Python para aplicar anotações estruturadas em escala.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -101,7 +101,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pliki PPSM (prezentacja programu PowerPoint z obsługą makr) wymagają kompresji zachowującej makra, jednocześnie zmniejszając rozmiar pliku w celu efektywnego udostępniania i przechowywania.
+
+
+
+Automatyzacja oparta na Pythonie pozwala na skalowalną kompresję PPSM zachowując funkcjonalność makr.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Zachowanie makr**  
+
+&nbsp; Bezpieczna kompresja plików PPSM bez uszkadzania makr.
+
+
+
+* **Szybsze udostępnianie**  
+
+&nbsp; Mniejsze pliki umożliwiają efektywne dystrybuowanie ich zespołom lub przechowywanie w chmurze.
+
+
+
+* **Zarządzanie archiwalne**  
+
+&nbsp; Automatyzowana kompresja zapewnia długoterminowe przechowywanie plików prezentacji z obsługą makr.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Kompresja wsadowa PPSM**  
+
+&nbsp; Skrypty Pythona mogą automatycznie przetwarzać wiele plików prezentacji z obsługą makr.
+
+
+
+* **Integracja z systemami przepływu pracy**  
+
+&nbsp; Skompresowane pliki PPSM mogą być używane w zautomatyzowanych procesach prezentacji.
+
+
+
+* **Kompresja warunkowa**  
+
+&nbsp; Docelowe pliki można wybierać na podstawie użycia makr lub osadzonych mediów w celu optymalizacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLSM 파일(매크로 활성화된 Excel 워크북)은 포함된 매크로를 보존하면서 저장 공간을 최적화하고 공유하기 위한 압축이 필요합니다.
+
+
+
+Python API를 사용하여 자동화된 XLSM 압축을 수행하여 매크로 기능을 유지하고 확장 가능한 워크플로 통합을 가능하게 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **매크로 보존**  
+
+&nbsp; 포함된 매크로를 손상시키지 않고 XLSM 파일을 안전하게 압축합니다.
+
+
+
+* **보다 빠른 공유 및 협업**  
+
+&nbsp; 작은 XLSM 파일은 팀 워크플로 및 클라우드 업로드를 용이하게 합니다.
+
+
+
+* **자동 아카이빙**  
+
+&nbsp; 압축을 통해 매크로 활성화된 워크북을 효율적으로 저장합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 XLSM 압축**  
+
+&nbsp; Python 스크립트를 사용하여 여러 매크로 활성화된 파일을 자동으로 처리할 수 있습니다.
+
+
+
+* **BI 및 DMS 플랫폼과의 통합**  
+
+&nbsp; 압축된 파일은 자동화된 시스템에서 관리할 수 있습니다.
+
+
+
+* **조건부 압축**  
+
+&nbsp; 자동화를 통해 큰 매크로나 무거운 미디어 콘텐츠를 포함한 파일을 대상으로 할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

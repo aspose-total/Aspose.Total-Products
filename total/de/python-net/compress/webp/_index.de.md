@@ -78,7 +78,41 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## WEBP-Komprimierung
+
+WEBP-Komprimierung konzentriert sich auf die Reduzierung der Dateigröße für weboptimierte Bilder bei gleichzeitig hoher visueller Qualität. WEBP unterstützt sowohl verlustbehaftete als auch verlustfreie Komprimierung, was es ideal für Webgrafiken, App-Schnittstellen und die Bereitstellung digitaler Inhalte macht.
+
+Python-APIs ermöglichen automatisierte WEBP-Komprimierung, Stapelverarbeitung und Konvertierung aus anderen Formaten, um skalierbare Workflows für die Optimierung der Webleistung und das cloudbasierte Bildmanagement zu unterstützen.
+
+## Verwendungszwecke
+
+- **Web- und App-Performance**
+  Comprimierte WEBP-Bilder verbessern die Seitenladezeit und reduzieren den Bandbreitenverbrauch.
+
+- **Reaktionsfähige digitale Inhalte**
+  Hohe visuelle Qualität für Websites, Apps und Online-Plattformen beibehalten.
+
+- **Marketing- und Social-Media-Ressourcen**
+  Kleinere WEBP-Dateien sorgen für schnellere Uploads und Rendering für Kampagnen.
+
+- **Archivierung und Cloud-Speicherung**
+  Reduziert den Speicherbedarf für große Bildbibliotheken.
+
+## Automatisierungsszenarien
+
+- **Stapelverarbeitung von WEBP**
+  Automatische Komprimierung mehrerer WEBP-Dateien in einem Python-gesteuerten Prozess.
+
+- **Verlustlose oder verlustbehaftete Auswahl**
+  Die Automatisierung wählt den optimalen Kompressionstyp basierend auf dem Bildinhalt und den Anforderungen aus.
+
+- **Workflow-Integration**
+  WEBP-Bilder automatisch während des Uploads in CMS, DAM oder Cloud-Plattformen komprimieren.
+
+- **Dynamische Qualitätsanpassung**
+  Die Komprimierung kann basierend auf der Auflösung, dem Zielgerät oder den Netzwerkbedingungen angepasst werden.
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

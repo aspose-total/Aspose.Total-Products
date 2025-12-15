@@ -78,7 +78,43 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## {{< blocks/products/pf/agp/feature-section >}}
+
+CDRの圧縮は、CorelDRAWベクターグラフィックスを最適化してファイルサイズを削減することに焦点を当てており、形状、レイヤー、テキスト、およびデザイン構造を保持します。CDRファイルには複雑なベクターオブジェクトや埋め込みメディアが含まれることがあるため、圧縮はプロジェクトの処理、ストレージ効率、およびデザインワークフローのパフォーマンスを向上させるために重要です。
+
+PythonのAPIを使用すると、CDRファイルの自動圧縮、最適化、変換が可能となり、製作、印刷、デジタルコンテンツ環境でのグラフィックアセットのスケーラブルな管理が実現されます。
+
+## {{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+* **グラフィックデザインアセットの最適化**
+   圧縮により複雑なベクターデザインを簡略化し、プロジェクトの保存と共有を効率化します。
+
+* **印刷プロダクションワークフロー**
+   より小さなCDRファイルは、印刷前処理および印刷処理段階でのパフォーマンスを向上させます。
+
+* **バージョン管理されたファイルリポジトリ**
+   圧縮により大規模なデザインアーカイブを軽量化し、管理しやすくします。
+
+* **クロスプラットフォーム配信**
+   ファイルサイズを削減することで、デザインチーム、ツール、およびクライアント間の転送速度が向上します。
+
+## {{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチCDR圧縮**
+   一度に数百のCorelDRAWファイルの最適化を自動化します。
+
+* **CDRから最適化された形式への変換**
+   CDRをSVG、PDF、またはPNGに変換しながら圧縮ルールを適用します。
+
+* **デザインパイプラインの統合**
+   アセットをCMS、DAM、またはワークフローシステムにアップロードする際に自動的に圧縮します。
+
+* **適応型圧縮ルール**
+   ファイルの複雑さや埋め込みメディアに基づいて自動的に圧縮レベルを調整します。
+
+## {{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

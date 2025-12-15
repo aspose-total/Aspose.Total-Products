@@ -43,9 +43,75 @@ Python uygulaması aracılığıyla DOCM dosyaları oluşturmaya çalışan bir 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM — `.docm` dosyaları gömülü makroları destekler ve belgelerin programlanabilir davranışları içermesi gerektiğinde idealdir; Python API'leri, OOXML içeriğini bir araya getirerek ve imzalı veya imzasız VBA projelerini otomasyon aracılığıyla ekleyerek makro destekli belgeler oluşturabilir. Programlı oluşturma, makroların tutarlı bir şekilde paketlenmesini sağlar ve derleme sırasında doğrulanabilir veya imzalanabilir.
+
+DOCM kullanmak uygun olabilir, iş mantığının (özel alanlar, dışa aktarma düğmeleri veya veri toplama makroları) belgenin içinde olması gerektiğinde; otomasyon, güvenlik ve uyumluluk kontrollerini karşılamak için makro içeriğinin eklenmesine, test edilmesine ve kontrol edilmesine olanak tanır.
+
+Otomatik testler ve CI süreçleri, makro kod bütünlüğünü sağlayabilir ve dağıtımdan önce makroları imzalayabilir.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Belgeye Gömülü Otomasyon**
+
+&nbsp; Yapılandırılmış veri yakalama veya yerel dönüşümler için onaylanmış makroları çalıştıran DOCM dosyalarını dağıtın.
+
+
+
+* **Kontrollü Makro Dağıtımı**
+
+&nbsp; Düzenlenmiş makro davranışı için derleme zamanında belgelere onaylanmış VBA modülleri ekleyin.
+
+
+
+* **Makro Etkin Şablonlar**
+
+&nbsp; Önceden hazırlanmış otomasyonla DOCM belgelerini oluşturmak için DOTM şablonlarını kaynak olarak kullanın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Makroların CI Doğrulaması**
+
+&nbsp; VBA kodunda otomatik olarak statik analiz çalıştırın ve politika ihlallerinde derlemeleri engelleyin.
+
+
+
+* **İmzalama ve Paketleme**
+
+&nbsp; Makroların dijital imzalanmasını otomatikleştirin ve DOCM dosyalarını güvenli dağıtım için paketleyin.
+
+
+
+* **Güvenli Depolardan Makro Enjeksiyonu**
+
+&nbsp; Güvenli bir depodan onaylanmış VBA parçacıklarını çekin ve oluşturulan DOCM dosyalarına gömün.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}} 
+ 
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

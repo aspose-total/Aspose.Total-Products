@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การเปรียบเทียบข้อความ TXT ช่วยให้เห็นได้ชัดเจนถึงการเปลี่ยนแปลงระดับบรรทัดหรือระดับตัวอักษรในเอกสารข้อความธรรมดา ทำให้มองเห็นการแก้ไขโดยไม่มีความซับซ้อนในการจัดรูปแบบ สำคัญสำหรับบันทึกข้อมูล (logs) สคริปต์ และเอกสารที่เรียบง่าย
+
+
+
+การเปรียบเทียบข้อความ TXT โดยอัตโนมัติช่วยให้ตรวจจับการอัพเดตในเนื้อหาที่ใช้ข้อความได้รวดเร็วและมีประสิทธิภาพบนเนื้อหาที่มีข้อความมาก
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การติดตามความแตกต่างในไฟล์บันทึก (Log File Difference Tracking)**  
+
+&nbsp; ระบุรายการใหม่หรือการเปลี่ยนแปลง
+
+
+
+* **การตรวจสอบข้อความสคริปต์หรือโค้ด (Script or Code Text Review)**  
+
+&nbsp; โดดเด่นการปรับเปลี่ยนในสคริปต์ข้อความธรรมดา
+
+
+
+* **การควบคุมการแก้ไขเอกสารเบื้องต้น (Simple Document Revision Control)**  
+
+&nbsp; จับการเปลี่ยนแปลงบรรทัดอย่างมีประสิทธิภาพ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การเปรียบเทียบข้อความ TXT ปริมาณมาก (High-Volume TXT Comparisons)**  
+
+&nbsp; ประมวลผลไฟล์หลายพันรวดเร็ว
+
+
+
+* **การตรวจสอบการดูแลการทำงานอัตโนมัติ (Automated Monitoring Pipelines)**  
+
+&nbsp; เรียกใช้ขั้นตอนการทำงานเมื่อเกิดการเปลี่ยนแปลง
+
+
+
+* **การสกัดความแตกต่างโปรแกรม (Programmatic Difference Extraction)**  
+
+&nbsp; สร้างรายงานโครงสร้างสำหรับระบบ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

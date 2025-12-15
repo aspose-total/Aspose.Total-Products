@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLTMファイル（マクロ有効テンプレート）は、マクロを保持しながらファイルサイズを削減し、配布を改善する圧縮が必要です。
+
+
+
+Pythonベースの自動化は、企業ワークフロー向けのスケーラブルなXLTMテンプレート圧縮をサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **マクロの保持**
+
+&nbsp; XLTMテンプレートを圧縮しながらマクロを維持します。
+
+
+
+* **効率的な共有**
+
+&nbsp; より小さなテンプレートはチーム間のコラボレーションを向上させます。
+
+
+
+* **テンプレートのアーカイブ**
+
+&nbsp; 自動圧縮により、長期間のテンプレート保存が改善されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチXLTM圧縮**
+
+&nbsp; Pythonスクリプトを使用して複数のマクロ有効テンプレートを自動的に処理できます。
+
+
+
+* **BIおよびワークフローシステムとの統合**
+
+&nbsp; 圧縮されたXLTMテンプレートは自動化されたパイプラインで使用できます。
+
+
+
+* **条件付き圧縮**
+
+&nbsp; 大きなテンプレートや埋め込みメディアを対象に圧縮できます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

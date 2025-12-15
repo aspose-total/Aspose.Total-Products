@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi CDR berfokus pada mengoptimalkan grafik vektor CorelDRAW untuk mengurangi ukuran file sambil mempertahankan bentuk, lapisan, teks, dan struktur desain. Karena file CDR dapat mencakup objek vektor kompleks dan media yang disematkan, kompresi penting untuk meningkatkan penanganan proyek, efisiensi penyimpanan, dan kinerja alur kerja desain.
+
+
+
+API Python memfasilitasi kompresi, optimisasi, dan konversi otomatis file CDR, memungkinkan manajemen aset grafis yang dapat diskalakan di seluruh produksi, pencetakan, dan lingkungan konten digital.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Aset Desain Grafis**  
+
+&nbsp; Memampatkan desain vektor kompleks untuk menyederhanakan penyimpanan dan berbagi proyek.
+
+
+
+* **Alur Kerja Produksi Cetak**  
+
+&nbsp; File CDR yang lebih kecil meningkatkan kinerja selama tahap prepress dan pemrosesan cetak.
+
+
+
+* **Repositori File Versi**  
+
+&nbsp; Kompresi membuat arsip desain besar menjadi ringan dan lebih mudah dikelola.
+
+
+
+* **Pengiriman lintas Platform**  
+
+&nbsp; Mengurangi ukuran file meningkatkan kecepatan transfer antara tim desain, alat, dan klien.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi CDR Massal**  
+
+&nbsp; Otomatisasi optimisasi untuk ratusan file CorelDRAW sekaligus.
+
+
+
+* **Konversi CDR ke Format yang Dioptimalkan**  
+
+&nbsp; Mengonversi CDR ke SVG, PDF, atau PNG sambil menerapkan aturan kompresi.
+
+
+
+* **Integrasi Pipa Desain**  
+
+&nbsp; Kompresi aset secara otomatis saat diunggah ke dalam CMS, DAM, atau sistem alur kerja.
+
+
+
+* **Aturan Kompresi Adaptif**  
+
+&nbsp; Secara otomatis menyesuaikan tingkat kompresi berdasarkan kompleksitas file atau media yang disematkan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

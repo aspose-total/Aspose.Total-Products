@@ -100,7 +100,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PNG sıkıştırması, saydamlığı, keskinliği ve renk sadakatini korurken kayıpsız radyal görüntülerin optimize edilmesine odaklanır. Bu, netlik ve doğruluğun kritik olduğu web grafikleri, UI tasarımı ve yüksek kaliteli görüntüler için önemlidir.
+
+
+
+Python API'leri, otomatik PNG sıkıştırması, toplu işleme ve dönüştürme imkanı sağlayarak büyük görüntü havuzlarını yönetmeyi ve bunları web, uygulama ve içerik akışlarına verimli bir şekilde entegre etmeyi kolaylaştırır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Web ve Uygulama Grafikleri Optimizasyonu**  
+
+  Compressed PNG'ler yük hızını artırırken yüksek kaliteli görselleri korur.
+
+
+
+* **UI/UX Varlık Yönetimi**  
+
+  Daha küçük PNG dosyaları depolamayı azaltır ve arayüzler için hızlı render almayı sağlar.
+
+
+
+* **Dijital Yayıncılık**  
+
+  E-kitaplar ve belgeler için grafiklerde, diyagramlarda ve illüstrasyonlarda netliği korur.
+
+
+
+* **Arşiv ve Bulut Depolama Verimliliği**  
+
+  Büyük ölçekli depolamayı destekleyen dosya boyutlarını kaybetmeden küçültür.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu PNG Sıkıştırma**  
+
+  Python betikleri birden fazla PNG dosyasını otomatik bir süreçte optimize edebilir.
+
+
+
+* **Saydamlığı Koruyan Optimizasyon**  
+
+  Görüntüyü sıkıştırırken alfa kanallarının bozulmadan kalmasını sağlar.
+
+
+
+* **İş Akışı Entegrasyonu**  
+
+  PNG'leri CMS, DAM veya bulut sistemlerine yükleme sırasında otomatik olarak sıkıştırır.
+
+
+
+* **Dinamik Çözünürlük Ayarı**  
+
+  Sıkıştırma, görüntü boyutlarına veya kullanım bağlamına göre adapte olabilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

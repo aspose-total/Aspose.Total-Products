@@ -68,7 +68,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+השוואת ODP בודקת את תוכן השקפים, הפריסות, העיצוב והמדיה המוטמעת בתוך המצגות הפתוחות. היא תומכת בסקירה מדויקת של חומרי תקשורת חזותיים.
+
+
+
+השוואת ODP אוטומטית משפרת את הקידמה, מאפשרת אימות מהיר בספריות מצגות גדולות ומחזורי עדכון שיתופיים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **מעקב אחרי שינויים בשקפים**  
+
+  &nbsp; מדגיש עדכונים בטקסט, במדיה ובעיצוב.
+
+
+
+* **בדיקות עקביות של ערכת העיצוב**  
+
+  &nbsp; מבטיח שכללי התבנית נשמרים.
+
+
+
+* **סקירת תוכן חזותי**  
+
+  &nbsp; זוהה שינויים בפריסה או בתוכן בין השקפים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **השוואת שקפים בצורה גורמתית**  
+
+  &nbsp; משווה מצגות ביעילות בקנה מידה.
+
+
+
+* **התראות אוטומטיות על שינויים בשקפים**  
+
+  &nbsp; מדגיש עדכונים חיוניים באופן תוכנתי.
+
+
+
+* **אימות רציף של שקפים**  
+
+  &nbsp; משלב בדיקות בתהליכי יצירת המצגות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

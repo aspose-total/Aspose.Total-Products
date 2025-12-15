@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การบีเอ็มพีบีบอัด (MD compression) ช่วยให้ไฟล์ Markdown มีประสิทธิภาพมากขึ้นโดยการลบช่องว่างที่ไม่จำเป็น ความคิดเห็น หรือการจัดรูปแบบที่ไม่จำเป็นในขณะที่ยังรักษาโครงสร้างเนื้อหา ซึ่งช่วยเพิ่มประสิทธิภาพในการจัดเก็บ การถ่ายโอนไฟล์เร็วขึ้น และการประมวลผลที่เรียบง่ายในการเอกสารและกระบวนการทำเนื้อหา
+
+
+
+Python APIs ช่วยให้เป็นไปได้ที่จะบีเอ็มพีบีบอัดอัตโนมัติ ประมวลผลเป็นชุด และการทำงานของการแปลงสำหรับการจัดการข้อมูลเทคนิค บล็อก และเนื้อหาที่ควบคุมเวอร์ชันได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การปรับปรุงเอกสาร**  
+
+&nbsp; บีเอ็มพีไฟล์ Markdown ขนาดใหญ่เพื่อการจัดเก็บที่ง่ายขึ้นและการดำเนินการควบคุมเวอร์ชันที่เร็วขึ้น
+
+
+
+* **กระบวนการการเผยแพร่เนื้อหา**  
+
+&nbsp; ไฟล์ MD ขนาดเล็กช่วยให้กระบวนการสร้างเว็บและเว็บไซต์แบบคงที่เรียบง่ายขึ้น
+
+
+
+* **การเก็บถาวรของเนื้อหา Markdown**  
+
+&nbsp; ลดพื้นที่เก็บสำหรับเอกสารประวัติและบันทึก
+
+
+
+* **การทำงานร่วมกันและการกระจาย**  
+
+&nbsp; ไฟล์ที่ถูกปรับปรุงเป็นไปได้ง่ายต่อการแชร์ในทีมและระบบ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การบีเอ็มพีบีบอัดเป็นชุด**  
+
+&nbsp; อัตโนมัติการปรับปรุงไฟล์ Markdown หลายไฟล์
+
+
+
+* **การลบช่องว่างและความคิดเห็น**  
+
+&nbsp; ทำความสะอาดข้อความที่ไม่จำเป็นโดยอัตโนมัติโดยไม่เปลี่ยนเนื้อหา
+
+
+
+* **การผสานเข้ากับกระบวนการ**  
+
+&nbsp; บีเอ็มพีไฟล์ Markdown ในระบบจัดการเนื้อหาหรือระบบควบคุมเวอร์ชัน
+
+
+
+* **การแปลง + การบีเอ็มพีบีบอัดท่องไปท่องมา**  
+
+&nbsp; แปลง MD เป็น HTML หรือ PDF พร้อมทั้งใช้การบีเอ็มพีบีบอัดโดยอัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

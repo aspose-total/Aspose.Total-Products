@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX는 전문 문서에 널리 사용되는 현대적인 워드 형식입니다. 압축은 저장 공간을 줄이고 전송 속도를 향상시키면서 형식과 포함된 객체를 유지합니다.
+
+
+
+Python API를 사용하면 DOCX 압축을 자동화하여 확장 가능하고 효율적인 문서 워크플로우를 구축하고 클라우드 시스템과 통합할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **최적화된 저장 공간**  
+
+&nbsp; 콘텐츠와 디자인을 유지하면서 DOCX 파일 크기를 줄입니다.
+
+
+
+* **더 빠른 협업**  
+
+&nbsp; 작은 파일은 팀과 플랫폼 간 공유를 용이하게 합니다.
+
+
+
+* **효율적인 아카이빙**  
+
+&nbsp; 자동화된 압축은 대량 문서 저장소를 관리하는 데 도움이 됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 DOCX 압축**  
+
+&nbsp; Python 스크립트를 사용하여 여러 DOCX 파일을 한 번에 압축할 수 있습니다.
+
+
+
+* **문서 관리 시스템과의 통합**  
+
+&nbsp; 압축된 DOCX 파일을 효율적으로 저장하고 검색할 수 있습니다.
+
+
+
+* **스마트 압축**  
+
+&nbsp; 자동화는 미디어 콘텐츠가 많거나 큰 파일을 대상으로 할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

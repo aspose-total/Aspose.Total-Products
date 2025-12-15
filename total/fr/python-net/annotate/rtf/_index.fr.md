@@ -75,7 +75,65 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'annotation RTF ajoute des commentaires, des surlignages et des métadonnées structurées aux fichiers texte enrichis, améliorant la lisibilité sans affecter la compatibilité interplateforme. Les RTF annotés prennent en charge des flux de travail de révision légers.
+
+L'automatisation améliore le traitement des RTF en insérant des notes structurées, en analysant le contenu pour détecter les problèmes et en appliquant des surlignages basés sur des règles.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Notes de clarification du contenu**  
+
+&nbsp; Ajouter des remarques expliquant les modifications ou les préoccupations.
+
+* **Surlignages structurés**  
+
+&nbsp; Marquer les sections importantes ou les erreurs.
+
+* **Intégration de métadonnées**  
+
+&nbsp; Insérer des balises de classification.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Mise en évidence automatique des mots-clés**  
+
+&nbsp; Identifier et mettre en évidence les termes de manière programmée.
+
+* **Scripts d'annotation en masse**  
+
+&nbsp; Appliquer des notes standardisées sur plusieurs fichiers RTF.
+
+* **Détection de motifs de contenu**  
+
+&nbsp; Annoter les zones correspondant à des déclencheurs spécifiques.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

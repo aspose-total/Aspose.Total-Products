@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сравнение DOT обеспечивает структурную точность, согласованность и соответствие базовых шаблонов, используемых при создании документов, правилам оформления организации. Это помогает избежать ошибок в создаваемых документах.
+
+
+
+Автоматизация поддерживает проверку библиотек шаблонов DOT, обеспечивая масштабируемое управление шаблонами и быструю коррекцию несоответствий.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* **Проверка согласованности шаблонов**  
+
+&nbsp; Гарантирует сохранение правил форматирования и компоновки.
+
+
+
+* **Проверка соответствия бренду**  
+
+&nbsp; Обнаруживает несанкционированные изменения, влияющие на стандарты организации.
+
+
+
+* **Синхронизация шаблонов между несколькими командами**  
+
+&nbsp; Подтверждает, что распределенные команды используют актуальные шаблоны.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Массовая проверка шаблонов**  
+
+&nbsp; Автоматическая обработка больших коллекций шаблонов DOT.
+
+
+
+* **Плановые проверки шаблонов**  
+
+&nbsp; Гарантирует непрерывное соблюдение требований в системах документооборота.
+
+
+
+* **Оповещения о синхронизации шаблонов**  
+
+&nbsp; Выявляет расхождения между версиями распределенных шаблонов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

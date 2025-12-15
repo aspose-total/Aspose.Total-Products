@@ -100,7 +100,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Words for Python via .
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén tệp từ vựng chung giúp giảm việc sử dụng lưu trữ, tăng tốc độ truyền tải, và duy trì định dạng, bố cục, và phương tiện nhúng, cải thiện hiệu suất làm việc.
+
+
+
+Nén dựa trên Python cho phép tối ưu hóa tự động cho tài liệu Word ở quy mô lớn, hỗ trợ tích hợp với các hệ thống quản lý tài liệu hiện đại.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Lưu Trữ**  
+
+&nbsp; Giảm kích thước tệp từ vựng chung để tận dụng ổ đĩa tốt hơn.
+
+
+
+* **Chia Sẻ và Hợp Tác Nhanh Hơn**  
+
+&nbsp; Tệp nhỏ dễ dàng gửi và hợp tác trong nhóm.
+
+
+
+* **Hiệu Quả Lưu Trữ**  
+
+&nbsp; Nén tự động hỗ trợ quản lý các kho tài liệu Word lớn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Xử Lý Hàng Lô**  
+
+&nbsp; Kịch bản Python có thể nén tự động nhiều tệp từ vựng chung.
+
+
+
+* **Tích Hợp Luồng Làm Việc**  
+
+&nbsp; Các tệp đã nén có thể được tải lên hoặc đồng bộ hóa với DMS và dịch vụ đám mây.
+
+
+
+* **Nén Động**  
+
+&nbsp; Tự động hóa có thể nén tệp theo lựa chọn dựa trên kích thước, nội dung phương tiện, hoặc quy tắc dự án.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

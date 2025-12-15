@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يركز ضغط النصوص على تقليل حجم ملفات النص العادية عن طريق القضاء على التكرارات دون فقدان المحتوى. وهذا مهم لكفاءة التخزين والنقل السريع والمعالجة المحسنة في التشغيل التلقائي وأنابيب البيانات.
+
+
+
+تمكن واجهات برمجة التطبيقات بايثون من ضغط النصوص تلقائيًا، ومعالجة الدفعات، وسير العمل الأرشيفي، مدعمة التعامل الموسع مع السجلات، والنصوص، وملفات التكوين، ومجموعات البيانات النصية الكبيرة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **إدارة ملفات السجلات**  
+
+  &nbsp; ضغط ملفات السجلات الكبيرة لتوفير مساحة تخزين وتحسين استرجاع البيانات.
+
+
+
+* **الأرشفة البيانية**  
+
+  &nbsp; يقلل من حجم مجموعات البيانات النصية العادية للتخزين على المدى الطويل.
+
+
+
+* **تخزين التكوين والنصوص**  
+
+  &nbsp; تجعل ملفات النص المضغوطة عمليات النشر التلقائي والنسخ الاحتياطي أكثر كفاءة.
+
+
+
+* **توزيع المحتوى القائم على النص**  
+
+  &nbsp; تكون الملفات الأصغر أسرع في نقلها عبر الشبكات أو أنظمة السحابة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط النصوص بالدفعات**  
+
+  &nbsp; أتمتة عملية الضغط لعدة ملفات نصية عادية.
+
+
+
+* **التكامل في الأنابيب**  
+
+  &nbsp; ضغط النصوص تلقائيًا أثناء الاستيعاب في أنظمة البيانات أو الأرشيف.
+
+
+
+* **ضغط ديناميكي بناءً على الحجم**  
+
+  &nbsp; تطبيق ضغط أقوى على الملفات الكبيرة مع الحفاظ على الملفات الصغيرة دون تغيير.
+
+
+
+* **تحويل الصيغة والضغط**  
+
+  &nbsp; تحويل النصوص إلى أرشيفات مضغوطة (ZIP، GZ) كجزء من سير العمل التلقائي.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +225,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

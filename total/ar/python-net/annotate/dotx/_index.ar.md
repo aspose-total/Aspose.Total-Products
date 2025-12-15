@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+توسيع تعليق DOTX يزيد من قابلية استخدام القالب من خلال تضمين التعليقات والتعليمات والبيانات الوصفية في قوالب Word غير الماكرو. يحسن هذا دقة المستند ويوجه المستخدمين خلال إنشاء المحتوى المهيكل.  
+
+تسريع تعليق DOTX يسرع تحديثات القوالب ويفرض التوحيد عبر سير العمل الوثائقية.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **جولات في القوالب**  
+
+&nbsp; إضافة ملاحظات لغرض كل قسم.
+
+* **توجيه التنسيق**  
+
+&nbsp; تسليط الضوء على قواعد العناوين والقوائم أو الجداول.
+
+* **منع الأخطاء**  
+
+&nbsp; وضع علامات على المناطق التي يقع فيها المستخدمون في الخطأ بشكل متكرر.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **تعليق قائم على القواعد**  
+
+&nbsp; إدراج تعليمات موحدة برمجيًا.
+
+* **صيانة القوالب بالجملة**  
+
+&nbsp; تحديث التعليقات عبر العديد من القوالب.
+
+* **تكامل السياسات الديناميكية**  
+
+&nbsp; إضافة توجيهات الامتثال عبر الأنابيب التلقائية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

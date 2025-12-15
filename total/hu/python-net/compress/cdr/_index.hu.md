@@ -78,7 +78,87 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A CDR tömörítés arra összpontosít, hogy optimalizálja a CorelDRAW vektorgrafikákat a fájlméret csökkentése érdekében, miközben megőrzi az alakzatokat, rétegeket, szöveget és tervezési struktúrát. Mivel a CDR fájlok bonyolult vektorobjektumokat és beágyazott médiát is tartalmazhatnak, a tömörítés fontos a projektkezelés, a tárolási hatékonyság és a tervezési munkafolyamat teljesítményének javítása szempontjából.
+
+
+
+A Python API-k automatizálják a CDR fájlok tömörítését, optimalizálását és konvertálását, lehetővé téve a grafikai eszközök skálázható kezelését a termelés, nyomtatás és digitális tartalom környezeteiben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Grafikai tervezési eszközök optimalizálása**  
+
+&nbsp; Tömöríti a bonyolult vektortervezéseket a projekt tárolásának és megosztásának egyszerűsítése érdekében.
+
+
+
+* **Nyomtatási termelési munkafolyamatok**  
+
+&nbsp; A kisebb CDR fájlok javítják a nyomdai előkészítés és nyomtatási folyamatok teljesítményét.
+
+
+
+* **Verziózott fájltárolók**  
+
+&nbsp; A tömörítés könnyűvé teszi a nagy tervezési archívumok kezelését.
+
+
+
+* **Többplatformos szállítás**  
+
+&nbsp; A fájlméretek csökkentése felgyorsítja a tervezőcsapatok, eszközök és ügyfelek közötti átviteli sebességet.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Tömeges CDR tömörítés**  
+
+&nbsp; Automatizálja az optimalizálást egyszerre száz CorelDRAW fájl esetén.
+
+
+
+* **CDR-t optimalizált formátumra konvertálás**  
+
+&nbsp; Konvertálja a CDR-t SVG, PDF vagy PNG formátumra, miközben alkalmazza a tömörítési szabályokat.
+
+
+
+* **Tervezési csővezeték integráció**  
+
+&nbsp; Az eszközök automatikusan tömörítik az eszközöket, amikor azokat feltöltik a CMS-be, DAM-ba vagy munkafolyamatrendszerekbe.
+
+
+
+* **Adaptív tömörítési szabályok**  
+
+&nbsp; Automatikusan beállítja a tömörítési szinteket a fájl bonyolultsága vagy beágyazott média alapján.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

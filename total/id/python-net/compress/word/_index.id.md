@@ -100,7 +100,69 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi file Word generik mengurangi penggunaan penyimpanan, mempercepat transfer, dan mempertahankan format, tata letak, dan media yang disematkan, meningkatkan efisiensi alur kerja.
+
+
+
+Kompresi berbasis Python memungkinkan optimisasi otomatis untuk dokumen Word dalam skala besar, mendukung integrasi dengan sistem manajemen dokumen modern.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Penyimpanan**  
+   Kurangi ukuran file Word generik untuk penggunaan disk yang lebih baik.
+
+
+
+* **Berbagi dan Kolaborasi Lebih Cepat**  
+   File yang lebih kecil lebih mudah dikirim dan dikolaborasikan dalam tim.
+
+
+
+* **Efisiensi Arsip**  
+   Kompresi otomatis membantu dalam mengelola repositori dokumen Word yang besar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pemrosesan Batch**  
+   Skrip Python dapat secara otomatis mengompresi beberapa file Word.
+
+
+
+* **Integrasi Alur Kerja**  
+   File yang terkompresi dapat diunggah atau disinkronkan dengan DMS dan layanan cloud.
+
+
+
+* **Kompresi Dinamis**  
+   Otomatisasi dapat memampatkan file secara selektif berdasarkan ukuran, konten media, atau aturan proyek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

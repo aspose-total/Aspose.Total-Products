@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ไฟล์เทมเพลต XLT มีประโยชน์จากการบีบอัดเพื่อลดพื้นที่จัดเก็บและปรับปรุงการกระจายโดยไม่เปลี่ยนโครงสร้างเทมเพลต
+
+
+
+Python APIs ช่วยให้การบีบอัดเทมเพลต XLT อัตโนมัติสำหรับการจัดการเทมเพลตให้มีประสิทธิภาพ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Use Cases ที่สำคัญ" %}}
+
+
+
+* **การปรับปรุงการจัดเก็บเทมเพลต**  
+
+&nbsp; บีบอัดไฟล์ XLT โดยรักษาการจัดรูปแบบและสูตร
+
+
+
+* **การแบ่งปันเทมเพลตได้อย่างรวดเร็ว**  
+
+&nbsp; ขนาดไฟล์ที่ลดลงช่วยให้การกระจายไปยังทีมได้อย่างรวดเร็ว
+
+
+
+* **การเก็บข้อมูลอัตโนมัติ**  
+
+&nbsp; เทมเพลตที่ถูกบีบอัดช่วยให้การจัดการการจัดเก็บในระยะยาวเป็นเรื่องง่าย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* **การบีบอัดเทมเพลตเป็นชุด**  
+
+&nbsp; อัตโนมัติการประมวลผลของไฟล์ XLT หลายไฟล์โดยใช้สคริปต์ Python
+
+
+
+* **การผสานกับระบบการทำงาน**  
+
+&nbsp; เทมเพลตที่ถูกบีบอัดสามารถโหลดเข้าไปในกระบวนการทำงานอัตโนมัติได้โดยไดนามิก
+
+
+
+* **การบีบอัดตามเงื่อนไข**  
+
+&nbsp; การอัตโนมัติสามารถเลือกเป้าหมายเทมเพลตที่มีชุดข้อมูลขนาดใหญ่หรือสูตรที่ซับซ้อน
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi file XLS mengurangi penyimpanan dan mempercepat berbagi buku kerja Excel lama sambil mempertahankan rumus, grafik, dan format.
+
+
+
+Automasi berbasis Python memungkinkan kompresi batch file XLS, memungkinkan manajemen data yang dapat diskalakan dan efisiensi alur kerja.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Buku Kerja Lama**  
+
+  &nbsp; Kurangi ukuran file XLS tanpa memengaruhi rumus atau integritas data.
+
+
+
+* **Berbagi Lebih Cepat**  
+
+  &nbsp; File XLS yang lebih kecil meningkatkan kecepatan distribusi email dan cloud.
+
+
+
+* **Efisiensi Arsip**  
+
+  &nbsp; Kompresi otomatis menyederhanakan penyimpanan jangka panjang file Excel lama.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi XLS Batch**  
+
+  &nbsp; Skrip Python dapat mengompresi beberapa file XLS dalam satu operasi.
+
+
+
+* **Integrasi dengan Sistem Alur Kerja**  
+
+  &nbsp; File XLS yang terkompresi dapat dimuat ke dalam pipa otomatis atau DMS.
+
+
+
+* **Kompresi Bersyarat**  
+
+  &nbsp; Target file XLS dengan kumpulan data besar atau media tertanam untuk dikompresi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TGA圧縮は、Targaラスター画像のサイズを削減しつつ、カラーの深さとアルファチャンネルを保持することに焦点を当てています。TGAファイルは、ゲーム、3Dグラフィックス、ビジュアルエフェクトでよく使用され、メディアパイプラインで効率的なストレージと高速な処理を実現するために圧縮が必要です。
+
+
+
+Python APIを使用すると、TGAの自動圧縮、バッチ処理、およびモダンな形式への変換が可能となり、ゲーム開発、アニメーション、デジタルメディア制作のためのスケーラブルなワークフローをサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* **ゲームアセットの最適化**
+
+&nbsp; TGAファイルの圧縮により、ゲームのストレージ要件が削減され、読み込み時間が改善されます。
+
+
+
+* **3Dグラフィックスパイプライン**
+
+&nbsp; より小さなTGAファイルは、テクスチャ管理とレンダリングワークフローを効率化します。
+
+
+
+* **ビジュアルエフェクト制作**
+
+&nbsp; 最適化されたTGA画像は、大規模なフレームシーケンスを効率的に管理します。
+
+
+
+* **アーカイブストレージ**
+
+&nbsp; 高解像度アセットの長期保存のためのファイルサイズを削減します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチTGA圧縮**
+
+&nbsp; 大量のTGAファイルの最適化を自動化します。
+
+
+
+* **アルファチャンネルの保持**
+
+&nbsp; ストレージのフットプリントを削減するために圧縮しながら透過性を維持します。
+
+
+
+* **パイプラインへの統合**
+
+&nbsp; TGAファイルは、アセット管理システムへのアップロード時に自動的に圧縮されます。
+
+
+
+* **ダイナミック解像度ベースの圧縮**
+
+&nbsp; 画像サイズ、解像度、または使用コンテキストに基づいて圧縮レベルを調整します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

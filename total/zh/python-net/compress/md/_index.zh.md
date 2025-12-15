@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MD压缩通过删除不必要的空格、注释或冗余格式，同时保留内容结构，优化Markdown文件。这提高了存储效率，加快文件传输速度，并简化了文档和内容流程中的处理。
+
+
+
+Python API可实现自动化的MD压缩、批处理和转换工作流程，用于处理技术文档、博客和版本控制内容的可扩展处理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **文档优化**  
+
+&nbsp; 压缩大型Markdown存储库，以便更轻松地存储和更快的版本控制操作。
+
+
+
+* **内容发布工作流程**  
+
+&nbsp; 更小的MD文件简化了网站和静态站点生成过程。
+
+
+
+* **Markdown内容归档**  
+
+&nbsp; 减少历史文档和笔记的存储空间。
+
+
+
+* **协作与分发**  
+
+&nbsp; 优化的文件更容易在团队和系统之间共享。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量MD压缩**  
+
+&nbsp; 自动优化多个Markdown文件。
+
+
+
+* **空格和注释清除**  
+
+&nbsp; 自动清理不必要的文本，而不改变内容。
+
+
+
+* **工作流程集成**  
+
+&nbsp; 在将MD文件纳入CMS或版本控制系统时压缩MD文件。
+
+
+
+* **转换+压缩流水线**  
+
+&nbsp; 将MD转换为HTML或PDF时自动应用压缩。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

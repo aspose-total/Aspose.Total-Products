@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تحسين تفاهم سير العمل التقني والوثائقي من خلال إثراء ملفات النص العادي بتعليقات منظمة وعلامات وملاحظات مراجعة باستخدام تعليقات TXT. يساعد في توضيح المحتوى دون تغيير بساطة الملف.
+
+التشغيل التلقائي يدعم معالجة TXT بسرعة وبكميات كبيرة من خلال اكتشاف الأنماط وإدراج التعليقات وفرض الملاحظات المنظمة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تعليقات تقنية**  
+
+&nbsp; إضافة ملاحظات وصفية لملفات التكوين أو الشفرة.
+
+* **تحديد الأخطاء**  
+
+&nbsp; وضع علامات على الأسطر المشبوهة أو التي تحتوي على معلومات قديمة.
+
+* **علامات التوجيه**  
+
+&nbsp; إدراج علامات توجيه بسيطة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **تعليقات مبنية على الأنماط**  
+
+&nbsp; اكتشاف وتسليط الضوء على الهياكل المحددة مسبقًا.
+
+* **معالجة ملفات بالجملة**  
+
+&nbsp; تعليقات على مجموعات كبيرة من ملفات TXT بشكل برمجي.
+
+* **ملاحظات المراجعة التلقائية**  
+
+&nbsp; إدراج تعليقات مدفوعة بالقواعد عبر الملفات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

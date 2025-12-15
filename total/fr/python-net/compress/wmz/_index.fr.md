@@ -78,7 +78,21 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+"""
+
+## Découvrez nos produits phares
+
+{< blocks/products/pf/agp/feature-section >}
+
+## Nos services incluent :
+
+- Livraison rapide
+- Service client 24/7
+- Retours faciles
+
+"""
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

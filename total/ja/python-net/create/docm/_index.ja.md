@@ -43,9 +43,77 @@ Python アプリケーションを介して DOCM ファイルを作成しよう�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM — `.docm` ファイルは埋め込みマクロをサポートし、文書にプログラム可能な動作を含める必要がある場合に最適です。Python API を使用して、OOXML コンテンツを組み立て、自動化を介して署名付きまたは署名なしの VBA プロジェクトを添付することで、マクロが一貫してパッケージ化され、ビルドの一部として検証または署名できます。
+
+DOCM を使用するのは、ビジネスロジック（カスタムフィールド、エクスポートボタン、データ収集マクロなど）を文書内に配置する必要がある場合に適しています。自動化により、セキュリティおよびコンプライアンスチェックを満たすために、マクロコンテンツを挿入、テスト、制御できます。
+
+自動化されたテストと CI プロセスにより、マクロコードの整合性を確認し、マクロを配布前に署名できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* **文書に埋め込まれた自動化**
+
+&nbsp; 構造化データのキャプチャやローカル変換のために承認されたマクロを実行する DOCM ファイルを配布します。
+
+
+
+* **制御されたマクロ展開**
+
+&nbsp; 規制されたマクロ動作のためにビルド時に検証済みの VBA モジュールを文書に挿入します。
+
+
+
+* **マクロ有効なテンプレート**
+
+&nbsp; DOTM テンプレートを使用して、事前に組み込まれた自動化を持つ DOCM 文書を生成します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **マクロの CI 検証**
+
+&nbsp; VBA コードに対して静的解析を自動実行し、ポリシー違反でビルドをブロックします。
+
+
+
+* **署名とパッケージング**
+
+&nbsp; マクロのデジタル署名を自動化し、安全な配布のために DOCM ファイルをパッケージ化します。
+
+
+
+* **安全なリポジトリからのマクロ挿入**
+
+&nbsp; 安全なリポジトリから承認された VBA スニペットを取得し、生成された DOCM ファイルに埋め込みます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -100,7 +100,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese ODT snižuje velikost souborů OpenDocument Text, běžně používaných pro zpracování textu. Komprimované soubory ODT zlepšují účinnost ukládání, rychlejší přenos a výkon v pracovních postupech s dokumenty.
+
+
+
+Python API umožňuje automatizovanou kompresi ODT, hromadné zpracování a konverzi, podporující škálovatelné řízení textových dokumentů v kancelářích, akademickém prostředí a vydavatelských prostředích.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace ukládání dokumentů**  
+
+&nbsp; Snížení místa pro velké kolekce textových dokumentů.
+
+
+
+* **Rychlejší sdílení a spolupráce**  
+
+&nbsp; Komprimované soubory ODT se rychle přenášejí po sítích.
+
+
+
+* **Digitální archivace**  
+
+&nbsp; Efektivní ukládání ODT pro historické a referenční materiály.
+
+
+
+* **Efektivita pracovního postupu**  
+
+&nbsp; Menší soubory se rychleji načítají v editorech a automatizovaných potrubích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese ODT**  
+
+&nbsp; Automatizace zmenšení velikosti pro více dokumentů.
+
+
+
+* **Optimalizace metadat a obsahu**  
+
+&nbsp; Automatické odstranění zbytečných stylů, obrázků nebo formátování.
+
+
+
+* **Integrace do systémů pro správu dokumentů**  
+
+&nbsp; Soubory ODT jsou komprimovány během nahrávání nebo zálohovacích pracovních postupů.
+
+
+
+* **Dynamická pravidla komprese**  
+
+&nbsp; Nastavení optimalizace na základě velikosti obsahu, hustoty obrázků nebo objemu textu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén DIB giảm kích thước của các tệp bitmap độc lập thiết bị, lưu trữ dữ liệu pixel mà không có định dạng cụ thể của phần cứng. Những hình ảnh này thường lớn vì chúng bảo tồn dữ liệu bitmap thô, chưa nén, làm cho việc nén trở thành yếu tố quan trọng để lưu trữ và xử lý hiệu quả trong quy trình làm việc hiện đại.
+
+
+
+API Python cho phép tự động hóa việc tối ưu hóa DIB, giảm kích thước tệp và chuyển đổi các bitmap này sang các định dạng nén hơn, cải thiện khả năng mở rộng trong các đường ống hình ảnh và hệ thống tài sản kỹ thuật số.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Bitmap Cũ**  
+
+&nbsp; Nén các tệp DIB lớn xuất phát từ phần mềm hoặc hệ thống hình ảnh cũ.
+
+
+
+* **Hiệu Quả Lưu Trữ**  
+
+&nbsp; Giảm đáng kể việc sử dụng ổ đĩa cho các tổ chức có kho lưu trữ bitmap lớn.
+
+
+
+* **Chuyển Giao và Tải Lên Nhanh Hơn**  
+
+&nbsp; Cho phép chia sẻ nhanh hơn các tệp hình ảnh nặng qua mạng hoặc nền tảng đám mây.
+
+
+
+* **Lưu Trữ Hình Ảnh**  
+
+&nbsp; Giúp duy trì các bản lưu trữ nhẹ mà không làm tổn thương dữ liệu pixel quan trọng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén DIB Theo Lô**  
+
+&nbsp; Tự động giảm kích thước cho hàng trăm hoặc hàng ngàn tệp bitmap cùng một lúc.
+
+
+
+* **Chuyển Đổi Tự Động Sang Định Dạng Hiện Đại**  
+
+&nbsp; Chuyển đổi DIB thành PNG, JPEG, hoặc WebP với quy tắc nén thông minh.
+
+
+
+* **Tối Ưu Hóa Tải Lên Thời Gian Thực**  
+
+&nbsp; Các tệp DIB có thể được nén tự động khi nhập vào các nền tảng hình ảnh.
+
+
+
+* **Nén Dựa trên Độ Phân Giải**  
+
+&nbsp; Tự động điều chỉnh cường độ nén dựa trên kích thước pixel hoặc độ sâu màu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

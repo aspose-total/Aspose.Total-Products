@@ -75,7 +75,65 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'annotation OTT améliore les documents texte de modèle en intégrant des notes d'orientation, des espaces réservés et des métadonnées structurées dans des modèles au format ouvert. Cela garantit une production de documents cohérente et des instructions plus claires pour l'utilisateur final.  
+
+L'automatisation améliore les flux de travail OTT en appliquant des règles de modèle, en mettant à jour le texte d'annotation et en imposant des structures standard.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Instructions de modèle**  
+
+&nbsp; Fournir des orientations pour compléter chaque section.
+
+* **Normes de formatage**  
+
+&nbsp; Mettre en évidence les zones nécessitant des styles spécifiques.
+
+* **Documentation de révision**  
+
+&nbsp; Marquer les changements au sein des mises à jour de modèle.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Mises à jour de modèle pilotées par script**  
+
+&nbsp; Appliquer automatiquement de nouvelles instructions à travers les modèles.
+
+* **Marqueurs de conformité**  
+
+&nbsp; Identifier et annoter les champs requis manquants.
+
+* **Application dynamique des règles**  
+
+&nbsp; Ajouter des notes déclenchées par la logique du modèle.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

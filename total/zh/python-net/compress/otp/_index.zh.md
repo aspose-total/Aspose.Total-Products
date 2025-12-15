@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+OTP压缩减小了用于文本文档的OpenDocument模板文件的大小。优化OTP可提高存储效率，加快分发速度，并改善基于模板的文档创建的工作流性能。
+
+
+
+Python API可实现自动化OTP压缩、批处理和模板管理，用于可扩展的文档自动化工作流。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **模板优化**  
+
+  &nbsp; 减少大型模板库的存储占用。
+
+
+
+* **更快的共享与协作**  
+
+  &nbsp; 较小的OTP文件可快速在团队和网络间传输。
+
+
+
+* **工作流效率**  
+
+  &nbsp; 压缩模板可提高加载和编辑速度。
+
+
+
+* **存档与备份**  
+
+  &nbsp; 高效存储模板文件以进行长期保留。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量OTP压缩**  
+
+  &nbsp; 自动化多个模板的大小减小。
+
+
+
+* **内容与媒体优化**  
+
+  &nbsp; 自动压缩嵌入的图像或样式。
+
+
+
+* **集成到文档流水线中**  
+
+  &nbsp; 在自动化模板部署或存储过程中压缩OTP文件。
+
+
+
+* **动态压缩规则**  
+
+  &nbsp; 根据模板复杂性或内容密度调整优化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

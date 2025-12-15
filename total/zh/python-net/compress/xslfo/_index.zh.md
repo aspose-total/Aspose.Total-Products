@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XSL-FO压缩专注于减小可扩展样式表语言格式对象文件的大小，这些文件定义了XML文档的页面布局和格式。优化XSL-FO可以提高文档生成工作流程中的处理、渲染速度和存储效率。
+
+
+
+Python API允许自动化XSL-FO压缩、批处理处理，并与PDF或打印流程集成，实现可扩展的文档渲染解决方案。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要应用案例" %}}
+
+
+
+* **文档渲染优化**  
+
+  压缩的XSL-FO文件加快PDF生成和打印工作流程。
+
+
+
+* **大规模文档管理**  
+
+  减少高容量格式化内容的存储空间。
+
+
+
+* **存档和备份**  
+
+  优化的XSL-FO文件更容易长期保留。
+
+
+
+* **工作流程集成**  
+
+  提高自动发布流程的效率。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量XSL-FO压缩**  
+
+  自动化多个格式化文件的大小减小。
+
+
+
+* **去除空格和冗余**  
+
+  自动删除不必要的格式化指令。
+
+
+
+* **与渲染流程集成**  
+
+  在生成PDF或打印输出之前压缩文件。
+
+
+
+* **动态优化**  
+
+  根据文档复杂性或页面数量调整压缩级别。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

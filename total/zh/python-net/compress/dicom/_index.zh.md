@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DICOM压缩专注于优化包含诊断图像、元数据和患者信息的医学成像文件。由于DICOM文件通常由于高分辨率扫描而较大，压缩对于更快的传输、降低存储成本以及在医疗系统内的高效处理至关重要。
+
+
+
+Python API允许自动化DICOM压缩，包括无损和受控有损方法，确保医学成像工作流保持可扩展、可靠，并符合临床标准。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **医学成像存储优化**  
+
+&nbsp; 压缩DICOM文件可减轻PACS系统和长期存档的负担。
+
+
+
+* **更快的图像传输**  
+
+&nbsp; 更小的文件提高了医院、成像中心和云系统之间的传输速度。
+
+
+
+* **研究与分析流程**  
+
+&nbsp; 压缩的数据集简化了AI模型训练和大规模医学图像处理。
+
+
+
+* **远程医疗工作流**  
+
+&nbsp; 压缩使诊断图像更快地传递给远程医疗提供者。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **诊断图像的批量压缩**  
+
+&nbsp; 自动化地减小大型MRI、CT和X射线库的大小。
+
+
+
+* **动态无损/有损选择**  
+
+&nbsp; 根据模态、分辨率或临床要求选择压缩类型的自动化。
+
+
+
+* **工作流集成优化**  
+
+&nbsp; 在将DICOM文件摄入PACS、RIS或云成像系统时进行压缩。
+
+
+
+* **保留元数据的压缩**  
+
+&nbsp; 自动化流程在减小文件大小的同时保留所有医疗标签和标识符。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ההערה ב-DOT כוללת הוספת הערות מובנות והערות לקבצי תבנית Word, שעוזרות לצוותים לתקן את יצירת המסמכים בזמן שמשמרות הוראות ברורות. זה משפר את נגישות התבנית ווודאי עיצוב עקבי במסמכים שנוצרים.
+
+ההערה האוטומטית ב-DOT מפשטת את תחזוקת התבנית, מאפשרת למערכות ליישם עדכונים או הנחיות באופן דינמי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **הוראות התבנית**  
+
+&nbsp; הוספת הערות המדריך למשתמשים כיצד למלא את הסעיפים.
+
+* **תקני עיצוב**  
+
+&nbsp; הדגשת מבנה נדרש או כללי סגנון.
+
+* **מעקב אחר תיקונים**  
+
+&nbsp; סימון שינויים בהנחיות התבנית.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **עדכוני תבניות בצמיחה**  
+
+&nbsp; הכנסת הוראות חדשות באופן תכנותי.
+
+* **תסריטים לתקן סטנדרטים**  
+
+&nbsp; אוטומטיות להוספת הערות לסעיפים חסרים או שגויים.
+
+* **בדיקות עמידה בהנחיות**  
+
+&nbsp; הדגשת הסתרות מהמדיניות של התבנית.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

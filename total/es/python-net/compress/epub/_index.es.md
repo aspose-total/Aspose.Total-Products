@@ -78,7 +78,47 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La compresión EPUB reduce el tamaño de los archivos de libros electrónicos, que contienen texto, imágenes, estilos y metadatos. Los EPUB comprimidos mejoran la velocidad de descarga, la eficiencia de almacenamiento y la compatibilidad con lectores electrónicos y bibliotecas digitales.
+
+Las APIs de Python permiten la compresión automatizada de EPUB, el procesamiento por lotes y la optimización para una gestión escalable de libros electrónicos y publicaciones digitales.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+- **Distribución de libros electrónicos**
+  &nbsp; Los archivos EPUB más pequeños permiten descargas más rápidas y un intercambio más sencillo.
+
+- **Gestión de bibliotecas digitales**
+  &nbsp; Los EPUB comprimidos reducen los requisitos de almacenamiento para colecciones grandes.
+
+- **Entrega de contenido para múltiples dispositivos**
+  &nbsp; Los archivos optimizados garantizan una experiencia de lectura fluida en lectores electrónicos y aplicaciones.
+
+- **Archivo y copia de seguridad**
+  &nbsp; Almacenamiento eficiente para grandes volúmenes de libros electrónicos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+- **Compresión por lotes de EPUB**
+  &nbsp; Automatiza la optimización de múltiples archivos de libros electrónicos a la vez.
+
+- **Optimización de imágenes y texto**
+  &nbsp; Reduce el tamaño de las imágenes incrustadas y elimina metadatos redundantes.
+
+- **Integración de flujo de trabajo**
+  &nbsp; Comprime EPUB automáticamente durante la carga en bibliotecas digitales o plataformas.
+
+- **Ajuste dinámico de calidad**
+  &nbsp; Equilibra la calidad de imagen y el tamaño del archivo según el dispositivo o la plataforma.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +185,7 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

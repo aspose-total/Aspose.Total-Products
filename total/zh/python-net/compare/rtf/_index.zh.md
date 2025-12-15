@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF比较可识别富文本格式文件中的文本、字体、颜色、格式规则和文档结构的更改。它确保轻量级文档的清晰性和一致性。
+
+
+
+自动化的RTF比较支持快速处理、可扩展的验证，并可集成到动态文档工作流程中。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **格式更改检测**  
+
+&nbsp; 跟踪视觉样式的更新。
+
+
+
+* **内容修订审查**  
+
+&nbsp; 突出编辑和调整。
+
+
+
+* **跨应用程序编辑一致性**  
+
+&nbsp; 识别由不同编辑器引起的变化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量RTF处理**  
+
+&nbsp; 可编程比较多个文档。
+
+
+
+* **自动化QA检查**  
+
+&nbsp; 确保格式完整性。
+
+
+
+* **差异提取管道**  
+
+&nbsp; 生成结构化的比较输出。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

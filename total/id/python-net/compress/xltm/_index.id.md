@@ -78,7 +78,69 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File XLTM (template yang diaktifkan makro) memerlukan kompresi yang mempertahankan makro sambil mengurangi ukuran file dan meningkatkan distribusi.
+
+
+
+Automasi berbasis Python mendukung kompresi template XLTM yang dapat diskalakan untuk alur kerja perusahaan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pemeliharaan Makro**  
+  &nbsp; Menjaga makro saat mengompresi template XLTM.
+
+
+
+* **Berbagi yang Efisien**  
+  &nbsp; Template yang lebih kecil meningkatkan kolaborasi di antara tim.
+
+
+
+* **Arsip Template**  
+  &nbsp; Kompresi otomatis meningkatkan penyimpanan template jangka panjang.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi XLTM Massal**  
+  &nbsp; Skrip Python dapat memproses beberapa template yang diaktifkan makro secara otomatis.
+
+
+
+* **Integrasi dengan BI dan Sistem Alur Kerja**  
+  &nbsp; Template XLTM yang terkompresi dapat digunakan dalam alur kerja otomatis.
+
+
+
+* **Kompresi Bersyarat**  
+  &nbsp; Menargetkan template besar atau yang memiliki media tertanam untuk dikompresi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

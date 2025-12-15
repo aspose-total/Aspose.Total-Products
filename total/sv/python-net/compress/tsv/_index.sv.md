@@ -78,7 +78,31 @@ För mer information, se [Product Documentation](https://docs.aspose.com/zip/pyt
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Välkommen till vår nya kollektion
+
+<h2>Upptäck våra senaste produkter</h2>
+
+- Håll dig uppdaterad med de senaste trenderna
+- Utforska vårt breda utbud av produkter
+- Hitta det perfekta valet för varje tillfälle
+
+## Få 20% rabatt på din första beställning
+
+<h2>Anmäl dig till vårt nyhetsbrev</h2>
+
+- Ta del av exklusiva erbjudanden och kampanjer
+- Få tillgång till förhandsvisningar av kommande kollektioner
+- Missa aldrig en chans att spara på dina favoritprodukter
+
+## Kontakta oss
+
+<h2>Har du frågor eller funderingar?</h2>
+
+- Vårt kundsupportteam finns här för att hjälpa dig
+- Skicka oss ett meddelande via kontaktformuläret nedan
+- Vi återkommer till dig så snart som möjligt
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Words for Python via .
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén PDF giảm kích thước của các tệp định dạng tài liệu di động trong khi bảo tồn văn bản, hình ảnh, font chữ và đồ họa vector. PDF nén cải thiện hiệu quả lưu trữ, chia sẻ nhanh hơn và tối ưu hóa hiển thị trên các thiết bị và nền tảng.
+
+
+
+API Python cho phép nén PDF tự động, xử lý hàng loạt và tích hợp quy trình làm việc để quản lý tài liệu có quy mô lớn, lưu trữ và phân phối.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Lưu Trữ Tài Liệu \& Lưu Trữ**  
+
+&nbsp; Nén PDF để tiết kiệm không gian lưu trữ trong thư viện số.
+
+
+
+* **Chuyển Tệp Nhanh Hơn**  
+
+&nbsp; PDF nhỏ truyền nhanh qua email hoặc nền tảng đám mây.
+
+
+
+* **In ấn \& Xuất Bản**  
+
+&nbsp; PDF được tối ưu hóa tải và hiển thị nhanh hơn trong quy trình in ấn và kỹ thuật số.
+
+
+
+* **Tối Ưu Hóa Giao Thức Phân Phối**  
+
+&nbsp; Cải thiện trải nghiệm người dùng cho eBook, báo cáo và hướng dẫn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén PDF Hàng Loạt**  
+
+&nbsp; Tự động tối ưu hóa nhiều tệp PDF cùng một lúc.
+
+
+
+* **Tối Ưu Hóa Hình Ảnh \& Font**  
+
+&nbsp; Nén hình ảnh nhúng và font chữ con một cách tự động.
+
+
+
+* **Tích Hợp Quy Trình Làm Việc**  
+
+&nbsp; Nén PDF một cách động trong quá trình tải lên hệ thống CMS, DAM hoặc lưu trữ.
+
+
+
+* **Quy Tắc Nén Động**  
+
+&nbsp; Điều chỉnh nén dựa trên kích thước tài liệu, loại nội dung hoặc thiết bị đích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

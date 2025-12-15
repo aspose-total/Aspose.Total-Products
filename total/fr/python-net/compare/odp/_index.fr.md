@@ -68,7 +68,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La comparaison ODP examine le contenu au niveau des diapositives, les mises en page, la mise en forme et les médias intégrés dans les présentations de documents ouverts. Elle facilite l'examen précis des supports de communication visuelle.
+
+
+
+La comparaison automatisée des ODP améliore la scalabilité, permettant une vérification rapide à travers de vastes bibliothèques de présentations et des cycles de mise à jour collaboratifs.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Suivi des révisions des diapositives**  
+
+&nbsp; Met en évidence les mises à jour de texte, de médias et de design.
+
+
+
+* **Vérifications de la cohérence du thème**  
+
+&nbsp; Garantit que les règles du modèle restent intactes.
+
+
+
+* **Examen du contenu visuel**  
+
+&nbsp; Détecte les changements de mise en page ou de contenu entre les diapositives.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Comparaison en masse des diapositives ODP**  
+
+&nbsp; Compare efficacement les présentations à grande échelle.
+
+
+
+* **Alertes automatisées de modification des diapositives**  
+
+&nbsp; Signale automatiquement les mises à jour critiques.
+
+
+
+* **Validation continue des diapositives**  
+
+&nbsp; Intègre des vérifications dans les flux de création de présentations.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

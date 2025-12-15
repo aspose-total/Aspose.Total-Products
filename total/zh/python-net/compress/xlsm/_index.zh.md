@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLSM文件（启用宏的Excel工作簿）需要保留嵌入宏的压缩，同时优化存储和共享。
+
+
+
+Python API允许自动化XLSM压缩，保持宏功能并实现可扩展的工作流集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **宏保留**  
+
+&nbsp; 安全地压缩XLSM文件，而不会破坏嵌入的宏。
+
+
+
+* **更快的共享和协作**  
+
+&nbsp; 更小的XLSM文件有助于团队工作流程和云上传。
+
+
+
+* **自动归档**  
+
+&nbsp; 压缩确保为启用宏的工作簿提供高效存储。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量XLSM压缩**  
+
+&nbsp; Python脚本可以自动处理多个启用宏的文件。
+
+
+
+* **与BI和DMS平台集成**  
+
+&nbsp; 压缩文件可以在自动化系统中管理。
+
+
+
+* **条件压缩**  
+
+&nbsp; 自动化可以针对具有大型宏或大量媒体内容的文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

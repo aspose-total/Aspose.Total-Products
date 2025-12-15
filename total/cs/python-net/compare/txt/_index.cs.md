@@ -70,7 +70,75 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Srovnání TXT zvýrazňuje změny na úrovni řádků nebo znaků v obyčejných textových dokumentech, zajistí plnou transparentnost revizí bez složitostí formátování. Je zásadní pro logy, skripty a jednoduchou dokumentaci.
+
+
+
+Automatizované srovnání TXT poskytuje rychlé, škálovatelné detekce aktualizací napříč velkými sadami textového obsahu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Sledování rozdílů v logovacích souborech**  
+
+&nbsp; Identifikuje nové položky nebo změny.
+
+
+
+* **Hodnocení skriptů nebo kódů**  
+
+&nbsp; Zvýrazňuje úpravy v obyčejných textových skriptech.
+
+
+
+* **Jednoduché řízení revizí dokumentů**  
+
+&nbsp; Účinně zachytí změny v řádcích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Srovnání velkého objemu TXT**  
+
+&nbsp; Zpracovává tisíce souborů rychle.
+
+
+
+* **Automatizované monitorovací potrubí**  
+
+&nbsp; Spouští pracovní postupy při výskytu změn.
+
+
+
+* **Programové extrakce rozdílů**  
+
+&nbsp; Generuje strukturované zprávy pro systémy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

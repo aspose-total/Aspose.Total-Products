@@ -101,7 +101,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يقلل ضغط ODP من حجم ملفات العرض بتنسيق OpenDocument Presentation، مما يحسن الشرائح التي تحتوي على نصوص وصور ووسائط مضمنة. تحسن ملفات ODP المضغوطة كفاءة التخزين، وسرعة التحميل، والأداء الأملس في العروض التقديمية.
+
+
+
+تمكن واجهات برمجة التطبيقات بايثون من ضغط ODP تلقائيًا، ومعالجة دفعية، وتحسين الوسائط لإدارة العروض التقديمية بشكل قابل للتوسيع وتسليمها.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين العروض التقديمية**  
+
+&nbsp; تحميل ملفات ODP الصغيرة بسرعة في برامج التحرير والعارضين.
+
+
+
+* **كفاءة التخزين والأرشفة**  
+
+&nbsp; تقليل استخدام مساحة القرص لمكتبات الشرائح الكبيرة.
+
+
+
+* **مشاركة وتوزيع المحتوى**  
+
+&nbsp; تنقل الملفات المضغوطة بسرعة عبر الشبكات والأجهزة.
+
+
+
+* **تكامل سير العمل**  
+
+&nbsp; تحسين ملفات ODP المُحسنة الأداء في خطوط الإنتاج التلقائية للعروض التقديمية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط ODP دفعي**  
+
+&nbsp; أتمتة تحسين ملفات العروض التقديمية المتعددة.
+
+
+
+* **تحسين الوسائط والصور**  
+
+&nbsp; ضغط الصور والوسائط المضمنة تلقائيًا.
+
+
+
+* **التكامل مع نظام إدارة المحتوى أو نظام إدارة الأصول الرقمية**  
+
+&nbsp; ضغط ملفات ODP أثناء عمليات التحميل أو الأرشفة.
+
+
+
+* **ضغط ديناميكي**  
+
+&nbsp; ضبط كثافة الضغط استنادًا إلى محتوى الشريحة وكثافة الوسائط.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

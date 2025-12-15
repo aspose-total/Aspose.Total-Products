@@ -43,9 +43,79 @@ informat: RTF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF — Rich Text Format (RTF) là một định dạng văn bản đa nền tảng được hỗ trợ bởi nhiều trình soạn thảo; việc tạo RTF dựa trên Python hữu ích khi tạo tài liệu có kiểu dáng đơn giản mà phải được chấp nhận bởi nhiều khách hàng khác nhau. RTF thiếu các tính năng tiên tiến của OOXML nhưng xuất sắc trong văn bản có kiểu dáng di động, bảng đơn giản và đối tượng nằm trong văn bản.
+
+
+
+Tự động hóa RTF thích hợp cho mail-merge, thư đơn giản với kiểu dáng đơn hoặc hệ thống yêu cầu tương thích tối đa. Việc tạo ra một cách chương trình có thể được thực hiện bằng cách tạo các mẫu mảnh RTF hoặc sử dụng thư viện xây dựng các mã thông báo RTF trực tiếp.
+
+Tự động hóa đơn giản hóa việc xuất RTF hàng loạt và các đường ống chuyển đổi dành cho người tiêu dùng nhẹ hoặc cổ điển.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tạo Thư Đa Nền Tảng**
+
+&nbsp; Tạo tài liệu RTF cho khách hàng ưa thích văn bản có kiểu dáng nhẹ, di động.
+
+
+
+* **Mail-merge cho Tài Liệu Đơn Giản**
+
+&nbsp; Tạo thư và thông báo cá nhân hóa trong RTF để tương thích rộng rãi.
+
+
+
+* **Trao Đổi với Hệ Thống Không Sử Dụng OOXML**
+
+&nbsp; Xuất nội dung sang RTF cho các hệ thống không thể phân tích được DOCX hoặc Word nhị phân.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Xuất RTF Hàng Loạt**
+
+&nbsp; Tự động tạo hàng ngàn tệp RTF từ dữ liệu có cấu trúc.
+
+
+
+* **Đường Ống Dự Phòng Định Dạng**
+
+&nbsp; Tự động cung cấp các phiên bản RTF khi người tiêu dùng không thể xử lý DOCX/DOCM.
+
+
+
+* **Các Bộ Mẫu Đơn Giản**
+
+&nbsp; Sử dụng thay thế mã thông báo theo chương trình trong các mẫu RTF như một phần của quy trình làm việc tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

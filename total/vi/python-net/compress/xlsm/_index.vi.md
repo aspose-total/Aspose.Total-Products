@@ -78,7 +78,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Các tệp XLSM (bảng tính Excel hỗ trợ macro) yêu cầu nén giữ nguyên các macro nhúng trong khi tối ưu hóa lưu trữ và chia sẻ.
+
+
+
+API Python cho phép nén XLSM tự động, duy trì chức năng macro và kích hoạt tích hợp luồng công việc có thể mở rộng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Bảo Toàn Macro**  
+
+&nbsp; Nén các tệp XLSM một cách an toàn mà không làm hỏng các macro nhúng.
+
+
+
+* **Chia Sẻ và Hợp Tác Nhanh Hơn**  
+
+&nbsp; Các tệp XLSM nhỏ giúp tối ưu hóa luồng làm việc nhóm và tải lên đám mây.
+
+
+
+* **Lưu Trữ Tự Động**  
+
+&nbsp; Nén đảm bảo lưu trữ hiệu quả cho các bảng tính hỗ trợ macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Đồng Loạt Các Tệp XLSM**  
+
+&nbsp; Kịch bản Python có thể xử lý tự động nhiều tệp hỗ trợ macro.
+
+
+
+* **Tích Hợp với Các Nền Tảng BI và DMS**  
+
+&nbsp; Các tệp nén có thể được quản lý trong các hệ thống tự động.
+
+
+
+* **Nén Có Điều Kiện**  
+
+&nbsp; Tự động hóa có thể nhắm vào các tệp có macro lớn hoặc nội dung đa phương tiện nặng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

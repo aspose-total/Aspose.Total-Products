@@ -78,7 +78,66 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การบีเอ็มพีการบีเอ็มพีเน้นการลดขนาดของภาพเราสเตอร์ Targa ในขณะที่รักษาความลึกของสีและช่องอัลฟาไว้ ไฟล์ TGA มักถูกใช้ในเกม กราฟิกสามมิติ และเอฟเฟกต์ทางสายตา การบีเอ็มพีเป็นสิ่งจำเป็นสำหรับการจัดเก็บอย่างมีประสิทธิภาพและประมวลผลเร็วขึ้นในท่อสื่อ
+
+
+
+API ของ Python ช่วยให้การบีเอ็มพี TGA อัตโนมัติ ประมวลผลเป็นชุด และแปลงเป็นรูปแบบที่ทันสมัย สนับสนุนเวิร์กโฟลว์ที่มีขนาดใหญ่สำหรับการพัฒนาเกม อนิเมชัน และการผลิตสื่อดิจิทัล
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การปรับปรุงทรัพยากรเกม**  
+
+&nbsp; การบีเอ็มพีไฟล์ TGA ช่วยลดความต้องการในการจัดเก็บและปรับปรุงเวลาโหลดในเกม
+
+
+
+* **ท่อกราฟิกสามมิติ**  
+
+&nbsp; ไฟล์ TGA ขนาดเล็กช่วยให้การจัดการเท็กเจอร์และเวิร์กโฟลว์การเรนเดอร์เรียบขึ้น
+
+
+
+* **การผลิตเอฟเฟกต์ทางสายตา**  
+
+&nbsp; ภาพ TGA ที่ถูกปรับปรุงช่วยในการจัดการภาพเฟรมขนาดใหญ่อย่างมีประสิทธิภาพ
+
+
+
+* **การจัดเก็บสำรองข้อมูล**  
+
+&nbsp; ลดขนาดไฟล์สำหรับการจัดเก็บระยะยาวของทรัพยากรความละเอียดสูง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การบีเอ็มพีไฟล์ TGA แบบกลุ่ม**  
+
+&nbsp; อัตโนมัติการปรับปรุงขนาดใหญ่ของไฟล์ TGA ในลูกโซ่การประมวลผล
+
+
+
+* **การรักษาช่องอัลฟา**  
+
+&nbsp; รักษาความ๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

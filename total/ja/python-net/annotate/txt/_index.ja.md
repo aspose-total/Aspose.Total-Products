@@ -75,7 +75,65 @@ TXT 注釈アプリまたはユーティリティを開発する必要があり�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT注釈は、技術および文書作業フローにおいて、構造化されたコメント、マーカー、およびレビューノートを追加することで、理解を向上させます。これにより、ファイルのシンプルさを損なうことなく、コンテンツを明確にするのに役立ちます。  
+
+自動化により、パターンの検出、注釈の挿入、構造化されたノートの強制など、高速で大規模なTXT処理をサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+
+
+* **技術的コメント**  
+
+&nbsp; 構成ファイルやコードファイルに記述的なノートを追加します。
+
+* **エラーの特定**  
+
+&nbsp; 疑わしいまたは古い行をマークします。
+
+* **指示マークアップ**  
+
+&nbsp; 簡単なガイダンスタグを挿入します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **パターンベースの注釈**  
+
+&nbsp; 事前定義された構造を検出して強調表示します。
+
+* **大量ファイル処理**  
+
+&nbsp; 大規模なTXTコレクションにプログラムで注釈を付けます。
+
+* **自動化されたレビューノート**  
+
+&nbsp; ルールに基づいたコメントをファイル全体に挿入します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODS sıkıştırması, OpenDocument Elektronik Tablo dosyalarını optimize ederken formülleri, grafikleri ve veri bütünlüğünü koruyarak boyutu azaltır. Sıkıştırılmış ODS dosyaları depolamayı, transfer hızını ve veri yoğun elektronik tablo iş akışlarında performansı artırır.
+
+
+
+Python API'leri, ofislerde, analizlerde ve raporlama sistemlerinde ölçeklenebilir elektronik tablo yönetimi için otomatik ODS sıkıştırma, toplu işleme ve dönüşüm sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Elektronik Tablo Depolama Optimizasyonu**  
+
+&nbsp; Büyük veri kümeleri ve çalışma kitapları için depolama alanını azaltın.
+
+
+
+* **Daha Hızlı Paylaşım ve İş Birliği**  
+
+&nbsp; Daha küçük ODS dosyaları takımlar arasında verimli bir şekilde iletilir.
+
+
+
+* **Arşivleme ve Yedekleme**  
+
+&nbsp; Uzun vadeli depolama için ODS dosyalarını sıkıştırın.
+
+
+
+* **İş Akışı Verimliliği**  
+
+&nbsp; Optimize edilmiş elektronik tablolar uygulamalarda ve iş akışlarında daha hızlı yüklenir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu ODS Sıkıştırma**  
+
+&nbsp; Birden fazla elektronik tablo için boyut azaltımını otomatikleştirin.
+
+
+
+* **Veri ve Grafik Optimizasyonu**  
+
+&nbsp; Gömülü grafikleri, özet tabloları ve formülleri otomatik olarak sıkıştırın.
+
+
+
+* **DAM veya Bulut Sistemlerine Entegrasyon**  
+
+&nbsp; Yükleme veya yedekleme sırasında sıkıştırmayı otomatikleştirin.
+
+
+
+* **Dinamik Sıkıştırma Kuralları**  
+
+&nbsp; Veri kümesi boyutuna, formül karmaşıklığına veya gömülü nesnelere dayalı olarak optimizasyonu ayarlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

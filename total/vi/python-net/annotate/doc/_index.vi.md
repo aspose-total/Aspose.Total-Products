@@ -75,7 +75,65 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chú thích DOC tập trung vào việc thêm nhận xét, làm nổi bật và dữ liệu siêu cấu trúc vào các tài liệu Word cũ, cải thiện khả năng đọc và cho phép các nhóm bắt giữ ngữ cảnh trong các định dạng tệp cũ. Quy trình này giúp bảo tồn tính toàn vẹn của tài liệu trong khi đảm bảo thông tin dễ hiểu và sửa đổi.
+
+Việc tích hợp chú thích DOC vào các luồng làm việc hiện đại tăng cường tính tương thích và cho phép các hệ thống tự động trích xuất, lập chỉ mục và cập nhật nội dung một cách hiệu quả hơn.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đánh Giá Nội Dung và Phản Hồi**  
+
+  Thêm nhận xét hoặc làm nổi bật để đánh dấu các chỉnh sửa hoặc làm rõ quan trọng.
+
+* **Bổ Sung Dữ Liệu Siêu Cấu Trúc**  
+
+  Chèn ghi chú có cấu trúc để phân loại và truy xuất.
+
+* **Dọn Dẹp Tài Liệu**  
+
+  Xác định các phần lỗi thời hoặc không liên quan để sửa đổi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Đường Ống Chú Thích Theo Lô**  
+
+  Tự động thêm nhận xét trên nhiều tệp DOC.
+
+* **Kiểm Tra Chất Lượng Tự Động**  
+
+  Đánh dấu các phần thiếu sót hoặc không nhất quán về định dạng theo chương trình.
+
+* **Làm Nổi Bật Dựa Trên Luồng Làm Việc**  
+
+  Áp dụng chú thích dựa trên quy tắc kích hoạt bởi nội dung tài liệu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

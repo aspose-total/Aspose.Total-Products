@@ -100,7 +100,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TIFF sıkıştırması, yüksek çözünürlüklü raster görüntülerin boyutunu azaltmayı hedeflerken görüntü kalitesini, renk derinliğini ve metaveriyi korur. TIFF dosyaları, profesyonel fotoğrafçılık, baskı ve tarama iş akışlarında geniş bir şekilde kullanılmaktadır, bu nedenle sıkıştırma depolama verimliliği ve daha hızlı işleme için önemlidir.
+
+
+
+Python API'leri otomatik TIFF sıkıştırması, toplu işleme ve format dönüştürme imkanı sağlar, bu da büyük görüntü koleksiyonlarının ölçeklenebilir şekilde işlenmesine ve dijital varlık yönetimi ile görüntüleme iş akışlarına entegre edilmesine olanak tanır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Profesyonel Fotoğraf Depolama**  
+
+&nbsp; TIFF dosyalarının sıkıştırılması depolama maliyetlerini düşürürken yüksek kaliteli görüntüleri korur.
+
+
+
+* **Baskı ve Yayıncılık İş Akışları**  
+
+&nbsp; Optimize edilmiş TIFF'ler daha hızlı yüklenir ve ön baskı ve üretim iş akışlarında verimli bir şekilde işlenir.
+
+
+
+* **Tarama ve Arşivleme**  
+
+&nbsp; Sıkıştırılmış TIFF'ler tarama belgeleri ve tarihi kayıtlar için depolama alanını en aza indirir.
+
+
+
+* **Dijital Varlık Yönetimi**  
+
+&nbsp; Daha küçük TIFF'ler büyük görüntü kütüphaneleri için geri alma hızını ve sistem performansını artırır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu TIFF Sıkıştırma**  
+
+&nbsp; Python betikleri yüzlerce TIFF dosyasını otomatik olarak optimize edebilir.
+
+
+
+* **Kayıpsız veya Kontrollü Kayıplı Sıkıştırma**  
+
+&nbsp; İş akışı gereksinimlerine veya görüntü içeriğine bağlı olarak sıkıştırma türünün otomatik seçimini yapın.
+
+
+
+* **İş Akışı Entegrasyonu**  
+
+&nbsp; TIFF dosyalarını DAM, CMS veya bulut depolamaya yüklendiğinde dinamik olarak sıkıştırın.
+
+
+
+* **Çözünürlük Tabanlı Optimizasyon**  
+
+&nbsp; Görüntü boyutlarına veya DPI'ya bağlı olarak sıkıştırma seviyelerini otomatik olarak ayarlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

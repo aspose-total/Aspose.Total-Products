@@ -43,9 +43,75 @@ informat: DOCX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX — `.docx` (OOXML) هو المعيار الحديث لمستندات Word وهو متوافق تمامًا مع الأتمتة بناءً على Python. تسمح المكتبات بإنشاء وتعديل الفقرات والجداول والصور والأنماط وأجزاء XML المخصصة مع الحفاظ على هيكل OOXML والبيانات الوصفية.
+
+
+
+DOCX مثالي لتقارير النماذج، والمستندات الديناميكية، والتكامل مع خدمات الويب بسبب تنسيقه المفتوح ودعم المكتبة القوي. تمكين الأتمتة يسمح بإنشاء مستندات مصممة بشكل موثوق به ومنسقة يمكن التحقق منها وتخزينها بإصدارات.
+
+
+
+تجعل سير العمل البرمجي من السهل تجميع مستندات معقدة (جداول متداخلة، مراجع، فهارس) من المدخلات المهيكلة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **عرض تقرير النموذج**  
+  &nbsp; ملء قوالب DOCX بجداول ديناميكية ورسوم بيانية وأقسام شرطية.
+
+
+
+* **تكوين المستند الآلي**  
+  &nbsp; دمج الأقسام (مقدمة، جسم، مرفقات) من مصادر محتوى م modulaires في مستند DOCX واحد.
+
+
+
+* **تسليمات غنية بالبيانات الوصفية**  
+  &nbsp; تضمين خصائص المستند، و XML المخصص، و بيانات المراجعة للحوكمة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **أنابيب قاعدة البيانات إلى المستند**  
+  &nbsp; إنشاء مستندات DOCX فردية لكل سجل قاعدة بيانات في وظيفة آلية.
+
+
+
+* **إنشاء مستند مستند عبر Webhook**  
+  &nbsp; إنشاء مستندات DOCX حسب الطلب عبر واجهات برمجة التطبيقات HTTP تتم تنشيطها بواسطة أحداث خارجية.
+
+
+
+* **فحوصات الوصول الآلي**  
+  &nbsp; تشغيل نصوص التحقق التي تتحقق من هيكل العنوان ونصوص البديل للصور أثناء الإنشاء.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

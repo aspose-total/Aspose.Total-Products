@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ไฟล์ SXC (สเปรดชีต OpenOffice/StarOffice เวอร์ชันเก่า) มีประโยชน์จากการบีบอัดเพื่อลดพื้นที่จัดเก็บและอำนวยความสะดวกในการแบ่งปันในขณะที่ยังคงรักษาสูตรและการจัดรูปแบบไว้
+
+
+
+Python APIs ช่วยให้การบีบอัด SXC อัตโนมัติเพื่อรักษาประสิทธิภาพของการทำงานในสภาพแวดล้อมเวอร์ชันเก่า
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การปรับปรุงสเปรดชีตเวอร์ชันเก่า**  
+
+&nbsp; ลดขนาดไฟล์ SXC โดยไม่ส่งผลต่อสูตรหรือเนื้อหา
+
+
+
+* **การแบ่งปันเร็วขึ้น**  
+
+&nbsp; ไฟล์ที่ถูกบีบอัดช่วยเพิ่มความเร็วในการถ่ายโอนข้ามเครือข่ายและทีมงาน
+
+
+
+* **ประสิทธิภาพในการเก็บถาวร**  
+
+&nbsp; การบีบอัดโดยอัตโนมัติรองรับการเก็บข้อมูลสเปรดชีตเวอร์ชันเก่าในระยะยาว
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การบีบอัดไฟล์ SXC แบบกลุ่ม**  
+
+&nbsp; สคริปต์ Python สามารถบีบอัดไฟล์ SXC หลายไฟล์โดยอัตโนมัติ
+
+
+
+* **การผสานกับระบบ DMS หรือระบบคลาวด์**  
+
+&nbsp; ไฟล์ SXC ที่ถูกบีบอัดสามารถประมวลผลอย่างมีประสิทธิภาพในขั้นตอนการทำงาน
+
+
+
+* **การบีบอัดตามเงื่อนไข**  
+
+&nbsp; การอัตโนมัติสามารถเลือกไฟล์ตามขนาดหรือเนื้อหาที่ฝังอยู่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

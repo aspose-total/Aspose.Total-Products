@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие XSL-FO направлено на уменьшение размера файлов объектов форматирования языка XSL, которые определяют макет страниц и форматирование для XML-документов. Оптимизация XSL-FO улучшает обработку, скорость визуализации и эффективность хранения в рабочих процессах генерации документов.
+
+
+
+API Python позволяют автоматизировать сжатие XSL-FO, пакетную обработку и интеграцию с PDF или печатными конвейерами для масштабируемых решений по визуализации документов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация визуализации документов**  
+
+&nbsp; Сжатые файлы XSL-FO ускоряют генерацию PDF и рабочие процессы печати.
+
+
+
+* **Управление документами крупного масштаба**  
+
+&nbsp; Сокращает объем хранения для контента высокого объема.
+
+
+
+* **Архивирование и резервное копирование**  
+
+&nbsp; Оптимизированные файлы XSL-FO легче хранить для долгосрочного сохранения.
+
+
+
+* **Интеграция в рабочий процесс**  
+
+&nbsp; Улучшает эффективность в автоматизированных конвейерах публикации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие XSL-FO**  
+
+&nbsp; Автоматизация уменьшения размера для нескольких файлов форматирования.
+
+
+
+* **Удаление пробелов и избыточности**  
+
+&nbsp; Автоматическое удаление ненужных инструкций форматирования.
+
+
+
+* **Интеграция с конвейерами визуализации**  
+
+&nbsp; Сжатие файлов перед созданием PDF или печатных результатов.
+
+
+
+* **Динамическая оптимизация**  
+
+&nbsp; Регулирование уровней сжатия в зависимости от сложности документа или количества страниц.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

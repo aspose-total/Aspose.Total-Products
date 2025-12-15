@@ -75,7 +75,65 @@ PPSM 注釈アプリまたはユーティリティを開発する必要があり
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM注釈は、マクロが有効化されたスライドショーファイルに構造化されたメモを提供し、スクリプトの動作を文書化し、レビュー中の明確さを向上させます。これにより、自動的なトランジションやダイナミックなスライド間の相互作用を理解しやすくなります。
+
+自動注釈は、マクロをスキャンし、ロジックパターンを識別し、記述的な注釈を挿入することで監査を強化します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+
+
+* **マクロの動作の文書化**
+
+&nbsp; 自動スライドアクションを説明する注釈を追加します。
+
+* **レビューコメント**
+
+&nbsp; コンテンツやレイアウトに関する推奨事項を提供します。
+
+* **ロジックの可視化**
+
+&nbsp; マクロトリガーに影響を受ける領域を強調します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **マクロアナライザ**
+
+&nbsp; 検出されたスクリプトを自動的にスキャンしてコメントを付けます。
+
+* **テンプレートベースの注釈**
+
+&nbsp; ファイル全体に事前定義された注釈を挿入します。
+
+* **自動化されたQAタグ**
+
+&nbsp; リスクの高いまたは非推奨のマクロロジックをマークします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

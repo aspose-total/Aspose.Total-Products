@@ -75,7 +75,65 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'annotazione DOTM mira ai modelli di Word abilitati per macro, consentendo una chiara documentazione degli script incorporati e della logica del modello. Questo aiuta a mantenere la trasparenza intorno alle funzionalità automatizzate e garantisce un uso coerente tra i team.
+
+L'annotazione DOTM automatizzata consente ai sistemi di esaminare i macro, aggiornare le note e far rispettare le regole del modello su larga scala.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Note sul Comportamento dei Macro**  
+
+&nbsp; Spiegare come funzionano gli script incorporati.
+
+* **Linee Guida del Modello**  
+
+&nbsp; Guidare gli utenti sull'uso corretto dei macro.
+
+* **Tracciamento della Logica**  
+
+&nbsp; Contrassegnare le sezioni attivate dai macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Strumenti di Rilevamento dei Macro**  
+
+&nbsp; Inserire automaticamente annotazioni per gli script rilevati.
+
+* **Aggiornamenti del Modello Basati sul Flusso di Lavoro**  
+
+&nbsp; Aggiungere o modificare dinamicamente le note.
+
+* **Markup per il Controllo di Qualità**  
+
+&nbsp; Segnalare la logica dei macro rischiosa o obsoleta.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

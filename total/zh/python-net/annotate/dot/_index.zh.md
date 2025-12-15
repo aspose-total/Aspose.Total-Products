@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT注释涉及向Word模板文件添加结构化注释和评论，帮助团队标准化文档创建，同时保持清晰的说明。这提高了模板的可用性，并确保生成的文档具有一致的格式。  
+
+自动化的DOT注释简化了模板维护，使系统能够动态应用更新或指导。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **模板说明**  
+
+&nbsp; 添加指导用户如何填写各个部分的注释。
+
+* **格式标准**  
+
+&nbsp; 强调必需的结构或样式规则。
+
+* **修订跟踪**  
+
+&nbsp; 标记模板指南的更改。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量模板更新**  
+
+&nbsp; 通过程序插入新的说明。
+
+* **标准化脚本**  
+
+&nbsp; 自动注释缺失或不正确的部分。
+
+* **指南合规检查**  
+
+&nbsp; 强调与模板政策偏离的地方。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

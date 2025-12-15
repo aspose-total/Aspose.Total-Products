@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLSX, современный формат Excel, часто содержит большие наборы данных, таблицы и диаграммы. Сжатие уменьшает требования к хранению и улучшает скорость передачи файлов.
+
+
+
+Автоматизация на основе Python обеспечивает масштабируемое сжатие XLSX, обеспечивая безпрепятственную интеграцию с бизнес-процессами и облачными системами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация хранения данных**  
+
+&nbsp; Сжатие файлов XLSX без влияния на данные, формулы или форматирование.
+
+
+
+* **Ускоренное сотрудничество**  
+
+&nbsp; Меньшие файлы ускоряют обмен и загрузку в облако.
+
+
+
+* **Эффективность архивирования и резервного копирования**  
+
+&nbsp; Автоматизируйте сжатие для долгосрочного управления файлами XLSX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие XLSX**  
+
+&nbsp; Автоматическое сжатие нескольких файлов XLSX с использованием сценариев на Python.
+
+
+
+* **Интеграция в рабочий процесс**  
+
+&nbsp; Сжатые файлы XLSX могут быть обработаны в аналитических конвейерах или системах DMS.
+
+
+
+* **Условное сжатие**  
+
+&nbsp; Выборочное сжатие файлов на основе размера, встроенных медиафайлов или сложности данных.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +213,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

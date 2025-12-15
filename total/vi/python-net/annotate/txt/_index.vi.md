@@ -75,7 +75,65 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Words for Python via 
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT chú thích làm phong phú các tệp văn bản đơn giản bằng các ý kiến có cấu trúc, đánh dấu và ghi chú đánh giá, cải thiện sự hiểu biết trong quy trình kỹ thuật và tài liệu. Nó giúp làm rõ nội dung mà không làm thay đổi sự đơn giản của tệp.
+
+Tự động hóa hỗ trợ xử lý TXT nhanh chóng, quy mô lớn bằng cách phát hiện mẫu, chèn chú thích và thực hiện ghi chú có cấu trúc.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Ý Kiến Kỹ Thuật**  
+
+&nbsp; Thêm ghi chú mô tả cho các tệp cấu hình hoặc mã.
+
+* **Xác Định Lỗi**  
+
+&nbsp; Đánh dấu các dòng nghi ngờ hoặc lỗi cũ.
+
+* **Đánh Dấu Hướng Dẫn**  
+
+&nbsp; Chèn các thẻ hướng dẫn đơn giản.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Chú Thích Dựa Trên Mẫu**  
+
+&nbsp; Phát hiện và nổi bật cấu trúc được xác định trước.
+
+* **Xử Lý Tệp Theo Lô**  
+
+&nbsp; Chú thích các bộ sưu tập TXT lớn một cách tự động.
+
+* **Ghi Chú Đánh Giá Tự Động**  
+
+&nbsp; Chèn ý kiến dựa trên quy tắc trên các tệp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

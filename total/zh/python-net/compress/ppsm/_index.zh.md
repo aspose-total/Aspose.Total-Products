@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM文件（启用宏的PowerPoint演示）需要保留宏并减小文件大小以实现高效共享和存储。
+
+
+
+基于Python的自动化可实现可扩展的PPSM压缩，同时保持宏功能。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **宏保留**  
+
+&nbsp; 安全地压缩PPSM文件，而不会破坏宏。
+
+
+
+* **更快的共享**  
+
+&nbsp; 更小的文件可实现高效分发给团队或云存储。
+
+
+
+* **档案管理**  
+
+&nbsp; 自动化压缩确保长期存储宏启用的演示文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量PPSM压缩**  
+
+&nbsp; Python脚本可以自动处理多个启用宏的演示文件。
+
+
+
+* **与工作流系统集成**  
+
+&nbsp; 压缩的PPSM文件可用于自动化演示工作流程中。
+
+
+
+* **条件压缩**  
+
+&nbsp; 根据宏使用或嵌入式媒体来优化目标文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

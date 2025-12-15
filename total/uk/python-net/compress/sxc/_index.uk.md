@@ -77,7 +77,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файли SXC (застарілі електронні таблиці OpenOffice/StarOffice) виграють від стиснення для зменшення обсягу зберігання та полегшення обміну, зберігаючи формули та форматування.
+
+
+
+Python APIs дозволяють автоматизоване стиснення SXC для збереження ефективності робочого процесу в застарілих середовищах.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* **Оптимізація застарілих електронних таблиць**  
+
+&nbsp; Зменшення розмірів файлів SXC без впливу на формули або вміст.
+
+
+
+* **Швидший обмін**  
+
+&nbsp; Стиснені файли покращують швидкість передачі по мережі та між командами.
+
+
+
+* **Ефективність архівування**  
+
+&nbsp; Автоматизоване стиснення підтримує довгострокове зберігання застарілих електронних таблиць.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Пакетне стиснення SXC**  
+
+&nbsp; Сценарії Python можуть автоматично стискувати кілька файлів SXC.
+
+
+
+* **Інтеграція з DMS або хмарними системами**  
+
+&nbsp; Стиснені файли SXC можуть ефективно оброблятися в робочих процесах.
+
+
+
+* **Умовне стиснення**  
+
+&nbsp; Автоматизація може спрямовувати стиснення на файли на основі розміру або вбудованого вмісту.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

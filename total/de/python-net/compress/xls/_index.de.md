@@ -78,7 +78,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Die Komprimierung von XLS-Dateien reduziert den Speicherbedarf und beschleunigt das Teilen von Legacy-Excel-Arbeitsmappen, während Formeln, Diagramme und Formatierungen erhalten bleiben.
+
+
+
+Die Python-basierte Automatisierung ermöglicht die Stapelkomprimierung von XLS-Dateien, was eine skalierbare Datenverwaltung und eine effiziente Arbeitsablaufgestaltung ermöglicht.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Optimierung von Legacy-Arbeitsmappen**  
+
+&nbsp; Reduzieren Sie die Größe von XLS-Dateien, ohne Formeln oder Datenintegrität zu beeinträchtigen.
+
+
+
+* **Schnelleres Teilen**  
+
+&nbsp; Kleinere XLS-Dateien verbessern die Geschwindigkeit beim Versenden per E-Mail und in der Cloud.
+
+
+
+* **Effiziente Archivierung**  
+
+&nbsp; Die automatisierte Komprimierung vereinfacht die Langzeitarchivierung von Legacy-Excel-Dateien.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Stapelkomprimierung von XLS-Dateien**  
+
+&nbsp; Python-Skripte können mehrere XLS-Dateien in einem Durchgang komprimieren.
+
+
+
+* **Integration in Workflowsysteme**  
+
+&nbsp; Komprimierte XLS-Dateien können in automatisierte Pipelines oder DMS geladen werden.
+
+
+
+* **Bedingte Komprimierung**  
+
+&nbsp; Ziel XLS-Dateien mit großen Datensätzen oder eingebetteten Medien zur Komprimierung.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

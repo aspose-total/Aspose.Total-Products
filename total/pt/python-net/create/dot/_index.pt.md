@@ -43,9 +43,79 @@ Para um desenvolvedor, quem está tentando criar arquivos DOT via aplicativo Pyt
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT — Os arquivos de modelo `.dot` definem estilos e estruturas reutilizáveis para fluxos de trabalho legados do Word; criar modelos DOT via Python permite que as organizações mantenham formatação consistente para mala direta, formulários e documentos padronizados consumidos por clientes mais antigos.
+
+
+
+A geração programática de DOT garante que os modelos sejam atualizados centralmente e possam ser distribuídos automaticamente para usuários finais ou serviços de documentos.
+
+A automação suporta atualizações programadas de modelos, versionamento e geração downstream de documentos concretos a partir de modelos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Distribuição de Modelos Legados**
+
+  Produza modelos DOT que garantam layout consistente em todas as ferramentas legadas.
+
+
+
+* **Modelos de Formulários Padronizados**
+
+  Crie modelos de formulários com espaços reservados para mala direta manual ou automatizada.
+
+
+
+* **Versionamento de Modelos**
+
+  Automatize a marcação de versão e liberação de modelos DOT para repositórios de documentos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Atualização Automática de Modelos**
+
+  Substitua ou atualize modelos DOT de uma fonte central e envie atualizações de forma programática.
+
+
+
+* **Criação em Lote Baseada em Modelos**
+
+  Use modelos DOT para gerar muitos documentos preenchidos por meio de mesclagens automatizadas.
+
+
+
+* **Trilhas de Auditoria para Modelos**
+
+  Incorpore metadados e registros de alterações durante a geração programática de modelos para conformidade.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

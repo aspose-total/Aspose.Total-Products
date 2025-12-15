@@ -75,7 +75,65 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Anotasi PPSX memperkaya file presentasi slideshow dengan komentar dan pengingat struktural, memungkinkan peninjauan konten yang lebih baik dan penyempurnaan slide. Anotasi ini membantu pengguna mengoptimalkan alur visual sebelum penyampaian presentasi.
+
+Automasi mempercepat alur kerja PPSX dengan menerapkan anotasi yang konsisten, memeriksa isu tata letak, dan menandai elemen konten secara programatis.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Catatan Penyempurnaan Slide**  
+
+&nbsp; Tambahkan saran untuk kejelasan konten.
+
+* **Ulasan Desain**  
+
+&nbsp; Sorot ketidaksesuaian visual.
+
+* **Umpan Balik Transisi**  
+
+&nbsp; Tandai penyesuaian waktu atau animasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Anotasi Waktu Massal**  
+
+&nbsp; Sisipkan komentar berdasarkan kecepatan animasi yang terdeteksi.
+
+* **Pemetaan Struktur Otomatis**  
+
+&nbsp; Identifikasi dan anotasikan komponen slide kunci.
+
+* **Pemeriksaan Desain Berbasis Skrip**  
+
+&nbsp; Terapkan bendera berbasis aturan ke elemen slide.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOC文件的压缩可减少存储需求，加快文件共享速度，并保持文本密集或嵌入媒体内容的文档完整性。
+
+
+
+Python API允许自动化DOC压缩工作流程，支持可扩展的文档管理和在企业环境中更快的处理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **存储优化**  
+
+&nbsp; 减少传统DOC文件的磁盘空间使用，而不影响内容。
+
+
+
+* **电子邮件和云共享**  
+
+&nbsp; 较小的DOC文件可以在网络上更快速、更高效地传输。
+
+
+
+* **自动归档**  
+
+&nbsp; 批量压缩以确保旧文档的高效存储。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量压缩**  
+
+&nbsp; Python脚本可以自动处理多个DOC文件。
+
+
+
+* **与文档系统集成**  
+
+&nbsp; 压缩的DOC文件可以无缝上传到DMS平台。
+
+
+
+* **条件压缩**  
+
+&nbsp; 自动化可以压缩超过大小阈值或带有嵌入媒体的文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

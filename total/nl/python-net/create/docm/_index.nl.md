@@ -43,9 +43,63 @@ Voor een ontwikkelaar, die probeert DOCM-bestanden te maken via de Python-toepas
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM — `.docm`-bestanden ondersteunen ingesloten macro's en zijn ideaal wanneer documenten programmeerbaar gedrag moeten bevatten; Python-API's kunnen macro-ingeschakelde documenten maken door OOXML-inhoud samen te stellen en ondertekende of niet-ondertekende VBA-projecten via automatisering toe te voegen. Programmatische creatie zorgt ervoor dat macro's consistent verpakt zijn en gevalideerd of ondertekend kunnen worden als onderdeel van de build.
+
+Het gebruik van DOCM is passend wanneer bedrijfslogica (aangepaste velden, exportknoppen of gegevensverzamelingsmacro's) in het document moeten worden opgenomen; automatisering maakt het mogelijk om macro-inhoud in te voegen, te testen en te controleren om te voldoen aan beveiligings- en nalevingscontroles.
+
+Geautomatiseerde tests en CI-processen kunnen de integriteit van macrocode waarborgen en macro's ondertekenen voordat ze worden gedistribueerd.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Automatisering Ingesloten in Documenten**
+  Distribueer DOCM-bestanden die goedgekeurde macro's uitvoeren voor gestructureerde gegevensvastlegging of lokale transformaties.
+
+* **Gecontroleerde Macro-implementatie**
+  Voeg goedgekeurde VBA-modules in tijdens het bouwen van documenten voor gereguleerd macrogedrag.
+
+* **Macro-ingeschakelde Sjablonen**
+  Gebruik DOTM-sjablonen als bronnen om DOCM-documenten met vooraf ingestelde automatisering te genereren.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **CI-validatie van Macro's**
+  Voer automatisch statische analyse uit op VBA-code en blokkeer builds bij schendingen van het beleid.
+
+* **Ondertekening en Verpakking**
+  Automatiseer het digitaal ondertekenen van macro's en het verpakken van DOCM-bestanden voor veilige distributie.
+
+* **Macro-injectie vanuit Beveiligde Repositories**
+  Haal goedgekeurde VBA-fragmenten op uit een beveiligd repository en sluit ze in in gegenereerde DOCM-bestanden.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -70,7 +70,75 @@ További részletekért lásd a [Termékdokumentáció](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT összehasonlítás kiemeli a sorszintű vagy karakterszintű változásokat egyszerű szöveges dokumentumokban, biztosítva a teljes áttekintést a módosításokról formázási bonyodalmak nélkül. Alapvető fontosságú naplókhoz, scriptekhez és egyszerű dokumentációkhoz.
+
+
+
+Az automatizált TXT összehasonlítás gyors, skálázható frissítések észlelését biztosít nagy mennyiségű szöveges tartalom esetén.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Naplófájl Különbségkövetés**  
+
+&nbsp; Az új bejegyzéseket vagy változásokat azonosítja.
+
+
+
+* **Script vagy Kód Szöveg Áttekintése**  
+
+&nbsp; Kiemeli a módosításokat egyszerű szöveges scriptekben.
+
+
+
+* **Egyszerű Dokumentum Változáskezelés**  
+
+&nbsp; Hatékonyan rögzíti a sorváltozásokat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Nagy Mennyiségű TXT Összehasonlítások**  
+
+&nbsp; Gyorsan feldolgozza a fájlok ezreit.
+
+
+
+* **Automatizált Monitorozási Csatornák**  
+
+&nbsp; Munkafolyamatokat indít, amikor változások történnek.
+
+
+
+* **Programatikus Különbségkinyerés**  
+
+&nbsp; Strukturált jelentéseket generál a rendszerek számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

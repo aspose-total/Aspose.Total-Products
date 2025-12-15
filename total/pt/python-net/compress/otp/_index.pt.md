@@ -78,7 +78,87 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/zip
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A compressão OTP reduz o tamanho dos arquivos de Modelo OpenDocument usados para documentos de texto. A otimização do OTP melhora a eficiência de armazenamento, a distribuição mais rápida e o desempenho do fluxo de trabalho para a criação de documentos baseados em modelos.
+
+
+
+As APIs do Python permitem a compressão automatizada do OTP, o processamento em lote e a gestão de modelos para fluxos de trabalho escaláveis de automação de documentos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Otimização de Modelo**  
+
+  &nbsp; Reduzir a pegada de armazenamento para bibliotecas de modelos grandes.
+
+
+
+* **Compartilhamento e Colaboração Mais Rápidos**  
+
+  &nbsp; Arquivos OTP menores são transmitidos rapidamente entre equipes e redes.
+
+
+
+* **Eficiência do Fluxo de Trabalho**  
+
+  &nbsp; Modelos comprimidos melhoram a velocidade de carregamento e edição.
+
+
+
+* **Arquivamento e Backup**  
+
+  &nbsp; Armazenamento eficiente para retenção a longo prazo de arquivos de modelo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote do OTP**  
+
+  &nbsp; Automatizar a redução de tamanho para vários modelos.
+
+
+
+* **Otimização de Conteúdo e Mídia**  
+
+  &nbsp; Comprimir imagens ou estilos incorporados automaticamente.
+
+
+
+* **Integração em Pipelines de Documentos**  
+
+  &nbsp; Arquivos OTP comprimidos durante a implantação ou armazenamento automatizado de modelos.
+
+
+
+* **Regras de Compressão Dinâmicas**  
+
+  &nbsp; Ajustar a otimização com base na complexidade do modelo ou na densidade de conteúdo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

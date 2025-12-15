@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сравнение DOTM анализирует изменения на уровне шаблона в документах с макросами, обеспечивая согласованность визуальной структуры и встроенной логики автоматизации. Оно защищает организации от скрытых изменений на уровне макросов.
+
+
+
+Автоматизированное сравнение обеспечивает непрерывный мониторинг целостности шаблона и обновлений макросов в крупных системах документооборота.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* **Проверка шаблона макроса**  
+
+&nbsp; Проверяет изменения во встроенных сценариях и логике.
+
+
+
+* **Контроль шаблонов, ориентированный на соответствие требованиям**  
+
+&nbsp; Гарантирует, что все общие шаблоны соответствуют необходимым стандартам.
+
+
+
+* **Отслеживание шаблонов, готовое к проверке**  
+
+&nbsp; Поддерживает надежную историю версий для регулируемых рабочих процессов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Оповещения об изменениях на основе макросов**  
+
+&nbsp; Автоматически идентифицирует модификации встроенных макросов.
+
+
+
+* **Мониторинг шаблонов предприятия**  
+
+&nbsp; Сравнивает шаблоны в масштабе в рамках документальных экосистем.
+
+
+
+* **Автоматизированные проверки развертывания**  
+
+&nbsp; Проверяет согласованность шаблона перед распространением.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

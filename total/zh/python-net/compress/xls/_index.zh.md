@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLS文件的压缩可减少存储空间，加快共享传统Excel工作簿的速度，同时保留公式、图表和格式。
+
+
+
+基于Python的自动化可以批量压缩XLS文件，实现可扩展的数据管理和工作流效率。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **传统工作簿优化**  
+
+  &nbsp; 减小XLS文件大小，不影响公式或数据完整性。
+
+
+
+* **更快的共享**  
+
+  &nbsp; 更小的XLS文件提高了电子邮件和云端分发的速度。
+
+
+
+* **存档效率**  
+
+  &nbsp; 自动压缩简化了传统Excel文件的长期存储。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量XLS压缩**  
+
+  &nbsp; Python脚本可以一次压缩多个XLS文件。
+
+
+
+* **与工作流系统集成**  
+
+  &nbsp; 压缩后的XLS文件可以加载到自动化流水线或DMS中。
+
+
+
+* **条件压缩**  
+
+  &nbsp; 针对具有大型数据集或嵌入式媒体的XLS文件进行压缩。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

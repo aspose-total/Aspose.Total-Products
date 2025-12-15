@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การบีบอัด ODS ช่วยให้ไฟล์ OpenDocument Spreadsheet มีขนาดเล็กลง โดยยังรักษาสูตรคำนวณ กราฟ และความสมบูรณ์ของข้อมูล ไฟล์ ODS ที่ถูกบีบอัดช่วยปรับปรุงพื้นที่จัดเก็บ ความเร็วในการถ่ายโอน และประสิทธิภาพในการทำงานของสเปรดชีทที่มีข้อมูลมาก
+
+
+
+Python APIs ช่วยให้เป็นไปได้ที่จะทำการบีบอัด ODS อัตโนมัติ ประมวลผลเป็นชุด และแปลงไฟล์สเกลเพรดชีทให้สามารถจัดการได้ในสำนักงาน การวิเคราะห์ และระบบรายงานได้อย่างมีประสิทธิภาพ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การปรับปรุงพื้นที่จัดเก็บของสเปรดชีท**  
+
+&nbsp; ลดพื้นที่จัดเก็บสำหรับชุดข้อมูลขนาดใหญ่และคอลเลกชันของสเปรดชีท
+
+
+
+* **การแชร์และทำงานร่วมกันได้อย่างรวดเร็ว**  
+
+&nbsp; ไฟล์ ODS ขนาดเล็กส่งถ่ายข้อมูลได้อย่างมีประสิทธิภาพในทีมงาน
+
+
+
+* **การถ่ายโอนและสำรองข้อมูล**  
+
+&nbsp; บีบอัดไฟล์ ODS เพื่อการจัดเก็บระยะยาว
+
+
+
+* **ประสิทธิภาพของกระบวนการทำงาน**  
+
+&nbsp; สเปรดชีทที่ถูกปรับปรุงโหลดเร็วขึ้นในแอปพลิเคชันและไปไลน์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การบีบอัด ODS ชุด**  
+
+&nbsp; อัตโนมัติการลดขนาดสำหรับสเปรดชีทหลายชุด
+
+
+
+* **การปรับปรุงข้อมูลและกราฟ**  
+
+&nbsp; บีบอัดกราฟที่ฝังอยู่ ตารางพีว็อต และสูตรโดยอัตโนมัติ
+
+
+
+* **การผสานเข้ากับระบบ DAM หรือคลาวด์**  
+
+&nbsp; อัตโนมัติการบีบอัดขณะอัปโหลดหรือสำรองข้อมูล
+
+
+
+* **กฎการบีบอัดแบบไดนามิก**  
+
+&nbsp; ปรับการปรับปรุงตามขนาดข้อมูล ความซับซ้อนของสูตร หรืออ็อบเจกต์ที่ฝังอยู่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

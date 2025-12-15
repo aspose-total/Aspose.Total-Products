@@ -78,7 +78,87 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compression CMX réduit la taille des graphiques vectoriels Corel Presentation Exchange, qui incluent souvent des illustrations détaillées, des calques et des profils de couleur. L'optimisation des fichiers CMX contribue à améliorer les performances des flux de travail de conception, accélère le partage et réduit les besoins de stockage dans les environnements créatifs et techniques.
+
+
+
+Les API Python permettent la compression et la conversion automatisées des fichiers CMX, garantissant une manipulation efficace des grands actifs vectoriels à l'échelle pour les systèmes de publication, d'impression et de gestion graphique.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Optimisation de projets de conception**  
+
+&nbsp; Compresse les graphiques CMX en couches pour simplifier la manipulation des fichiers et réduire l'impact sur le stockage.
+
+
+
+* **Pipelines de publication et d'impression**  
+
+&nbsp; Les fichiers CMX plus petits accélèrent les processus de rendu, d'édition et de transfert.
+
+
+
+* **Gestion de bibliothèques d'actifs**  
+
+&nbsp; Les collections CMX optimisées se chargent plus rapidement dans les référentiels d'actifs numériques.
+
+
+
+* **Échange multiplateforme**  
+
+&nbsp; Les fichiers CMX compressés se transfèrent plus efficacement entre les équipes de conception ou les applications.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Compression en masse de fichiers CMX**  
+
+&nbsp; Optimise automatiquement de grands ensembles de graphiques CMX avec des flux de travail Python.
+
+
+
+* **Conversion de CMX en format compressé**  
+
+&nbsp; Convertit les fichiers CMX en SVG, PDF, PNG ou EPS tout en appliquant des règles de compression.
+
+
+
+* **Optimisation de téléchargement automatisé**  
+
+&nbsp; Les fichiers CMX peuvent être compressés instantanément lorsqu'ils sont intégrés dans des systèmes de GED ou de DAM.
+
+
+
+* **Compression consciente du contenu**  
+
+&nbsp; Ajuste l'intensité de l'optimisation en fonction de la complexité vectorielle ou des composants intégrés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

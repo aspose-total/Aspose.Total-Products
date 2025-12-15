@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تستفيد ملفات XLSB (دفاتر عمل Excel ثنائية) من ضغط لتقليل حجم الملف مع الحفاظ على سرعة التحميل والحسابات المعقدة.
+
+
+
+تمكن واجهات برمجة التطبيقات في Python من ضغط ملفات XLSB تلقائيًا، مما يدعم إدارة جداول البيانات بمقياس كبير والتكامل مع سير العمل في المؤسسات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين دفتر العمل الثنائي**  
+
+&nbsp; ضغط ملفات XLSB دون التأثير على الأداء أو الحسابات.
+
+
+
+* **نقل الملفات بسرعة أكبر**  
+
+&nbsp; تسمح الملفات الصغيرة XLSB بالمشاركة السريعة عبر البريد الإلكتروني أو السحابة.
+
+
+
+* **أرشفة فعالة**  
+
+&nbsp; يدعم الضغط التلقائي تخزين دفاتر العمل الثنائية على المدى الطويل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير الآلي" %}}
+
+
+
+* **ضغط ملفات XLSB بالدفعة**  
+
+&nbsp; يمكن لنصوص Python ضغط عدة ملفات XLSB تلقائيًا.
+
+
+
+* **التكامل مع أدوات التحليل والذكاء الاصطناعي**  
+
+&nbsp; يمكن معالجة ملفات XLSB المضغوطة بسلاسة في سير العمل التلقائي.
+
+
+
+* **ضغط انتقائي**  
+
+&nbsp; يمكن للأتمتة ضغط ملفات XLSB الكبيرة أو التي تحتوي على وسائط فقط.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

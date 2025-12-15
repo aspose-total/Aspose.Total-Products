@@ -78,7 +78,87 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/zip
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A compressão EPUB reduz o tamanho dos arquivos de eBook, que contêm texto, imagens, estilos e metadados. EPUBs comprimidos melhoram a velocidade de download, a eficiência de armazenamento e a compatibilidade com eReaders e bibliotecas digitais.
+
+
+
+As APIs do Python permitem a compressão automatizada de EPUB, processamento em lote e otimização para gerenciamento escalável de eBooks e publicações digitais.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Distribuição de eBooks**  
+
+  &nbsp; Arquivos EPUB menores permitem downloads mais rápidos e compartilhamento mais fácil.
+
+
+
+* **Gerenciamento de Biblioteca Digital**  
+
+  &nbsp; EPUBs comprimidos reduzem os requisitos de armazenamento para grandes coleções.
+
+
+
+* **Entrega de Conteúdo para Múltiplos Dispositivos**  
+
+  &nbsp; Arquivos otimizados garantem uma experiência de leitura suave em eReaders e aplicativos.
+
+
+
+* **Arquivamento e Backup**  
+
+  &nbsp; Armazenamento eficiente para grandes volumes de eBooks.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de EPUB**  
+
+  &nbsp; Automatize a otimização de vários arquivos de eBook de uma só vez.
+
+
+
+* **Otimização de Imagens e Texto**  
+
+  &nbsp; Reduza o tamanho de imagens incorporadas e remova metadados redundantes.
+
+
+
+* **Integração de Fluxo de Trabalho**  
+
+  &nbsp; Comprima EPUB automaticamente durante o upload para bibliotecas digitais ou plataformas.
+
+
+
+* **Ajuste Dinâmico de Qualidade**  
+
+  &nbsp; Equilibre a qualidade da imagem e o tamanho do arquivo com base no dispositivo ou plataforma.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

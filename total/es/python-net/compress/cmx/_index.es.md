@@ -78,7 +78,87 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compresión CMX reduce el tamaño de los gráficos vectoriales de Corel Presentation Exchange, que a menudo incluyen ilustraciones detalladas, capas y perfiles de color. Optimizar los archivos CMX ayuda a mejorar el rendimiento en flujos de trabajo de diseño, acelera el intercambio y reduce los requisitos de almacenamiento en entornos creativos y técnicos.
+
+
+
+Las API de Python permiten la compresión y conversión automatizadas de CMX, garantizando un manejo eficiente de activos vectoriales grandes a escala para sistemas de publicación, impresión y gestión gráfica.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principales Casos de Uso" %}}
+
+
+
+* **Optimización de Proyectos de Diseño**  
+
+&nbsp; Comprime gráficos CMX con capas para agilizar el manejo de archivos y reducir el impacto en el almacenamiento.
+
+
+
+* **Flujos de Publicación e Impresión**  
+
+&nbsp; Los archivos CMX más pequeños aceleran los procesos de renderizado, edición y transferencia.
+
+
+
+* **Gestión de Bibliotecas de Activos**  
+
+&nbsp; Las colecciones de CMX optimizadas se cargan más rápido en repositorios de activos digitales.
+
+
+
+* **Intercambio entre Plataformas**  
+
+&nbsp; Los archivos CMX comprimidos se transfieren de manera más eficiente entre equipos de diseño o aplicaciones.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Compresión Masiva de CMX**  
+
+&nbsp; Optimiza automáticamente grandes conjuntos de gráficos CMX con flujos de trabajo de Python.
+
+
+
+* **Conversión de CMX a Formato Comprimido**  
+
+&nbsp; Convierte CMX en SVG, PDF, PNG o EPS aplicando reglas de compresión.
+
+
+
+* **Optimización de Carga Automatizada**  
+
+&nbsp; Los archivos CMX pueden comprimirse al instante al ser ingresados en sistemas DMS o DAM.
+
+
+
+* **Compresión Consciente del Contenido**  
+
+&nbsp; Ajusta la intensidad de la optimización según la complejidad del vector o los componentes incrustados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

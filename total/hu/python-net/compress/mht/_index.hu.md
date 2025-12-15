@@ -78,7 +78,87 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az MHT (MHTML Web Archive) tömörítés csökkenti a weboldal archívumok méretét, amelyek HTML-t, képeket, CSS-t és scripteket tartalmaznak, egyetlen fájlba csomagolva. A tömörített MHT fájlok javítják a tárolási hatékonyságot, gyorsabb fájlátvitelt és könnyebb webes tartalmak archiválását.
+
+
+
+A Python API-k lehetővé teszik az automatizált MHT tömörítést, a batch feldolgozást és az integrációt a webarchiválási csatornákkal, támogatva az offline webes tartalmak skálázható kezelését.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Weboldal archiválás**  
+
+&nbsp; Tömörítse az MHT fájlokat az archivált webhelyek tárolási helyének megtakarítása érdekében.
+
+
+
+* **Offline tartalom terjesztése**  
+
+&nbsp; A kisebb MHT fájlok gyorsabb megosztást és letöltést tesznek lehetővé.
+
+
+
+* **Digitális könyvtárkezelés**  
+
+&nbsp; Hatékonyan tárolja a nagy weboldal archívumok gyűjteményeit.
+
+
+
+* **Munkafolyamat optimalizálása**  
+
+&nbsp; A tömörített fájlok javítják a feldolgozási sebességet a webes tartalomrendszerekben.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Batch MHT tömörítés**  
+
+&nbsp; Automatizálja a méretcsökkentést több webarchívumfájl esetén.
+
+
+
+* **Beágyazott tartalom optimalizálása**  
+
+&nbsp; Automatikusan tömörítse a képeket, scripteket és stílusokat.
+
+
+
+* **Integráció a DAM vagy CMS rendszerrel**  
+
+&nbsp; Tömörítse az MHT fájlokat feltöltéskor vagy archiváláskor.
+
+
+
+* **Dinamikus tömörítési szabályok**  
+
+&nbsp; Állítsa be az optimalizálást az oldal bonyolultsága és beágyazott médiatartalma alapján.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

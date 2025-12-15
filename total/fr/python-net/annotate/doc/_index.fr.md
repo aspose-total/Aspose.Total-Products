@@ -75,7 +75,65 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'annotation DOC se concentre sur l'ajout de commentaires, de surlignages et de métadonnées structurées aux anciens documents Word, améliorant ainsi leur lisibilité et permettant aux équipes de capturer le contexte des anciens formats de fichiers. Ce processus aide à préserver l'intégrité du document tout en garantissant que les informations sont faciles à interpréter et à réviser.
+
+L'intégration de l'annotation DOC dans les flux de travail modernes améliore la compatibilité et permet aux systèmes automatisés d'extraire, d'indexer et de mettre à jour le contenu de manière plus efficace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Révision du contenu et commentaires**  
+
+&nbsp; Ajoutez des commentaires ou des surlignages pour marquer les modifications importantes ou les clarifications.
+
+* **Enrichissement des métadonnées**  
+
+&nbsp; Insérez des notes structurées pour la catégorisation et la récupération.
+
+* **Nettoyage du document**  
+
+&nbsp; Identifiez les sections obsolètes ou non pertinentes à réviser.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Pipelines d'annotation par lots**  
+
+&nbsp; Automatisez l'ajout de commentaires sur plusieurs fichiers DOC.
+
+* **Vérifications de qualité automatisées**  
+
+&nbsp; Signalez les sections manquantes ou les incohérences de formatage de manière programmée.
+
+* **Surlignages basés sur le flux de travail**  
+
+&nbsp; Appliquez des annotations basées sur des règles déclenchées par le contenu du document.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

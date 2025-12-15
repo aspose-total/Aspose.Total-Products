@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS（XML Paper Specification）压缩可减小固定布局文档的大小，同时保持质量、矢量图形和嵌入字体。压缩的XPS文件提高了存储效率、传输速度和跨设备的呈现性能。
+
+
+
+Python API可实现自动化XPS压缩、批处理处理，并集成到文档工作流程中，实现可扩展的内容管理和分发。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **文档存档**  
+
+&nbsp; 压缩XPS文件以便长期存储而无损失质量。
+
+
+
+* **高效分发**  
+
+&nbsp; 较小的XPS文件在网络或设备间传输更快。
+
+
+
+* **打印与发布工作流程**  
+
+&nbsp; 优化的XPS提高了呈现速度和打印性能。
+
+
+
+* **数字图书馆**  
+
+&nbsp; 减少固定布局文档集合的存储占用。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量XPS压缩**  
+
+&nbsp; 自动化多个XPS文件的大小缩减。
+
+
+
+* **嵌入式资源优化**  
+
+&nbsp; 自动压缩字体、图像和图形。
+
+
+
+* **工作流程集成**  
+
+&nbsp; 在上传到CMS、DAM或打印流程时动态压缩XPS文件。
+
+
+
+* **动态压缩级别**  
+
+&nbsp; 根据文档内容、分辨率或预期输出进行调整。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

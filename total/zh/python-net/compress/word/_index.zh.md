@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+通用的Word文件压缩可减少存储使用量，加快传输速度，并保持格式、布局和嵌入式媒体，提高工作流效率。
+
+
+
+基于Python的压缩能够自动优化大规模的Word文档，支持与现代文档管理系统集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **存储优化**  
+
+&nbsp; 减小通用Word文件大小，提高磁盘利用率。
+
+
+
+* **更快的共享与协作**  
+
+&nbsp; 较小的文件更容易在团队中发送和协作。
+
+
+
+* **存档效率**  
+
+&nbsp; 自动压缩有助于管理大型Word文档存储库。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量处理**  
+
+&nbsp; Python脚本可以自动压缩多个Word文件。
+
+
+
+* **工作流集成**  
+
+&nbsp; 压缩文件可上传或与文档管理系统和云服务同步。
+
+
+
+* **动态压缩**  
+
+&nbsp; 根据大小、媒体内容或项目规则，自动化可以选择性地压缩文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

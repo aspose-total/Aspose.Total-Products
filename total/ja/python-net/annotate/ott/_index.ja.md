@@ -75,7 +75,65 @@ OTT 注釈アプリまたはユーティリティを開発する必要があり�
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+OTT注釈は、ガイダンスノート、プレースホルダ、および構造化されたメタデータをオープンフォーマットのテンプレートに埋め込むことで、テンプレートテキスト文書を改善します。これにより、一貫した文書作成とより明確なエンドユーザー向けの指示が確保されます。
+
+自動化は、テンプレートルールの適用、注釈テキストの更新、標準構造の強制によってOTTワークフローを強化します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+
+
+* **テンプレートの指示**  
+
+&nbsp; 各セクションの完了方法に関するガイダンスを提供します。
+
+* **書式設定基準**  
+
+&nbsp; 特定のスタイルが必要な領域を強調します。
+
+* **改訂文書**  
+
+&nbsp; テンプレートの更新内で変更箇所をマークします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **スクリプト駆動型テンプレートの更新**  
+
+&nbsp; テンプレート全体に新しい指示を自動的に適用します。
+
+* **コンプライアンスマーカー**  
+
+&nbsp; 不足している必須フィールドを特定および注釈付けします。
+
+* **ダイナミックルールの強制**  
+
+&nbsp; テンプレートロジックによってトリガーされる注釈を追加します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

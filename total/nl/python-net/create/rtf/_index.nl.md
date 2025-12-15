@@ -43,9 +43,81 @@ Voor een ontwikkelaar, die probeert RTF-bestanden te maken via de Python-toepass
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF — Rich Text Format (RTF) is een tekstformaat dat wordt ondersteund door veel editors en platformonafhankelijk is; Python-gebaseerde RTF-generatie is handig bij het produceren van eenvoudige opgemaakte documenten die moeten worden geaccepteerd door een breed scala aan klanten. RTF mist de geavanceerde functies van OOXML, maar blinkt uit in draagbare opgemaakte tekst, eenvoudige tabellen en inline-objecten.
+
+
+
+RTF-automatisering is geschikt voor mail-merge, eenvoudige opgemaakte brieven of systemen waar maximale compatibiliteit vereist is. Programmatische creatie kan worden gedaan door het templating van RTF-fragmenten of door het gebruik van bibliotheken die RTF-tokens rechtstreeks opbouwen.
+
+
+
+Automatisering vereenvoudigt bulk RTF-export en conversiepijplijnen die gericht zijn op lichtgewicht of verouderde gebruikers.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Gebruiksscenario's" %}}
+
+
+
+* **Cross-platform Briefgeneratie**
+
+&nbsp; Produceer RTF-documenten voor klanten die de voorkeur geven aan lichtgewicht, draagbare opgemaakte tekst.
+
+
+
+* **Mail-merge voor Eenvoudige Documenten**
+
+&nbsp; Genereer gepersonaliseerde brieven en meldingen in RTF voor brede compatibiliteit.
+
+
+
+* **Uitwisseling met Niet-OOXML Systemen**
+
+&nbsp; Exporteer inhoud naar RTF voor systemen die geen DOCX of binair Word kunnen verwerken.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+
+
+* **Bulk RTF-export**
+
+&nbsp; Automatiseer de creatie van duizenden RTF-bestanden vanuit gestructureerde gegevensfeeds.
+
+
+
+* **Formaat-fallback Pijplijnen**
+
+&nbsp; Bied automatisch RTF-versies aan wanneer gebruikers geen DOCX/DOCM kunnen verwerken.
+
+
+
+* **Eenvoudige Templating Engines**
+
+&nbsp; Gebruik programmatische tokenvervanging in RTF-templates als onderdeel van een geautomatiseerde workflow.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

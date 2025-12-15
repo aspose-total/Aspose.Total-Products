@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WEBP 압축은 웹 최적화 이미지의 파일 크기를 줄이면서 시각적 품질을 유지하는 데 중점을 둡니다. WEBP는 손실 압축과 무손실 압축을 모두 지원하여 웹 그래픽, 앱 인터페이스 및 디지털 콘텐츠 전달에 이상적입니다.
+
+
+
+Python API를 사용하면 자동화된 WEBP 압축, 일괄 처리 및 다른 형식으로의 변환을 지원하여 웹 성능 최적화 및 클라우드 기반 이미지 관리를 위한 확장 가능한 워크플로우를 구축할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **웹 및 앱 성능**  
+
+&nbsp; 압축된 WEBP 이미지는 페이지 로드 속도를 향상시키고 대역폭 사용량을 줄입니다.
+
+
+
+* **반응형 디지털 콘텐츠**  
+
+&nbsp; 웹사이트, 앱 및 온라인 플랫폼의 고품질 시각적 효과를 유지합니다.
+
+
+
+* **마케팅 및 소셜 미디어 자산**  
+
+&nbsp; 작은 WEBP 파일은 캠페인의 빠른 업로드와 렌더링을 보장합니다.
+
+
+
+* **아카이빙 및 클라우드 저장**  
+
+&nbsp; 대형 이미지 라이브러리의 저장 요구 사항을 줄입니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 WEBP 압축**  
+
+&nbsp; Python을 이용한 프로세스에서 여러 WEBP 파일을 자동으로 압축합니다.
+
+
+
+* **무손실 또는 손실 선택**  
+
+&nbsp; 자동화는 이미지 콘텐츠와 요구 사항에 따라 최적의 압축 유형을 선택합니다.
+
+
+
+* **워크플로우 통합**  
+
+&nbsp; CMS, DAM 또는 클라우드 플랫폼으로 업로드하는 동안 WEBP 이미지를 자동으로 압축합니다.
+
+
+
+* **동적 품질 조정**  
+
+&nbsp; 해상도, 대상 장치 또는 네트워크 상태에 따라 압축을 조정할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

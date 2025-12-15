@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM注释允许向支持需要动态脚本或嵌入式自动化的工作流的宏启用Word文档添加注释、高亮显示和元数据。这有助于用户记录逻辑、跟踪更改，并保持对宏行为的清晰认识。
+
+通过以编程方式对DOCM文件进行注释，自动化系统可以监视宏的使用情况，增强文档一致性，并简化验证流程。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **宏文档化**  
+
+  标记并描述文档中的宏驱动操作。
+
+* **合规跟踪**  
+
+  添加确认所需脚本或验证的注释。
+
+* **更改日志记录**  
+
+  强调与宏相关的更新以便查看。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **宏扫描和注释**  
+
+  自动插入描述检测到的宏功能的注释。
+
+* **动态合规报告**  
+
+  当宏符合或未通过某些检查时填充注释。
+
+* **基于脚本的审查工具**  
+
+  使用Python以规模化应用结构化注释。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

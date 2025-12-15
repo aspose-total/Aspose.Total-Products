@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX（モダンなPowerPointテンプレート）は、サイズを縮小し共有効率を向上させるために圧縮を活用していますが、すべてのフォーマットとデザイン要素を維持しています。
+
+
+
+Python APIを使用すると、POTXの自動圧縮が可能で、ワークフローの拡張性とテンプレート管理が向上します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **テンプレートのストレージ最適化**  
+
+&nbsp; コンテンツとスライドデザインを保持しながらPOTXテンプレートを圧縮します。
+
+
+
+* **迅速なテンプレート共有**  
+
+&nbsp; より小さなファイルサイズにより、チームやクラウドプラットフォーム間での迅速な配布が可能です。
+
+
+
+* **自動アーカイブ**  
+
+&nbsp; 圧縮により、長期的なテンプレートのストレージ管理が簡素化されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **一括POTX圧縮**  
+
+&nbsp; Pythonスクリプトにより、複数のテンプレートの圧縮を自動化します。
+
+
+
+* **ワークフローシステムとの統合**  
+
+&nbsp; 圧縮されたテンプレートは自動化されたパイプラインに動的にロードできます。
+
+
+
+* **スマート圧縮**  
+
+&nbsp; 条件付き自動化は大きなまたはメディア重いテンプレートを対象とします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

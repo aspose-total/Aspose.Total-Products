@@ -43,9 +43,81 @@ informat: DOC
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOC — Tạo tệp `.doc` (tệp Word nhị phân cũ) thông qua Python APIs cho phép tự động hóa cho các hệ thống cũ hơn và bảo tồn tính tương thích với các công cụ cũ. Các phương pháp Python điển hình dựa vào thư viện có thể lắp ráp cấu trúc nhị phân hoặc sử dụng tự động COM trên Windows để xuất hoặc lưu tài liệu nhị phân cổ điển từ nội dung theo chương trình.
+
+
+
+Việc viết kịch bản DOC hữu ích khi yêu cầu tương thích ngược; tài liệu được tạo có thể bao gồm văn bản có cấu trúc, kiểu cơ bản, tiêu đề/chân trang và các đối tượng nhúng nơi được hỗ trợ.
+
+
+
+Tự động hóa cho phép các đường ống chuyển đổi chấp nhận nguồn hiện đại (markdown, HTML, DOCX) và phát ra `.doc` cho việc lưu trữ hoặc tích hợp với các ứng dụng cổ điển.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tích Hợp Hệ Thống Cũ**
+
+&nbsp; Tạo tệp .doc cho phần mềm doanh nghiệp cũ yêu cầu định dạng nhị phân.
+
+
+
+* **Xuất Lưu Trữ**
+
+&nbsp; Chuyển đổi tài liệu hiện đại sang .doc cho việc lưu trữ dài hạn khi được yêu cầu theo chính sách cổ điển.
+
+
+
+* **Tương Thích với Các Công Cụ Cũ**
+
+&nbsp; Tạo đầu ra .doc để đảm bảo tính tương thích với hệ thống gửi thư hoặc in ấn cũ.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Chuyển Đổi Định Dạng Tự Động**
+
+&nbsp; Chuyển đổi hàng loạt DOCX sang DOC trong các công việc được lên lịch cho kiểm thử tương thích.
+
+
+
+* **Xuất Kịch Bản từ Mẫu**
+
+&nbsp; Sử dụng quy trình tạo dựa trên mẫu để lưu tài liệu cuối cùng dưới dạng .doc cho các quy trình phía dưới.
+
+
+
+* **Tích Hợp với Đường Ống ETL**
+
+&nbsp; Kết hợp việc tạo DOC vào các công việc ETL chuẩn bị tài liệu cho người tiêu dùng cổ điển.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

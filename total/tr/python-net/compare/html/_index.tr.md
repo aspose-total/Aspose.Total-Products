@@ -70,7 +70,75 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+HTML karşılaştırması, web veya dışa aktarılan belge dosyaları arasındaki işaretleme, içerik blokları, etiketler, stiller ve satır içi biçimlendirme farklarını belirler. İçeriğin doğru bir şekilde sunumunu ve sunumunu sağlar.
+
+
+
+Otomatik HTML karşılaştırma, web içeriği, belge portalları ve sistem tarafından oluşturulan HTML dışa aktarmaları için ölçeklenebilir kalite kontrolü destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Web İçeriği Revizyon Takibi**  
+
+&nbsp; Metin ve düzen öğelerindeki güncellemeleri vurgular.
+
+
+
+* **Dışa Aktarılan Belge Uyumluluk Kontrolleri**  
+
+&nbsp; HTML dışa aktarmalarının beklenen yapıyla eşleştiğinden emin olur.
+
+
+
+* **Teknik Belge Güncellemeleri**  
+
+&nbsp; Kod bloklarındaki veya bilgilendirme bölümlerindeki değişiklikleri tespit eder.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **İşaretleme Değişikliği Algılama**  
+
+&nbsp; Etiket düzeyindeki değişiklikleri otomatik olarak tanır.
+
+
+
+* **Toplu HTML Karşılaştırması**  
+
+&nbsp; Büyük koleksiyonlardaki HTML çıktılarını doğrular.
+
+
+
+* **Otomatik Yayınlama Boruları**  
+
+&nbsp; Sürekli içerik dağıtım sistemlerine kontrolleri entegre eder.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compression CDR se concentre sur l'optimisation des graphiques vectoriels CorelDRAW pour réduire la taille du fichier tout en préservant les formes, les calques, le texte et la structure de conception. Étant donné que les fichiers CDR peuvent inclure des objets vectoriels complexes et des médias intégrés, la compression est importante pour améliorer la manipulation des projets, l'efficacité du stockage et les performances du flux de travail de conception.
+
+
+
+Les API Python facilitent la compression, l'optimisation et la conversion automatisées des fichiers CDR, permettant une gestion évolutive des actifs graphiques dans les environnements de production, d'impression et de contenu numérique.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Optimisation des actifs de conception graphique**  
+
+&nbsp; Compresse les conceptions vectorielles complexes pour simplifier le stockage et le partage de projets.
+
+
+
+* **Flux de production d'impression**  
+
+&nbsp; Les fichiers CDR plus petits améliorent les performances lors des étapes de prépresse et de traitement d'impression.
+
+
+
+* **Dépôts de fichiers versionnés**  
+
+&nbsp; La compression maintient les archives de conception volumineuses légères et plus faciles à gérer.
+
+
+
+* **Livraison multiplateforme**  
+
+&nbsp; La réduction de la taille des fichiers améliore la vitesse de transfert entre les équipes de conception, les outils et les clients.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Compression CDR par lot**  
+
+&nbsp; Automatise l'optimisation pour des centaines de fichiers CorelDRAW à la fois.
+
+
+
+* **Conversion de CDR en format optimisé**  
+
+&nbsp; Convertit CDR en SVG, PDF ou PNG tout en appliquant des règles de compression.
+
+
+
+* **Intégration du pipeline de conception**  
+
+&nbsp; Comprime automatiquement les actifs lorsqu'ils sont téléchargés dans les systèmes CMS, DAM ou de flux de travail.
+
+
+
+* **Règles de compression adaptatives**  
+
+&nbsp; Ajuste automatiquement les niveaux de compression en fonction de la complexité du fichier ou des médias intégrés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

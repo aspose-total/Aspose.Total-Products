@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие CDR сосредотачивается на оптимизации векторной графики CorelDRAW для уменьшения размера файла, сохраняя формы, слои, текст и структуру дизайна. Поскольку файлы CDR могут содержать сложные векторные объекты и встроенные медиа, сжатие важно для улучшения обработки проекта, эффективности хранения и производительности рабочего процесса дизайна.
+
+
+
+API Python облегчают автоматизированное сжатие, оптимизацию и конвертацию файлов CDR, обеспечивая масштабируемое управление графическими ресурсами в производственных, печатных и цифровых средах контента.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация графических ресурсов дизайна**  
+
+&nbsp; Сжимает сложные векторные дизайны для упрощения хранения и обмена проектами.
+
+
+
+* **Производственные рабочие процессы печати**  
+
+&nbsp; Меньшие файлы CDR улучшают производительность на этапах предварительной печати и обработки печати.
+
+
+
+* **Хранилища файлов в версиях**  
+
+&nbsp; Сжатие делает крупные архивы дизайна легкими и удобными для управления.
+
+
+
+* **Передача между платформами**  
+
+&nbsp; Уменьшение размеров файлов увеличивает скорость передачи между командами дизайна, инструментами и клиентами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие CDR**  
+
+&nbsp; Автоматизируйте оптимизацию для сотен файлов CorelDRAW сразу.
+
+
+
+* **Преобразование CDR в оптимизированный формат**  
+
+&nbsp; Преобразование CDR в SVG, PDF или PNG с применением правил сжатия.
+
+
+
+* **Интеграция в процесс дизайна**  
+
+&nbsp; Автоматическое сжатие ресурсов при загрузке в системы управления контентом, DAM или рабочие системы.
+
+
+
+* **Адаптивные правила сжатия**  
+
+&nbsp; Автоматическое регулирование уровней сжатия на основе сложности файла или встроенных медиа.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +225,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

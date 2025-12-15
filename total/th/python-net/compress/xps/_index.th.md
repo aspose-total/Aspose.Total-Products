@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การบีบอัด XPS (XML Paper Specification) ช่วยลดขนาดของเอกสารเค้าโครงแบบคงที่โดยรักษาคุณภาพกราฟิกเวกเตอร์และฟอนต์ที่ฝังอยู่ ไฟล์ XPS ที่ถูกบีบอัดช่วยเพิ่มประสิทธิภาพในการจัดเก็บ การส่งข้อมูล และประสิทธิภาพในการแสดงผลบนอุปกรณ์ต่าง ๆ
+
+
+
+Python APIs ช่วยให้เป็นไปได้ที่จะทำการบีบอัด XPS อัตโนมัติ ประมวลผลเป็นกลุ่ม และผสานเข้ากับขั้นตอนการทำงานของเอกสารเพื่อการจัดการเนื้อหาและการกระจายเนื้อหาได้ในขอบเขตที่ใหญ่ขึ้น
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การเก็บถาวรเอกสาร**  
+
+&nbsp; บีบอัดไฟล์ XPS เพื่อการจัดเก็บในระยะยาวโดยไม่สูญเสียคุณภาพ
+
+
+
+* **การกระจายเอกสารอย่างมีประสิทธิภาพ**  
+
+&nbsp; ไฟล์ XPS ขนาดเล็กจะถ่ายโอนได้เร็วขึ้นในเครือข่ายหรืออุปกรณ์
+
+
+
+* **กระบวนการพิมพ์และการตีพิมพ์**  
+
+&nbsp; XPS ที่ถูกปรับแต่งเพิ่มความเร็วในการแสดงผลและประสิทธิภาพในการพิมพ์
+
+
+
+* **ห้องสมุดดิจิทัล**  
+
+&nbsp; ลดพื้นที่เก็บข้อมูลสำหรับคอลเล็กชันของเอกสารเค้าโครงแบบคงที่
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* **การบีบอัด XPS แบบกลุ่ม**  
+
+&nbsp; ทำให้การลดขนาดเป็นไปอัตโนมัติสำหรับไฟล์ XPS หลายไฟล์
+
+
+
+* **การปรับปรุงสิ่งที่ฝังอยู่**  
+
+&nbsp; บีบอัดฟอนต์ รูปภาพ และกราฟิกโดยอัตโนมัติ
+
+
+
+* **การผสานเข้ากับขั้นตอนการทำงาน**  
+
+&nbsp; บีบอัดไฟล์ XPS โดยไดนามิกเมื่ออัปโหลดไปยัง CMS, DAM, หรือกระบวนการพิมพ์
+
+
+
+* **ระดับการบีบอัดแบบไดนามิก**  
+
+&nbsp; ปรับตามเนื้อหาของเอกสาร ความละเอียด หรือผลลัพธ์ที่ต้องการ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

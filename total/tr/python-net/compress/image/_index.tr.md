@@ -100,7 +100,99 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Görüntü formatı sıkıştırması, depolama boyutunu azaltmada, yükleme hızını artırmada ve dijital platformlarda sorunsuz teslimatta önemli bir rol oynar. Kullanılan geniş bir yelpazede raster ve vektör formatları ile etkili sıkıştırma, grafik iş akışları, web uygulamaları, tıbbi görüntüleme ve multimedya sistemleri için performansı artırır.
+
+
+
+Python API'leri, çeşitli görüntü formatlarının otomatik sıkıştırılmasını, optimize edilmesini ve dönüştürülmesini sağlayarak, medya boru hatları, içerik işleme sistemleri ve yüksek hacimli görüntü depoları için ölçeklenebilir iş akışları sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Web ve Uygulama Performansı Optimizasyonu**  
+
+&nbsp; Görüntülerin sıkıştırılması sayfa yükleme sürelerini iyileştirir ve cihazlar arasında kullanıcı deneyimini artırır.
+
+
+
+* **Grafik Varlık Yönetimi**  
+
+&nbsp; Tasarımcılar ve içerik ekipleri, görsel kaliteyi kaybetmeden daha küçük dosya boyutlarından faydalanır.
+
+
+
+* **Büyük Ölçekli Görüntü Depoları**  
+
+&nbsp; Otomatik sıkıştırma, kurumsal sistemler için verimli depolama ve daha hızlı geri alma sağlar.
+
+
+
+* **Tıbbi ve Bilimsel Görüntüleme**  
+
+&nbsp; DICOM ve yüksek çözünürlüklü formatlar, kritik detayları koruyarak verimli arşivleme için sıkıştırılabilir.
+
+
+
+* **Çapraz Platform Medya Teslimatı**  
+
+&nbsp; Sıkıştırma, bulut sistemleri, mobil uygulamalar ve API'lar için görüntüleri optimize etmeye yardımcı olur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu Görüntü Sıkıştırma**  
+
+&nbsp; Python betikleri binlerce görüntüyü tek bir otomatik çalışmada optimize edebilir.
+
+
+
+* **Dinamik Kalite Ayarı**  
+
+&nbsp; İş akışları, dosya boyutuna, çözünürlüğe veya kullanım bağlamına göre otomatik olarak sıkıştırabilir.
+
+
+
+* **Boru Hatlarında Gerçek Zamanlı Optimizasyon**  
+
+&nbsp; Uygulamalar veya API'ler aracılığıyla yüklenen görüntüler depolanmadan önce anında sıkıştırılabilir.
+
+
+
+* **Otomatik Format Dönüştürme + Sıkıştırma**  
+
+&nbsp; BMP → PNG → WebP gibi formatları dönüştürürken sıkıştırma uygular.
+
+
+
+* **AI-Destekli Sıkıştırma Kuralları**  
+
+&nbsp; Akıllı iş akışları, görüntü içeriğine bağlı olarak en iyi sıkıştırma seviyesini seçebilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

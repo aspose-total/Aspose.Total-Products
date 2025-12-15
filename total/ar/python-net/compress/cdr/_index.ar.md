@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تركز ضغط CDR على تحسين رسوميات CorelDRAW الناقلة للبيانات لتقليل حجم الملف مع الحفاظ على الأشكال والطبقات والنصوص وهيكل التصميم. نظرًا لأن ملفات CDR يمكن أن تتضمن كائنات ناقلة للبيانات معقدة ووسائط مضمنة، فإن الضغط مهم لتحسين معالجة المشروع، وكفاءة التخزين، وأداء سير العمل التصميمي.
+
+
+
+تسهل واجهات برمجة التطبيقات في Python ضغط وتحسين وتحويل ملفات CDR تلقائيًا، مما يمكن من إدارة الأصول الرسومية بشكل قابل للتوسيع عبر بيئات الإنتاج والطباعة والمحتوى الرقمي.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين أصول التصميم الرسومي**  
+
+&nbsp; يضغط التصاميم الناقلة المعقدة لتبسيط تخزين المشروع ومشاركته.
+
+
+
+* **سير العمل في إنتاج الطباعة**  
+
+&nbsp; تحسين ملفات CDR الأصغر يعزز الأداء أثناء مراحل الطباعة السابقة ومعالجة الطباعة.
+
+
+
+* **مستودعات الملفات النسخية**  
+
+&nbsp; يحافظ الضغط على أرشيفات التصميم الكبيرة بشكل خفيف وأسهل في الإدارة.
+
+
+
+* **توصيل عبر منصات متعددة**  
+
+&nbsp; تقليل حجم الملفات يعزز سرعة النقل بين فرق التصميم والأدوات والعملاء.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التأتير التلقائي" %}}
+
+
+
+* **ضغط CDR بالدفعة**  
+
+&nbsp; أتمتة التحسين لمئات ملفات CorelDRAW دفعة واحدة.
+
+
+
+* **تحويل CDR إلى تنسيق محسن**  
+
+&nbsp; تحويل CDR إلى SVG أو PDF أو PNG مع تطبيق قواعد الضغط.
+
+
+
+* **تكامل خط الأنابيب التصميمي**  
+
+&nbsp; ضغط الأصول تلقائيًا عند التحميل إلى أنظمة إدارة المحتوى أو الأصول الرقمية أو أنظمة سير العمل.
+
+
+
+* **قواعد الضغط التكيفية**  
+
+&nbsp; ضبط مستويات الضغط تلقائيًا استنادًا إلى تعقيد الملف أو الوسائط المضمنة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

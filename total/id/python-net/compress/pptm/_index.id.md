@@ -101,7 +101,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File PPTM (presentasi yang diaktifkan makro) mendapat manfaat dari kompresi yang mempertahankan makro sambil mengurangi ukuran file untuk dibagikan dan disimpan.
+
+
+
+API Python memungkinkan kompresi PPTM otomatis sambil mempertahankan fungsionalitas makro untuk alur kerja perusahaan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pertahankan Makro**  
+
+&nbsp; Kompres file PPTM tanpa merusak makro yang disematkan.
+
+
+
+* **Kolaborasi Lebih Cepat**  
+
+&nbsp; File yang lebih kecil yang diaktifkan makro memudahkan berbagi tim dan unggahan cloud.
+
+
+
+* **Arsip Otomatis**  
+
+&nbsp; Kompresi memastikan penyimpanan jangka panjang yang efisien dari presentasi dengan makro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi PPTM Massal**  
+
+&nbsp; Skrip Python dapat memproses beberapa file yang diaktifkan makro secara otomatis.
+
+
+
+* **Integrasi dengan Sistem Alur Kerja**  
+
+&nbsp; File PPTM yang terkompresi dapat digunakan dalam alur kerja dokumen otomatis.
+
+
+
+* **Kompresi Bersyarat**  
+
+&nbsp; Otomatisasi dapat menargetkan file dengan media besar atau makro kompleks.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

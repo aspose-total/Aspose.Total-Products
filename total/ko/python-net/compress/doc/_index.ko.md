@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOC 파일의 압축은 저장 요구 사항을 줄이고 파일 공유를 가속화하며 텍스트 중심 또는 미디어 포함 콘텐츠의 문서 무결성을 유지합니다.
+
+
+
+Python API를 사용하면 자동화된 DOC 압축 워크플로우를 지원하여 확장 가능한 문서 관리와 기업 환경에서 빠른 처리를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **저장 공간 최적화**  
+
+&nbsp; 콘텐츠에 영향을 주지 않고 기존 DOC 파일의 디스크 공간 사용량을 최소화합니다.
+
+
+
+* **이메일 및 클라우드 공유**  
+
+&nbsp; 작은 DOC 파일은 네트워크를 통해 빠르고 효율적으로 전송될 수 있습니다.
+
+
+
+* **자동 아카이빙**  
+
+&nbsp; 아카이빙을 위한 일괄 압축은 오래된 문서의 효율적인 저장을 보장합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 압축**  
+
+&nbsp; Python 스크립트를 사용하여 여러 DOC 파일을 자동으로 처리할 수 있습니다.
+
+
+
+* **문서 시스템 통합**  
+
+&nbsp; 압축된 DOC 파일을 DMS 플랫폼에 원활하게 업로드할 수 있습니다.
+
+
+
+* **조건부 압축**  
+
+&nbsp; 자동화를 통해 크기 기준을 초과하거나 미디어가 포함된 파일을 압축할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

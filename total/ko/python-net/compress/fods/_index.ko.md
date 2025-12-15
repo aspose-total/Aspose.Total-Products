@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+FODS (Flat OpenDocument Spreadsheet) 파일은 압축을 통해 저장 공간을 줄이고 전송 속도를 향상시키면서 OpenDocument 표준과의 호환성을 유지합니다.
+
+
+
+파이썬 기반 자동화를 통해 확장 가능한 워크플로 통합을 위한 효율적인 압축이 가능합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **표준화된 스프레드시트 압축**  
+
+  &nbsp; 호환성과 구조를 유지하면서 FODS 파일 크기를 줄입니다.
+
+
+
+* **빠른 공유**  
+
+  &nbsp; 압축된 FODS 파일은 플랫폼 간 빠르게 공유할 수 있습니다.
+
+
+
+* **아카이브 및 백업 효율**  
+
+  &nbsp; 자동화된 압축은 오픈 문서 형식의 저장 관리를 간편화합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 FODS 압축**  
+
+  &nbsp; 파이썬 스크립트를 사용하여 여러 FODS 파일을 자동으로 처리할 수 있습니다.
+
+
+
+* **워크플로 통합**  
+
+  &nbsp; 압축된 파일은 자동화 시스템이나 클라우드 저장소에 로드할 수 있습니다.
+
+
+
+* **조건부 압축**  
+
+  &nbsp; 대용량이나 미디어 중심적인 FODS 파일을 최적화 대상으로 설정할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese MD optimalizuje soubory Markdown odstraněním zbytečných mezer, komentářů nebo nadbytečného formátování, přičemž zachovává strukturu obsahu. Tím se zlepšuje účinnost ukládání, rychlejší přenos souborů a zjednodušené zpracování v dokumentaci a obsahových potrubích.
+
+
+
+Pythonové API umožňují automatizovanou kompresi MD, zpracování v dávkách a konverzní pracovní postupy pro škálovatelné zpracování technické dokumentace, blogů a verzí řízeného obsahu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace dokumentace**  
+
+&nbsp; Kompresujte velké repozitáře Markdown pro snazší ukládání a rychlejší operace s verzováním.
+
+
+
+* **Pracovní postupy publikace obsahu**  
+
+&nbsp; Menší soubory MD zjednodušují procesy generování webových a statických stránek.
+
+
+
+* **Archivace obsahu Markdown**  
+
+&nbsp; Snížení úložiště pro historickou dokumentaci a poznámky.
+
+
+
+* **Spolupráce a distribuce**  
+
+&nbsp; Optimalizované soubory jsou snazší sdílet v rámci týmů a systémů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Kompres MD v dávkách**  
+
+&nbsp; Automatizujte optimalizaci více souborů Markdown.
+
+
+
+* **Odstranění mezer a komentářů**  
+
+&nbsp; Automaticky vyčistěte zbytečný text bez změny obsahu.
+
+
+
+* **Integrace pracovního postupu**  
+
+&nbsp; Kompresujte soubory MD při vkládání do CMS nebo systémů pro správu verzí.
+
+
+
+* **Konverzní + kompresní potrubí**  
+
+&nbsp; Převádějte MD na HTML nebo PDF a automaticky aplikujte kompresi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

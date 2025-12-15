@@ -43,9 +43,79 @@ Python アプリケーションを介して DOTM ファイルを作成しよう�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM — `.dotm` テンプレートは、テンプレートとマクロサポートを組み合わせ、自動化されたドキュメントの動作のための再利用可能なマクロ有効テンプレートを可能にします。PythonによるDOTMファイルの作成により、承認済みのVBA自動化を含むテンプレートを配布し、マクロコンテンツをプログラムで制御します。
+
+
+
+この形式は、ローカル自動化タスクのための繰り返し可能な、マクロが強化されたテンプレートが必要な組織に適しており、テンプレートの構築プロセス中にマクロコンテンツをプログラムで制御しながら、マクロが管理され、検証され、必要に応じて署名されます。
+
+自動化により、CI/CDパイプライン内での安全なマクロライフサイクル管理—生成、分析、署名、展開—が可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用用途" %}}
+
+
+
+* **マクロ有効テンプレートライブラリ**
+
+&nbsp; ローカルユーザー向けに繰り返し可能な自動化をカプセル化したDOTMテンプレートを提供します。
+
+
+
+* **制御されたテンプレート自動化**
+
+&nbsp; 内部ワークフローに検証済みのマクロのみを含むようにテンプレートを確認します。
+
+
+
+* **テンプレートベースのドキュメント生成**
+
+&nbsp; DOTMをソースとして使用して、埋め込まれた動作を持つDOCX/DOCMインスタンスを生成します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **テンプレートQAのためのCIパイプライン**
+
+&nbsp; 配布前にVBAの動作とテンプレートの整合性を自動的に検証します。
+
+
+
+* **テンプレートの安全な展開**
+
+&nbsp; デジタル署名を埋め込み、DOTMファイルを管理されたチャネルを介してユーザーに配布します。
+
+
+
+* **動的マクロの挿入**
+
+&nbsp; 安全なストアからDOTMテンプレート内のマクロモジュールをプログラムで更新します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

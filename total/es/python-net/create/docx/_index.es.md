@@ -43,9 +43,45 @@ Para un desarrollador, ¿quién intenta crear archivos DOCX a través de la apli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX — `.docx` (OOXML) es el estándar moderno para documentos de Word y es altamente adaptable a la automatización basada en Python. Las bibliotecas permiten la creación y modificación de párrafos, tablas, imágenes, estilos y partes XML personalizadas mientras se preserva la estructura y metadatos de OOXML.
+
+DOCX es ideal para informes con plantillas, documentos dinámicos e integración con servicios web debido a su formato abierto y sólido soporte de bibliotecas. La automatización permite la generación fiable de documentos accesibles y con estilo que pueden ser validados y versionados.
+
+Los flujos de trabajo programáticos facilitan la tarea de ensamblar documentos complejos (tablas anidadas, referencias, índices) a partir de entradas estructuradas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Renderización de Informes con Plantillas**
+  &nbsp; Rellenar plantillas DOCX con tablas dinámicas, gráficos y secciones condicionales.
+
+* **Composición Automatizada de Documentos**
+  &nbsp; Unir secciones (introducción, cuerpo, anexos) de fuentes de contenido modular en un solo DOCX.
+
+* **Entregables Ricos en Metadatos**
+  &nbsp; Incrustar propiedades del documento, XML personalizado y metadatos de revisión para gobernanza.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Tuberías de Base de Datos a Documento**
+  &nbsp; Generar documentos DOCX individualizados para cada registro de base de datos en un trabajo automatizado.
+
+* **Creación de Documentos Desencadenada por Webhook**
+  &nbsp; Crear documentos DOCX a pedido a través de APIs HTTP desencadenadas por eventos externos.
+
+* **Verificaciones de Accesibilidad Automatizadas**
+  &nbsp; Ejecutar scripts de validación que verifiquen la estructura de encabezados y el texto alternativo para imágenes durante la generación.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

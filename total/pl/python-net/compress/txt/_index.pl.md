@@ -78,7 +78,87 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresja TXT skupia się na zmniejszaniu rozmiaru plików zwykłego tekstu poprzez eliminowanie nadmiarowości bez utraty treści. Jest to ważne dla efektywności przechowywania, szybszej transmisji oraz zoptymalizowanego przetwarzania w automatyzacji i potokach danych.
+
+
+
+Interfejsy API Pythona umożliwiają zautomatyzowaną kompresję TXT, przetwarzanie wsadowe oraz przepływy archiwizacji, wspierając skalowalne zarządzanie logami, skryptami, plikami konfiguracyjnymi oraz dużymi zbiorami danych tekstowych.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne Przypadki Użycia" %}}
+
+
+
+* **Zarządzanie Plikami Dziennika**  
+
+&nbsp; Kompresuj duże pliki dziennika, aby zaoszczędzić miejsce na przechowywanie i poprawić odzyskiwanie.
+
+
+
+* **Archiwizacja Danych**  
+
+&nbsp; Zmniejsza rozmiar zbiorów danych zwykłego tekstu dla długoterminowego przechowywania.
+
+
+
+* **Przechowywanie Konfiguracji i Skryptów**  
+
+&nbsp; Skompresowane pliki TXT sprawiają, że automatyczne wdrożenia i kopie zapasowe są bardziej wydajne.
+
+
+
+* **Dystrybucja Treści na Podstawie Tekstu**  
+
+&nbsp; Mniejsze pliki są szybsze do przesyłania przez sieci lub systemy chmurowe.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Kompresja TXT Wsadowa**  
+
+&nbsp; Zautomatyzuj kompresję dla wielu plików zwykłego tekstu.
+
+
+
+* **Integracja w Potokach**  
+
+&nbsp; Kompresuj TXT automatycznie podczas wprowadzania do systemów danych lub archiwów.
+
+
+
+* **Dynamiczna Kompresja na Podstawie Rozmiaru**  
+
+&nbsp; Zastosuj silniejszą kompresję do większych plików, pozostawiając małe pliki nietknięte.
+
+
+
+* **Konwersja Formatu i Kompresja**  
+
+&nbsp; Konwertuj TXT na skompresowane archiwa (ZIP, GZ) jako część zautomatyzowanych przepływów pracy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

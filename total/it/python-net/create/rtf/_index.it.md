@@ -43,9 +43,81 @@ Per uno sviluppatore, chi sta cercando di creare file RTF tramite l'applicazione
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF — Rich Text Format (RTF) è un formato di testo multipiattaforma supportato da molti editor; la generazione RTF basata su Python è utile quando si producono documenti stilizzati semplici che devono essere accettati da una vasta gamma di clienti. RTF manca delle funzionalità avanzate di OOXML ma eccelle nel testo stilizzato portatile, nelle tabelle semplici e negli oggetti inline.
+
+
+
+L'automazione RTF è appropriata per la stampa unione, lettere con stile semplice o sistemi in cui è richiesta la massima compatibilità. La creazione programmatica può essere fatta tramite frammenti RTF in templating o utilizzando librerie che costruiscono direttamente i token RTF.
+
+
+
+L'automazione semplifica le esportazioni RTF in blocco e i flussi di conversione che mirano a consumatori leggeri o legacy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Generazione di Lettere Multipiattaforma**
+
+&nbsp; Produrre documenti RTF per clienti che preferiscono testo stilizzato portatile.
+
+
+
+* **Stampa Unione per Documenti Semplici**
+
+&nbsp; Generare lettere personalizzate e avvisi in RTF per una vasta compatibilità.
+
+
+
+* **Scambio con Sistemi Non-OOXML**
+
+&nbsp; Esportare contenuti in RTF per sistemi che non possono analizzare DOCX o Word binario.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Esportazioni RTF in Blocco**
+
+&nbsp; Automatizzare la creazione di migliaia di file RTF da feed di dati strutturati.
+
+
+
+* **Flussi di Fallback di Formato**
+
+&nbsp; Fornire automaticamente versioni RTF quando i consumatori non possono gestire DOCX/DOCM.
+
+
+
+* **Motori di Templating Semplici**
+
+&nbsp; Utilizzare la sostituzione di token programmatica nei modelli RTF come parte di un flusso di lavoro automatizzato.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

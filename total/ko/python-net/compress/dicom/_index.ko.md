@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DICOM 압축은 진단 이미지, 메타데이터 및 환자 정보를 포함하는 의료 이미징 파일을 최적화하는 데 중점을 둡니다. DICOM 파일은 고해상도 스캔으로 인해 종종 크기가 크기 때문에 압축은 빠른 전송, 저장 비용 절감 및 의료 시스템 내에서 효율적인 처리를 위해 중요합니다.
+
+
+
+Python API를 사용하면 손실 없는 및 제어된 손실 압축 방법을 포함하여 자동화된 DICOM 압축이 가능하며, 의료 이미징 워크플로우가 확장 가능하고 신뢰성 있으며 임상 표준을 준수할 수 있도록 합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **의료 이미징 저장 공간 최적화**  
+
+  압축된 DICOM 파일은 PACS 시스템 및 장기 보관소에 부하를 줄입니다.
+
+
+
+* **빠른 이미지 전송**  
+
+  파일 크기가 작아지면 병원, 이미징 센터 및 클라우드 시스템 간 전송 속도가 향상됩니다.
+
+
+
+* **연구 및 분석 파이프라인**  
+
+  압축된 데이터 세트는 AI 모델 훈련 및 대규모 의료 이미지 처리를 간소화합니다.
+
+
+
+* **원격 진료 워크플로우**  
+
+  압축을 통해 원격 의료 공급자에게 진단 시각 자료를 빠르게 전달할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **진단 이미지 일괄 압축**  
+
+  대규모 MRI, CT 및 X-ray 라이브러리의 크기를 자동으로 줄입니다.
+
+
+
+* **동적 손실 없는/손실 압축 선택**  
+
+  자동화는 모달리티, 해상도 또는 임상 요구 사항에 따라 압축 유형을 선택합니다.
+
+
+
+* **워크플로에 통합된 최적화**  
+
+  DICOM 파일을 PACS, RIS 또는 클라우드 이미징 시스템에 투입하는 동안 압축합니다.
+
+
+
+* **메타데이터 보존 압축**  
+
+  자동화된 프로세스는 파일 크기를 줄이면서 모든 의료 태그와 식별자를 유지합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يقلل ضغط JPEG (JPG) من حجم الصور النقطية عالية الدقة مع الحفاظ على جودة مرئية مقبولة. هذه الأمثلة ضرورية لمحتوى الويب والتصوير الفوتوغرافي وسير العمل الوسائط المتعددة حيث يكون حجم الملف وسرعة النقل وكفاءة التخزين أمورًا حرجة.
+
+
+
+تمكن واجهات برمجة التطبيقات في Python من ضغط JPEG تلقائيًا، ومعالجة الدفعات، وضبط الجودة الديناميكية، مما يدعم إدارة قابلة للتوسع لمكتبات الصور الكبيرة ودمجها في أنابيب الويب والسحابة وتوصيل المحتوى.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين أداء الويب**  
+
+&nbsp; تحسين JPEGs المضغوطة أوقات تحميل الصفحة وتقليل استهلاك النطاق الترددي.
+
+
+
+* **التصوير الفوتوغرافي وإدارة الأصول الرقمية**  
+
+&nbsp; الحفاظ على الجودة المرئية مع تقليل كبير في حجم الملف للتخزين والمشاركة.
+
+
+
+* **وسائل التواصل الاجتماعي وأصول التسويق**  
+
+&nbsp; تضمن JPEGs المحسنة تحميلًا وعرضًا أسرع عبر المنصات.
+
+
+
+* **كفاءة الأرشفة والنسخ الاحتياطي**  
+
+&nbsp; يتم تخزين مكتبات الصور الكبيرة بكفاءة أكبر مع فقدان الجودة الدنيا.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط JPEG بالدفعات**  
+
+&nbsp; تقوم النصوص في Python بضغط ملفات JPEG متعددة تلقائيًا بالجملة.
+
+
+
+* **التحكم في الجودة الديناميكية**  
+
+&nbsp; يمكن ضبط مستوى الضغط استنادًا إلى الدقة أو الاستخدام أو المنصة المستهدفة.
+
+
+
+* **دمج سير العمل التلقائي**  
+
+&nbsp; يمكن ضغط JPEGs عند التحميل إلى نظم إدارة الأصول الرقمية أو أنظمة إدارة المحتوى أو تخزين السحابة.
+
+
+
+* **تحويل التنسيق مع الضغط**  
+
+&nbsp; يمكن تحويل صور PNG أو TIFF إلى JPEG مع الأمثلة التلقائية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

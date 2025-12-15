@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM文件是启用宏的模板。压缩可减少存储空间，同时保留宏功能，实现高效的模板部署。
+
+
+
+Python API支持自动化的DOTM压缩，以保持企业和协作环境中的完整性。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **宏模板保留**  
+
+&nbsp; 安全地压缩DOTM文件，而不会破坏宏。
+
+
+
+* **更快的模板分发**  
+
+&nbsp; 更小的文件更容易在团队和系统之间共享。
+
+
+
+* **模板归档**  
+
+&nbsp; 自动压缩确保长期存储效率。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量DOTM压缩**  
+
+&nbsp; Python脚本可以自动处理多个启用宏的模板。
+
+
+
+* **工作流集成**  
+
+&nbsp; 压缩模板可用于自动文档生成系统中。
+
+
+
+* **条件压缩**  
+
+&nbsp; 基于大小、内容或宏复杂性自动化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

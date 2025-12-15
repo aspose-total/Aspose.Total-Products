@@ -71,7 +71,65 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La anotación de PDF mejora los documentos estáticos con resaltados, comentarios, notas y marcadores estructurales, mejorando la navegación y comprensión en todas las plataformas. Los PDFs anotados son más fáciles de revisar, validar y compartir en flujos de trabajo que requieren compatibilidad entre dispositivos.
+
+La automatización permite un procesamiento escalable de PDF, lo que permite a los sistemas marcar texto, agregar comentarios e incrustar metadatos de forma programática.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Revisión de documentos**  
+
+&nbsp; Agregar comentarios identificando problemas o recomendaciones.
+
+* **Resaltar secciones importantes**  
+
+&nbsp; Enfatizar información clave para mayor claridad.
+
+* **Inserción de metadatos**  
+
+&nbsp; Incrustar notas de clasificación o indexación.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Resaltado de texto basado en reglas**  
+
+&nbsp; Marcar automáticamente palabras clave o datos sensibles.
+
+* **Procesamiento masivo de PDF**  
+
+&nbsp; Aplicar anotaciones a colecciones de documentos grandes.
+
+* **Controles automatizados de control de calidad**  
+
+&nbsp; Insertar banderas donde el contenido viola reglas predefinidas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

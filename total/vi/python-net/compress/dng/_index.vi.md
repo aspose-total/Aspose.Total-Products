@@ -78,7 +78,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén DNG tập trung vào tối ưu hóa các tệp hình ảnh nguyên gốc được chụp bởi máy ảnh kỹ thuật số trong khi bảo tồn chất lượng hình ảnh tối đa. Vì các tệp DNG thường chứa dữ liệu cảm biến độ phân giải cao, việc nén giảm nhu cầu lưu trữ, tăng tốc độ truyền tệp và cải thiện hiệu suất làm việc trong ngành ảnh và hình ảnh.
+
+
+
+API Python cho phép nén DNG tự động, xử lý hàng loạt và chuyển đổi sang các định dạng khác, cho phép quản lý quy mô lớn các thư viện ảnh và hệ thống hình ảnh chuyên nghiệp.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Lưu Trữ Bộ Sưu Tập Ảnh của Nhiếp Ảnh Gia**  
+
+&nbsp; Nén tệp DNG giảm lưu trữ mà không ảnh hưởng đến tính chân thực của hình ảnh nguyên gốc.
+
+
+
+* **Truyền Hình Ảnh Nhanh Hơn**  
+
+&nbsp; Tệp nhỏ giúp chia sẻ nhanh hơn giữa các máy ảnh, máy trạm và lưu trữ đám mây.
+
+
+
+* **Quản Lý Tài Sản Kỹ Thuật Số**  
+
+&nbsp; Thư viện DNG được nén dễ dàng tổ chức, tìm kiếm và truy xuất.
+
+
+
+* **Quy Trình Xử Lý Sau Khi Chụp**  
+
+&nbsp; Cho phép tải nhanh hơn các tệp nguyên gốc vào các quy trình chỉnh sửa hình ảnh và ống kính trí tuệ nhân tạo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén DNG Hàng Loạt**  
+
+&nbsp; Tự động hóa tối ưu hóa nhiều tệp hình ảnh nguyên gốc một lần.
+
+
+
+* **Nén Động Dựa Trên Độ Phân Giải**  
+
+&nbsp; Quy trình làm việc Python có thể điều chỉnh cấp độ nén tùy thuộc vào kích thước cảm biến hoặc kích thước hình ảnh.
+
+
+
+* **Chuyển Đổi Định Dạng Tự Động**  
+
+&nbsp; Chuyển đổi DNG sang TIFF, JPEG hoặc WebP trong khi áp dụng nén tự động.
+
+
+
+* **Tích Hợp với Hệ Thống DAM**  
+
+&nbsp; Nén hình ảnh DNG khi tải lên để tối ưu hóa lưu trữ và xử lý nhanh hơn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,65 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF anotace přidává komentáře, zvýraznění a strukturální metadata do souborů s bohatým textem, zlepšuje čitelnost bez ovlivnění kompatibility mezi platformami. Anotované RTF soubory podporují jednoduché pracovní postupy pro přezkum.  
+
+Automatizace zlepšuje zpracování RTF vkládáním strukturovaných poznámek, skenováním obsahu pro nalezení problémů a aplikací zvýraznění na základě pravidel.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Poznámky k objasnění obsahu**  
+
+&nbsp; Přidejte poznámky vysvětlující úpravy nebo obavy.
+
+* **Strukturovaná zvýraznění**  
+
+&nbsp; Označte důležité části nebo chyby.
+
+* **Vložení metadat**  
+
+&nbsp; Vložení klasifikačních štítků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Automatizované zvýrazňování klíčových slov**  
+
+&nbsp; Identifikujte a zdůrazněte termíny programově.
+
+* **Skripty hromadné anotace**  
+
+&nbsp; Použijte standardizované poznámky na více souborech RTF.
+
+* **Detekce vzorů obsahu**  
+
+&nbsp; Anotujte oblasti odpovídající konkrétním spouštěcím mechanismům.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

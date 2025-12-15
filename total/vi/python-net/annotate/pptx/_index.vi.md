@@ -75,7 +75,65 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chú thích PPTX cải thiện bài thuyết trình hiện đại với ghi chú đánh giá, nổi bật và nhận xét có cấu trúc, tăng cường sự hợp tác và chất lượng slide. Điều này nâng cao tính khả dụng trên các thiết bị và nền tảng.
+
+Tự động hóa cho phép xử lý slide có quy mô lớn bằng cách áp dụng chú thích dựa trên quy tắc, phát hiện vấn đề bố cục và đánh dấu nội dung theo cách lập trình.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Đánh Giá Nội Dung**  
+
+&nbsp; Thêm nhận xét cho cập nhật tin nhắn hoặc cấu trúc.
+
+* **Phân Tích Thiết Kế**  
+
+&nbsp; Nổi bật vấn đề căn chỉnh hoặc định dạng.
+
+* **Nâng Cao Ghi Chú Slide**  
+
+&nbsp; Chèn thông tin ngữ cảnh cho người trình bày.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Xác Nhận Bố Cục Tự Động**  
+
+&nbsp; Xác định sự không nhất quán và ghi chú chúng.
+
+* **Đánh Giá Bài Thuyết Trình Theo Lô**  
+
+&nbsp; Áp dụng nhận xét chuẩn trên nhiều tệp PPTX.
+
+* **Tự Động Đánh Dấu Từ Khóa Nổi Bật**  
+
+&nbsp; Đánh dấu thuật ngữ chính một cách lập trình.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

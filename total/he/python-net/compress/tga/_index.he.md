@@ -77,7 +77,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+דחיסת TGA מתמקדת בהפחתת גודל של תמונות רסטר Targa תוך שמירה על עומק צבע וערוצי אלפא. קבצי TGA נמצאים לעתים תכף במשחקים, בגרפיקה תלת-ממדית ובאפקטים חזותיים, ולכן דחיסה היא חיונית לאחסון יעיל ועיבוד מהיר יותר בצינורות מדיה.
+
+
+
+ממשקי Python מאפשרים דחיסת TGA אוטומטית, עיבוד בצמוד והמרה לפורמטים מודרניים, תומכים בזרימות עבודה נמדדות לפיתוח משחקים, אנימציה וייצור מדיה דיגיטלית.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **אופטימיזצית נכסי משחק**  
+
+&nbsp; דחיסת קבצי TGA מפחיתה את דרישות האחסון ומשפרת זמני טעינה במשחקים.
+
+
+
+* **צינורות גרפיקה תלת-ממדיים**  
+
+&nbsp; קבצי TGA קטנים מקלים על ניהול טקסטורות ועל זרימות עבודה של עיבוד.
+
+
+
+* **ייצור אפקטים חזותיים**  
+
+&nbsp; תמונות TGA מאופטימליות עוזרות בניהול רצפי שקופיות גדולים ביעילות.
+
+
+
+* **אחסון ארכיוני**  
+
+&nbsp; מפחית את גודל הקובץ לאחסון לטווח ארוך של נכסים ברזולוציה גבוהה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **דחיסת TGA בצמוד**  
+
+&nbsp; אוטומציה של אופטימיזציה של סטים גדולים של קבצי TGA.
+
+
+
+* **שמירת ערוץ אלפא**  
+
+&nbsp; שמירה על שקיפות במהלך הדחיסה להפחתת ריווח אחסון.
+
+
+
+* **אינטגרציה לתוך צינורות**  
+
+&nbsp; קבצי TGA יכולים להיות דחוסים באופן אוטומטי בעת העלאה למערכות ניהול נכסים.
+
+
+
+* **דחיסה דינמית על בסיס רזולוציה**  
+
+&nbsp; כיוון רמות דחיסה בהתאם לגודל התמונה, הרזולוציה או ההקשר של השימוש.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -43,9 +43,81 @@ informat: DOC
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM — `.dotm` 模板结合了模板化和宏支持，实现了可重复使用的宏启用模板，用于自动化文档行为。通过 Python 创建 DOTM 文件，可以分发包含经批准的 VBA 自动化的模板，同时在模板构建过程中以编程方式控制宏内容。
+
+
+
+这种格式适用于需要可重复、宏增强模板进行本地自动化任务的组织，同时确保宏在模板构建过程中受到管理、验证，并在需要时进行签名。
+
+
+
+自动化使得在 CI/CD 流水线内实现安全的宏生命周期管理——生成、分析、签名和部署。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **宏启用模板库**
+
+  提供封装了本地用户可重复使用自动化的 DOTM 模板。
+
+
+
+* **受控模板自动化**
+
+  确保模板仅包含经过审核的宏，用于内部工作流程。
+
+
+
+* **基于模板的文档生成**
+
+  使用 DOTM 作为源来生成带有嵌入式行为的 DOCM/DOCX 实例。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **模板质量保证的 CI 流水线**
+
+  在分发之前自动验证 VBA 行为和模板完整性。
+
+
+
+* **模板的安全部署**
+
+  嵌入数字签名，并通过受控渠道向用户推送 DOTM 文件。
+
+
+
+* **动态宏注入**
+
+  从安全存储库中以编程方式更新 DOTM 模板内的宏模块。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

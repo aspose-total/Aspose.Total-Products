@@ -43,9 +43,45 @@ Para un desarrollador, ¿quién intenta crear archivos DOT a través de la aplic
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT — Los archivos de plantilla `.dot` definen estilos y estructuras reutilizables para flujos de trabajo heredados de Word; crear plantillas DOT a través de Python permite a las organizaciones mantener un formato consistente para combinación de correspondencia, formularios y documentos estandarizados consumidos por clientes más antiguos.
+
+La generación programática de plantillas DOT asegura que las plantillas se actualicen de forma centralizada y se puedan distribuir automáticamente a los usuarios finales o servicios de documentos.
+
+La automatización admite actualizaciones programadas de plantillas, versionado y generación descendente de documentos concretos a partir de plantillas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+- **Distribución de Plantillas Heredadas**
+  &nbsp; Producir plantillas DOT que garanticen un diseño consistente en todas las herramientas heredadas.
+
+- **Plantillas de Formularios Estandarizados**
+  &nbsp; Crear plantillas de formularios con marcadores de posición para combinación de correspondencia manual o automatizada.
+
+- **Versionado de Plantillas**
+  &nbsp; Automatizar el etiquetado de versiones y la liberación de plantillas DOT en repositorios de documentos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+- **Actualización Automatizada de Plantillas**
+  &nbsp; Reemplazar o parchear plantillas DOT desde una fuente central y enviar actualizaciones de forma programática.
+
+- **Creación por Lotes basada en Plantillas**
+  &nbsp; Utilizar plantillas DOT para generar muchos documentos completos a través de fusiones automatizadas.
+
+- **Rastros de Auditoría para Plantillas**
+  &nbsp; Incrustar metadatos y registros de cambios durante la generación programática de plantillas para cumplir con normativas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Powerpoint PPT PP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+הערת PPSM מספקת הערות מובנות עבור קבצי מצגות מאקרו-מופעלים, עוזרת לתיעוד התנהגות סקריפט ומשפרת בהירות במהלך ביקורת. זה עוזר להבין בקלות מעברים אוטומטיים או אינטראקציות דינמיות של שקופיות.
+
+הערת האוטומציה משפרת את הביקורת על ידי סריקת מאקרואים, זיהוי תבניות לוגיות והכנת הערות תיאוריות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **תיעוד התנהגות מאקרו**  
+
+&nbsp; הוסף הערות המתארות פעולות שקופיות אוטומטיות.
+
+* **הערות לביקורת**  
+
+&nbsp; ספק המלצות לתוכן או פריסה.
+
+* **נראות לוגית**  
+
+&nbsp; דגש על אזורים המושפעים מהפעלת מאקרו.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **ניתוח מאקרו**  
+
+&nbsp; סרוק והערות אוטומטית על סקריפטים שזוהו.
+
+* **הערות מבוססות תבנית**  
+
+&nbsp; הכנס הערות מוגדרות מראש בקבצים.
+
+* **תגי QA אוטומטיים**  
+
+&nbsp; סמן לוגיקת מאקרו סוכנית או מיושנת.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

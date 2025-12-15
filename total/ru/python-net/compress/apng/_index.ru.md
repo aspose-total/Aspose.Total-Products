@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие APNG направлено на уменьшение размера анимированных файлов PNG с сохранением качества кадров и плавного воспроизведения. Поскольку APNG поддерживает без потерь и множественные кадры, оптимизация этих файлов важна для более быстрой загрузки, снижения использования полосы пропускания и улучшения производительности в веб- и приложениях.
+
+
+
+API Python позволяют автоматизировать сжатие APNG, оптимизацию кадров и сокращение ресурсов, что упрощает интеграцию легких анимаций в масштабируемые рабочие процессы и контентные конвейеры высокого объема.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация веб-анимаций**  
+
+&nbsp; Сжатие файлов APNG улучшает время загрузки, сохраняя четкость анимации.
+
+
+
+* **Доставка ресурсов пользовательского интерфейса (UI/UX)**  
+
+&nbsp; Легкие APNG помогают интерфейсам оставаться отзывчивыми на мобильных устройствах и настольных приложениях.
+
+
+
+* **Графические конвейеры игр и приложений**  
+
+&nbsp; Сжатые ресурсы APNG сокращают задержки загрузки и использование памяти в интерактивных средах.
+
+
+
+* **Публикация контента**  
+
+&nbsp; Минимизация размера анимации обеспечивает плавную доставку на блогах, платформах и системах управления контентом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие APNG**  
+
+&nbsp; Сценарии Python могут автоматически сжимать несколько анимированных PNG файлов оптом.
+
+
+
+* **Оптимизация на уровне кадра**  
+
+&nbsp; Автоматизация может пережимать отдельные кадры или удалять избыточные.
+
+
+
+* **Интегрированное сжатие в рабочий процесс**  
+
+&nbsp; Файлы APNG, загруженные в системы, могут быть автоматически сжаты перед хранением.
+
+
+
+* **Динамическое настройка качества анимации**  
+
+&nbsp; Системы могут уменьшать размер анимации в зависимости от разрешения, типа устройства или сетевых ограничений.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -167,7 +247,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

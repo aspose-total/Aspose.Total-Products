@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие CHM уменьшает размер файлов справки HTML, которые содержат HTML-страницы, изображения и навигационные структуры для документации программного обеспечения. Сжатые файлы CHM улучшают эффективность хранения, скорость распространения и доступность для пользователей.
+
+
+
+API Python позволяют автоматизировать сжатие CHM, пакетную обработку и интеграцию с рабочими процессами документации для масштабируемого управления системами справки и техническими руководствами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Доставка документации по программному обеспечению**  
+
+&nbsp; Сжатые файлы CHM загружаются быстрее и занимают меньше места на диске.
+
+
+
+* **Архивирование и резервное копирование**  
+
+&nbsp; Сократите объем хранения для устаревших и больших коллекций файлов справки.
+
+
+
+* **Эффективное совместное использование**  
+
+&nbsp; Меньшие файлы CHM быстро передаются по сети или между устройствами.
+
+
+
+* **Доступность для пользователей**  
+
+&nbsp; Оптимизированные файлы улучшают производительность загрузки в просмотрщиках справки.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие CHM**  
+
+&nbsp; Автоматизация уменьшения размера для нескольких файлов справки.
+
+
+
+* **Оптимизация встроенных ресурсов**  
+
+&nbsp; Автоматическое сжатие изображений, скриптов и HTML-страниц.
+
+
+
+* **Интеграция с процессами документации**  
+
+&nbsp; Сжатие файлов CHM во время сборки или процессов развертывания.
+
+
+
+* **Динамические уровни сжатия**  
+
+&nbsp; Настройка на основе размера и сложности контента.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +225,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

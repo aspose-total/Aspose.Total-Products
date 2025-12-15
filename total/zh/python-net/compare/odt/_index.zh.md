@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT比较检查文本、样式、布局结构和嵌入元素，以确保在开放文档文本文件中内容准确性。它支持透明的修订跟踪和质量保证。
+
+
+
+自动化的ODT比较减少了手动工作量，并增强了与协作办公系统和文档自动化流程的集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **内容修订跟踪**  
+
+  &nbsp; 识别添加、删除和重新格式化。
+
+
+
+* **开放文档合规性**  
+
+  &nbsp; 确保文档遵循所需结构。
+
+
+
+* **跨平台编辑控制**  
+
+  &nbsp; 检测由不同工具编辑引起的变化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量ODT验证**  
+
+  &nbsp; 自动处理大型文档集。
+
+
+
+* **自动化编辑工作流程**  
+
+  &nbsp; 在文档生成过程中触发检查。
+
+
+
+* **程序化变更报告**  
+
+  &nbsp; 生成结构化的差异摘要。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,67 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تضيف تعليقات POTX ملاحظات منظمة وتعليمات تخطيطية إلى قوالب العروض التقديمية غير الماكرو، مما يدعم إنشاء شرائح واضحة ومعايير بصرية متسقة. وهذا يضمن أن يتبع المستخدمون قواعد التصميم الموحدة عبر العروض التقديمية.
+
+التشغيل التلقائي يبسط تحديثات POTX، مما يتيح للأنظمة تطبيق قواعد التعليق، واكتشاف تباينات التخطيط، وتحديث التوجيه بكفاءة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تعليمات القالب**
+
+  يرشد المستخدمين حول استخدام الشرائح والهيكل.
+
+* **ملاحظات التصميم**
+
+  يحدد قواعد وضع النصوص والرسوم.
+
+* **مؤشرات المراجعة**
+
+  يسلط الضوء على التعديلات داخل القوالب.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **فحوصات القوالب التلقائية**
+
+  يدرج تعليقات حيث تنحرف الأنماط عن المعايير.
+
+* **حقن التعليقات بالجملة**
+
+  يحدث التوجيه عبر العديد من القوالب.
+
+* **تحقق من هيكل الشريحة**
+
+  يعلم بشكل تلقائي عن عدم اتساق البيانات.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

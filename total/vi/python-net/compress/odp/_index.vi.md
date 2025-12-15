@@ -101,7 +101,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén ODP giảm kích thước của các tệp OpenDocument Presentation, tối ưu hóa các slide với văn bản, hình ảnh và phương tiện nhúng. Các tệp ODP được nén cải thiện hiệu suất lưu trữ, tải nhanh hơn và trình diễn mượt mà trong bài thuyết trình.
+
+
+
+API Python cho phép nén tự động ODP, xử lý hàng loạt và tối ưu hóa phương tiện cho quy trình quản lý và phân phối bài thuyết trình có khả năng mở rộng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Bài Thuyết Trình**  
+
+&nbsp; Các tệp ODP nhỏ tải nhanh hơn trong các trình soạn thảo và trình xem.
+
+
+
+* **Hiệu Quả Lưu Trữ \& Lưu Trữ**  
+
+&nbsp; Giảm việc sử dụng không gian đĩa cho thư viện slide lớn.
+
+
+
+* **Chia Sẻ \& Phân Phối Nội Dung**  
+
+&nbsp; Các tệp được nén truyền nhanh trên mạng và thiết bị.
+
+
+
+* **Tích Hợp Quy Trình**  
+
+&nbsp; Các tệp ODP được tối ưu hóa cải thiện hiệu suất trong các đường ống bài thuyết trình tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Hàng Loạt ODP**  
+
+&nbsp; Tự động hóa việc tối ưu hóa nhiều tệp bài thuyết trình.
+
+
+
+* **Tối Ưu Hóa Phương Tiện \& Hình Ảnh**  
+
+&nbsp; Nén hình ảnh và phương tiện nhúng tự động.
+
+
+
+* **Tích Hợp với CMS hoặc DAM**  
+
+&nbsp; Nén tệp ODP trong quá trình tải lên hoặc lưu trữ.
+
+
+
+* **Nén Động**  
+
+&nbsp; Điều chỉnh cường độ nén dựa trên nội dung slide và mật độ phương tiện.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

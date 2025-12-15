@@ -71,7 +71,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Powerpoint PPT PP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+הערות ב- PDF משפרות מסמכים סטטיים עם הדגשות, הערות, פתקים וסמנים מבניים, שמשפרים את הניווט וההבנה בפלטפורמות שונות. PDFs שעברו הערות נגישים יותר לסקירה, אימות ושיתוף בתהליכי עבודה הדורשים תאימות למכשירים שונים.  
+
+אוטומציה מאפשרת עיבוד PDF נמצא, מאפשרת למערכות לסמן טקסט, להוסיף הערות ולהטביע מטא-נתונים באופן תכנותי.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **סקירת מסמך**  
+
+&nbsp; הוספת הערות המזהות בעיות או המלצות.
+
+* **הדגשת סעיפים חשובים**  
+
+&nbsp; הדגשת מידע מרכזי למטרת בהירות.
+
+* **הטבעת מטא-נתונים**  
+
+&nbsp; הטבעת הערות סיווג או אינדקסציה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **הדגשת טקסט על פי כללים**  
+
+&nbsp; סימון אוטומטי של מילות מפתח או נתונים רגישים.
+
+* **עיבוד PDF בצמיג**  
+
+&nbsp; החלת הערות על אוספי מסמכים גדולים.
+
+* **בדיקות איכות אוטומטיות**  
+
+&nbsp; הטבעת דגלים במקומות בהם התוכן מפר כללים מוגדרים מראש.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

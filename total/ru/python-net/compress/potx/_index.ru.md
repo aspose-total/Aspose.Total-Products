@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTX (современные шаблоны PowerPoint) получают преимущество от сжатия для уменьшения размера и улучшения эффективности обмена, сохраняя все элементы форматирования и дизайна.
+
+
+
+API Python позволяют автоматизировать сжатие POTX, улучшая масштабируемость рабочего процесса и управление шаблонами.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация хранения шаблонов**  
+
+&nbsp; Сжатие шаблонов POTX с сохранением содержимого и дизайна слайдов.
+
+
+
+* **Быстрое распространение шаблонов**  
+
+&nbsp; Меньшие файлы обеспечивают быструю дистрибуцию по командам и облачным платформам.
+
+
+
+* **Автоматизированное архивирование**  
+
+&nbsp; Сжатие упрощает управление долгосрочным хранением шаблонов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие POTX**  
+
+&nbsp; Сценарии Python автоматизируют сжатие нескольких шаблонов.
+
+
+
+* **Интеграция с системами рабочего процесса**  
+
+&nbsp; Сжатые шаблоны могут динамически загружаться в автоматизированные конвейеры.
+
+
+
+* **Умное сжатие**  
+
+&nbsp; Условная автоматизация нацеливается на крупные или медиа-тяжелые шаблоны.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

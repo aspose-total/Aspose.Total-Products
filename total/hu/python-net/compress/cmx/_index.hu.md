@@ -78,7 +78,87 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A CMX tömörítés csökkenti a Corel Presentation Exchange vektorgrafikák méretét, amelyek gyakran részletes illusztrációkat, rétegeket és színprofilokat tartalmaznak. A CMX fájlok optimalizálása segít javítani a tervezési folyamat teljesítményét, felgyorsítja a megosztást, és csökkenti a tárolási igényeket a kreatív és technikai környezetekben.
+
+
+
+A Python API-k lehetővé teszik az automatizált CMX tömörítést és átalakítást, biztosítva a nagy vektorgrafikus eszközök hatékony kezelését a kiadási, nyomtatási és grafikai kezelési rendszerekben.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Tervezési projekt optimalizálása**  
+
+&nbsp; Tömöríti a rétegzett CMX grafikákat a fájlkezelés egyszerűsítése és a tárolási hatás csökkentése érdekében.
+
+
+
+* **Kiadási és nyomtatási csatornák**  
+
+&nbsp; A kisebb CMX fájlok felgyorsítják a megjelenítési, szerkesztési és átviteli folyamatokat.
+
+
+
+* **Eszköztárkezelés**  
+
+&nbsp; Az optimalizált CMX gyűjtemények gyorsabban betöltődnek a digitális eszköztárakban.
+
+
+
+* **Platformok közötti csere**  
+
+&nbsp; A tömörített CMX fájlok hatékonyabban kerülnek át a tervezési csapatok vagy alkalmazások között.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Tömeges CMX tömörítés**  
+
+&nbsp; Nagy mennyiségű CMX grafika automatikus optimalizálása Python munkafolyamatokkal.
+
+
+
+* **CMX átalakítása tömörített formátumba**  
+
+&nbsp; CMX átalakítása SVG, PDF, PNG vagy EPS formátumba a tömörítési szabályok alkalmazásával.
+
+
+
+* **Automatizált feltöltés optimalizálása**  
+
+&nbsp; A CMX fájlokat azonnal tömöríteni lehet, amikor bekerülnek a DMS vagy DAM rendszerekbe.
+
+
+
+* **Tartalomérzékeny tömörítés**  
+
+&nbsp; Az optimalizálás intenzitását a vektor bonyolultságának vagy beágyazott komponenseknek megfelelően állítja be.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi XSL-FO berfokus pada pengurangan ukuran file Objek Pemformatan Bahasa Stylesheet Ekstensibel, yang mendefinisikan tata letak halaman dan pemformatan untuk dokumen XML. Mengoptimalkan XSL-FO meningkatkan proses, kecepatan rendering, dan efisiensi penyimpanan dalam alur kerja pembuatan dokumen.
+
+
+
+API Python memungkinkan kompresi XSL-FO otomatis, pemrosesan batch, dan integrasi dengan pipa PDF atau cetak untuk solusi rendering dokumen yang dapat diskalakan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Rendering Dokumen**  
+
+&nbsp; File XSL-FO yang terkompresi mempercepat pembuatan PDF dan alur kerja cetak.
+
+
+
+* **Manajemen Dokumen dalam Skala Besar**  
+
+&nbsp; Mengurangi penyimpanan untuk konten yang diformat dalam volume tinggi.
+
+
+
+* **Arsip dan Cadangan**  
+
+&nbsp; File XSL-FO yang dioptimalkan lebih mudah disimpan untuk retensi jangka panjang.
+
+
+
+* **Integrasi Alur Kerja**  
+
+&nbsp; Meningkatkan efisiensi dalam pipa penerbitan otomatis.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi Batch XSL-FO**  
+
+&nbsp; Otomatisasi pengurangan ukuran untuk beberapa file pemformatan.
+
+
+
+* **Penghapusan Spasi dan Redundansi**  
+
+&nbsp; Menghapus instruksi pemformatan yang tidak perlu secara otomatis.
+
+
+
+* **Integrasi dengan Pipa Rendering**  
+
+&nbsp; Kompresi file sebelum menghasilkan output PDF atau cetak.
+
+
+
+* **Optimisasi Dinamis**  
+
+&nbsp; Menyesuaikan tingkat kompresi berdasarkan kompleksitas dokumen atau jumlah halaman.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

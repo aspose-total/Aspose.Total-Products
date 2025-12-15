@@ -78,7 +78,75 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compresión de archivos XLS reduce el almacenamiento y acelera el intercambio de libros de Excel heredados mientras se preservan fórmulas, gráficos y formato.
+
+
+
+La automatización basada en Python permite la compresión por lotes de archivos XLS, lo que permite una gestión de datos escalable y una eficiencia en el flujo de trabajo.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Optimización de Libros de Trabajo Heredados**  
+
+  &nbsp; Reduzca el tamaño de los archivos XLS sin afectar las fórmulas o la integridad de los datos.
+
+
+
+* **Compartir más rápido**  
+
+  &nbsp; Los archivos XLS más pequeños mejoran la velocidad de distribución por correo electrónico y en la nube.
+
+
+
+* **Eficiencia de Archivado**  
+
+  &nbsp; La compresión automatizada simplifica el almacenamiento a largo plazo de archivos de Excel heredados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Compresión por lotes de XLS**  
+
+  &nbsp; Los scripts de Python pueden comprimir varios archivos XLS en una sola operación.
+
+
+
+* **Integración con Sistemas de Flujo de Trabajo**  
+
+  &nbsp; Los archivos XLS comprimidos pueden cargarse en tuberías automatizadas o en sistemas de gestión de documentos.
+
+
+
+* **Compresión Condicional**  
+
+  &nbsp; Apunte a archivos XLS con conjuntos de datos grandes o medios incrustados para la compresión.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

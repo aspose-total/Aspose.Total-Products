@@ -75,7 +75,65 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chú thích PPSX làm phong phú tập tin trình diễn bằng cách thêm nhận xét và lời nhắc cấu trúc, giúp cải thiện việc xem xét nội dung và điều chỉnh slide. Những chú thích này giúp người dùng tối ưu hóa luồng trực quan trước khi trình bày.
+
+Tự động hóa tăng tốc độ làm việc PPSX bằng cách áp dụng chú thích nhất quán, kiểm tra vấn đề bố cục và gắn thẻ các yếu tố nội dung theo cách lập trình.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Ghi Chú Cải Thiện Slide**  
+
+&nbsp; Thêm gợi ý để làm rõ nội dung.
+
+* **Đánh Giá Thiết Kế**  
+
+&nbsp; Đánh dấu sự không nhất quán về mặt hình thức.
+
+* **Phản Hồi Chuyển Tiếp**  
+
+&nbsp; Đánh dấu thời gian hoặc điều chỉnh hoạt ảnh.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Chú Thích Thời Gian Theo Lô**  
+
+&nbsp; Chèn nhận xét dựa trên tốc độ hoạt ảnh phát hiện được.
+
+* **Ánh Xạ Cấu Trúc Tự Động**  
+
+&nbsp; Xác định và chú thích các thành phần slide chính.
+
+* **Kiểm Tra Thiết Kế Theo Kịch Bản**  
+
+&nbsp; Áp dụng cờ dựa trên quy tắc cho các yếu tố slide.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

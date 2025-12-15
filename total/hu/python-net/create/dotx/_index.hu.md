@@ -43,9 +43,79 @@ Egy fejlesztő számára ki próbál DOTX fájlokat létrehozni Python alkalmaz�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTX — A `.dotx` a makrómentes sablon (OOXML), ideális a biztonságos sablonterjesztéshez és a meghatározott dokumentumgeneráláshoz. A Python API-k létrehozhatnak DOTX sablonokat stílusokkal, tartalomvezérlőkkel és tartalomhelyekkel, lehetővé téve a robosztus, makrómentes sablonkészítést automatizált rendszerek számára.
+
+
+
+A DOTX megfelel olyan környezeteknek, amelyek biztonsági okokból nem engedélyezik a makrókat, de továbbra is szükség van az állandó sablonkészítésre és a dinamikus tartalom feltöltésére. Az automatizálás lehetővé teszi a biztonságos, skálázható sablonkészítést és a DOCX példányok aláágyazott végrehajtható kód nélküli generálását.
+
+Programozott sablonkészítés támogatja a séma-vezérelt helykitöltőket, tartalomvezérlőket és sablonellenőrzést.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Biztonságos sablonkézbesítés**
+
+&nbsp; Hozzon létre makrómentes DOTX sablonokat széles körű terjesztéshez biztonságos környezetekben.
+
+
+
+* **Űrlap- és tartalomvezérlősablonok**
+
+&nbsp; Készítsen DOTX sablonokat tartalomvezérlőkkel az automatizáláshoz.
+
+
+
+* **Sablonvezérelt dokumentumösszeállítás**
+
+&nbsp; Használja a DOTX sablonokat a programozott dokumentum létrehozásának irányadó forrásaként.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Biztonságos sabloncsatornák**
+
+&nbsp; Automatizálja a DOTX generálását és érvényesítse a makrók beillesztését megakadályozó irányelveket.
+
+
+
+* **Sablonellenőrzési feladatok**
+
+&nbsp; Futtasson automatizált ellenőrzéseket annak érdekében, hogy a helykitöltők és stílusok megfeleljenek a séma elvárásainak.
+
+
+
+* **API-vezérelt sablonhasználat**
+
+&nbsp; Biztosítsa a DOTX sablonokat egy belső API-n keresztül az igény szerinti DOCX generáláshoz.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

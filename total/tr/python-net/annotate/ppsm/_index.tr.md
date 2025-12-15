@@ -75,7 +75,65 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM açıklaması, makro etkin slayt dosyaları için yapılandırılmış notlar sağlar, betik davranışını belgeler ve inceleme sırasında netliği artırır. Bu, otomatik geçişleri veya dinamik slayt etkileşimlerini anlamayı kolaylaştırır.
+
+Otomatik açıklama, makroları tarayarak denetimi geliştirir, mantık kalıplarını tanımlar ve açıklayıcı notlar ekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Makro Davranışı Belgeleme**  
+
+  Eylemleri açıklayan otomatik slayt notları ekleyin.
+
+* **İnceleme Yorumları**  
+
+  İçerik veya düzen için öneriler sunun.
+
+* **Mantık Görünürlüğü**  
+
+  Makro tetikleyicileri tarafından etkilenen alanları vurgulayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Makro Analizörü**  
+
+  Algılanan betikleri otomatik olarak tarayın ve yorumlayın.
+
+* **Şablon Tabanlı Notlar**  
+
+  Dosyalar arasında önceden tanımlanmış açıklamaları ekleyin.
+
+* **Otomatik QA Etiketleri**  
+
+  Riskli veya kullanım dışı makro mantığını işaretleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

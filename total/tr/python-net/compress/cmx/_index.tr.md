@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+CMX sıkıştırması genellikle detaylı çizimler, katmanlar ve renk profillerini içeren Corel Presentation Exchange vektör grafiklerinin boyutunu azaltır. CMX dosyalarını optimize etmek, tasarım iş akışlarında performansı artırır, paylaşımı hızlandırır ve yaratıcı ve teknik ortamlarda depolama gereksinimlerini azaltır.
+
+
+
+Python API'leri otomatik CMX sıkıştırması ve dönüştürmesini sağlayarak, yayıncılık, baskı ve grafik yönetim sistemleri için ölçekte büyük vektör varlıklarının verimli bir şekilde işlenmesini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Tasarım Projesi Optimizasyonu**  
+
+&nbsp; Katmanlı CMX grafiklerini sıkıştırarak dosya işleme sürecini hızlandırır ve depolama etkisini azaltır.
+
+
+
+* **Yayıncılık ve Baskı Süreçleri**  
+
+&nbsp; Daha küçük CMX dosyaları render alma, düzenleme ve transfer süreçlerini hızlandırır.
+
+
+
+* **Varlık Kütüphanesi Yönetimi**  
+
+&nbsp; Optimize edilmiş CMX koleksiyonları dijital varlık depolarında daha hızlı yüklenir.
+
+
+
+* **Çapraz Platform Değişimi**  
+
+&nbsp; Sıkıştırılmış CMX dosyaları tasarım ekipleri veya uygulamalar arasında daha verimli bir şekilde transfer edilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu CMX Sıkıştırma**  
+
+&nbsp; Python iş akışlarıyla büyük CMX grafik setlerini otomatik olarak optimize eder.
+
+
+
+* **CMX'ten Sıkıştırılmış Formata Dönüşüm**  
+
+&nbsp; CMX'i SVG, PDF, PNG veya EPS'e dönüştürürken sıkıştırma kurallarını uygular.
+
+
+
+* **Otomatik Yükleme Optimizasyonu**  
+
+&nbsp; CMX dosyaları DMS veya DAM sistemlerine alındığında anında sıkıştırılabilir.
+
+
+
+* **İçerik Farkındalıklı Sıkıştırma**  
+
+&nbsp; Vektör karmaşıklığına veya gömülü bileşenlere bağlı olarak optimizasyon yoğunluğunu ayarlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

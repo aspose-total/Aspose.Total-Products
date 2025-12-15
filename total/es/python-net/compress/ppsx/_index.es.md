@@ -101,7 +101,75 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Los archivos PPSX (Presentación de PowerPoint moderna) se benefician de la compresión para reducir el almacenamiento y compartir más rápido, preservando el contenido de las diapositivas, animaciones y medios incrustados.
+
+
+
+Las API de Python permiten la compresión automatizada de PPSX, mejorando los flujos de trabajo y la escalabilidad de las presentaciones.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Optimización de almacenamiento**  
+
+&nbsp; Comprimir archivos PPSX sin afectar diapositivas o animaciones.
+
+
+
+* **Colaboración más rápida**  
+
+&nbsp; Archivos más pequeños permiten compartir rápidamente entre equipos y plataformas.
+
+
+
+* **Eficiencia archivística**  
+
+&nbsp; La compresión automatizada asegura el almacenamiento a largo plazo de los archivos de presentación.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Compresión por lotes de PPSX**  
+
+&nbsp; Los scripts de Python pueden comprimir múltiples archivos PPSX automáticamente.
+
+
+
+* **Integración con flujos de trabajo y sistemas en la nube**  
+
+&nbsp; Los archivos PPSX comprimidos pueden ser procesados dinámicamente en flujos de trabajo automatizados.
+
+
+
+* **Reglas de compresión inteligente**  
+
+&nbsp; La automatización condicional se dirige a archivos con medios de alta resolución.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -168,7 +236,7 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

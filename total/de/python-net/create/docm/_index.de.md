@@ -43,9 +43,39 @@ Wer versucht als Entwickler, DOCM-Dateien über eine Python-Anwendung zu erstell
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Dokumente mit eingebetteten Makros (DOCM)
+
+`.docm`-Dateien unterstützen eingebettete Makros und sind ideal, wenn Dokumente programmierbares Verhalten enthalten müssen; Python-APIs können makrofähige Dokumente erstellen, indem sie OOXML-Inhalte zusammenstellen und signierte oder ungesicherte VBA-Projekte über Automatisierung anhängen. Die programmatische Erstellung gewährleistet, dass Makros konsistent verpackt werden können und als Teil des Builds validiert oder signiert werden können.
+
+Die Verwendung von DOCM ist angemessen, wenn die Geschäftslogik (benutzerdefinierte Felder, Export-Schaltflächen oder Datensammlungsmakros) innerhalb des Dokuments vorhanden sein muss; die Automatisierung ermöglicht das Einfügen, Testen und Steuern des Makroinhalts, um Sicherheits- und Compliance-Prüfungen zu erfüllen.
+
+Automatisierte Tests und CI-Prozesse können die Integrität des Makrocodes sicherstellen und Makros vor der Verteilung signieren.
+
+## Schlüsselanwendungsfälle
+
+- **Automatisierung in Dokumenten eingebettet**
+  Verteilen Sie DOCM-Dateien, die genehmigte Makros für strukturierte Datenerfassung oder lokale Transformationen ausführen.
+
+- **Kontrollierte Bereitstellung von Makros**
+  Fügen Sie geprüfte VBA-Module während des Build-Vorgangs in Dokumente ein, um reguliertes Makroverhalten zu gewährleisten.
+
+- **Makrofähige Vorlagen**
+  Verwenden Sie DOTM-Vorlagen als Quellen, um DOCM-Dokumente mit vordefinierter Automatisierung zu erstellen.
+
+## Automatisierungsszenarien
+
+- **CI-Validierung von Makros**
+  Führen Sie automatisch eine statische Analyse des VBA-Codes durch und blockieren Sie Builds bei Verstoß gegen Richtlinien.
+
+- **Signierung und Verpackung**
+  Automatisieren Sie die digitale Signierung von Makros und die Verpackung von DOCM-Dateien für sichere Verteilung.
+
+- **Makroinjektion aus sicheren Repositories**
+  Holen Sie genehmigte VBA-Schnipsel aus einem sicheren Repository und betten Sie sie in generierte DOCM-Dateien ein.
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

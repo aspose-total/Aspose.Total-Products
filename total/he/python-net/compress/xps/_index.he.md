@@ -77,7 +77,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+דחיסת XPS (XML Paper Specification) מפחיתה את גודל המסמך בפריסה קבועה תוך שמירה על איכות, גרפיקה ופונטים משובצים. קבצי XPS דחוסים משפרים את יעילות האחסון, השידור וביצועי ההצגה במכשירים.
+
+
+
+ממשקי Python מאפשרים דחיסת XPS אוטומטית, עיבוד רצף ואינטגרציה לתהליכי מסמכים לניהול תוכן והפצה בקנה מידה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **ארכיון מסמכים**  
+
+&nbsp; דחוס קבצי XPS לאחסון לטווח ארוך ללא אובדן איכות.
+
+
+
+* **הפצה יעילה**  
+
+&nbsp; קבצי XPS קטנים משדרים במהירות יותר ברשתות או במכשירים.
+
+
+
+* **תהליכי הדפסה ופרסום**  
+
+&nbsp; XPS מאומץ משפר את מהירות ההצגה וביצועי ההדפסה.
+
+
+
+* **ספריות דיגיטליות**  
+
+&nbsp; דחיסת אחסון עבור אוספים של מסמכים בפריסה קבועה.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **דחיסת XPS בצורת עצמאית**  
+
+&nbsp; אוטומציה של ייעול גודל עבור מספר קבצי XPS.
+
+
+
+* **אופטימיזציה של נכסים משובצים**  
+
+&nbsp; דחוס פונטים, תמונות וגרפיקה באופן אוטומטי.
+
+
+
+* **אינטגרצית תהליך עבודה**  
+
+&nbsp; דחוס קבצי XPS באופן דינמי בעת העלאה ל-CMS, DAM או צינורות הדפסה.
+
+
+
+* **רמות דחיסה דינמיות**  
+
+&nbsp; כוון בהתאם לתוכן המסמך, הרזולוציה או הפלט הרצוי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

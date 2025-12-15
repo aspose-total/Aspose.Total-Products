@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLSBファイル（バイナリExcelワークブック）は、ファイルサイズを削減しつつ高速な読み込み時間と複雑な計算を維持するために圧縮の恩恵を受けます。
+
+
+
+Python APIを使用すると、XLSBの自動圧縮が可能になり、大規模なスプレッドシート管理やエンタープライズワークフローとの統合がサポートされます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **バイナリワークブックの最適化**  
+
+&nbsp; パフォーマンスや計算に影響を与えることなくXLSBファイルを圧縮します。
+
+
+
+* **高速なファイル転送**  
+
+&nbsp; 小さなXLSBファイルは、メールやクラウドを介した迅速な共有を可能にします。
+
+
+
+* **効率的なアーカイブ**  
+
+&nbsp; 自動圧縮により、バイナリワークブックの長期保存がサポートされます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **一括XLSB圧縮**  
+
+&nbsp; Pythonスクリプトを使用して複数のXLSBファイルを自動的に圧縮できます。
+
+
+
+* **分析およびBIツールとの統合**  
+
+&nbsp; 圧縮されたXLSBファイルは、自動化されたワークフローでシームレスに処理できます。
+
+
+
+* **選択的圧縮**  
+
+&nbsp; 自動化により、大きなメディアファイルを含むXLSBファイルのみを圧縮できます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

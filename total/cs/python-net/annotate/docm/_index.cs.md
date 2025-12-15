@@ -75,7 +75,65 @@ Další podrobnosti naleznete v [Produktová dokumentace](https://docs.aspose.co
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Anotace DOCM umožňuje přidávat poznámky, zvýraznění a metadata do makro-povolených dokumentů Word, podporuje pracovní postupy, které vyžadují dynamické skriptování nebo vestavěnou automatizaci. To pomáhá uživatelům dokumentovat logiku, sledovat změny a udržovat jasnost ohledně chování maker.
+
+Programaticky anotováním souborů DOCM mohou automatizační systémy monitorovat použití maker, zlepšit konzistenci dokumentace a zjednodušit procesy validace.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití případy" %}}
+
+
+
+* **Dokumentace maker**  
+
+&nbsp; Označte a popište akce řízené makry uvnitř dokumentu.
+
+* **Sledování souladu**  
+
+&nbsp; Přidejte poznámky potvrzující požadované skripty nebo validace.
+
+* **Zaznamenávání změn**  
+
+&nbsp; Zvýrazněte aktualizace související s makry pro lepší viditelnost.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Skenování maker a anotace**  
+
+&nbsp; Automaticky vložte komentáře popisující detekované makro funkce.
+
+* **Dynamické zprávy o souladu**  
+
+&nbsp; Vyplňte anotace, když makra splňují nebo nesplňují určité kontroly.
+
+* **Nástroje pro kontrolu založené na skriptech**  
+
+&nbsp; Použijte Python k aplikaci strukturované anotace ve velkém měřítku.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,87 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/wor
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A compressão de PDF reduz o tamanho de arquivos no formato Portable Document Format, preservando texto, imagens, fontes e gráficos vetoriais. PDFs comprimidos melhoram a eficiência de armazenamento, compartilhamento mais rápido e renderização otimizada em dispositivos e plataformas.
+
+
+
+As APIs do Python permitem a compressão automatizada de PDF, processamento em lote e integração de fluxo de trabalho para gerenciamento de documentos escalável, arquivamento e distribuição.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Armazenamento e Arquivamento de Documentos**  
+
+&nbsp; Comprima PDFs para economizar espaço de armazenamento em bibliotecas digitais.
+
+
+
+* **Transferência de Arquivos Mais Rápida**  
+
+&nbsp; PDFs menores são transmitidos rapidamente via e-mail ou plataformas de nuvem.
+
+
+
+* **Impressão e Publicação**  
+
+&nbsp; PDFs otimizados carregam e renderizam mais rapidamente em fluxos de trabalho impressos e digitais.
+
+
+
+* **Otimização de Entrega de Conteúdo**  
+
+&nbsp; Melhore a experiência do usuário para eBooks, relatórios e manuais.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de PDF**  
+
+&nbsp; Automatize a otimização de vários arquivos PDF simultaneamente.
+
+
+
+* **Otimização de Imagens e Fontes**  
+
+&nbsp; Comprima imagens incorporadas e subconjuntos de fontes automaticamente.
+
+
+
+* **Integração de Fluxo de Trabalho**  
+
+&nbsp; Comprima PDFs dinamicamente durante o upload para sistemas de CMS, DAM ou arquivamento.
+
+
+
+* **Regras de Compressão Dinâmica**  
+
+&nbsp; Ajuste a compressão com base no tamanho do documento, tipo de conteúdo ou dispositivo de destino.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

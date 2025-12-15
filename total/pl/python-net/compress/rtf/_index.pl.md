@@ -100,7 +100,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pliki RTF (Rich Text Format) mogą się powiększać, gdy zawierają skomplikowane formatowanie lub osadzone obiekty; kompresja zmniejsza rozmiar pliku bez wpływu na kompatybilność międzyplatformową.
+
+
+
+Interfejsy API Pythona umożliwiają zautomatyzowaną kompresję plików RTF, usprawniając obsługę dokumentów w nowoczesnych systemach.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe Zastosowania" %}}
+
+
+
+* **Optymalizacja Przechowywania Międzyplatformowego**  
+
+&nbsp; Kompresuj pliki RTF, aby efektywnie korzystać z różnych systemów operacyjnych i aplikacji.
+
+
+
+* **Szybsze Udostępnianie**  
+
+&nbsp; Mniejsze pliki RTF poprawiają dystrybucję przez e-mail i chmurę.
+
+
+
+* **Automatyczne Archiwizowanie**  
+
+&nbsp; Kompresja wsadowa upraszcza archiwizację starych lub dużych dokumentów RTF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Kompresja RTF Wsadowa**  
+
+&nbsp; Przetwarzaj wiele dokumentów RTF automatycznie za pomocą skryptów Pythona.
+
+
+
+* **Integracja z Przepływami Dokumentów**  
+
+&nbsp; Skompresowane pliki RTF mogą być ładowane do zautomatyzowanych przepływów pracy lub systemów DMS.
+
+
+
+* **Kompresja Warunkowa**  
+
+&nbsp; Automatyzacja może docelowo kompresować pliki RTF na podstawie rozmiaru lub osadzonej zawartości.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

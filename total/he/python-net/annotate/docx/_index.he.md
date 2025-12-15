@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ההערה ב־DOCX משפרת מסמכי Word מודרניים עם הערות, הדגשות ומטא-נתונים כדי לשפר שיתוף פעולה, בקרת גרסאות ובהירות המסמך. פורמט זה תומך במבנה ובעיצוב מתקדם, מה שהופך את ההערות למדויקות ועקביות יותר.
+
+אוטומציה של ההערה ב־DOCX משפרת את תהליכי הסקירה ומבטיחה משוב מותקן בקרב סטים גדולים של מסמכים.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **עריכה שיתופית**  
+
+  הוספת הערות כדי להדריך סוקרים.
+
+* **הדגשה סמנטית**  
+
+  להדגיש מונחים מרכזיים, שגיאות או החלטות.
+
+* **תיעוד מובנה**  
+
+  הוספת מטא-נתונים לאינדקסציה וחיפוש.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **סימון תוכן אוטומטי**  
+
+  להדגיש תבניות או מילות מפתח בקבצים בכמות גדולה.
+
+* **הערות תכנותיות**  
+
+  הוספת הערות על בסיס כללים לבדיקות QA.
+
+* **הערות השוואת גרסאות**  
+
+  סימון אוטומטי של השוני בין גרסאות.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

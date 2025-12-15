@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi TGA berfokus pada pengurangan ukuran gambar raster Targa sambil mempertahankan kedalaman warna dan saluran alpha. File TGA sering digunakan dalam game, grafis 3D, dan efek visual, sehingga kompresi penting untuk penyimpanan yang efisien dan pemrosesan yang lebih cepat dalam pipa media.
+
+
+
+API Python memungkinkan kompresi TGA otomatis, pemrosesan batch, dan konversi ke format modern, mendukung alur kerja yang dapat diskalakan untuk pengembangan game, animasi, dan produksi media digital.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Aset Game**  
+
+  Compressing file TGA mengurangi kebutuhan penyimpanan dan meningkatkan waktu muat dalam game.
+
+
+
+* **Pipa Grafis 3D**  
+
+  File TGA yang lebih kecil menyederhanakan manajemen tekstur dan alur kerja rendering.
+
+
+
+* **Produksi Efek Visual**  
+
+  Gambar TGA yang dioptimalkan membantu mengelola urutan bingkai besar dengan efisien.
+
+
+
+* **Penyimpanan Arsip**  
+
+  Mengurangi ukuran file untuk penyimpanan jangka panjang aset beresolusi tinggi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi TGA Batch**  
+
+  Mengotomatisasi optimisasi set besar file TGA secara massal.
+
+
+
+* **Pemeliharaan Saluran Alpha**  
+
+  Menjaga transparansi saat melakukan kompresi untuk mengurangi jejak penyimpanan.
+
+
+
+* **Integrasi ke Pipa Kerja**  
+
+  File TGA dapat dikompresi secara otomatis saat diunggah ke sistem manajemen aset.
+
+
+
+* **Kompresi Berbasis Resolusi Dinamis**  
+
+  Menyesuaikan tingkat kompresi berdasarkan ukuran gambar, resolusi, atau konteks penggunaan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

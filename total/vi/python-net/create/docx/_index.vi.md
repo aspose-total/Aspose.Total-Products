@@ -43,9 +43,81 @@ informat: DOCX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX — `.docx` (OOXML) là tiêu chuẩn hiện đại cho tài liệu Word và rất thích hợp cho việc tự động hóa dựa trên Python. Các thư viện cho phép tạo và sửa đổi đoạn văn, bảng, hình ảnh, kiểu dáng và các phần XML tùy chỉnh trong khi bảo tồn cấu trúc và siêu dữ liệu của OOXML.
+
+
+
+DOCX lý tưởng cho báo cáo theo mẫu, tài liệu động và tích hợp với dịch vụ web do định dạng mở và sự hỗ trợ mạnh mẽ từ thư viện. Tự động hóa giúp tạo ra các tài liệu truy cập được, được thiết kế một cách đáng tin cậy có thể được xác thực và phiên bản hóa.
+
+
+
+Quy trình làm việc theo chương trình giúp dễ dàng tổng hợp các tài liệu phức tạp (bảng lồng nhau, tham chiếu, mục lục) từ đầu vào có cấu trúc.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Hiển Thị Báo Cáo Theo Mẫu**
+
+&nbsp; Điền vào các mẫu DOCX với bảng động, biểu đồ và các phần điều kiện.
+
+
+
+* **Tổ Hợp Tài Liệu Tự Động**
+
+&nbsp; Kết hợp các phần (giới thiệu, thân, phụ lục) từ các nguồn nội dung modul thành một tài liệu DOCX duy nhất.
+
+
+
+* **Tài Liệu Chứa Đầy Siêu Dữ Liệu**
+
+&nbsp; Nhúng thuộc tính tài liệu, XML tùy chỉnh và siêu dữ liệu sửa đổi để quản lý.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Luồng Dữ Liệu từ Cơ Sở Dữ Liệu đến Tài Liệu**
+
+&nbsp; Tạo tài liệu DOCX cá nhân hóa cho mỗi bản ghi cơ sở dữ liệu trong một công việc tự động.
+
+
+
+* **Tạo Tài Liệu Kích Hoạt Bằng Webhook**
+
+&nbsp; Tạo tài liệu DOCX theo yêu cầu thông qua các API HTTP được kích hoạt bởi các sự kiện bên ngoài.
+
+
+
+* **Kiểm Tra Truy Cập Tự Động**
+
+&nbsp; Chạy các kịch bản xác thực để xác minh cấu trúc tiêu đề và văn bản thay thế cho hình ảnh trong quá trình tạo ra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -101,7 +101,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.Slides for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Các tệp POTM (mẫu có macro) yêu cầu nén giữ lại các macro trong khi giảm kích thước tệp để phân phối và lưu trữ.
+
+
+
+Tự động dựa trên Python cho phép nén POTM ở quy mô lớn trong khi duy trì đầy đủ chức năng của mẫu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Bảo Toàn Mẫu Macro**  
+
+&nbsp; Nén các tệp POTM mà không làm hỏng các macro nhúng.
+
+
+
+* **Chia Sẻ Mẫu Hiệu Quả**  
+
+&nbsp; Các mẫu có macro nhỏ giúp cải thiện việc hợp tác và phân phối trên đám mây.
+
+
+
+* **Lưu Trữ Mẫu**  
+
+&nbsp; Nén tự động đảm bảo lưu trữ hiệu quả trong dài hạn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Batch POTM**  
+
+&nbsp; Kịch bản Python có thể xử lý nhiều mẫu có macro tự động.
+
+
+
+* **Tích Hợp với Hệ Thống Luồng Công Việc**  
+
+&nbsp; Các mẫu POTM đã được nén có thể được tải động vào các luồng công việc tự động.
+
+
+
+* **Nén Có Điều Kiện**  
+
+&nbsp; Tự động nhắm vào các tệp có macro hoặc nội dung đa phương tiện lớn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

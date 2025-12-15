@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DJVU 압축은 스캔된 문서, 디지털 도서 및 보존 콘텐츠에 일반적으로 사용되는 DjVu 파일의 이미 효율적인 구조를 향상시킵니다. DJVU 파일을 최적화하면 크기가 더욱 줄어들고 로딩 속도가 향상되며, 텍스트가 많거나 이미지가 풍부한 페이지에 대해 고품질 렌더링이 보장됩니다.
+
+
+
+Python API를 사용하면 DJVU 압축을 자동화하고 스캔된 레이어를 최적화하며, 저장 공간 요구량을 최소화하고 처리 효율성을 높이면서 대량의 디지털 문서 라이브러리를 관리할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **디지털 문서 라이브러리**  
+
+  &nbsp; 큰 스캔 아카이브를 압축하여 공간을 절약하고 액세스 성능을 향상시킵니다.
+
+
+
+* **E-Book 및 연구 배포**  
+
+  &nbsp; 더 작은 DJVU 파일은 빠르게 로드되고 학술 플랫폼 간에 더 효율적으로 전송됩니다.
+
+
+
+* **스캔된 이미지 최적화**  
+
+  &nbsp; 필수적인 시각적 세부 사항을 훼손하지 않고 가독성을 향상시키고 크기를 줄입니다.
+
+
+
+* **장기 보존**  
+
+  &nbsp; 역사적 및 참고 자료에 대한 저장 공간을 효율적으로 제공합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **대량 DJVU 압축**  
+
+  &nbsp; 스캔된 또는 디지털화된 문서 모음의 파일 크기를 자동으로 줄입니다.
+
+
+
+* **레이어 인식 최적화**  
+
+  &nbsp; 자동화를 통해 전경 텍스트, 배경 질감 또는 포함된 이미지를 선택적으로 압축할 수 있습니다.
+
+
+
+* **워크플로우-흡수 압축**  
+
+  &nbsp; DJVU 파일은 아카이브나 문서 시스템에 업로드되자마자 즉시 압축될 수 있습니다.
+
+
+
+* **변환 + 압축 파이프라인**  
+
+  &nbsp; PDF 또는 TIFF를 DJVU로 변환하면서 자동 크기 축소 규칙을 적용할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

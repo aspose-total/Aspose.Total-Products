@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Soubory šablony XLT mají prospěch z komprese ke snížení úložného prostoru a zlepšení distribuce bez změny struktury šablony.
+
+
+
+Pythonové API umožňují automatizovanou kompresi šablon XLT pro škálovatelný správu šablon.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace úložiště šablon**  
+
+&nbsp; Kompresujte soubory XLT zachováním formátování a vzorců.
+
+
+
+* **Rychlejší sdílení šablon**  
+
+&nbsp; Snížené velikosti souborů umožňují rychlou distribuci týmům.
+
+
+
+* **Automatizované archivace**  
+
+&nbsp; Kompresované šablony zjednodušují správu dlouhodobého úložiště.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese šablon**  
+
+&nbsp; Automatizujte zpracování více souborů XLT pomocí skriptů v Pythonu.
+
+
+
+* **Integrace s pracovními postupy**  
+
+&nbsp; Kompresované šablony lze dynamicky načítat do automatizovaných pracovních postupů.
+
+
+
+* **Podmíněná komprese**  
+
+&nbsp; Automatizace může cílit na šablony s velkými datovými sadami nebo složitými vzorci.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

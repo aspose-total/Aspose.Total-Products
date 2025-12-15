@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ההערה בפורמט DOTX מרחיבה את יכולות התבנית על ידי הטמעת הערות, הוראות ומטא-נתונים בתבניות Word ללא מקרו. זה משפר את דיוק המסמך ומדריך את המשתמשים ביצירת תוכן מובנה.
+
+האוטומציה של ההערה בפורמט DOTX מאיצה עדכוני תבניות ומחייבת עקביות בזרימי עבודה של התיעוד.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **הדרכת תבניות**
+
+  הוספת הערות למטרת כל קטע.
+
+* **הנחיות עיצוב**
+
+  הדגשת כללים לכותרות, רשימות או טבלאות.
+
+* **מניעת שגיאות**
+
+  סימון אזורים בהם משתמשים טועים בדרך כלל.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **הערה בהתבסס על כללים**
+
+  הכנסת הוראות תקניות באופן תכנותי.
+
+* **תחזוקת תבניות בצמיחה**
+
+  עדכון ההערות במקביל במספר תבניות.
+
+* **אינטגרציה דינמית של מדיניות**
+
+  הוספת הנחיות להתאמה לתקנים דרך צינורות אוטומטיים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

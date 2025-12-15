@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DNG sıkıştırması, dijital kameralar tarafından yakalanan ham görüntü dosyalarını optimize etmeye odaklanırken maksimum görüntü kalitesini korumayı hedefler. DNG dosyaları genellikle yüksek çözünürlüklü sensör verilerini içerdiğinden, sıkıştırma depolama ihtiyaçlarını azaltır, dosya transferlerini hızlandırır ve fotoğrafçılık ve görüntüleme akışlarında iş verimliliğini artırır.
+
+
+
+Python API'leri otomatik DNG sıkıştırmasını, toplu işleme ve diğer formatlara dönüştürmeyi sağlayarak büyük fotoğraf kütüphanelerinin ve profesyonel görüntüleme sistemlerinin ölçeklenebilir yönetimini mümkün kılar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Fotoğrafçı Arşiv Optimizasyonu**  
+
+&nbsp; DNG dosyalarını sıkıştırmak, ham görüntü sadakatini bozmadan depolamayı azaltır.
+
+
+
+* **Daha Hızlı Görüntü Transferi**  
+
+&nbsp; Daha küçük dosyalar, kameralar, iş istasyonları ve bulut depolama arasında daha hızlı paylaşımı sağlar.
+
+
+
+* **Dijital Varlık Yönetimi**  
+
+&nbsp; Sıkıştırılmış DNG kütüphaneleri daha kolay düzenlenir, aranır ve geri alınır.
+
+
+
+* **Son İşlem Akışları**  
+
+&nbsp; Ham dosyaların görüntü düzenleme ve yapay zeka destekli akışlara daha hızlı yüklenmesini sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu DNG Sıkıştırma**  
+
+&nbsp; Çoklu ham görüntü dosyalarının toplu olarak optimize edilmesini otomatikleştirin.
+
+
+
+* **Çözünürlüğe Bağlı Dinamik Sıkıştırma**  
+
+&nbsp; Python iş akışları, sıkıştırma seviyelerini sensör boyutuna veya görüntü boyutlarına bağlı olarak ayarlayabilir.
+
+
+
+* **Otomatik Format Dönüşümü**  
+
+&nbsp; DNG'yi TIFF, JPEG veya WebP'ye dönüştürürken sıkıştırmayı otomatik olarak uygular.
+
+
+
+* **DAM Sistemleriyle Entegrasyon**  
+
+&nbsp; Yüklemeler sırasında DNG görüntülerini sıkıştırarak optimize edilmiş depolama ve daha hızlı işleme sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi DIB mengurangi ukuran file bitmap independen perangkat, yang menyimpan data piksel tanpa format khusus perangkat keras. Gambar-gambar ini seringkali besar karena mereka mempertahankan data bitmap mentah yang tidak terkompres, sehingga kompresi penting untuk penyimpanan dan pemrosesan yang efisien dalam alur kerja modern.
+
+
+
+API Python memungkinkan untuk mengotomatisasi optimisasi DIB, meminimalkan ukuran file, dan mengonversi bitmap ini ke format yang lebih terkompres, meningkatkan skalabilitas dalam alur kerja pengolahan gambar dan sistem aset digital.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Bitmap Warisan**  
+
+&nbsp; Memampatkan file DIB besar yang berasal dari perangkat lunak atau sistem pengolahan gambar yang lebih lama.
+
+
+
+* **Efisiensi Penyimpanan**  
+
+&nbsp; Mengurangi penggunaan disk secara signifikan untuk organisasi dengan repositori bitmap yang luas.
+
+
+
+* **Transfer dan Unggah Lebih Cepat**  
+
+&nbsp; Memungkinkan berbagi file gambar berat secara lebih cepat melalui jaringan atau platform cloud.
+
+
+
+* **Arsip Gambar**  
+
+&nbsp; Membantu menjaga arsip ringan tanpa mengorbankan data piksel penting.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi DIB Massal**  
+
+&nbsp; Mengotomatisasi pengurangan ukuran untuk ratusan atau ribuan file bitmap sekaligus.
+
+
+
+* **Konversi Otomatis ke Format Modern**  
+
+&nbsp; Mengonversi DIB menjadi PNG, JPEG, atau WebP dengan aturan kompresi yang cerdas.
+
+
+
+* **Optimisasi Unggah Real-Time**  
+
+&nbsp; File DIB dapat dikompres secara otomatis saat diunggah ke platform pengolahan gambar.
+
+
+
+* **Kompresi yang Sadar Resolusi**  
+
+&nbsp; Otomatisasi menyesuaikan intensitas kompresi berdasarkan dimensi piksel atau kedalaman warna.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -43,9 +43,73 @@ Pro vývojáře, který se snaží vytvářet soubory DOTX prostřednictvím apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTX — `.dotx` je šablona bez maker (OOXML), ideální pro bezpečné distribuce šablon a deterministickou generaci dokumentů. Pythonové API mohou produkovat DOTX šablony s styly, ovládacími prvky obsahu a zástupci obsahu, umožňující robustní šablonování bez maker pro automatizované systémy.
+
+
+
+DOTX vyhovuje prostředím, která zakazují makra z bezpečnostních důvodů, ale stále vyžadují konzistentní šablonování a dynamické naplnění obsahu. Automatizace umožňuje bezpečné, škálovatelné šablonování a následnou generaci instancí DOCX bez vloženého spustitelného kódu.
+
+Programatická generace šablon podporuje schéma-řízené zástupce, ovládací prvky obsahu a ověřování šablony.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Bezpečné doručení šablony**
+  Vytvářejte makrovolné DOTX šablony pro širokou distribuci v bezpečných prostředích.
+
+
+
+* **Šablony formulářů a ovládacího obsahu**
+  Vytvářejte DOTX šablony s ovládacími prvky obsahu pro automatizaci níže.
+
+
+
+* **Šablonami řízené sestavování dokumentů**
+  Použijte DOTX šablony jako autoritativní zdroj pro programové vytváření dokumentů.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Bezpečné šablonové potrubí**
+  Automatizujte generaci DOTX a prosazujte politiky, které zabrání začlenění maker.
+
+
+
+* **Práce s ověřením šablony**
+  Spusťte automatizované kontroly, aby se zajistilo, že zástupci a styly odpovídají očekáváním schématu.
+
+
+
+* **API-řízené použití šablony**
+  Poskytujte DOTX šablony prostřednictvím interního API pro generaci DOCX na vyžádání.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

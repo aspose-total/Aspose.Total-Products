@@ -100,7 +100,87 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TIFF-Komprimierung konzentriert sich darauf, die Größe von hochauflösenden Rasterbildern zu reduzieren, während die Bildqualität, Farbtiefe und Metadaten erhalten bleiben. TIFF-Dateien werden in der professionellen Fotografie, im Druck und in Scan-Workflows weit verbreitet eingesetzt, wodurch die Kompression für die Speichereffizienz und schnellere Verarbeitung unerlässlich ist.
+
+
+
+Python-APIs ermöglichen die automatisierte TIFF-Komprimierung, Stapelverarbeitung und Formatkonvertierung, was eine skalierbare Handhabung großer Bildsammlungen und die Integration in das digitale Asset-Management und Imaging-Pipelines ermöglicht.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Speicherung in der professionellen Fotografie**  
+
+&nbsp; Die Komprimierung von TIFF-Dateien reduziert die Speicherkosten, während hochwertige Bilder erhalten bleiben.
+
+
+
+* **Druck- und Verlags-Workflows**  
+
+&nbsp; Optimierte TIFFs laden schneller und werden effizient in Vorstufen- und Produktions-Pipelines verarbeitet.
+
+
+
+* **Scannen und Archivierung**  
+
+&nbsp; Komprimierte TIFFs minimieren den Speicherplatzbedarf für gescannte Dokumente und historische Aufzeichnungen.
+
+
+
+* **Digitales Asset-Management**  
+
+&nbsp; Kleinere TIFFs verbessern die Abrufgeschwindigkeit und die Systemleistung für große Bildbibliotheken.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Stapel-TIFF-Komprimierung**  
+
+&nbsp; Python-Skripte können Hunderte von TIFF-Dateien automatisch optimieren.
+
+
+
+* **Verlustfreie oder kontrollierte verlustbehaftete Komprimierung**  
+
+&nbsp; Automatisieren Sie die Auswahl des Kompressionstyps basierend auf den Workflow-Anforderungen oder dem Bildinhalt.
+
+
+
+* **Workflow-Integration**  
+
+&nbsp; Komprimieren Sie TIFF-Dateien dynamisch, wenn sie in DAM, CMS oder Cloud-Speicher hochgeladen werden.
+
+
+
+* **Optimierung basierend auf der Auflösung**  
+
+&nbsp; Passen Sie die Kompressionsstufen automatisch an, abhängig von den Bildabmessungen oder DPI.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

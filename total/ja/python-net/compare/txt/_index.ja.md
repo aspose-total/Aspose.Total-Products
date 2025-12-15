@@ -70,7 +70,75 @@ TXT ファイルを簡単に比較するための Python スクリプトまた�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXTの比較は、プレーンテキストドキュメントの行レベルまたは文字レベルの変更を強調し、書式の複雑さなしに修正内容を完全に把握できます。ログ、スクリプト、およびシンプルなドキュメントには不可欠です。
+
+
+
+自動化されたTXT比較は、大量のテキストベースのコンテンツ全体での更新の迅速でスケーラブルな検出を提供します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+
+
+* **ログファイルの差分追跡**  
+
+&nbsp; 新しいエントリや変更を特定します。
+
+
+
+* **スクリプトまたはコードテキストのレビュー**  
+
+&nbsp; プレーンテキストスクリプトの変更を強調します。
+
+
+
+* **シンプルなドキュメントの改訂管理**  
+
+&nbsp; 行の変更を効率的にキャプチャします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **高容量のTXT比較**  
+
+&nbsp; 数千のファイルを迅速に処理します。
+
+
+
+* **自動監視パイプライン**  
+
+&nbsp; 変更が発生したときにワークフローをトリガーします。
+
+
+
+* **プログラムによる差分抽出**  
+
+&nbsp; システム向けの構造化されたレポートを生成します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -43,9 +43,81 @@ informat: DOTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTX — `.dotx` là mẫu không chứa macro (OOXML) lý tưởng cho việc phân phối mẫu an toàn và tạo tài liệu xác định. Các API Python có thể tạo ra các mẫu DOTX với các kiểu, điều khiển nội dung và nơi chứa nội dung, cho phép tạo mẫu mạnh mẽ không chứa macro cho các hệ thống tự động.
+
+
+
+DOTX phù hợp với môi trường không cho phép macro vì lý do bảo mật nhưng vẫn yêu cầu mẫu nhất quán và điền nội dung động. Tự động hóa cho phép tạo mẫu an toàn, có khả năng mở rộng và tạo ra các trường hợp DOCX không chứa mã thực thi.
+
+
+
+Việc tạo mẫu theo chương trình hỗ trợ các nơi chứa dữ liệu dựa trên schema, điều khiển nội dung và xác thực mẫu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Phân Phối Mẫu An Toàn**
+
+  Tạo các mẫu DOTX không chứa macro cho việc phân phối rộng rãi trong môi trường an toàn.
+
+
+
+* **Mẫu Biểu Mẫu và Điều Khiển Nội Dung**
+
+  Xây dựng các mẫu DOTX với điều khiển nội dung cho tự động hóa ở bước tiếp theo.
+
+
+
+* **Tổ Hợp Tài Liệu Theo Mẫu**
+
+  Sử dụng các mẫu DOTX như nguồn chính thức cho việc tạo tài liệu theo chương trình.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Luồng Công Việc Mẫu An Toàn**
+
+  Tự động hóa việc tạo ra DOTX và áp dụng các chính sách ngăn chặn việc bao gồm macro.
+
+
+
+* **Công Việc Xác Thực Mẫu**
+
+  Chạy các kiểm tra tự động để đảm bảo nơi chứa và kiểu phù hợp với kỳ vọng schema.
+
+
+
+* **Sử Dụng Mẫu Theo API**
+
+  Cung cấp các mẫu DOTX qua API nội bộ để tạo ra DOCX theo yêu cầu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

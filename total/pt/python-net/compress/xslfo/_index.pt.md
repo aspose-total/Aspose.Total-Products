@@ -78,7 +78,87 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/zip
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A compressão XSL-FO concentra-se em reduzir o tamanho dos arquivos de Formatação de Objetos de Linguagem de Estilo Extensível, que definem o layout da página e a formatação para documentos XML. A otimização do XSL-FO melhora o processamento, a velocidade de renderização e a eficiência de armazenamento nos fluxos de trabalho de geração de documentos.
+
+
+
+As APIs do Python permitem a compressão automatizada de XSL-FO, o processamento em lote e a integração com pipelines de PDF ou impressão para soluções escaláveis de renderização de documentos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Otimização de Renderização de Documentos**  
+
+&nbsp; Arquivos XSL-FO comprimidos aceleram a geração de PDF e fluxos de trabalho de impressão.
+
+
+
+* **Gerenciamento de Documentos em Grande Escala**  
+
+&nbsp; Reduz o armazenamento para conteúdo formatado em grande volume.
+
+
+
+* **Arquivamento e Backup**  
+
+&nbsp; Arquivos XSL-FO otimizados são mais fáceis de armazenar para retenção a longo prazo.
+
+
+
+* **Integração de Fluxo de Trabalho**  
+
+&nbsp; Melhora a eficiência em pipelines de publicação automatizados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de XSL-FO**  
+
+&nbsp; Automatize a redução de tamanho para vários arquivos de formatação.
+
+
+
+* **Remoção de Espaços em Branco e Redundância**  
+
+&nbsp; Remova automaticamente instruções de formatação desnecessárias.
+
+
+
+* **Integração com Pipelines de Renderização**  
+
+&nbsp; Comprima arquivos antes de gerar saídas em PDF ou impressão.
+
+
+
+* **Otimização Dinâmica**  
+
+&nbsp; Ajuste os níveis de compressão com base na complexidade do documento ou no número de páginas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -70,7 +70,75 @@ ODT 파일을 쉽게 비교하기 위해 Python 스크립트 또는 유틸리티
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT 비교는 텍스트, 스타일, 레이아웃 구조 및 포함된 요소를 확인하여 오픈 문서 텍스트 파일 내의 콘텐츠 정확성을 보장합니다. 투명한 수정 추적과 품질 보증을 지원합니다.
+
+
+
+자동화된 ODT 비교는 수동 노력을 줄이고 협업 오피스 시스템 및 문서 자동화 파이프라인과의 통합을 강화합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **콘텐츠 수정 추적**  
+
+&nbsp; 추가, 삭제 및 재서식 지정을 식별합니다.
+
+
+
+* **오픈 문서 규정 준수**  
+
+&nbsp; 문서가 필요한 구조를 따르도록 보장합니다.
+
+
+
+* **크로스 플랫폼 편집 제어**  
+
+&nbsp; 다른 도구를 통해 편집 시 발생하는 변화를 감지합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **대량 ODT 유효성 검사**  
+
+&nbsp; 대량 문서 세트를 자동으로 처리합니다.
+
+
+
+* **자동화된 편집 워크플로우**  
+
+&nbsp; 문서 생성 중에 검사를 트리거합니다.
+
+
+
+* **프로그래밍 변경 보고**  
+
+&nbsp; 구조화된 차이 요약을 생성합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

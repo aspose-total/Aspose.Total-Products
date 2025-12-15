@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTファイルの圧縮により、古いPowerPointプレゼンテーションのストレージを削減し、転送速度を向上させながら、フォーマット、チャート、埋め込みメディアを保持します。
+
+
+
+Python APIを使用すると、自動化されたPPTの圧縮が可能になり、スケーラブルなプレゼンテーション管理とワークフロー効率がサポートされます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **レガシープレゼンテーションの最適化**  
+
+&nbsp; スライドのレイアウトやコンテンツに影響を与えることなく、PPTファイルサイズを削減します。
+
+
+
+* **高速共有**  
+
+&nbsp; 小さなPPTファイルは、迅速なメール送信やクラウド配布を可能にします。
+
+
+
+* **アーカイブ効率**  
+
+&nbsp; 自動化された圧縮により、古いプレゼンテーションの長期保存が簡素化されます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **一括PPT圧縮**  
+
+&nbsp; Pythonスクリプトを使用して複数のPPTファイルを自動的に処理できます。
+
+
+
+* **ワークフローシステムとの統合**  
+
+&nbsp; 圧縮されたファイルは、自動化されたパイプラインやDMSで管理できます。
+
+
+
+* **条件付き圧縮**  
+
+&nbsp; 最適化のためにサイズや埋め込みメディアに基づいてファイルを対象とします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -168,7 +236,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

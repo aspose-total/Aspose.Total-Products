@@ -78,7 +78,87 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compressione XPS (XML Paper Specification) riduce le dimensioni dei documenti a layout fisso preservando la qualità, le grafiche vettoriali e i font incorporati. I file XPS compressi migliorano l'efficienza di archiviazione, la trasmissione e le prestazioni di rendering su dispositivi diversi.
+
+
+
+Le API di Python consentono la compressione automatizzata di XPS, l'elaborazione batch e l'integrazione nei flussi di lavoro dei documenti per una gestione e distribuzione dei contenuti scalabile.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Archiviazione documenti**  
+
+&nbsp; Comprimere i file XPS per l'archiviazione a lungo termine senza perdita di qualità.
+
+
+
+* **Distribuzione efficiente**  
+
+&nbsp; I file XPS più piccoli si trasferiscono più velocemente su reti o dispositivi.
+
+
+
+* **Flussi di stampa e pubblicazione**  
+
+&nbsp; XPS ottimizzato migliora la velocità di rendering e le prestazioni di stampa.
+
+
+
+* **Biblioteche digitali**  
+
+&nbsp; Ridurre l'ingombro di archiviazione per collezioni di documenti a layout fisso.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Compressione batch XPS**  
+
+&nbsp; Automatizzare la riduzione delle dimensioni per più file XPS.
+
+
+
+* **Ottimizzazione delle risorse incorporate**  
+
+&nbsp; Comprimere automaticamente font, immagini e grafiche.
+
+
+
+* **Integrazione nei flussi di lavoro**  
+
+&nbsp; Comprimere dinamicamente i file XPS durante il caricamento su CMS, DAM o pipeline di stampa.
+
+
+
+* **Livelli di compressione dinamici**  
+
+&nbsp; Regolare in base al contenuto del documento, alla risoluzione o all'output previsto.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,65 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'annotazione RTF aggiunge commenti, evidenzia e metadati strutturali ai file di testo arricchiti, migliorando la leggibilità senza influenzare la compatibilità multi-piattaforma. Gli RTF annotati supportano flussi di lavoro di revisione leggeri.
+
+L'automazione potenzia l'elaborazione degli RTF inserendo note strutturate, scansionando i contenuti per individuare problemi e applicando evidenziazioni basate su regole.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Note di chiarimento del contenuto**  
+
+&nbsp; Aggiungi osservazioni che spiegano modifiche o preoccupazioni.
+
+* **Evidenziazioni strutturate**  
+
+&nbsp; Segna sezioni importanti o errori.
+
+* **Incorporazione di metadati**  
+
+&nbsp; Inserisci tag di classificazione.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Evidenziazione automatica delle parole chiave**  
+
+&nbsp; Identifica ed enfatizza termini in modo programmato.
+
+* **Script di annotazione di massa**  
+
+&nbsp; Applica note standardizzate su più file RTF.
+
+* **Rilevamento di modelli di contenuto**  
+
+&nbsp; Annota aree corrispondenti a trigger specifici.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

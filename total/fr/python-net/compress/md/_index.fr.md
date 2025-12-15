@@ -78,7 +78,87 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compression MD optimise les fichiers Markdown en supprimant les espaces inutiles, les commentaires ou le formatage redondant tout en préservant la structure du contenu. Cela améliore l'efficacité de stockage, le transfert de fichiers plus rapide et le traitement simplifié dans la documentation et les pipelines de contenu.
+
+
+
+Les API Python permettent la compression automatisée de MD, le traitement par lots et les flux de conversion pour une gestion évolutive de la documentation technique, des blogs et du contenu sous contrôle de version.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Optimisation de la documentation**  
+
+&nbsp; Compresser de grands référentiels Markdown pour un stockage plus facile et des opérations de contrôle de version plus rapides.
+
+
+
+* **Flux de publication de contenu**  
+
+&nbsp; Les fichiers MD plus petits simplifient les processus de génération de sites Web et statiques.
+
+
+
+* **Archivage du contenu Markdown**  
+
+&nbsp; Réduit le stockage pour la documentation historique et les notes.
+
+
+
+* **Collaboration et distribution**  
+
+&nbsp; Les fichiers optimisés sont plus faciles à partager entre les équipes et les systèmes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Compression MD par lots**  
+
+&nbsp; Automatiser l'optimisation de plusieurs fichiers Markdown.
+
+
+
+* **Suppression des espaces et des commentaires**  
+
+&nbsp; Nettoyer automatiquement le texte inutile sans altérer le contenu.
+
+
+
+* **Intégration de flux de travail**  
+
+&nbsp; Compresser les fichiers MD lors de leur ingestion dans les systèmes de gestion de contenu ou de contrôle de version.
+
+
+
+* **Pipelines de conversion + compression**  
+
+&nbsp; Convertir le MD en HTML ou PDF tout en appliquant automatiquement la compression.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

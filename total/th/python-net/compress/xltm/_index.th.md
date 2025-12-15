@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ไฟล์ XLTM (เทมเพลตที่เปิดใช้งานแมโคร) ต้องการการบีบอัดที่รักษาแมโครในขณะลดขนาดไฟล์และปรับปรุงการกระจาย.
+
+
+
+การอัตโนมัติที่ใช้ Python สนับสนุนการบีบอัดเทมเพลต XLTM ได้ในขอบข่ายของการทำงานขององค์กร.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="กรณีการใช้งานหลัก" %}}
+
+
+
+* **การรักษาแมโคร**  
+
+&nbsp; รักษาแมโครขณะบีบอัดเทมเพลต XLTM.
+
+
+
+* **การแบ่งปันอย่างมีประสิทธิภาพ**  
+
+&nbsp; เทมเพลตขนาดเล็กเสริมความร่วมมือข้ามทีม.
+
+
+
+* **การเก็บถาวรเทมเพลต**  
+
+&nbsp; การบีบอัดโดยอัตโนมัติเสริมการจัดเก็บเทมเพลตในระยะยาว.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การบีบอัดเทมเพลต XLTM แบบกลุ่ม**  
+
+&nbsp; สคริปต์ Python สามารถประมวลผลเทมเพลตที่เปิดใช้งานแมโครหลายรายการโดยอัตโนมัติ.
+
+
+
+* **การผสานกับระบบ BI และการทำงาน**  
+
+&nbsp; เทมเพลต XLTM ที่ถูกบีบอัดสามารถใช้ในท่อการทำงานอัตโนมัติ.
+
+
+
+* **การบีบอัดแบบเงื่อนไข**  
+
+&nbsp; เล็งเทมเพลตขนาดใหญ่หรือมีสื่อฝังไว้สำหรับการบีบอัด.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يُحدد مقارنة HTML الاختلافات في العلامات التجارية، وكتل النص، والعلامات، والأنماط، والتنسيق الداخلي عبر ملفات الويب أو التصدير. إنه يضمن دقة التقديم وعرض المحتوى.
+
+
+
+تدعم مقارنة HTML الآلية الرقابة على الجودة القابلة للتوسيع لمحتوى الويب، وبوابات الوثائق، وتصدير HTML المُنشأ من النظام.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تتبع تحديثات محتوى الويب**  
+
+&nbsp; يسلط الضوء على التحديثات في عناصر النص والتخطيط.
+
+
+
+* **فحص اتساق الوثيقة المصدرية المصدرة**  
+
+&nbsp; يضمن أن تتطابق تصديرات HTML مع الهيكل المتوقع.
+
+
+
+* **تحديثات الوثائق التقنية**  
+
+&nbsp; يكتشف التغييرات في كتل الشفرة أو الأقسام المعلوماتية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **كشف تغييرات العلامات**  
+
+&nbsp; يحدد تلقائيًا التعديلات على مستوى العلامات.
+
+
+
+* **مقارنة HTML الجماعية**  
+
+&nbsp; يحقق في مجموعات كبيرة من الإخراجات HTML.
+
+
+
+* **أنابيب النشر الآلي**  
+
+&nbsp; يدمج الفحوصات في أنظمة تسليم المحتوى المستمر.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

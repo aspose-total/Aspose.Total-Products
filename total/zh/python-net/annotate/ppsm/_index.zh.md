@@ -75,7 +75,63 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM注释为宏启用的幻灯片文件提供结构化注释，有助于记录脚本行为并在审查过程中提高清晰度。这使得更容易理解自动过渡或动态幻灯片交互。
+
+自动注释通过扫描宏、识别逻辑模式和插入描述性注释来增强审计。
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **宏行为文档化**  
+
+&nbsp; 添加描述自动幻灯片操作的注释。
+
+* **审查意见**  
+
+&nbsp; 为内容或布局提供建议。
+
+* **逻辑可见性**  
+
+&nbsp; 强调受宏触发影响的区域。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **宏分析器**  
+
+&nbsp; 自动扫描并评论检测到的脚本。
+
+* **基于模板的注释**  
+
+&nbsp; 在文件中插入预定义的注释。
+
+* **自动化QA标记**  
+
+&nbsp; 标记风险或已弃用的宏逻辑。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/zip
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A compressão de arquivos XLS reduz o armazenamento e acelera o compartilhamento de pastas de trabalho Excel legadas, preservando fórmulas, gráficos e formatação.
+
+
+
+A automação baseada em Python permite a compressão em lote de arquivos XLS, possibilitando a gestão escalável de dados e eficiência de fluxo de trabalho.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Otimização de Pastas de Trabalho Legadas**  
+
+  &nbsp; Reduza o tamanho dos arquivos XLS sem afetar fórmulas ou integridade dos dados.
+
+
+
+* **Compartilhamento Mais Rápido**  
+
+  &nbsp; Arquivos XLS menores melhoram a velocidade de distribuição por e-mail e na nuvem.
+
+
+
+* **Eficiência de Arquivamento**  
+
+  &nbsp; A compressão automatizada simplifica o armazenamento a longo prazo de arquivos Excel legados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de Arquivos XLS**  
+
+  &nbsp; Scripts Python podem comprimir vários arquivos XLS em uma única operação.
+
+
+
+* **Integração com Sistemas de Fluxo de Trabalho**  
+
+  &nbsp; Arquivos XLS comprimidos podem ser carregados em pipelines automatizados ou DMS.
+
+
+
+* **Compressão Condicional**  
+
+  &nbsp; Destine arquivos XLS com grandes conjuntos de dados ou mídia incorporada para compressão.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

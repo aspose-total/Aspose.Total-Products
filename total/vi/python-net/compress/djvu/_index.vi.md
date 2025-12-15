@@ -78,7 +78,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén DJVU cải thiện cấu trúc hiệu quả của các tệp DjVu, thường được sử dụng cho tài liệu quét, sách điện tử và nội dung lưu trữ. Tối ưu hóa các tệp DJVU giúp giảm kích thước, cải thiện tốc độ tải và đảm bảo chất lượng hiển thị cao cho các trang chứa nhiều văn bản và hình ảnh.
+
+
+
+API Python cho phép tự động hóa việc nén DJVU, tối ưu hóa các lớp quét và quản lý thư viện lớn tài liệu số hóa với yêu cầu lưu trữ tối thiểu và hiệu suất xử lý cao.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Thư Viện Tài Liệu Số Hóa**  
+
+&nbsp; Nén các bộ sưu tập lớn của các tài liệu quét để tiết kiệm không gian và cải thiện hiệu suất truy cập.
+
+
+
+* **Phân Phối Sách Điện Tử \& Nghiên Cứu**  
+
+&nbsp; Các tệp DJVU nhỏ tải nhanh hơn và chuyển tải hiệu quả hơn trên các nền tảng học thuật.
+
+
+
+* **Tối Ưu Hóa Hình Ảnh Quét**  
+
+&nbsp; Nâng cao khả năng đọc và giảm kích thước mà không ảnh hưởng đến chi tiết hình ảnh cần thiết.
+
+
+
+* **Lưu Trữ Dài Hạn**  
+
+&nbsp; Cung cấp bảo quản hiệu quả cho tài liệu lịch sử và tham khảo.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén DJVU Hàng Loạt**  
+
+&nbsp; Tự động giảm kích thước tệp cho các bộ sưu tập tài liệu quét hoặc số hóa.
+
+
+
+* **Tối Ưu Hóa Theo Lớp**  
+
+&nbsp; Tự động hóa có thể nén chọn lọc văn bản nền, cấu trúc nền hoặc hình ảnh nhúng.
+
+
+
+* **Nén Khi Nhận Dữ Liệu**  
+
+&nbsp; Các tệp DJVU có thể được nén ngay lập tức sau khi tải lên các hệ thống lưu trữ hoặc tài liệu.
+
+
+
+* **Chuyển Đổi + Đường Ống Nén**  
+
+&nbsp; Chuyển đổi PDF hoặc TIFF sang DJVU trong khi áp dụng các quy tắc tự động giảm kích thước.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi SVG berfokus pada mengoptimalkan file grafis vektor berbasis XML, mengurangi ukuran file sambil mempertahankan skalabilitas, kualitas, dan kemampuan untuk diedit. Kompresi SVG yang efisien meningkatkan kecepatan muat, kinerja rendering, dan penyimpanan untuk alur kerja desain web, UI, dan digital.
+
+
+
+API Python memungkinkan kompresi SVG otomatis, minimasi, dan pemrosesan berkelompok, mendukung pipa kerja yang dapat diskalakan untuk pengembangan web, aset grafis, dan sistem manajemen konten.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Kinerja Web**  
+
+  Compressed SVG files load faster on websites and applications.
+
+
+
+* **Efisiensi Desain UI/UX**  
+
+  SVG yang lebih kecil meningkatkan kecepatan rendering dan responsifitas dalam antarmuka.
+
+
+
+* **Manajemen Aset Digital**  
+
+  Koleksi SVG yang dioptimalkan lebih mudah disimpan, diatur, dan diambil.
+
+
+
+* **Pengiriman lintas Platform**  
+
+  File SVG yang terkompresi mempertahankan kualitas dan skalabilitas di berbagai perangkat dan browser.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi SVG Berkelompok**  
+
+  Otomatisasi optimisasi beberapa file SVG secara masif.
+
+
+
+* **Minimasi dan Pembersihan**  
+
+  Hapus metadata yang berlebihan, komentar, dan spasi secara otomatis.
+
+
+
+* **Integrasi Alur Kerja**  
+
+  Kompresi SVG secara otomatis saat diunggah ke CMS, DAM, atau platform web.
+
+
+
+* **Aturan Optimisasi Dinamis**  
+
+  Sesuaikan kompresi berdasarkan kompleksitas, jumlah node, atau persyaratan rendering.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يقوم ضغط PCL (لغة أوامر الطابعة) بتحسين المستندات جاهزة للطباعة عن طريق تقليل الحجم مع الحفاظ على دقة الطباعة. تحسين ملفات PCL المضغوطة يعزز كفاءة التخزين وسرعة النقل والأداء في سير الطباعة.
+
+
+
+تمكن واجهات برمجة التطبيقات بايثون من ضغط PCL تلقائيًا، ومعالجة الدفعات، والتحويل لخطوط الطباعة القابلة للتوسيع وأنابيب إدارة المستندات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين وظيفة الطباعة**  
+
+&nbsp; تقليل حجم ملفات PCL يقلل من أوقات الانتظار ويحسن سرعة الطباعة.
+
+
+
+* **الأرشفة والتخزين**  
+
+&nbsp; توفير مساحة تخزين لأرشيفات الطباعة الكبيرة من خلال ملفات PCL المضغوطة.
+
+
+
+* **توزيع المستندات جاهزة للطباعة**  
+
+&nbsp; تنقل الملفات المحسنة بسرعة أكبر عبر الشبكات أو خوادم الطباعة.
+
+
+
+* **كفاءة سير العمل**  
+
+&nbsp; يعزز الأداء في أنظمة الطباعة التلقائية.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط دفعات PCL**  
+
+&nbsp; أتمم تحسين ملفات الطباعة المتعددة تلقائيًا.
+
+
+
+* **تحسين الأصول المضمنة**  
+
+&nbsp; ضغط الخطوط، والصور، والرسومات داخل ملفات PCL تلقائيًا.
+
+
+
+* **التكامل مع أنابيب الطباعة**  
+
+&nbsp; ضغط ملفات PCL بشكل ديناميكي قبل الطباعة أو الأرشفة.
+
+
+
+* **قواعد الضغط الديناميكية**  
+
+&nbsp; ضبط التحسين بناءً على تعقيد المستند أو نوع المحتوى.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

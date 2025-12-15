@@ -70,7 +70,67 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La comparaison DOTM examine les changements au niveau du modèle dans les documents qui incluent des macros, assurant ainsi une cohérence dans la structure visuelle et la logique d'automatisation intégrée. Cela protège les organisations contre les altérations au niveau des macros cachées.
+
+
+
+La comparaison automatisée permet une surveillance continue de l'intégrité du modèle et des mises à jour des macros à travers de vastes systèmes de documentation.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+- **Validation du modèle de macro**  
+  Vérifie les changements dans les scripts et la logique intégrés.
+
+
+
+- **Contrôle du modèle axé sur la conformité**  
+  Garantit que tous les modèles partagés respectent les normes requises.
+
+
+
+- **Suivi du modèle prêt pour l'audit**  
+  Maintient un historique des versions fiable pour les flux de travail réglementés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+- **Alertes de changement basées sur les macros**  
+  Identifie automatiquement les modifications apportées aux macros intégrées.
+
+
+
+- **Surveillance des modèles d'entreprise**  
+  Compare les modèles à grande échelle au sein des écosystèmes documentaires.
+
+
+
+- **Vérifications de déploiement automatisées**  
+  Vérifie la cohérence du modèle avant sa distribution.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -43,9 +43,77 @@ Pro vývojáře, který se snaží vytvářet soubory DOCM prostřednictvím apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM — Soubory `.docm` podporují vestavěné makra a jsou ideální, když dokumenty musí obsahovat programovatelné chování; Pythonové API mohou vytvářet dokumenty s makry tím, že sestavují obsah OOXML a připojují podepsané nebo nepodepsané projekty VBA pomocí automatizace. Programatické vytváření zajišťuje konzistentní balení maker a umožňuje ověření nebo podepsání jako součást sestavení.
+
+Použití DOCM je vhodné, když obchodní logika (vlastní pole, tlačítka pro export nebo makra pro sběr dat) musí být uvnitř dokumentu; automatizace umožňuje vkládání, testování a řízení obsahu maker, aby byly splněny bezpečnostní a dodržovací kontroly.
+
+Automatizované testy a procesy CI mohou zajistit integritu kódu maker a podepsat makra před distribucí.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Automatizace vestavěná do dokumentu**
+
+&nbsp; Distribuujte soubory DOCM, které spouští schválená makra pro strukturovaný sběr dat nebo lokální transformace.
+
+
+
+* **Řízené nasazení maker**
+
+&nbsp; Vložte ověřené moduly VBA do dokumentů během sestavení pro regulované chování maker.
+
+
+
+* **Šablony s makry**
+
+&nbsp; Použijte šablony DOTM jako zdroje pro vytváření dokumentů DOCM s předem připravenou automatizací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **CI ověření maker**
+
+&nbsp; Automaticky spouštějte statickou analýzu kódu VBA a blokujte sestavení při porušení politik.
+
+
+
+* **Podepisování a balení**
+
+&nbsp; Automatizujte digitální podepisování maker a balení souborů DOCM pro bezpečnou distribuci.
+
+
+
+* **Vložení maker ze zabezpečených repozitářů**
+
+&nbsp; Stáhněte schválené úryvky kódu VBA ze zabezpečeného repozitáře a vložte je do generovaných souborů DOCM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

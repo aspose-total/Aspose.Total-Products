@@ -78,7 +78,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tệp XLTX (mẫu Excel hiện đại) được nén để lưu trữ tối ưu hóa và chia sẻ nhanh hơn, bảo tồn tất cả định dạng và công thức.
+
+
+
+API Python cho phép nén XLTX tự động, cải thiện hiệu quả quy trình làm việc và tích hợp với hệ thống quản lý tài liệu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Lưu Trữ Mẫu**  
+
+  &nbsp; Nén các mẫu XLTX trong khi vẫn giữ nguyên tính năng đầy đủ.
+
+
+
+* **Chia Sẻ Mẫu Nhanh Chóng**  
+
+  &nbsp; Tệp nhỏ giúp phân phối và hợp tác nhanh hơn.
+
+
+
+* **Lưu Trữ Tự Động**  
+
+  &nbsp; Nén giúp quản lý lưu trữ dài hạn đơn giản hơn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Batch XLTX**  
+
+  &nbsp; Kịch bản Python tự động hóa việc nén nhiều mẫu.
+
+
+
+* **Tích Hợp với Hệ Thống Quy Trình Làm Việc**  
+
+  &nbsp; Các mẫu nén có thể được tải vào các đường ống tự động.
+
+
+
+* **Nén Thông Minh**  
+
+  &nbsp; Quy tắc điều kiện cho phép nhắm mục tiêu các mẫu có tập dữ liệu lớn hoặc phương tiện nhúng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

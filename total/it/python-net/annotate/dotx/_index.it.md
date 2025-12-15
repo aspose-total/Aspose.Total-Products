@@ -75,7 +75,65 @@ Per maggiori dettagli fare riferimento a [Documentazione del prodotto](https://d
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+L'annotazione DOTX amplia l'usabilità del modello incorporando commenti, istruzioni e metadati nei modelli Word non basati su macro. Ciò migliora l'accuratezza del documento e guida gli utenti nella creazione di contenuti strutturati.  
+
+L'automazione dell'annotazione DOTX accelera gli aggiornamenti dei modelli e garantisce coerenza nei flussi di lavoro della documentazione.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Percorsi guidati del modello**  
+
+&nbsp; Aggiungi note per lo scopo di ciascuna sezione.
+
+* **Guida alla formattazione**  
+
+&nbsp; Evidenzia le regole per intestazioni, elenchi o tabelle.
+
+* **Prevenzione degli errori**  
+
+&nbsp; Segna le aree in cui gli utenti commettono spesso errori.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+
+
+* **Annotazione basata su regole**  
+
+&nbsp; Inserisci istruzioni standardizzate in modo programmato.
+
+* **Manutenzione bulk dei modelli**  
+
+&nbsp; Aggiorna le annotazioni su più modelli.
+
+* **Integrazione dinamica delle policy**  
+
+&nbsp; Aggiungi orientamenti sulla conformità tramite pipeline automatizzate.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

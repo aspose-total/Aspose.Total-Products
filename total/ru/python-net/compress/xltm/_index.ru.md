@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Файлы XLTM (шаблоны с включенными макросами) требуют сжатия, которое сохраняет макросы, уменьшая размер файла и улучшая распространение.
+
+
+
+Автоматизация на основе Python поддерживает масштабируемое сжатие шаблонов XLTM для корпоративных рабочих процессов.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Сохранение макросов**  
+
+&nbsp; Сохранение макросов при сжатии шаблонов XLTM.
+
+
+
+* **Эффективное совместное использование**  
+
+&nbsp; Более компактные шаблоны способствуют сотрудничеству между командами.
+
+
+
+* **Архивирование шаблонов**  
+
+&nbsp; Автоматизированное сжатие улучшает хранение шаблонов в долгосрочной перспективе.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие XLTM**  
+
+&nbsp; Сценарии Python могут обрабатывать несколько шаблонов с включенными макросами автоматически.
+
+
+
+* **Интеграция с BI и системами рабочих процессов**  
+
+&nbsp; Сжатые шаблоны XLTM могут использоваться в автоматизированных конвейерах.
+
+
+
+* **Условное сжатие**  
+
+&nbsp; Направленное на большие шаблоны или те, которые содержат встроенные медиафайлы для сжатия.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

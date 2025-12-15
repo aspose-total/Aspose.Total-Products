@@ -78,7 +78,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLTX dosyaları (modern Excel şablonları), optimize edilmiş depolama ve daha hızlı paylaşım için sıkıştırmadan faydalanır, tüm biçimlendirmeyi ve formülleri korur.
+
+
+
+Python API'leri otomatik XLTX sıkıştırma imkanı sağlar, iş akışı verimliliğini artırır ve belge yönetim sistemleriyle entegrasyonu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Şablon Depolama Optimizasyonu**  
+
+&nbsp; Tüm işlevselliği koruyarak XLTX şablonlarını sıkıştırın.
+
+
+
+* **Hızlı Şablon Paylaşımı**  
+
+&nbsp; Daha küçük dosyalar hızlı dağıtım ve işbirliğini sağlar.
+
+
+
+* **Otomatik Arşivleme**  
+
+&nbsp; Sıkıştırma uzun vadeli depolama yönetimini basitleştirir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu XLTX Sıkıştırma**  
+
+&nbsp; Python betikleri birden fazla şablonun sıkıştırılmasını otomatikleştirir.
+
+
+
+* **İş Akışı Sistemleriyle Entegrasyon**  
+
+&nbsp; Sıkıştırılmış şablonlar otomatik borulamalara yüklenebilir.
+
+
+
+* **Akıllı Sıkıştırma**  
+
+&nbsp; Koşullu kurallar, büyük veri kümelerine veya gömülü ortamlara hedeflenen şablonlara izin verir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

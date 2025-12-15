@@ -100,7 +100,75 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Los archivos DOCM, que contienen macros, se benefician de la compresión para optimizar el almacenamiento mientras se preserva la funcionalidad de las macros y el formato.
+
+
+
+Utilizando APIs de Python, la compresión automatizada de archivos DOCM garantiza que las macros permanezcan intactas y agiliza el manejo de documentos en flujos de trabajo automatizados.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Almacenamiento seguro de macros**  
+
+&nbsp; Comprimir archivos DOCM sin romper las macros incrustadas.
+
+
+
+* **Compartir archivos más rápido**  
+
+&nbsp; Tamaños reducidos permiten adjuntos de correo electrónico rápidos y cargas en la nube.
+
+
+
+* **Gestión de archivos de archivo**  
+
+&nbsp; La compresión automatizada ayuda en el almacenamiento a largo plazo de documentos habilitados para macros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Compresión de documentos de macros por lotes**  
+
+&nbsp; Automatizar el procesamiento de múltiples archivos DOCM preservando la funcionalidad.
+
+
+
+* **Integración con la automatización de Office**  
+
+&nbsp; Los archivos comprimidos pueden ser gestionados en sistemas de flujo de trabajo o soluciones de gestión de documentos.
+
+
+
+* **Compresión condicional de macros**  
+
+&nbsp; Los scripts de Python pueden comprimir selectivamente archivos DOCM basados en tamaño o contenido.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

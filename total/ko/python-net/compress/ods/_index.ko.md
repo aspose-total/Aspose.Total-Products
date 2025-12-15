@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODS 압축은 OpenDocument 스프레드시트 파일을 최적화하여 크기를 줄이면서 수식, 차트 및 데이터 무결성을 보존합니다. 압축된 ODS 파일은 데이터가 많은 스프레드시트 작업에서 저장 공간, 전송 속도 및 성능을 향상시킵니다.
+
+
+
+Python API를 사용하면 자동화된 ODS 압축, 일괄 처리 및 변환을 통해 사무실, 분석 및 보고 시스템에서 확장 가능한 스프레드시트 관리가 가능합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **스프레드시트 저장 공간 최적화**  
+
+  &nbsp; 대규모 데이터 집합 및 워크북 컬렉션의 저장 공간을 줄입니다.
+
+
+
+* **보다 빠른 공유 및 협업**  
+
+  &nbsp; 작은 ODS 파일은 팀 간에 효율적으로 전송됩니다.
+
+
+
+* **보관 및 백업**  
+
+  &nbsp; 장기 저장을 위해 ODS 파일을 압축합니다.
+
+
+
+* **워크플로 효율성**  
+
+  &nbsp; 최적화된 스프레드시트는 응용 프로그램 및 파이프라인에서 더 빠르게 로드됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 ODS 압축**  
+
+  &nbsp; 여러 스프레드시트의 크기를 자동으로 줄입니다.
+
+
+
+* **데이터 및 차트 최적화**  
+
+  &nbsp; 내장된 차트, 피벗 테이블 및 수식을 자동으로 압축합니다.
+
+
+
+* **DAM 또는 클라우드 시스템 통합**  
+
+  &nbsp; 업로드 또는 백업 중에 압축을 자동화합니다.
+
+
+
+* **동적 압축 규칙**  
+
+  &nbsp; 데이터 집합 크기, 수식 복잡성 또는 내장된 객체에 따라 최적화를 조정합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

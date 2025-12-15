@@ -43,9 +43,81 @@ informat: DOC
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTX — `.dotx` 是不含宏的模板（OOXML），非常适合安全模板分发和确定性文档生成。Python API 可以生成带有样式、内容控件和内容占位符的 DOTX 模板，实现强大的无宏模板化，适用于自动化系统。
+
+
+
+DOTX 适用于禁止宏的安全环境，但仍需要一致的模板和动态内容填充。自动化使得安全、可扩展的模板化和生成 DOCX 实例成为可能，而无需嵌入可执行代码。
+
+
+
+编程模板生成支持基于模式的占位符、内容控件和模板验证。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **安全模板交付**
+
+  创建不含宏的 DOTX 模板，以在安全环境中广泛分发。
+
+
+
+* **表单和内容控件模板**
+
+  为下游自动化构建带有内容控件的 DOTX 模板。
+
+
+
+* **基于模板的文档组装**
+
+  使用 DOTX 模板作为程序化文档创建的权威来源。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **安全模板流水线**
+
+  自动化 DOTX 生成，并执行防止包含宏的策略。
+
+
+
+* **模板验证作业**
+
+  运行自动化检查，确保占位符和样式符合模式预期。
+
+
+
+* **API 驱动的模板使用**
+
+  通过内部 API 提供 DOTX 模板，实现按需生成 DOCX。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

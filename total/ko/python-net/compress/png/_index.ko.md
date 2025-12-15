@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PNG 압축은 투명도, 선명도 및 색상 충실도를 유지하면서 무손실 래스터 이미지를 최적화하는 데 초점을 맞춥니다. 이는 웹 그래픽, UI 디자인 및 명확성과 정확성이 중요한 고화질 이미지에 중요합니다.
+
+
+
+Python API를 사용하면 자동 PNG 압축, 일괄 처리 및 변환을 통해 대량 이미지 저장소를 효율적으로 관리하고 웹, 앱 및 콘텐츠 파이프라인에 통합하는 것이 더 쉬워집니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **웹 및 앱 그래픽 최적화**  
+
+  압축된 PNG는 고화질 시각적 효과를 유지하면서 로드 속도를 향상시킵니다.
+
+
+
+* **UI/UX 자산 관리**  
+
+  작은 PNG 파일은 저장 공간을 줄이고 인터페이스의 빠른 렌더링을 보장합니다.
+
+
+
+* **디지털 출판**  
+
+  전자책 및 문서의 차트, 다이어그램 및 일러스트레이션의 명확성을 유지합니다.
+
+
+
+* **아카이브 및 클라우드 저장 효율성**  
+
+  대규모 저장을 지원하면서 이미지 품질을 유지하는 파일 크기를 줄입니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 PNG 압축**  
+
+  Python 스크립트를 사용하여 여러 PNG 파일을 자동화된 프로세스로 최적화할 수 있습니다.
+
+
+
+* **투명도 보존 최적화**  
+
+  이미지를 압축하는 동안 알파 채널이 유지되도록 보장합니다.
+
+
+
+* **워크플로 통합**  
+
+  CMS, DAM 또는 클라우드 시스템에 업로드할 때 자동으로 PNG를 압축합니다.
+
+
+
+* **동적 해상도 조정**  
+
+  압축은 이미지 크기나 사용 상황에 따라 적응할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

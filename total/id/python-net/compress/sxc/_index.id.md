@@ -78,7 +78,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File SXC (lembar kerja OpenOffice/StarOffice versi lama) mendapat manfaat dari kompresi untuk mengurangi penyimpanan dan memudahkan berbagi sambil mempertahankan rumus dan format.
+
+
+
+API Python memungkinkan kompresi SXC otomatis untuk menjaga efisiensi alur kerja di lingkungan legacy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Penggunaan Kunci" %}}
+
+
+
+* **Optimisasi Lembar Kerja Legacy**  
+
+  &nbsp; Kurangi ukuran file SXC tanpa memengaruhi rumus atau konten.
+
+
+
+* **Berbagi Lebih Cepat**  
+
+  &nbsp; File yang dikompresi meningkatkan kecepatan transfer di jaringan dan tim.
+
+
+
+* **Efisiensi Arsip**  
+
+  &nbsp; Kompresi otomatis mendukung penyimpanan jangka panjang lembar kerja legacy.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi SXC Massal**  
+
+  &nbsp; Skrip Python dapat mengompresi beberapa file SXC secara otomatis.
+
+
+
+* **Integrasi dengan Sistem DMS atau Cloud**  
+
+  &nbsp; File SXC yang dikompresi dapat diproses secara efisien dalam alur kerja.
+
+
+
+* **Kompresi Bersyarat**  
+
+  &nbsp; Otomatisasi dapat menargetkan file berdasarkan ukuran atau konten tertanam.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

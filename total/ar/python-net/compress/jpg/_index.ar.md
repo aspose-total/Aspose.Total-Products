@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+الضغط العام للصور يشير إلى تحسين ملفات الصور القائمة على البكسل لتقليل حجم الملف مع الحفاظ على جودة الصورة. هذا النهج ضروري لكفاءة التخزين ونقل أسرع وعرض سلس عبر البيئات الرقمية والتطبيقات وخطوط الإنتاج.
+
+
+
+تمكن واجهات برمجة التطبيقات بايثون من ضغط الصور تلقائيًا، ومعالجة الدفعات، وتحويل الصيغ، مما يدعم سير العمل القابل للتوسيع لإدارة الوسائط، وتسليم الويب، ومستودعات السحاب.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **أداء الويب والتطبيقات**  
+
+&nbsp; تحميل الصور المضغوطة بسرعة، مما يقلل من استخدام عرض النطاق الترددي ويحسن تجربة المستخدم.
+
+
+
+* **إدارة الأصول الرقمية**  
+
+&nbsp; تصبح الصور المحسنة أسهل في التخزين والتنظيم واسترجاعها من المكتبات الكبيرة.
+
+
+
+* **نشر المحتوى**  
+
+&nbsp; يحافظ على جودة الصورة مع تقليل حجم الملف للمنصات عبر الإنترنت.
+
+
+
+* **الأرشفة والنسخ الاحتياطي**  
+
+&nbsp; يقلل من متطلبات التخزين لمجموعات كبيرة من الصور القائمة على البكسل.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط الصور بالدفعات**  
+
+&nbsp; يمكن لنصوص بايثون تحسين مئات الملفات العامة للصور تلقائيًا.
+
+
+
+* **اختيار التنسيق الديناميكي**  
+
+&nbsp; يمكن للتشغيل التلقائي تحويل الصور إلى تنسيق مثالي JPG أثناء الضغط.
+
+
+
+* **تكامل سير العمل**  
+
+&nbsp; ضغط الصور تلقائيًا عند التحميل إلى نظام إدارة المحتوى، أو نظام إدارة الأصول الرقمية، أو منصات السحاب.
+
+
+
+* **ضغط استنادي إلى الدقة**  
+
+&nbsp; ضبط مستويات الضغط بشكل ديناميكي استنادًا إلى دقة الصورة، الأبعاد، أو الاستخدام.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

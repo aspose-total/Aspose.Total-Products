@@ -78,7 +78,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén MHT (MHTML Web Archive) giảm kích thước của các bản lưu trữ trang web, bao gồm HTML, hình ảnh, CSS và scripts được đóng gói vào một tệp duy nhất. Các tệp MHT được nén cải thiện hiệu quả lưu trữ, tăng tốc độ truyền tệp và dễ dàng lưu trữ nội dung web.
+
+
+
+API Python cho phép nén MHT tự động, xử lý hàng loạt và tích hợp với đường ống lưu trữ web, hỗ trợ quản lý có khả năng mở rộng của nội dung web ngoại tuyến.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Lưu Trữ Trang Web**  
+
+&nbsp; Nén các tệp MHT để tiết kiệm không gian lưu trữ cho các trang web đã lưu trữ.
+
+
+
+* **Phân Phối Nội Dung Ngoại Tuyến**  
+
+&nbsp; Các tệp MHT nhỏ giúp chia sẻ và tải xuống nhanh hơn.
+
+
+
+* **Quản Lý Thư Viện Số**  
+
+&nbsp; Lưu trữ hiệu quả các bộ sưu tập lớn của các bản lưu trữ trang web.
+
+
+
+* **Tối Ưu Hóa Quy Trình Làm Việc**  
+
+&nbsp; Các tệp được nén cải thiện tốc độ xử lý trong các hệ thống nội dung web.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén MHT Hàng Loạt**  
+
+&nbsp; Tự động giảm kích thước cho nhiều tệp lưu trữ web.
+
+
+
+* **Tối Ưu Hóa Nội Dung Nhúng**  
+
+&nbsp; Nén hình ảnh, scripts và styles tự động.
+
+
+
+* **Tích Hợp với DAM hoặc CMS**  
+
+&nbsp; Nén các tệp MHT trong quá trình tải lên hoặc lưu trữ.
+
+
+
+* **Quy Tắc Nén Động**  
+
+&nbsp; Điều chỉnh tối ưu hóa dựa trên độ phức tạp của trang và phương tiện nhúng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

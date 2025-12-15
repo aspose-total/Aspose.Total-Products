@@ -78,7 +78,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén CMX giảm kích thước đồ họa vector Corel Presentation Exchange, thường bao gồm các hình minh họa chi tiết, lớp và hồ sơ màu. Tối ưu hóa tệp CMX giúp cải thiện hiệu suất trong quy trình thiết kế, tăng tốc chia sẻ và giảm yêu cầu lưu trữ trên môi trường sáng tạo và kỹ thuật.
+
+
+
+API Python cho phép nén và chuyển đổi CMX tự động, đảm bảo xử lý hiệu quả các tài sản vector lớn theo quy mô cho hệ thống xuất bản, in ấn và quản lý đồ họa.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Dự Án Thiết Kế**  
+
+&nbsp; Nén đồ họa CMX theo lớp để tối ưu hóa xử lý tệp và giảm ảnh hưởng đến lưu trữ.
+
+
+
+* **Quy Trình Xuất Bản \& In Ấn**  
+
+&nbsp; Tệp CMX nhỏ giúp tăng tốc quá trình hiển thị, chỉnh sửa và chuyển giao.
+
+
+
+* **Quản Lý Thư Viện Tài Nguyên**  
+
+&nbsp; Bộ sưu tập CMX được tối ưu hóa tải nhanh hơn trong các kho lưu trữ tài nguyên số.
+
+
+
+* **Trao Đổi Đa Nền Tảng**  
+
+&nbsp; Tệp CMX nén chuyển giao hiệu quả hơn giữa các nhóm thiết kế hoặc ứng dụng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén CMX Theo Lô**  
+
+&nbsp; Tự động tối ưu hóa các tập hợp lớn đồ họa CMX với quy trình làm việc Python.
+
+
+
+* **Chuyển Đổi CMX Sang Định Dạng Nén**  
+
+&nbsp; Chuyển đổi CMX thành SVG, PDF, PNG hoặc EPS trong khi áp dụng các quy tắc nén.
+
+
+
+* **Tối Ưu Hóa Tải Lên Tự Động**  
+
+&nbsp; Tệp CMX có thể được nén ngay lập tức khi được nhập vào hệ thống DMS hoặc DAM.
+
+
+
+* **Nén Có Ý Thức Về Nội Dung**  
+
+&nbsp; Điều chỉnh cường độ tối ưu hóa dựa trên độ phức tạp của vector hoặc các thành phần nhúng.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

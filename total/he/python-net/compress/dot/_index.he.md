@@ -98,7 +98,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+קבצי DOT הם תבניות Word שמשתמשות בדחיסה כדי לחסוך מקום ולשפר את יעילות ההפצה בין מערכות.
+
+
+
+דחיסה המבוססת על פי Python יכולה לאוטומטיזציה את אופטימיזציית קבצי DOT מבלי להשפיע על מבנה התבנית או העיצוב.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **אופטימיזצית אחסון תבניות**  
+
+&nbsp; דחיסת תבניות DOT לאחסון מקומי או בענן ביעילות.
+
+
+
+* **שיתוף תבניות**  
+
+&nbsp; גודל קובץ ממוצע משפר את מהירות ההפצה לשיתוף פעולה בצוות.
+
+
+
+* **ארכיבת תבניות**  
+
+&nbsp; דחיסה אוטומטית תומכת בניהול תבניות ארוכת טווח.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **דחיסת תבניות רצפות**  
+
+&nbsp; סקריפטים ב-Python יכולים לדחוס מרובות קבצי DOT באופן אוטומטי.
+
+
+
+* **אינטגרציה עם מערכות זריזות**  
+
+&nbsp; תבניות דחוסות יכולות להיטענות דינמית לתהליכי עבודה אוטומטיים.
+
+
+
+* **דחיסה בררתית**  
+
+&nbsp; אוטומציה יכולה לדחוס רק תבניות גדולות או אלו עם אובייקטים מוטבעים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

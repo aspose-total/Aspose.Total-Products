@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DJVUの圧縮は、スキャンされた文書、デジタル書籍、アーカイブコンテンツに一般的に使用されるDjVuファイルの効率的な構造をさらに向上させます。DJVUファイルを最適化することで、サイズをさらに削減し、読み込み速度を向上させ、テキスト重視や画像豊富なページの高品質なレンダリングを確保します。
+
+
+
+PythonのAPIを使用すると、DJVUの圧縮を自動化し、スキャンされたレイヤーを最適化し、最小限のストレージ要件と高い処理効率で大量のデジタル化された文書ライブラリを管理することが可能です。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+
+
+* **デジタル化された文書ライブラリ**  
+
+&nbsp; 大規模なスキャンアーカイブを圧縮してスペースを節約し、アクセス性能を向上させます。
+
+
+
+* **電子書籍＆研究配布**  
+
+&nbsp; より小さなDJVUファイルは高速に読み込まれ、学術プラットフォーム間で効率的に転送されます。
+
+
+
+* **スキャンされた画像の最適化**  
+
+&nbsp; 必要な視覚的詳細を損なうことなく、読みやすさを向上させ、サイズを削減します。
+
+
+
+* **長期保存**  
+
+&nbsp; 歴史的および参照資料のためのストレージ効率の高い保存を提供します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **大量のDJVU圧縮**  
+
+&nbsp; スキャンされたまたはデジタル化された文書のコレクションのファイルサイズを自動的に削減します。
+
+
+
+* **レイヤーに配慮した最適化**  
+
+&nbsp; 自動化により、前景テキスト、背景テクスチャ、埋め込み画像を選択的に圧縮できます。
+
+
+
+* **ワークフローインジェスト圧縮**  
+
+&nbsp; DJVUファイルは、アーカイブや文書システムへのアップロード時に即座に圧縮できます。
+
+
+
+* **変換+圧縮パイプライン**  
+
+&nbsp; PDFまたはTIFFをDJVUに変換しながら自動的なサイズ削減ルールを適用します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

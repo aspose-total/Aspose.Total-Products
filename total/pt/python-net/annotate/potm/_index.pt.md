@@ -75,7 +75,65 @@ Para obter mais detalhes, consulte [Documentação do Produto](https://docs.aspo
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A anotação POTM melhora os modelos de apresentação com macros, adicionando notas que esclarecem a lógica dos slides, instruções de layout e comportamento da macro. Isso aprimora a usabilidade do modelo e garante a geração consistente de apresentações.
+
+Automatizar a anotação POTM facilita o rastreamento do uso de macros, a aplicação de políticas de layout e a atualização de orientações de forma programática.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Notas de Lógica da Macro**  
+
+  Descreva as funções automatizadas dos slides.
+
+* **Orientação do Modelo**  
+
+  Forneça instruções para o conteúdo dos slides.
+
+* **Marcadores de Consistência de Design**  
+
+  Destaque os elementos de layout necessários.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Digitalização e Anotação de Macros**  
+
+  Documente automaticamente os scripts detectados.
+
+* **Manutenção em Lote de Modelos**  
+
+  Aplique automaticamente textos de orientação atualizados.
+
+* **Validação Automatizada de Layout**  
+
+  Marque os slides não conformes de forma programática.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

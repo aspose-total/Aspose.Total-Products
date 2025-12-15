@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие PDF уменьшает размер файлов формата Portable Document Format, сохраняя текст, изображения, шрифты и векторную графику. Сжатые PDF улучшают эффективность хранения, быструю передачу и оптимизированное отображение на различных устройствах и платформах.
+
+
+
+API Python позволяют автоматизировать сжатие PDF, пакетную обработку и интеграцию в рабочие процессы для масштабного управления документами, архивирования и распространения.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Хранение и архивирование документов**  
+
+&nbsp; Сжимайте PDF для экономии места в цифровых библиотеках.
+
+
+
+* **Быстрая передача файлов**  
+
+&nbsp; Меньшие PDF быстро передаются по электронной почте или через облачные платформы.
+
+
+
+* **Печать и публикация**  
+
+&nbsp; Оптимизированные PDF быстрее загружаются и отображаются при печати и в цифровых рабочих процессах.
+
+
+
+* **Оптимизация доставки контента**  
+
+&nbsp; Улучшите пользовательский опыт для электронных книг, отчетов и руководств.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие PDF**  
+
+&nbsp; Автоматизируйте оптимизацию нескольких PDF файлов одновременно.
+
+
+
+* **Оптимизация изображений и шрифтов**  
+
+&nbsp; Автоматическое сжатие встроенных изображений и подмножеств шрифтов.
+
+
+
+* **Интеграция в рабочие процессы**  
+
+&nbsp; Сжимайте PDF динамически во время загрузки в системы управления контентом, DAM или архивные системы.
+
+
+
+* **Динамические правила сжатия**  
+
+&nbsp; Настройте сжатие в зависимости от размера документа, типа содержимого или целевого устройства.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,65 @@ DOCM 注釈アプリまたはユーティリティを開発する必要があり
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM注釈を使用すると、マクロが有効化されたWord文書にノート、ハイライト、およびメタデータを追加でき、動的スクリプトや埋め込み自動化を必要とするワークフローをサポートします。これにより、ユーザーはロジックを文書化し、変更履歴を追跡し、マクロの動作に関する明確さを維持できます。
+
+プログラムによるDOCMファイルの注釈付けにより、自動化システムはマクロの使用状況を監視し、文書化の一貫性を向上させ、検証プロセスを効率化できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用事例" %}}
+
+
+
+* **マクロの文書化**
+
+&nbsp; ドキュメント内でマクロによるアクションをラベル付けして説明します。
+
+* **コンプライアンスの追跡**
+
+&nbsp; 必要なスクリプトや検証を確認するノートを追加します。
+
+* **変更ログ**
+
+&nbsp; マクロ関連の更新を可視化するためにハイライト表示します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **マクロのスキャンと注釈付け**
+
+&nbsp; 検出されたマクロ関数を説明するコメントを自動的に挿入します。
+
+* **動的コンプライアンスレポート**
+
+&nbsp; マクロが特定のチェックを満たすかどうかに応じて注釈を追加します。
+
+* **スクリプトベースのレビューツール**
+
+&nbsp; Pythonを使用して規模化された構造化された注釈を適用します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -75,7 +75,65 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Anotacja PPSM zapewnia strukturalne notatki dla plików prezentacji z makrami, pomagając udokumentować zachowanie skryptu i poprawiając przejrzystość podczas przeglądu. Ułatwia to zrozumienie zautomatyzowanych przejść lub dynamicznych interakcji slajdów.
+
+Automatyczna adnotacja poprawia audytowanie poprzez skanowanie makr, identyfikację wzorców logicznych i wstawianie opisowych notatek.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Dokumentacja zachowania makr**  
+
+&nbsp; Dodaj notatki opisujące zautomatyzowane działania slajdów.
+
+* **Komentarze do przeglądu**  
+
+&nbsp; Udzielaj rekomendacji dotyczących treści lub układu.
+
+* **Widoczność logiki**  
+
+&nbsp; Podkreśl obszary wpływane przez wyzwalacze makr.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Analizator makr**  
+
+&nbsp; Automatycznie skanuj i komentuj wykryte skrypty.
+
+* **Notatki oparte na szablonach**  
+
+&nbsp; Wstawiaj predefiniowane adnotacje w różnych plikach.
+
+* **Automatyczne tagi QA**  
+
+&nbsp; Oznaczaj ryzykowną lub przestarzałą logikę makr.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

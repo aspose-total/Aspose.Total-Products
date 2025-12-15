@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Powerpoint PPT PP
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+הערת ODP משפרת קבצי המצגת בפורמט פתוח עם הערות, הדגשות ומטה-נתונים מבניים, תומכת בתקשורת ברורה ובארגון השקפים המשופר. היא מבטיחה שהמצגות יהיו קלות יותר לפרש, לערוך ולשקף מחדש בין פלטפורמות שונות.
+
+האוטומציה של הערת ODP מאפשרת למערכות ליישם הערות תקניות, לאמת מבנה שקפים ולזרוק את תהליך ביקורת המצגות בקנה מידה.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **הערות לבדיקת השקפים**  
+
+&nbsp; הוסף הערות המסבירות תיקונים או שינויים נדרשים.
+
+* **הדגשת תוכן**  
+
+&nbsp; סמן נקודות נתונים מרכזיות או בעיות עיצוב.
+
+* **סימון מטה-נתונים**  
+
+&nbsp; הכנס פרטי סיווג לצורך אינדוקסציה טובה יותר.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **הערת שקפים בצמיד**  
+
+&nbsp; הכנס הערות באופן אוטומטי במספר קבצי ODP.
+
+* **בדיקות תאימות לתבנית**  
+
+&nbsp; הדגש שקפים שסותרים את כללי הפריסה.
+
+* **סימון על בסיס מילות מפתח**  
+
+&nbsp; זהה ומסמן מונחים חשובים באופן תכנותי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

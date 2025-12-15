@@ -78,7 +78,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLS dosyalarının sıkıştırılması depolamayı azaltır ve eski Excel çalışma kitaplarının paylaşımını hızlandırırken formülleri, grafikleri ve biçimlendirmeyi korur.
+
+
+
+Python tabanlı otomasyon, XLS dosyalarının toplu sıkıştırılmasını sağlayarak ölçeklenebilir veri yönetimini ve iş akışı verimliliğini sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Eski Çalışma Kitabı Optimizasyonu**  
+
+&nbsp; Formülleri veya veri bütünlüğünü etkilemeden XLS dosya boyutlarını azaltın.
+
+
+
+* **Daha Hızlı Paylaşım**  
+
+&nbsp; Daha küçük XLS dosyaları e-posta ve bulut dağıtım hızını artırır.
+
+
+
+* **Arşivleme Verimliliği**  
+
+&nbsp; Otomatik sıkıştırma, eski Excel dosyalarının uzun vadeli depolanmasını basitleştirir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu XLS Sıkıştırma**  
+
+&nbsp; Python betikleri birden fazla XLS dosyasını tek bir işlemde sıkıştırabilir.
+
+
+
+* **İş Akışı Sistemleriyle Entegrasyon**  
+
+&nbsp; Sıkıştırılmış XLS dosyaları otomatik boru hatlarına veya DMS'e yüklenebilir.
+
+
+
+* **Koşullu Sıkıştırma**  
+
+&nbsp; Büyük veri kümelerine veya gömülü ortamlara sahip XLS dosyalarını hedefleyin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

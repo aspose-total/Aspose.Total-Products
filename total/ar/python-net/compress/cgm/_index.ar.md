@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تركز ضغط CGM على تقليل حجم الرسومات الناقلة التقنية المستخدمة في الهندسة والفضاء والوثائق العلمية. نظرًا لأن ملفات CGM يمكن أن تحتوي على رسوم بيانية معقدة ورسومات ثنائية / ثلاثية الأبعاد وبيانات فوقية، يعمل الضغط على تحسين كفاءة التعامل معها مع الحفاظ على دقة الهيكل.
+
+
+
+تمكن واجهات برمجة التطبيقات في Python من تحسين وتحويل ملفات CGM تلقائيًا، داعمة لسير العمل القابلة للتوسيع لأنظمة الوثائق وأنابيب CAD ومستودعات الرسومات على مستوى المؤسسات.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **إدارة الوثائق التقنية**  
+
+&nbsp; يحسن ضغط ملفات CGM أوقات التحميل ويقلل من استهلاك التخزين.
+
+
+
+* **تحسين سير العمل الهندسي وCAD**  
+
+&nbsp; تساعد الأصول الصغيرة CGM في تسريع دورات المراجعة والتبادل والمعالجة.
+
+
+
+* **مكتبات الرسومات على نطاق واسع**  
+
+&nbsp; يحافظ الضغط الفعال على خفة مكتبات الرسومات العلمية أو الصناعية.
+
+
+
+* **التوافق بين الأنظمة**  
+
+&nbsp; تنتقل ملفات CGM المضغوطة بشكل أسرع بين منصات الهندسة والنشر.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط CGM بالجملة**  
+
+&nbsp; يقوم بتحسين الأمور تلقائيًا لمجموعات كبيرة من الرسومات التقنية.
+
+
+
+* **تحويل CGM مع ضغط**  
+
+&nbsp; قم بتحويل CGM إلى SVG أو PDF أو PNG مع تطبيق قواعد ضغط فعالة.
+
+
+
+* **أنابيب الاستيعاب التلقائي**  
+
+&nbsp; ضغط الملفات بشكل ديناميكي عند تحميلها إلى أنظمة إدارة الوثائق أو بوابات CAD.
+
+
+
+* **منطق ضغط القائم على المحتوى**  
+
+&nbsp; يعدل الضغط استنادًا إلى كثافة الخطوط أو الطبقات أو البيانات الفوقية المضمنة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

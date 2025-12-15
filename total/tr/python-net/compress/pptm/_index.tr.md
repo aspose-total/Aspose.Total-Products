@@ -101,7 +101,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTM dosyaları (makro etkin sunumlar), paylaşım ve depolama için dosya boyutunu azaltırken makroları koruyan sıkıştırmadan faydalanır.
+
+
+
+Python API'leri, kurumsal iş akışları için makro işlevselliğini koruyarak otomatik PPTM sıkıştırmasına izin verir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Makro Koruma**  
+
+&nbsp; Gömülü makroları bozmadan PPTM dosyalarını sıkıştırın.
+
+
+
+* **Daha Hızlı İş Birliği**  
+
+&nbsp; Daha küçük makro etkin dosyalar, takım paylaşımını ve bulut yüklemelerini kolaylaştırır.
+
+
+
+* **Otomatik Arşivleme**  
+
+&nbsp; Sıkıştırma, makrolu sunumların verimli uzun vadeli depolanmasını sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu PPTM Sıkıştırma**  
+
+&nbsp; Python betikleri otomatik olarak birden fazla makro etkin dosyayı işleyebilir.
+
+
+
+* **İş Akışı Sistemleriyle Entegrasyon**  
+
+&nbsp; Sıkıştırılmış PPTM dosyaları otomatik belge iş akışlarında kullanılabilir.
+
+
+
+* **Koşullu Sıkıştırma**  
+
+&nbsp; Otomasyon, büyük medya veya karmaşık makrolara sahip dosyaları hedefleyebilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

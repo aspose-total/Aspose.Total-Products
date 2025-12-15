@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การบีเอ็มพี (BMP) ช่วยลดขนาดของไฟล์ต้นฉบับ LaTeX ซึ่งมักจะประกอบไปด้วยการทำซ้ำของ markup, ความคิดเห็น หรือคำสั่งการจัดรูปแบบ การปรับ TEX files จะเพิ่มประสิทธิภาพในการจัดเก็บ การคอมไพล์เร็วขึ้น และการทำงานร่วมกันที่ดีขึ้นในงานวิชาการ การพิมพ์ และการทำงานทางวิทยาศาสตร์
+
+
+
+Python APIs ช่วยให้การบีเอ็มพี (BMP) อัตโนมัติ การประมวลผลเป็นชุด และการรวมระบบสร้างเอกสารสำหรับการทำงาน LaTeX ที่มีขนาดใหญ่ได้
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **เอกสารทางวิชาการและวิจัย**  
+
+&nbsp; ลดขนาดของ LaTeX sources สำหรับเอกสารขนาดใหญ่ เช่น งานวิจัย วิทยานิพนธ์ และดุภาพ
+
+
+
+* **กระบวนการทำงานในการพิมพ์**  
+
+&nbsp; ไฟล์ TEX ที่ถูกบีเอ็มพี (BMP) ช่วยให้กระบวนการคอมไพล์และกระจายได้รวดเร็วขึ้น
+
+
+
+* **การควบคุมเวอร์ชันและการทำงานร่วมกัน**  
+
+&nbsp; ไฟล์ขนาดเล็กช่วยเพิ่มประสิทธิภาพในการจัดเก็บและการแก้ไขร่วมกัน
+
+
+
+* **การเก็บข้อมูลสำรองและสำรองข้อมูล**  
+
+&nbsp; ไฟล์ TEX ที่ถูกปรับให้เหมาะสมช่วยลดพื้นที่เก็บข้อมูลสำหรับเนื้อหาทางวิชาการในอดีต
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การบีเอ็มพี (BMP) ชุดการบีเอ็มพี (BMP) อัตโนมัติ**  
+
+&nbsp; ทำให้การลดขนาดไฟล์เป็นไปอย่างอัตโนมัติสำหรับไฟล์ LaTeX หลายไฟล์
+
+
+
+* **การลบความคิดเห็นและคำสั่งที่ซ้ำซ้อน**  
+
+&nbsp; ลบ markup ที่ไม่จำเป็นหรือคำสั่งที่ทำซ้ำโดยอัตโนมัติ
+
+
+
+* **การรวมเวิร์กโฟลว์**  
+
+&nbsp; บีเอ็มพี (BMP) ช่วยให้ไฟล์ TEX ถูกบีเอ็มพี (BMP) เมื่ออัปโหลดไปยังระบบคอมไพล์หรือการพิมพ์อัตโนมัติ
+
+
+
+* **การแปลง + การบีเอ็มพี (BMP)**  
+
+&nbsp; แปลง TEX เป็น PDF หรือรูปแบบอื่นๆ พร้อมใช้กฎการบีเอ็มพี (BMP)
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

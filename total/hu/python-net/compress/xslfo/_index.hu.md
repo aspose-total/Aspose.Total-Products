@@ -78,7 +78,87 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XSL-FO tömörítés arra összpontosít, hogy csökkentse az Extensible Stylesheet Language Formatting Objects fájlok méretét, amelyek az XML dokumentumok oldal-elrendezését és formázását határozzák meg. Az XSL-FO optimalizálása javítja a feldolgozást, a megjelenítési sebességet és a tárolási hatékonyságot a dokumentumgenerálási folyamatokban.
+
+
+
+A Python API-k automatizált XSL-FO tömörítést tesznek lehetővé, tétel feldolgozást és integrációt PDF vagy nyomtatási csatornákkal a skálázható dokumentum-megjelenítési megoldásokhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Dokumentum Megjelenítési Optimalizálás**  
+
+&nbsp; A tömörített XSL-FO fájlok felgyorsítják a PDF generálást és a nyomtatási folyamatokat.
+
+
+
+* **Nagy Mennyiségű Dokumentumkezelés**  
+
+&nbsp; Csökkenti a tárolást a nagy mennyiségű formázott tartalom esetén.
+
+
+
+* **Archiválás és Biztonsági Mentés**  
+
+&nbsp; Az optimalizált XSL-FO fájlokat könnyebb hosszú távú megőrzésre tárolni.
+
+
+
+* **Munkafolyamat Integráció**  
+
+&nbsp; Növeli az hatékonyságot az automatizált kiadási csatornákban.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Tétel XSL-FO Tömörítés**  
+
+&nbsp; Automatizálja a méretcsökkentést több formázási fájl esetén.
+
+
+
+* **Szóközök és Felesleges Elemek Eltávolítása**  
+
+&nbsp; Automatikusan eltávolítja a felesleges formázási utasításokat.
+
+
+
+* **Integráció a Megjelenítési Csatornákkal**  
+
+&nbsp; Tömörítse a fájlokat a PDF vagy nyomtatott kimenetek előállítása előtt.
+
+
+
+* **Dinamikus Optimalizálás**  
+
+&nbsp; Állítsa be a tömörítési szinteket a dokumentum bonyolultsága vagy oldalszám alapján.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

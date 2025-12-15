@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+CDR 압축은 CorelDRAW 벡터 그래픽을 최적화하여 파일 크기를 줄이면서 모양, 레이어, 텍스트 및 디자인 구조를 보존하는 데 초점을 맞춥니다. CDR 파일에는 복잡한 벡터 객체와 포함된 미디어가 포함될 수 있기 때문에 압축은 프로젝트 처리, 저장 효율 및 디자인 워크플로우 성능을 향상시키는 데 중요합니다.
+
+
+
+Python API를 사용하면 CDR 파일의 자동 압축, 최적화 및 변환을 용이하게 할 수 있어 제작, 인쇄 및 디지털 콘텐츠 환경에서 그래픽 자산을 확장 가능하게 관리할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **그래픽 디자인 자산 최적화**  
+
+  압축하여 복잡한 벡터 디자인을 스트림라인하게 만들어 프로젝트 저장 및 공유를 용이하게 합니다.
+
+
+
+* **인쇄 제작 워크플로우**  
+
+  작은 CDR 파일은 인쇄 전 사전 처리 및 인쇄 처리 단계에서 성능을 향상시킵니다.
+
+
+
+* **버전별 파일 저장소**  
+
+  압축을 통해 대규모 디자인 아카이브를 가볍고 쉽게 관리할 수 있습니다.
+
+
+
+* **크로스 플랫폼 전달**  
+
+  파일 크기를 줄이면 디자인 팀, 도구 및 클라이언트 간의 전송 속도가 향상됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 CDR 압축**  
+
+  한 번에 수백 개의 CorelDRAW 파일에 대한 최적화를 자동화합니다.
+
+
+
+* **CDR을 최적화된 형식으로 변환**  
+
+  CDR을 SVG, PDF 또는 PNG로 변환하면서 압축 규칙을 적용합니다.
+
+
+
+* **디자인 파이프라인 통합**  
+
+  CMS, DAM 또는 워크플로 시스템에 업로드될 때 자산을 자동으로 압축합니다.
+
+
+
+* **적응형 압축 규칙**  
+
+  파일 복잡성이나 포함된 미디어에 따라 자동으로 압축 수준을 조정합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

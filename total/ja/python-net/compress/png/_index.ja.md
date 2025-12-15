@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PNG圧縮は、透過性、鮮明さ、色の忠実度を保持しながら、無損失ラスター画像を最適化することに焦点を当てています。これは、ウェブグラフィックス、UIデザイン、クオリティの高い画像において、明瞭さと正確さが重要な場合に重要です。
+
+
+
+Python APIを使用すると、PNGの自動圧縮、バッチ処理、変換が可能になり、大規模な画像リポジトリを効率的に管理し、ウェブ、アプリ、コンテンツパイプラインに統合することが容易になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* **ウェブおよびアプリグラフィックスの最適化**
+
+  &nbsp; 圧縮されたPNGは高品質の視覚効果を維持しながら読み込み速度を向上させます。
+
+
+
+* **UI/UXアセット管理**
+
+  &nbsp; より小さなPNGファイルはストレージを節約し、インターフェースの迅速なレンダリングを確保します。
+
+
+
+* **デジタルパブリッシング**
+
+  &nbsp; 電子書籍や文書のチャート、図表、イラストの明瞭さを維持します。
+
+
+
+* **アーカイブおよびクラウドストレージの効率化**
+
+  &nbsp; 大規模なストレージをサポートする画質を落とさずにファイルサイズを削減します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチPNG圧縮**
+
+  &nbsp; Pythonスクリプトを使用して複数のPNGファイルを自動化されたプロセスで最適化できます。
+
+
+
+* **透過性を保持した最適化**
+
+  &nbsp; 画像を圧縮する際にアルファチャンネルを保持します。
+
+
+
+* **ワークフロー統合**
+
+  &nbsp; CMS、DAM、またはクラウドシステムへのアップロード時にPNGを自動的に圧縮します。
+
+
+
+* **ダイナミック解像度調整**
+
+  &nbsp; 画像の寸法や使用コンテキストに基づいて圧縮を適応させることができます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

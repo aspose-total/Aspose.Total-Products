@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Аннотация DOTM нацеливается на макрос-включенные шаблоны Word, обеспечивая четкую документацию встроенных сценариев и логики шаблона. Это помогает поддерживать прозрачность вокруг автоматизированных функций и обеспечивает последовательное использование в командах.
+
+Автоматизированная аннотация DOTM позволяет системам сканировать макросы, обновлять заметки и применять правила шаблона в масштабе.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Примечания о поведении макросов**  
+
+  &nbsp; Объясните, как работают встроенные сценарии.
+
+* **Рекомендации по шаблону**  
+
+  &nbsp; Руководство пользователями по правильному использованию макросов.
+
+* **Отслеживание логики**  
+
+  &nbsp; Пометить секции, запускаемые макросом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Инструменты обнаружения макросов**  
+
+  &nbsp; Автоматическое добавление аннотаций для обнаруженных сценариев.
+
+* **Обновления шаблона на основе рабочего процесса**  
+
+  &nbsp; Добавление или изменение заметок динамически.
+
+* **Разметка контроля качества**  
+
+  &nbsp; Пометить рисковую или устаревшую логику макросов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

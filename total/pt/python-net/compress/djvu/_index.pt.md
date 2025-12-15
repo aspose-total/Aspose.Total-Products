@@ -78,7 +78,87 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/zip
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A compressão DJVU melhora a estrutura já eficiente dos arquivos DjVu, que são comumente usados para documentos digitalizados, livros digitais e conteúdo arquivado. A otimização dos arquivos DJVU reduz ainda mais o tamanho, melhora a velocidade de carregamento e garante uma renderização de alta qualidade para páginas com muito texto e imagens.
+
+
+
+As APIs do Python tornam possível automatizar a compressão DJVU, otimizar camadas digitalizadas e gerenciar grandes bibliotecas de documentos digitalizados com requisitos mínimos de armazenamento e alta eficiência de processamento.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Bibliotecas de Documentos Digitalizados**  
+
+  Comprime grandes arquivos digitalizados para economizar espaço e melhorar o desempenho de acesso.
+
+
+
+* **Distribuição de E-books e Pesquisas**  
+
+  Arquivos DJVU menores carregam mais rápido e transferem de forma mais eficiente em plataformas acadêmicas.
+
+
+
+* **Otimização de Imagens Digitalizadas**  
+
+  Melhora a legibilidade e reduz o tamanho sem comprometer detalhes visuais essenciais.
+
+
+
+* **Arquivamento de Longo Prazo**  
+
+  Oferece preservação eficiente de armazenamento para material histórico e de referência.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Massa de DJVU**  
+
+  Reduz automaticamente os tamanhos de arquivos para coleções de documentos digitalizados ou digitalizados.
+
+
+
+* **Otimização Consciente de Camadas**  
+
+  A automação pode comprimir seletivamente texto em primeiro plano, texturas de fundo ou imagens incorporadas.
+
+
+
+* **Compressão de Ingestão de Fluxo de Trabalho**  
+
+  Os arquivos DJVU podem ser comprimidos instantaneamente ao serem enviados para arquivos ou sistemas de documentos.
+
+
+
+* **Pipelines de Conversão + Compressão**  
+
+  Converta PDF ou TIFF para DJVU aplicando regras automatizadas de redução de tamanho.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

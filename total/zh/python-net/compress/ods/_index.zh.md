@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODS压缩优化OpenDocument电子表格文件，减小文件大小同时保留公式、图表和数据完整性。压缩的ODS文件提高了数据密集型电子表格工作流中的存储、传输速度和性能。
+
+
+
+Python API支持自动化ODS压缩、批处理处理和转换，可实现办公室、分析和报告系统中可扩展的电子表格管理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **电子表格存储优化**  
+
+  &nbsp; 减小大数据集和工作簿集合的存储占用。
+
+
+
+* **更快的共享与协作**  
+
+  &nbsp; 较小的ODS文件在团队间高效传输。
+
+
+
+* **存档与备份**  
+
+  &nbsp; 为长期存储压缩ODS文件。
+
+
+
+* **工作流效率**  
+
+  &nbsp; 优化的电子表格在应用程序和流程中加载更快。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量ODS压缩**  
+
+  &nbsp; 自动化多个电子表格的大小减小。
+
+
+
+* **数据与图表优化**  
+
+  &nbsp; 自动压缩嵌入的图表、数据透视表和公式。
+
+
+
+* **集成到DAM或云系统**  
+
+  &nbsp; 在上传或备份过程中自动化压缩。
+
+
+
+* **动态压缩规则**  
+
+  &nbsp; 根据数据集大小、公式复杂性或嵌入对象调整优化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

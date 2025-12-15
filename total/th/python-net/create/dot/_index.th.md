@@ -43,9 +43,81 @@ informat: DOT
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT — ไฟล์เทมเพลต `.dot` กำหนดรูปแบบและโครงสร้างที่ใช้ซ้ำสำหรับเครื่องมือ Word เวอร์ชันเก่า; การสร้างเทมเพลต DOT ผ่าน Python ช่วยให้องค์กรรักษาการจัดรูปแบบอย่างสม่ำเสมอสำหรับการผสานจดหมาย, ฟอร์ม, และเอกสารมาตรฐานที่ใช้โดยลูกค้ารุ่นเก่า
+
+
+
+การสร้าง DOT โดยโปรแกรมช่วยให้เทมเพลตได้รับการอัปเดตที่จุดกลางและสามารถกระจายไปยังผู้ใช้สุดท้ายหรือบริการเอกสารโดยอัตโนมัติ
+
+
+
+การอัตโนมัติรองรับการรีเฟรชเทมเพลตตามกำหนดเวลา, การเวอร์ชัน, และการสร้างเอกสารที่แน่นอนจากเทมเพลต
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **การกระจายเทมเพลตเวอร์ชันเก่า**
+
+  สร้างเทมเพลต DOT ที่ให้ความเรียบร้อยในระบบเครื่องมือเวอร์ชันเก่า
+
+
+
+* **เทมเพลตฟอร์มมาตรฐาน**
+
+  สร้างเทมเพลตฟอร์มพร้อมตำแหน่งว่างสำหรับการผสานจดหมายด้วยมือหรืออัตโนมัติ
+
+
+
+* **การเวอร์ชันเทมเพลต**
+
+  อัตโนมัติติดป้ายชื่อเวอร์ชันและปล่อยเทมเพลต DOT ไปยังคลังเอกสาร
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **การรีเฟรชเทมเพลตอัตโนมัติ**
+
+  แทนที่หรือแก้ไขเทมเพลต DOT จากแหล่งกลางและส่งอัปเดตโดยโปรแกรม
+
+
+
+* **การสร้างชุดเอกสารตามเทมเพลต**
+
+  ใช้เทมเพลต DOT เพื่อสร้างเอกสารที่เต็มไปด้วยข้อมูลผ่านการผสานอัตโนมัติ
+
+
+
+* **รายการตรวจสอบสำหรับเทมเพลต**
+
+  ฝังเมตาดาต้าและบันทึกการเปลี่ยนแปลงระหว่างการสร้างเทมเพลตโดยโปรแกรมเพื่อปฏิบัติตามกฎหมาย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}} 
+ 
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

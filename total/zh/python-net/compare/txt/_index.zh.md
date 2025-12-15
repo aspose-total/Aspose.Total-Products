@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TXT比较突出显示纯文本文档中的行级或字符级更改，确保在没有格式复杂性的情况下完全查看修订内容。对于日志、脚本和简单文档至关重要。
+
+
+
+自动化的TXT比较可快速、可扩展地检测大量基于文本的内容的更新。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **日志文件差异跟踪**  
+
+&nbsp; 识别新条目或更改。
+
+
+
+* **脚本或代码文本审查**  
+
+&nbsp; 突出显示纯文本脚本中的修改。
+
+
+
+* **简单文档修订控制**  
+
+&nbsp; 高效捕获行更改。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **大容量TXT比较**  
+
+&nbsp; 快速处理数千个文件。
+
+
+
+* **自动化监控管道**  
+
+&nbsp; 当发生更改时触发工作流程。
+
+
+
+* **程序化差异提取**  
+
+&nbsp; 为系统生成结构化报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

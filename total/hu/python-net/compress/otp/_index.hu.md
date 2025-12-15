@@ -78,7 +78,87 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az OTP tömörítés csökkenti az OpenDocument sablonfájlok méretét, amelyeket szöveges dokumentumokhoz használnak. Az OTP optimalizálása javítja a tárolási hatékonyságot, gyorsabb terjesztést és munkafolyamat-teljesítményt a sablon alapú dokumentum létrehozásához.
+
+
+
+A Python API-k lehetővé teszik az automatizált OTP tömörítést, a batch feldolgozást és a sablonkezelést a skálázható dokumentumautomatizálási munkafolyamatokhoz.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Sablon optimalizálás**  
+
+&nbsp; Csökkentse a nagy sablonkönyvtárak tárolási lábnyomát.
+
+
+
+* *\tGyors megosztás és együttműködés**  
+
+&nbsp; A kisebb OTP fájlok gyorsan továbbítódnak a csapatok és hálózatok között.
+
+
+
+* **Munkafolyamat hatékonyság**  
+
+&nbsp; A tömörített sablonok javítják a betöltési és szerkesztési sebességet.
+
+
+
+* **Archiválás és biztonsági másolatok**  
+
+&nbsp; Hatékony tárolás hosszú távú sablonfájlok megőrzéséhez.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Batch OTP tömörítés**  
+
+&nbsp; Több sablon méretének automatizált csökkentése.
+
+
+
+* **Tartalom és média optimalizálás**  
+
+&nbsp; Beágyazott képek vagy stílusok automatikus tömörítése.
+
+
+
+* **Integráció a dokumentumcsövekbe**  
+
+&nbsp; OTP fájlok tömörítése az automatizált sablon-telepítés vagy tárolás során.
+
+
+
+* **Dinamikus tömörítési szabályok**  
+
+&nbsp; Az optimalizálás beállítása a sablon bonyolultsága vagy tartalom sűrűsége alapján.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

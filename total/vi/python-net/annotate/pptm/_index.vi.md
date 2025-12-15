@@ -75,7 +75,65 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTM tài liệu chú thích logic macro và thêm ghi chú có cấu trúc vào các tệp trình bày hỗ trợ macro, cải thiện khả năng bảo trì và độ chính xác của việc xem xét. Điều này đảm bảo sự rõ ràng về hành vi trang tự động.
+
+Tự động hóa cải thiện quy trình làm việc PPTM bằng cách quét scripts, tạo chú thích và đánh dấu vấn đề với các tương tác dựa trên macro.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Ghi Chú Giải Thích Macro**  
+
+&nbsp; Ghi lại logic tự động hóa trang.
+
+* **Phản Hồi Thiết Kế**  
+
+&nbsp; Thêm ý kiến về cấu trúc hoặc nội dung.
+
+* **Theo Dõi Hành Vi**  
+
+&nbsp; Xác định các trang bị ảnh hưởng bởi các macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Công Cụ Phát Hiện Macro**  
+
+&nbsp; Tự động chú thích các phần liên quan đến macro.
+
+* **Kiểm Tra Logic Trang**  
+
+&nbsp; Chèn cảnh báo hoặc ghi chú dựa trên quy tắc.
+
+* **Cập Nhật Mẫu Theo Lô**  
+
+&nbsp; Áp dụng chú thích trên nhiều tệp PPTM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

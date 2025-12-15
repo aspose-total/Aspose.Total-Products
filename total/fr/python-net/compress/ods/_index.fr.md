@@ -78,7 +78,87 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La compression ODS optimise les fichiers de feuilles de calcul OpenDocument, réduisant leur taille tout en préservant les formules, les graphiques et l'intégrité des données. Les fichiers ODS compressés améliorent le stockage, la vitesse de transfert et les performances dans les flux de travail de feuilles de calcul lourdes en données.
+
+
+
+Les API Python permettent la compression automatisée des fichiers ODS, le traitement par lots et la conversion pour une gestion évolutive des feuilles de calcul dans les bureaux, les systèmes d'analyse et de reporting.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Optimisation du stockage des feuilles de calcul**  
+
+&nbsp; Réduire l'empreinte de stockage pour les grands ensembles de données et les collections de classeurs.
+
+
+
+* **Partage et collaboration plus rapides**  
+
+&nbsp; Les fichiers ODS plus petits se transmettent efficacement entre les équipes.
+
+
+
+* **Archivage et sauvegarde**  
+
+&nbsp; Compresser les fichiers ODS pour un stockage à long terme.
+
+
+
+* **Efficacité du flux de travail**  
+
+&nbsp; Les feuilles de calcul optimisées se chargent plus rapidement dans les applications et les pipelines.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Compression ODS par lots**  
+
+&nbsp; Automatiser la réduction de taille pour plusieurs feuilles de calcul.
+
+
+
+* **Optimisation des données et des graphiques**  
+
+&nbsp; Compresser automatiquement les graphiques intégrés, les tableaux croisés dynamiques et les formules.
+
+
+
+* **Intégration dans les systèmes DAM ou Cloud**  
+
+&nbsp; Automatiser la compression lors du téléchargement ou de la sauvegarde.
+
+
+
+* **Règles de compression dynamiques**  
+
+&nbsp; Ajuster l'optimisation en fonction de la taille de l'ensemble de données, de la complexité des formules ou des objets intégrés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

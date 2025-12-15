@@ -43,9 +43,79 @@ Para um desenvolvedor, quem está tentando criar arquivos DOCM via aplicativo Py
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM — Os arquivos `.docm` suportam macros incorporadas e são ideais quando os documentos precisam incluir comportamento programável; APIs em Python podem criar documentos com macros ao montar conteúdo OOXML e anexar projetos VBA assinados ou não assinados via automação. A criação programática garante que as macros sejam consistentemente empacotadas e possam ser validadas ou assinadas como parte da compilação.
+
+
+
+O uso de DOCM é apropriado quando a lógica de negócios (campos personalizados, botões de exportação ou macros de coleta de dados) deve estar dentro do documento; a automação permite inserir, testar e controlar o conteúdo da macro para atender a verificações de segurança e conformidade.
+
+Testes automatizados e processos de CI podem garantir a integridade do código da macro e assinar as macros antes da distribuição.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Automação Incorporada em Documentos**
+
+  Distribua arquivos DOCM que executem macros aprovadas para captura de dados estruturados ou transformações locais.
+
+
+
+* **Implantação Controlada de Macros**
+
+  Insira módulos VBA avaliados nos documentos durante o tempo de compilação para comportamento de macro regulamentado.
+
+
+
+* **Modelos com Macros Habilitadas**
+
+  Use modelos DOTM como fontes para gerar documentos DOCM com automação pré-configurada.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Validação de Macros por CI**
+
+  Execute automaticamente análise estática no código VBA e bloqueie compilações em caso de violações de política.
+
+
+
+* **Assinatura e Empacotamento**
+
+  Automatize a assinatura digital de macros e o empacotamento de arquivos DOCM para distribuição segura.
+
+
+
+* **Injeção de Macros de Repositórios Seguros**
+
+  Extraia trechos de VBA aprovados de um repositório seguro e incorpore-os em arquivos DOCM gerados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

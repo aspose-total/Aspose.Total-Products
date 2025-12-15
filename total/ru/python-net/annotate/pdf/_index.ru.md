@@ -71,7 +71,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Аннотация PDF улучшает статические документы с помощью выделений, комментариев, заметок и структурных маркеров, улучшая навигацию и понимание на различных платформах. Аннотированные PDF-файлы легче проверять, подтверждать и делиться в рабочих процессах, требующих совместимости с различными устройствами.  
+
+Автоматизация обеспечивает масштабную обработку PDF, позволяя системам автоматически помечать текст, добавлять комментарии и встраивать метаданные программно.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Проверка документов**  
+
+&nbsp; Добавление комментариев, идентифицирующих проблемы или рекомендации.
+
+* **Выделение важных разделов**  
+
+&nbsp; Подчеркивание ключевой информации для ясности.
+
+* **Вставка метаданных**  
+
+&nbsp; Встраивание заметок о классификации или индексации.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Выделение текста на основе правил**  
+
+&nbsp; Автоматическая маркировка ключевых слов или конфиденциальных данных.
+
+* **Массовая обработка PDF**  
+
+&nbsp; Применение аннотаций к большим коллекциям документов.
+
+* **Автоматизированные проверки качества**  
+
+&nbsp; Вставка флагов там, где содержание нарушает заранее определенные правила.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

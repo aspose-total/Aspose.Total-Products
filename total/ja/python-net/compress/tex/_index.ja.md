@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEXの圧縮は、しばしば繰り返しマークアップ、コメント、または書式設定コマンドを含むLaTeXソースファイルのサイズを削減します。TEXファイルの最適化は、ストレージ効率の向上、高速なコンパイル、および学術、出版、科学的ワークフローにおける改善されたコラボレーションを促進します。
+
+
+
+PythonのAPIを使用すると、TEXの自動圧縮、バッチ処理、およびスケーラブルなLaTeXワークフローのためのドキュメント生成パイプラインとの統合が可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **学術および研究文書**  
+
+&nbsp; 大規模な論文、論文、および博士論文のLaTeXソースのサイズを削減します。
+
+
+
+* **出版ワークフロー**  
+
+&nbsp; 圧縮されたTEXファイルは、コンパイルおよび配布プロセスを効率化します。
+
+
+
+* **バージョン管理および共同編集**  
+
+&nbsp; より小さなファイルは、リポジトリや共同編集における効率を向上させます。
+
+
+
+* **アーカイブおよびバックアップ**  
+
+&nbsp; 最適化されたTEXファイルは、歴史的な学術コンテンツのストレージを削減します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチTEX圧縮**  
+
+&nbsp; 複数のLaTeXファイルのサイズを自動的に削減します。
+
+
+
+* **コメントおよび冗長性の削除**  
+
+&nbsp; 不要なマークアップや繰り返しコマンドを自動的に削除します。
+
+
+
+* **ワークフローの統合**  
+
+&nbsp; アップロードされたTEXファイルを自動コンパイルや出版システムにアップロードする際にTEXファイルを圧縮します。
+
+
+
+* **変換+圧縮**  
+
+&nbsp; 圧縮ルールを適用しながらTEXをPDFや他の形式に変換します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

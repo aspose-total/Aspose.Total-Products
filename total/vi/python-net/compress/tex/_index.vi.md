@@ -78,7 +78,87 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Nén TEX giảm kích thước của các tệp nguồn LaTeX, thường chứa các đánh dấu lặp lại, bình luận hoặc lệnh định dạng. Tối ưu hóa tệp TEX cải thiện hiệu quả lưu trữ, tăng tốc biên dịch và cải thiện sự hợp tác trong quy trình làm việc học thuật, xuất bản và khoa học.
+
+
+
+API Python cho phép nén TEX tự động, xử lý hàng loạt và tích hợp với các đường ống tạo tài liệu cho quy trình làm việc LaTeX có khả năng mở rộ.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tài Liệu Học Thuật \& Nghiên Cứu**  
+
+&nbsp; Giảm kích thước nguồn LaTeX cho các bài báo lớn, luận văn và luận án.
+
+
+
+* **Quy Trình Xuất Bản**  
+
+&nbsp; Các tệp TEX nén giúp tối ưu hóa quy trình biên dịch và phân phối.
+
+
+
+* **Kiểm Soát Phiên Bản \& Hợp Tác**  
+
+&nbsp; Các tệp nhỏ cải thiện hiệu quả trong kho lưu trữ và chỉnh sửa cộng tác.
+
+
+
+* **Lưu Trữ \& Sao Lưu**  
+
+&nbsp; Tệp TEX được tối ưu hóa giảm lưu trữ cho nội dung học thuật lịch sử.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén TEX Hàng Loạt**  
+
+&nbsp; Tự động giảm kích thước cho nhiều tệp LaTeX.
+
+
+
+* **Loại Bỏ Bình Luận \& Lặp Lại**  
+
+&nbsp; Loại bỏ đánh dấu không cần thiết hoặc lệnh lặp lại tự động.
+
+
+
+* **Tích Hợp Quy Trình**  
+
+&nbsp; Nén tệp TEX khi tải lên các hệ thống biên dịch hoặc xuất bản tự động.
+
+
+
+* **Chuyển Đổi + Nén**  
+
+&nbsp; Chuyển đổi TEX sang PDF hoặc các định dạng khác trong khi áp dụng quy tắc nén.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

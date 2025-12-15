@@ -70,7 +70,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Porównanie TXT wyróżnia zmiany na poziomie linii lub znaków w zwykłych dokumentach tekstowych, zapewniając pełną widoczność zmian bez złożoności formatowania. Jest to istotne dla logów, skryptów i prostych dokumentów.
+
+
+
+Automatyczne porównywanie TXT zapewnia szybkie, skalowalne wykrywanie aktualizacji w dużych zbiorach treści opartych na tekście.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Śledzenie różnic w plikach dziennika**  
+
+&nbsp; Identyfikuje nowe wpisy lub zmiany.
+
+
+
+* **Przegląd tekstu skryptu lub kodu**  
+
+&nbsp; Wyróżnia modyfikacje w zwykłych skryptach tekstowych.
+
+
+
+* **Prosta kontrola rewizji dokumentu**  
+
+&nbsp; Skutecznie rejestruje zmiany w linii.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Porównania TXT o dużej objętości**  
+
+&nbsp; Przetwarza tysiące plików szybko.
+
+
+
+* **Automatyczne monitorowanie potoków**  
+
+&nbsp; Wywołuje przepływy pracy, gdy zachodzą zmiany.
+
+
+
+* **Ekstrakcja różnic programistycznych**  
+
+&nbsp; Generuje strukturalne raporty dla systemów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Los archivos XLSB (libros de Excel binarios) se benefician de la compresión para reducir el tamaño del archivo mientras se preservan los tiempos de carga rápidos y los cálculos complejos.
+
+
+
+Las API de Python permiten la compresión automatizada de XLSB, lo que respalda la gestión de hojas de cálculo a gran escala e integración con flujos de trabajo empresariales.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+
+
+* **Optimización de Libros de Trabajo Binarios**  
+
+  Comprimir archivos XLSB sin afectar el rendimiento o los cálculos.
+
+
+
+* **Transferencias de Archivos más Rápidas**  
+
+  Archivos XLSB más pequeños permiten compartir rápidamente a través de correo electrónico o la nube.
+
+
+
+* **Archivado Eficiente**  
+
+  La compresión automatizada respalda el almacenamiento a largo plazo de libros de trabajo binarios.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+
+
+* **Compresión en Lote de XLSB**  
+
+  Los scripts de Python pueden comprimir múltiples archivos XLSB automáticamente.
+
+
+
+* **Integración con Herramientas de Análisis y BI**  
+
+  Los archivos XLSB comprimidos pueden ser procesados sin problemas en flujos de trabajo automatizados.
+
+
+
+* **Compresión Selectiva**  
+
+  La automatización puede comprimir solo archivos XLSB grandes o con mucho contenido multimedia.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +213,7 @@ Para obtener más detalles, consulte [Product Documentation](https://docs.aspose
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

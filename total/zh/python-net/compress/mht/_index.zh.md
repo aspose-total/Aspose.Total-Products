@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHT（MHTML Web Archive）压缩可减小网页存档的大小，其中包括打包到单个文件中的HTML、图像、CSS和脚本。压缩的MHT文件提高了存储效率，加快文件传输速度，并更容易对网页内容进行归档。
+
+
+
+Python API支持自动化MHT压缩、批处理处理，并与网络存档流程集成，支持离线网页内容的可扩展管理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **网页存档**
+
+&nbsp; 压缩MHT文件以节省存档网站的存储空间。
+
+
+
+* **离线内容分发**
+
+&nbsp; 更小的MHT文件可加快共享和下载速度。
+
+
+
+* **数字图书馆管理**
+
+&nbsp; 高效存储大量网页存档。
+
+
+
+* **工作流程优化**
+
+&nbsp; 压缩文件可提高网络内容系统的处理速度。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量MHT压缩**
+
+&nbsp; 自动化多个网页存档文件的大小减小。
+
+
+
+* **嵌入内容优化**
+
+&nbsp; 自动压缩图像、脚本和样式。
+
+
+
+* **与DAM或CMS集成**
+
+&nbsp; 在上传或归档期间压缩MHT文件。
+
+
+
+* **动态压缩规则**
+
+&nbsp; 根据页面复杂性和嵌入媒体调整优化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

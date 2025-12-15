@@ -78,7 +78,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+I file XLSM (cartelle di lavoro Excel abilitate alle macro) richiedono una compressione che preservi le macro incorporate ottimizzando allo stesso tempo lo spazio di archiviazione e la condivisione.
+
+
+
+Le API di Python consentono la compressione automatizzata di file XLSM, mantenendo la funzionalità delle macro e consentendo un'integrazione scalabile dei flussi di lavoro.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principali casi d'uso" %}}
+
+
+
+* **Preservazione delle Macro**  
+
+&nbsp; Comprimi i file XLSM in modo sicuro senza rompere le macro incorporate.
+
+
+
+* **Condivisione e Collaborazione più veloci**  
+
+&nbsp; I file XLSM più piccoli agevolano i flussi di lavoro di squadra e gli upload su cloud.
+
+
+
+* **Archiviazione automatizzata**  
+
+&nbsp; La compressione garantisce uno storage efficiente per le cartelle di lavoro abilitate alle macro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Compressione Batch di XLSM**  
+
+&nbsp; Gli script Python possono elaborare automaticamente più file abilitati alle macro.
+
+
+
+* **Integrazione con Piattaforme BI e DMS**  
+
+&nbsp; I file compressi possono essere gestiti in sistemi automatizzati.
+
+
+
+* **Compressione Condizionale**  
+
+&nbsp; L'automazione può mirare ai file con macro grandi o contenuti multimediali pesanti.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

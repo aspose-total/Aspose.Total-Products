@@ -100,7 +100,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF (Rich Text Format) soubory mohou narůst do velkých rozměrů, pokud obsahují složité formátování nebo vložené objekty; komprese snižuje velikost souboru bez ovlivnění kompatibility mezi různými platformami.
+
+
+
+Python API umožňují automatizovanou kompresi RTF, usnadňují zpracování dokumentů v moderních systémech.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace ukládání mezi platformami**  
+
+&nbsp; Kompresí RTF souborů dosáhněte efektivního využití napříč různými operačními systémy a aplikacemi.
+
+
+
+* **Rychlejší sdílení**  
+
+&nbsp; Menší RTF soubory zlepšují distribuci e-mailů a v cloudovém prostředí.
+
+
+
+* **Automatizované archivace**  
+
+&nbsp; Hromadná komprese zjednodušuje archivaci starých nebo velkých dokumentů ve formátu RTF.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese RTF**  
+
+&nbsp; Zpracovávejte automaticky více RTF dokumentů pomocí skriptů v Pythonu.
+
+
+
+* **Integrace s pracovními postupy dokumentů**  
+
+&nbsp; Kompresované RTF soubory lze načíst do automatizovaných pracovních postupů nebo systémů DMS.
+
+
+
+* **Podmíněná komprese**  
+
+&nbsp; Automatizace může cílit na RTF soubory podle velikosti nebo vloženého obsahu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

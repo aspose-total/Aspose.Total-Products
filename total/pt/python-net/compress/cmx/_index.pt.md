@@ -78,7 +78,87 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/zip
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A compressão CMX reduz o tamanho dos gráficos vetoriais do Corel Presentation Exchange, que frequentemente incluem ilustrações detalhadas, camadas e perfis de cores. A otimização de arquivos CMX ajuda a melhorar o desempenho nos fluxos de trabalho de design, acelera o compartilhamento e reduz os requisitos de armazenamento em ambientes criativos e técnicos.
+
+
+
+As APIs do Python permitem a compressão e conversão automatizadas de CMX, garantindo o manuseio eficiente de ativos vetoriais grandes em escala para sistemas de publicação, impressão e gerenciamento gráfico.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Otimização de Projetos de Design**  
+
+  Comprime gráficos CMX em camadas para simplificar o manuseio de arquivos e reduzir o impacto no armazenamento.
+
+
+
+* **Pipelines de Publicação e Impressão**  
+
+  Arquivos CMX menores aceleram os processos de renderização, edição e transferência.
+
+
+
+* **Gerenciamento de Biblioteca de Ativos**  
+
+  Coleções CMX otimizadas carregam mais rapidamente dentro de repositórios de ativos digitais.
+
+
+
+* **Troca entre Plataformas**  
+
+  Arquivos CMX comprimidos são transferidos de forma mais eficiente entre equipes de design ou aplicativos.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Massa de CMX**  
+
+  Otimiza automaticamente grandes conjuntos de gráficos CMX com fluxos de trabalho em Python.
+
+
+
+* **Conversão de CMX para Formato Comprimido**  
+
+  Converte CMX em SVG, PDF, PNG ou EPS aplicando regras de compressão.
+
+
+
+* **Otimização de Upload Automatizada**  
+
+  Arquivos CMX podem ser comprimidos instantaneamente ao serem inseridos em sistemas de DMS ou DAM.
+
+
+
+* **Compressão Consciente de Conteúdo**  
+
+  Ajusta a intensidade de otimização com base na complexidade vetorial ou componentes incorporados.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

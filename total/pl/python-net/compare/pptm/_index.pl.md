@@ -68,7 +68,75 @@ Więcej szczegółów można znaleźć w [Dokumentacja produktu](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Porównanie PPTM identyfikuje różnice w prezentacjach z makrami, w tym treść slajdów, elementy projektowe, przejścia i osadzone skrypty automatyzacji. Zapewnia niezawodne śledzenie wersji.
+
+
+
+Automatyzacja porównywania PPTM zwiększa spójność pracy, kontrolę makr i monitorowanie jakości prezentacji.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Śledzenie prezentacji sterowanej makrami**  
+
+&nbsp; Podkreśla zmiany w kodzie i slajdach.
+
+
+
+* **Zgodność ze standardami projektowymi**  
+
+&nbsp; Zapewnia jednolite użycie motywów.
+
+
+
+* **Weryfikacja aktualizacji**  
+
+&nbsp; Wykrywa modyfikacje na poziomie slajdu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Automatyzacja monitorowania makr**  
+
+&nbsp; Sygnalizuje aktualizacje osadzonych skryptów.
+
+
+
+* **Porównywanie zbiorów prezentacji masowych**  
+
+&nbsp; Sprawdza duże zestawy prezentacji.
+
+
+
+* **Generowanie podsumowania zmian**  
+
+&nbsp; Tworzy programowo strukturalne raporty.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

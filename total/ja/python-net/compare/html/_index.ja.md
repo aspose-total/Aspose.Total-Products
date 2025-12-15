@@ -70,7 +70,75 @@ HTML ファイルを簡単に比較するための Python スクリプトまた�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+HTMLの比較は、Webまたはエクスポートされたドキュメントファイル間のマークアップ、コンテンツブロック、タグ、スタイル、インラインフォーマットの違いを特定します。これにより、レンダリングとコンテンツの表示の正確性が確保されます。
+
+
+
+自動化されたHTML比較は、Webコンテンツ、ドキュメントポータル、およびシステム生成のHTMLエクスポートに対するスケーラブルな品質管理をサポートします。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シナリオ" %}}
+
+
+
+* **Webコンテンツの改訂追跡**  
+
+&nbsp; テキストとレイアウト要素の更新を強調します。
+
+
+
+* **エクスポートされたドキュメントの整合性チェック**  
+
+&nbsp; HTMLエクスポートが期待される構造と一致していることを確認します。
+
+
+
+* **技術文書の更新**  
+
+&nbsp; コードブロックや情報セクションの変更を検出します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **マークアップ変更の検出**  
+
+&nbsp; タグレベルの変更を自動的に特定します。
+
+
+
+* **大量のHTML比較**  
+
+&nbsp; 大規模なHTML出力の検証を行います。
+
+
+
+* **自動化されたパブリッシングパイプライン**  
+
+&nbsp; 継続的なコンテンツ配信システムにチェックを統合します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

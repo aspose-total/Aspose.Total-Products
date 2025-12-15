@@ -43,9 +43,81 @@ Python uygulaması aracılığıyla DOC dosyaları oluşturmaya çalışan bir g
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOC — Python API'leri aracılığıyla `.doc` (eski nesil ikili Word) dosyaları oluşturmak, eski sistemler için otomasyon sağlar ve eski araç zincirleri ile uyumluluğu korur. Tipik Python yaklaşımları, ikili yapıyı bir araya getirebilen kütüphanelere dayanır veya Windows'ta COM otomasyonunu kullanarak programatik içerikten klasik ikili belgeleri dışa aktarır veya kaydeder.
+
+
+
+DOC betimleme, geriye dönük uyumluluk gerektiğinde faydalıdır; oluşturulan belgeler yapılandırılmış metin, temel biçimlendirme, başlıklar/alt başlıklar ve desteklendiği durumlarda gömülü nesneler içerebilir.
+
+
+
+Otomasyon, modern kaynakları (markdown, HTML, DOCX) kabul eden ve arşiv veya eski uygulamalarla entegrasyon için `.doc` çıktısı veren dönüşüm borularını mümkün kılar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* **Eski Sistem Entegrasyonu**
+
+&nbsp; İkili formatı gerektiren eski kurumsal yazılımlar için .doc dosyaları oluştur.
+
+
+
+* **Arşiv Dışa Aktarımları**
+
+&nbsp; Gerekli olduğunda modern belgeleri uzun vadeli depolama için .doc'a dönüştür, eski politikalar tarafından gerektirilir.
+
+
+
+* **Eski Araçlarla Uyumluluk**
+
+&nbsp; Eski posta birleştirme veya yazdırma sistemleriyle uyumluluğu sağlamak için .doc çıktıları oluştur.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Otomatik Format Dönüşümü**
+
+&nbsp; Uyumluluk testleri için zamanlanmış işlerde DOCX'i DOC'a toplu dönüştür.
+
+
+
+* **Şablonlardan Betimlenmiş Dışa Aktarım**
+
+&nbsp; Son belgeleri .doc olarak kaydeden şablon odaklı üretimi kullan.
+
+
+
+* **ETL Borularıyla Entegrasyon**
+
+&nbsp; Belgeleri eski tüketiciler için hazırlayan ETL işlerine DOC oluşturmayı dahil et.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}} 
+ 
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODG压缩优化OpenDocument Graphics文件，减小文件大小同时保持矢量质量、图层和嵌入对象。压缩的ODG文件提高了设计和图表工作流程中的存储效率和性能。
+
+
+
+Python API支持自动化ODG压缩、批处理处理和转换为其他格式，支持办公、教育和出版环境中可扩展的图形管理。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **图表和矢量存储**  
+
+&nbsp; 压缩ODG文件以减少磁盘空间使用。
+
+
+
+* **协作和共享**  
+
+&nbsp; 较小的文件在团队和平台之间传输更快。
+
+
+
+* **数字档案**  
+
+&nbsp; 高效存储图表和矢量图形。
+
+
+
+* **工作流程优化**  
+
+&nbsp; 压缩的ODG文件提高了应用程序中的渲染速度。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量ODG压缩**  
+
+&nbsp; 自动化多个图形文件的大小减小。
+
+
+
+* **图层和对象优化**  
+
+&nbsp; 自动删除未使用的元素并压缩嵌入对象。
+
+
+
+* **集成到办公流程中**  
+
+&nbsp; 在上传或版本控制时压缩ODG文件。
+
+
+
+* **动态压缩级别**  
+
+&nbsp; 根据文件复杂性和用例调整优化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

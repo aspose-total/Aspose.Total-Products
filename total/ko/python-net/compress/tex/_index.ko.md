@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TEX 압축은 LaTeX 소스 파일의 크기를 줄이는데 도움이 되며, 이 소스 파일은 종종 반복되는 마크업, 주석 또는 서식 지정 명령을 포함합니다. TEX 파일을 최적화하면 저장 효율성이 향상되고 빠른 컴파일이 가능해지며 학술, 출판 및 과학적 워크플로우에서 협업이 개선됩니다.
+
+
+
+Python API를 사용하면 자동화된 TEX 압축, 일괄 처리 및 확장 가능한 LaTeX 워크플로우를 위한 문서 생성 파이프라인과의 통합이 가능해집니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **학술 및 연구 문서**  
+
+&nbsp; 대규모 논문, 학위 논문 및 학위 논문의 LaTeX 소스 크기를 줄입니다.
+
+
+
+* **출판 워크플로우**  
+
+&nbsp; 압축된 TEX 파일은 컴파일 및 배포 프로세스를 간소화합니다.
+
+
+
+* **버전 관리 및 협업**  
+
+&nbsp; 더 작은 파일은 저장소 및 협업 편집에서 효율성을 향상시킵니다.
+
+
+
+* **아카이브 및 백업**  
+
+&nbsp; 최적화된 TEX 파일은 역사적인 학술 콘텐츠의 저장 공간을 줄입니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 TEX 압축**  
+
+&nbsp; 여러 LaTeX 파일의 크기를 자동으로 줄입니다.
+
+
+
+* **주석 및 중복 제거**  
+
+&nbsp; 불필요한 마크업 또는 반복된 명령을 자동으로 제거합니다.
+
+
+
+* **워크플로우 통합**  
+
+&nbsp; TEX 파일을 자동 컴파일 또는 출판 시스템에 업로드할 때 파일을 압축합니다.
+
+
+
+* **변환 + 압축**  
+
+&nbsp; TEX를 PDF 또는 다른 형식으로 변환하면서 압축 규칙을 적용합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

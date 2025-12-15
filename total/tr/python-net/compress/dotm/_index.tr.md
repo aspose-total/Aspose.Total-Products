@@ -100,7 +100,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM dosyaları makro etkin şablonlardır. Sıkıştırma depolamayı azaltırken makro işlevselliğini korur, verimli şablon dağıtımına olanak tanır.
+
+
+
+Python API'leri, kurumsal ve işbirlikçi ortamlarda bütünlüğü korumak için otomatik DOTM sıkıştırmasını destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Makro Şablonunun Korunması**  
+
+&nbsp; Makroları bozmadan DOTM dosyalarını güvenli bir şekilde sıkıştırın.
+
+
+
+* **Daha Hızlı Şablon Dağıtımı**  
+
+&nbsp; Daha küçük dosyalar, ekipler ve sistemler arasında paylaşımı kolaylaştırır.
+
+
+
+* **Şablon Arşivleme**  
+
+&nbsp; Otomatik sıkıştırma uzun vadeli depolama verimliliğini sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu DOTM Sıkıştırma**  
+
+&nbsp; Python betikleri birden fazla makro etkin şablonu otomatik olarak işleyebilir.
+
+
+
+* **İş Akışı Entegrasyonu**  
+
+&nbsp; Sıkıştırılmış şablonlar otomatik belge oluşturma sistemlerinde kullanılabilir.
+
+
+
+* **Koşullu Sıkıştırma**  
+
+&nbsp; Boyuta, içeriğe veya makro karmaşıklığına göre otomatikleştirin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

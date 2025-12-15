@@ -78,7 +78,75 @@ Per maggiori dettagli fare riferimento a [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+I file modello XLT beneficiano della compressione per ridurre lo spazio di archiviazione e migliorare la distribuzione senza alterare la struttura del modello.
+
+
+
+Le API Python consentono la compressione automatizzata dei modelli XLT per una gestione scalabile dei modelli.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Ottimizzazione dell'Archiviazione dei Modelli**  
+
+&nbsp; Comprimi i file XLT preservando la formattazione e le formule.
+
+
+
+* **Condivisione più Veloce dei Modelli**  
+
+&nbsp; Le dimensioni dei file ridotte consentono una distribuzione rapida ai team.
+
+
+
+* **Archiviazione Automatica**  
+
+&nbsp; I modelli compressi semplificano la gestione dell'archiviazione a lungo termine.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Compressione Batch dei Modelli**  
+
+&nbsp; Automatizza l'elaborazione di file XLT multipli utilizzando script Python.
+
+
+
+* **Integrazione con Sistemi di Workflow**  
+
+&nbsp; I modelli compressi possono essere caricati dinamicamente nei flussi di lavoro automatizzati.
+
+
+
+* **Compressione Condizionale**  
+
+&nbsp; L'automazione può mirare ai modelli con grandi set di dati o formule complesse.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MHT (MHTML 웹 아카이브) 압축은 HTML, 이미지, CSS 및 스크립트가 하나의 파일로 패키지된 웹 페이지 아카이브의 크기를 줄입니다. 압축된 MHT 파일은 저장 효율성을 향상시키고 빠른 파일 전송 및 웹 콘텐츠의 쉬운 아카이빙을 지원합니다.
+
+
+
+Python API를 사용하면 자동화된 MHT 압축, 일괄 처리 및 웹 아카이빈 파이프라인과의 통합이 가능해져 오프라인 웹 콘텐츠의 확장 가능한 관리를 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **웹 페이지 아카이빔**  
+
+&nbsp; MHT 파일을 압축하여 아카이브된 웹 사이트의 저장 공간을 절약합니다.
+
+
+
+* **오프라인 콘텐츠 배포**  
+
+&nbsp; 작은 MHT 파일은 더 빠른 공유와 다운로드를 가능하게 합니다.
+
+
+
+* **디지털 라이브러리 관리**  
+
+&nbsp; 대규모 웹 페이지 아카이브 컬렉션을 효율적으로 저장합니다.
+
+
+
+* **워크플로 최적화**  
+
+&nbsp; 압축된 파일은 웹 콘텐츠 시스템에서 처리 속도를 향상시킵니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 MHT 압축**  
+
+&nbsp; 여러 웹 아카이브 파일의 크기를 자동으로 줄입니다.
+
+
+
+* **내장 콘텐츠 최적화**  
+
+&nbsp; 이미지, 스크립트 및 스타일을 자동으로 압축합니다.
+
+
+
+* **DAM 또는 CMS 통합**  
+
+&nbsp; 업로드나 아카이빙 중에 MHT 파일을 압축합니다.
+
+
+
+* **동적 압축 규칙**  
+
+&nbsp; 페이지 복잡성과 내장 미디어에 기반한 최적화를 조정합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

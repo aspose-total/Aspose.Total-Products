@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS (XML Paper Specification) sıkıştırması, sabit düzen belgelerinin boyutunu azaltırken kaliteyi, vektör grafikleri ve gömülü yazı tiplerini korur. Sıkıştırılmış XPS dosyaları depolama verimliliğini, iletimi ve cihazlar arasındaki işleme performansını artırır.
+
+
+
+Python API'leri otomatik XPS sıkıştırmasını, toplu işlemeyi ve ölçeklenebilir içerik yönetimi ve dağıtımı için belge iş akışlarına entegrasyonu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Belge Arşivleme**  
+
+&nbsp; Kalite kaybı olmadan XPS dosyalarını uzun vadeli depolama için sıkıştırın.
+
+
+
+* **Verimli Dağıtım**  
+
+&nbsp; Daha küçük XPS dosyaları ağlar veya cihazlar arasında daha hızlı aktarılır.
+
+
+
+* **Baskı ve Yayınlama İş Akışları**  
+
+&nbsp; Optimize edilmiş XPS, işleme hızını ve baskı performansını artırır.
+
+
+
+* **Dijital Kütüphaneler**  
+
+&nbsp; Sabit düzen belgelerinin koleksiyonları için depolama alanını azaltın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu XPS Sıkıştırma**  
+
+&nbsp; Birden fazla XPS dosyası için boyut azaltımını otomatikleştirin.
+
+
+
+* **Gömülü Varlık Optimizasyonu**  
+
+&nbsp; Yazı tiplerini, resimleri ve grafikleri otomatik olarak sıkıştırın.
+
+
+
+* **İş Akışı Entegrasyonu**  
+
+&nbsp; XPS dosyalarını CMS, DAM veya baskı akışlarına yüklerken dinamik olarak sıkıştırın.
+
+
+
+* **Dinamik Sıkıştırma Seviyeleri**  
+
+&nbsp; Belge içeriğine, çözünürlüğe veya amaçlanan çıktıya göre ayarlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese XSL-FO se zaměřuje na snížení velikosti souborů formátování objektů jazyka rozšiřitelných stylů, které definují rozvržení stránky a formátování pro XML dokumenty. Optimalizace XSL-FO zlepšuje zpracování, rychlost vykreslování a účinnost ukládání v pracovních postupech generování dokumentů.
+
+
+
+Python API umožňují automatizovanou kompresi XSL-FO, hromadné zpracování a integraci s PDF nebo tiskovými toky pro škálovatelná řešení vykreslování dokumentů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace vykreslování dokumentů**  
+
+&nbsp; Kompresované soubory XSL-FO zrychlují generování PDF a tiskové toky.
+
+
+
+* **Správa dokumentů ve velkém měřítku**  
+
+&nbsp; Snížení úložiště pro obsah ve vysokém objemu formátování.
+
+
+
+* **Archivace a zálohování**  
+
+&nbsp; Optimalizované soubory XSL-FO jsou snáze uchovávány pro dlouhodobé uchování.
+
+
+
+* **Integrace pracovního postupu**  
+
+&nbsp; Zlepšuje efektivitu v automatizovaných publikovaných tocích.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Hromadná komprese XSL-FO**  
+
+&nbsp; Automatizujte zmenšení velikosti pro více formátovacích souborů.
+
+
+
+* **Odstranění mezer a redundance**  
+
+&nbsp; Automaticky odstraňuje zbytečné formátovací instrukce.
+
+
+
+* **Integrace s vykreslovacími toky**  
+
+&nbsp; Kompresujte soubory před generováním výstupů PDF nebo tisku.
+
+
+
+* **Dynamická optimalizace**  
+
+&nbsp; Upravuje úrovně komprese na základě složitosti dokumentu nebo počtu stránek.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

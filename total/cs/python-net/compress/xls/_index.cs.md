@@ -78,7 +78,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Komprese souborů XLS snižuje úložný prostor a urychluje sdílení dědictví sešitů Excelu při zachování vzorců, grafů a formátování.
+
+
+
+Automatizace založená na Pythonu umožňuje hromadnou kompresi souborů XLS, což umožňuje škálovatelný správu dat a efektivitu pracovních postupů.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace dědictví sešitů**  
+
+&nbsp; Snížení velikosti souborů XLS bez ovlivnění vzorců nebo integrity dat.
+
+
+
+* **Rychlejší sdílení**  
+
+&nbsp; Menší soubory XLS zlepšují rychlost distribuce e-mailů a v cloudu.
+
+
+
+* **Efektivita archivace**  
+
+&nbsp; Automatizovaná komprese zjednodušuje dlouhodobé ukládání dědictví souborů Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénáře automatizace" %}}
+
+
+
+* **Hromadná komprese XLS**  
+
+&nbsp; Pythonové skripty mohou komprimovat více souborů XLS najednou.
+
+
+
+* **Integrace s pracovními systémy**  
+
+&nbsp; Kompresované soubory XLS lze načíst do automatizovaných potrubí nebo DMS.
+
+
+
+* **Podmíněná komprese**  
+
+&nbsp; Cílové soubory XLS s velkými datovými sadami nebo vloženými médii pro kompresi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -43,9 +43,81 @@ informat: DOT
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+نقطة — ملفات القوالب `.dot` تحدد أنماطًا قابلة لإعادة الاستخدام وهيكلًا لسير العمل القديمة في Word؛ إن إنشاء قوالب DOT عبر Python يتيح للمؤسسات الحفاظ على التنسيق المتسق لدمج البريد والنماذج والمستندات الموحدة التي يتم استهلاكها من قبل العملاء القدامى.
+
+
+
+تضمن إنشاء DOT برمجيًا أن تكون القوالب مُحدثة مركزيًا ويمكن توزيعها تلقائيًا للمستخدمين النهائيين أو خدمات الوثائق.
+
+
+
+التأكيد على الأتمتة يدعم تحديثات القوالب المجدولة والإصدارات وإنشاء المستندات الفعلية من القوالب.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **توزيع القوالب القديمة**
+
+&nbsp; إنتاج قوالب DOT التي تضمن تخطيطًا متسقًا عبر سلاسل الأدوات القديمة.
+
+
+
+* **قوالب النماذج الموحدة**
+
+&nbsp; إنشاء قوالب نماذج مع عناصر نائبة لدمج البريد يدويًا أو تلقائيًا.
+
+
+
+* **إصدار القوالب**
+
+&nbsp; أتمتة وسم الإصدار وإصدار قوالب DOT لمستودعات الوثائق.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات الأتمتة" %}}
+
+
+
+* **تحديث القوالب تلقائيًا**
+
+&nbsp; استبدال أو إصلاح قوالب DOT من مصدر مركزي ودفع التحديثات برمجيًا.
+
+
+
+* **إنشاء دفعي مدفوع بالقوالب**
+
+&nbsp; استخدام قوالب DOT لإنشاء العديد من المستندات المملوءة عبر دمج تلقائي.
+
+
+
+* **سجلات التدقيق للقوالب**
+
+&nbsp; تضمين البيانات الوصفية وسجلات التغيير أثناء إنشاء القوالب برمجيًا للامتثال.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

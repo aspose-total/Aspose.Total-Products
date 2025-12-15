@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تركز ضغط APNG على تقليل حجم ملفات PNG المتحركة مع الحفاظ على جودة الإطار وسلاسة التشغيل. نظرًا لدعم APNG لميزات عدم الفقد والإطارات المتعددة، فإن تحسين هذه الملفات مهم لتحميل أسرع واستخدام عرض النطاق الترددي المنخفض وتحسين الأداء في بيئات الويب والتطبيقات.
+
+
+
+تمكن واجهات برمجة التطبيقات في Python من ضغط APNG تلقائيًا، وتحسين الإطارات، وتقليل الموارد، مما يجعل من السهل دمج الرسوم المتحركة الخفيفة في سير العمل القابل للتوسيع وأنابيب المحتوى عالي الحجم.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين الرسوم المتحركة على الويب**  
+
+&nbsp; ضغط ملفات APNG يحسن أوقات التحميل مع الحفاظ على وضوح الرسوم المتحركة.
+
+
+
+* **توصيل الأصول لتجربة المستخدم وواجهة المستخدم**  
+
+&nbsp; تساعد الرسوم المتحركة الخفيفة في جعل الواجهات تبدو متجاوبة عبر تطبيقات الهواتف المحمولة وأجهزة الكمبيوتر.
+
+
+
+* **أنابيب الرسومات للألعاب والتطبيقات**  
+
+&nbsp; تقليل حجم الرسومات APNG يقلل من تأخير التحميل واستخدام التخزين في البيئات التفاعلية.
+
+
+
+* **نشر المحتوى**  
+
+&nbsp; تصغير حجم الرسوم المتحركة يضمن توصيل سلس على المدونات والمنصات وأنظمة إدارة المحتوى.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط APNG بالدُفعة**  
+
+&nbsp; يمكن لنصوص Python ضغط ملفات PNG المتحركة بشكل تلقائي بالجملة.
+
+
+
+* **تحسين على مستوى الإطار**  
+
+&nbsp; يمكن للتشغيل التلقائي إعادة ضغط الإطارات الفردية أو إزالة الإطارات الزائدة.
+
+
+
+* **ضغط متكامل في سير العمل**  
+
+&nbsp; يمكن ضغط ملفات APNG المُرفوعة إلى الأنظمة تلقائيًا قبل التخزين.
+
+
+
+* **ضبط جودة الرسوم المتحركة ديناميكيًا**  
+
+&nbsp; يمكن للأنظمة تقليل حجم الرسوم المتحركة استنادًا إلى الدقة أو نوع الجهاز أو حدود الشبكة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

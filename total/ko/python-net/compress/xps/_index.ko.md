@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS (XML Paper Specification) 압축은 고정 레이아웃 문서의 크기를 줄이면서 품질, 벡터 그래픽 및 포함된 글꼴을 보존합니다. 압축된 XPS 파일은 저장 효율성, 전송 및 장치 간 렌더링 성능을 향상시킵니다.
+
+
+
+Python API를 사용하여 자동화된 XPS 압축, 일괄 처리 및 확장 가능한 콘텐츠 관리 및 배포 문서 워크플로에 통합할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **문서 보관**  
+
+&nbsp; 품질 손실 없이 XPS 파일을 장기 보관용으로 압축합니다.
+
+
+
+* **효율적인 배포**  
+
+&nbsp; 작은 XPS 파일은 네트워크나 장치 간에 빠르게 전송됩니다.
+
+
+
+* **인쇄 및 출판 워크플로**  
+
+&nbsp; 최적화된 XPS는 렌더링 속도와 인쇄 성능을 향상시킵니다.
+
+
+
+* **디지털 도서관**  
+
+&nbsp; 고정 레이아웃 문서 컬렉션의 저장 공간을 줄입니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 XPS 압축**  
+
+&nbsp; 여러 XPS 파일의 크기를 자동으로 줄입니다.
+
+
+
+* **포함된 에셋 최적화**  
+
+&nbsp; 글꼴, 이미지 및 그래픽을 자동으로 압축합니다.
+
+
+
+* **워크플로 통합**  
+
+&nbsp; CMS, DAM 또는 인쇄 파이프라인에 업로드할 때 XPS 파일을 동적으로 압축합니다.
+
+
+
+* **동적 압축 수준**  
+
+&nbsp; 문서 콘텐츠, 해상도 또는 의도된 출력에 따라 조정합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

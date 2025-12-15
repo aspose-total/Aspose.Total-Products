@@ -101,7 +101,87 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresja ODP zmniejsza rozmiar plików prezentacji OpenDocument, optymalizując slajdy z tekstem, obrazami i osadzonymi multimedium. Skompresowane pliki ODP poprawiają wydajność przechowywania, szybsze ładowanie i płynniejsze działanie w prezentacjach.
+
+
+
+Interfejsy API Pythona umożliwiają zautomatyzowaną kompresję ODP, przetwarzanie wsadowe i optymalizację multimediów dla skalowalnego zarządzania prezentacjami i przepływami dostawy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Optymalizacja prezentacji**  
+
+  Smaller ODP files load faster in editors and viewers.
+
+
+
+* **Efektywność przechowywania i archiwizacji**  
+
+  Reduce disk space usage for large slide libraries.
+
+
+
+* **Udostępnianie i dystrybucja treści**  
+
+  Skompresowane pliki szybko przesyłają się po sieciach i urządzeniach.
+
+
+
+* **Integracja z przepływami pracy**  
+
+  Zoptymalizowane pliki ODP poprawiają wydajność w zautomatyzowanych potokach prezentacji.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Kompresja wsadowa ODP**  
+
+  Automatyzacja optymalizacji wielu plików prezentacji.
+
+
+
+* **Optymalizacja mediów i obrazów**  
+
+  Automatyczna kompresja osadzonych obrazów i multimediów.
+
+
+
+* **Integracja z systemem CMS lub DAM**  
+
+  Kompresuj pliki ODP podczas procesów przesyłania lub archiwizacji.
+
+
+
+* **Dynamiczna kompresja**  
+
+  Dostosuj intensywność kompresji na podstawie treści slajdu i gęstości mediów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

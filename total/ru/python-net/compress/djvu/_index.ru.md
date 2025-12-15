@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие DJVU улучшает уже эффективную структуру файлов DjVu, которые обычно используются для отсканированных документов, цифровых книг и архивного контента. Оптимизация файлов DJVU дополнительно уменьшает размер, улучшает скорость загрузки и обеспечивает высококачественное воспроизведение для страниц с большим объемом текста и изображений.
+
+
+
+Python API позволяют автоматизировать сжатие DJVU, оптимизировать отсканированные слои и управлять большими библиотеками цифровых документов с минимальными требованиями к хранению и высокой эффективностью обработки.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Библиотеки цифровых документов**  
+
+&nbsp; Сжимает большие отсканированные архивы для экономии места и улучшения производительности доступа.
+
+
+
+* **Распространение электронных книг и исследований**  
+
+&nbsp; Меньшие файлы DJVU загружаются быстрее и передаются более эффективно через академические платформы.
+
+
+
+* **Оптимизация отсканированных изображений**  
+
+&nbsp; Улучшает читаемость и уменьшает размер без ущерба для важных визуальных деталей.
+
+
+
+* **Долгосрочное архивирование**  
+
+&nbsp; Обеспечивает эффективное хранение для исторического и справочного материала.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Массовое сжатие DJVU**  
+
+&nbsp; Автоматически уменьшает размер файлов для коллекций отсканированных или цифровых документов.
+
+
+
+* **Оптимизация с учетом слоев**  
+
+&nbsp; Автоматизация может выборочно сжимать передний текст, фоновые текстуры или встроенные изображения.
+
+
+
+* **Сжатие при загрузке в рабочий процесс**  
+
+&nbsp; Файлы DJVU могут быть сжаты мгновенно при загрузке в архивы или системы документов.
+
+
+
+* **Конвертация + конвейер сжатия**  
+
+&nbsp; Преобразует PDF или TIFF в DJVU с применением правил автоматического уменьшения размера.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -145,7 +225,7 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

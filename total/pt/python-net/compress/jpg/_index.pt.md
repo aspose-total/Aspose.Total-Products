@@ -100,7 +100,87 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/ima
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A compressão de IMAGENS genéricas refere-se à otimização de quaisquer arquivos de imagem baseados em raster para reduzir o tamanho do arquivo, preservando a qualidade visual. Essa abordagem é essencial para eficiência de armazenamento, transferência mais rápida e renderização suave em plataformas digitais, aplicativos e pipelines de conteúdo.
+
+
+
+As APIs do Python permitem a compressão AUTOMÁTICA DE IMAGENS, processamento em lote e conversão de formato, suportando fluxos de trabalho escaláveis para gerenciamento de mídia, entrega na web e repositórios baseados em nuvem.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Desempenho Web e de Aplicativos**  
+
+&nbsp; Imagens comprimidas carregam mais rapidamente, reduzindo o uso de largura de banda e melhorando a experiência do usuário.
+
+
+
+* **Gerenciamento de Ativos Digitais**  
+
+&nbsp; Imagens otimizadas são mais fáceis de armazenar, organizar e recuperar de bibliotecas grandes.
+
+
+
+* **Publicação de Conteúdo**  
+
+&nbsp; Mantém a qualidade da imagem ao minimizar o tamanho do arquivo para plataformas online.
+
+
+
+* **Arquivamento e Backup**  
+
+&nbsp; Reduz os requisitos de armazenamento para grandes coleções de imagens raster.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de Imagens**  
+
+&nbsp; Scripts em Python podem otimizar automaticamente centenas de arquivos de imagem genéricos.
+
+
+
+* **Seleção Dinâmica de Formato**  
+
+&nbsp; A automação pode converter imagens para o formato JPG ideal durante a compressão.
+
+
+
+* **Integração de Fluxo de Trabalho**  
+
+&nbsp; Comprime imagens automaticamente ao carregar em CMS, DAM ou plataformas de nuvem.
+
+
+
+* **Compressão Baseada em Resolução**  
+
+&nbsp; Ajusta os níveis de compressão dinamicamente com base na resolução da imagem, dimensões ou uso.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

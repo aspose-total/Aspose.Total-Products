@@ -78,7 +78,87 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/zip
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A compressão DIB reduz o tamanho dos arquivos de bitmap independentes de dispositivo, que armazenam dados de pixel sem formatação específica de hardware. Essas imagens costumam ser grandes porque preservam dados de bitmap brutos e não comprimidos, tornando a compressão essencial para armazenamento e processamento eficientes em fluxos de trabalho modernos.
+
+
+
+As APIs do Python tornam possível automatizar a otimização DIB, minimizar o tamanho do arquivo e converter esses bitmaps em formatos mais comprimidos, melhorando a escalabilidade em pipelines de imagem e sistemas de ativos digitais.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Otimização de Bitmaps Legados**  
+
+&nbsp; Comprime grandes arquivos DIB originários de software ou sistemas de imagem mais antigos.
+
+
+
+* **Eficiência de Armazenamento**  
+
+&nbsp; Reduz significativamente o uso de disco para organizações com extensos repositórios de bitmaps.
+
+
+
+* **Transferência e Upload Mais Rápidos**  
+
+&nbsp; Permite o compartilhamento mais rápido de arquivos de imagem pesados em redes ou plataformas de nuvem.
+
+
+
+* **Arquivamento de Imagens**  
+
+&nbsp; Ajuda a manter arquivos leves sem comprometer dados de pixel essenciais.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de DIB**  
+
+&nbsp; Automatize a redução de tamanho para centenas ou milhares de arquivos de bitmap de uma vez.
+
+
+
+* **Conversão Automática para Formatos Modernos**  
+
+&nbsp; Converta DIB em PNG, JPEG ou WebP com regras de compressão inteligentes.
+
+
+
+* **Otimização de Upload em Tempo Real**  
+
+&nbsp; Os arquivos DIB podem ser comprimidos automaticamente ao serem inseridos em plataformas de imagem.
+
+
+
+* **Compressão Consciente da Resolução**  
+
+&nbsp; A automação ajusta a intensidade da compressão com base nas dimensões de pixel ou na profundidade de cor.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

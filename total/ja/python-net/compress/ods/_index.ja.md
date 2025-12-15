@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODS圧縮はOpenDocumentスプレッドシートファイルを最適化し、サイズを削減しながら数式、グラフ、データの整合性を保ちます。圧縮されたODSファイルは、データが多いスプレッドシートワークフローにおいてストレージ、転送速度、パフォーマンスを向上させます。
+
+
+
+Python APIを使用すると、オフィス、分析、レポートシステムでスケーラブルなスプレッドシート管理のために、ODS圧縮、バッチ処理、変換を自動化できます。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用シーン" %}}
+
+
+
+* **スプレッドシートのストレージ最適化**  
+
+&nbsp; 大規模なデータセットやワークブックコレクションのストレージフットプリントを削減します。
+
+
+
+* **より速い共有とコラボレーション**  
+
+&nbsp; より小さなODSファイルは、チーム間で効率的に送信されます。
+
+
+
+* **アーカイブとバックアップ**  
+
+&nbsp; ODSファイルを長期保存するために圧縮します。
+
+
+
+* **ワークフローの効率化**  
+
+&nbsp; 最適化されたスプレッドシートは、アプリケーションやパイプラインでより速く読み込まれます。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチODS圧縮**  
+
+&nbsp; 複数のスプレッドシートのサイズを自動的に削減します。
+
+
+
+* **データとグラフの最適化**  
+
+&nbsp; 埋め込みチャート、ピボットテーブル、数式を自動的に圧縮します。
+
+
+
+* **DAMやクラウドシステムへの統合**  
+
+&nbsp; アップロードやバックアップ中に圧縮を自動化します。
+
+
+
+* **動的な圧縮ルール**  
+
+&nbsp; データセットのサイズ、数式の複雑さ、埋め込みオブジェクトに基づいて最適化を調整します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

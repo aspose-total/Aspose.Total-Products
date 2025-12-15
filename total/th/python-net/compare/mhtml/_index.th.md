@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การวิเคราะห์ MHTML เปรียบเทียบทรัพยากรที่ฝังอยู่ มาร์กอัป HTML และเนื้อหาที่ถูกจัดแพ็คในรูปแบบเว็บอาร์กีฟ ช่วยในการรักษาความถูกต้องในการเก็บรูปภาพของหน้าเว็บหรือเอกสาร
+
+
+
+การอัตโนมัติช่วยให้การตรวจสอบเนื้อหาที่ถูกจัดเก็บสามารถขยายได้ ปรับปรุงความสอดคล้องในการเก็บรักษาเนื้อหาเว็บเวอร์ชันและข้อมูลระยะยาว
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **ความสอดคล้องของเว็บอาร์กีฟ**  
+
+&nbsp; ตรวจจับการเปลี่ยนแปลงข้ามองค์ประกอบที่ฝังอยู่และมาร์กอัป
+
+
+
+* **การตรวจสอบความสมบูรณ์ของสแนปช็อต**  
+
+&nbsp; รับรองว่าการส่งออกที่ถูกจัดเก็บยังคงเป็นจริงตามต้นฉบับ
+
+
+
+* **การติดตามการเปลี่ยนแปลงระดับทรัพยากร**  
+
+&nbsp; เปรียบเทียบภาพที่เชื่อมโยง สไตล์ และสคริปต์
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การตรวจสอบเอกสารเก็บเป็นชุด**  
+
+&nbsp; ประมวลผลปริมาณมหาศาลของเอกสาร MHTML
+
+
+
+* **การเปรียบเทียบสแนปช็อตเว็บโดยอัตโนมัติ**  
+
+&nbsp; ผสานเข้ากับขั้นตอนการทำงานเก็บเอกสาร
+
+
+
+* **รายงานการตรวจจับการเปลี่ยนแปลง**  
+
+&nbsp; สร้างสรุปแบบไดนามิกของความแตกต่าง
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

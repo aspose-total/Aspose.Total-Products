@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi EPUB mengurangi ukuran file eBook, yang berisi teks, gambar, gaya, dan metadata. EPUB yang terkompresi meningkatkan kecepatan unduh, efisiensi penyimpanan, dan kompatibilitas dengan eReader dan perpustakaan digital.
+
+
+
+API Python memungkinkan kompresi EPUB otomatis, pemrosesan batch, dan optimisasi untuk manajemen yang dapat diskalakan dari eBook dan publikasi digital.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Distribusi eBook**  
+
+&nbsp; File EPUB yang lebih kecil memungkinkan unduhan yang lebih cepat dan berbagi yang lebih mudah.
+
+
+
+* **Manajemen Perpustakaan Digital**  
+
+&nbsp; EPUB yang terkompresi mengurangi kebutuhan penyimpanan untuk koleksi besar.
+
+
+
+* **Pengiriman Konten untuk Berbagai Perangkat**  
+
+&nbsp; File yang dioptimalkan memastikan pengalaman membaca yang lancar di eReader dan aplikasi.
+
+
+
+* **Arsip dan Cadangan**  
+
+&nbsp; Penyimpanan efisien untuk volume besar eBook.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi EPUB Batch**  
+
+&nbsp; Otomatisasi optimisasi beberapa file eBook sekaligus.
+
+
+
+* **Optimisasi Gambar dan Teks**  
+
+&nbsp; Kurangi ukuran gambar yang disematkan dan hapus metadata yang redundan.
+
+
+
+* **Integrasi Alur Kerja**  
+
+&nbsp; Kompresi EPUB secara otomatis selama pengunggahan ke perpustakaan digital atau platform.
+
+
+
+* **Penyesuaian Kualitas Dinamis**  
+
+&nbsp; Seimbangkan kualitas gambar dan ukuran file berdasarkan perangkat atau platform.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

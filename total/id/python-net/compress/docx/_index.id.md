@@ -100,7 +100,69 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX adalah format Word modern, yang banyak digunakan untuk dokumen profesional. Kompresi mengurangi penyimpanan dan meningkatkan kecepatan transfer sambil mempertahankan format dan objek yang disematkan.
+
+
+
+API Python dapat mengotomatisasi kompresi DOCX, memungkinkan alur kerja dokumen yang efisien dan terintegrasi dengan sistem cloud.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Penyimpanan Teroptimalkan**  
+  &nbsp; Mengurangi ukuran file DOCX sambil mempertahankan konten dan desain.
+
+
+
+* **Kolaborasi Lebih Cepat**  
+  &nbsp; File yang lebih kecil memudahkan berbagi di antara tim dan platform.
+
+
+
+* **Efisiensi Arsip**  
+  &nbsp; Kompresi otomatis membantu dalam mengelola repositori dokumen besar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi Batch DOCX**  
+  &nbsp; Skrip Python dapat mengompresi beberapa file DOCX sekaligus.
+
+
+
+* **Integrasi dengan Sistem Manajemen Dokumen**  
+  &nbsp; File DOCX yang terkompresi dapat disimpan dan diambil dengan efisien.
+
+
+
+* **Kompresi Cerdas**  
+  &nbsp; Otomatisasi dapat menargetkan file dengan konten media tinggi atau ukuran besar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

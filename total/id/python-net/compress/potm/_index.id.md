@@ -101,7 +101,69 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File POTM (template yang diaktifkan makro) memerlukan kompresi yang menjaga makro sambil mengurangi ukuran file untuk distribusi dan penyimpanan.
+
+
+
+Automasi berbasis Python memungkinkan kompresi POTM secara besar-besaran sambil mempertahankan fungsionalitas template secara penuh.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pelestarian Template Makro**  
+  &nbsp; Kompres file POTM tanpa merusak makro yang disematkan.
+
+
+
+* **Berbagi Template yang Efisien**  
+  &nbsp; Template makro yang lebih kecil meningkatkan kolaborasi dan distribusi cloud.
+
+
+
+* **Arsip Template**  
+  &nbsp; Kompresi otomatis memastikan penyimpanan jangka panjang yang efisien.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi Batch POTM**  
+  &nbsp; Skrip Python dapat memproses beberapa template yang diaktifkan makro secara otomatis.
+
+
+
+* **Integrasi dengan Sistem Alur Kerja**  
+  &nbsp; Template POTM yang terkompresi dapat dimuat secara dinamis ke dalam alur kerja otomatis.
+
+
+
+* **Kompresi Bersyarat**  
+  &nbsp; Otomatisasi menargetkan file dengan makro atau konten media besar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

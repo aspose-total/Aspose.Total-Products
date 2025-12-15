@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การบีบอัด XSL-FO เน้นการลดขนาดของไฟล์ Extensible Stylesheet Language Formatting Objects ซึ่งกำหนดเลยเอกสาร XML ในเรื่องเค้าโครงหน้าและการจัดรูปแบบ การปรับ XSL-FO ให้ดียิ่งขึ้นช่วยเพิ่มประสิทธิภาพในการประมวลผล ความเร็วในการแสดงผล และประสิทธิภาพในการจัดเก็บในกระบวนการสร้างเอกสาร
+
+
+
+Python APIs ช่วยให้สามารถทำการบีบอัด XSL-FO โดยอัตโนมัติ ประมวลผลเป็นชุด และผสานรวมกับท่องไปร์ PDF หรือการพิมพ์สำหรับการแสดงผลเอกสารให้มีประสิทธิภาพ
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การปรับปรุงการแสดงผลเอกสาร**  
+
+&nbsp; ไฟล์ XSL-FO ที่ถูกบีบอัดช่วยเร่งกระบวนการสร้าง PDF และการทำงานของการพิมพ์
+
+
+
+* **การจัดการเอกสารขนาดใหญ่**  
+
+&nbsp; ลดพื้นที่เก็บสำหรับเนื้อหาที่มีรูปแบบอย่างมาก
+
+
+
+* **การเก็บข้อมูลสำรองและสำรองข้อมูล**  
+
+&nbsp; ไฟล์ XSL-FO ที่ถูกปรับปรุงเป็นเรื่องง่ายต่อการเก็บรักษาในระยะยาว
+
+
+
+* **การผสานงานในกระบวนการ**  
+
+&nbsp; ปรับปรุงประสิทธิภาพในท่องไปร์การตีพิมพ์อัตโนมัติ
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การใช้งานอัตโนมัติ" %}}
+
+
+
+* **การบีบอัด XSL-FO แบบกลุ่ม**  
+
+&nbsp; ทำให้การลดขนาดสำหรับไฟล์การจัดรูปแบบหลายไฟล์เป็นอัตโนมัติ
+
+
+
+* **การลบช่องว่างและข้อมูลที่ไม่จำเป็น**  
+
+&nbsp; ลบคำสั่งการจัดรูปแบบที่ไม่จำเป็นโดยอัตโนมัติ
+
+
+
+* **การผสานรวมกับท่องไปร์การแสดงผล**  
+
+&nbsp; บีบอัดไฟล์ก่อนสร้างเอกสาร PDF หรือผลลัพธ์การพิมพ์
+
+
+
+* **การปรับปรุงอย่างไดนามิก**  
+
+&nbsp; ปรับระดับการบีบอัดตามความซับซ้อนของเอกสารหรือจำนวนหน้า
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

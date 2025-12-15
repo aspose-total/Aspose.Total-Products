@@ -75,7 +75,65 @@ Daha fazla ayrıntı için lütfen [Ürün Dokümantasyonu](https://docs.aspose.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+POTM açıklaması, slayt mantığını, düzen talimatlarını ve makro davranışını açıklayan notlar ekleyerek makro etkin sunum şablonlarını geliştirir. Bu şablon kullanılabilirliğini artırır ve tutarlı sunum oluşturmayı sağlar.  
+
+POTM açıklamasının otomatikleştirilmesi, makro kullanımını izlemeyi, düzen politikalarını uygulamayı ve rehberliği programlı olarak güncellemeyi kolaylaştırır.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Senaryoları" %}}
+
+
+
+* **Makro Mantık Notları**  
+
+&nbsp; Otomatik slayt işlevlerini açıklar.
+
+* **Şablon Rehberliği**  
+
+&nbsp; Slayt içeriği için talimatlar sağlar.
+
+* **Tasarım Uyum İşaretleri**  
+
+&nbsp; Gerekli düzen öğelerini vurgular.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Makro Tarama ve Açıklama**  
+
+&nbsp; Algılanan komut dosyalarını otomatik olarak belgeler.
+
+* **Toplu Şablon Bakımı**  
+
+&nbsp; Güncellenmiş rehberlik metnini otomatik olarak uygular.
+
+* **Otomatik Düzen Doğrulaması**  
+
+&nbsp; Programlı olarak uygun olmayan slaytları işaretler.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

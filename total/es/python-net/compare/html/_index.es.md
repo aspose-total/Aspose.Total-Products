@@ -82,7 +82,41 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La comparación de HTML identifica diferencias en el marcado, bloques de contenido, etiquetas, estilos y formato en línea en archivos web o exportados. Asegura la precisión en la representación y presentación del contenido.
+
+La comparación automatizada de HTML brinda soporte para un control de calidad escalable en contenido web, portales de documentación y exportaciones de HTML generadas por sistemas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+- **Seguimiento de revisiones de contenido web**
+  Destaca actualizaciones en elementos de texto y diseño.
+
+- **Verificación de consistencia en documentos exportados**
+  Asegura que las exportaciones HTML coincidan con la estructura esperada.
+
+- **Actualizaciones en documentación técnica**
+  Detecta cambios en bloques de código o secciones informativas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+- **Detección de cambios en el marcado**
+  Identifica automáticamente modificaciones a nivel de etiquetas.
+
+- **Comparación masiva de HTML**
+  Valida grandes colecciones de salidas HTML.
+
+- **Tuberías de publicación automatizadas**
+  Integra controles en sistemas de entrega de contenido continuo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -149,7 +183,7 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

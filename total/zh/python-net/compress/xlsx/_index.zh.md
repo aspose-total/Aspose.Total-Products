@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLSX，现代的Excel格式，通常包含大型数据集、表格和图表。压缩可减少存储需求并提高文件传输速度。
+
+
+
+基于Python的自动化实现可实现可扩展的XLSX压缩，确保与业务工作流程和云系统的无缝集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **数据存储优化**  
+
+  压缩XLSX文件而不影响数据、公式或格式。
+
+
+
+* **更快的协作**  
+
+  更小的文件加快共享和云端上传。
+
+
+
+* **存档和备份效率**  
+
+  自动化压缩以长期管理XLSX文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量XLSX压缩**  
+
+  使用Python脚本自动压缩多个XLSX文件。
+
+
+
+* **工作流集成**  
+
+  压缩后的XLSX文件可在分析管道或DMS系统中处理。
+
+
+
+* **条件压缩**  
+
+  根据大小、嵌入式媒体或数据复杂性来定位文件。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

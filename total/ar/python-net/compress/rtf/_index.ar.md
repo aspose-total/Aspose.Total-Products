@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+تتمكن ملفات RTF (تنسيق النص الغني) من النمو بشكل كبير عندما تحتوي على تنسيق معقد أو كائنات مضمنة؛ يقلل الضغط من حجم الملف دون التأثير على التوافق بين المنصات.
+
+
+
+تمكن واجهات برمجة التطبيقات في Python من ضغط ملفات RTF تلقائيًا، مما يبسط معالجة المستندات في الأنظمة الحديثة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **تحسين تخزين متعدد المنصات**  
+
+&nbsp; ضغط ملفات RTF لاستخدام فعال عبر أنظمة تشغيل وتطبيقات مختلفة.
+
+
+
+* **مشاركة أسرع**  
+
+&nbsp; تحسين ملفات RTF الصغيرة يعزز توزيع البريد الإلكتروني والسحابة.
+
+
+
+* **أرشفة تلقائية**  
+
+&nbsp; يبسط الضغط الدفعي أرشفة المستندات القديمة أو الكبيرة بسهولة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط ملفات RTF دفعيًا**  
+
+&nbsp; معالجة مستندات RTF متعددة تلقائيًا باستخدام نصوص Python.
+
+
+
+* **التكامل مع سير العمل الوثائقي**  
+
+&nbsp; يمكن تحميل ملفات RTF المضغوطة في سير العمل التلقائي أو أنظمة إدارة المستندات.
+
+
+
+* **ضغط مشروط**  
+
+&nbsp; يمكن للتشغيل التلقائي استهداف ملفات RTF استنادًا إلى الحجم أو المحتوى المضمن.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

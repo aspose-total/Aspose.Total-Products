@@ -78,7 +78,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Tệp mẫu XLT được nén để giảm dung lượng lưu trữ và cải thiện phân phối mà không làm thay đổi cấu trúc mẫu.
+
+
+
+API Python cho phép nén tự động các mẫu XLT để quản lý mẫu có khả năng mở rộng.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Tối Ưu Hóa Lưu Trữ Mẫu**  
+
+&nbsp; Nén các tệp XLT trong khi bảo tồn định dạng và công thức.
+
+
+
+* **Chia Sẻ Mẫu Nhanh Hơn**  
+
+&nbsp; Dung lượng tệp giảm nhỏ giúp phân phối nhanh chóng đến các nhóm.
+
+
+
+* **Lưu Trữ Tự Động**  
+
+&nbsp; Các mẫu được nén giúp đơn giản hóa quản lý lưu trữ dài hạn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Mẫu Theo Lô**  
+
+&nbsp; Tự động xử lý nhiều tệp XLT bằng cách sử dụng kịch bản Python.
+
+
+
+* **Tích Hợp với Hệ Thống Luồng Công Việc**  
+
+&nbsp; Các mẫu được nén có thể được tải động vào các luồng công việc tự động.
+
+
+
+* **Nén Có Điều Kiện**  
+
+&nbsp; Tự động hóa có thể nhắm vào các mẫu có tập dữ liệu lớn hoặc công thức phức tạp.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

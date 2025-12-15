@@ -43,9 +43,79 @@ Pour un développeur, qui essaie de créer des fichiers DOTX via une application
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTX — `.dotx` est le modèle sans macro (OOXML) idéal pour une distribution de modèles sécurisée et une génération de documents déterministe. Les API Python peuvent produire des modèles DOTX avec des styles, des contrôles de contenu et des espaces réservés pour le contenu, permettant une modélisation robuste sans macro pour les systèmes automatisés.
+
+
+
+DOTX convient aux environnements qui interdisent les macros pour des raisons de sécurité mais qui nécessitent toujours une modélisation cohérente et une population de contenu dynamique. L'automatisation permet une modélisation sécurisée et évolutive, ainsi qu'une génération descendante d'instances DOCX sans incorporation de code exécutable.
+
+La génération de modèles programmable prend en charge les espaces réservés pilotés par un schéma, les contrôles de contenu et la validation de modèle.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Distribution sécurisée de modèles**
+
+&nbsp; Créez des modèles DOTX sans macro pour une large distribution dans des environnements sécurisés.
+
+
+
+* **Modèles de formulaire et de contrôle de contenu**
+
+&nbsp; Construisez des modèles DOTX avec des contrôles de contenu pour l'automatisation descendante.
+
+
+
+* **Assemblage de documents piloté par modèle**
+
+&nbsp; Utilisez les modèles DOTX comme source autoritaire pour la création de documents programmable.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Pipelines de modèles sécurisés**
+
+&nbsp; Automatisez la génération de DOTX et appliquez des politiques qui empêchent l'inclusion de macros.
+
+
+
+* **Emplois de validation de modèle**
+
+&nbsp; Exécutez des vérifications automatisées pour garantir que les espaces réservés et les styles correspondent aux attentes du schéma.
+
+
+
+* **Utilisation de modèles pilotée par API**
+
+&nbsp; Fournissez des modèles DOTX via une API interne pour la génération de DOCX à la demande.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

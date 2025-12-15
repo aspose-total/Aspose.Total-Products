@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+EPUB sıkıştırması, metin, resimler, stiller ve meta veri içeren eBook dosyalarının boyutunu azaltır. Sıkıştırılmış EPUB'lar indirme hızını, depolama verimliliğini ve e-okuyucular ile dijital kütüphanelerle uyumluluğu artırır.
+
+
+
+Python API'leri otomatik EPUB sıkıştırmasını, toplu işleme ve kitapların ve dijital yayınların ölçeklenebilir yönetimi için optimizasyonu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **eBook Dağıtımı**  
+
+&nbsp; Daha küçük EPUB dosyaları daha hızlı indirmeleri ve kolay paylaşımı sağlar.
+
+
+
+* **Dijital Kütüphane Yönetimi**  
+
+&nbsp; Sıkıştırılmış EPUB'lar büyük koleksiyonlar için depolama gereksinimlerini azaltır.
+
+
+
+* **Birden Fazla Cihaza İçerik Dağıtımı**  
+
+&nbsp; Optimize edilmiş dosyalar, e-okuyucular ve uygulamalar arasında sorunsuz okuma deneyimi sağlar.
+
+
+
+* **Arşiv ve Yedekleme**  
+
+&nbsp; Büyük miktarda eBook için verimli depolama sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu EPUB Sıkıştırma**  
+
+&nbsp; Birden fazla eBook dosyasının otomatik olarak optimize edilmesini sağlar.
+
+
+
+* **Resim ve Metin Optimizasyonu**  
+
+&nbsp; Gömülü resimlerin boyutunu azaltır ve gereksiz meta verileri kaldırır.
+
+
+
+* **İş Akışı Entegrasyonu**  
+
+&nbsp; EPUB'ların dijital kütüphanelere veya platformlara yüklenirken otomatik olarak sıkıştırılmasını sağlar.
+
+
+
+* **Dinamik Kalite Ayarı**  
+
+&nbsp; Cihaza veya platforma bağlı olarak resim kalitesi ve dosya boyutunu dengelemeyi sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

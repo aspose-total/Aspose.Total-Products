@@ -75,7 +75,65 @@ DOCM 주석 앱이나 유틸리티를 개발해야 합니까?[Aspose.Total for P
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM 주석을 추가하면 매크로가 활성화된 워드 문서에 노트, 강조 표시 및 메타데이터를 추가할 수 있어 동적 스크립팅이나 내장 자동화를 필요로 하는 워크플로를 지원합니다. 이를 통해 사용자는 논리를 문서화하고 변경 사항을 추적하며 매크로 동작 주변의 명확성을 유지할 수 있습니다.
+
+DOCM 파일에 주석을 프로그래밍적으로 추가함으로써 자동화 시스템은 매크로 사용을 모니터링하고 문서 일관성을 향상시키며 검증 프로세스를 간소화할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **매크로 문서화**  
+
+  덕스트 내부의 매크로 주도 작업을 레이블 및 설명합니다.
+
+* **컴플라이언스 추적**  
+
+  필요한 스크립트나 검증을 확인하는 노트를 추가합니다.
+
+* **변경 로깅**  
+
+  가시성을 위해 매크로 관련 업데이트를 강조 표시합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **매크로 스캔 및 주석 추가**  
+
+  감지된 매크로 기능을 설명하는 코멘트를 자동으로 삽입합니다.
+
+* **동적 컴플라이언스 보고서**  
+
+  매크로가 특정 검사를 통과하거나 실패할 때 주석을 채웁니다.
+
+* **스크립트 기반 검토 도구**  
+
+  Python을 사용하여 구조화된 주석을 대규모로 적용합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

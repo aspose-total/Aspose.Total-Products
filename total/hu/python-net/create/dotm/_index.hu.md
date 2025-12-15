@@ -43,9 +43,79 @@ Egy fejlesztő számára ki próbál DOTM fájlokat létrehozni Python alkalmaz�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM — A `.dotm` sablonok ötvözik a sablonkészítést a makró támogatásával, lehetővé téve a makróval ellátott újrafelhasználható sablonok létrehozását automatizált dokumentumviselkedésekhez. A DOTM fájlok Python által vezérelt létrehozása lehetővé teszi olyan sablonok terjesztését, amelyek jóváhagyott VBA automatizálást tartalmaznak, miközben programozható módon irányítják a makró tartalmát.
+
+
+
+Ez a formátum olyan szervezetek számára megfelelő, amelyek ismételhető, makróval ellátott sablonokat igényelnek helyi automatizálási feladatokhoz, miközben biztosítják, hogy a makrókat programozottan szabályozzák, ellenőrizzék és opcionálisan aláírják a sablonépítés folyamatában.
+
+Az automatizáció lehetővé teszi a biztonságos makró életcikluskezelést—generálást, elemzést, aláírást és telepítést—CI/CD csővezetékek keretében.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Makróval ellátott Sablonkönyvtárak**
+
+  Nyújtsanak DOTM sablonokat, amelyek ismételhető automatizálást tartalmaznak helyi felhasználók számára.
+
+
+
+* **Irányított Sablonautomatizálás**
+
+  Biztosítsák, hogy a sablonok csak belső munkafolyamatokhoz jóváhagyott makrókat tartalmazzanak.
+
+
+
+* **Sablonalapú Dokumentumgenerálás**
+
+  Használják a DOTM-t forrásként DOCM/DOCX példányok generálásához beágyazott viselkedésekkel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **CI Csővezeték a Sablonok QA-jához**
+
+  Automatikusan ellenőrizze a VBA viselkedést és a sablon integritását a terjesztés előtt.
+
+
+
+* **Sablonok Biztonságos Telepítése**
+
+  Ágyazza be a digitális aláírásokat és küldje el a DOTM fájlokat a felhasználóknak kezelt csatornákon keresztül.
+
+
+
+* **Dinamikus Makró Beinjekció**
+
+  Programozottan frissítse a makró modulokat a DOTM sablonokban biztonságos tárolókból.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -101,7 +101,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODP komprese snižuje velikost souborů prezentací ve formátu OpenDocument Presentation, optimalizuje snímky s textem, obrázky a vloženými médii. Komprimované soubory ODP zlepšují účinnost uložení, rychlejší načítání a plynulejší výkon při prezentacích.
+
+
+
+Python API umožňuje automatizovanou kompresi ODP, zpracování dávek a optimalizaci médií pro škálovatelné řízení prezentací a dodávkové pracovní postupy.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace prezentace**  
+
+&nbsp; Menší soubory ODP se rychleji načítají v editorech a prohlížečích.
+
+
+
+* **Účinnost uložení a archivace**  
+
+&nbsp; Snížení využití místa na disku pro velké knihovny snímků.
+
+
+
+* **Sdílení obsahu a distribuce**  
+
+&nbsp; Komprimované soubory se rychle přenášejí po sítích a zařízeních.
+
+
+
+* **Integrace pracovního postupu**  
+
+&nbsp; Optimalizované soubory ODP zlepšují výkon v automatizovaných potrubích prezentací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Dávková komprese ODP**  
+
+&nbsp; Automatizujte optimalizaci více souborů prezentací.
+
+
+
+* **Optimalizace médií a obrázků**  
+
+&nbsp; Automatická komprese vložených obrázků a médií.
+
+
+
+* **Integrace s CMS nebo DAM**  
+
+&nbsp; Kompresovat soubory ODP během nahrávání nebo archivačních procesů.
+
+
+
+* **Dynamická komprese**  
+
+&nbsp; Nastavte intenzitu komprese na základě obsahu snímku a hustoty médií.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -68,7 +68,75 @@ Para obter mais detalhes, consulte [Documentação do produto](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A comparação de ODP examina o conteúdo, layouts, formatação e mídia incorporada ao nível do slide nas apresentações de documentos abertos. Ela suporta a revisão precisa de materiais de comunicação visual.
+
+
+
+A comparação automatizada de ODP melhora a escalabilidade, permitindo uma verificação rápida em grandes bibliotecas de apresentações e ciclos de atualização colaborativos.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Rastreamento de Revisão de Slides**  
+
+&nbsp; Destaca atualizações em texto, mídia e design.
+
+
+
+* **Verificações de Consistência de Tema**  
+
+&nbsp; Garante que as regras do modelo permaneçam intactas.
+
+
+
+* **Revisão de Conteúdo Visual**  
+
+&nbsp; Detecta mudanças de layout ou conteúdo nos slides.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Comparação em Massa de Slides ODP**  
+
+&nbsp; Compara apresentações de forma eficiente em escala.
+
+
+
+* **Alertas de Mudanças Automatizadas nos Slides**  
+
+&nbsp; Sinaliza atualizações críticas de forma programática.
+
+
+
+* **Validação Contínua de Slides**  
+
+&nbsp; Integra verificações nos fluxos de trabalho de criação de apresentações.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

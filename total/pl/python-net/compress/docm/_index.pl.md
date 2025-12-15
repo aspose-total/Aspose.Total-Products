@@ -100,7 +100,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pliki DOCM zawierające makra korzystają z kompresji w celu zoptymalizowania przechowywania, zachowując funkcjonalność makr i formatowanie.
+
+
+
+Za pomocą interfejsów API Pythona, zautomatyzowana kompresja DOCM zapewnia integralność makr i usprawnia obsługę dokumentów w zautomatyzowanych procesach.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Bezpieczne przechowywanie makr**  
+
+&nbsp; Kompresuj pliki DOCM, nie naruszając osadzonych makr.
+
+
+
+* **Szybsze udostępnianie plików**  
+
+&nbsp; Zmniejszone rozmiary umożliwiają szybkie załączanie do e-maili i przesyłanie do chmury.
+
+
+
+* **Zarządzanie archiwami**  
+
+&nbsp; Zautomatyzowana kompresja pomaga w długoterminowym przechowywaniu dokumentów z makrami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Kompresja wsadowa dokumentów z makrami**  
+
+&nbsp; Zautomatyzuj przetwarzanie wielu plików DOCM, zachowując funkcjonalność.
+
+
+
+* **Integracja z automatyzacją biurową**  
+
+&nbsp; Skompresowane pliki mogą być zarządzane w systemach przepływu pracy lub rozwiązaniach DMS.
+
+
+
+* **Warunkowa kompresja makr**  
+
+&nbsp; Skrypty Pythona mogą selektywnie kompresować pliki DOCM na podstawie rozmiaru lub zawartości.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

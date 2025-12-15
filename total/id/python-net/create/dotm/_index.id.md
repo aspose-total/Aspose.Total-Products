@@ -43,9 +43,81 @@ Untuk pengembang, siapa yang mencoba membuat file DOTM melalui aplikasi Python? 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM — `.dotm` template menggabungkan templating dengan dukungan makro, memungkinkan pembuatan template yang dapat digunakan kembali dengan dukungan makro untuk perilaku dokumen otomatis. Pembuatan file DOTM yang didorong oleh Python memungkinkan distribusi template yang mencakup otomatisasi VBA yang disetujui sambil mengontrol konten makro secara programatik.
+
+
+
+Format ini cocok untuk organisasi yang memerlukan template yang dapat diulang dengan dukungan makro untuk tugas otomatisasi lokal sambil memastikan makro dikelola, divalidasi, dan opsional ditandatangani selama proses pembuatan template.
+
+
+
+Otomatisasi memungkinkan manajemen siklus hidup makro yang aman—generasi, analisis, penandatanganan, dan implementasi—dalam pipeline CI/CD.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Perpustakaan Template yang Mendukung Makro**
+
+  Berikan template DOTM yang menggabungkan otomatisasi yang dapat diulang untuk pengguna lokal.
+
+
+
+* **Otomatisasi Template yang Terkendali**
+
+  Pastikan template hanya mencakup makro yang divalidasi untuk alur kerja internal.
+
+
+
+* **Generasi Dokumen Berbasis Template**
+
+  Gunakan DOTM sebagai sumber untuk menghasilkan instansi DOCM/DOCX dengan perilaku tersemat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pipeline CI untuk QA Template**
+
+  Validasi perilaku VBA dan integritas template secara otomatis sebelum distribusi.
+
+
+
+* **Implementasi Aman Template**
+
+  Tanamkan tanda tangan digital dan kirimkan file DOTM ke pengguna melalui saluran yang dikelola.
+
+
+
+* **Injeksi Makro Dinamis**
+
+  Perbarui modul makro di dalam template DOTM secara programatik dari penyimpanan yang aman.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

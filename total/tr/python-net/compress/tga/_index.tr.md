@@ -78,7 +78,87 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+TGA sıkıştırması, Targa rastgele görüntülerinin boyutunu azaltmaya odaklanırken renk derinliğini ve alfa kanallarını korur. TGA dosyaları genellikle oyun, 3D grafik ve görsel efektlerde kullanılır ve sıkıştırma, medya boru hatlarında verimli depolama ve daha hızlı işleme için önemlidir.
+
+
+
+Python API'leri otomatik TGA sıkıştırmasına, toplu işleme ve modern formatlara dönüştürmeye olanak tanır, oyun geliştirme, animasyon ve dijital medya üretimi için ölçeklenebilir iş akışlarını destekler.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Oyun Varlığı Optimizasyonu**  
+
+&nbsp; TGA dosyalarının sıkıştırılması depolama gereksinimlerini azaltır ve oyunlardaki yükleme sürelerini iyileştirir.
+
+
+
+* **3D Grafik Boru Hatları**  
+
+&nbsp; Daha küçük TGA dosyaları, doku yönetimini ve renderleme iş akışlarını kolaylaştırır.
+
+
+
+* **Görsel Efekt Üretimi**  
+
+&nbsp; Optimize edilmiş TGA görüntüleri büyük kare dizilerini verimli bir şekilde yönetmeye yardımcı olur.
+
+
+
+* **Arşiv Depolama**  
+
+&nbsp; Yüksek çözünürlüklü varlıkların uzun vadeli depolaması için dosya boyutunu azaltır.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu TGA Sıkıştırma**  
+
+&nbsp; Büyük TGA dosya setlerinin toplu olarak optimize edilmesini otomatikleştirin.
+
+
+
+* **Alfa Kanalı Koruma**  
+
+&nbsp; Depolama alanını azaltmak için sıkıştırırken şeffaflığı koruyun.
+
+
+
+* **Boru Hatlarına Entegrasyon**  
+
+&nbsp; TGA dosyaları varlık yönetim sistemlerine yüklendiğinde otomatik olarak sıkıştırılabilir.
+
+
+
+* **Dinamik Çözünürlük Tabanlı Sıkıştırma**  
+
+&nbsp; Görüntü boyutuna, çözünürlüğe veya kullanım bağlamına göre sıkıştırma seviyelerini ayarlayın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

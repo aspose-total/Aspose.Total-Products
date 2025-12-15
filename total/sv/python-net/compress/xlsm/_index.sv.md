@@ -78,7 +78,75 @@ För mer information, se [Product Documentation](https://docs.aspose.com/zip/pyt
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLSM-filer (makroaktiverade Excel-arbetsböcker) kräver komprimering som bevarar inbäddade makron samtidigt som lagring och delning optimeras.
+
+
+
+Python-API:er möjliggör automatiserad XLSM-komprimering, vilket bibehåller makrofunktionalitet och möjliggör skalbar integrering av arbetsflöden.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsområden" %}}
+
+
+
+* **Makrobevarande**  
+
+&nbsp; Komprimera XLSM-filer säkert utan att bryta inbäddade makron.
+
+
+
+* **Snabbare delning och samarbete**  
+
+&nbsp; Mindre XLSM-filer underlättar teamarbete och molnuppladdningar.
+
+
+
+* **Automatiserad arkivering**  
+
+&nbsp; Komprimering säkerställer effektiv lagring för makroaktiverade arbetsböcker.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario" %}}
+
+
+
+* **Batch XLSM-komprimering**  
+
+&nbsp; Python-skript kan bearbeta flera makroaktiverade filer automatiskt.
+
+
+
+* **Integration med BI- och DMS-plattformar**  
+
+&nbsp; Komprimerade filer kan hanteras i automatiserade system.
+
+
+
+* **Villkorlig komprimering**  
+
+&nbsp; Automatisering kan rikta in sig på filer med stora makron eller tungt medieinnehåll.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

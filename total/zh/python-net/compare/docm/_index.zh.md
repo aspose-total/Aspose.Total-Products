@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM比较侧重于识别宏启用文档中的变化，涵盖文本、格式和嵌入式逻辑变化。这确保准确跟踪可见内容和内部自动化组件。
+
+
+
+自动化DOCM比较增强了宏完整性的监控，减少了未经授权的编辑风险，并支持在高容量环境中的可扩展验证。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **宏完整性验证**  
+
+  检测嵌入宏的更改以及常规内容更新。
+
+
+
+* **文档生命周期审计**  
+
+  确保草稿之间的更改保持合规和有意义。
+
+
+
+* **模板管理**  
+
+  跟踪从动态模板构建的文档中的差异。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **自动化宏更改检测**  
+
+  为安全性和版本控制标记宏代码的修改。
+
+
+
+* **批量模板比较**  
+
+  自动比较大量的DOCM文件以确保一致性。
+
+
+
+* **智能更新监控**  
+
+  将程序化检查集成到业务工作流程中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

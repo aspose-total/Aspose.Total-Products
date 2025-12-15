@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM 파일(매크로 활성화된 PowerPoint Show)은 파일 크기를 줄이면서 매크로를 보존하는 압축이 필요하여 효율적인 공유와 저장을 위해 필요합니다.
+
+
+
+파이썬 기반 자동화를 통해 확장 가능한 PPSM 압축을 유지하면서 매크로 기능을 유지할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **매크로 보존**  
+
+&nbsp; 매크로를 손상시키지 않고 PPSM 파일을 안전하게 압축합니다.
+
+
+
+* **빠른 공유**  
+
+&nbsp; 작은 파일 크기로 팀 또는 클라우드 저장소에 효율적으로 배포할 수 있습니다.
+
+
+
+* **보관 관리**  
+
+&nbsp; 자동화된 압축을 통해 매크로 활성화된 쇼 파일의 장기 저장을 보장합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 PPSM 압축**  
+
+&nbsp; 파이썬 스크립트를 사용하여 여러 매크로 활성화된 쇼 파일을 자동으로 처리할 수 있습니다.
+
+
+
+* **워크플로 시스템 통합**  
+
+&nbsp; 압축된 PPSM 파일을 자동화된 프레젠테이션 워크플로에 사용할 수 있습니다.
+
+
+
+* **조건부 압축**  
+
+&nbsp; 매크로 사용 또는 포함된 미디어에 따라 파일을 대상으로 최적화합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

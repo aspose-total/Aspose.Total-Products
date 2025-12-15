@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+OTP圧縮は、テキスト文書用のOpenDocumentテンプレートファイルのサイズを縮小します。OTPの最適化により、テンプレートベースの文書作成のためのストレージ効率、高速な配布、ワークフローのパフォーマンスが向上します。
+
+
+
+Python APIを使用すると、自動OTP圧縮、バッチ処理、スケーラブルな文書自動化ワークフローのテンプレート管理が可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **テンプレートの最適化**  
+
+&nbsp; 大規模なテンプレートライブラリのストレージフットプリントを削減します。
+
+
+
+* **より速い共有とコラボレーション**  
+
+&nbsp; より小さなOTPファイルは、チームやネットワーク間で迅速に送信されます。
+
+
+
+* **ワークフローの効率化**  
+
+&nbsp; 圧縮されたテンプレートは読み込みと編集の速度を向上させます。
+
+
+
+* **アーカイブとバックアップ**  
+
+&nbsp; テンプレートファイルの長期保存のための効率的なストレージです。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチOTP圧縮**  
+
+&nbsp; 複数のテンプレートのサイズを自動的に縮小します。
+
+
+
+* **コンテンツとメディアの最適化**  
+
+&nbsp; 埋め込み画像やスタイルを自動的に圧縮します。
+
+
+
+* **ドキュメントパイプラインへの統合**  
+
+&nbsp; 自動化されたテンプレート展開やストレージ中にOTPファイルを圧縮します。
+
+
+
+* **ダイナミックな圧縮ルール**  
+
+&nbsp; テンプレートの複雑さやコンテンツ密度に基づいて最適化を調整します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

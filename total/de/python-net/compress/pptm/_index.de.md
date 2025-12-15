@@ -101,7 +101,75 @@ Weitere Einzelheiten finden Sie unter [Product Documentation](https://docs.aspos
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTM-Dateien (makrofähige Präsentationen) profitieren von einer Komprimierung, die Makros erhält und gleichzeitig die Dateigröße für gemeinsame Nutzung und Speicherung reduziert.
+
+
+
+Python-APIs ermöglichen eine automatisierte PPTM-Komprimierung unter Beibehaltung der Makrofunktionalität für Unternehmensabläufe.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Hauptanwendungsfälle" %}}
+
+
+
+* **Makroerhaltung**  
+
+&nbsp; Komprimieren von PPTM-Dateien, ohne eingebettete Makros zu beschädigen.
+
+
+
+* **Schnellere Zusammenarbeit**  
+
+&nbsp; Kleinere makrofähige Dateien erleichtern das Teilen im Team und das Hochladen in die Cloud.
+
+
+
+* **Automatisierte Archivierung**  
+
+&nbsp; Die Komprimierung gewährleistet eine effiziente Langzeitarchivierung von Präsentationen mit Makros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatisierungsszenarien" %}}
+
+
+
+* **Stapelverarbeitung von PPTM-Dateien**  
+
+&nbsp; Python-Skripte können mehrere makrofähige Dateien automatisch verarbeiten.
+
+
+
+* **Integration in Workflowsysteme**  
+
+&nbsp; Komprimierte PPTM-Dateien können in automatisierten Dokumenten-Workflows verwendet werden.
+
+
+
+* **Bedingte Komprimierung**  
+
+&nbsp; Die Automatisierung kann Dateien mit großen Medien oder komplexen Makros gezielt ansprechen.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

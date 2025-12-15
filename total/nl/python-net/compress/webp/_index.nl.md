@@ -78,7 +78,41 @@ Voor meer details verwijzen wij u naar [Product Documentation](https://docs.aspo
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## WEBP-compressie
+
+WEBP-compressie richt zich op het verkleinen van de bestandsgrootte voor webgeoptimaliseerde afbeeldingen met behoud van een hoge visuele kwaliteit. WEBP ondersteunt zowel verliesgevende als verliesloze compressie, waardoor het ideaal is voor webgraphics, app-interfaces en digitale inhoudslevering.
+
+Python-API's maken geautomatiseerde WEBP-compressie, batchverwerking en conversie van andere formaten mogelijk, waardoor schaalbare workflows worden ondersteund voor webprestatieoptimalisatie en cloudgebaseerd beheer van afbeeldingen.
+
+## Gebruiksscenario's
+
+- **Web- en app-prestaties**
+  Comprimeerde WEBP-afbeeldingen verbeteren de laadsnelheid van pagina's en verminderen het bandbreedtegebruik.
+
+- **Responsieve digitale inhoud**
+  Behoudt hoogwaardige visuele elementen voor websites, apps en online platforms.
+
+- **Marketing- en socialemedia-assets**
+  Kleinere WEBP-bestanden zorgen voor snellere upload en weergave van campagnes.
+
+- **Archivering en cloudopslag**
+  Vermindert de opslagvereisten voor grote afbeeldingsbibliotheken.
+
+## Automatiseringsscenario's
+
+- **Batch WEBP-compressie**
+  Automatiseert het comprimeren van meerdere WEBP-bestanden in één door Python aangestuurd proces.
+
+- **Verliesloze of verliesgevende selectie**
+  Automatisering kiest het optimale compressietype op basis van de inhoud en vereisten van de afbeelding.
+
+- **Workflow-integratie**
+  Comprimeert WEBP-afbeeldingen automatisch tijdens het uploaden naar CMS, DAM of cloudplatforms.
+
+- **Dynamische kwaliteitsaanpassing**
+  Compressie kan worden afgestemd op basis van resolutie, doelapparaat of netwerkcondities.
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

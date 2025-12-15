@@ -75,7 +75,59 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Les documents d'annotation PPTM décrivent la logique des macros et ajoutent des notes structurées aux fichiers de présentation activés par macro, améliorant ainsi la maintenabilité et la précision de la révision. Cela garantit la clarté autour du comportement automatisé des diapositives.
+
+L'automatisation améliore les flux de travail PPTM en analysant les scripts, en générant des annotations et en signalant les problèmes liés aux interactions basées sur les macros.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principaux cas d'utilisation" %}}
+
+
+
+* **Notes d'explication des macros**
+   Documenter la logique d'automatisation des diapositives.
+
+* **Retours de conception**
+   Ajouter des commentaires concernant la structure ou le contenu.
+
+* **Suivi des comportements**
+   Identifier les diapositives affectées par les macros.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Outils de détection des macros**
+   Annoter automatiquement les sections liées aux macros.
+
+* **Audits de logique des diapositives**
+   Insérer des avertissements ou des notes basés sur des règles.
+
+* **Mises à jour groupées de modèles**
+   Appliquer des annotations à travers plusieurs fichiers PPTM.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

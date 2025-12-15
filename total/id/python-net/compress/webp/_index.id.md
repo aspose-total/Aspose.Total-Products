@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi WEBP berfokus pada pengurangan ukuran file untuk gambar yang dioptimalkan web sambil mempertahankan kualitas visual yang tinggi. WEBP mendukung kompresi lossy dan lossless, menjadikannya ideal untuk grafis web, antarmuka aplikasi, dan pengiriman konten digital.
+
+
+
+API Python memungkinkan kompresi WEBP otomatis, pemrosesan batch, dan konversi dari format lain, mendukung alur kerja yang dapat diskalakan untuk optimisasi kinerja web dan manajemen gambar berbasis cloud.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Kinerja Web dan Aplikasi**  
+
+&nbsp; Gambar WEBP yang terkompresi meningkatkan kecepatan muat halaman dan mengurangi penggunaan bandwidth.
+
+
+
+* **Konten Digital Responsif**  
+
+&nbsp; Menjaga visual berkualitas tinggi untuk situs web, aplikasi, dan platform online.
+
+
+
+* **Aset Pemasaran dan Media Sosial**  
+
+&nbsp; File WEBP yang lebih kecil memastikan pengunggahan dan rendering yang lebih cepat untuk kampanye.
+
+
+
+* **Arsip dan Penyimpanan Cloud**  
+
+&nbsp; Mengurangi persyaratan penyimpanan untuk perpustakaan gambar besar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi WEBP Batch**  
+
+&nbsp; Secara otomatis mengompresi beberapa file WEBP dalam satu proses yang didorong Python.
+
+
+
+* **Pemilihan Lossless atau Lossy**  
+
+&nbsp; Otomatisasi memilih tipe kompresi optimal berdasarkan konten gambar dan persyaratan.
+
+
+
+* **Integrasi Alur Kerja**  
+
+&nbsp; Kompresi gambar WEBP secara otomatis selama pengunggahan ke CMS, DAM, atau platform cloud.
+
+
+
+* **Penyesuaian Kualitas Dinamis**  
+
+&nbsp; Kompresi dapat disesuaikan berdasarkan resolusi, perangkat target, atau kondisi jaringan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

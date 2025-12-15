@@ -78,7 +78,75 @@ Więcej szczegółów można znaleźć w [Product Documentation](https://docs.as
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Pliki szablonów XLT korzystają z kompresji w celu zmniejszenia miejsca na dysku i poprawy dystrybucji bez zmiany struktury szablonu.
+
+
+
+Interfejsy API Pythona umożliwiają zautomatyzowaną kompresję szablonów XLT w celu skalowalnego zarządzania szablonami.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Główne przypadki użycia" %}}
+
+
+
+* **Optymalizacja przechowywania szablonów**  
+
+&nbsp; Kompresja plików XLT zachowując formatowanie i formuły.
+
+
+
+* **Szybsze udostępnianie szablonów**  
+
+&nbsp; Zmniejszone rozmiary plików umożliwiają szybką dystrybucję w zespołach.
+
+
+
+* **Automatyczne archiwizowanie**  
+
+&nbsp; Skompresowane szablony ułatwiają zarządzanie przechowywaniem długoterminowym.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+
+
+* **Kompresja wsadowa szablonów**  
+
+&nbsp; Zautomatyzuj przetwarzanie wielu plików XLT za pomocą skryptów Pythona.
+
+
+
+* **Integracja z systemami przepływu pracy**  
+
+&nbsp; Skompresowane szablony mogą być dynamicznie ładowane do zautomatyzowanych przepływów pracy.
+
+
+
+* **Kompresja warunkowa**  
+
+&nbsp; Automatyzacja może być skierowana na szablony z dużymi zestawami danych lub złożonymi formułami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,27 @@ Pour plus de détails, veuillez vous référer à [Product Documentation](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```html
+<h2>Introduction</h2>
+
+<p>Welcome to our website! We offer a wide range of products to meet your needs. Check out our featured products below:</p>
+
+{< blocks/products/pf/agp/feature-section >}
+
+## Our Products
+
+- High-quality materials
+- Affordable prices
+- Fast shipping
+
+{< blocks/products/pf/agp/feature-section >}
+
+<h2>Contact Us</h2>
+
+<p>If you have any questions, feel free to contact us at info@website.com or call us at 123-456-7890.</p>
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

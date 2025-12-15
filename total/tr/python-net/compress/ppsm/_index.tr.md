@@ -101,7 +101,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSM dosyaları (makro etkin PowerPoint Gösterisi), makroları koruyarak dosya boyutunu azaltarak verimli paylaşım ve depolama için sıkıştırma gerektirir.
+
+
+
+Python tabanlı otomasyon, makro işlevselliğini korurken ölçeklenebilir PPSM sıkıştırması sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Makro Koruma**  
+
+&nbsp; Makroları bozmadan PPSM dosyalarını güvenli bir şekilde sıkıştırın.
+
+
+
+* **Daha Hızlı Paylaşım**  
+
+&nbsp; Daha küçük dosyalar, ekipler veya bulut depolamaya verimli dağıtımı sağlar.
+
+
+
+* **Arşiv Yönetimi**  
+
+&nbsp; Otomatik sıkıştırma, makro etkin gösteri dosyalarının uzun vadeli depolanmasını sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu PPSM Sıkıştırma**  
+
+&nbsp; Python betikleri birden fazla makro etkin gösteri dosyasını otomatik olarak işleyebilir.
+
+
+
+* **İş Akışı Sistemleriyle Entegrasyon**  
+
+&nbsp; Sıkıştırılmış PPSM dosyaları otomatik sunum iş akışlarında kullanılabilir.
+
+
+
+* **Koşullu Sıkıştırma**  
+
+&nbsp; Makro kullanımına veya optimize etme amacıyla gömülü medyaya dayalı hedef dosyalar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

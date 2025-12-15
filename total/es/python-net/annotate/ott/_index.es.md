@@ -75,7 +75,65 @@ Para obtener más detalles, consulte [Documentación del producto](https://docs.
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La anotación OTT mejora los documentos de texto de plantilla al incrustar notas de orientación, marcadores de posición y metadatos estructurados dentro de plantillas de formato abierto. Esto garantiza una producción de documentos consistente e instrucciones más claras para el usuario final.
+
+La automatización mejora los flujos de trabajo de OTT al aplicar reglas de plantilla, actualizar el texto de anotación y hacer cumplir estructuras estándar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Caso de uso clave" %}}
+
+
+
+* **Instrucciones de plantilla**  
+
+&nbsp; Proporcionar orientación para completar cada sección.
+
+* **Estándares de formato**  
+
+&nbsp; Resaltar áreas que requieren estilos específicos.
+
+* **Documentación de revisión**  
+
+&nbsp; Marcar cambios dentro de las actualizaciones de plantillas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+
+
+* **Actualizaciones de plantillas impulsadas por script**  
+
+&nbsp; Aplicar nuevas instrucciones en todas las plantillas automáticamente.
+
+* **Marcadores de cumplimiento**  
+
+&nbsp; Identificar y anotar campos requeridos faltantes.
+
+* **Aplicación dinámica de reglas**  
+
+&nbsp; Agregar notas activadas por la lógica de la plantilla.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

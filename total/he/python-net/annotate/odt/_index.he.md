@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ההערה ב־ODT מספקת הערות מובנות, הדגשה, והערות הקשר לקבצי טקסט בפורמט פתוח, משפרת את בהירות התוכן ואת שיתוף הפעולה על מסמכים. זה משפר את השימושיות בכל הפלטפורמות שמשתמשות בתקנים פתוחים.  
+
+ההערה האוטומטית ב־ODT משפרת את היעילות על ידי החלת הערות בהתאם לכללים, סריקת תוכן, ועדכון של נתוני מטה תכניתית.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **הערות עריכת תוכן**  
+
+&nbsp; הוספת הערות לקטעים הזקוקים לשיפור.
+
+* **הדגשת סמנטית**  
+
+&nbsp; הדגשת ביטויים או נושאים חשובים.
+
+* **מטה תכנותי לשיתוף פעולה**  
+
+&nbsp; הוספת הערות מובנות לצורך סיווג.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **הערות אימות אוטומטיות**  
+
+&nbsp; החלת הצעות שנוצרו על ידי המערכת באמצעות פייתון.
+
+* **סקירת מסמכים בצורה גורמתית**  
+
+&nbsp; עיבוד והערה על מסמכי ODT מרובים יחד.
+
+* **סימון מקובל**  
+
+&nbsp; הוספת תזכורות או הנחיות עקביות באמצעות סקריפטים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

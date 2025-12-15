@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XPS（XML Paper Specification）の圧縮は、固定レイアウトのドキュメントのサイズを縮小し、品質、ベクターグラフィックス、埋め込みフォントを保持しながら、ストレージ効率、送信、デバイス間のレンダリングパフォーマンスを向上させます。
+
+
+
+Python APIを使用すると、自動化されたXPSの圧縮、バッチ処理、およびスケーラブルなコンテンツ管理と配布のためのドキュメントワークフローへの統合が可能になります。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+
+
+* **ドキュメントのアーカイブ**  
+
+&nbsp; 品質の低下なしでXPSファイルを長期保存用に圧縮します。
+
+
+
+* **効率的な配布**  
+
+&nbsp; より小さなXPSファイルは、ネットワークやデバイス間でより高速に転送されます。
+
+
+
+* **印刷および出版ワークフロー**  
+
+&nbsp; 最適化されたXPSは、レンダリング速度と印刷パフォーマンスを向上させます。
+
+
+
+* **デジタルライブラリ**  
+
+&nbsp; 固定レイアウトドキュメントのコレクションのストレージフットプリントを削減します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **バッチXPS圧縮**  
+
+&nbsp; 複数のXPSファイルのサイズを自動的に縮小します。
+
+
+
+* **埋め込みアセットの最適化**  
+
+&nbsp; フォント、画像、グラフィックスを自動的に圧縮します。
+
+
+
+* **ワークフローの統合**  
+
+&nbsp; XPSファイルをCMS、DAM、または印刷パイプラインにアップロードする際に動的に圧縮します。
+
+
+
+* **ダイナミックな圧縮レベル**  
+
+&nbsp; ドキュメントの内容、解像度、または出力目的に基づいて調整します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

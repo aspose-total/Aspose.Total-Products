@@ -78,7 +78,75 @@ Có các tùy chọn thay thế để cài đặt 'Aspose.ZIP for Python via .NE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Các tệp XLTM (mẫu có kích hoạt macro) yêu cầu nén giữ lại các macro trong khi giảm kích thước tệp và cải thiện quá trình phân phối.
+
+
+
+Tự động dựa trên Python hỗ trợ việc nén mẫu XLTM có thể mở rộng cho các quy trình làm việc doanh nghiệp.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Bảo tồn Macro**  
+
+  &nbsp; Bảo tồn các macro trong quá trình nén các mẫu XLTM.
+
+
+
+* **Chia Sẻ Hiệu Quả**  
+
+  &nbsp; Các mẫu nhỏ giúp tăng cường sự hợp tác giữa các nhóm.
+
+
+
+* **Lưu Trữ Mẫu**  
+
+  &nbsp; Nén tự động cải thiện việc lưu trữ mẫu trong dài hạn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Nén Batch XLTM**  
+
+  &nbsp; Kịch bản Python có thể xử lý tự động nhiều mẫu có kích hoạt macro.
+
+
+
+* **Tích Hợp với Hệ Thống BI và Quy Trình Làm Việc**  
+
+  &nbsp; Các mẫu XLTM đã được nén có thể được sử dụng trong các đường ống tự động.
+
+
+
+* **Nén Theo Điều Kiện**  
+
+  &nbsp; Xác định mục tiêu là các mẫu lớn hoặc chứa phương tiện nhúng để nén.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

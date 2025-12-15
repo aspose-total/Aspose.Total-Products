@@ -68,7 +68,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сравнение PPTM выявляет различия в макро-включенных презентациях, включая содержание слайдов, элементы дизайна, переходы и встроенные автоматизированные сценарии. Он обеспечивает надежное отслеживание версий.
+
+
+
+Автоматизация сравнения PPTM повышает последовательность рабочего процесса, управление макросами и мониторинг качества презентаций.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Отслеживание презентаций на основе макросов**  
+
+&nbsp; Выделяет изменения в коде и слайдах.
+
+
+
+* **Соблюдение стандартов дизайна**  
+
+&nbsp; Обеспечивает единообразное использование темы.
+
+
+
+* **Проверка обновлений**  
+
+&nbsp; Обнаруживает модификации на уровне слайдов.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Автоматизация мониторинга макросов**  
+
+&nbsp; Выявляет обновления встроенных сценариев.
+
+
+
+* **Сравнение больших наборов PPTM**  
+
+&nbsp; Проверяет большие наборы презентаций.
+
+
+
+* **Генерация сводки изменений**  
+
+&nbsp; Автоматически создает структурированные отчеты.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

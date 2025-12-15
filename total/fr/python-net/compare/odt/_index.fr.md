@@ -70,7 +70,75 @@ Pour plus de détails, veuillez vous référer à [Documentation produit](https:
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+La comparaison ODT vérifie le texte, les styles, la structure de mise en page et les éléments intégrés pour garantir l'exactitude du contenu dans les fichiers de texte de document ouvert. Elle prend en charge le suivi transparent des révisions et l'assurance qualité.
+
+
+
+La comparaison automatisée des ODT réduit les efforts manuels et améliore l'intégration avec les systèmes de bureau collaboratifs et les pipelines d'automatisation des documents.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+
+
+* **Suivi des révisions de contenu**  
+
+&nbsp; Identifie les ajouts, les suppressions et les reformattages.
+
+
+
+* **Conformité aux documents ouverts**  
+
+&nbsp; Garantit que les documents suivent la structure requise.
+
+
+
+* **Contrôle d'édition multiplateforme**  
+
+&nbsp; Détecte les variations causées par l'édition sur différents outils.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+
+
+* **Validation en masse des ODT**  
+
+&nbsp; Traite automatiquement de grands ensembles de documents.
+
+
+
+* **Flux de travail d'édition automatisé**  
+
+&nbsp; Déclenche des vérifications lors de la génération de documents.
+
+
+
+* **Rapports de changement programmatique**  
+
+&nbsp; Génère des résumés de différences structurés.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

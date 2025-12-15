@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+MOBI压缩优化了适用于Kindle的电子书文件，减少了存储空间占用并提高了下载速度。压缩后的MOBI文件保持内容结构和可读性，提升了电子阅读器的性能。
+
+
+
+Python API实现了自动化MOBI压缩、批量处理和元数据优化，可用于可扩展的电子书管理和交付工作流。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用途" %}}
+
+
+
+* **Kindle电子书分发**  
+
+&nbsp; 更小的MOBI文件可实现更快的下载速度和无缝的阅读体验。
+
+
+
+* **数字图书馆优化**  
+
+&nbsp; 压缩后的MOBI文件减少了大型电子书收藏的存储空间。
+
+
+
+* **内容分享和归档**  
+
+&nbsp; 高效的文件简化了数字出版物的分发和备份。
+
+
+
+* **设备兼容性**  
+
+&nbsp; 优化后的MOBI文件确保在Kindle设备和应用程序上平滑渲染。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量MOBI压缩**  
+
+&nbsp; 同时为多个Kindle电子书自动优化。
+
+
+
+* **元数据和图像优化**  
+
+&nbsp; 自动删除冗余元数据并压缩嵌入的图像。
+
+
+
+* **工作流集成**  
+
+&nbsp; 在电子书导入平台或库中压缩MOBI文件。
+
+
+
+* **动态压缩级别**  
+
+&nbsp; 根据内容类型和设备要求调整文件大小和质量。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

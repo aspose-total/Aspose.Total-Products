@@ -100,7 +100,87 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Obecná komprese OBRÁZKŮ se odkazuje na optimalizaci libovolných souborů s rastrovými obrázky s cílem snížit velikost souboru a zachovat vizuální kvalitu. Tento přístup je zásadní pro efektivitu uložení, rychlejší přenos a plynulé zobrazení napříč digitálními platformami, aplikacemi a obsahovými kanály.
+
+
+
+Python API umožňují automatizovanou kompresi OBRÁZKŮ, hromadné zpracování a konverzi formátu, podporují škálovatelné pracovní postupy pro správu médií, dodávku na web a úložiště v cloudu.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Výkon webových a mobilních aplikací**  
+
+&nbsp; Kompresované obrázky se načítají rychleji, snižují využití šířky pásma a zlepšují uživatelskou zkušenost.
+
+
+
+* **Správa digitálních aktiv**  
+
+&nbsp; Optimalizované obrázky jsou snazší uložit, organizovat a vyhledávat v rozsáhlých knihovnách.
+
+
+
+* **Publikování obsahu**  
+
+&nbsp; Udržuje kvalitu obrázku při minimalizaci velikosti souboru pro online platformy.
+
+
+
+* **Archivace a zálohování**  
+
+&nbsp; Snížení požadavků na úložiště pro velké sbírky rastrových obrázků.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatické scénáře" %}}
+
+
+
+* **Hromadná komprese obrázků**  
+
+&nbsp; Python skripty mohou automaticky optimalizovat stovky obecných souborů s obrázky.
+
+
+
+* **Dynamický výběr formátu**  
+
+&nbsp; Automatizace může obrázky konvertovat do optimálního formátu JPG při kompresi.
+
+
+
+* **Integrace pracovního postupu**  
+
+&nbsp; Obrázky se komprimují automaticky při nahrávání do CMS, DAM nebo cloudových platforem.
+
+
+
+* **Komprese založená na rozlišení**  
+
+&nbsp; Dynamicky upravuje úrovně komprese na základě rozlišení obrázku, rozměrů nebo použití.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Порівняння DOCM спрямоване на виявлення відмінностей у макро-документах, охоплюючи зміни в тексті, форматуванні та вбудованій логіці. Це забезпечує точне відстеження як видимого вмісту, так і внутрішніх компонентів автоматизації.
+
+
+
+Автоматизація порівняння DOCM підвищує моніторинг цілісності макро, зменшує ризики від несанкціонованих змін та підтримує масштабовану перевірку в умовах великого обсягу.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основні сценарії використання" %}}
+
+
+
+* **Перевірка цілісності макро**  
+
+&nbsp; Виявляє зміни в вбудованих макросах поряд з оновленнями звичайного вмісту.
+
+
+
+* **Аудит життєвого циклу документа**  
+
+&nbsp; Забезпечує відповідність та намір змін у чернетках.
+
+
+
+* **Управління шаблонами**  
+
+&nbsp; Відстежує відмінності в документах, побудованих на динамічних шаблонах.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Автоматизоване виявлення змін у макросах**  
+
+&nbsp; Позначає модифікації в макрокоді для забезпечення безпеки та версіонування.
+
+
+
+* **Порівняння великої кількості файлів DOCM**  
+
+&nbsp; Автоматично порівнює великі набори файлів DOCM для забезпечення послідовності.
+
+
+
+* **Моніторинг оновлень за допомогою інтелектуальних засобів**  
+
+&nbsp; Інтегрує програмні перевірки в бізнес-процеси.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

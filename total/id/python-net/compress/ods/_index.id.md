@@ -78,7 +78,87 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi ODS mengoptimalkan file Spreadsheet OpenDocument, mengurangi ukuran sambil mempertahankan rumus, grafik, dan integritas data. File ODS yang terkompresi meningkatkan penyimpanan, kecepatan transfer, dan kinerja dalam alur kerja spreadsheet yang membutuhkan data yang banyak.
+
+
+
+API Python memungkinkan kompresi ODS otomatis, pemrosesan batch, dan konversi untuk manajemen spreadsheet yang dapat diskalakan di kantor, analitika, dan sistem pelaporan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Penyimpanan Spreadsheet**  
+
+  &nbsp; Kurangi jejak penyimpanan untuk kumpulan data dan workbook yang besar.
+
+
+
+* **Berbagi & Kolaborasi Lebih Cepat**  
+
+  &nbsp; File ODS yang lebih kecil mentransmisikan dengan efisien di antara tim.
+
+
+
+* **Arsip & Cadangan**  
+
+  &nbsp; Kompresi file ODS untuk penyimpanan jangka panjang.
+
+
+
+* **Efisiensi Alur Kerja**  
+
+  &nbsp; Spreadsheet yang dioptimalkan memuat lebih cepat dalam aplikasi dan pipeline.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi ODS Batch**  
+
+  &nbsp; Otomatisasi pengurangan ukuran untuk beberapa spreadsheet.
+
+
+
+* **Optimisasi Data & Grafik**  
+
+  &nbsp; Kompresi grafik tersemat, tabel pivot, dan rumus secara otomatis.
+
+
+
+* **Integrasi ke Sistem DAM atau Cloud**  
+
+  &nbsp; Otomatisasi kompresi selama pengunggahan atau pencadangan.
+
+
+
+* **Aturan Kompresi Dinamis**  
+
+  &nbsp; Sesuaikan optimisasi berdasarkan ukuran dataset, kompleksitas rumus, atau objek tersemat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

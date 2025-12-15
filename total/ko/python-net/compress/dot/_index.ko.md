@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOT 파일은 압축을 통해 공간을 절약하고 시스템 간의 배포 효율성을 향상시킬 수 있는 워드 템플릿입니다.
+
+
+
+파이썬 기반의 압축은 템플릿 구조나 서식에 영향을 미치지 않고 DOT 파일 최적화를 자동화할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **템플릿 저장 공간 최적화**  
+
+&nbsp; 효율적인 로컬 또는 클라우드 저장을 위해 DOT 템플릿을 압축합니다.
+
+
+
+* **템플릿 공유**  
+
+&nbsp; 파일 크기를 줄이면 팀 협업을 위한 배포 속도가 향상됩니다.
+
+
+
+* **템플릿 아카이빙**  
+
+&nbsp; 자동화된 압축은 장기적인 템플릿 관리를 지원합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 템플릿 압축**  
+
+&nbsp; 파이썬 스크립트를 사용하여 여러 DOT 파일을 자동으로 압축할 수 있습니다.
+
+
+
+* **워크플로 시스템 통합**  
+
+&nbsp; 압축된 템플릿은 자동화된 워크플로에 동적으로 로드될 수 있습니다.
+
+
+
+* **선택적 압축**  
+
+&nbsp; 자동화를 통해 큰 템플릿이나 포함된 객체가 있는 템플릿만 압축할 수 있습니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

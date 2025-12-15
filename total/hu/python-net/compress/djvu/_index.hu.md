@@ -78,7 +78,87 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A DJVU tömörítés tovább fokozza a DjVu fájlok már hatékony szerkezetét, amelyeket általában szkennelt dokumentumokhoz, digitális könyvekhez és archív tartalmakhoz használnak. A DJVU fájlok optimalizálása tovább csökkenti a méretet, javítja a betöltési sebességet, és biztosítja a magas minőségű megjelenítést a szöveges és képekkel teli oldalakhoz.
+
+
+
+A Python API-k lehetővé teszik a DJVU tömörítés automatizálását, az optimalizált szkennelt rétegek kezelését, és a digitalizált dokumentumok nagy könyvtárainak kezelését minimális tárolási követelmények mellett és magas feldolgozási hatékonysággal.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Digitalizált Dokumentumkönyvtárak**  
+
+&nbsp; Tömöríti a nagy szkennelt archívumokat a helymegtakarítás és a hozzáférési teljesítmény javítása érdekében.
+
+
+
+* **E-Könyv \& Kutatási Terjesztés**  
+
+&nbsp; A kisebb DJVU fájlok gyorsabban betöltődnek és hatékonyabban továbbítódnak az akadémiai platformokon.
+
+
+
+* **Szkennelt Képoptimalizálás**  
+
+&nbsp; Növeli az olvashatóságot és csökkenti a méretet anélkül, hogy veszélyeztetné az alapvető vizuális részleteket.
+
+
+
+* **Hosszútávú Archiválás**  
+
+&nbsp; Tárolási hatékonyságot biztosít történelmi és referenciaanyagok számára.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Tömeges DJVU Tömörítés**  
+
+&nbsp; Automatikusan csökkenti a fájlméreteket a szkennelt vagy digitalizált dokumentumok gyűjteményeihez.
+
+
+
+* **Rétegérzékeny Optimalizálás**  
+
+&nbsp; Az automatizálás szelektíven tömörítheti a háttérszöveget, a háttértextúrákat vagy a beágyazott képeket.
+
+
+
+* **Munkafolyamat-beviteli Tömörítés**  
+
+&nbsp; A DJVU fájlokat azonnal tömörítheti a feltöltéskor az archívumokba vagy dokumentumrendszerekbe.
+
+
+
+* **Konverzió + Tömörítési Csővezetékek**  
+
+&nbsp; PDF vagy TIFF konvertálása DJVU formátumba automatikus méretcsökkentési szabályok alkalmazásával.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

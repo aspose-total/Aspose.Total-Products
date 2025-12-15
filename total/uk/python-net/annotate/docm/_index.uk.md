@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Анотація DOCM дозволяє додавати примітки, виділення та метадані до документів Word з підтримкою макросів, що підтримують робочі процеси, які потребують динамічного скриптування або вбудованої автоматизації. Це допомагає користувачам документувати логіку, відстежувати зміни та зберігати ясність щодо поведінки макросів.
+
+Шляхом програмної анотації файлів DOCM системи автоматизації можуть відстежувати використання макросів, покращувати узгодженість документації та оптимізувати процеси перевірки.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові сценарії використання" %}}
+
+
+
+* **Документування макросів**  
+
+&nbsp; Позначте та опишіть дії, що викликаються макросами всередині документа.
+
+* **Відстеження відповідності**  
+
+&nbsp; Додайте примітки, підтверджуючи необхідні скрипти або перевірки.
+
+* **Журналювання змін**  
+
+&nbsp; Виділіть оновлення, пов'язані з макросами, для більшої видимості.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+
+
+* **Сканування та анотування макросів**  
+
+&nbsp; Автоматично вставляйте коментарі, що описують виявлені функції макросів.
+
+* **Динамічні звіти про відповідність**  
+
+&nbsp; Заповнюйте анотації, коли макроси відповідають або не відповідають певним перевіркам.
+
+* **Інструменти перегляду на основі скриптів**  
+
+&nbsp; Використовуйте Python для застосування структурованої анотації в масштабі.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

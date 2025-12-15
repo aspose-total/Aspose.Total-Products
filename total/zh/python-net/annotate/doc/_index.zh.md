@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOC注释专注于向传统Word文档添加评论、高亮显示和结构化元数据，提高可读性，并使团队能够在旧文件格式中捕获上下文。这一过程有助于保持文档完整性，同时确保信息易于解释和修订。
+
+将DOC注释集成到现代工作流程中可增强兼容性，并使自动化系统能够更高效地提取、索引和更新内容。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **内容审查和反馈**  
+
+  添加评论或高亮显示以标记重要编辑或澄清事项。
+
+* **元数据丰富化**  
+
+  插入结构化注释以进行分类和检索。
+
+* **文档清理**  
+
+  识别过时或无关的部分以进行修订。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批注管道自动化**  
+
+  自动在多个DOC文件中添加评论。
+
+* **自动化质量检查**  
+
+  以程序方式标记缺失部分或格式不一致。
+
+* **基于工作流程的高亮显示**  
+
+  应用基于规则的注释，由文档内容触发。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

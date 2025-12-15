@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPTX, современный формат PowerPoint, часто содержит изображения высокого разрешения, диаграммы и анимации. Сжатие уменьшает размер файла, сохраняя визуальную четкость.
+
+
+
+Автоматизация на основе Python обеспечивает масштабируемое сжатие PPTX, улучшая совместную работу и интеграцию с облачными платформами или системами управления презентациями.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Основные сценарии использования" %}}
+
+
+
+* **Оптимизация хранения**  
+
+&nbsp; Сжатие файлов PPTX без потери содержимого слайдов, анимаций или медиа.
+
+
+
+* **Быстрое распространение**  
+
+&nbsp; Меньшие файлы PPTX обеспечивают быструю отправку по электронной почте или через облако.
+
+
+
+* **Эффективное архивирование**  
+
+&nbsp; Автоматизированное сжатие поддерживает долгосрочное хранение больших презентаций.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие PPTX**  
+
+&nbsp; Сценарии Python могут сжимать несколько современных презентаций одновременно.
+
+
+
+* **Интеграция с инструментами совместной работы**  
+
+&nbsp; Сжатые файлы PPTX могут динамически загружаться в автоматизированные рабочие процессы.
+
+
+
+* **Умные правила сжатия**  
+
+&nbsp; Условное автоматизированное сжатие нацелено на файлы с встроенными изображениями высокого разрешения.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

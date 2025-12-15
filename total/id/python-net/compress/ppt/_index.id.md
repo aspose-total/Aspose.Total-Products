@@ -101,7 +101,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Kompresi file PPT mengurangi penyimpanan dan meningkatkan kecepatan transfer untuk presentasi PowerPoint warisan sambil mempertahankan format, grafik, dan media yang disematkan.
+
+
+
+API Python memungkinkan kompresi PPT otomatis, mendukung manajemen presentasi yang dapat diskalakan dan efisiensi alur kerja.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Optimisasi Presentasi Warisan**  
+
+&nbsp; Kurangi ukuran file PPT tanpa memengaruhi tata letak atau konten slide.
+
+
+
+* **Berbagi Lebih Cepat**  
+
+&nbsp; File PPT yang lebih kecil memungkinkan distribusi email atau cloud yang cepat.
+
+
+
+* **Efisiensi Arsip**  
+
+&nbsp; Kompresi otomatis menyederhanakan penyimpanan jangka panjang presentasi warisan.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skema Otomatisasi" %}}
+
+
+
+* **Kompresi PPT Batch**  
+
+&nbsp; Skrip Python dapat memproses beberapa file PPT secara otomatis.
+
+
+
+* **Integrasi dengan Sistem Alur Kerja**  
+
+&nbsp; File yang terkompresi dapat dikelola dalam pipa otomatis atau DMS.
+
+
+
+* **Kompresi Bersyarat**  
+
+&nbsp; Sasar file berdasarkan ukuran atau media yang disematkan untuk optimisasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -168,7 +236,7 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

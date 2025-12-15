@@ -75,7 +75,65 @@ Có các tùy chọn thay thế để cài đặt "[Aspose.Slides for Python via
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Chú thích ODP cải thiện các tệp trình bày định dạng mở bằng ghi chú, nổi bật và siêu dữ liệu cấu trúc, hỗ trợ giao tiếp rõ ràng và tổ chức slide cải thiện. Nó đảm bảo rằng các bài thuyết trình dễ hiểu hơn, sửa đổi và tái sử dụng trên các nền tảng khác nhau.
+
+Tự động hóa chú thích ODP cho phép hệ thống áp dụng các ý kiến chuẩn, xác minh cấu trúc slide và tối ưu hóa quy trình xem xét bài thuyết trình theo quy mô.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Ghi Chú Đánh Giá Slide**  
+
+&nbsp; Thêm ý kiến giải thích điều chỉnh hoặc thay đổi cần thiết.
+
+* **Nổi Bật Nội Dung**  
+
+&nbsp; Đánh dấu các điểm dữ liệu quan trọng hoặc vấn đề thiết kế.
+
+* **Gắn Thẻ Siêu Dữ Liệu**  
+
+&nbsp; Chèn chi tiết phân loại để tìm kiếm tốt hơn.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Chú Thích Slide Theo Lô**  
+
+&nbsp; Tự động chèn ghi chú trên nhiều tệp ODP.
+
+* **Kiểm Tra Tuân Thủ Mẫu**  
+
+&nbsp; Nổi bật các slide không tuân thủ theo quy tắc bố trí.
+
+* **Đánh Dấu Dựa Trên Từ Khóa**  
+
+&nbsp; Phát hiện và chú thích các thuật ngữ quan trọng theo cách tự động.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

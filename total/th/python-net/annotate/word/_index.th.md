@@ -75,7 +75,65 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT Word PDF Excel XLS XLSX XL
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+การประยุกต์ใช้ WORD annotation มุ่งเน้นการเพิ่มความคิดเห็น ไฮไลท์ และเมตาดาต้าในเอกสารทั้งหมดที่ใช้ Word โดยรองรับการแก้ไขโครงสร้าง การทำงานร่วมกัน และขั้นตอนการทบทวน การปรับแก้เอกสารที่ถูกประทับใจจะชัดเจนขณะทำการแก้ไขและอนุมัติ  
+
+การอัตโนมัติเพิ่มประสิทธิภาพโดยการใช้คำอธิบายมาตรฐาน สแกนปัญหา และอัปเดตเอกสาร Word หลายรายการผ่านกฎการทำงานขับเคลื่อนด้วย Python.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="การใช้งานหลัก" %}}
+
+
+
+* **การทบทวนและให้คำแนะนำ**  
+
+&nbsp; เพิ่มความคิดเห็นเพื่อชี้นำการแก้ไขและปรับปรุง
+
+* **การเน้นเนื้อหาที่สำคัญ**  
+
+&nbsp; ทำเครื่องหมายคำศัพท์หรือข้อผิดพลาดที่สำคัญ
+
+* **บันทึกเมตาดาต้าของเอกสาร**  
+
+&nbsp; แทรกเครื่องหมายดัชนีหรือสัญลักษณ์การจำแนกประเภท
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="สถานการณ์การอัตโนมัติ" %}}
+
+
+
+* **การประมวลผลกลุ่มของคำอธิบาย**  
+
+&nbsp; ประมวลผลเอกสาร Word หลายรายการโดยอัตโนมัติ
+
+* **การให้ความคิดเห็นตามกฎข้อบังคับ**  
+
+&nbsp; แทรกหมายเหตุตามรูปแบบที่เฉพาะเจาะจง
+
+* **การตรวจสอบคุณภาพอัตโนมัติ**  
+
+&nbsp; ทำเครื่องหมายความไมสอดคล้องหรือส่วนที่ขาดหาย
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -100,7 +100,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PDF 압축은 텍스트, 이미지, 글꼴 및 벡터 그래픽을 보존하면서 휴대용 문서 형식 파일의 크기를 줄입니다. 압축된 PDF는 저장 효율성을 향상시키고 빠른 공유 및 기기 및 플랫폼 간 최적화된 렌더링을 제공합니다.
+
+
+
+Python API를 사용하여 자동화된 PDF 압축, 일괄 처리 및 확장 가능한 문서 관리, 보관 및 배포를 구현할 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **문서 저장 및 보관**  
+
+&nbsp; PDF를 압축하여 디지털 라이브러리의 저장 공간을 절약합니다.
+
+
+
+* **빠른 파일 전송**  
+
+&nbsp; 작은 PDF는 이메일이나 클라우드 플랫폼을 통해 빠르게 전송됩니다.
+
+
+
+* **인쇄 및 게시물**  
+
+&nbsp; 최적화된 PDF는 인쇄 및 디지털 워크플로우에서 빠르게 로드되고 렌더링됩니다.
+
+
+
+* **콘텐츠 전달 최적화**  
+
+&nbsp; eBook, 보고서 및 매뉴얼의 사용자 경험을 향상시킵니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 PDF 압축**  
+
+&nbsp; 여러 PDF 파일의 최적화를 동시에 자동화합니다.
+
+
+
+* **이미지 및 글꼴 최적화**  
+
+&nbsp; 포함된 이미지를 압축하고 하위 글꼴을 자동으로 처리합니다.
+
+
+
+* **워크플로 통합**  
+
+&nbsp; PDF를 CMS, DAM 또는 보관 시스템에 업로드하는 동안 동적으로 PDF를 압축합니다.
+
+
+
+* **동적 압축 규칙**  
+
+&nbsp; 문서 크기, 콘텐츠 유형 또는 대상 장치에 따라 압축을 조정합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

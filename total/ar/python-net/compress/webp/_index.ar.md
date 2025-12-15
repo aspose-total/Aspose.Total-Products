@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+يركز ضغط WEBP على تقليل حجم الملفات لصور الويب المُحسّنة مع الحفاظ على جودة بصرية عالية. يدعم WEBP كل من ضغط الفقد وضغط بدون فقد، مما يجعله مثاليًا للرسومات على الويب، وواجهات التطبيقات، وتوصيل المحتوى الرقمي.
+
+
+
+تُمكّن واجهات برمجة التطبيقات في Python من ضغط WEBP تلقائيًا، ومعالجة دفعية، وتحويل من تنسيقات أخرى، مما يدعم سير العمل القابل للتوسيع لتحسين أداء الويب وإدارة الصور في السحابة.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="حالات الاستخدام الرئيسية" %}}
+
+
+
+* **أداء الويب والتطبيقات**  
+
+&nbsp; تحسين سرعة تحميل الصفحات وتقليل استخدام عرض النطاق الترددي من خلال صور WEBP المضغوطة.
+
+
+
+* **محتوى رقمي متجاوب**  
+
+&nbsp; الحفاظ على جودة عالية للرؤية على مواقع الويب والتطبيقات والمنصات عبر الإنترنت.
+
+
+
+* **الأصول التسويقية ووسائل التواصل الاجتماعي**  
+
+&nbsp; تضمن ملفات WEBP الأصغر سرعة أسرع في التحميل والتقديم للحملات.
+
+
+
+* **الأرشفة وتخزين السحابة**  
+
+&nbsp; تقليل متطلبات التخزين لمكتبات الصور الكبيرة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="سيناريوهات التشغيل التلقائي" %}}
+
+
+
+* **ضغط WEBP دفعي**  
+
+&nbsp; ضغط ملفات WEBP متعددة تلقائيًا في عملية مدفوعة بواسطة Python واحدة.
+
+
+
+* **اختيار بين ضغط بدون فقد أو بفقد**  
+
+&nbsp; يختار التشغيل التلقائي نوع الضغط الأمثل استنادًا إلى محتوى الصورة والمتطلبات.
+
+
+
+* **تكامل سير العمل**  
+
+&nbsp; ضغط صور WEBP تلقائيًا أثناء التحميل إلى نظام إدارة المحتوى، أو نظام إدارة الأصول الرقمية، أو منصات السحابة.
+
+
+
+* **ضبط جودة ديناميكي**  
+
+&nbsp; يمكن ضبط الضغط استنادًا إلى الدقة، أو جهاز الهدف، أو شروط الشبكة.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

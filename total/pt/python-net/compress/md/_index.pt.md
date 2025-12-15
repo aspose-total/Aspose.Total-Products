@@ -78,7 +78,87 @@ Para mais detalhes, consulte [Product Documentation](https://docs.aspose.com/zip
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+A compressão MD otimiza arquivos Markdown removendo espaços em branco desnecessários, comentários ou formatação redundante, preservando a estrutura do conteúdo. Isso melhora a eficiência de armazenamento, a transferência de arquivos mais rápida e o processamento simplificado na documentação e nos pipelines de conteúdo.
+
+
+
+As APIs do Python permitem a compressão automatizada de MD, processamento em lote e fluxos de trabalho de conversão para lidar de forma escalável com documentação técnica, blogs e conteúdo controlado por versão.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+
+
+* **Otimização da Documentação**  
+
+&nbsp; Compactar grandes repositórios de Markdown para facilitar o armazenamento e operações de controle de versão mais rápidas.
+
+
+
+* **Fluxos de Trabalho de Publicação de Conteúdo**  
+
+&nbsp; Arquivos MD menores simplificam os processos de geração de sites da web e estáticos.
+
+
+
+* **Arquivamento de Conteúdo Markdown**  
+
+&nbsp; Reduz o armazenamento para documentação histórica e notas.
+
+
+
+* **Colaboração e Distribuição**  
+
+&nbsp; Arquivos otimizados são mais fáceis de compartilhar entre equipes e sistemas.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+
+
+* **Compressão em Lote de MD**  
+
+&nbsp; Automatize a otimização de vários arquivos Markdown.
+
+
+
+* **Remoção de Espaços em Branco e Comentários**  
+
+&nbsp; Limpe automaticamente texto desnecessário sem alterar o conteúdo.
+
+
+
+* **Integração de Fluxo de Trabalho**  
+
+&nbsp; Compactar arquivos MD na ingestão em sistemas de CMS ou controle de versão.
+
+
+
+* **Pipelines de Conversão + Compressão**  
+
+&nbsp; Converta MD para HTML ou PDF aplicando compressão automaticamente.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

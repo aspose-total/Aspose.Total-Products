@@ -78,7 +78,69 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File XLSM (buku kerja Excel yang diaktifkan makro) memerlukan kompresi yang mempertahankan makro yang disematkan sambil mengoptimalkan penyimpanan dan berbagi.
+
+
+
+API Python memungkinkan kompresi XLSM otomatis, menjaga fungsionalitas makro dan memungkinkan integrasi alur kerja yang dapat diskalakan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pemeliharaan Makro**  
+   Kompres file XLSM dengan aman tanpa merusak makro yang disematkan.
+
+
+
+* **Berbagi dan Kolaborasi Lebih Cepat**  
+   File XLSM yang lebih kecil memudahkan alur kerja tim dan unggahan cloud.
+
+
+
+* **Arsip Otomatis**  
+   Kompresi memastikan penyimpanan yang efisien untuk buku kerja yang diaktifkan makro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skema Otomatisasi" %}}
+
+
+
+* **Kompresi XLSM Massal**  
+   Skrip Python dapat memproses beberapa file yang diaktifkan makro secara otomatis.
+
+
+
+* **Integrasi dengan Platform BI dan DMS**  
+   File yang terkompresi dapat dikelola dalam sistem otomatis.
+
+
+
+* **Kompresi Bersyarat**  
+   Otomatisasi dapat menargetkan file dengan makro besar atau konten media berat.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSファイル（PowerPoint Show）は圧縮によってストレージを削減し、プレゼンテーション中の再生パフォーマンスを向上させます。
+
+
+
+Python APIは自動PPS圧縮をサポートし、より速い共有と効率的なストレージを実現します。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主な利用シーン" %}}
+
+
+
+* **ファイル最適化の表示**  
+
+&nbsp; スライドの内容やトランジションに影響を与えずにPPSファイルを圧縮します。
+
+
+
+* **配布の迅速化**  
+
+&nbsp; より小さなファイルは迅速な共有とクラウドへのアップロードを促進します。
+
+
+
+* **アーカイブ効率**  
+
+&nbsp; 自動圧縮はショーファイルの長期保存をサポートします。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+
+
+* **一括PPS圧縮**  
+
+&nbsp; Pythonスクリプトは複数のショーファイルを自動的に圧縮できます。
+
+
+
+* **プレゼンテーションシステムとの統合**  
+
+&nbsp; 圧縮されたPPSファイルは自動化ワークフローで動的に読み込むことができます。
+
+
+
+* **条件付き圧縮**  
+
+&nbsp; 大規模なプレゼンテーションやメディアリッチなファイルを対象に圧縮します。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DIB 압축은 픽셀 데이터를 하드웨어별 형식으로 저장하지 않고 저장하는 장치 독립 비트맵 파일의 크기를 줄입니다. 이러한 이미지는 원시 압축되지 않은 비트맵 데이터를 보존하기 때문에 종종 크며, 현대적인 워크플로우에서 효율적인 저장 및 처리를 위해 압축이 필수적입니다.
+
+
+
+Python API를 사용하면 DIB 최적화를 자동화하고 파일 크기를 최소화하며 이러한 비트맵을 더 압축된 형식으로 변환하여 이미징 파이프라인 및 디지털 자산 시스템의 확장성을 향상시킬 수 있습니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **레거시 비트맵 최적화**  
+
+&nbsp; 오래된 이미징 소프트웨어나 시스템에서 비롯된 큰 DIB 파일을 압축합니다.
+
+
+
+* **저장 효율성**  
+
+&nbsp; 방대한 비트맵 저장소를 갖는 조직의 디스크 사용량을 크게 줄입니다.
+
+
+
+* **빠른 전송 및 업로드**  
+
+&nbsp; 네트워크나 클라우드 플랫폼을 통해 무거운 이미지 파일을 빠르게 공유할 수 있습니다.
+
+
+
+* **이미지 아카이빙**  
+
+&nbsp; 필수적인 픽셀 데이터를 훼손하지 않고 가벼운 아카이브를 유지하는 데 도움이 됩니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 DIB 압축**  
+
+&nbsp; 한 번에 수백 개 또는 수천 개의 비트맵 파일 크기를 자동으로 줄입니다.
+
+
+
+* **현대적인 형식으로의 자동 변환**  
+
+&nbsp; 지능적인 압축 규칙으로 DIB를 PNG, JPEG 또는 WebP로 변환합니다.
+
+
+
+* **실시간 업로드 최적화**  
+
+&nbsp; 이미징 플랫폼에 투입될 때 DIB 파일을 자동으로 압축할 수 있습니다.
+
+
+
+* **해상도에 따른 압축**  
+
+&nbsp; 픽셀 크기나 색상 깊이에 따라 압축 강도를 자동으로 조정합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

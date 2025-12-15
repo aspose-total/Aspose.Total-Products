@@ -78,7 +78,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие файлов XLS позволяет уменьшить объем хранения и ускорить обмен наследственными книгами Excel, сохраняя при этом формулы, диаграммы и форматирование.
+
+
+
+Автоматизация на основе Python позволяет пакетное сжатие файлов XLS, обеспечивая масштабное управление данными и повышение эффективности рабочего процесса.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* **Оптимизация наследственных книг**  
+
+  &nbsp; Уменьшение размеров файлов XLS без влияния на формулы или целостность данных.
+
+
+
+* **Более быстрый обмен**  
+
+  &nbsp; Меньшие файлы XLS улучшают скорость отправки по электронной почте и в облако.
+
+
+
+* **Эффективность архивирования**  
+
+  &nbsp; Автоматизированное сжатие упрощает долгосрочное хранение наследственных файлов Excel.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие XLS**  
+
+  &nbsp; Сценарии Python могут сжимать несколько файлов XLS за одну операцию.
+
+
+
+* **Интеграция с системами рабочего процесса**  
+
+  &nbsp; Сжатые файлы XLS могут быть загружены в автоматизированные конвейеры или DMS.
+
+
+
+* **Условное сжатие**  
+
+  &nbsp; Направленное сжатие файлов XLS с большими наборами данных или встроенными медиафайлами.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -101,7 +101,75 @@ Další podrobnosti naleznete v [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPSX soubory (moderní prezentace PowerPointu) využívají kompresi pro snížení úložného prostoru a rychlejší sdílení, zachovávají obsah snímků, animace a vložená média.
+
+
+
+Python API umožňuje automatizovanou kompresi PPSX, zlepšuje pracovní postupy prezentací a jejich škálovatelnost.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Klíčové použití" %}}
+
+
+
+* **Optimalizace úložiště**  
+
+&nbsp; Kompresí PPSX souborů bez ovlivnění snímků nebo animací.
+
+
+
+* **Rychlejší spolupráce**  
+
+&nbsp; Menší soubory umožňují rychlé sdílení mezi týmy a platformami.
+
+
+
+* **Efektivita archivace**  
+
+&nbsp; Automatizovaná komprese zajistí dlouhodobé uchování prezentací.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizační scénáře" %}}
+
+
+
+* **Hromadná komprese PPSX**  
+
+&nbsp; Python skripty mohou automaticky komprimovat více PPSX souborů.
+
+
+
+* **Integrace s pracovními postupy a cloudovými systémy**  
+
+&nbsp; Kompresované PPSX soubory mohou být dynamicky zpracovány v automatizovaných pracovních postupech.
+
+
+
+* **Chytrá pravidla komprese**  
+
+&nbsp; Podmíněná automatizace cílí na soubory s médii ve vysokém rozlišení.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

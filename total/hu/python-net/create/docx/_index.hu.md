@@ -43,9 +43,81 @@ Egy fejlesztő számára ki próbál DOCX fájlokat létrehozni Python alkalmaz�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCX — `.docx` (OOXML) a modern szabvány a Word dokumentumok számára, és nagyon alkalmas a Python-alapú automatizálásra. A könyvtárak lehetővé teszik bekezdések, táblázatok, képek, stílusok és egyedi XML részek létrehozását és módosítását, miközben megőrzik az OOXML szerkezetet és metaadatokat.
+
+
+
+DOCX ideális sablon alapú jelentésekhez, dinamikus dokumentumokhoz és webes szolgáltatásokkal való integrációhoz azáltal, hogy nyílt formátumú és erős könyvtártámogatást biztosít. Az automatizálás lehetővé teszi hozzáférhető, stílusos dokumentumok megbízható generálását, amelyek ellenőrizhetők és verziózhatók.
+
+
+
+Programozott munkafolyamatok segítségével könnyű összeállítani strukturált bemenetekből összetett dokumentumokat (beágyazott táblázatok, hivatkozások, tartalomjegyzékek).
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+
+
+* **Sablon alapú jelentések megjelenítése**
+
+&nbsp; Töltse fel a DOCX sablonokat dinamikus táblázatokkal, diagramokkal és feltételes szekciókkal.
+
+
+
+* **Automatizált dokumentumösszeállítás**
+
+&nbsp; Illessze össze az intro, a test és a mellékletek részeit moduláris tartalomforrásokból egyetlen DOCX fájlba.
+
+
+
+* **Metaadatokban gazdag eredmények**
+
+&nbsp; Ágyazza be a dokumentum tulajdonságait, egyedi XML-t és revíziós metaadatokat a kormányzás érdekében.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+
+
+* **Adatbázis-dokumentum csővezetékek**
+
+&nbsp; Generáljon személyre szabott DOCX dokumentumokat minden adatbázisbejegyzéshez egy automatizált feladatban.
+
+
+
+* **Webhook által kiváltott dokumentumkészítés**
+
+&nbsp; Hozzon létre DOCX dokumentumokat igény szerint HTTP API-k segítségével, amelyeket külső események váltanak ki.
+
+
+
+* **Automatizált hozzáférhetőségi ellenőrzések**
+
+&nbsp; Futtasson ellenőrző szkripteket, amelyek ellenőrzik a címsor szerkezetét és az alternatív szövegeket a képekhez a generálás során.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

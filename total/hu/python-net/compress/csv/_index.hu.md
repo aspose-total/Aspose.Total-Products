@@ -78,7 +78,21 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+## Welcome to our website
+
+<h2>Explore our products</h2>
+
+- Find the best deals on electronics
+- Discover the latest fashion trends
+- Shop for home and garden essentials
+
+## Our mission
+
+<p>Our mission is to provide high-quality products to our customers at affordable prices.</p>
+
+{< blocks/products/pf/agp/feature-section >}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

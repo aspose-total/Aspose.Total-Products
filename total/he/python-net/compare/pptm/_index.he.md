@@ -68,7 +68,67 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+השוואת PPTM זוהה בדפורמט מצגות המאפשרת מציאת הבדלים בין המצגות המאופשרות למקרו, כולל תוכן השקפים, אלמנטי עיצוב, מעברים וסקריפטים מוטמעים. השוואה זו מבטיחה מעקב אמין אחר גרסאות.
+
+האוטומציה של השוואת PPTM משפרת את עקביות העבודה, בקרת המקרו וניטור איכות המצגות.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+
+
+* **מעקב אחר מצגות המופעלות על ידי מקרו**  
+  &nbsp; מדגיש שינויים בקוד ובשקפים.
+
+
+
+* **עמידה בתקני עיצוב**  
+  &nbsp; מבטיח שימוש אחיד בערכת העיצוב.
+
+
+
+* **אימות עדכונים**  
+  &nbsp; זוהה שינויים ברמת השקפים.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+
+
+* **אוטומציה של מעקב אחר מקרו**  
+  &nbsp; מסמן עדכונים בסקריפטים מוטמעים.
+
+
+
+* **השוואת PPTM בצמודות**  
+  &nbsp; מאמת סטים גדולים של מצגות.
+
+
+
+* **יצירת סיכום שינויים**  
+  &nbsp; מייצר דוחות מובנים באופן תכנותי.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

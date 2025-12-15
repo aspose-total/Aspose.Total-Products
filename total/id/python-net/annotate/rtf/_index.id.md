@@ -75,7 +75,65 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Anotasi RTF menambahkan komentar, sorotan, dan metadata struktural ke file teks kaya, meningkatkan keterbacaan tanpa memengaruhi kompatibilitas lintas platform. RTF yang diannotasi mendukung alur kerja peninjauan ringan.
+
+Automasi meningkatkan pemrosesan RTF dengan menyisipkan catatan terstruktur, memindai konten untuk masalah, dan menerapkan sorotan berbasis aturan.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Catatan Penjelasan Konten**  
+
+&nbsp; Tambahkan catatan menjelaskan suntingan atau kekhawatiran.
+
+* **Sorotan Terstruktur**  
+
+&nbsp; Tandai bagian penting atau kesalahan.
+
+* **Penanaman Metadata**  
+
+&nbsp; Sisipkan tag klasifikasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Penyorotan Kata Kunci Otomatis**  
+
+&nbsp; Identifikasi dan tonjolkan istilah secara programatis.
+
+* **Skrip Anotasi Massal**  
+
+&nbsp; Terapkan catatan standar di sejumlah file RTF.
+
+* **Deteksi Pola Konten**  
+
+&nbsp; Anotasi area yang cocok dengan pemicu tertentu.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

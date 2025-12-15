@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+WORD文档比较评估文本、格式、结构和嵌入元素在不同版本之间的差异，确保可靠地跟踪修改。它支持内容团队和文档工作流程。
+
+
+
+自动化比较提高可靠性，改善协作，并实现与文档管理系统和现代自动化流程的集成。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **修订跟踪**  
+
+&nbsp; 突出显示文档版本之间的更新。
+
+
+
+* **模板一致性检查**  
+
+&nbsp; 确保结构和格式保持一致。
+
+
+
+* **法规或技术文档**  
+
+&nbsp; 检测准确性所需的重要更改。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量WORD比较**  
+
+&nbsp; 自动处理大量文档集。
+
+
+
+* **集成工作流验证**  
+
+&nbsp; 将自动化检查添加到编辑流程中。
+
+
+
+* **自动化变更摘要**  
+
+&nbsp; 以程序方式生成结构化报告。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

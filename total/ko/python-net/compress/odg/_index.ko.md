@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODG 압축은 OpenDocument Graphics 파일을 최적화하여 벡터 품질, 레이어 및 포함된 객체를 보존하면서 파일 크기를 줄입니다. 압축된 ODG 파일은 설계 및 다이어그램 작업에서 저장 효율성과 성능을 향상시킵니다.
+
+
+
+Python API를 사용하여 자동화된 ODG 압축, 일괄 처리 및 다른 형식으로의 변환을 지원하여 사무, 교육 및 출판 환경에서 확장 가능한 그래픽 관리를 제공합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **다이어그램 및 벡터 저장**  
+
+&nbsp; ODG 파일을 압축하여 디스크 공간 사용량을 줄입니다.
+
+
+
+* **협업 및 공유**  
+
+&nbsp; 더 작은 파일은 팀 및 플랫폼 간에 더 빠르게 전송됩니다.
+
+
+
+* **디지털 아카이브**  
+
+&nbsp; 시간이 지남에 따라 다이어그램 및 벡터 그래픽을 효율적으로 저장합니다.
+
+
+
+* **워크플로 최적화**  
+
+&nbsp; 압축된 ODG 파일은 응용 프로그램에서 렌더링 속도를 향상시킵니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 ODG 압축**  
+
+&nbsp; 여러 그래픽 파일의 크기를 자동으로 줄입니다.
+
+
+
+* **레이어 및 객체 최적화**  
+
+&nbsp; 사용되지 않는 요소를 제거하고 포함된 객체를 자동으로 압축합니다.
+
+
+
+* **사무 파이프라인 통합**  
+
+&nbsp; 업로드하거나 버전 관리 시 ODG 파일을 압축합니다.
+
+
+
+* **동적 압축 수준**  
+
+&nbsp; 파일 복잡성과 사용 사례에 따라 최적화를 조정합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

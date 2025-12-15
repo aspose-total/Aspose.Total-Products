@@ -78,7 +78,75 @@ Daha fazla ayrıntı için lütfen [Product Documentation](https://docs.aspose.c
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+XLSM dosyaları (makro etkin Excel çalışma kitapları), gömülü makroları koruyan sıkıştırma gerektirirken depolama ve paylaşımı optimize eder.
+
+
+
+Python API'leri otomatik XLSM sıkıştırma sağlar, makro işlevselliğini korur ve ölçeklenebilir iş akışı entegrasyonunu sağlar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Makro Koruma**  
+
+&nbsp; Gömülü makroları bozmadan XLSM dosyalarını güvenli bir şekilde sıkıştırın.
+
+
+
+* **Daha Hızlı Paylaşım ve İş Birliği**  
+
+&nbsp; Daha küçük XLSM dosyaları, takım iş akışlarını ve bulut yüklemelerini kolaylaştırır.
+
+
+
+* **Otomatik Arşivleme**  
+
+&nbsp; Sıkıştırma, makro etkin çalışma kitapları için verimli depolama sağlar.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu XLSM Sıkıştırma**  
+
+&nbsp; Python betikleri otomatik olarak birden fazla makro etkin dosyayı işleyebilir.
+
+
+
+* **BI ve DMS Platformlarıyla Entegrasyon**  
+
+&nbsp; Sıkıştırılmış dosyalar otomatik sistemlerde yönetilebilir.
+
+
+
+* **Koşullu Sıkıştırma**  
+
+&nbsp; Otomasyon, büyük makrolara veya ağır medya içeriğine sahip dosyaları hedefleyebilir.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -43,9 +43,79 @@ Dla programisty, który próbuje tworzyć pliki DOTM za pomocą aplikacji Python
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM — `.dotm` szablony łączą szablony z obsługą makr, umożliwiając tworzenie wielokrotnie używanych szablonów z obsługą makr do zautomatyzowanych zachowań dokumentów. Tworzenie plików DOTM za pomocą Pythona umożliwia dystrybucję szablonów zawierających zatwierdzone automatyzacje VBA, kontrolując zawartość makr programowo.
+
+
+
+Ten format jest odpowiedni dla organizacji, które potrzebują powtarzalnych szablonów z obsługą makr do zadań związanych z lokalną automatyzacją, zapewniając jednocześnie kontrolę nad makrami, ich walidację i opcjonalne podpisywanie podczas procesu tworzenia szablonu.
+
+Automatyzacja umożliwia bezpieczne zarządzanie cyklem życia makr — generowanie, analizę, podpisywanie i wdrażanie — w ramach potoków CI/CD.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe Zastosowania" %}}
+
+
+
+* **Biblioteki Szablonów z Obsługą Makr**
+
+  &nbsp; Dostarczaj szablony DOTM, które zawierają powtarzalne automatyzacje dla lokalnych użytkowników.
+
+
+
+* **Kontrolowana Automatyzacja Szablonów**
+
+  &nbsp; Upewnij się, że szablony zawierają tylko sprawdzone makra do wewnętrznych procesów roboczych.
+
+
+
+* **Generowanie Dokumentów na Podstawie Szablonów**
+
+  &nbsp; Użyj DOTM jako źródła do generowania instancji DOCM/DOCX z wbudowanymi zachowaniami.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze Automatyzacji" %}}
+
+
+
+* **Potok CI do Kontroli Jakości Szablonu**
+
+  &nbsp; Automatyczna walidacja zachowania VBA i integralności szablonu przed dystrybucją.
+
+
+
+* **Bezpieczne Wdrażanie Szablonów**
+
+  &nbsp; Osadzaj podpisy cyfrowe i przesyłaj pliki DOTM do użytkowników za pomocą zarządzanych kanałów.
+
+
+
+* **Dynamiczne Wstrzykiwanie Makr**
+
+  &nbsp; Programowo aktualizuj moduły makr wewnątrz szablonów DOTM z bezpiecznych magazynów.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

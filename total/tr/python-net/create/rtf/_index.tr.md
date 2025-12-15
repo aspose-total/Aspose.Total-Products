@@ -43,9 +43,79 @@ Python uygulaması aracılığıyla RTF dosyaları oluşturmaya çalışan bir g
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+RTF — Zengin Metin Biçimi (RTF), birçok düzenleyici tarafından desteklenen platformlar arası bir metin biçimidir; Python tabanlı RTF oluşturma, geniş bir müşteri yelpazesince kabul edilmesi gereken basit biçimlendirilmiş belgeler üretildiğinde faydalıdır. RTF, OOXML'in gelişmiş özelliklerinden yoksundur ancak taşınabilir biçimlendirilmiş metinlerde, basit tablolarda ve iç içe nesnelerde başarılıdır.
+
+
+
+RTF otomasyonu, posta birleştirme, düz biçimli mektuplar veya maksimum uyumluluk gerektiren sistemler için uygundur. Programlı oluşturma, RTF parçalarını şablonlama veya doğrudan RTF belirteçleri oluşturan kütüphanelerin kullanılmasıyla yapılabilir.
+
+Otomasyon, hafif veya eski tüketici hedefleyen toplu RTF dışa aktarmalarını ve dönüşüm borularını basitleştirir.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ana Kullanım Alanları" %}}
+
+
+
+* **Platformlar Arası Mektup Oluşturma**
+
+&nbsp; Hafif, taşınabilir biçimlendirilmiş metni tercih eden müşteriler için RTF belgeleri üretin.
+
+
+
+* **Basit Belgeler İçin Posta Birleştirme**
+
+&nbsp; Geniş uyumluluk için RTF'de kişiselleştirilmiş mektuplar ve bildirimler oluşturun.
+
+
+
+* **OOXML Olmayan Sistemlerle Veri Alışverişi**
+
+&nbsp; İçeriği RTF'ye aktararak DOCX veya ikili Word dosyalarını işleyemeyen sistemlere içerik ihraç edin.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Otomasyon Senaryoları" %}}
+
+
+
+* **Toplu RTF Dışa Aktarmaları**
+
+&nbsp; Yapılandırılmış veri beslemelerinden binlerce RTF dosyasının otomatik olarak oluşturulmasını sağlayın.
+
+
+
+* **Biçim Yedekleme Boruları**
+
+&nbsp; Tüketiciler DOCX/DOCM ile başa çıkamadığında otomatik olarak RTF sürümleri sağlayın.
+
+
+
+* **Basit Şablonlama Motorları**
+
+&nbsp; Otomatik bir iş akışının parçası olarak RTF şablonlarında programlı belirteç değiştirme kullanın.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}} 
+ 
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

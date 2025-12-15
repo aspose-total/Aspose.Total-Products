@@ -70,7 +70,75 @@ Có các tùy chọn thay thế để cài đặt '[Aspose.Words for Python via 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+So sánh RTF nhận diện các thay đổi trong văn bản, font chữ, màu sắc, quy tắc định dạng và cấu trúc tài liệu trong các tệp Rich Text Format. Đảm bảo sự rõ ràng và nhất quán trong các tài liệu nhẹ.
+
+
+
+So sánh RTF tự động hỗ trợ xử lý nhanh, xác thực có thể mở rộng và tích hợp vào quy trình làm việc tài liệu động.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+
+
+* **Phát Hiện Thay Đổi Định Dạng**  
+
+&nbsp; Theo dõi các cập nhật trong kiểu dáng hình ảnh.
+
+
+
+* **Đánh Giá Sửa Đổi Nội Dung**  
+
+&nbsp; Đánh dấu các chỉnh sửa và điều chỉnh.
+
+
+
+* **Nhất Quán Khi Chỉnh Sửa Trên Nhiều Ứng Dụng**  
+
+&nbsp; Xác định các biến thể do các biên tập viên khác nhau gây ra.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+
+
+* **Xử Lý RTF Hàng Loạt**  
+
+&nbsp; So sánh nhiều tài liệu theo cách lập trình.
+
+
+
+* **Kiểm Tra QA Tự Động**  
+
+&nbsp; Đảm bảo tính nguyên vẹn của định dạng.
+
+
+
+* **Các Luồng Trích Xuất Sự Khác Biệt**  
+
+&nbsp; Tạo ra đầu ra so sánh có cấu trúc.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

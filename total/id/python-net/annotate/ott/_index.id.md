@@ -75,7 +75,65 @@ Untuk lebih jelasnya silakan merujuk ke [Dokumentasi Produk](https://docs.aspose
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Anotasi OTT meningkatkan dokumen teks template dengan menyematkan catatan panduan, placeholder, dan metadata terstruktur dalam template berformat terbuka. Hal ini memastikan produksi dokumen yang konsisten dan instruksi pengguna akhir yang lebih jelas.
+
+Automasi meningkatkan alur kerja OTT dengan menerapkan aturan template, memperbarui teks anotasi, dan menegakkan struktur standar.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Instruksi Template**  
+
+  Berikan panduan untuk menyelesaikan setiap bagian.
+
+* **Standar Format**  
+
+  Sorot area yang memerlukan gaya tertentu.
+
+* **Dokumentasi Revisi**  
+
+  Tandai perubahan dalam pembaruan template.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Pembaruan Template yang Didorong oleh Skrip**  
+
+  Terapkan instruksi baru secara otomatis di seluruh template.
+
+* **Penanda Kepatuhan**  
+
+  Identifikasi dan anotasikan bidang yang diperlukan yang hilang.
+
+* **Penegakan Aturan Dinamis**  
+
+  Tambahkan catatan yang dipicu oleh logika template.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

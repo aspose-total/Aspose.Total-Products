@@ -78,7 +78,87 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Сжатие XPS (XML Paper Specification) позволяет уменьшить размер документов с фиксированным макетом, сохраняя при этом качество, векторную графику и встроенные шрифты. Сжатые файлы XPS повышают эффективность хранения, передачи и отображения на различных устройствах.
+
+
+
+Python API позволяют автоматизировать сжатие XPS, пакетную обработку и интеграцию в рабочие процессы документов для масштабируемого управления контентом и распространения.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключевые сценарии использования" %}}
+
+
+
+* **Архивирование документов**  
+
+&nbsp; Сжимайте файлы XPS для долгосрочного хранения без потери качества.
+
+
+
+* **Эффективное распространение**  
+
+&nbsp; Меньшие файлы XPS передаются быстрее по сети или между устройствами.
+
+
+
+* **Рабочие процессы печати и издания**  
+
+&nbsp; Оптимизированный XPS повышает скорость отображения и печати.
+
+
+
+* **Цифровые библиотеки**  
+
+&nbsp; Сократите объем хранения для коллекций документов с фиксированным макетом.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарии автоматизации" %}}
+
+
+
+* **Пакетное сжатие XPS**  
+
+&nbsp; Автоматизируйте уменьшение размера нескольких файлов XPS.
+
+
+
+* **Оптимизация встроенных ресурсов**  
+
+&nbsp; Автоматическое сжатие шрифтов, изображений и графики.
+
+
+
+* **Интеграция в рабочие процессы**  
+
+&nbsp; Динамическое сжатие файлов XPS при загрузке в CMS, DAM или печатные потоки.
+
+
+
+* **Динамические уровни сжатия**  
+
+&nbsp; Регулируйте исходя из содержания документа, разрешения или предполагаемого вывода.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

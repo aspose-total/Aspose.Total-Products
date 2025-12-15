@@ -101,7 +101,75 @@ Untuk lebih jelasnya silakan merujuk ke [Product Documentation](https://docs.asp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+File-file PPSM (macro-enabled PowerPoint Show) memerlukan kompresi yang mempertahankan makro sambil mengurangi ukuran file untuk berbagi dan penyimpanan yang efisien.
+
+
+
+Automasi berbasis Python memungkinkan kompresi PPSM yang dapat diskalakan sambil mempertahankan fungsionalitas makro.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+
+
+* **Pemeliharaan Makro**  
+
+&nbsp; Kompres file PPSM dengan aman tanpa merusak makro.
+
+
+
+* **Berbagi Lebih Cepat**  
+
+&nbsp; File yang lebih kecil memungkinkan distribusi yang efisien ke tim atau penyimpanan cloud.
+
+
+
+* **Manajemen Arsip**  
+
+&nbsp; Kompresi otomatis memastikan penyimpanan jangka panjang file tayangan yang diaktifkan makro.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+
+
+* **Kompresi PPSM Batch**  
+
+&nbsp; Skrip Python dapat memproses beberapa file tayangan yang diaktifkan makro secara otomatis.
+
+
+
+* **Integrasi dengan Sistem Alur Kerja**  
+
+&nbsp; File PPSM yang terkompresi dapat digunakan dalam alur kerja presentasi otomatis.
+
+
+
+* **Kompresi Bersyarat**  
+
+&nbsp; Sasar file berdasarkan penggunaan makro atau media yang disematkan untuk optimisasi.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

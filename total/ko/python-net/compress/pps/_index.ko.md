@@ -101,7 +101,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+PPS 파일(PowerPoint Show)은 압축을 통해 저장 공간을 줄이고 발표 중 재생 성능을 향상시킵니다.
+
+
+
+Python API는 빠른 공유와 저장 효율성을 위해 자동 PPS 압축을 지원합니다.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+
+
+* **파일 최적화 표시**  
+
+&nbsp; 슬라이드 내용이나 전환에 영향을 주지 않고 PPS 파일을 압축합니다.
+
+
+
+* **빠른 배포**  
+
+&nbsp; 작은 파일은 빠른 공유와 클라우드 업로드를 용이하게 합니다.
+
+
+
+* **보관 효율성**  
+
+&nbsp; 자동 압축은 쇼 파일의 장기 저장을 지원합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+
+
+* **일괄 PPS 압축**  
+
+&nbsp; Python 스크립트를 사용하여 여러 쇼 파일을 자동으로 압축할 수 있습니다.
+
+
+
+* **발표 시스템 통합**  
+
+&nbsp; 압축된 PPS 파일은 자동화된 워크플로에 동적으로 로드될 수 있습니다.
+
+
+
+* **조건부 압축**  
+
+&nbsp; 대규모 프레젠테이션이나 미디어 풍부한 파일을 대상으로 압축합니다.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

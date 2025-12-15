@@ -100,7 +100,75 @@ otherformats: DOC DOT DOCX DOCM DOTX DOTM RTF HTML MHTML MOBI CHM ODT OTT TXT MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTX文件是不带宏的现代Word模板，通过压缩实现存储效率和更快的共享。
+
+
+
+基于Python的自动化允许在保留格式、布局和嵌入资源的同时压缩DOTX文件。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="关键用例" %}}
+
+
+
+* **模板存储效率**  
+
+  &nbsp; 在保持设计一致性的同时减小DOTX文件大小。
+
+
+
+* **快速模板共享**  
+
+  &nbsp; 更小的文件确保团队间更快速的分发。
+
+
+
+* **档案管理**  
+
+  &nbsp; 自动压缩支持长期模板保留。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **批量DOTX压缩**  
+
+  &nbsp; Python脚本可以一次压缩多个模板文件。
+
+
+
+* **与文档系统集成**  
+
+  &nbsp; 可以动态管理压缩的模板工作流程中。
+
+
+
+* **智能压缩规则**  
+
+  &nbsp; 根据文件大小、嵌入对象或图像密集型模板自动化。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

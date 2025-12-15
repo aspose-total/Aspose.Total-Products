@@ -43,9 +43,79 @@ Per uno sviluppatore, chi sta cercando di creare file DOTX tramite l'applicazion
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTX — `.dotx` è il modello senza macro (OOXML) ideale per la distribuzione sicura dei modelli e la generazione deterministica dei documenti. Le API di Python possono produrre modelli DOTX con stili, controlli del contenuto e segnaposti del contenuto, consentendo una modellazione robusta e senza macro per i sistemi automatizzati.
+
+
+
+DOTX è adatto agli ambienti che vietano le macro per motivi di sicurezza ma che richiedono comunque una modellazione coerente e la popolazione dinamica del contenuto. L'automazione consente una modellazione sicura e scalabile e la generazione successiva di istanze DOCX senza incorporare codice eseguibile.
+
+La generazione di modelli programmabile supporta segnaposti basati su schema, controlli del contenuto e convalida del modello.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+
+
+* **Distribuzione Sicura dei Modelli**
+
+&nbsp; Crea modelli DOTX senza macro per una distribuzione ampia in ambienti sicuri.
+
+
+
+* **Modelli di Moduli e Controlli del Contenuto**
+
+&nbsp; Crea modelli DOTX con controlli del contenuto per l'automazione successiva.
+
+
+
+* **Assemblaggio dei Documenti basato sul Modello**
+
+&nbsp; Utilizza i modelli DOTX come fonte autorevole per la creazione di documenti programmata.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+
+
+* **Flussi di Lavoro dei Modelli Sicuri**
+
+&nbsp; Automatizza la generazione di DOTX e applica politiche che impediscono l'inclusione di macro.
+
+
+
+* **Lavori di Convalida del Modello**
+
+&nbsp; Esegui controlli automatizzati per garantire che i segnaposti e gli stili corrispondano alle aspettative dello schema.
+
+
+
+* **Utilizzo del Modello basato su API**
+
+&nbsp; Fornisci modelli DOTX tramite un'API interna per la generazione on-demand di DOCX.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

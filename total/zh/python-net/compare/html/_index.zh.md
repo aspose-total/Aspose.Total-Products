@@ -70,7 +70,75 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT TXT PDF PPT PPS PPTX POTX
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+HTML比较可识别网页或导出文档文件中标记、内容块、标签、样式和内联格式的差异。它确保呈现和内容展示的准确性。
+
+
+
+自动化的HTML比较支持可扩展的网页内容质量控制，文档门户和系统生成的HTML导出。
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="主要用例" %}}
+
+
+
+* **网页内容修订跟踪**  
+
+&nbsp; 突出文本和布局元素的更新。
+
+
+
+* **导出文档一致性检查**  
+
+&nbsp; 确保HTML导出与预期结构匹配。
+
+
+
+* **技术文档更新**  
+
+&nbsp; 检测代码块或信息部分的更改。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="自动化场景" %}}
+
+
+
+* **标记更改检测**  
+
+&nbsp; 自动识别标记级别的修改。
+
+
+
+* **批量HTML比较**  
+
+&nbsp; 验证大量HTML输出。
+
+
+
+* **自动化发布流水线**  
+
+&nbsp; 将检查集成到持续内容交付系统中。
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

@@ -78,7 +78,75 @@ További részletekért lásd a [Product Documentation](https://docs.aspose.com/
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+```
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Az XLSB fájlok (bináris Excel munkafüzetek) tömörítésből profitálnak a fájlméret csökkentése érdekében, miközben megőrzik a gyors betöltési időket és bonyolult számításokat.
+
+
+
+A Python API-k lehetővé teszik az automatizált XLSB tömörítést, támogatva ezzel a nagy léptékű táblázatkezelést és az integrációt a vállalati munkafolyamatokkal.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú Felhasználási Esetek" %}}
+
+
+
+* **Bináris Munkafüzet Optimalizálás**  
+
+&nbsp; Tömörítsd az XLSB fájlokat anélkül, hogy befolyásolná a teljesítményt vagy a számításokat.
+
+
+
+* **Gyorsabb Fájlátvitel**  
+
+&nbsp; Kisebb XLSB fájlok lehetővé teszik a gyors megosztást e-mailben vagy felhőn keresztül.
+
+
+
+* **Hatékony Archiválás**  
+
+&nbsp; Az automatizált tömörítés támogatja a bináris munkafüzetek hosszú távú tárolását.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási Forgatókönyvek" %}}
+
+
+
+* **Tömeges XLSB Tömörítés**  
+
+&nbsp; Python szkriptek automatikusan tömöríthetik a több XLSB fájlt.
+
+
+
+* **Integráció Analitikai és BI Eszközökkel**  
+
+&nbsp; A tömörített XLSB fájlokat zökkenőmentesen feldolgozhatják az automatizált munkafolyamatokban.
+
+
+
+* **Szelektív Tömörítés**  
+
+&nbsp; Az automatizálás csak a nagy vagy média-nehéz XLSB fájlokat tömörítheti.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+```
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
