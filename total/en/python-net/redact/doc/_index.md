@@ -74,7 +74,63 @@ For more details please refer to [Product Documentation](https://docs.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Document redaction using Python APIs for DOC files enables organizations to securely remove sensitive information from legacy word-processing documents that are still widely used in enterprises. This capability is critical for compliance, data protection, and safe document sharing in regulated environments.
+
+
+
+By integrating Python-based redaction into automated workflows, DOC files can be processed at scale, ensuring consistent enforcement of data privacy rules while reducing manual effort and human error.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **Legacy Document Compliance**  &nbsp; Redact confidential data from older DOC files to meet regulatory and audit requirements.
+
+
+
+* **Secure Internal Sharing**  &nbsp; Remove sensitive sections before distributing documents across departments or teams.
+
+
+
+* **Historical Archive Sanitization**  &nbsp; Clean archived DOC files to make them safe for long-term storage or public access.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **Batch Redaction Pipelines**  &nbsp; Automate the redaction of thousands of DOC files using scheduled Python jobs.
+
+
+
+* **Rule-Based Text Masking**  &nbsp; Apply predefined patterns to automatically detect and redact sensitive terms.
+
+
+
+* **Document Intake Automation**  &nbsp; Integrate redaction into ingestion pipelines before documents enter storage systems.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

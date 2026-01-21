@@ -98,7 +98,93 @@ For more details please refer to [Product Documentation](https://docs.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Document metadata extraction for **DOCM** files via Python APIs helps systems inspect document properties while accounting for macro-enabled content and its associated risk signals. This is valuable for governance, safe handling, and classification, especially when documents move across teams or environments.
+
+
+
+In automation workflows, DOCM metadata can drive dynamic controls—like security screening, conditional approvals, and restricted distribution—while enabling scalable indexing and reporting without opening files interactively.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **Macro-Aware Document Screening**
+
+  Use metadata to flag macro-enabled documents for additional review and controlled handling.
+
+
+
+* **Sensitive Workflow Classification**
+
+  Classify DOCM files based on embedded properties to apply stricter storage and access policies.
+
+
+
+* **Operational Provenance Tracking**
+
+  Capture authoring and modification history fields to trace where and when macro-enabled files were produced.
+
+
+
+* **Repository Health Reporting**
+
+  Generate reports on DOCM volume, age, and ownership to manage risk exposure at scale.
+
+
+
+* **Controlled Distribution Readiness**
+
+  Validate required metadata fields before allowing DOCM files into downstream sharing or publishing processes.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **Risk-Scored Intake Pipeline**
+
+  Automatically score DOCM files using metadata completeness and recency, then route to “review” or “approved” lanes.
+
+
+
+* **Restricted Storage Enforcement**
+
+  If a DOCM file is detected, automation moves it to a constrained location and applies stricter retention rules.
+
+
+
+* **Macro-Enabled Exception Alerts**
+
+  Trigger alerts when DOCM metadata indicates unexpected origins, unusual timestamps, or missing ownership fields.
+
+
+
+* **Automated Inventory Dashboards**
+
+  Continuously extract and aggregate DOCM metadata into dashboards for governance and operational oversight.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

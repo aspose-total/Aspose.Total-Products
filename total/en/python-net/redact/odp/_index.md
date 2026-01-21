@@ -77,7 +77,65 @@ For more details please refer to [Product Documentation](https://docs.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Document redaction using Python APIs for ODP files enables secure handling of presentation content created in open document standards. This is essential when sharing slides that may contain sensitive or proprietary information.
+
+
+
+Automation ensures that ODP presentations can be sanitized consistently, supporting scalable and repeatable privacy controls across presentation assets.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **Confidential Slide Sharing**  &nbsp; Remove sensitive data from presentation slides before distribution.
+
+
+
+* **Open Format Governance**  &nbsp; Enforce data protection policies on open-standard presentation files.
+
+
+
+* **Training Material Sanitization**  &nbsp; Redact internal references before publishing learning content.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **Slide-Level Redaction Rules**  &nbsp; Automatically redact content from specific slides or layouts.
+
+
+
+* **Presentation Build Pipelines**  &nbsp; Integrate redaction into automated presentation generation workflows.
+
+
+
+* **Scheduled Compliance Scans**  &nbsp; Periodically sanitize stored ODP files using automated jobs.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

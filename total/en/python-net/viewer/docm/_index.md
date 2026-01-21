@@ -90,7 +90,63 @@ For more details please refer to [Product Documentation](https://docs.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOCM document viewing with Python APIs enables safe inspection of macro-enabled documents without executing embedded logic.
+
+This is essential for controlled environments where visibility is required without security risk.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **Macro-Aware Document Review**  &nbsp; View content while keeping macros inactive.
+
+
+
+* **Security-Oriented Inspection**  &nbsp; Examine documents for structure and text without execution.
+
+
+
+* **Controlled Document Access**  &nbsp; Enable safe viewing in restricted or automated systems.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **Secure Intake Pipelines**  &nbsp; Python automation displays DOCM content without triggering macros.
+
+
+
+* **Compliance Review Automation**  &nbsp; Documents are viewed as part of automated policy checks.
+
+
+
+* **Pre-Approval Workflows**  &nbsp; Automated previews support human-in-the-loop approvals.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
@@ -141,7 +197,7 @@ For more details please refer to [Product Documentation](https://docs.aspose.com
   </div>
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

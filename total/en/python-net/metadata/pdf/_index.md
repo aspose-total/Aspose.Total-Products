@@ -97,7 +97,93 @@ For more details please refer to [Product Documentation](https://docs.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Document metadata extraction for **PDF** files via Python APIs helps systems capture core properties—such as title, author, producer, creation and modification dates, and embedded identifiers—supporting governance and discovery even when content is primarily fixed-layout. This matters for auditability, cataloging, and operational handling of high-volume PDF repositories.
+
+
+
+In automation pipelines, PDF metadata can drive indexing, routing, retention enforcement, and batch processing—making it practical to integrate PDFs into scalable workflows without manual triage.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **Digital Archive Cataloging**
+
+  Extract PDF metadata to build a reliable inventory of documents with searchable attributes.
+
+
+
+* **Compliance and Retention Audits**
+
+  Use creation/modification timestamps to validate retention timelines and detect inconsistencies.
+
+
+
+* **Producer and Source Attribution**
+
+  Capture producer-related properties to understand content origins and processing lineage.
+
+
+
+* **Batch Classification Signals**
+
+  Use metadata fields to categorize PDFs into domains like policy, invoices, manuals, or reports.
+
+
+
+* **Operational Quality Checks**
+
+  Flag PDFs with missing or suspicious metadata as candidates for remediation or manual review.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **Automated Intake Triage**
+
+  When PDFs arrive, extract metadata and route them into processing lanes based on completeness and sensitivity rules.
+
+
+
+* **Metadata-Driven Index Updates**
+
+  Automatically update a search index whenever a PDF is added or replaced, using metadata for fast retrieval.
+
+
+
+* **Retention Enforcement Workflow**
+
+  Run scheduled jobs that identify PDFs past retention limits and generate deletion or archival tasks.
+
+
+
+* **Batch Reporting and Dashboards**
+
+  Aggregate extracted PDF metadata into periodic reports for governance, compliance, and operational oversight.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

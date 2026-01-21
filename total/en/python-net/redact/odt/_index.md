@@ -74,7 +74,63 @@ For more details please refer to [Product Documentation](https://docs.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Document redaction using Python APIs for ODT files allows secure modification of open document text files without altering their core structure. This supports transparent and standards-based document processing.
+
+
+
+By automating ODT redaction, organizations can efficiently manage sensitive content across open-source and interoperable document ecosystems.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **Privacy-Safe Document Exchange**  &nbsp; Redact personal data before sharing ODT files externally.
+
+
+
+* **Policy-Driven Content Removal**  &nbsp; Enforce redaction rules aligned with organizational policies.
+
+
+
+* **Open Document Publishing**  &nbsp; Prepare sanitized documents for public or cross-platform use.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **Metadata and Text Redaction**  &nbsp; Automatically remove sensitive content from both body text and metadata.
+
+
+
+* **Bulk Open-Format Processing**  &nbsp; Redact large volumes of ODT files in a single automated run.
+
+
+
+* **Integration with CMS Pipelines**  &nbsp; Apply redaction before documents are published or syndicated.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

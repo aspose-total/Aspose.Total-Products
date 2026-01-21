@@ -90,7 +90,63 @@ For more details please refer to [Product Documentation](https://docs.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+DOTM viewing with Python APIs enables safe inspection of macro-enabled Word templates without executing embedded logic.
+
+This is essential for controlled environments where visibility and security must coexist.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **Macro-Enabled Template Review**  &nbsp; View template content while keeping macros inactive.
+
+
+
+* **Security-Oriented Inspection**  &nbsp; Inspect structure without exposing systems to execution risks.
+
+
+
+* **Template Approval Processes**  &nbsp; Review templates prior to controlled distribution.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **Secure Template Intake**  &nbsp; Python viewers display DOTM files safely during onboarding.
+
+
+
+* **Governance Automation**  &nbsp; Templates are reviewed as part of automated policy checks.
+
+
+
+* **Pre-Use Validation Pipelines**  &nbsp; Automated previews support approval workflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

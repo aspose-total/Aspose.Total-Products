@@ -80,7 +80,63 @@ For more details please refer to [Product Documentation](https://docs.aspose.com
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+ODT is an open document format designed for structured text documents. Splitting ODT files enables section-level processing and structured content handling.
+
+
+
+Using Python APIs, ODT splitting becomes scalable and suitable for automated document pipelines.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **Structured Content Extraction**  &nbsp; Extract chapters or sections independently.
+
+
+
+* **Open-Format Archiving**  &nbsp; Preserve and manage content at a granular level.
+
+
+
+* **Collaborative Document Processing**  &nbsp; Enable parallel workflows on document sections.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **XML-Based Section Parsing**  &nbsp; Python identifies structural markers for splitting.
+
+
+
+* **Automated Content Classification**  &nbsp; Extracted sections are categorized programmatically.
+
+
+
+* **Workflow-Oriented Document Routing**  &nbsp; Sections flow to different systems automatically.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">

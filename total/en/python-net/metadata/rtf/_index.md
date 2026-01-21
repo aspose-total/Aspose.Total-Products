@@ -98,7 +98,95 @@ For more details please refer to [Product Documentation](https://docs.aspose.com
 {{< /blocks/products/pf/agp/feature-section >}}
 
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+
+
+Document metadata extraction for **RTF** files via Python APIs helps systems capture basic file properties and embedded descriptors for rich-text documents often used for portability and legacy compatibility. This supports indexing, governance, and lifecycle tracking for repositories containing mixed document types.
+
+
+
+In automated workflows, RTF metadata can drive classification, routing, and catalog synchronization—enabling scalable handling of legacy or exchange-oriented documents without manual review.
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+
+
+* **Mixed-Format Repository Indexing**
+
+  Extract RTF metadata to improve discoverability and unify reporting across diverse document stores.
+
+
+
+* **Legacy Content Governance**
+
+  Use timestamps and authorship fields to establish stewardship and refresh cycles for older documents.
+
+
+
+* **Bulk Classification for Operations**
+
+  Normalize available RTF properties into structured tags for routing and access control.
+
+
+
+* **Migration and Conversion Planning**
+
+  Audit RTF metadata to prioritize conversion targets and identify missing ownership details.
+
+
+
+* **Quality Control for Intake**
+
+  Flag RTF files with incomplete or inconsistent metadata for remediation workflows.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+
+
+* **Legacy Intake Normalization**
+
+  Automatically extract RTF metadata and transform it into standardized fields for a central document registry.
+
+
+
+* **Conversion Queue Orchestration**
+
+  Route RTF files into conversion pipelines based on metadata completeness and staleness thresholds.
+
+
+
+* **Automated Stewardship Assignment**
+
+  Create ownership tasks for RTF files lacking maintainer properties, using directory context plus metadata signals.
+
+
+
+* **Periodic Repository Health Reports**
+
+  Generate scheduled summaries of RTF metadata coverage, missing fields, and aging distribution for governance tracking.
+
+
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
